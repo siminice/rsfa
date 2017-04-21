@@ -1,0 +1,8 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/brazil/serie-a/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/bra/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/bra/results.html /Users/radu/rsssf/sat/web/bra/first.html
+./httrack "http://soccerway.com/national/brazil/serie-b/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/bra/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/bra/results.html /Users/radu/rsssf/sat/web/bra/serie-b.html
+cd /Users/radu/rsssf/sat/bra

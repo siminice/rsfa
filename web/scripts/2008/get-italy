@@ -1,0 +1,13 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/italy/first" -O "/Users/radu/rsssf/sat/web/ita/" --get -%v
+./httrack "http://soccerway.com/national/italy/serie-b" -O "/Users/radu/rsssf/sat/web/ita/" --get -%v
+./httrack "http://soccerway.com/national/italy/serie-c1/2008-2009/girone-a" -O "/Users/radu/rsssf/sat/web/ita/" --get -%v
+./httrack "http://soccerway.com/national/italy/serie-c1/2008-2009/girone-b" -O "/Users/radu/rsssf/sat/web/ita/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/ita/girone-a.html /Users/radu/rsssf/sat/web/ita/c1.girone-a.html
+mv -f /Users/radu/rsssf/sat/web/ita/girone-b.html /Users/radu/rsssf/sat/web/ita/c1.girone-b.html
+./httrack "http://soccerway.com/national/italy/serie-c2/2008-2009/girone-a" -O "/Users/radu/rsssf/sat/web/ita/" --get -%v
+./httrack "http://soccerway.com/national/italy/serie-c2/2008-2009/girone-b" -O "/Users/radu/rsssf/sat/web/ita/" --get -%v
+./httrack "http://soccerway.com/national/italy/serie-c2/2008-2009/girone-c" -O "/Users/radu/rsssf/sat/web/ita/" --get -%v
+cd /Users/radu/rsssf/sat/ita

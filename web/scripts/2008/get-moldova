@@ -1,0 +1,6 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/moldova/first" -O "/Users/radu/rsssf/sat/web/mol/" --get -%v
+./httrack "http://soccerway.com/national/moldova/divizia-a" -O "/Users/radu/rsssf/sat/web/mol/" --get -%v
+cd /Users/radu/rsssf/sat/mol

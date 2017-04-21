@@ -1,0 +1,15 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "est" "a" "meistriliiga" "regular-season"
+${CURL} ${SW}/estonia/meistriliiga/2017/regular-season/r39318/matches/ > ${DIR}/est/a.html
+
+printf " %-3s > %-3s > %s > %s\n" "est" "b" "esiliiga" "regular-season"
+${CURL} ${SW}/estonia/esiliiga/2017/regular-season/r39319/matches/ > ${DIR}/est/b.html
+
+printf " %-3s > %-3s > %s > %s\n" "est" "c" "esiliiga-b" "regular-season"
+${CURL} ${SW}/estonia/esiliiga-b/2017/regular-season/r39314/matches/ > ${DIR}/est/c.html
+

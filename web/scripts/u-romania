@@ -1,0 +1,14 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/rom
+#update a.2017 ../web/rom/a.html
+update a.2017 ../web/rom/a1.html
+update a.2017 ../web/rom/a2.html
+
+update b.2017 ../web/rom/b.html
+#update c1.2017 ../web/rom/c1.html
+#update c2.2017 ../web/rom/c2.html
+#update c3.2017 ../web/rom/c3.html
+#update c4.2017 ../web/rom/c4.html
+#update c5.2017 ../web/rom/c5.html
+

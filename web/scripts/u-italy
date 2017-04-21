@@ -1,0 +1,11 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/ita
+update a.2017 ../web/ita/a.html
+update b.2017 ../web/ita/b.html
+
+update c1.2017 ../web/ita/c1.html
+update c2.2017 ../web/ita/c2.html
+update c3.2017 ../web/ita/c3.html
+
+

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+wget $1 2&> log
+rm -f index.html*
+grep following ./log | tail -n 1 | cut -d ' ' -f 2

@@ -1,0 +1,7 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/geo
+update a.2017 ../web/geo/a.html
+update b.2017 ../web/geo/b.html
+update c.2017 ../web/geo/c.html -g 2
+

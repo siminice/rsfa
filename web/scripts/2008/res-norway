@@ -1,0 +1,16 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/norway/tippeligaen/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/nor/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/nor/results.html /Users/radu/rsssf/sat/web/nor/tippeligaen.html
+./httrack "http://soccerway.com/national/norway/adeccoligaen/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/nor/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/nor/results.html /Users/radu/rsssf/sat/web/nor/adeccoligaen.html
+./httrack "http://soccerway.com/national/norway/2-divisjon/2008/avdeling-1//results" -O"/Users/radu/rsssf/sat/web/nor/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/nor/results.html /Users/radu/rsssf/sat/web/nor/avdeling-1.html
+./httrack "http://soccerway.com/national/norway/2-divisjon/2008/avdeling-2//results" -O "/Users/radu/rsssf/sat/web/nor/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/nor/results.html /Users/radu/rsssf/sat/web/nor/avdeling-2.html
+./httrack "http://soccerway.com/national/norway/2-divisjon/2008/avdeling-3//results" -O "/Users/radu/rsssf/sat/web/nor/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/nor/results.html /Users/radu/rsssf/sat/web/nor/avdeling-3.html
+./httrack "http://soccerway.com/national/norway/2-divisjon/2008/avdeling-4//results" -O "/Users/radu/rsssf/sat/web/nor/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/nor/results.html /Users/radu/rsssf/sat/web/nor/avdeling-4.html
+cd /Users/radu/rsssf/sat/nor

@@ -1,0 +1,8 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/faroe-islands/formula-deildin/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/fae/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/fae/results.html /Users/radu/rsssf/sat/web/fae/first.html
+./httrack "http://soccerway.com/national/faroe-islands/1-deild-menn/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/fae/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/fae/results.html /Users/radu/rsssf/sat/web/fae/1-deild-menn.html
+cd /Users/radu/rsssf/sat/fae

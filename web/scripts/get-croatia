@@ -1,0 +1,21 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "cro" "a" "1-hnl" "regular-season"
+${CURL} ${SW}/croatia/1-hnl/20162017/regular-season/r35882/matches/ > ${DIR}/cro/a.html
+
+printf " %-3s > %-3s > %s > %s\n" "cro" "b" "2-hnl" "regular-season"
+${CURL} ${SW}/croatia/2-hnl/20162017/regular-season/r36508/matches/ > ${DIR}/cro/b.html
+
+printf " %-3s > %-3s > %s > %s\n" "cro" "c1" "3-hnl" "west"
+${CURL} ${SW}/croatia/3-hnl/20162017/west/r37037/matches/ > ${DIR}/cro/c1.html
+
+printf " %-3s > %-3s > %s > %s\n" "cro" "c2" "3-hnl" "east"
+${CURL} ${SW}/croatia/3-hnl/20162017/east/r37035/matches/ > ${DIR}/cro/c2.html
+
+printf " %-3s > %-3s > %s > %s\n" "cro" "c3" "3-hnl" "south"
+${CURL} ${SW}/croatia/3-hnl/20162017/south/r37036/matches/ > ${DIR}/cro/c3.html
+

@@ -1,0 +1,11 @@
+#!/bin/csh
+
+#cd /Users/radu/Programs/httrack-3.40.3/src/
+/Users/radu/Programs/httrack-3.40.3/src/httrack "http://soccerway.com/national/$1/cup/$2/1st-round" -O "./html" --get -%v
+mv ./html/1st-round.html ./html/cup-$2-1st-round.html
+cp ./html/1st-round.html ./html/cup-$2.html
+foreach r (round-2 round-3 round-4 1-8th-finals quarter-finals semi-finals final)
+ /Users/radu/Programs/httrack-3.40.3/src/httrack "http://soccerway.com/national/$1/cup/$2/$r" -O "./html" --get -%v
+ mv ./html/$r.html ./html/cup-$2-$r.html
+ cat ./html/cup-$2-$r.html >> ./html/cup-$2.html
+end

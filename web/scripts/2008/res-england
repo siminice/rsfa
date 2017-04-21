@@ -1,0 +1,39 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/england/premiership/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/eng/results.html /Users/radu/rsssf/sat/web/eng/first.html
+./httrack "http://soccerway.com/national/england/championship/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/eng/results.html /Users/radu/rsssf/sat/web/eng/championship.html
+./httrack "http://soccerway.com/national/england/league-one/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/eng/results.html /Users/radu/rsssf/sat/web/eng/league-one.html
+./httrack "http://soccerway.com/national/england/league-two/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/eng/results.html /Users/radu/rsssf/sat/web/eng/league-two.html
+./httrack "http://soccerway.com/national/england/conference-national/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/eng/results.html /Users/radu/rsssf/sat/web/eng/conference-national.html
+./httrack "http://soccerway.com/national/england/conference-n--s/2008-2009/north//results" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/eng/results.html /Users/radu/rsssf/sat/web/eng/north.html
+./httrack "http://soccerway.com/national/england/conference-n--s/2008-2009/south//results" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/eng/results.html /Users/radu/rsssf/sat/web/eng/south.html
+
+./httrack "http://soccerway.com/national/england/non-league-premier/2008-2009/isthmian//results" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/eng/results.html /Users/radu/rsssf/sat/web/eng/isthmian.html
+./httrack "http://soccerway.com/national/england/non-league-premier/2008-2009/northern//results" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/eng/results.html /Users/radu/rsssf/sat/web/eng/northern.html
+./httrack "http://soccerway.com/national/england/non-league-premier/2008-2009/southern//results" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/eng/results.html /Users/radu/rsssf/sat/web/eng/southern.html
+
+#./httrack "http://soccerway.com/national/england/n-l-4-division-one/2008-2009/isthmian-north//results" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+#mv -f /Users/radu/rsssf/sat/web/eng/results.html /Users/radu/rsssf/sat/web/eng/isthmian-north.html
+#./httrack "http://soccerway.com/national/england/n-l-4-division-one/2008-2009/isthmian-south//results" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+#mv -f /Users/radu/rsssf/sat/web/eng/results.html /Users/radu/rsssf/sat/web/eng/isthmian-south.html
+#./httrack "http://soccerway.com/national/england/n-l-4-division-one/2008-2009/northern-north//results" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+#mv -f /Users/radu/rsssf/sat/web/eng/results.html /Users/radu/rsssf/sat/web/eng/northern-north.html
+#./httrack "http://soccerway.com/national/england/n-l-4-division-one/2008-2009/northern-south//results" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+#mv -f /Users/radu/rsssf/sat/web/eng/results.html /Users/radu/rsssf/sat/web/eng/northern-south.html
+#./httrack "http://soccerway.com/national/england/n-l-4-division-one/2008-2009/southern-midlands//results" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+#mv -f /Users/radu/rsssf/sat/web/eng/results.html /Users/radu/rsssf/sat/web/eng/southern-midlands.html
+#./httrack "http://soccerway.com/national/england/n-l-4-division-one/2008-2009/southern-south-and-west//results" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+#mv -f /Users/radu/rsssf/sat/web/eng/results.html /Users/radu/rsssf/sat/web/eng/southern-south-and-west.html
+
+cd /Users/radu/rsssf/sat/eng

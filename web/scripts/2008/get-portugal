@@ -1,0 +1,10 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/portugal/first" -O "/Users/radu/rsssf/sat/web/por/" --get -%v
+./httrack "http://soccerway.com/national/portugal/liga-vitalis" -O "/Users/radu/rsssf/sat/web/por/" --get -%v
+./httrack "http://soccerway.com/national/portugal/ii-divisao/2008-2009/serie-a" -O "/Users/radu/rsssf/sat/web/por/" --get -%v
+./httrack "http://soccerway.com/national/portugal/ii-divisao/2008-2009/serie-b" -O "/Users/radu/rsssf/sat/web/por/" --get -%v
+./httrack "http://soccerway.com/national/portugal/ii-divisao/2008-2009/serie-c" -O "/Users/radu/rsssf/sat/web/por/" --get -%v
+./httrack "http://soccerway.com/national/portugal/ii-divisao/2008-2009/serie-d" -O "/Users/radu/rsssf/sat/web/por/" --get -%v
+cd /Users/radu/rsssf/sat/por

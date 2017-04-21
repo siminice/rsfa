@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sed -i '/radu\/Programs/d' $1
+sed -i 's|Users|home|g' $1
+sed -i 's|\.\/httrack|httrack|g' $1

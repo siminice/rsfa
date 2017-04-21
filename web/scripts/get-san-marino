@@ -1,0 +1,9 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "rsm" "a" "campionato" "regular-season"
+${CURL} ${SW}/san-marino/campionato/20162017/regular-season/r38596/matches/ > ${DIR}/rsm/a.html
+

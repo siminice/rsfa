@@ -1,0 +1,8 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/lithuania/a-lyga/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/lit/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/lit/results.html /Users/radu/rsssf/sat/web/lit/first.html
+./httrack "http://soccerway.com/national/lithuania/1-lyga/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/lit/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/lit/results.html /Users/radu/rsssf/sat/web/lit/1-lyga.html
+cd /Users/radu/rsssf/sat/lit

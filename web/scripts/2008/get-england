@@ -1,0 +1,22 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/england/premier-league/2008-2009/regular-season/" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+./httrack "http://soccerway.com/national/england/championship/2008-2009/regular-season/" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+./httrack "http://soccerway.com/national/england/league-one/2008-2009/regular-season/" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+./httrack "http://soccerway.com/national/england/league-two/2008-2009/regular-season/" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+./httrack "http://soccerway.com/national/england/conference-national/2008-2009/regular-season/" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+./httrack "http://soccerway.com/national/england/conference-n--s/2008-2009/north" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+./httrack "http://soccerway.com/national/england/conference-n--s/2008-2009/south" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+./httrack "http://soccerway.com/national/england/non-league-premier/2008-2009/isthmian" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+./httrack "http://soccerway.com/national/england/non-league-premier/2008-2009/northern" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+./httrack "http://soccerway.com/national/england/non-league-premier/2008-2009/southern" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+
+#./httrack "http://soccerway.com/national/england/n-l-4-division-one/2008-2009/isthmian-north" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+#./httrack "http://soccerway.com/national/england/n-l-4-division-one/2008-2009/isthmian-south" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+#./httrack "http://soccerway.com/national/england/n-l-4-division-one/2008-2009/northern-north" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+#./httrack "http://soccerway.com/national/england/n-l-4-division-one/2008-2009/northern-south" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+#./httrack "http://soccerway.com/national/england/n-l-4-division-one/2008-2009/southern-midlands" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+#./httrack "http://soccerway.com/national/england/n-l-4-division-one/2008-2009/southern-south-and-west" -O "/Users/radu/rsssf/sat/web/eng/" --get -%v
+
+cd /Users/radu/rsssf/sat/eng

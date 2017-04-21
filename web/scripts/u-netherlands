@@ -1,0 +1,9 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/ned
+update a.2017 ../web/ned/a.html
+update b.2017 ../web/ned/b.html
+update c.2017 ../web/ned/c.html
+update d1.2017 ../web/ned/d1.html
+update d2.2017 ../web/ned/d2.html
+

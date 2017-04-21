@@ -1,0 +1,9 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/fin
+update a.2017 ../web/fin/a.html
+update b.2017 ../web/fin/b.html
+update c1.2017 ../web/fin/c1.html
+update c2.2017 ../web/fin/c2.html
+update c3.2017 ../web/fin/c3.html
+

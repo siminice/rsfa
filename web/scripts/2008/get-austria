@@ -1,0 +1,9 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/austria/first" -O "/Users/radu/rsssf/sat/web/aut/" --get -%v
+./httrack "http://soccerway.com/national/austria/1-liga" -O "/Users/radu/rsssf/sat/web/aut/" --get -%v
+./httrack "http://soccerway.com/national/austria/regionalliga/2008-2009/west" -O "/Users/radu/rsssf/sat/web/aut/" --get -%v
+./httrack "http://soccerway.com/national/austria/regionalliga/2008-2009/mitte" -O "/Users/radu/rsssf/sat/web/aut/" --get -%v
+./httrack "http://soccerway.com/national/austria/regionalliga/2008-2009/ost" -O "/Users/radu/rsssf/sat/web/aut/" --get -%v
+cd /Users/radu/rsssf/sat/aut

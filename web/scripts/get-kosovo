@@ -1,0 +1,9 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "kos" "a" "superliga" "regular-season"
+${CURL} ${SW}/kosovo/superliga/20162017/regular-season/r36540/matches/ > ${DIR}/kos/a.html
+

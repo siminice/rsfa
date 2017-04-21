@@ -1,0 +1,8 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/estonia/meistriliiga/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/est/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/est/results.html /Users/radu/rsssf/sat/web/est/first.html
+./httrack "http://soccerway.com/national/estonia/esiliiga/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/est/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/est/results.html /Users/radu/rsssf/sat/web/est/esiliiga.html
+cd /Users/radu/rsssf/sat/est

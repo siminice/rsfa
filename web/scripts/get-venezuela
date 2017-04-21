@@ -1,0 +1,18 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "ven" "a" "primera-division" "apertura"
+${CURL} ${SW}/venezuela/primera-division/2017/apertura/r39809/matches/ > ${DIR}/ven/a.html
+
+printf " %-3s > %-3s > %s > %s\n" "ven" "b1" "segunda-division" "occidental"
+${CURL} ${SW}/venezuela/segunda-division/2017/occidental/r40098/matches/ > ${DIR}/ven/b1.html
+
+printf " %-3s > %-3s > %s > %s\n" "ven" "b2" "segunda-division" "central"
+${CURL} ${SW}/venezuela/segunda-division/2017/central/r40097/matches/ > ${DIR}/ven/b2.html
+
+printf " %-3s > %-3s > %s > %s\n" "ven" "b3" "segunda-division" "regular-season"
+${CURL} ${SW}/venezuela/segunda-division/2017/regular-season/r39716/matches/ > ${DIR}/ven/b3.html
+

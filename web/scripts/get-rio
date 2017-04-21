@@ -1,0 +1,9 @@
+#!/bin/csh
+
+
+httrack "http://www.soccerway.com/national/brazil/carioca-1/2013/taca-guanabara/matches/" -O "/home/radu/rsssf/sat/web/bra/" --get
+mv -f /home/radu/rsssf/sat/web/bra/index-2.html /home/radu/rsssf/sat/web/bra/l23.html
+#httrack "http://www.soccerway.com/national/brazil/carioca-1/2013/taca-rio/matches/" -O "/home/radu/rsssf/sat/web/bra/" --get
+#mv -f /home/radu/rsssf/sat/web/bra/index-2.html /home/radu/rsssf/sat/web/bra/l23.html
+
+cd /home/radu/rsssf/sat/rio

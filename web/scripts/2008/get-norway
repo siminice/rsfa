@@ -1,0 +1,11 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/norway/tippeligaen" -O "/Users/radu/rsssf/sat/web/nor/" --get -%v
+./httrack "http://soccerway.com/national/norway/adeccoligaen" -O "/Users/radu/rsssf/sat/web/nor/" --get -%v
+#mv -f /Users/radu/rsss/sat/web/nor/index-2.html /Users/radu/rsss/sat/web/nor/adeccoligaen.html
+./httrack "http://soccerway.com/national/norway/2-divisjon/2008/avdeling-1" -O "/Users/radu/rsssf/sat/web/nor/" --get -%v
+./httrack "http://soccerway.com/national/norway/2-divisjon/2008/avdeling-2" -O "/Users/radu/rsssf/sat/web/nor/" --get -%v
+./httrack "http://soccerway.com/national/norway/2-divisjon/2008/avdeling-3" -O "/Users/radu/rsssf/sat/web/nor/" --get -%v
+./httrack "http://soccerway.com/national/norway/2-divisjon/2008/avdeling-4" -O "/Users/radu/rsssf/sat/web/nor/" --get -%v
+cd /Users/radu/rsssf/sat/nor

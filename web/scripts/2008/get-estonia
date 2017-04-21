@@ -1,0 +1,6 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/estonia/first" -O "/Users/radu/rsssf/sat/web/est/" --get -%v
+./httrack "http://soccerway.com/national/estonia/esiliiga" -O "/Users/radu/rsssf/sat/web/est/" --get -%v
+cd /Users/radu/rsssf/sat/est

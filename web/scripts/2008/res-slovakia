@@ -1,0 +1,12 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/slovakia/super-liga/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/svk/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/svk/results.html /Users/radu/rsssf/sat/web/svk/first.html
+./httrack "http://soccerway.com/national/slovakia/i-liga/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/svk/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/svk/results.html /Users/radu/rsssf/sat/web/svk/i-liga.html
+./httrack "http://soccerway.com/national/slovakia/ii-liga/2008-2009/east//results" -O "/Users/radu/rsssf/sat/web/svk/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/svk/results.html /Users/radu/rsssf/sat/web/svk/east.html
+./httrack "http://soccerway.com/national/slovakia/ii-liga/2008-2009/west//results" -O "/Users/radu/rsssf/sat/web/svk/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/svk/results.html /Users/radu/rsssf/sat/web/svk/west.html
+cd /Users/radu/rsssf/sat/svk

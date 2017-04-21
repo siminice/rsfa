@@ -1,0 +1,7 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/cyprus/first" -O "/Users/radu/rsssf/sat/web/cyp/" --get -%v
+./httrack "http://soccerway.com/national/cyprus/2-division" -O "/Users/radu/rsssf/sat/web/cyp/" --get -%v
+./httrack "http://soccerway.com/national/cyprus/3-division" -O "/Users/radu/rsssf/sat/web/cyp/" --get -%v
+cd /Users/radu/rsssf/sat/cyp

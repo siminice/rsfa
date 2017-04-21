@@ -1,0 +1,16 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+#./httrack "http://soccerway.com/national/malta/premier-division/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/mal/" --get -%v
+./httrack "http://soccerway.com/national/malta/premier-division/2008-2009/2nd-stage/championship-group//results" -O "/Users/radu/rsssf/sat/web/mal/" --get -%v
+#mv -f /Users/radu/rsssf/sat/web/mal/results.html /Users/radu/rsssf/sat/web/mal/first.html
+mv -f /Users/radu/rsssf/sat/web/mal/results.html /Users/radu/rsssf/sat/web/mal/championship-group.html
+#./httrack "http://soccerway.com/national/malta/first-division/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/mal/" --get -%v
+./httrack "http://soccerway.com/national/malta/first-division/2008-2009/2nd-stage/relegation-group//results" -O "/Users/radu/rsssf/sat/web/mal/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/mal/results.html /Users/radu/rsssf/sat/web/mal/relegation-group.html
+
+./httrack "http://soccerway.com/national/malta/first-division/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/mal/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/mal/results.html /Users/radu/rsssf/sat/web/mal/first-division.html
+./httrack "http://soccerway.com/national/malta/second-division/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/mal/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/mal/results.html /Users/radu/rsssf/sat/web/mal/second-division.html
+cd /Users/radu/rsssf/sat/mal

@@ -1,0 +1,13 @@
+//---------------------------
+char *hexlink = new char[32];
+void makeHexlink(char *str) {
+  sprintf(hexlink, "%x%x%x%x%x%x",
+    ((unsigned char)str[0]),
+    ((unsigned char)str[1]),
+    ((unsigned char)str[2]),
+    ((unsigned char)str[3]),
+    ((unsigned char)str[4]),
+    ((unsigned char)str[5]));
+  hexlink[12]=0;
+}
+//---------------------------

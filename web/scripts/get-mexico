@@ -1,0 +1,9 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "mex" "a" "primera-division" "clausura"
+${CURL} ${SW}/mexico/primera-division/20162017/clausura/r36867/matches/ > ${DIR}/mex/a.html
+

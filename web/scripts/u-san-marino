@@ -1,0 +1,5 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/rsm
+update a1.2017 ../web/rsm/a.html -g 2
+

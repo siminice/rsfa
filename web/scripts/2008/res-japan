@@ -1,0 +1,8 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/japan/j-league/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/jap/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/jap/results.html /Users/radu/rsssf/sat/web/jap/first.html
+./httrack "http://soccerway.com/national/japan/j2-league/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/jap/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/jap/results.html /Users/radu/rsssf/sat/web/jap/j2-league.html
+cd /Users/radu/rsssf/sat/jap

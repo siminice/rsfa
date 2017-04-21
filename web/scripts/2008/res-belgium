@@ -1,0 +1,12 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/belgium/1e-klasse/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/bel/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/bel/results.html /Users/radu/rsssf/sat/web/bel/first.html
+./httrack "http://soccerway.com/national/belgium/second-division/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/bel/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/bel/results.html /Users/radu/rsssf/sat/web/bel/second-division.html
+./httrack "http://soccerway.com/national/belgium/third-division/2008-2009/group-a//results" -O "/Users/radu/rsssf/sat/web/bel/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/bel/results.html /Users/radu/rsssf/sat/web/bel/group-a.html
+./httrack "http://soccerway.com/national/belgium/third-division/2008-2009/group-b//results" -O "/Users/radu/rsssf/sat/web/bel/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/bel/results.html /Users/radu/rsssf/sat/web/bel/group-b.html
+cd /Users/radu/rsssf/sat/bel

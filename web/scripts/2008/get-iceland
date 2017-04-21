@@ -1,0 +1,7 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/iceland/first" -O "/Users/radu/rsssf/sat/web/isl/" --get -%v
+./httrack "http://soccerway.com/national/iceland/1-deild-karla" -O "/Users/radu/rsssf/sat/web/isl/" --get -%v
+./httrack "http://soccerway.com/national/iceland/2-deild-karla" -O "/Users/radu/rsssf/sat/web/isl/" --get -%v
+cd /Users/radu/rsssf/sat/isl

@@ -1,0 +1,9 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/switzerland/first" -O "/Users/radu/rsssf/sat/web/sui/" --get -%v
+./httrack "http://soccerway.com/national/switzerland/challenge-league" -O "/Users/radu/rsssf/sat/web/sui/" --get -%v
+./httrack "http://soccerway.com/national/switzerland/1-liga/2008-2009/group-1" -O "/Users/radu/rsssf/sat/web/sui/" --get -%v
+./httrack "http://soccerway.com/national/switzerland/1-liga/2008-2009/group-2" -O "/Users/radu/rsssf/sat/web/sui/" --get -%v
+./httrack "http://soccerway.com/national/switzerland/1-liga/2008-2009/group-3" -O "/Users/radu/rsssf/sat/web/sui/" --get -%v
+cd /Users/radu/rsssf/sat/sui

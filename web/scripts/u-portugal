@@ -1,0 +1,16 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/por
+update a.2017 ../web/por/a.html
+update b.2017 ../web/por/b.html
+update c.2017 ../web/por/c9.html -g 2
+update c.2017 ../web/por/c0.html -g 2
+update c1.2017 ../web/por/c1.html
+update c1.2017 ../web/por/c2.html
+update c2.2017 ../web/por/c3.html
+update c2.2017 ../web/por/c4.html
+update c3.2017 ../web/por/c5.html
+update c3.2017 ../web/por/c6.html
+update c4.2017 ../web/por/c7.html
+update c4.2017 ../web/por/c8.html
+

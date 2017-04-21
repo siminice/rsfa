@@ -1,0 +1,5 @@
+  for (int k=1; k<argc; k++) {
+    if (strcmp(argv[k], "-ly")==0 && k<argc-1)  {
+      LY = atoi(argv[++k]);
+    }
+  }

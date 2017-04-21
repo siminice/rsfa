@@ -1,0 +1,9 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/argentina/primera-division/2008-2009/apertura//results" -O "/Users/radu/rsssf/sat/web/arg/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/arg/results.html /Users/radu/rsssf/sat/web/arg/first.html
+./httrack "http://soccerway.com/national/argentina/primera-b-nacional/2008-2009/apertura//results" -O "/Users/radu/rsssf/sat/web/arg/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/arg/results.html /Users/radu/rsssf/sat/web/arg/primera-b-nacional.html
+cd /Users/radu/rsssf/sat/arg
+

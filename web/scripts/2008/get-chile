@@ -1,0 +1,10 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/chile/first" -O "/Users/radu/rsssf/sat/web/chi/" --get -%v
+#./httrack "http://soccerway.com/national/chile/primera-division/2008/apertura/group-2" -O "/Users/radu/rsssf/sat/web/chi/" --get -%v
+#./httrack "http://soccerway.com/national/chile/primera-division/2008/apertura/group-3" -O "/Users/radu/rsssf/sat/web/chi/" --get -%v
+#./httrack "http://soccerway.com/national/chile/primera-division/2008/apertura/group-4" -O "/Users/radu/rsssf/sat/web/chi/" --get -%v
+
+./httrack "http://soccerway.com/national/chile/primera-b" -O "/Users/radu/rsssf/sat/web/chi/" --get -%v
+cd /Users/radu/rsssf/sat/chi

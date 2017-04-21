@@ -1,0 +1,16 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/portugal/liga-sagres/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/por/" --get -%v
+mv /Users/radu/rsssf/sat/web/por/results.html /Users/radu/rsssf/sat/web/por/first.html
+./httrack "http://soccerway.com/national/portugal/liga-vitalis/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/por/" --get -%v
+mv /Users/radu/rsssf/sat/web/por/results.html /Users/radu/rsssf/sat/web/por/liga-vitalis.html
+./httrack "http://soccerway.com/national/portugal/ii-divisao/2008-2009/serie-a//results" -O "/Users/radu/rsssf/sat/web/por/" --get -%v
+mv /Users/radu/rsssf/sat/web/por/results.html /Users/radu/rsssf/sat/web/por/serie-a.html
+./httrack "http://soccerway.com/national/portugal/ii-divisao/2008-2009/serie-b//results" -O "/Users/radu/rsssf/sat/web/por/" --get -%v
+mv /Users/radu/rsssf/sat/web/por/results.html /Users/radu/rsssf/sat/web/por/serie-b.html
+./httrack "http://soccerway.com/national/portugal/ii-divisao/2008-2009/serie-c//results" -O "/Users/radu/rsssf/sat/web/por/" --get -%v
+mv /Users/radu/rsssf/sat/web/por/results.html /Users/radu/rsssf/sat/web/por/serie-c.html
+./httrack "http://soccerway.com/national/portugal/ii-divisao/2008-2009/serie-d//results" -O "/Users/radu/rsssf/sat/web/por/" --get -%v
+mv /Users/radu/rsssf/sat/web/por/results.html /Users/radu/rsssf/sat/web/por/serie-d.html
+cd /Users/radu/rsssf/sat/por

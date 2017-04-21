@@ -1,0 +1,27 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "nir" "a1" "ifa-premiership" "championship-round"
+${CURL} ${SW}/northern-ireland/ifa-premiership/20162017/championship-round/r35832/matches/ > ${DIR}/nir/a1.html
+
+printf " %-3s > %-3s > %s > %s\n" "nir" "a2" "ifa-premiership" "relegation-round"
+${CURL} ${SW}/northern-ireland/ifa-premiership/20162017/relegation-round/r35836/matches/ > ${DIR}/nir/a2.html
+
+printf " %-3s > %-3s > %s > %s\n" "nir" "b1" "championship-1" "promotion-round"
+${CURL} ${SW}/northern-ireland/championship-1/20162017/promotion-round/r38006/matches/ > ${DIR}/nir/b1.html
+
+printf " %-3s > %-3s > %s > %s\n" "nir" "b2" "championship-1" "relegation-round"
+${CURL} ${SW}/northern-ireland/championship-1/20162017/relegation-round/r38007/matches/ > ${DIR}/nir/b2.html
+
+printf " %-3s > %-3s > %s > %s\n" "nir" "c" "championship-2" "regular-season"
+${CURL} ${SW}/northern-ireland/championship-2/20162017/regular-season/r35424/matches/ > ${DIR}/nir/c.html
+
+#printf " %-3s > %-3s > %s > %s\n" "nir" "c1" "championship-2" "promotion-round"
+#${CURL} ${SW}/northern-ireland/championship-2/20162017/promotion-round/r38008/matches/ > ${DIR}/nir/c1.html
+
+#printf " %-3s > %-3s > %s > %s\n" "nir" "c2" "championship-2" "relegation-round"
+#${CURL} ${SW}/northern-ireland/championship-2/20162017/relegation-round/r38009/matches/ > ${DIR}/nir/c2.html
+

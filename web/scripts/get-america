@@ -1,0 +1,21 @@
+#!/bin/csh
+cd /home/radu/rsssf/sat/web
+
+./get-argentina
+./get-bolivia
+./get-brazil
+./get-chile
+./get-colombia
+./get-ecuador
+./get-paraguay
+./get-peru
+./get-uruguay
+./get-venezuela
+
+./get-united-states
+./get-mexico
+
+./get-japan
+./get-china
+./get-korea
+./get-australia

@@ -1,0 +1,1 @@
+  fprintf(of, "<H3>Palmaresul echipei României împotriva %s<H3>\n", dativ[t]);

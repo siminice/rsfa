@@ -1,0 +1,13 @@
+//---------------------------
+char *hexlink = new char[32];
+void makeHexlink(int i) {
+  sprintf(hexlink, "%x%x%x%x%x%x", 
+    ((unsigned char)Pl.P[i].mnem[0]),
+    ((unsigned char)Pl.P[i].mnem[1]),
+    ((unsigned char)Pl.P[i].mnem[2]),
+    ((unsigned char)Pl.P[i].mnem[3]),
+    ((unsigned char)Pl.P[i].mnem[4]),
+    ((unsigned char)Pl.P[i].mnem[5]));
+  hexlink[12]=0;
+}
+//---------------------------

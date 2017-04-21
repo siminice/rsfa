@@ -1,0 +1,11 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+
+./httrack "http://soccerway.com/national/uruguay/primera-division/2008-2009/apertura//results" -O "/Users/radu/rsssf/sat/web/uru/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/uru/results.html /Users/radu/rsssf/sat/web/uru/first.html
+
+./httrack "http://soccerway.com/national/uruguay/segunda-division/2008-2009/apertura//results" -O "/Users/radu/rsssf/sat/web/uru/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/uru/results.html /Users/radu/rsssf/sat/web/uru/segunda-division.html
+
+cd /Users/radu/rsssf/sat/uru

@@ -1,0 +1,6 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/azerbaijan/first" -O "/Users/radu/rsssf/sat/web/aze/" --get -%v
+./httrack "http://soccerway.com/national/azerbaijan/birinci-dasta" -O "/Users/radu/rsssf/sat/web/aze/" --get -%v
+cd /Users/radu/rsssf/sat/aze

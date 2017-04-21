@@ -1,0 +1,18 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/bra
+
+update a.2017 ../web/bra/a.html
+update b.2017 ../web/bra/b.html
+update c.2017 ../web/bra/c.html -g 2
+
+#--------------------------
+#cd /home/radu/rsssf/sat/sao
+#update a.2017 ../web/bra/l24.html
+
+#cd /home/radu/rsssf/sat/rio
+#update a.2017 ../web/bra/l23.html -g 2
+
+#cd /home/radu/rsssf/sat/gau
+#update a.2017 ../web/bra/l26.html
+

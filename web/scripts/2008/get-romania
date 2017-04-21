@@ -1,0 +1,17 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/romania/first" -O "/Users/radu/rsssf/sat/web/rom/" --get -%v
+./httrack "http://soccerway.com/national/romania/liga-ii/2008-2009/serie-1" -O "/Users/radu/rsssf/sat/web/rom/" --get -%v
+./httrack "http://soccerway.com/national/romania/liga-ii/2008-2009/serie-2" -O "/Users/radu/rsssf/sat/web/rom/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/rom/serie-1.html /Users/radu/rsssf/sat/web/rom/b.seria-1.html
+mv -f /Users/radu/rsssf/sat/web/rom/serie-2.html /Users/radu/rsssf/sat/web/rom/b.seria-2.html
+
+#./httrack "http://soccerway.com/national/romania/liga-iii/2008-2009/serie-1" -O "/Users/radu/rsssf/sat/web/rom/" --get -%v
+#./httrack "http://soccerway.com/national/romania/liga-iii/2008-2009/serie-2" -O "/Users/radu/rsssf/sat/web/rom/" --get -%v
+#./httrack "http://soccerway.com/national/romania/liga-iii/2008-2009/serie-3" -O "/Users/radu/rsssf/sat/web/rom/" --get -%v
+#./httrack "http://soccerway.com/national/romania/liga-iii/2008-2009/serie-4" -O "/Users/radu/rsssf/sat/web/rom/" --get -%v
+#./httrack "http://soccerway.com/national/romania/liga-iii/2008-2009/serie-5" -O "/Users/radu/rsssf/sat/web/rom/" --get -%v
+#./httrack "http://soccerway.com/national/romania/liga-iii/2008-2009/serie-6" -O "/Users/radu/rsssf/sat/web/rom/" --get -%v
+
+cd /Users/radu/rsssf/sat/rom

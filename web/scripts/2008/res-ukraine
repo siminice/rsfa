@@ -1,0 +1,8 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/ukraine/premier-league/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/ukr/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/ukr/results.html /Users/radu/rsssf/sat/web/ukr/first.html
+./httrack "http://soccerway.com/national/ukraine/first-league/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/ukr/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/ukr/results.html /Users/radu/rsssf/sat/web/ukr/first-league.html
+cd /Users/radu/rsssf/sat/ukr

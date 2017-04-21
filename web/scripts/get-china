@@ -1,0 +1,9 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "chn" "a" "csl" "regular-season"
+${CURL} ${SW}/china-pr/csl/2017/regular-season/r39713/matches/ > ${DIR}/chn/a.html
+

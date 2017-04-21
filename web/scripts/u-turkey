@@ -1,0 +1,16 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/tur
+update a.2017 ../web/tur/a.html
+#update a.2017 ../web/tur/a1.html
+#update a.2017 ../web/tur/a2.html
+
+update b.2017 ../web/tur/b.html
+
+update c1.2017 ../web/tur/c1.html
+update c2.2017 ../web/tur/c2.html
+
+#update d1.2017 ../web/tur/d1.html
+#update d2.2017 ../web/tur/d2.html
+#update d3.2017 ../web/tur/d3.html
+

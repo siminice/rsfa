@@ -1,0 +1,27 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "rus" "a" "premier-league" "regular-season"
+${CURL} ${SW}/russia/premier-league/20162017/regular-season/r36386/matches/ > ${DIR}/rus/a.html
+
+printf " %-3s > %-3s > %s > %s\n" "rus" "b" "1-division" "regular-season"
+${CURL} ${SW}/russia/1-division/20162017/regular-season/r36382/matches/ > ${DIR}/rus/b.html
+
+printf " %-3s > %-3s > %s > %s\n" "rus" "c1" "2-division" "west"
+${CURL} ${SW}/russia/2-division/20162017/west/r37274/matches/ > ${DIR}/rus/c1.html
+
+printf " %-3s > %-3s > %s > %s\n" "rus" "c2" "2-division" "center"
+${CURL} ${SW}/russia/2-division/20162017/center/r37270/matches/ > ${DIR}/rus/c2.html
+
+printf " %-3s > %-3s > %s > %s\n" "rus" "c3" "2-division" "south"
+${CURL} ${SW}/russia/2-division/20162017/south/r37272/matches/ > ${DIR}/rus/c3.html
+
+printf " %-3s > %-3s > %s > %s\n" "rus" "c4" "2-division" "ural-povolzhye"
+${CURL} ${SW}/russia/2-division/20162017/ural-povolzhye/r37273/matches/ > ${DIR}/rus/c4.html
+
+printf " %-3s > %-3s > %s > %s\n" "rus" "c5" "2-division" "east"
+${CURL} ${SW}/russia/2-division/20162017/east/r37271/matches/ > ${DIR}/rus/c5.html
+

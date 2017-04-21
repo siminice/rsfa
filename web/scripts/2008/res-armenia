@@ -1,0 +1,6 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/armenia/league/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/arm/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/arm/results.html /Users/radu/rsssf/sat/web/arm/first.html
+cd /Users/radu/rsssf/sat/arm

@@ -1,0 +1,5 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/kor
+update a.2017 ../web/kor/a.html
+

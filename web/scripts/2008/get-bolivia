@@ -1,0 +1,10 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+
+#./httrack "http://soccerway.com/national/bolivia/first" -O "/Users/radu/rsssf/sat/web/bol/" --get -%v
+
+./httrack "http://soccerway.com/national/bolivia/primera-division/2008/clausura/group-a" -O "/Users/radu/rsssf/sat/web/bol/" --get -%v
+./httrack "http://soccerway.com/national/bolivia/primera-division/2008/clausura/group-b" -O "/Users/radu/rsssf/sat/web/bol/" --get -%v
+
+cd /Users/radu/rsssf/sat/bol

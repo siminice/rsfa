@@ -1,0 +1,12 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/nir
+#update a.2017 ../web/nir/a.html
+update a.2017 ../web/nir/a1.html
+update a.2017 ../web/nir/a2.html
+#update b.2017 ../web/nir/b.html
+update b.2017 ../web/nir/b1.html
+update b.2017 ../web/nir/b2.html
+update c.2017 ../web/nir/c.html
+
+

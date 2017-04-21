@@ -1,0 +1,9 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+#./httrack "http://soccerway.com/national/latvia/first" -O "/Users/radu/rsssf/sat/web/lat/" --get -%v
+
+./httrack "http://soccerway.com/national/latvia/virsliga/2008/promotion" -O "/Users/radu/rsssf/sat/web/lat/" --get -%v
+./httrack "http://soccerway.com/national/latvia/virsliga/2008/relegation" -O "/Users/radu/rsssf/sat/web/lat/" --get -%v
+./httrack "http://soccerway.com/national/latvia/1-division" -O "/Users/radu/rsssf/sat/web/lat/" --get -%v
+cd /Users/radu/rsssf/sat/lat

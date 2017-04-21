@@ -1,0 +1,9 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/ukr
+#update a.2017 ../web/ukr/a.html
+update a.2017 ../web/ukr/a1.html
+update a.2017 ../web/ukr/a2.html
+update b.2017 ../web/ukr/b.html
+update c.2017 ../web/ukr/c.html
+

@@ -1,0 +1,5 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/mexico/first" -O "/Users/radu/rsssf/sat/web/mex/" --get -%v
+cd /Users/radu/rsssf/sat/mex

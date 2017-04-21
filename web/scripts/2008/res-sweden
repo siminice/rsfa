@@ -1,0 +1,12 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/sweden/allsvenskan/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/swe/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/swe/results.html /Users/radu/rsssf/sat/web/swe/first.html
+./httrack "http://soccerway.com/national/sweden/superettan/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/swe/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/swe/results.html /Users/radu/rsssf/sat/web/swe/superettan.html
+./httrack "http://soccerway.com/national/sweden/division-1/2008/norra//results" -O "/Users/radu/rsssf/sat/web/swe/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/swe/results.html /Users/radu/rsssf/sat/web/swe/norra.html
+./httrack "http://soccerway.com/national/sweden/division-1/2008/sodra//results" -O "/Users/radu/rsssf/sat/web/swe/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/swe/results.html /Users/radu/rsssf/sat/web/swe/sodra.html
+cd /Users/radu/rsssf/sat/swe

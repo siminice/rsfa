@@ -1,0 +1,15 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "mal" "a" "premier-league" "regular-season"
+${CURL} ${SW}/malta/premier-league/20162017/regular-season/r35452/matches/ > ${DIR}/mal/a.html
+
+printf " %-3s > %-3s > %s > %s\n" "mal" "b" "first-division" "regular-season"
+${CURL} ${SW}/malta/first-division/20162017/regular-season/r35311/matches/ > ${DIR}/mal/b.html
+
+printf " %-3s > %-3s > %s > %s\n" "mal" "c" "second-division" "regular-season"
+${CURL} ${SW}/malta/second-division/20162017/regular-season/r35305/matches/ > ${DIR}/mal/c.html
+

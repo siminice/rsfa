@@ -1,0 +1,18 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "ukr" "a1" "premier-league" "championship-round"
+${CURL} ${SW}/ukraine/premier-league/20162017/championship-round/r37028/matches/ > ${DIR}/ukr/a1.html
+
+printf " %-3s > %-3s > %s > %s\n" "ukr" "a2" "premier-league" "relegation-round"
+${CURL} ${SW}/ukraine/premier-league/20162017/relegation-round/r37029/matches/ > ${DIR}/ukr/a2.html
+
+printf " %-3s > %-3s > %s > %s\n" "ukr" "b" "persha-liga" "regular-season"
+${CURL} ${SW}/ukraine/persha-liga/20162017/regular-season/r37007/matches/ > ${DIR}/ukr/b.html
+
+printf " %-3s > %-3s > %s > %s\n" "ukr" "c" "druha-liga" "regular-season"
+${CURL} ${SW}/ukraine/druha-liga/20162017/regular-season/r36949/matches/ > ${DIR}/ukr/c.html
+

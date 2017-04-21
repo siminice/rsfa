@@ -1,0 +1,8 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/belarus/premier-league/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/blr/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/blr/results.html /Users/radu/rsssf/sat/web/blr/first.html
+./httrack "http://soccerway.com/national/belarus/1-division/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/blr/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/blr/results.html /Users/radu/rsssf/sat/web/blr/1-division.html
+cd /Users/radu/rsssf/sat/blr

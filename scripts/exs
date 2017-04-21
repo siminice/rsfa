@@ -1,0 +1,17 @@
+#!/bin/bash
+
+#20 t = 924 l +38
+#18 t = 886 l +134
+#16 t = 752 l +91
+#14 t = 661 l +93
+#12 t = 568 l +64
+#10 t = 504 l
+
+n=${2:-20}
+l=$((52 * $n))
+wget -q $1
+
+grep detailed-table index.html -A $l > table.html
+grep large-link table.html | cut -d '"' -f 6 | tee summary.txt
+rm index.html table.html
+wc -l summary.txt

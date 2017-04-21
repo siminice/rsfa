@@ -1,0 +1,18 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/russia/premier-league/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/rus/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/rus/results.html /Users/radu/rsssf/sat/web/rus/first.html
+./httrack "http://soccerway.com/national/russia/1-division/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/rus/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/rus/results.html /Users/radu/rsssf/sat/web/rus/1-division.html
+./httrack "http://soccerway.com/national/russia/2-division/2008/west//results" -O "/Users/radu/rsssf/sat/web/rus/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/rus/results.html /Users/radu/rsssf/sat/web/rus/west.html
+./httrack "http://soccerway.com/national/russia/2-division/2008/center//results" -O "/Users/radu/rsssf/sat/web/rus/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/rus/results.html /Users/radu/rsssf/sat/web/rus/center.html
+./httrack "http://soccerway.com/national/russia/2-division/2008/south//results" -O "/Users/radu/rsssf/sat/web/rus/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/rus/results.html /Users/radu/rsssf/sat/web/rus/south.html
+./httrack "http://soccerway.com/national/russia/2-division/2008/ural-pavolzhye//results" -O "/Users/radu/rsssf/sat/web/rus/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/rus/results.html /Users/radu/rsssf/sat/web/rus/ural-pavolzhye.html
+./httrack "http://soccerway.com/national/russia/2-division/2008/east//results" -O "/Users/radu/rsssf/sat/web/rus/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/rus/results.html /Users/radu/rsssf/sat/web/rus/east.html
+cd /Users/radu/rsssf/sat/rus

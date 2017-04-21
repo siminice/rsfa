@@ -1,0 +1,16 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/serbia/super-liga/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/yug/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/yug/results.html /Users/radu/rsssf/sat/web/yug/first.html
+./httrack "http://soccerway.com/national/serbia/prva-liga/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/yug/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/yug/results.html /Users/radu/rsssf/sat/web/yug/prva-liga.html
+./httrack "http://soccerway.com/national/serbia/srpska-liga/2008-2009/beograd//results" -O "/Users/radu/rsssf/sat/web/yug/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/yug/results.html /Users/radu/rsssf/sat/web/yug/beograd.html
+./httrack "http://soccerway.com/national/serbia/srpska-liga/2008-2009/zapad//results" -O "/Users/radu/rsssf/sat/web/yug/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/yug/results.html /Users/radu/rsssf/sat/web/yug/zapad.html
+./httrack "http://soccerway.com/national/serbia/srpska-liga/2008-2009/vojvodina//results" -O "/Users/radu/rsssf/sat/web/yug/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/yug/results.html /Users/radu/rsssf/sat/web/yug/vojvodina.html
+./httrack "http://soccerway.com/national/serbia/srpska-liga/2008-2009/istok//results" -O "/Users/radu/rsssf/sat/web/yug/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/yug/results.html /Users/radu/rsssf/sat/web/yug/istok.html
+cd /Users/radu/rsssf/sat/yug

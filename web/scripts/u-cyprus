@@ -1,0 +1,9 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/cyp
+#update a.2017 ../web/cyp/a.html
+update a.2017 ../web/cyp/a1.html
+update a.2017 ../web/cyp/a2.html
+update b.2017 ../web/cyp/b.html
+update c.2017 ../web/cyp/c.html
+

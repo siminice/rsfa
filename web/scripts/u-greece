@@ -1,0 +1,10 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/gre
+update a.2017 ../web/gre/a.html
+update b.2017 ../web/gre/b.html
+update c1.2017 ../web/gre/c1.html
+update c2.2017 ../web/gre/c2.html
+update c3.2017 ../web/gre/c3.html
+update c4.2017 ../web/gre/c4.html
+

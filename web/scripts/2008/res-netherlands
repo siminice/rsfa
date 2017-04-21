@@ -1,0 +1,8 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/netherlands/eredivisie/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/ned/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/ned/results.html /Users/radu/rsssf/sat/web/ned/first.html
+./httrack "http://soccerway.com/national/netherlands/eerste-divisie/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/ned/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/ned/results.html /Users/radu/rsssf/sat/web/ned/eerste-divisie.html
+cd /Users/radu/rsssf/sat/ned

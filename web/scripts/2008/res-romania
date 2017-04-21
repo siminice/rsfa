@@ -1,0 +1,24 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/romania/liga-i/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/rom/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/rom/results.html /Users/radu/rsssf/sat/web/rom/first.html
+./httrack "http://soccerway.com/national/romania/liga-ii/2008-2009/serie-1//results" -O "/Users/radu/rsssf/sat/web/rom/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/rom/results.html /Users/radu/rsssf/sat/web/rom/b.seria-1.html
+./httrack "http://soccerway.com/national/romania/liga-ii/2008-2009/serie-2//results" -O "/Users/radu/rsssf/sat/web/rom/" --get -%
+mv -f /Users/radu/rsssf/sat/web/rom/results.html /Users/radu/rsssf/sat/web/rom/b.seria-2.html
+
+#./httrack "http://soccerway.com/national/romania/liga-iii/2008-2009/serie-1//results" -O "/Users/radu/rsssf/sat/web/rom/" --get -%v
+#mv -f /Users/radu/rsssf/sat/web/rom/results.html /Users/radu/rsssf/sat/web/rom/serie-1.html
+#./httrack "http://soccerway.com/national/romania/liga-iii/2008-2009/serie-2//results" -O "/Users/radu/rsssf/sat/web/rom/" --get -%v
+#mv -f /Users/radu/rsssf/sat/web/rom/results.html /Users/radu/rsssf/sat/web/rom/serie-2.html
+#./httrack "http://soccerway.com/national/romania/liga-iii/2008-2009/serie-3//results" -O "/Users/radu/rsssf/sat/web/rom/" --get -%v
+#mv -f /Users/radu/rsssf/sat/web/rom/results.html /Users/radu/rsssf/sat/web/rom/serie-3.html
+#./httrack "http://soccerway.com/national/romania/liga-iii/2008-2009/serie-4//results" -O "/Users/radu/rsssf/sat/web/rom/" --get -%v
+#mv -f /Users/radu/rsssf/sat/web/rom/results.html /Users/radu/rsssf/sat/web/rom/serie-4.html
+#./httrack "http://soccerway.com/national/romania/liga-iii/2008-2009/serie-5//results" -O "/Users/radu/rsssf/sat/web/rom/" --get -%v
+#mv -f /Users/radu/rsssf/sat/web/rom/results.html /Users/radu/rsssf/sat/web/rom/serie-5.html
+#./httrack "http://soccerway.com/national/romania/liga-iii/2008-2009/serie-6//results" -O "/Users/radu/rsssf/sat/web/rom/" --get -%v
+#mv -f /Users/radu/rsssf/sat/web/rom/results.html /Users/radu/rsssf/sat/web/rom/serie-6.html
+
+cd /Users/radu/rsssf/sat/rom

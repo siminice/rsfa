@@ -1,0 +1,11 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/bul
+update a.2017 ../web/bul/a1.html
+update a.2017 ../web/bul/a2.html
+update b.2017 ../web/bul/b.html
+update c1.2017 ../web/bul/c1.html
+update c2.2017 ../web/bul/c2.html
+update c3.2017 ../web/bul/c3.html
+update c4.2017 ../web/bul/c4.html
+

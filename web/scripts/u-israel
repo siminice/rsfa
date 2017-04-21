@@ -1,0 +1,10 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/isr
+#update a.2017 ../web/isr/a.html
+update a.2017 ../web/isr/a1.html
+update a.2017 ../web/isr/a2.html
+#update b.2017 ../web/isr/b.html
+update b.2017 ../web/isr/b1.html
+update b.2017 ../web/isr/b2.html
+

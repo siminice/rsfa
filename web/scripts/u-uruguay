@@ -1,0 +1,6 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/uru
+update a1.2017 ../web/uru/a.html
+update b.2017 ../web/uru/b.html
+

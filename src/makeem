@@ -1,0 +1,15 @@
+#!/bin/csh
+
+echo "Making rank..."
+g++ -g -o ../rank rank.cc
+echo "Making season..."
+g++ -g -o ../season season.cc
+echo "Making part..."
+g++ -g -o ../part part.cc
+echo "Making vs..."
+g++ -g -o ../vs vs.cc
+echo "Making medals..."
+g++ -g -o ../medals medals.cc
+echo "Making missing..."
+g++ -g -o ../missing missing.cc
+

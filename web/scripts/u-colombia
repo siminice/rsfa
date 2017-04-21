@@ -1,0 +1,7 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/col
+update a1.2017 ../web/col/a.html
+update b1.2017 ../web/col/b.html
+
+

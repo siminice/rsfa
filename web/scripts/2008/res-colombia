@@ -1,0 +1,26 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+
+#./httrack "http://soccerway.com/national/colombia/primera-divisin/2008/copa-mustang-ii-1st-round//results" -O "/Users/radu/rsssf/sat/web/col/" --get -%v
+#mv -f /Users/radu/rsssf/sat/web/col/results.html /Users/radu/rsssf/sat/web/col/first.html
+
+./httrack "http://soccerway.com/national/colombia/primera-divisin/2008/copa-mustang-ii-semi-finals//results" -O "/Users/radu/rsssf/sat/web/col/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/col/results.html /Users/radu/rsssf/sat/web/col/first.html
+
+#./httrack "http://soccerway.com/national/colombia/primera-b/2008/copa-premier-i-1st-round//results" -O "/Users/radu/rsssf/sat/web/col/" --get -%v
+#mv -f /Users/radu/rsssf/sat/web/col/results.html /Users/radu/rsssf/sat/web/col/primera-b.html
+
+#./httrack "http://soccerway.com/national/colombia/primera-b/2008/copa-premier-ii-1st-round//results" -O "/Users/radu/rsssf/sat/web/col/" --get -%v
+#mv -f /Users/radu/rsssf/sat/web/col/results.html /Users/radu/rsssf/sat/web/col/primera-b.html
+
+./httrack "http://soccerway.com/national/colombia/primera-b/2008/copa-premier-ii-semi-finals//results" -O "/Users/radu/rsssf/sat/web/col/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/col/results.html /Users/radu/rsssf/sat/web/col/primera-b.html
+
+#./httrack "http://soccerway.com/national/colombia/primera-b/2008/copa-premier-ii-1st-round/group-a//results" -O "/Users/radu/rsssf/sat/web/col/" --get -%v
+#mv -f /Users/radu/rsssf/sat/web/col/results.html /Users/radu/rsssf/sat/web/col/group-a.html
+#./httrack "http://soccerway.com/national/colombia/primera-b/2008/copa-premier-ii-1st-round/group-b//results" -O "/Users/radu/rsssf/sat/web/col/" --get -%v
+#mv -f /Users/radu/rsssf/sat/web/col/results.html /Users/radu/rsssf/sat/web/col/group-b.html
+
+
+cd /Users/radu/rsssf/sat/col

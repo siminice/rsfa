@@ -1,0 +1,18 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "isr" "a1" "ligat-haal" "championship-round"
+${CURL} ${SW}/israel/ligat-haal/20162017/championship-round/r36478/matches/ > ${DIR}/isr/a1.html
+
+printf " %-3s > %-3s > %s > %s\n" "isr" "a2" "ligat-haal" "relegation-round"
+${CURL} ${SW}/israel/ligat-haal/20162017/relegation-round/r36480/matches/ > ${DIR}/isr/a2.html
+
+printf " %-3s > %-3s > %s > %s\n" "isr" "b1" "liga-leumit" "promotion-round"
+${CURL} ${SW}/israel/liga-leumit/20162017/promotion-round/r36340/matches/ > ${DIR}/isr/b1.html
+
+printf " %-3s > %-3s > %s > %s\n" "isr" "b2" "liga-leumit" "relegation-round"
+${CURL} ${SW}/israel/liga-leumit/20162017/relegation-round/r36342/matches/ > ${DIR}/isr/b2.html
+

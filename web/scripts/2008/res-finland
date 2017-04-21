@@ -1,0 +1,14 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/finland/veikkausliiga/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/fin/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/fin/results.html /Users/radu/rsssf/sat/web/fin/first.html
+./httrack "http://soccerway.com/national/finland/ykknen/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/fin/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/fin/results.html /Users/radu/rsssf/sat/web/fin/ykknen.html
+./httrack "http://soccerway.com/national/finland/kakkonen/2008/lohko-a//results" -O "/Users/radu/rsssf/sat/web/fin/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/fin/results.html /Users/radu/rsssf/sat/web/fin/lohko-a.html
+./httrack "http://soccerway.com/national/finland/kakkonen/2008/lohko-b//results" -O "/Users/radu/rsssf/sat/web/fin/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/fin/results.html /Users/radu/rsssf/sat/web/fin/lohko-b.html
+./httrack "http://soccerway.com/national/finland/kakkonen/2008/lohko-c//results" -O "/Users/radu/rsssf/sat/web/fin/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/fin/results.html /Users/radu/rsssf/sat/web/fin/lohko-c.html
+cd /Users/radu/rsssf/sat/fin

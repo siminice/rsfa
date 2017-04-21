@@ -1,0 +1,6 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/paraguay/first" -O "/Users/radu/rsssf/sat/web/par/" --get -%v
+./httrack "http://soccerway.com/national/paraguay/division-intermedia" -O "/Users/radu/rsssf/sat/web/par/" --get -%v
+cd /Users/radu/rsssf/sat/par

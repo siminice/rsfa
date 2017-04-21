@@ -1,0 +1,3 @@
+#!/bin/bash
+
+season $1 -fd 1 -ld 360 $2 $3 $4

@@ -1,0 +1,24 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "spa" "a" "primera-division" "regular-season"
+${CURL} ${SW}/spain/primera-division/20162017/regular-season/r35880/matches/ > ${DIR}/spa/a.html
+
+printf " %-3s > %-3s > %s > %s\n" "spa" "b" "segunda-division" "regular-season"
+${CURL} ${SW}/spain/segunda-division/20162017/regular-season/r37748/matches/ > ${DIR}/spa/b.html
+
+printf " %-3s > %-3s > %s > %s\n" "spa" "c1" "segunda-b" "group-1"
+${CURL} ${SW}/spain/segunda-b/20162017/group-1/r38114/matches/ > ${DIR}/spa/c1.html
+
+printf " %-3s > %-3s > %s > %s\n" "spa" "c2" "segunda-b" "group-2"
+${CURL} ${SW}/spain/segunda-b/20162017/group-2/r38115/matches/ > ${DIR}/spa/c2.html
+
+printf " %-3s > %-3s > %s > %s\n" "spa" "c3" "segunda-b" "group-3"
+${CURL} ${SW}/spain/segunda-b/20162017/group-3/r38116/matches/ > ${DIR}/spa/c3.html
+
+printf " %-3s > %-3s > %s > %s\n" "spa" "c4" "segunda-b" "group-4"
+${CURL} ${SW}/spain/segunda-b/20162017/group-4/r38117/matches/ > ${DIR}/spa/c4.html
+

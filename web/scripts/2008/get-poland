@@ -1,0 +1,13 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/poland/first" -O "/Users/radu/rsssf/sat/web/pol/" --get -%v
+./httrack "http://soccerway.com/national/poland/i-liga" -O "/Users/radu/rsssf/sat/web/pol/" --get -%v
+./httrack "http://soccerway.com/national/poland/ii-liga/2008-2009/east" -O "/Users/radu/rsssf/sat/web/pol/" --get -%v
+./httrack "http://soccerway.com/national/poland/ii-liga/2008-2009/west" -O "/Users/radu/rsssf/sat/web/pol/" --get -%v
+
+#./httrack "http://soccerway.com/national/poland/3-liga/2008-2009/group-1" -O "/Users/radu/rsssf/sat/web/pol/" --get -%v
+#./httrack "http://soccerway.com/national/poland/3-liga/2008-2009/group-2" -O "/Users/radu/rsssf/sat/web/pol/" --get -%v
+#./httrack "http://soccerway.com/national/poland/3-liga/2008-2009/group-3" -O "/Users/radu/rsssf/sat/web/pol/" --get -%v
+#./httrack "http://soccerway.com/national/poland/3-liga/2008-2009/group-4" -O "/Users/radu/rsssf/sat/web/pol/" --get -%v
+cd /Users/radu/rsssf/sat/pol

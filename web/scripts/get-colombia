@@ -1,0 +1,12 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "col" "a" "primera-a" "clausura"
+${CURL} ${SW}/colombia/primera-a/2017/clausura/r40028/matches/ > ${DIR}/col/a.html
+
+printf " %-3s > %-3s > %s > %s\n" "col" "b" "primera-b" "regular-season"
+${CURL} ${SW}/colombia/primera-b/2017/regular-season/r39808/matches/ > ${DIR}/col/b.html
+

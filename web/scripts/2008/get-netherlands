@@ -1,0 +1,6 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/netherlands/first" -O "/Users/radu/rsssf/sat/web/ned/" --get -%v
+./httrack "http://soccerway.com/national/netherlands/eerste-divisie" -O "/Users/radu/rsssf/sat/web/ned/" --get -%v
+cd /Users/radu/rsssf/sat/ned

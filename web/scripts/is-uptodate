@@ -1,0 +1,13 @@
+#!/bin/bash
+
+if [ $# -lt 2 ]
+then
+  echo "Usage:"
+  echo "  is-uptodate <england> <eng>"
+  exit 1
+fi
+
+
+make-get $2 20162017 > nuget-$1 
+diff nuget-$1 get-$1 
+rm nuget-$1

@@ -1,0 +1,11 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/colombia/first" -O "/Users/radu/rsssf/sat/web/col/" --get -%v
+
+./httrack "http://soccerway.com/national/colombia/primera-b" -O "/Users/radu/rsssf/sat/web/col/" --get -%v
+
+#./httrack "http://soccerway.com/national/colombia/primera-b/2008/copa-premier-ii-1st-round/group-a" -O "/Users/radu/rsssf/sat/web/col/" --get -%v
+#./httrack "http://soccerway.com/national/colombia/primera-b/2008/copa-premier-ii-1st-round/group-b" -O "/Users/radu/rsssf/sat/web/col/" --get -%v
+
+cd /Users/radu/rsssf/sat/col

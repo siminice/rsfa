@@ -1,0 +1,8 @@
+#!/bin/bash
+
+COUNTRY=$1
+LEAGUE=$2
+SEASON=$3
+PHASE=$4
+
+./morph-link http://www.soccerway.com/national/${COUNTRY}/${LEAGUE}/${SEASON}/${PHASE}/

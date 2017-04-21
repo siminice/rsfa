@@ -1,0 +1,21 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "ita" "a" "serie-a" "regular-season"
+${CURL} ${SW}/italy/serie-a/20162017/regular-season/r36003/matches/ > ${DIR}/ita/a.html
+
+printf " %-3s > %-3s > %s > %s\n" "ita" "b" "serie-b" "regular-season"
+${CURL} ${SW}/italy/serie-b/20162017/regular-season/r37192/matches/ > ${DIR}/ita/b.html
+
+printf " %-3s > %-3s > %s > %s\n" "ita" "c1" "serie-c1" "girone-a"
+${CURL} ${SW}/italy/serie-c1/20162017/girone-a/r37482/matches/ > ${DIR}/ita/c1.html
+
+printf " %-3s > %-3s > %s > %s\n" "ita" "c2" "serie-c1" "girone-b"
+${CURL} ${SW}/italy/serie-c1/20162017/girone-b/r37483/matches/ > ${DIR}/ita/c2.html
+
+printf " %-3s > %-3s > %s > %s\n" "ita" "c3" "serie-c1" "girone-c"
+${CURL} ${SW}/italy/serie-c1/20162017/girone-c/r37484/matches/ > ${DIR}/ita/c3.html
+

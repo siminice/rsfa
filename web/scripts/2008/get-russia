@@ -1,0 +1,11 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/russia/first" -O "/Users/radu/rsssf/sat/web/rus/" --get -%v
+./httrack "http://soccerway.com/national/russia/1-division" -O "/Users/radu/rsssf/sat/web/rus/" --get -%v
+./httrack "http://soccerway.com/national/russia/2-division/2008/west" -O "/Users/radu/rsssf/sat/web/rus/" --get -%v
+./httrack "http://soccerway.com/national/russia/2-division/2008/center" -O "/Users/radu/rsssf/sat/web/rus/" --get -%v
+./httrack "http://soccerway.com/national/russia/2-division/2008/south" -O "/Users/radu/rsssf/sat/web/rus/" --get -%v
+./httrack "http://soccerway.com/national/russia/2-division/2008/ural-pavolzhye" -O "/Users/radu/rsssf/sat/web/rus/" --get -%v
+./httrack "http://soccerway.com/national/russia/2-division/2008/east" -O "/Users/radu/rsssf/sat/web/rus/" --get -%v
+cd /Users/radu/rsssf/sat/rus

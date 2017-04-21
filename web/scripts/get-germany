@@ -1,0 +1,30 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "ger" "a" "bundesliga" "regular-season"
+${CURL} ${SW}/germany/bundesliga/20162017/regular-season/r35823/matches/ > ${DIR}/ger/a.html
+
+printf " %-3s > %-3s > %s > %s\n" "ger" "b" "2-bundesliga" "regular-season"
+${CURL} ${SW}/germany/2-bundesliga/20162017/regular-season/r35824/matches/ > ${DIR}/ger/b.html
+
+printf " %-3s > %-3s > %s > %s\n" "ger" "c" "3-liga" "regular-season"
+${CURL} ${SW}/germany/3-liga/20162017/regular-season/r35874/matches/ > ${DIR}/ger/c.html
+
+printf " %-3s > %-3s > %s > %s\n" "ger" "d1" "regionalliga" "nord"
+${CURL} ${SW}/germany/regionalliga/20162017/nord/r36658/matches/ > ${DIR}/ger/d1.html
+
+printf " %-3s > %-3s > %s > %s\n" "ger" "d2" "regionalliga" "nordost"
+${CURL} ${SW}/germany/regionalliga/20162017/nordost/r36659/matches/ > ${DIR}/ger/d2.html
+
+printf " %-3s > %-3s > %s > %s\n" "ger" "d3" "regionalliga" "west"
+${CURL} ${SW}/germany/regionalliga/20162017/west/r36662/matches/ > ${DIR}/ger/d3.html
+
+printf " %-3s > %-3s > %s > %s\n" "ger" "d4" "regionalliga" "sudwest"
+${CURL} ${SW}/germany/regionalliga/20162017/sudwest/r36661/matches/ > ${DIR}/ger/d4.html
+
+printf " %-3s > %-3s > %s > %s\n" "ger" "d5" "regionalliga" "bayern"
+${CURL} ${SW}/germany/regionalliga/20162017/bayern/r36657/matches/ > ${DIR}/ger/d5.html
+

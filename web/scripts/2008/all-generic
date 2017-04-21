@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#cd /Users/radu/Programs/httrack-3.40.3/src/
+/Users/radu/Programs/httrack-3.40.3/src/httrack "http://soccerway.com/national/$1//results" -O "./html/" --get -%v
+#mv -f ./html/results.html ./html/all-$1.html
+for ((n=2; n<=$2; n++)) do
+ /Users/radu/Programs/httrack-3.40.3/src/httrack "http://soccerway.com/national/$1//results/$n" -O "./html/" --get -%v
+ cat ./html/$n.html >> ./html/results.html
+done

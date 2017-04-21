@@ -1,0 +1,12 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+echo " kaz > a"
+${CURL} ${SW}/kazakhstan/premier-league/2017/regular-season/r39316/matches/ > ${DIR}/kaz/a.html
+
+echo " kaz > b"
+${CURL} ${SW}/kazakhstan/1-division/2017/regular-season/r39612/matches/ > ${DIR}/kaz/b.html
+

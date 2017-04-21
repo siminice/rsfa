@@ -1,0 +1,24 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "bos" "a1" "premier-liga" "championship-round"
+${CURL} ${SW}/bosnia-herzegovina/premier-liga/20162017/championship-round/r37712/matches/ > ${DIR}/bos/a1.html
+
+printf " %-3s > %-3s > %s > %s\n" "bos" "a2" "premier-liga" "relegation-round"
+${CURL} ${SW}/bosnia-herzegovina/premier-liga/20162017/relegation-round/r37713/matches/ > ${DIR}/bos/a2.html
+
+#printf " %-3s > %-3s > %s > %s\n" "bos" "b1" "1st-league" "rs"
+#${CURL} ${SW}/bosnia-herzegovina/1st-league/20162017/rs/r37032/matches/ > ${DIR}/bos/b1.html
+
+printf " %-3s > %-3s > %s > %s\n" "bos" "b1-1" "1st-league" "rs---promotion-round"
+${CURL} ${SW}/bosnia-herzegovina/1st-league/20162017/rs---promotion-round/r37033/matches/ > ${DIR}/bos/b1-1.html
+
+printf " %-3s > %-3s > %s > %s\n" "bos" "b1-2" "1st-league" "rs---relegation-round"
+${CURL} ${SW}/bosnia-herzegovina/1st-league/20162017/rs---relegation-round/r37034/matches/ > ${DIR}/bos/b1-2.html
+
+printf " %-3s > %-3s > %s > %s\n" "bos" "b2" "1st-league" "fbih"
+${CURL} ${SW}/bosnia-herzegovina/1st-league/20162017/fbih/r37031/matches/ > ${DIR}/bos/b2.html
+

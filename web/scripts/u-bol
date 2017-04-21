@@ -1,0 +1,8 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/bol
+
+update a1.2017 ../web/bol/a.html
+update b.2017 ../web/bol/b.html -g 2
+
+

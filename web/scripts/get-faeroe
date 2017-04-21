@@ -1,0 +1,15 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "fae" "a" "meistaradeildin" "regular-season"
+${CURL} ${SW}/faroe-islands/meistaradeildin/2017/regular-season/r39201/matches/ > ${DIR}/fae/a.html
+
+printf " %-3s > %-3s > %s > %s\n" "fae" "b" "1-deild" "regular-season"
+${CURL} ${SW}/faroe-islands/1-deild/2017/regular-season/r38988/matches/ > ${DIR}/fae/b.html
+
+printf " %-3s > %-3s > %s > %s\n" "fae" "c" "2-deild" "regular-season"
+${CURL} ${SW}/faroe-islands/2-deild/2017/regular-season/r38987/matches/ > ${DIR}/fae/c.html
+

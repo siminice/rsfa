@@ -1,0 +1,10 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/iceland/landsbankadeild-karla/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/isl/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/isl/results.html /Users/radu/rsssf/sat/web/isl/first.html
+./httrack "http://soccerway.com/national/iceland/1-deild-karla/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/isl/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/isl/results.html /Users/radu/rsssf/sat/web/isl/1-deild-karla.html
+./httrack "http://soccerway.com/national/iceland/2-deild-karla/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/isl/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/isl/results.html /Users/radu/rsssf/sat/web/isl/2-deild-karla.html
+cd /Users/radu/rsssf/sat/isl

@@ -1,0 +1,9 @@
+#!/bin/bash
+
+URL="192.168.1.156"
+
+cd $1
+ scp [a-e]*.{18,19,20}?? radu@${URL}:/var/www/html/$1/
+ scp part.* radu@${URL}:/var/www/html/$1/
+ scp teams.dat alias.dat webteams.dat radu@${URL}:/var/www/html/$1/
+cd ..

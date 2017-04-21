@@ -1,0 +1,8 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/chile/primera-division/2008/clausura//results" -O "/Users/radu/rsssf/sat/web/chi/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/chi/results.html /Users/radu/rsssf/sat/web/chi/first.html
+./httrack "http://soccerway.com/national/chile/primera-b/2008/clausura//results" -O "/Users/radu/rsssf/sat/web/chi/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/chi/results.html /Users/radu/rsssf/sat/web/chi/primera-b.html
+cd /Users/radu/rsssf/sat/chi

@@ -1,0 +1,24 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "slo" "a" "1-snl" "regular-season"
+${CURL} ${SW}/slovenia/1-snl/20162017/regular-season/r36395/matches/ > ${DIR}/slo/a.html
+
+printf " %-3s > %-3s > %s > %s\n" "slo" "b" "2-snl" "regular-season"
+${CURL} ${SW}/slovenia/2-snl/20162017/regular-season/r36396/matches/ > ${DIR}/slo/b.html
+
+printf " %-3s > %-3s > %s > %s\n" "slo" "c1" "3-snl" "center"
+${CURL} ${SW}/slovenia/3-snl/20162017/center/r37285/matches/ > ${DIR}/slo/c1.html
+
+printf " %-3s > %-3s > %s > %s\n" "slo" "c2" "3-snl" "east"
+${CURL} ${SW}/slovenia/3-snl/20162017/east/r37286/matches/ > ${DIR}/slo/c2.html
+
+printf " %-3s > %-3s > %s > %s\n" "slo" "c3" "3-snl" "north"
+${CURL} ${SW}/slovenia/3-snl/20162017/north/r37287/matches/ > ${DIR}/slo/c3.html
+
+printf " %-3s > %-3s > %s > %s\n" "slo" "c4" "3-snl" "west"
+${CURL} ${SW}/slovenia/3-snl/20162017/west/r37289/matches/ > ${DIR}/slo/c4.html
+

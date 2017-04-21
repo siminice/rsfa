@@ -1,0 +1,14 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+
+#./httrack "http://soccerway.com/national/ecuador/primera-a/2008/2nd-phase//results" -O "/Users/radu/rsssf/sat/web/ecu/" --get -%v
+#mv -f /Users/radu/rsssf/sat/web/ecu/results.html /Users/radu/rsssf/sat/web/ecu/first.html
+
+./httrack "http://soccerway.com/national/ecuador/primera-a/2008/playoffs//results" -O "/Users/radu/rsssf/sat/web/ecu/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/ecu/results.html /Users/radu/rsssf/sat/web/ecu/first.html
+
+./httrack "http://soccerway.com/national/ecuador/primera-b/2008/2nd-phase//results" -O "/Users/radu/rsssf/sat/web/ecu/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/ecu/results.html /Users/radu/rsssf/sat/web/ecu/primera-b.html
+
+cd /Users/radu/rsssf/sat/ecu

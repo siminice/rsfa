@@ -1,0 +1,8 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/paraguay/division-profesional/2008/clausura//results" -O "/Users/radu/rsssf/sat/web/par/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/par/results.html /Users/radu/rsssf/sat/web/par/first.html
+./httrack "http://soccerway.com/national/paraguay/division-intermedia/2008/regular-season//results" -O "/Users/radu/rsssf/sat/web/par/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/par/results.html /Users/radu/rsssf/sat/web/par/division-intermedia.html
+cd /Users/radu/rsssf/sat/par

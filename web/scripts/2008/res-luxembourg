@@ -1,0 +1,8 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/luxembourg/division-nationale/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/lux/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/lux/results.html /Users/radu/rsssf/sat/web/lux/first.html
+./httrack "http://soccerway.com/national/luxembourg/promotion-d-honneur/2008-2009/regular-season//results" -O "/Users/radu/rsssf/sat/web/lux/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/lux/results.html /Users/radu/rsssf/sat/web/lux/promotion-d-honneur.html
+cd /Users/radu/rsssf/sat/lux

@@ -1,0 +1,6 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/mexico/primera-division/2008-2009/apertura//results" -O "/Users/radu/rsssf/sat/web/mex/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/mex/results.html /Users/radu/rsssf/sat/web/mex/first.html
+cd /Users/radu/rsssf/sat/mex

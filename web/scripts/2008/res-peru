@@ -1,0 +1,8 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/peru/primera-division/2008/clausura//results" -O "/Users/radu/rsssf/sat/web/per/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/per/results.html /Users/radu/rsssf/sat/web/per/first.html
+./httrack "http://soccerway.com/national/peru/segunda-division/2008/apertura//results" -O "/Users/radu/rsssf/sat/web/per/" --get -%v
+mv -f /Users/radu/rsssf/sat/web/per/results.html /Users/radu/rsssf/sat/web/per/segunda-division.html
+cd /Users/radu/rsssf/sat/per

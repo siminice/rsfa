@@ -1,0 +1,27 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "svk" "a" "super-liga" "regular-season"
+${CURL} ${SW}/slovakia/super-liga/20162017/regular-season/r36397/matches/ > ${DIR}/svk/a.html
+
+printf " %-3s > %-3s > %s > %s\n" "svk" "b" "i-liga" "promotion-round"
+${CURL} ${SW}/slovakia/i-liga/20162017/promotion-round/r37477/matches/ > ${DIR}/svk/b.html
+
+printf " %-3s > %-3s > %s > %s\n" "svk" "b3" "i-liga" "relegation-round"
+${CURL} ${SW}/slovakia/i-liga/20162017/relegation-round/r37478/matches/ > ${DIR}/svk/b3.html
+
+printf " %-3s > %-3s > %s > %s\n" "svk" "c1" "ii-liga" "bratislava"
+${CURL} ${SW}/slovakia/ii-liga/20162017/bratislava/r37733/matches/ > ${DIR}/svk/c1.html
+
+printf " %-3s > %-3s > %s > %s\n" "svk" "c2" "ii-liga" "west"
+${CURL} ${SW}/slovakia/ii-liga/20162017/west/r37732/matches/ > ${DIR}/svk/c2.html
+
+printf " %-3s > %-3s > %s > %s\n" "svk" "c3" "ii-liga" "center"
+${CURL} ${SW}/slovakia/ii-liga/20162017/center/r37730/matches/ > ${DIR}/svk/c3.html
+
+printf " %-3s > %-3s > %s > %s\n" "svk" "c4" "ii-liga" "east"
+${CURL} ${SW}/slovakia/ii-liga/20162017/east/r37731/matches/ > ${DIR}/svk/c4.html
+

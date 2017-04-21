@@ -1,0 +1,6 @@
+#!/bin/csh
+
+cd /home/radu/rsssf/sat/mnt
+update a.2017 ../web/mnt/a.html
+update b.2017 ../web/mnt/b.html
+

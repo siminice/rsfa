@@ -1,0 +1,9 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/finland/first" -O "/Users/radu/rsssf/sat/web/fin/" --get -%v
+./httrack "http://soccerway.com/national/finland/ykknen" -O "/Users/radu/rsssf/sat/web/fin/" --get -%v
+./httrack "http://soccerway.com/national/finland/kakkonen/2008/lohko-a" -O "/Users/radu/rsssf/sat/web/fin/" --get -%v
+./httrack "http://soccerway.com/national/finland/kakkonen/2008/lohko-b" -O "/Users/radu/rsssf/sat/web/fin/" --get -%v
+./httrack "http://soccerway.com/national/finland/kakkonen/2008/lohko-c" -O "/Users/radu/rsssf/sat/web/fin/" --get -%v
+cd /Users/radu/rsssf/sat/fin

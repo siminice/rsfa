@@ -1,0 +1,6 @@
+#!/bin/csh
+
+cd /Users/radu/Programs/httrack-3.40.3/src/
+./httrack "http://soccerway.com/national/united-states/major-league-soccer/2008/regular-season/eastern-conference" -O "/Users/radu/rsssf/sat/web/usa/" --get -%v
+./httrack "http://soccerway.com/national/united-states/major-league-soccer/2008/regular-season/western-conference" -O "/Users/radu/rsssf/sat/web/usa/" --get -%v 
+cd /Users/radu/rsssf/sat/usa

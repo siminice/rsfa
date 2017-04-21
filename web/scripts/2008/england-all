@@ -1,0 +1,19 @@
+#!/bin/csh
+
+cd /Users/radu/rsssf/sat/eng
+../update a.2008 ../web/eng/first.html
+../update b.2008 ../web/eng/championship-league.html
+../update c.2008 ../web/eng/league-one.html
+../update d.2008 ../web/eng/league-two.html
+../update e.2008 ../web/eng/n-l-1-conference.html
+../update f1.2008 ../web/eng/north.html
+../update f2.2008 ../web/eng/south.html
+../update g1.2008 ../web/eng/isthmian.html
+../update g2.2008 ../web/eng/northern.html
+../update g3.2008 ../web/eng/southern.html
+../update h1.2008 ../web/eng/isthmian-north.html
+../update h2.2008 ../web/eng/isthmian-south.html
+../update h3.2008 ../web/eng/northern-north.html
+../update h4.2008 ../web/eng/northern-south.html
+../update h5.2008 ../web/eng/southern-midlands.html
+../update h6.2008 ../web/eng/southern-south-and-west.html

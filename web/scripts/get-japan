@@ -1,0 +1,12 @@
+#!/bin/bash
+
+CURL="curl -s --get"
+SW="http://www.soccerway.com/national"
+DIR="/home/radu/rsssf/sat/web"
+
+printf " %-3s > %-3s > %s > %s\n" "jap" "a" "j1-league" "regular-season"
+${CURL} ${SW}/japan/j1-league/2017/regular-season/r39922/matches/ > ${DIR}/jap/a.html
+
+printf " %-3s > %-3s > %s > %s\n" "jap" "b" "j2-league" "regular-season"
+${CURL} ${SW}/japan/j2-league/2017/regular-season/r39745/matches/ > ${DIR}/jap/b.html
+
