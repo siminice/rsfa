@@ -1,0 +1,957 @@
+1800 ASA Bucureºti~ASA*1949 CSCA Bucureºti~CSCA*1950 CCA Bucureºti~CCA*1962 Steaua Bucureºti~Steaua*2000 FC Steaua Bucureºti~Steaua*2099 Steaua Bucureºti~Steaua
+1800 Dinamo Bucureºti~Dinamo*2000 FC Dinamo Bucureºti~Dinamo*2099 Dinamo Bucureºti~Dinamo
+1800 ªtiinþa Craiova~ªt.Craiova*1967 Universitatea Craiova~Craiova*2000 FC Universitatea Craiova~Craiova*2014 FC Universitatea Craiova~U Craiova*2099 Universitatea Craiova~Craiova
+1920 CFR Bucureºti~CFR Bucureºti*1937 Rapid Bucureºti~Rapid*1950 Locomotiva Bucureºti~Loc.Bucureºti*1952 Locomotiva Griviþa Roºie~Loc.Bucureºti*1953 Locomotiva Bucureºti~Loc.Bucureºti*1958 Rapid Bucureºti~Rapid*2000 UFC Rapid Bucureºti~Rapid*2099 Rapid Bucureºti~Rapid
+1800 Partizanul Ploieºti~Ploieºti*1951 Flacãra Ploieºti~Ploieºti*1958 Petrolul Ploieºti~Petrolul*1992 FC Ploieºti~Ploieºti*1993 Petrolul Ploieºti~Petrolul*2004 Petrolul-Astra Ploieºti~Ploieºti*2005 FC Petrolul Ploieºti~Petrolul*2099 Petrolul Ploieºti~Petrolul
+1800 BNR Bucureºti~BNR*1949 Banca de Stat Bucureºti~Banca de Stat*1950 Spartac Bucureºti~Spartac*1954 Progresul FB Bucureºti~Progresul*1955 Progresul Bucureºti~Progresul*1978 Progresul Vulcan Bucureºti~Progresul*1989 Progresul Bucureºti~Progresul*1995 FC Naþional Bucureºti~Naþional*2008 FC Progresul Bucureºti~Progresul*2099 Progresul Bucureºti~Progresul
+1800 Flamura Roºie Piteºti~Piteºti*1954 Flacãra Piteºti~Piteºti*1956 Dinamo Piteºti~Dinamo Piteºti*1959 Dinamo 9 Miliþie Bucureºti~Dinamo Miliþie*1960 Dinamo Piteºti~Piteºti*1968 FC Argeº Piteºti~Argeº*2000 FC Argeº Dacia Piteºti~Argeº*2006 FC 2005 Piteºti SA~Piteºti*2009 FC Argeº Piteºti~Argeº
+1800 Dinamo Bacãu~Bacãu*1971 SC Bacãu~Bacãu*1992 FC Bacãu~Bacãu*1993 FC Selena Bacãu~Bacãu*1996 AS Bacãu~Bacãu*1998 FCM Bacãu~Bacãu*2007 FC Municipal Bacãu~Bacãu*2011 FCM Bacãu~Bacãu
+1800 UAB Braºov~UAB*1948 Steagul Roºu Braºov~Braºov*1950 Steagul Roºu Oraºul Stalin~Steagul Roºu*1952 Metalul Oraºul Stalin~Braºov*1954 Steagul Roºu Oraºul Stalin~Steagul Roºu*1956 Energia Oraºul Stalin~Braºov*1958 Steagul Roºu Oraºul Stalin~Steagul Roºu*1960 Steagul Roºu Braºov~Braºov*1980 FCM Braºov~Braºov*1992 FC Braºov~Braºov
+1800 Desrobirea Constanþa~Constanþa*1950 CFR Constanþa~CFR Constanþa*1953 ªantierul Constanþa~Constanþa*1954 Locomotiva Constanþa~Loc.Constanþa*1958 Farul Constanþa~Farul*1973 FC Constanþa~Constanþa*1989 FC Farul Constanþa~Farul*2099 Farul Constanþa~Farul
+1800 Metalosport Galaþi~Metalosport*1971 Dacia Galaþi~Dacia*1972 Oþelul Galaþi~Oþelul*1977 Metalosport Galaþi~Metalosport*1978 Oþelul Galaþi~Oþelul*1982 Metalosport Galaþi~Metalosport*1983 Oþelul Galaþi~Oþelul*1992 FC Oþelul Galaþi~Oþelul*2099 Oþelul Galaþi~Oþelul
+1800 Progresul Bistriþa~Bistriþa*1958 Gloria Bistriþa~Bistriþa*2000 CF Gloria 1922 Bistriþa~Bistriþa*2015 Gloria Progresul Bistriþa~Bistriþa*2099 Gloria Bistriþa~Bistriþa
+1800 Recolta Avîntul Piatra Neamþ~Piatra Neamþ*1959 CS Piatra Neamþ~Piatra Neamþ*1960 Ceahlãul Piatra Neamþ~Ceahlãul*1979 Relon-Ceahlãul Piatra Neamþ~Ceahlãul*1980 Ceahlãul Piatra Neamþ~Ceahlãul*2000 FC Ceahlãul Piatra Neamþ~Ceahlãul*2099 Ceahlãul Piatra Neamþ~Ceahlãul
+1800 UD Reºiþa~UD Reºiþa*1948 Metalochimic Reºiþa~Reºiþa*1950 Metalul Reºiþa~Reºiþa*1956 Energia Reºiþa~Reºiþa*1958 Metalul Reºiþa~Reºiþa*1959 CSM Reºiþa~CSM Reºiþa*1976 FCM Reºiþa~FCM Reºiþa*1983 CSM Reºiþa~CSM Reºiþa*2006 FCM Reºiþa~FCM Reºiþa*2010 FC ªcolar Reºiþa~ªcolar Reºiþa*2011 CSM ªcolar Reºiþa~CSM Reºiþa*2013 AFCM Reºiþa~FCM Reºiþa*2017 CSM ªcolar Reºiþa~Reºiþa*2099 CSM Reºiþa~CSM Reºiþa
+1800 Astra Ploieºti~Astra*1997 Danubiana Ploieºti~Danubiana*1998 FC Astra Ploieºti~Astra*2008 CSM Ploieºti~CSM Ploieºti*2010 FC Astra Ploieºti~Astra*2013 FC Astra Giurgiu~Astra*2099 Astra Ploieºti~Astra
+1800 Energia Oneºti~Oneºti*1966 Energia Gh.Gheorghiu Dej~Gh.Dej*1985 MECON Gh.Gheorghiu Dej~Gh.Dej*1991 Electro MECON Oneºti~Oneºti*1992 MECON Oneºti~Oneºti*1993 Meconerg Oneºti~Oneºti*1994 Electro Mecon Oneºti~Oneºti*1995 FC Oneºti~Oneºti*2011 FCM Oneºti~Oneºti
+1800 Autobuzul Bucureºti~Autobuzul*1994 AS Rocar Bucureºti~Rocar*2007 AFC Rocar ANEFS Bucureºti~Rocar ANEFS*2099 Autobuzul Bucureºti~Autobuzul
+1800 Electroputere Craiova~Electroputere*1961 CFR Electroputere Craiova~Electroputere*1962 Electroputere Craiova~Electroputere*2000 Extensiv Craiova~Extensiv*2004 FC Craiova~FC Craiova*2005 FC Caracal~Caracal*2099 Electroputere Craiova~Electroputere
+1800 Laminorul Roman~Lam.Roman*2005 FC Laminorul Roman~Roman*2010 CSM Petrotub Roman~Roman*2017 CSM Roman~Roman*2099 Laminorul Roman~Roman
+1800 Oþelul Galaþi~Oþelul*1972 FC Galaþi~FC Galaþi*1976 FCM Galaþi~FCM Galaþi*1981 FCM Siderurgistul Galaþi~FCM Galaþi*1983 Dunãrea CSU Galaþi~Dunãrea CSU*1989 Gloria CFR Galaþi~Gloria Galaþi*1995 FC Constant Galaþi~Constant*1996 FCM Dunãrea Galaþi~Dunãrea Galaþi*2099 Dunãrea Galaþi~Dunãrea Galaþi
+1800 Dacia Piteºti~Dacia Piteºti*2002 CS Dacia Mioveni~Dacia Mioveni*2011 CS Mioveni~Mioveni
+1800 Calculatorul Bucureºti~Calculatorul*1993 Juventus Colentina Bucureºti~Juventus*2008 SC Juventus Bucureºti~Juventus*2099 Juventus Bucureºti~Juventus
+1800 Avântul Fãlticeni~Fãlticeni*1956 Recolta Fãlticeni~Fãlticeni*1957 Energia Fãlticeni~Fãlticeni*1958 Foresta Fãlticeni~Fãlticeni*1983 Chimia Fãlticeni~Fãlticeni*1989 Foresta Fãlticeni~Fãlticeni*1998 Foresta Suceava~Foresta*2003 Foresta Fãlticeni~Fãlticeni
+1800 Cimentul Fieni~Fieni*2010 CS Atletic Fieni~Fieni*2099 Cimentul Fieni~Fieni
+1800 Unirea Focºani~Focºani*1954 Spartac Focºani~Focºani*1955 Progresul Focºani~Focºani*1958 Unirea Focºani~Focºani*1961 Rapid Focºani~Rapid Focºani*1964 Fructexport Focºani~Focºani*1967 Unirea Focºani~Focºani*1971 Automobilul Focºani~Focºani*1973 Unirea Focºani~Focºani*1981 Unirea Dinamo Focºani~Focºani*1987 Unirea Focºani~Focºani*1994 FC Acord Focºani~Focºani*1997 FC Vrancea~Vrancea*1998 Diplomatic Vrancea~Vrancea*1999 Diplomatic Focºani~Focºani*2003 Unirea Focºani~Focºani*2007 CSM Focºani~Focºani*2099 Unirea Focºani~Focºani
+1800 IAR Braºov~IAR Braºov*1948 Tractorul Braºov~Tractorul*1950 Metalul Tractorul Oraºul Stalin~Tractorul*1954 Tractorul Oraºul Stalin~Tractorul*1960 Tractorul Braºov~Tractorul
+1800 Politehnica Iaºi~Poli Iaºi*1950 ªtiinþa Iaºi~ªtiinþa Iaºi*1959 CSMS Iaºi~CSMS Iaºi*1968 Politehnica Iaºi~Poli Iaºi*2002 Poli Unirea Iaºi~Poli Iaºi*2005 CS Politehnica Iaºi~Poli Iaºi*2006 FC Politehnica Iaºi~Poli Iaºi*2011 CSMS Iaºi~CSMS Iaºi*2099 Politehnica Iaºi~Poli Iaºi
+1800 Astra Sportivã Metrom Braºov~Metrom*1942 UA Braºov~UA Braºov*1946 Metrom Braºov~Metrom
+1800 SC Universitar Bucureºti~Sporting*1928 Sportul Studenþesc Bucureºti~Sportul Stud*1945 ªtiinþa Bucureºti~ªtiinþa Buc*1947 Sparta Bucureºti~Sparta*1954 Politehnica Bucureºti~Politehnica Buc*1958 CSU Bucureºti~CSU Bucureºti*1960 ªtiinþa Bucureºti~ªtiinþa Buc*1967 Politehnica Bucureºti~Polit. Buc*1970 Sportul Studenþesc Bucureºti~Sportul Stud*2000 Sportul Studenþesc Bucureºti~Sportul Stud
+1800 Victoria Buzãu~Buzãu*1967 Metalul Buzãu~Buzãu*1972 Gloria Buzãu~Buzãu*2000 FC Gloria Buzãu~Buzãu*2099 Gloria Buzãu~Buzãu
+1800 Petrochim Constanþa~Petrochim*1995 CFR Petrochim Constanþa~CFR Petrochim*1996 AS Midia Nãvodari~Midia*20999 Midia Nãvodari~Nãvodari
+1800 Metalul Mangalia~Mangalia*1991 Callatis Mangalia~Callatis*1998 Callatis Daewoo Mangalia~Callatis*2000 FC Callatis Mangalia~Callatis*2099 Callatis Mangalia~Callatis
+1800 Precizia Sãcele~Sãcele*2007 FC Sãcele~Sãcele*2099 Precizia Sãcele~Sãcele
+1800 Flacãra Moineºti~Moineºti*1956 Energia Moineºti~Moineºti*1958 Petrolul Moineºti~Moineºti*2009 AS Fotbal Moineºti~Moineºti*2012 CSM Moineºti~Moineºti*2099 Petrolul Moineºti~Moineºti
+1800 Astra Poiana Câmpina~Poiana*1950 Partizanul Câmpina~Câmpina*1952 Flacãra Poiana Câmpina~Câmpina*1953 Metalul Câmpina~Câmpina*1955 Flacãra Câmpina~Câmpina*1956 Energia Câmpina~Câmpina*1958 Poiana Câmpina~Poiana*2007 FC Municipal Câmpina~Câmpina*2099 Poiana Câmpina~Poiana
+1800 Energia Tîrgoviºte~Tîrgoviºte*1958 Metalul Tîrgoviºte~Tîrgoviºte*1974 CS Tîrgoviºte~Tîrgoviºte*1991 CS Târgoviºte~Târgoviºte*1995 Oþelul "U" Târgoviºte~Târgoviºte*1997 FC Chindia Târgoviºte~Chindia*2004 FCM Chindia Târgoviºte~Chindia*2005 FCM Târgoviºte~Târgoviºte*2099 CS Târgoviºte~Târgoviºte
+1800 Jiul IEELIF Craiova~Jiul Craiova*1996 FC IEELIF Caracal~Caracal*2099 Jiul Craiova~Jiul Craiova
+1800 ARO Câmpulung Muscel~ARO
+1800 UF Hunedoara~Hunedoara*1947 IMS Hunedoara~Hunedoara*1950 Metalul Hunedoara~Hunedoara*1956 Energia Hunedoara~Hunedoara*1958 Corvinul Hunedoara~Corvinul*1964 Siderurgistul Hunedoara~Hunedoara*1965 Metalul Hunedoara~Hunedoara*1971 Corvinul Hunedoara~Corvinul*2006 SC Corvinul 2005 Hunedoara~Corvinul*2012 Corvinul Hunedoara~Corvinul
+1800 UM Timiºoara~UMT
+1958 Criºul Oradea~Criºul*1962 ASA Criºul Oradea~Criºul*1963 Criºul Oradea~Criºul*1973 FC Bihor Oradea~Bihor*2003 FC Oradea~Oradea*2006 FC Bihor Oradea~Bihor
+1800 CFR Turnu Severin~CFR Tr.Severin*1950 Locomotiva Turnu Severin~Loc.Severin*1958 CFR Turnu Severin~CFR Tr.Severin*1959 Drubeta Turnu Severin~Drubeta*1962 Metalul Turnu Severin~Turnu Severin*1977 CSM Drobeta Turnu Severin~Drobeta*1986 AS Drobeta Turnu Severin~Drobeta*1991 FC Drobeta Turnu Severin~Drobeta*2099 FC Drobeta Turnu Severin~Drobeta
+1800 Inter Sibiu~Inter Sibiu*1987 FC Inter Sibiu~Inter Sibiu*2002 AMSO Sibiu~Sibiu*2004 FC Sibiu~FC Sibiu*2099 Inter Sibiu~Inter Sibiu
+1800 Minerul Motru~Motru*1994 Minerul Venus Motru~Motru*2000 CS Minerul Motru~Motru*2099 Minerul Motru
+1800 Mihai Viteazul Alba Iulia~Alba Iulia*1935 Unirea MV Alba Iulia~Alba Iulia*1946 Unirea Alba Iulia~Alba Iulia*1997 Apulum Alba Iulia~Alba Iulia*2008 FC Unirea Alba Iulia~Alba Iulia*2099 Unirea Alba Iulia~Alba Iulia
+1800 Karres Mediaº~Mediaº*1949 Gaz Metan Mediaº~Mediaº*1950 Partizanul Mediaº~Mediaº*1951 Flacãra Mediaº~Mediaº*1956 Energia Mediaº~Mediaº*1958 Gaz Metan Mediaº~Mediaº*1961 CSM Mediaº~Mediaº*1963 Gaz Metan Mediaº~Mediaº*2000 CS Gaz Metan Mediaº~Mediaº*2099 Gaz Metan Mediaº~Mediaº
+1800 I.T. Arad~ITA*1950 Flamura Roºie Arad~Arad*1958 U.T. Arad~UTA*1985 FCM UTA Arad~UTA*1986 CS UTA Arad~UTA*1988 FCM UTA Arad~UTA*2099 UTA Arad~UTA
+1910 UCAS Petroºani~Petroºani*1928 Jiul Petroºani~Jiul*1950 Partizanul Petroºani~Petroºani*1951 Flacãra Petroºani~Petroºani*1953 Minerul Petroºani~Petroºani*1956 Energia Petroºani~Petroºani*1958 Jiul Petroºani~Jiul*1962 Jiul Petrila~Jiul*1967 Jiul Petroºani~Jiul*2007 CS Jiul Petroºani~Jiul*2099 Jiul Petroºani~Jiul
+1800 Politehnica Timiºoara~Poli Timiºoara*1949 CSU Timiºoara~CSU Timiºoara*1950 ªtiinþa Timiºoara~ªt.Timiºoara*1967 Politehnica Timiºoara~Poli Timiºoara*2003 FCU Politehnica Timiºoara~Timiºoara*2008 Poli 1921 ªtiinþa Timiºoara~Timiºoara*2009 FC Timiºoara~Timiºoara*2012 FC Politehnica Timiºoara~Timiºoara*2016 ASU Politehnica Timiºoara~Poli Timiºoara*2099 Politehnica Timiºoara~Poli Timiºoara
+1800 Olimpia Satu Mare~Olimpia SM*1934 Olympia CFR Satu Mare~Olympia SM*1945 ASMD Satu Mare~Satu Mare*1948 CFR Satu Mare~CFR Satu Mare*1950 CFR Locomotiva Satu Mare~Satu Mare*1952 Progresul Satu Mare~Satu Mare*1958 Victoria Satu Mare~Satu Mare*1960 Dinamo Satu Mare~Satu Mare*1962 ASMD Satu Mare~Satu Mare*1965 Sãtmãreana Satu Mare~Satu Mare*1968 Metalul Satu Mare~Satu Mare*1969 Olimpia Satu Mare~Olimpia*1988 Olimpia IUM Satu Mare~Olimpia*1991 Olimpia Satu Mare~Olimpia*2000 CF Olimpia 1921 Satu Mare~Olimpia*2012 FC Olimpia Satu Mare~Olimpia*2099 Olimpia Satu Mare~Olimpia
+1800 Mureºul Tg.Mureº~Mureºul*1965 ASA Tg.Mureº~ASA*1991 ASA Electromureº Tg.Mureº~ASA*1992 ASA Tg.Mureº~ASA*2006 CS Maris Tg.Mureº~Maris*2008 ASA Unirea Ungheni~Ungheni*2099 ASA Tg.Mureº~ASA
+1800 Chimica Tîrnãveni~Tîrnãveni*1956 Energia Flacãra 7 Tîrnãveni~Tîrnãveni*1958 Chimica Tîrnãveni~Tîrnãveni*1991 Chimica Târnaveni~Târnaveni
+1800 CSM Rm.Vîlcea~Rm.Vîlcea*1950 Flamura Roºie Rm.Vîlcea~Rm.Vîlcea*1958 Unirea Rm.Vîlcea~Rm.Vîlcea*1959 ªantierul Govora~Govora*1961 Chimia Govora~Govora*1963 Unirea Rm.Vîlcea~Rm.Vîlcea*1966 Oltul Rm.Vîlcea~Rm.Vîlcea*1968 Chimia Rm.Vîlcea~Rm.Vîlcea*1991 Chimia Rm.Vâlcea~Rm.Vâlcea*1995 FC Vâlcea~Vâlcea*1999 Flacãra Rm.Vâlcea~Rm.Vâlcea*2002 FCM Rm.Vâlcea~Rm.Vâlcea*2099 Chimia Rm.Vîlcea~Rm.Vîlcea
+1800 Universitatea Cluj~U Cluj*1941 Universitatea Cluj (@Sibiu)~U Cluj*1945 Universitatea Cluj~U Cluj*1949 CSU Cluj~U Cluj*1950 ªtiinþa Cluj~ªtiinþa Cluj*1967 Universitatea Cluj~U Cluj*2000 CFM Universitatea Cluj~U Cluj*2099 Universitatea Cluj~U Cluj
+1800 Aripile Bacãu~Aripile Bacãu*1981 Victoria IRA Bacãu~IRA Bacãu*1983 Aripile Bacãu~Aripile*1987 Aripile Victoria Bacãu~Aripile*1992 Aerostar Bacãu~Aerostar*2000 CS Aerostar Bacãu~Aerostar*2099 Aerostar Bacãu~Aerostar
+1800 Petrolistul Dãrmãneºti~Dãrmãneºti*1991 Rafinãria Dãrmãneºti~Dãrmãneºti
+1800 Lemnarul Odorheiu Secuiesc~Odorhei*1972 Textila Odorheiu Secuiesc~Odorhei*1975 Progresul Odorheiu Secuiesc~Odorhei*1992 Harghita Odorheiu Secuiesc~Odorhei*1999 Budvar Odorheiu Secuiesc~Odorhei*2007 CS Roseal Odorheiu Secuiesc~Odorhei*2099 Progresul Odorheiu Secuiesc~Odorhei
+1800 Viitorul Vaslui~Vaslui*1981 Viitorul Mecanica Vaslui~Vaslui*1984 Mecanica Vaslui~Vaslui*1991 Mecanica MARVAS Vaslui~Vaslui*1993 Sportul Municipal Vaslui~Vaslui*2003 FC Vaslui~Vaslui*2006 Sporting Club Vaslui~Vaslui*2009 FC Vaslui~Vaslui
+1800 Cimentul Bicaz~Bicaz
+1800 Minobrad Vatra Dornei~Vatra Dornei*1975 Dorna Vatra Dornei~Vatra Dornei*1982 Minerul Vatra Dornei~Vatra Dornei*1987 Steaua Minerul Vatra Dornei~Vatra Dornei*1992 Minerul Vatra Dornei~Vatra Dornei*1997 Dorna Vatra Dornei~Vatra Dornei
+1800 Apemin Borsec~Borsec
+1800 Creditul Carbonifer Comãneºti~Comãneºti*1950 Minerul Comãneºti~Comãneºti
+1800 Termoutilaj Piatra Neamþ~Termoutilaj PN*2001 FC Ceahlãul II Piatra Neamþ~Ceahlãul II*2099 Ceahlãul II Piatra Neamþ~Ceahlãul II
+1800 Unirea Iaºi~Unirea Iaºi*1976 Metalurgistul Iaºi~Met.Iaºi*2000 Unirea Iaºi~Unirea Iaºi
+1800 ªantierul Naval Galaþi~ªN Galaþi
+1800 Unirea CFR Paºcani~Paºcani*1946 CFR Paºcani~CFR Paºcani*1950 Locomotiva Paºcani~Paºcani*1959 CFR Paºcani~CFR Paºcani*2010 CSM Paºcani~Paºcani*2013 CSM Kosarom Paºcani~Paºcani*2017 CSM Paºcani~Paºcani*2099 CFR Paºcani~Paºcani
+1800 Luceafãrul Focºani~Luceafãrul Foc*1979 Luceafãrul Adjud~Adjud*1989 Celuloza Adjud~Adjud*1993 Vrancart Adjud~Adjud*2003 Proodeftiki Adjud~Adjud*2099 Luceafãrul Adjud~Adjud
+1800 AS Miercurea Ciuc~Miercurea Ciuc*1972 Minerul Miercurea Ciuc~Miercurea Ciuc*1973 AS Miercurea Ciuc~Miercurea Ciuc*1978 IUPS Miercurea Ciuc~Miercurea Ciuc*1979 Tractorul Miercurea Ciuc~Miercurea Ciuc*1985 Rapid Miercurea Ciuc~Miercurea Ciuc*2011 CSM Miercurea Ciuc~Miercurea Ciuc
+1800 Siretul Bucecea~Bucecea*1984 Siretul Electro Botoºani~Siretul Bt*1986 CSM Bucecea~Bucecea*2000 Siretul Bucecea~Bucecea
+1800 Rapid Panciu~Panciu*1982 Viticultorul Panciu~Panciu*1987 Textila Panciu~Panciu*1990 Tricotex Panciu~Panciu*2009 FC Panciu~Panciu*2013 Young Stars Panciu~Panciu*2016 CS Panciu~Panciu*2099 FC Panciu~Panciu
+1800 Rulmentul Bîrlad~Bîrlad*1991 Rulmentul Bârlad~Bârlad*2007 FC Bârlad~Bârlad*2099 Rulmentul Bârlad~Bârlad
+1800 CFR Iaºi~CFR Iaºi*1950 Locomotiva Iaºi~Loc.Iaºi*1958 CFR Iaºi~CFR Iaºi*1964 Moldova Iaºi~Moldova Iaºi*1965 Dinamo Moldova Iaºi~Moldova Iaºi*1966 Locomotiva Iaºi~Loc.Iaºi*1970 CFR Iaºi~CFR Iaºi*1991 CFR Citadin Iaºi~CFR Iaºi*2003 CFR Moldova Iaºi~CFR Iaºi*2099 CFR Iaºi~CFR Iaºi
+1800 FC Hondor Stil Agigea~Agigea*2099 Hondor Stil Agigea~Agigea
+1800 Metalul Filipeºtii de Pãdure~Met.Filipeºti*2007 CS Filipeºtii de Pãdure~Filipeºti*2010 AFC Filipeºtii de Pãdure~Filipeºti*2099 Metalul Filipeºtii de Pãdure~Met.Filipeºti
+1800 Cimentul Medgidia~Cim.Medgidia*1989 Voinþa ICS Medgidia~V.Medgidia*1993 Cimentul Medgidia~Medgidia*1994 Cimentul Voinþa Medgidia~Medgidia*1995 Cimentul Medgidia~Medgidia*2000 CSM Medgidia~Medgidia*2099 Cimentul Medgidia~Cimentul Medg
+1800 Energia Metalul Constanþa~Energia C-þa*1958 ªantierul Naval Constanþa~ªNM Constanþa*1962 Portul Constanþa~Portul*2008 CS Portul Constanþa~Portul*2099 Portul Constanþa~Portul
+1800 FC Cãlãraºi~Cãlãraºi*1956 Progresul Cãlãraºi~Cãlãraºi*1960 Celuloza Cãlãraºi~Cãlãraºi*1980 Dunãrea Cãlãraºi~Cãlãraºi*1993 FC Sportul Cãlãraºi~Cãlãraºi*1995 Dunãrea Cãlãraºi~Cãlãraºi*2000 FC Dunãrea Cãlãraºi~Cãlãraºi*2099 Dunãrea Cãlãraºi~Cãlãraºi
+1800 Metalul Plopeni~Plopeni*1960 Rapid Mizil~Mizil*1968 Rapid Plopeni~Plopeni*1969 Metalul Plopeni~Plopeni*2010 CSO Plopeni~Plopeni*2099 Metalul Plopeni~Plopeni
+1800 CAM Rm.Sãrat~Rm.Sãrat*1950 Olimpia Rm.Sãrat~Rm.Sãrat*1982 Ferodoul Rm.Sãrat~Rm.Sãrat*1983 Olimpia Rm.Sãrat~Rm.Sãrat*1995 Acvaterm Rm.Sãrat~Rm.Sãrat*2001 Olimpia Rm.Sãrat~Rm.Sãrat*2006 CSM Râmnicu Sãrat~Rm.Sãrat*2016 CS Olimpia Râmnicu Sãrat~Rm.Sãrat*2099 Olimpia Râmnicu Sãrat~Rm.Sãrat
+1800 Unirea Tricolor Brãila~UT Brãila*1973 Chimia Brãila~Chimia Brãila*1976 Unirea Tricolor Brãila~UT Brãila*1980 Chimia Brãila~Chimia Brãila
+1800 Franco-Românã Brãila~Franco-Românã*1949 Progresul Brãila~Prog.Brãila*1950 Metalul Brãila~Met.Brãila*1956 Energia Metalul Brãila~Met.Brãila*1958 Dinamo Brãila~Dinamo Brãila*1960 CSM Brãila~CSM Brãila*1963 Progresul Brãila~Prog.Brãila*1964 Laminorul Brãila~Lam.Brãila*1965 Constructorul Brãila~Constr.Brãila*1966 Progresul Brãila~Prog.Brãila*1976 FC Brãila~FC Brãila*1981 FCM Progresul Brãila~Brãila*1992 Dacia Unirea Brãila~DU Brãila*2007 CF Brãila~Brãila*2016 ACS Dacia Unirea Brãila~Brãila
+1800 Chimia Brazi~Brazi*1987 Chimia ASA Ploieºti~Chimia Pl*1989 ASA Chimia Brazi~Brazi*1990 ASA Chimia Ploieºti~Chimia Pl*1992 Chimia Ploieºti~Chimia Pl*1993 CS Chimia Brazi~Brazi*2013 Fortuna Brazi~Brazi*2014 ACS Fortuna Poiana Câmpina~Fortuna*2099 Chimia Brazi~Brazi
+1800 ICIM Ploieºti~ICIM Ploieºti*1981 Chimia Ploieºti~Ch.Ploieºti*1994 CS Conpet Ploieºti~Conpet*2099 Conpet Ploieºti~Conpet
+1800 Dacia Unirea Brãila~Dacia Unirea*1991 Dunacor Brãila~Dunacor*2099 Dacia Unirea Brãila~Dacia Unirea
+1800 Petrolul Berca~Berca*2009 FC Petrolul ZF 1948 Berca~Berca*2099 Petrolul Berca~Berca
+1800 Dunãrea Tulcea~Dunãrea Tulcea*1978 Pescãruºul Tulcea~Pescãruºul*1981 ªN Tulcea~ªN Tulcea
+1800 Aurora Urziceni~Urziceni*1973 Avîntul Urziceni~Urziceni*1980 FEROM Urziceni~Urziceni*1984 Unirea Urziceni~Urziceni*1995 Agricultorul Urziceni~Urziceni*2000 Unirea Valahorum Urziceni~Urziceni*2008 FC Unirea Voluntari Urziceni~Urziceni*2099 Unirea Urziceni~Urziceni
+1800 Unirea Mânãstirea~Mânãstirea
+1800 Azotul Slobozia~Slobozia*1980 Amonil Slobozia~Slobozia*1983 Unirea Slobozia~Slobozia*1994 ASA '93 Slobozia~Slobozia*1999 Unirea Slobozia~Slobozia*2005 Partener Slobozia~Slobozia*2006 FC Unirea 2004 Slobozia~Slobozia*2099 Unirea Slobozia~Slobozia
+1800 Hidrotehnica Buzãu~Hidro Buzãu*1992 Hidrotehnica ASA Buzãu~Hidro Buzãu*1999 Hidroconcas Buzãu~Hidro Buzãu*2006 Hidrometalcord Buzãu~Hidro Buzãu*2099 Hidrotehnica Buzãu~Hidroo Buzãu
+1800 Fulgerul Bragadiru~Bragadiru*2002 Fulgerul/AEK Bucureºti~AEK*2003 Poli AEK Timiºoara~Poli AEK*2005 FCU Politehnica Timiºoara~Timiºoara*2008 Poli 1921 ªtiinþa Timiºoara~Timiºoara*2009 FC Timiºoara~Timiºoara*2012 FC Politehnica Timiºoara~Timiºoara*2099 Poli AEK Timiºoara~Poli AEK
+1800 Astra Românã Moreni~Moreni*1950 Partizanul Moreni~Moreni*1951 Flacãra Moreni~Moreni*1957 Energia Moreni~Moreni*1958 Flacãra Moreni~Moreni*1976 Flacãra Automecanica Moreni~Moreni*1987 Flacãra Moreni~Moreni*2004 Petrom Flacãra Moreni~Moreni*2017 Flacãra Moreni~Moreni
+1800 Dinamo Calafat~Dinamo Calafat
+1800 Electromagnetica Bucureºti~E-magnetica*2006 FC Rapid II Bucureºti~Rapid II*2099 Electromagnetica Bucureºti~E-magnetica
+1800 Malaxa Tohan~Malaxa*1943 Malaxa Rogifer Tohan~Malaxa*1946 Metalochimic Bucureºti~Metalochimic*1949 Metalul Bucureºti~Metalul Buc*1956 Energia Metalul Bucureºti~Metalul Buc*1958 Metalul Titanii Bucureºti~Metalul Buc*1961 Metalul Bucureºti~Metalul Buc*1966 Metalurgistul Bucureºti~Metalul Buc*1968 Metalul Bucureºti~Metalul Buc*1992 CS Faur Bucureºti~Faur*2099 Metalul Bucureºti~Metalul Buc
+1800 Vulturii Buzãu~Vulturii Buzãu
+1800 Progresul Pucioasa~Pucioasa*2000 CONIRED Pucioasa~Pucioasa*2009 AS Viitorul Pucioasa~Pucioasa*2099 Progresul Pucioasa~Pucioasa
+1800 Sirena Bucureºti~Sirena Buc*1982 Aversa Bucureºti~Aversa*2007 CS Aversa Bucureºti~Aversa*2099 Aversa Bucureºti~Aversa
+1800 Severnav Turnu Severin~Severnav*2000 CS Severnav Turnu Severin~Severnav*2008 FCM Drobeta Turnu Severin~Drobeta*2099 Severnav Turnu Severin~Severnav
+1800 Oltul Slatina~Slatina*1946 Dinamo Slatina~Slatina*1971 Gloria Slatina~Slatina*1972 Oltul Slatina~Slatina*1980 Energia Slatina~Slatina*1983 IP Aluminiu Slatina~Slatina*1986 Sportul Muncitoresc Slatina~Slatina*1989 Metalurgistul Slatina~Slatina*1998 Aluminiu Slatina~Slatina*2003 AFC Oltul Slatina~Oltul Slatina*2008 FC Balº 2007~Balº*2009 CSM Slatina~Slatina*2012 FC Olt Slatina~Olt*2016 ACS Inter Olt Slatina~Slatina*2099 Oltul Slatina~Oltul Slatina
+1800 Energia Constructorul Craiova~Constr.Craiova*1958 Constructorul Craiova~Constr Craiova*1984 Constructorul TCI Craiova~TCI Craiova*1994 Constructorul "U" Craiova~Constr.Craiova*2099 Constructorul Craiova~Constr.Craiova
+1800 Progresul Alexandria~Alexandria*1969 Comerþul Alexandria~Alexandria*1973 Automatica Alexandria~Alexandria*1976 Unirea Alexandria~Alexandria*1979 Rulmentul Alexandria~Alexandria*1983 Unirea Alexandria~Alexandria*1986 Automatica Alexandria~Alexandria*1989 CSM Unirea Alexandria~Alexandria*1991 Unirea Alexandria~Alexandria*2009 FCM Alexandria~Alexandria
+1800 CFR Roºiorii de Vede~Roºiori*1968 ROVA Roºiorii de Vede~Roºiori*1972 Sporting Roºiori~Roºiori*1973 CFR Roºiorii de Vede~Roºiori*1974 ROVA Roºiorii de Vede~Roºiori*1994 Sporting Roºiori~Roºiori*2001 AS Municipal ROVA Roºiori~Roºiori*2004 CSM ROVA Roºiorii de Vede~Roºiori*2015 CS Sporting Roºiori~Roºiori*2099 ROVA Roºiorii de Vede~ROVA
+1800 Danubiana Giurgiu~Giurgiu*1950 Spartac Giurgiu~Giurgiu*1960 Dunãrea Giurgiu~Giurgiu*1964 Victoria Giurgiu~Vict.Giurgiu*1966 Dunãrea Giurgiu~Giurgiu*1976 FCM Giurgiu~FCM Giurgiu*1985 FCM Dunãreana Giurgiu~Dun.Giurgiu*1990 AS Dunãrea Giurgiu~Dun.Giurgiu*1991 FC Dunãrea Giurgiu~Dun.Giurgiu*2011 FC Astra II Giurgiu~Giurgiu*2099 Dunãrea Giurgiu~Giurgiu
+1800 Turistul Pantelimon~Pantelimon*2008 AS Inter Pantelimon~Pantelimon*2099 Inter Pantelimon~Pantelimon
+1800 Constr. Feroviar Bucureºti~CF Bucureºti*1996 FC Atletic Bucureºti~Atletic Buc*2099 Constr. Feroviar Bucureºti~CF Bucureºti
+1800 Inter-Gaz Bucureºti~Inter-Gaz*2008 CS Intergaz Bucureºti~Intergaz*2099 Inter-Gaz Bucureºti~Inter-Gaz
+1800 Petrolul Videle~Videle*2001 CS Petrolul Videle~Videle*2099 Petrolul Videle~Videle
+1800 Corvinul Deva~Deva*1960 Minerul Deva~Deva*1967 Mureºul Deva~Deva*1980 Minerul Deva~Deva*1981 Explormin Deva~Deva*1983 Explorãri Deva~Deva*1984 Mureºul Explorãri Deva~Deva*1986 Mureºul Deva~Deva*1993 Vega Deva~Deva*2000 Cetate Deva~Deva*2003 Mureºul Deva~Deva*2004 CS Deva~Deva*2007 CS Mureºul Deva~Deva*2016 CNS Cetate Deva~Deva*2099 Mureºul Deva~Deva
+1800 Electrica Timiºoara~Electrica Tim
+1800 Mica Brad~Brad*1949 Aurul Brad~Brad*1950 Metalul Brad~Brad*1951 Aurul Brad~Brad*1956 Energia Brad~Brad*1958 Aurul Brad~Brad*1961 Dinamo Barza~Barza*1962 Aurul Brad~Brad
+1800 Telecom Timiºoara~Telecom Tim
+1800 Minaur Zlatna~Zlatna*1965 Aurul Zlatna~Zlatna*1970 Minaur Zlatna~Zlatna*1971 Minerul Zlatna~Zlatna*1972 Minaur Zlatna~Zlatna*2010 CS Zlatna~Zlatna*2099 Minaur Zlatna~Zlatna
+1800 Aurul Certej~Certej*1978 Minerul Certej~Certej*2003 CS Certej~Certej*2004 CS Deva~Deva*2099 Minerul Certej~Certej
+1800 Minerul Uricani~Uricani
+1800 Chimia Arad~Chimia Arad*1984 Petrolul Arad~Petrolul Arad*1993 West Petrom Pecica~Pecica*1999 Westpetrom Arad~West Petrom
+1910 CFR Timiºoara~CFR Timiºoara*1950 Locomotiva Timiºoara~Loc.Timiºoara*1958 CFR Timiºoara~CFR Timiºoara*1962 CSO Timiºoara~CSO Timiºoara*1963 CFR Timiºoara~CFR Timiºoara
+1800 Gloria Reºiþa~Gloria Reºiþa*2000 CS Gloria Reºiþa~Gloria Reºiþa*2099 Gloria Reºiþa~Gloria Reºiþa
+1800 CA Arad~CA Arad
+1800 Universitatea Goldiº Arad~U Arad*2001 Astra Trinity Arad~Astra Arad*2003 Atletic Club Univ. Arad~ACU Arad*2008 CSU Vasile Goldiº Arad~CSU Arad*2009 CS Atletic Club Univ. Arad~ACU Arad*2099 ACU Arad~ACU Arad
+1800 Cuprirom Abrud~Abrud
+1800 CS Lonea~Lonea*1946 Parângul Lonea~Lonea
+1800 FC Inter Arad~Inter Arad
+1800 Jiul Lupeni~Lupeni*1934 Minerul Lupeni~Lupeni*1950 Partizanul Lupeni~Lupeni*1951 Flacãra Lupeni~Lupeni*1953 Minerul Lupeni~Lupeni*1956 Energia Lupeni~Lupeni*1958 Minerul Lupeni~Lupeni*2000 CS Minerul Lupeni~Lupeni*2099 Minerul Lupeni~Lupeni
+1800 AS Cugir~Cugir*1943 UM Cugir~Cugir*1955 Metalul Cugir~Cugir*1956 Energia Metalul 108 Cugir~Cugir*1958 UM Cugir~Cugir*1963 AS Cugir~Cugir*1970 Metalurgistul Cugir~Cugir*2003 CF Cugir 1939~Cugir*2010 CSO Cugir~Cugir*2014 Metalurgistul Cugir~Cugir*2099 Metalurgistul Cugir~Cugir
+1800 Victoria Caransebeº~Caransebeº*1973 CPL Caransebeº~Caransebeº*1983 CSM Caransebeº~Caransebeº*1994 Caromet Caransebeº~Caransebeº*2099 CSM Caransebeº~Caransebeº
+1800 Automobilul Curtea de Argeº~Curtea Argeº*1979 Electronistul Curtea de Argeº~Curtea Argeº*2001 AS Curtea de Argeº~Curtea Argeº*2099 Electronistul Curtea de Argeº~Curtea Argeº
+1800 Energia Victoria~Victoria*1958 Sinteza Victoria~Victoria*1960 Chimia Victoria~Victoria*1991 Viromet Victoria~Victoria*2099 Chimia Oraºul Victoria~Victoria
+1800 Petrolul Tg.Cãrbuneºti~Tg.Cãrbuneºti*1995 Gilortul Tg.Cãrbuneºti~Tg.Cãrbuneºti
+1800 Energia Tg.Jiu~Tg.Jiu*1958 Flacãra Tg.Jiu~Tg.Jiu*1960 Pandurii Tg.Jiu~Pandurii*1966 Victoria Tg.Jiu~Tg.Jiu*1971 Pandurii Tg.Jiu~Pandurii*1974 Cimentul Tg.Jiu~Tg.Jiu*1976 Cimentul Victoria Tg.Jiu~Tg.Jiu*1977 Pandurii Tg.Jiu~Pandurii*1986 Gloria Pandurii Tg.Jiu~Pandurii*1988 CSM Pandurii Tg.Jiu~Pandurii*1995 Pandurii Lignitul Tg.Jiu~Pandurii*2000 FC Pandurii Lignitul Tg.Jiu~Pandurii*2099 Pandurii Târgu Jiu~Pandurii
+1800 Oltul Sf.Gheorghe~Sf.Gheorghe*1946 Textila Sf.Gheorghe~Sf.Gheorghe*1950 Flamura Roºie Sf.Gheorghe~Sf.Gheorghe*1958 Textila Sf.Gheorghe~Sf.Gheorghe*1960 Oltul Sf.Gheorghe~Sf.Gheorghe*1964 Textila Sf.Gheorghe~Sf.Gheorghe*1966 Oltul Sf.Gheorghe~Sf.Gheorghe*1982 CSM Sf.Gheorghe~Sf.Gheorghe*1984 IMASA Sf.Gheorghe~IMASA*1992 FC Sfântu Gheorghe~Sf.Gheorghe*2003 Oltul Sf.Gheorghe~Sf.Gheorghe*2005 CS Transkurier Sf.Gheorghe~Sf.Gheorghe*2099 Oltul Sf.Gheorghe~Sf.Gheorghe
+1800 Chimistul Rm.Vîlcea~Chimistul Rm.V*1991 FC Oltchim Râmnicu Vâlcea~Oltchim*2099 Oltchim Râmnicu Vâlcea~Oltchim
+1800 Petrolul Stoina~Stoina
+1800 Unirea Drãgãºani~Drãgãºani*1980 Viitorul Drãgãºani~Drãgãºani*1989 Viitorul CSª Drãgãºani~Drãgãºani*1995 Petrolul Drãgãºani~Drãgãºani
+1800 Minerul Berbeºti~Berbeºti
+1800 Minerul Mãtãsari~Mãtãsari*2004 SC Minerul Jilþ Mãtãsari~Mãtãsari*2099 Minerul Mãtãsari~Mãtãsari
+1800 Explosivii Fãgãraº~Fãgãraº*1950 Metalul Fãgãraº~Fãgãraº*1951 Chimia Fãgãraº~Fãgãraº*1974 Nitramonia Fãgãraº~Nitramonia*2005 CSM ENA Inter Fãgãraº~Fãgãraº*2012 CSM Fãgãraº~Fãgãraº*2013 ACS Civitas Fãgãraº~Fãgãraº*2099 Nitramonia Fãgãraº~Fãgãraº
+1800 Arsenal Sibiu~Arsenal Sibiu*1951 Metalul Sibiu~Met.Sibiu*1952 Înainte Sibiu~Sibiu*1953 Libertatea Sibiu~Sibiu*1954 Progresul Sibiu~Prog.Sibiu*1959 CSA Sibiu~Sibiu*1960 ASA Sibiu~Sibiu*1961 CSM Sibiu~Sibiu*1974 ªoimii Sibiu~Sibiu*1982 ªoimii IPA Sibiu~ªoimii Sibiu*1988 IPA Sibiu~IPA Sibiu*1991 ªoimii IPA Sibiu~ªoimii Sibiu*1993 ªoimii COMPA Sibiu~ªoimii Sibiu*1997 AS ªoimii Sibiu~ªoimii Sibiu*2000 ªoimii Sibiu~ªoimii Sibiu*2003 AMSO Sibiu~AMSO Sibiu*2004 FC Sibiu~FC Sibiu*2099 ªoimii Sibiu~ªoimii Sibiu
+1800 Forestierul Stâlpeni~Stâlpeni
+1800 Universitatea Sibiu~U Sibiu*1945 CSU Mecanica Sibiu~CSU Sibiu*2004 Universitatea SOPO Sibiu~U Sibiu*2099 CSU Sibiu~CSU Sibiu
+1800 ICIM Braºov~ICIM*1999 ICIM Textila Prejmer~ICIM*2099 ICIM Braºov~ICIM
+1800 Rapid Energia Braºov~Energia Braºov
+1800 Petrolul Þicleni~Þicleni
+1800 Romradiatoare Braºov~Romradiatoare*2005 CS Forex Braºov~Forex*2099 Forex Braºov~Forex
+1800 Phoenix Baia Mare~Baia Mare*1939 Carpaþi Baia Mare~Baia Mare*1946 Phoenix Baia Mare~Baia Mare*1949 CSM Baia Mare~Baia Mare*1950 Metalul Baia Mare~Baia Mare*1956 Energia Baia Mare~Baia Mare*1958 Minerul Baia Mare~Baia Mare*1959 CSM Baia Mare~Baia Mare*1962 Minerul Baia Mare~Baia Mare*1976 FC Baia Mare~Baia Mare*1986 FC Maramureº Baia Mare~Maramureº*1997 FC Baia Mare~Baia Mare*2011 FCM Baia Mare~FCM Baia Mare
+1800 Ind. Sârmei Câmpia Turzii~Câmpia Turzii*1950 Metalul Cîmpia Turzii~Cîmpia Turzii*1956 Energia Câmpia Turzii~Câmpia Turzii*1958 Ind. Sîrmei Cîmpia Turzii~Cîmpia Turzii*1991 Ind. Sârmei Cîmpia Turzii~Câmpia Turzii*2000 CS Ind. Sârmei Câmpia Turzii~Câmpia Turzii*2009 CS Mechel Câmpia Turzii~Câmpia Turzii*2010 FC Seso Câmpia Turzii~Câmpia Turzii*2014 AFC Arieºul 1907 Turda~Turda*2099 Ind. Sârmei Câmpia Turzii~Câmpia Turzii
+1800 CIL Gherla~Gherla*1980 Olimpia Gherla~Gherla
+1800 Oaºul Negreºti~Oaº*1994 Oaºul '94 Negreºti~Oaº*2004 FC Oaºul Negreºti~Oaº*2099 Oaºul Negreºti~Oaº
+1800 Progresul Satu Mare~Progresul SM*1958 Someºul Satu Mare~Someºul*2002 CF Someºul 2002 Satu Mare~Someºul*2099 Someºul Satu Mare~Someºul
+1800 CFR Dej~Dej*1950 Steaua Dej~Dej*1964 Unirea Dej~Dej*2005 FC Unirea Dej~Dej*2099 Unirea Dej~Dej
+1800 CFR Cluj~CFR Cluj*1950 Locomotiva Cluj~Loc.Cluj*1958 CFR Cluj~CFR Cluj*1961 CSM Cluj~CSM Cluj*1965 Clujeana Cluj~Clujeana*1968 CFR Cluj~CFR Cluj*1983 Steaua CFR Cluj-Napoca~CFR Cluj*1991 CFR Cluj~CFR Cluj*2003 CFR Ecomax Cluj~CFR Cluj*2007 CFR 1907 Cluj~CFR Cluj
+1800 Dinamo Zalãu~Zalãu*1971 Unirea Zalãu~Zalãu*1974 CS Unirea Zalãu~Zalãu*1975 Armãtura Zalãu~Zalãu*2009 FC Zalãu~Zalãu*2099 Armãtura Zalãu~Zalãu
+1800 Silvania ªimleu Silvaniei~Silvania*2000 FC Silvania ªimleu Silvaniei~Silvania*2099 Silvania ªimleu Silvaniei~Silvania
+1800 Stãruinþa Aleºd~Aleºd*1980 Criºul Aleºd~Aleºd
+1800 Topitorul Baia Mare~Topitorul*1950 Metalurgistul Baia Mare~Met.Baia Mare*1965 Topitorul Baia Mare~Topitorul*1975 CUPROM Baia Mare~Cuprom*1993 Phoenix Baia Mare~Phoenix
+1800 Someºul Beclean~Beclean*1975 Energia Beclean~Beclean*1985 Energia Prundu Bîrgãului~Prundu Bîrgãu*1986 Energia Beclean~Beclean*1987 Laminorul Beclean~Beclean*2002 Someºul Beclean~Beclean*2003 FC Someº Gaz Beclean~Beclean*2099 Someºul Beclean~Beclean
+1800 Progresul ªomcuta Mare~ªomcuta Mare
+1800 Arieºul Turda~Turda*1946 Progresul Turda~Turda*1958 Arieºul Turda~Turda*1976 Sticla Turda~Turda*1978 Sticla Arieºul Turda~Turda*2004 FC Arieºul Turda~Turda*2099 Arieºul Turda~Turda
+1800 Minerul Sãrmãºag~Sãrmãºag
+1800 Minerul Ocna-Dej~Ocna-Dej
+1800 Recolta Salonta~Salonta*1958 Stãruinþa Salonta~Salonta*1964 Steaua Roºie Salonta~Salonta*1969 Metalul Salonta~Salonta*1971 Recolta Salonta~Salonta*1991 Olimpia Salonta~Salonta
+1800 Foresta Reghin~Reghin*1950 Partizanul Reghin~Reghin*1954 Avântul Reghin~Reghin*1956 Recolta Reghin~Reghin*1958 Partizanul Reghin~Reghin*1959 Avîntul Reghin~Reghin*1991 Avântul Reghin~Reghin*1997 Avântul Silva Reghin~Reghin*2006 CS Avântul Reghin~Reghin*2099 Avântul Reghin~Reghin
+1800 Ozana Tg.Neamþ~Tg.Neamþ*1977 Cetatea Tg.Neamþ~Tg.Neamþ*2000 Silvex Tg.Neamþ~Tg.Neamþ*2005 CS Cetatea Tg.Neamþ~Tg.Neamþ*2099 Cetatea Tg.Neamþ~Tg.Neamþ
+1800 Energia Feldioara~Feldioara
+1800 Telecom Iaºi~Telecom Iaºi
+1800 Cetatea Sucevei~Suceava*1946 Dinamo Suceava~Suceava*1954 Spartac Burdujeni~Burdujeni*1955 Flamura Roºie Burdujeni~Burdujeni*1957 Progresul Suceava~Suceava*1959 Victoria Suceava~Suceava*1960 Dinamo Suceava~Suceava*1965 Viitorul Suceava~Suceava*1966 Chimia Suceava~Suceava*1973 CSM Suceava~Suceava*1994 FC Bucovina Suceava~Suceava*1999 Foresta II Fãlticeni~Foresta II*2003 Bucovina Suceava~Suceava*2004 ªoimii Bucovina Suceava~Suceava*2005 FC Cetatea Suceava~Suceava*2010 ACS Sporting Suceava~Sp Suceava*2099 CSM Suceava~Suceava
+1800 FC Agricultorul Gârbovi~Gârbovi*2099 Agricultorul Gârbovi~Gârbovi
+1800 Scorillo Grãdiºtea~Grãdiºtea
+1800 Gloria Zemeº~Zemeº
+1800 Forestierul Tg.Secuiesc~Tg.Secuiesc*1978 Metalul Tg.Secuiesc~Tg.Secuiesc*1999 Fortyogo Tg.Secuiesc~Tg.Secuiesc*2005 CS Târgu Secuiesc~Tg.Secuiesc
+1800 Litoral Mangalia~Litoral*1992 Litoral Neptun~Litoral*1993 AS Neptun~Neptun
+1800 Spicul Afumaþi~Afumaþi*2012 CS Afumaþi~Afumaþi*2099 Spicul Afumaþi~Afumaþi
+1800 CFR BTA Bucureºti~CFR BTA*1999 FC Paulo BTA Bucureºti~Paulo BTA*2099 CFR BTA Bucureºti~CFR BTA
+1800 Venus Bucureºti~Venus*1949 UCB Venus Bucureºti~Venus*1950 Progresul ICAS Bucureºti~Progresul ICAS*2099 Venus Bucureºti~Venus
+1800 Viitorul Chirnogi~Chirnogi*1993 Sportul Chirnogi~Chirnogi*2010 CS Viitorul Chirnogi~Chirnogi*2013 CS Victoria Chirnogi~Chirnogi*2099 Victoria Chirnogi~Chirnogi
+1800 Electrica Constanþa~Electrica Ct*2000 Electrica Dobrogea Constanþa~Dobrogea Ct*2005 Altay Constanþa~Altay*2099 Electrica Constanþa~Electrica Ct
+1800 Dinamo Dorohoi~Dorohoi*1957 Progresul Dorohoi~Dorohoi*1958 Gloria Dorohoi~Dorohoi*1960 Fulgerul Dorohoi~Dorohoi*1974 Cristalul Dorohoi~Dorohoi*2000 FCM Dorohoi~Dorohoi*2099 Cristalul Dorohoi~Dorohoi
+1800 VIP Bârlad~VIP Bârlad
+1800 Minerul ªotînga~ªotînga*1991 Minerul ªotânga~ªotânga*2000 Alpan Teiº ªotânga~ªotânga*2002 Alpan "U" Târgoviºte~Alpan*2005 FCM II Târgoviºte~Târgoviºte II*2099 Minerul ªotînga~ªotînga
+1800 Oltul Turnu Mãgurele~Turnu Mãgurele*1946 Unirea Turnu Mãgurele~Turnu Mãgurele*1955 Oltul Turnu Mãgurele~Turnu Mãgurele*1960 Chimia Turnu Mãgurele~Turnu Mãgurele*1988 Chimia Victoria Tr. Mãgurele~Turnu Mãgurele*1989 Chimia Turnu Mãgurele~Turnu Mãgurele*1993 CS Turris Turnu Mãgurele~Turnu Mãgurele*1999 Electroturris Turnu Mãgurele~Turnu Mãgurele*2000 CS Turris Turnu Mãgurele~Turnu Mãgurele*2099 Chimia Turnu Mãgurele~Turnu Mãgurele
+1800 Textila Roºiori~Text.Roºiori
+1800 Neoconstructorul Mihai Bravu~Mihai Bravu
+1800 FC Piteºti~FC Piteºti*2002 FC Internaþional Piteºti~Inter Piteºti*2008 FC Internaþional Curtea Argeº~Internaþional*2099 Internaþional Curtea Argeº~Internaþional
+1800 Flacãra Horezu~Horezu*1980 Hidroenergia Rm.Vîlcea~Hidro RmV*1981 Minerul Rm.Vîlcea~Minerul RmV*1982 Minerul Horezu~Horezu*2000 Minerul Prelcom Horezu~Horezu*2099 Minerul Horezu~Horezu
+1800 Unirea Orºova~Orºova*1972 Cutezãtorii Orºova~Orºova*1973 Dierna Orºova~Orºova
+1800 Dacia Cozia Cãlimãneºti~Cãlimãneºti*1995 Cozia Cãlimãneºti~Cãlimãneºti
+1800 ªtiinþa Drãgãneºti-Olt~Drãgãneºti*1986 Sportul Munc. Drãgãneºti-Olt~Drãgãneºti
+1800 Soda Ocna Mureº~Ocna Mureº*2005 FC Soda Ocna Mureº~Ocna Mureº*2010 CS Ocna Mureº~Ocna Mureº*2099 Soda Ocna Mureº~Ocna Mureº
+1800 AS Politehnica Timiºoara~AS Timiºoara*2002 CSU Poli Timiºoara~CSU Timiºoara*2007 FC Politehnica II Timiºoara~Timiºoara II*2009 FC Timiºoara II~Timiºoara II*2012 FC Politehinica Timiºoara II~Timiºoara II*2099 Politehnica Timiºoara II~Timiºoara II
+1800 Jiul Petrila~Petrila*1991 Inter Petrila~Petrila
+1800 Minerul Moldova Nouã~Moldova Nouã
+1800 CFR Simeria~Simeria*1950 Locomotiva Simeria~Simeria*1958 CFR Simeria~Simeria*2003 CFR Marmosim Simeria~Simeria*2099 CFR Simeria~Simeria
+1800 Cimentul Hoghiz~Hoghiz
+1800 Gaz Metan Tg.Mureº~Gaz Metan TgM*2008 CS Gaz Metan Tg.Mureº~Gaz Metan TgM*2099 Gaz Metan Tg.Mureº~Gaz Metan TgM
+1800 Minerul Iara~Iara*2009 CS SESO Iara~Iara*2010 FC SESO Câmpia Turzii~Câmpia Turzii*2099 Minerul Iara~Iara
+1800 Carpaþi Mîrºa~Mîrºa*1991 Textila '91 Cisnãdie~Cisnãdie*1996 Mecanica Mârºa~Mârºa*2099 Carpaþi Mârºa~Mârºa
+1800 Voinþa Mãriºelu~Mãriºelu
+1800 Acumulatorul Bucureºti~Acumulatorul*2000 Acumulatoare Pantelimon~Pantelimon*2099 Acumulatorul Bucureºti~Acumulatorul
+1800 Petrolistul Boldeºti~Boldeºti*2000 CS Petrolistul Boldeºti~Boldeºti
+1800 Dunãrea Calafat~Calafat*2003 SC Fotbal GP Calafat~Calafat*2004 Dunãrea Calafat~Calafat
+1800 Oþelul Dr.Petru Groza~Petru Groza*1991 Oþelul ªtei~Oþelul ªtei
+1800 AMEF Arad~AMEFA*1948 UV-AMEF Arad~AMEFA*1949 Astra AMEF Arad~AMEFA*1955 Metalul AMEF Arad~Metalul Arad*1956 Energia Metalul Arad~Metalul Arad*1958 AMEF Arad~AMEFA*1962 Vagonul Arad~Vagonul*1974 Unirea Arad~Unirea Arad*1975 Rapid Arad~Rapid Arad*1986 CSM Rapid Arad~Rapid Arad*1987 CSM Vagonul Arad~Vagonul*1991 CS Astra Arad~Astra Arad*1995 FC Arad~FC Arad*1996 Telecom Arad~Telecom Arad*2005 Romtelecom Arad~Telecom Arad*2099 Vagonul Arad~Vagonul
+1800 Lãpuºul Tg.Lãpuº~Lãpuº
+1800 Textila Prejmer~Prejmer
+1800 Constructorul Satu Mare~Constr.Satu M.*1991 ªoimii Satu Mare~ªoimii SM
+1800 ASA Mizil~Mizil*1981 Chimia Ploieºti~Chimia Pl*1981 ICIM Ploieºti~ICIM*1982 ASA Mizil~Mizil*1985 AS Mizil~Mizil*1986 Steaua Mizil~Mizil
+1800 Rãsãritul Caracal~Caracal*1948 CFR Caracal~Caracal*1950 Rãsãritul Caracal~Caracal*1971 Fabrica de Conserve Caracal~Caracal*1972 Rãsãritul Caracal~Caracal*1975 Vagonul Caracal~Caracal*1977 Rãsãritul Caracal~Caracal*1980 Sportul Muncitoresc Caracal~Caracal*1989 FCM Caracal~Caracal*1992 FC Caracal~Caracal*1999 Progresul Caracal~Caracal
+1800 Metalul Bocºa Românã~Bocºa*1969 AS Bocºa~Bocºa*1970 Minerul Bocºa~Bocºa*1975 Metalul Bocºa~Bocºa
+1800 Gloria CFR Galaþi~Gloria Galaþi*1949 CFR Galaþi~CFR Galaþi*1950 Locomotiva Galaþi~Loc.Galaþi*1958 Gloria CFR Galaþi~Gloria Galaþi*1959 CSM Galaþi~CSM Galaþi*1960 Gloria CFR Galaþi~Gloria Galaþi*1987 Gloria IMN Galaþi~Gloria Galaþi*1988 Gloria CFR Galaþi~Gloria Galaþi
+1800 Viitorul Scorniceºti~Scorniceºti*1980 FC Olt Scorniceºti~FC Olt*1991 CS Olt '90 Scorniceºti~CS Olt*1997 FC Olt Scorniceºti~FC Olt
+1800 AS Pompierul Bucureºti~Pompierul*1946 Dinamo 6 Bucureºti~Dinamo 6*1958 Dinamo Obor Bucureºti~Dinamo Obor*1959 AS Pompierul Bucureºti~Pompierul*1960 Dinamo Obor Bucureºti~Dinamo Obor*1964 Dinamo Victoria Bucureºti~Victoria Buc*1968 Electronica Obor Bucureºti~Obor*1972 Dinamo Obor Bucureºti~Dinamo Obor*1974 Dinamo Victoria Bucureºti~Victoria*1986 Victoria Bucureºti~Victoria
+1800 Constructorul Iaºi~Constr.Iaºi*1959 CSM II Iaºi~CSM II Iaºi*1960 Constructorul Iaºi~Constr.Iaºi
+1800 ªN Brãila~ªN Brãila*1981 ªN ITA Brãila~ITA Brãila*1983 Petrolul Ianca~Ianca*1995 Petrolul Brãila~Petr.Brãila
+1800 Argeºul 30 Decembrie~30 Decembrie*1985 Sportul 30 Decembrie~30 Decembrie*1992 Sportul Comaico~Comaico*1993 Sportul Agrarian Braniºtea~Braniºtea*1996 Agrariana Braniºtea~Braniºtea*2099 Sportul 30 Decembrie~30 Decembrie
+1800 Strungul Arad~Strungul*1991 FC Aris Arad~Aris Arad*2099 Strungul Arad~Strungul
+1800 Electrozahãr Tg.Mureº~Electrozahãr*1983 Electromureº Tg.Mureº~Electromureº
+1800 Minerul Cavnic~Cavnic
+1800 Relonul Sãvineºti~Sãvineºti*1979 I.M. Piatra Neamþ~IM P.Neamþ*1981 Relonul Sãvineºti-Roznov~Roznov*1984 Relonul Sãvineºti~Sãvineºti*1993 CS Melana Sãvineºti~Sãvineºti*2099 Relonul Sãvineºti~Sãvineºti
+1800 ªtiinþa Bacãu~ªtiinþa Bacãu*1976 CSM Borzeºti~Borzeºti
+1800 Minerul Paºcani~Min.Paºcani*1947 Siretul Paºcani~Siretul Paºcani
+1800 Prahova Ploieºti~Prahova*1948 Concordia Ploieºti~Concordia*1950 Flacãra Ploieºti~Flacãra Ploieºti*1954 Metalul Ploieºti~Met.Ploieºti*1955 Flacãra 1 Mai Ploieºti~Fl Ploieºti*1956 Energia 1 Mai Ploieºti~Energia Pl*1958 Prahova Ploieºti~Prahova*1985 Prahova CSU Ploieºti~Prahova*1992 CSM Prahova Ploieºti~Prahova*2099 Prahova Ploieºti~Prahova
+1800 Mecanicã Finã Bucureºti~Mecanicã Finã
+1800 Montana Sinaia~Montana*1992 Montana Caraimanul Buºteni~Montana
+1800 Vulturii Textila Lugoj~Lugoj*1947 23 August Lugoj~Lugoj*1948 CSM Lugoj~Lugoj*1949 Muncitorul Lugojan~Lugoj*1953 ªantierul Lugoj~Lugoj*1956 Vulturii Textila Lugoj~Lugoj*1983 Vulturii IURT Lugoj~Lugoj*1985 CSM Lugoj~Lugoj*1990 Vulturii Lugoj~Lugoj*2013 CSM Lugoj~Lugoj*2099 Vulturii Lugoj~Lugoj
+1800 Tisa Sighet~Sighet*1949 CFR Sighet~Sighet*1956 Recolta Avîntul Sighet~Sighet*1958 Tisa Sighet~Sighet*1959 Stãruinþa Sighet~Sighet*1965 Foresta Sighet~Sighet*1966 Forestiera Sighet~Sighet*1967 CIL Sighet~Sighet*1985 CIL Mecanica Sighet~Sighet*1995 AS Sighetu Marmaþiei~Sighet*1997 CS Marmaþia '96 Sighet~Sighet*2013 CS Plimob Sighetu Marmaþiei~Sighet*2015 CSM Sighetu Marmaþiei~Sighet*2099 CIL Sighet~Sighet
+1800 Flamura Roºie Botoºani~Botoºani*1958 Textila Botoºani~Tex.Botoºani*1964 Unirea Botoºani~Unirea Botoºani*1965 Textila Botoºani~Tex.Botoºani*1974 CS Botoºani~CS Botoºani*1993 CS Mecanex Botoºani~CS Botoºani*1994 FC Botoºani~FC Botoºani*1995 FC Cozinda Botoºani~FC Botoºani*1996 FC Botoºani~FC Botoºani*1999 Unirea Botoºani~Unirea Botoºani*2000 FC Botoºani~Botoºani*2099 CS Botoºani~CS Botoºani
+1800 Metalul Mija~Mija
+1800 Minerul Cîmpulung Moldovenesc~Cîmpulung*1960 Viitorul Cîmpulung~Cîmpulung*1985 Explorãri Cîmpulung Mold.~Exp.Cîmpulung*1991 ASA Explorãri Câmpulung Mold.~Câmpulung*1993 ASA Agrojim Câmpulung Mold.~Câmpulung M*1994 ASA Câmpulung Moldovenesc~Câmpulung M*2007 AS Rarãul Câmpulung Mold.~Rarãul*2099 Explorãri Cîmpulung Mold.~Cîmpulung
+1800 Stuful Tulcea~Stuful Tulcea*1969 Delta Tulcea~Delta Tulcea*1974 SC Tulcea~SC Tulcea*1978 Delta Tulcea~Delta Tulcea*1982 FCM Delta Tulcea~FCM Tulcea*1987 FCM Delta Dinamo Tulcea~FCM Tulcea*1991 FCM Delta Tulcea~Delta Tulcea*2004 Dinamo Coral Tulcea~Dinamo Tulcea*2006 FC Delta Tulcea~Delta Tulcea*2015 FC Delta Dobrogea Tulcea~Tulcea*2099 Delta Tulcea~Delta Tulcea
+1800 Minerul Paroºeni~Paroºeni*1988 AS Paroºeni Vulcan~Paroºeni*1991 AS Paroºeni~Paroºeni*2099 Minerul Paroºeni~Paroºeni
+1800 Energia Flacãra 14 Orãºtie~Orãºtie*1958 Flacãra Orãºtie~Orãºtie*1960 Dacia Orãºtie~Orãºtie*1987 Dacia Mecanica Orãºtie~Orãºtie*1990 Dacia Orãºtie~Orãºtie*1991 Metaloplastica Orãºtie~Orãºtie*2000 AS Dacia Orãºtie~Orãºtie*2099 Dacia Orãºtie~Orãºtie
+1800 Minerul Baia Sprie~Baia Sprie*1996 FC Baia Sprie~Baia Sprie*2099 Minerul Baia Sprie~Baia Sprie
+1800 Victoria Carei~Carei*1949 CFR Carei~CFR Carei*1956 Recolta Carei~Carei*1968 Victoria Carei~Carei*1986 Victoria FIUT Carei~Carei*1991 Victoria Carei~Carei
+1800 Minerul Gura Humorului~Gura Humorului*2009 CS Gura Humorului~Gura Humorului*2099 Minerul Gura Humorului~Gura Humorului
+1800 Automatica Bucureºti~Automatica
+1800 ICSIM Bucureºti~ICSIM
+1800 Flamura Roºie Oradea~Fl.R.Oradea*1965 Olimpia Oradea~Olimpia Oradea*1976 Dinamo MIU Oradea~Dinamo Oradea*1977 Înfrãþirea Oradea~Înfrãþirea
+1800 ARLUS Bacãu~ARLUS*1950 Flamura Roºie Bacãu~FR Bacãu*1956 Energia Bacãu~Energia Bacãu*1958 Steaua Roºie Bacãu~Steaua Bacãu*1963 Partizanul Bacãu~Partizanul Bac*1992 Cotidian Bacãu~Cotidian*1993 Cotidian Selena Bacãu~Cotidian*2099 Partizanul Bacãu~Partizanul Bc
+1800 Tricolorul Beiuº~Beiuº*1982 CSU Tricolorul Oradea~CSU Oradea
+1800 Viitorul Gheorgheni~Gheorgheni
+1800 ASM Tecuci~Tecuci*1956 Victoria Tecuci~Vict.Tecuci*1957 CS Armata Tecuci~Tecuci*1958 Victoria Tecuci~Tecuci*1960 Flamura Roºie Tecuci~Tecuci*1970 ASM Tecuci~Tecuci*1972 URA Tecuci~Tecuci*1976 Victoria IRA Tecuci~Tecuci*1980 Victoria Tecuci~Tecuci*1989 Victoria CFR Tecuci~Tecuci*1991 Metalurgistul Tecuci~Tecuci*1993 Victoria Tecuci~Tecuci
+1800 Minerul Ilba Seini~Seini*1983 Unirea Seini~Seini*2000 Minerul Ilba Seini~Seini
+1800 Dinamo Oraºul Stalin~Dinamo Stalin*1958 Dinamo Cluj~Dinamo Cluj*1959 Dinamo Bacãu~Dinamo Bacãu*2099 Dinamo Braºov~Dinamo Braºov
+1800 Nicolina Iaºi~Nicolina
+1800 Metalul Aiud~Aiud*1960 AS Aiud~Aiud*1967 Metalul Aiud~Aiud
+1800 Minerul Anina~Anina
+1800 ªN Olteniþa~Olteniþa*1993 Navol Olteniþa~Olteniþa*2016 CSM Olteniþa~Olteniþa
+1800 Metalosport Cãlan~Cãlan*1950 Victoria Cãlan~Cãlan
+1800 Voinþa Bucureºti~Voinþa
+1800 Tehnometal Bucureºti~Tehnometal
+1800 CFR Constanþa~CFR Constanþa*1995 CFR Petrochim Constanþa~CFR Constanþa*2099 CFR Constanþa~CFR Constanþa
+1800 Energia Medgidia~Medgidia*1958 IMU Medgidia~IMU Medgidia*1985 IMU CSª Medgidia~IMU Medgidia*1989 Progresul CSª Medgidia~Prog.Medgidia*2099 IMU Medgidia~IMU Medgidia
+1800 Unio Satu Mare~Unio Satu Mare
+1800 Unirea Tomnatic~Tomnatic
+1800 Politehnica Braºov~Polit.Braºov*1973 CSU Braºov~CSU Braºov
+1800 ªUT Galaþi~ªUT Galaþi*1972 Constructorul Galaþi~Constr.Galaþi
+1800 Constructorul Baia Mare~Constr.BM*1975 Simared Baia Mare~Simared*2099 Constructorul Baia Mare~Constr.BM
+1800 Caraimanul Buºteni~Buºteni
+1800 Carpaþi Braºov~Carpaþi Braºov
+1800 Dacia VA Galaþi~Dacia Galaþi*1976 DVA Portul Galaþi~Portul Galaþi*1989 ªtiinþa Navrom Galaþi~Navrom Galaþi*1992 Dunãrea Romport Galaþi~Dunãrea Galaþi*2099 DVA Portul Galaþi~Portul Galaþi
+1800 CFR Arad~CFR Arad*1950 Locomotiva Arad~Loc.Arad*1958 CFR Arad~CFR Arad*1974 Unirea Arad~Unirea Arad*1975 Rapid Arad~Rapid Arad*1986 CSM Rapid Arad~Rapid Arad*1991 CFR Arad~CFR Arad
+1800 CSM Rãdãuþi~Rãdãuþi*1956 Progresul Rãdãuþi~Rãdãuþi*1958 Sportul Muncitoresc Rãdãuþi~Rãdãuþi*1961 Metalul Rãdãuþi~Rãdãuþi*1992 Bucovina Rãdãuþi~Rãdãuþi
+1800 Medicina Tg.Mureº~Medicina TgM
+1800 Sparta Mediaº~Sparta Mediaº*1946 Automecanica Mediaº~Auto Mediaº*1992 Record Mediaº~Record Mediaº*2005 CS Sparta Mediaº~Sparta Mediaº*2099 Automecanica Mediaº~Auto Mediaº
+1800 Obilici Sînmartinu Sîrbesc~Obilici*1988 AS Sînmartinu Sîrbesc~Sînmartin*1991 Obilici Sânmartinu Sârbesc~Obilici*2015 CSC Sânmartin~Sânmartin
+1800 Minerul Bihor~Minerul Bihor*1984 Minerul Dr.Petru Groza~Minerul PG*1991 Minerul ªtei~Minerul ªtei
+1800 Letea Bacãu~Letea*1949 Steaua Roºie Bacãu~Steaua Bacãu*1950 Letea Bacãu~Letea*1988 CPL Bacãu~CPL Bacãu*1996 Letea Bacãu~Letea*2003 FCM Bacãu II~Bacãu II*2099 Letea Bacãu~Letea
+1800 Constructorul Constanþa~Constr.C-þa
+1800 Gloria Iris Corneºti~Corneºti*2006 Gloria Corneºti~Corneºti*2014 ACS Gloria Popeºti Leordeni~Leordeni*2017 CS Popeºti Leordeni~Leordeni
+1800 Ceres Ciocãneºti~Ciocãneºti
+1800 ªantierul Naval Constanþa~ªN Constanþa*1994 ªN CONPREF Constanþa~ªN Constanþa
+1800 Metalurgistul Sadu~Sadu*1998 Arsenal Sadu~Sadu*2010 Parângul Sadu~Sadu
+1800 Hârtia Prundu Bârgãului~Prundu Bârgãului
+1800 Viitorul Oradea~Viit.Oradea
+1800 Mãgura ªimleul Silvaniei~ªimleu*1975 Viitorul ªimleu~ªimleu*1976 Gloria ªimleul Silvaniei~ªimleu*1978 Viitorul ªimleu Silvaniei~ªimleu*1982 Mobila ªimleul Silvaniei~ªimleu*1988 IZOMAT ªimleul Silvaniei~ªimleu*1990 Mobila ªimleul Silvaniei~ªimleu
+1800 Minerul Baia Borºa~Borºa
+1800 Furnirul Deta~Deta*1975 Energia Deta~Deta*1980 Furnirul Deta~Deta*1992 Energia Deta~Deta*1996 Astral Deta~Deta*2099 Furnirul Deta~Deta
+1800 Mecanica Huºi~Huºi*1982 Metalul Huºi~Huºi*1986 Steaua Mecanica Huºi~Huºi*2004 FCM Huºi~Huºi
+1800 Metalul Toflea~Toflea
+1800 Termoconstructorul T.Severin~Termo Severin*1992 CS Termo Turnu Severin~Termo*2099 Termo Turnu Severin~Termo
+1800 Minerul Rovinari~Rovinari*1974 Energia Rovinari~Rovinari*1975 Minerul Rovinari~Rovinari*1979 Metalul Rovinari~Rovinari*1981 Jiul Rovinari~Rovinari*1987 Energia Minerul Rovinari~Rovinari*1994 Jiul Rovinari~Rovinari*1995 Mine RAL Roºia Rovinari~Rovinari*1997 Minerul Rovinari~Rovinari*2004 CS EMC Rovinari~Rovinari*2010 ACS Energia Rovinari~En Rovinari*2099 Minerul Rovinari~Rovinari
+1800 Unirea Piteºti~Unirea Piteºti*1959 Metalul Piteºti~Met.Piteºti*1971 Unirea Piteºti~Unirea Piteºti
+1800 CPL Arad~CPL Arad
+1800 Motorul IMA Arad~Motorul Arad*1993 Motorul Arad~Motorul Arad
+1800 Victoria Floreºti~Floreºti
+1800 Minerul Filipeºtii de Pãdure~Min.Filipeºti
+1800 ITA Paºcani~ITA Paºcani*1973 ITA Iaºi~ITA Iaºi*1991 RATC Iaºi~RATC Iaºi*2003 RATC CFR Moldova Iaºi~RATC Iaºi*2099 ITA Iaºi~ITA Iaºi
+1800 Unirea Negreºti~Negreºti
+1800 Juventus Focºani~Juv.Focºani
+1800 Ambianþa Valea Ciorii~Ambianþa*2002 Ambianþa Slobozia~Ambianþa*2003 AS Ambianþa Valea Ciorii~Ambianþa*2099 Ambianþa Valea Ciorii~Ambianþa
+1800 Unirea Bolintin Vale~Bolintin*1983 Petrolul Bolintin Vale~Bolintin*1984 ICPB Bolintin Vale~Bolintin*1992 Petrolul Bolintin Vale~Bolintin
+1800 Tricolorul Breaza~Breaza*2000 CS Tricolorul Breaza~Breaza*2011 ACSMU Politehnica Iaºi~Iaºi*2012 CSMS Iaºi~Iaºi*2017 CSM Politehnica Iaºi~Iaºi
+1800 Petrolul Tîrgoviºte~Pet.Tîrgoviºte*1991 Petrolul Steaua Târgoviºte~Pet.Târgoviºte*2006 CS Petrolul Târgoviºte~Pet.Târgoviºte*2099 Petrolul Târgoviºte~Pet.Târgoviºte
+1800 CSA Craiova~CSA Craiova*1954 Victoria Craiova~Vict.Craiova*1965 AS Victoria Craiova~Vict.Craiova*1985 ASA Victoria Craiova~ASA Craiova*1986 Armata Craiova~Armata Craiova*1991 Pan Group Armata Craiova~Armata Craiova*2007 CS Armata Craiova~Armata Craiova*2099 Armata Craiova~Armata Craiova
+1800 Parângul Novaci~Novaci*2004 FC Senaco Novaci~Novaci*2099 Parângul Novaci~Novaci
+1800 Bucegi Predeal~Predeal*2003 CF Predeal~Predeal
+1800 Rapid CFR Teiuº~Teiuº
+1800 Unirea Ungheni~Ungheni
+1800 Victoria Ineu~Ineu*1995 Tricotaje Ineu~Ineu*2006 CS Ineu~Ineu
+1800 Metalosport Ferdinand~Ferdinand*1946 Metalosport Oþelu Roºu~Oþelu Roºu*1950 Metalul Oþelu Roºu~Oþelu Roºu*1956 Energia Oþelu Roºu~Oþelu Roºu*1958 Metalul Oþelu Roºu~Oþelu Roºu
+1800 AS Voluntari~Voluntari*2011 FC Voluntari~Voluntari
+1800 Dunãrea Zimnicea~Zimnicea
+1800 Energia Leordeni~Leordeni*1958 Petrolul Piteºti~Petr.Piteºti*2000 Francesca Popeºti-Leordeni~Leordeni
+1800 Filatura Fãlticeni~Filatura
+1800 Viitorul Hîrlãu~Hîrlãu*1991 Viitorul Hârlãu~Hârlãu
+1800 CS Otopeni~Otopeni
+1800 FC Snagov~Snagov*2015 AS Voinþa Snagov~Snagov
+1800 Turistul Pietroasa Haleº~Pietroasa
+1800 Metalul Bãicoi~Met.Bãicoi
+1800 Sportul Ciorogîrla~Ciorogîrla*1991 Sportul Ciorogârla~Ciorogârla
+1800 Fulgerul Lereºti~Lereºti
+1800 Înainte Vînju Mare~Vînju Mare*1992 Building Vânju Mare~Vânju Mare*2005 Building Turnu Severin~Turnu Severin*2006 CS Building Vânju Mare~Vânju Mare
+1800 Mecanica Motru~Mec.Motru*2005 Arsenal Rosind Motru~Arsenal Motru
+1800 Minerul Vulcan~Vulcan*1982 Minerul ªtiinþa Vulcan~Vulcan*1995 CS Vulcan~Vulcan*2099 Minerul Vulcan~Vulcan
+1800 Independenþa Sibiu~Indep.Sibiu*1973 Independenþa Cisnãdie~Cisnãdie*1974 Textila Cisnãdie~Cisnãdie*1981 Textila IPA Sibiu~Textila IPA*1982 Textila Cisnãdie~Cisnãdie*2008 FC Cisnãdie~Cisnãdie*2016 CS Mãgura Cisnãdie~Cisnãdie*2099 Textila Cisnãdie~Cisnãdie
+1800 Metalul Tohan~Tohan*1956 Energia 131 Tohan~Tohan*1958 Torpedo Tohan~Tohan*1966 Torpedo Zãrneºti~Zãrneºti
+1800 CF Dej~CF Dej
+1800 Frontiera Curtici~Curtici
+1800 Plastunion Satulung~Satulung
+1800 Rarora Mateieºti~Rarora*2004 Rarora Râmnicu Vâlcea~Rarora*2005 CSM Râmnicu Vâlcea~Rm.Vâlcea
+1800 Bihoreana Marghita~Marghita*2000 Petrom Marghita~Marghita
+1800 Laminorul II Roman~Roman II
+1800 Victoria Muntenii de Jos~Munteni*2006 Flacãra Muntenii de Jos~Munteni
+1800 ªoimii Bucovina Bosanci~Bosanci
+1800 FC Willy 2001 Bacãu~Willy
+1800 Uztel Ploieºti~Uztel
+1800 Mondial Brãila~Mondial
+1800 Rapid Braniºtea~Braniºtea*1993 Sportul Agrarian Braniºtea~Braniºtea*1996 Agrariana Braniºtea~Braniºtea*2000 Constructorul Braniºtea~Braniºtea
+1800 SC Dinamo 1948 Bucureºti II~Dinamo II*2099 Dinamo II Bucureºti~Dinamo II
+1800 Aurora 23 August~23 August*2006 CS Aurora Mangalia~Aurora*2008 CS Nãvodari~Nãvodari
+1800 CS Mogoºoaia~Mogoºoaia
+1800 FC Ghimbav~Ghimbav*2000 FC Ghimbav 2000~Ghimbav*2008 FC Royal Ghimbav~Ghimbav*2009 CS Royal Braºov~Royal*2010 FC Ghimbav~Ghimbav
+1800 Electrica Titu~Titu*2000 CS Electrosid Titu~Titu*2011 CS Urban Titu~Titu*2099 Electrica Titu~Titu
+1800 CS Forex Braºov~Forex
+1800 CFR Craiova~CFR Craiova*1950 Locomotiva Craiova~Loc.Craiova*1958 Feroviarul Craiova~Feroviarul Cr*1959 Jiul Craiova~Jiul Craiova*1960 CS Craiova~CS Craiova*1961 CFR Craiova~CFR Craiova*2000 ªtiinþa CFR Craiova~CFR Craiova*2007 CFR Craiova~CFR Craiova
+1800 Progresul Balº~Balº*1971 F.O.B. Balº~Balº*1977 I.O.B. Balº~Balº*2000 Prodchim Balº~Balº*2008 FC Balº~Balº*2099 IOB Balº~Balº
+1800 FC Nova Lãpuºata~Lãpuºata*2009 CFC Ghecon Lãpuºata~Lãpuºata
+1800 Sporting Club Piteºti~Piteºti*1948 Þesãtoria Românã Piteºti~Þesãtoria Pit.*1950 Flamura Roºie Piteºti~Fl.R Piteºti*1960 Textilistul Piteºti~Tex.Piteºti
+1800 CS Minerul Mehedinþi~Mehedinþi*2099 Minerul Mehedinþi~Mehedinþi
+1800 CIL Blaj~Blaj*1985 Tîrnavele Blaj~Blaj*2000 CS Inter Blaj~Blaj*2010 CIL Blaj~Blaj
+1800 Kozara Vinþu de Jos~Vinþu de Jos*2017 Mureºul Vinþu de Jos~Vinþu de Jos
+1800 Minerul Bãrbãteni~Bãrbãteni
+1800 Unirea Sînnicolau Mare~Sînnicolau*1992 Unirea Sânnicolau Mare~Sânnicolau*2000 CS Unirea Sânnicolau Mare~Sânnicolau
+1800 Hârtia Petreºti~Petreºti*2006 FC Fink Fenster Petreºti~Petreºti
+1800 ªiriana ªiria~ªiria
+1800 Gloria Baia Mare~Gloria BM*2000 Gloria Renel Baia Mare~Gloria BM
+1800 Minerul Turþ~Turþ
+1800 Minerul Bãlan~Bãlan*2016 CS Luceafãrul Bãlan~Bãlan
+1800 CF Gloria 1922 Bistriþa II~Bistriþa II*2015 Gloria Progresul Bistriþa~Bistriþa*2099 Gloria Bistriþa II~Bistriþa II
+1800 Lacu Ursu Sovata~Sovata*1992 Mobila Sovata~Sovata*2000 CS Lacu Ursu Mobila Sovata~Sovata*2099 Lacu Ursu Sovata~Sovata
+1800 ASM Tg.Mureº~Tg.Mureº*1940 CS Tg.Mureº~Tg.Mureº*1945 Dermagant Tg.Mureº~Tg.Mureº*1948 RATA Tg.Mureº~Tg.Mureº*1950 Locomotiva Tg.Mureº~Tg.Mureº*1956 Recolta Tg.Mureº~Tg.Mureº*1957 Energia Tg.Mureº~Tg.Mureº*1958 CS Tîrgu Mureº~Tg.Mureº*1961 Mureºul Tg.Mureº~Mureºul TgM*2099 CS Târgu Mureº~CS Tg.Mureº
+1800 Tricolor Bucureºti~Tricolor*1926 Unirea Tricolor Bucureºti~Unirea Tricolor*1948 Dinamo "B" Bucureºti~Dinamo "B"*1968 TUG Bucureºti~TUG*1970 Sportul Muncitoresc Bucureºti~Sp.Munc.Buc.*1971 Unirea Tricolor Bucureºti~Unirea Tric*1993 Unirea Tricolor Olteniþa~U Tricolor*1994 Navol Unirea Olteniþa~Olteniþa*1995 Unirea Tricolor Bucureºti~U Tricolor
+1800 Dacia Unirea Brãila~DU Brãila*1937 DUIG Brãila~DUIG*1939 Dacia Unirea Brãila~DU Brãila*1940 FC Brãila~FC Brãila
+1800 Metalochimic Bucureºti~Metalochimic*1949 Metalul Bucureºti~Metalul Buc
+1800 Progresul Sibiu~Prog.Sibiu
+1800 Romgal Romanu~Romanu
+1800 TEPRO Iaºi~TEPRO*1991 CFR TEPRO Iaºi~TEPRO
+1800 Avîntul Topliþa~Topliþa*1956 Recolta Avîntul Topliþa~Topliþa*1958 Mureºul Topliþa~Topliþa*1997 Constructorul Reghin~Constr.Reghin*2000 Mureºul Topliþa~Topliþa
+1800 Energia Focºani~Energia Focºani*1987 Hidrotehnica Focºani~Hidro Focºani
+1800 Unirea Siret~Siret*1982 Zimbrul Siret~Siret
+1800 Danubiana Bucureºti~Danubiana*1997 AS Ploieºti Danubiana~Danubiana*1998 FC Astra Ploieºti~Astra*2099 Astra Ploieºti~Astra
+1800 Petrolul Roata de Jos~Roata de Jos
+1800 CS Petrolul Teleajen~Teleajen
+1800 Viscoza Bucureºti~Viscoza*1981 Viscofil Bucureºti~Viscofil*1996 FC Chimia Bucureºti~Chimia*2007 CS Viscofil Popeºti Leordeni~Viscofil*2011 CS Viitorul Domneºti~Domneºti*2099 Viscofil Bucureºti~Viscofil
+1800 Victoria Zalãu~Vict.Zalãu*1979 Victoria Elcond Zalãu~Elcond*1983 Laminorul Victoria Zalãu~Lam.Zalãu*1986 Chimia Victoria Zalãu~Chimia Zalãu*1987 Chimia Zalãu~Chimia Zalãu*1988 Laminorul Victoria Zalãu~Lam.Zalãu*1992 Silcotub Zalãu~Silcotub*1993 Laminorul Zalãu~Lam.Zalãu
+1800 Abatorul Slobozia~Abatorul S*2000 CS Abatorul Slobozia~Abatorul Sl*2099 Abatorul Slobozia~Abatorul S
+1800 Rapid Feteºti~Feteºti*2010 AFC Rapid Feteºti~Feteºti*2099 Rapid Feteºti~Feteºti
+1800 Automecanica Reºiþa~Automec.Reºiþa*1991 Arsenal Reºiþa~Arsenal Reºiþa
+1800 Laminorul Brãila~Lam.Brãila*1985 Laminorul Viziru~Viziru*1989 Laminorul Brãila~Lam.Brãila*1993 Dacia Lamirom Brãila~Lam.Brãila*2000 Laminorul Brãila~Lam.Brãila
+1800 Chimia Gãeºti~Gãeºti*2005 Utchim Gãeºti~Gãeºti*2099 Chimia Gãeºti~Gãeºti
+1800 Minerul Voivozi~Voivozi
+1800 ªoimii Lipova~Lipova
+1800 Colorom Codlea~Codlea*1973 Mãgura Codlea~Codlea*1978 Mobila Mãgura Codlea~Codlea*1992 Unirea Codlea~Codlea
+1800 Textila Buhuºi~Buhuºi*1950 Flamura Roºie Buhuºi~Buhuºi*1958 Textila Buhuºi~Buhuºi
+1800 IMG Bucureºti~IMGB
+1800 Electrica Fieni~Fieni*1968 Viitorul Fieni~Fieni*1970 Electrica Fieni~Electr.Fieni
+1800 Venus Lugoj~Venus Lugoj*1994 Minerul Venus Motru~Venus
+1800 Dermata Cluj~Dermata*1948 Clujana Cluj~Clujana*1949 Dermata Cluj~Dermata*1954 Flamura Roºie Cluj~Flamura Cluj*1958 Rapid Cluj~Rapid Cluj*1961 CSM Cluj~CSM Cluj*1965 Clujeana Cluj~Clujeana*1970 Dermata Cluj~Dermata*1993 Clujana Cluj~Clujeana*2099 Dermata Cluj~Dermata
+1800 Ardudeana Ardud~Ardud
+1800 Minerul Crucea~Crucea
+1800 Aurora Tg.Frumos~Tg.Frumos
+1800 Avîntul Gãlãneºti~Gãlãneºti*1984 Carpaþi Gãlãneºti~Gãlãneºti
+1800 Voinþa Roman~Voinþa Roman
+1800 IPT Întorsura Buzãului~Întorsura Buz.*1989 Electro Întorsura Buzãului~Întorsura Buz.
+1800 Proletarul Bacãu~Proletarul
+1800 Metalul Roman~Met.Roman
+1800 Chimia Mãrãºeºti~Mãrãºeºti*1979 DEMAR Mãrãºeºti~Mãrãºeºti*1984 Chimia Mãrãºeti~Mãrãºeºti*1987 Chimia Autobuzul Mãrãºeºti~Mãrãºeºti*1991 Autobuzul Chimia Mãrãºeºti~Mãrãºeºti
+1800 Mecanosport Galaþi~Mecanosport*1991 Victoria Galaþi~Vict.Galaþi*1992 Victoria IGCL Galaþi~Vict.Galaþi
+1800 Foresta Gugeºti~Gugeºti*1982 Victoria Gugeºti~Gugeºti*1985 Foresta Gugeºti~Gugeºti
+1800 Granitul Babadag~Babadag
+1800 Arrubium Mãcin~Arrubium
+1800 Autobuzul Fãurei~Fãurei*1984 Unirea Fãurei~Fãurei*2006 CS Fãurei~Fãurei
+1800 Unirea Tricolor Bîrlad~UT Bîrlad*1973 Unirea ABROM Bârlad~Unirea Bârlad
+1800 Inter Vaslui~Inter Vaslui*1989 Viitorul Vaslui~Viitorul Vaslui*2099 Inter Vaslui~Inter Vaslui
+1800 Gloria Iveºti~Iveºti
+1800 Unirea Urlaþi~Urlaþi
+1800 Chimia Buzãu~Chimia Buzãu*1983 Chimia Victoria Buzãu~Chimia Buzãu*1986 Chimia Buzãu~Chimia Buzãu
+1800 Metalul Buzãu~Met.Buzãu
+1800 IUPS Chitila~Chitila*1992 Aripile IEMUTREC Chitila~Chitila*2005 UFC Chitila~Chitila*2008 FC Chitila~Chitila
+1800 MECOS Bucureºti~MECOS*1993 AS Glina Bucureºti~Glina
+1800 T.M. Bucureºti~TM Bucureºti*1985 MECON Bucureºti~MECON*1992 Girueta Bucureºti~Girueta*2099 T.M. Bucureºti~TMB
+1800 Victoria Þãndãrei~Þãndãrei*1992 Olimpia Þãndãrei~Þãndãrei
+1800 ISCIP Ulmeni~Ulmeni*2017 Viitorul Ulmeni~Ulmeni
+1800 Victoria Lehliu~Lehliu
+1800 Constructorul Timiºoara~Constr Tim*1977 Banatul Timiºoara~Banatul*1980 Constructorul Timiºoara~Constr.Tim.
+1800 Flamura Roºie Giurgiu~Giurgiu*1958 Olimpia Giurgiu~Olimpia Gr*1985 Constructorul Giurgiu~Con.Giurgiu*1988 Utilaje Grele Giurgiu~UG Giurgiu*1989 FCM Victoria Giurgiu~Giurgiu*1991 Victoria Giurgiu~Giurgiu*1993 ASA Victoria Giurgiu~Giurgiu*1994 ASA Acvila Giurgiu~Acvila Giurgiu*1996 FC Inter Dunãrea Giurgiu~Giurgiu*2000 FC Inter Giurgiu~Inter Giurgiu*2003 Dunãrea Giurgiu~Giurgiu*2005 Tigar Giurgiu~Tigar*2013 Olimpia Giurgiu~Olimpia Giurgiu
+1800 IPRECA Cãlãraºi~IPRECA*1977 Constructorul Cãlãraºi~Constr.Cãlãraºi*1986 Sportul IAMCRS Cãlãraºi~Sp.Cãlãraºi
+1800 Electrodul Slatina~Electrodul*1981 IPC Slatina~IPC Slatina*1985 Constructorul Slatina~Constr.Slatina
+1800 Recolta Mihãieºti~Mihãieºti*1984 Metalul Mihãieºti~Mihãieºti*1985 Metalul Rîmnicu Vîlcea~Metalul RmV*1988 Dacia Metalul Rm.Vîlcea~Metalul RmV*1990 Metalul Rîmnicu Vîlcea~Metalul RmV
+1800 Progresul Corabia~Corabia*1958 Dunãrea Corabia~Corabia*1960 Tractorul Corabia~Corabia*1966 Progresul Corabia~Corabia*2000 CS Progresul Corabia~Corabia*2099 Progresul Corabia~Corabia
+1800 Metalul Alexandria~M.Alexandria*1987 Rulmentul Alexandria~R.Alexandria*1996 FC Alexandria~Alexandria*1998 Rulmentul Alexandria~Alexandria
+1800 Recolta Stoicãneºti~Stoicãneºti
+1800 IMIX Agnita~Agnita*1986 Carpaþi Agnita~Agnita
+1800 FC Victoria Brãneºti~Brãneºti
+1800 Mureºul Luduº~Luduº*2005 Mureºul Romvelo Luduº~Luduº*2099 Mureºul Luduº~Luduº
+1800 Unirea Cristuru Secuiesc~Cristur
+1800 Construcþii Sibiu~Constr.Sibiu
+1800 Foresta Nãsãud~Nãsãud*1971 Progresul Nãsãud~Nãsãud*1977 Textila Nãsãud~Nãsãud*1985 Chimforest Nãsãud~Nãsãud*1989 Chimia Nãsãud~Nãsãud*1991 Progresul Nãsãud~Nãsãud
+1800 Metalotehnica Tg.Mureº~Metalotehnica
+1800 Constructorul ªoimii Craiova~ªoimii Craiova*1991 ªoimii SUCPI Craiova~SUCPI Craiova
+1800 Autorapid Craiova~Autorapid*1970 Autobuzul IJTL Craiova~Auto Craiova
+1800 Auto Vulcan Timiºoara~Auto Timiºoara*1989 Energia Auto Timiºoara~Auto Timiºoara*1991 Energia Timiºoara~Energia Tim*1992 Auto FZB Timiºoara~Auto Timiºoara
+1800 Strungul Chiºineu Criº~Chiºineu Criº
+1800 Retezatul Haþeg~Haþeg*2000 CS Retezatul Haþeg~Haþeg*2099 Retezatul Haþeg~Haþeg
+1800 Ceramica Jimbolia~Jimbolia*2005 FC Jimbolia~Jimbolia*2099 Ceramica Jimbolia~Jimbolia
+1800 Mecanica Alba Iulia~Mecanica AI
+1800 CUG Cluj~CUG Cluj
+1800 Unirea Tãºnad~Tãºnad*1977 Chimia Tãºnad~Tãºnad
+1800 Bradul Viºeu~Viºeu
+1800 Voinþa Negreºti Oaº~Voinþa Oaº
+1800 Rapid Jibou~Jibou
+1800 Avîntul Frasin~Frasin*1977 Avîntul TCMM Frasin~Frasin*1981 Avîntul Frasin~Frasin*1991 Avântul Frasin~Frasin
+1800 Prutul Fãlciu~Fãlciu
+1800 Metalul Sf.Gheorghe~Met.Sf.Gh.*1983 Electro Sf.Gheorghe~Electro SfG
+1800 Minerul Baraolt~Baraolt*2006 CS Solymok Baraolt~Baraolt*2099 Minerul Baraolt~Baraolt
+1800 Carpaþi Covasna~Covasna
+1800 Progresul Isaccea~Isaccea
+1800 Constructorul Tulcea~Constr.Tulcea
+1800 Agronomia Slobozia~Agro Slobozia*1985 Olimpia Slobozia~Ol.Slobozia
+1800 Avicola Crevedia~Crevedia
+1800 ªtiinþa Bãneasa~Bãneasa
+1800 IRA Cîmpina~IRA Cîmpina*1982 Unirea Cîmpina~Unirea Cîmpina*1991 Electromotor Câmpina~Electro Câmpina*2013 FC Unirea Câmpina~Câmpina*2014 CSM Câmpina~Câmpina*2099 Unirea Câmpina~Unirea Câmpina
+1800 Progresul Bãileºti~Bãileºti
+1800 Progresul Strehaia~Strehaia*1982 Armãtura Strehaia~Strehaia
+1800 Metalul Reghin~Met.Reghin
+1800 Minerul Bãiþa~Bãiþa
+1800 Construcþii Montaj Cluj~CM Cluj*1980 Construcþii Electrometal Cluj~CEM Cluj*1986 Construcþii Montaj Cluj~CM Cluj
+1800 Luceafãrul Botoºani~Luceafãrul Bt*1986 Electro Luceafãrul Botoºani~Electro Bt*1988 Electro Botoºani~Electro Bt
+1800 Aquila CFR Sighiºoara~Sighiºoara*1946 CSM Sighiºoara~Sighiºoara*1950 CFR Sighiºoara~Sighiºoara*1976 Metalul Sighiºoara~Sighiºoara
+1800 Oþelul Reghin~Oþelul Reghin
+1800 Dunãrea Brãila~Dunãrea Brãila*1972 Comerþul Brãila~Comerþul Br*1976 Progresul Brãila~Prog.Brãila*1981 Chimia Brãila~Chimia Brãila*1988 Progresul Brãila~Prog.Brãila
+1800 Dinamo Tg.Mureº~Dinamo TgM*1958 Voinþa Tg.Mureº~Voinþa TgM
+1800 Abatorul Bucureºti~Abatorul*1989 ASIC Bucureºti~ASIC*2099 Abatorul Bucureºti~Abatorul
+1800 Spicul Coteana~Coteana
+1800 Metalul Voinþa Sibiu~Met.Sibiu
+1800 Carpaþi Buzãu~Carpaþi Buzãu*1974 Carpaþi Nehoiu~Nehoiu*2005 Foresta Nehoiu~Nehoiu*2099 Carpaþi Nehoiu~Nehoiu
+1800 Petrolul Bãicoi~Pet.Bãicoi*1986 Petrolul FSH Bãicoi~Bãicoi*2099 Petrolul Bãicoi~Pet.Bãicoi
+1800 Mecanizatorul ªimian~ªimian*2006 AS Agromec ªimian~ªimian*2099 Mecanizatorul ªimian~ªimian
+1800 CSM Drobeta Turnu Severin~CSM Tr.Severin
+1800 Voinþa Oradea~Voinþa Oradea
+1800 Tricolorul Beiuº~Beiuº*1981 Bihorul Beiuº~Beiuº*1984 Gloria Beiuº~Beiuº*2005 CF Bihorul Beiuº~Beiuº*2099 Bihorul Beiuº~Beiuº
+1800 Energia Sãsciori~Sãsciori*1990 Energia Sebeº~Sebeº*2006 CSM Sebeº~Sebeº
+1800 Hârtia Piatra Neamþ~Hârtia PN*1950 Celuloza Piatra Neamþ~Celuloza PN*1985 Celuloza Bradul Roznov~Roznov*1988 ITA Celuloza Piatra Neamþ~Celuloza PN
+1800 Constructorul Botoºani~Constr.Bot.*1977 Metalul Botoºani~Met.Botoºani*1987 Metalul Avîntul Botoºani~Met.Botoºani*1991 Metalul Avântul Botoºani~Met.Botoºani
+1800 Ancora Galaþi~Ancora Galaþi*1956 Energia Galaþi~Energia Galaþi*1958 Ancora Galaþi~Ancora Galaþi
+1800 Vulturii Buzãu~Vulturii Buzãu*1946 ªoimii Buzãu~ªoimii Buzãu*1973 ASA Buzãu~ASA Buzãu
+1800 Dinamo Focºani~Dinamo Focºani*1979 Dinamo CPL Focºani~Dinamo Focºani*1981 Gloria Focºani~Gloria Focºani*1984 Voinþa Gloria Odobeºti~Odobeºti*1985 Voinþa Odobeºti~Odobeºti*1985 Flacãra Odobeºti~Odobeºti*1987 Unirea Odobeºti~Odobeºti*1989 Autobuzul Voinþa Odobeºti~Odobeºti
+1800 Victoria Munteni Buzãu~Munteni Buzãu
+1800 Petrolul Poieni~Poieni
+1800 Unirea Bãbeni~Bãbeni*1975 Bistriþa Bãbeni~Bãbeni*1980 Forestierul Bãbeni~Bãbeni
+1800 CFR Caransebeº~CFR Caransebeº*1983 CFR Victoria Caransebeº~CFR Caransebeº*1997 CFR Caransebeº~CFR Caransebeº
+1800 Minerul Oraviþa~Oraviþa
+1800 Minerul ªuncuiuº~ªuncuiuº
+1800 Moldosin Vaslui~Moldosin
+1800 Viitorul Mahmudia~Mahmudia*1984 Minerul Mahmudia~Mahmudia
+1800 Unirea Valea lui Mihai~Valea Mihai*2000 CS Unirea Valea lui Mihai~Valea lui Mihai*2099 Unirea Valea lui Mihai~Valea Mihai
+1800 Viitorul IRA Cluj~IRA Cluj*1987 Motorul IRA Cluj~IRA Cluj
+1800 Minerul Bãiuþ~Bãiuþ
+1800 Minerul Rodna~Rodna
+1800 Hebe Sângeorz Bai~Sângeorz
+1800 Emil Costinescu Sinaia~Sinaia*1950 Metalul Sinaia~Sinaia*1956 Energia Sinaia~Sinaia*1958 Carpaþi Sinaia~Sinaia
+1800 Voinþa Constanþa~Voinþa Ct
+1800 Constructorul Piteºti~Constr.Piteºti
+1800 Lotrul Brezoi~Brezoi*2006 FC Genesis Lotru Brezoi~Brezoi*2099 Lotrul Brezoi~Brezoi
+1800 Minerul Ghelar~Ghelar
+1800 Unirea Ocna Sibiului~Ocna Sibiului
+1800 Danubiana Roman~Danubiana
+1800 Bradul Roznov~Roznov*1980 Relonul Sãvineºti Roznov~Roznov*2099 Bradul Roznov~Roznov
+1800 Energia Focºani~Energia Focºani*1987 Energia Mãrãºeºti~Mãrãºeºti
+1800 Petrolistul Rm.Sãrat~Rm.Sãrat*1986 Voinþa Rm.Sãrat~Voinþa Rm.Sãrat
+1800 Marina Constanþa~Marina*1965 Marina Mangalia~Marina
+1800 Flacãra Roºie Bucureºti~Flacãra Roºie
+1800 Constructorul Giurgiu~Constr.Giurgiu*1986 Constructorul ICPB Giurgiu~Constr.Giurgiu
+1800 Utilajul Fãgãraº~Util.Fãgãraº
+1800 Avîntul Matca~Matca
+1800 Chimpex Constanþa~Chimpex
+1800 ISSM Sighet~ISSM Sighet
+1800 Victoria PTTR Botoºani~Vict.Botoºani*2000 Zimbrul Botoºani~Zimbrul Bot.*2006 FC Botoºani II~Botoºani II
+1800 Rarãul Cîmpulung~Cîmpulung*1972 ASA Cîmpulung Moldovenesc~ASA Cîmpulung
+1800 FIL Orãºtie~FIL Orãºtie*1978 I.M. Orãºtie~IM Orãºtie*1980 Mecanica Orãºtie~Mec.Orãºtie*1987 Dacia Mecanica Orãºtie~Orãºtie*1991 Mecanica Orãºtie~Mec.Orãºtie
+1800 Unirea Sãveni~Sãveni
+1800 Ideal Cernavodã~Cernavodã*1970 Dunãrea Cernavodã~Cernavodã*1978 ªoimii Cernavodã~Cernavodã*2006 Axiopolis Sport Cernavodã~Cernavodã*2099 Dunãrea Cernavodã~Cernavodã
+1800 Cetatea Turnu Mãgurele~Cetatea Tr.Mãg.
+1800 CIL Turnu Severin~CIL Tr.Severin*1976 Unirea Turnu Severin~Unirea Severin*1983 Celuloza Turnu Severin~Celuloza TrS
+1800 CS Aninoasa~Aninoasa*1949 Minerul Aninoasa~Aninoasa*2016 FC Aninoasa~Aninoasa
+1800 ªurianul Sebeº~Sebeº*1950 Textila Sebeº~Sebeº*1980 CPL Sebeº~Sebeº*1982 CPL ªurianul Sebeº~Sebeº*1983 ªurianul Sebeº~Sebeº
+1800 Tractorul Viziru~Viziru*1985 Laminorul Viziru~Viziru
+1800 Celuloza Zãrneºti~Cel.Zãrneºti
+1800 AZO TCM Sãvineºti~AZO Sãvineºti
+1800 Constructorul Sf.Gheorghe~Constr.SfG
+1800 FEPA '74 Bîrlad~FEPA*1991 FEPA '74 Bârlad~FEPA
+1800 Dobrogea Canal Basarabi~Basarabi
+1800 Progresul Topoloveni~Topoloveni
+1800 Sticla Bistriþa~Sticla B-þa.
+1800 Integrata Paºcani~Integrata
+1800 Metalosport Galaþi~Metalosport*1974 Tehnometal Galaþi~Tehnometal*1977 Metalosport Galaþi~Metalosport*2015 CS Metalosport Galaþi~Metalosport
+1800 Unirea Rãcari~Rãcari
+1800 Vitrometan Mediaº~Vitrometan
+1800 Strãduinþa Suceava~Str.Suceava*1974 Sportul Muncitoresc Suceava~Sp.M.Suceava*1978 Zimbrul Suceava~Zimbrul Sv
+1800 Huºana Huºi~Huºana
+1800 Unirea Eforie Nord~Eforie Nord*2009 CS Eforie~Eforie
+1800 Metalul Carei~Metalul Carei
+1800 Silvicultorul Mãieru~Mãieru
+1800 Metalul Copºa Micã~Copºa Micã
+1800 Constructorul Piatra Neamþ~Constr.PN
+1800 ASA Iaºi~ASA Iaºi
+1800 Constructorul Vaslui~Constr.Vaslui
+1800 Recolta Sãhãteni~Sãhãteni*1980 FNC Sãhãteni~Sãhãteni*2099 Recolta Sãhãteni~Sãhãteni
+1800 Dinamo Alexandria~Dinamo Alex.
+1800 Laminorul Nãdrag~Nãdrag
+1800 Dacia Oradea~Dacia Oradea
+1800 Sticla Diciosânmartin~Diciosânmartin*1936 Patria Diciosânmartin~Diciosânmartin*1946 Sticla Tîrnãveni~Sticla Tîrnãv.
+1800 Faianþa Sighiºoara~Faianþa*1969 CFR Sighiºoara~CFR Sighiºoara*1980 Faianþa Sighiºoara~Faianþa
+1800 Dinamo Craiova~Dinamo Craiova
+1800 Triumf Bucureºti~Triumf*1977 Automecanica Bucureºti~Automecanica
+1800 ªtiinþa Petroºani~ªt.Petroºani
+1800 Locomotiva Tg.Ocna~Tg.Ocna*1958 Oituz Tg.Ocna~Tg.Ocna
+1800 Gorjul Tg.Jiu~Gorjul*1973 Cimentul Tg.Jiu~Cimentul TgJ*1977 Constructorul Tg.Jiu~Constr.TgJ
+1800 Constructorul Hunedoara~Constr.Hd
+1800 ICRAL Timiºoara~ICRAL Tim.
+1800 Gloria Arad~Gloria Arad*1949 SSC Arad~SSC Arad*1950 Gloria Arad~Gloria Arad*2006 CS Gloria CTP Arad~Gloria Arad*2099 Gloria Arad~Gloria Arad
+1800 Tehnofrig Cluj~Tehnofrig
+1800 Avîntul Mãneciu~Mãneciu*1991 Avântul Mãneciu~Mãneciu
+1800 Flacãra Murgeni~Murgeni
+1800 Industria Sîrmei Brãila~Ind.Sîrmei Br*1960 Metalurgistul Brãila~Met.Brãila*1973 Viitorul Brãila~Viit.Brãila*1977 Dacia Unirea Brãila~DU Brãila
+1800 Minerul Mãcin~Minerul Mãcin
+1800 TAROM Bucureºti~TAROM*1965 ªoimii Buzãu~ªoimii Buzãu*1973 ªoimii TAROM Bucureºti~TAROM
+1800 I.O.R. Bucureºti~IOR
+1800 Nera Bozovici~Bozovici
+1800 Voinþa Carei~Voinþa Carei
+1800 CS Sãnãtatea SP Cluj~SSP Cluj
+1800 Unirea Sf.Gheorghe~Unirea Sf.Gh*1978 CPL Sf.Gheorghe~CPL Sf.Gh
+1800 ITA Piatra Neamþ~ITA P.Neamþ
+1800 Constructorul Alba Iulia~Constr.Alba
+1800 Foresta Moldoviþa~Moldoviþa
+1800 Gloria Murfatlar~Murfatlar*1977 Gloria Poarta Albã~Poarta Albã
+1800 Oþelul Târgoviºte~Oþelul T-viºte
+1800 Laminorul Slatina~Lam.Slatina*1998 Alprom Slatina~Alprom*2007 CS Alro Slatina~Alro*2013 FC Olt Slatina~Olt*2099 Alro Slatina~Alro
+1800 Electromotor Timiºoara~Electromotor*1983 Constructorul Timiºoara~Constr.Tim*2099 Electromotor Timiºoara~Electromotor
+1800 Cimentul Turda~Cim.Turda*1956 Energia Constructorul Turda~Constr.Turda*1960 Cimentul Turda~Cimentul Turda
+1800 Progresul Fãlticeni~Prog.Fãlticeni
+1800 Minerul Teliuc~Teliuc*1977 Laminorul Teliuc~Teliuc*1978 Metalul Hunedoara~Hunedoara*2099 Minerul Teliuc~Teliuc
+1800 Flacãra Horezu~Horezu*2000 Flacãra Rm.Vâlcea~Rm.Vâlcea*2002 FCM Rm.Vâlcea~Rm.Vâlcea
+1800 IT Bucureºti~ITB*1959 Cetatea Bucureºti~Cetatea Buc.
+1800 Monopol Tg.Mureº~Monopol*1940 CS Tg.Mureº~Tg.Mureº
+1800 Dinamo Barza~Barza
+1800 Dinamo Baia Mare~Dinamo BM*1959 Dinamo Sãsar~Sãsar
+1800 Dinamo Turnu Mãgurele~Dinamo Mãgurele*1954 Dinamo Bîrlad~Dinamo Bîrlad
+1800 Academia Militarã Bucureºti~AM Bucureºti*1962 Olimpia Bucureºti~Olimpia Buc
+1800 Energia Constructorul Arad~Constr.Arad*1958 Constructorul Arad~Constr Arad*1979 CFR Constructorul Arad~Constr Arad*1980 CFR Arad~CFR Arad*2099 Constructorul Arad~Constr.Arad
+1800 ªoimii Sibiu~ªoimii Sibiu*1970 UPA Sibiu~UPA Sibiu*1978 IPA Sibiu~IPA Sibiu*1981 Textila IPA Cisnãdie~Cisnãdie*2099 IPA Sibiu~IPA Sibiu
+1800 Spicul Þigãnaºi~Þigãnaºi
+1800 Tractorul Vãleni~Vãleni
+1800 Voinþa Caracal~Voinþa Caracal
+1800 Energetica Turnu Severin~Energ.Sev*1971 MEVA Turnu Severin~MEVA*1977 Unirea Turnu Severin~Unirea Severin
+1800 Metalul Tg.Secuiesc~Met.Tg.Sec.
+1800 Locomotiva Adjud~CFR Adjud
+1800 Dunãrea Brãila~Dunãrea Brãila*1972 Portul Brãila~Portul Brãila
+1800 Chimia Oneºti~Oneºti*1966 Chimia Gh.Gheorghiu Dej~Ch.Gh.Dej*1971 Trotuºul Gh.Gheorghiu Dej~Trotuºul*1975 CAROM Gh.Gheorghiu Dej~CAROM*2099 Trotuºul Gh.Gheorghiu Dej~Trotuºul
+1800 Constructorul Oneºti~Constr.Oneºti*1966 Constructorul Gheorghiu Dej~Constr.Gh.Dej
+1800 Bujorii Tg.Bujor~Tg.Bujor*2008 AS Bujorul Tg.Bujor~Tg.Bujor
+1800 Recolta Frecãþei~Frecãþei
+1800 Laromet Bucureºti~Laromet
+1800 Dinamo Slobozia~Dinamo Slobozia*1975 Voinþa Slobozia~Voinþa Slobozia
+1800 Steagul Roºu Pleniþa~Pleniþa
+1800 Criºana Sebiº~Sebiº*2009 CS Naþional Sebiº~Sebiº
+1800 Arieºul Cîmpia Turzii~Arieºul CT
+1957 CS Concordia Chiajna~Concordia
+1800 Muscelul Câmpulung~Muscel*1970 Unirea Cîmpulung Muscel~Muscel*1972 Muscelul Cîmpulung~Muscel*1974 Vulturii Cîmpulung Muscel~Muscel*1977 Muscelul Câmpulung~Muscel*2009 CS Muscelul Câmpulung~Muscel*2099 Muscelul Câmpulung~Muscel
+1800 Metalul Topleþ~Topleþ
+1800 Oltul Rm.Vâlcea~Oltul Rm.V
+1800 Gloria Tecuci~Gloria Tecuci
+1800 Maºini Unelte Bucureºti~Maºini Unelte
+1800 Rapid Piatra Olt~Piatra Olt*2000 FC Rapid Piatra Olt~Piatra Olt*2012 FC Olt~Olt*2099 Rapid Piatra Olt~Piatra Olt
+1800 Viitorul Slãnic~Slãnic
+1800 ASA Sibiu~ASA Sibiu
+1800 Foresta Ciurea~Ciurea
+1800 ICAB Arcuda~Arcuda
+1800 Minerul Baia de Arieº~Baia de Arieº
+1800 Chimistul Baia Mare~Ch.Baia Mare
+1800 ITC Constanþa~ITC Constanþa*1988 CONPREF Constanþa~CONPREF
+1800 Liberty Oradea~Liberty*2006 CF Liberty Salonta~Liberty*2007 CF Liberty Oradea~Liberty
+1800 CSMS Iaºi II~CSMS Iaºi II*1960 FC Politehnica II Iaºi~Poli Iaºi II*2099 Politehnica II Iaºi~Poli Iaºi II
+1800 FC Pambac Bacãu~Pambac*2010 FCM Pambac Oneºti~Pambac*2099 Pambac Bacãu~Pambac
+1800 ªoimii Vulturu~Vulturu*2005 ªoimii Nisprod Vulturu~Vulturu*2006 Energia Vulturu~Vulturu*2007 CSM Focºani~Focºani
+1800 Junkers Galaþi~Junkers*2007 FC Oþelul II Galaþi~Oþelul II*2099 Oþelul II Galaþi~Oþelul II
+1800 Start Corola Movila Miresei~Movila Miresei
+1800 FC Farul II Constanþa~Farul II
+1800 FC Steaua II Bucureºti~Steaua II*2099 Steaua II Bucureºti~Steaua II
+1800 Isvorul Bocºa Montanã~Bocºa Montanã
+1800 Arpechim Piteºti~Arpechim
+1800 Chimia Craiova~Chimia Craiova*2005 FC Petrom Chimia Craiova~Chimia Craiova*2099 Chimia Craiova~Chimia Craiova
+1800 Auxerre Trans Lugoj~Auxerre*2006 CS Auxerre Trans Orºova~Auxerre*2099 Auxerre Trans Lugoj~Auxerre
+1800 CS Hexe Jebel Timiºoara~Hexe
+1800 Universitatea Reºita~Univ. Reºiþa*2006 Universitatea Craiova II~Craiova II*2099 Universitatea Reºita~Univ. Reºiþa
+1800 CS Victoria Nãdlac~Nãdlac*2099 Victoria Nãdlac~Nãdlac
+1800 Victoria Mantrax Bod~Bod*2009 CS Victoria Bod~Bod*2099 Victoria Bod~Bod
+1800 Juventus Criºeni~Criºeni
+1800 FC Suciu de Sus~Suciu de Sus
+1800 Florenþa Model Odoreu~Odoreu*2006 Florenþa Still Odoreu~Odoreu*2099 Florenþa Odoreu~Odoreu
+1800 ªtiinþa Cluj~ªtiinþa Cluj*2007 FC Universitatea 1919 Cluj~U Cluj 1919
+1800 CS Dacia II Mioveni~Dacia II
+1800 AS Lotus Felix Sânmartin~Felix*2005 CF Lotus Felix Sânmartin~Felix*2008 CF Lotus Bãile Felix~Bãile Felix*2009 CS Luceafãrul Oradea~Luceafãrul Or*2099 Luceafãrul Oradea~Luceafãrul Or
+1800 ASA Timiºoara~ASA Timiºoara
+1800 AS Muncitorul Reºiþa~Muncitorul
+1800 FC Politehnica Galaþi~Poli Galaþi*2099 Politehnica Galaþi~Poli Galaþi
+1800 CS ªtiinþa Sãrmaº-Topliþa~Sãrmaº-Topliþa
+1800 FC 1 Decembrie Ilfov~1 Decembrie
+1800 CS Trans SIL Tg.Mureº~Trans SIL*2009 FCM Târgu Mureº~Tg.Mureº*2014 ASA Târgu Mureº~Tg.Mureº
+1800 Flacãra Brusturi~Brusturi
+1800 AS Matizol Ploieºti~Matizol
+1800 FC Sibiu II~Sibiu II
+1800 CSO Viitorul Liteni~Liteni*2099 Viitorul Liteni~Liteni
+1800 Rovine Griviþa Craiova~Rovine Craiova*1956 Energia Craiova~Energia Craiova*1958 Rovine Griviþa Craiova~Rovine Craiova
+1800 AS Calor Timiºoara~Calor*2008 CS Calor Timiºoara~Calor
+1800 Industria Bumbacului~Ind.Bumbacului
+1800 AFC Sportul Studenþesc Buc~AFC Sportul*2012 FC Sportul Studenþesc II~Sportul II*2099 Sportul Studenþesc II~Sportul II
+1800 CF Leonard NGM Paºcani~Leonard
+1800 Unirea Valahorum II Urziceni~Urziceni II*2099 Unirea Urziceni II~Urziceni II
+1800 FC Prefab 05 Modelu~Modelu*2007 FC Prefab Modelu~Modelu*2015 ACS Înainte Modelu~Modelu
+1800 ASC Clinceni~Clinceni*2012 CS Inter Clinceni~Clinceni*2099 Inter Clinceni~Clinceni
+1800 CS Buftea~Buftea*2014 FC Clinceni~Clinceni*2015 FC Academica Argeº~Argeº*2016 FC Academica Clinceni~Clinceni
+1800 CS Prima Guard Zimnicea~PG Zimnicea
+1800 Dunãrea Calafat~Calafat*2005 CS Dunãrea Calafat~Calafat*2099 Dunãrea Calafat~Calafat
+1800 Gloria ANEFS Bucureºti~Gloria ANEFS*2007 AFC Rocar ANEFS Bucureºti~Rocar ANEFS*2099 Gloria ANEFS Bucureºti~Gloria ANEFS
+1800 CS Tim Giroc~Giroc
+1800 Ripensia Timiºoara~Ripensia
+1800 Tricolor CFPV Ploieºti~Tricolor Pl*1940 FC Ploieºti~FC Ploieºti*1949 CFR Ploieºti~CFR Ploieºti
+1800 Victoria Cluj~Victoria Cluj*1928 România Cluj~România Cluj*1946 Victoria Cluj~Victoria Cluj
+1800 Criºana Oradea~Criºana*1940 Criºana CFR Oradea~Criºana*1941 Criºana CFR Arad~Criºana Arad*1946 Criºana CFR Oradea~CFR Oradea*1949 CFR Oradea~CFR Oradea*1950 Locomotiva Oradea~Loc.Oradea*1958 CFR Oradea~CFR Oradea*1959 Rapid Oradea~Rapid Oradea*1960 CFR Oradea~CFR Oradea*2099 Criºana CFR Oradea~Criºana
+1800 CA Oradea~CAO*1945 Libertatea Oradea~Lib. Oradea*1949 I.C. Oradea~IC Oradea*1951 Progresul Oradea~Prog. Oradea*1959 CS Oradea~CS Oradea*1962 CSM Criºana Oradea~Criºana*2099 CA Oradea~CAO
+1800 Muncitorul Cernãuþi~Munc.Cernãuþi
+1800 CA Timiºoara~CA Timiºoara*1937 CAM Timiºoara~CAMT*2099 CA Timiºoara~CA Timiºoara
+1800 Braºovia Braºov~Braºovia
+1800 Chinezul Timiºoara~Chinezul*1942 Chinezul CAM Timiºoara~Chinezul CAM*2099 Chinezul Timiºoara~Chinezul
+1800 ACFR Braºov~ACFR Braºov*1949 CFR Braºov~CFR Braºov*2099 ACFR Braºov~ACFR Braºov
+1800 Dragoº Vodã Cernãuþi~DV Cernãuþi
+1800 Flamura Roºie Bucureºti~Flamura Roºie*1958 Confecþia Bucureºti~Confecþia*1959 Victoria Bucureºti~Victoria Buc.*2099 Confecþia Bucureºti~Confecþia
+1800 RGM Timiºoara~RGMT*1937 CAM Timiºoara~CAMT
+1800 CFR Turnu Severin~CFR Tr.Severin*1950 Locomotiva Turnu Severin~Loc.Severin*1958 CFR Turnu Severin~CFR Tr.Severin*1959 Drubeta Turnu Severin~Drubeta*2099 CFR Turnu Severin~CFR Severin
+1800 ªtiinþa Galaþi~ªt.Galaþi*1966 Oþelul Galaþi~Oþelul*2099 ªtiinþa Galaþi~ªtiinþa Galaþi
+1800 CS Ovidiu~Ovidiu
+1800 AS Viitorul Însurãþei~Însurãþei*2099 Viitorul Însurãþei~Însurãþei
+1800 CS Phoenix Ulmu~Ulmu*2099 Phoenix Ulmu~Ulmu
+1800 AS Dodu Bucureºti~Dodu*2009 ACS Berceni~Berceni
+1800 AS Unirea Mãrãcineni~Mãrãcineni*2099 Unirea Mãrãcineni~Mãrãcineni
+1800 CS Gaz Metan Podari~Podari*2009 CS Gaz Metan CFR Craiova~Gaz Metan*2012 CS Gaz Metan Severin~Severin*2013 CS Turnu Severin~Severin
+1800 CS Florea Voicilã Alexandria~Florea Voicilã
+1800 AS Unirea Costeºti~Costeºti*2099 Unirea Costeºti~Costeºti
+1800 CS Athletic Sibiu~Athletic Sibiu
+1800 FC Voinþa Macea~Macea*2099 Voinþa Macea~Macea
+1800 AS Timiºul Albina~Albina*2008 AS Alto Gradimento Albina~Albina*2099 Timiºul Albina~Albina
+1800 SC Petrolul Ploieºti II~Petrolul II*2099 Petrolul II Ploieºti~Petrolul II
+1800 CS Oil Terminal Constanþa~Oil Terminal
+1800 CSO Ianca~Ianca*2010 CS Viitorul Ianca~Ianca*2099 Viitorul Ianca~Ianca
+1800 FC Onix Râmnicu Sãrat~Onix Rm.Sãrat
+1800 AS Turul Micula~Micula*2099 Turul Micula~Micula
+1800 CS Nuova Mama Mia Becicherec~Becicherec
+1800 FC SA Piteºti II~Piteºti II*2008 FC Argeº Piteºti II~Argeº II
+1800 AS Unirea Tãrlungeni~Tãrlungeni*2099 Unirea Tãrlungeni~Tãrlungeni
+1800 FC Bihor II Oradea~Bihor II
+1800 ACS Fortuna Covaci~Covaci*2099 Fortuna Covaci~Fortuna Covaci
+1800 CS Sãgeata Stejaru~Stejaru*2011 AFC Sãgeata Nãvodari~Sãgeata*2099 Sãgeata Nãvodari~Sãgeata
+1800 Banca de Stat Bucureºti~Banca de Stat
+1800 CS Luceafãrul Mihai Eminescu~Mihai Eminescu*2099 Luceafãrul Mihai Eminescu~Mihai Eminescu
+1800 CS Rapid CFR Suceava~Rapid Suceava*2017 ACS Foresta Suceava~Suceava*2099 Rapid CFR Suceava~Rapid Suceava
+1800 CS Jiul Rovinari~Rovinari*2099 Jiul Rovinari~Rovinari
+1800 CS Prometeu Craiova~Prometeu*2099 Prometeu Craiova~Prometeu
+1800 CF Liberty II Oradea~Liberty II
+1800 CFR 1907 Cluj II~CFR Cluj II
+1800 AS Mikes Zagon~Zagon*2008 AFC Zagon~Zagon
+1800 CS Progresul Gãtaia~Gãtaia*2099 Progresul Gãtaia~Gãtaia
+1800 FC Kaproni Gornet~Gornet*2009 FC Kaproni Boldeºti~Kaproni*2099 FC Kaproni Gornet~Gornet
+1800 CS Adunaþii Copãceni~Copãceni*2009 CS Victoria Adunaþii Copãceni~Copãceni*2099 Victoria Adunaþii Copãceni~Copãceni
+1800 Venus RGA Bucureºti~Venus RGA
+1800 Voinþa Bucureºti~Voinþa*1955 Progresul CPCS Bucureºti~Progresul CPCS*1959 FC Progresul Bucureºti II~Progresul II*2099 Progresul Bucureºti II~Progresul II
+1800 FC Viitorul Sânandrei~Sânandrei*2011 CS Sânandrei~Sânandrei
+1800 CS Argeºul Mihãileºti~Mihãileºti*2099 Argeºul Mihãileºti~Mihãileºti
+1800 Metalul Scorniceºti~Scorniceºti*1986 Viitorul Scorniceºti~Scorniceºti*2099 Metalul Scorniceºti~Scorniceºti
+1800 CSA Someºeni~Someºeni*1951 Victoria Someºeni~Someºeni
+1800 Foresta Brebu~Brebu
+1800 Cavalerii Fluierului Bistriþa~Cavalerii Fl
+1800 Energia Iernut~Iernut*2014 CS Iernut~Iernut
+1800 Recolta Diosig~Diosig
+1800 Viitorul Aluniº~Aluniº
+1800 Constructorul Bistriþa~Constr.B-þa
+1800 Metalul Oradea~Met.Oradea
+1800 Muncitorul Schela Mare~Schela Mare
+1800 Medicina Cluj~Medicina Cluj
+1800 Textila Mediaº~Textila Mediaº
+1800 ªtiinþa Tg.Mureº~ªtiinþa TgM*1970 Viitorul Tg.Mureº~Viitorul TgM
+1800 Arsenal Sibiu~Arsenal Sibiu
+1800 Transilvania Arad~Transilvania A
+1800 Mureºul Târgu Mureº~Mureºul TgM
+1800 Viitorul Bucureºti~Viitorul Buc
+1800 Franco-Românã Brãila~Franco-Românã
+1800 Macabi Bucureºti~Macabi Buc*1945 Ciocanul Bucureºti~Ciocanul*1948 Dinamo Bucureºti~Ciocanul*2099 Ciocanul Bucureºti~Ciocanul
+1800 Progresul Timºoara~Progresul Tim*1988 ASA Progresul Timiºoara~Progresul Tim*1992 Electrica Timiºoara~Electrica Tim*2009 Progresul Timiºoara~Prog.Timiºoara
+1800 ILSA Timiºoara~ILSA
+1800 Societatea de Gimnasticã Sibiu~SG Sibiu
+1800 Macabi Cernãuþi~Macabi Cern*1940 Muncitorul Cernãuþi~Munc.Cernãuþi*2099 Macabi Cernãuþi~Macabi Cern
+1800 Jahn Cernãuþi~Jahn
+1800 Tricolor Baia Mare~Tricolor BM
+1800 Elpis Constanþa~Elpis
+1800 ASCAM Bucureºti~ASCAM
+1800 Societatea Sportivã Sibiu~SS Sibiu
+1800 Flamura Roºie Bere Rahova~Rahova
+1800 SS Sighiºoara~SS Sighisoara
+1800 Textila MV Iaºi~Textila Iaºi*1943 Vulturii Iaºi~Vulturii Iaºi*2099 Textila MV Iaºi~Textila Iaºi
+1800 Telefon Club Bucureºti~Telefon Club*1939 Luceafãrul Bucureºti~Luceafãrul
+1800 Sporting Chiºinãu~Sp Chiºinãu*1940 FC Nistru Chiºinãu~Nistru Chiºinãu*2099 Sporting Chiºinãu~Sp Chiºinãu
+1800 Victoria Constanþa~Victoria Ct*1939 AS Constanþa~AS Constanþa
+1800 Craiu Iovan Craiova~Craiu Iovan*1936 Craiovan Craiova~Craiovan*1940 FC Craiova~Craiova
+1800 Stãruinþa Oradea~Stãruinþa Or*1956 Energia Metalul Oradea~Metalul Oradea*1958 Stãruinþa Oradea~Stãruinþa Or
+1800 Ceramica Bistriþa~Ceramica BN
+1800 Mica Brad~Mica Brad
+1800 Mociorniþã Bucureºti~Mociorniþã*1938 Mociorniþã Colþea Bucureºti~Mociorniþã*1940 Carmen Bucureºti~Carmen
+1800 Adesgo Bucureºti~Adesgo
+1800 Aquila CFR Sighiºoara~CFR Sighiºoara*1946 CFR Sighiºoara~CFR Sighiºoara
+1800 ST Bucureºti~ST Bucureºti
+1800 Mihai Viteazul Chiºinãu~MV Chiºinãu
+1800 Vulturul de Mare Bucureºti~Vulturul Buc
+1800 Luceafãrul Bucureºti~Luceafãrul Buc
+1800 Monitorul Oficial Bucureºti~Monitorul Of.
+1800 Macabi Chiºinãu~Macabi Chiº.
+1800 Gloria Bucureºti~Gloria Buc
+1800 Viforul Dacia Bucureºti~Viforul Dacia
+1800 Caurom Cernãuþi~Caurom
+1800 Desrobirea Constanþa~Desrobirea Cþ
+1800 Militari Bucureºti~Militari
+1800 SSM Reºiþa~SSM Reºiþa*1946 Locomotiva Reºiþa~Loc.Reºiþa*2099 SSM Reºiþa~SSM Reºiþa
+1800 Leonida Bucureºti~Leonida
+1800 Ateneul Tãtãraºi Iaºi~Tãtãraºi
+1800 Rapid Timiºoara~Rapid Tim
+1800 CFR Triaj Bucureºti~Triaj Buc
+1800 Metalul Piteºti~Met Piteºti
+1800 Lares Bucureºti~Lares
+1800 Oltenia Craiova~Oltenia
+1800 ASAM Mediaº~ASAM Mediaº
+1800 Progresul Medicina Iaºi~Medicina Iaºi*1958 ªtiinþa IMF Iaºi~IMF Iaºi*1959 Unirea II Iaºi~Unirea II*1960 Penicilina Iaºi~Penicilina*1968 Medicina Iaºi~Medicina Iaºi*1969 Penicilina Iaºi~Penicilina*1972 Unirea Iaºi~Unirea Iaºi
+1800 ªtiinþa Constanþa~ªtiinþa Ct*1976 Unirea ªtiinþa Eforie Nord~Eforie*1977 Unirea Eforie Nord~Eforie
+1800 Concordia Iaºi~Concordia Iaºi
+1800 Generala Craiova~Generala Cr.
+1800 Victoria Iaºi~Victoria Iaºi*1939 Victoria CFR Iaºi~Victoria Iaºi
+1800 Colþea Braºov~Colþea Braºov
+1800 Banatul Timiºoara~Banatul Tim.
+1800 Polonia Cernãuþi~Polonia
+1800 Hakoah Cernãuþi~Hakoah
+1800 Fulgerul Chiºinãu~Fulgerul Ch.
+1800 SG Arad~SG Arad
+1800 MTK Târgu Mureº~MTK
+1800 Înþelegerea Oradea~Înþelegerea
+1800 AFC Comprest G.I.M. Bucureºti~Comprest
+1800 Unirea Târgu Mureº~Unirea TgM
+1800 Olimpia Reºiþa~Olimpia Reºiþa*1956 Energia 3 Reºiþa~Energia Reºiþa*1958 Olimpia Reºiþa~Olimpia Reºiºa
+1800 Hidrotehnica Sibiu~Hidro Sibiu
+1800 Voinþa Tecuci~Voinþa Tecuci
+1800 CS Partizanul Merei~Merei*2099 Partizanul Merei~Merei
+1800 CS Stãruinþa Baia~Baia*2010 CS Eolica Baia~Baia*2012 CS Eolica Dobrogea Baia~Baia*2099 Eolica Baia~Eolica
+1800 Progresul Gorgota~Gorgota*2010 CSM Târgoviºte~Târgoviºte*2011 FC Chindia Târgoviºte~Chindia
+1800 AS Albota~Albota*2010 AS Girom Albota~Albota
+1800 CS Ralbex Turcineºti~Turcineºti*2099 Ralbex Turcineºti~Turcineºti
+1800 CS Voinþa Livezile~Livezile*2099 Voinþa Livezile~Livezile
+1800 ACS Recaº~Recaº*2013 ACS Poli Timiºoara~Timiºoara*2099 ACS Recaº~Recaº
+1800 CSU Voinþa Sibiu~Sibiu
+1800 CS Luceafãrul Oradea~Luceafãrul Or*2099 Luceafãrul Oradea~Luceafãrul Or
+1800 SC Vaslui II~Vaslui II
+1800 FCM Dunãrea II Galaþi~Dunãrea II
+1800 CS Tunari~Tunari
+1800 CS Voinþa Domneºti~Domneºti*2099 Voinþa Domneºti~Domneºti
+1800 CS Sportul Viºina Nouã~Viºina Nouã*2013 CS Viºina Nouã~Viºina Nouã
+1800 CS Triumf Bârca~Bârca*2099 Triumf Bârca~Bârca
+1800 CS Viitorul Toporu~Toporu*2099 Viitorul Toporu~Toporu
+1800 CS Armata Iaºi~Armata Iaºi*1951 CSA Cîmpulung Moldovenesc~Cîmpulung
+1800 FC Pandurii II Târgu Jiu~Pandurii II
+1800 CS Juventus Bascov~Bascov*2099 Juventus Bascov~Bascov
+1800 CS Primavera Craiova~Primavera*2099 Primavera Craiova~Primavera
+1800 CS Gaz Metan Mediaº II~Mediaº II*2099 Gaz Metan Mediaº II~Mediaº II
+1800 CS Millenium Giarmata~Giarmata*2099 Millenium Giarmata~Giarmata
+1800 ªcoala de Fotbal Rãdãuþi~ªF Rãdãuþi
+1800 FC Viitorul Constanþa~Viitorul Ct*2099 Viitorul Constanþa~Viitorul Ct
+1800 CS Unirea Floreºti~Floreºti*2013 FCM Turda~Turda*2099 Unirea Floreºti~Floreºti
+1800 CS Mesagerul Bacãu~Mesagerul*2011 ASC Bacãu~ASC Bacãu*2012 SC Bacãu~SC Bacãu
+1800 ABC Stoicescu Buzãu~Stoicescu
+1800 CS Spicul Mopan~Spicul*2099 Spicul Mopan~Mopan
+1800 CS Baloteºti~Baloteºti
+1800 CS Atletic Bradu~Bradu*2099 Atletic Bradu~Bradu
+1800 FC Hunedoara~Hunedoara
+1800 CS Scorilo Caransbeº~Scorilo*2011 CS Autocatania Caransebeº~Autocatania*2013 FC Caransebeº~Caransebeº*2099 Autocatania Caransebeº~Autocatania
+1800 SS Docuri Galaþi~Docuri Galaþi
+1800 CSU Voinþa II Sibiu~Voinþa II
+1800 SCM Braºov~SCM Braºov*2012 CSM Corona Braºov~Corona
+1800 AFC Odorheiu Secuiesc~Odorhei
+1800 Torpedo Tohan~Tohan*1960 Metalul Tohan~Tohan
+1800 Progresul Cluj~Prog.Cluj
+1800 Chimia Tudor Vladimirescu~Vladimirescu*2000 CS Vladimirescu~Vladimirescu
+1800 CS Rucãr~Rucãr
+1800 Stadiul Bãcãuan~Stadiul Bc
+1800 CS Conpet Cireºu~Cireºu*2099 Conpet Cireºu~Cireºu
+1800 Metaloglobus Bucureºti~Metaloglobus
+1800 Progresul Fundulea~Fundulea
+1800 UCR Bucureºti~UCRB
+1800 Turda Bucureºti~Turda
+1800 Victoria TCI Galaþi~Victoria Galaþi
+1800 ASA Bucureºti~ASA Bucureºti
+1800 CS Viitorul Axintele~Axintele*2099 Viitorul Axintele~Axintele
+1800 Rapid Dumeºti~Dumeºti
+1800 FC Lindab ªtefãneºti~ªtefãneºti*2013 CS ªtefãneºti~ªtefãneºti
+1800 Energia Girov~Girov
+1800 CS Prahova Tomºani~Tomºani*2013 FC Fortuna Brazi~Brazi*2014 AFC Fortuna Poiana Câmpina~Fortuna
+1800 Avântul Buzãu~Av Buzãu
+1800 CS Seviºul ªelimbãr~ªelimbãr*2099 Seviºul ªelimbãr~ªelimbãr
+1800 AS Damila Mãciuca~Mãciuca*2014 CS Metalul Reºiþa~Metalul Reºiþa*2099 Damila Mãciuca~Mãciuca
+1800 Mecano-Naval Brãila~Mecano-Naval
+1800 Victoria Buzãu~Victoria Buzãu
+1800 CS Rapid Clejani~Clejani*2099 Rapid Clejani~Clejani
+1800 CS Flacãra Fãget~Fãget*2099 Flacãra Fãget~Fãget
+1800 CS Concordia II Chiajna~Concordia II*2099 Concordia II Chiajna~Concordia II
+1800 CFM Universitatea Cluj II~U Cluj II*2099 Universitatea Cluj II~U Cluj II
+1800 FCM Târgu Mureº II~Tg.Mureº II*2016 ASA Târgu Mureº II~Tg.Mureº II
+1800 Dinamo Galaþi~Dinamo Galaþi*1963 Siderurgistul Galaþi~Siderurgistul*1968 Politehnica Galaþi~Poli Galaþi*1974 CSU Galaþi~CSU Galaþi
+1800 Griviþa CFR Bucureºti~Griviþa*1950 Locomotiva MCF Bucureºti~Locomotiva MCF*1958 Locomotiva Gara de Nord~Gara de Nord*1959 TAROM Bucureºti~TAROM*1967 Rapid CFR Bucureºti~Rapid CFR
+1800 Griviþa CFR Bucureºti~Griviþa*1950 Locomotiva MCF Bucureºti~Locomotiva MCF*1958 Locomotiva Gara de Nord~Gara de Nord*1959 TAROM Bucureºti~TAROM*1967 Rapid CFR Bucureºti~Rapid CFR
+1800 Flamura Roºie Cluj~Fl.R Cluj*1958 Rapid Cluj~Rapid Cluj
+1800 Hatmanul Luca Arbore Rãdãuþi~HLA Rãdãuþi
+1800 CFR Oradea~CFR Oradea*1946 Criºana CFR Oradea~Criºana*1949 CFR Oradea~CFR Oradea*1950 Locomotiva Oradea~Loc.Oradea*1958 CFR Oradea~CFR Oradea*1959 Rapid Oradea~Rapid Oradea*2099 CFR Oradea~CFR Oradea
+1800 Minerul Cîmpulung Muscel~Minerul Muscel
+1800 CIL Rîmnicu Vîlcea~CIL RmV
+1800 Juventus Bucureºti~Juventus*1948 Distribuþia Bucureºti~Distribuþia*1949 Petrolul Bucureºti~Petrolul*1950 Partizanul Bucureºti~Partizanul*1951 Flacãra Bucureºti~Flacãra Buc*2099 Juventus Bucureºti~Juventus
+1800 Fortus Iaºi~Fortus
+1800 Gloria Bârlad~Gloria Bârlad
+1800 ªoimii Timiºoara~ªoimii Tim
+1800 Unirea Oradea~Unirea Oradea*1979 Alumina Oradea~Alumina Or*1980 Unirea Oradea~Unirea Oradea
+1800 Dinamo Oradea~Dinamo Oradea
+1800 Voinþa Tîrnãveni~Voinþa Tîrnãv
+1800 Progresul Reghin~Reghin*1967 Voinþa Reghin~Voinþa Reghin
+1800 Rulmentul Braºov~Rulmentul Bv
+1800 Teba Arad~Teba
+1800 Colþea Bucureºti~Colþea Buc
+1800 Colentina AC Bucureºti~Colentina
+1800 Bukarester FK~Bukarester
+1800 Româno-Americanã Bucureºti~Americanã
+1800 România Bucureºti~România
+1800 Cercul Atletic Bucureºti~CA Bucureºti
+1800 Olympia Bucureºti~Olympia*1920 Olimpia Bucureºti~Olimpia
+1800 United Ploieºti~United
+1800 Uniunea Sportivã Bucureºti~US Bucureºti
+1800 Alimentara Tg.Mureº~Alimentara TgM
+1800 Electro Bere Craiova~Bere Craiova*2004 UFC Electro Craiova~Electro Cr
+1800 CS Prod Câmpineanca~Campineanca*1996 Unirea '95 Focºani~U Focºani*1997 FC Vrancea~Vrancea*1998 Diplomatic Vrancea~Vrancea*1999 Diplomatic Focºani~Focºani*2003 Unirea Focºani~Focºani*2007 CSM Focºani~Focºani
+1800 ACS Bucovina Frãtãuþii Noi~Frãtãuþii Noi*2013 ACS Bucovina Rãdãuþi~Rãdãuþi*2099 Bucovina Frãtãuþii Noi~Frãtãuþii Noi
+1800 AS ªtiinþa Miroslava~Miroslava*2099 ªtiinþa Miroslava~Miroslava
+1800 ACS Progresul Cernica~Cernica*2099 Progresul Cernica~Cernica
+1800 CS ASRA Apã Craiova~Apã Craiova*2014 CS Viitorul Municipal Craiova~ACSVM Craiova*2016 ACS Metropolitan Iºalniþa~Iºalniþa
+1800 CS Tricolorul Alparea~Alparea*2013 CS Oºorhei~Oºorhei
+1800 CS Europa Alba Iulia~Europa AI*2099 Europa Alba Iulia~Europa AI
+1800 CS ªoimii Pâncota~Pâncota*2099 ªoimii Pâncota~Pâncota
+1800 SCM Argeºul Piteºti~SCM Piteºti
+1800 Energia Cîmpina~Energia Cîmpina*1958 Rafinãria Câmpina~Rafinãria*1980 Rafinãria Sterom Câmpina~Sterom
+1800 Jandarmii Dorobanþu~Dorobanþu
+1800 Foresta Susenii Bîrgãului~Suseni*1974 Foresta Bistriþa~Foresta Bis
+1800 Mecanica Bistriþa~Mec.Bistriþa
+1800 Fortuna Tulcea~Fortuna Tulcea
+1800 Electronica Obor~Electronica*1970 Electronica Bucureºti~Electronica
+1800 Juventus Piteºti~Juve Piteºti
+1800 Victoria Piatra Neamþ~Victoria PN*1966 Victoria Roman~Victoria Roman
+1800 Juventus Fãlticeni~Juve Fãlticeni
+1800 Constructorul Botoºani~Constr.Bot.
+1800 Izvorul Biborþeni~Biborþeni*1979 Izvorul Tg.Secuiesc~Tg.Secuiesc*1981 Metalul Tg.Secuiesc~Tg.Secuiesc*2099 Izvorul Biborþeni~Biborþeni
+1800 Gloria Turnu Severin~Gloria Severin*1980 Gloria Strehaia~Strehaia
+1800 Electrometal Cluj~Electrometal
+1800 Luceafãrul II Bucureºti~Luceafãrul II
+1800 Armata Cluj~Armata Cluj*1950 CSA Cluj~CSA Cluj
+1800 ªoimii Sibiu~ªoimii Sibiu*1944 Sportul CFR Sibiu~CFR Sibiu*1948 ªoimii CFR Sibiu~ªoimii Sibiu*1949 CFR Sibiu~CFR Sibiu*1950 Locomotiva Sibiu~Loc.Sibiu
+1800 Tineretul Râmnicu Vâlcea~Tineretul
+1800 FC Cãlãraºi~FC Cãlãraºi
+1800 Socec Bucureºti~Socec*1947 Socec Lafayette Bucureºti~Socec*1949 Grafica Monetãria Statului~Monetãria*1950 Spartac Bucureºti~Spartac*2099 Socec Lafayette Bucureºti~Lafayette
+1800 Solvay Uioara~Uioara
+1800 CFR Buzãu~CFR Buzãu
+1800 PCA Constanþa~PCA Constanþa
+1800 AS Doljul Craiova~Doljul
+1800 CS Olt '90 Scorniceºti~CS Olt*1997 FC Olt Scorniceºti~FC Olt*2099 CS Olt Scorniceºti~CS Olt
+1800 CFR Târgoviºte~CFR Târgoviºte
+1800 STB Bucureºti~STB
+1800 Indagrara Arad~Indagrara*1956 Flamura Roºie 7 Noiembrie Arad~Fl.R Arad*1958 Indagrara Arad~Indagrara
+1800 CFR Caracal~CFR Caracal
+1800 Sparta Arad~Sparta Arad
+1800 Stãruinþa Satu Mare~Stãruinþa SM
+1800 Minaur Baia Mare~Minaur BM
+1800 CFR Turda~CFR Turda
+1800 Ferar Cluj~Ferar Cluj
+1800 CFR Târgu Mureº~CFR Tg.Mureº*1962 Rapid Tg.Mureº~Rapid TgM
+1800 Feroemail Ploieºti~Feroemail
+1800 Traian Tighina~Tighina
+1800 CSA Craiova~CSA Craiova
+1800 CA Cluj~CA Cluj
+1800 Muntenia Moreni~Muntenia*1950 Victoria Moreni~Victoria Moreni
+1800 Combinatul Poligrafic Buc.~Com.Poligrafic
+1800 FC Pojorâta~Pojorâta*2014 FC Bucovina Pojorâta~Pojorâta
+1800 CS Sporting Lieºti~Lieºti
+1800 CS Podari~Podari
+1800 FC Avrig~Avrig
+1800 CS ªtiinþa Turceni~Turceni
+1800 CS Unirea Jucu~Jucu
+1800 FC Maramureº Baia Mare~Maramureº
+1800 FC Pãpãuþi~Pãpãuþi
+1800 CSU Craiova~CSU Craiova
+1800 CS Avântul Bârsana~Bârsana
+1800 ACS Sepsi OSK Sf. Gheorghe~Sepsi
+1800 AFK Csikszereda Miercurea Ciuc~Csikszereda
+1800 CN Dinicu Golescu~Dinicu Golescu
+1800 ACSO Filiaºi~Filiaºi
+1800 ACS UTA Bãtrâna Doamnã~Bãtrâna Doamnã
+1800 ACS Industria Galda~Galda
+1800 CS Atletico Vaslui~Atletico Vaslui
+1800 CS Speranþa Rãuceºti~Rãuceºti
+1800 ACS Inter Dorohoi~Inter Dorohoi
+1800 FC Viitorul II Constanþa~Viitorul II
+1800 ACS Sporting Turnu Mãgurele~Turnu Mãgurele
+1800 FC Voluntari II~Voluntari II
+1800 AFC Înfrãþirea Hãrman~Hãrman*2017 AFC Hãrman~Hãrman
+1800 ACS Performanþa Ighiu~Ighiu
+1800 CSU Craiova II~CSU Craiova II
+1800 ASF Comuna Recea~Recea
+1800 Unirea Brânceni~Brânceni
+1800 Avântul Valea Mãrului~Valea Mãrului
+1800 Sportul Chiscani~Chiscani
+1800 Olimpic Cetate Râºnov~Râºnov
+1800 Arsenal Malu~Malu
+1800 ACS ªirineasa~ªirineasa
+1800 CS Mioveni II~Mioveni II
+1800 Gloria Lunca-Teuz Cermei~Teuz Cermei
+1800 ACS Poli Timiºoara II~Timiºoara II
+1800 UTA Bãtrâna Doamnã II~UTA II
+1800 ACS Recolta Dorolþ~Dorolþ
+1800 AFC Hermannstadt~Hermannstadt
+1800 FC Bistriþa~Bistriþa
