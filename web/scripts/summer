@@ -2,15 +2,15 @@
 
 cd /home/radu/rsssf/sat/web
 
-./u-belarus
-./u-estonia
-./u-faeroe
-./u-finland
-./u-georgia
-./u-iceland
-./u-ireland-republic
-./u-kazakhstan
-./u-latvia
-./u-lithuania
-./u-norway
-./u-sweden
+u-belarus
+u-estonia
+u-faeroe
+u-finland
+u-georgia
+u-iceland
+u-ireland-republic
+u-kazakhstan
+u-latvia
+u-lithuania
+u-norway
+u-sweden
