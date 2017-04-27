@@ -142,9 +142,9 @@ int Extract(char *filename) {
       if (tok[5]) { tok[5][-2] = 0; tok[5]++; }
 //      printf("*** %s/%s", tok[3], tok[4]);
       if (Find(tok[3], tok[4], tok[5], t, l)) {
-        printf("*** | %-16s| %-20s", country[t], league[t][l]);
-        printf("| %-12s", (tok[5]?division[t][l]:" "));
-        printf("| [%s(%s)]\n", script[t], mnem[t][l]);
+        printf("*** > %-24s > %-24s", country[t], league[t][l]);
+//        printf("| %-12s", (tok[5]?division[t][l]:" "));
+        printf(" > [%s(%s)]\n", script[t], mnem[t][l]);
 
         int delta = 0;
         if (wint[t]==0 && m>6) delta = 1;
