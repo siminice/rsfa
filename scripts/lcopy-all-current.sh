@@ -8,5 +8,5 @@ ctty=(alb and arg arm aus aut aze bel blr bol bos bra bul chi chn col cro cyp cz
 for t in ${!ctty[@]}
 do
   echo $((t+1))/${#ctty[@]} " copying ${ctty[t]} ..."
-  ./lcopy-current.sh ${ctty[t]} ${FOLDER} > /dev/null
+  lcopy-current.sh ${ctty[t]} ${FOLDER} > /dev/null
 done
