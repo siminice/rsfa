@@ -1,9 +1,9 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/pol
-update a.2017 ../web/pol/a.html
-#update a.2017 ../web/pol/a1.html
-#update a.2017 ../web/pol/a2.html
+#update a.2017 ../web/pol/a.html
+update a.2017 ../web/pol/a1.html
+update a.2017 ../web/pol/a2.html
 update b.2017 ../web/pol/b.html
 update c.2017 ../web/pol/c.html
 

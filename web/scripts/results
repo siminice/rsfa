@@ -1,6 +1,12 @@
-#!/bin/csh
+#!/bin/bash
 
-get-daily.sh $1 $2 $3
-daily html-daily/$1.html $1 $2 $3
+T=$(date +"%Y/%m/%d")
+
+echo "Today: ${T}"
+
+D=${1:-${T}}
+
+get-daily.sh $D
+daily html-daily/${D}.html $*
 chmod a+x /home/radu/rsssf/sat/web/scripts/today
 today

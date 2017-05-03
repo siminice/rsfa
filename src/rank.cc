@@ -271,7 +271,6 @@ void Tiebreak(int h, int k) {
         int x = res[r][t1][t2] / 100;
         int y = res[r][t1][t2] % 100;
         if (y >= SPECIAL) {
-          
         }
         else {
           tbgsc[t1] += x; tbgre[t2] += x;
@@ -283,7 +282,7 @@ void Tiebreak(int h, int k) {
       }
     }
   }
-  
+
   int sorted;
   do {
     sorted = 1;
@@ -306,7 +305,7 @@ void Ranking() {
   int sorted;
   if (NG>0) {
     int nn = (n+NG-1)/NG;
-    do {  
+    do {
       sorted = 1;
       for (int g=0; g<NG; g++) {
         for (i=0; i<(g==NG-1?n-g*nn-1:nn-1); i++) {
@@ -347,10 +346,10 @@ void Listing() {
   for (int i=0; i<n; i++) {
     int x = rank[i];
     int grnk = i+1;
-    if (NG>1) grnk = i%((n+NG-1)/NG)+1;    
+    if (NG>1) grnk = i%((n+NG-1)/NG)+1;
     if (x==gla || x==glb) printf("\033[1m");
     printf("%2d.%-30s%2d%3d%3d%3d%4d-%2d", i+1,
-     NameOf(L,id[x],year), win[x]+drw[x]+los[x], 
+     NameOf(L,id[x],year), win[x]+drw[x]+los[x],
      win[x], drw[x], los[x], gsc[x], gre[x]);
      if (pen[x]>0) printf("%3d (-%dp pen)" , pts[x]-pen[x], pen[x]);
      else if (pen[x]<0) printf("%3d (+%dp bonus)" , pts[x]-pen[x], -pen[x]);
@@ -501,15 +500,15 @@ int AddResult() {
     if (oldr>0) {
       printf("New (0) -- Replace (");
       for (int k=1; k<=numr; k++) printf("%c/", '0'+k);
-      printf("n):"); 
+      printf("n):");
       scanf("%s", rep);
     }
     else {
       rep[0] = '0';
       kk = 0;
     }
-     
-    if (rep[0] == '0') { 
+
+    if (rep[0] == '0') {
       if (oldr>0) {
         kk=0; while (kk<numr && res[kk][a][b]>=0) kk++;
         if (kk>=numr) return 2;

@@ -16,12 +16,12 @@ ${CURL} ${SW}/northern-ireland/championship-1/20162017/promotion-round/r38006/ma
 printf " %-3s > %-3s > %s > %s\n" "nir" "b2" "championship-1" "relegation-round"
 ${CURL} ${SW}/northern-ireland/championship-1/20162017/relegation-round/r38007/matches/ > ${DIR}/nir/b2.html
 
-printf " %-3s > %-3s > %s > %s\n" "nir" "c" "championship-2" "regular-season"
-${CURL} ${SW}/northern-ireland/championship-2/20162017/regular-season/r35424/matches/ > ${DIR}/nir/c.html
+#printf " %-3s > %-3s > %s > %s\n" "nir" "c" "championship-2" "regular-season"
+#${CURL} ${SW}/northern-ireland/championship-2/20162017/regular-season/r35424/matches/ > ${DIR}/nir/c.html
 
-#printf " %-3s > %-3s > %s > %s\n" "nir" "c1" "championship-2" "promotion-round"
-#${CURL} ${SW}/northern-ireland/championship-2/20162017/promotion-round/r38008/matches/ > ${DIR}/nir/c1.html
+printf " %-3s > %-3s > %s > %s\n" "nir" "c1" "championship-2" "promotion-round"
+${CURL} ${SW}/northern-ireland/championship-2/20162017/promotion-round/r38008/matches/ > ${DIR}/nir/c1.html
 
-#printf " %-3s > %-3s > %s > %s\n" "nir" "c2" "championship-2" "relegation-round"
-#${CURL} ${SW}/northern-ireland/championship-2/20162017/relegation-round/r38009/matches/ > ${DIR}/nir/c2.html
+printf " %-3s > %-3s > %s > %s\n" "nir" "c2" "championship-2" "relegation-round"
+${CURL} ${SW}/northern-ireland/championship-2/20162017/relegation-round/r38009/matches/ > ${DIR}/nir/c2.html
 

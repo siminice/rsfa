@@ -16,3 +16,21 @@ ${CURL} ${SW}/norway/2-divisjon/2017/group-1/r39158/matches/ > ${DIR}/nor/c1.htm
 printf " %-3s > %-3s > %s > %s\n" "nor" "c2" "2-divisjon" "group-2"
 ${CURL} ${SW}/norway/2-divisjon/2017/group-2/r39159/matches/ > ${DIR}/nor/c2.html
 
+printf " %-3s > %-3s > %s > %s\n" "nor" "d1" "3divisjon" "group-1"
+${CURL} ${SW}/norway/3divisjon/2017/group-1/r39162/matches/ > ${DIR}/nor/d1.html
+
+printf " %-3s > %-3s > %s > %s\n" "nor" "d2" "3divisjon" "group-2"
+${CURL} ${SW}/norway/3divisjon/2017/group-2/r39166/matches/ > ${DIR}/nor/d2.html
+
+printf " %-3s > %-3s > %s > %s\n" "nor" "d3" "3divisjon" "group-3"
+${CURL} ${SW}/norway/3divisjon/2017/group-3/r39167/matches/ > ${DIR}/nor/d3.html
+
+printf " %-3s > %-3s > %s > %s\n" "nor" "d4" "3divisjon" "group-4"
+${CURL} ${SW}/norway/3divisjon/2017/group-4/r39168/matches/ > ${DIR}/nor/d4.html
+
+printf " %-3s > %-3s > %s > %s\n" "nor" "d5" "3divisjon" "group-5"
+${CURL} ${SW}/norway/3divisjon/2017/group-5/r39169/matches/ > ${DIR}/nor/d5.html
+
+printf " %-3s > %-3s > %s > %s\n" "nor" "d6" "3divisjon" "group-6"
+${CURL} ${SW}/norway/3divisjon/2017/group-6/r39170/matches/ > ${DIR}/nor/d6.html
+

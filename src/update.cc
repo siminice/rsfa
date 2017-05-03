@@ -271,14 +271,15 @@ void Tiebreak(int h, int k) {
     tbrk[i] = rank[i];
   }
   int gm = 0;
+  int r = 0;
   for (int i=h; i<=k; i++) {
     for (int j=h; j<=k; j++) {
       int t1 = rank[i];
       int t2 = rank[j];
-      if (res[t1][t2] >= 0) {
+      if (res[r][t1][t2] >= 0) {
         gm++;
-        int x = res[t1][t2] / 100;
-        int y = res[t1][t2] % 100;
+        int x = res[r][t1][t2] / 100;
+        int y = res[r][t1][t2] % 100;
         tbgsc[t1] += x; tbgre[t2] += x;
         tbgsc[t2] += y; tbgre[t1] += y;
         if (x>y) {tbwin[t1]++; tblos[t2]++;}
@@ -412,9 +413,8 @@ int Find(char* s) {
 
 void Dump(char *infile) {
   FILE *f;
-  int i, j;
-  char outputfile[100];
-
+  int k, i, j;
+  char *outputfile = new char[strlen(infile)+5];
   strcpy(outputfile, infile);
   strcat(outputfile, ".old");
   rename(infile, outputfile);
@@ -431,12 +431,13 @@ void Dump(char *infile) {
     fprintf(f, "\n");
   }
 
-  for (int k=0; k<numr; k++) {
-    for (i=0; i<n; i++) {
-      for (j=0; j<n; j++)
-        fprintf(f, "%6d%5d", rnd[k][i][j], res[k][i][j]);
-      fprintf(f, "\n");
+  for (k=0; k<numr; k++) {
+  for (i=0; i<n; i++) {
+    for (j=0; j<n; j++) {
+      fprintf(f, "%6d%5d", rnd[k][i][j], res[k][i][j]);
     }
+    fprintf(f, "\n");
+  }
   }
   fclose(f);
 }
@@ -447,12 +448,12 @@ int LoadFile(char *filename) {
   if (NULL == f) { printf("File %s not found.\n", filename); return 0; }
 
   // Loading file
-  char fncopy[64]; 
+  char fncopy[64];
   strcpy(fncopy, filename);
   char *ystr = strtok(fncopy, ".");
   ystr = strtok(NULL, " ");
   year = atoi(ystr);
-  int i, j, x, y, zi;
+  int i, j, k, x, y, zi;
   char s[200], *tok[20];
   fscanf(f, "%d %d %d %d %d %d %d\n", &n, &ppv, &tbr, &pr1, &pr2, &rel1, &rel2);
   numr = tbr/NUM_ORD + 1;
@@ -594,13 +595,31 @@ void Missing(int a, int b) {
 
 }
 
+int DeleteResult(int k, int a, int b) {
+  int sc = res[k][a][b];
+  if (sc>=0) {
+    int x = sc/100;
+    int y = sc%100;
+    gsc[a] -= x; gre[a] -= y;
+    gsc[b] -= y; gre[b] -= x;
+    if (x>y) { win[a]--; los[b]--; pts[a] -= ppv; }
+    else if (x==y) { drw[a]--; drw[b]--; pts[a]--; pts[b]--; }
+    else { win[b]--; los[a]--; pts[b] -= ppv; }
+    printf("[R%d] %s - %s  %d-%d  deleted.\n", rnd[k][a][b]/1000,
+      NameOf(L,id[a],year), NameOf(L,id[b],year), x, y);
+    rnd[k][a][b] = -1;
+    res[k][a][b] = -1;
+  }
+}
+
 int AddResult(int a, int b, int x, int y, int z) {
   int more = 0;
-  int i, oldr, ox, oy;
+  int i, kk, oldr, ox, oy;
   char rep[5];
+  int pld[MAX_RR];
 
   gla = glb = -1;
-
+  for (int k=0; k<MAX_RR; k++) pld[k] = 0;
   rep[0] = 'n';
 
   if (updates==0) {
@@ -610,168 +629,129 @@ int AddResult(int a, int b, int x, int y, int z) {
     }
   }
 
-  if (tbr<10) {
+  if (numr<2) {
     if (res[0][a][b] >= 0)  {
       if (res[0][a][b] == 100*x+y && rnd[0][a][b]%1000 >= z-1 && rnd[0][a][b]%1000 <= z+1) return 1;
       int zi = rnd[0][a][b] % 1000;
       printf("\n%s\033[1m[R%-2d] %2d %s: %s [%d-%d] %s \033[0m\n", compet,
-               _rnd/1000, z%50, shortmonth[z/50], 
+               _rnd/1000, z%50, shortmonth[z/50],
                mnem[id[a]], x, y, mnem[id[b]]);
       printf("------------------------------------------------------------------\n");
-      printf("[R%-2d] %2d %s: %s [%d-%d] %s   ... already exists\n", 
-               rnd[0][a][b]/1000, zi%50, shortmonth[zi/50], 
+      printf("[R%-2d] %2d %s: %s [%d-%d] %s   ... already exists\n",
+               rnd[0][a][b]/1000, zi%50, shortmonth[zi/50],
                mnem[id[a]], res[0][a][b]/100, res[0][a][b]%100, mnem[id[b]]);
       rep[0] = 'n';
       printf("Replace ? (y/n/k[r]):"); scanf("%s", rep);
       if (rep[0] == 'y' || rep[0] == 'k') {
-        oy = res[0][a][b] % 100;
-        ox = (int) (res[0][a][b]/100);
-        gsc[a] -= ox; gre[a] -= oy;
-        gsc[b] -= oy; gre[b] -= ox;
-        if (ox>oy) { win[a]--; los[b]--; pts[a] -= ppv; }
-          else if (ox==oy) { drw[a]--; drw[b]--; pts[a]--; pts[b]--; }
-           else { los[a]--; win[b]--; pts[b] -= ppv; }
-        printf("%s [%d-%d] %s deleted.\n", NameOf(L,id[a],year), ox, oy, NameOf(L,id[b],year));
+        DeleteResult(0, a, b);
       }
       else return 1;
     }
   }
   else {
     oldr = 0;
-    if (res[0][a][b] >= 0)  {
-      if (res[0][a][b]  == 100*x+y && rnd[0][a][b]%1000  >= z-1 && rnd[0][a][b]%1000  <= z+1) return 1;
-      if (res[1][a][b] == 100*x+y && rnd[1][a][b]%1000 >= z-1 && rnd[1][a][b]%1000 <= z+1) return 1;
-      printf("\n%s\033[1m[R%-2d] %2d %s: %s [%d-%d] %s \033[0m\n", compet,
-               _rnd/1000, z%50, shortmonth[z/50],
-               mnem[id[a]], x, y, mnem[id[b]]);
-      printf("------------------------------------------------------------------\n");
-      int zi = rnd[0][a][b] % 1000;
-      printf("[R%-2d] %2d %s: %s [%d-%d] %s   ... already exists\n",
-               rnd[0][a][b]/1000, zi%50, shortmonth[zi/50],
-               mnem[id[a]], res[0][a][b]/100, res[0][a][b]%100, mnem[id[b]]);
-      oldr += 1;
+    // Shortcircuit
+    for (int k=0; k<numr; k++) {
+      if (res[k][a][b] >= 0)  {
+        if (res[k][a][b]  == 100*x+y && rnd[k][a][b]%1000  >= z-1 && rnd[k][a][b]%1000  <= z+1) return 1;
+      }
     }
-    if (res[1][a][b] >= 0)  {
-      if (res[1][a][b] == 100*x+y && rnd[1][a][b]%1000 >= z-1 && rnd[1][a][b]%1000 <= z+1) return 1;
-      int zi = rnd[1][a][b] % 1000;
-      printf("[R%-2d] %2d %s: %s [%d-%d] %s   ... already exists\n",
-               rnd[1][a][b]/1000, zi%50, shortmonth[zi/50],
-               mnem[id[a]], res[1][a][b]/100, res[1][a][b]%100, mnem[id[b]]);
-      oldr += 2;
+    //  Existing results
+    for (int k=0; k<numr; k++) {
+      if (res[k][a][b] >= 0)  {
+        int zi = rnd[k][a][b] % 1000;
+        printf("\n[R%-2d] %2d %s: %s [%d-%d] %s   ... already exists",
+               rnd[k][a][b]/1000, zi%50, shortmonth[zi/50],
+               mnem[id[a]], res[k][a][b]/100, res[k][a][b]%100, mnem[id[b]]);
+        oldr++;
+        pld[k] = 1;
+      }
     }
+    printf("\n------------------------------------------------------------------");
+    printf("\n%s[R%-2d] %2d %s: %s [%d-%d] %s \n", compet, _rnd/1000, z%50, shortmonth[z/50],
+           mnem[id[a]], x, y, mnem[id[b]]);
+
+    Missing(a, b);
+
     rep[0] = 'n';
     if (oldr>0) {
-      printf("New (y) -- Replace (1/2/n):");
+      printf("New (0) -- Replace (");
+      for (int k=1; k<=numr; k++) printf("%c/", '0'+k);
+      printf("n):");
       scanf("%s", rep);
     }
     else {
-      printf("\n%s\033[1m[R%-2d] %2d %s: %s [%d-%d] %s \033[0m\n", compet,
-               _rnd/1000, z%50, shortmonth[z/50],
-               mnem[id[a]], x, y, mnem[id[b]]);
-      printf("------------------------------------------------------------------\n");
-      printf("New (y) -- Replace (1/2/n):");
-      scanf("%s", rep);
+      rep[0] = '0';
+      kk = 0;
     }
-    if (rep[0] == '1' && oldr%2==1) {
-      oy = res[0][a][b] % 100;
-      ox = (int) (res[0][a][b]/100);
-      gsc[a] -= ox; gre[a] -= oy;
-      gsc[b] -= oy; gre[b] -= ox;
-      if (ox>oy) { win[a]--; los[b]--; pts[a] -= ppv; }
-        else if (ox==oy) { drw[a]--; drw[b]--; pts[a]--; pts[b]--; }
-         else { los[a]--; win[b]--; pts[b] -= ppv; }
-      res[0][a][b] = -1;
-      rnd[0][a][b] = -1;
-      printf("%s [%d-%d] %s  deleted.\n", NameOf(L,id[a],year), ox, oy, NameOf(L,id[b],year));
+
+    if (rep[0] == '0') {
+      if (oldr>0) {
+        kk=0; while (kk<numr && res[kk][a][b]>=0) kk++;
+        if (kk>=numr) return 2;
+      }
     }
-    if (rep[0] == '2' && oldr>=2) {
-      oy = res[1][a][b] % 100;
-      ox = (int) (res[1][a][b]/100);
-      gsc[a] -= ox; gre[a] -= oy;
-      gsc[b] -= oy; gre[b] -= ox;
-      if (ox>oy) { win[a]--; los[b]--; pts[a] -= ppv; }
-        else if (ox==oy) { drw[a]--; drw[b]--; pts[a]--; pts[b]--; }
-         else { los[a]--; win[b]--; pts[b] -= ppv; }
-      res[1][a][b] = -1;
-      rnd[1][a][b] = -1;
-      printf("%s [%d-%d] %s  deleted.\n", NameOf(L,id[a],year), ox, oy, NameOf(L,id[b],year));
+    else if (rep[0] >= '1' && rep[0] <= ('0'+numr)) {
+      kk = rep[0] - '1';
+      DeleteResult(kk, a, b);
     }
-    else if (rep[0]!='y' && (rep[0] < '0' || rep[0] > '2')) return 1;
-  }
+    else return 1;
+
+    if (numr<2) {
+      if (rep[0]!='k') rnd[0][a][b] = _rnd;
+      res[0][a][b] = 100*x+y;
+    } else if (res[kk][a][b] < 0) {
+      if (rep[1]!='k') rnd[kk][a][b] = _rnd;
+      res[kk][a][b] = 100*x+y;
+    }
 
 //  printf("Score: "); scanf("%d", &z);
 
-  Missing(a, b);
+    updatez = z;
+    if (rep[1]=='+') {
+      updates++;
+      _rnd += 1000;
+    } else if (rep[1]=='-') {
+      updates++;
+      _rnd -= 1000;
+    } else if (rep[1]=='r' || rep[1]=='R') {
+      printf("\nEnter new round:"); scanf("%d", &_rnd);
+      updates++;
+      updater = _rnd;
+      updatez = _rnd%1000;
+    }
 
-  printf("\n%s[R%-2d] %2d %s: %s [%d-%d] %s \n", compet, _rnd/1000, z%50, shortmonth[z/50], 
-           mnem[id[a]], x, y, mnem[id[b]]);
-  printf("------------------------------------------------------------------\n");
-  if (rep[0]!='y' && rep[0]!='Y') {
-    printf("Add ? (y/n/k):"); scanf("%s", rep);
-  }
-  if (rep[0]!='y' && rep[y]!='Y' && rep[0]!='0') return 1;
-  updatez = z;
-  if (rep[1]=='+') {
-    updates++;
-    _rnd += 1000;
-  }
-  else if (rep[1]=='-') {
-    updates++;
-    _rnd -= 1000;
-  }
-  else if (rep[1]=='r' || rep[1]=='R') {
-    printf("\nEnter new round:"); scanf("%d", &_rnd);
-    updates++;
-    updater = _rnd;
-    updatez = _rnd%1000;
-  }
-
-  if (tbr<10 || res[0][a][b] < 0) {
-    if (rep[0]!='k') rnd[0][a][b] = 1000*(_rnd/1000)+updatez;
-    res[0][a][b] = 100*x+y;
-  }
-  else if (res[1][a][b] < 0) {
-    rnd[1][a][b] = 1000*(_rnd/1000)+updatez;
-    res[1][a][b] = 100*x+y;
-  }
-
-  if (100*x+y >= 0) {
-    gsc[a] += x; gre[a] += y;
-    gsc[b] += y; gre[b] += x;
-    if (x>y) { win[a]++; los[b]++; pts[a] += ppv; }
+    if (100*x+y >= 0) {
+      gsc[a] += x; gre[a] += y;
+      gsc[b] += y; gre[b] += x;
+      if (x>y) { win[a]++; los[b]++; pts[a] += ppv; }
       else if (x==y) { drw[a]++; drw[b]++; pts[a]++; pts[b]++; }
-       else { los[a]++; win[b]++; pts[b] += ppv; }
-    printf("%s - %s  [%d-%d]  added  (round %2d, %s %2d)\n\n",
-           NameOf(L,id[a],year), NameOf(L,id[b],year),
-           x, y, _rnd/1000, shortmonth[z/50], z%50);
-    updates++;
+      else { los[a]++; win[b]++; pts[b] += ppv; }
+      printf("%s - %s  [%d-%d]  added  (round %2d, %s %2d)\n\n",
+            NameOf(L,id[a],year), NameOf(L,id[b],year),
+            x, y, _rnd/1000, shortmonth[z/50], z%50);
+      updates++;
+    }
   }
 
   // previous results
-  if (res[0][a][b]>=0)
-    printf("%s - %s  [%d-%d]  (round %2d, %s %2d)\n",
-      NameOf(L,id[a],year), NameOf(L,id[b],year),
-      res[0][a][b]/100, res[0][a][b]%100, rnd[0][a][b]/1000, shortmonth[(rnd[0][a][b]%1000)/50], rnd[0][a][b]%50);
-  if (res[0][b][a]>=0)
-    printf("%s - %s  [%d-%d]  (round %2d, %s %2d)\n",
-      NameOf(L,id[b],year), NameOf(L,id[a],year),
-      res[0][b][a]/100, res[0][b][a]%100, rnd[0][b][a]/1000, shortmonth[(rnd[0][b][a]%1000)/50], rnd[0][b][a]%50);
-  if (res[1][a][b]>=0)
-    printf("%s - %s  [%d-%d]  (round %2d, %s %2d)\n",
-      NameOf(L,id[a],year), NameOf(L,id[b],year),
-      res[1][a][b]/100, res[1][a][b]%100, rnd[1][a][b]/1000, shortmonth[(rnd[1][a][b]%1000)/50], rnd[1][a][b]%50);
-  if (res[1][b][a]>=0)
-    printf("%s - %s  [%d-%d]  (round %2d, %s %2d)\n",
-      NameOf(L,id[b],year), NameOf(L,id[a],year),
-      res[1][b][a]/100, res[1][b][a]%100, rnd[1][b][a]/1000, shortmonth[(rnd[1][b][a]%1000)/50], rnd[1][b][a]%50);
+  for (int k=0; k<numr; k++) {
+    if (res[k][a][b]>=0) {
+      printf("%s - %s  [%d-%d]  (round %2d, %s %2d)\n",
+        NameOf(L,id[a],year), NameOf(L,id[b],year),
+        res[k][a][b]/100, res[k][a][b]%100, rnd[k][a][b]/1000, shortmonth[(rnd[k][a][b]%1000)/50], rnd[k][a][b]%50);
+    }
+    if (res[k][b][a]>=0) {
+      printf("%s - %s  [%d-%d]  (round %2d, %s %2d)\n",
+        NameOf(L,id[b],year), NameOf(L,id[a],year),
+        res[k][b][a]/100, res[k][b][a]%100, rnd[k][b][a]/1000, shortmonth[(rnd[k][b][a]%1000)/50], rnd[k][b][a]%50);
+    }
+  }
   gla = a; glb = b;
   Ranking();
   Listing();
   return 1;
 }
-
-
-
 
 
 int Extract(char *filename) {
@@ -806,8 +786,8 @@ int Extract(char *filename) {
       if (tkm && strlen(tkm)>0)  m1 = atoi(tkm); else m1 = 0;
       if (m1>0) m = m1;
 
-      do { 
-        fgets(s, 1024, f); 
+      do {
+        fgets(s, 1024, f);
         tk = strstr(s, "team-a");
       } while (tk==NULL && !feof(f));
       if (tk!=NULL) {
@@ -841,8 +821,8 @@ int Extract(char *filename) {
       x = atoi(tkx);
       y = atoi(tky);
 
-      do { 
-        fgets(s, 1024, f); 
+      do {
+        fgets(s, 1024, f);
         tk = strstr(s, "team-b");
       } while (tk==NULL && !feof(f));
       if (tk!=NULL) {
@@ -854,21 +834,19 @@ int Extract(char *filename) {
       b = Find(guest);
       if (b<0) printf("\033[31;1mCannot find team %s\033[0m...\n", guest);
 
-//      printf("\n[R%-2d] %2d %s, %s [%s] %s\n", _rnd/1000, z, shortmonth[m], home, score, guest);
-//      printf("------------------------------------------------------------------\n");
       if (a>=0 && b>=0) AddResult(a, b, x, y, 50*m+z);
     }
   }
 }
 
 int main(int argc, char **argv) {
-  char inputfile[64], outputfile[64], updatesfile[64];
+  char inputfile[64], updatesfile[64];
 
   Load();
-  if (argc < 3) { 
-    printf("Not all input files specified.\n"); 
+  if (argc < 3) {
+    printf("Not all input files specified.\n");
     printf("Usage: autoupdate a.2007 first.html\n");
-    return 0; 
+    return 0;
   }
 
   NG = 0;
@@ -892,5 +870,5 @@ int main(int argc, char **argv) {
   for (int i=0; i<NC; i++)
     if (L[i]) delete L[i];
   return 1;
-  
+
 }
