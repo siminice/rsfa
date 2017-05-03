@@ -670,22 +670,20 @@ int AddResult(int a, int b, int x, int y, int z) {
     printf("\n------------------------------------------------------------------");
     printf("\n%s[R%-2d] %2d %s: %s [%d-%d] %s \n", compet, _rnd/1000, z%50, shortmonth[z/50],
            mnem[id[a]], x, y, mnem[id[b]]);
+  }
 
     Missing(a, b);
+    printf("\n%s[R%-2d] %2d %s: %s [%d-%d] %s \n", compet, _rnd/1000, z%50, shortmonth[z/50], 
+             mnem[id[a]], x, y, mnem[id[b]]);
+    printf("-----------------------------------------------------------\n");
 
     rep[0] = 'n';
-    if (oldr>0) {
-      printf("New (0) -- Replace (");
-      for (int k=1; k<=numr; k++) printf("%c/", '0'+k);
-      printf("n):");
-      scanf("%s", rep);
-    }
-    else {
-      rep[0] = '0';
-      kk = 0;
-    }
+    printf("New (y) -- Replace (");
+    for (int k=1; k<=numr; k++) printf("%c/", '0'+k);
+    printf("n):");
+    scanf("%s", rep);
 
-    if (rep[0] == '0') {
+    if (rep[0] == 'y' || rep[0] == 'Y') {
       if (oldr>0) {
         kk=0; while (kk<numr && res[kk][a][b]>=0) kk++;
         if (kk>=numr) return 2;
@@ -696,14 +694,6 @@ int AddResult(int a, int b, int x, int y, int z) {
       DeleteResult(kk, a, b);
     }
     else return 1;
-
-    if (numr<2) {
-      if (rep[0]!='k') rnd[0][a][b] = _rnd;
-      res[0][a][b] = 100*x+y;
-    } else if (res[kk][a][b] < 0) {
-      if (rep[1]!='k') rnd[kk][a][b] = _rnd;
-      res[kk][a][b] = 100*x+y;
-    }
 
 //  printf("Score: "); scanf("%d", &z);
 
@@ -721,6 +711,14 @@ int AddResult(int a, int b, int x, int y, int z) {
       updatez = _rnd%1000;
     }
 
+    if (numr<2) {
+      if (rep[0]!='k') rnd[0][a][b] = _rnd;
+      res[0][a][b] = 100*x+y;
+    } else if (res[kk][a][b] < 0) {
+      if (rep[1]!='k') rnd[kk][a][b] = _rnd;
+      res[kk][a][b] = 100*x+y;
+    }
+
     if (100*x+y >= 0) {
       gsc[a] += x; gre[a] += y;
       gsc[b] += y; gre[b] += x;
@@ -732,7 +730,6 @@ int AddResult(int a, int b, int x, int y, int z) {
             x, y, _rnd/1000, shortmonth[z/50], z%50);
       updates++;
     }
-  }
 
   // previous results
   for (int k=0; k<numr; k++) {

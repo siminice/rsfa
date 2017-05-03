@@ -4,9 +4,9 @@ CURL="curl -s --get"
 SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
-echo " kaz > a"
+printf " %-3s > %-3s > %s > %s\n" "kaz" "a" "premier-league" "regular-season"
 ${CURL} ${SW}/kazakhstan/premier-league/2017/regular-season/r39316/matches/ > ${DIR}/kaz/a.html
 
-echo " kaz > b"
+printf " %-3s > %-3s > %s > %s\n" "kaz" "b" "1-division" "regular-season"
 ${CURL} ${SW}/kazakhstan/1-division/2017/regular-season/r39612/matches/ > ${DIR}/kaz/b.html
 
