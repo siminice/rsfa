@@ -376,8 +376,8 @@ void Listing() {
      win[x]+drw[x]+los[x],
      win[x], drw[x], los[x], gsc[x], gre[x]);
      if (pen[x]>0) printf("%4d (-%dp pen)" , pts[x]-pen[x], pen[x]);
-     else if (pen[x]<0) printf("%3d (+%dp bonus)" , pts[x]-pen[x], -pen[x]);
-     else printf("%3d", pts[x]);
+     else if (pen[x]<0) printf("%4d (+%dp bonus)" , pts[x]-pen[x], -pen[x]);
+     else printf("%4d", pts[x]);
      printf(" %s\033[0m\n", desc[x]);
 //     if (x==gla || x==glb) printf(" <\n"); else printf("\n");
 
