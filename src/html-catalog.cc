@@ -1218,7 +1218,7 @@ void HTMLYearlyTeamStats(int t, int year) {
 	SeasonName(year, ssn);
 	fprintf(of, "<HTML>\n<TITLE>Lot %s %s</TITLE>\n", NameOf(L, t, year), ssn);
  	fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
- 	fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2\">\n");
+ 	fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
     DatatablesHeader();
     fprintf(of, "</HEAD>\n<BODY>\n");
     fprintf(of, "<script src=\"sorttable.js\"></script>\n");
@@ -1444,7 +1444,7 @@ void Lineups(int year) {
 
   fprintf(of, "<HTML>\n<TITLE>Loturi Divizia A %s</TITLE>\n", ssn);
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
-  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2\">\n");
+  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   DatatablesHeader();
   fprintf(of, "</HEAD>\n<BODY>\n");
 
@@ -1638,7 +1638,7 @@ void PlayerStats(int pl) {
 
   fprintf(of, "<HTML>\n<TITLE>%s %s</TITLE>\n", ppren[pl], pname[pl]);
   fprintf(of, "<HEAD>\n<link href=\"../css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
-  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2\">\n");
+  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(of, "</HEAD>\n<BODY>\n");
 
   fprintf(of, "<script src=\"../sorttable.js\"></script>\n");
@@ -2288,7 +2288,7 @@ void HTMLHeader(int t) {
   else
     fprintf(of, "<HTML>\n<TITLE>Loturi %s în Divizia A %d-%d</TITLE>\n", NameOf(L, t, 3000), CFY, CLY);
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
-  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2\">\n");
+  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   DatatablesHeader();
   fprintf(of, "</HEAD>\n<BODY>\n");
 }

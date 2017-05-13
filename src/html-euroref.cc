@@ -443,7 +443,7 @@ void HTMLTable(Ranking *R, Catalog *C, const char *filename) {
   fprintf(of, "<HTML>\n<TITLE>Arbitri în cupele europene (%d-%d)</TITLE>\n", FY, LY);
 
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
-  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2\">\n");
+  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(of, "</HEAD>\n<BODY>\n");
 
   fprintf(of, "<H2>Arbitri în cupele europene (%d-%d)</H2>\n", FY, LY);
@@ -527,7 +527,7 @@ void HTMLCTable(Ranking *R, const char *filename) {
   fprintf(of, "<HTML>\n<TITLE>Arbitri în cupele europene, pe ţări (%d-%d)</TITLE>\n", FY, LY);
 
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
-  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2\">\n");
+  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(of, "</HEAD>\n<BODY>\n");
 
   fprintf(of, "<H2>Arbitri în cupele europene, pe ţări (%d-%d)</H2>\n", FY, LY);
@@ -604,7 +604,7 @@ void HTMLRef(int c) {
 	fprintf(stderr, "%d.%s %s\n", c+1, p.pren, p.name);
   fprintf(of, "<HTML>\n<TITLE>%s %s</TITLE>\n", p.pren, p.name);
   fprintf(of, "<HEAD>\n<link href=\"../css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
-  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2\">\n");
+  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(of, "</HEAD>\n<BODY>\n");
 
   fprintf(of, "<TABLE CELLSPACING=\"10\" CELLPADDING=\"5\">\n<TR>\n<TD>");

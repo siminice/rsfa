@@ -125,6 +125,20 @@ Aliases **L;
 
 //--------------------------------------------------
 
+int extras(const char *str)
+{
+    int len = 0;
+
+    while (*str != '\0') {
+        if ((*str & 0xc0) == 0x80) {
+            len++;
+        }
+        str++;
+    }
+    return len;
+}
+
+//--------------------------------------------------
 int Load() {
   FILE *f;
   char s[2000], *tok[20], *ystr, *name, *nick;
@@ -342,18 +356,22 @@ void Ranking() {
 }
 
 void Listing() {
+  char *utfname = new char[64];
   printf("\nStandings:\n");
   for (int i=0; i<n; i++) {
     int x = rank[i];
     int grnk = i+1;
     if (NG>1) grnk = i%((n+NG-1)/NG)+1;
     if (x==gla || x==glb) printf("\033[1m");
-    printf("%2d.%-30s%2d%3d%3d%3d%4d-%2d", i+1,
-     NameOf(L,id[x],year), win[x]+drw[x]+los[x],
+    printf("%2d.", i+1);
+    sprintf(utfname, "%s", NameOf(L,id[x],year));
+    printf("%-*s", 30+extras(utfname), utfname);
+    printf("%2d%3d%3d%3d%4d-%2d",
+     win[x]+drw[x]+los[x],
      win[x], drw[x], los[x], gsc[x], gre[x]);
-     if (pen[x]>0) printf("%3d (-%dp pen)" , pts[x]-pen[x], pen[x]);
-     else if (pen[x]<0) printf("%3d (+%dp bonus)" , pts[x]-pen[x], -pen[x]);
-     else printf("%3d", pts[x]);
+     if (pen[x]>0) printf("%4d (-%dp pen)" , pts[x]-pen[x], pen[x]);
+     else if (pen[x]<0) printf("%4d (+%dp bonus)" , pts[x]-pen[x], -pen[x]);
+     else printf("%4d", pts[x]);
      printf(" %s\033[0m\n", desc[x]);
 //     if (x==gla || x==glb) printf(" <\n"); else printf("\n");
 
@@ -662,10 +680,12 @@ int main(int argc, char* argv[]) {
   gla = glb = -1;
 
   printf("\nLatest results:\n");
+  char utfname[64];
   for (int i=0; i<lastrng; i++) {
-    printf("R%d, %2d %3s: %-16s %d-%d %s\n", lastr,
-            lastrd[i]%50, month[lastrd[i]/50-1], mnem[id[lastrh[i]]], lastrs[i]/100, 
-            lastrs[i]%100, mnem[id[lastrg[i]]] );
+    printf("R%d, %2d %3s: ", lastr, lastrd[i]%50, month[lastrd[i]/50]);
+    sprintf(utfname, "%s", NickOf(L, id[lastrh[i]], year));
+    printf("%-*s ", 16+extras(utfname), utfname);
+    printf("%d-%d %s\n", lastrs[i]/100, lastrs[i]%100, NickOf(L, id[lastrg[i]], year));
   }
 
   Ranking();

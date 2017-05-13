@@ -461,7 +461,7 @@ void Cup(int y) {
   SeasonName(y, strsez);
   fprintf(of, "<HTML>\n<TITLE>%s %s</TITLE>\n", cpname, strsez);
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
-  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2\">\n");
+  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(of, "</HEAD>\n<BODY BGCOLOR=\"333333\">\n");
 	fprintf(of, "<H3>");
   fprintf(of, "<A HREF=\"cupa-%d.html\"><IMG HEIGHT=\"24\" SRC=\"prev.gif\"></IMG></A>", y-1);

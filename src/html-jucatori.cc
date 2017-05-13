@@ -338,7 +338,7 @@ int main(int argc, char* argv[]) {
   fprintf(f, "<html>\n");
   fprintf(f, "<HEAD><title>Jucători în prima divizie</title>\n", liga);
   fprintf(f, "<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
-  fprintf(f, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2>\"\n");
+  fprintf(f, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8>\"\n");
   fprintf(f, "</head>\n");
   fprintf(f, "<center>\n");
   fprintf(f, "<H2>Jucători în prima divizie</H2>\n");

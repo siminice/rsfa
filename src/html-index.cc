@@ -381,7 +381,7 @@ int main(int argc, char* argv[]) {
   fprintf(f, "<HTML>\n");
   fprintf(f, "<TITLE>%s</TITLE>\n<HEAD>\n", liga);
   fprintf(f, "<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
-  fprintf(f, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2\">\n");
+  fprintf(f, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(f, "</HEAD>\n<BODY BGCOLOR=\"333333\">");
   fprintf(f, "<center>\n");
   fprintf(f, "<H2>%s</H2>\n", liga);

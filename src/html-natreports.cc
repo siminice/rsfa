@@ -605,8 +605,8 @@ void HTMLHeader(int r, int a, int b) {
   fprintf(of, "<!DOCTYPE html>\n");
   fprintf(of, "<head>\n");
   fprintf(of, "  <title>%s vs. %s</title>\n", NameOf(CL, a, year), NameOf(CL, b, year));
-  fprintf(of, "  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2\" />\n");
-  fprintf(of, "<link rel=\"stylesheet\" href=\"../../css/report.css\" type=\"text/css\" charset=\"iso-8859-2\" />\n");
+  fprintf(of, "  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n");
+  fprintf(of, "<link rel=\"stylesheet\" href=\"../../css/report.css\" type=\"text/css\" charset=\"utf-8\" />\n");
   fprintf(of, "</head>\n");
   fprintf(of, "<body id=\"pmain\">\n\n");
   fprintf(of, "  <div class=\"block  clearfix block_match_info-wrapper\" id=\"i4w\">\n");
@@ -1704,7 +1704,7 @@ void SynopticTable() {
 
   fprintf(f, "<HTML>\n");
   fprintf(f, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
-  fprintf(f, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2\">\n");
+  fprintf(f, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(f, "</HEAD>\n");
   fprintf(f, "<BODY>\n");
 

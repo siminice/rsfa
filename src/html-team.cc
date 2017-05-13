@@ -570,7 +570,7 @@ void Evol(int a) {
 
   fprintf(of, "<HTML>\n<TITLE>Evoluţie istorică %s</TITLE>\n", NameOf(L, a, 3000));
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
-  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2\">\n");
+  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(of, "</HEAD>\n<BODY BGCOLOR=\"777777\">\n");
   fprintf(of, "<H2>Evoluţie istorică %s</H2>\n", NameOf(L, a, 3000));
   fprintf(of, "<UL><LI><A HREF=\"palmares-%d.html\"><FONT COLOR=\"000000\" SIZE=+1>Palmares</FONT></A></LI>\n", a);

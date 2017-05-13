@@ -1305,7 +1305,7 @@ void HTMLHeader(int t) {
   else 
     fprintf(of, "<HTML>\n<TITLE>Serii consecutive</TITLE>\n");
   fprintf(of, "<HEAD>\n<link href=\"css/results.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
-  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2\">\n");
+  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(of, "</HEAD>\n<BODY>\n");
   fprintf(of, "<script language=\"javascript\">\n");
   fprintf(of, "  function toggleDiv(divid){\n");

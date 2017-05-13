@@ -372,7 +372,7 @@ void Alltime(int d) {
 
   fprintf(of, "<HTML>\n<TITLE>Clasament alltime %c (%d-%d)</TITLE>\n", (char)(d+65), afd, ald);
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
-  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2\">\n");
+  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(of, "</HEAD>\n<BODY>\n");
 
   fprintf(of, "<H2>Clasament <I>all-time</I> %c (%d-%d)</H2>\n", (char)(d+65), afd, ald);

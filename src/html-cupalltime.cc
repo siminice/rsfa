@@ -317,7 +317,7 @@ void CupAlltime() {
 
   fprintf(of, "<HTML>\n<TITLE>Clasament <I>all-time</I> Cupa României</TITLE>\n");
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
-  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2\">\n");
+  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(of, "</HEAD>\n<BODY>\n");
 
   fprintf(of, "<H2>Clasament <I>all-time</I> Cupa României</H2>\n");

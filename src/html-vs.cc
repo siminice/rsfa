@@ -1134,7 +1134,7 @@ void VsTable(int a, int b) {
 
   fprintf(of, "<HTML>\n<TITLE>Rezultate %s vs %s</TITLE>\n", NameOf(L, a, 3000), NameOf(L, b, 3000));
   fprintf(of, "<HEAD>\n<link href=\"../css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
-  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2\">\n");
+  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   DatatablesHeader();
   fprintf(of, "</HEAD>\n<BODY>\n");
   fprintf(of, "<H2>Rezultate %s vs %s</H2>\n", NameOf(L, a, 3000), NameOf(L, b, 3000));

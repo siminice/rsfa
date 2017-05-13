@@ -10,3 +10,5 @@ ${CURL} ${SW}/chile/primera-division/20162017/clausura/r35980/matches/ > ${DIR}/
 printf " %-3s > %-3s > %s > %s\n" "chi" "b" "primera-b" "2nd-phase"
 ${CURL} ${SW}/chile/primera-b/20162017/2nd-phase/r36290/matches/ > ${DIR}/chi/b.html
 
+printf " %-3s > %-3s > %s > %s\n" "chi" "c" "segunda-division" "promotion-round"
+${CURL} ${SW}/chile/segunda-division/20162017/promotion-round/r37943/matches/ > ${DIR}/chi/c.html

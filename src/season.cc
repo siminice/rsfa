@@ -369,12 +369,29 @@ void Ranking() {
   }
 }
 
+//--------------------------------------------------
+
+int extras(const char *str)
+{
+    int len = 0;
+
+    while (*str != '\0') {
+        if ((*str & 0xc0) == 0x80) {
+            len++;
+        }
+        str++;
+    }
+    return len;
+}
+
 void Listing() {
 //  printf("\nStandings:\n");
+  char *utfname = new char[64];
   printf("\n");
   char sdsc[100];
   for (int i=0; i<n; i++) {
     int x = rank[i];
+    sprintf(utfname, "%s", NameOf(L,id[x],year));
     sdsc[0] = 0;
     if (desc[x]) strcpy(sdsc, desc[x]);
     char *spar = strchr(sdsc, '(');
@@ -382,13 +399,16 @@ void Listing() {
     int grnk = i+1;
     if (NG>1) grnk = i%((n+NG-1)/NG)+1;
     if (win[x]+drw[x]+los[x]==0 && win[rank[0]]+drw[rank[0]]+los[rank[1]]>0) {
-      printf(" -.%-52s", NameOf(L,id[x],year));
+      printf(" -.%-*s", 52+extras(utfname), utfname);
       printf(" %s\n", sdsc);
     }
     else {
-     printf("%2d.%-30s%2d%3d%3d%3d%4d%c%-3d", grnk,
-     NameOf(L,id[x],year), win[x]+drw[x]+los[x], 
-     win[x], drw[x], los[x], gsc[x], (tbr%10!=RATIO?'-':':'), gre[x]);
+     printf("%2d.", grnk);
+     printf("%-*s", 30+extras(utfname), utfname);
+     NameOf(L,id[x],year), win[x]+drw[x]+los[x],
+     printf("%2d%3d%3d%3d%4d%c%-3d",
+       win[x]+drw[x]+los[x],
+       win[x], drw[x], los[x], gsc[x], (tbr%10!=RATIO?'-':':'), gre[x]);
      if (tbr%10==RATIO) printf(" %4.3f ", (gre[x]>0?((double)gsc[x])/((double)gre[x]):gsc[x]));
      if (pen[x]>0 && after(pdt[x],lastr)) printf("%4d (-%dp pen)" , pts[x]-pen[x], pen[x]);
      else if (pen[x]<0 && after(pdt[x],lastr)) printf("%4d (+%dp bonus)" , pts[x]-pen[x], -pen[x]);
@@ -523,17 +543,19 @@ int LoadFile(char *filename) {
 }
 
 void Synoptical() {
-  char *symbol = new char[4];
+  char *symbol = new char[16];
+  char utfname[64];
   symbol[3] = 0;
   printf("\n                ");
   for (int i=0; i<n; i++) {
     memmove(symbol, NickOf(L, id[rank[i]], year), 3);
-    printf("%3s ", symbol);
+    printf("%*s ", 3+extras(symbol), symbol);
   }
   printf("\n");
   for (int k=0; k<numr; k++) {
   for (int i=0; i<n; i++) {
-    printf("%-15s", NickOf(L, id[rank[i]], year));
+    sprintf(utfname, "%s", NickOf(L, id[rank[i]], year));
+    printf("%-*s", 15+extras(utfname), utfname);
     for (int j=0; j<n; j++)
       if (i==j) printf(" xxx");
        else if (res[k][rank[i]][rank[j]] >=0)
@@ -552,6 +574,7 @@ int consecutive(int r, int last) {
 }
 
 void DisplayData(int full, bool winter, int fd, int ld) {
+  char utfname[64];
   int ng;
   lastr = -1;
   int fmo = 7; int lmo = 20;
@@ -579,7 +602,9 @@ void DisplayData(int full, bool winter, int fd, int ld) {
             printf("[%s %d]\n", month[r/50], d%50);
           }
           AddResult(i, j, allres[k][i][j]/100, allres[k][i][j]%100);
-          printf("%-15s%d-%d %s\n", NickOf(L, id[i], year), allres[k][i][j]/100, 
+          sprintf(utfname, "%s", NickOf(L, id[i], year));
+          printf("%-*s", 15+extras(utfname), utfname);
+          printf(" %d-%d %s\n", allres[k][i][j]/100,
                   allres[k][i][j]%100, NickOf(L, id[j], year));
           ng++;
         }

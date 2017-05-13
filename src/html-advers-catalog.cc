@@ -1033,7 +1033,7 @@ void PlayerStats(int pl) {
 
   fprintf(of, "<HTML>\n<TITLE>%s %s</TITLE>\n", ppren[pl], pname[pl]);
   fprintf(of, "<HEAD>\n<link href=\"../css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
-  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2\">\n");
+  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(of, "</HEAD>\n<BODY>\n");
 
   fprintf(of, "<TABLE CELLSPACING=\"10\" CELLPADDING=\"5\">\n<TR>\n<TD>");
@@ -1320,7 +1320,7 @@ void HTMLHeader(int t) {
   else if (t==TM_NATL)
     fprintf(of, "<HTML>\n<TITLE>Prezenţe în echipa naţională</TITLE>\n");
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
-  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2\">\n");
+  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   DatatablesHead();
   fprintf(of, "</HEAD>\n<BODY>\n");
 }

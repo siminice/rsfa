@@ -1109,8 +1109,8 @@ void HTMLHeader(int r, int a, int b) {
   fprintf(of, "<head>\n");
   int z = round[r][a][b]%1000;
   fprintf(of, "  <title>%s vs. %s - %d %s</title>\n", NameOf(L, id[a], year), NameOf(L, id[b], year), z%50, romonth[z/50]);
-  fprintf(of, "  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-2\" />\n");
-  fprintf(of, "<link rel=\"stylesheet\" href=\"../../css/report.css\" type=\"text/css\" charset=\"iso-8859-2\" />\n");
+  fprintf(of, "  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n");
+  fprintf(of, "<link rel=\"stylesheet\" href=\"../../css/report.css\" type=\"text/css\" charset=\"utf-8\" />\n");
   fprintf(of, "</head>\n");
   fprintf(of, "<body id=\"pmain\">\n\n");
   fprintf(of, "  <div class=\"block  clearfix block_match_info-wrapper\" id=\"i4w\">\n");

@@ -164,10 +164,10 @@ int Extract(char *filename) {
           }
 //          fprintf(g, "../update %s.%d ../web/%s/%s.html\n", mnem[t][l], y+delta, dir[t], mnem[t][l]);
           if (!updated[t]) {
-            fprintf(g, "mv alias.dat alias.saved\n");
-            fprintf(g, "i2u alias.saved > alias.dat\n");
+//            fprintf(g, "mv alias.dat alias.saved\n");
+//            fprintf(g, "i2u alias.saved > alias.dat\n");
             fprintf(g, " u-%s\n", script[t]);
-            fprintf(g, "mv -f alias.saved alias.dat\n");
+//            fprintf(g, "mv -f alias.saved alias.dat\n");
              updated[t] = 1;
           }
         }
