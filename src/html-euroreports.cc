@@ -76,7 +76,7 @@ const char *romonth[] = {"", "ianuarie", "februarie", "martie", "aprilie", "mai"
 
 const char *evicon[] = {"g", "og", "pg", "pm", "cg" , "cr", "cgr"};
 const char *cupmnem[] = {"SC", "CCE", "CC", "UEFA"};
-const char *cupround[] = {"Câºtigãtoare", "Finala", "Semifinale", "Sferturi", "Optimi", "ªaisprezecimi", "1/32", "1/64"};
+const char *cupround[] = {"Câºtigãtoare", "Finala", "Semifinale", "Sferturi", "Optimi", "Åžaisprezecimi", "1/32", "1/64"};
 const char *cuprmnem[] = {" ", "F", "S", "Q", "O", "ª", "32", "64"};
 const char* fxcol[] = {"F0F0B0", "AAFFAA", "FF8888"};
 
@@ -1316,7 +1316,7 @@ void Overtime(int r) {
 
 void HTMLLineupsBlock(int r, int a, int b) {
   fprintf(of, " <div class=\"block  clearfix block_match_lineups-wrapper\" id=\"l7w\">\n");
-  fprintf(of, "  <h2>Formaþii</h2>\n\n");
+  fprintf(of, "  <h2>FormaÅ£ii</h2>\n\n");
 
   fprintf(of, "  <div class=\"content  \">\n");
   fprintf(of, "    <div class=\"block_match_lineups real-content clearfix \" id=\"l7\">\n\n");
@@ -1508,7 +1508,7 @@ void HTMLRef(char *sc) {
 
 void HTMLRefsBlock(int r, int a, int b) {
   fprintf(of, "  <div class=\"block  clearfix block_match_additional_info-wrapper\" id=\"i6w\">\n");
-  fprintf(of, "  <h2>Arbitri ºi observatori</h2>\n");
+  fprintf(of, "  <h2>Arbitri ÅŸi observatori</h2>\n");
   fprintf(of, "  <div class=\"content  \">\n");
   fprintf(of, "    <div class=\"block_match_additional_info real-content clearfix \" id=\"i6\">\n\n");
 
@@ -1517,7 +1517,7 @@ void HTMLRefsBlock(int r, int a, int b) {
 	HTMLRef(db[r][DB_REF]);
   fprintf(of, "    <dd></dd>\n\n");
 
-  fprintf(of, "    <dt>Asistenþi:</dt>\n");
+  fprintf(of, "    <dt>AsistenÅ£i:</dt>\n");
   fprintf(of, "    <dd>\n");
   fprintf(of, "    </dd>\n\n");
 
@@ -1738,7 +1738,7 @@ void SynopticTable() {
   fprintf(f, "<H2>");
   if (year>ECFY)
     fprintf(f, "<A HREF=euro-%d.html><IMG HEIGHT=\"20\" SRC=\"prev.gif\"></A>", year-1);
-  fprintf(f, "Echipele româneºti în cupele europene %d/%d", year-1, year);
+  fprintf(f, "Echipele romÃ¢neÅŸti Ã®n cupele europene %d/%d", year-1, year);
   if (year<ECLY)
     fprintf(f, "<A HREF=euro-%d.html><IMG HEIGHT=\"20\" SRC=\"next.gif\"></A>", year+1);
   fprintf(f, "</H2>");
@@ -1748,7 +1748,7 @@ void SynopticTable() {
   fprintf(f, "<TH> Data@Ora </TH>");
   fprintf(f, "<TH> Gazde </TH>");
   fprintf(f, "<TH> Scor </TH>");
-  fprintf(f, "<TH> Oaspeþi </TH>");
+  fprintf(f, "<TH> OaspeÅ£i </TH>");
   fprintf(f, "<TH> Cupa </TH>");
   fprintf(f, "<TH> Runda </TH>");
   fprintf(f, "</TR>\n");
@@ -1786,18 +1786,18 @@ void SynopticTable() {
   }
   fprintf(f, "</TBODY></TABLE>\n");
 
-  fprintf(f, "<H3>Jucãtori folosiþi</H3>\n");
+  fprintf(f, "<H3>JucÄƒtori folosiÅ£i</H3>\n");
   fprintf(f, "<script src=\"sorttable.js\"></script>\n");
   fprintf(f, "<TABLE WIDTH=\"75%%\" class=\"sortable\" cellpadding=\"2\" frame=\"box\">\n");
   fprintf(f, "<THEAD><TR BGCLOR=\"DDDDDD\">\n");
   fprintf(f, "<TH>#</TH>");
   fprintf(f, "<TH>Prenume</TH>");
   fprintf(f, "<TH>Nume</TH>");
-  fprintf(f, "<TH>Data naºterii</TH>");
+  fprintf(f, "<TH>Data naÅŸterii</TH>");
   fprintf(f, "<TH>Meciuri</TH>");
   fprintf(f, "<TH>Minute</TH>");
   fprintf(f, "<TH>Titular</TH>");
-  fprintf(f, "<TH>Rezervã</TH>");
+  fprintf(f, "<TH>RezervÄƒ</TH>");
   fprintf(f, "<TH>Goluri</TH>");
   fprintf(f, "<TH>Pen</TH>");
   fprintf(f, "<TH>Auto</TH>");

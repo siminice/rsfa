@@ -1071,15 +1071,15 @@ void HTMLLineupsHeader() {
   fprintf(of, "<TH>#</TH>");
   fprintf(of, "<TH>Prenume</TH>");
   fprintf(of, "<TH>Nume</TH>");
-  fprintf(of, "<TH>Data naºterii</TH>");
-  fprintf(of, "<TH>Naþ.</TH>");
+  fprintf(of, "<TH>Data naÅŸterii</TH>");
+  fprintf(of, "<TH>NaÅ£.</TH>");
   fprintf(of, "<TH>Sez.</TH>");
   fprintf(of, "<TH>Primul</TH>");
   fprintf(of, "<TH>Ultimul</TH>");
   fprintf(of, "<TH>Meciuri</TH>");
   fprintf(of, "<TH>Minute</TH>");
   fprintf(of, "<TH>Titular</TH>");
-  fprintf(of, "<TH>Rezervã</TH>");
+  fprintf(of, "<TH>RezervÄƒ</TH>");
   fprintf(of, "<TH>Goluri</TH>");
   fprintf(of, "<TH>Pen</TH>");
   fprintf(of, "<TH>Auto</TH>");
@@ -1089,7 +1089,7 @@ void HTMLLineupsHeader() {
 }
 
 void HTMLPlayerStatsTable() {
-  fprintf(of, "<H3>Statistici jucãtori:</H3>\n");
+  fprintf(of, "<H3>Statistici jucÄƒtori:</H3>\n");
   HTMLLineupsHeader();
   SortPlayerStats();
   for (int i=0; i<NP; i++) {
@@ -1153,7 +1153,7 @@ void VsTable(int a, int b) {
     fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"7%%\">J</TH>");
     fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"9%%\">V</TH>");
     fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"7%%\">E</TH>");
-    fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"7%%\">Î</TH>");
+    fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"7%%\">ÃŽ</TH>");
     fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"12%%\">gm</TH>");
     fprintf(of, "<TH ALIGN=\"center\" WIDTH=\"1%%\">-</TH>");
     fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"5%%\">gp</TH>");
@@ -1193,7 +1193,7 @@ void VsTable(int a, int b) {
       pctk = (ngk>0? (int) ((100.0*wink+50*drwk) / (ngk)) : 0);
 
       fprintf(of, "<TR>");
-      fprintf(of, "<TD ALIGN=\"left\">Acasã</TD>");
+      fprintf(of, "<TD ALIGN=\"left\">AcasÄƒ</TD>");
       fprintf(of, "<TD ALIGN=\"right\">%d</TD>", ngk);
       fprintf(of, "<TD ALIGN=\"right\">%d</TD>", wink);
       fprintf(of, "<TD ALIGN=\"right\">%d</TD>", drwk);
@@ -1240,7 +1240,7 @@ void VsTable(int a, int b) {
       if (j<ND)
         fprintf(of, "<TBODY><TR BGCOLOR=\"EEEEEE\"><TD COLSPAN=\"10\"><B><FONT COLOR=\"000077\">Divizia %c</FONT></B></TD></TR></TBODY>\n", (char)(j+65));
       else
-        fprintf(of, "<TBODY><TR BGCOLOR=\"EEEEEE\"><TD COLSPAN=\"10\"><B><FONT COLOR=\"000077\">Cupã</FONT></B></TD></TR></TBODY>\n");
+        fprintf(of, "<TBODY><TR BGCOLOR=\"EEEEEE\"><TD COLSPAN=\"10\"><B><FONT COLOR=\"000077\">CupÄƒ</FONT></B></TD></TR></TBODY>\n");
 
       fprintf(of, "<TBODY><TR>");
       fprintf(of, "<TD ALIGN=\"left\">Total</TD>");
@@ -1265,7 +1265,7 @@ void VsTable(int a, int b) {
   
       if (j<ND) {
       fprintf(of, "<TR>");
-      fprintf(of, "<TD ALIGN=\"left\">Acasã</TD>");
+      fprintf(of, "<TD ALIGN=\"left\">AcasÄƒ</TD>");
       fprintf(of, "<TD ALIGN=\"right\">%d</TD>", ngk);
       fprintf(of, "<TD ALIGN=\"right\">%d</TD>", wink);
       fprintf(of, "<TD ALIGN=\"right\">%d</TD>", drwk);
@@ -1324,7 +1324,7 @@ void VsTable(int a, int b) {
   fprintf(of, "<TR>");
   fprintf(of, "<TD ALIGN=\"center\">Sezon</TD>");
   fprintf(of, "<TD ALIGN=\"center\" COLSPAN=\"%d\" ALIGN=\"center\">Campionat</TD>", 8+ncol);
-  if (nkol>0) fprintf(of, "<TD ALIGN=\"center\" COLSPAN=\"%d\" ALIGN=\"center\">Cupã</TD>", nkol);
+  if (nkol>0) fprintf(of, "<TD ALIGN=\"center\" COLSPAN=\"%d\" ALIGN=\"center\">CupÄƒ</TD>", nkol);
   fprintf(of, "</TR>\n");
 
   start = 0; last = 3000;

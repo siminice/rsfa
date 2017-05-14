@@ -384,7 +384,7 @@ void Alltime(int d) {
   fprintf(of, "<TH WIDTH=\"7%%\" ALIGN=\"center\">J</TH>");
   fprintf(of, "<TH WIDTH=\"7%%\" ALIGN=\"center\">V</TH>");
   fprintf(of, "<TH WIDTH=\"7%%\" ALIGN=\"center\">E</TH>");
-  fprintf(of, "<TH WIDTH=\"7%%\" ALIGN=\"center\">Î</TH>");
+  fprintf(of, "<TH WIDTH=\"7%%\" ALIGN=\"center\">ÃŽ</TH>");
   fprintf(of, "<TH WIDTH=\"7%%\" ALIGN=\"center\">gm</TH>");
   fprintf(of, "<TH WIDTH=\"1%%\" ALIGN=\"center\">-</TH>");
   fprintf(of, "<TH ALIGN=\"center\">gp</TH>");

@@ -597,15 +597,15 @@ void HTMLLineupsHeader() {
   fprintf(of, "<TH>#</TH>");
   fprintf(of, "<TH>Prenume</TH>");
   fprintf(of, "<TH>Nume</TH>");
-  fprintf(of, "<TH>Data naºterii</TH>");
-  fprintf(of, "<TH>Naþ.</TH>");
+  fprintf(of, "<TH>Data naÅŸterii</TH>");
+  fprintf(of, "<TH>NaÅ£.</TH>");
   fprintf(of, "<TH>#Sez.</TH>");
   fprintf(of, "<TH>Primul</TH>");
   fprintf(of, "<TH>Ultimul</TH>");
   fprintf(of, "<TH>Meciuri</TH>");
   fprintf(of, "<TH>Minute</TH>");
   fprintf(of, "<TH>Titular</TH>");
-  fprintf(of, "<TH>Rezervã</TH>");
+  fprintf(of, "<TH>RezervÄƒ</TH>");
   fprintf(of, "<TH>Goluri</TH>");
   fprintf(of, "<TH>Pen</TH>");
   fprintf(of, "<TH>Auto</TH>");
@@ -615,7 +615,7 @@ void HTMLLineupsHeader() {
 }
 
 void HTMLPlayerStatsTable() {
-  fprintf(of, "<H3>Statistici jucãtori:</H3>\n");
+  fprintf(of, "<H3>Statistici jucÄƒtori:</H3>\n");
   HTMLLineupsHeader();
   for (int i=0; i<NP; i++) {
     int x = prnk[i];
@@ -762,14 +762,14 @@ void HTMLTeamRankingHeader(int ct) {
   fprintf(of, "<THEAD><TR BGCOLOR=\"CCCCCC\">\n");
   fprintf(of, "<TH WIDTH=\"5%%\">#</TH>");
   if (ct) {
-    fprintf(of, "<TH WIDTH=\"40%%\">Þara</TH>");
+    fprintf(of, "<TH WIDTH=\"40%%\"Å¢ara</TH>");
   } else {
     fprintf(of, "<TH WIDTH=\"40%%\">Echipa</TH>");
   }
   fprintf(of, "<TH WIDTH=\"5%%\">Meciuri</TH>");
   fprintf(of, "<TH WIDTH=\"5%%\">Victorii</TH>");
   fprintf(of, "<TH WIDTH=\"5%%\">Egaluri</TH>");
-  fprintf(of, "<TH WIDTH=\"5%%\">Infrâng.</TH>");
+  fprintf(of, "<TH WIDTH=\"5%%\">ÃŽnfrÃ¢ng.</TH>");
 //  fprintf(of, "<TH WIDTH=\"15%%\" COLSPAN=\"3\">Golaveraj</TH>");
   fprintf(of, "<TH WIDTH=\"8%%\">gm</TH>");
   fprintf(of, "<TH WIDTH=\"1%%\"></TH>");
@@ -858,14 +858,14 @@ void VsPage(int t) {
   fprintf(of, "</HEAD>\n");
   fprintf(of, "<BODY>\n");
   fprintf(of, "<script src=\"sorttable.js\"></script>\n");
-  fprintf(of, "<H3>Palmaresul echipelor româneºti împotriva echipelor din %s<H3>\n", ctty[t]);
+  fprintf(of, "<H3>Palmaresul echipelor romÃ¢neÅŸti Ã®mpotriva echipelor din %s<H3>\n", ctty[t]);
   fprintf(of, "<TABLE WIDTH=\"60%%\" cellpadding=\"1\" frame=\"box\">\n");
   fprintf(of, "<THEAD>\n");
   fprintf(of, "<TR BGCOLOR=\"DDDDDD\">\n");
   fprintf(of, "<TH> Data@Ora </TH>");
   fprintf(of, "<TH> Gazde </TH>");
   fprintf(of, "<TH> Scor </TH>");
-  fprintf(of, "<TH> Oaspeþi </TH>");
+  fprintf(of, "<TH> OaspeÅ£i </TH>");
   fprintf(of, "<TH> Cupa </TH>");
   fprintf(of, "<TH> Runda </TH>");
   fprintf(of, "</TR>\n");  fprintf(of, "</THEAD>\n");
@@ -941,7 +941,7 @@ void VsPage(int t) {
   }
   fprintf(of, "</TBODY></TABLE>\n");
 
-  fprintf(of, "<H3>Bilanþ</H3>\n");
+  fprintf(of, "<H3>BilanÅ£</H3>\n");
   fprintf(of, "<TABLE width=\"30%%\" cellpadding=\"0\" frame=\"box\">\n");
   fprintf(of, "<THEAD>");
   fprintf(of, "<TR>");
@@ -960,7 +960,7 @@ void VsPage(int t) {
   fprintf(of, "</THEAD>\n");
   fprintf(of, "<TBODY>");
   if (RH.numg() > 0) {
-    fprintf(of, "<TR ALIGN=\"right\"><TD>Acasã</TD>");
+    fprintf(of, "<TR ALIGN=\"right\"><TD>AcasÄƒ</TD>");
     fprintf(of, "<TD>%d</TD><TD>%d</TD><TD>%d</TD><TD>%d</TD><TD>%d</TD><TD>-</TD><TD>%d</TD>",
       RH.numg(), RH.win, RH.drw, RH.los, RH.gsc, RH.gre);
     fprintf(of, "</TR>\n");
@@ -1048,7 +1048,7 @@ int main(int argc, char* argv[]) {
     return -1;
   }
   HTMLCountryRankingTable(Ct);
-  fprintf(of, "<H3>Palmares echipe româneºti</H3>\n");
+  fprintf(of, "<H3>Palmares echipe romÃ¢neÅŸti</H3>\n");
   HTMLTeamRankingTable(Crom, 0);
   fclose(of);
 

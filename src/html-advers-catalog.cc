@@ -1171,14 +1171,14 @@ void PlayerStats(int pl) {
   char sdob[64];
   strcpy(sdob, pdob[pl]);
   CanonicDOB(sdob, DOB_FULL);
-  fprintf(of, "<UL><LI>Data naºterii: %s </LI>\n", sdob);
-  fprintf(of, "<LI>Locul naºterii: %s\n", ppob[pl]);
+  fprintf(of, "<UL><LI>Data naÅŸterii: %s </LI>\n", sdob);
+  fprintf(of, "<LI>Locul naÅŸterii: %s\n", ppob[pl]);
   if (pjud[pl]!=NULL && pjud[pl][0]!=0 && pjud[pl][0]!=' ') {
       fprintf(of, " (%s)", pjud[pl]);
   }
   fprintf(of, "</LI>\n");
 
-  fprintf(of, "<H3>Lista meciurilor împotriva echipelor româneºti</H3>\n");
+  fprintf(of, "<H3>Lista meciurilor Ã®mpotriva echipelor romÃ¢neÅŸti</H3>\n");
   fprintf(of, "<TABLE cellpadding=\"1\" WIDTH=\"80%%\" RULES=\"groups\" frame=\"box\">\n");
   fprintf(of, "<COLGROUP><COL SPAN=\"5\"></COLGROUP>");
   fprintf(of, "<COLGROUP><COL SPAN=\"2\"></COLGROUP>");
@@ -1189,13 +1189,13 @@ void PlayerStats(int pl) {
   fprintf(of, "<TH COLSPAN=\"5\">Info</TH>\n");
   fprintf(of, "<TH COLSPAN=\"2\">Meci</TH>\n");
 //  fprintf(of, "<TH COLSPAN=\"3\">Sezon</TH>\n");
-  fprintf(of, "<TH COLSPAN=\"3\">Carierã</TH>\n");
+  fprintf(of, "<TH COLSPAN=\"3\">CarierÄƒ</TH>\n");
   fprintf(of, "</TR>\n");
   fprintf(of, "<TR BGCOLOR=\"DDDDDD\">\n");
   fprintf(of, "<TH WIDTH=\"20%%\"> Data@Ora </TH>");
   fprintf(of, "<TH WIDTH=\"18%%\"> Gazde </TH>");
   fprintf(of, "<TH WIDTH=\"7%%\"> Scor </TH>");
-  fprintf(of, "<TH WIDTH=\"18%%\"> Oaspeþi </TH>");
+  fprintf(of, "<TH WIDTH=\"18%%\"> OaspeÅ£i </TH>");
   fprintf(of, "<TH WIDTH=\"7%%\"> Cupa </TH>");
 
   fprintf(of, "<TH WIDTH=\"4%%\"> g</TH>");
@@ -1328,9 +1328,9 @@ void HTMLHeader(int t) {
 void HTMLTable(int t) {
   fprintf(of, "<script src=\"sorttable.js\"></script>\n");
   if (t==TM_EURO)
-    fprintf(of, "<H3>Jucãtori adverºi în cupele europene %d-%d</H3>\n", EFY, ELY);
+    fprintf(of, "<H3>JucÄƒtori adverÅŸi Ã®n cupele europene %d-%d</H3>\n", EFY, ELY);
   else if (t==TM_NATL)
-    fprintf(of, "<H3>Jucãtori adverºi la echipa naþionalã %d-%d</H3>\n", NFY, NLY);
+    fprintf(of, "<H3>JucÄƒtori adverÅŸi la echipa naÅ£ionalÄƒ %d-%d</H3>\n", NFY, NLY);
   fprintf(of, "<script src=\"sorttable.js\"></script>\n");
 //  fprintf(of, "<TABLE class=\"sortable\" cellpadding=\"2\" frame=\"box\">\n");
   fprintf(of, "<TABLE id=\"all\" class=\"display\">\n");
@@ -1339,8 +1339,8 @@ void HTMLTable(int t) {
   fprintf(of, "<TH>Prenume</TH>");
   fprintf(of, "<TH>Nume</TH>");
 //  fprintf(of, "<TH>Data naºterii</TH>");
-  fprintf(of, "<TH>Naþ.</TH>");
-  fprintf(of, "<TH>Sez.</TH>");
+  fprintf(of, "<TH>NaÅ£</TH>");
+  fprintf(of, "<TH>Sez</TH>");
   fprintf(of, "<TH>Primul</TH>");
   fprintf(of, "<TH>Ultimul</TH>");
   fprintf(of, "<TH>Meciuri</TH>");
@@ -1348,7 +1348,7 @@ void HTMLTable(int t) {
 	 fprintf(of, "<TH>Minute</TH>");
   }
  	fprintf(of, "<TH>Titular</TH>");
- 	fprintf(of, "<TH>Rezervã</TH>");
+ 	fprintf(of, "<TH>RezervÄƒ</TH>");
  	fprintf(of, "<TH>Goluri</TH>");
 	if (t!=TM_NATL) {
 	 fprintf(of, "<TH>Pen</TH>");

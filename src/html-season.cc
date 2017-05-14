@@ -1187,7 +1187,7 @@ void ResTable(int r) {
   fprintf(of, "<TH ALIGN=\"left\"   WIDTH=\"22%%\">Data</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\"  WIDTH=\"33%%\">Gazde</TH>\n");
   fprintf(of, "<TH ALIGN=\"center\" WIDTH=\"12%%\"></TH>\n");
-  fprintf(of, "<TH ALIGN=\"left\"   WIDTH=\"33%%\">Oaspeþi</TH>\n");
+  fprintf(of, "<TH ALIGN=\"left\"   WIDTH=\"33%%\">OaspeÅ£i</TH>\n");
 
   /* collect */
   ng = 0;
@@ -1312,7 +1312,7 @@ void TopScorersTable(int nts) {
       if (ppen[p]>0) fprintf(of, "<FONT SIZE=-2> (%dp)</FONT>", ppen[p]);
       j++; k++;
     }
-    if (k==nts && j<nrnk[g]-1) fprintf(of, "<FONT SIZE=-1>, ... alþi %d</FONT>", over);
+    if (k==nts && j<nrnk[g]-1) fprintf(of, "<FONT SIZE=-1>, ... alÅ£i %d</FONT>", over);
     fprintf(of, "]");
     g--;
   }
@@ -1345,7 +1345,7 @@ void ClasTable(int r, int synoptic) {
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"2%%\">J</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"3%%\">V</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"2%%\">E</TH>\n");
-  fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"2%%\">Î</TH>\n");
+  fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"2%%\">ÃŽ</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"4%%\">gm</TH>\n");
   fprintf(of, "<TH ALIGN=\"center\" WIDTH=\"1%%\">%c</TH>\n", (tbr%10<2?'-':':'));
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"2%%\">gp</TH>\n");
@@ -1456,11 +1456,11 @@ void HomeAwayTable() {
   fprintf(of, "<THEAD>\n<TR>\n");
 
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"2%%\">#</TH>\n");
-  fprintf(of, "<TH ALIGN=\"left\"  WIDTH=\"20%%\">Acasã</TH>\n");
+  fprintf(of, "<TH ALIGN=\"left\"  WIDTH=\"20%%\">AcasÄƒ</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"2%%\">J</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"3%%\">V</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"2%%\">E</TH>\n");
-  fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"2%%\">Î</TH>\n");
+  fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"2%%\">I</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"4%%\">gm</TH>\n");
   fprintf(of, "<TH ALIGN=\"center\" WIDTH=\"1%%\">%c</TH>\n", (tbr%10<2?'-':':'));
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"2%%\">gp</TH>\n");
@@ -1473,7 +1473,7 @@ void HomeAwayTable() {
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"2%%\">J</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"3%%\">V</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"2%%\">E</TH>\n");
-  fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"2%%\">Î</TH>\n");
+  fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"2%%\">I</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"4%%\">gm</TH>\n");
   fprintf(of, "<TH ALIGN=\"center\" WIDTH=\"1%%\">%c</TH>\n", (tbr%10<2?'-':':'));
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"2%%\">gp</TH>\n");

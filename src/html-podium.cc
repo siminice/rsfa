@@ -213,10 +213,10 @@ void Load() {
           }
         }
       }
-      closedir(dp);  
+      closedir(dp);
   }
   else
-   printf("ERROR: Couldn't open the directory.\n");  
+   printf("ERROR: Couldn't open the directory.\n");
 
   parta = new int*[1000];
   for (int i=0; i<1000; i++) {
@@ -321,11 +321,11 @@ int Medals() {
   fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(of, "</HEAD>\n<BODY>\n");
 
-  fprintf(of, "<H2>Prezenþe pe podium</H2>\n");
+  fprintf(of, "<H2>PrezenÅ£e pe podium</H2>\n");
 
   fprintf(of, "<TABLE BORDER=\"1\" CELLPADDING=\"3\" RULES=\"cols\" FRAME=\"box\">\n");
   fprintf(of, "<TR BGCOLOR=\"DDDDDD\">");
-  fprintf(of, "<TH WIDTH=\"100\" ALIGN=\"left\">Ediþia</TH>");
+  fprintf(of, "<TH WIDTH=\"100\" ALIGN=\"left\">EdiÅ£ia</TH>");
   for (int k=1; k<=MED; k++)
     fprintf(of, "<TH ALIGN=\"center\">%d</TH>", k);
   fprintf(of, "</TR>\n");

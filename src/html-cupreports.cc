@@ -74,7 +74,7 @@ const char *romonth[] = {"", "ianuarie", "februarie", "martie", "aprilie", "mai"
                      "iulie", "august", "septembrie", "octombrie", "noiembrie", "decembrie"};
 
 const char *evicon[] = {"g", "og", "pg", "pm", "ps", "cg" , "cr", "cgr"};
-const char *cupround[] = {"Câºtigãtoare", "Finala", "Semifinale", "Sferturi", "Optimi", "ªaisprezecimi"};
+const char *cupround[] = {"CÃ¢ÅŸtigÄƒtoare", "Finala", "Semifinale", "Sferturi", "Optimi", "Åžaisprezecimi"};
 
 char **club;
 char **mnem;
@@ -663,7 +663,7 @@ void HTMLInfoBlock(int r, int a, int b) {
   fprintf(of, "  <div class=\"container middle\">\n");
   fprintf(of, "    <div class=\"details clearfix\">\n");
   fprintf(of, "      <dl>\n");
-  fprintf(of, "        <dt>Cupa României</dt>\n");
+  fprintf(of, "        <dt>Cupa RomÃ¢niei</dt>\n");
 	int cr = atoi(db[r][DB_ROUND]);
 	if (cr>0 && cr<6) {
 		fprintf(of, "        <dd><A HREF=\"../../cupa-%d.html\">%s</A></dd>\n\n", year, cupround[cr]);
@@ -1121,7 +1121,7 @@ void Overtime(int r) {
 
 void HTMLLineupsBlock(int r, int a, int b) {
   fprintf(of, " <div class=\"block  clearfix block_match_lineups-wrapper\" id=\"l7w\">\n");
-  fprintf(of, "  <h2>Formaþii</h2>\n\n");
+  fprintf(of, "  <h2>FormaÅ£ii</h2>\n\n");
 
   fprintf(of, "  <div class=\"content  \">\n");
   fprintf(of, "    <div class=\"block_match_lineups real-content clearfix \" id=\"l7\">\n\n");
@@ -1276,7 +1276,7 @@ void HTMLRef(char *sc) {
 
 void HTMLRefsBlock(int r, int a, int b) {
   fprintf(of, "  <div class=\"block  clearfix block_match_additional_info-wrapper\" id=\"i6w\">\n");
-  fprintf(of, "  <h2>Arbitri ºi observatori</h2>\n");
+  fprintf(of, "  <h2>Arbitri ÅŸi observatori</h2>\n");
   fprintf(of, "  <div class=\"content  \">\n");
   fprintf(of, "    <div class=\"block_match_additional_info real-content clearfix \" id=\"i6\">\n\n");
 
@@ -1285,7 +1285,7 @@ void HTMLRefsBlock(int r, int a, int b) {
 	HTMLRef(db[r][DB_REF]);
   fprintf(of, "    <dd></dd>\n\n");
 
-  fprintf(of, "    <dt>Asistenþi:</dt>\n");
+  fprintf(of, "    <dt>AsistenÅ£i:</dt>\n");
   fprintf(of, "    <dd>\n");
   fprintf(of, "    </dd>\n\n");
 

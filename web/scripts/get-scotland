@@ -4,11 +4,8 @@ CURL="curl -s --get"
 SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
-printf " %-3s > %-3s > %s > %s\n" "sco" "a" "premier-league" "1st-phase"
-${CURL} ${SW}/scotland/premier-league/20162017/1st-phase/r35877/matches/ > ${DIR}/sco/a.html
-
-#printf " %-3s > %-3s > %s > %s\n" "sco" "a" "premier-league" "2nd-phase"
-#${CURL} ${SW}/scotland/premier-league/20162017/2nd-phase/r35878/matches/ > ${DIR}/sco/a.html
+printf " %-3s > %-3s > %s > %s\n" "sco" "a" "premier-league" "2nd-phase"
+${CURL} ${SW}/scotland/premier-league/20162017/2nd-phase/r35878/matches/ > ${DIR}/sco/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "sco" "b" "first-division" "regular-season"
 ${CURL} ${SW}/scotland/first-division/20162017/regular-season/r35425/matches/ > ${DIR}/sco/b.html

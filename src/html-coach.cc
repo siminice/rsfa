@@ -478,12 +478,12 @@ void ListData() {
 void HTMLTable() {
 	FILE *of = fopen("html/antrenori.html", "wt");
 	if (!of) { perror(""); return; }
-  fprintf(of, "<HTML>\n<TITLE>Antrenori Ón prima divizie (%d-%d)</TITLE>\n", FY, LY);
+  fprintf(of, "<HTML>\n<TITLE>Antrenori √Æn prima divizie (%d-%d)</TITLE>\n", FY, LY);
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
   fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(of, "</HEAD>\n<BODY>\n");
 
-  fprintf(of, "<H2>Antrenori Ón prima divizie (%d-%d)</H2>\n", FY, LY);
+  fprintf(of, "<H2>Antrenori √Æn prima divizie (%d-%d)</H2>\n", FY, LY);
   fprintf(of, "<script src=\"sorttable.js\"></script>\n");
   fprintf(of, "<TABLE class=\"sortable\" cellpadding=\"2\" frame=\"box\">\n");
   fprintf(of, "<THEAD><TR>\n");
@@ -491,7 +491,7 @@ void HTMLTable() {
   fprintf(of, "<TH>Prenume</TH>");
   fprintf(of, "<TH>Nume</TH>");
   fprintf(of, "<TH>D.n.</TH>");
-  fprintf(of, "<TH>Na˛.</TH>");
+  fprintf(of, "<TH>Na≈£.</TH>");
   fprintf(of, "<TH>Sez.</TH>");
   fprintf(of, "<TH>Primul</TH>");
   fprintf(of, "<TH>Ultimul</TH>");
@@ -500,7 +500,7 @@ void HTMLTable() {
   fprintf(of, "<TH>Meciuri</TH>");
   fprintf(of, "<TH>Vict.</TH>");
   fprintf(of, "<TH>Egal.</TH>");
-  fprintf(of, "<TH>Œnfr.</TH>");
+  fprintf(of, "<TH>√énfr.</TH>");
   fprintf(of, "<TH>G+</TH>");
   fprintf(of, "<TH></TH>");
   fprintf(of, "<TH>G-</TH>");
@@ -593,8 +593,8 @@ void HTMLCoach(int c) {
 
   fprintf(of, "<TABLE CELLSPACING=\"10\" CELLPADDING=\"5\">\n<TR>\n<TD>");
   fprintf(of, "<H3>Antrenor <IMG SRC=\"../../../thumbs/22/3/%s.png\"></IMG> %s %s</H3>\n", p.cty, p.pren, p.name);
-  fprintf(of, "<UL><LI>Data na∫terii: %s </LI>\n", p.dob);
-  fprintf(of, "<LI>Locul na∫terii: %s\n", p.pob);
+  fprintf(of, "<UL><LI>Data na≈üterii: %s </LI>\n", p.dob);
+  fprintf(of, "<LI>Locul na≈üterii: %s\n", p.pob);
   if (p.jud!=NULL && p.jud[0]!=0) { fprintf(of, " (%s)", p.jud); }
   fprintf(of, "</LI>\n");
   fprintf(of, "<LI>Debut: </LI>\n");
@@ -655,7 +655,7 @@ void HTMLCoach(int c) {
   fprintf(of, "</TABLE>\n");
 
   fprintf(of, "\n<HR>\n");
-  fprintf(of, "<H3>Palmaresul antrenorului %s %s Ómpotriva altor echipe</H3>\n", p.pren, p.name);
+  fprintf(of, "<H3>Palmaresul antrenorului %s %s √Æmpotriva altor echipe</H3>\n", p.pren, p.name);
 
   R[c]->bubbleSort(RULE_PTS);
 
@@ -667,7 +667,7 @@ void HTMLCoach(int c) {
   fprintf(of, "<TH>Meciuri</TH>");
   fprintf(of, "<TH>Vict.</TH>");
   fprintf(of, "<TH>Egal.</TH>");
-  fprintf(of, "<TH>Œnfr.</TH>");
+  fprintf(of, "<TH>√énfr.</TH>");
   fprintf(of, "<TH>G+</TH>");
   fprintf(of, "<TH></TH>");
   fprintf(of, "<TH>G-</TH>");

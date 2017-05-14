@@ -49,7 +49,7 @@ int *start_winter, *end_winter;
 Ranking *R, *Opp;
 
 const char* fxcol[] = {"F0F0B0", "AAFFAA", "FF8888"};
-const char* cupround = "CFSQOª";
+const char* cupround = "CFSQOP";
 const char* ecln = "SCKU";
 
 struct alias {
@@ -740,9 +740,9 @@ int NumericDOB(char *dob, int fmt) {
 void CanonicDOB(char *dob, int fmt) {
   char s[12];
   strcpy(s, dob);
-  char *sd = strtok(s, "/.-");
+  char *sy = strtok(s, "/.-");
   char *sm = strtok(NULL, "/.-");
-  char *sy = strtok(NULL, "/.-");
+  char *sd = strtok(NULL, "/.-");
   int xd = 0;
   if (sd!=NULL) xd = atoi(sd);
   int xm = 0;
@@ -778,8 +778,8 @@ int NumericDate(char *s) {
 	if (l<10) return -1;
     while (s[0]==' ') s++;
 	if (s[0]==0) return -1;
-	int ssn = 1000*(s[6]-48) + 100*(s[7]-48) + 10*(s[8]-48) + (s[9]-48) - (FY-1);
-    int day = 500*(s[3]-48) + 50*(s[4]-48) + 10*(s[0]-48) + (s[1]-48);
+	int ssn = 1000*(s[0]-48) + 100*(s[1]-48) + 10*(s[2]-48) + (s[3]-48) - (FY-1);
+    int day = 500*(s[5]-48) + 50*(s[6]-48) + 10*(s[8]-48) + (s[9]-48);
 	int hrs = 0;
 	int min = 0;
 	if (l>15) {
@@ -1123,7 +1123,7 @@ void HTMLLineupsBox(int year) {
 	char ssn[32];
 	SeasonName(year, ssn);
 	fprintf(of, "<CENTER>\n");
-	fprintf(of, "<H3>Loturi jucãtori %s</H3>\n", ssn);
+	fprintf(of, "<H3>Loturi jucÄƒtori %s</H3>\n", ssn);
 	fprintf(of, "<TABLE BORDER=\"1\" CELLPADDING=\"2\" CELLSPACING=\"3\" FRAME=\"box\">\n");
 	for (int i=0; i<nty; ++i) {
 		if (i%ncols==0) {
@@ -1155,15 +1155,15 @@ void HTMLLineupsHeader() {
   fprintf(of, "<TH>#</TH>");
   fprintf(of, "<TH>Prenume</TH>");
   fprintf(of, "<TH>Nume</TH>");
-  fprintf(of, "<TH>Data naºterii</TH>");
-  fprintf(of, "<TH>Naþ.</TH>");
+  fprintf(of, "<TH>Data naÅŸterii</TH>");
+  fprintf(of, "<TH>NaÅ£.</TH>");
   fprintf(of, "<TH>Club</TH>");
 //  fprintf(of, "<TH>Nr</TH>");
   fprintf(of, "<TH>Post</TH>");
   fprintf(of, "<TH>Meciuri</TH>");
   fprintf(of, "<TH>Min</TH>");
   fprintf(of, "<TH>Titular</TH>");
-  fprintf(of, "<TH>Rezervã</TH>");
+  fprintf(of, "<TH>RezervÄƒ</TH>");
   fprintf(of, "<TH>Goluri</TH>");
   fprintf(of, "<TH>Pen</TH>");
   fprintf(of, "<TH>Auto</TH>");
@@ -1580,7 +1580,7 @@ void HTMLTeamRankingTable(Ranking *tr) {
   fprintf(of, "<TH WIDTH=\"5%%\">Goluri</TH>");
   fprintf(of, "<TH WIDTH=\"5%%\">Victorii</TH>");
   fprintf(of, "<TH WIDTH=\"5%%\">Egaluri</TH>");
-  fprintf(of, "<TH WIDTH=\"5%%\">Înfr.</TH>");
+  fprintf(of, "<TH WIDTH=\"5%%\">ÃŽnfr.</TH>");
 //  fprintf(of, "<TH WIDTH=\"15%%\" COLSPAN=\"3\">Golaveraj</TH>");
   fprintf(of, "<TH WIDTH=\"7%%\">gm</TH>");
   fprintf(of, "<TH WIDTH=\"1%%\"></TH>");
@@ -1646,8 +1646,8 @@ void PlayerStats(int pl) {
   fprintf(of, "<H3><IMG SRC=\"../../../thumbs/22/3/%s.png\"></IMG> %s %s</H3>\n", pcty[pl], ppren[pl], pname[pl]);
   strcpy(sdob, pdob[pl]);
   CanonicDOB(sdob, DOB_FULL);
-  fprintf(of, "<UL><LI>Data naºterii: %s </LI>\n", sdob);
-  fprintf(of, "<LI>Locul naºterii: %s\n", ppob[pl]);
+  fprintf(of, "<UL><LI>Data naÅŸterii: %s </LI>\n", sdob);
+  fprintf(of, "<LI>Locul naÅŸterii: %s\n", ppob[pl]);
   if (pjud[pl]!=NULL && pjud[pl][0]!=0 && pjud[pl][0]!=' ') {
       fprintf(of, " (%s)", pjud[pl]);
   }
@@ -1676,7 +1676,7 @@ void PlayerStats(int pl) {
 			int aid = atoi(lcdb[debc][debnum][DB_AWAY]);
 			int scr = atoi(lcdb[debc][debnum][DB_SCORE]);
 			int zi  = CompactDate(lcdb[debc][debnum][DB_DATE]);
-		  fprintf(of, "<LI>Debut în prima divizie  #%d", debord[pl]+1);
+		  fprintf(of, "<LI>Debut Ã®n prima divizie  #%d", debord[pl]+1);
           fprintf(of, "<UL><LI>data: %s</LI>", sdate);
           fprintf(of, "<LI>meciul: <A HREF=\"../reports/%d/%d-%d-%d.html\">%s-%s %d-%d</A></LI></UL>\n",
 				debyear, hid, aid, zi, NickOf(L, hid, debyear), NickOf(L, aid, debyear), scr/100, scr%100);
@@ -1686,7 +1686,7 @@ void PlayerStats(int pl) {
   websafeMnem(pmnem[pl], wsm);
   fprintf(of, "<TD><IMG src=\"foto/%s.jpg\" HEIGHT=\"150\" ALT=\"Foto\" VALIGN=\"top\"></IMG></TD>\n", wsm);
   fprintf(of, "</TR></TABLE>\n");
-  fprintf(of, "Prezenþe la cluburi româneºti: <BR><BR>\n");
+  fprintf(of, "PrezenÅ£e la cluburi romÃ¢neÅŸti: <BR><BR>\n");
 
   fprintf(of, "<TABLE WIDTH=\"99%%\" cellpadding=\"2\" RULES=\"groups\" frame=\"box\">\n");  
   fprintf(of, "<COLGROUP><COL SPAN=\"3\"></COLGROUP>");
@@ -1697,12 +1697,12 @@ void PlayerStats(int pl) {
   fprintf(of, "<TR BGCOLOR=\"FFFFFF\">\n");
   fprintf(of, "<TH COLSPAN=\"3\"></TH>\n");
   fprintf(of, "<TH COLSPAN=\"3\">Prima Divizie</TH>\n");
-  fprintf(of, "<TH COLSPAN=\"3\">Cupa României</TH>\n");
+  fprintf(of, "<TH COLSPAN=\"3\">Cupa RomÃ¢niei</TH>\n");
   fprintf(of, "<TH COLSPAN=\"3\">Cupele Europene</TH>\n");
   fprintf(of, "</TR>\n");
   fprintf(of, "<TR BGCOLOR=\"DDDDDD\">\n");
   fprintf(of, "<TH WIDTH=\"9%%\"> Sezon </TH>");
-  fprintf(of, "<TH WIDTH=\"20%%\"> Echipã </TH>");
+  fprintf(of, "<TH WIDTH=\"20%%\"> EchipÄƒ </TH>");
   fprintf(of, "<TH WIDTH=\"5%%\"> P</TH>");
 
   fprintf(of, "<TH WIDTH=\"6%%\"> M</TH>");
@@ -2018,7 +2018,7 @@ void PlayerStats(int pl) {
 		pmeci[pl]+tkm+tem, pgol[pl]+tkg+teg);
 
   if (echn[pl]>0) {
-//  fprintf(of, "<BR><BR>La echipa naþionalã:<BR><BR>\n");
+//  fprintf(of, "<BR><BR>La echipa naÅ£ionalÄ^Ã:<BR><BR>\n");
   fprintf(of, "<BR><BR>\n");
 
   fprintf(of, "<TABLE WIDTH=\"60%%\" cellpadding=\"2\" RULES=\"groups\" frame=\"box\">\n");
@@ -2026,7 +2026,7 @@ void PlayerStats(int pl) {
   fprintf(of, "<COLGROUP><COL SPAN=\"4\"></COLGROUP>");
   fprintf(of, "<THEAD>\n");
   fprintf(of, "<TR BGCOLOR=\"FFFFFF\">\n");
-  fprintf(of, "<TH COLSPAN=\"7\">Echipa Naþionalã</TH>\n");
+  fprintf(of, "<TH COLSPAN=\"7\">Echipa NaÅ£ionalÄƒ</TH>\n");
   fprintf(of, "</TR>\n");
   fprintf(of, "<TR BGCOLOR=\"DDDDDD\">\n");
   fprintf(of, "<TH WIDTH=\"15%%\"> Sezon </TH>");
@@ -2115,13 +2115,13 @@ void PlayerStats(int pl) {
   fprintf(of, "<TH COLSPAN=\"5\">Info</TH>\n");
   fprintf(of, "<TH COLSPAN=\"2\">Meci</TH>\n");
   fprintf(of, "<TH COLSPAN=\"3\">Sezon</TH>\n");
-  fprintf(of, "<TH COLSPAN=\"3\">Carierã</TH>\n");
+  fprintf(of, "<TH COLSPAN=\"3\">CarierÄƒ</TH>\n");
   fprintf(of, "</TR>\n");
   fprintf(of, "<TR BGCOLOR=\"DDDDDD\">\n");
   fprintf(of, "<TH WIDTH=\"18%%\"> Data@Ora </TH>");
   fprintf(of, "<TH WIDTH=\"17%%\"> Gazde </TH>");
   fprintf(of, "<TH WIDTH=\"6%%\"> Scor </TH>");
-  fprintf(of, "<TH WIDTH=\"17%%\"> Oaspeþi </TH>");
+  fprintf(of, "<TH WIDTH=\"17%%\"> OaspeÅ£i </TH>");
   fprintf(of, "<TH WIDTH=\"3%%\"> Et </TH>");
 
   fprintf(of, "<TH WIDTH=\"4%%\"> g</TH>");
@@ -2251,10 +2251,10 @@ void PlayerStats(int pl) {
   }
   fprintf(of, "</TBODY></TABLE>\n");
 
-  fprintf(of, "<BR><H3>Total pentru echipã</H3>\n");
+  fprintf(of, "<BR><H3>Total pentru echipÄƒ</H3>\n");
   HTMLTeamRankingTable(R);
 
-  fprintf(of, "<BR><H3>Total împotriva echipei</H3>\n");
+  fprintf(of, "<BR><H3>Total Ã®mpotriva echipei</H3>\n");
   HTMLTeamRankingTable(Opp);
 
   fprintf(of, "</BODY>\n</HTML>");
@@ -2280,13 +2280,13 @@ void HTMLHeader(int t) {
   if (t==TM_LIGA || t>=NC)
     fprintf(of, "<HTML>\n<TITLE>Loturi Divizia A %d-%d</TITLE>\n", CFY, CLY);
   else if (t==TM_CUPA)
-    fprintf(of, "<HTML>\n<TITLE>Prezenþe în Cupa României</TITLE>\n");
+    fprintf(of, "<HTML>\n<TITLE>PrezenÅ£e Ã®n Cupa RomÃ¢niei</TITLE>\n");
   else if (t==TM_EURO)
-    fprintf(of, "<HTML>\n<TITLE>Prezenþe în cupele europene</TITLE>\n");
+    fprintf(of, "<HTML>\n<TITLE>PrezenÅ£e Ã®n cupele europene</TITLE>\n");
   else if (t==TM_NATL)
-    fprintf(of, "<HTML>\n<TITLE>Prezenþe în echipa naþionalã</TITLE>\n");
+    fprintf(of, "<HTML>\n<TITLE>PrezenÅ£e Ã®n echipa naÅ£ionalÄƒ</TITLE>\n");
   else
-    fprintf(of, "<HTML>\n<TITLE>Loturi %s în Divizia A %d-%d</TITLE>\n", NameOf(L, t, 3000), CFY, CLY);
+    fprintf(of, "<HTML>\n<TITLE>Loturi %s Ã®n Divizia A %d-%d</TITLE>\n", NameOf(L, t, 3000), CFY, CLY);
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
   fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   DatatablesHeader();
@@ -2296,30 +2296,30 @@ void HTMLHeader(int t) {
 void HTMLTable(int t) {
   fprintf(of, "<script src=\"sorttable.js\"></script>\n");
   if (t==TM_LIGA || t>=NC)
-    fprintf(of, "<H3>Jucãtori în campionatul României %d-%d</H3>\n", CFY, CLY);
+    fprintf(of, "<H3>JucÄƒtori Ã®n campionatul RomÃ¢niei %d-%d</H3>\n", CFY, CLY);
   else if (t==TM_CUPA)
-    fprintf(of, "<H3>Jucãtori în Cupa României %d-%d</H3>\n", KFY, KLY);
+    fprintf(of, "<H3>JucÄƒtori Ã®n Cupa RomÃ¢niei %d-%d</H3>\n", KFY, KLY);
   else if (t==TM_EURO)
-    fprintf(of, "<H3>Jucãtori ai echipelor româneºti în cupele europene %d-%d</H3>\n", EFY, ELY);
+    fprintf(of, "<H3>JucÄƒtori ai echipelor romÃ¢neÅŸti Ã®n cupele europene %d-%d</H3>\n", EFY, ELY);
   else if (t==TM_NATL)
-    fprintf(of, "<H3>Jucãtori în echipa naþionalã %d-%d</H3>\n", NFY, NLY);
+    fprintf(of, "<H3>JucÄƒtori Ã®n echipa naÅ£ionalÄƒ %d-%d</H3>\n", NFY, NLY);
   else
-    fprintf(of, "<H3>Jucãtori %s %d-%d</H3>\n", NameOf(L, t, 3000), CFY, CLY);
+    fprintf(of, "<H3>JucÄƒtori %s %d-%d</H3>\n", NameOf(L, t, 3000), CFY, CLY);
 //  fprintf(of, "<TABLE class=\"sortable\" cellpadding=\"2\" frame=\"box\">\n");
   fprintf(of, "<TABLE id=\"all\" class=\"display\">\n");
   fprintf(of, "<THEAD><TR>\n");
   fprintf(of, "<TH>#</TH>");
   fprintf(of, "<TH>Prenume</TH>");
   fprintf(of, "<TH>Nume</TH>");
-  fprintf(of, "<TH>Data naºterii</TH>");
-  fprintf(of, "<TH>Naþ.</TH>");
+  fprintf(of, "<TH>Data naÅŸterii</TH>");
+  fprintf(of, "<TH>NaÅ£.</TH>");
   fprintf(of, "<TH>Sez.</TH>");
   fprintf(of, "<TH>Primul</TH>");
   fprintf(of, "<TH>Ultimul</TH>");
   fprintf(of, "<TH>Meciuri</TH>");
   fprintf(of, "<TH>Minute</TH>");
   fprintf(of, "<TH>Titular</TH>");
-  fprintf(of, "<TH>Rezervã</TH>");
+  fprintf(of, "<TH>RezervÄƒ</TH>");
   fprintf(of, "<TH>Goluri</TH>");
   fprintf(of, "<TH>Pen</TH>");
   fprintf(of, "<TH>Auto</TH>");
@@ -2328,6 +2328,7 @@ void HTMLTable(int t) {
   fprintf(of, "<TH>Elim</TH>");
   fprintf(of, "</TR></THEAD>\n");
 
+  char sdate[64];
   for (int i=0; i<NP; i++) {
     int x = rank[i];
     if (pmeci[x]==0) continue;
@@ -2339,8 +2340,9 @@ void HTMLTable(int t) {
     makeHexlink(x);
     fprintf(of, "<TD align=\"left\" sorttable_customkey=\"%s,%s\"><A HREF=\"jucatori/%s.html\">%s</A></TD>",
         pname[x], ppren[x], hexlink, pname[x]);
-    CanonicDOB(pdob[x], DOB_DD_MM_YYYY);
-    fprintf(of, "<TD align=\"right\" sorttable_customkey=\"%d\">%s</TD>", NumericDOB(pdob[x], DOB_YYYYMMDD), pdob[x]);
+    strcpy(sdate, pdob[x]);
+    CanonicDOB(sdate, DOB_DD_MM_YYYY);
+    fprintf(of, "<TD align=\"right\" sorttable_customkey=\"%d\">%s</TD>", NumericDOB(pdob[x], DOB_YYYYMMDD), sdate);
     fprintf(of, "<TD align=\"center\">%s<IMG SRC=\"../../thumbs/22/3/%s.png\"></IMG></TD>", pcty[x], pcty[x]);
     fprintf(of, "<TD align=\"right\">%d</TD>", psez[x]);
     fprintf(of, "<TD align=\"right\">%d</TD>", pfy[x]);
@@ -2546,14 +2548,14 @@ int main(int argc, char **argv) {
     for (int t=0; t<numtids; t++) {
       int y = CLY;
       int x = curtids[t];
-      fprintf(stderr, "<LI>Jucatori %s< in %d.</LI>\n", NameOf(L, x, 3000), y);
+      fprintf(stderr, "<LI>JucÄƒtori %s< in %d.</LI>\n", NameOf(L, x, 3000), y);
 	  HTMLYearlyTeamStats(x, y);
       HTMLAlltimeTeamStats(x, pl);
       ResetStats();
     }
   }
   else if (tm==-1) for (int t=0; t<NC; t++) if (dva[t]>0) {
-    fprintf(stderr, "<LI><A HREF=\"lot-%d.html\">Jucãtori %s</A></LI>\n", t, NameOf(L, t, 3000));
+    fprintf(stderr, "<LI><A HREF=\"lot-%d.html\">JucÄƒtori %s</A></LI>\n", t, NameOf(L, t, 3000));
 		for (int y=CFY; y<=CLY; y++)  {
 			HTMLYearlyTeamStats(t, y);
 		}

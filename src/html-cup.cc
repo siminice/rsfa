@@ -24,7 +24,7 @@ char inputfile[64], outputfile[64], filename[64];
 FILE *of;
 
 const char* fxcol[] = {"E4FEE4", "FFFFCC", "FFE4E4", "F0F0FF"};
-const char* cupround[] = {"", "Finala", "Semifinale", "Sferturi", "Optimi", "ªaisprezecimi", "1/64", "1/128", "1/256", "9"};
+const char* cupround[] = {"", "Finala", "Semifinale", "Sferturi", "Optimi", "Åžaisprezecimi", "1/64", "1/128", "1/256", "9"};
 const char* cuprnd[] = {"C", "F", "S", "Q", "1/8", "1/16", "1/32", "1/64", "1/128", "1/256"};
 const int rlo[] = {100, 225, 255, 0, 0, 0, 0, 0} ;
 const int rhi[] = {144, 255, 240, 0, 0, 0, 0, 0} ;

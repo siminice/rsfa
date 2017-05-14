@@ -808,8 +808,9 @@ int CompactDate(char *s) {
   char *sd = strtok(sw, "@");
   char *sh = strtok(NULL, ",");
   if (sd==NULL) return 0;
-  char *sz = strtok(sd, "-");
+  char *sy = strtok(sd, "-");
   char *sm = strtok(NULL, "-");
+  char *sz = strtok(NULL, "-");
   int nz=0, nm=0;
   if (sz) nz = atoi(sz);
   if (sm) nm = atoi(sm);

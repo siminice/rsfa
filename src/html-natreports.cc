@@ -154,7 +154,7 @@ int GetYear(char *sd) {
   if (!sd) return -1;
   if (strlen(sd)<10) return -1;
   char sy[16];
-  strncpy(sy, sd+6, 4);
+  strncpy(sy, sd, 4);
   sy[4] = 0;
   int y = strtol(sy, NULL, 10);
   return y;
@@ -1313,7 +1313,7 @@ void Overtime(int r) {
 
 void HTMLLineupsBlock(int r, int a, int b) {
   fprintf(of, " <div class=\"block  clearfix block_match_lineups-wrapper\" id=\"l7w\">\n");
-  fprintf(of, "  <h2>Formaþii</h2>\n\n");
+  fprintf(of, "  <h2>FormaÅ£ii</h2>\n\n");
 
   fprintf(of, "  <div class=\"content  \">\n");
   fprintf(of, "    <div class=\"block_match_lineups real-content clearfix \" id=\"l7\">\n\n");
@@ -1505,7 +1505,7 @@ void HTMLRef(char *sc) {
 
 void HTMLRefsBlock(int r, int a, int b) {
   fprintf(of, "  <div class=\"block  clearfix block_match_additional_info-wrapper\" id=\"i6w\">\n");
-  fprintf(of, "  <h2>Arbitri ºi observatori</h2>\n");
+  fprintf(of, "  <h2>Arbitri ÅŸi observatori</h2>\n");
   fprintf(of, "  <div class=\"content  \">\n");
   fprintf(of, "    <div class=\"block_match_additional_info real-content clearfix \" id=\"i6\">\n\n");
 
@@ -1514,7 +1514,7 @@ void HTMLRefsBlock(int r, int a, int b) {
 	HTMLRef(db[r][DB_REF]);
   fprintf(of, "    <dd></dd>\n\n");
 
-  fprintf(of, "    <dt>Asistenþi:</dt>\n");
+  fprintf(of, "    <dt>AsistenÅ£i:</dt>\n");
   fprintf(of, "    <dd>\n");
   fprintf(of, "    </dd>\n\n");
 
@@ -1712,7 +1712,7 @@ void SynopticTable() {
   fprintf(f, "<A HREF=nationala.html><IMG HEIGHT=\"20\" SRC=\"home.gif\"></A>");
   if (year>NFY)
     fprintf(f, "<A HREF=nat-%d.html><IMG HEIGHT=\"20\" SRC=\"prev.gif\"></A>", year-1);
-  fprintf(f, " Echipa naþionalã în %d ", year);
+  fprintf(f, " Echipa naÅ£ionalÄƒ Ã®n %d ", year);
   if (year<NLY)
     fprintf(f, "<A HREF=nat-%d.html><IMG HEIGHT=\"20\" SRC=\"next.gif\"></A>", year+1);
   fprintf(f, "</H2>");
@@ -1724,8 +1724,8 @@ void SynopticTable() {
   fprintf(f, "<TH WIDTH=\"15%%\"> Loc </TH>");
   fprintf(f, "<TH WIDTH=\"20%%\"> Gazde </TH>");
   fprintf(f, "<TH WIDTH=\"4%%\">  Scor </TH>");
-  fprintf(f, "<TH WIDTH=\"20%%\"> Oaspeþi </TH>");
-  fprintf(f, "<TH WIDTH=\"15%%\"> Competiþia </TH>");
+  fprintf(f, "<TH WIDTH=\"20%%\"> OaspeÅ£i </TH>");
+  fprintf(f, "<TH WIDTH=\"15%%\"> CompetiÅ£ia </TH>");
   fprintf(f, "<TH WIDTH=\"3%%\">  Runda </TH>");
   fprintf(f, "</TR>\n");
   fprintf(f, "</THEAD>\n");
@@ -1787,7 +1787,7 @@ void SynopticTable() {
 
   fprintf(f, "</TBODY></TABLE>\n");
 
-	fprintf(f, "<H3>Bilanþ</H3>\n");
+	fprintf(f, "<H3>BilanÅ£</H3>\n");
   fprintf(f, "<TABLE width=\"30%%\" cellpadding=\"0\" frame=\"box\">\n");
 	fprintf(f, "<THEAD>");
 	fprintf(f, "<TR>");
@@ -1805,7 +1805,7 @@ void SynopticTable() {
   fprintf(f, "<COLGROUP><COL SPAN=\"3\"></COLGROUP>");
 	fprintf(f, "</THEAD>\n");
 	fprintf(f, "<TBODY>");
-	fprintf(f, "<TR ALIGN=\"right\"><TD>Acasã</TD>");
+	fprintf(f, "<TR ALIGN=\"right\"><TD>AcasÄƒ</TD>");
 	fprintf(f, "<TD>%d</TD><TD>%d</TD><TD>%d</TD><TD>%d</TD><TD>%d</TD><TD>-</TD><TD>%d</TD>",
 		RH.numg(), RH.win, RH.drw, RH.los, RH.gsc, RH.gre);
 	fprintf(f, "</TR>\n");
@@ -1828,20 +1828,20 @@ void SynopticTable() {
 	fprintf(f, "</TBODY>");
 	fprintf(f, "</TABLE>\n");
 
-  fprintf(f, "<H3>Jucãtori folosiþi</H3>\n");
+  fprintf(f, "<H3>JucÄƒtori folosiÅ£i</H3>\n");
   fprintf(f, "<script src=\"sorttable.js\"></script>\n");
   fprintf(f, "<TABLE class=\"sortable\" cellpadding=\"2\" frame=\"box\">\n");
   fprintf(f, "<THEAD><TR>\n");
   fprintf(f, "<TH>#</TH>");
   fprintf(f, "<TH>Prenume</TH>");
   fprintf(f, "<TH>Nume</TH>");
-  fprintf(f, "<TH>Data naºterii</TH>");
+  fprintf(f, "<TH>Data naÅŸterii</TH>");
   fprintf(f, "<TH></TH>");
   fprintf(f, "<TH>Club</TH>");
   fprintf(f, "<TH>Meciuri</TH>");
   fprintf(f, "<TH>Minute</TH>");
   fprintf(f, "<TH>Titular</TH>");
-  fprintf(f, "<TH>Rezervã</TH>");
+  fprintf(f, "<TH>RezervÄƒ</TH>");
   fprintf(f, "<TH>Goluri</TH>");
   fprintf(f, "<TH>Pen</TH>");
   fprintf(f, "<TH>Auto</TH>");

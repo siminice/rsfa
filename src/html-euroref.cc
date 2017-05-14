@@ -72,7 +72,7 @@ int mlist[MAX_NAMES][MAX_LIST];
 const char* fxcol[] = {"F0F0B0", "AAFFAA", "FF8888"};
 const char* ecln = "SCKU";
 const char *cupmnem[] = {"SC", "CCE", "CC", "UEFA"};
-const char *cupround[] = {"Câºtigãtoare", "Finala", "Semifinale", "Sferturi", "Optimi", "ªaisprezecimi", "1/32", "1/64"};
+const char *cupround[] = {"Câºtigãtoare", "Finala", "Semifinale", "Sferturi", "Optimi", "Åžaisprezecimi", "1/32", "1/64"};
 char ecupname[64], roundname[64];
 
 char *EuroName(int t, int nick, int year) {
@@ -625,7 +625,7 @@ void HTMLRef(int c) {
   fprintf(of, "<TH WIDTH=\"20%%\"> Data@Ora </TH>");
   fprintf(of, "<TH WIDTH=\"25%%\"> Gazde </TH>");
   fprintf(of, "<TH WIDTH=\"5%%\"> Scor </TH>");
-  fprintf(of, "<TH WIDTH=\"25%%\"> Oaspeþi </TH>");
+  fprintf(of, "<TH WIDTH=\"25%%\"> OaspeÅ£i </TH>");
   fprintf(of, "<TH WIDTH=\"10%%\"> Cupa </TH>");
   fprintf(of, "<TH WIDTH=\"15%%\"> Runda </TH>");
 	fprintf(of, "</TR>");

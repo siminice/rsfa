@@ -1185,7 +1185,7 @@ void HTMLInfoBlock(int r, int a, int b) {
                      asez[ia], ar1, awin[ia]+adrw[ia]+alos[ia], awin[ia], adrw[ia], alos[ia], agsc[ia], agre[ia], 2*awin[ia]+adrw[ia]);
   fprintf(of, "      <tr><td>Sezon</td><td>loc #%d.</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>-</td><td>%d</td><td>%dp</td></tr>",
                      rg1, win[a]+drw[a]+los[a], win[a], drw[a], los[a], gsc[a], gre[a], ppv*win[a]+drw[a]);
-  fprintf(of, "      <tr><td>Acasã</td><td>loc #%d.</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>-</td><td>%d</td><td>%dp</td></tr>",
+  fprintf(of, "      <tr><td>AcasÄƒ</td><td>loc #%d.</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>-</td><td>%d</td><td>%dp</td></tr>",
                      rh, hwin[a]+hdrw[a]+hlos[a], hwin[a], hdrw[a], hlos[a], hgsc[a], hgre[a], ppv*hwin[a]+hdrw[a]);
   fprintf(of, "    </table>\n");
   fprintf(of, "  </div>\n\n");
@@ -1196,7 +1196,7 @@ void HTMLInfoBlock(int r, int a, int b) {
   fprintf(of, "  <div class=\"container middle\">\n");
   fprintf(of, "    <div class=\"details clearfix\">\n");
   fprintf(of, "      <dl>\n");
-  fprintf(of, "        <dt>Competiþia</dt>\n");
+  fprintf(of, "        <dt>CompetiÅ£ia</dt>\n");
   fprintf(of, "        <dd>Divizia %c  %s</dd>\n", dvz, ssn);
 	int etp = round[r][a][b]/1000;
 	int cld = round[r][a][b]%1000;
@@ -1527,7 +1527,7 @@ void HTMLCoachTR(char *sc) {
 
 void HTMLLineupsBlock(int r, int a, int b) {
   fprintf(of, " <div class=\"block  clearfix block_match_lineups-wrapper\" id=\"l7w\">\n");
-  fprintf(of, "  <h2>Formaþii</h2>\n\n");
+  fprintf(of, "  <h2>FormaÅ£ii</h2>\n\n");
 
   fprintf(of, "  <div class=\"content  \">\n");
   fprintf(of, "    <div class=\"block_match_lineups real-content clearfix \" id=\"l7\">\n\n");
@@ -1683,7 +1683,7 @@ void HTMLRef(char *sc) {
 void HTMLRefsBlock(int r, int a, int b) {
   int mid = MatchID(r, a, b);
   fprintf(of, "  <div class=\"block  clearfix block_match_additional_info-wrapper\" id=\"i6w\">\n");
-  fprintf(of, "  <h2>Arbitri ºi observatori</h2>\n");
+  fprintf(of, "  <h2>Arbitri ÅŸi observatori</h2>\n");
   fprintf(of, "  <div class=\"content  \">\n");
   fprintf(of, "    <div class=\"block_match_additional_info real-content clearfix \" id=\"i6\">\n\n");
 
@@ -1692,7 +1692,7 @@ void HTMLRefsBlock(int r, int a, int b) {
 	HTMLRef(db[mid][DB_REF]);
   fprintf(of, "    <dd></dd>\n\n");
 
-  fprintf(of, "    <dt>Asistenþi:</dt>\n");
+  fprintf(of, "    <dt>AsistenÅ£i:</dt>\n");
   fprintf(of, "    <dd>\n");
   fprintf(of, "    </dd>\n\n");
 

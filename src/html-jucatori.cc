@@ -331,17 +331,17 @@ int main(int argc, char* argv[]) {
   if (ld < fd || ld > LY[0]) ld = LY[0];
 
   FILE *f = fopen("html/jucatori.html", "wt");
-  if (f==NULL) { 
+  if (f==NULL) {
     fprintf(stderr, "ERROR: cannot open output file.\n");
     return 1;
   }
   fprintf(f, "<html>\n");
-  fprintf(f, "<HEAD><title>Jucãtori în prima divizie</title>\n", liga);
+  fprintf(f, "<HEAD><title>JucÄƒtori Ã®n prima divizie</title>\n", liga);
   fprintf(f, "<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
   fprintf(f, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8>\"\n");
   fprintf(f, "</head>\n");
   fprintf(f, "<center>\n");
-  fprintf(f, "<H2>Jucãtori în prima divizie</H2>\n");
+  fprintf(f, "<H2>JucÄƒtori Ã®n prima divizie</H2>\n");
   fprintf(f, "<A HREF=\"catalog.html\"><I><B>All-time</B></I></A><BR><BR>");
   fprintf(f, "<TABLE BORDER=\"1\" CELLPADDING=\"2\" CELLSPACING=\"3\" FRAME=\"box\">\n<TR>");
   for (int y=1931; y<=2013; y++) {

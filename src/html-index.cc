@@ -389,7 +389,7 @@ int main(int argc, char* argv[]) {
   fprintf(f, "<table cellpadding=\"1\" border=\"1\" bgcolor=\"999999\" width=\"65%%\" align=\"center\">\n");
   fprintf(f, "<thead>\n");
   fprintf(f, "<TH>Sezon</TH>");
-  fprintf(f, "<TH>Campioanã</TH>");
+  fprintf(f, "<TH>CampioanÄƒ</TH>");
   for (int d=0; d<MAX_LEVELS; d++) {
     if (FY[d]<2100) {
       fprintf(f, "<th colspan=\"%d\">%c</th>", MAX[d]+1, (char)(d+65));
