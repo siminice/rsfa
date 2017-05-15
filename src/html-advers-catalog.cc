@@ -648,9 +648,9 @@ int NumericDOB(char *dob, int fmt) {
 void CanonicDOB(char *dob, int fmt) {
   char s[12];
   strcpy(s, dob);
-  char *sd = strtok(s, "/.-");
+  char *sy = strtok(s, "/.-");
   char *sm = strtok(NULL, "/.-");
-  char *sy = strtok(NULL, "/.-");
+  char *sd = strtok(NULL, "/.-");
   int xd = 0;
   if (sd!=NULL) xd = atoi(sd);
   int xm = 0;

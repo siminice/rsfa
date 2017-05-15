@@ -677,10 +677,22 @@ int Catalog::BestMatch(char *sn, char *sp, int delta) {
 }
 
 void Catalog::GetInitial(int i, char *pini) {
+  int len = 0;
+  if (i>=0 && P[i].pren!=NULL && strlen(P[i].pren)>0 && P[i].pren[0]!=' ') {
+    do {
+      pini[len] = P[i].pren[len];
+      len++;
+    } while ((((unsigned char)P[i].pren[len]) & 0xc0) == 0x80);
+    pini[len++] = '.';
+    pini[len++] = ' ';
+  }
+  pini[len] = 0;
+/*
     pini[1] = '.'; pini[2] = 0;
     if (i<0 || P[i].pren==NULL || P[i].pren[0]==' ') pini[0] = 0;
     else if (strlen(P[i].pren)>0) pini[0] = P[i].pren[0];
     else pini[0] = 0;
+*/
 }
 
 

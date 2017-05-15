@@ -380,7 +380,7 @@ void HTMLTable(Ranking *R, Catalog *C, const char *filename, int eur) {
 	FILE *of = fopen(filename, "wt");
 	if (!of) { perror(""); return; }
 	if (eur)
-  fprintf(of, "<HTML>\n<TITLE>Antrenori adver∫i Ón cupele europene (%d-%d)</TITLE>\n", FY, LY);
+  fprintf(of, "<HTML>\n<TITLE>Antrenori adver≈üi √Æn cupele europene (%d-%d)</TITLE>\n", FY, LY);
 	else
   fprintf(of, "<HTML>\n<TITLE>Antrenori Ón cupele europene (%d-%d)</TITLE>\n", FY, LY);
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
@@ -388,9 +388,9 @@ void HTMLTable(Ranking *R, Catalog *C, const char *filename, int eur) {
   fprintf(of, "</HEAD>\n<BODY>\n");
 
 	if (eur)
-  fprintf(of, "<H2>Antrenori adver∫i Ón cupele europene (%d-%d)</H2>\n", FY, LY);
+  fprintf(of, "<H2>Antrenori adver≈üi √Æn cupele europene (%d-%d)</H2>\n", FY, LY);
 	else
-  fprintf(of, "<H2>Antrenori Ón cupele europene (%d-%d)</H2>\n", FY, LY);
+  fprintf(of, "<H2>Antrenori √Æn cupele europene (%d-%d)</H2>\n", FY, LY);
   fprintf(of, "<script src=\"sorttable.js\"></script>\n");
   fprintf(of, "<TABLE class=\"sortable\" cellpadding=\"2\" frame=\"box\">\n");
   fprintf(of, "<THEAD><TR>\n");
@@ -398,14 +398,14 @@ void HTMLTable(Ranking *R, Catalog *C, const char *filename, int eur) {
   fprintf(of, "<TH>Prenume</TH>");
   fprintf(of, "<TH>Nume</TH>");
 //  fprintf(of, "<TH>D.n.</TH>");
-  fprintf(of, "<TH>Na˛.</TH>");
-  fprintf(of, "<TH>Sez.</TH>");
+  fprintf(of, "<TH>Na≈£</TH>");
+  fprintf(of, "<TH>Sez</TH>");
   fprintf(of, "<TH>Primul</TH>");
   fprintf(of, "<TH>Ultimul</TH>");
   fprintf(of, "<TH>Meciuri</TH>");
   fprintf(of, "<TH>Vict.</TH>");
   fprintf(of, "<TH>Egal.</TH>");
-  fprintf(of, "<TH>Œnfr.</TH>");
+  fprintf(of, "<TH>√énfr.</TH>");
   fprintf(of, "<TH>G+</TH>");
   fprintf(of, "<TH></TH>");
   fprintf(of, "<TH>G-</TH>");

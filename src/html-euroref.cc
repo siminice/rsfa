@@ -440,14 +440,14 @@ void CollectData(int year) {
 void HTMLTable(Ranking *R, Catalog *C, const char *filename) {
 	FILE *of = fopen(filename, "wt");
 	if (!of) { perror(""); return; }
-  fprintf(of, "<HTML>\n<TITLE>Arbitri în cupele europene (%d-%d)</TITLE>\n", FY, LY);
+  fprintf(of, "<HTML>\n<TITLE>Arbitri Ã®n cupele europene (%d-%d)</TITLE>\n", FY, LY);
 
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
   fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(of, "</HEAD>\n<BODY>\n");
 
-  fprintf(of, "<H2>Arbitri în cupele europene (%d-%d)</H2>\n", FY, LY);
-  fprintf(of, "Palmaresul echipelor româneºti în meciurile arbitrate de:\n");
+  fprintf(of, "<H2>Arbitri Ã®n cupele europene (%d-%d)</H2>\n", FY, LY);
+  fprintf(of, "Palmaresul echipelor romÃ¢neÅŸti Ã®n meciurile arbitrate de:\n");
 
   fprintf(of, "<script src=\"sorttable.js\"></script>\n");
   fprintf(of, "<TABLE class=\"sortable\" cellpadding=\"2\" frame=\"box\">\n");
@@ -456,14 +456,14 @@ void HTMLTable(Ranking *R, Catalog *C, const char *filename) {
   fprintf(of, "<TH>Prenume</TH>");
   fprintf(of, "<TH>Nume</TH>");
 //  fprintf(of, "<TH>D.n.</TH>");
-  fprintf(of, "<TH>Naþ.</TH>");
-  fprintf(of, "<TH>Sez.</TH>");
+  fprintf(of, "<TH>NaÅ£</TH>");
+  fprintf(of, "<TH>Sez</TH>");
   fprintf(of, "<TH>Primul</TH>");
   fprintf(of, "<TH>Ultimul</TH>");
   fprintf(of, "<TH>Meciuri</TH>");
   fprintf(of, "<TH>Vict.</TH>");
   fprintf(of, "<TH>Egal.</TH>");
-  fprintf(of, "<TH>Înfr.</TH>");
+  fprintf(of, "<TH>ÃŽnfr.</TH>");
   fprintf(of, "<TH>G+</TH>");
   fprintf(of, "<TH></TH>");
   fprintf(of, "<TH>G-</TH>");
@@ -524,24 +524,24 @@ void HTMLTable(Ranking *R, Catalog *C, const char *filename) {
 void HTMLCTable(Ranking *R, const char *filename) {
 	FILE *of = fopen(filename, "wt");
 	if (!of) { perror(""); return; }
-  fprintf(of, "<HTML>\n<TITLE>Arbitri în cupele europene, pe þãri (%d-%d)</TITLE>\n", FY, LY);
+  fprintf(of, "<HTML>\n<TITLE>Arbitri Ã®n cupele europene, pe Å£Äƒri (%d-%d)</TITLE>\n", FY, LY);
 
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
   fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(of, "</HEAD>\n<BODY>\n");
 
-  fprintf(of, "<H2>Arbitri în cupele europene, pe þãri (%d-%d)</H2>\n", FY, LY);
-  fprintf(of, "Palmaresul echipelor româneºti în funcþie de naþionalitatea arbitrului\n");
+  fprintf(of, "<H2>Arbitri Ã®n cupele europene, pe Å£Äƒri (%d-%d)</H2>\n", FY, LY);
+  fprintf(of, "Palmaresul echipelor romÃ¢neÅŸti Ã®n funcÅ£ie de naÅ£ionalitatea arbitrului\n");
 
   fprintf(of, "<script src=\"sorttable.js\"></script>\n");
   fprintf(of, "<TABLE class=\"sortable\" cellpadding=\"2\" frame=\"box\">\n");
   fprintf(of, "<THEAD><TR>\n");
   fprintf(of, "<TH>#</TH>");
-  fprintf(of, "<TH>Þarã</TH>");
+  fprintf(of, "<TH>Å¢arÄƒ</TH>");
   fprintf(of, "<TH>Meciuri</TH>");
   fprintf(of, "<TH>Vict.</TH>");
   fprintf(of, "<TH>Egal.</TH>");
-  fprintf(of, "<TH>Înfr.</TH>");
+  fprintf(of, "<TH>ÃŽnfr.</TH>");
   fprintf(of, "<TH>G+</TH>");
   fprintf(of, "<TH></TH>");
   fprintf(of, "<TH>G-</TH>");
