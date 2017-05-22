@@ -1205,7 +1205,7 @@ int StreakRanking() {
     twin[i]->print();
   }
 
-  fprintf(of, "<H3>Meciuri consecutive fãrã înfrângere</H3>\n");
+  fprintf(of, "<H3>Meciuri consecutive fÄƒrÄƒ Ã®nfrÃ¢ngere</H3>\n");
   for (int i=0; i<max; i++) {
     tundef[i]->header(i,2);
     tundef[i]->print();
@@ -1217,13 +1217,13 @@ int StreakRanking() {
     ttie[i]->print();
   }
 
-  fprintf(of, "<H3>Meciuri consecutive fãrã victorie</H3>\n");
+  fprintf(of, "<H3>Meciuri consecutive fÄƒrÄƒ victorie</H3>\n");
   for (int i=0; i<max; i++) {
     twinles[i]->header(i,4);
     twinles[i]->print();
   }
 
-  fprintf(of, "<H3>Înfrângeri consecutive</H3>\n");
+  fprintf(of, "<H3>ÃŽnfrÃ¢ngeri consecutive</H3>\n");
   for (int i=0; i<max; i++) {
     tlos[i]->header(i,5);
     tlos[i]->print();
@@ -1232,31 +1232,31 @@ int StreakRanking() {
   fprintf(of, "<HR>\n");
 
 //-----------------------------------------------------------------
-  fprintf(of, "<H3>Victorii consecutive acasã</H3>\n");
+  fprintf(of, "<H3>Victorii consecutive acasÄƒ</H3>\n");
   for (int i=0; i<max; i++) {
     thwin[i]->header(i,7);
     thwin[i]->print();
   }
 
-  fprintf(of, "<H3>Meciuri consecutive fãrã înfrângere acasã</H3>\n");
+  fprintf(of, "<H3>Meciuri consecutive fÄƒrÄƒ Ã®nfrÃ¢ngere acasÄƒ</H3>\n");
   for (int i=0; i<max; i++) {
     thundef[i]->header(i,8);
     thundef[i]->print();
   }
 
-  fprintf(of, "<H3>Egaluri consecutive acasã</H3>\n");
+  fprintf(of, "<H3>Egaluri consecutive acasÄƒ</H3>\n");
   for (int i=0; i<max; i++) {
     thtie[i]->header(i,9);
     thtie[i]->print();
   }
 
-  fprintf(of, "<H3>Meciuri consecutive fãrã victorie acasã</H3>\n");
+  fprintf(of, "<H3>Meciuri consecutive fÄƒrÄƒ victorie acasÄƒ</H3>\n");
   for (int i=0; i<max; i++) {
     thwinles[i]->header(i,10);
     thwinles[i]->print();
   }
 
-  fprintf(of, "<H3>Înfrângeri consecutive acasã</H3>\n");
+  fprintf(of, "<H3>ÃŽnfrÃ¢ngeri consecutive acasÄƒ</H3>\n");
   for (int i=0; i<max; i++) {
     thlos[i]->header(i,11);
     thlos[i]->print();
@@ -1265,25 +1265,25 @@ int StreakRanking() {
   fprintf(of, "<HR>\n");
 
 //-----------------------------------------------------------------
-  fprintf(of, "<H3>Victorii consecutive în deplasare</H3>\n");
+  fprintf(of, "<H3>Victorii consecutive Ã®n deplasare</H3>\n");
   for (int i=0; i<max; i++) {
     tawin[i]->header(i,13);
     tawin[i]->print();
   }
 
-  fprintf(of, "<H3>Meciuri consecutive fãrã înfrângere în deplasare</H3>\n");
+  fprintf(of, "<H3>Meciuri consecutive fÄƒrÄƒ Ã®nfrÃ¢ngere Ã®n deplasare</H3>\n");
   for (int i=0; i<max; i++) {
     taundef[i]->header(i,14);
     taundef[i]->print();
   }
 
-  fprintf(of, "<H3>Egaluri consecutive în deplasare</H3>\n");
+  fprintf(of, "<H3>Egaluri consecutive Ã®n deplasare</H3>\n");
   for (int i=0; i<max; i++) {
     tatie[i]->header(i,15);
     tatie[i]->print();
   }
 
-  fprintf(of, "<H3>Meciuri consecutive fãrã victorie în deplasare</H3>\n");
+  fprintf(of, "<H3>Meciuri consecutive fÄƒrÄƒ victorie Ã®n deplasare</H3>\n");
   for (int i=0; i<max; i++) {
     tawinles[i]->header(i,16);
     tawinles[i]->print();
@@ -1314,7 +1314,7 @@ void HTMLHeader(int t) {
   fprintf(of, "    }else{\n");
   fprintf(of, "      document.getElementById(divid).style.display = 'none';\n");
   fprintf(of, "    }\n");
-  fprintf(of, "  }\n");  
+  fprintf(of, "  }\n");
   fprintf(of, "</script>\n");
 }
 

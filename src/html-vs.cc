@@ -60,7 +60,7 @@
 
 const char *month[] = {"???", "jan", "feb", "mar", "apr", "may", "jun", 
                               "jul", "aug", "sep", "oct", "nov", "dec"};
-const char* cupround[] = {"*", "F", "S", "Q", "O", "�", "6", "7", "8", "9"};
+const char* cupround[] = {"*", "F", "S", "Q", "O", "Ş", "6", "7", "8", "9"};
 
 //const char* fxcol[] = {"77FF77", "FFFF99", "FF5050", "9999FF", "FFCC99", "FF99FF", "CC33FF", "CCCCCC"};
 const char* fxcol[] = {"E4FEE4", "FFFFCC", "FFE4E4", "F0F0FF", "9999FF", "FFCC99", "FF99FF", "CC33FF", "CCCCCC"};
@@ -258,16 +258,16 @@ int NumericDOB(char *dob, int fmt) {
 void CanonicDOB(char *dob, int fmt) {
   char s[12];
   strcpy(s, dob);
-  char *sd = strtok(s, "/.-");
+  char *sy = strtok(s, "/.-");
   char *sm = strtok(NULL, "/.-");
-  char *sy = strtok(NULL, "/.-");
+  char *sd = strtok(NULL, "/.-");
   int xd = 0;
   if (sd!=NULL) xd = atoi(sd);
   int xm = 0;
   if (sm!=NULL) xm = atoi(sm);
   int xy = 0;
   if (sy!=NULL) xy = atoi(sy);
-  if (xm>12 && xd<13) { 
+  if (xm>12 && xd<13) {
     int x = xm; xm = xd; xd = x;
   }
   if ((sd!=NULL && sm==NULL && sy==NULL) || (xd>0 && xm==0 && xy==0)) {
@@ -1072,8 +1072,8 @@ void HTMLLineupsHeader() {
   fprintf(of, "<TH>Prenume</TH>");
   fprintf(of, "<TH>Nume</TH>");
   fprintf(of, "<TH>Data naşterii</TH>");
-  fprintf(of, "<TH>Naţ.</TH>");
-  fprintf(of, "<TH>Sez.</TH>");
+  fprintf(of, "<TH>Naţ</TH>");
+  fprintf(of, "<TH>Sez</TH>");
   fprintf(of, "<TH>Primul</TH>");
   fprintf(of, "<TH>Ultimul</TH>");
   fprintf(of, "<TH>Meciuri</TH>");

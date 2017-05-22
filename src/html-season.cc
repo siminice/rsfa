@@ -90,6 +90,7 @@ char sf[128];
 int  played[650];
 int  sched[650][24];
 int  num_sched, first_d, first_r, last_d, last_r;
+int  opt_reports = 1;
 
 Ranking *notIncl;
 
@@ -539,7 +540,7 @@ void FindFirstRoundDate() {
       }
     }
   }
-  fprintf(stderr, "First round date: %d\n", first_r);
+//  fprintf(stderr, "First round date: %d\n", first_r);
 }
 
 int LastRoundNumber() {
@@ -942,7 +943,7 @@ void HTMLHeader(int i) {
 }
 
 void HTMLFooter() {
-	if (dvz=='A') {
+	if (dvz=='A' && opt_reports>0) {
 	  fprintf(of, "<A HREF=\"catalog-%d.html\"><IMG HEIGHT=\"50\" SRC=\"squad.png\"></IMG></A>\n", year);
 	}
   fprintf(of, "</BODY>\n</HTML>");
@@ -1030,7 +1031,7 @@ void NavTable(int r) {
     }
   }
   fprintf(of, "</TD>");
-  if (dvz=='A') {
+  if (dvz=='A' && opt_reports>0) {
     fprintf(of, "<TD WIDTH=\"32\"></TD>");
     fprintf(of, "<TD><A HREF=\"catalog-%d.html\"><IMG HEIGHT=\"36\" SRC=\"squad.png\"></IMG></A></TD>", year);
   }
@@ -1158,8 +1159,22 @@ void DatesTable(int r) {
 
 void printScoreLink(int h, int i, int j) {
   int rs = res[h][i][j];
-  fprintf(of, "<A HREF=\"reports/%d/%d-%d-%d.html\"><FONT COLOR=\"black\">%d-%d</FONT></A>",
-    year, id[i], id[j], round[h][i][j]%1000, rs/100, rs%100);
+  if (opt_reports) {
+    fprintf(of, "<A HREF=\"reports/%d/%d-%d-%d.html\"><FONT COLOR=\"black\">%d-%d</FONT></A>",
+      year, id[i], id[j], round[h][i][j]%1000, rs/100, rs%100);
+  } else {
+    fprintf(of, "%d-%d", rs/100, rs%100);
+  }
+}
+
+void printSmallScoreLink(int h, int i, int j) {
+  int rs = res[h][i][j];
+  if (1) {
+    fprintf(of, "<A HREF=\"reports/%d/%d-%d-%d.html\"><FONT SIZE=-1>%d-%d</FONT></A>",
+      year, id[i], id[j], round[h][i][j]%1000, rs/100, rs%100);
+  } else {
+    fprintf(of, "%d-%d", rs/100, rs%100);
+  }
 }
 
 void printScore(int h, int i, int j, int rs) {
@@ -1172,8 +1187,12 @@ void printScore(int h, int i, int j, int rs) {
     }
     return;
   }
-  fprintf(of, "<TD ALIGN=\"center\"><A HREF=\"reports/%d/%d-%d-%d.html\">%d-%d</A></TD>",
-    year, id[i], id[j], round[h][i][j]%1000, rs/100, rs%100);
+  if (opt_reports>0) {
+    fprintf(of, "<TD ALIGN=\"center\"><A HREF=\"reports/%d/%d-%d-%d.html\">%d-%d</A></TD>",
+      year, id[i], id[j], round[h][i][j]%1000, rs/100, rs%100);
+  } else {
+    fprintf(of, "<TD ALIGN=\"center\" FONT COLOR=\"#1100CC\">%d-%d</FONT></TD>", rs/100, rs%100);
+  }
 }
 
 void ResTable(int r) {
@@ -1245,7 +1264,7 @@ void ResTable(int r) {
     fprintf(of, "</TR>");
 //    fprintf(of, "<TR><TD COLSPAN=\"4\"></TD><TR>");
     AddResult(h, i, j);
-    if (dvz=='A') GetEvents(h, i, j);
+    if (dvz=='A' && opt_reports>0) GetEvents(h, i, j);
     lastr = rd;
   }
 
@@ -1255,7 +1274,7 @@ void ResTable(int r) {
   for (int i=0; i<n; i++) {
   for (int j=0; j<n; j++) {
     AddResult(h, i, j);
-    if (dvz=='A') GetEvents(h, i, j);
+    if (dvz=='A' && opt_reports>0) GetEvents(h, i, j);
   }
   }
   }
@@ -1267,10 +1286,29 @@ void ResTable(int r) {
 //  fprintf(of, "</SECTION>\n");
 }
 
+int isExtra(char c) {
+ return ((((unsigned char)c) & 0xc0) == 0x80);
+}
+
+int isFirstExtra(char c) {
+ return ((((unsigned char)c) & 0xc0) == 0xc0);
+}
+
 void threeLetters(char *s) {
-  if (s[1]==' ' || s[1]=='.') { s[1] = s[2]; s[2] = s[3]; }
-  if (s[2]==' ' || s[2]=='.') { s[2] = s[3]; }
-  s[3] = 0;
+  if (s==NULL) return;
+  int len = strlen(s);
+  int k = 0;
+  int l = 0;
+  int m = 0;
+  if ((s[0]=='F'||s[0]=='S') && s[1]=='C' && s[2]==' ') k = 2;
+  while ((k<len && m<3) || (m==3 && isFirstExtra(s[k-1]))) {
+    if (s[k]!=' ' && s[k]!='.') {
+      s[l++] = s[k];
+      if (!isExtra(s[k])) m++;
+    }
+    k++;
+  }
+  s[l] = 0;
 }
 
 void GetInitial(int px, char *pini) {
@@ -1353,7 +1391,7 @@ void ClasTable(int r, int synoptic) {
   if (synoptic) {
     fprintf(of, "<TH ALIGN=\"center\" WIDTH=\"3%%\"></TH>\n");
     for (int k=0; k<n; k++) {
-      strncpy(sn, NickOf(L, id[rank[k]], year), 5);
+      strncpy(sn, NickOf(L, id[rank[k]], year), 15);
       threeLetters(sn);
       fprintf(of, "<TH ALIGN=\"center\" WIDTH=\"3%%\">%s</TH>\n", sn);
     }
@@ -1557,18 +1595,18 @@ void PosTable(int r) {
      if (k<0 || gf < 0 || opp < 0 || opp >= n) {
         fprintf(of, "/>");
       } else {
-        strncpy(sn, NickOf(L, id[opp], year), 5);
+        strncpy(sn, NickOf(L, id[opp], year), 15);
         threeLetters(sn);
          int rt = restype(gf, ga);
          fprintf(of, " BGCOLOR=\"%s\">", resbgcol[rt]);
          if (ha==1) {
-//           fprintf(of, "<A HREF=\"reports/%d/%d-%d-%d.html\"><FONT SIZE=-1 COLOR=\"%s\">%d-%d</FONT></A>",
-           fprintf(of, "<A HREF=\"reports/%d/%d-%d-%d.html\"><FONT SIZE=-1>%d-%d</FONT></A>",
-             year, id[x], id[opp], round[k][x][opp]%1000, gf, ga);
+//           fprintf(of, "<A HREF=\"reports/%d/%d-%d-%d.html\"><FONT SIZE=-1>%d-%d</FONT></A>",
+//             year, id[x], id[opp], round[k][x][opp]%1000, gf, ga);
+             printSmallScoreLink(k, x, opp);
          } else {
-//           fprintf(of, "<A HREF=\"reports/%d/%d-%d-%d.html\"><FONT SIZE=-1 COLOR=\"%s\">%d-%d</FONT></A>",
-           fprintf(of, "<A HREF=\"reports/%d/%d-%d-%d.html\"><FONT SIZE=-1>%d-%d</FONT></A>",
-             year, id[opp], id[x], round[k][opp][x]%1000, gf, ga);
+//           fprintf(of, "<A HREF=\"reports/%d/%d-%d-%d.html\"><FONT SIZE=-1>%d-%d</FONT></A>",
+//             year, id[opp], id[x], round[k][opp][x]%1000, gf, ga);
+             printSmallScoreLink(k, opp, x);
          }
          fprintf(of, "</TD>");
       }
@@ -1598,7 +1636,7 @@ void PrintRound(int r) {
   fprintf(of, "</TD>\n</TABLE>");
   Standings(r);
   for (int t=0; t<n; t++) pos[rank[t]][r] = t+1;
-  if (dvz=='A') { TopScorers(); TopScorersTable(10); }
+  if (dvz=='A' && opt_reports>0) { TopScorers(); TopScorersTable(10); }
   ClasTable(r, 1);
   HomeAwayTable();
   if (r>1) PosTable(r);
@@ -1616,7 +1654,7 @@ void PrintDate(int i) {
   CalendarTable(i);
   fprintf(of, "</TD>\n</TABLE>");
   Standings(0);
-  if (dvz=='A') { TopScorers(); TopScorersTable(10); }
+  if (dvz=='A' && opt_reports>0) { TopScorers(); TopScorersTable(10); }
   ClasTable(i, 1);
   HomeAwayTable();
   HTMLFooter();
@@ -1682,6 +1720,9 @@ int main(int argc, char* argv[]) {
         else if (strcmp(argv[i],"-c")==0) {
           calendar = 1;
         }
+        else if (strcmp(argv[i], "-r")==0) {
+          opt_reports = 0;
+        }
         else if (strcmp(argv[i],"-fd")==0) {
           fd = atoi(argv[++i]);
 //          ld = fd + 649;
@@ -1723,7 +1764,7 @@ int main(int argc, char* argv[]) {
   if (ld<0) ld = fd+649;
 
   CollectSched(1);
-  if (dvz=='A') {
+  if (dvz=='A' && opt_reports>0) {
     LoadPlayers();
     LoadEvents();
   }

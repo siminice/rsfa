@@ -220,8 +220,9 @@ int CompactDateLocal(char *s) {
   char *sd = strtok(sw, "@");
   char *sh = strtok(NULL, ",");
   if (sd==NULL) return 0;
-  char *sz = strtok(sd, "-");
+  char *sy = strtok(sd, "-");
   char *sm = strtok(NULL, "-");
+  char *sz = strtok(NULL, "-");
   int nz=0, nm=0;
   if (sz) nz = atoi(sz);
   if (sm) nm = atoi(sm);
@@ -1259,7 +1260,7 @@ void PlayerStats(int pl) {
 			}
 			else {
 	      fprintf(of, "<TD BGCOLOR=\"%s\" ALIGN=\"center\"><A HREF=\"../reports/%d/n%d-%d-%d.html\">%d-%d</A></TD>", 
-					fxcol[wxl], ny, hid, aid, zi, scr/100, scr%100);
+					fxcol[wxl], year, hid, aid, zi, scr/100, scr%100);
 			}
 
 		  fprintf(of, "<TD ALIGN=\"left\">%s%s%s</TD>", (haw?"<I>":""), NickOf(L, aid, year), (haw?"</I>":""));

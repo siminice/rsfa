@@ -682,7 +682,7 @@ int main(int argc, char* argv[]) {
   printf("\nLatest results:\n");
   char utfname[64];
   for (int i=0; i<lastrng; i++) {
-    printf("R%d, %2d %3s: ", lastr, lastrd[i]%50, month[lastrd[i]/50]);
+    printf("R%d, %2d %3s: ", lastr, lastrd[i]%50, month[lastrd[i]/50-1]);
     sprintf(utfname, "%s", NickOf(L, id[lastrh[i]], year));
     printf("%-*s ", 16+extras(utfname), utfname);
     printf("%d-%d %s\n", lastrs[i]/100, lastrs[i]%100, NickOf(L, id[lastrg[i]], year));

@@ -35,6 +35,21 @@ void Load() {
   fclose(f);
 }
 
+int extras(const char *str)
+{
+    int len = 0;
+
+    while (*str != '\0') {
+        if ((*str & 0xc0) == 0x80) {
+            len++;
+        }
+        str++;
+    }
+    return len;
+}
+
+//--------------------------------------------------
+
 int Find(char* s) {
   int found = 0;
   int i = 0;
@@ -53,22 +68,28 @@ int Find(char* s) {
 
 int Detect() {
   char s[200], *tok[10];
+  char utf[64], utftok[64];
   int k = 0;
   while (!feof(stdin) && k<n) {
     fgets(s, 200, stdin);
-    tok[0] = strtok(s, "\t");
-    for (int j=1; j<10; j++) tok[j] = strtok(NULL, "\t");
+    tok[0] = strtok(s, "\t\n");
+    for (int j=1; j<10; j++) tok[j] = strtok(NULL, "\t\n");
 
     int i = -1;
     if (tkn>=0 && tkn<10) {
       i = Find(tok[tkn]);
     }
 
+
     if (i>=0) {
-      fprintf(stderr, "%s%2d.%-30s [%3d]%s\n", green, k+1, club[i], i, normal);
+      fprintf(stderr, "%s%2d.", green, k+1);
+      fprintf(stderr, "%-*s ", 30+extras(club[i]), club[i]);
+      fprintf(stderr, "[%3d]%s\n", i, normal);
     }
     else {
-      fprintf(stderr, "%s%2d.%-30s = ???%s\n", yellow, k+1, tok[tkn], normal);
+      fprintf(stderr, "%s%2d.", yellow, k+1);
+      fprintf(stderr, "%-*s ", 30+extras(tok[tkn]), tok[tkn]);
+      fprintf(stderr, "= ???%s\n", normal);
     }
     id[k++] = i;
   }
@@ -80,7 +101,7 @@ int main(int argc, char* argv[]) {
   char *s = new char[40];
   int i, j;
 
-  tkn = 1;
+  tkn = 0;
   ppv = 3; tbr = 1;
   promo1 = 3; promo2 = 0;
   releg1 = 3; releg2 = 0;

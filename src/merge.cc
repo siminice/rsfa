@@ -106,13 +106,13 @@ void Dump() {
   printf("%d %d %d %d %d %d %d\n", n, ppv, tbr+10, pr1, pr2, rel1, rel2);
   for (i=0; i<n; i++) {
     printf("%4d%4d%4d%4d%4d%4d%4d%4d",
-      lid[i], 
-      lwin[i]+ldrw[i]+llos[i]+win[i]+drw[i]+los[i], 
-      lwin[i]+win[i], 
-      ldrw[i]+drw[i], 
-      llos[i]+los[i], 
-      lgsc[i]+gsc[i], 
-      lgre[i]+gre[i], 
+      lid[i],
+      lwin[i]+ldrw[i]+llos[i]+win[i]+drw[i]+los[i],
+      lwin[i]+win[i],
+      ldrw[i]+drw[i],
+      llos[i]+los[i],
+      lgsc[i]+gsc[i],
+      lgre[i]+gre[i],
       lpts[i]+pts[i]);
     if (lpen[i]!=0) printf("%4d%4d", lpen[i], lpdt[i]);
     printf("\n");

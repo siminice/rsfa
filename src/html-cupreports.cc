@@ -672,9 +672,9 @@ void HTMLInfoBlock(int r, int a, int b) {
 	strcpy(sw, db[r][DB_DATE]);
 	sd = strtok(sw, "@");
 	sh = strtok(NULL, ",");
-	char *sz = strtok(sd, "-");
+	char *sy = strtok(sd, "-");
 	char *sm = strtok(NULL, "-");
-	char *sy = strtok(NULL, "-");
+	char *sz = strtok(NULL, "-");
 	int nz=0, nm=0, ny=0;
 	if (sz) nz = atoi(sz);
 	if (sm) nm = atoi(sm);

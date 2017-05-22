@@ -315,12 +315,12 @@ void CupAlltime() {
 
   Ranking();
 
-  fprintf(of, "<HTML>\n<TITLE>Clasament <I>all-time</I> Cupa Rom‚niei</TITLE>\n");
+  fprintf(of, "<HTML>\n<TITLE>Clasament <I>all-time</I> Cupa Rom√¢niei</TITLE>\n");
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
   fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(of, "</HEAD>\n<BODY>\n");
 
-  fprintf(of, "<H2>Clasament <I>all-time</I> Cupa Rom‚niei</H2>\n");
+  fprintf(of, "<H2>Clasament <I>all-time</I> Cupa Rom√¢niei</H2>\n");
   fprintf(of, "<TABLE BORDER=\"1\" WIDTH=\"90%%\" CELLPADDING=\"2\" RULES=\"rows\" FRAME=\"box\">\n");
   fprintf(of, "<TR BGCOLOR=\"DDDDDD\">");
   fprintf(of, "<TH WIDTH=\"2%%\" ALIGN=\"right\">#</TH>");

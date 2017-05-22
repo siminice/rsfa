@@ -4,8 +4,11 @@ CURL="curl -s --get"
 SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
+#printf " %-3s > %-3s > %s > %s\n" "uru" "a" "primera-division" "regular-season"
+#${CURL} ${SW}/uruguay/primera-division/2017/regular-season/r39833/matches/ > ${DIR}/uru/a.html
+
 printf " %-3s > %-3s > %s > %s\n" "uru" "a" "primera-division" "regular-season"
-${CURL} ${SW}/uruguay/primera-division/2017/regular-season/r39833/matches/ > ${DIR}/uru/a.html
+${CURL} ${SW}/uruguay/primera-division/2017/intermediate-round/r39834/matches/ > ${DIR}/uru/a.html
 
 #printf " %-3s > %-3s > %s > %s\n" "uru" "a" "primera-division" "clausura"
 #${CURL} ${SW}/uruguay/primera-division/2017/clausura/r39835/matches/ > ${DIR}/uru/a.html

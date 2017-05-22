@@ -79,7 +79,7 @@ const char *romonth[] = {"", "ianuarie", "februarie", "martie", "aprilie", "mai"
 
 const char *evicon[] = {"g", "og", "pg", "pm", "cg" , "cr", "cgr"};
 const char *cupmnem[] = {"SC", "CCE", "CC", "UEFA"};
-const char *cupround[] = {"Câºtigãtoare", "Finala", "Semifinale", "Sferturi", "Optimi", "ªaisprezecimi", "1/32", "1/64"};
+const char *cupround[] = {"Câºtigãtoare", "Finala", "Semifinale", "Sferturi", "Optimi", "Åžaisprezecimi", "1/32", "1/64"};
 const char* fxcol[] = {"F0F0B0", "AAFFAA", "FF8888"};
 
 char **ctty;
@@ -710,9 +710,9 @@ void HTMLInfoBlock(int r, int a, int b) {
 	strcpy(sw, db[r][DB_DATE]);
 	sd = strtok(sw, "@");
 	sh = strtok(NULL, ",");
-	char *sz = strtok(sd, "-");
+	char *sy = strtok(sd, "-");
 	char *sm = strtok(NULL, "-");
-	char *sy = strtok(NULL, "-");
+	char *sz = strtok(NULL, "-");
 	int nz=0, nm=0, ny=0;
 	if (sz) nz = atoi(sz);
 	if (sm) nm = atoi(sm);
@@ -1579,7 +1579,7 @@ void RoundName(char *rs) {
 	else if (sk[0]=='P')
 		sprintf(roundname, "Tur preliminar %c", sk[1]);
 	else if (sk[0]=='Q')
-		sprintf(roundname, "Calificãri grupe");
+		sprintf(roundname, "CalificÄƒri grupe");
 	else if (sk[0]=='G')
 		sprintf (roundname, "Grupa %c", sk[1]);
 }

@@ -621,7 +621,7 @@ void Palmares(int a) {
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"7%%\">J</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"9%%\">V</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"7%%\">E</TH>\n");
-  fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"7%%\">Î</TH>\n");
+  fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"7%%\">ÃŽ</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"12%%\">gm</TH>\n");
   fprintf(of, "<TH ALIGN=\"center\" WIDTH=\"1%%\">-</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"5%%\">gp</TH>\n");
@@ -655,7 +655,7 @@ void Palmares(int a) {
         if (ng[j]>0) {
           fprintf(of, "<TR BGCOLOR=\"FFFFFF\">");
           if (j<ND) fprintf(of, "<TD>Divizia %c</TD>", (char)(j+65));
-          else if (j==10) fprintf(of, "<TD>Cupã</TD>");
+          else if (j==10) fprintf(of, "<TD>CupÄƒ</TD>");
           fprintf(of, "<TD ALIGN=\"right\">%d</TD>", ng[j]);
           fprintf(of, "<TD ALIGN=\"right\">%d</TD>", awin[j][a]);
           fprintf(of, "<TD ALIGN=\"right\">%d</TD>", adrw[j][a]);
@@ -696,7 +696,7 @@ void Palmares(int a) {
     fprintf(of, "<TD ALIGN=\"right\">J</TD>");
     fprintf(of, "<TD ALIGN=\"right\">V</TD>");
     fprintf(of, "<TD ALIGN=\"right\">E</TD>");
-    fprintf(of, "<TD ALIGN=\"right\">Î</TD>");
+    fprintf(of, "<TD ALIGN=\"right\">ÃŽ</TD>");
     fprintf(of, "<TD COLSPAN=\"3\" ALIGN=\"center\">ga</TD>");
     fprintf(of, "<TD ALIGN=\"right\">P</TD>");
     fprintf(of, "<TD ALIGN=\"right\">%%</TD>");
