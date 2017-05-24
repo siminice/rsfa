@@ -1167,13 +1167,13 @@ void printScoreLink(int h, int i, int j) {
   }
 }
 
-void printSmallScoreLink(int h, int i, int j) {
+void printSmallScoreLink(int h, int i, int j, int gf, int ga) {
   int rs = res[h][i][j];
   if (1) {
     fprintf(of, "<A HREF=\"reports/%d/%d-%d-%d.html\"><FONT SIZE=-1>%d-%d</FONT></A>",
-      year, id[i], id[j], round[h][i][j]%1000, rs/100, rs%100);
+      year, id[i], id[j], round[h][i][j]%1000, gf, ga);
   } else {
-    fprintf(of, "%d-%d", rs/100, rs%100);
+    fprintf(of, "%d-%d", gf, ga);
   }
 }
 
@@ -1602,11 +1602,11 @@ void PosTable(int r) {
          if (ha==1) {
 //           fprintf(of, "<A HREF=\"reports/%d/%d-%d-%d.html\"><FONT SIZE=-1>%d-%d</FONT></A>",
 //             year, id[x], id[opp], round[k][x][opp]%1000, gf, ga);
-             printSmallScoreLink(k, x, opp);
+             printSmallScoreLink(k, x, opp, gf, ga);
          } else {
 //           fprintf(of, "<A HREF=\"reports/%d/%d-%d-%d.html\"><FONT SIZE=-1>%d-%d</FONT></A>",
 //             year, id[opp], id[x], round[k][opp][x]%1000, gf, ga);
-             printSmallScoreLink(k, opp, x);
+             printSmallScoreLink(k, opp, x, gf, ga);
          }
          fprintf(of, "</TD>");
       }

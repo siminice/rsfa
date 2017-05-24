@@ -2,24 +2,6 @@
 
 echo "[36;1m"
 echo "=================================="
-echo "	Italy"
-echo "=================================="
-echo "[0m"
-
- get-italy
-cd /home/radu/rsssf/sat/ita
- u-italy
-echo "[36;1m"
-echo "=================================="
-echo "	Albania"
-echo "=================================="
-echo "[0m"
-
- get-albania
-cd /home/radu/rsssf/sat/alb
- u-albania
-echo "[36;1m"
-echo "=================================="
 echo "	Argentina"
 echo "=================================="
 echo "[0m"
@@ -27,24 +9,6 @@ echo "[0m"
  get-argentina
 cd /home/radu/rsssf/sat/arg
  u-argentina
-echo "[36;1m"
-echo "=================================="
-echo "	Armenia"
-echo "=================================="
-echo "[0m"
-
- get-armenia
-cd /home/radu/rsssf/sat/arm
- u-armenia
-echo "[36;1m"
-echo "=================================="
-echo "	Bolivia"
-echo "=================================="
-echo "[0m"
-
- get-bolivia
-cd /home/radu/rsssf/sat/bol
- u-bolivia
 echo "[36;1m"
 echo "=================================="
 echo "	Brazil"
@@ -74,6 +38,15 @@ cd /home/radu/rsssf/sat/cro
  u-croatia
 echo "[36;1m"
 echo "=================================="
+echo "	Czech Republic"
+echo "=================================="
+echo "[0m"
+
+ get-czech-republic
+cd /home/radu/rsssf/sat/cze
+ u-czech-republic
+echo "[36;1m"
+echo "=================================="
 echo "	Estonia"
 echo "=================================="
 echo "[0m"
@@ -101,31 +74,22 @@ cd /home/radu/rsssf/sat/geo
  u-georgia
 echo "[36;1m"
 echo "=================================="
-echo "	Gibraltar"
+echo "	Italy"
 echo "=================================="
 echo "[0m"
 
- get-gibraltar
-cd /home/radu/rsssf/sat/gib
- u-gibraltar
+ get-italy
+cd /home/radu/rsssf/sat/ita
+ u-italy
 echo "[36;1m"
 echo "=================================="
-echo "	Iceland"
+echo "	Lithuania"
 echo "=================================="
 echo "[0m"
 
- get-iceland
-cd /home/radu/rsssf/sat/isl
- u-iceland
-echo "[36;1m"
-echo "=================================="
-echo "	Mexico"
-echo "=================================="
-echo "[0m"
-
- get-mexico
-cd /home/radu/rsssf/sat/mex
- u-mexico
+ get-lithuania
+cd /home/radu/rsssf/sat/lit
+ u-lithuania
 echo "[36;1m"
 echo "=================================="
 echo "	Moldova"
@@ -146,24 +110,6 @@ cd /home/radu/rsssf/sat/nor
  u-norway
 echo "[36;1m"
 echo "=================================="
-echo "	Paraguay"
-echo "=================================="
-echo "[0m"
-
- get-paraguay
-cd /home/radu/rsssf/sat/par
- u-paraguay
-echo "[36;1m"
-echo "=================================="
-echo "	Poland"
-echo "=================================="
-echo "[0m"
-
- get-poland
-cd /home/radu/rsssf/sat/pol
- u-poland
-echo "[36;1m"
-echo "=================================="
 echo "	Republic of Ireland"
 echo "=================================="
 echo "[0m"
@@ -173,6 +119,15 @@ cd /home/radu/rsssf/sat/irl
  u-ireland-republic
 echo "[36;1m"
 echo "=================================="
+echo "	Romania"
+echo "=================================="
+echo "[0m"
+
+ get-romania
+cd /home/radu/rsssf/sat/rom
+ u-romania
+echo "[36;1m"
+echo "=================================="
 echo "	Sweden"
 echo "=================================="
 echo "[0m"
@@ -180,39 +135,3 @@ echo "[0m"
  get-sweden
 cd /home/radu/rsssf/sat/swe
  u-sweden
-echo "[36;1m"
-echo "=================================="
-echo "	Switzerland"
-echo "=================================="
-echo "[0m"
-
- get-switzerland
-cd /home/radu/rsssf/sat/sui
- u-switzerland
-echo "[36;1m"
-echo "=================================="
-echo "	Turkey"
-echo "=================================="
-echo "[0m"
-
- get-turkey
-cd /home/radu/rsssf/sat/tur
- u-turkey
-echo "[36;1m"
-echo "=================================="
-echo "	Ukraine"
-echo "=================================="
-echo "[0m"
-
- get-ukraine
-cd /home/radu/rsssf/sat/ukr
- u-ukraine
-echo "[36;1m"
-echo "=================================="
-echo "	USA"
-echo "=================================="
-echo "[0m"
-
- get-united-states
-cd /home/radu/rsssf/sat/usa
- u-united-states

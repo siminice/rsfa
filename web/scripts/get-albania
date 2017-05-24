@@ -5,7 +5,7 @@ SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 echo " alb > a  > super-league > regular-season"
-${CURL} ${SW}/albania/super-league/20172017/regular-season/r37049/matches > ${DIR}/alb/a.html
+${CURL} ${SW}/albania/super-league/20172017/regular-season/r37049/matches/ > ${DIR}/alb/a.html
 
 echo " alb > b1 > league-1 > promotion-round"
 ${CURL} ${SW}/albania/league-1/20162017/promotion-round/r38903/matches/ > ${DIR}/alb/b1.html
