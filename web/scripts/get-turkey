@@ -5,15 +5,13 @@ SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "tur" "a" "super-lig" "regular-season"
-${CURL} ${SW}/turkey/super-lig/20162017/regular-season/r36002/matches/ > ${DIR}/tur/a.html
+${CURL} ${SW}/turkey/super-lig/20172018/regular-season/r42332/matches/ > ${DIR}/tur/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "tur" "b" "1-lig" "regular-season"
-${CURL} ${SW}/turkey/1-lig/20162017/regular-season/r36958/matches/ > ${DIR}/tur/b.html
+${CURL} ${SW}/turkey/1-lig/20172018/regular-season/r42487/matches/ > ${DIR}/tur/b.html
 
 printf " %-3s > %-3s > %s > %s\n" "tur" "c1" "2-lig" "beyaz"
-${CURL} ${SW}/turkey/2-lig/20162017/beyaz/r36127/matches/ > ${DIR}/tur/c1.html
+${CURL} ${SW}/turkey/2-lig/20172018/beyaz/r41859/matches/ > ${DIR}/tur/c1.html
 
 printf " %-3s > %-3s > %s > %s\n" "tur" "c2" "2-lig" "krmz"
-${CURL} ${SW}/turkey/2-lig/20162017/krmz/r36128/matches/ > ${DIR}/tur/c2.html
-
-
+${CURL} ${SW}/turkey/2-lig/20172018/krmz/r41860/matches/ > ${DIR}/tur/c2.html

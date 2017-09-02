@@ -5,20 +5,20 @@ SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "gre" "a" "super-league" "regular-season"
-${CURL} ${SW}/greece/super-league/20162017/regular-season/r36670/matches/ > ${DIR}/gre/a.html
+${CURL} ${SW}/greece/super-league/20172018/regular-season/r42568/matches/ > ${DIR}/gre/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "gre" "b" "football-league" "regular-season"
-${CURL} ${SW}/greece/football-league/20162017/regular-season/r38508/matches/ > ${DIR}/gre/b.html
+${CURL} ${SW}/greece/football-league/20172018/regular-season/r42856/matches/ > ${DIR}/gre/b.html
 
-printf " %-3s > %-3s > %s > %s\n" "gre" "c1" "football-league-2" "group-a"
-${CURL} ${SW}/greece/football-league-2/20162017/group-a/r36167/matches/ > ${DIR}/gre/c1.html
+printf " %-3s > %-3s > %s > %s\n" "gre" "c1" "football-league-2" "group-1"
+${CURL} ${SW}/greece/football-league-2/20172018/group-1/r42453/matches/ > ${DIR}/gre/c1.html
 
-printf " %-3s > %-3s > %s > %s\n" "gre" "c2" "football-league-2" "group-b"
-${CURL} ${SW}/greece/football-league-2/20162017/group-b/r36168/matches/ > ${DIR}/gre/c2.html
+printf " %-3s > %-3s > %s > %s\n" "gre" "c2" "football-league-2" "group-2"
+${CURL} ${SW}/greece/football-league-2/20172018/group-2/r42454/matches/ > ${DIR}/gre/c2.html
 
-printf " %-3s > %-3s > %s > %s\n" "gre" "c3" "football-league-2" "group-c"
-${CURL} ${SW}/greece/football-league-2/20162017/group-c/r36169/matches/ > ${DIR}/gre/c3.html
+printf " %-3s > %-3s > %s > %s\n" "gre" "c3" "football-league-2" "group-3"
+${CURL} ${SW}/greece/football-league-2/20172018/group-3/r42455/matches/ > ${DIR}/gre/c3.html
 
-printf " %-3s > %-3s > %s > %s\n" "gre" "c4" "football-league-2" "group-d"
-${CURL} ${SW}/greece/football-league-2/20162017/group-d/r36170/matches/ > ${DIR}/gre/c4.html
+printf " %-3s > %-3s > %s > %s\n" "gre" "c4" "football-league-2" "group-4"
+${CURL} ${SW}/greece/football-league-2/20172018/group-4/r42456/matches/ > ${DIR}/gre/c4.html
 

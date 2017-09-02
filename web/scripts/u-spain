@@ -1,11 +1,11 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/spa
-update a.2017 ../web/spa/a.html
-update b.2017 ../web/spa/b.html
+update a.2018 ../web/spa/a.html
+update b.2018 ../web/spa/b.html
 
-update c1.2017 ../web/spa/c1.html
-update c2.2017 ../web/spa/c2.html
-update c3.2017 ../web/spa/c3.html
-update c4.2017 ../web/spa/c4.html
+update c1.2018 ../web/spa/c1.html
+update c2.2018 ../web/spa/c2.html
+update c3.2018 ../web/spa/c3.html
+update c4.2018 ../web/spa/c4.html
 

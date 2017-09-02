@@ -5,17 +5,17 @@ SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "aut" "a" "bundesliga" "regular-season"
-${CURL} ${SW}/austria/bundesliga/20162017/regular-season/r35887/matches/ > ${DIR}/aut/a.html
+${CURL} ${SW}/austria/bundesliga/20172018/regular-season/r41997/matches/ > ${DIR}/aut/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "aut" "b" "1-liga" "regular-season"
-${CURL} ${SW}/austria/1-liga/20162017/regular-season/r36875/matches/ > ${DIR}/aut/b.html
+${CURL} ${SW}/austria/1-liga/20172018/regular-season/r41998/matches/ > ${DIR}/aut/b.html
 
 printf " %-3s > %-3s > %s > %s\n" "aut" "c1" "regionalliga" "west"
-${CURL} ${SW}/austria/regionalliga/20162017/west/r37496/matches/ > ${DIR}/aut/c1.html
+${CURL} ${SW}/austria/regionalliga/20172018/west/r42987/matches/ > ${DIR}/aut/c1.html
 
 printf " %-3s > %-3s > %s > %s\n" "aut" "c2" "regionalliga" "mitte"
-${CURL} ${SW}/austria/regionalliga/20162017/mitte/r37494/matches/ > ${DIR}/aut/c2.html
+${CURL} ${SW}/austria/regionalliga/20172018/mitte/r42985/matches/ > ${DIR}/aut/c2.html
 
 printf " %-3s > %-3s > %s > %s\n" "aut" "c3" "regionalliga" "ost"
-${CURL} ${SW}/austria/regionalliga/20162017/ost/r37495/matches/ > ${DIR}/aut/c3.html
+${CURL} ${SW}/austria/regionalliga/20172018/ost/r42986/matches/ > ${DIR}/aut/c3.html
 

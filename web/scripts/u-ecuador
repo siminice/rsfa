@@ -1,7 +1,6 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/ecu
-update a1.2017 ../web/ecu/a.html
-update b1.2017 ../web/ecu/b.html
-
+update a2.2017 ../web/ecu/a.html
+update b.2017 ../web/ecu/b.html
 

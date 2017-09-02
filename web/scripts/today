@@ -2,13 +2,49 @@
 
 echo "[36;1m"
 echo "=================================="
-echo "	Argentina"
+echo "	Austria"
 echo "=================================="
 echo "[0m"
 
- get-argentina
-cd /home/radu/rsssf/sat/arg
- u-argentina
+ get-austria
+cd /home/radu/rsssf/sat/aut
+ u-austria
+echo "[36;1m"
+echo "=================================="
+echo "	Belarus"
+echo "=================================="
+echo "[0m"
+
+ get-belarus
+cd /home/radu/rsssf/sat/blr
+ u-belarus
+echo "[36;1m"
+echo "=================================="
+echo "	Belgium"
+echo "=================================="
+echo "[0m"
+
+ get-belgium
+cd /home/radu/rsssf/sat/bel
+ u-belgium
+echo "[36;1m"
+echo "=================================="
+echo "	Bolivia"
+echo "=================================="
+echo "[0m"
+
+ get-bolivia
+cd /home/radu/rsssf/sat/bol
+ u-bolivia
+echo "[36;1m"
+echo "=================================="
+echo "	Bosnia and Herzegovina"
+echo "=================================="
+echo "[0m"
+
+ get-bosnia-herzegovina
+cd /home/radu/rsssf/sat/bos
+ u-bosnia-herzegovina
 echo "[36;1m"
 echo "=================================="
 echo "	Brazil"
@@ -18,6 +54,24 @@ echo "[0m"
  get-brazil
 cd /home/radu/rsssf/sat/bra
  u-brazil
+echo "[36;1m"
+echo "=================================="
+echo "	Bulgaria"
+echo "=================================="
+echo "[0m"
+
+ get-bulgaria
+cd /home/radu/rsssf/sat/bul
+ u-bulgaria
+echo "[36;1m"
+echo "=================================="
+echo "	Chile"
+echo "=================================="
+echo "[0m"
+
+ get-chile
+cd /home/radu/rsssf/sat/chi
+ u-chile
 echo "[36;1m"
 echo "=================================="
 echo "	Colombia"
@@ -47,31 +101,67 @@ cd /home/radu/rsssf/sat/cze
  u-czech-republic
 echo "[36;1m"
 echo "=================================="
-echo "	Estonia"
+echo "	Denmark"
 echo "=================================="
 echo "[0m"
 
- get-estonia
-cd /home/radu/rsssf/sat/est
- u-estonia
+ get-denmark
+cd /home/radu/rsssf/sat/den
+ u-denmark
 echo "[36;1m"
 echo "=================================="
-echo "	Finland"
+echo "	Ecuador"
 echo "=================================="
 echo "[0m"
 
- get-finland
-cd /home/radu/rsssf/sat/fin
- u-finland
+ get-ecuador
+cd /home/radu/rsssf/sat/ecu
+ u-ecuador
 echo "[36;1m"
 echo "=================================="
-echo "	Georgia"
+echo "	England"
 echo "=================================="
 echo "[0m"
 
- get-georgia
-cd /home/radu/rsssf/sat/geo
- u-georgia
+ get-england
+cd /home/radu/rsssf/sat/eng
+ u-england
+echo "[36;1m"
+echo "=================================="
+echo "	Faroe Islands"
+echo "=================================="
+echo "[0m"
+
+ get-faeroe
+cd /home/radu/rsssf/sat/fae
+ u-faeroe
+echo "[36;1m"
+echo "=================================="
+echo "	Germany"
+echo "=================================="
+echo "[0m"
+
+ get-germany
+cd /home/radu/rsssf/sat/ger
+ u-germany
+echo "[36;1m"
+echo "=================================="
+echo "	Hungary"
+echo "=================================="
+echo "[0m"
+
+ get-hungary
+cd /home/radu/rsssf/sat/hun
+ u-hungary
+echo "[36;1m"
+echo "=================================="
+echo "	Iceland"
+echo "=================================="
+echo "[0m"
+
+ get-iceland
+cd /home/radu/rsssf/sat/isl
+ u-iceland
 echo "[36;1m"
 echo "=================================="
 echo "	Italy"
@@ -83,6 +173,33 @@ cd /home/radu/rsssf/sat/ita
  u-italy
 echo "[36;1m"
 echo "=================================="
+echo "	Japan"
+echo "=================================="
+echo "[0m"
+
+ get-japan
+cd /home/radu/rsssf/sat/jap
+ u-japan
+echo "[36;1m"
+echo "=================================="
+echo "	Korea Republic"
+echo "=================================="
+echo "[0m"
+
+ get-korea
+cd /home/radu/rsssf/sat/kor
+ u-korea
+echo "[36;1m"
+echo "=================================="
+echo "	Latvia"
+echo "=================================="
+echo "[0m"
+
+ get-latvia
+cd /home/radu/rsssf/sat/lat
+ u-latvia
+echo "[36;1m"
+echo "=================================="
 echo "	Lithuania"
 echo "=================================="
 echo "[0m"
@@ -92,13 +209,22 @@ cd /home/radu/rsssf/sat/lit
  u-lithuania
 echo "[36;1m"
 echo "=================================="
-echo "	Moldova"
+echo "	Netherlands"
 echo "=================================="
 echo "[0m"
 
- get-moldova
-cd /home/radu/rsssf/sat/mol
- u-moldova
+ get-netherlands
+cd /home/radu/rsssf/sat/ned
+ u-netherlands
+echo "[36;1m"
+echo "=================================="
+echo "	Northern Ireland"
+echo "=================================="
+echo "[0m"
+
+ get-northern-ireland
+cd /home/radu/rsssf/sat/nir
+ u-northern-ireland
 echo "[36;1m"
 echo "=================================="
 echo "	Norway"
@@ -110,13 +236,31 @@ cd /home/radu/rsssf/sat/nor
  u-norway
 echo "[36;1m"
 echo "=================================="
-echo "	Republic of Ireland"
+echo "	Paraguay"
 echo "=================================="
 echo "[0m"
 
- get-ireland-republic
-cd /home/radu/rsssf/sat/irl
- u-ireland-republic
+ get-paraguay
+cd /home/radu/rsssf/sat/par
+ u-paraguay
+echo "[36;1m"
+echo "=================================="
+echo "	Peru"
+echo "=================================="
+echo "[0m"
+
+ get-peru
+cd /home/radu/rsssf/sat/per
+ u-peru
+echo "[36;1m"
+echo "=================================="
+echo "	Poland"
+echo "=================================="
+echo "[0m"
+
+ get-poland
+cd /home/radu/rsssf/sat/pol
+ u-poland
 echo "[36;1m"
 echo "=================================="
 echo "	Romania"
@@ -128,6 +272,51 @@ cd /home/radu/rsssf/sat/rom
  u-romania
 echo "[36;1m"
 echo "=================================="
+echo "	Russia"
+echo "=================================="
+echo "[0m"
+
+ get-russia
+cd /home/radu/rsssf/sat/rus
+ u-russia
+echo "[36;1m"
+echo "=================================="
+echo "	Serbia"
+echo "=================================="
+echo "[0m"
+
+ get-serbia
+cd /home/radu/rsssf/sat/yug
+ u-serbia
+echo "[36;1m"
+echo "=================================="
+echo "	Slovakia"
+echo "=================================="
+echo "[0m"
+
+ get-slovakia
+cd /home/radu/rsssf/sat/svk
+ u-slovakia
+echo "[36;1m"
+echo "=================================="
+echo "	Slovenia"
+echo "=================================="
+echo "[0m"
+
+ get-slovenia
+cd /home/radu/rsssf/sat/slo
+ u-slovenia
+echo "[36;1m"
+echo "=================================="
+echo "	Spain"
+echo "=================================="
+echo "[0m"
+
+ get-spain
+cd /home/radu/rsssf/sat/spa
+ u-spain
+echo "[36;1m"
+echo "=================================="
 echo "	Sweden"
 echo "=================================="
 echo "[0m"
@@ -135,3 +324,30 @@ echo "[0m"
  get-sweden
 cd /home/radu/rsssf/sat/swe
  u-sweden
+echo "[36;1m"
+echo "=================================="
+echo "	Switzerland"
+echo "=================================="
+echo "[0m"
+
+ get-switzerland
+cd /home/radu/rsssf/sat/sui
+ u-switzerland
+echo "[36;1m"
+echo "=================================="
+echo "	Uruguay"
+echo "=================================="
+echo "[0m"
+
+ get-uruguay
+cd /home/radu/rsssf/sat/uru
+ u-uruguay
+echo "[36;1m"
+echo "=================================="
+echo "	Venezuela"
+echo "=================================="
+echo "[0m"
+
+ get-venezuela
+cd /home/radu/rsssf/sat/ven
+ u-venezuela

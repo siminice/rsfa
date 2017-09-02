@@ -1,4 +1,4 @@
-957
+958
 Steaua         Steaua Bucuresti
 Dinamo         Dinamo Bucuresti
 Craiova        Universitatea Craiova
@@ -322,7 +322,7 @@ Rarora         Rarora Râmnicu Vâlcea
 Marghita       Petrom Marghita
 Roman II       Laminorul II Roman
 Munteni        Victoria Muntenii de Jos
-Bosanci        Soimii Bucovina Bosanci
+Darabani       ACS Sanatatea Darabani
 Willy          FC Willy Bacau
 Uztel          Uztel Ploiesti
 Mondial        Mondial Braila
@@ -352,7 +352,7 @@ Sovata         Mobila Sovata
 RATA TgM       Locomotiva Tg.Mures
 UTB            Unirea Tricolor Bucuresti
 DUIG           DUIG Braila
-Metalul Buc    Metalul Bucuresti
+Progresul Sp   Progresul Spartac Bucuresti
 Prog.Sibiu     Progresul Sibiu
 Romanu         Romgal Romanu
 Tepro          TEPRO Iasi
@@ -549,7 +549,7 @@ TAROM          Soimii TAROM Bucuresti
 IOR            IOR Bucuresti
 Bozovici       Nera Bozovici
 Vointa Carei   Vointa Carei
-SSP Cluj       Sanatatea Servicii Publice Cluj
+SSP Cluj       Sanatatea Servicii Publice Clu
 CPL Sf.Gh.     CPL Sf.Gheorghe
 ITA P.Neamt    ITA Piatra Neamt
 Constr.Alba    Constructorul Alba Iulia
@@ -626,7 +626,7 @@ ASA Timiºoara  ASA Timiºoara
 Muncitorul Res AS Muncitorul Resita
 Poli Galati    Politehnica Galati
 Sarmas-Toplita CS Stiinta Sarmas-Toplita
-1 Decembrie??? FC 1 Decembrie Ilfov
+Traian         Victoria Traian
 Tg.Mures       FCM Tg.Mures
 Brusturi       Flacara Brusturi
 Matizol        AS Matizol Ploiesti
@@ -676,7 +676,7 @@ Oil Terminal   Oil Terminal Constanta
 Ianca          CSO Ianca
 Onix Rm.Sarat  Onix Ramnicu Sarat
 Micula         AS Turul Micula
-Becicherec     AS Nova Mama Mia Becicherecu Mic
+Becicherec     AS Nova Mama Mia Becicherecu M
 Arges II       FC Arges II
 Tarlungeni     Unirea Tarlungeni
 Bihor II       FC Bihor II Oradea
@@ -710,7 +710,7 @@ Schela Mare    Muncitorul Schela Mare
 Medicina Cluj  Medicina Cluj
 Textila Medias Textila Mediaº
 Viitorul TgM   Viitorul Târgu Mureº
-Arsenal Sibiu  Arsenal Sibiu
+CNP Timisoara  CNP Timisoara
 Transilvania A Transilvania Arad
 Muresul TgM    Mureºul Târgu Mureº
 Viitorul Buc   Viitorul Bucureºti
@@ -784,7 +784,7 @@ Turcinesti     Ralbex Turcineºti
 Livezile       Voinþa Livezile
 Recas          AS Recaº
 Vointa Sibiu   Voinþa Sibiu
-Luceafarul Or  Luceafãrul Oradea!!!
+Borcea         Agricola Borcea
 Vaslui II      FC Vaslui II
 Dunarea II     FCM Dunãrea II Galaþi
 Tunari         CS Tunari
@@ -819,7 +819,7 @@ Rucar          CS Rucãr
 Stadiul BacauanStadiul Bãcãuan
 Ciresu         Conpet Cireºu
 Metaloglobus   Metaloglobus Bucureºti
-Fundulea       Progresul Fundulea
+Saelele        Vointa Saelele
 UCRB           UCR Bucureºti
 Turda Buc      Turda Bucureºti
 Victoria GalatiVictoria TCI Galaþi
@@ -840,9 +840,9 @@ Chiajna II     FC Concordia II Chiajna
 U Cluj II      CFM Universitatea Cluj II
 Tg.Mures II    FCM Târgu Mureº II
 Siderurgistul  Siderurgistul Galaþi
-Gara de Nord   Locomotiva Gara de Nord Bucureºti
-Grivita        Griviþa CFR Bucureºti
-Rapid Cluj     Flamura Roºie Cluj
+Gara de Nord   Locomotiva Gara de Nord Bucure
+Ghiroda        ACS Ghiroda
+Milcov         FC Milcov
 Luca Arbore    Hatmanul Luca Arbore Rãdãuþi
 CFR Oradea     CFR Oradea
 Minerul Muscel Minerul Cîmpulung Muscel
@@ -934,7 +934,7 @@ Filiasi        ACSO Filiasi
 Batrana Doamna ACS UTA Batrina Doamna
 Galda          ACS Industria Galda
 Atletico VasluiCS Atletico Vaslui
-Raucesti       CS Speranþa Rãuceºti
+Balesti        International Balesti
 Inter Dorohoi  ACS Inter Dorohoi
 Viitorul II    FC Viitorul II Constanþa
 Sporting Turnu ACS Sporting Turnu
@@ -956,3 +956,4 @@ UTA II         UTA Bãtrâna Doamnã II
 Dorolt         ACS Recolta Dorolþ
 Hermannstadt   AFC Hermannstadt
 FC Bistrita    FC Bistriþa
+Hermannst II   AFC Hermannstadt II

@@ -1,4 +1,4 @@
-466
+475
 Spartak Moskva,Spartak Moskva
 Dinamo Moskva,Dinamo Moskva
 CSKA Moskva,CSKA Moskva
@@ -61,7 +61,7 @@ Anzhi Makhachkala,Anzhi Mahachkala
 Legion Dynamo,Dinamo Mahachkala
 Sokol Saratov,Sokol Saratov
 Spartak Nal'chik,Spartak Nalchik
-Terek Grozny,Terek Groznyi
+Akhmat Grozny,Terek Groznyi
 Orel,FK Oriol
 Dinamo Bryansk,Dinamo Briansk
 SKA Khabarovsk,SKA Energia Habarovsk
@@ -149,7 +149,7 @@ Sodovik Sterlitamak,Sadovik Sterlitamak
 Angusht,Angusht Nazran
 Mashuk-KMV,Mashuk Piatigorsk
 Dinamo Voronezh,Dinamo Voronezh
-Don Novomoskovsk,Don Novomoskovsk
+Khimik Novomoskovsk,Don Novomoskovsk
 Gubkin,FK Gubkin
 FK Lobnya Alla,FK Lobnia Alla
 FK Lukhovitsy,FK Lukhovitsy
@@ -188,7 +188,7 @@ Sheksna,Sheksna Cherepovets
 Spartak Shcholkovo,Spartak Shcholkovo
 Torpedo-ZIL,Torpedo RG Moskva
 Volochanin-Ratmir,Volochanin Ratmir
-Zenit II,Zenit 2 Sankt Peterburg
+Salyut Saratov,Salyut Saratov
 Kaluga,Lokomotiv Kaluga
 Presnea Moskva,Presnea Moskva
 Fortuna Mytishch,Fortuna Mytishch
@@ -240,19 +240,19 @@ Dinamo Perm,Dinamo Perm
 Energia Ceaikovski,Energia Ceaikovski
 FK Berezniki,FK Berezniki
 Oasis Iarþevo,Oasis Iarþevo
-Krivici Velikie Luki,Krivici Velikie Luki
+Luki-Energiya,Krivici Velikie Luki
 Lokomotiv Minerlanîe Vodî,Lokomotiv Minerlanîe Vodî
-Spartak Moskva II,Spartak-2 Moscova
-Dinamo II,Dinamo-2 Moscova
-Lokomotiv Moskva II,Lokomotiv-2 Moscova
-Saturn II,Saturn-2 Moscova
-Zenit II,Zenit-2 Moscova
+Spartak Moskva II,Spartak II Moscova
+Dinamo II,Dinamo II Moscova
+Kazanka,Lokomotiv II Moscova
+Saturn II,Saturn II
+Zenit II,Zenit II
 ÞSKA-2 Moscova,ÞSKA-2 Moscova
 Torpedo-2 Moscova,Torpedo-2 Moscova
 Cernomoreþ-2 Novorossiisk,Cernomoreþ-2 Novorossiisk
 Iriston Vladikavkaz,Iriston Vladikavkaz
 Rostselmaº-2 Rostov,Rostselmaº-2 Rostov
-Krîlia Sovetov-2 Samara,Krîlia Sovetov-2 Samara
+Krylya Sovetov II,Krîlia Sovetov-2 Samara
 Dinamo Omsk,Dinamo Omsk
 Spartak Briansk,Spartak Briansk
 Beºtau Lermontov,Beºtau Lermontov
@@ -320,7 +320,7 @@ Liubertsy,Torgmash Liubertsy
 Morshansk,Stroitel Morshansk
 Armavir,Torpedo Armavir
 Alaniya Vladik&hellip;,Alania-2 Vladikavkaz
-Zelenodolsk,Progress Zelenodolsk
+Anzhi-Junior Zelenodolsk,Progress Zelenodolsk
 Kamensk,Trubnik Kamensk Uralski
 Nazarovo,Viktoria Nazarovo
 Mejdurechensk,FK Mejdurechensk
@@ -465,3 +465,12 @@ Dinamo Odessa,Dinamo Odessa
 Elektrik,Elektrik Leningrad
 Chayka,Chayka Peschanokopsk
 Kuban' Krasnodar II,Kuban Krasnodar II
+Murom,FK Murom
+Dinamo St. Petersburg II,Dinamo St.Peterburg II
+Veles,Veles Moskva
+Zorkiy,FK Zorkii Krasnogorsk
+Ararat Moskva,Ararat Moskva
+Akademiya Futbola,Akademia Futbola Rostov
+Akademiya Yu. Konopleva,Akademia Yuri Konoplev
+Ural II,Ural Ekaterinburg II
+Orenburg II,Gazovik Orenburg II

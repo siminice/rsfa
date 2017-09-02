@@ -5,14 +5,14 @@ SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "cze" "a" "czech-liga" "regular-season"
-${CURL} ${SW}/czech-republic/czech-liga/20162017/regular-season/r35886/matches/ > ${DIR}/cze/a.html
+${CURL} ${SW}/czech-republic/czech-liga/20172018/regular-season/r42013/matches/ > ${DIR}/cze/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "cze" "b" "2-liga" "regular-season"
-${CURL} ${SW}/czech-republic/2-liga/20162017/regular-season/r36877/matches/ > ${DIR}/cze/b.html
+${CURL} ${SW}/czech-republic/2-liga/20172018/regular-season/r42028/matches/ > ${DIR}/cze/b.html
 
 printf " %-3s > %-3s > %s > %s\n" "cze" "c1" "3-ligy" "fl"
-${CURL} ${SW}/czech-republic/3-ligy/20162017/fl/r37595/matches/ > ${DIR}/cze/c1.html
+${CURL} ${SW}/czech-republic/3-ligy/20172018/fl/r42720/matches/ > ${DIR}/cze/c1.html
 
 printf " %-3s > %-3s > %s > %s\n" "cze" "c2" "3-ligy" "msfl"
-${CURL} ${SW}/czech-republic/3-ligy/20162017/msfl/r37596/matches/ > ${DIR}/cze/c2.html
+${CURL} ${SW}/czech-republic/3-ligy/20172018/msfl/r42721/matches/ > ${DIR}/cze/c2.html
 

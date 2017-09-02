@@ -1,12 +1,12 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/ger
-update a.2017 ../web/ger/a.html
-update b.2017 ../web/ger/b.html
-update c.2017 ../web/ger/c.html
-update d1.2017 ../web/ger/d1.html
-update d2.2017 ../web/ger/d2.html
-update d3.2017 ../web/ger/d3.html
-update d4.2017 ../web/ger/d4.html
-update d5.2017 ../web/ger/d5.html
+update a.2018 ../web/ger/a.html
+update b.2018 ../web/ger/b.html
+update c.2018 ../web/ger/c.html
+update d1.2018 ../web/ger/d1.html
+update d2.2018 ../web/ger/d2.html
+update d3.2018 ../web/ger/d3.html
+update d4.2018 ../web/ger/d4.html
+update d5.2018 ../web/ger/d5.html
 

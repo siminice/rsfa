@@ -1002,7 +1002,7 @@ void VsPage(int t) {
 int main(int argc, char* argv[]) {
   char filename[256];
   EFY = 1957;
-  ELY = 2017;
+  ELY = 2018;
 
   if (!Load()) {
     printf("ERROR: called from invalid drectory.\n");

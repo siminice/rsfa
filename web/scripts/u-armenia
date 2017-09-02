@@ -1,6 +1,6 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/arm
-update a.2017 ../web/arm/a.html
-update b.2017 ../web/arm/b.html
+update a.2018 ../web/arm/a.html
+update b.2018 ../web/arm/b.html
 

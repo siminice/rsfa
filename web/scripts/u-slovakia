@@ -1,12 +1,10 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/svk
-update a.2017 ../web/svk/a.html
-update b.2017 ../web/svk/b.html
-#update b1.2017 ../web/svk/b1.html
-#update b2.2017 ../web/svk/b2.html
-update c1.2017 ../web/svk/c1.html
-update c2.2017 ../web/svk/c2.html
-update c3.2017 ../web/svk/c3.html
-update c4.2017 ../web/svk/c4.html
+update a.2018 ../web/svk/a.html
+update b.2018 ../web/svk/b.html
+update c1.2018 ../web/svk/c1.html
+update c2.2018 ../web/svk/c2.html
+update c3.2018 ../web/svk/c3.html
+update c4.2018 ../web/svk/c4.html
 

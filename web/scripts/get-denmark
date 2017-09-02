@@ -4,18 +4,30 @@ CURL="curl -s --get"
 SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
-printf " %-3s > %-3s > %s > %s\n" "den" "a1" "superliga" "championship-round"
-${CURL} ${SW}/denmark/superliga/20162017/championship-round/r36803/matches/ > ${DIR}/den/a1.html
+printf " %-3s > %-3s > %s > %s\n" "den" "a" "superliga" "regular-season"
+${CURL} ${SW}/denmark/superliga/20172018/regular-season/r42369/matches/ > ${DIR}/den/a.html
 
-printf " %-3s > %-3s > %s > %s\n" "den" "a2" "superliga" "relegation-round"
-${CURL} ${SW}/denmark/superliga/20162017/relegation-round/r36804/matches/ > ${DIR}/den/a2.html
+#printf " %-3s > %-3s > %s > %s\n" "den" "a1" "superliga" "championship-round"
+#${CURL} ${SW}/denmark/superliga/20172018/championship-round/r42365/matches/ > ${DIR}/den/a1.html
+
+#printf " %-3s > %-3s > %s > %s\n" "den" "a2" "superliga" "relegation-round"
+#${CURL} ${SW}/denmark/superliga/20172018/relegation-round/r42370/matches/ > ${DIR}/den/a2.html
 
 printf " %-3s > %-3s > %s > %s\n" "den" "b" "1st-division" "regular-season"
-${CURL} ${SW}/denmark/1st-division/20162017/regular-season/r36964/matches/ > ${DIR}/den/b.html
+${CURL} ${SW}/denmark/1st-division/20172018/regular-season/r42053/matches/ > ${DIR}/den/b.html
 
-printf " %-3s > %-3s > %s > %s\n" "den" "c" "2nd-division" "promotion-round"
-${CURL} ${SW}/denmark/2nd-division/20162017/promotion-round/r37612/matches/ > ${DIR}/den/c.html
+printf " %-3s > %-3s > %s > %s\n" "den" "c1" "2nd-division" "group-1"
+${CURL} ${SW}/denmark/2nd-division/20172018/group-1/r42729/matches/ > ${DIR}/den/c1.html
 
-printf " %-3s > %-3s > %s > %s\n" "den" "c4" "2nd-division" "relegation-round"
-${CURL} ${SW}/denmark/2nd-division/20162017/relegation-round/r37613/matches/ > ${DIR}/den/c4.html
+printf " %-3s > %-3s > %s > %s\n" "den" "c2" "2nd-division" "group-2"
+${CURL} ${SW}/denmark/2nd-division/20172018/group-2/r42730/matches/ > ${DIR}/den/c2.html
+
+printf " %-3s > %-3s > %s > %s\n" "den" "c3" "2nd-division" "group-3"
+${CURL} ${SW}/denmark/2nd-division/20172018/group-3/r42731/matches/ > ${DIR}/den/c3.html
+
+#printf " %-3s > %-3s > %s > %s\n" "den" "c" "2nd-division" "promotion-round"
+#${CURL} ${SW}/denmark/2nd-division/20172018/promotion-round/r42732/matches/ > ${DIR}/den/c.html
+
+#printf " %-3s > %-3s > %s > %s\n" "den" "c4" "2nd-division" "relegation-round"
+#${CURL} ${SW}/denmark/2nd-division/20172018/relegation-round/r42733/matches/ > ${DIR}/den/c4.html
 

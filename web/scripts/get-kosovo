@@ -5,5 +5,8 @@ SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "kos" "a" "superliga" "regular-season"
-${CURL} ${SW}/kosovo/superliga/20162017/regular-season/r36540/matches/ > ${DIR}/kos/a.html
+${CURL} ${SW}/kosovo/superliga/20172018/regular-season/r42022/matches/ > ${DIR}/kos/a.html
+
+printf " %-3s > %-3s > %s > %s\n" "kos" "b" "league-1" "regular-season"
+${CURL} ${SW}matches/ > ${DIR}/kos/b.html
 

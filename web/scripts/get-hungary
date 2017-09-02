@@ -5,17 +5,17 @@ SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "hun" "a" "nb-i" "regular-season"
-${CURL} ${SW}/hungary/nb-i/20162017/regular-season/r35466/matches/ > ${DIR}/hun/a.html
+${CURL} ${SW}/hungary/nb-i/20172018/regular-season/r42012/matches/ > ${DIR}/hun/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "hun" "b" "nb-ii" "regular-season"
-${CURL} ${SW}/hungary/nb-ii/20162017/regular-season/r37061/matches/ > ${DIR}/hun/b.html
+${CURL} ${SW}/hungary/nb-ii/20172018/regular-season/r42493/matches/ > ${DIR}/hun/b.html
 
 printf " %-3s > %-3s > %s > %s\n" "hun" "c1" "nb-iii" "nyugati"
-${CURL} ${SW}/hungary/nb-iii/20162017/nyugati/r37027/matches/ > ${DIR}/hun/c1.html
+${CURL} ${SW}/hungary/nb-iii/20172018/nyugati/r42492/matches/ > ${DIR}/hun/c1.html
 
 printf " %-3s > %-3s > %s > %s\n" "hun" "c2" "nb-iii" "kozep"
-${CURL} ${SW}/hungary/nb-iii/20162017/kozep/r37026/matches/ > ${DIR}/hun/c2.html
+${CURL} ${SW}/hungary/nb-iii/20172018/kozep/r42491/matches/ > ${DIR}/hun/c2.html
 
 printf " %-3s > %-3s > %s > %s\n" "hun" "c3" "nb-iii" "keleti"
-${CURL} ${SW}/hungary/nb-iii/20162017/keleti/r37025/matches/ > ${DIR}/hun/c3.html
+${CURL} ${SW}/hungary/nb-iii/20172018/keleti/r42490/matches/ > ${DIR}/hun/c3.html
 

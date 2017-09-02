@@ -5,20 +5,20 @@ SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "sui" "a" "super-league" "regular-season"
-${CURL} ${SW}/switzerland/super-league/20162017/regular-season/r36501/matches/ > ${DIR}/sui/a.html
+${CURL} ${SW}/switzerland/super-league/20172018/regular-season/r42346/matches/ > ${DIR}/sui/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "sui" "b" "challenge-league" "regular-season"
-${CURL} ${SW}/switzerland/challenge-league/20162017/regular-season/r36890/matches/ > ${DIR}/sui/b.html
+${CURL} ${SW}/switzerland/challenge-league/20172018/regular-season/r42656/matches/ > ${DIR}/sui/b.html
 
 printf " %-3s > %-3s > %s > %s\n" "sui" "c" "1-liga-promotion" "regular-season"
-${CURL} ${SW}/switzerland/1-liga-promotion/20162017/regular-season/r36889/matches/ > ${DIR}/sui/c.html
+${CURL} ${SW}/switzerland/1-liga-promotion/20172018/regular-season/r41891/matches/ > ${DIR}/sui/c.html
 
 printf " %-3s > %-3s > %s > %s\n" "sui" "d1" "1-liga" "group-1"
-${CURL} ${SW}/switzerland/1-liga/20162017/group-1/r37352/matches/ > ${DIR}/sui/d1.html
+${CURL} ${SW}/switzerland/1-liga/20172018/group-1/r42648/matches/ > ${DIR}/sui/d1.html
 
 printf " %-3s > %-3s > %s > %s\n" "sui" "d2" "1-liga" "group-2"
-${CURL} ${SW}/switzerland/1-liga/20162017/group-2/r37353/matches/ > ${DIR}/sui/d2.html
+${CURL} ${SW}/switzerland/1-liga/20172018/group-2/r42649/matches/ > ${DIR}/sui/d2.html
 
 printf " %-3s > %-3s > %s > %s\n" "sui" "d3" "1-liga" "group-3"
-${CURL} ${SW}/switzerland/1-liga/20162017/group-3/r37354/matches/ > ${DIR}/sui/d3.html
+${CURL} ${SW}/switzerland/1-liga/20172018/group-3/r42650/matches/ > ${DIR}/sui/d3.html
 

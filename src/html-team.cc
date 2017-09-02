@@ -587,7 +587,7 @@ void Evol(int a) {
   fprintf(of, "<TH ALIGN=\"right\"  WIDTH=\"5%%\">J</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\"  WIDTH=\"7%%\">V</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\"  WIDTH=\"5%%\">E</TH>\n");
-  fprintf(of, "<TH ALIGN=\"right\"  WIDTH=\"5%%\">Î</TH>\n");
+  fprintf(of, "<TH ALIGN=\"right\"  WIDTH=\"5%%\">ÃŽ</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\"  WIDTH=\"7%%\">gm</TH>\n");
   fprintf(of, "<TH ALIGN=\"center\" WIDTH=\"1%%\">-</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\"  WIDTH=\"2%%\">gp</TH>\n");

@@ -4,15 +4,18 @@ CURL="curl -s --get"
 SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
-printf " %-3s > %-3s > %s > %s\n" "sco" "a" "premier-league" "2nd-phase"
-${CURL} ${SW}/scotland/premier-league/20162017/2nd-phase/r35878/matches/ > ${DIR}/sco/a.html
+printf " %-3s > %-3s > %s > %s\n" "sco" "a" "premier-league" "1st-phase"
+${CURL} ${SW}/scotland/premier-league/20172018/1st-phase/r41506/matches/ > ${DIR}/sco/a.html
+
+#printf " %-3s > %-3s > %s > %s\n" "sco" "a" "premier-league" "2nd-phase"
+#${CURL} ${SW}/scotland/premier-league/20172018/2nd-phase/r41507/matches/ > ${DIR}/sco/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "sco" "b" "first-division" "regular-season"
-${CURL} ${SW}/scotland/first-division/20162017/regular-season/r35425/matches/ > ${DIR}/sco/b.html
+${CURL} ${SW}/scotland/first-division/20172018/regular-season/r40975/matches/ > ${DIR}/sco/b.html
 
 printf " %-3s > %-3s > %s > %s\n" "sco" "c" "second-division" "regular-season"
-${CURL} ${SW}/scotland/second-division/20162017/regular-season/r35426/matches/ > ${DIR}/sco/c.html
+${CURL} ${SW}/scotland/second-division/20172018/regular-season/r40976/matches/ > ${DIR}/sco/c.html
 
 printf " %-3s > %-3s > %s > %s\n" "sco" "d" "third-division" "regular-season"
-${CURL} ${SW}/scotland/third-division/20162017/regular-season/r35427/matches/ > ${DIR}/sco/d.html
+${CURL} ${SW}/scotland/third-division/20172018/regular-season/r40995/matches/ > ${DIR}/sco/d.html
 

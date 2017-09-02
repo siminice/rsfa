@@ -627,9 +627,9 @@ void websafeMnem(char *om, char *nm) {
 int NumericDOB(char *dob, int fmt) {
   char s[12];
   strcpy(s, dob);
-  char *sd = strtok(s, "/.-");
+  char *sy = strtok(s, "/.-");
   char *sm = strtok(NULL, "/.-");
-  char *sy = strtok(NULL, "/.-");
+  char *sd = strtok(NULL, "/.-");
   int xd = 0;
   if (sd!=NULL) xd = atoi(sd);
   int xm = 0;
@@ -1369,7 +1369,8 @@ void HTMLTable(int t) {
     makeHexlink(x);
     fprintf(of, "<TD align=\"left\" sorttable_customkey=\"%s,%s\"><A HREF=\"eurojucatori/%s.html\">%s</A></TD>",
         pname[x], ppren[x], hexlink, pname[x]);
-    CanonicDOB(pdob[x], DOB_DD_MM_YYYY);
+//    strcpy(sdob, pdob[x]);
+//    CanonicDOB(sdob, DOB_DD_MM_YYYY);
 //    fprintf(of, "<TD align=\"right\" sorttable_customkey=\"%d\">%s</TD>", NumericDOB(pdob[x], DOB_YYYYMMDD), pdob[x]);
     fprintf(of, "<TD align=\"center\">%s<IMG SRC=\"../../thumbs/22/3/%s.png\"></IMG></TD>", pcty[x], pcty[x]);
     fprintf(of, "<TD align=\"right\">%d</TD>", psez[x]);

@@ -1,9 +1,9 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/hun
-update a.2017 ../web/hun/a.html
-update b.2017 ../web/hun/b.html
-update c1.2017 ../web/hun/c1.html
-update c2.2017 ../web/hun/c2.html
-update c3.2017 ../web/hun/c3.html
+update a.2018 ../web/hun/a.html
+update b.2018 ../web/hun/b.html
+update c1.2018 ../web/hun/c1.html
+update c2.2018 ../web/hun/c2.html
+update c3.2018 ../web/hun/c3.html
 

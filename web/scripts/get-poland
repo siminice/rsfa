@@ -4,18 +4,18 @@ CURL="curl -s --get"
 SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
-#printf " %-3s > %-3s > %s > %s\n" "pol" "a" "ekstraklasa" "regular-season"
-#${CURL} ${SW}/poland/ekstraklasa/20162017/regular-season/r35890/matches/ > ${DIR}/pol/a.html
+printf " %-3s > %-3s > %s > %s\n" "pol" "a" "ekstraklasa" "regular-season"
+${CURL} ${SW}/poland/ekstraklasa/20172018/regular-season/r42329/matches/ > ${DIR}/pol/a.html
 
-printf " %-3s > %-3s > %s > %s\n" "pol" "a1" "ekstraklasa" "championship-round"
-${CURL} ${SW}/poland/ekstraklasa/20162017/championship-round/r35889/matches/ > ${DIR}/pol/a1.html
+#printf " %-3s > %-3s > %s > %s\n" "pol" "a1" "ekstraklasa" "championship-round"
+#${CURL} ${SW}/poland/ekstraklasa/20172018/championship-round/r42328/matches/ > ${DIR}/pol/a1.html
 
-printf " %-3s > %-3s > %s > %s\n" "pol" "a2" "ekstraklasa" "relegation-round"
-${CURL} ${SW}/poland/ekstraklasa/20162017/relegation-round/r35891/matches/ > ${DIR}/pol/a2.html
+#printf " %-3s > %-3s > %s > %s\n" "pol" "a2" "ekstraklasa" "relegation-round"
+#${CURL} ${SW}/poland/ekstraklasa/20172018/relegation-round/r42330/matches/ > ${DIR}/pol/a2.html
 
 printf " %-3s > %-3s > %s > %s\n" "pol" "b" "i-liga" "regular-season"
-${CURL} ${SW}/poland/i-liga/20162017/regular-season/r37039/matches/ > ${DIR}/pol/b.html
+${CURL} ${SW}/poland/i-liga/20172018/regular-season/r42437/matches/ > ${DIR}/pol/b.html
 
 printf " %-3s > %-3s > %s > %s\n" "pol" "c" "ii-liga" "regular-season"
-${CURL} ${SW}/poland/ii-liga/20162017/regular-season/r37008/matches/ > ${DIR}/pol/c.html
+${CURL} ${SW}/poland/ii-liga/20172018/regular-season/r42423/matches/ > ${DIR}/pol/c.html
 

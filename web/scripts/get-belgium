@@ -4,15 +4,24 @@ CURL="curl -s --get"
 SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
-printf " %-3s > %-3s > %s > %s\n" "bel" "a" "pro-league" "play-offs-i"
-${CURL} ${SW}/belgium/pro-league/20162017/play-offs-i/r36666/matches/ > ${DIR}/bel/a.html
+printf " %-3s > %-3s > %s > %s\n" "bel" "a1" "pro-league" "regular-season"
+${CURL} ${SW}/belgium/pro-league/20172018/regular-season/r41608/matches/ > ${DIR}/bel/a.html
 
-printf " %-3s > %-3s > %s > %s\n" "bel" "a2" "uefa-europa-league-play-offs" "group-stage"
-${CURL} ${SW}/belgium/uefa-europa-league-play-offs/20162017/group-stage/r37681/matches/ > ${DIR}/bel/a2.html
+#printf " %-3s > %-3s > %s > %s\n" "bel" "a" "pro-league" "play-offs-i"
+#${CURL} ${SW}/belgium/pro-league/20172018/play-offs-i/r41607/matches/ > ${DIR}/bel/a.html
 
-printf " %-3s > %-3s > %s > %s\n" "bel" "b2" "second-division" "relegation-round"
-${CURL} ${SW}/belgium/second-division/20162017/relegation-round/r37469/matches/ > ${DIR}/bel/b2.html
+#printf " %-3s > %-3s > %s > %s\n" "bel" "a2" "uefa-europa-league-play-offs" "group-stage"
+#${CURL} ${SW}/belgium/uefa-europa-league-play-offs/20172018/group-stage/r42433/matches/ > ${DIR}/bel/a2.html
+
+printf " %-3s > %-3s > %s > %s\n" "bel" "b" "second-division" "opening"
+${CURL} ${SW}/belgium/second-division/20172018/opening/r40899/matches/ > ${DIR}/bel/b.html
+
+#printf " %-3s > %-3s > %s > %s\n" "bel" "b" "second-division" "closing"
+#${CURL} ${SW}/belgium/second-division/20172018/closing/r40898/matches/ > ${DIR}/bel/b.html
+
+#printf " %-3s > %-3s > %s > %s\n" "bel" "b2" "second-division" "relegation-round"
+#${CURL} ${SW}/belgium/second-division/20172018/relegation-round/r40901/matches/ > ${DIR}/bel/b2.html
 
 printf " %-3s > %-3s > %s > %s\n" "bel" "c" "amateur-third-division" "regular-season"
-${CURL} ${SW}/belgium/amateur-third-division/20162017/regular-season/r37630/matches/ > ${DIR}/bel/c.html
+${CURL} ${SW}/belgium/amateur-third-division/20172018/regular-season/r42735/matches/ > ${DIR}/bel/c.html
 

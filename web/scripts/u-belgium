@@ -2,10 +2,10 @@
 
 cd /home/radu/rsssf/sat/bel
 
-#update a1.2017 ../web/bel/a.html
-update a.2017 ../web/bel/a.html
-update a2.2017 ../web/bel/a2.html -g 2
+update a.2018 ../web/bel/a.html
+#update a.2018 ../web/bel/a.html
+#update a2.2018 ../web/bel/a2.html -g 2
 
-update b.2017 ../web/bel/b2.html
-update c.2017 ../web/bel/c.html
+update b.2018 ../web/bel/b.html
+update c.2018 ../web/bel/c.html
 

@@ -4,6 +4,9 @@ CURL="curl -s --get"
 SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
-printf " %-3s > %-3s > %s > %s\n" "mex" "a" "primera-division" "clausura"
-${CURL} ${SW}/mexico/primera-division/20162017/clausura/r36867/matches/ > ${DIR}/mex/a.html
+printf " %-3s > %-3s > %s > %s\n" "mex" "a" "primera-division" "apertura"
+${CURL} ${SW}/mexico/primera-division/20172018/apertura/r42173/matches/ > ${DIR}/mex/a.html
+
+#printf " %-3s > %-3s > %s > %s\n" "mex" "a" "primera-division" "clausura"
+#${CURL} ${SW}/mexico/primera-division/20172018/clausura/r42177/matches/ > ${DIR}/mex/a.html
 

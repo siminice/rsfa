@@ -1,7 +1,6 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/mex
-update a.2017 ../web/mex/a.html
-#apertura a.2017 -
-clausura a.2017 -
+update a.2018 ../web/mex/a.html
+#clausura a.2017 -
 

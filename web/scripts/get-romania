@@ -4,12 +4,15 @@ CURL="curl -s --get"
 SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
-printf " %-3s > %-3s > %s > %s\n" "rom" "a1" "liga-i" "championship-round"
-${CURL} ${SW}/romania/liga-i/20162017/championship-round/r36872/matches/ > ${DIR}/rom/a1.html
+printf " %-3s > %-3s > %s > %s\n" "rom" "a" "liga-i" "regular-season"
+${CURL} ${SW}/romania/liga-i/20172018/regular-season/r42473/matches/ > ${DIR}/rom/a.html
 
-printf " %-3s > %-3s > %s > %s\n" "rom" "a2" "liga-i" "relegation-round"
-${CURL} ${SW}/romania/liga-i/20162017/relegation-round/r36874/matches/ > ${DIR}/rom/a2.html
+#printf " %-3s > %-3s > %s > %s\n" "rom" "a1" "liga-i" "championship-round"
+#${CURL} ${SW}/romania/liga-i/20172018/championship-round/r42472/matches/ > ${DIR}/rom/a1.html
 
-printf " %-3s > %-3s > %s > %s\n" "rom" "b" "liga-ii" "serie-1"
-${CURL} ${SW}/romania/liga-ii/20162017/serie-1/r37373/matches/ > ${DIR}/rom/b.html
+#printf " %-3s > %-3s > %s > %s\n" "rom" "a2" "liga-i" "relegation-round"
+#${CURL} ${SW}/romania/liga-i/20172018/relegation-round/r42474/matches/ > ${DIR}/rom/a2.html
+
+printf " %-3s > %-3s > %s > %s\n" "rom" "b" "liga-ii" "regular-season"
+${CURL} ${SW}/romania/liga-ii/20172018/regular-season/r42430/matches/ > ${DIR}/rom/b.html
 

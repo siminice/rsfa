@@ -5,22 +5,23 @@ SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "eng" "a" "premier-league" "regular-season"
-${CURL} ${SW}/england/premier-league/20162017/regular-season/r35992/matches/ > ${DIR}/eng/a.html
+${CURL} ${SW}/england/premier-league/20172018/regular-season/r41547/matches/ > ${DIR}/eng/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "eng" "b" "championship" "regular-season"
-${CURL} ${SW}/england/championship/20162017/regular-season/r36638/matches/ > ${DIR}/eng/b.html
+${CURL} ${SW}/england/championship/20172018/regular-season/r42070/matches/ > ${DIR}/eng/b.html
 
 printf " %-3s > %-3s > %s > %s\n" "eng" "c" "league-one" "regular-season"
-${CURL} ${SW}/england/league-one/20162017/regular-season/r36641/matches/ > ${DIR}/eng/c.html
+${CURL} ${SW}/england/league-one/20172018/regular-season/r41820/matches/ > ${DIR}/eng/c.html
 
 printf " %-3s > %-3s > %s > %s\n" "eng" "d" "league-two" "regular-season"
-${CURL} ${SW}/england/league-two/20162017/regular-season/r36644/matches/ > ${DIR}/eng/d.html
+${CURL} ${SW}/england/league-two/20172018/regular-season/r42073/matches/ > ${DIR}/eng/d.html
 
 printf " %-3s > %-3s > %s > %s\n" "eng" "e" "conference-national" "regular-season"
-${CURL} ${SW}/england/conference-national/20162017/regular-season/r35949/matches/ > ${DIR}/eng/e.html
+${CURL} ${SW}/england/conference-national/20172018/regular-season/r41651/matches/ > ${DIR}/eng/e.html
 
 printf " %-3s > %-3s > %s > %s\n" "eng" "f1" "conference-n--s" "north"
-${CURL} ${SW}/england/conference-n--s/20162017/north/r36273/matches/ > ${DIR}/eng/f1.html
+${CURL} ${SW}/england/conference-n--s/20172018/north/r41337/matches/ > ${DIR}/eng/f1.html
 
 printf " %-3s > %-3s > %s > %s\n" "eng" "f2" "conference-n--s" "south"
-${CURL} ${SW}/england/conference-n--s/20162017/south/r36276/matches/ > ${DIR}/eng/f2.html
+${CURL} ${SW}/england/conference-n--s/20172018/south/r41340/matches/ > ${DIR}/eng/f2.html
+

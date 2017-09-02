@@ -1,10 +1,10 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/sco
-update a.2017 ../web/sco/a.html
-#update a1.2017 ../web/sco/a1.html
-#update a2.2017 ../web/sco/a2.html
-update b.2017 ../web/sco/b.html
-update c.2017 ../web/sco/c.html
-update d.2017 ../web/sco/d.html
+update a.2018 ../web/sco/a.html
+#update a1.2018 ../web/sco/a1.html
+#update a2.2018 ../web/sco/a2.html
+update b.2018 ../web/sco/b.html
+update c.2018 ../web/sco/c.html
+update d.2018 ../web/sco/d.html
 

@@ -4,12 +4,12 @@ CURL="curl -s --get"
 SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
-printf " %-3s > %-3s > %s > %s\n" "and" "a1" "1a-divisio" "championship-round"
-${CURL} ${SW}/andorra/1a-divisio/20162017/championship-round/r35605/matches/ > ${DIR}/and/a1.html
+printf " %-3s > %-3s > %s > %s\n" "and" "a" "1a-divisio" "regular-season"
+${CURL} ${SW}/andorra/1a-divisio/20172018/regular-season/r41458/matches/ > ${DIR}/and/a.html
 
-printf " %-3s > %-3s > %s > %s\n" "and" "a2" "1a-divisio" "relegation-round"
-${CURL} ${SW}/andorra/1a-divisio/20162017/relegation-round/r35607/matches/ > ${DIR}/and/a2.html
+#printf " %-3s > %-3s > %s > %s\n" "and" "a1" "1a-divisio" "championship-round"
+#${CURL} ${SW}/andorra/1a-divisio/20172018/championship-round/r41457/matches/ > ${DIR}/and/a1.html
 
-printf " %-3s > %-3s > %s > %s\n" "and" "b" "2a-divisio" "regular-season"
-${CURL} ${SW}/andorra/2a-divisio/20162017/regular-season/r38307/matches/ > ${DIR}/and/b.html
+#printf " %-3s > %-3s > %s > %s\n" "and" "a2" "1a-divisio" "relegation-round"
+#${CURL} ${SW}/andorra/1a-divisio/20172018/relegation-round/r41459/matches/ > ${DIR}/and/a2.html
 

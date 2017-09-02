@@ -5,14 +5,14 @@ SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "lux" "a" "national-division" "regular-season"
-${CURL} ${SW}/luxembourg-division/20162017/regular-season/r36387/matches/ > ${DIR}/lux/a.html
+${CURL} ${SW}/luxembourg-division/20172018/regular-season/r41575/matches/ > ${DIR}/lux/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "lux" "b" "promotion-dhonneur" "regular-season"
-${CURL} ${SW}/luxembourg/promotion-dhonneur/20162017/regular-season/r36334/matches/ > ${DIR}/lux/b.html
+${CURL} ${SW}/luxembourg/promotion-dhonneur/20172018/regular-season/r41574/matches/ > ${DIR}/lux/b.html
 
 printf " %-3s > %-3s > %s > %s\n" "lux" "c1" "1-division" "serie-1"
-${CURL} ${SW}/luxembourg/1-division/20162017/serie-1/r36143/matches/ > ${DIR}/lux/c1.html
+${CURL} ${SW}/luxembourg/1-division/20172018/serie-1/r41548/matches/ > ${DIR}/lux/c1.html
 
 printf " %-3s > %-3s > %s > %s\n" "lux" "c2" "1-division" "serie-2"
-${CURL} ${SW}/luxembourg/1-division/20162017/serie-2/r36144/matches/ > ${DIR}/lux/c2.html
+${CURL} ${SW}/luxembourg/1-division/20172018/serie-2/r41549/matches/ > ${DIR}/lux/c2.html
 

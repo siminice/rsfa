@@ -1,9 +1,11 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/bos
-update a.2017 ../web/bos/a1.html
-update a.2017 ../web/bos/a2.html
-update b1.2017 ../web/bos/b1-1.html
-update b1.2017 ../web/bos/b1-2.html
-update b2.2017 ../web/bos/b2.html
+update a.2018 ../web/bos/a.html
+#update a.2018 ../web/bos/a1.html
+#update a.2018 ../web/bos/a2.html
+update b1.2018 ../web/bos/b1.html
+#update b1.2018 ../web/bos/b1-1.html
+#update b1.2018 ../web/bos/b1-2.html
+update b2.2018 ../web/bos/b2.html
 

@@ -2,5 +2,7 @@
 
 cd /home/radu/rsssf/sat/ven
 update a2.2017 ../web/ven/a.html
-update b.2017 ../web/ven/b.html
+update b1.2017 ../web/ven/b1.html -g 3
+update b1.2017 ../web/ven/b2.html -g 3
+update b1.2017 ../web/ven/b3.html -g 3
 

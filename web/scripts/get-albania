@@ -4,17 +4,21 @@ CURL="curl -s --get"
 SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
-echo " alb > a  > super-league > regular-season"
-${CURL} ${SW}/albania/super-league/20172017/regular-season/r37049/matches/ > ${DIR}/alb/a.html
+printf " %-3s > %-3s > %s > %s\n" "alb" "a" "super-league" "regular-season"
+${CURL} ${SW}/albania/super-league/20172018/regular-season/r42054/matches/ > ${DIR}/alb/a.html
 
-echo " alb > b1 > league-1 > promotion-round"
-${CURL} ${SW}/albania/league-1/20162017/promotion-round/r38903/matches/ > ${DIR}/alb/b1.html
+printf " %-3s > %-3s > %s > %s\n" "alb" "b" "league-1" "regular-season"
+${CURL} ${SW}/albania/league-1/20172018/regular-season/r42046/matches/ > ${DIR}/alb/b.html
 
-echo " alb > b2 > league-1 > relegation-round"
-${CURL} ${SW}/albania/league-1/20162017/relegation-round/r38904/matches/ > ${DIR}/alb/b2.html
+printf " %-3s > %-3s > %s > %s\n" "alb" "b1" "league-1" "promotion-round"
+${CURL} ${SW}/albania/league-1/20172018/promotion-round/r42045/matches/ > ${DIR}/alb/b1.html
 
-echo " alb > c1 > kategoria-e-dyte > group-a"
-${CURL} ${SW}/albania/kategoria-e-dyte/20162017/group-a/r36819/matches/ > ${DIR}/alb/c1.html
+printf " %-3s > %-3s > %s > %s\n" "alb" "b2" "league-1" "relegation-round"
+${CURL} ${SW}/albania/league-1/20172018/relegation-round/r42047/matches/ > ${DIR}/alb/b2.html
 
-echo " alb > c2 > kategoria-e-dyte > group-b"
-${CURL} ${SW}/albania/kategoria-e-dyte/20162017/group-b/r36820/matches/ > ${DIR}/alb/c2.html
+printf " %-3s > %-3s > %s > %s\n" "alb" "c1" "kategoria-e-dyte" "group-a"
+${CURL} ${SW}/albania/kategoria-e-dyte/20172018/group-a/r41889/matches/ > ${DIR}/alb/c1.html
+
+printf " %-3s > %-3s > %s > %s\n" "alb" "c2" "kategoria-e-dyte" "group-b"
+${CURL} ${SW}/albania/kategoria-e-dyte/20172018/group-b/r41890/matches/ > ${DIR}/alb/c2.html
+

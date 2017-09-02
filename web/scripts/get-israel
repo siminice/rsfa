@@ -4,15 +4,21 @@ CURL="curl -s --get"
 SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
-printf " %-3s > %-3s > %s > %s\n" "isr" "a1" "ligat-haal" "championship-round"
-${CURL} ${SW}/israel/ligat-haal/20162017/championship-round/r36478/matches/ > ${DIR}/isr/a1.html
+printf " %-3s > %-3s > %s > %s\n" "isr" "a" "ligat-haal" "regular-season"
+${CURL} ${SW}/israel/ligat-haal/20172018/regular-season/r41565/matches/ > ${DIR}/isr/a.html
 
-printf " %-3s > %-3s > %s > %s\n" "isr" "a2" "ligat-haal" "relegation-round"
-${CURL} ${SW}/israel/ligat-haal/20162017/relegation-round/r36480/matches/ > ${DIR}/isr/a2.html
+#printf " %-3s > %-3s > %s > %s\n" "isr" "a1" "ligat-haal" "championship-round"
+#${CURL} ${SW}/israel/ligat-haal/20172018/championship-round/r41564/matches/ > ${DIR}/isr/a1.html
 
-printf " %-3s > %-3s > %s > %s\n" "isr" "b1" "liga-leumit" "promotion-round"
-${CURL} ${SW}/israel/liga-leumit/20162017/promotion-round/r36340/matches/ > ${DIR}/isr/b1.html
+#printf " %-3s > %-3s > %s > %s\n" "isr" "a2" "ligat-haal" "relegation-round"
+#${CURL} ${SW}/israel/ligat-haal/20172018/relegation-round/r41566/matches/ > ${DIR}/isr/a2.html
 
-printf " %-3s > %-3s > %s > %s\n" "isr" "b2" "liga-leumit" "relegation-round"
-${CURL} ${SW}/israel/liga-leumit/20162017/relegation-round/r36342/matches/ > ${DIR}/isr/b2.html
+printf " %-3s > %-3s > %s > %s\n" "isr" "b" "liga-leumit" "regular-season"
+${CURL} ${SW}/israel/liga-leumit/20172018/regular-season/r41562/matches/ > ${DIR}/isr/b.html
+
+#printf " %-3s > %-3s > %s > %s\n" "isr" "b1" "liga-leumit" "promotion-round"
+#${CURL} ${SW}/israel/liga-leumit/20172018/promotion-round/r41561/matches/ > ${DIR}/isr/b1.html
+
+#printf " %-3s > %-3s > %s > %s\n" "isr" "b2" "liga-leumit" "relegation-round"
+#${CURL} ${SW}/israel/liga-leumit/20172018/relegation-round/r41563/matches/ > ${DIR}/isr/b2.html
 

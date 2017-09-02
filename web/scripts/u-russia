@@ -1,11 +1,11 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/rus
-update a.2017 ../web/rus/a.html
-update b.2017 ../web/rus/b.html
-update c1.2017 ../web/rus/c1.html
-update c2.2017 ../web/rus/c2.html
-update c3.2017 ../web/rus/c3.html
-update c4.2017 ../web/rus/c4.html
-update c5.2017 ../web/rus/c5.html
+update a.2018 ../web/rus/a.html
+update b.2018 ../web/rus/b.html
+update c1.2018 ../web/rus/c1.html
+update c2.2018 ../web/rus/c2.html
+update c3.2018 ../web/rus/c3.html
+update c4.2018 ../web/rus/c4.html
+update c5.2018 ../web/rus/c5.html
 

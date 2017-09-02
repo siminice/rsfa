@@ -1,10 +1,10 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/slo
-update a.2017 ../web/slo/a.html
-update b.2017 ../web/slo/b.html
-update c1.2017 ../web/slo/c1.html
-update c2.2017 ../web/slo/c2.html
-update c3.2017 ../web/slo/c3.html
-update c4.2017 ../web/slo/c4.html
+update a.2018 ../web/slo/a.html
+update b.2018 ../web/slo/b.html
+update c1.2018 ../web/slo/c1.html
+update c2.2018 ../web/slo/c2.html
+update c3.2018 ../web/slo/c3.html
+update c4.2018 ../web/slo/c4.html
 

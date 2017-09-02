@@ -4,24 +4,27 @@ CURL="curl -s --get"
 SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
-printf " %-3s > %-3s > %s > %s\n" "yug" "a1" "super-liga" "championship-round"
-${CURL} ${SW}/serbia/super-liga/20162017/championship-round/r36654/matches/ > ${DIR}/yug/a1.html
+printf " %-3s > %-3s > %s > %s\n" "yug" "a" "super-liga" "regular-season"
+${CURL} ${SW}/serbia/super-liga/20172018/regular-season/r41605/matches/ > ${DIR}/yug/a.html
 
-printf " %-3s > %-3s > %s > %s\n" "yug" "a2" "super-liga" "relegation-round"
-${CURL} ${SW}/serbia/super-liga/20162017/relegation-round/r36656/matches/ > ${DIR}/yug/a2.html
+#printf " %-3s > %-3s > %s > %s\n" "yug" "a1" "super-liga" "championship-round"
+#${CURL} ${SW}/serbia/super-liga/20172018/championship-round/r41604/matches/ > ${DIR}/yug/a1.html
+
+#printf " %-3s > %-3s > %s > %s\n" "yug" "a2" "super-liga" "relegation-round"
+#${CURL} ${SW}/serbia/super-liga/20172018/relegation-round/r41606/matches/ > ${DIR}/yug/a2.html
 
 printf " %-3s > %-3s > %s > %s\n" "yug" "b" "prva-liga" "regular-season"
-${CURL} ${SW}/serbia/prva-liga/20162017/regular-season/r36830/matches/ > ${DIR}/yug/b.html
+${CURL} ${SW}/serbia/prva-liga/20172018/regular-season/r42023/matches/ > ${DIR}/yug/b.html
 
 printf " %-3s > %-3s > %s > %s\n" "yug" "c1" "srpska-liga" "belgrade"
-${CURL} ${SW}/serbia/srpska-liga/20162017/belgrade/r37976/matches/ > ${DIR}/yug/c1.html
+${CURL} ${SW}/serbia/srpska-liga/20172018/belgrade/r42844/matches/ > ${DIR}/yug/c1.html
 
 printf " %-3s > %-3s > %s > %s\n" "yug" "c2" "srpska-liga" "vojvodina"
-${CURL} ${SW}/serbia/srpska-liga/20162017/vojvodina/r37978/matches/ > ${DIR}/yug/c2.html
+${CURL} ${SW}/serbia/srpska-liga/20172018/vojvodina/r42846/matches/ > ${DIR}/yug/c2.html
 
 printf " %-3s > %-3s > %s > %s\n" "yug" "c3" "srpska-liga" "west"
-${CURL} ${SW}/serbia/srpska-liga/20162017/west/r37979/matches/ > ${DIR}/yug/c3.html
+${CURL} ${SW}/serbia/srpska-liga/20172018/west/r42847/matches/ > ${DIR}/yug/c3.html
 
 printf " %-3s > %-3s > %s > %s\n" "yug" "c4" "srpska-liga" "east"
-${CURL} ${SW}/serbia/srpska-liga/20162017/east/r37977/matches/ > ${DIR}/yug/c4.html
+${CURL} ${SW}/serbia/srpska-liga/20172018/east/r42845/matches/ > ${DIR}/yug/c4.html
 

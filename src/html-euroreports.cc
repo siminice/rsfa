@@ -1662,9 +1662,9 @@ void PlayerRanking(int cr) {
 int NumericDOB(char *dob, int fmt) {
   char s[12];
   strcpy(s, dob);
-  char *sd = strtok(s, "/.-");
+  char *sy = strtok(s, "/.-");
   char *sm = strtok(NULL, "/.-");
-  char *sy = strtok(NULL, "/.-");
+  char *sd = strtok(NULL, "/.-");
   int xd = 0;
   if (sd!=NULL) xd = atoi(sd);
   int xm = 0;
@@ -1684,9 +1684,9 @@ int NumericDOB(char *dob, int fmt) {
 void CanonicDOB(char *dob, int fmt) {
   char s[12];
   strcpy(s, dob);
-  char *sd = strtok(s, "/.-");
+  char *sy = strtok(s, "/.-");
   char *sm = strtok(NULL, "/.-");
-  char *sy = strtok(NULL, "/.-");
+  char *sd = strtok(NULL, "/.-");
   int xd = 0;
   if (sd!=NULL) xd = atoi(sd);
   int xm = 0;
@@ -1844,7 +1844,7 @@ void SynopticTable() {
 int main(int argc, char* argv[]) {
   char filename[256];
 	ECFY = 1957;
-	ECLY = 2017;
+	ECLY = 2018;
 
   if (!Load()) {
     printf("ERROR: called from invalid drectory.\n");

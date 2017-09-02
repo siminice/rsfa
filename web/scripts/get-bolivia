@@ -5,8 +5,8 @@ SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "bol" "a" "lfpb" "clausura"
-${CURL} ${SW}/bolivia/lfpb/20162017/clausura/r36647/matches/ > ${DIR}/bol/a.html
+${CURL} ${SW}/bolivia/lfpb/20162017/clausura/r40150/matches/ > ${DIR}/bol/a.html
 
-printf " %-3s > %-3s > %s > %s\n" "bol" "b" "nacional-b" "promotion-round"
-${CURL} ${SW}/bolivia/nacional-b/20162017/promotion-round/r35742/matches/ > ${DIR}/bol/b.html
+printf " %-3s > %-3s > %s > %s\n" "bol" "b" "nacional-b" "regular-season"
+${CURL} ${SW}/bolivia/nacional-b/20172018/regular-season/r42451/matches/ > ${DIR}/bol/b.html
 

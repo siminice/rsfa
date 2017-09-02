@@ -4,11 +4,12 @@ CURL="curl -s --get"
 SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
-printf " %-3s > %-3s > %s > %s\n" "chi" "a" "primera-division" "clausura"
-${CURL} ${SW}/chile/primera-division/20162017/clausura/r35980/matches/ > ${DIR}/chi/a.html
+printf " %-3s > %-3s > %s > %s\n" "chi" "a" "primera-division" "apertura"
+${CURL} ${SW}/chile/primera-division/20172018/apertura/r41670/matches/ > ${DIR}/chi/a.html
 
-printf " %-3s > %-3s > %s > %s\n" "chi" "b" "primera-b" "2nd-phase"
-${CURL} ${SW}/chile/primera-b/20162017/2nd-phase/r36290/matches/ > ${DIR}/chi/b.html
+printf " %-3s > %-3s > %s > %s\n" "chi" "b" "primera-b" "1st-phase"
+${CURL} ${SW}/chile/primera-b/20172018/1st-phase/r41709/matches/ > ${DIR}/chi/b.html
 
-printf " %-3s > %-3s > %s > %s\n" "chi" "c" "segunda-division" "promotion-round"
-${CURL} ${SW}/chile/segunda-division/20162017/promotion-round/r37943/matches/ > ${DIR}/chi/c.html
+printf " %-3s > %-3s > %s > %s\n" "chi" "c" "segunda-division" "1st-phase"
+${CURL} ${SW}/chile/segunda-division/20172018/1st-phase/r42113/matches/ > ${DIR}/chi/c.html
+

@@ -743,12 +743,12 @@ void CanonicDOB(char *dob, int fmt) {
   char *sy = strtok(s, "/.-");
   char *sm = strtok(NULL, "/.-");
   char *sd = strtok(NULL, "/.-");
-  int xd = 0;
-  if (sd!=NULL) xd = atoi(sd);
-  int xm = 0;
-  if (sm!=NULL) xm = atoi(sm);
   int xy = 0;
   if (sy!=NULL) xy = atoi(sy);
+  int xm = 0;
+  if (sm!=NULL) xm = atoi(sm);
+  int xd = 0;
+  if (sd!=NULL) xd = atoi(sd);
   if (xm>12 && xd<13) {
     int x = xm; xm = xd; xd = x;
   }
@@ -2210,7 +2210,7 @@ void PlayerStats(int pl) {
 			}
 			else {
 	      fprintf(of, "<TD BGCOLOR=\"%s\" ALIGN=\"center\"><A HREF=\"../reports/%d/n%d-%d-%d.html\">%d-%d</A></TD>", 
-					fxcol[wxl], ny, hid, aid, zi, shx, sgx);
+					fxcol[wxl], year, hid, aid, zi, shx, sgx);
 			}
 
 			if (k<ngm[y][COMP_LIGA]+ngm[y][COMP_CUPA]+ngm[y][COMP_EURO])
@@ -2391,11 +2391,11 @@ void HTMLAlltimeTeamStats(int t, int pl) {
 int main(int argc, char **argv) {
   current = 0;
   verbosity = 2;
-  CFY  = 1933; CLY = 2017;
-  KFY  = 1934; KLY = 2017;
-  EFY  = 1957; ELY = 2017;
-  NFY  = 1922; NLY = 2017;
-  FY   = 1922; LY  = 2017;
+  CFY  = 1933; CLY = 2018;
+  KFY  = 1934; KLY = 2018;
+  EFY  = 1957; ELY = 2018;
+  NFY  = 1922; NLY = 2018;
+  FY   = 1922; LY  = 2018;
   tm = -1;
   pl = -1;
   cr = CR_M;

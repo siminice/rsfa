@@ -5,10 +5,10 @@
 char **club;
 char **mnem;
 int  NC;
-int  id[30], win[30], drw[30], los[30], gsc[30], gre[30], pts[30], pen[30], pdt[30];
-int  lid[30], lwin[30], ldrw[30], llos[30], lgsc[30], lgre[30], lpts[30], lpen[30], lpdt[30];
-int  round[30][30], res[30][30], lround[30][30], lres[30][30];
-int  n, r, tbr, pr1, pr2, rel1, rel2, ppv;
+int  id[32], win[32], drw[32], los[32], gsc[32], gre[32], pts[32], pen[32], pdt[32];
+int  lid[32], lwin[32], ldrw[32], llos[32], lgsc[32], lgre[32], lpts[32], lpen[32], lpdt[32];
+int  round[3][32][32], res[3][32][32], lround[3][32][32], lres[3][32][32];
+int  n, r, ltbr, tbr, pr1, pr2, rel1, rel2, ppv, maxr1;
 
 //--------------------------------------
 
@@ -33,8 +33,9 @@ void Load() {
 
 int PreloadFile(char *filename) {
   FILE *f;
-  int i, j, x, y, r, z;
-  int ln, lppv, ltbr, lpr1, lpr2, lrel1, lrel2;
+  int h, i, j, x, y, r, z;
+  int ln, lppv, lpr1, lpr2, lrel1, lrel2;
+  maxr1 = 0;
   f = fopen(filename, "rt");
   if (NULL == f) { printf("File %s not found for preloading.\n", filename); return 0; }
   // Loading file
@@ -54,20 +55,24 @@ int PreloadFile(char *filename) {
     if (tok[8]) lpen[i] = atoi(tok[8]); else lpen[i] = 0;
     if (tok[9]) lpdt[i] = atoi(tok[9]); else lpdt[i] = 0;
   }
-  for (i=0; i<ln; i++) {
+  int numr1 = 1 + ltbr/10;
+  for (h=0; h<numr1; h++) {
+   for (i=0; i<ln; i++) {
     for (j=0; j<ln; j++) {
       fscanf(f, "%d %d", &r, &z);
-      lround[i][j] = r;
-      lres[i][j] = z;
+      lround[h][i][j] = r;
+      if (r/1000 > maxr1) maxr1 = r/1000;
+      lres[h][i][j] = z;
     }
     fscanf(f, "\n");
+   }
   }
   fclose(f);
 }
 
 int LoadFile(char *filename) {
   FILE *f;
-  int i, j, x, y, r, z;
+  int h, i, j, x, y, r, z;
   f = fopen(filename, "rt");
   if (NULL == f) { printf("File %s not found.\n", filename); return 0; }
   // Loading file
@@ -89,21 +94,25 @@ int LoadFile(char *filename) {
     if (tok[8]) pen[per[i]] = atoi(tok[8]); else pen[per[i]] = 0;
     if (tok[9]) pdt[per[i]] = atoi(tok[9]); else pdt[per[i]] = 0;
   }
-  for (i=0; i<n; i++) {
+  int numr2 = 1 + tbr/10;
+  for (h=0; h<numr2; h++) {
+   for (i=0; i<n; i++) {
     for (j=0; j<n; j++) {
       fscanf(f, "%d %d", &r, &z);
-      round[per[i]][per[j]] = r;
-      res[per[i]][per[j]] = z;
+      round[h][per[i]][per[j]] = r;
+      if (r>=0 && r/1000 <= maxr1) round[h][per[i]][per[j]] += maxr1*1000;
+      res[h][per[i]][per[j]] = z;
     }
     fscanf(f, "\n");
+   }
   }
   fclose(f);
   delete[] per;
 }
 
 void Dump() {
-  int i, j;
-  printf("%d %d %d %d %d %d %d\n", n, ppv, tbr+10, pr1, pr2, rel1, rel2);
+  int h, i, j;
+  printf("%d %d %d %d %d %d %d\n", n, ppv, ltbr+10*(1+tbr/10), pr1, pr2, rel1, rel2);
   for (i=0; i<n; i++) {
     printf("%4d%4d%4d%4d%4d%4d%4d%4d",
       lid[i],
@@ -117,15 +126,21 @@ void Dump() {
     if (lpen[i]!=0) printf("%4d%4d", lpen[i], lpdt[i]);
     printf("\n");
   }
-  for (i=0; i<n; i++) {
+  int numr1 = 1 + ltbr/10;
+  int numr2 = 1 + tbr/10;
+  for (h=0; h<numr1; h++) {
+   for (i=0; i<n; i++) {
     for (j=0; j<n; j++)
-      printf("%6d%5d", lround[i][j], lres[i][j]);
+      printf("%6d%5d", lround[h][i][j], lres[h][i][j]);
     printf("\n");
+   }
   }
-  for (i=0; i<n; i++) {
+  for (h=0; h<numr2; h++) {
+   for (i=0; i<n; i++) {
     for (j=0; j<n; j++)
-      printf("%6d%5d", round[i][j], res[i][j]);
+      printf("%6d%5d", round[h][i][j], res[h][i][j]);
     printf("\n");
+   }
   }
 }
 

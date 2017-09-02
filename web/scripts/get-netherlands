@@ -5,17 +5,17 @@ SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "ned" "a" "eredivisie" "regular-season"
-${CURL} ${SW}/netherlands/eredivisie/20162017/regular-season/r36385/matches/ > ${DIR}/ned/a.html
+${CURL} ${SW}/netherlands/eredivisie/20172018/regular-season/r42274/matches/ > ${DIR}/ned/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "ned" "b" "eerste-divisie" "regular-season"
-${CURL} ${SW}/netherlands/eerste-divisie/20162017/regular-season/r35439/matches/ > ${DIR}/ned/b.html
+${CURL} ${SW}/netherlands/eerste-divisie/20172018/regular-season/r41039/matches/ > ${DIR}/ned/b.html
 
 printf " %-3s > %-3s > %s > %s\n" "ned" "c" "tweede-divisie" "regular-season"
-${CURL} ${SW}/netherlands/tweede-divisie/20162017/regular-season/r37899/matches/ > ${DIR}/ned/c.html
+${CURL} ${SW}/netherlands/tweede-divisie/20172018/regular-season/r42896/matches/ > ${DIR}/ned/c.html
 
 printf " %-3s > %-3s > %s > %s\n" "ned" "d1" "topklasse" "zaterdag"
-${CURL} ${SW}/netherlands/topklasse/20162017/zaterdag/r37053/matches/ > ${DIR}/ned/d1.html
+${CURL} ${SW}/netherlands/topklasse/20172018/zaterdag/r41451/matches/ > ${DIR}/ned/d1.html
 
 printf " %-3s > %-3s > %s > %s\n" "ned" "d2" "topklasse" "zondag"
-${CURL} ${SW}/netherlands/topklasse/20162017/zondag/r37054/matches/ > ${DIR}/ned/d2.html
+${CURL} ${SW}/netherlands/topklasse/20172018/zondag/r41452/matches/ > ${DIR}/ned/d2.html
 

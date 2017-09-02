@@ -5,23 +5,23 @@ SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "fra" "a" "ligue-1" "regular-season"
-${CURL} ${SW}/france/ligue-1/20162017/regular-season/r35879/matches/ > ${DIR}/fra/a.html
+${CURL} ${SW}/france/ligue-1/20172018/regular-season/r41646/matches/ > ${DIR}/fra/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "fra" "b" "ligue-2" "regular-season"
-${CURL} ${SW}/france/ligue-2/20162017/regular-season/r35875/matches/ > ${DIR}/fra/b.html
+${CURL} ${SW}/france/ligue-2/20172018/regular-season/r41647/matches/ > ${DIR}/fra/b.html
 
 printf " %-3s > %-3s > %s > %s\n" "fra" "c" "national" "regular-season"
-${CURL} ${SW}/france/20162017/regular-season/r36821/matches/ > ${DIR}/fra/c.html
+${CURL} ${SW}/france/20172018/regular-season/r41494/matches/ > ${DIR}/fra/c.html
 
 printf " %-3s > %-3s > %s > %s\n" "fra" "d1" "cfa" "group-a"
-${CURL} ${SW}/france/cfa/20162017/group-a/r37723/matches/ > ${DIR}/fra/d1.html
+${CURL} ${SW}/france/cfa/20172018/group-a/r42736/matches/ > ${DIR}/fra/d1.html
 
 printf " %-3s > %-3s > %s > %s\n" "fra" "d2" "cfa" "group-b"
-${CURL} ${SW}/france/cfa/20162017/group-b/r37724/matches/ > ${DIR}/fra/d2.html
+${CURL} ${SW}/france/cfa/20172018/group-b/r42737/matches/ > ${DIR}/fra/d2.html
 
 printf " %-3s > %-3s > %s > %s\n" "fra" "d3" "cfa" "group-c"
-${CURL} ${SW}/france/cfa/20162017/group-c/r37725/matches/ > ${DIR}/fra/d3.html
+${CURL} ${SW}/france/cfa/20172018/group-c/r42738/matches/ > ${DIR}/fra/d3.html
 
 printf " %-3s > %-3s > %s > %s\n" "fra" "d4" "cfa" "group-d"
-${CURL} ${SW}/france/cfa/20162017/group-d/r37726/matches/ > ${DIR}/fra/d4.html
+${CURL} ${SW}/france/cfa/20172018/group-d/r42739/matches/ > ${DIR}/fra/d4.html
 

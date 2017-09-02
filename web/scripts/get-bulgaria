@@ -4,24 +4,27 @@ CURL="curl -s --get"
 SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
-printf " %-3s > %-3s > %s > %s\n" "bul" "a1" "a-pfg" "championship-round"
-${CURL} ${SW}/bulgaria/a-pfg/20162017/championship-round/r37902/matches/ > ${DIR}/bul/a1.html
+printf " %-3s > %-3s > %s > %s\n" "bul" "a" "a-pfg" "regular-season"
+${CURL} ${SW}/bulgaria/a-pfg/20172018/regular-season/r42667/matches/ > ${DIR}/bul/a.html
 
-printf " %-3s > %-3s > %s > %s\n" "bul" "a2" "a-pfg" "relegation-round"
-${CURL} ${SW}/bulgaria/a-pfg/20162017/relegation-round/r37903/matches/ > ${DIR}/bul/a2.html
+#printf " %-3s > %-3s > %s > %s\n" "bul" "a1" "a-pfg" "championship-round"
+#${CURL} ${SW}/bulgaria/a-pfg/20172018/championship-round/r42663/matches/ > ${DIR}/bul/a1.html
+
+#printf " %-3s > %-3s > %s > %s\n" "bul" "a2" "a-pfg" "relegation-round"
+#${CURL} ${SW}/bulgaria/a-pfg/20172018/relegation-round/r42668/matches/ > ${DIR}/bul/a2.html
 
 printf " %-3s > %-3s > %s > %s\n" "bul" "b" "b-pfg" "regular-season"
-${CURL} ${SW}/bulgaria/b-pfg/20162017/regular-season/r36882/matches/ > ${DIR}/bul/b.html
+${CURL} ${SW}/bulgaria/b-pfg/20172018/regular-season/r42005/matches/ > ${DIR}/bul/b.html
 
 printf " %-3s > %-3s > %s > %s\n" "bul" "c1" "v-afg" "north-east"
-${CURL} ${SW}/bulgaria/v-afg/20162017/north-east/r36883/matches/ > ${DIR}/bul/c1.html
+${CURL} ${SW}/bulgaria/v-afg/20172018/north-east/r42475/matches/ > ${DIR}/bul/c1.html
 
 printf " %-3s > %-3s > %s > %s\n" "bul" "c2" "v-afg" "north-west"
-${CURL} ${SW}/bulgaria/v-afg/20162017/north-west/r36884/matches/ > ${DIR}/bul/c2.html
+${CURL} ${SW}/bulgaria/v-afg/20172018/north-west/r42476/matches/ > ${DIR}/bul/c2.html
 
 printf " %-3s > %-3s > %s > %s\n" "bul" "c3" "v-afg" "south-west"
-${CURL} ${SW}/bulgaria/v-afg/20162017/south-west/r36886/matches/ > ${DIR}/bul/c3.html
+${CURL} ${SW}/bulgaria/v-afg/20172018/south-west/r42480/matches/ > ${DIR}/bul/c3.html
 
 printf " %-3s > %-3s > %s > %s\n" "bul" "c4" "v-afg" "south-east"
-${CURL} ${SW}/bulgaria/v-afg/20162017/south-east/r36885/matches/ > ${DIR}/bul/c4.html
+${CURL} ${SW}/bulgaria/v-afg/20172018/south-east/r42479/matches/ > ${DIR}/bul/c4.html
 

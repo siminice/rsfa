@@ -5,5 +5,5 @@ SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "aus" "a" "a-league" "regular-season"
-${CURL} ${SW}/australia/a-league/20162017/regular-season/r35455/matches/ > ${DIR}/aus/a.html
+${CURL} ${SW}/australia/a-league/20172018/regular-season/r40998/matches/ > ${DIR}/aus/a.html
 

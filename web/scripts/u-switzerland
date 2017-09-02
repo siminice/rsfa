@@ -1,10 +1,10 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/sui
-update a.2017 ../web/sui/a.html
-update b.2017 ../web/sui/b.html
-update c.2017 ../web/sui/c.html
-update d1.2017 ../web/sui/d1.html
-update d2.2017 ../web/sui/d2.html
-update d3.2017 ../web/sui/d3.html
+update a.2018 ../web/sui/a.html
+update b.2018 ../web/sui/b.html
+update c.2018 ../web/sui/c.html
+update d1.2018 ../web/sui/d1.html
+update d2.2018 ../web/sui/d2.html
+update d3.2018 ../web/sui/d3.html
 

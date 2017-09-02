@@ -7,12 +7,12 @@ DIR="/home/radu/rsssf/sat/web"
 #printf " %-3s > %-3s > %s > %s\n" "uru" "a" "primera-division" "regular-season"
 #${CURL} ${SW}/uruguay/primera-division/2017/regular-season/r39833/matches/ > ${DIR}/uru/a.html
 
-printf " %-3s > %-3s > %s > %s\n" "uru" "a" "primera-division" "regular-season"
-${CURL} ${SW}/uruguay/primera-division/2017/intermediate-round/r39834/matches/ > ${DIR}/uru/a.html
-
-#printf " %-3s > %-3s > %s > %s\n" "uru" "a" "primera-division" "clausura"
-#${CURL} ${SW}/uruguay/primera-division/2017/clausura/r39835/matches/ > ${DIR}/uru/a.html
+printf " %-3s > %-3s > %s > %s\n" "uru" "a" "primera-division" "clausura"
+${CURL} ${SW}/uruguay/primera-division/2017/clausura/r39835/matches/ > ${DIR}/uru/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "uru" "b" "segunda-division" "regular-season"
 ${CURL} ${SW}/uruguay/segunda-division/2017/regular-season/r39859/matches/ > ${DIR}/uru/b.html
+
+printf " %-3s > %-3s > %s > %s\n" "uru" "c" "segunda-amateur" "regular-season"
+${CURL} ${SW}/uruguay/segunda-amateur/2017/apertura/r38351/matches/ > ${DIR}/uru/c.html
 

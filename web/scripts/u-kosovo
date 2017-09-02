@@ -1,6 +1,6 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/kos
-update a.2017 ../web/kos/a.html
-#update b.2017 ../web/kos/b.html
+update a.2018 ../web/kos/a.html
+#update b.2018 ../web/kos/b.html
 

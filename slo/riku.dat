@@ -1,9 +1,9 @@
-130
+134
 Olimpija,SCT Olimpija Ljubljana
 Maribor,NK Maribor
 Gorica,ND Gorica
 Mura 05,Mura Murska Sobota
-Ajdovščina Škou,Primorje Ajdovscina
+Primorje,Ajdovščina Škou
 Celje,CMC Publikum Celje
 Domžale,BST Dom�ale
 Nafta,Nafta Lendava
@@ -29,7 +29,7 @@ Svoboda,Svoboda Ljubljana
 Ljubljana,�eleznicar Ljubljana
 Prevalje,Korotan Prevalje
 Tabor Sežana,Tabor Se�ana
-Feroterm Pohorje Ruse,Feroterm Pohorje Ruse
+Pohorje,Pohorje Ruse
 Kočevje,Gaj Kocevje
 Dekani,Jadran Dekani
 Slovan Mavrica,Slovan Mavrica
@@ -37,10 +37,10 @@ Krka,NK Krka Novo Mesto
 Rogaška,Steklar Rogaska Slatina
 �eleznicar Maribor,�eleznicar Maribor
 Jezero Medvode,Loka Medvode
-NK Šentjur,SD Sencur
+Šentjur,SD Sencur
 Brda Goriska Rence,Brda Goriska Rence
 GP Grosuplje,GP Grosuplje
-Jadran Sepic Kozina,Jadran Sepic Kozina
+Jadran Hrpelje-Kozina,Jadran Sepic Kozina
 Lesoplast Križevci,Krizevci
 Bakovci,Triglav Bakovci
 Brda Dobrovo,Brda Dobrovo
@@ -70,7 +70,7 @@ Malečnik,NK Malecnik
 Šmarje pri Jelšah,NK Smarjo pri Jesah
 Mons Claudius Rogatec,NK Mons Claudius Rogatec
 Dob,NK Dob
-Jesenice,NK Jesenice
+SIJ Acroni Jesenice,NK Jesenice
 Portorož Piran,Portoroz Piran
 Roma,NK Roma
 Tisina,NK Ti�ina
@@ -80,7 +80,7 @@ Zreče,NK Zrece
 Šobec Lesce,Sobec Lesce
 Ankaran Hrvatini,Mas Tech
 Grad,NK Grad
-Bistrica iz Sl&hellip;,NK Virs Bistrica
+Bistrica iz Slovenske B.,NK Virs Bistrica
 Naklo,NK Naklo
 Paloma,NK Paloma
 Menges,NK Menge�
@@ -115,7 +115,7 @@ Podvinci,NK Podvinci
 Cerknica,NK Cerknica
 Maribor II,NK Maribor II
 Radomlje II,NK Radomlje II
-Fama Vipava,NK Fama Vipava
+Vipava,NK Fama Vipava
 Brežice,NK Bre�ice 1919
 Dobrovce,NK Dobrovce
 Videm,�D Videm pri Ptuju
@@ -129,3 +129,7 @@ Hotiza,NK Hotiza
 Jevnica,NK Jevnica Kresnice
 Velesovo,NK Velesovo
 Brunšvik,NK Brun�vik
+Bohinj,NK Bohinj
+Radgona,SNK Radgona
+Slatina Radenci,NK Slatina Radenci
+Arne Tabor 69,NK Arne Tabor 69 Ljubljana

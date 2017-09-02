@@ -5,8 +5,8 @@ SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "arg" "a" "primera-division" "regular-season"
-${CURL} ${SW}/argentina/primera-division/20162017/regular-season/r36997/matches/ > ${DIR}/arg/a.html
+${CURL} ${SW}/argentina/primera-division/20172018/regular-season/r42940/matches/ > ${DIR}/arg/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "arg" "b" "prim-b-nacional" "regular-season"
-${CURL} ${SW}/argentina/prim-b-nacional/20162017/regular-season/r37629/matches/ > ${DIR}/arg/b.html
+${CURL} ${SW}/argentina/prim-b-nacional/20172018/regular-season/r43265/matches/ > ${DIR}/arg/b.html
 

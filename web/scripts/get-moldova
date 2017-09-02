@@ -5,14 +5,17 @@ SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "mol" "a" "divizia-naional" "regular-season"
-${CURL} ${SW}/moldova/divizia-naional/20162017/regular-season/r36817/matches/ > ${DIR}/mol/a.html
+${CURL} ${SW}/moldova/divizia-naional/20172018/regular-season/r42404/matches/ > ${DIR}/mol/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "mol" "b" "divizia-a" "regular-season"
-${CURL} ${SW}/moldova/divizia-a/20162017/regular-season/r36831/matches/ > ${DIR}/mol/b.html
+${CURL} ${SW}/moldova/divizia-a/20172018/regular-season/r42189/matches/ > ${DIR}/mol/b.html
 
 printf " %-3s > %-3s > %s > %s\n" "mol" "c1" "divizia-b" "north"
-${CURL} ${SW}/moldova/divizia-b/20162017/north/r36068/matches/ > ${DIR}/mol/c1.html
+${CURL} ${SW}/moldova/divizia-b/20172018/north/r42333/matches/ > ${DIR}/mol/c1.html
 
-printf " %-3s > %-3s > %s > %s\n" "mol" "c2" "divizia-b" "south"
-${CURL} ${SW}/moldova/divizia-b/20162017/south/r36069/matches/ > ${DIR}/mol/c2.html
+printf " %-3s > %-3s > %s > %s\n" "mol" "c2" "divizia-b" "central"
+${CURL} ${SW}/moldova/divizia-b/20172018/central/r43167/matches/ > ${DIR}/mol/c2.html
+
+printf " %-3s > %-3s > %s > %s\n" "mol" "c3" "divizia-b" "south"
+${CURL} ${SW}/moldova/divizia-b/20172018/south/r42334/matches/ > ${DIR}/mol/c3.html
 

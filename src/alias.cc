@@ -52,11 +52,11 @@ void Aliases::Append(alias *a) {
 };
 
 char* Aliases::GetName(int y) {
-  if (!list) return NULL;
+  if (!list) return "";
   node *n = list;
   char *s = n->data->name;
   int x = n->data->year;
-  while (x < y && n->next != NULL) {
+  while (x < y && n->next != NULL && y >= n->next->data->year) {
     n = n->next;
     s = n->data->name;
     x = n->data->year;
@@ -69,7 +69,7 @@ char* Aliases::GetNick(int y) {
   node *n = list;
   char *s = n->data->nick;
   int x = n->data->year;
-  while (x < y && n->next != NULL) {
+  while (x < y && n->next != NULL && y >= n->next->data->year) {
     n = n->next;
     s = n->data->nick;
     x = n->data->year;

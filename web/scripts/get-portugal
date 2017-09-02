@@ -5,38 +5,22 @@ SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "por" "a" "portuguese-liga-" "regular-season"
-${CURL} ${SW}/portugal/portuguese-liga-/20162017/regular-season/r35881/matches/ > ${DIR}/por/a.html
+${CURL} ${SW}/portugal/portuguese-liga-/20172018/regular-season/r41648/matches/ > ${DIR}/por/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "por" "b" "liga-de-honra" "regular-season"
-${CURL} ${SW}/portugal/liga-de-honra/20162017/regular-season/r35896/matches/ > ${DIR}/por/b.html
+${CURL} ${SW}/portugal/liga-de-honra/20172018/regular-season/r41510/matches/ > ${DIR}/por/b.html
 
-printf " %-3s > %-3s > %s > %s\n" "por" "c9" "ii-divisao" "promotion-round---north"
-${CURL} ${SW}/portugal/ii-divisao/20162017/promotion-round---north/r37397/matches/ > ${DIR}/por/c9.html
+printf " %-3s > %-3s > %s > %s\n" "por" "c1" "ii-divisao" "group-a"
+${CURL} ${SW}/portugal/ii-divisao/20172018/group-a/r42800/matches/ > ${DIR}/por/c1.html
 
-printf " %-3s > %-3s > %s > %s\n" "por" "c0" "ii-divisao" "promotion-round---south"
-${CURL} ${SW}/portugal/ii-divisao/20162017/promotion-round---south/r37398/matches/ > ${DIR}/por/c0.html
+printf " %-3s > %-3s > %s > %s\n" "por" "c2" "ii-divisao" "group-b"
+${CURL} ${SW}/portugal/ii-divisao/20172018/group-b/r42802/matches/ > ${DIR}/por/c2.html
 
-printf " %-3s > %-3s > %s > %s\n" "por" "c1" "ii-divisao" "group-a---relegation"
-${CURL} ${SW}/portugal/ii-divisao/20162017/group-a---relegation/r37381/matches/ > ${DIR}/por/c1.html
+printf " %-3s > %-3s > %s > %s\n" "por" "c3" "ii-divisao" "group-c"
+${CURL} ${SW}/portugal/ii-divisao/20172018/group-c/r42804/matches/ > ${DIR}/por/c3.html
 
-printf " %-3s > %-3s > %s > %s\n" "por" "c2" "ii-divisao" "group-b---relegation"
-${CURL} ${SW}/portugal/ii-divisao/20162017/group-b---relegation/r37383/matches/ > ${DIR}/por/c2.html
+printf " %-3s > %-3s > %s > %s\n" "por" "c4" "ii-divisao" "group-d"
+${CURL} ${SW}/portugal/ii-divisao/20172018/group-d/r42806/matches/ > ${DIR}/por/c4.html
 
-printf " %-3s > %-3s > %s > %s\n" "por" "c3" "ii-divisao" "group-c---relegation"
-${CURL} ${SW}/portugal/ii-divisao/20162017/group-c---relegation/r37385/matches/ > ${DIR}/por/c3.html
-
-printf " %-3s > %-3s > %s > %s\n" "por" "c4" "ii-divisao" "group-d---relegation"
-${CURL} ${SW}/portugal/ii-divisao/20162017/group-d---relegation/r37387/matches/ > ${DIR}/por/c4.html
-
-printf " %-3s > %-3s > %s > %s\n" "por" "c5" "ii-divisao" "group-e---relegation"
-${CURL} ${SW}/portugal/ii-divisao/20162017/group-e---relegation/r37389/matches/ > ${DIR}/por/c5.html
-
-printf " %-3s > %-3s > %s > %s\n" "por" "c6" "ii-divisao" "group-f---relegation"
-${CURL} ${SW}/portugal/ii-divisao/20162017/group-f---relegation/r37391/matches/ > ${DIR}/por/c6.html
-
-printf " %-3s > %-3s > %s > %s\n" "por" "c7" "ii-divisao" "group-g---relegation"
-${CURL} ${SW}/portugal/ii-divisao/20162017/group-g---relegation/r37393/matches/ > ${DIR}/por/c7.html
-
-printf " %-3s > %-3s > %s > %s\n" "por" "c8" "ii-divisao" "group-h---relegation"
-${CURL} ${SW}/portugal/ii-divisao/20162017/group-h---relegation/r37395/matches/ > ${DIR}/por/c8.html
-
+printf " %-3s > %-3s > %s > %s\n" "por" "c5" "ii-divisao" "group-e"
+${CURL} ${SW}/portugal/ii-divisao/20172018/group-e/r42808/matches/ > ${DIR}/por/c5.html

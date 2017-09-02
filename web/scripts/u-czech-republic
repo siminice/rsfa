@@ -1,8 +1,8 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/cze
-update a.2017 ../web/cze/a.html
-update b.2017 ../web/cze/b.html
-update c1.2017 ../web/cze/c1.html
-update c2.2017 ../web/cze/c2.html
+update a.2018 ../web/cze/a.html
+update b.2018 ../web/cze/b.html
+update c1.2018 ../web/cze/c1.html
+update c2.2018 ../web/cze/c2.html
 

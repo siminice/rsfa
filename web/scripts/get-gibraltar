@@ -5,5 +5,5 @@ SW="http://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "gib" "a" "premier-division" "regular-season"
-${CURL} ${SW}/gibraltar/premier-division/20162017/regular-season/r36004/matches/ > ${DIR}/gib/a.html
+${CURL} ${SW}/gibraltar/premier-division/20172018/regular-season/r42615/matches/ > ${DIR}/gib/a.html
 
