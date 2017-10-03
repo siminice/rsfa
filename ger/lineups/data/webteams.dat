@@ -1,0 +1,470 @@
+469
+Bayern,bayern-muenchen
+Dortmund,borussia-dortmund
+Koln,1-fc-koeln
+Frankfurt,eintracht-frankfurt
+Stuttgart,vfb-stuttgart
+Hamburg,hamburger-sv
+Werder Bremen,werder-bremen
+Gladbach,borussia-moenchengladbach
+Kaiserslautern,1-fc-Kaiserslautern
+Leverkusen,bayer-leverkusen
+Schalke,fc-schalke-04
+Hertha,hertha-bsc
+1860 Munchen,tsv-1860-muenchen
+Nurnberg,1-fc-nuernberg
+Karlsruhe,karlsruher-sc
+Freiburg,sc-freiburg
+Duisburg,msv-duisburg
+Bochum,vfl-bochum
+Hannover,hannover-1896
+Saarbrucken,1-fc-saarbruecken
+Dusseldorf,Fortuna Düsseldorf
+Dresden,Dynamo Dresden
+Hansa Rostock,Hansa Rostock
+Leipzig,VfB Leipzig
+Uerdingen,Bayer Uerdingen
+St.Pauli,FC St.Pauli Hamburg
+Wolfsburg,VfL Wolfsburg
+Mannheim,Waldhof Mannheim
+Bielefeld,Arminia Bielefeld
+Unterhaching,SpVgg Unterhaching
+Meppen,SV Meppen
+Chemnitz,Chemnitzer FC
+Homburg,FC Homburg/Saar
+Mainz,FSV Mainz 05
+Fortuna Koln,Fortuna Köln
+Kickers,Stuttgarter Kickers
+Jena,FC Carl Zeiss Jena
+Wuppertal,Wuppertaler SV
+Essen,Rott-Weiss Essen
+Tennis Berlin,Tennis Borussia Berlin
+Zwickau,FSV Zwickau
+FSV Frankfurt,FSV Frankfurt/Oder
+Wattenscheid,SG Wattenscheid
+Lubeck,VfB Lübeck
+Gutersloh,FC Gütersloh
+Oldenburg,VfB Oldenburg
+Cottbus,Energie Cottbus
+Fuerth,Greuther Fürth
+Ulm,SSV Ulm
+Oberhausen,Rott-Weiss Oberhausen
+Aachen,Alemannia Aachen
+Offenbach,Kickers Offenbach
+Ahlen,LR Ahlen
+Reutlingen,SSV Reutlingen
+Osnabrück,VfL Osnabrück
+Union Berlin,Union Berlin
+Schweinfurt,FC Schweinfurt
+Babelsberg,SV Babelsberg
+Trier,SV Eintracht Trier
+Burghausen,SV Wacker Burghausen
+Braunschweig,eintracht-brraunschweig
+Blau-Weiss,Blau-Weiss Berlin
+Darmstadt,SV Darmstadt
+Siegen,Sportfreunde Siegen
+Aalen,VfR Aalen
+Wehen,SV Wehen Taunusstein
+Regensburg,SSV Jahn Regensburg
+Elversberg,SpVgg Elversberg
+Erfurt,FC Rott-Weiß Erfurt
+Pfullendorf,SC Pfullendorf
+Hoffenheim,SC Hoffenheim
+Ansbach,SpVgg Ansbach
+Fulda,SC Borussia Fulda
+Augsburg,FC Augsburg
+Neunkirchen,VfB Borussia Neunkirchen
+Munster,preussen-muenster
+Verl,SC Verl
+Aue,FC Erzgebirge Aue
+Wilhelmshaven,Olympia SV Wilhelmshaven
+Lüneburg,FC Lüneburg
+Magdeburg,FC Magdeburg
+Kiel,Holstein Kiel
+Paderborn,SC Paderborn
+Bayern-A,Bayern München (Amateure)
+Hamburg-A,SV Hamburg (Amateure)
+Koln-A,FC Köln (Amateure)
+Stuttgart-A,VfB Stuttgart (Amateure)
+Frankfurt-A,Eintracht Frankfurt (Amateure)
+Werder-A,Werder Bremen (Amateure)
+Dortmund-A,Borussia Dortmund (Amateure)
+Leverkusen-A,Bayer Leverkusen (Amateure)
+Kaisersl-A,FC Kaiserslautern (Amateure)
+1860-A,1860 München (Amateure)
+Dresdner SC,Dresdner SC
+Tasmania,Tasmania Berlin
+Eschborn,FC Eschborn
+Feucht,SC Feucht
+Mainz-A,FSV Mainz (Amateure)
+Schalke-A,Schalke 04 (Amateure)
+Neumunster,VfR Neumünster
+Koblenz,TuS Koblenz
+Nottingen,FC Nottingen
+Hertha-A,Hertha Berlin (Amateure)
+Wolfsburg-A,VfL Wolfsburg (Amateure)
+Bielefeld-A,Arminia Bielefeld (Amateure)
+Emden,BSV Kickers Emden
+Bayreuth,SpVgg Bayreuth
+Karlsruhe-A,Karslruher SC (Amateure)
+Bremerhaven,FC Bremerhaven
+Celle,TuS Celle FC
+Nordhorn,Eintracht Nordhorn
+Norderstedt,SC Norderstedt
+Arm Hannover,Arminia Hannover
+Gottingen,Göttingen 05
+Cloppenburg,BV Cloppenburg
+Lunenburg,Lünenburger SK
+Sachsen Leipz,Sachsen Leipzig
+Eisenhutten,FC Stahl Eisenhüttenstadt
+Plauen,VFC Plauen
+Halle,VfL Halle
+Tennis-A,Tennis Borussia Berlin (Am)
+Stendal,Lokomotive Altmark Stendal
+Dynamo Berlin,BFC Dynamo Berlin
+Bochum-A,VfL Bochum (Amateure)
+Pirmasens,FK Pirmasens
+Idar-Oberstein,SC Idar-Oberstein
+Salmrohr,FSV Salmrohr
+Ditzingen,TSF Ditzingen
+Quelle,SG Quelle Fürth
+Lohof,SV Lohof
+Remscheid,FC Remscheid
+St.Pauli-A,FC St.Pauli (Amateure)
+Ricklingen,Sportfreunde Ricklingen
+Herzlake,VfL Hasetal Herzlake
+Spandau,Spandauer SV Berlin
+Croatia,SD Croatia Berlin
+Erkenschwick,SpVgg Erkenschwick
+Weismain,SC Weismain
+Neukirchen,SC Neukirchen
+VfR Mannheim,VfR Mannheim
+Delmenhorst,Atlas Delmenhorst
+Zehlendorf,Hertha Zehlendorf
+Reinickendorf,Reinickendorfer Füchse
+Nordhausen,Wacker Nordhausen
+Rostock-A,Hansa Rostock (Amateure)
+Bonn,Bonner SC
+Teveren,Germannia Teveren
+Kirchheim,VfL Kirchheim
+Kassel,Hessen Kassel
+Ingolstadt,ESV Ingolstadt
+Concordia,Concordia Hamburg
+Altona,FC Altona 93
+Lurup,SV Lurup Hamburg
+Havelse,TSV Havelse
+Aschaffenburg,Viktoria Aschaffenburg
+Solingen,Union Solingen
+Brandenburg,BSV Stahl Brandenburg
+Burstadt,VfR 1910 Bürstadt
+Charlottenburg,SC Charlottenburg
+Luttringhausen,BV 08 Lüttringhausen
+Schloß Neuhaus,TuS Schloß Neuhaus
+Worms,VfR Wormatia Worms
+FC Freiburg,Freiburger FC
+Bocholt,1. FC Bocholt
+Herford,SC Herford
+Ludenscheid,Rot-Weiß Lüdenscheid
+OSV Hannover,OSV Hannover
+Eppingen,VfB Eppingen
+Viktoria Koln,Viktoria Köln
+Wanne-Eickel,DSC Wanne-Eickel
+Volklingen,Röchling Völklingen
+Wurzburg,FV Würzburg 04
+MTV Ingolstadt,MTV 1881 Ingolstadt
+Herne,Westfalia Herne
+Wacker,Wacker 04 Berlin
+Baunatal,KSV 1964 Baunatal
+Hanau,FC Hanau 93
+Bayern Hof,FC Bayern Hof
+Kickers Wurzbg,Kickers Würzburg
+SW Essen,Schwarz-Weiß Essen
+Schwenningen,BSV Schwenningen
+Kreuznach,Eintracht Kreuznach
+Mulheim,1. FC Mülheim
+Barmbek,HSV Barmbek-Uhlenhorst
+Heilbronn,VfR Heilbronn
+Velten,FSV Velten
+Hauenstein,SC 1919 Hauenstein
+Ludwigsburg,SpVgg 07 Ludwigsburg
+Egelsbach,SG Egelsbach
+VfL Hamburg,VfL 93 Hamburg
+Bischofswerda,Bischofswerdaer FV
+Rathenow,FSV Optik Rathenow
+Wattenscheid-A,SG Wattenscheid (Amateure)
+Sandhausen,SV 1916 Sandhausen
+Vestenberg,TSV Vestenbergsgreuth
+RW Frankfurt,Rot-Weiß Frankfurt
+Hoisdorf,TuS Hoisdorf 1958
+Turkiyemspor,BFC Türkiyemspor 1978
+Preussen Koln,SCB Preußen Köln
+Edenkoben,SV Edenkoben
+Wissen,VfB Wissen
+Itzehoer,Itzehoer SV 1909
+Pinneberg,VfL Pinneberg
+Phoenix,FC Phönix Lübeck
+Heider,Heider SV
+Westend,SC Westend 01
+Wedding,Rapide Wedding
+Neukolln,1. FC Neukölln
+Berliner SV,Berliner SV 1892 
+Sudost Berlin,BBC Südost Berlin
+Preussen Berl,Preußen Berlin
+Alemannia Berl,Alemannia 90 Berlin
+Eintr Gelsenk,Eintracht Gelsenkirchen
+SVA Gutersloh,SVA Gütersloh
+Landau,ASV Landau
+Alsenborn,SV Alsenborn
+Ludwigshafen,SV Südwest Ludwigshafen
+Neuendorf,TuS Neuendorf
+Theley,VfB Theley
+Eisbachtal,Sportfreunde Eisbachtal
+Speyer,FV Speyer
+Ensdorf,FC Ensdorf
+Leu,SC Leu Braunschweig
+Luner,Lüner SV
+Bellheim,Phönix Bellheim
+Wacker Munchen,Wacker München
+RW Neukolln,Rot-Weiß Neukölln
+Sperber,SC Sperber Hamburg
+Polizei Bremen,Polizei SV Bremen
+Neuss,VfR Neuß
+Klafeld,VfL Klafeld
+Frankenthal,VfR Frankenthal
+Andernach,SpVgg Andernach
+Russelsheim,Opel Rüsselsheim
+Villingen,FC Villingen
+Wannsee,TuS Wannsee
+Meteor,Meteor 06 Berlin
+Hamborn,Sportfreunde Hamborn 07
+Saar 05,Saar 05 Saarbrücken
+Goppingen,SV Göppingen
+Staaken,SC Staaken
+Nord Berlin,VfL Nord Berlin
+Bergedorf,ASV Bergedorf 85
+Velbert,SSVg Velbert
+Huls,TSV Marl-Hüls
+Weisenau,SV Weisenau Mainz
+Friedrichsthal,SC Friedrichsthal
+Kickers Berlin,Kickers 1900 Berlin
+Spfr Neukolln,Neuköllner Sportfreunde
+Eintr Duisburg,Eintracht Duisburg
+Landsweiler,FC Landsweiler
+Neckarau,VfL Neckarau
+Schwaben,Schwaben Augsburg
+Sudring,BFC Südring Berlin
+Haste,TuS Haste
+Bottrop,VfB Bottrop
+SC Ludwigshafen,SC Ludwigshafen
+Backnang,TSG Backnang
+Wiesbaden,SV Wiesbaden
+Hermsdorf,VfB Hermsdorf
+Bremer SV,Bremer SV
+Hildesheim,VfV Hildesheim
+Hammer,Hammer SpVgg
+Hagen,SSV Hagen
+Metternich,Germannia Metternich
+Germ Wiesbaden,Germannia Wiesbaden
+Pforzheim,1. FC Pforzheim
+Lichterfeld,Lichterfelder SU
+Friedrichsort,SV Friedrichsort
+Victoria Hamb,Victoria Hamburg
+Horst Emscher,STV Horst Emscher
+Oppau,BSC Oppau
+Zweibrucken,TSC Zweibrücken
+Weiden,SpVgg Weiden
+VfR Pforzheim,VfR Pforzheim
+Tegel,SC Tegel
+Gatow,SC Gatow
+Viktoria Berlin,BFC Viktoria 89 Berlin
+Harburg,Rasensport Harburg
+Homberg,Homberger SV
+Spfr Saar,Sportfreunde Saarbrücken
+VfR Kaiserslt,VfR Kaiserslautern
+Emmendingen,FC Emmendingen
+Herten,SpVgg Herten
+Duisburg 48,Duisburg 48/99
+Niederlahnstein,SV Niederlahnstein
+Neu Isenburg,SpVgg Neu Isenburg
+Viernheim,Amicitia Viernheim
+TuRa,TuRa Ludwigshafen
+Gladbach-A,Borussia Mönchengladbach II
+Oggersheim,FSV Oggersheim
+Cottbus-A,Energie Cottbus (A)
+Fuerth-A,Greuter Fuerth (A)
+Nurnberg-A,FC Nurnberg (A)
+Grossbardorf,TSV Grossbardorf
+Thannhausen,TSG Thannhausen
+Memmingen,FC Memmingen
+Bamberg,Eintracht Bamberg
+Wehen-A,SV Wehen Wiesbaden (A)
+Waldgirmes,SC Waldgirmes
+Kleve,FC Kleve
+Lotte,Sportfreunde Lotte
+Freiburg-A,SC Freiburg (A)
+Heidenheim,FC Heidenheim 1846
+Greifswald,Greifswalder SV 04
+Heeslingen,TuS Heeslingen
+Hannover-A,Hannover 96 (A)
+Oberneuland,FC Oberneuland
+Unterhaching-A,SpVgg Unterhaching II
+Sodingen,SV Sodingen
+Dellbrück,Preussen Dellbrück
+Oberschonweide,Union Oberschönweide
+Katernberg,Sportfreunde Katernberg
+Planitz,Planitz
+Mulhausen,FC Mulhausen 93
+Gross Born,HSV Gross Born
+Hirschberg,STG Hirschberg
+Konigsberg,VfB Königsberg
+Vienna,Vienna
+Konigshutte,Germania Königshütte
+Brux,NTSG Brux
+Danzig,LSV Danzig
+Rerick,LSV Rerick
+Dessau,Dessau 05
+Posen,SDW Posen
+Krakau,Molders Krakau
+Brunn,MSV Brunn
+Sulz,VfL 99 Sulz
+LSV Hamburg,LSV Hamburg
+Adler Deblin,Adler Deblin
+Neufahrwasser,SV Neufahrwasser
+Reinecke Brieg,LSV Reinecke Brieg
+Putnitz,LSV Putnitz
+Warschau,SG Warschau
+Marienwerder,HUS Marienwerder
+Strassburg,SS Strassburg
+Dudelingen,Stade Dudelingen
+Breslau 02,Breslau 02
+Eimsbuttel,Eimsbuttel
+Olmutz,LSV Olmutz
+Litzmannstadt,Polizei Litzmannstadt
+Rapid Wien,Rapid Wien
+Altenessen,TuS Helene Altenessen
+SV Jena,SV Jena
+Gleiwitz,Vorwaerts Gleiwitz
+Stettin,LSV Stettin
+Prag,NSTG Prag
+Admira,Admira Wien
+Benrath,VfL Benrath
+Polizei Chemn,Polizei Chemnitz
+Beuthen 09,Beuthen 09
+Allenstein,Hindenburg Allenstein
+Samland,Prussia Samland
+Stolp,Viktoria Stolp
+Minerva,Minerva '93 Berlin
+Breslau 08,Breslau 08
+Graslitz,NSTG Graslitz
+SC Kassel,Kasseler SC
+SV Kassel,SV Kassel
+Warnsdorf,Warnsdorfer FK
+Insterburg,York Boyen Insterburg
+Liegnitz,VfB Liegnitz
+Spfr Breslau,Sportfreunde Breslau
+Titania,Titania Stettin
+Hindenburg,Preussen Hindenburg Zabrze
+Wacker Leipzig,Wacker Leipzig
+Wacker Munchen,Wacker München
+Breslau 06,FV Breslau 06
+Fortuna Leipzig,Fortuna Leipzig
+VfR Koln,VfR Köln
+Forst,Viktoria Forst
+Norden,Norden Nordwest
+Preus Stettin,Preussen Stettin
+TuRu,TuRu Düsseldorf
+Guts Muts,Guts Muts Dresden
+VfB Bielefeld,VfB Bielefeld
+Vorw Berlin,Vorwaerts Berlin
+VfTUR Gladbach,VfTUR Mönchengladbach
+Berliner BC,Berliner BC '03
+Askania,Askania Forst
+Kolner BC,Kölner BC
+Karlsruher FV,Karlsruher FV
+BuEV Danzig,BuEV Danzig
+Tilsit,Lituania Tilsit
+Rixdorf,Tasmania Rixdorf
+VfR Breslau,VfR Blitz Breslau
+FSV Cottbus,FSV Cottbus 99
+Gladbach 1894,FC Mönchengladbach 1894
+Dusseldorf 99,Düsseldorfer SC '99
+Vict Magdeburg,Victoria Magdeburg
+Britannia,Britannia Berlin
+Germania,Germania Hamburg
+Goslar,Goslarer SC '08
+Alzenau,FC Bayern Alzenau
+Dusseldorf-A,Fortuna Düsseldorf II
+Kiel-A,Holstein Kiel II
+Brinkum,Brinkumer SV
+Auerbach,VfB Auerbach
+Meuselwitz,ZFC Meuselwitz
+Lokomotive,1. FC Lokomotive Leipzig
+Grossaspach,SG Sonnenhof Grossaspach
+Hoffenheim-A,TSG Hoffenheim II
+FSV-A,FSV Frankfurt II
+Drochtersen,SV Drochtersen/Assel
+RB Leipzig,Red Bull Leipzig
+Wiedenbruck,SC Wiedenbrück 2000
+Windeck,TSV Germania Windeck
+Braunschweig-A,Eintracht Braunschweig II
+Ismaning,FC Ismaning
+Torgelow,Torgelower SV
+Halberstadt,VfB Germania Halberstadt
+BAK,Berliner Ankaraspor '07
+Ingolstadt-A,FC Ingolstadt II
+Rosenheim,TSV 1860 Rosenheim
+Eltersdorf,SC 1926 Eltersdorf
+Frohnlach,VfL Frohnlach
+Seligenporten,SV Seligenporten
+Buchbach,TSV Buchbach
+Rain,TSV 1896 Rain am Lech
+Neustrelitz,TSG Neustrelitz
+Rehden,BSV Schwarz Weiss Rehden
+Langenhagen,SC Langenhagen
+Illertissen,FV Illertissen
+Holthausen,SV Holthausen/Biene
+Flensburg,ETSV Weiche Flensburg
+Union-A,FC Union Berlin II
+Bergisch Gladb,SV Bergisch Gladbach 09
+Lippstadt,SV Lippstadt 08
+Kray,FC Kray
+Duisburg-A,MSV Duisburg II
+Augsburg-A,FC Augsburg II
+Heimstetten,SV Heimstetten
+Aichach,BC Aichach
+Schalding-H,SV Schalding-Heining
+Forchheim,SpVgg Jahn Forchheim
+Elmshorn,FC Elmshorn 1920
+Eichede,SV Eichede
+Neckarelz,SpVgg Neckarelz
+Garching,VfR Garching
+FTB,Freie Turner Braunschweig
+Budissa,FSV Budissa Bautzen
+Hennef,FC Hennef 05
+Rodinghausen,SV Rödinghausen
+Astoria,FC Astoria Walldorf
+Schilksee,TSV Schilksee
+Luckenwalde,FSV 63 Luckenwalde
+Oberlauzitz,FC Oberlausitz Neugersdorf
+RB Leipzig-A,RB Leipzig II
+Schoenberg,FC Schönberg 95
+Erndtebruck,TuS Erndtebrück 1895
+Wegberg-Beeck,FC Wegberg-Beeck 1920
+Bahlinger,Bahlinger SC
+Spielberg,SV Spielberg Karlsbad
+Steinbach,TSV Steinbach Haiger
+Amberg,FC Amberg
+Lupo-Martini,US Lupo-Martini Wolfsburg
+Egestorf,Germania Egestorf
+Furstenwalde,Union Fürstenwalde
+Sprockhovel,TSG Sprockhövel 1881
+Teutonia,SC Teutonia Watzenborn-Steinbe
+Eutin,Eutiner SV 1908
+Jeddeloh,SSV Jeddeloh Edewecht
+Altglienicke,VSG Altglienicke Berlin
+Rhynern Hamm,SV Westfalia Rhynern Hamm
+Stadtallendorf,TSV Eintracht Stadtallendorf
+Schott Mainz,TSV Schott Mainz
+Eichstatt,VfB EichstÃ¤tt
+Pipinsried,FC Pipinsried
+Unterfohring,FC UnterfÃ¶hring Heimstetten
