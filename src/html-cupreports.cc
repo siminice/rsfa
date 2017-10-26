@@ -1030,7 +1030,10 @@ void UnknownPlayerDisplayName(char *source, char *target) {
   tk[0] = strtok(w, " ");
   for (int j=1; j<16; j++) { tk[j] = strtok(NULL, " "); }
   int ntk = 0; for (int j=0; j<16; j++) if (tk[j]!=NULL) ntk++;
-  if (ntk==1) {
+  if (ntk==0) {
+    sprintf(target, " ");
+  }
+  else if (ntk==1) {
     strcpy(target, tk[0]);
   } else {
     sprintf(target, "%c. %s", tk[0][0], tk[ntk-1]);
