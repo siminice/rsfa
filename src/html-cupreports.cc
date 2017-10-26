@@ -1023,8 +1023,28 @@ void HTMLPlayerTH() {
   fprintf(of, "    <tbody>\n");
 }
 
+int isExtra(char c) {
+ return ((((unsigned char)c) & 0xc0) == 0x80);
+}
+
+int isFirstExtra(char c) {
+ return ((((unsigned char)c) & 0xc0) == 0xc0);
+}
+
+void GetUtfPrefix(char *s, int plen) {
+   if (s==NULL) return;
+   int len = strlen(s);
+   int k = 0, l = 0, m = 0;
+   while ((k<len && m<plen) || (m==plen && isFirstExtra(s[k-1]))) {
+     s[l++] = s[k];
+     if (!isExtra(s[k])) m++;
+     k++;
+   }
+   s[l] = 0;
+}
+
 void UnknownPlayerDisplayName(char *source, char *target) {
-  char w[256];
+  char w[256], pini[8];
   strncpy(w, source, 256);
   char *tk[16];
   tk[0] = strtok(w, " ");
@@ -1036,7 +1056,9 @@ void UnknownPlayerDisplayName(char *source, char *target) {
   else if (ntk==1) {
     strcpy(target, tk[0]);
   } else {
-    sprintf(target, "%c. %s", tk[0][0], tk[ntk-1]);
+    strncpy(pini, tk[0], 8);
+    GetUtfPrefix(pini, 1);
+    sprintf(target, "%c. %s", pini, tk[ntk-1]);
   }
 }
 

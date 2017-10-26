@@ -1311,6 +1311,18 @@ void threeLetters(char *s) {
   s[l] = 0;
 }
 
+void GetUtfPrefix(char *s, int plen) {
+  if (s==NULL) return;
+  int len = strlen(s);
+  int k = 0, l = 0, m = 0;
+  while ((k<len && m<plen) || (m==plen && isFirstExtra(s[k-1]))) {
+    s[l++] = s[k];
+    if (!isExtra(s[k])) m++;
+    k++;
+  }
+  s[l] = 0;
+}
+
 void GetInitial(int px, char *pini) {
     pini[1] = '.'; pini[2] = 0;
     if (px<0 || ppren[px]==NULL || ppren[px][0]==' ') pini[0] = 0;
