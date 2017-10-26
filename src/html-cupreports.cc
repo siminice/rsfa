@@ -1023,11 +1023,27 @@ void HTMLPlayerTH() {
   fprintf(of, "    <tbody>\n");
 }
 
+void UnknownPlayerDisplayName(char *source, char *target) {
+  char w[256];
+  strncpy(w, source, 256);
+  char *tk[16];
+  tk[0] = strtok(w, " ");
+  for (int j=1; j<16; j++) { tk[j] = strtok(NULL, " "); }
+  int ntk = 0; for (int j=0; j<16; j++) if (tk[j]!=NULL) ntk++;
+  if (ntk==1) {
+    strcpy(target, tk[0]);
+  } else {
+    sprintf(target, "%c. %s", tk[0][0], tk[ntk-1]);
+  }
+}
+
 void HTMLUnknownPlayerTR(int pnum, char *pn, int m) {
+    char dispName[64];
+    UnknownPlayerDisplayName(pn+1, dispName);
     int sn = (pnum<=ROSTER_SIZE? pnum : pnum-ROSTER_SIZE);
     fprintf(of, "      <tr class=\"%s\">\n", (sn%2==1?"odd":"even"));
     fprintf(of, "        <td class=\"shirtnumber\">%d</td>\n", sn);
-    fprintf(of, "        <td class=\"player large-link\"><img src=\"../../../../thumbs/22/3/ROM.png\"/>&nbsp;%s</td>\n", pn+1);
+    fprintf(of, "        <td class=\"player large-link\"><img src=\"../../../../thumbs/22/3/ROM.png\"/>&nbsp;%s</td>\n", dispName);
     fprintf(of, "        <td class=\"label\"></td>\n");
     fprintf(of, "        <td class=\"season_caps\"></td>\n");
     fprintf(of, "        <td class=\"career_caps\"></td>\n");
