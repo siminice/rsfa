@@ -1058,7 +1058,7 @@ void UnknownPlayerDisplayName(char *source, char *target) {
   } else {
     strncpy(pini, tk[0], 8);
     GetUtfPrefix(pini, 1);
-    sprintf(target, "%c. %s", pini, tk[ntk-1]);
+    sprintf(target, "%s. %s", pini, tk[ntk-1]);
   }
 }
 
