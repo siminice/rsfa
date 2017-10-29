@@ -85,7 +85,7 @@ int split_after, split_top, split_points, cancel_gdiff, vs_top;
 
 FILE *of;
 char dvz;
-int  seria;
+int  tier, seria;
 char sf[128];
 int  played[650];
 int  sched[650][24];
@@ -203,6 +203,36 @@ char* Aliases::GetNick(int y) {
 }
 
 Aliases **L;
+Aliases **lex;
+
+void LoadAliases(Aliases **Al, const char *filename, int nal) {
+  FILE *f = fopen(filename, "rt");
+  if (!f) return;
+  char s[2048];
+  char *tok[30], *ystr, *name, *nick;
+  for (int i=0; i<nal; i++) {
+    if (feof(f)) continue;
+    fgets(s, 2000, f);
+    if (!s) continue;
+    if (strlen(s) < 3) continue;
+    s[strlen(s)-1] = 0;
+    tok[0] = strtok(s, "*");
+    for (int j=1; j<20; j++)
+      tok[j] = strtok(NULL, "*");
+    int k=0;
+    while(tok[k]) {
+      ystr = strtok(tok[k], " ");
+      name = strtok(NULL, "~");
+      nick = strtok(NULL, "@");
+      int y = atoi(ystr);
+      alias *a = new alias(y, name, nick);
+      Al[i]->Append(a);
+      k++;
+    }
+    s[0] = 0;
+  }
+  fclose(f);
+}
 
 int idof(int x) {
   int j=0;
@@ -272,9 +302,11 @@ int Load() {
     s[0] = 0;
   }
   fclose(f);
+  lex = new Aliases*[15];
+  for (int i=0; i<15; i++) lex[i] = new Aliases;
+  LoadAliases(lex, "lex.dat", 15);
   return 1;
 }
-
 
 char *NameOf(Aliases **L, int t, int y) {
   char *s = L[t]->GetName(y);
@@ -926,14 +958,14 @@ void SeasonName(int y, char *ss) {
 void HTMLHeader(int i) {
   char ss[32];
   SeasonName(year, ss);
-  fprintf(of, "<HTML>\n<TITLE>Divizia %c", dvz);
+  fprintf(of, "<HTML>\n<TITLE>%s", lex[tier]->GetNick(year));
   if (seria>0) fprintf(of, "%d", seria);
   fprintf(of, " %s", ss);
   if (calendar) {
     fprintf(of, " - %d %s", i%50, romonth[i/50]);
   }
   else {
-    fprintf(of, "- etapa %d", i);
+    fprintf(of, " - etapa %d", i);
   }
   fprintf(of, "</TITLE>\n");
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
@@ -958,7 +990,7 @@ void NavTable(int r) {
 //  fprintf(of, "<DIV class=\"navcol\">\n");
 
   fprintf(of, "<A HREF=\"index.html\"><IMG HEIGHT=\"32\" SRC=\"home.gif\"></IMG></A>\n");
-  fprintf(of, "<B><FONT SIZE=+2>Divizia %c", dvz);
+  fprintf(of, "<B><FONT SIZE=+2>%s ", lex[tier]->GetNick(year));
   if (seria>0) fprintf(of, "%d", seria);
   fprintf(of, " %s", ss);
   if (calendar) {
@@ -1386,6 +1418,9 @@ int section(int l) {
 
 void ClasTable(int r, int synoptic) {
   char sn[16];
+  double cw = 56.0/n;
+  if (cw>5.0) cw=5.0;
+  double ew = 20.0;
 
   fprintf(of, "\n<TABLE  WIDTH=\"100%%\" BORDER=\"1\" RULES=\"rows\" FRAME=\"box\">\n");
   fprintf(of, "<THEAD>\n<TR>\n");
@@ -1396,7 +1431,7 @@ void ClasTable(int r, int synoptic) {
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"3%%\">V</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"2%%\">E</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"2%%\">Î</TH>\n");
-  fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"4%%\">gm</TH>\n");
+  fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"3%%\">gm</TH>\n");
   fprintf(of, "<TH ALIGN=\"center\" WIDTH=\"1%%\">%c</TH>\n", (tbr%10<2?'-':':'));
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"2%%\">gp</TH>\n");
   fprintf(of, "<TH ALIGN=\"right\" WIDTH=\"3%%\">P</TH>\n");
@@ -1405,7 +1440,7 @@ void ClasTable(int r, int synoptic) {
     for (int k=0; k<n; k++) {
       strncpy(sn, NickOf(L, id[rank[k]], year), 15);
       threeLetters(sn);
-      fprintf(of, "<TH ALIGN=\"center\" WIDTH=\"3%%\">%s</TH>\n", sn);
+      fprintf(of, "<TH ALIGN=\"center\" WIDTH=\"%5.3f%%\">%s</TH>\n", cw, sn);
     }
   }
   fprintf(of, "</TR>\n</THEAD>\n<TBODY>\n");
@@ -1687,6 +1722,7 @@ int main(int argc, char* argv[]) {
 
   sprintf(sf, "%s", argv[1]);
   dvz = sf[0] - 32;
+  tier = dvz - 65;
   char spl[3];
   if (sf[1]=='.') seria = 0;
   else {

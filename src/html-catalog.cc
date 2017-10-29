@@ -148,10 +148,40 @@ char* Aliases::GetNick(int y) {
 
 Aliases **L;
 Aliases **CL;
+Aliases **lex;
+
+void LoadAliases(Aliases **Al, const char *filename, int nal) {
+  FILE *f = fopen(filename, "rt");
+  if (!f) return;
+  char s[2048];
+  char *tok[30], *ystr, *name, *nick;
+  for (int i=0; i<nal; i++) {
+    if (feof(f)) continue;
+    fgets(s, 2000, f);
+    if (!s) continue;
+    if (strlen(s) < 3) continue;
+    s[strlen(s)-1] = 0;
+    tok[0] = strtok(s, "*");
+    for (int j=1; j<20; j++)
+      tok[j] = strtok(NULL, "*");
+    int k=0;
+    while(tok[k]) {
+      ystr = strtok(tok[k], " ");
+      name = strtok(NULL, "~");
+      nick = strtok(NULL, "@");
+      int y = atoi(ystr);
+      alias *a = new alias(y, name, nick);
+      Al[i]->Append(a);
+      k++;
+    }
+    s[0] = 0;
+  }
+  fclose(f);
+}
 
 //--------------------------------------
 
-int LoadInts(char *filename, int *v, int &n) {
+int LoadInts(const char *filename, int *v, int &n) {
   FILE *f = fopen(filename, "rt");
   if (!f) {
     fprintf(stderr, "Error: file %s not found.\n", filename);
@@ -240,6 +270,9 @@ int Load() {
     s[0] = 0;
   }
   fclose(f);
+  lex = new Aliases*[15];
+  for (int i=0; i<15; i++) lex[i] = new Aliases;
+  LoadAliases(lex, "lex.dat", 15);
 
   f = fopen("country.dat", "rt");
   if (!f) return 0;
@@ -272,13 +305,13 @@ int Load() {
   }
   fclose(f);
 
-	f = fopen("part.a", "rt");
+  f = fopen("part.a", "rt");
   if (f==NULL) {
-		fprintf(stderr, "Error: file \"part.a\" not found.\n");
-		return 0;
-	}
+    fprintf(stderr, "Error: file \"part.a\" not found.\n");
+    return 0;
+  }
 
-	int y, dummy, n, t;
+  int y, dummy, n, t;
   while (!feof(f)) {
       fscanf(f, "%d %d", &y, &n);
       if (feof(f)) continue;
@@ -288,7 +321,7 @@ int Load() {
       }
       fgets(s, 200, f);
   }
-	fclose(f);
+  fclose(f);
 
   curpids = new int[MAX_PIDS];
   curtids = new int[MAX_TIDS];
@@ -349,7 +382,7 @@ int GetYear(char *sd) {
 #define MAX_NAMES	20000
 #define MAX_SEASONS	200
 #define MAX_CDB		800
-#define MAX_LDB		500
+#define MAX_LDB		700
 #define MAX_CKDB	750
 #define MAX_LKDB	 50
 #define MAX_CEDB	200
@@ -508,6 +541,7 @@ char **pdob;
 char **pcty;
 char **ppob;
 char **pjud;
+char **pfull;
 
 int *psez;
 int *pfy;
@@ -584,35 +618,36 @@ void LoadPlayers() {
     fprintf(stderr, "ERROR: player database not found!\n");
     exit(0);
   }
-  char s[100], *t[10];
-  fgets(s, 100, f);
+  char s[256], *t[10];
+  fgets(s, 256, f);
   sscanf(s, "%d", &NP);
-  pname = new char*[MAX_NAMES];
-  pmnem = new char*[MAX_NAMES];
-  ppren = new char*[MAX_NAMES];
-  pdob  = new char*[MAX_NAMES];
-  pcty  = new char*[MAX_NAMES];
-  ppob  = new char*[MAX_NAMES];
-  pjud  = new char*[MAX_NAMES];
+  pname = new char*[NP+1];
+  pmnem = new char*[NP+1];
+  ppren = new char*[NP+1];
+  pdob  = new char*[NP+1];
+  pcty  = new char*[NP+1];
+  ppob  = new char*[NP+1];
+  pjud  = new char*[NP+1];
+  pfull = new char*[NP+1];
 
-  psez = new int[MAX_NAMES];
-  pfy = new int[MAX_NAMES];
-  ply = new int[MAX_NAMES];
-  pmeci = new int[MAX_NAMES];
-  ptit = new int[MAX_NAMES];
-  prez = new int[MAX_NAMES];
-  pgol = new int[MAX_NAMES];
-  ppen = new int[MAX_NAMES];
-  pmin = new int[MAX_NAMES];
-  pown = new int[MAX_NAMES];
-  prec = new int[MAX_NAMES];
-  pyel = new int[MAX_NAMES];
-  pred = new int[MAX_NAMES];
-  rank = new int[MAX_NAMES];
-  echn = new int[MAX_NAMES];
+  psez = new int[NP+1];
+  pfy = new int[NP+1];
+  ply = new int[NP+1];
+  pmeci = new int[NP+1];
+  ptit = new int[NP+1];
+  prez = new int[NP+1];
+  pgol = new int[NP+1];
+  ppen = new int[NP+1];
+  pmin = new int[NP+1];
+  pown = new int[NP+1];
+  prec = new int[NP+1];
+  pyel = new int[NP+1];
+  pred = new int[NP+1];
+  rank = new int[NP+1];
+  echn = new int[NP+1];
 
   for (int i=0; i<NP; i++) {
-    fgets(s, 100, f);
+    fgets(s, 256, f);
     t[0] = strtok(s, ",\t\n");
      pmnem[i] = new char[7];
      strcpy(pmnem[i], t[0]);
@@ -665,6 +700,28 @@ void LoadPlayers() {
     if (borna[c]>=0 && borna[c-1]<0) borna[c-1] = borna[c];
   fclose(f);
   fprintf(stderr, "Loaded %d names.\n", NP);
+
+  f = fopen("cplayers.dat", "rf");
+  if (f!=NULL) {
+    int CNP = 0;
+    fgets(s, 256, f);
+    sscanf(s, "%d", &CNP);
+    for (int i=0; i<NP; i++) {
+      fgets(s, 256, f);
+      t[0] = strtok(s, ",\t\n");
+      for (int j=1; j<4; j++) t[j] = strtok(NULL, ",");
+      if (t[3]) {
+        pfull[i] = new char[60];
+        strncpy(pfull[i], t[3], 60);
+      } else {
+        pfull[i] = new char[3];
+        strcpy(pfull[i], "");
+      }
+    }
+    fclose(f);
+  } else {
+    for (int i=0; i<NP; i++) { pfull[i] = new char[2]; pfull[i][0] = 0; }
+  }
 }
 
 void ResetStats() {
@@ -1123,7 +1180,7 @@ void HTMLLineupsBox(int year) {
 	char ssn[32];
 	SeasonName(year, ssn);
 	fprintf(of, "<CENTER>\n");
-	fprintf(of, "<H3>Loturi jucători %s</H3>\n", ssn);
+	fprintf(of, "<H3>Loturi jucători %s %s</H3>\n", lex[0]->GetNick(9999), ssn);
 	fprintf(of, "<TABLE BORDER=\"1\" CELLPADDING=\"2\" CELLSPACING=\"3\" FRAME=\"box\">\n");
 	for (int i=0; i<nty; ++i) {
 		if (i%ncols==0) {
@@ -1442,7 +1499,7 @@ void Lineups(int year) {
   int n = year - CFY;
   int i = 0;
 
-  fprintf(of, "<HTML>\n<TITLE>Loturi Divizia A %s</TITLE>\n", ssn);
+  fprintf(of, "<HTML>\n<TITLE>Loturi %s %s</TITLE>\n", lex[0]->GetNick(9999), ssn);
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
   fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   DatatablesHeader();
@@ -1621,13 +1678,16 @@ void PlayerStats(int pl) {
   int tem, ten, tet, ter, teg;
   int tnm, tnn, tnt, tnr, tng;
   int n, nrow, lasty;
-  char ssn[32], sdob[32];
+  char ssn[32], sdob[32], sfull[256];
   char wsm[12];
 
   R->reset();
   Opp->reset();
   nrow = 0;
   makeHexlink(pl);
+  if (strlen(pfull[pl])>3) sprintf(sfull, "%s", pfull[pl]);
+  else sprintf(sfull, "%s %s", ppren[pl], pname[pl]);
+
   fprintf(stderr, "%06d [%s] [%s]: %s %s.\n", pl, pmnem[pl], hexlink, ppren[pl], pname[pl]);
   sprintf(ofilename, "html/jucatori/%s.html", hexlink);
   of = fopen(ofilename, "wt");
@@ -1643,7 +1703,7 @@ void PlayerStats(int pl) {
 
   fprintf(of, "<script src=\"../sorttable.js\"></script>\n");
   fprintf(of, "<TABLE CELLSPACING=\"10\" CELLPADDING=\"5\">\n<TR>\n<TD>");
-  fprintf(of, "<H3><IMG SRC=\"../../../thumbs/22/3/%s.png\"></IMG> %s %s</H3>\n", pcty[pl], ppren[pl], pname[pl]);
+  fprintf(of, "<H3><IMG SRC=\"../../../thumbs/22/3/%s.png\"></IMG> %s</H3>\n", pcty[pl], sfull);
   strcpy(sdob, pdob[pl]);
   CanonicDOB(sdob, DOB_FULL);
   fprintf(of, "<UL><LI>Data naşterii: %s </LI>\n", sdob);
@@ -1686,9 +1746,9 @@ void PlayerStats(int pl) {
   websafeMnem(pmnem[pl], wsm);
   fprintf(of, "<TD><IMG src=\"foto/%s.jpg\" HEIGHT=\"150\" ALT=\"Foto\" VALIGN=\"top\"></IMG></TD>\n", wsm);
   fprintf(of, "</TR></TABLE>\n");
-  fprintf(of, "Prezenţe la cluburi româneşti: <BR><BR>\n");
+  fprintf(of, "Prezenţe la cluburi %s: <BR><BR>\n", lex[12]->GetNick(9999));
 
-  fprintf(of, "<TABLE WIDTH=\"99%%\" cellpadding=\"2\" RULES=\"groups\" frame=\"box\">\n");  
+  fprintf(of, "<TABLE WIDTH=\"99%%\" cellpadding=\"2\" RULES=\"groups\" frame=\"box\">\n");
   fprintf(of, "<COLGROUP><COL SPAN=\"3\"></COLGROUP>");
   fprintf(of, "<COLGROUP><COL SPAN=\"3\"></COLGROUP>");
   fprintf(of, "<COLGROUP><COL SPAN=\"3\"></COLGROUP>");
@@ -1697,7 +1757,7 @@ void PlayerStats(int pl) {
   fprintf(of, "<TR BGCOLOR=\"FFFFFF\">\n");
   fprintf(of, "<TH COLSPAN=\"3\"></TH>\n");
   fprintf(of, "<TH COLSPAN=\"3\">Prima Divizie</TH>\n");
-  fprintf(of, "<TH COLSPAN=\"3\">Cupa României</TH>\n");
+  fprintf(of, "<TH COLSPAN=\"3\">%s</TH>\n", lex[10]->GetNick(9999));
   fprintf(of, "<TH COLSPAN=\"3\">Cupele Europene</TH>\n");
   fprintf(of, "</TR>\n");
   fprintf(of, "<TR BGCOLOR=\"DDDDDD\">\n");
@@ -2278,15 +2338,15 @@ void Sort(int cr) {
 
 void HTMLHeader(int t) {
   if (t==TM_LIGA || t>=NC)
-    fprintf(of, "<HTML>\n<TITLE>Loturi Divizia A %d-%d</TITLE>\n", CFY, CLY);
+    fprintf(of, "<HTML>\n<TITLE>Loturi %s %d-%d</TITLE>\n", lex[0]->GetNick(9999), CFY, CLY);
   else if (t==TM_CUPA)
-    fprintf(of, "<HTML>\n<TITLE>Prezenţe în Cupa României</TITLE>\n");
+    fprintf(of, "<HTML>\n<TITLE>Prezenţe în %s</TITLE>\n", lex[10]->GetNick(9999));
   else if (t==TM_EURO)
     fprintf(of, "<HTML>\n<TITLE>Prezenţe în cupele europene</TITLE>\n");
   else if (t==TM_NATL)
     fprintf(of, "<HTML>\n<TITLE>Prezenţe în echipa naţională</TITLE>\n");
   else
-    fprintf(of, "<HTML>\n<TITLE>Loturi %s în Divizia A %d-%d</TITLE>\n", NameOf(L, t, 3000), CFY, CLY);
+    fprintf(of, "<HTML>\n<TITLE>Loturi %s în %s %d-%d</TITLE>\n", NameOf(L, t, 3000), lex[0]->GetNick(9999), CFY, CLY);
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
   fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   DatatablesHeader();
@@ -2296,9 +2356,9 @@ void HTMLHeader(int t) {
 void HTMLTable(int t) {
   fprintf(of, "<script src=\"sorttable.js\"></script>\n");
   if (t==TM_LIGA || t>=NC)
-    fprintf(of, "<H3>Jucători în campionatul României %d-%d</H3>\n", CFY, CLY);
+    fprintf(of, "<H3>Jucători în %s %d-%d</H3>\n", lex[0]->GetNick(9999), CFY, CLY);
   else if (t==TM_CUPA)
-    fprintf(of, "<H3>Jucători în Cupa României %d-%d</H3>\n", KFY, KLY);
+    fprintf(of, "<H3>Jucători în %s %d-%d</H3>\n", lex[10]->GetNick(9999), KFY, KLY);
   else if (t==TM_EURO)
     fprintf(of, "<H3>Jucători ai echipelor româneşti în cupele europene %d-%d</H3>\n", EFY, ELY);
   else if (t==TM_NATL)
