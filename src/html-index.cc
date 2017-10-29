@@ -462,6 +462,10 @@ int main(int argc, char* argv[]) {
   fprintf(f, "<LI><A HREF=\"alltime-a.html\"><FONT COLOR=\"999999\">Clasament <I>all-time</I> Liga 1</FONT></A></LI>\n");
   fprintf(f, "<LI><A HREF=\"alltime-b.html\"><FONT COLOR=\"999999\">Clasament <I>all-time</I> Liga 2</FONT></A></LI>\n");
   fprintf(f, "<LI><A HREF=\"alltime-c.html\"><FONT COLOR=\"999999\">Clasament <I>all-time</I> Liga 3</FONT></A></LI>\n");
+  fprintf(f, "<LI><A HREF=\"catalog.html\"><FONT COLOR=\"AAAAAA\">Jucători în prima divizie</FONT></A></LI>\n");
+  fprintf(f, "<LI><A HREF=\"antrenori.html\"><FONT COLOR=\"AAAAAA\">Antrenori în prima divizie</FONT></A></LI>\n");
+  fprintf(f, "<LI><A HREF=\"arbitri.html\"><FONT COLOR=\"AAAAAA\">Arbitri în prima divizie</FONT></A></LI>\n");
+
   fprintf(f, "<LI><A HREF=\"consecutive.html\"><FONT COLOR=\"999999\">Serii consecutive</FONT></A></LI>\n");
   fprintf(f, "<LI><A HREF=\"consecutive-a.html\"><FONT COLOR=\"999999\">Serii consecutive - Liga 1</FONT></A></LI>\n");
   fprintf(f, "</UL>\n");

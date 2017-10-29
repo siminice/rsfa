@@ -603,7 +603,7 @@ void HTMLScoreBlock(int r, int a, int b) {
   fprintf(of, "    </h3>\n");
   fprintf(of, "  </div>\n\n");
 
-	int sc = atoi(db[r][DB_SCORE]);
+  int sc = atoi(db[r][DB_SCORE]);
   fprintf(of, "  <div class=\"container middle\">\n");
   fprintf(of, "    <h1 class=\"thick scoretime \">\n");
   fprintf(of, "    <a href=\"../../vs-%04d/vs-%d-%d.html\">", a, a, b);

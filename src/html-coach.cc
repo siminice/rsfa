@@ -6,9 +6,9 @@
 #define MAX_NAMES      2000
 #define MAX_SEASONS     200
 
-#define DB_ROWS         400
+#define DB_ROWS         600
 #define DB_COLS          60
-#define DB_CELL          20
+#define DB_CELL          40
 
 #define DB_HOME    0
 #define DB_GUEST   1
@@ -579,10 +579,10 @@ void HTMLCoach(int c) {
 	if (!of) { perror(filename); return; }
 
 	Stat *total = new Stat();
-	Stat **curr  = new Stat*[5];
-	for (int i=0; i<5; i++) curr[i] = new Stat();
+	Stat **curr  = new Stat*[15];
+	for (int i=0; i<15; i++) curr[i] = new Stat();
 	int nctm = 0;
-	int ctm[5];
+	int ctm[15];
 	int nl = 0;
 
 	fprintf(stderr, "%d.%s %s\n", c+1, p.pren, p.name);
@@ -604,11 +604,11 @@ void HTMLCoach(int c) {
   fprintf(of, "<TABLE cellpadding=\"2\" frame=\"box\">\n");
   fprintf(of, "<THEAD><TR>\n");
   fprintf(of, "<TH>Sezon</TH>");
-  fprintf(of, "<TH>Echipã</TH>");
+  fprintf(of, "<TH>EchipÄƒ</TH>");
   fprintf(of, "<TH>Meciuri</TH>");
   fprintf(of, "<TH>Vict.</TH>");
   fprintf(of, "<TH>Egal.</TH>");
-  fprintf(of, "<TH>Înfr.</TH>");
+  fprintf(of, "<TH>ÃŽnfr.</TH>");
   fprintf(of, "<TH>G+</TH>");
   fprintf(of, "<TH></TH>");
   fprintf(of, "<TH>G-</TH>");
@@ -707,6 +707,9 @@ int main(int argc, char **argv) {
   FY = 1933;
   LY = 2016;
   for (int k=1; k<argc; k++) {
+    if (strcmp(argv[k], "-fy")==0 && k<argc-1)  {
+      FY = atoi(argv[++k]);
+    }
     if (strcmp(argv[k], "-ly")==0 && k<argc-1)  {
       LY = atoi(argv[++k]);
     }

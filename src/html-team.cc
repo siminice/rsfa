@@ -568,7 +568,7 @@ void Evol(int a) {
   numlg = 0;
   numcp = 0;
 
-  fprintf(of, "<HTML>\n<TITLE>Evoluţie istoricăi %s</TITLE>\n", NameOf(L, a, 3000));
+  fprintf(of, "<HTML>\n<TITLE>Evoluţie istorică %s</TITLE>\n", NameOf(L, a, 3000));
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
   fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(of, "</HEAD>\n<BODY BGCOLOR=\"777777\">\n");

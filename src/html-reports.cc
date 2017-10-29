@@ -20,7 +20,7 @@
 #define MAX_TEAMS 2000
 
 #define MAX_NAMES       20000
-#define DB_ROWS         400
+#define DB_ROWS         700
 #define DB_COLS         60
 #define DB_CELL         20
 #define EV_COLS		30
@@ -54,6 +54,7 @@
 #define EV_YELLOW    4
 #define EV_RED       5
 #define EV_YELLOWRED 6
+#define EV_PKSAVED   7
 
 #define SPECIAL		50
 #define LOSS_BOTH_0	50
@@ -65,7 +66,7 @@ const char *month[] = {"", "Ian", "Feb", "Mar", "Apr", "Mai", "Iun",
                      "Iul", "Aug", "Sep", "Oct", "Noi", "Dec"};
 const char *romonth[] = {"", "ianuarie", "februarie", "martie", "aprilie", "mai", "iunie",
                      "iulie", "august", "septembrie", "octombrie", "noiembrie", "decembrie"};
-const char *evicon[] = {"g", "og", "pg", "pm", "cg" , "cr", "cgr"};
+const char *evicon[] = {"g", "og", "pg", "pm", "cg" , "cr", "cgr", "pm"};
 
 char **club;
 char **mnem;
@@ -124,7 +125,7 @@ int borna[256];
 int  fd, ld, fr, frd, lr, lrd, decorate, calendar;
 FILE *of;
 char dvz;
-int  seria;
+int  tier, seria;
 char sf[128];
 int  played[650];
 int  sched[650][24];
@@ -225,6 +226,37 @@ char* Aliases::GetNick(int y) {
 }
 
 Aliases **L;
+Aliases **lex;
+
+void LoadAliases(Aliases **Al, const char *filename, int nal) {
+  FILE *f = fopen(filename, "rt");
+  if (!f) return;
+  char s[2048];
+  char *tok[30], *ystr, *name, *nick;
+  for (int i=0; i<nal; i++) {
+    if (feof(f)) continue;
+    fgets(s, 2000, f);
+    if (!s) continue;
+    if (strlen(s) < 3) continue;
+    s[strlen(s)-1] = 0;
+    tok[0] = strtok(s, "*");
+    for (int j=1; j<20; j++)
+      tok[j] = strtok(NULL, "*");
+    int k=0;
+    while(tok[k]) {
+      ystr = strtok(tok[k], " ");
+      name = strtok(NULL, "~");
+      nick = strtok(NULL, "@");
+      int y = atoi(ystr);
+      alias *a = new alias(y, name, nick);
+      Al[i]->Append(a);
+      k++;
+    }
+    s[0] = 0;
+  }
+  fclose(f);
+}
+
 
 int idof(int x) {
   int j=0;
@@ -294,6 +326,10 @@ int Load() {
     s[0] = 0;
   }
   fclose(f);
+  lex = new Aliases*[15];
+  for (int i=0; i<15; i++) lex[i] = new Aliases;
+  LoadAliases(lex, "lex.dat", 15);
+
   for (int i=0; i<NC; i++) {
     asez[i] = awin[i] = alos[i] = agsc[i] = agre[i] = 0;
     arank[i] = i;
@@ -1203,7 +1239,7 @@ void HTMLInfoBlock(int r, int a, int b) {
   fprintf(of, "    <div class=\"details clearfix\">\n");
   fprintf(of, "      <dl>\n");
   fprintf(of, "        <dt>Competiţia</dt>\n");
-  fprintf(of, "        <dd>Divizia %c  %s</dd>\n", dvz, ssn);
+  fprintf(of, "        <dd>%s  %s</dd>\n", lex[tier]->GetNick(year), ssn);
 	int etp = round[r][a][b]/1000;
 	int cld = round[r][a][b]%1000;
 	if (etp>0) {
@@ -1306,8 +1342,8 @@ void GetEvents(int r, int a, int b) {
   ResetEvents();
   for (int i=0; i<EV_COLS; i++) {
     strcpy(s, edb[mid][i]);
-    sp = strtok(s, "'`\"/,#!\n");
-    sm = strtok(NULL, "'`\"/,#!\n");
+    sp = strtok(s, "'`\"/,#!*\\\n");
+    sm = strtok(NULL, "'`\"/,#!*\\\n");
     if (sm!=NULL) em = atoi(sm); else em=-1;
     if (sp!=NULL) ep = FindMnem(sp); else ep=-1;
     if (ep>=0 || em>=0) {
@@ -1319,6 +1355,7 @@ void GetEvents(int r, int a, int b) {
       else if (edb[mid][i][6]=='#') evt[i] = EV_YELLOW;
       else if (edb[mid][i][6]=='!') evt[i] = EV_RED;
       else if (edb[mid][i][6]=='*') evt[i] = EV_YELLOWRED;
+      else if (edb[mid][i][6]=='\\') { evt[i] = EV_PKSAVED; }
       nev++;
     }
   }
@@ -1788,6 +1825,7 @@ int main(int argc, char* argv[]) {
   }
   sprintf(sf, "%s", argv[1]);
   dvz = sf[0] - 32;
+  tier = dvz - 65;
   char spl[3];
   if (sf[1]=='.') seria = 0;
   else {
