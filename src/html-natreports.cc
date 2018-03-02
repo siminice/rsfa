@@ -978,7 +978,7 @@ void HTMLEventsBlock(int r, int a, int b) {
     if (evt[e]==EV_OWNGOAL) {
       hsc = 1-hsc;
     }
-    if (hsc==1) {
+    if (hsc==1 && evt[e]!=EV_YELLOW) {
       fprintf(of, "    <tr class=\"event    expanded\">\n");
       fprintf(of, "      <td class=\"player player-a\">\n");
       fprintf(of, "        <div>");
@@ -1017,7 +1017,7 @@ void HTMLEventsBlock(int r, int a, int b) {
       fprintf(of, "      </td>\n");
       fprintf(of, "    </tr>\n");
     }
-    else if (hsc==0) {
+    else if (hsc==0 && evt[e]!=EV_YELLOW) {
       fprintf(of, "    <tr class=\"event    expanded\">\n");
       fprintf(of, "      <td class=\"player player-a\">\n");
       fprintf(of, "        <div></div>\n");

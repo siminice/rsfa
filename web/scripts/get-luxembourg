@@ -1,11 +1,11 @@
 #!/bin/bash
 
 CURL="curl -s --get"
-SW="http://www.soccerway.com/national"
+SW="https://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "lux" "a" "national-division" "regular-season"
-${CURL} ${SW}/luxembourg-division/20172018/regular-season/r41575/matches/ > ${DIR}/lux/a.html
+${CURL} ${SW}/luxembourg/national-division/20172018/regular-season/r41575/matches/ > ${DIR}/lux/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "lux" "b" "promotion-dhonneur" "regular-season"
 ${CURL} ${SW}/luxembourg/promotion-dhonneur/20172018/regular-season/r41574/matches/ > ${DIR}/lux/b.html

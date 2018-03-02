@@ -1,18 +1,21 @@
 #!/bin/bash
 
 CURL="curl -s --get"
-SW="http://www.soccerway.com/national"
+SW="https://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "geo" "a" "umaglesi-liga" "regular-season"
-${CURL} ${SW}/georgia/umaglesi-liga/2017/regular-season/r39831/matches/ > ${DIR}/geo/a.html
+${CURL} ${SW}/georgia/umaglesi-liga/2018/regular-season/r45330/matches/ > ${DIR}/geo/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "geo" "b" "pirveli-liga" "regular-season"
-${CURL} ${SW}/georgia/pirveli-liga/2017/regular-season/r39854/matches/ > ${DIR}/geo/b.html
+${CURL} ${SW}/georgia/pirveli-liga/2018/regular-season/r45331/matches/ > ${DIR}/geo/b.html
 
-printf " %-3s > %-3s > %s > %s\n" "geo" "c1" "meore-liga" "promotion-group"
-${CURL} ${SW}/georgia/meore-liga/2017/promotion-group/r40331/matches/ > ${DIR}/geo/c1.html
+printf " %-3s > %-3s > %s > %s\n" "geo" "c" "meore-liga" "regular-season"
+${CURL} ${SW}/georgia/meore-liga/2018/regular-season/r45328/matches/ > ${DIR}/geo/c.html
 
-printf " %-3s > %-3s > %s > %s\n" "geo" "c2" "meore-liga" "relegation-round"
-${CURL} ${SW}/georgia/meore-liga/2017/relegation-round/r40332/matches/ > ${DIR}/geo/c2.html
+#printf " %-3s > %-3s > %s > %s\n" "geo" "c1" "meore-liga" "promotion-group"
+#${CURL} ${SW}/georgia/meore-liga/2018/promotion-group/r45327/matches/ > ${DIR}/geo/c1.html
+
+#printf " %-3s > %-3s > %s > %s\n" "geo" "c2" "meore-liga" "relegation-round"
+#${CURL} ${SW}/georgia/meore-liga/2018/relegation-round/r45329/matches/ > ${DIR}/geo/c2.html
 

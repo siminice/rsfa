@@ -1,15 +1,18 @@
 #!/bin/bash
 
 CURL="curl -s --get"
-SW="http://www.soccerway.com/national"
+SW="https://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
-printf " %-3s > %-3s > %s > %s\n" "per" "a" "primera-division" "clausura"
-${CURL} ${SW}/peru/primera-division/2017/apertura/r40091/matches/ > ${DIR}/per/a.html
+printf " %-3s > %-3s > %s > %s\n" "per" "a" "primera-division" "torneo-de-verano"
+${CURL} ${SW}/peru/primera-division/2018/torneo-de-verano/r45962/matches/ > ${DIR}/per/a.html
+
+#printf " %-3s > %-3s > %s > %s\n" "per" "a" "primera-division" "apertura"
+#${CURL} ${SW}/peru/primera-division/2018/apertura/r45960/matches/ > ${DIR}/per/a.html
 
 #printf " %-3s > %-3s > %s > %s\n" "per" "a" "primera-division" "clausura"
-#${CURL} ${SW}/peru/primera-division/2017/clausura/r40091/matches/ > ${DIR}/per/a.html
+#${CURL} ${SW}/peru/primera-division/2018/clausura/r45961/matches/ > ${DIR}/per/a.html
 
-printf " %-3s > %-3s > %s > %s\n" "per" "b" "segunda-division" "regular-season"
-${CURL} ${SW}/peru/segunda-division/2017/regular-season/r39784/matches/ > ${DIR}/per/b.html
+#printf " %-3s > %-3s > %s > %s\n" "per" "b" "segunda-division" "regular-season"
+#${CURL} ${SW}matches/ > ${DIR}/per/b.html
 

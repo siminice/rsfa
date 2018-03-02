@@ -5,9 +5,8 @@ update a.2018 ../web/den/a.html
 #update a.2018 ../web/den/a1.html
 #update a.2018 ../web/den/a2.html
 update b.2018 ../web/den/b.html
-update c1.2018 ../web/den/c1.html
-update c2.2018 ../web/den/c2.html
-update c3.2018 ../web/den/c3.html
-#update c.2018 ../web/den/c.html
-#update c4.2018 ../web/den/c4.html
-
+#update c1.2018 ../web/den/c1.html
+#update c2.2018 ../web/den/c2.html
+#update c3.2018 ../web/den/c3.html
+update c.2018 ../web/den/c.html
+update c4.2018 ../web/den/c4.html

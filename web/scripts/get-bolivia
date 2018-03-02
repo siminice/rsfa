@@ -1,12 +1,9 @@
 #!/bin/bash
 
 CURL="curl -s --get"
-SW="http://www.soccerway.com/national"
+SW="https://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
-printf " %-3s > %-3s > %s > %s\n" "bol" "a" "lfpb" "clausura"
-${CURL} ${SW}/bolivia/lfpb/20162017/clausura/r40150/matches/ > ${DIR}/bol/a.html
-
-printf " %-3s > %-3s > %s > %s\n" "bol" "b" "nacional-b" "regular-season"
-${CURL} ${SW}/bolivia/nacional-b/20172018/regular-season/r42451/matches/ > ${DIR}/bol/b.html
+printf " %-3s > %-3s > %s > %s\n" "bol" "a" "lfpb" "apertura"
+${CURL} ${SW}/bolivia/lfpb/2018/apertura/r45874/matches/ > ${DIR}/bol/a.html
 

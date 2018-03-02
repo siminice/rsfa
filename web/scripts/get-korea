@@ -1,15 +1,15 @@
 #!/bin/bash
 
 CURL="curl -s --get"
-SW="http://www.soccerway.com/national"
+SW="https://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "kor" "a" "k-league-classic" "regular-season"
-${CURL} ${SW}/korea-republic/k-league-classic/2017/regular-season/r39336/matches/ > ${DIR}/kor/a.html
+${CURL} ${SW}/korea-republic/k-league-classic/2018/regular-season/r45168/matches/ > ${DIR}/kor/a.html
 
 #printf " %-3s > %-3s > %s > %s\n" "kor" "a1" "k-league-classic" "championship-round"
-#${CURL} ${SW}/korea-republic/k-league-classic/2017/championship-round/r39335/matches/ > ${DIR}/kor/a1.html
+#${CURL} ${SW}/korea-republic/k-league-classic/2018/championship-round/r45167/matches/ > ${DIR}/kor/a1.html
 
 #printf " %-3s > %-3s > %s > %s\n" "kor" "a2" "k-league-classic" "relegation-round"
-#${CURL} ${SW}/korea-republic/k-league-classic/2017/relegation-round/r39337/matches/ > ${DIR}/kor/a2.html
+#${CURL} ${SW}/korea-republic/k-league-classic/2018/relegation-round/r45169/matches/ > ${DIR}/kor/a2.html
 

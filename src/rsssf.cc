@@ -318,8 +318,8 @@ int Extract(char *filename) {
   r = 0;
   m = fd/50;
   z = fd%50;
-  
-  while (!feof(f)) { 
+
+  while (!feof(f)) {
     fgets(s, 300, f);
     if (strstr(s, "ound")!=NULL) {
       Ranking();
@@ -377,7 +377,7 @@ int Extract(char *filename) {
         m = Month(tok[1]);
       }
     }
-    else if (strchr(s, '/') && (s[0]>='1' && s[0]<='9' && s[1]>='0' && s[1]<='9')) {
+/*    else if (strchr(s, '/') && (s[0]>='1' && s[0]<='9' && s[1]>='0' && s[1]<='9')) {
       tok[0] = strtok(s, "/");
       tok[1] = strtok(NULL, "/");
       tok[2] = strtok(NULL, "/\n");
@@ -386,7 +386,8 @@ int Extract(char *filename) {
         z = atoi(tok[2]);
       }
     }
-    else if ( 
+*/
+    else if (
       strstr(s, "Monday")!=NULL ||
       strstr(s, "Tuesday")!=NULL ||
       strstr(s, "Wednesday")!=NULL ||

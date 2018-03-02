@@ -1,15 +1,29 @@
 #!/bin/bash
 
 CURL="curl -s --get"
-SW="http://www.soccerway.com/national"
+SW="https://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
-printf " %-3s > %-3s > %s > %s\n" "bra" "a" "serie-a" "regular-season"
-${CURL} ${SW}/brazil/serie-a/2017/regular-season/r39899/matches/ > ${DIR}/bra/a.html
+printf " %-3s > %-3s > %s > %s\n" "bra" "l24" "paulista-a1" "regular-season"
+${CURL} ${SW}/brazil/paulista-a1/2018/regular-season/r41231/matches/ > ${DIR}/bra/l24.html
 
-printf " %-3s > %-3s > %s > %s\n" "bra" "b" "serie-b" "regular-season"
-${CURL} ${SW}/brazil/serie-b/2017/regular-season/r39675/matches/ > ${DIR}/bra/b.html
+printf " %-3s > %-3s > %s > %s\n" "bra" "l23" "carioca-1" "taca-rio"
+${CURL} ${SW}/brazil/carioca-1/2018/taca-rio/r41202/matches/ > ${DIR}/bra/l23.html
 
-printf " %-3s > %-3s > %s > %s\n" "bra" "c" "serie-c" "regular-season"
-${CURL} ${SW}/brazil/serie-c/2017/regular-season/r39402/matches/ > ${DIR}/bra/c.html
+printf " %-3s > %-3s > %s > %s\n" "bra" "l26" "gaucho-1" "regular-season"
+${CURL} ${SW}/brazil/gaucho-1/2018/regular-season/r41216/matches/ > ${DIR}/bra/l26.html
+
+printf " %-3s > %-3s > %s > %s\n" "bra" "l22" "mineiro-1" "regular-season"
+${CURL} ${SW}/brazil/mineiro-1/2018/regular-season/r41245/matches/ > ${DIR}/bra/l22.html
+
+#-------------------------------------------------------------------------
+
+#printf " %-3s > %-3s > %s > %s\n" "bra" "a" "serie-a" "regular-season"
+#${CURL} ${SW}/brazil/serie-a/2018/regular-season/r45710/matches/ > ${DIR}/bra/a.html
+
+#printf " %-3s > %-3s > %s > %s\n" "bra" "b" "serie-b" "regular-season"
+#${CURL} ${SW}/brazil/serie-b/2018/regular-season/r45448/matches/ > ${DIR}/bra/b.html
+
+#printf " %-3s > %-3s > %s > %s\n" "bra" "c" "serie-c" "regular-season"
+#${CURL} ${SW}/brazil/serie-c/2018/regular-season/r44509/matches/ > ${DIR}/bra/c.html
 

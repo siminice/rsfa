@@ -1,36 +1,36 @@
 #!/bin/bash
 
 CURL="curl -s --get"
-SW="http://www.soccerway.com/national"
+SW="https://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "nor" "a" "eliteserien" "regular-season"
-${CURL} ${SW}/norway/eliteserien/2017/regular-season/r39484/matches/ > ${DIR}/nor/a.html
+${CURL} ${SW}/norway/eliteserien/2018/regular-season/r45310/matches/ > ${DIR}/nor/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "nor" "b" "1-division" "regular-season"
-${CURL} ${SW}/norway/1-division/2017/regular-season/r39625/matches/ > ${DIR}/nor/b.html
+${CURL} ${SW}/norway/1-division/2018/regular-season/r45554/matches/ > ${DIR}/nor/b.html
 
 printf " %-3s > %-3s > %s > %s\n" "nor" "c1" "2-divisjon" "group-1"
-${CURL} ${SW}/norway/2-divisjon/2017/group-1/r39158/matches/ > ${DIR}/nor/c1.html
+${CURL} ${SW}/norway/2-divisjon/2018/group-1/r44270/matches/ > ${DIR}/nor/c1.html
 
 printf " %-3s > %-3s > %s > %s\n" "nor" "c2" "2-divisjon" "group-2"
-${CURL} ${SW}/norway/2-divisjon/2017/group-2/r39159/matches/ > ${DIR}/nor/c2.html
+${CURL} ${SW}/norway/2-divisjon/2018/group-2/r44271/matches/ > ${DIR}/nor/c2.html
 
 printf " %-3s > %-3s > %s > %s\n" "nor" "d1" "3divisjon" "group-1"
-${CURL} ${SW}/norway/3divisjon/2017/group-1/r39162/matches/ > ${DIR}/nor/d1.html
+${CURL} ${SW}/norway/3divisjon/2018/group-1/r44317/matches/ > ${DIR}/nor/d1.html
 
 printf " %-3s > %-3s > %s > %s\n" "nor" "d2" "3divisjon" "group-2"
-${CURL} ${SW}/norway/3divisjon/2017/group-2/r39166/matches/ > ${DIR}/nor/d2.html
+${CURL} ${SW}/norway/3divisjon/2018/group-2/r44318/matches/ > ${DIR}/nor/d2.html
 
 printf " %-3s > %-3s > %s > %s\n" "nor" "d3" "3divisjon" "group-3"
-${CURL} ${SW}/norway/3divisjon/2017/group-3/r39167/matches/ > ${DIR}/nor/d3.html
+${CURL} ${SW}/norway/3divisjon/2018/group-3/r44319/matches/ > ${DIR}/nor/d3.html
 
 printf " %-3s > %-3s > %s > %s\n" "nor" "d4" "3divisjon" "group-4"
-${CURL} ${SW}/norway/3divisjon/2017/group-4/r39168/matches/ > ${DIR}/nor/d4.html
+${CURL} ${SW}/norway/3divisjon/2018/group-4/r44320/matches/ > ${DIR}/nor/d4.html
 
 printf " %-3s > %-3s > %s > %s\n" "nor" "d5" "3divisjon" "group-5"
-${CURL} ${SW}/norway/3divisjon/2017/group-5/r39169/matches/ > ${DIR}/nor/d5.html
+${CURL} ${SW}/norway/3divisjon/2018/group-5/r44321/matches/ > ${DIR}/nor/d5.html
 
 printf " %-3s > %-3s > %s > %s\n" "nor" "d6" "3divisjon" "group-6"
-${CURL} ${SW}/norway/3divisjon/2017/group-6/r39170/matches/ > ${DIR}/nor/d6.html
+${CURL} ${SW}/norway/3divisjon/2018/group-6/r44322/matches/ > ${DIR}/nor/d6.html
 

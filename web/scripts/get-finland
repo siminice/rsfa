@@ -1,21 +1,21 @@
 #!/bin/bash
 
 CURL="curl -s --get"
-SW="http://www.soccerway.com/national"
+SW="https://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "fin" "a" "veikkausliiga" "regular-season"
-${CURL} ${SW}/finland/veikkausliiga/2017/regular-season/r39409/matches/ > ${DIR}/fin/a.html
+${CURL} ${SW}/finland/veikkausliiga/2018/regular-season/r44726/matches/ > ${DIR}/fin/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "fin" "b" "ykkonen" "regular-season"
-${CURL} ${SW}/finland/ykkonen/2017/regular-season/r39145/matches/ > ${DIR}/fin/b.html
+${CURL} ${SW}/finland/ykkonen/2018/regular-season/r44378/matches/ > ${DIR}/fin/b.html
 
 printf " %-3s > %-3s > %s > %s\n" "fin" "c1" "kakkonen" "group-a"
-${CURL} ${SW}/finland/kakkonen/2017/group-a/r39177/matches/ > ${DIR}/fin/c1.html
+${CURL} ${SW}/finland/kakkonen/2018/group-a/r44502/matches/ > ${DIR}/fin/c1.html
 
 printf " %-3s > %-3s > %s > %s\n" "fin" "c2" "kakkonen" "group-b"
-${CURL} ${SW}/finland/kakkonen/2017/group-b/r39178/matches/ > ${DIR}/fin/c2.html
+${CURL} ${SW}/finland/kakkonen/2018/group-b/r44503/matches/ > ${DIR}/fin/c2.html
 
 printf " %-3s > %-3s > %s > %s\n" "fin" "c3" "kakkonen" "group-c"
-${CURL} ${SW}/finland/kakkonen/2017/group-c/r39179/matches/ > ${DIR}/fin/c3.html
+${CURL} ${SW}/finland/kakkonen/2018/group-c/r44504/matches/ > ${DIR}/fin/c3.html
 

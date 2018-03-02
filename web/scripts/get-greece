@@ -1,7 +1,7 @@
 #!/bin/bash
 
 CURL="curl -s --get"
-SW="http://www.soccerway.com/national"
+SW="https://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "gre" "a" "super-league" "regular-season"
@@ -21,4 +21,16 @@ ${CURL} ${SW}/greece/football-league-2/20172018/group-3/r42455/matches/ > ${DIR}
 
 printf " %-3s > %-3s > %s > %s\n" "gre" "c4" "football-league-2" "group-4"
 ${CURL} ${SW}/greece/football-league-2/20172018/group-4/r42456/matches/ > ${DIR}/gre/c4.html
+
+printf " %-3s > %-3s > %s > %s\n" "gre" "c5" "football-league-2" "group-5"
+${CURL} ${SW}/greece/football-league-2/20172018/group-5/r43578/matches/ > ${DIR}/gre/c5.html
+
+printf " %-3s > %-3s > %s > %s\n" "gre" "c6" "football-league-2" "group-6"
+${CURL} ${SW}/greece/football-league-2/20172018/group-6/r43579/matches/ > ${DIR}/gre/c6.html
+
+printf " %-3s > %-3s > %s > %s\n" "gre" "c7" "football-league-2" "group-7"
+${CURL} ${SW}/greece/football-league-2/20172018/group-7/r43580/matches/ > ${DIR}/gre/c7.html
+
+printf " %-3s > %-3s > %s > %s\n" "gre" "c8" "football-league-2" "group-8"
+${CURL} ${SW}/greece/football-league-2/20172018/group-8/r43581/matches/ > ${DIR}/gre/c8.html
 

@@ -1,9 +1,9 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/rom
-update a.2018 ../web/rom/a.html
-#update a.2018 ../web/rom/a1.html
-#update a.2018 ../web/rom/a2.html
+#update a.2018 ../web/rom/a.html
+update a.2018 ../web/rom/a1.html
+update a.2018 ../web/rom/a2.html
 
 update b.2018 ../web/rom/b.html
 #update c1.2018 ../web/rom/c1.html

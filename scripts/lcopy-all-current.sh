@@ -1,12 +1,26 @@
 #!/bin/bash
 
 FOLDER="/var/www/html"
+CURR=2018
+PREV=2017
 
-ctty=(alb and arg arm aus aut aze bel blr bol bos bra bul chi chn col cro cyp cze den ecu eng est fae fin fra gau geo ger gib gre hun irl isl isr ita jap kaz kor kos lat lit lux mac mal mex mnt mol ned nir nor par per pol por rio rsm rus sao sco slo spa sui svk swe tur ukr uru usa ven wal yug)
+cttys=(alb and arg arm aus aut aze bel bos bul cro cyp cze den eng fra ger gib gre hun isr ita kos lux mac mal mex mnt mol ned nir pol por rsm rus sco slo spa sui svk tur ukr wal yug)
+cttyw=(blr est fae fin geo isl irl kaz lat lit nor swe bol bra chi col ecu par per uru ven chn jap kor usa sao rio gau min)
 # + ddr
 
-for t in ${!ctty[@]}
+echo "Fall/Spring ${#cttys[@]}"
+for t in ${!cttys[@]}
 do
-  echo $((t+1))/${#ctty[@]} " copying ${ctty[t]} ..."
-  lcopy-current.sh ${ctty[t]} ${FOLDER} > /dev/null
+  printf "%02d/%02d copying %s ...\n" $((t+1)) "${#cttys[@]}" "${cttys[t]}"
+#  echo $((t+1))/${#cttys[@]} " copying ${cttys[t]} ..."
+  lcopy-current.sh ${cttys[t]} ${CURR} ${FOLDER} > /dev/null
+done
+
+echo "Summer ${#cttyw[@]}"
+for t in ${!cttyw[@]}
+do
+  printf "%02d/%02d copying %s ...\n" $((t+1)) "${#cttyw[@]}" "${cttyw[t]}"
+#  echo $((t+1))/${#cttyw[@]} " copying ${cttyw[t]} ..."
+  lcopy-current.sh ${cttyw[t]} ${CURR} ${FOLDER} > /dev/null
+  lcopy-current.sh ${cttyw[t]} ${PREV} ${FOLDER} > /dev/null
 done

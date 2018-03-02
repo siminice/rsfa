@@ -1,7 +1,7 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/blr
-update a.2017 ../web/blr/a.html
-update b.2017 ../web/blr/b.html
-update c.2017 ../web/blr/c.html
+update a.2018 ../web/blr/a.html
+update b.2018 ../web/blr/b.html
+update c.2018 ../web/blr/c.html
 

@@ -1,7 +1,7 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/uru
-update a3.2017 ../web/uru/a.html
-update b.2017 ../web/uru/b.html
-update c2.2017 ../web/uru/c.html -g 2
+update a1.2018 ../web/uru/a.html
+update b.2018 ../web/uru/b.html
+update c.2018 ../web/uru/c.html
 

@@ -1,12 +1,15 @@
 #!/bin/bash
 
 CURL="curl -s --get"
-SW="http://www.soccerway.com/national"
+SW="https://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "lit" "a" "a-lyga" "regular-season"
-${CURL} ${SW}/lithuania/a-lyga/2017/regular-season/r40153/matches/ > ${DIR}/lit/a.html
+${CURL} ${SW}/lithuania/a-lyga/2018/regular-season/r45171/matches/ > ${DIR}/lit/a.html
+
+#printf " %-3s > %-3s > %s > %s\n" "lit" "a" "a-lyga" "championship-round"
+#${CURL} ${SW}/lithuania/a-lyga/2018/championship-round/r45170/matches/ > ${DIR}/lit/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "lit" "b" "1-lyga" "regular-season"
-${CURL} ${SW}/lithuania/1-lyga/2017/regular-season/r39174/matches/ > ${DIR}/lit/b.html
+${CURL} ${SW}/lithuania/1-lyga/2018/regular-season/r44323/matches/ > ${DIR}/lit/b.html
 

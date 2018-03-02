@@ -1,7 +1,7 @@
 #!/bin/bash
 
 CURL="curl -s --get"
-SW="http://www.soccerway.com/national"
+SW="https://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "nir" "a" "ifa-premiership" "regular-season"
@@ -13,14 +13,14 @@ ${CURL} ${SW}/northern-ireland/ifa-premiership/20172018/regular-season/r41353/ma
 #printf " %-3s > %-3s > %s > %s\n" "nir" "a2" "ifa-premiership" "relegation-round"
 #${CURL} ${SW}/northern-ireland/ifa-premiership/20172018/relegation-round/r41354/matches/ > ${DIR}/nir/a2.html
 
-printf " %-3s > %-3s > %s > %s\n" "nir" "b" "championship-1" "regular-season"
-${CURL} ${SW}/northern-ireland/championship-1/20172018/regular-season/r41037/matches/ > ${DIR}/nir/b.html
+#printf " %-3s > %-3s > %s > %s\n" "nir" "b" "championship-1" "regular-season"
+#${CURL} ${SW}/northern-ireland/championship-1/20172018/regular-season/r41037/matches/ > ${DIR}/nir/b.html
 
-#printf " %-3s > %-3s > %s > %s\n" "nir" "b1" "championship-1" "promotion-round"
-#${CURL} ${SW}/northern-ireland/championship-1/20172018/promotion-round/r41036/matches/ > ${DIR}/nir/b1.html
+printf " %-3s > %-3s > %s > %s\n" "nir" "b1" "championship-1" "promotion-round"
+${CURL} ${SW}/northern-ireland/championship-1/20172018/promotion-round/r41036/matches/ > ${DIR}/nir/b1.html
 
-#printf " %-3s > %-3s > %s > %s\n" "nir" "b2" "championship-1" "relegation-round"
-#${CURL} ${SW}/northern-ireland/championship-1/20172018/relegation-round/r41038/matches/ > ${DIR}/nir/b2.html
+printf " %-3s > %-3s > %s > %s\n" "nir" "b2" "championship-1" "relegation-round"
+${CURL} ${SW}/northern-ireland/championship-1/20172018/relegation-round/r41038/matches/ > ${DIR}/nir/b2.html
 
 printf " %-3s > %-3s > %s > %s\n" "nir" "c" "championship-2" "regular-season"
 ${CURL} ${SW}/northern-ireland/championship-2/20172018/regular-season/r40878/matches/ > ${DIR}/nir/c.html

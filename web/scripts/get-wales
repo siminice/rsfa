@@ -1,14 +1,14 @@
 #!/bin/bash
 
 CURL="curl -s --get"
-SW="http://www.soccerway.com/national"
+SW="https://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
-printf " %-3s > %-3s > %s > %s\n" "wal" "a1" "premier-league" "1st-phase"
-${CURL} ${SW}/wales/premier-league/20172018/1st-phase/r41356/matches/ > ${DIR}/wal/a.html
+#printf " %-3s > %-3s > %s > %s\n" "wal" "a1" "premier-league" "1st-phase"
+#${CURL} ${SW}/wales/premier-league/20172018/1st-phase/r41356/matches/ > ${DIR}/wal/a.html
 
-#printf " %-3s > %-3s > %s > %s\n" "wal" "a2" "premier-league" "2nd-phase"
-#${CURL} ${SW}/wales/premier-league/20172018/2nd-phase/r41357/matches/ > ${DIR}/wal/a2.html
+printf " %-3s > %-3s > %s > %s\n" "wal" "a2" "premier-league" "2nd-phase"
+${CURL} ${SW}/wales/premier-league/20172018/2nd-phase/r41357/matches/ > ${DIR}/wal/a.html
 
 printf " %-3s > %-3s > %s > %s\n" "wal" "b1" "feeder-leagues" "cymru-alliance"
 ${CURL} ${SW}/wales/feeder-leagues/20172018/cymru-alliance/r41061/matches/ > ${DIR}/wal/b1.html

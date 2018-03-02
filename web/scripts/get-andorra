@@ -1,7 +1,7 @@
 #!/bin/bash
 
 CURL="curl -s --get"
-SW="http://www.soccerway.com/national"
+SW="https://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "and" "a" "1a-divisio" "regular-season"
@@ -12,4 +12,7 @@ ${CURL} ${SW}/andorra/1a-divisio/20172018/regular-season/r41458/matches/ > ${DIR
 
 #printf " %-3s > %-3s > %s > %s\n" "and" "a2" "1a-divisio" "relegation-round"
 #${CURL} ${SW}/andorra/1a-divisio/20172018/relegation-round/r41459/matches/ > ${DIR}/and/a2.html
+
+printf " %-3s > %-3s > %s > %s\n" "and" "b" "2a-divisio" "regular-season"
+${CURL} ${SW}/andorra/2a-divisio/20172018/regular-season/r43424/matches/ > ${DIR}/and/b.html
 

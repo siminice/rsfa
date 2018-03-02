@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SW="http://www.soccerway.com"
+SW="https://www.soccerway.com"
 DIR="/home/radu/rsssf/sat/web"
 COUNTRY=$1
 SEASON=${2:-20162017}
@@ -8,7 +8,7 @@ SEASON=${2:-20162017}
 echo '#!/bin/bash'
 echo ''
 echo 'CURL="curl -s --get"'
-echo 'SW="http://www.soccerway.com/national"'
+echo 'SW="https://www.soccerway.com/national"'
 echo 'DIR="/home/radu/rsssf/sat/web"'
 echo ''
 

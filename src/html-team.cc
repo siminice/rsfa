@@ -316,18 +316,18 @@ int Load() {
 int CupData() {
   char s[128];
   int score[8];
-  FILE *f = fopen("cuparchive.dat", "rt");
-  if (f==NULL) {
-    fprintf(stderr, "ERROR: cannot find file 'cuparchive.dat'\n");
-    return 0;
-  }
   int na = LY[0]-FY[0]+1;
   cupp = new int*[na];
   for (int y=0; y<na; y++) {
     cupp[y] = new int[NC];
     for (int t=0; t<NC; t++) cupp[y][t] = -1;
   }
-  while (!feof(f)) {   
+  FILE *f = fopen("cuparchive.dat", "rt");
+  if (f==NULL) {
+    fprintf(stderr, "ERROR: cannot find file 'cuparchive.dat'\n");
+    return 0;
+  }
+  while (!feof(f)) {
     fgets(s, 128, f);
     if (strlen(s) > 10) {
       int year     = 75*(s[0]-48) + (s[1]-48) + 1870;

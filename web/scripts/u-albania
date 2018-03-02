@@ -2,10 +2,8 @@
 
 cd /home/radu/rsssf/sat/alb
 update a.2018 ../web/alb/a.html
-update b1.2018 ../web/alb/b1.html
-update b1.2018 ../web/alb/b2.html
-update b2.2018 ../web/alb/b1.html
-update b2.2018 ../web/alb/b2.html
+update b1.2018 ../web/alb/b.html
+update b2.2018 ../web/alb/b.html
 update c1.2018 ../web/alb/c1.html
 update c2.2018 ../web/alb/c2.html
 

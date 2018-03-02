@@ -1,9 +1,9 @@
 #!/bin/bash
 
 CURL="curl -s --get"
-SW="http://www.soccerway.com/national"
+SW="https://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "usa" "a" "mls" "regular-season"
-${CURL} ${SW}/united-states/mls/2017/regular-season/r39797/matches/ > ${DIR}/usa/a.html
+${CURL} ${SW}/united-states/mls/2018/regular-season/r45738/matches/ > ${DIR}/usa/a.html
 

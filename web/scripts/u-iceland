@@ -1,8 +1,8 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/isl
-update a.2017 ../web/isl/a.html
-update b.2017 ../web/isl/b.html
-update c.2017 ../web/isl/c.html
-update d.2017 ../web/isl/d.html
+update a.2018 ../web/isl/a.html
+update b.2018 ../web/isl/b.html
+update c.2018 ../web/isl/c.html
+update d.2018 ../web/isl/d.html
 

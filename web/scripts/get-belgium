@@ -1,7 +1,7 @@
 #!/bin/bash
 
 CURL="curl -s --get"
-SW="http://www.soccerway.com/national"
+SW="https://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
 printf " %-3s > %-3s > %s > %s\n" "bel" "a1" "pro-league" "regular-season"
@@ -13,11 +13,8 @@ ${CURL} ${SW}/belgium/pro-league/20172018/regular-season/r41608/matches/ > ${DIR
 #printf " %-3s > %-3s > %s > %s\n" "bel" "a2" "uefa-europa-league-play-offs" "group-stage"
 #${CURL} ${SW}/belgium/uefa-europa-league-play-offs/20172018/group-stage/r42433/matches/ > ${DIR}/bel/a2.html
 
-printf " %-3s > %-3s > %s > %s\n" "bel" "b" "second-division" "opening"
-${CURL} ${SW}/belgium/second-division/20172018/opening/r40899/matches/ > ${DIR}/bel/b.html
-
-#printf " %-3s > %-3s > %s > %s\n" "bel" "b" "second-division" "closing"
-#${CURL} ${SW}/belgium/second-division/20172018/closing/r40898/matches/ > ${DIR}/bel/b.html
+printf " %-3s > %-3s > %s > %s\n" "bel" "b" "second-division" "closing"
+${CURL} ${SW}/belgium/second-division/20172018/closing/r40898/matches/ > ${DIR}/bel/b.html
 
 #printf " %-3s > %-3s > %s > %s\n" "bel" "b2" "second-division" "relegation-round"
 #${CURL} ${SW}/belgium/second-division/20172018/relegation-round/r40901/matches/ > ${DIR}/bel/b2.html

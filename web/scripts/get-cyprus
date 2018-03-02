@@ -1,17 +1,17 @@
 #!/bin/bash
 
 CURL="curl -s --get"
-SW="http://www.soccerway.com/national"
+SW="https://www.soccerway.com/national"
 DIR="/home/radu/rsssf/sat/web"
 
-printf " %-3s > %-3s > %s > %s\n" "cyp" "a" "1-division" "regular-season"
-${CURL} ${SW}/cyprus/1-division/20172018/regular-season/r41683/matches/ > ${DIR}/cyp/a.html
+#printf " %-3s > %-3s > %s > %s\n" "cyp" "a" "1-division" "regular-season"
+#${CURL} ${SW}/cyprus/1-division/20172018/regular-season/r41683/matches/ > ${DIR}/cyp/a.html
 
-#printf " %-3s > %-3s > %s > %s\n" "cyp" "a1" "1-division" "championship-round"
-#${CURL} ${SW}/cyprus/1-division/20172018/championship-round/r41682/matches/ > ${DIR}/cyp/a1.html
+printf " %-3s > %-3s > %s > %s\n" "cyp" "a1" "1-division" "championship-round"
+${CURL} ${SW}/cyprus/1-division/20172018/championship-round/r41682/matches/ > ${DIR}/cyp/a1.html
 
-#printf " %-3s > %-3s > %s > %s\n" "cyp" "a2" "1-division" "relegation-round"
-#${CURL} ${SW}/cyprus/1-division/20172018/relegation-round/r41684/matches/ > ${DIR}/cyp/a2.html
+printf " %-3s > %-3s > %s > %s\n" "cyp" "a2" "1-division" "relegation-round"
+${CURL} ${SW}/cyprus/1-division/20172018/relegation-round/r41684/matches/ > ${DIR}/cyp/a2.html
 
 printf " %-3s > %-3s > %s > %s\n" "cyp" "b" "2-division" "regular-season"
 ${CURL} ${SW}/cyprus/2-division/20172018/regular-season/r40486/matches/ > ${DIR}/cyp/b.html

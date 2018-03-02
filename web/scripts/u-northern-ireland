@@ -4,9 +4,9 @@ cd /home/radu/rsssf/sat/nir
 update a.2018 ../web/nir/a.html
 #update a.2018 ../web/nir/a1.html
 #update a.2018 ../web/nir/a2.html
-update b.2018 ../web/nir/b.html
-#update b.2018 ../web/nir/b1.html
-#update b.2018 ../web/nir/b2.html
+#update b.2018 ../web/nir/b.html
+update b.2018 ../web/nir/b1.html
+update b.2018 ../web/nir/b2.html
 update c.2018 ../web/nir/c.html
 #update c.2018 ../web/nir/c1.html
 #update c.2018 ../web/nir/c2.html

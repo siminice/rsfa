@@ -1,7 +1,7 @@
 #!/bin/csh
 
 cd /home/radu/rsssf/sat/par
-update a2.2017 ../web/par/a.html
-update b.2017 ../web/par/b.html
+update a1.2018 ../web/par/a.html
+update b.2018 ../web/par/b.html
 
 

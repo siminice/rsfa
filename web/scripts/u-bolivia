@@ -2,6 +2,5 @@
 
 cd /home/radu/rsssf/sat/bol
 
-update a2.2017 ../web/bol/a.html
-#update b.2017 ../web/bol/b.html -g 2
-
+update a1.2018 ../web/bol/a.html
+#update b3.2018 ../web/bol/b.html -g 3
