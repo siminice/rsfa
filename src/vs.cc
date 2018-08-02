@@ -3,7 +3,7 @@
 #include <string.h>
 #include <dirent.h>
 
-#define MAX_LEVELS 12
+#define MAX_LEVELS 10
 
 int  NC, ND;
 char **club;

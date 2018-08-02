@@ -534,13 +534,14 @@ void LoadEvents() {
   fclose(f);
 }
 
+char ename[256];
+
 char *EuroName(int t, int nick, int y) {
   int ct = t/EURO;
   int cl = t%EURO;
   if (cl==0) return ctty[ct];
   char filename[128];
   char s[1024];
-	char *ename = new char[64];
   sprintf(ename, "%s/%d", ctty[ct], cl);
 //  sprintf(filename, "../%s/euroteams.dat", dir[ct]);
   sprintf(filename, "../%s/alias.dat", dir[ct]);
@@ -554,7 +555,7 @@ char *EuroName(int t, int nick, int y) {
 	tok[0] = strtok(s, "*\n");
 	for (j=1; j<20; ++j) tok[j] = strtok(NULL, "*\n");
 	j = 0;
-  do {
+    do {
 		ty = strtok(tok[j], " ");
 		ay = strtol(ty, NULL, 10);
 		if (ay<year) {
@@ -1844,7 +1845,7 @@ void SynopticTable() {
 int main(int argc, char* argv[]) {
   char filename[256];
 	ECFY = 1957;
-	ECLY = 2018;
+	ECLY = 2019;
 
   if (!Load()) {
     printf("ERROR: called from invalid drectory.\n");

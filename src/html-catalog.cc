@@ -1167,6 +1167,60 @@ void TeamStats(int year, int t, int pl) {
   }
 }
 
+void EuroTeamStats(int year, int t) {
+  int sm, st, sr, sg, sn, sp, sa, sh, scg, scr, xt;
+  int n = year - EFY;
+  int i = 0;
+
+  while (i<MAX_CEDB && cedb[n][i]!=NULL) {
+    xt = -1999;
+    if (cedb[n][i][CAT_CLUB]) xt = atoi(cedb[n][i][CAT_CLUB]);
+    if (t>=0 && xt!=t) {
+      i++;
+      continue;
+    }
+    int p = FindMnem(cedb[n][i][CAT_MNEM]);
+    if (p<0) {
+      fprintf(stderr, "ERROR: mnemonic ID %s not found.\n", cedb[n][i][CAT_MNEM]);
+      i++;
+      continue;
+    }
+    sm = st = sr = sg = 0;
+    sn = sp = sa = sh = 0;
+    scg = scr = 0;
+    if (cedb[n][i][CAT_CAPS])   sm  = atoi(cedb[n][i][CAT_CAPS]);
+    if (cedb[n][i][CAT_START])  st  = atoi(cedb[n][i][CAT_START]);
+    if (cedb[n][i][CAT_SUB])    sr  = atoi(cedb[n][i][CAT_SUB]);
+    if (cedb[n][i][CAT_GOALS])  sg  = atoi(cedb[n][i][CAT_GOALS]);
+    if (cedb[n][i][CAT_MIN])    sn  = atoi(cedb[n][i][CAT_MIN]);
+    if (cedb[n][i][CAT_PK])     sp  = atoi(cedb[n][i][CAT_PK]);
+    if (cedb[n][i][CAT_OWN])    sa  = atoi(cedb[n][i][CAT_OWN]);
+    if (cedb[n][i][CAT_GREC])   sh  = atoi(cedb[n][i][CAT_GREC]);
+    if (cedb[n][i][CAT_YELLOW]) scg = atoi(cedb[n][i][CAT_YELLOW]);
+    if (cedb[n][i][CAT_RED])    scr = atoi(cedb[n][i][CAT_RED]);
+
+      pmeci[p] += sm;
+      ptit[p]  += st;
+      prez[p]  += sr;
+      pgol[p]  += sg;
+	  pmin[p]  += sn;
+	  ppen[p]  += sp;
+	  pown[p]  += sa;
+	  prec[p]  += sh;
+      pyel[p]  += scg;
+      pred[p]  += scr;
+
+    if (sm>0) {
+      if (year!=pfy[p] && year!=ply[p]) psez[p]++;
+      if (pfy[p]==0) pfy[p] = year;
+      if (year<pfy[p]) pfy[p] = year;
+      if (year>ply[p]) ply[p] = year;
+    }
+
+    i++;
+  }
+}
+
 void HTMLLineupsBox(int year) {
 	int nty = 0;
 	int part[64];
@@ -2353,6 +2407,14 @@ void HTMLHeader(int t) {
   fprintf(of, "</HEAD>\n<BODY>\n");
 }
 
+void HTMLEuroHeader(int t) {
+  fprintf(of, "<HTML>\n<TITLE>Loturi %s în cupele europene</TITLE>\n", NameOf(L, t, 3000));
+  fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
+  fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
+  DatatablesHeader();
+  fprintf(of, "</HEAD>\n<BODY>\n");
+}
+
 void HTMLTable(int t) {
   fprintf(of, "<script src=\"sorttable.js\"></script>\n");
   if (t==TM_LIGA || t>=NC)
@@ -2448,14 +2510,34 @@ void HTMLAlltimeTeamStats(int t, int pl) {
     fclose(of);
 }
 
+void HTMLEuroAlltimeTeamStats(int t) {
+    ResetStats();
+    for (year=EFY; year<=ELY; year++) {
+      EuroTeamStats(year, t);
+    }
+    Sort(cr);
+
+    fprintf(stderr, "   Alltime eurocups %s.\n", NameOf(L, t, 3000));
+    sprintf(ofilename, "html/lot-euro-%d.html", t);
+    of = fopen(ofilename, "wt");
+    if (of==NULL) {
+      fprintf(stderr, "ERROR: could not open file %s.\n", ofilename);
+      return;
+    }
+    HTMLEuroHeader(t);
+    HTMLTable(t);
+    HTMLFooter();
+    fclose(of);
+}
+
 int main(int argc, char **argv) {
   current = 0;
   verbosity = 2;
-  CFY  = 1933; CLY = 2018;
-  KFY  = 1934; KLY = 2018;
-  EFY  = 1957; ELY = 2018;
-  NFY  = 1922; NLY = 2018;
-  FY   = 1922; LY  = 2018;
+  CFY  = 1933; CLY = 2019;
+  KFY  = 1934; KLY = 2019;
+  EFY  = 1957; ELY = 2019;
+  NFY  = 1922; NLY = 2019;
+  FY   = 1922; LY  = 2019;
   tm = -1;
   pl = -1;
   cr = CR_M;
@@ -2640,11 +2722,19 @@ int main(int argc, char **argv) {
     HTMLFooter();
     fclose(of);
 
-  ResetStats();
-  for (year=EFY; year<=ELY; year++) {
-    CollectCatalog(year, cedb, COMP_EURO);
-    EuroStats(year, TM_EURO);
-  }
+    ResetStats();
+    for (year=EFY; year<=ELY; year++) {
+      CollectCatalog(year, cedb, COMP_EURO);
+      EuroStats(year, TM_EURO);
+    }
+
+    if (tm<0) {
+      for (int et=0; et<NC; et++) {
+        if (ecc[et]>0) {
+          HTMLEuroAlltimeTeamStats(et);
+        }
+      }
+    }
 
     sprintf(ofilename, "html/catalog-euro.html");
     of = fopen(ofilename, "wt");

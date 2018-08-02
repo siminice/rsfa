@@ -239,7 +239,7 @@ int Load() {
           int l = strlen(dv);
           if (l==0 || l>3) continue;
           d = ((int) s[0]) - 97; 
-          if (d<0 || d>=MAX_LEVELS) continue;
+          if (d<0 || d>=10) continue;
           if (d+1>ND) ND = d+1;
           if (l>1) p = atoi(dv+1); else p = 1;
           if (p<0 && p>12) continue;

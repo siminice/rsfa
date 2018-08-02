@@ -825,7 +825,7 @@ void HTMLTeamRankingTable(Ranking *tr, int eur) {
       if (tm<EURO) fprintf(of, " BGCOLOR=\"EEFFFF\"");
       fprintf(of, ">");
       fprintf(of, "<TD>%d</TD>", i+1);
-      fprintf(of, "<TD>%s</TD>", ename);
+      fprintf(of, "<TD><A HREF=\"lot-euro-%d.html\">%s</A></TD>", tm, ename);
       fprintf(of, "<TD ALIGN=\"right\">%d</TD>", ng);
       fprintf(of, "<TD ALIGN=\"right\">%d</TD>", s.win);
       fprintf(of, "<TD ALIGN=\"right\">%d</TD>", s.drw);

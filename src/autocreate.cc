@@ -103,7 +103,7 @@ int main(int argc, char* argv[]) {
 
   tkn = 0;
   ppv = 3; tbr = 0;
-  promo1 = 1; promo2 = 2;
+  promo1 = 1; promo2 = 0;
   releg1 = 3; releg2 = 0;
 
   for (int i=1; i<argc; i++) {

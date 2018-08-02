@@ -3,7 +3,7 @@
 #include <string.h>
 #include "catalog.hh"
 
-#define MAX_LEVELS    12
+#define MAX_LEVELS    10
 #define MAX_RR         4
 #define MAX_N         64
 #define MAX_TEAMS   2000

@@ -1356,10 +1356,22 @@ void GetUtfPrefix(char *s, int plen) {
 }
 
 void GetInitial(int px, char *pini) {
+  int len = 0;
+  if (px>=0 && ppren[px]!=NULL && strlen(ppren[px])>0 && ppren[px][0]!=' ') {
+    do {
+      pini[len] = ppren[px][len];
+      len++;
+    } while ((((unsigned char)ppren[px][len]) & 0xc0) == 0x80);
+    pini[len++] = '.';
+    pini[len++] = ' ';
+  }
+  pini[len] = 0;
+/*
     pini[1] = '.'; pini[2] = 0;
     if (px<0 || ppren[px]==NULL || ppren[px][0]==' ') pini[0] = 0;
     else if (strlen(ppren[px])>0) pini[0] = ppren[px][0];
     else pini[0] = 0;
+*/
 }
 
 void HTMLPlayerLink(int px, int full) {

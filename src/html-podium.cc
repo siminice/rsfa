@@ -279,7 +279,7 @@ void Ranking() {
 
 void Listing() {
 
-  fprintf(of, "<TABLE BORDER=\"1\" CELLPADDING=\"2\" RULES=\"rows\" FRAME=\"box\">\n");
+  fprintf(of, "<TABLE BORDER=\"1\" CELLPADDING=\"2\" RULES=\"rows\" FRAME=\"box\" WIDTH=50%%>\n");
   fprintf(of, "<TR BGCOLOR=\"DDDDDD\">");
   fprintf(of, "<TH ALIGN=\"right\">#</TH>");
   fprintf(of, "<TH ALIGN=\"left\">Echipa</TH>");
@@ -323,7 +323,7 @@ int Medals() {
 
   fprintf(of, "<H2>Prezenţe pe podium</H2>\n");
 
-  fprintf(of, "<TABLE BORDER=\"1\" CELLPADDING=\"3\" RULES=\"cols\" FRAME=\"box\">\n");
+  fprintf(of, "<TABLE BORDER=\"1\" CELLPADDING=\"3\" RULES=\"cols\" FRAME=\"box\" WIDTH=50%%>\n");
   fprintf(of, "<TR BGCOLOR=\"DDDDDD\">");
   fprintf(of, "<TH WIDTH=\"100\" ALIGN=\"left\">Ediţia</TH>");
   for (int k=1; k<=MED; k++)

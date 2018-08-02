@@ -363,12 +363,12 @@ void Ranking() {
 
 void Listing() {
   char *utfname = new char[64];
-  printf("\nStandings:\n");
+  printf("\n\033[0mStandings:\n");
   for (int i=0; i<n; i++) {
     int x = rank[i];
     int grnk = i+1;
     if (NG>1) grnk = i%((n+NG-1)/NG)+1;
-    if (x==gla || x==glb) printf("\033[1m");
+    if (x==gla || x==glb) printf("\033[1;33m");
     printf("%2d.", i+1);
     sprintf(utfname, "%s", NameOf(L,id[x],year));
     printf("%-*s", 30+extras(utfname), utfname);
