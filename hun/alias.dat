@@ -2,7 +2,7 @@
 1900 Hungaria Budapest~Hungaria*1941 MTK Budapest~MTK*1950 Budapest Bastya~Bastya*1953 Vörös Lobogo SE~Voros Lobogo*1958 MTK Budapest*1975 MTK-VM Budapest*1991 MTK Hungaria Budapest*2008 MTK Budapest~MTK
 1900 Újpesti TE~Ujpest*1950 Budapesti Dózsa~Dózsa*1957 Újpest Dózsa~Ujpest*1992 Újpesti TE~Ujpest
 1900 Kispest Honvéd~Kispest*1950 Honvéd Budapest~Honved*1991 Kispest Honvéd~Honved*2003 Honvéd Budapest FC~Honved
-1800 Vasas Budapest~Vasas
+1800 Vas-és Fémmunkások SC~Vases*1943 Kinizsi Vasas Budapest~Vasas*1944 Nemzeti Kinizsi Budapest~Vasas*1945 Vasas SC Budapest~Vasas*1948 Vasas SE Budapest~Vasas*1957 Vasas SC Budapest~Vasas
 1800 Csepeli WMFC~Csepel*1945 Csepeli Vasas~Csepel*1958 Csepel SC~Csepel*2013 Csepel FC~Csepel
 1900 ETO Györ~Györ*1950 Györi Vasas ETO~Györ*1953 Vasas SE Györ~Györ*1957 Györi Vasas ETO~Györ*1985 Györi ETO FC~Györ*1992 Raba ETO Györ~Györ*1994 Györi ETO FC~Györ
 1900 Pécs Baránya~Pecs*1935 Pécsi VSK~Pecs*1947 Pécsi Lokomotiv~Pecs*1954 Pécsi Dózsa~Pecs*1973 Pécsi MSC~Pecs*2007 PMFC Pécs~Pecs
@@ -11,7 +11,7 @@
 1900 Sztalinváros VE~Sztalinvaros*1957 Kohut Dunaújváros~Dunaujvaros*1991 Dunaferr SE~Dunaferr*2008 Dunaújváros FC~Dunaujvaros*2012 Dunaújváros SE~Dunaujvaros
 1800 Békéscsaba Elöre~Békéscsaba*1992 Békéscsaba 1921 Elöre SE~Békéscsaba
 1800 Debreceni VSC~Debrecen*1950 Debreceni Lokomotiv~Debrecen*1960 Debreceni VSC~Debrecen
-1900 Szekesfehervári VT SK~Fehervar*1950 VT Vasas Szekesfehervár~Fehervar*1968 Videoton Szekesfehervár~Videoton*2006 SC Fehervár~Fehervar*2010 Videoton FC Szekesfehervár~Videoton
+1900 Szekesfehervári VT SK~Fehervar*1950 VT Vasas Szekesfehervár~Fehervar*1968 Videoton Szekesfehervár~Videoton*2006 SC Fehervár~Fehervar*2010 Videoton FC Szekesfehervár~Videoton*2019 MOL Vidi FC~Vidi
 1800 Matav Sopron~Sopron*2008 FC Sopron~Sopron*2012 Soproni VSE~Sopron
 1800 Kaposvári Rákóczi~Kaposvár
 1800 Tatabánya FC~Tatabanya*2014 Duna FC Tatabánya~Tatabanya
@@ -62,7 +62,7 @@
 1800 Kiskunhalas~Kiskunhalas
 1800 Hajdúböszörményi TE~Hajduböszörmeny
 1900 Siófoki Bányas~Siófok*1992 Siófok FC~Siófok*2004 Balaton Siófok FC~Balaton
-1800 Nagykanizsai Olajbányasz~Nagykanizsa*2000 FC Nagykanizsa~Nagykanizsa
+1800 Nagykanizsai Olajbányasz~Nagykanizsa*2000 FC Nagykanizsa~Nagykanizsa*2019 Nagykanizsai ULE~Nagykanizsa
 1800 Gazszer Akaszto~Gazszer
 1800 BVSC Budapest~BVSC
 1800 III Kerületi TVE Budapest~III Kerület
@@ -142,7 +142,7 @@
 1800 Marcali IFC~Marcali
 1800 Budapest Honvéd FC II~Honved II
 1800 Szigetszentmiklósi TK~Szentmiklos
-1800 FC Fehervár II~Feherhvar II*2011 Videoton II~Videoton II
+1800 FC Fehervár II~Feherhvar II*2011 Videoton II~Videoton II*2019 MOL Vidi II~Vidi II
 1800 Fóti SE~óti
 1800 Dunakezi ADtransz~Dunakez
 1800 Komaromi VSE~Komarom
@@ -200,3 +200,7 @@
 1800 Iváncsa KSE~Iváncsa
 1800 Füzesgyarmati SK~Füzesgyarmat
 1800 Tiszafuredi VSE~Tiszafuredi
+1800 Sajóbábony Vegyész SE~Sajóbábony 
+1800 Sényő Carnifex~Sényő
+1800 Taksony SE~Taksony
+1800 Ménfőcsanak ESK~Ménfőcsanak

@@ -1,4 +1,4 @@
-475
+481
 Spartak Moskva,Spartak Moskva
 Dinamo Moskva,Dinamo Moskva
 CSKA Moskva,CSKA Moskva
@@ -24,12 +24,12 @@ Tekstil Kamyshin,Tekstilshchik Kamyshin
 Spartak Vladikavkaz,Alania Vladikavkaz
 Baltika,Baltika Kaliningrad
 Krylya Sovetov,Krylia Sovetov Samara
-Nizhny Novgorod,Lokomotiv Nizhni Novgorod
+Lokomotiv Nizhny Novgorod,Lokomotiv Nizhni Novgorod
 Rostov,FK Rostov
 Chernomorets,Chernomorets Novorossiisk
 KAMAZ,Kamaz Naberezhnye Chelni
 Ural,Ural Ekaterinburg
-Sochi,FK Sochi
+FK Sochi,FK Sochi
 Luch Vladivostok,Luch Energia Vladivostok
 Lada Tolyatti,Lada Togliatti
 Tyumen,FK Tiumen
@@ -40,7 +40,7 @@ Rubin Kazan',Rubin Kazan
 Kuban' Krasnodar,Kuban Krasnodar
 FK Elista,FK Elista
 Okean,Okean Nahodka
-SKA Rostov-na-Donu,SKA Rostov
+Rostov-na-Donu,SKA Rostov
 Tiligul Tiraspol,Tiligul Tiraspol
 Bukovina Chernovtsy,Bukovina Chernovtsy
 TSK Simferopol',Tavria Simferopol
@@ -74,8 +74,8 @@ Metallurg Lipetsk,Metallurg Lipetsk
 Metal Novokuznetsk,Metallurg-Kuzbass Novokuznetsk
 Neftekhimik,Neftekhimik Nizhnekamsk
 Tom' Tomsk,Tom Tomsk
-Dinamo St. Petersburg,Dinamo St.Peterburg
-CRFSO Smolensk,FK Smolensk
+Sochi,Dinamo St.Peterburg
+Dnepr Smolensk,FK Smolensk
 Volgar Astrakhan,Volgar Gazprom Astrahan
 Yenisey,Metallurg Krasnoiarsk
 Nosta,Nosta Novotroitsk
@@ -120,7 +120,7 @@ Sakhalin,Sahalin Iuzhno Sahalinsk
 FK Novokuznetsk,Metallurg-Kuzbass Novokuznetsk
 Dinamo Barnaul,Dinamo Barnaul
 Selenga Ulan Ude,Selenga Ulan Ude
-Energomash Belgorod,Saliut Belgorod
+Salyut-Belgorod,Saliut Belgorod
 Volga Tver,Volga Tver
 Atommash Volgodonsk,Atommash Volgodonsk
 Ufa,Neftiannik Ufa
@@ -207,7 +207,7 @@ Saturn Naberezhnye Chelni,Saturn Naberezhnye Chelni
 FK Vidnoe,FK Vidnoe
 Almaz Moscova,Almaz Moscova
 Svetogoreþ Svetogorsk,Svetogoreþ Svetogorsk
-FK Onbinsk,FK Onbinsk
+Kvant,Kvant Obninsk
 Biokhimik Saransk,Biokhimik Saransk
 Metallurg Vyksa,Metallurg Vîksa
 Torpedo Pavlovo,Torpedo Pavlovo
@@ -444,7 +444,7 @@ Metiznik,Metiznik Magnitogorsk
 Verkhnyaya P,Uralelektromed Verhneaia Pîºma
 Kamaz II,KamAZ II Naberjnîe Celnî
 Okean II,Okean II Nahodka
-Dolgie Prudy,FK Dolgoprudnîi
+Dolgoprudny,FK Dolgoprudnîi
 Piter,Piter Sankt Peterburg
 Rus',Rus Sankt Peterburg
 Volgar Astrakhan II,Volgar Astrakhan II
@@ -459,7 +459,7 @@ Vybor-Kurbatovo,Vybor-Kurbatovo Voronezh
 Afips,Afips Afipskyi
 Anzhi II,Anzhi II Makhachkala
 Zhemchuzhyna Yalta,Zhemchuzhina Yalta
-Olimpiyets,ªahtior Peºelan
+Nizhny Novgorod,ªahtior Peshelan
 Serp i Molot,Serp i Molot Moskva
 Dinamo Odessa,Dinamo Odessa
 Elektrik,Elektrik Leningrad
@@ -474,3 +474,9 @@ Akademiya Futbola,Akademia Futbola Rostov
 Akademiya Yu. Konopleva,Akademia Yuri Konoplev
 Ural II,Ural Ekaterinburg II
 Orenburg II,Gazovik Orenburg II
+Chertanovo II,FK Certanovo II
+Leningradets,FK Leningradets
+Zvezda Perm,Zvezda Perm
+Ufa II,FK Ufa II
+Khimki II,FK Khimki II
+Urozhay,FK Urojai Krasnodar

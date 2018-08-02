@@ -8,7 +8,7 @@
 1800 FK Sarajevo~Sarajevo
 1800 Velež Mostar~Mostar
 1800 Pobeda Skopje~Skopje*1948 Vardar Skopje~Vardar
-1800 Lokomotiva Zagreb~Lok.Zagreb
+1800 Lokomotiva Zagreb~Lok Zagreb
 1900 BSK Beograd~BSK*1945 Metalac Beograd~Metalac*1950 BSK Beograd~BSK*1958 OFK Beograd
 1800 Proleter Zrenjanin~Proleter*2007 Banat Zrenjanin~Banat
 1800 Radnički Beograd~Radnički*2008 Radnički Jugopetrol Beograd~Radnički*2011 Radnički 1923 Beograd~Radnički
@@ -53,7 +53,7 @@
 1800 Sloboda Titovo Užice~Užice*1992 Sloboda Užice~Užice
 1800 Milicionar Beograd~Milicionar
 1800 Zeta Golubovci~Zeta
-1800 Zvezdara Beograd~Zvezdara
+1800 FK Bulbuderac~Bulbuderac*1974 OFK Zvezdara Beograd~Zvezdara*2013 FK Zvezdara Beograd~Zvezdara
 1800 Mladost Apatin~Apatin
 1900 Javor Ivanjica~Javor*2006 Habitfarm Ivanjica~Habitfarm*2007 Javor Ivanjica~Ivanjica
 1800 Budučnost Banatski Dvor~Banatski Dvor*2008 Banat Zrenjanin~Banat
@@ -120,7 +120,7 @@
 1800 Jedinstvo Stara Pazova~Stara Pazova
 1800 Radnički Nova Pazova~Nova Pazova
 1800 Spartak Debeljaca~Debeljaca
-1800 Mladost Backi Jarak~Jarak
+1800 Mladost Bački Jarak~Bački Jarak
 1800 Tekstilac Ites Odžaci~Odžaci
 1800 Jedinstvo Vršac~Vršac*2009 FK Vršac~Vršac
 1800 Radnički Sombor~Sombor
@@ -371,3 +371,4 @@
 1800 FK Tutin~Tutin
 1800 Budućnost Popovac~Popovac
 1800 FK Rtanj Boljevac~Rtanj
+1800 Zaplanjac Gadžin Han~Zaplanjac
