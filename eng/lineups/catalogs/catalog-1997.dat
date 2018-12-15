@@ -1,0 +1,632 @@
+bartvi,Vince,Bartram,1968-08-07,ENG,1, ,P,0,0,0,0,vince-bartram
+harple,Lee,Harper,1971-10-30,ENG,1, ,P,0,0,0,0,lee-harper
+lukijo,John,Lukic,1960-12-11,ENG,1,24,P,0,0,0,0,john-lukic
+seamda,David,Seaman,1963-09-19,ENG,1,1,P,0,0,0,0,david-seaman
+adamto,Tony,Adams,1966-10-10,ENG,1,6,F,0,0,0,0,tony-adams
+boulst,Steve,Bould,1962-11-16,ENG,1,5,F,0,0,0,0,steve-bould
+dixole,Lee,Dixon,1964-03-17,ENG,1,2,F,0,0,0,0,lee-dixon
+gislva,Valur,Gíslason,1977-09-08,ISL,1,2,F,0,0,0,0,valur-gislason
+keowma,Martin,Keown,1966-07-24,ENG,1,14,F,0,0,0,0,martin-keown
+marssc,Scott,Marshall,1973-05-01,SCO,1,25,F,0,0,0,0,scott-marshall
+mcgoga,Gavin,McGowan,1976-01-16,ENG,1,25,F,0,0,0,0,gavin-mcgowan
+rosema,Matthew,Rose,1975-09-24,ENG,1,25,F,0,0,0,0,matthew-rose
+upsoma,Matthew,Upson,1979-04-18,ENG,1,20,F,0,0,0,0,matthew-upson
+wintni,Nigel,Winterburn,1963-12-11,ENG,1,3,F,0,0,0,0,nigel-winterburn
+gardre,Rémi,Garde,1966-04-03,FRA,1,19,M,0,0,0,0,remi-garde
+hughst,Stephen,Hughes,1976-09-18,ENG,1,28,M,0,0,0,0,stephen-hughes_2
+parlra,Ray,Parlour,1973-03-07,ENG,1,15,M,0,0,0,0,ray-parlour
+platda,David,Platt,1966-06-10,ENG,1,7,M,0,0,0,0,david-platt
+sellia,Ian,Selley,1974-06-14,ENG,1,7,M,0,0,0,0,ian-selley
+shawpa,Paul,Shaw,1973-09-04,ENG,1,7,M,0,0,0,0,paul-shaw
+vieipa,Patrick,Vieira,1976-06-23,FRA,1,4,M,0,0,0,0,patrick-vieira
+anelni,Nicolas,Anelka,1979-03-14,FRA,1,9,A,0,0,0,0,nicolas-anelka
+bergde,Dennis,Bergkamp,1969-05-10,NED,1,10,A,0,0,0,0,dennis-bergkamp
+merspa,Paul,Merson,1968-03-20,ENG,1,10,A,0,0,0,0,paul-merson
+wrigia,Ian,Wright,1963-11-03,ENG,1,8,A,0,0,0,0,ian-wright
+hartjo,John,Hartson,1975-04-05,WAL,1, , ,0,0,0,0,john-hartson
+morrst,Steve,Morrow,1970-07-02,NIR,1, , ,0,0,0,0,steve-morrow
+linian,Andrew,Linighan,1962-06-18,ENG,1, , ,0,0,0,0,andrew-linighan
+heldgl,Glenn,Helder,1968-10-28,NED,1, , ,0,0,0,0,glenn-helder
+hilld1,David,Hillier,1969-12-19,ENG,1, , ,0,0,0,0,david-hillier
+dickpa,Paul,Dickov,1972-11-01,SCO,1, , ,0,0,0,0,paul-dickov
+bosnma,Mark,Bosnich,1972-01-13,AUS,2,1,P,0,0,0,0,mark-bosnich
+oakemi,Michael,Oakes,1973-10-30,ENG,2,13,P,0,0,0,0,michael-oakes
+rachad,Adam,Rachel,1976-12-10,ENG,2,30,P,0,0,0,0,adam-rachel
+charga,Gary,Charles,1970-04-13,ENG,2,2,F,0,0,0,0,gary-charles
+ehioug,Ugo,Ehiogu,1972-11-03,ENG,2,16,F,0,0,0,0,ugo-ehiogu
+graysi,Simon,Grayson,1969-12-16,ENG,2,16,F,0,0,0,0,simon-grayson
+hughd3,David,Hughes,1978-02-01,WAL,2,27,F,0,0,0,0,david-hughes_3
+nelsfe, ,Nélson,1971-11-05,POR,2,15,F,0,0,0,0,nelson_6
+scimri,Riccardo,Scimeca,1975-06-13,ENG,2,20,F,0,0,0,0,riccardo-scimeca
+soutga,Gareth,Southgate,1970-09-03,ENG,2,4,F,0,0,0,0,gareth-southgate
+staust,Steve,Staunton,1969-01-19,IRL,2,3,F,0,0,0,0,steve-staunton
+wrigal,Alan,Wright,1971-09-28,ENG,2,14,F,0,0,0,0,alan-wright
+curcsa,Sasa,Ćurčić,1972-02-14,YUG,2,26,M,0,0,0,0,sasa-curcic
+drapma,Mark,Draper,1970-11-11,ENG,2,8,M,0,0,0,0,mark-draper
+farrga,Gareth,Farrelly,1975-08-28,IRL,2,19,M,0,0,0,0,gareth-farrelly
+hendle,Lee,Hendrie,1977-05-18,ENG,2,17,M,0,0,0,0,lee-hendrie
+lescaa,Aaron,Lescott,1978-12-02,ENG,2,17,M,0,0,0,0,aaron-lescott
+murrsc,Scott,Murray,1974-05-26,SCO,2,24,M,0,0,0,0,scott-murray
+taylia,Ian,Taylor,1968-06-04,ENG,2,7,M,0,0,0,0,ian-taylor
+townan,Andy,Townsend,1963-07-23,IRL,2,6,M,0,0,0,0,andy-townsend
+collst,Stan,Collymore,1971-01-22,ENG,2,6,A,0,0,0,0,stan-collymore
+davin1,Neil,Davis,1973-08-15,ENG,2,23,A,0,0,0,0,neil-davis
+joacju,Julian,Joachim,1974-09-20,ENG,2,12,A,0,0,0,0,julian-joachim
+leexal,Alan,Lee,1978-08-21,IRL,2,12,A,0,0,0,0,alan-lee
+milosa,Savo,Milošević,1973-09-02,YUG,2,9,A,0,0,0,0,savo-milosevic
+walkri,Richard,Walker,1977-11-08,ENG,2,9,A,0,0,0,0,richard-walker
+yorkdw,Dwight,Yorke,1971-11-03,TRI,2,18,A,0,0,0,0,dwight-yorke
+johnto,Tommy,Johnson,1971-01-15,ENG,2, , ,0,0,0,0,tommy-johnson
+tileca,Carl,Tiler,1970-02-11,ENG,2, , ,0,0,0,0,carl-tiler
+colgni,Nick,Colgan,1973-09-19,IRL,25,23,P,0,0,0,0,nick-colgan
+grodfr,Frode,Grodås,1964-10-24,NOR,25,30,P,0,0,0,0,frode-grodas
+hitcke,Kevin,Hitchcock,1962-10-05,ENG,25,13,P,0,0,0,0,kevin-hitchcock
+khardm,Dmitriy,Kharin,1968-08-16,RUS,25,1,P,0,0,0,0,dmitriy-kharin
+clarst,Steve,Clarke,1963-08-29,SCO,25,6,F,0,0,0,0,steve-clarke
+clemne,Neil,Clement,1978-10-03,ENG,25,26,F,0,0,0,0,neil-clement
+dubemi,Michael,Duberry,1975-10-14,ENG,25,12,F,0,0,0,0,michael-duberry
+granda,Danny,Granville,1975-01-19,ENG,25,28,F,0,0,0,0,danny-granville
+johner,Erland,Johnsen,1967-04-05,NOR,25,18,F,0,0,0,0,erland-johnsen
+lebofr,Frank,Leboeuf,1968-01-22,FRA,25,5,F,0,0,0,0,frank-leboeuf
+lee_da,David,Lee,1969-11-26,ENG,25,15,F,0,0,0,0,david-lee_2
+myeran,Andrew,Myers,1973-11-03,ENG,25,8,F,0,0,0,0,andrew-myers
+parkpa,Paul,Parker,1964-04-04,ENG,25,19,F,0,0,0,0,paul-parker
+petrda,Dan,Petrescu,1967-12-22,ROM,25,2,F,0,0,0,0,dan-petrescu
+sincfr,Frank,Sinclair,1971-12-03,JAM,25,20,F,0,0,0,0,frank-sinclair
+burlcr,Craig,Burley,1971-09-24,SCO,25,14,M,0,0,0,0,craig-burley
+mattrd,Roberto,Di Matteo,1970-05-29,ITA,25,16,M,0,0,0,0,roberto-di-matteo
+gullru,Ruud,Gullit,1962-09-01,NED,25,4,M,0,0,0,0,ruud-gullit
+harljo,Jon,Harley,1979-09-26,ENG,25,4,M,0,0,0,0,jon-harley
+hughpa,Paul,Hughes,1976-04-19,ENG,25,27,M,0,0,0,0,paul-hughes
+morrj2,Jody,Morris,1978-12-22,ENG,25,21,M,0,0,0,0,jody-morris
+newted,Eddie,Newton,1971-12-13,ENG,25,24,M,0,0,0,0,eddie-newton
+rocada,David,Rocastle,1967-05-02,ENG,25,24,M,0,0,0,0,david-rocastle
+wisede,Dennis,Wise,1966-12-16,ENG,25,24,M,0,0,0,0,dennis-wise
+hughma,Mark,Hughes,1963-11-01,WAL,25,10,A,0,0,0,0,mark-hughes
+nichma,Mark,Nicholls,1977-05-30,ENG,25,22,A,0,0,0,0,mark-nicholls
+sheejo,Joe,Sheerin,1977-11-08,ENG,25,29,A,0,0,0,0,joe-sheerin
+steima,Mark,Stein,1966-01-28,RSA,25,29,A,0,0,0,0,mark-stein
+vialgi,Gianluca,Vialli,1964-07-09,ITA,25,9,A,0,0,0,0,gianluca-vialli
+zolagi,Gianfranco,Zola,1966-07-05,ITA,25,25,A,0,0,0,0,gianfranco-zola
+mintsc,Scott,Minto,1971-08-06,ENG,25, , ,0,0,0,0,scott-minto
+spenjo,John,Spencer,1970-09-11,SCO,25, , ,0,0,0,0,john-spencer
+forrcr,Craig,Forrest,1967-09-20,CAN,25, , ,0,0,0,0,craig-forrest
+phelte,Terry,Phelan,1967-03-16,IRL,25, , ,0,0,0,0,terry-phelan
+kjelja,Jakob,Kjeldberg,1969-10-21,DEN,25, , ,0,0,0,0,jakob-kjeldberg
+filajo,John,Filan,1970-02-08,AUS,30,13,P,0,0,0,0,john-filan
+ogrist,Steve,Ogrizovic,1957-09-12,ENG,30,1,P,0,0,0,0,steve-ogrizovic
+blakti,Tim,Blake,1975-09-25,WAL,30,38,F,0,0,0,0,tim-blake
+borrbr,Brian,Borrows,1960-12-20,ENG,30,38,F,0,0,0,0,brian-borrows
+breega,Gary,Breen,1973-12-12,IRL,30,38,F,0,0,0,0,gary-breen
+burrda,David,Burrows,1968-10-25,ENG,30,3,F,0,0,0,0,david-burrows
+daisli,Liam,Daish,1968-07-23,IRL,30,5,F,0,0,0,0,liam-daish
+hallma,Marcus,Hall,1976-03-24,ENG,30,18,F,0,0,0,0,marcus-hall
+shawri,Richard,Shaw,1968-09-11,ENG,30,2,F,0,0,0,0,richard-shaw
+willp1,Paul,Williams,1971-03-26,ENG,30,4,F,0,0,0,0,paul-williams
+willad,Adam,Willis,1976-09-21,ENG,30,31,F,0,0,0,0,adam-willis
+yevtol,Oleksandr,Yevtushok,1970-01-11,UKR,30,23,F,0,0,0,0,oleksandr-yevtushok
+bolawi,Willie,Boland,1975-08-06,IRL,30,17,M,0,0,0,0,willie-boland
+costlo,Lorcan,Costello,1976-11-11,IRL,30,30,M,0,0,0,0,lorcan-costello
+eustjo,John,Eustace,1979-11-03,ENG,30,30,M,0,0,0,0,john-eustace
+gillga,Gary,Gillespie,1960-07-05,SCO,30,30,M,0,0,0,0,gary-gillespie
+goodsc,Scott,Goodwin,1978-09-13,ENG,30,29,M,0,0,0,0,scott-goodwin
+isaiis, ,Isaías,1963-11-17,BRA,30,15,M,0,0,0,0,isaias_2
+mcalga,Gary,McAllister,1964-12-25,SCO,30,10,M,0,0,0,0,gary-mcallister
+oneimi,Michael,O'Neill,1969-07-05,NIR,30,20,M,0,0,0,0,michael-oneill
+quinba,Barry,Quinn,1979-05-09,IRL,30,20,M,0,0,0,0,barry-quinn
+richke,Kevin,Richardson,1962-12-04,ENG,30,6,M,0,0,0,0,kevin-richardson
+salajo,John,Salako,1969-02-11,ENG,30,11,M,0,0,0,0,john-salako
+shilsa,Samuel,Shilton,1978-07-21,ENG,30,37,M,0,0,0,0,samuel-shilton
+strago,Gordon,Strachan,1957-02-09,SCO,30,26,M,0,0,0,0,gordon-strachan
+telfpa,Paul,Telfer,1971-10-21,SCO,30,12,M,0,0,0,0,paul-telfer
+dubldi,Dion,Dublin,1969-04-22,ENG,30,9,A,0,0,0,0,dion-dublin
+ducran,Andrew,Ducros,1977-09-16,ENG,30,21,A,0,0,0,0,andrew-ducros
+faulcr,Craig,Faulconbridge,1978-04-20,ENG,30,35,A,0,0,0,0,craig-faulconbridge
+hawosi,Simon,Haworth,1977-03-30,WAL,30,35,A,0,0,0,0,simon-haworth
+huckda,Darren,Huckerby,1976-04-23,ENG,30,28,A,0,0,0,0,darren-huckerby
+jesseo,Eoin,Jess,1970-12-13,SCO,30,7,A,0,0,0,0,eoin-jess
+ndlope,Peter,Ndlovu,1973-02-25,ZIM,30,14,A,0,0,0,0,peter-ndlovu
+whelno,Noel,Whelan,1974-12-30,ENG,30,8,A,0,0,0,0,noel-whelan
+genare,Régis,Génaux,1973-08-31,BEL,30, , ,0,0,0,0,regis-genaux
+houlru,Russell,Hoult,1972-11-22,ENG,35, ,P,0,0,0,0,russell-hoult
+poomma,Mart,Poom,1972-02-03,EST,35, ,P,0,0,0,0,mart-poom
+robid1,Danny,Robinson,1982-09-01,ENG,35, ,P,0,0,0,0,danny-robinson
+carbma,Matt,Carbon,1975-06-08,ENG,35, ,F,0,0,0,0,matt-carbon
+dailch,Christian,Dailly,1973-10-23,SCO,35, ,F,0,0,0,0,christian-dailly
+laurja,Jacob,Laursen,1971-10-06,DEN,35, ,F,0,0,0,0,jacob-laursen
+mcgrpa,Paul,McGrath,1959-12-04,IRL,35, ,F,0,0,0,0,paul-mcgrath
+powech,Chris,Powell,1969-09-08,ENG,35, ,F,0,0,0,0,chris-powell
+remych,Christophe,Rémy,1971-08-06,FRA,35, ,F,0,0,0,0,christophe-remy
+roweg1,Gary,Rowett,1974-03-06,ENG,35, ,F,0,0,0,0,gary-rowett
+stimig,Igor,Štimac,1967-09-06,CRO,35, ,F,0,0,0,0,igor-stimac
+yatede,Dean,Yates,1967-10-26,ENG,35, ,F,0,0,0,0,dean-yates
+asanal,Aljoša,Asanović,1965-12-14,CRO,35,10,M,0,0,0,0,aljosa-asanovic
+carsle,Lee,Carsley,1974-02-28,IRL,35,10,M,0,0,0,0,lee-carsley
+flynse,Sean,Flynn,1968-03-13,ENG,35,10,M,0,0,0,0,sean-flynn
+powed1,Darryl,Powell,1971-01-15,JAM,35,10,M,0,0,0,0,darryl-powell
+simppa,Paul,Simpson,1966-07-26,ENG,35,10,M,0,0,0,0,paul-simpson
+solima,Mauricio,Solís,1972-12-13,CRC,35,10,M,0,0,0,0,mauricio-solis
+trolpa,Paul,Trollope,1972-06-03,WAL,35,10,M,0,0,0,0,paul-trollope
+laanrv,Robin van der,Laan,1968-09-05,NED,35,10,M,0,0,0,0,robin-van-der-laan
+gabbma,Marco,Gabbiadini,1968-01-20,ENG,35,10,A,0,0,0,0,marco-gabbiadini
+huntjo,Jonathan,Hunt,1971-11-02,ENG,35,10,A,0,0,0,0,jonathan-hunt
+rahmma,Marino,Rahmberg,1974-08-07,SWE,35,10,A,0,0,0,0,marino-rahmberg
+sturde,Dean,Sturridge,1973-07-27,ENG,35,10,A,0,0,0,0,dean-sturridge
+wancpa,Paulo,Wanchope,1976-07-31,CRC,35,10,A,0,0,0,0,paulo-wanchope
+wardas,Ashley,Ward,1970-11-24,ENG,35,10,A,0,0,0,0,ashley-ward
+willro,Ron,Willems,1966-09-20,NED,35,10,A,0,0,0,0,ron-willems
+parkpa,Paul,Parker,1964-04-04,ENG,35, , ,0,0,0,0,paul-parker
+taylma,Martin,Taylor,1966-12-09,ENG,35, , ,0,0,0,0,martin-taylor_2
+gerrpa,Paul,Gerrard,1973-01-22,ENG,37, ,P,0,0,0,0,paul-gerrard
+soutne,Neville,Southall,1958-09-16,WAL,37, ,P,0,0,0,0,neville-southall
+alleg1,Graham,Allen,1977-04-08,ENG,37, ,F,0,0,0,0,graham-allen
+ballmi,Michael,Ball,1979-10-02,ENG,37, ,F,0,0,0,0,michael-ball
+barrea,Earl,Barrett,1967-04-28,ENG,37, ,F,0,0,0,0,earl-barrett
+dunnri,Richard,Dunne,1979-09-21,IRL,37,4,F,0,0,0,0,richard-dunne
+hilljo,John,Hills,1978-04-21,ENG,37,4,F,0,0,0,0,john-hills
+hincan,Andy,Hinchcliffe,1969-02-05,ENG,37,4,F,0,0,0,0,andy-hinchcliffe
+hottma,Marc,Hottiger,1967-11-07,SUI,37,4,F,0,0,0,0,marc-hottiger
+oconjo,Jonathan,O'Connor,1976-10-29,ENG,37,4,F,0,0,0,0,jonathan-oconnor
+phelte,Terry,Phelan,1967-03-16,IRL,37,4,F,0,0,0,0,terry-phelan
+shorcr,Craig,Short,1968-06-25,ENG,37,4,F,0,0,0,0,craig-short
+thomcl,Claus,Thomsen,1970-05-31,DEN,37,4,F,0,0,0,0,claus-thomsen
+unswda,David,Unsworth,1973-10-16,ENG,37,4,F,0,0,0,0,david-unsworth
+watsd1,Dave,Watson,1961-11-20,ENG,37,4,F,0,0,0,0,dave-watson_2
+barmni,Nick,Barmby,1974-02-11,ENG,37,4,M,0,0,0,0,nick-barmby
+granto,Tony,Grant,1974-11-14,ENG,37,4,M,0,0,0,0,tony-grant_2
+limpan,Anders,Limpar,1965-09-24,SWE,37,4,M,0,0,0,0,anders-limpar
+mccaga,Gavin,McCann,1978-01-10,ENG,37,4,M,0,0,0,0,gavin-mccann
+parkj2,Joseph,Parkinson,1971-06-11,ENG,37,4,M,0,0,0,0,joseph-parkinson
+speega,Gary,Speed,1969-09-08,WAL,37,4,M,0,0,0,0,gary-speed
+stuagr,Graham,Stuart,1970-10-24,ENG,37,4,M,0,0,0,0,graham-stuart
+branmi,Michael,Branch,1978-10-18,ENG,37,4,A,0,0,0,0,michael-branch
+cadada,Danny,Cadamarteri,1979-10-12,ENG,37,4,A,0,0,0,0,danny-cadamarteri
+fergdu,Duncan,Ferguson,1971-12-27,SCO,37,4,A,0,0,0,0,duncan-ferguson
+jevoph,Phil,Jevons,1979-08-01,ENG,37,4,A,0,0,0,0,phil-jevons
+kancan,Andrey,Kanchelskis,1969-01-23,RUS,37, , ,0,0,0,0,andrey-kanchelskis
+ridepa,Paul,Rideout,1964-08-14,ENG,37, , ,0,0,0,0,paul-rideout
+ebbrjo,John,Ebbrell,1969-10-01,ENG,37, , ,0,0,0,0,john-ebbrell
+beenma,Mark,Beeney,1967-12-30,ENG,49, ,P,0,0,0,0,mark-beeney
+martni,Nigel,Martyn,1966-08-11,ENG,49,1,P,0,0,0,0,nigel-martyn
+dorito,Tony,Dorigo,1965-12-31,ENG,49,3,F,0,0,0,0,tony-dorigo
+hallgu,Gunnar,Halle,1965-08-11,NOR,49,3,F,0,0,0,0,gunnar-halle
+hartia,Ian,Harte,1977-08-31,IRL,49,3,F,0,0,0,0,ian-harte
+jackm1,Mark,Jackson,1977-09-30,ENG,49,3,F,0,0,0,0,mark-jackson_2
+jobsri,Richard,Jobson,1963-05-09,ENG,49,3,F,0,0,0,0,richard-jobson
+kellg1,Gary,Kelly,1974-07-09,IRL,49,2,F,0,0,0,0,gary-kelly
+maybal,Alan,Maybury,1978-08-08,IRL,49,27,F,0,0,0,0,alan-maybury
+molero,Robert,Molenaar,1969-02-27,NED,49,30,F,0,0,0,0,robert-molenaar
+pembjo,John,Pemberton,1964-11-18,ENG,49,30,F,0,0,0,0,john-pemberton
+radelu,Lucas,Radebe,1969-04-12,RSA,49,5,F,0,0,0,0,lucas-radebe
+robed2,David,Robertson,1968-10-17,SCO,49,5,F,0,0,0,0,david-robertson_2
+wethda,David,Wetherall,1971-03-14,ENG,49,5,F,0,0,0,0,david-wetherall
+blunja,Jason,Blunt,1977-08-16,ENG,49,5,M,0,0,0,0,jason-blunt
+bowyle,Lee,Bowyer,1977-01-03,ENG,49,11,M,0,0,0,0,lee-bowyer
+boylwe,Wesley,Boyle,1979-03-30,NIR,49,11,M,0,0,0,0,wesley-boyle
+couzan,Andrew,Couzens,1975-06-04,ENG,49,11,M,0,0,0,0,andrew-couzens
+fordma,Mark,Ford,1975-10-10,ENG,49,11,M,0,0,0,0,mark-ford
+graya2,Andy,Gray,1977-11-15,SCO,49,11,M,0,0,0,0,andy-gray
+keweha,Harry,Kewell,1978-09-22,AUS,49,10,M,0,0,0,0,harry-kewell
+mcphst,Stephen,McPhail,1979-12-09,IRL,49,14,M,0,0,0,0,stephen-mcphail
+palmc1,Carlton,Palmer,1965-12-05,ENG,49,14,M,0,0,0,0,carlton-palmer
+sharle,Lee,Sharpe,1971-05-27,ENG,49,7,M,0,0,0,0,lee-sharpe
+wrigan,Andrew,Wright,1978-10-21,ENG,49,7,M,0,0,0,0,andrew-wright_3
+deanbr,Brian,Deane,1968-02-07,ENG,49,7,A,0,0,0,0,brian-deane
+laurpi,Pierre,Laurent,1970-12-13,FRA,49,7,A,0,0,0,0,pierre-laurent
+lillde,Derek,Lilley,1974-02-09,SCO,49,7,A,0,0,0,0,derek-lilley
+rushia,Ian,Rush,1961-10-20,WAL,49,7,A,0,0,0,0,ian-rush
+sheppa,Paul,Shepherd,1977-11-17,ENG,49,7,A,0,0,0,0,paul-shepherd
+wallro,Rodney,Wallace,1969-10-02,ENG,49,7,A,0,0,0,0,rodney-wallace_2
+yeboto,Tony,Yeboah,1966-06-06,GHA,49,21,A,0,0,0,0,tony-yeboah
+beespa,Paul,Beesley,1965-07-21,ENG,49, , ,0,0,0,0,paul-beesley
+hatema,Mark,Hateley,1961-11-07,ENG,49, , ,0,0,0,0,mark-hateley
+tinkma,Mark,Tinkler,1974-10-24,ENG,49, , ,0,0,0,0,mark-tinkler
+andria,Ian,Andrews,1964-12-01,ENG,51, ,P,0,0,0,0,ian-andrews_2
+kellka,Kasey,Keller,1969-11-29,USA,51,13,P,0,0,0,0,kasey-keller
+poolke,Kevin,Poole,1963-07-21,ENG,51,1,P,0,0,0,0,kevin-poole
+ellima,Matt,Elliott,1968-11-01,SCO,51,18,F,0,0,0,0,matt-elliott
+kamapo,Pontus,Kåmark,1969-04-05,SWE,51,15,F,0,0,0,0,pontus-kamark
+marsia,Ian,Marshall,1966-03-20,ENG,51,20,F,0,0,0,0,ian-marshall
+priosp,Spencer,Prior,1971-04-22,ENG,51,17,F,0,0,0,0,spencer-prior
+ullaro,Robert,Ullathorne,1971-10-11,ENG,51,19,F,0,0,0,0,robert-ullathorne
+walsst,Steve,Walsh,1964-11-03,ENG,51,5,F,0,0,0,0,steve-walsh
+wattju,Julian,Watts,1971-03-17,ENG,51,4,F,0,0,0,0,julian-watts
+whitm1,Mike,Whitlow,1968-01-13,ENG,51,3,F,0,0,0,0,mike-whitlow
+willj1,Jimmy,Willis,1968-07-12,ENG,51,4,F,0,0,0,0,jimmy-willis
+campst,Stuart,Campbell,1977-12-09,ENG,51,26,M,0,0,0,0,stuart-campbell
+guppst,Steve,Guppy,1969-03-29,ENG,51,24,M,0,0,0,0,steve-guppy
+izzemu,Muzzy,Izzet,1974-10-31,TUR,51,6,M,0,0,0,0,muzzy-izzet
+lenhsa,Sascha,Lenhart,1973-12-16,GER,51,28,M,0,0,0,0,sascha-lenhart
+lennne,Neil,Lennon,1971-06-25,NIR,51,7,M,0,0,0,0,neil-lennon
+mcmasa,Samuel,McMahon,1976-02-10,ENG,51,23,M,0,0,0,0,samuel-mcmahon
+parkga,Garry,Parker,1965-09-07,ENG,51,10,M,0,0,0,0,garry-parker
+tayls1,Scott,Taylor,1970-11-23,ENG,51,8,M,0,0,0,0,scott-taylor_2
+wilsst,Stuart,Wilson,1977-09-16,ENG,51,25,M,0,0,0,0,stuart-wilson
+clars1,Steve,Claridge,1966-04-10,ENG,51,9,A,0,0,0,0,steve-claridge
+heskem,Emile,Heskey,1978-01-11,ENG,51,11,A,0,0,0,0,emile-heskey
+robim2,Mark,Robins,1969-12-22,ENG,51,11,A,0,0,0,0,mark-robins
+rollfr,Franck,Rolling,1968-08-23,FRA,51,16,A,0,0,0,0,franck-rolling
+graysi,Simon,Grayson,1969-12-16,ENG,51, , ,0,0,0,0,simon-grayson
+lawrja,James,Lawrence,1970-03-08,JAM,51, , ,0,0,0,0,james-lawrence
+hillco,Colin,Hill,1963-11-12,NIR,51, , ,0,0,0,0,colin-hill
+lewine,Neil,Lewis,1974-06-28,ENG,51, , ,0,0,0,0,neil-lewis
+jameda,David,James,1970-08-01,ENG,54,1,P,0,0,0,0,david-james
+nieljo,Jørgen,Nielsen,1971-05-06,DEN,54,1,P,0,0,0,0,joergen-nielsen
+stenmi,Michael,Stensgaard,1974-09-01,DEN,54,1,P,0,0,0,0,michael-stensgaard
+warnto,Tony,Warner,1974-05-11,TRI,54,13,P,0,0,0,0,tony-warner
+babbph,Phil,Babb,1970-11-30,IRL,54,6,F,0,0,0,0,phil-babb
+bjoesi,Stig Inge,Bjørnebye,1969-12-11,NOR,54,20,F,0,0,0,0,stig-inge-bjoernebye
+carrja,Jamie,Carragher,1978-01-28,ENG,54,23,F,0,0,0,0,jamie-carragher
+harkst,Steve,Harkness,1971-08-27,ENG,54,23,F,0,0,0,0,steve-harkness
+joner3,Robert,Jones,1971-11-05,ENG,54,2,F,0,0,0,0,robert-jones
+kvarbj,Bjørn,Kvarme,1972-06-17,NOR,54,3,F,0,0,0,0,bjoern-kvarme
+mattdo,Dominic,Matteo,1974-04-24,SCO,54,21,F,0,0,0,0,dominic-matteo
+robega,Gareth,Roberts,1978-02-06,WAL,54,21,F,0,0,0,0,gareth-roberts
+ruddne,Neil,Ruddock,1968-05-09,ENG,54,14,F,0,0,0,0,neil-ruddock
+wrigma,Mark,Wright,1963-08-01,ENG,54,5,F,0,0,0,0,mark-wright
+barnj1,John,Barnes,1963-11-07,ENG,54,10,M,0,0,0,0,john-barnes
+bergpa,Patrik,Berger,1973-11-10,CZE,54,15,M,0,0,0,0,patrik-berger
+cassja,Jamie,Cassidy,1977-11-21,ENG,54,22,M,0,0,0,0,jamie-cassidy
+kennma,Mark,Kennedy,1976-05-15,IRL,54,19,M,0,0,0,0,mark-kennedy
+mcatja,Jason,McAteer,1971-06-18,IRL,54,4,M,0,0,0,0,jason-mcateer
+mcmas2,Steve,McManaman,1972-02-11,ENG,54,7,M,0,0,0,0,steve-mcmanaman
+redkja,Jamie,Redknapp,1973-06-25,ENG,54,11,M,0,0,0,0,jamie-redknapp
+thomm2,Michael,Thomas,1967-08-24,ENG,54,16,M,0,0,0,0,michael-thomas
+thomd5,David,Thompson,1977-09-12,ENG,54,25,M,0,0,0,0,david-thompson
+fowlro,Robbie,Fowler,1975-04-09,ENG,54,9,A,0,0,0,0,robbie-fowler
+owenmi,Michael,Owen,1979-12-14,ENG,54,18,A,0,0,0,0,michael-owen
+collst,Stan,Collymore,1971-01-22,ENG,54, , ,0,0,0,0,stan-collymore
+scaljo,John,Scales,1966-07-04,ENG,54, , ,0,0,0,0,john-scales
+pilkke,Kevin,Pilkington,1974-03-08,ENG,58,25,P,0,0,0,0,kevin-pilkington
+schmpe,Peter,Schmeichel,1963-11-18,DEN,58,1,P,0,0,0,0,peter-schmeichel
+gouwrv,Raimond van der,Gouw,1963-03-24,NED,58,17,P,0,0,0,0,raimond-van-der-gouw
+caspch,Chris,Casper,1975-04-28,ENG,58,26,F,0,0,0,0,chris-casper
+clegmi,Michael,Clegg,1977-07-03,ENG,58,32,F,0,0,0,0,michael-clegg
+curtjo,John,Curtis,1978-09-03,ENG,58,31,F,0,0,0,0,john-curtis
+irwide,Denis,Irwin,1965-10-31,IRL,58,3,F,0,0,0,0,denis-irwin
+johnr2,Ronny,Johnsen,1969-06-10,NOR,58,19,F,0,0,0,0,ronny-johnsen
+mayxda,David,May,1970-06-24,ENG,58,4,F,0,0,0,0,david-may
+murdco,Colin,Murdock,1975-07-02,NIR,58,4,F,0,0,0,0,colin-murdock
+neviga,Gary,Neville,1975-02-18,ENG,58,2,F,0,0,0,0,gary-neville
+neviph,Phil,Neville,1977-01-21,ENG,58,12,F,0,0,0,0,phil-neville
+okanjo,John,O'Kane,1974-11-15,ENG,58,24,F,0,0,0,0,john-okane
+pallga,Gary,Pallister,1965-06-30,ENG,58,6,F,0,0,0,0,gary-pallister
+applmi,Michael,Appleton,1975-12-04,ENG,58,29,M,0,0,0,0,michael-appleton
+beckd1,David,Beckham,1975-05-02,ENG,58,10,M,0,0,0,0,david-beckham
+brebgr,Grant,Brebner,1977-12-06,SCO,58,10,M,0,0,0,0,grant-brebner
+buttni,Nicky,Butt,1975-01-21,ENG,58,8,M,0,0,0,0,nicky-butt
+cookte,Terry,Cooke,1976-08-05,ENG,58,27,M,0,0,0,0,terry-cooke
+cruyjo,Jordi,Cruyff,1974-02-09,NED,58,14,M,0,0,0,0,jordi-cruyff
+davisi,Simon,Davies,1974-04-23,WAL,58,22,M,0,0,0,0,simon-davies_3
+giggry,Ryan,Giggs,1973-11-29,WAL,58,11,M,0,0,0,0,ryan-giggs
+keanro,Roy,Keane,1971-08-10,IRL,58,16,M,0,0,0,0,roy-keane
+mulrph,Phil,Mulryne,1978-01-01,NIR,58,28,M,0,0,0,0,phil-mulryne
+poboka,Karel,Poborský,1972-03-30,CZE,58,15,M,0,0,0,0,karel-poborsky
+schopa,Paul,Scholes,1974-11-16,ENG,58,18,M,0,0,0,0,paul-scholes
+teatpa,Paul,Teather,1977-12-26,ENG,58,18,M,0,0,0,0,paul-teather
+thorbe, ,Ben Thornley,1975-04-21,ENG,58,23,M,0,0,0,0,ben-thornley
+canter,Éric,Cantona,1966-05-24,FRA,58,7,A,0,0,0,0,eric-cantona
+colean,Andy,Cole,1971-10-15,ENG,58,9,A,0,0,0,0,andy-cole
+mackj1,Jon,Macken,1977-09-07,IRL,58,9,A,0,0,0,0,jon-macken
+mcclbr,Brian,McClair,1963-12-08,SCO,58,13,A,0,0,0,0,brian-mcclair
+notmal,Alex,Notman,1979-12-10,SCO,58,13,A,0,0,0,0,alex-notman
+solsog,Ole Gunnar,Solskjær,1973-02-26,NOR,58,20,A,0,0,0,0,ole-gunnar-solskjaer
+flowti,Tim,Flowers,1967-02-03,ENG,6,1,P,0,0,0,0,tim-flowers
+givesh,Shay,Given,1976-04-20,IRL,6,13,P,0,0,0,0,shay-given
+berghe,Henning,Berg,1969-09-01,NOR,6,13,F,0,0,0,0,henning-berg
+brooma,Marlon,Broomes,1977-11-28,ENG,6,26,F,0,0,0,0,marlon-broomes
+colech,Chris,Coleman,1970-06-10,WAL,6,2,F,0,0,0,0,chris-coleman
+crofga,Gary,Croft,1974-02-17,ENG,6,34,F,0,0,0,0,gary-croft
+hendco,Colin,Hendry,1965-12-07,SCO,6,5,F,0,0,0,0,colin-hendry
+kennje,Jeff,Kenna,1970-08-27,IRL,6,3,F,0,0,0,0,jeff-kenna
+sauxgl,Graeme,Le Saux,1968-10-17,ENG,6,6,F,0,0,0,0,graeme-le-saux
+markni,Nicky,Marker,1965-05-03,ENG,6,12,F,0,0,0,0,nicky-marker
+pearia,Ian,Pearce,1974-05-07,ENG,6,12,F,0,0,0,0,ian-pearce
+reedad,Adam,Reed,1975-02-18,ENG,6,12,F,0,0,0,0,adam-reed_2
+bohila,Lars,Bohinen,1969-09-08,NOR,6,12,M,0,0,0,0,lars-bohinen
+donige,Georgios,Donis,1969-10-29,GRE,6,21,M,0,0,0,0,georgios-donis
+duffd1,Damien,Duff,1979-03-02,IRL,6,32,M,0,0,0,0,damien-duff
+flitga,Gary,Flitcroft,1972-11-06,ENG,6,23,M,0,0,0,0,gary-flitcroft
+gillwa,Wayne,Gill,1975-11-28,ENG,6,28,M,0,0,0,0,wayne-gill
+holmma,Matt,Holmes,1969-08-01,ENG,6,15,M,0,0,0,0,matt-holmes
+johnd3,Damien,Johnson,1978-11-18,NIR,6,33,M,0,0,0,0,damien-johnson
+mckibi,Billy,McKinlay,1969-04-22,SCO,6,17,M,0,0,0,0,billy-mckinlay
+morgth,Thomas,Morgan,1977-03-30,IRL,6,17,M,0,0,0,0,thomas-morgan
+riplst,Stuart,Ripley,1967-11-20,ENG,6,7,M,0,0,0,0,stuart-ripley
+sherti,Tim,Sherwood,1969-02-06,ENG,6,4,M,0,0,0,0,tim-sherwood
+warhpa,Paul,Warhurst,1969-09-26,ENG,6,4,M,0,0,0,0,paul-warhurst
+wilcja,Jason,Wilcox,1971-07-15,ENG,6,11,M,0,0,0,0,jason-wilcox
+beatja,James,Beattie,1978-02-27,ENG,6,30,A,0,0,0,0,james-beattie
+fentgr,Graham,Fenton,1974-05-22,ENG,6,14,A,0,0,0,0,graham-fenton
+gallke,Kevin,Gallacher,1966-11-23,SCO,6,8,A,0,0,0,0,kevin-gallacher
+pedepe,Per,Pedersen,1969-03-30,DEN,6,16,A,0,0,0,0,per-pedersen
+suttch,Chris,Sutton,1973-03-10,ENG,6,9,A,0,0,0,0,chris-sutton
+gudmni,Niklas,Gudmundsson,1972-02-29,SWE,6, , ,0,0,0,0,niklas-gudmundsson
+robebe, ,Ben Roberts,1975-06-22,ENG,61, ,P,0,0,0,0,ben-roberts
+schwma,Mark,Schwarzer,1972-10-06,AUS,61,1,P,0,0,0,0,mark-schwarzer
+walsga,Gary,Walsh,1968-03-21,ENG,61,1,P,0,0,0,0,gary-walsh
+bakes1,Steve,Baker,1978-09-08,ENG,61,1,F,0,0,0,0,steve-baker
+blaccl,Clayton,Blackmore,1964-09-23,WAL,61,1,F,0,0,0,0,clayton-blackmore
+coxxne,Neil,Cox,1971-10-08,ENG,61,1,F,0,0,0,0,neil-cox
+fabifa, ,Fabinho,1972-03-14,BRA,61,1,F,0,0,0,0,fabinho_27
+festgi,Gianluca,Festa,1969-03-15,ITA,61,18,F,0,0,0,0,gianluca-festa
+flemcu,Curtis,Fleming,1969-10-08,IRL,61,18,F,0,0,0,0,curtis-fleming
+harrcr,Craig,Harrison,1977-11-10,ENG,61,18,F,0,0,0,0,craig-harrison
+kindvl,Vladimír,Kinder,1969-03-09,SVK,61,18,F,0,0,0,0,vladimir-kinder
+liddcr,Craig,Liddle,1971-10-21,ENG,61,18,F,0,0,0,0,craig-liddle
+morrch,Chris,Morris,1963-12-24,IRL,61,18,F,0,0,0,0,chris-morris
+pearni,Nigel,Pearson,1963-08-21,ENG,61,18,F,0,0,0,0,nigel-pearson
+prunse,Sean,Prunty,1980-07-10,IRL,61,18,F,0,0,0,0,sean-prunty
+vickst,Steve,Vickers,1967-10-13,ENG,61,18,F,0,0,0,0,steve-vickers
+whelph,Phil,Whelan,1972-08-07,ENG,61,18,F,0,0,0,0,phil-whelan
+whytde,Derek,Whyte,1968-08-31,SCO,61,18,F,0,0,0,0,derek-whyte
+cummmi,Michael,Cummins,1978-06-01,IRL,61,18,M,0,0,0,0,michael-cummins
+emerem, ,Emerson,1972-04-12,BRA,61,18,M,0,0,0,0,emerson_3
+higncr,Craig,Hignett,1970-01-12,ENG,61,18,M,0,0,0,0,craig-hignett
+paulju,Juninho,Paulista,1973-02-22,BRA,61,18,M,0,0,0,0,juninho-paulista
+mooral,Alan,Moore,1974-11-25,IRL,61,18,M,0,0,0,0,alan-moore
+mustro,Robbie,Mustoe,1968-08-28,ENG,61,18,M,0,0,0,0,robbie-mustoe
+ormean,Anthony,Ormerod,1979-03-31,ENG,61,18,M,0,0,0,0,anthony-ormerod
+robsb1,Bryan,Robson,1957-01-11,ENG,61,18,M,0,0,0,0,bryan-robson
+stamph,Philip,Stamp,1975-12-12,ENG,61,18,M,0,0,0,0,philip-stamp
+summma,Mark,Summerbell,1976-10-30,ENG,61,18,M,0,0,0,0,mark-summerbell
+beckmi,Mikkel,Beck,1973-05-12,DEN,61,18,A,0,0,0,0,mikkel-beck
+campan,Andy,Campbell,1979-04-18,ENG,61,18,A,0,0,0,0,andy-campbell
+fjoeja,Jan Åge,Fjørtoft,1967-01-10,NOR,61,18,A,0,0,0,0,jan-age-fjoertoft
+freech,Chris,Freestone,1971-09-04,ENG,61,18,A,0,0,0,0,chris-freestone
+ravafa,Fabrizio,Ravanelli,1968-12-11,ITA,61,11,A,0,0,0,0,fabrizio-ravanelli
+barmni,Nick,Barmby,1974-02-11,ENG,61, , ,0,0,0,0,nick-barmby
+millal,Alan,Miller,1970-03-29,ENG,61, , ,0,0,0,0,alan-miller
+brancl, ,Branco,1964-04-04,BRA,61, , ,0,0,0,0,branco
+harpst,Steve,Harper,1975-03-14,ENG,64,29,P,0,0,0,0,steve-harper
+hislsh,Shaka,Hislop,1969-02-22,TRI,64,15,P,0,0,0,0,shaka-hislop
+srnipa,Pavel,Srníček,1968-03-10,CZE,64,1,P,0,0,0,0,pavel-srnicek
+albeph,Philippe,Albert,1967-08-10,BEL,64,27,F,0,0,0,0,philippe-albert
+bartwa,Warren,Barton,1969-03-19,ENG,64,2,F,0,0,0,0,warren-barton
+berejo,John,Beresford,1966-09-04,ENG,64,3,F,0,0,0,0,john-beresford
+elliro,Robbie,Elliott,1973-12-25,ENG,64,26,F,0,0,0,0,robbie-elliott
+howest,Stephen,Howey,1971-10-26,ENG,64,6,F,0,0,0,0,stephen-howey
+hughaa,Aaron,Hughes,1979-11-08,NIR,64,30,F,0,0,0,0,aaron-hughes
+peacd1,Darren,Peacock,1968-02-03,ENG,64,5,F,0,0,0,0,darren-peacock
+watsst,Steve,Watson,1974-04-01,ENG,64,19,F,0,0,0,0,steve-watson
+battda,David,Batty,1968-12-02,ENG,64,4,M,0,0,0,0,david-batty
+clarle,Lee,Clark,1972-10-27,ENG,64,20,M,0,0,0,0,lee-clark
+crawji,Jim,Crawford,1973-05-01,IRL,64,17,M,0,0,0,0,jim-crawford
+ellis1,Stuart,Elliott,1977-08-27,ENG,64,29,M,0,0,0,0,stuart-elliott_2
+hamide,Derrick,Hamilton,1976-08-15,ENG,64,22,M,0,0,0,0,derrick-hamilton
+leexr1,Rob,Lee,1966-02-01,ENG,64,7,M,0,0,0,0,rob-lee
+asprfa,Faustino,Asprilla,1969-11-10,COL,64,11,A,0,0,0,0,faustino-asprilla
+bearpe,Peter,Beardsley,1961-01-18,ENG,64,8,A,0,0,0,0,peter-beardsley
+braypa,Paul,Brayson,1977-09-16,ENG,64,25,A,0,0,0,0,paul-brayson
+ferdle,Les,Ferdinand,1966-12-08,ENG,64,10,A,0,0,0,0,les-ferdinand
+gillke,Keith,Gillespie,1975-02-18,NIR,64,18,A,0,0,0,0,keith-gillespie
+ginoda,David,Ginola,1967-01-25,FRA,64,14,A,0,0,0,0,david-ginola
+sheaal,Alan,Shearer,1970-08-13,ENG,64,9,A,0,0,0,0,alan-shearer
+kitspa,Paul,Kitson,1971-01-09,ENG,64, , ,0,0,0,0,paul-kitson
+crosma,Mark,Crossley,1969-06-16,WAL,68, ,P,0,0,0,0,mark-crossley
+fettal,Alan,Fettis,1971-02-01,NIR,68, ,P,0,0,0,0,alan-fettis
+armscr,Craig,Armstrong,1975-05-23,ENG,68, ,F,0,0,0,0,craig-armstrong
+chetst,Steve,Chettle,1968-09-27,ENG,68, ,F,0,0,0,0,steve-chettle
+coopco,Colin,Cooper,1967-02-28,ENG,68, ,F,0,0,0,0,colin-cooper
+dawsan,Andy,Dawson,1978-10-20,ENG,68, ,F,0,0,0,0,andy-dawson
+halaai,Alf-Inge,Håland,1972-11-23,NOR,68, ,F,0,0,0,0,alf-inge-haland
+jerkni,Nikola,Jerkan,1964-12-08,CRO,68, ,F,0,0,0,0,nikola-jerkan
+lyttde,Des,Lyttle,1971-09-24,ENG,68, ,F,0,0,0,0,des-lyttle
+pears2,Stuart,Pearce,1962-04-24,ENG,68, ,F,0,0,0,0,stuart-pearce
+phild1,David,Phillips,1963-07-29,WAL,68, ,F,0,0,0,0,david-phillips
+thoms3,Stuart,Thom,1976-12-27,ENG,68, ,F,0,0,0,0,stuart-thom
+warnva,Vance,Warner,1974-09-03,ENG,68, ,F,0,0,0,0,vance-warner
+allech,Chris,Allen,1972-11-18,ENG,68, ,M,0,0,0,0,chris-allen
+willcb,Chris,Bart-Williams,1974-06-16,ENG,68, ,M,0,0,0,0,chris-bart-williams
+burnjo,John,Burns,1977-12-04,IRL,68, ,M,0,0,0,0,john-burns_2
+gemmsc,Scott,Gemmill,1971-01-02,SCO,68, ,M,0,0,0,0,scott-gemmill_2
+halest,Stephen,Hale,1973-01-06,ENG,68, ,M,0,0,0,0,stephen-hale
+howebo,Bobby,Howe,1973-11-06,ENG,68, ,M,0,0,0,0,bobby-howe
+meltst,Stephen,Melton,1978-10-03,ENG,68, ,M,0,0,0,0,stephen-melton
+smitp1,Paul,Smith,1976-01-25,ENG,68, ,M,0,0,0,0,paul-smith_6
+stonst,Steve,Stone,1971-08-20,ENG,68, ,M,0,0,0,0,steve-stone
+woania,Ian,Woan,1967-12-14,ENG,68, ,M,0,0,0,0,ian-woan
+campke,Kevin,Campbell,1970-02-04,ENG,68, ,A,0,0,0,0,kevin-campbell
+guinst,Steve,Guinan,1975-12-24,ENG,68, ,A,0,0,0,0,steve-guinan
+harema,Marlon,Harewood,1979-08-25,ENG,68, ,A,0,0,0,0,marlon-harewood
+mcgrp1,Paul,McGregor,1974-12-17,ENG,68, ,A,0,0,0,0,paul-mcgregor
+royxbr,Bryan,Roy,1970-02-12,NED,68, ,A,0,0,0,0,bryan-roy
+saunde,Dean,Saunders,1964-06-21,WAL,68, ,A,0,0,0,0,dean-saunders
+moorit,Ian,Thomas-Moore,1976-08-26,ENG,68, ,A,0,0,0,0,ian-thomas-moore
+hooipv,Pierre,van Hooijdonk,1969-11-29,NED,68, ,A,0,0,0,0,pierre-van-hooijdonk
+clouni,Nigel,Clough,1966-03-19,ENG,68, , ,0,0,0,0,nigel-clough
+leexja,Jason,Lee,1971-05-09,ENG,68, , ,0,0,0,0,jason-lee
+blatst,Stephen,Blatherwick,1973-09-20,ENG,68, , ,0,0,0,0,stephen-blatherwick
+oneib1,Brian,O'Neil,1972-09-06,SCO,68, , ,0,0,0,0,brian-oneil
+silean,Andrea,Silenzi,1966-02-10,ITA,68, , ,0,0,0,0,andrea-silenzi
+wrigt1,Tommy,Wright,1963-08-29,NIR,68, , ,0,0,0,0,tommy-wright_3
+clarm1,Matt,Clarke,1973-11-03,ENG,81,13,P,0,0,0,0,matt-clarke
+preske,Kevin,Pressman,1967-11-06,ENG,81,1,P,0,0,0,0,kevin-pressman
+athepe,Peter,Atherton,1970-04-06,ENG,81,2,F,0,0,0,0,peter-atherton
+brisle,Lee,Briscoe,1975-09-30,ENG,81,17,F,0,0,0,0,lee-briscoe
+linibr,Brian,Linighan,1973-11-02,ENG,81,17,F,0,0,0,0,brian-linighan
+newsjo,Jon,Newsome,1970-09-06,ENG,81,5,F,0,0,0,0,jon-newsome
+nicost,Steve,Nicol,1961-12-11,SCO,81,14,F,0,0,0,0,steve-nicol
+nolaia,Ian,Nolan,1970-07-09,NIR,81,3,F,0,0,0,0,ian-nolan
+stefde,Dejan,Stefanović,1974-10-28,YUG,81,18,F,0,0,0,0,dejan-stefanovic
+walkd1,Des,Walker,1965-11-26,ENG,81,6,F,0,0,0,0,des-walker
+blinre,Regi,Blinker,1969-06-04,NED,81,11,M,0,0,0,0,regi-blinker
+collwa,Wayne,Collins,1969-03-04,ENG,81,20,M,0,0,0,0,wayne-collins
+humpri,Ritchie,Humphreys,1977-11-30,ENG,81,25,M,0,0,0,0,ritchie-humphreys
+hydegr,Graham,Hyde,1970-11-10,ENG,81,12,M,0,0,0,0,graham-hyde
+jonery,Ryan,Jones,1973-07-23,WAL,81,20,M,0,0,0,0,ryan-jones
+pembma,Mark,Pembridge,1970-11-29,WAL,81,4,M,0,0,0,0,mark-pembridge
+trusor,Orlando,Trustfull,1970-08-04,NED,81,26,M,0,0,0,0,orlando-trustfull
+barkri,Richie,Barker,1975-05-30,ENG,81,26,A,0,0,0,0,richie-barker
+bootan,Andy,Booth,1973-12-06,ENG,81,10,A,0,0,0,0,andy-booth
+carbbe,Benito,Carbone,1971-08-14,ITA,81,8,A,0,0,0,0,benito-carbone
+donaon,O'Neill,Donaldson,1969-11-24,ENG,81,22,A,0,0,0,0,oneill-donaldson
+hirsda,David,Hirst,1967-12-07,ENG,81,9,A,0,0,0,0,david-hirst
+oakesc,Scott,Oakes,1972-08-05,ENG,81,19,A,0,0,0,0,scott-oakes
+platma,Mark,Platts,1979-05-23,ENG,81,31,A,0,0,0,0,mark-platts
+whitgu,Guy,Whittingham,1964-11-10,ENG,81,7,A,0,0,0,0,guy-whittingham
+sherjo,John,Sheridan,1964-10-01,IRL,81, , ,0,0,0,0,john-sheridan
+brigm1,Mark,Bright,1962-06-06,ENG,81, , ,0,0,0,0,mark-bright
+willmi,Mike,Williams,1969-11-21,ENG,81, , ,0,0,0,0,mike-williams_3
+beasda,Dave,Beasant,1959-03-20,ENG,84,1,P,0,0,0,0,dave-beasant
+mossne,Neil,Moss,1975-05-10,ENG,84,13,P,0,0,0,0,neil-moss
+taylm2,Maik,Taylor,1971-09-04,NIR,84,33,P,0,0,0,0,maik-taylor
+benafr,Francis,Benali,1968-12-10,ENG,84,3,F,0,0,0,0,francis-benali
+doddja,Jason,Dodd,1970-11-02,ENG,84,2,F,0,0,0,0,jason-dodd
+drydri,Richard,Dryden,1969-06-14,ENG,84,12,F,0,0,0,0,richard-dryden
+hughd2,David,Hughes,1972-12-30,WAL,84,26,F,0,0,0,0,david-hughes_2
+lundcl,Claus,Lundekvam,1973-02-22,NOR,84,22,F,0,0,0,0,claus-lundekvam
+monkga,Garry,Monk,1979-03-06,ENG,84,22,F,0,0,0,0,garry-monk
+monkke,Kenneth,Monkou,1964-11-29,NED,84,6,F,0,0,0,0,kenneth-monkou
+neilal,Alan,Neilson,1972-09-26,WAL,84,6,F,0,0,0,0,alan-neilson
+pipeda,David,Piper,1977-10-31,ENG,84,6,F,0,0,0,0,david-piper
+robim3,Matthew,Robinson,1974-12-23,ENG,84,6,F,0,0,0,0,matthew-robinson
+gobbuv,Ulrich,van Gobbel,1971-01-16,NED,84,6,F,0,0,0,0,ulrich-van-gobbel
+veniba,Barry,Venison,1964-08-16,ENG,84,5,F,0,0,0,0,barry-venison
+berkey,Eyal,Berkovic,1972-04-02,ISR,84,5,M,0,0,0,0,eyal-berkovic
+charsi,Simon,Charlton,1971-10-25,ENG,84,5,M,0,0,0,0,simon-charlton
+ekelro,Ronnie,Ekelund,1972-08-21,DEN,84,5,M,0,0,0,0,ronnie-ekelund
+maddne,Neil,Maddison,1969-10-02,ENG,84,10,M,0,0,0,0,neil-maddison
+magij1,Jim,Magilton,1969-05-06,NIR,84,4,M,0,0,0,0,jim-magilton
+oaklma,Matt,Oakley,1977-08-17,ENG,84,18,M,0,0,0,0,matt-oakley
+slatro,Robbie,Slater,1964-11-22,AUS,84,18,M,0,0,0,0,robbie-slater
+tisdpa,Paul,Tisdale,1973-01-14,ENG,84,18,M,0,0,0,0,paul-tisdale
+warrch,Chris,Warren,1974-10-10,ENG,84,18,M,0,0,0,0,chris-warren
+watkru,Russell,Watkinson,1977-12-03,ENG,84,18,M,0,0,0,0,russell-watkinson
+bashst,Steve,Basham,1977-12-02,ENG,84,24,A,0,0,0,0,steve-basham
+evanmi,Micky,Evans,1973-01-01,IRL,84,8,A,0,0,0,0,micky-evans
+tissml,Matt,Le Tissier,1968-10-14,ENG,84,7,A,0,0,0,0,matt-le-tissier
+oesteg,Egil,Østenstad,1972-01-02,NOR,84,10,A,0,0,0,0,egil-oestenstad
+watsgo,Gordon,Watson,1971-03-20,ENG,84, , ,0,0,0,0,gordon-watson
+shipne,Neil,Shipperley,1974-10-30,ENG,84, , ,0,0,0,0,neil-shipperley
+heanne,Neil,Heaney,1971-11-03,ENG,84, , ,0,0,0,0,neil-heaney
+pottgr,Graham,Potter,1975-05-20,ENG,84, , ,0,0,0,0,graham-potter
+woodc1,Chris,Woods,1959-11-14,ENG,84, , ,0,0,0,0,chris-woods
+diaxal,Aly,Dia,1965-08-20,SEN,84, , ,0,0,0,0,aly-dia
+cototo,Tony,Coton,1961-05-19,ENG,88, ,P,0,0,0,0,tony-coton
+pereli,Lionel,Perez,1967-04-24,FRA,88, ,P,0,0,0,0,lionel-perez
+woodc1,Chris,Woods,1959-11-14,ENG,88, ,P,0,0,0,0,chris-woods
+erikja,Jan,Eriksson,1967-08-24,SWE,88, ,F,0,0,0,0,jan-eriksson
+graymi,Michael,Gray,1974-08-03,ENG,88,3,F,0,0,0,0,michael-gray
+hallga,Gareth,Hall,1969-03-20,WAL,88,3,F,0,0,0,0,gareth-hall
+holld1,Darren,Holloway,1977-10-03,ENG,88,3,F,0,0,0,0,darren-holloway
+howele,Lee,Howey,1969-04-01,ENG,88,3,F,0,0,0,0,lee-howey
+kubida,Dariusz,Kubicki,1963-06-06,POL,88,3,F,0,0,0,0,dariusz-kubicki
+melvan,Andy,Melville,1968-11-29,WAL,88,3,F,0,0,0,0,andy-melville
+ordxri,Richard,Ord,1970-03-03,ENG,88,3,F,0,0,0,0,richard-ord
+scotma,Martin,Scott,1968-01-07,ENG,88,3,F,0,0,0,0,martin-scott_2
+willd3,Darren,Williams,1977-04-28,ENG,88,18,F,0,0,0,0,darren-williams
+agnest,Steve,Agnew,1965-11-09,ENG,88,18,M,0,0,0,0,steve-agnew
+aistsa,Samuel,Aiston,1976-11-21,ENG,88,18,M,0,0,0,0,samuel-aiston
+ballke,Kevin,Ball,1964-11-12,ENG,88,18,M,0,0,0,0,kevin-ball
+bracpa,Paul,Bracewell,1962-07-19,ENG,88,18,M,0,0,0,0,paul-bracewell
+dickjo,Jonjo,Dickman,1978-10-11,ENG,88,37,M,0,0,0,0,jonjo-dickman
+johnal,Allan,Johnston,1973-12-14,SCO,88,37,M,0,0,0,0,allan-johnston
+mulljo,John,Mullin,1975-08-11,ENG,88,37,M,0,0,0,0,john-mullin
+raexal,Alex,Rae,1969-09-30,SCO,88,37,M,0,0,0,0,alex-rae
+stewpa,Paul,Stewart,1964-10-07,ENG,88,37,M,0,0,0,0,paul-stewart_2
+waddch,Chris,Waddle,1960-12-14,ENG,88,37,M,0,0,0,0,chris-waddle
+bridmi,Michael,Bridges,1978-08-05,ENG,88,37,A,0,0,0,0,michael-bridges
+kellda,David,Kelly,1965-11-25,IRL,88,37,A,0,0,0,0,david-kelly
+quinni,Niall,Quinn,1966-10-06,IRL,88,37,A,0,0,0,0,niall-quinn
+russcr,Craig,Russell,1974-02-04,ENG,88,37,A,0,0,0,0,craig-russell
+smitm2,Martin,Smith,1974-11-13,ENG,88,37,A,0,0,0,0,martin-smith
+baares,Espen,Baardsen,1977-12-07,NOR,91, ,P,0,0,0,0,espen-baardsen
+walkia,Ian,Walker,1971-10-31,ENG,91,1,P,0,0,0,0,ian-walker
+austde,Dean,Austin,1970-04-26,ENG,91,1,F,0,0,0,0,dean-austin
+caldco,Colin,Calderwood,1965-01-20,SCO,91,5,F,0,0,0,0,colin-calderwood
+campso,Sol,Campbell,1974-09-18,ENG,91,23,F,0,0,0,0,sol-campbell
+carrst,Stephen,Carr,1976-08-29,IRL,91,2,F,0,0,0,0,stephen-carr
+david2,Darren,Davies,1978-08-13,WAL,91,2,F,0,0,0,0,darren-davies
+edinju,Justin,Edinburgh,1969-12-18,ENG,91,3,F,0,0,0,0,justin-edinburgh
+kersda,David,Kerslake,1966-06-19,ENG,91,22,F,0,0,0,0,david-kerslake
+mabbga,Gary,Mabbutt,1961-08-23,ENG,91,6,F,0,0,0,0,gary-mabbutt
+nethst,Stuart,Nethercott,1973-03-21,ENG,91,14,F,0,0,0,0,stuart-nethercott
+scaljo,John,Scales,1966-07-04,ENG,91,14,F,0,0,0,0,john-scales
+scotke,Kevin,Scott,1966-12-17,ENG,91,19,F,0,0,0,0,kevin-scott_2
+vegara,Ramon,Vega,1971-06-14,SUI,91,24,F,0,0,0,0,ramon-vega
+webbsi,Simon,Webb,1978-01-19,IRL,91,24,F,0,0,0,0,simon-webb
+wilscl,Clive,Wilson,1961-11-13,ENG,91,15,F,0,0,0,0,clive-wilson
+bradga,Garry,Brady,1976-09-07,SCO,91,15,M,0,0,0,0,garry-brady
+clapja,Jamie,Clapham,1975-12-07,ENG,91,15,M,0,0,0,0,jamie-clapham
+clemst,Stephen,Clemence,1978-03-31,ENG,91,15,M,0,0,0,0,stephen-clemence
+dozzja,Jason,Dozzell,1967-12-09,ENG,91,12,M,0,0,0,0,jason-dozzell
+gowema,Mark,Gower,1978-10-05,ENG,91,12,M,0,0,0,0,mark-gower
+hilld2,Daniel,Hill,1974-10-01,ENG,91,12,M,0,0,0,0,daniel-hill
+howeda,David,Howells,1967-12-15,ENG,91,4,M,0,0,0,0,david-howells
+maheke,Kevin,Maher,1976-10-17,IRL,91,4,M,0,0,0,0,kevin-maher
+nielal,Allan,Nielsen,1971-03-13,DEN,91,4,M,0,0,0,0,allan-nielsen
+sintan,Andy,Sinton,1966-03-19,ENG,91,27,M,0,0,0,0,andy-sinton
+aller1,Rory,Allen,1977-10-17,ENG,91,27,A,0,0,0,0,rory-allen
+andeda,Darren,Anderton,1972-03-03,ENG,91,7,A,0,0,0,0,darren-anderton
+armsch,Chris,Armstrong,1971-06-19,ENG,91,11,A,0,0,0,0,chris-armstrong
+fennne,Neale,Fenn,1977-01-18,IRL,91,11,A,0,0,0,0,neale-fenn
+foxxru,Ruel,Fox,1968-01-14,ENG,91,7,A,0,0,0,0,ruel-fox
+iverst,Steffen,Iversen,1976-11-10,NOR,91,7,A,0,0,0,0,steffen-iversen
+mahopa,Paul,Mahorn,1973-08-13,ENG,91,7,A,0,0,0,0,paul-mahorn
+mcvepa,Paul,McVeigh,1977-12-06,NIR,91,7,A,0,0,0,0,paul-mcveigh
+rosero,Ronny,Rosenthal,1963-10-11,ISR,91,16,A,0,0,0,0,ronny-rosenthal
+sherte,Teddy,Sheringham,1966-04-02,ENG,91,10,A,0,0,0,0,teddy-sheringham
+mikllu,Luděk,Mikloško,1961-12-09,CZE,96,1,P,0,0,0,0,ludk-miklosko
+sealle,Les,Sealey,1957-09-29,ENG,96,1,P,0,0,0,0,les-sealey
+bilisl,Slaven,Bilić,1968-09-11,CRO,96,1,F,0,0,0,0,slaven-bilic
+breati,Tim,Breacker,1965-07-02,ENG,96,2,F,0,0,0,0,tim-breacker
+coynch,Chris,Coyne,1978-12-20,AUS,96,28,F,0,0,0,0,chris-coyne
+dickju,Julian,Dicks,1968-08-08,ENG,96,3,F,0,0,0,0,julian-dicks
+ferdri,Rio,Ferdinand,1978-11-07,ENG,96,15,F,0,0,0,0,rio-ferdinand
+hallri,Richard,Hall,1972-03-14,ENG,96,5,F,0,0,0,0,richard-hall
+partda,David,Partridge,1978-11-26,WAL,96,5,F,0,0,0,0,david-partridge
+pottst,Steve,Potts,1967-05-07,USA,96,4,F,0,0,0,0,steve-potts
+riepma,Marc,Rieper,1968-06-05,DEN,96,4,F,0,0,0,0,marc-rieper
+rowlke,Keith,Rowland,1971-09-01,NIR,96,4,F,0,0,0,0,keith-rowland
+bishia,Ian,Bishop,1965-05-29,ENG,96,4,M,0,0,0,0,ian-bishop
+hughmi,Michael,Hughes,1971-08-02,NIR,96,4,M,0,0,0,0,michael-hughes
+lampf1,Frank,Lampard,1978-06-20,ENG,96,18,M,0,0,0,0,frank-lampard
+lazast,Stan,Lazaridis,1972-08-16,AUS,96,17,M,0,0,0,0,stan-lazaridis
+lomast,Steve,Lomas,1974-01-18,NIR,96,11,M,0,0,0,0,steve-lomas
+meansc,Scott,Mean,1973-12-13,ENG,96,23,M,0,0,0,0,scott-mean
+moncjo,John,Moncur,1966-09-22,ENG,96,16,M,0,0,0,0,john-moncur
+willd2,Daniel,Williamson,1973-12-05,ENG,96,16,M,0,0,0,0,daniel-williamson_2
+boylle,Lee,Boylan,1978-09-02,ENG,96,16,A,0,0,0,0,lee-boylan
+dowiia,Iain,Dowie,1965-01-09,NIR,96,16,A,0,0,0,0,iain-dowie
+hartjo,John,Hartson,1975-04-05,WAL,96,10,A,0,0,0,0,john-hartson
+kitspa,Paul,Kitson,1971-01-09,ENG,96,9,A,0,0,0,0,paul-kitson
+omoyem,Emmanuel,Omoyimni,1977-12-28,NGR,96,9,A,0,0,0,0,emmanuel-omoyimni
+porfhu, ,Porfirio,1973-09-28,POR,96,9,A,0,0,0,0,porfirio
+bowema,Mark,Bowen,1963-12-07,WAL,96, , ,0,0,0,0,mark-bowen
+rducfl,Florin,Răducioiu,1970-03-17,ROM,96, , ,0,0,0,0,florin-rducioiu
+futrpa, ,Futre,1966-02-28,POR,96, , ,0,0,0,0,futre
+jones1,Steve,Jones,1970-03-17,ENG,96, , ,0,0,0,0,steve-jones_3
+dumiil,Ilie,Dumitrescu,1969-01-06,ROM,96, , ,0,0,0,0,ilie-dumitrescu
+newemi,Mike,Newell,1965-01-27,ENG,96, , ,0,0,0,0,mike-newell
+cottto,Tony,Cottee,1965-07-11,ENG,96, , ,0,0,0,0,tony-cottee
+slatro,Robbie,Slater,1964-11-22,AUS,96, , ,0,0,0,0,robbie-slater
+mautst,Steve,Mautone,1970-08-10,AUS,96, , ,0,0,0,0,steve-mautone
+healpa,Paul,Heald,1968-09-20,ENG,98, ,P,0,0,0,0,paul-heald
+sullne,Neil,Sullivan,1970-02-24,SCO,98, ,P,0,0,0,0,neil-sullivan
+tracsi,Simon,Tracey,1967-12-09,ENG,98, ,P,0,0,0,0,simon-tracey
+blacde,Dean,Blackwell,1969-12-05,ENG,98, ,F,0,0,0,0,dean-blackwell
+cunnke,Kenny,Cunningham,1971-06-28,IRL,98, ,F,0,0,0,0,kenny-cunningham
+fitzsc,Scott,Fitzgerald,1969-08-13,IRL,98, ,F,0,0,0,0,scott-fitzgerald_2
+hawkpe,Peter,Hawkins,1978-09-18,ENG,98, ,F,0,0,0,0,peter-hawkins
+juppdu,Duncan,Jupp,1975-01-25,SCO,98, ,F,0,0,0,0,duncan-jupp
+kimbal,Alan,Kimble,1966-08-06,ENG,98, ,F,0,0,0,0,alan-kimble
+mcalbr,Brian,McAllister,1970-11-30,SCO,98, ,F,0,0,0,0,brian-mcallister
+perrch,Chris,Perry,1973-04-26,ENG,98, ,F,0,0,0,0,chris-perry
+reeval,Alan,Reeves,1967-11-19,ENG,98, ,F,0,0,0,0,alan-reeves
+thatbe, ,Ben Thatcher,1975-11-30,WAL,98, ,F,0,0,0,0,ben-thatcher
+ardlne,Neal,Ardley,1972-09-01,ENG,98, ,M,0,0,0,0,neal-ardley
+castst,Stewart,Castledine,1973-01-22,ENG,98,19,M,0,0,0,0,stewart-castledine
+earlro,Robbie,Earle,1965-01-27,JAM,98,19,M,0,0,0,0,robbie-earle
+fearpe,Peter,Fear,1973-09-10,ENG,98,19,M,0,0,0,0,peter-fear
+jonevi,Vinnie,Jones,1965-01-05,ENG,98,19,M,0,0,0,0,vinnie-jones
+leonoe,Øyvind,Leonhardsen,1970-08-17,NOR,98,19,M,0,0,0,0,oeyvind-leonhardsen
+blisga,Gary,Blissett,1964-06-26,ENG,98,25,A,0,0,0,0,gary-blissett
+claran,Andy,Clarke,1967-07-22,ENG,98,25,A,0,0,0,0,andy-clarke
+cortca,Carl,Cort,1977-11-01,GUY,98,25,A,0,0,0,0,carl-cort
+ekokef,Efan,Ekoku,1967-06-08,NGR,98,25,A,0,0,0,0,efan-ekoku
+euelja,Jason,Euell,1977-02-06,JAM,98,25,A,0,0,0,0,jason-euell
+gaylm1,Marcus,Gayle,1970-09-27,JAM,98,25,A,0,0,0,0,marcus-gayle
+goodjo,Jon,Goodman,1971-06-02,IRL,98,25,A,0,0,0,0,jon-goodman
+harfmi,Mick,Harford,1959-02-12,ENG,98,25,A,0,0,0,0,mick-harford
+holdde,Dean,Holdsworth,1968-11-08,ENG,98,25,A,0,0,0,0,dean-holdsworth

@@ -1,0 +1,658 @@
+adanan, ,Adán,1987-05-13,SPA,0,13,P,0,0,0,0,adan
+loped3,Diego,López,1981-11-03,SPA,0,25,P,0,0,0,0,diego-lopez
+casiik,Iker,Casillas,1981-05-20,SPA,0,1,P,0,0,0,0,iker-casillas
+fernje,Jesús,Fernández,1988-06-11,SPA,0,35,P,0,0,0,0,jesus-fernandez
+arbelv, ,Arbeloa,1983-01-17,SPA,0,17,F,0,0,0,0,arbeloa
+fabif3, ,Fabinho,1993-10-23,BRA,0,33,F,0,0,0,0,fabinho_20
+coenfa,Fábio,Coentrão,1988-03-11,POR,0,5,F,0,0,0,0,fabio-coentrao
+casaj4,Jorge,Casado,1989-06-26,SPA,0,32,F,0,0,0,0,jorge-casado
+juan1D, ,Juanfran,1988-09-11,SPA,0,16,F,0,0,0,0,juanfran_4
+llordi, ,Llorente,1993-08-16,SPA,0,37,F,0,0,0,0,llorente_6
+marcmC, ,Marcelo,1988-05-12,BRA,0,12,F,0,0,0,0,marcelo_4
+nachj4, ,Nacho,1990-01-18,SPA,0,27,F,0,0,0,0,nacho_9
+pepekp, ,Pepe,1983-02-26,POR,0,3,F,0,0,0,0,pepe_2
+albira,Raúl,Albiol,1985-09-04,SPA,0,18,F,0,0,0,0,raul-albiol
+carvri,Ricardo,Carvalho,1978-05-18,POR,0,11,F,0,0,0,0,ricardo-carvalho
+ramose,Sergio,Ramos,1986-03-30,SPA,0,4,F,0,0,0,0,sergio-ramos
+varara,Raphaël,Varane,1993-04-25,FRA,0,2,F,0,0,0,0,raphael-varane
+alexa3, ,Álex,1992-10-15,SPA,0,30,M,0,0,0,0,alex_17
+caseca, ,Casemiro,1992-02-23,BRA,0,38,M,0,0,0,0,casemiro_2
+mariad,Ángel,Di María,1988-02-14,ARG,0,22,M,0,0,0,0,angel-di-maria
+essimi,Michael,Essien,1982-12-03,GHA,0,15,M,0,0,0,0,michael-essien
+rodrj8,José,Rodríguez,1994-12-16,SPA,0,34,M,0,0,0,0,jose-rodriguez_7
+kakari, ,Kaká,1982-04-22,BRA,0,8,M,0,0,0,0,kaka
+khedsa,Sami,Khedira,1987-04-04,GER,0,6,M,0,0,0,0,sami-khedira
+mascom, ,Mascarell,1993-02-02,SPA,0,39,M,0,0,0,0,mascarell
+mascom, ,Mascarell,1993-02-02,SPA,0,28,M,0,0,0,0,mascarell
+modrlu,Luka,Modrić,1985-09-09,CRO,0,19,M,0,0,0,0,luka-modric
+oezime,Mesut,Özil,1988-10-15,GER,0,10,M,0,0,0,0,mesut-oezil
+alonxa,Xabi,Alonso,1981-11-25,SPA,0,14,M,0,0,0,0,xabi-alonso
+benzka,Karim,Benzema,1987-12-19,FRA,0,9,A,0,0,0,0,karim-benzema
+cherde,Denis,Cheryshev,1990-12-26,RUS,0,23,A,0,0,0,0,denis-cheryshev
+ronacr,Cristiano,Ronaldo,1985-02-05,POR,0,7,A,0,0,0,0,cristiano-ronaldo
+higugo,Gonzalo,Higuaí­n,1987-12-10,ARG,0,20,A,0,0,0,0,gonzalo-higuain
+jeseje, ,Jesé,1993-02-26,SPA,0,28,A,0,0,0,0,jese
+callj2,José,Callejón,1987-02-11,SPA,0,21,A,0,0,0,0,jose-callejon
+moralv, ,Morata,1992-10-23,SPA,0,29,A,0,0,0,0,morata
+diarla,Lassana,Diarra,1985-03-10,FRA,0, , ,0,0,0,0,lassana-diarra
+masijo,Jordi,Masip,1989-01-03,SPA,1,32,P,0,0,0,0,jordi-masip
+oieroi, ,Oier,1989-09-14,SPA,1,31,P,0,0,0,0,oier
+pintj1, ,Pinto,1975-11-08,SPA,1,13,P,0,0,0,0,pinto
+valdvi,Víctor,Valdés,1982-01-14,SPA,1,1,P,0,0,0,0,victor-valdes
+abider,Éric,Abidal,1979-09-11,FRA,1,22,F,0,0,0,0,eric-abidal
+adria2, ,Adriano,1984-10-26,BRA,1,21,F,0,0,0,0,adriano_24
+bartma, ,Bartra,1991-01-15,SPA,1,15,F,0,0,0,0,bartra
+planca,Carles,Planas,1991-03-04,SPA,1,29,F,0,0,0,0,carles-planas
+alveda,Dani,Alves,1983-05-06,BRA,1,2,F,0,0,0,0,dani-alves
+albaj1,Jordi,Alba,1989-03-21,SPA,1,18,F,0,0,0,0,jordi-alba
+montm1,Martín,Montoya,1991-04-14,SPA,1,19,F,0,0,0,0,martin-montoya
+mascja,Javier,Mascherano,1984-06-08,ARG,1,14,F,0,0,0,0,javier-mascherano
+piquge, ,Piqué,1987-02-02,SPA,1,3,F,0,0,0,0,pique
+puyoca, ,Puyol,1978-04-13,SPA,1,5,F,0,0,0,0,puyol
+gomese,Sergi,Gómez,1992-03-28,SPA,1,26,F,0,0,0,0,sergi-gomez
+busqse, ,Busquets,1988-07-16,SPA,1,16,M,0,0,0,0,busquets_2
+fabrce,Cesc,Fàbregas,1987-05-04,SPA,1,4,M,0,0,0,0,cesc-fabregas
+santj8,Jonathan dos,Santos,1990-04-26,MEX,1,12,M,0,0,0,0,jonathan-dos-santos
+iniean, ,Iniesta,1984-05-11,SPA,1,8,M,0,0,0,0,iniesta
+rafir2, ,Rafinha,1993-02-12,BRA,1,30,M,0,0,0,0,rafinha_4
+robese,Sergi,Roberto,1992-02-07,SPA,1,28,M,0,0,0,0,sergi-roberto
+songal,Alex,Song,1987-09-09,CMR,1,25,M,0,0,0,0,alex-song
+thiath, ,Thiago,1991-04-11,SPA,1,11,M,0,0,0,0,thiago_17
+xavixa, ,Xavi,1980-01-25,SPA,1,6,M,0,0,0,0,xavi
+tellcr,Cristian,Tello,1991-08-11,SPA,1,37,A,0,0,0,0,cristian-tello
+villd1,David,Villa,1981-12-03,SPA,1,7,A,0,0,0,0,david-villa
+deulge,Gerard,Deulofeu,1994-03-13,SPA,1,27,A,0,0,0,0,gerard-deulofeu
+messli,Lionel,Messi,1987-06-24,ARG,1,10,A,0,0,0,0,lionel-messi
+pedrp8, ,Pedro,1987-07-28,SPA,1,17,A,0,0,0,0,pedro_7
+sanca3,Alexis,Sánchez,1988-12-19,CHI,1,9,A,0,0,0,0,alexis-sanchez
+bravcl,Claudio,Bravo,1983-04-13,CHI,10,1,P,0,0,0,0,claudio-bravo
+royoen, ,Royo,1991-06-14,SPA,10,26,P,0,0,0,0,royo_3
+zubiea, ,Zubikarai,1984-02-26,SPA,10,13,P,0,0,0,0,zubikarai
+ansojo, ,Ansotegi,1982-07-13,SPA,10,15,F,0,0,0,0,ansotegi
+cadali,Liassine,Cadamuro,1988-03-05,FRA,10,19,F,0,0,0,0,liassine-cadamuro
+martc2,Carlos,Martínez,1986-04-09,SPA,10,2,F,0,0,0,0,carlos-martinez_2
+belldl,De la,Bella,1985-12-02,SPA,10,24,F,0,0,0,0,de-la-bella
+elusgo, ,Elustondo,1987-03-18,SPA,10,4,F,0,0,0,0,elustondo_2
+martin,Iñigo,Martínez,1991-05-17,SPA,10,6,F,0,0,0,0,inigo-martinez
+angej2,José,Ángel,1989-09-05,SPA,10,20,F,0,0,0,0,jose-angel_3
+mikem1, ,Mikel,1985-09-24,SPA,10,3,F,0,0,0,0,mikel_2
+bergma, ,Bergara,1986-05-05,SPA,10,5,M,0,0,0,0,bergara_2
+castch,Chory,Castro,1984-09-14,URU,10,18,M,0,0,0,0,chory-castro
+estrda,Dani,Estrada,1987-01-03,SPA,10,22,M,0,0,0,0,dani-estrada
+fuchvi,Victor,Fuchs,1992-07-10,FRA,10,32,M,0,0,0,0,victor-fuchs
+illaas, ,Illarra,1990-03-08,SPA,10,8,M,0,0,0,0,illarra
+rosxja,Javi,Ros,1990-02-16,SPA,10,23,M,0,0,0,0,javi-ros
+hervpa,Pablo,Hervías,1993-03-08,SPA,10,29,M,0,0,0,0,pablo-hervias
+pardru,Rubén,Pardo,1992-10-22,SPA,10,14,M,0,0,0,0,ruben-pardo
+priexa,Xabi,Prieto,1983-08-29,SPA,10,10,M,0,0,0,0,xabi-prieto
+zuruda, ,Zurutuza,1986-07-19,SPA,10,17,M,0,0,0,0,zurutuza
+agirim, ,Agirretxe,1987-02-24,SPA,10,9,A,0,0,0,0,agirretxe
+griean,Antoine,Griezmann,1991-03-21,FRA,10,7,A,0,0,0,0,antoine-griezmann
+ifradi,Diego,Ifrán,1987-06-08,URU,10,21,A,0,0,0,0,diego-ifran
+hernik,Iker,Hernández,1994-04-08,SPA,10,21,A,0,0,0,0,iker-hernandez
+nanijo,Jonathan,Nanizayamo,1992-02-21,BDI,10,33,A,0,0,0,0,jonathan-nanizayamo
+velaca,Carlos,Vela,1989-03-01,MEX,10,11,A,0,0,0,0,carlos-vela
+hernda,Dani,Hernández,1985-10-21,VEN,11,13,P,0,0,0,0,dani-hernandez
+jaimj4, ,Jaime,1980-12-10,SPA,11,1,P,0,0,0,0,jaime_11
+balemi, ,Balenziaga,1988-02-29,SPA,11,24,F,0,0,0,0,balenziaga
+casaiv,Iván,Casado,1993-01-06,SPA,11,32,F,0,0,0,0,ivan-casado
+ruedje,Jesús,Rueda,1987-02-19,SPA,11,6,F,0,0,0,0,jesus-rueda
+valima,Marc,Valiente,1987-03-29,SPA,11,4,F,0,0,0,0,marc-valiente
+penaca, ,Peña,1983-07-28,SPA,11,17,F,0,0,0,0,pena_2
+rukaan,Antonio,Rukavina,1984-01-26,YUG,11,2,F,0,0,0,0,antonio-rukavina
+serehe, ,Sereno,1985-05-18,POR,11,5,F,0,0,0,0,sereno
+rubial,Álvaro,Rubio,1979-04-18,SPA,11,18,M,0,0,0,0,alvaro-rubio
+baraja, ,Baraja,1980-08-24,SPA,11,8,M,0,0,0,0,baraja_2
+eberpa,Patrick,Ebert,1987-03-17,GER,11,20,M,0,0,0,0,patrick-ebert
+pescjo,Jorge,Pesca,1992-02-24,SPA,11,30,M,0,0,0,0,jorge-pesca
+neirju,Juan,Neira,1989-02-21,ARG,11,7,M,0,0,0,0,juan-neira
+omarju, ,Omar,1988-01-26,SPA,11,14,M,0,0,0,0,omar_13
+oscas3, ,Óscar,1982-11-12,SPA,11,10,M,0,0,0,0,oscar_4
+ramava,Valdet,Rama,1987-11-20,ALB,11,23,M,0,0,0,0,valdet-rama
+penaru,Rubén,Peña,1991-07-18,SPA,11,28,M,0,0,0,0,ruben-pena
+sastll, ,Sastre,1986-03-26,SPA,11,16,M,0,0,0,0,sastre_4
+perev1,Víctor,Pérez,1988-01-12,SPA,11,22,M,0,0,0,0,victor-perez_2
+buena1, ,Bueno,1988-03-20,SPA,11,15,A,0,0,0,0,bueno
+guerj1,Javi,Guerra,1982-03-15,SPA,11,9,A,0,0,0,0,javi-guerra
+larsda,Daniel,Larsson,1987-01-25,SWE,11,11,A,0,0,0,0,daniel-larsson
+plaxlo,Lolo,Plá,1993-04-07,SPA,11,27,A,0,0,0,0,lolo-pla
+manum1, ,Manucho,1983-03-07,ANG,11,25,A,0,0,0,0,manucho
+quiqe2, ,Quique,1990-05-16,SPA,11,45,A,0,0,0,0,quique
+lopejc,Juan Carlos,López,1967-12-08,SPA,11,45,A,0,0,0,0,juan-carlos-lopez
+varaja,Javi,Varas,1982-09-10,SPA,12,13,P,0,0,0,0,javi-varas
+blanru,Rubén,Blanco,1995-07-25,SPA,12,26,P,0,0,0,0,ruben-blanco
+alvas1,Sergio,Álvarez,1986-08-03,SPA,12,1,P,0,0,0,0,sergio-alvarez_3
+bellca, ,Bellvís,1985-04-24,SPA,12,16,F,0,0,0,0,bellvis
+cabrgu,Gustavo,Cabral,1985-10-14,ARG,12,12,F,0,0,0,0,gustavo-cabral
+demiva,Vadim,Demidov,1986-10-10,NOR,12,15,F,0,0,0,0,vadim-demidov
+mallhu,Hugo,Mallo,1991-06-22,SPA,12,2,F,0,0,0,0,hugo-mallo
+vilaj3,Jonathan,Vila,1986-03-06,SPA,12,6,F,0,0,0,0,jonathan-vila
+jonnjo, ,Jonny,1994-03-03,SPA,12,28,F,0,0,0,0,jonny_2
+llorsa,Samuel,Llorca,1985-04-26,SPA,12,21,F,0,0,0,0,samuel-llorca
+tunean,Andrés,Túñez,1987-03-15,VEN,12,5,F,0,0,0,0,andres-tunez
+lopea7,Álex,López,1988-01-11,SPA,12,8,M,0,0,0,0,alex-lopez
+oubibo,Borja,Oubiña,1982-05-17,SPA,12,4,M,0,0,0,0,borja-oubina
+lucade, ,De Lucas,1978-08-17,SPA,12,22,M,0,0,0,0,de-lucas
+vicede, ,De Vicente,1989-08-23,SPA,12,30,M,0,0,0,0,de-vicente
+fernau,Augusto,Fernández,1986-04-10,ARG,12,24,M,0,0,0,0,augusto-fernandez
+dehlmk,Michael,Krohn-Dehli,1983-06-06,DEN,12,23,M,0,0,0,0,michael-krohn-dehli
+madile,Levy,Madinda,1992-06-22,GAB,12,22,M,0,0,0,0,levy-madinda
+insana,Natxo,Insa,1986-06-09,SPA,12,25,M,0,0,0,0,natxo-insa
+pranda,Danijel,Pranjić,1981-12-02,CRO,12,11,M,0,0,0,0,danijel-pranjic
+lagoro,Roberto,Lago,1985-08-30,SPA,12,3,M,0,0,0,0,roberto-lago
+tonia8, ,Toni,1990-04-04,SPA,12,20,M,0,0,0,0,toni
+bermma, ,Bermejo,1978-10-07,SPA,12,9,A,0,0,0,0,bermejo_3
+aspaia,Iago,Aspas,1987-08-01,SPA,12,10,A,0,0,0,0,iago-aspas
+orelfa,Fabián,Orellana,1986-01-27,CHI,12,19,A,0,0,0,0,fabian-orellana
+parkcy,Chu-young,Park,1985-07-10,KOR,12,18,A,0,0,0,0,chu-young-park
+minas1,Santi,Mina,1995-12-07,SPA,12,31,A,0,0,0,0,santi-mina
+bustcr, ,Bustos,1983-05-29,SPA,12, , ,0,0,0,0,bustos
+tomaj2,Joan,Tomás,1985-05-17,SPA,12, , ,0,0,0,0,joan-tomas
+cobeda, ,Cobeño,1982-04-06,SPA,13,25,P,0,0,0,0,cobeno
+gimeda,Dani,Giménez,1983-06-30,SPA,13,13,P,0,0,0,0,dani-gimenez
+ismai2, ,Ismael,1989-01-23,SPA,13,26,P,0,0,0,0,ismael_10
+ruber1, ,Rubén,1984-06-22,SPA,13,1,P,0,0,0,0,ruben_4
+arbian, ,Arbilla,1987-05-15,SPA,13,14,F,0,0,0,0,arbilla
+casaj3, ,Casado,1986-08-09,SPA,13,3,F,0,0,0,0,casado_3
+galval, ,Gálvez,1989-06-06,SPA,13,5,F,0,0,0,0,galvez_2
+amatj1,Jordi,Amat,1992-03-21,SPA,13,16,F,0,0,0,0,jordi-amat
+figuj2,Jordi,Figueras,1987-05-16,SPA,13,22,F,0,0,0,0,jordi-figueras
+labami, ,Labaka,1980-08-10,SPA,13,4,F,0,0,0,0,labaka
+nachj5, ,Nacho,1989-03-07,SPA,13,38,F,0,0,0,0,nacho_12
+rodrs1, ,Rodri,1984-08-17,SPA,13,6,F,0,0,0,0,rodri_14
+titoro, ,Tito,1985-07-11,SPA,13,2,F,0,0,0,0,tito_10
+adria5, ,Adrián,1988-05-25,SPA,13,8,M,0,0,0,0,adrian_9
+perea6,Alberto,Perea,1990-12-19,SPA,13,33,M,0,0,0,0,alberto-perea
+isi_is, ,Isi,1995-10-28,SPA,13,39,M,0,0,0,0,isi_2
+fuegja,Javi,Fuego,1984-01-04,SPA,13,18,M,0,0,0,0,javi-fuego
+carljo,José,Carlos,1987-07-17,SPA,13,9,M,0,0,0,0,jose-carlos_4
+trasro, ,Trashorras,1981-02-28,SPA,13,17,M,0,0,0,0,trashorras
+vazqfr,Franco,Vázquez,1989-02-22,ITA,13,20,M,0,0,0,0,franco-vazquez
+sabaad,Adrián,Saballs,1995-07-07,SPA,13,40,A,0,0,0,0,adrian-saballs
+bangal,Alhassane,Bangoura,1992-03-30,GUI,13,19,A,0,0,0,0,alhassane-bangoura
+delian,Andrija,Delibašić,1981-04-24,MNT,13,23,A,0,0,0,0,andrija-delibasic
+domial,Alejandro,Domínguez,1981-06-10,ARG,13,11,A,0,0,0,0,alejandro-dominguez_2
+baptle,Leo,Baptistão,1992-08-26,BRA,13,29,A,0,0,0,0,leo-baptistao
+nonoda, ,Nono,1991-05-23,SPA,13,32,A,0,0,0,0,nono_2
+pitifr, ,Piti,1981-05-26,SPA,13,10,A,0,0,0,0,piti
+tamura,Raúl,Tamudo,1977-10-19,SPA,13,15,A,0,0,0,0,raul-tamudo
+ramiru,Rubén,Ramiro,1993-04-16,SPA,13,37,A,0,0,0,0,ruben-ramiro
+nielnb,Nicki Bille,Nielsen,1988-02-07,DEN,13, , ,0,0,0,0,nicki-bille-nielsen
+aranma, ,Arana,1984-12-03,SPA,13, , ,0,0,0,0,arana_4
+abuxmo,Mohammed,Abu,1991-11-14,GHA,13, , ,0,0,0,0,mohammed-abu
+roberB, ,Rober,1992-09-20,SPA,13, , ,0,0,0,0,rober
+suelsu, ,Sueliton,1986-08-19,BRA,13, , ,0,0,0,0,sueliton
+aouadu,Dudu,Aouate,1977-10-17,ISR,14,13,P,0,0,0,0,dudu-aouate
+calaju, ,Calatayud,1979-12-21,SPA,14,1,P,0,0,0,0,calatayud
+minoru,Rubén,Miño,1989-01-18,SPA,14,25,P,0,0,0,0,ruben-mino
+yeraye, ,Yeray,1992-06-10,SPA,14,26,P,0,0,0,0,yeray
+concan,Anderson,Conceição,1989-10-24,BRA,14,4,F,0,0,0,0,anderson-conceicao
+lopea5,Antonio,López,1981-09-13,SPA,14,6,F,0,0,0,0,antonio-lopez_2
+lunaan,Antonio,Luna,1991-03-17,SPA,14,20,F,0,0,0,0,antonio-luna
+compbi,Biel,Company,1992-02-16,SPA,14,36,F,0,0,0,0,biel-company
+bigape, ,Bigas,1990-05-15,SPA,14,17,F,0,0,0,0,bigas
+fontan, ,Fontàs,1989-11-14,SPA,14,24,F,0,0,0,0,fontas
+gerope, ,Geromel,1985-09-21,BRA,14,14,F,0,0,0,0,geromel
+huttal,Alan,Hutton,1984-11-30,SCO,14,2,F,0,0,0,0,alan-hutton
+nunej1,José,Nunes,1977-03-07,POR,14,16,F,0,0,0,0,jose-nunes
+kevike, ,Kevin,1989-09-08,SPA,14,23,F,0,0,0,0,kevin_2
+maripa,Pablo,Marí,1993-08-31,SPA,14,34,F,0,0,0,0,pablo-mari
+tookch,Charlie,Took,1993-05-25,CMR,14,32,F,0,0,0,0,charlie-took
+navax1,Ximo,Navarro,1990-01-23,SPA,14,27,F,0,0,0,0,ximo-navarro_2
+alfaal, ,Alfaro,1986-11-23,SPA,14,21,M,0,0,0,0,alfaro_2
+crisca,Carlos,Cristeto,1994-05-13,SPA,14,39,M,0,0,0,0,carlos-cristeto
+geneda, ,Generelo,1982-08-11,SPA,14,14,M,0,0,0,0,generelo
+marqja,Javi,Márquez,1986-05-11,SPA,14,11,M,0,0,0,0,javi-marquez
+victj1,João,Victor,1988-11-07,BRA,14,3,M,0,0,0,0,joao-victor
+martjC, ,Martí,1975-04-28,SPA,14,19,M,0,0,0,0,marti
+baleni,Nico,Baleani,1992-11-16,SPA,14,42,M,0,0,0,0,nico-baleani
+perem7,Mickaël,Pereira,1987-12-08,FRA,14,7,M,0,0,0,0,mickael-pereira
+pinato, ,Pina,1987-10-14,SPA,14,5,M,0,0,0,0,pina
+sastti,Tià,Sastre,1994-07-21,SPA,14,38,M,0,0,0,0,tia-sastre
+tissfe,Fernando,Tissone,1986-07-24,ARG,14,12,M,0,0,0,0,fernando-tissone
+ucheke,Kenechukwu,Uchenwa,1991-06-03,NGR,14,31,M,0,0,0,0,kenechukwu-uchenwa
+abdoa1, ,Abdón,1992-12-07,SPA,14,33,A,0,0,0,0,abdon_2
+alval9, ,Álvaro,1991-05-19,SPA,14,30,A,0,0,0,0,alvaro_8
+arizng, ,Arizmendi,1984-03-03,SPA,14,22,A,0,0,0,0,arizmendi
+branbr, ,Brandon,1995-02-04,SPA,14,37,A,0,0,0,0,brandon
+santg1,Giovani dos,Santos,1989-05-11,MEX,14,9,A,0,0,0,0,giovani-dos-santos
+hemeto,Tomer,Hemed,1987-05-02,ISR,14,10,A,0,0,0,0,tomer-hemed
+fernm4,Marc,Fernández,1990-04-29,SPA,14,35,A,0,0,0,0,marc-fernandez
+nsueem,Emilio,N'Sue,1989-09-30,EQG,14,8,A,0,0,0,0,emilio-nsue
+casavi,Víctor,Casadesús,1985-02-28,SPA,14,18,A,0,0,0,0,victor-casadesus
+cabawi,Willy,Caballero,1981-09-28,ARG,15,13,P,0,0,0,0,willy-caballero
+kameca,Carlos,Kameni,1984-02-18,CMR,15,1,P,0,0,0,0,carlos-kameni
+polxpo, ,Pol,1991-08-22,SPA,15,32,P,0,0,0,0,pol
+portal,Álex,Portillo,1992-11-06,SPA,15,46,F,0,0,0,0,alex-portillo
+antuvi, ,Antunes,1987-04-01,POR,15,25,F,0,0,0,0,antunes
+demima,Martín,Demichelis,1980-12-20,ARG,15,5,F,0,0,0,0,martin-demichelis
+elise1, ,Eliseu,1983-10-01,POR,15,18,F,0,0,0,0,eliseu
+gameje,Jesús,Gámez,1985-04-10,SPA,15,2,F,0,0,0,0,jesus-gamez
+jurafr, ,Jurado,1990-03-14,SPA,15,30,F,0,0,0,0,jurado_3
+lugadi,Diego,Lugano,1980-11-02,URU,15,4,F,0,0,0,0,diego-lugano
+onyeog,Oguchi,Onyewu,1982-05-13,USA,15,23,F,0,0,0,0,oguchi-onyewu
+sancs1,Sergio,Sánchez,1986-04-03,SPA,15,21,F,0,0,0,0,sergio-sanchez_2
+weliwe, ,Weligton,1979-08-26,BRA,15,3,F,0,0,0,0,weligton
+calase, ,Cala,1990-03-02,SPA,15,29,M,0,0,0,0,cala_2
+camaig, ,Camacho,1990-05-04,SPA,15,6,M,0,0,0,0,camacho_9
+dudasr, ,Duda,1980-06-27,POR,15,17,M,0,0,0,0,duda_2
+iscofr, ,Isco,1992-04-21,SPA,15,22,M,0,0,0,0,isco
+iturma,Manuel,Iturra,1984-06-23,CHI,15,16,M,0,0,0,0,manuel-iturra
+joaqj5, ,Joaquín,1981-07-21,SPA,15,7,M,0,0,0,0,joaquin
+piazlu,Lucas,Piazón,1994-01-20,BRA,15,12,M,0,0,0,0,lucas-piazon
+morap1,Pedro,Morales,1985-05-25,CHI,15,14,M,0,0,0,0,pedro-morales
+portf1, ,Portillo,1990-06-13,SPA,15,19,M,0,0,0,0,portillo
+toulje,Jérémy,Toulalan,1983-09-10,FRA,15,8,M,0,0,0,0,jeremy-toulalan
+fernse,Sebastián,Fernández,1985-05-23,URU,15,11,A,0,0,0,0,sebastian-fernandez
+baptju,Júlio,Baptista,1981-10-01,BRA,15,10,A,0,0,0,0,julio-baptista
+olinfa,Fabrice,Olinga,1996-05-12,CMR,15,45,A,0,0,0,0,fabrice-olinga
+samus1, ,Samuel,1990-07-13,SPA,15,45,A,0,0,0,0,samuel_5
+cruzrs,Roque,Santa Cruz,1981-08-16,PAR,15,24,A,0,0,0,0,roque-santa-cruz
+savija,Javier,Saviola,1981-12-11,ARG,15,9,A,0,0,0,0,javier-saviola
+monrna,Nacho,Monreal,1986-02-26,SPA,15, , ,0,0,0,0,nacho-monreal
+buondi,Diego,Buonanotte,1988-04-19,ARG,15, , ,0,0,0,0,diego-buonanotte
+recijo, ,Recio,1991-01-11,SPA,15, , ,0,0,0,0,recio_2
+juan1I, ,Juanmi,1993-05-20,SPA,15, , ,0,0,0,0,juanmi_4
+mareen,Enzo,Maresca,1980-02-10,ITA,15, , ,0,0,0,0,enzo-maresca
+ferna9,Andrés,Fernández,1986-12-16,SPA,17,13,P,0,0,0,0,andres-fernandez_3
+eliaim,Imanol,Elías,1990-08-17,SPA,17,26,P,0,0,0,0,imanol-elias
+ricar3, ,Ricardo,1971-12-30,SPA,17,25,P,0,0,0,0,ricardo_2
+riesas, ,Riesgo,1983-10-06,SPA,17,1,P,0,0,0,0,riesgo
+arrial, ,Arribas,1989-05-01,SPA,17,14,F,0,0,0,0,arribas
+damida, ,Damiá,1982-04-15,SPA,17,24,F,0,0,0,0,damia
+lolom2, ,Lolo,1984-08-22,SPA,17,5,F,0,0,0,0,lolo_3
+bertma,Marc,Bertrán,1982-05-22,SPA,17,2,F,0,0,0,0,marc-bertran
+flanmi,Miguel,Flaño,1984-08-19,SPA,17,4,F,0,0,0,0,miguel-flano
+oiero1, ,Oier,1986-05-25,SPA,17,15,F,0,0,0,0,oier_2
+ruberu, ,Rubén,1982-01-29,SPA,17,3,F,0,0,0,0,ruben
+garcun,Unai,García,1992-02-03,SPA,17,35,F,0,0,0,0,unai-garcia
+cejual,Álvaro,Cejudo,1984-01-29,SPA,17,16,M,0,0,0,0,alvaro-cejudo
+annaan,Anthony,Annan,1986-07-21,GHA,17,25,M,0,0,0,0,anthony-annan
+armeem,Emiliano,Armenteros,1986-01-18,ARG,17,9,M,0,0,0,0,emiliano-armenteros
+timoda,David,Timor,1989-10-17,SPA,17,22,M,0,0,0,0,david-timor
+cuevdl,De las,Cuevas,1986-06-19,SPA,17,6,M,0,0,0,0,de-las-cuevas
+loexra,Raoul,Loé,1989-01-31,CMR,17,23,M,0,0,0,0,raoul-loe
+mesam1,Maikel,Mesa,1991-06-04,SPA,17,36,M,0,0,0,0,maikel-mesa
+nanofe, ,Nano,1982-04-20,SPA,17,19,M,0,0,0,0,nano
+punafr, ,Puñal,1975-09-06,SPA,17,10,M,0,0,0,0,punal
+torrro,Roberto,Torres,1989-03-07,SPA,17,21,M,0,0,0,0,roberto-torres_3
+shojma,Masoud,Shojaei,1984-06-09,IRN,17,8,M,0,0,0,0,masoud-shojaei
+silvfr,Francisco,Silva,1986-02-11,CHI,17,20,M,0,0,0,0,francisco-silva
+sisisi, ,Sisi,1986-04-22,SPA,17,11,M,0,0,0,0,sisi
+solaki,Kike,Sola,1986-02-25,SPA,17,7,A,0,0,0,0,kike-sola
+llorjo, ,Llorente,1979-11-24,SPA,17,12,A,0,0,0,0,llorente_3
+onwuma,Manuel,Onwu,1988-01-11,SPA,17,18,A,0,0,0,0,manuel-onwu
+ninoju, ,Nino,1980-06-10,SPA,17,17,A,0,0,0,0,nino
+lamar1,Roland,Lamah,1987-12-31,BEL,17, , ,0,0,0,0,roland-lamah
+echaio, ,Echaide,1988-01-05,SPA,17, , ,0,0,0,0,echaide
+asense, ,Asenjo,1989-06-28,SPA,2,1,P,0,0,0,0,asenjo_2
+courth,Thibaut,Courtois,1992-05-11,BEL,2,13,P,0,0,0,0,thibaut-courtois
+gilxda,David,Gil,1994-01-11,SPA,2,37,P,0,0,0,0,david-gil
+cismdo, ,Cisma,1982-02-09,SPA,2,15,F,0,0,0,0,cisma
+diazca,Cata,Díaz,1979-03-13,ARG,2,18,F,0,0,0,0,cata-diaz
+luisfi,Filipe,Luís,1985-08-09,BRA,2,3,F,0,0,0,0,filipe-luis
+gallfa,Fallou,Gallas,1994-04-13,SEN,2,35,F,0,0,0,0,fallou-gallas
+godidi,Diego,Godín,1986-02-16,URU,2,2,F,0,0,0,0,diego-godin
+insuem,Emiliano,Insúa,1989-01-07,ARG,2,22,F,0,0,0,0,emiliano-insua
+juan17, ,Juanfran,1985-01-09,SPA,2,20,F,0,0,0,0,juanfran_2
+kadeab, ,Kader,1991-10-07,TUN,2,42,F,0,0,0,0,kader_2
+manqja, ,Manquillo,1994-05-05,SPA,2,26,F,0,0,0,0,manquillo
+mirajo, ,Miranda,1984-09-07,BRA,2,23,F,0,0,0,0,miranda_2
+monsna,Nacho,Monsalve,1994-04-27,SPA,2,31,F,0,0,0,0,nacho-monsalve
+pulij1, ,Pulido,1991-04-08,SPA,2,12,F,0,0,0,0,pulido_4
+astrpe, ,Astray,1992-03-18,SPA,2,38,M,0,0,0,0,astray
+caleiv, ,Calero,1995-04-21,SPA,2,34,M,0,0,0,0,calero_2
+domefe, ,Domenech,1992-01-22,SPA,2,40,M,0,0,0,0,domenech_6
+gabig2, ,Gabi,1983-07-10,SPA,2,14,M,0,0,0,0,gabi
+kitycr, ,Kity,1992-11-12,SPA,2,33,M,0,0,0,0,kity
+kokejo, ,Koke,1992-01-08,SPA,2,6,M,0,0,0,0,koke_2
+suarm1,Mario,Suárez,1987-02-24,SPA,2,4,M,0,0,0,0,mario-suarez
+torrol,Óliver,Torres,1994-11-10,SPA,2,30,M,0,0,0,0,oliver-torres
+partth,Thomas,Partey,1993-06-13,GHA,2,44,M,0,0,0,0,thomas-partey
+garcr3,Raúl,García,1986-07-11,SPA,2,8,M,0,0,0,0,raul-garcia
+rodrcr,Cristian,Rodríguez,1985-09-30,URU,2,11,M,0,0,0,0,cristian-rodriguez
+sauls1, ,Saúl,1994-11-21,SPA,2,28,M,0,0,0,0,saul_4
+tiagt1, ,Tiago,1981-05-02,POR,2,5,M,0,0,0,0,tiago_3
+turaar,Arda,Turan,1987-01-30,TUR,2,10,M,0,0,0,0,arda-turan
+adria3, ,Adrián,1988-01-08,SPA,2,7,A,0,0,0,0,adrian_2
+aquid1,Dani,Aquino,1990-07-27,SPA,2,36,A,0,0,0,0,dani-aquino
+costdi,Diego,Costa,1988-10-07,SPA,2,19,A,0,0,0,0,diego-costa
+falcra,Radamel,Falcao,1986-02-10,COL,2,9,A,0,0,0,0,radamel-falcao
+galabo, ,Galán,1993-04-26,SPA,2,31,A,0,0,0,0,galan_6
+ndoymo,Momar,Ndoye,1992-03-10,SEN,2,41,A,0,0,0,0,momar-ndoye
+beloem,Emre,Belözoğlu,1980-09-07,TUR,2, , ,0,0,0,0,emre-beloezoglu
+silvsl, ,Sílvio,1987-09-28,POR,2, , ,0,0,0,0,silvio_2
+joelj1, ,Joel,1990-06-17,SPA,2, , ,0,0,0,0,joel
+martp2,Pedro,Martín,1992-01-16,SPA,2, , ,0,0,0,0,pedro-martin
+alvedi,Diego,Alves,1985-06-24,BRA,3,1,P,0,0,0,0,diego-alves
+felif9, ,Felipe,1988-01-10,SPA,3,26,P,0,0,0,0,felipe_6
+guaivi, ,Guaita,1987-02-18,SPA,3,13,P,0,0,0,0,guaita
+quinal,Álex,Quintanilla,1990-07-02,SPA,3,29,F,0,0,0,0,alex-quintanilla
+barra2, ,Barragán,1987-06-12,SPA,3,14,F,0,0,0,0,barragan_2
+delgca,Carlos,Delgado,1990-04-22,SPA,3,30,F,0,0,0,0,carlos-delgado_2
+cissal,Aly,Cissokho,1987-09-15,FRA,3,3,F,0,0,0,0,aly-cissokho
+dalmal, ,Dalmau,1992-03-16,SPA,3,31,F,0,0,0,0,dalmau_2
+perej9,João,Pereira,1984-02-25,POR,3,12,F,0,0,0,0,joao-pereira
+bernj3,Juan,Bernat,1993-03-01,SPA,3,28,F,0,0,0,0,juan-bernat
+mathje,Jérémy,Mathieu,1983-10-29,FRA,3,22,F,0,0,0,0,jeremy-mathieu
+ramiad,Adil,Rami,1985-12-27,FRA,3,4,F,0,0,0,0,adil-rami
+costr1,Ricardo,Costa,1981-05-16,POR,3,20,F,0,0,0,0,ricardo-costa
+ruizs1,Salva,Ruiz,1995-05-17,SPA,3,33,F,0,0,0,0,salva-ruiz
+ruizvi,Víctor,Ruiz,1989-01-25,SPA,3,18,F,0,0,0,0,victor-ruiz_2
+albeda, ,Albelda,1977-09-01,SPA,3,6,M,0,0,0,0,albelda
+baneev,Éver,Banega,1988-06-29,ARG,3,10,M,0,0,0,0,ever-banega
+canase, ,Canales,1991-02-16,SPA,3,23,M,0,0,0,0,canales_2
+costti,Tino,Costa,1985-01-09,ARG,3,24,M,0,0,0,0,tino-costa
+feghso,Sofiane,Féghouli,1989-12-26,ALG,3,8,M,0,0,0,0,sofiane-feghouli
+gayajo, ,Gayà,1995-05-25,SPA,3,36,M,0,0,0,0,gaya
+guaran,Andrés,Guardado,1986-09-28,MEX,3,17,M,0,0,0,0,andres-guardado
+arquma,Mario,Arqués,1992-01-19,SPA,3,38,M,0,0,0,0,mario-arques
+pareda, ,Parejo,1989-04-16,SPA,3,21,M,0,0,0,0,parejo_2
+portc1, ,Portu,1992-05-21,SPA,3,30,M,0,0,0,0,portu_4
+jonaj2, ,Jonas,1984-04-01,BRA,3,7,A,0,0,0,0,jonas
+vierjo,Jonathan,Viera,1989-10-21,SPA,3,15,A,0,0,0,0,jonathan-viera
+piatpa,Pablo,Piatti,1989-03-31,ARG,3,11,A,0,0,0,0,pablo-piatti
+soldro, ,Soldado,1985-05-27,SPA,3,9,A,0,0,0,0,soldado
+valdne,Nelson,Valdez,1983-11-28,PAR,3,16,A,0,0,0,0,nelson-valdez
+gagofe,Fernando,Gago,1986-04-10,ARG,3, , ,0,0,0,0,fernando-gago
+garase, ,Garabato,1989-05-16,SPA,37,26,P,0,0,0,0,garabato
+munugu,Gustavo,Munúa,1978-01-27,URU,37,1,P,0,0,0,0,gustavo-munua
+navake,Keylor,Navas,1986-12-15,CRC,37,13,P,0,0,0,0,keylor-navas
+ballse, ,Ballesteros,1975-09-04,SPA,37,18,F,0,0,0,0,ballesteros
+rodahe,Héctor,Rodas,1988-03-07,SPA,37,5,F,0,0,0,0,hector-rodas
+lopeiv,Iván,López,1993-08-23,SPA,37,28,F,0,0,0,0,ivan-lopez_3
+juanjY, ,Juanfran,1976-07-15,SPA,37,12,F,0,0,0,0,juanfran
+karani,Nikos,Karabelas,1984-12-20,GRE,37,15,F,0,0,0,0,nikos-karabelas
+lellch,Christian,Lell,1984-08-29,GER,37,22,F,0,0,0,0,christian-lell
+navada, ,Navarro,1980-05-25,SPA,37,4,F,0,0,0,0,navarro_16
+lopepe,Pedro,López,1983-11-01,SPA,37,19,F,0,0,0,0,pedro-lopez
+vyntlo,Loukas,Vyntra,1981-02-05,GRE,37,6,F,0,0,0,0,loukas-vyntra
+barkjo, ,Barkero,1979-04-27,SPA,37,7,M,0,0,0,0,barkero
+dioppa,Pape,Diop,1986-03-19,SEN,37,23,M,0,0,0,0,pape-diop_2
+dudkda,Dariusz,Dudka,1983-12-09,POL,37,14,M,0,0,0,0,dariusz-dudka
+zharne,Nabil,El Zhar,1986-08-27,MAR,37,8,M,0,0,0,0,nabil-el-zhar
+higojo, ,Higón,1991-05-22,SPA,37,31,M,0,0,0,0,higon
+iborv1, ,Iborra,1988-01-16,SPA,37,10,M,0,0,0,0,iborra_3
+juan1A, ,Juanlu,1980-05-18,SPA,37,20,M,0,0,0,0,juanlu
+michm3, ,Míchel,1988-07-29,SPA,37,21,M,0,0,0,0,michel_18
+riospe,Pedro,Ríos,1981-12-12,SPA,37,16,M,0,0,0,0,pedro-rios
+garcr6,Rubén,García,1993-07-14,SPA,37,11,M,0,0,0,0,ruben-garcia_3
+simas1, ,Simão,1988-07-23,MOZ,37,24,M,0,0,0,0,simao_5
+valdva, ,Valdo,1981-04-23,CVE,37,17,M,0,0,0,0,valdo_2
+acquro,Robert,Acquafresca,1987-09-11,ITA,37,9,A,0,0,0,0,robert-acquafresca
+jasoda, ,Jason,1994-07-06,SPA,37,46,A,0,0,0,0,jason
+roger4, ,Roger,1991-01-03,SPA,37,27,A,0,0,0,0,roger_8
+martob,Obafemi,Martins,1984-10-28,NGR,37, , ,0,0,0,0,obafemi-martins
+angen5, ,Ángel,1987-04-26,SPA,37, , ,0,0,0,0,angel_4
+pallmi, ,Pallardó,1986-06-05,SPA,37, , ,0,0,0,0,pallardo
+gekath,Theofanis,Gekas,1980-05-23,GRE,37, , ,0,0,0,0,theofanis-gekas
+serros,Óscar,Serrano,1981-09-30,SPA,37, , ,0,0,0,0,oscar-serrano
+voltma,Massimo,Volta,1987-05-14,ITA,37, , ,0,0,0,0,massimo-volta
+alcopa, ,Alcolea,1989-03-23,SPA,4,30,P,0,0,0,0,alcolea_2
+franle,Leo,Franco,1977-05-20,ARG,4,13,P,0,0,0,0,leo-franco
+kiliki, ,Kilian,1992-09-28,SPA,4,40,P,0,0,0,0,kilian_3
+rober8, ,Roberto,1986-02-10,SPA,4,1,P,0,0,0,0,roberto
+gonza5,Álvaro,González,1990-01-08,SPA,4,4,F,0,0,0,0,alvaro-gonzalez_3
+fernj6, ,Fernández,1989-11-18,SPA,4,14,F,0,0,0,0,fernandez_11
+gonzfr,Fran,González,1989-02-01,SPA,4,29,F,0,0,0,0,fran-gonzalez_2
+hecth1, ,Héctor,1991-05-23,SPA,4,27,F,0,0,0,0,hector_12
+lanzma,Maurizio,Lanzaro,1983-03-14,ITA,4,5,F,0,0,0,0,maurizio-lanzaro
+loovgl,Glenn,Loovens,1983-09-22,NED,4,16,F,0,0,0,0,glenn-loovens
+obraiv,Ivan,Obradović,1988-07-25,YUG,4,24,F,0,0,0,0,ivan-obradovic
+parej1, ,Paredes,1982-07-05,SPA,4,3,F,0,0,0,0,paredes_2
+spuncr,Cristian,Săpunaru,1984-04-05,ROM,4,19,F,0,0,0,0,cristian-spunaru
+abraa1, ,Abraham,1986-02-22,SPA,4,21,M,0,0,0,0,abraham_5
+carmad,Adrià,Carmona,1992-02-08,SPA,4,25,M,0,0,0,0,adria-carmona
+aponan, ,Apoño,1984-02-13,SPA,4,10,M,0,0,0,0,apono
+babost,Stefan,Babović,1987-01-07,YUG,4,17,M,0,0,0,0,stefan-babovic
+marijE,José,Mari,1987-12-06,SPA,4,15,M,0,0,0,0,jose-mari_5
+lacrke,Kevin,Lacruz,1992-02-13,SPA,4,29,M,0,0,0,0,kevin-lacruz
+movijo, ,Movilla,1975-02-08,SPA,4,2,M,0,0,0,0,movilla
+pintad,Ádám,Pintér,1988-06-12,HUN,4,22,M,0,0,0,0,adam-pinter
+romach, ,Romaric,1983-06-04,CIV,4,12,M,0,0,0,0,romaric
+tarsta, ,Tarsi,1994-10-16,SPA,4,28,M,0,0,0,0,tarsi
+victv5, ,Víctor,1989-07-23,SPA,4,32,M,0,0,0,0,victor_10
+wilclu,Lucas,Wilchez,1983-08-31,ARG,4,18,M,0,0,0,0,lucas-wilchez
+zucufr,Franco,Zuculini,1990-09-05,ARG,4,20,M,0,0,0,0,franco-zuculini
+bienhe,Henri,Bienvenu,1988-07-05,CMR,4,7,A,0,0,0,0,henri-bienvenu
+orioed,Edu,Oriol,1986-11-05,SPA,4,8,A,0,0,0,0,edu-oriol
+posthe,Hélder,Postiga,1982-08-02,POR,4,9,A,0,0,0,0,helder-postiga
+alamja,Javi,Álamo,1988-08-18,SPA,4,23,A,0,0,0,0,javi-alamo
+ortij3,Jorge,Ortí,1993-04-28,SPA,4,26,A,0,0,0,0,jorge-orti
+montpa,Paco,Montañés,1986-10-08,SPA,4,11,A,0,0,0,0,paco-montanes
+rodrr9, ,Rodri,1990-06-06,SPA,4,6,A,0,0,0,0,rodri_13
+rochru,Rubén,Rochina,1991-03-23,SPA,4,24,A,0,0,0,0,ruben-rochina
+aranca, ,Aranda,1980-07-27,SPA,4, , ,0,0,0,0,aranda
+gonira, ,Goni,1988-10-12,SPA,4, , ,0,0,0,0,goni_3
+albea8, ,Alberto,1988-02-11,SPA,47,33,P,0,0,0,0,alberto_2
+codijo, ,Codina,1982-04-27,SPA,47,13,P,0,0,0,0,codina_2
+moyami, ,Moyá,1984-04-02,SPA,47,1,P,0,0,0,0,moya
+alexa1, ,Alexis,1985-08-04,SPA,47,2,F,0,0,0,0,alexis
+escuse, ,Escudero,1989-09-02,SPA,47,16,F,0,0,0,0,escudero_7
+fernf9,Federico,Fernández,1989-02-21,ARG,47,12,F,0,0,0,0,federico-fernandez
+ruizj1,José,Ruíz,1990-03-26,SPA,47,30,F,0,0,0,0,jose-ruiz_2
+garcl3,Lopo,García,1980-05-05,SPA,47,6,F,0,0,0,0,lopo-garcia
+manej1, ,Mané,1981-12-21,SPA,47,3,F,0,0,0,0,mane
+torrm4,Miguel,Torres,1986-01-28,SPA,47,4,F,0,0,0,0,miguel-torres
+rafar4, ,Rafa,1985-04-09,SPA,47,15,F,0,0,0,0,rafa_2
+valej5, ,Valera,1984-12-21,SPA,47,20,F,0,0,0,0,valera
+barrab,Abdelaziz,Barrada,1989-06-19,MAR,47,19,M,0,0,0,0,abdelaziz-barrada
+borjf2, ,Borja,1981-01-14,SPA,47,23,M,0,0,0,0,borja_2
+benidi,Diego,Benito,1988-08-25,SPA,47,28,M,0,0,0,0,diego-benito
+castdi,Diego,Castro,1982-07-02,SPA,47,17,M,0,0,0,0,diego-castro
+gavija, ,Gavilán,1985-05-12,SPA,47,10,M,0,0,0,0,gavilan
+rodrju,Juan,Rodríguez,1982-04-01,SPA,47,22,M,0,0,0,0,juan-rodriguez
+laceme,Medhi,Lacen,1984-03-15,ALG,47,5,M,0,0,0,0,medhi-lacen
+lafing, ,Lafita,1984-08-07,SPA,47,18,M,0,0,0,0,lafita
+michm2, ,Míchel,1985-11-08,SPA,47,21,M,0,0,0,0,michel_10
+sarapa,Pablo,Sarabia,1992-05-11,SPA,47,8,M,0,0,0,0,pablo-sarabia
+leonpe,Pedro,León,1986-11-24,SPA,47,14,M,0,0,0,0,pedro-leon
+torrxa,Xavi,Torres,1986-11-21,SPA,47,25,M,0,0,0,0,xavi-torres
+alval8, ,Álvaro,1991-04-27,SPA,47,7,A,0,0,0,0,alvaro_10
+coluad, ,Colunga,1984-11-17,SPA,47,11,A,0,0,0,0,colunga
+fraihu,Hugo,Fraile,1987-03-16,SPA,47,24,A,0,0,0,0,hugo-fraile
+alcapa,Paco,Alcácer,1993-08-30,SPA,47,9,A,0,0,0,0,paco-alcacer
+saizsa,Samu,Sáiz,1991-01-22,SPA,47,27,A,0,0,0,0,samu-saiz
+abrada,David,Abraham,1986-07-15,ARG,47, , ,0,0,0,0,david-abraham
+mikuni, ,Miku,1985-08-19,VEN,47, , ,0,0,0,0,miku
+iraigo, ,Iraizoz,1981-03-06,SPA,5,1,P,0,0,0,0,iraizoz
+kepak1, ,Kepa,1994-10-03,SPA,5,30,P,0,0,0,0,kepa_3
+raulr2, ,Raúl,1988-03-13,SPA,5,13,P,0,0,0,0,raul_10
+amorfe,Fernando,Amorebieta,1985-03-29,VEN,5,5,F,0,0,0,0,fernando-amorebieta
+aurtjo, ,Aurtenetxe,1992-01-03,SPA,5,3,F,0,0,0,0,aurtenetxe
+castxa, ,Castillo,1986-03-29,SPA,5,22,F,0,0,0,0,castillo_8
+ekizbo, ,Ekiza,1988-03-06,SPA,5,23,F,0,0,0,0,ekiza
+iraoan, ,Iraola,1982-06-22,SPA,5,15,F,0,0,0,0,iraola
+lapoay,Aymeric,Laporte,1994-05-27,FRA,5,4,F,0,0,0,0,aymeric-laporte
+etxema,Markel,Etxeberria,1995-02-15,SPA,5,29,F,0,0,0,0,markel-etxeberria
+ramajo, ,Ramalho,1993-06-10,SPA,5,28,F,0,0,0,0,ramalho_4
+saboen, ,Saborit,1992-04-27,SPA,5,32,F,0,0,0,0,saborit
+josesa,San,José,1989-05-30,SPA,5,6,F,0,0,0,0,san-jose
+seguai,Aitor,Seguín,1995-02-27,SPA,5,34,M,0,0,0,0,aitor-seguin
+aketag, ,Aketxe,1993-12-30,SPA,5,37,M,0,0,0,0,aketxe_2
+penaal,Álvaro,Peña,1991-10-24,SPA,5,40,M,0,0,0,0,alvaro-pena_3
+herran,Ander,Herrera,1989-08-14,SPA,5,21,M,0,0,0,0,ander-herrera
+moraer,Erik,Morán,1991-05-25,SPA,5,39,M,0,0,0,0,erik-moran
+gurpca, ,Gurpegi,1980-08-19,SPA,5,18,M,0,0,0,0,gurpegi
+marti1,Igor,Martínez,1989-07-19,SPA,5,26,M,0,0,0,0,igor-martinez
+perein,Iñigo,Pérez,1988-01-18,SPA,5,17,M,0,0,0,0,inigo-perez
+lopeis,Isma,López,1990-01-19,SPA,5,16,M,0,0,0,0,isma-lopez
+ituran, ,Iturraspe,1989-03-08,SPA,5,8,M,0,0,0,0,iturraspe_2
+jonxjo, ,Jonxa,1991-07-20,SPA,5,41,M,0,0,0,0,jonxa
+galard,Ruiz,de Galarreta,1993-08-06,SPA,5,27,M,0,0,0,0,ruiz-de-galarreta
+susama, ,Susaeta,1987-12-14,SPA,5,14,M,0,0,0,0,susaeta_3
+undaik, ,Undabarrena,1995-05-18,SPA,5,33,M,0,0,0,0,undabarrena_2
+adurar, ,Aduriz,1981-02-11,SPA,5,20,A,0,0,0,0,aduriz
+marcde, ,De Marcos,1989-04-14,SPA,5,10,A,0,0,0,0,de-marcos
+guilg5, ,Guillermo,1993-05-23,SPA,5,31,A,0,0,0,0,guillermo_5
+ibaiib, ,Ibai,1989-11-11,SPA,5,11,A,0,0,0,0,ibai
+llorf1, ,Llorente,1985-02-26,SPA,5,9,A,0,0,0,0,llorente
+muniik, ,Muniain,1992-12-19,SPA,5,19,A,0,0,0,0,muniain
+toquga, ,Toquero,1984-08-09,SPA,5,2,A,0,0,0,0,toquero
+betoan, ,Beto,1982-05-01,POR,6,13,P,0,0,0,0,beto_2
+cuesju,Julián,Cuesta,1991-03-28,SPA,6,29,P,0,0,0,0,julian-cuesta
+paloan, ,Palop,1973-10-22,SPA,6,1,P,0,0,0,0,palop
+ricose,Sergio,Rico,1993-09-01,SPA,6,37,P,0,0,0,0,sergio-rico
+botial,Alberto,Botía,1989-01-27,SPA,6,24,F,0,0,0,0,alberto-botia
+morea5,Alberto,Moreno,1992-07-05,SPA,6,35,F,0,0,0,0,alberto-moreno
+calaj1, ,Cala,1989-11-26,SPA,6,5,F,0,0,0,0,cala
+cicial, ,Cicinho,1986-08-04,BRA,6,21,F,0,0,0,0,cicinho_2
+cokejo, ,Coke,1987-04-26,SPA,6,23,F,0,0,0,0,coke
+fazife,Federico,Fazio,1987-03-17,ARG,6,2,F,0,0,0,0,federico-fazio
+navafe,Fernando,Navarro,1982-06-25,SPA,6,3,F,0,0,0,0,fernando-navarro
+pueris,Israel,Puerto,1993-06-15,SPA,6,34,F,0,0,0,0,israel-puerto
+campj4, ,Campaña,1993-05-31,SPA,6,6,M,0,0,0,0,campana_2
+cotaan, ,Cotán,1995-09-19,SPA,6,33,M,0,0,0,0,cotan
+hervja,Javi,Hervás,1989-06-09,SPA,6,17,M,0,0,0,0,javi-hervas
+navaje,Jesús,Navas,1985-11-21,SPA,6,7,M,0,0,0,0,jesus-navas
+kondge,Geoffrey,Kondogbia,1993-02-15,FRA,6,22,M,0,0,0,0,geoffrey-kondogbia
+maduhe,Hedwiges,Maduro,1985-02-13,NED,6,12,M,0,0,0,0,hedwiges-maduro
+medega,Gary,Medel,1987-08-03,CHI,6,8,M,0,0,0,0,gary-medel
+perodi,Diego,Perotti,1988-07-26,ARG,6,10,M,0,0,0,0,diego-perotti
+rabebr,Bryan,Rabello,1994-05-15,CHI,6,30,M,0,0,0,0,bryan-rabello
+rakiiv,Ivan,Rakitić,1988-03-10,CRO,6,11,M,0,0,0,0,ivan-rakitic
+reyejo, ,Reyes,1983-09-01,SPA,6,19,M,0,0,0,0,reyes
+stevmi,Miroslav,Stevanović,1990-07-29,BOS,6,18,M,0,0,0,0,miroslav-stevanovic
+trocpi,Piotr,Trochowski,1984-03-22,GER,6,15,M,0,0,0,0,piotr-trochowski
+rubia1,Álex,Rubio,1993-07-23,SPA,6,28,A,0,0,0,0,alex-rubio
+negral,Álvaro,Negredo,1985-08-20,SPA,6,9,A,0,0,0,0,alvaro-negredo
+diawba,Babá,Diawara,1988-01-05,SEN,6,20,A,0,0,0,0,baba-diawara
+moramd,Manu,del Moral,1984-02-25,SPA,6,14,A,0,0,0,0,manu-del-moral
+spahem,Emir,Spahić,1980-08-18,BOS,6, , ,0,0,0,0,emir-spahic
+loped3,Diego,López,1981-11-03,SPA,6, , ,0,0,0,0,diego-lopez
+lunaan,Antonio,Luna,1991-03-17,SPA,6, , ,0,0,0,0,antonio-luna
+espibe,Bernardo,Espinosa,1989-07-11,COL,6, , ,0,0,0,0,bernardo-espinosa
+sancj4,Jorge,Sánchez,1993-03-22,SPA,63,26,P,0,0,0,0,jorge-sanchez_4
+roberA, ,Roberto,1979-01-25,SPA,63,13,P,0,0,0,0,roberto_11
+tonoa3, ,Toño,1979-12-17,SPA,63,1,P,0,0,0,0,tono
+angubr,Brayan,Angulo,1989-11-02,COL,63,16,F,0,0,0,0,brayan-angulo
+gomebo,Borja,Gómez,1988-05-14,SPA,63,20,F,0,0,0,0,borja-gomez
+diakpa,Pape,Diakhaté,1984-06-21,SEN,63,15,F,0,0,0,0,pape-diakhate
+lopein,Íñigo,López,1982-07-23,SPA,63,8,F,0,0,0,0,inigo-lopez
+lucema, ,Lucena,1982-11-18,SPA,63,18,F,0,0,0,0,lucena
+maindi, ,Mainz,1982-12-29,SPA,63,5,F,0,0,0,0,mainz
+nyomal,Allan,Nyom,1988-05-10,CMR,63,2,F,0,0,0,0,allan-nyom
+siqugu, ,Siqueira,1986-04-28,BRA,63,6,F,0,0,0,0,siqueira
+brahya,Yacine,Brahimi,1990-02-08,ALG,63,3,M,0,0,0,0,yacine-brahimi
+benida,Dani,Benítez,1987-04-07,SPA,63,11,M,0,0,0,0,dani-benitez
+ricofr,Fran,Rico,1987-08-03,SPA,63,4,M,0,0,0,0,fran-rico
+irinir, ,Iriney,1981-04-23,BRA,63,24,M,0,0,0,0,iriney
+ortiju,Juanma,Ortiz,1982-03-01,SPA,63,21,M,0,0,0,0,juanma-ortiz
+ricomi,Mikel,Rico,1984-11-04,SPA,63,14,M,0,0,0,0,mikel-rico
+recijo, ,Recio,1991-01-11,SPA,63,28,M,0,0,0,0,recio_2
+torjga,Gabriel,Torje,1989-11-22,ROM,63,22,M,0,0,0,0,gabriel-torje
+yebdha,Hassan,Yebda,1984-05-14,ALG,63,17,M,0,0,0,0,hassan-yebda
+aranca, ,Aranda,1980-07-27,SPA,63,7,A,0,0,0,0,aranda
+buondi,Diego,Buonanotte,1988-04-19,ARG,63,12,A,0,0,0,0,diego-buonanotte
+arabye,Youssef,El-Arabi,1987-02-03,MAR,63,9,A,0,0,0,0,youssef-el-arabi
+ighaod,Odion,Ighalo,1989-06-16,NGR,63,25,A,0,0,0,0,odion-ighalo
+nolim1, ,Nolito,1986-10-15,SPA,63,10,A,0,0,0,0,nolito_2
+puerjo, ,Puertas,1992-02-21,SPA,63,37,A,0,0,0,0,puertas
+orelfa,Fabián,Orellana,1986-01-27,CHI,63, , ,0,0,0,0,fabian-orellana
+jaimj3, ,Jaime,1990-07-31,SPA,63, , ,0,0,0,0,jaime_5
+floraf,Antonio Floro,Flores,1983-06-18,ITA,63, , ,0,0,0,0,antonio-floro-flores
+machda,Darwin,Machís,1993-02-07,VEN,63, , ,0,0,0,0,darwin-machis
+hurtmo,Moisés,Hurtado,1981-02-20,SPA,63, , ,0,0,0,0,moises-hurtado
+garcm8,Migue,García,1991-04-17,SPA,63, , ,0,0,0,0,migue-garcia
+adria6, ,Adrián,1987-01-03,SPA,7,13,P,0,0,0,0,adrian_6
+castc1, ,Casto,1982-06-18,SPA,7,1,P,0,0,0,0,casto
+fabrfa, ,Fabricio,1987-12-31,SPA,7,25,P,0,0,0,0,fabricio_15
+marta7,Álex,Martínez,1990-08-12,SPA,7,6,F,0,0,0,0,alex-martinez_2
+amayan, ,Amaya,1983-05-31,SPA,7,4,F,0,0,0,0,amaya
+lopea4,Ángel,López,1981-03-10,SPA,7,7,F,0,0,0,0,angel-lopez
+borjb2, ,Borja,1995-04-10,SPA,7,35,F,0,0,0,0,borja_10
+carojo, ,Caro,1993-03-08,SPA,7,40,F,0,0,0,0,caro_2
+varef1,Fransisco,Varela,1994-10-26,SPA,7,38,F,0,0,0,0,fransisco-varela
+chicja,Javi,Chica,1985-05-17,SPA,7,2,F,0,0,0,0,javi-chica
+palam1,Manu,Palancar,1990-10-25,SPA,7,32,F,0,0,0,0,manu-palancar
+marip1, ,Mario,1982-02-02,SPA,7,3,F,0,0,0,0,mario
+paulp2, ,Paulão,1982-08-06,BRA,7,12,F,0,0,0,0,paulao
+perqda,Damien,Perquis,1984-04-10,POL,7,16,F,0,0,0,0,damien-perquis
+pozoje, ,Pozo,1995-03-24,SPA,7,50,F,0,0,0,0,pozo_4
+benab1, ,Beñat,1987-02-19,SPA,7,10,M,0,0,0,0,benat
+canaj3, ,Cañas,1987-05-27,SPA,7,21,M,0,0,0,0,canas_3
+garcc5,Carlos,García,1993-09-17,SPA,7,34,M,0,0,0,0,carlos-garcia_10
+fausf1, ,Fausto,1990-01-08,SPA,7,27,M,0,0,0,0,fausto_5
+igieno,Nosa,Igiebor,1990-11-09,NGR,7,20,M,0,0,0,0,nosa-igiebor
+juan1J, ,Juankar,1990-03-30,SPA,7,17,M,0,0,0,0,juankar
+nachi1, ,Nacho,1980-06-24,SPA,7,23,M,0,0,0,0,nacho_3
+nonojo, ,Nono,1993-03-30,SPA,7,29,M,0,0,0,0,nono
+pabodo,Dorlan,Pabón,1988-01-24,COL,7,22,M,0,0,0,0,dorlan-pabon
+pozual, ,Pozuelo,1991-09-20,SPA,7,11,M,0,0,0,0,pozuelo
+perer2,Rubén,Pérez,1989-04-26,SPA,7,8,M,0,0,0,0,ruben-perez_2
+sergs3, ,Sergio,1992-09-07,SPA,7,39,M,0,0,0,0,sergio_8
+sevisa, ,Sevilla,1984-03-18,SPA,7,14,M,0,0,0,0,sevilla_3
+vilaed, ,Vilarchao,1990-02-09,SPA,7,30,M,0,0,0,0,vilarchao
+vadial,Álvaro,Vadillo,1994-09-12,SPA,7,9,A,0,0,0,0,alvaro-vadillo
+campj5,Joel,Campbell,1992-06-26,CRC,7,15,A,0,0,0,0,joel-campbell
+eizmen,Eneko,Eizmendi,1990-06-10,SPA,7,38,A,0,0,0,0,eneko-eizmendi
+molij3, ,Molina,1982-04-22,SPA,7,19,A,0,0,0,0,molina_9
+moligu,Guillermo,Molins,1988-09-26,SWE,7,18,A,0,0,0,0,guillermo-molins
+castru,Rubén,Castro,1981-06-27,SPA,7,24,A,0,0,0,0,ruben-castro
+nelsnl, ,Nélson,1983-06-10,POR,7, , ,0,0,0,0,nelson_4
+agrasa,Salvador,Agra,1991-11-11,POR,7, , ,0,0,0,0,salvador-agra
+dorajo, ,Dorado,1982-07-10,SPA,7, , ,0,0,0,0,dorado_2
+perej8,Jonathan,Pereira,1987-05-12,SPA,7, , ,0,0,0,0,jonathan-pereira
+aranda, ,Aranzubía,1979-09-18,SPA,8,1,P,0,0,0,0,aranzubia
+luxxge,Germán,Lux,1982-06-07,ARG,8,13,P,0,0,0,0,german-lux
+martmC,Marc,Martínez,1990-04-04,SPA,8,26,P,0,0,0,0,marc-martinez_2
+ayozay, ,Ayoze,1982-05-25,SPA,8,17,F,0,0,0,0,ayoze
+artiay,Aythami,Artiles,1986-04-02,SPA,8,6,F,0,0,0,0,aythami-artiles
+evalev, ,Evaldo,1982-03-18,BRA,8,3,F,0,0,0,0,evaldo
+kakacl, ,Kaká,1981-05-16,BRA,8,23,F,0,0,0,0,kaka_2
+laurl1, ,Laure,1985-03-22,SPA,8,15,F,0,0,0,0,laure
+pablma,Manuel,Pablo,1976-01-25,SPA,8,2,F,0,0,0,0,manuel-pablo
+marcca, ,Marchena,1979-07-31,SPA,8,24,F,0,0,0,0,marchena
+insupa,Pablo,Insua,1993-09-09,SPA,8,28,F,0,0,0,0,pablo-insua
+silvsl, ,Sílvio,1987-09-28,POR,8,19,F,0,0,0,0,silvio_2
+castze,Zé,Castro,1983-01-13,POR,8,5,F,0,0,0,0,ze-castro
+aguiab,Abel,Aguilar,1985-01-06,COL,8,14,M,0,0,0,0,abel-aguilar
+alexa2, ,Álex,1985-06-07,SPA,8,4,M,0,0,0,0,alex_28
+santa3,André,Santos,1989-03-02,POR,8,8,M,0,0,0,0,andre-santos_2
+camuja, ,Camuñas,1980-07-17,SPA,8,18,M,0,0,0,0,camunas
+vazqje,Jesús,Vázquez,1980-01-18,SPA,8,20,M,0,0,0,0,jesus-vazquez
+domij1,Juan,Domínguez,1990-01-08,SPA,8,10,M,0,0,0,0,juan-dominguez_2
+assupa,Paulo,Assunção,1980-01-25,BRA,8,12,M,0,0,0,0,paulo-assuncao
+valej3, ,Valerón,1975-06-17,SPA,8,21,M,0,0,0,0,valeron
+gamabr,Bruno,Gama,1987-11-15,POR,8,16,A,0,0,0,0,bruno-gama
+salodi,Diogo,Salomão,1988-09-14,POR,8,22,A,0,0,0,0,diogo-salomao
+olivne,Nélson,Oliveira,1991-08-08,POR,8,25,A,0,0,0,0,nelson-oliveira_2
+pizzlu, ,Pizzi,1989-10-06,POR,8,9,A,0,0,0,0,pizzi
+rikiiv, ,Riki,1980-08-11,SPA,8,11,A,0,0,0,0,riki
+bodiro, ,Bodipo,1977-10-25,EQG,8, , ,0,0,0,0,bodipo
+miraro,Roderick,Miranda,1991-03-30,POR,8, , ,0,0,0,0,roderick-miranda
+pintti,Tiago,Pinto,1988-02-01,POR,8, , ,0,0,0,0,tiago-pinto
+seoadi,Diego,Seoane,1988-04-26,SPA,8, , ,0,0,0,0,diego-seoane_2
+saulsa, ,Saúl,1985-04-09,SPA,8, , ,0,0,0,0,saul
+alvac2,Cristian,Álvarez,1985-11-13,ARG,9,1,P,0,0,0,0,cristian-alvarez_3
+germge, ,Germán,1993-02-16,SPA,9,35,P,0,0,0,0,german_4
+casiki,Kiko,Casilla,1986-10-02,SPA,9,13,P,0,0,0,0,kiko-casilla
+capdjo, ,Capdevila,1978-02-03,SPA,9,18,F,0,0,0,0,capdevila
+colodi,Diego,Colotto,1981-03-10,ARG,9,19,F,0,0,0,0,diego-colotto
+amoxde, ,De Amo,1990-01-13,SPA,9,46,F,0,0,0,0,de-amo
+duarru, ,Duarte,1995-10-18,SPA,9,33,F,0,0,0,0,duarte
+forlju,Juan,Forlín,1988-01-10,ARG,9,6,F,0,0,0,0,juan-forlin
+lopejA,Javi,López,1986-01-21,SPA,9,16,F,0,0,0,0,javi-lopez_3
+mattfe, ,Mattioni,1988-10-15,BRA,9,2,F,0,0,0,0,mattioni
+morehe,Héctor,Moreno,1988-01-17,MEX,9,15,F,0,0,0,0,hector-moreno
+rodrrA,Raúl,Rodríguez,1987-09-22,SPA,9,3,F,0,0,0,0,raul-rodriguez_2
+alvav1,Víctor,Álvarez,1993-03-14,SPA,9,27,F,0,0,0,0,victor-alvarez
+baenjo, ,Baena,1989-03-02,SPA,9,7,M,0,0,0,0,baena_4
+alfoch,Christian,Alfonso,1989-05-02,SPA,9,24,M,0,0,0,0,christian-alfonso
+gomecr,Cristian,Gómez,1989-07-27,SPA,9,23,M,0,0,0,0,cristian-gomez_3
+mirafr,Fran,Miranda,1988-03-27,SPA,9,29,M,0,0,0,0,fran-miranda
+petrma,Martin,Petrov,1979-01-15,BUL,9,17,M,0,0,0,0,martin-petrov
+tejes1,Sergio,Tejera,1990-05-28,SPA,9,5,M,0,0,0,0,sergio-tejera
+simasi, ,Simão,1979-10-31,POR,9,20,M,0,0,0,0,simao
+verdj2, ,Verdú,1983-05-05,SPA,9,10,M,0,0,0,0,verdu
+sancv1,Víctor,Sánchez,1987-09-08,SPA,9,4,M,0,0,0,0,victor-sanchez
+wakamu,Mubarak,Wakaso,1990-07-25,GHA,9,22,M,0,0,0,0,mubarak-wakaso
+cubid1, ,Cubillas,1990-06-19,SPA,9,34,A,0,0,0,0,cubillas
+longsa,Samuele,Longo,1992-01-12,ITA,9,12,A,0,0,0,0,samuele-longo
+garcs1,Sergio,García,1983-06-09,SPA,9,9,A,0,0,0,0,sergio-garcia
+stuach,Christian,Stuani,1986-10-12,URU,9,8,A,0,0,0,0,christian-stuani
+fontru,Rui,Fonte,1990-04-23,POR,9, , ,0,0,0,0,rui-fonte
+albiju,Juan,Albín,1986-07-17,URU,9, , ,0,0,0,0,juan-albin
+alval8, ,Álvaro,1991-04-27,SPA,9, , ,0,0,0,0,alvaro_10
+bifoth,Thievy,Bifouma,1992-05-13,CGO,9, , ,0,0,0,0,thievy-bifouma
+galaer, ,Galán,1986-06-17,SPA,9, , ,0,0,0,0,galan_5

@@ -1,0 +1,13 @@
+#!/bin/bash
+
+for ((y=1941; y<=2018; y++))
+do 
+  wc -l ../db/lineups-$y.db | cut -d ' ' -f 1 > tmp 
+  read n < tmp
+  for ((i=0; i<$n; i++))
+  do 
+    cat l30 >> events-$y.db
+  done
+  wc events-$y.db 
+  mv events-$y.db ../db
+done
