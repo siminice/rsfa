@@ -1,0 +1,472 @@
+grimfr,Fred,Grim,1965-08-17,NED,0,12,P,0,0,0,0,fred-grim
+nelica,Casper,Nelis,1976-06-12,NED,0,12,P,0,0,0,0,casper-nelis
+sarxev,Edwin van der,Sar,1970-10-29,NED,0,1,P,0,0,0,0,edwin-van-der-sar
+beelmb,Milan Berck,Beelenkamp,1977-09-17,NED,0,1,F,0,0,0,0,milan-berck-beelenkamp
+blind1,Danny,Blind,1961-08-01,NED,0,3,F,0,0,0,0,danny-blind
+bogawi,Winston,Bogarde,1970-10-22,NED,0,5,F,0,0,0,0,winston-bogarde
+boerfd,Frank,de Boer,1970-05-15,NED,0,4,F,0,0,0,0,frank-de-boer
+foxeha,Hayden,Foxe,1977-06-23,AUS,0,4,F,0,0,0,0,hayden-foxe
+santma,Márcio,Santos,1969-09-15,BRA,0,20,F,0,0,0,0,marcio-santos
+melcma,Mario,Melchiot,1976-11-04,NED,0,29,F,0,0,0,0,mario-melchiot
+mensko,Kofi,Mensah,1978-03-08,GHA,0,29,F,0,0,0,0,kofi-mensah
+veldjo,John,Veldman,1968-02-24,NED,0,2,F,0,0,0,0,john-veldman
+willme,Menno,Willems,1977-03-10,NED,0,30,F,0,0,0,0,menno-willems
+danid3, ,Dani,1976-11-02,POR,0,21,M,0,0,0,0,dani_2
+boerr1,Ronald,de Boer,1970-05-15,NED,0,6,M,0,0,0,0,ronald-de-boer
+juanma,Mariano,Juan,1976-05-15,ARG,0,17,M,0,0,0,0,mariano-juan
+louhel,Elijah,Louhenapessy,1976-10-14,NED,0,17,M,0,0,0,0,elijah-louhenapessy
+musaki,Kiki,Musampa,1977-07-20,NED,0,18,M,0,0,0,0,kiki-musampa
+reusma,Martijn,Reuser,1975-02-01,NED,0,14,M,0,0,0,0,martijn-reuser
+schoar,Arnold,Scholten,1962-12-05,NED,0,19,M,0,0,0,0,arnold-scholten
+spliar,Arno,Splinter,1977-08-29,NED,0,32,M,0,0,0,0,arno-splinter
+witsri,Richard,Witschge,1969-09-20,NED,0,8,M,0,0,0,0,richard-witschge
+wootno,Nordin,Wooter,1976-08-24,NED,0,16,M,0,0,0,0,nordin-wooter
+babati,Tijjani,Babangida,1973-09-25,NGR,0,7,A,0,0,0,0,tijjani-babangida
+gabriv,Iván,Gabrich,1972-08-28,ARG,0,7,A,0,0,0,0,ivan-gabrich
+hoekpe,Peter,Hoekstra,1973-04-04,NED,0,7,A,0,0,0,0,peter-hoekstra
+kluipa,Patrick,Kluivert,1976-07-01,NED,0,9,A,0,0,0,0,patrick-kluivert
+litmja,Jari,Litmanen,1971-02-20,FIN,0,10,A,0,0,0,0,jari-litmanen
+overma,Marc,Overmars,1973-03-29,NED,0,11,A,0,0,0,0,marc-overmars
+schude,Dennis,Schulp,1978-01-18,NED,0,31,A,0,0,0,0,dennis-schulp
+turpro,Rody,Turpijn,1978-04-25,NED,0,28,A,0,0,0,0,rody-turpijn
+bergdv,Dave van den,Bergh,1976-05-07,NED,0,22,A,0,0,0,0,dave-van-den-bergh
+juffro,Roger,Juffing,1974-05-24,NED,10, ,P,0,0,0,0,roger-juffing
+zwamav,Arno,van Zwam,1969-09-16,NED,10, ,P,0,0,0,0,arno-van-zwam
+dassro,Ronald,Dassen,1975-08-22,NED,10, ,F,0,0,0,0,ronald-dassen
+dirkju,Jürgen,Dirkx,1975-08-15,NED,10, ,F,0,0,0,0,juergen-dirkx
+leexer,Ervin,Lee,1973-08-18,NED,10, ,F,0,0,0,0,ervin-lee
+loonro,Robert,Loontjens,1972-08-24,NED,10, ,F,0,0,0,0,robert-loontjens
+pfeniv,Ivo,Pfennings,1976-06-14,NED,10, ,F,0,0,0,0,ivo-pfennings
+rickfe,Fernando,Ricksen,1976-07-27,NED,10, ,F,0,0,0,0,fernando-ricksen
+roesro,Robert,Roest,1969-10-30,NED,10, ,F,0,0,0,0,robert-roest
+ophumv,Martin,van Ophuizen,1968-11-03,NED,10, ,F,0,0,0,0,martin-van-ophuizen
+burkma,Mark,Burke,1969-02-12,ENG,10, ,M,0,0,0,0,mark-burke
+wintfd,Freek,de Winter,1977-04-18,NED,10, ,M,0,0,0,0,freek-de-winter
+koolru,Ruud,Kool,1966-11-01,NED,10, ,M,0,0,0,0,ruud-kool
+lancro,Roberto,Lanckohr,1969-08-06,NED,10, ,M,0,0,0,0,roberto-lanckohr
+paaupa,Patrick,Paauwe,1975-12-27,NED,10, ,M,0,0,0,0,patrick-paauwe
+ustafu,Fuat,Usta,1972-07-03,TUR,10, ,M,0,0,0,0,fuat-usta
+bommmv,Mark,van Bommel,1977-04-22,NED,10, ,M,0,0,0,0,mark-van-bommel
+grayph,Phil,Gray,1968-10-02,NIR,10, ,A,0,0,0,0,phil-gray
+hammro,Ronald,Hamming,1973-01-09,NED,10, ,A,0,0,0,0,ronald-hamming
+jeffmi,Michael,Jeffrey,1971-08-11,ENG,10, ,A,0,0,0,0,michael-jeffrey
+simore,Regillio,Simons,1973-06-28,NED,10, ,A,0,0,0,0,regillio-simons
+weerrv,Robert van der,Weert,1970-03-13,NED,10, ,A,0,0,0,0,robert-van-der-weert
+boeswi,Willy,Boessen,1964-05-03,NED,10, , ,0,0,0,0,willy-boessen
+broowi,Wilfried,Brookhuis,1961-10-16,NED,11, ,P,0,0,0,0,wilfried-brookhuis
+gentde,Dennis,Gentenaar,1975-09-30,NED,11,1,P,0,0,0,0,dennis-gentenaar
+roorba,Bas,Roorda,1973-02-13,NED,11,1,P,0,0,0,0,bas-roorda
+crueul,Ulrich,Crüden,1966-11-06,SUR,11,1,F,0,0,0,0,ulrich-crueden
+kembbe,Benito,Kemble,1968-08-27,SUR,11,1,F,0,0,0,0,benito-kemble
+lebbma,Marcel,Lebbink,1974-10-25,NED,11,1,F,0,0,0,0,marcel-lebbink
+lokxce,Cees,Lok,1966-08-18,NED,11,1,F,0,0,0,0,cees-lok
+maeslu,Luuk,Maes,1971-11-05,NED,11,1,F,0,0,0,0,luuk-maes
+nijhda,Daniël,Nijhof,1973-01-15,NED,11,1,F,0,0,0,0,daniel-nijhof
+sobijo,Jörg,Sobiech,1969-01-15,GER,11,1,F,0,0,0,0,joerg-sobiech
+verhma,Mark,Verhoeven,1969-10-14,NED,11,1,F,0,0,0,0,mark-verhoeven
+jansa1,Anton,Janssen,1963-08-10,NED,11,1,M,0,0,0,0,anton-janssen
+konima,Marcel,Koning,1975-01-14,NED,11,1,M,0,0,0,0,marcel-koning
+langmi,Michel,Langerak,1968-07-08,NED,11,1,M,0,0,0,0,michel-langerak
+mikhpa,Pavel,Mikhalevitch,1974-01-22,BLR,11,1,M,0,0,0,0,pavel-mikhalevitch
+morera,Rastislav,Mores,1975-10-17,SVK,11,1,M,0,0,0,0,rastislav-mores
+pothpa,Patrick,Pothuizen,1972-05-15,NED,11,1,M,0,0,0,0,patrick-pothuizen
+heydlv,Lodewijk van der,Heyden,1976-10-10,NED,11,1,M,0,0,0,0,lodewijk-van-der-heyden
+elleju,Juul,Ellerman,1965-10-07,NED,11,1,A,0,0,0,0,juul-ellerman
+hoekda,Danny,Hoekman,1964-09-21,NED,11,1,A,0,0,0,0,danny-hoekman
+pellbo,Bob,Pellen,1976-08-15,NED,11,1,A,0,0,0,0,bob-pellen
+putiol,Oleg,Putilo,1974-05-23,RUS,11,1,A,0,0,0,0,oleg-putilo
+sumian,Antti,Sumiala,1974-02-20,FIN,11,1,A,0,0,0,0,antti-sumiala
+eijkev,Emiel,van Eijkeren,1967-07-27,NED,11,1,A,0,0,0,0,emiel-van-eijkeren
+graema,Maurice,Graef,1969-08-22,NED,11, , ,0,0,0,0,maurice-graef
+garrjo,Johan,Garrelfs,1965-09-06,NED,12, ,P,0,0,0,0,johan-garrelfs
+dijkrv,Rob,van Dijk,1969-01-15,NED,12, ,P,0,0,0,0,rob-van-dijk
+bogead,Adrie,Bogers,1965-05-04,NED,12, ,F,0,0,0,0,adrie-bogers
+branm1,Marcel,Brands,1962-03-16,NED,12, ,F,0,0,0,0,marcel-brands
+farone,Nagib el,Farougi,1973-10-24,NED,12, ,F,0,0,0,0,nagib-el-farougi
+hillde,Delano,Hill,1975-04-29,NED,12, ,F,0,0,0,0,delano-hill
+huttle,Leon,Hutten,1964-09-30,NED,12, ,F,0,0,0,0,leon-hutten
+kaleda,Darije,Kalezić,1969-11-01,BOS,12, ,F,0,0,0,0,darije-kalezic
+leemad,Ad,Leemans,1976-01-23,NED,12, ,F,0,0,0,0,ad-leemans
+nwanch,Chidi,N'Wanu,1967-01-01,NGR,12, ,F,0,0,0,0,chidi-nwanu
+streju,Jurgen,Streppel,1969-06-25,NED,12, ,F,0,0,0,0,jurgen-streppel
+penndv,Dennis van der,Pennen,1976-05-29,NED,12, ,F,0,0,0,0,dennis-van-der-pennen
+mullda,Danny,Muller,1969-08-11,BEL,12, ,M,0,0,0,0,danny-muller
+schral,Alfred,Schreuder,1972-11-02,NED,12, ,M,0,0,0,0,alfred-schreuder
+schrdi,Dick,Schreuder,1971-08-02,NED,12, ,M,0,0,0,0,dick-schreuder
+aerdrv,Romeo,van Aerde,1967-09-21,NED,12, ,M,0,0,0,0,romeo-van-aerde
+leegtv,Tommie van der,Leegte,1977-03-27,NED,12, ,M,0,0,0,0,tommie-van-der-leegte
+diempv,Patrick,van Diemen,1972-06-12,NED,12, ,M,0,0,0,0,patrick-van-diemen
+adilbd,Ben David,Adilson,1974-05-15,NED,12, ,A,0,0,0,0,ben-david-adilson
+boogma,Marco,Boogers,1967-01-12,NED,12, ,A,0,0,0,0,marco-boogers
+lammjo,John,Lammers,1963-09-11,NED,12, ,A,0,0,0,0,john-lammers
+arumhv,Hans,van Arum,1966-12-23,NED,12, ,A,0,0,0,0,hans-van-arum
+wijncl,Clyde,Wijnhard,1973-11-01,NED,12, ,A,0,0,0,0,clyde-wijnhard
+vervpa,Patrick,Vervoort,1965-01-17,BEL,12, , ,0,0,0,0,patrick-vervoort
+starph,Phil,Starbuck,1968-11-24,ENG,12, , ,0,0,0,0,phil-starbuck
+admifr,Fred,Admiraal,1968-06-27,NED,13, ,P,0,0,0,0,fred-admiraal
+zoeted,Edwin,Zoetebier,1970-05-07,NED,13, ,P,0,0,0,0,edwin-zoetebier
+binkre,René,Binken,1970-01-06,NED,13, ,F,0,0,0,0,rene-binken
+hoogro,Rogier,Hoogland,1974-12-21,NED,13, ,F,0,0,0,0,rogier-hoogland
+jongpa,Pascal,Jongsma,1968-06-10,NED,13, ,F,0,0,0,0,pascal-jongsma
+kleide,Dennis,Klein,1973-04-14,NED,13, ,F,0,0,0,0,dennis-klein_2
+leefpa,Patrick,Leeflang,1974-08-10,NED,13, ,F,0,0,0,0,patrick-leeflang
+marbce,Cees,Marbus,1968-12-14,NED,13, ,F,0,0,0,0,cees-marbus
+persab,Ab,Persijn,1974-04-11,NED,13, ,F,0,0,0,0,ab-persijn
+plugab,Ab,Plugboer,1964-03-26,NED,13, ,F,0,0,0,0,ab-plugboer
+aandge,Gert,Aandewiel,1969-09-09,NED,13, ,M,0,0,0,0,gert-aandewiel
+govede,Dejan,Govedarica,1969-10-02,SRB,13, ,M,0,0,0,0,dejan-govedarica
+kleikl,Klaas,Klein,1975-08-31,NED,13, ,M,0,0,0,0,klaas-klein
+mansmi,Miel,Mans,1978-03-22,NED,13, ,M,0,0,0,0,miel-mans
+mattro,Rob,Matthaei,1966-09-20,NED,13, ,M,0,0,0,0,rob-matthaei
+molejo,Joeri,Molenaar,1976-08-25,NED,13, ,M,0,0,0,0,joeri-molenaar
+nijhlu,Luc,Nijholt,1961-07-29,NED,13, ,M,0,0,0,0,luc-nijholt
+steujo,Johan,Steur,1962-03-23,NED,13, ,M,0,0,0,0,johan-steur
+valkma,Marcel,Valk,1967-04-18,NED,13, ,M,0,0,0,0,marcel-valk
+bondha,Hans,Bond,1974-03-05,NED,13, ,A,0,0,0,0,hans-bond
+bondro,Ronald,Bond,1972-11-28,NED,13, ,A,0,0,0,0,ronald-bond
+bruiad,Ashwin,de Bruijn,1972-05-05,NED,13, ,A,0,0,0,0,ashwin-de-bruijn
+vriem1,Mark,de Vries,1975-08-24,SUR,13, ,A,0,0,0,0,mark-de-vries
+samara,Radoslav,Samardžić,1970-10-17,SRB,13, ,A,0,0,0,0,radoslav-samardzic
+tumaay,Ayhan,Tumani,1971-10-02,GER,13, ,A,0,0,0,0,ayhan-tumani
+vukoiv,Ivica,Vukov,1970-02-02,SRB,13, ,A,0,0,0,0,ivica-vukov
+molero,Robert,Molenaar,1969-02-27,NED,13, , ,0,0,0,0,robert-molenaar
+kupeha,Harmen,Kuperus,1977-06-02,NED,14, ,P,0,0,0,0,harmen-kuperus
+vonkha,Hans,Vonk,1970-01-30,RSA,14,1,P,0,0,0,0,hans-vonk
+hansjo,Johan,Hansma,1969-06-11,NED,14,4,F,0,0,0,0,johan-hansma
+klomti,Tieme,Klompe,1976-04-08,NED,14,3,F,0,0,0,0,tieme-klompe
+meinbo,Børre,Meinseth,1966-11-24,NOR,14,3,F,0,0,0,0,boerre-meinseth
+nwango,Godfrey,Nwankpa,1978-12-20,NGR,14,15,F,0,0,0,0,godfrey-nwankpa
+oostar,Arnold,Oosterveer,1963-03-01,NED,14,15,F,0,0,0,0,arnold-oosterveer
+pastal,Alex,Pastoor,1966-10-26,NED,14,15,F,0,0,0,0,alex-pastoor
+sierto,Tom,Sier,1970-01-01,NED,14,15,F,0,0,0,0,tom-sier
+straro,Roberto,Straal,1966-12-19,NED,14,15,F,0,0,0,0,roberto-straal
+tobiol,Ole,Tobiasen,1975-07-08,DEN,14,15,F,0,0,0,0,ole-tobiasen
+vissj1,Jan,de Visser,1968-01-01,NED,14,15,M,0,0,0,0,jan-de-visser
+echtle,Leeroy,Echteld,1969-06-30,NED,14,15,M,0,0,0,0,leeroy-echteld
+houtma,Max,Houttuin,1978-04-20,NED,14,13,M,0,0,0,0,max-houttuin
+karksi,Simon,Karkov,1976-08-03,DEN,14,13,M,0,0,0,0,simon-karkov
+kornig,Igor,Korneev,1967-09-04,RUS,14,13,M,0,0,0,0,igor-korneev
+pandro,Ronnie,Pander,1977-03-05,NED,14,13,M,0,0,0,0,ronnie-pander
+khatae,Ali,El-Khattabi,1977-01-17,MAR,14,13,A,0,0,0,0,ali-el-khattabi
+nygama,Marc,Nygaard,1976-09-01,DEN,14,13,A,0,0,0,0,marc-nygaard
+pahlbo,Boudewijn,Pahlplatz,1971-12-15,NED,14,13,A,0,0,0,0,boudewijn-pahlplatz
+talaje,Jeffrey,Talan,1971-09-29,NED,14,8,A,0,0,0,0,jeffrey-talan
+tevrb1,Brian,Tevreden,1969-06-17,NED,14,8,A,0,0,0,0,brian-tevreden_2
+tomajd,Jon Dahl,Tomasson,1976-08-29,DEN,14,7,A,0,0,0,0,jon-dahl-tomasson
+woudro,Romeo,Wouden,1970-12-24,NED,14,7,A,0,0,0,0,romeo-wouden
+roelma,Marco,Roelofsen,1968-10-03,NED,14, , ,0,0,0,0,marco-roelofsen
+venero,Ronny,Venema,1974-10-16,NED,14, , ,0,0,0,0,ronny-venema
+vogtwd,Wilko,de Vogt,1975-09-17,NED,15, ,P,0,0,0,0,wilko-de-vogt
+karejo,John,Karelse,1970-05-17,NED,15, ,P,0,0,0,0,john-karelse
+atmoma,Maarten,Atmodikoro,1971-02-04,NED,15, ,F,0,0,0,0,maarten-atmodikoro
+brooru,Ruud,Brood,1962-10-19,NED,15, ,F,0,0,0,0,ruud-brood
+langbj,Björn,Langeveld,1978-05-17,NED,15, ,F,0,0,0,0,bjoern-langeveld
+macdst,Stanley,MacDonald,1966-06-29,NED,15, ,F,0,0,0,0,stanley-macdonald
+minnma,Marc,Minnaert,1976-01-18,BEL,15, ,F,0,0,0,0,marc-minnaert
+mukajc,Jean-Claude,Mukanya,1968-05-01,DRC,15, ,F,0,0,0,0,jean-claude-mukanya
+stautk,Tom Kåre,Staurvik,1970-02-13,NOR,15, ,F,0,0,0,0,tom-kare-staurvik
+asxxjv,Jeffrey,van As,1972-04-09,NED,15, ,F,0,0,0,0,jeffrey-van-as
+vidmto,Tony,Vidmar,1970-07-04,AUS,15, ,F,0,0,0,0,tony-vidmar
+aksimo,Moustafa,Akşit,1977-03-19,NED,15, ,M,0,0,0,0,moustafa-aksit
+brusge,Geert,Brusselers,1970-01-06,NED,15, ,M,0,0,0,0,geert-brusselers
+gaasja,Jan,Gaasbeek,1962-12-04,NED,15, ,M,0,0,0,0,jan-gaasbeek
+gestfr,François,Gesthuizen,1972-09-18,NED,15, ,M,0,0,0,0,francois-gesthuizen
+gorted,Edwin,Gorter,1963-07-06,NED,15, ,M,0,0,0,0,edwin-gorter
+jalini,Nico,Jalink,1964-06-22,NED,15, ,M,0,0,0,0,nico-jalink
+costpd,Paulo,Da Costa,1979-05-26,ANG,15, ,M,0,0,0,0,paulo-da-costa_2
+stewea,Earnie,Stewart,1969-03-28,USA,15, ,M,0,0,0,0,earnie-stewart
+galebv,Barry,van Galen,1970-04-04,NED,15, ,M,0,0,0,0,barry-van-galen
+aramzl,Zlatko,Arambašić,1969-09-20,AUS,15, ,A,0,0,0,0,zlatko-arambasic
+dirodo,Dominique,Diroux,1978-02-16,GER,15, ,A,0,0,0,0,dominique-diroux
+roelri,Richard,Roelofsen,1969-07-13,NED,15, ,A,0,0,0,0,richard-roelofsen
+schetw,Twan,Scheepers,1971-11-08,NED,15, ,A,0,0,0,0,twan-scheepers
+abdeya,Yassine,Abdellaoui,1975-06-21,NED,15, , ,0,0,0,0,yassine-abdellaoui
+arnogr,Graham,Arnold,1963-08-03,AUS,15, , ,0,0,0,0,graham-arnold
+oostsa,Sander,Oostrom,1967-07-14,NED,15, , ,0,0,0,0,sander-oostrom
+beekp1,Pascal,Beeken,1973-08-12,BEL,15, , ,0,0,0,0,pascal-beeken
+lukafr,Frank,Lukassen,1967-05-22,NED,16, , ,0,0,0,0,frank-lukassen
+olysro,Ron,Olyslager,1964-04-01,NED,16, , ,0,0,0,0,ron-olyslager
+hendre,Reinder,Hendriks,1973-04-26,NED,16, , ,0,0,0,0,reinder-hendriks
+lindol,Olaf,Lindenbergh,1974-02-06,NED,16, , ,0,0,0,0,olaf-lindenbergh
+victra,Raymond,Victoria,1972-10-10,CUR,16, , ,0,0,0,0,raymond-victoria
+godeed,Edwin,Godee,1964-09-26,NED,16, , ,0,0,0,0,edwin-godee
+schuma,Marchanno,Schultz,1972-12-17,NED,16, , ,0,0,0,0,marchanno-schultz
+viscer,Eric,Viscaal,1968-03-20,NED,16, , ,0,0,0,0,eric-viscaal
+fuchro,Robert,Fuchs,1975-02-15,NED,16, , ,0,0,0,0,robert-fuchs
+breevi,Virgil,Breetveld,1967-07-10,NED,16, , ,0,0,0,0,virgil-breetveld
+wilnfa,Fabian,Wilnis,1970-08-23,NED,16, , ,0,0,0,0,fabian-wilnis
+ibraal,Ali,Ibrahim,1969-09-01,GHA,16, , ,0,0,0,0,ali-ibrahim
+nokxmi,Michel,Nok,1971-07-13,NED,16, , ,0,0,0,0,michel-nok
+taiwwa,Wasiu,Taiwo,1976-10-01,NGR,16, , ,0,0,0,0,wasiu-taiwo
+haarhv,Hans van,de Haar,1975-02-01,NED,16, , ,0,0,0,0,hans-van-de-haar
+redeer,Eric,Redeker,1968-07-20,NED,16, , ,0,0,0,0,eric-redeker
+oostj3,Jan,Oosterhuis,1963-09-30,NED,16, , ,0,0,0,0,jan-oosterhuis
+vremja,Jan,Vreman,1965-09-17,NED,16, , ,0,0,0,0,jan-vreman
+bessm1,Martijn,Besselink,1975-07-03,NED,16, , ,0,0,0,0,martijn-besselink
+dekkbe,Bennie,Dekker,1967-06-02,NED,16, , ,0,0,0,0,bennie-dekker
+braadt,Dennis te,Braak,1973-05-27,NED,16, , ,0,0,0,0,dennis-te-braak
+moenos,Oscar,Moens,1973-04-01,NED,17, ,P,0,0,0,0,oscar-moens
+ruitma,Marco,Ruitenbeek,1968-05-12,NED,17, ,P,0,0,0,0,marco-ruitenbeek
+doesmi,Michel,Doesburg,1968-08-10,NED,17, ,F,0,0,0,0,michel-doesburg
+hespda,Danny,Hesp,1969-10-19,NED,17, ,F,0,0,0,0,danny-hesp
+heusru,Ruud,Heus,1961-02-24,NED,17, ,F,0,0,0,0,ruud-heus
+rodrjf,José Fortes,Rodríguez,1972-03-13,SPA,17,13,F,0,0,0,0,jose-fortes-rodriguez
+opdaba,Barry,Opdam,1976-02-27,NED,17,4,F,0,0,0,0,barry-opdam
+snijma,Mark,Snijders,1972-03-12,NED,17,4,F,0,0,0,0,mark-snijders
+wijkpe,Peter,Wijker,1971-07-20,NED,17,4,F,0,0,0,0,peter-wijker
+zijmsi,Sieme,Zijm,1978-01-25,NED,17,4,F,0,0,0,0,sieme-zijm
+beekr1,Rik,Beekman,1979-03-21,NED,17,4,M,0,0,0,0,rik-beekman
+bocikr,Krzysztof,Bociek,1974-03-30,POL,17,4,M,0,0,0,0,krzysztof-bociek
+buskmi,Michael,Buskermolen,1972-03-02,NED,17,18,M,0,0,0,0,michael-buskermolen
+turkdd,Dennis den,Turk,1969-06-27,NED,17,18,M,0,0,0,0,dennis-den-turk
+durmke,Kenan,Durmuşoğlu,1973-04-09,TUR,17,18,M,0,0,0,0,kenan-durmusoglu
+gillha,Hans,Gillhaus,1963-11-05,NED,17,18,M,0,0,0,0,hans-gillhaus
+iniasi,Silvan,Inia,1969-10-24,NED,17,18,M,0,0,0,0,silvan-inia
+verhro,Roberto,Verhagen,1972-10-20,NED,17,18,M,0,0,0,0,roberto-verhagen
+doveha,Hamisi,Amani-Dove,1974-03-28,USA,17,18,A,0,0,0,0,hamisi-amani-dove
+gereni,Niels,Gerestein,1971-11-02,NED,17,18,A,0,0,0,0,niels-gerestein
+goudk1,Kenneth,Goudmijn,1970-12-04,SUR,17,18,A,0,0,0,0,kenneth-goudmijn
+huibma,Max,Huiberts,1970-11-17,NED,17,18,A,0,0,0,0,max-huiberts
+huysdo,Donny,Huysen,1973-10-25,NED,17,18,A,0,0,0,0,donny-huysen
+latuba,Bart,Latuheru,1965-11-08,NED,17,18,A,0,0,0,0,bart-latuheru
+mutsjo,John,Mutsaers,1972-04-15,NED,17,18,A,0,0,0,0,john-mutsaers
+kooidi,Dick,Kooijman,1972-11-10,NED,17, , ,0,0,0,0,dick-kooijman
+kruehe,Hendrie,Krüzen,1964-11-24,NED,17, , ,0,0,0,0,hendrie-kruezen
+gijzma,Maurice,Gijzen,1976-05-15,NED,17, , ,0,0,0,0,maurice-gijzen
+needwi,Wilburt,Need,1978-08-03,NED,1, ,P,0,0,0,0,wilburt-need
+edexjw,Jan Willem,van Ede,1963-04-13,NED,1, ,P,0,0,0,0,jan-willem-van-ede
+watero,Ronald,Waterreus,1970-08-25,NED,1,23,P,0,0,0,0,ronald-waterreus
+fabeer,Ernest,Faber,1971-08-27,NED,1,23,F,0,0,0,0,ernest-faber
+numaar,Arthur,Numan,1969-12-14,NED,1,23,F,0,0,0,0,arthur-numan
+stamja,Jaap,Stam,1972-07-17,NED,1,23,F,0,0,0,0,jaap-stam
+valcst,Stan,Valckx,1963-10-20,NED,1,23,F,0,0,0,0,stan-valckx
+weercv,Chris van der,Weerden,1972-11-15,NED,1,23,F,0,0,0,0,chris-van-der-weerden
+voigda,Daniel,Voigt,1977-11-04,NED,1,23,F,0,0,0,0,daniel-voigt
+cocuph,Phillip,Cocu,1970-10-29,NED,1,23,M,0,0,0,0,phillip-cocu
+jensni,Niclas,Jensen,1974-08-17,DEN,1,23,M,0,0,0,0,niclas-jensen
+jonkwi,Wim,Jonk,1966-10-12,NED,1,23,M,0,0,0,0,wim-jonk
+nielan,Anders,Nielsen,1972-11-23,DEN,1,23,M,0,0,0,0,anders-nielsen_5
+petrze,Željko,Petrović,1965-11-13,MNT,1,23,M,0,0,0,0,zeljko-petrovic
+stinov,Ovidiu,Stîngă,1972-12-05,ROM,1,24,M,0,0,0,0,ovidiu-sting
+vampma, ,Vampeta,1974-03-13,BRA,1,24,M,0,0,0,0,vampeta
+doelbv,Björn van der,Doelen,1976-08-24,NED,1,24,M,0,0,0,0,bjoern-van-der-doelen
+vinkma,Marciano,Vink,1970-10-17,NED,1,24,M,0,0,0,0,marciano-vink
+zendbo,Boudewijn,Zenden,1976-08-15,NED,1,24,M,0,0,0,0,boudewijn-zenden
+claufr, ,Cláudio,1979-02-05,BRA,1,24,A,0,0,0,0,claudio_4
+bildgd,Gilles,De Bilde,1971-06-09,BEL,1,24,A,0,0,0,0,gilles-de-bilde
+degrma,Marc,Degryse,1965-09-04,BEL,1,24,A,0,0,0,0,marc-degryse
+eijkre,René,Eijkelkamp,1964-04-06,NED,1,24,A,0,0,0,0,rene-eijkelkamp
+gudjei,Eiður,Guðjohnsen,1978-09-15,ISL,1,24,A,0,0,0,0,eidur-gudjohnsen
+matypi,Piotr,Matys,1978-07-21,POL,1,24,A,0,0,0,0,piotr-matys
+nililu,Luc,Nilis,1967-05-25,BEL,1,10,A,0,0,0,0,luc-nilis
+rommde,Dennis,Rommedahl,1978-07-22,DEN,1,10,A,0,0,0,0,dennis-rommedahl
+ramoma,Marcelo,Ramos,1973-06-25,BRA,1, , ,0,0,0,0,marcelo-ramos
+boumwi,Wilfred,Bouma,1978-06-15,NED,1, , ,0,0,0,0,wilfred-bouma
+pahlbo,Boudewijn,Pahlplatz,1971-12-15,NED,1, , ,0,0,0,0,boudewijn-pahlplatz
+goeyed,Ed,de Goey,1966-12-20,NED,2, ,P,0,0,0,0,ed-de-goey
+dudeje,Jerzy,Dudek,1973-03-23,POL,2,1,P,0,0,0,0,jerzy-dudek
+allopa,Patrick,Allotey,1978-12-13,GHA,2,1,F,0,0,0,0,patrick-allotey
+claeg1,Geoffrey,Claeys,1974-10-05,BEL,2,16,F,0,0,0,0,geoffrey-claeys
+faroha,Haysan,Farouk,1971-01-04,EGY,2,16,F,0,0,0,0,haysan-farouk
+frashe,Henk,Fraser,1966-07-07,NED,2,23,F,0,0,0,0,henk-fraser
+grafpa,Patricio,Graff,1975-11-18,ARG,2,3,F,0,0,0,0,patricio-graff
+koemro,Ronald,Koeman,1963-03-21,NED,2,3,F,0,0,0,0,ronald-koeman
+picufe,Fernando,Picun,1972-02-14,URU,2,6,F,0,0,0,0,fernando-picun
+schube,Bernard,Schuiteman,1973-10-03,NED,2,15,F,0,0,0,0,bernard-schuiteman
+wondkv,Kees,van Wonderen,1969-01-04,NED,2,7,F,0,0,0,0,kees-van-wonderen
+zwijcl,Clemens,Zwijnenberg,1970-05-18,NED,2,24,F,0,0,0,0,clemens-zwijnenberg
+boatge,George,Boateng,1975-09-05,NED,2,2,M,0,0,0,0,george-boateng
+iwanto,Tomasz,Iwan,1971-06-12,POL,2,2,M,0,0,0,0,tomasz-iwan
+pacija,Jaromír,Paciorek,1979-07-11,CZE,2,29,M,0,0,0,0,jaromir-paciorek
+sancpa,Pablo,Sánchez,1973-01-03,ARG,2,10,M,0,0,0,0,pablo-sanchez_3
+brongv,Giovanni,van Bronckhorst,1975-02-05,NED,2,11,M,0,0,0,0,giovanni-van-bronckhorst
+gastjp,Jean-Paul,van Gastel,1972-04-28,NED,2,5,M,0,0,0,0,jean-paul-van-gastel
+monteb,Eduardo Bustos,Montoya,1976-10-03,ARG,2,5,A,0,0,0,0,eduardo-bustos-montoya
+denide, ,Denilson,1976-09-04,BRA,2,5,A,0,0,0,0,denilson_4
+jonech,Chaly,Jones,1977-01-29,CUR,2,5,A,0,0,0,0,chaly-jones
+larshe,Henrik,Larsson,1971-09-20,SWE,2,10,A,0,0,0,0,henrik-larsson
+taumga,Gaston,Taument,1970-10-01,NED,2,10,A,0,0,0,0,gaston-taument
+vosxhe,Henk,Vos,1968-06-05,NED,2,20,A,0,0,0,0,henk-vos
+sagama,Marek,Saganowski,1978-10-31,POL,2, , ,0,0,0,0,marek-saganowski
+boszpe,Peter,Bosz,1963-11-21,NED,2, , ,0,0,0,0,peter-bosz
+obikmi,Mike,Obiku,1968-09-24,NGR,2, , ,0,0,0,0,mike-obiku
+boscsa,Sander,Boschker,1970-10-20,NED,3,1,P,0,0,0,0,sander-boschker
+paauce,Cees,Paauwe,1977-11-03,NED,3,1,P,0,0,0,0,cees-paauwe
+swagal,Aldo,Swager,1965-09-01,NED,3,1,P,0,0,0,0,aldo-swager
+auguan,Andreas,Augustsson,1976-11-26,SWE,3,1,F,0,0,0,0,andreas-augustsson
+elziwi,Wilfried,Elzinga,1969-08-11,NED,3,1,F,0,0,0,0,wilfried-elzinga
+heubje,Jeroen,Heubach,1974-09-24,NED,3,1,F,0,0,0,0,jeroen-heubach
+hoognj,Nico Jan,Hoogma,1968-10-26,NED,3,1,F,0,0,0,0,nico-jan-hoogma
+karnan,André,Karnebeek,1971-03-01,NED,3,4,F,0,0,0,0,andre-karnebeek
+knapar,Arno,Knapen,1976-03-20,NED,3,4,F,0,0,0,0,arno-knapen
+mckiro,Rob,McKinnon,1966-07-31,SCO,3,4,F,0,0,0,0,rob-mckinnon
+hagxet,Erik ten,Hag,1970-02-02,NED,3,20,F,0,0,0,0,erik-ten-hag
+ayupan,Ansar,Ayupov,1972-03-23,RUS,3,20,M,0,0,0,0,ansar-ayupov
+bosvpa,Paul,Bosvelt,1970-03-26,NED,3,20,M,0,0,0,0,paul-bosvelt
+brugar,Arnold,Bruggink,1977-07-24,NED,3,20,M,0,0,0,0,arnold-bruggink
+vriepd,Pascal,de Vries,1977-04-18,NED,3,20,M,0,0,0,0,pascal-de-vries
+kampno,Niels Oude,Kamphuis,1977-11-14,NED,3,20,M,0,0,0,0,niels-oude-kamphuis
+sumeto,Tobias,Sumelka,1975-09-01,GER,3,20,M,0,0,0,0,tobias-sumelka
+caattt,Theo ten,Caat,1964-12-08,NED,3,20,M,0,0,0,0,theo-ten-caat
+avesbt,Berthil ter,Avest,1970-11-19,NED,3,20,M,0,0,0,0,berthil-ter-avest
+halsjv,Jan,van Halst,1969-04-20,NED,3,20,M,0,0,0,0,jan-van-halst
+beckka,Kåre,Becker,1978-01-27,ZAM,3,20,A,0,0,0,0,kare-becker
+bosmjo,John,Bosman,1965-02-01,NED,3,20,A,0,0,0,0,john-bosman
+petryu,Yuriy,Petrov,1974-07-18,UKR,3,20,A,0,0,0,0,yuriy-petrov
+hessjv,Jan Vennegoor of,Hesselink,1978-11-07,NED,3,9,A,0,0,0,0,jan-vennegoor-of-hesselink
+nijhda,Daniël,Nijhof,1973-01-15,NED,3, , ,0,0,0,0,daniel-nijhof
+elleju,Juul,Ellerman,1965-10-07,NED,3, , ,0,0,0,0,juul-ellerman
+knooab,Abe,Knoop,1963-08-28,NED,4, ,P,0,0,0,0,abe-knoop
+westsa,Sander,Westerveld,1974-10-23,NED,4, ,P,0,0,0,0,sander-westerveld
+bloeto,Tom,Bloeming,1976-04-09,NED,4, ,F,0,0,0,0,tom-bloeming
+bosxth,Theo,Bos,1965-10-05,NED,4, ,F,0,0,0,0,theo-bos
+goosst,Steven,Goossen,1968-11-12,NED,4, ,F,0,0,0,0,steven-goossen
+kuipma,Martijn,Kuiper,1978-11-21,NED,4, ,F,0,0,0,0,martijn-kuiper
+stured,Edward,Sturing,1963-06-13,NED,4, ,F,0,0,0,0,edward-sturing
+looiev,Erwin van,de Looi,1972-02-15,NED,4, ,F,0,0,0,0,erwin-van-de-looi
+vierfe,Ferdi,Vierklau,1973-04-01,NED,4, ,F,0,0,0,0,ferdi-vierklau
+bacajo,Joe,Bacak,1973-05-23,AUS,4, ,M,0,0,0,0,joe-bacak
+olmojd,Joaquín,del Olmo,1969-04-20,MEX,4, ,M,0,0,0,0,joaquin-del-olmo
+korswi,Willem,Korsten,1975-01-21,NED,4, ,M,0,0,0,0,willem-korsten
+larolo,Louis,Laros,1973-03-12,NED,4,11,M,0,0,0,0,louis-laros
+misean,Ante,Miše,1967-06-14,CRO,4,11,M,0,0,0,0,ante-mise
+bromjv,John van den,Brom,1966-10-04,NED,4,4,M,0,0,0,0,john-van-den-brom
+hoevjv,Jochem van der,Hoeven,1975-10-05,NED,4,4,M,0,0,0,0,jochem-van-der-hoeven
+wanrcv,Carlos,van Wanrooy,1967-06-01,NED,4,4,M,0,0,0,0,carlos-van-wanrooy
+curode,Dejan,Čurović,1968-08-10,SRB,4,4,A,0,0,0,0,dejan-curovic
+jochar,Arco,Jochemsen,1971-02-21,NED,4,16,A,0,0,0,0,arco-jochemsen
+machni,Nikos,Machlas,1973-06-16,GRE,4,16,A,0,0,0,0,nikos-machlas
+makaro,Roy,Makaay,1975-03-09,NED,4,16,A,0,0,0,0,roy-makaay
+shoudm,Dmitri,Shoukov,1975-09-26,RUS,4,16,A,0,0,0,0,dmitri-shoukov
+attera,Raymond,Atteveld,1966-09-08,NED,4, , ,0,0,0,0,raymond-atteveld
+levcev,Evgeniy,Levchenko,1978-01-02,UKR,4, , ,0,0,0,0,evgeniy-levchenko
+hespru,Ruud,Hesp,1965-10-31,NED,5, ,P,0,0,0,0,ruud-hesp
+spilha,Hans,Spillmann,1969-06-02,NED,5, ,P,0,0,0,0,hans-spillmann
+heerhe,Henri,Heeren,1974-10-25,NED,5, ,F,0,0,0,0,henri-heeren
+luijma,Mark,Luijpers,1970-10-05,NED,5, ,F,0,0,0,0,mark-luijpers
+ooijan,André,Ooijer,1974-07-11,NED,5, ,F,0,0,0,0,andre-ooijer
+pletme,Melvin,Plet,1974-07-08,NED,5, ,F,0,0,0,0,melvin-plet
+rudghu,Humphrey,Rudge,1977-08-15,NED,5, ,F,0,0,0,0,humphrey-rudge
+sendge,Ger,Senden,1971-07-09,NED,5,2,F,0,0,0,0,ger-senden
+trosre,René,Trost,1965-01-31,NED,5,2,F,0,0,0,0,rene-trost
+haarr1,Ramon,van Haaren,1972-09-16,NED,5,2,F,0,0,0,0,ramon-van-haaren
+vredre,Regillio,Vrede,1973-01-18,NED,5,2,F,0,0,0,0,regillio-vrede
+doomar,Arnold,Doomernik,1970-08-14,NED,5,2,M,0,0,0,0,arnold-doomernik
+kasppi,Piotr,Kasperski,1972-03-07,POL,5,2,M,0,0,0,0,piotr-kasperski
+lawaga,Garba,Lawal,1974-05-22,NGR,5,2,M,0,0,0,0,garba-lawal
+martjp,Jan-Pieter,Martens,1974-09-23,BEL,5,2,M,0,0,0,0,jan-pieter-martens
+schoma,Maarten,Schops,1976-04-03,BEL,5,2,M,0,0,0,0,maarten-schops
+heydsv,Stephan Van Der,Heyden,1969-07-03,BEL,5,2,M,0,0,0,0,stephan-van-der-heyden
+luerev,Eric van der,Luer,1965-08-16,NED,5,2,M,0,0,0,0,eric-van-der-luer
+opdaar,Arie,Opdam,1973-02-06,NED,5,2,A,0,0,0,0,arie-opdam
+siboge,Gerald,Sibon,1974-04-19,NED,5,2,A,0,0,0,0,gerald-sibon
+houdpv,Peter,Van Houdt,1976-11-04,BEL,5,2,A,0,0,0,0,peter-van-houdt
+zafada,Dave,Zafarin,1978-05-22,NED,5,2,A,0,0,0,0,dave-zafarin
+vureed,Edwin,Vurens,1968-06-06,NED,5, , ,0,0,0,0,edwin-vurens
+hoogmv,Marco,van Hoogdalem,1972-05-23,NED,5, , ,0,0,0,0,marco-van-hoogdalem
+roelri,Richard,Roelofsen,1969-07-13,NED,5, , ,0,0,0,0,richard-roelofsen
+morera,Rastislav,Mores,1975-10-17,SVK,5, , ,0,0,0,0,rastislav-mores
+ponkre,René,Ponk,1971-10-21,NED,6, ,P,0,0,0,0,rene-ponk
+postst,Stefan,Postma,1976-10-06,NED,6, ,P,0,0,0,0,stefan-postma
+stamre,René,Stam,1965-01-27,NED,6, ,P,0,0,0,0,rene-stam
+asmuel,Elroy,Asmus,1973-10-20,NED,6, ,F,0,0,0,0,elroy-asmus
+nascda,David,Nascimento,1966-03-16,CVE,6, ,F,0,0,0,0,david-nascimento
+obrasr,Srđan,Obradović,1970-01-13,SRB,6, ,F,0,0,0,0,srdjan-obradovic_2
+polfvi,Vincent,Polfliet,1976-01-18,NED,6, ,F,0,0,0,0,vincent-polfliet
+refoer,Errol,Refos,1970-03-19,NED,6, ,F,0,0,0,0,errol-refos
+buridv,Dick,van Burik,1973-11-29,NED,6, ,F,0,0,0,0,dick-van-burik
+netxmv,Marcel van der,Net,1964-12-24,NED,6, ,F,0,0,0,0,marcel-van-der-net
+bousdr,Dries,Boussatta,1972-12-23,NED,6, ,M,0,0,0,0,dries-boussatta
+jongjp,Jean-Paul,de Jong,1970-10-17,NED,6,6,M,0,0,0,0,jean-paul-de-jong
+robbre,Reinier,Robbemond,1972-01-31,NED,6,6,M,0,0,0,0,reinier-robbemond
+smiter,Eric,Smit,1971-09-27,NED,6,6,M,0,0,0,0,eric-smit
+brinrv,René van den,Brink,1966-04-02,NED,6,6,M,0,0,0,0,rene-van-den-brink
+vanege,Gerald,Vanenburg,1964-03-05,NED,6,6,M,0,0,0,0,gerald-vanenburg
+vissha,Hans,Visser,1966-12-17,NED,6,6,M,0,0,0,0,hans-visser
+witsro,Rob,Witschge,1966-08-22,NED,6,6,M,0,0,0,0,rob-witschge
+beekri,Richard,Beekink,1971-10-20,NED,6,6,A,0,0,0,0,richard-beekink
+hernfe,Ferdino,Hernandez,1971-05-27,CUR,6,6,A,0,0,0,0,ferdino-hernandez
+hofspe,Peter,Hofstede,1967-01-28,NED,6,6,A,0,0,0,0,peter-hofstede
+molsmi,Michael,Mols,1970-12-17,NED,6,6,A,0,0,0,0,michael-mols
+loenj1,John,van Loen,1965-02-04,NED,6,6,A,0,0,0,0,john-van-loen
+nieulv,Leon,van Nieuwkerk,1974-11-04,NED,6,6,A,0,0,0,0,leon-van-nieuwkerk
+hilbro,Rob,Hilbers,1971-04-05,RSA,7, ,P,0,0,0,0,rob-hilbers
+lodepa,Patrick,Lodewijks,1967-02-21,NED,7, ,P,0,0,0,0,patrick-lodewijks
+attera,Raymond,Atteveld,1966-09-08,NED,7, ,F,0,0,0,0,raymond-atteveld
+blaaar,Arjan,Blaauw,1974-01-08,NED,7, ,F,0,0,0,0,arjan-blaauw
+elshku,Kurt,Elshot,1977-07-03,NED,7, ,F,0,0,0,0,kurt-elshot
+esajha,Harvey,Esajas,1974-06-13,NED,7, ,F,0,0,0,0,harvey-esajas
+liefro,Roël,Liefden,1967-02-19,NED,7, ,F,0,0,0,0,roel-liefden
+rodrma,Mario,Rodriguez,1976-09-04,URU,7, ,F,0,0,0,0,mario-rodriguez
+schome,Melchior,Schoenmakers,1975-10-22,NED,7, ,F,0,0,0,0,melchior-schoenmakers
+brinlt,Lucas ten,Brinke,1971-04-29,NED,7, ,F,0,0,0,0,lucas-ten-brinke
+veenjh,Jan-Hendrik,Veenhof,1969-01-28,NED,7, ,F,0,0,0,0,jan-hendrik-veenhof
+wattze,Zephnad,Wattimury,1977-06-09,NED,7, ,F,0,0,0,0,zephnad-wattimury
+beerra,Raymond,Beerens,1972-02-14,NED,7, ,M,0,0,0,0,raymond-beerens
+gorrde,Dean,Gorré,1970-09-10,NED,7, ,M,0,0,0,0,dean-gorre
+koemer,Erwin,Koeman,1961-09-20,NED,7, ,M,0,0,0,0,erwin-koeman
+kooije,Jeffrey,Kooistra,1968-11-10,NED,7, ,M,0,0,0,0,jeffrey-kooistra
+gesssv,Sander,van Gessel,1976-11-04,NED,7, ,M,0,0,0,0,sander-van-gessel
+axxxpa,Patrick,Ax,1979-12-01,NED,7, ,A,0,0,0,0,patrick-ax
+bombma,Mariano,Bombarda,1972-09-10,ARG,7, ,A,0,0,0,0,mariano-bombarda
+galljo,Joop,Gall,1963-12-25,NED,7, ,A,0,0,0,0,joop-gall
+huispi,Pieter,Huistra,1967-01-18,NED,7, ,A,0,0,0,0,pieter-huistra
+huizha,Harris,Huizingh,1963-02-10,NED,7, ,A,0,0,0,0,harris-huizingh
+koener,Erwin,Koen,1978-09-07,NED,7, ,A,0,0,0,0,erwin-koen
+magnma, ,Magno,1974-02-26,BRA,7, ,A,0,0,0,0,magno
+ommese,Sergio,Ommel,1977-09-02,NED,7, ,A,0,0,0,0,sergio-ommel
+rosem1,Mattias,Rosén,1973-03-23,SWE,7, ,A,0,0,0,0,mattias-rosen
+soerpe,Peter,Sørensen,1973-03-24,DEN,7, , ,0,0,0,0,peter-soerensen
+sionro,Romano,Sion,1971-06-09,NED,7, , ,0,0,0,0,romano-sion
+wattwv,Warry,van Wattum,1968-10-22,NED,7, , ,0,0,0,0,warry-van-wattum
+kruyed,Edwin,de Kruyff,1970-01-30,NED,7, , ,0,0,0,0,edwin-de-kruyff
+jansr2,Roland,Jansen,1967-09-24,NED,8, ,P,0,0,0,0,roland-jansen
+mampkr,Kris,Mampaey,1970-11-02,BEL,8, ,P,0,0,0,0,kris-mampaey
+fessjv,Jimmy,van Fessem,1975-08-07,NED,8, ,P,0,0,0,0,jimmy-van-fessem
+aertru,Rudy,Aerts,1977-09-02,NED,8, ,F,0,0,0,0,rudy-aerts
+amezta,Taoufik,Ameziane,1977-12-23,NED,8, ,F,0,0,0,0,taoufik-ameziane
+jongdd,Dave,de Jong,1975-04-26,NED,8, ,F,0,0,0,0,dave-de-jong
+dervfe,Fernando,Derveld,1976-10-22,NED,8, ,F,0,0,0,0,fernando-derveld
+hyypsa,Sami,Hyypiä,1973-10-07,FIN,8, ,F,0,0,0,0,sami-hyypiae
+kontbe,Bert,Konterman,1971-01-14,NED,8, ,F,0,0,0,0,bert-konterman
+promge,Geoffrey,Prommayon,1971-10-25,THA,8, ,F,0,0,0,0,geoffrey-prommayon
+schema,Mark,Schenning,1970-10-18,NED,8, ,F,0,0,0,0,mark-schenning
+hintmv,Marc,van Hintum,1967-06-22,NED,8, ,F,0,0,0,0,marc-van-hintum
+caldsc,Scott,Calderwood,1978-03-11,SCO,8, ,M,0,0,0,0,scott-calderwood
+feskjo,John,Feskens,1965-11-03,NED,8, ,M,0,0,0,0,john-feskens
+galato,Tomáš,Galásek,1973-01-15,CZE,8, ,M,0,0,0,0,tomas-galasek
+loefhu,Huub,Loeffen,1972-01-11,NED,8, ,M,0,0,0,0,huub-loeffen
+rombro,Ronald,Rombouts,1974-12-31,NED,8, ,M,0,0,0,0,ronald-rombouts
+vegthv,Henry van der,Vegt,1972-02-18,NED,8, ,M,0,0,0,0,henry-van-der-vegt
+ceesja,Jatto,Ceesay,1974-11-16,GAM,8, ,A,0,0,0,0,jatto-ceesay
+gierjd,Jack,de Gier,1968-08-06,NED,8, ,A,0,0,0,0,jack-de-gier
+heerma,Marco,Heering,1970-05-08,NED,8, ,A,0,0,0,0,marco-heering
+kolkjo,Joonas,Kolkka,1974-09-28,FIN,8, ,A,0,0,0,0,joonas-kolkka
+sanoou,Ousmane,Sanou,1978-03-11,BFS,8, ,A,0,0,0,0,ousmane-sanou
+santm1,Mark,Santegoeds,1974-03-22,NED,8, ,A,0,0,0,0,mark-santegoeds
+bergav,Arne van den,Berg,1973-06-19,NED,8, ,A,0,0,0,0,arne-van-den-berg
+hoegro,Rody,Hoegee,1977-01-18,NED,9, ,P,0,0,0,0,rody-hoegee
+metged,Edward,Metgod,1959-12-19,NED,9, ,P,0,0,0,0,edward-metgod
+geesfv,Frank van der,Geest,1973-04-30,NED,9, ,P,0,0,0,0,frank-van-der-geest
+addojo,Joseph,Addo,1971-09-12,GHA,9, ,F,0,0,0,0,joseph-addo
+berhgr,Gregg,Berhalter,1973-08-01,USA,9, ,F,0,0,0,0,gregg-berhalter
+nooigd,Gérard,de Nooijer,1969-04-04,NED,9, ,F,0,0,0,0,gerard-de-nooijer
+dunnjd,John den,Dunnen,1972-07-22,NED,9, ,F,0,0,0,0,john-den-dunnen
+jalike,Kew,Jaliens,1978-09-15,NED,9, ,F,0,0,0,0,kew-jaliens
+marire, ,Marília,1975-07-22,BRA,9, ,F,0,0,0,0,marilia
+noorma,Mark,Noorlander,1971-01-27,NED,9, ,F,0,0,0,0,mark-noorlander
+powejo,John,Powell,1976-04-21,NED,9, ,F,0,0,0,0,john-powell_2
+smitje,Jerry,Smith,1972-08-10,NED,9, ,F,0,0,0,0,jerry-smith
+meerdv,Dave van der,Meer,1973-05-13,NED,9, ,F,0,0,0,0,dave-van-der-meer
+alflro,Rob,Alflen,1968-05-07,NED,9, ,M,0,0,0,0,rob-alflen
+fortca,Carlos,Fortes,1974-04-27,NED,9, ,M,0,0,0,0,carlos-fortes
+groeal,Alfons,Groenendijk,1964-05-17,NED,9, ,M,0,0,0,0,alfons-groenendijk
+kayiyu,Yurtcan,Kayış,1975-07-29,TUR,9, ,M,0,0,0,0,yurtcan-kayis
+krijde,Dennis,Krijgsman,1972-07-21,NED,9, ,M,0,0,0,0,dennis-krijgsman
+nieujo,John,Nieuwenburg,1978-12-24,NED,9, ,M,0,0,0,0,john-nieuwenburg
+laanav,Arjan van der,Laan,1969-11-10,NED,9, ,M,0,0,0,0,arjan-van-der-laan
+nooidd,Dennis,de Nooijer,1969-04-04,NED,9, ,A,0,0,0,0,dennis-de-nooijer
+diazni,Nixon,Diaz,1979-09-02,NED,9, ,A,0,0,0,0,nixon-diaz
+mghimo,Mourad,Mghizrat,1974-09-07,MAR,9, ,A,0,0,0,0,mourad-mghizrat
+renfma,Maikel,Renfurm,1976-07-08,NED,9, ,A,0,0,0,0,maikel-renfurm
+hoevjv,Jochem van der,Hoeven,1975-10-05,NED,9, , ,0,0,0,0,jochem-van-der-hoeven
