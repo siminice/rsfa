@@ -22,31 +22,6 @@ macacn, ,Macala,1921-04-21,SPA,0, ,A,0,0,0,0,macala
 mololu, ,Molowny,1925-05-12,SPA,0, ,A,0,0,0,0,molowny
 pahima, ,Pahiño,1923-01-21,SPA,0, ,A,0,0,0,0,pahino
 verdra,Rafa,Verdu,1929-12-23,SPA,0, ,A,0,0,0,0,rafa-verdu
-ramaan, ,Ramallets,1924-07-04,SPA,1, ,P,0,0,0,0,ramallets
-velaju, ,Velasco,1922-11-14,SPA,1, ,P,0,0,0,0,velasco_3
-biosgu, ,Biosca,1928-02-29,SPA,1, ,F,0,0,0,0,biosca_2
-calori, ,Calo,1918-08-12,SPA,1, ,F,0,0,0,0,calo_2
-calvfr, ,Calvet,1922-09-29,SPA,1, ,F,0,0,0,0,calvet_2
-corrma, ,Corro,1920-12-28,SPA,1, ,F,0,0,0,0,corro
-curtjo, ,Curta,1922-02-22,SPA,1, ,F,0,0,0,0,curta
-iixxgo,Gonzalvo,II,1920-01-16,SPA,1, ,F,0,0,0,0,gonzalvo-ii
-isalga, ,Isal,1923-11-27,SPA,1, ,F,0,0,0,0,isal
-segajo,Joan,Segarra,1927-11-15,SPA,1, ,F,0,0,0,0,joan-segarra
-segujo,José,Seguer,1923-05-06,SPA,1, ,F,0,0,0,0,jose-seguer
-prailu,Luis,Prais,1925-02-24,URU,1, ,F,0,0,0,0,luis-prais
-aretju, ,Aretio,1922-07-10,SPA,1, ,M,0,0,0,0,aretio
-aurema,Marcos,Aureli,1920-09-27,ARG,1, ,M,0,0,0,0,marcos-aureli
-canaj1, ,Canal,1922-03-21,SPA,1, ,M,0,0,0,0,canal_3
-cervm1, ,Cerveró,1923-08-05,SPA,1, ,M,0,0,0,0,cervero
-gonzma, ,Gonzalvo,1922-03-22,SPA,1, ,M,0,0,0,0,gonzalvo_3
-sagrsa, ,Sagrera,1921-08-15,SPA,1, ,M,0,0,0,0,sagrera
-torrm1, ,Torra,0000-00-00,SPA,1, ,M,0,0,0,0,torra
-basoes, ,Basora,1926-11-18,SPA,1, ,A,0,0,0,0,basora
-rodrce,César,Rodríguez,1920-06-29,SPA,1, ,A,0,0,0,0,cesar-rodriguez_4
-gimehu,Humberto,Gimenez,1923-12-31,ARG,1, ,A,0,0,0,0,humberto-gimenez
-manced, ,Manchón,1930-07-24,SPA,1, ,A,0,0,0,0,manchon
-navaal, ,Navarro,1929-04-08,SPA,1, ,A,0,0,0,0,navarro_4
-nicoma,Mateu,Nicolau,1920-08-18,ARG,1, ,A,0,0,0,0,mateu-nicolau
 baguju, ,Bagur,1928-03-28,SPA,10, ,P,0,0,0,0,bagur
 rio_de, ,Del Río,1926-02-03,SPA,10, ,P,0,0,0,0,del-rio_2
 marcjo, ,Marculeta,1920-02-27,SPA,10, ,F,0,0,0,0,marculeta_2
@@ -147,6 +122,31 @@ munilu, ,Muñiz,1923-05-02,SPA,16, ,A,0,0,0,0,muniz
 salari,Ricardo,Salaberry,1924-04-14,URU,16, ,A,0,0,0,0,ricardo-salaberry
 solajo, ,Solanas,1927-08-29,SPA,16, ,A,0,0,0,0,solanas
 zuppjo, ,Zuppo,1927-02-13,SPA,16, ,A,0,0,0,0,zuppo
+ramaan, ,Ramallets,1924-07-04,SPA,1, ,P,0,0,0,0,ramallets
+velaju, ,Velasco,1922-11-14,SPA,1, ,P,0,0,0,0,velasco_3
+biosgu, ,Biosca,1928-02-29,SPA,1, ,F,0,0,0,0,biosca_2
+calori, ,Calo,1918-08-12,SPA,1, ,F,0,0,0,0,calo_2
+calvfr, ,Calvet,1922-09-29,SPA,1, ,F,0,0,0,0,calvet_2
+corrma, ,Corro,1920-12-28,SPA,1, ,F,0,0,0,0,corro
+curtjo, ,Curta,1922-02-22,SPA,1, ,F,0,0,0,0,curta
+iixxgo,Gonzalvo,II,1920-01-16,SPA,1, ,F,0,0,0,0,gonzalvo-ii
+isalga, ,Isal,1923-11-27,SPA,1, ,F,0,0,0,0,isal
+segajo,Joan,Segarra,1927-11-15,SPA,1, ,F,0,0,0,0,joan-segarra
+segujo,José,Seguer,1923-05-06,SPA,1, ,F,0,0,0,0,jose-seguer
+prailu,Luis,Prais,1925-02-24,URU,1, ,F,0,0,0,0,luis-prais
+aretju, ,Aretio,1922-07-10,SPA,1, ,M,0,0,0,0,aretio
+aurema,Marcos,Aureli,1920-09-27,ARG,1, ,M,0,0,0,0,marcos-aureli
+canaj1, ,Canal,1922-03-21,SPA,1, ,M,0,0,0,0,canal_3
+cervm1, ,Cerveró,1923-08-05,SPA,1, ,M,0,0,0,0,cervero
+gonzma, ,Gonzalvo,1922-03-22,SPA,1, ,M,0,0,0,0,gonzalvo_3
+sagrsa, ,Sagrera,1921-08-15,SPA,1, ,M,0,0,0,0,sagrera
+torrm1, ,Torra,0000-00-00,SPA,1, ,M,0,0,0,0,torra
+basoes, ,Basora,1926-11-18,SPA,1, ,A,0,0,0,0,basora
+rodrce,César,Rodríguez,1920-06-29,SPA,1, ,A,0,0,0,0,cesar-rodriguez_4
+gimehu,Humberto,Gimenez,1923-12-31,ARG,1, ,A,0,0,0,0,humberto-gimenez
+manced, ,Manchón,1930-07-24,SPA,1, ,A,0,0,0,0,manchon
+navaal, ,Navarro,1929-04-08,SPA,1, ,A,0,0,0,0,navarro_4
+nicoma,Mateu,Nicolau,1920-08-18,ARG,1, ,A,0,0,0,0,mateu-nicolau
 cesxjo, ,Ces,1927-08-29,SPA,2, ,P,0,0,0,0,ces
 domima,Marcel,Domingo,1924-01-15,FRA,2, ,P,0,0,0,0,marcel-domingo
 zabap1,Perez,Zabala,1925-04-06,SPA,2, ,P,0,0,0,0,perez-zabala
@@ -208,6 +208,26 @@ iriora, ,Iriondo,1918-10-24,SPA,5, ,A,0,0,0,0,iriondo_2
 panijo, ,Panizo,1922-02-06,SPA,5, ,A,0,0,0,0,panizo
 gainpi,Piru,Gaínza,1922-05-28,SPA,5, ,A,0,0,0,0,piru-gainza
 zarrte, ,Zarra,1921-01-20,SPA,5, ,A,0,0,0,0,zarra
+daudvi, ,Dauder,1924-11-25,SPA,60, ,P,0,0,0,0,dauder
+perefe,Féliz,Perez,1923-05-06,SPA,60, ,P,0,0,0,0,feliz-perez
+gallfe, ,Gallart,1922-08-17,SPA,60, ,P,0,0,0,0,gallart
+cobojo,José,Cobo,1917-01-06,SPA,60, ,F,0,0,0,0,jose-cobo
+lecuem, ,Lecue,1921-09-03,SPA,60, ,F,0,0,0,0,lecue_2
+marij2, ,Mariajes,1923-11-25,SPA,60, ,F,0,0,0,0,mariajes
+perdal, ,Perdomo,1919-12-02,SPA,60, ,F,0,0,0,0,perdomo
+balmdo, ,Balmanya,1914-12-29,SPA,60, ,M,0,0,0,0,balmanya
+balbca,Catala,Balboa,1922-07-13,SPA,60, ,M,0,0,0,0,catala-balboa
+danida, ,Dani,1927-03-17,SPA,60, ,M,0,0,0,0,dani_7
+erneer, ,Ernesto,1924-11-10,SPA,60, ,M,0,0,0,0,ernesto_3
+gallju, ,Gallardo,1926-11-28,SPA,60, ,M,0,0,0,0,gallardo_2
+sansju, ,Sans,1920-05-07,SPA,60, ,M,0,0,0,0,sans
+garcso,Sole,Garcia,1928-11-28,SPA,60, ,M,0,0,0,0,sole-garcia
+alsuan, ,Alsúa,1919-10-25,SPA,60, ,A,0,0,0,0,alsua
+bravjo, ,Bravo,1916-02-18,SPA,60, ,A,0,0,0,0,bravo
+roigca,Camilo,Roig,1920-07-30,SPA,60, ,A,0,0,0,0,camilo-roig
+muriba, ,Murillo,1923-08-05,SPA,60, ,A,0,0,0,0,murillo_2
+vazqsa,Santiago,Vázquez,1924-03-02,SPA,60, ,A,0,0,0,0,santiago-vazquez
+taltga, ,Taltavull,1921-07-10,SPA,60, ,A,0,0,0,0,taltavull
 bustjo, ,Busto,1923-11-12,SPA,6, ,P,0,0,0,0,busto
 manom3, ,Manolin,1929-08-30,SPA,6, ,P,0,0,0,0,manolin_4
 guilfe, ,Guillamón,1927-06-05,SPA,6, ,F,0,0,0,0,guillamon_2
@@ -232,26 +252,6 @@ guercl,Clemente,Guerrero,1925-12-16,SPA,6, ,A,0,0,0,0,clemente-guerrero
 eraser, ,Erasmo,1921-06-02,SPA,6, ,A,0,0,0,0,erasmo
 onorng, ,Oñoro,1929-03-20,SPA,6, ,A,0,0,0,0,onoro
 pinejo, ,Pineda,1924-05-27,SPA,6, ,A,0,0,0,0,pineda_4
-daudvi, ,Dauder,1924-11-25,SPA,60, ,P,0,0,0,0,dauder
-perefe,Féliz,Perez,1923-05-06,SPA,60, ,P,0,0,0,0,feliz-perez
-gallfe, ,Gallart,1922-08-17,SPA,60, ,P,0,0,0,0,gallart
-cobojo,José,Cobo,1917-01-06,SPA,60, ,F,0,0,0,0,jose-cobo
-lecuem, ,Lecue,1921-09-03,SPA,60, ,F,0,0,0,0,lecue_2
-marij2, ,Mariajes,1923-11-25,SPA,60, ,F,0,0,0,0,mariajes
-perdal, ,Perdomo,1919-12-02,SPA,60, ,F,0,0,0,0,perdomo
-balmdo, ,Balmanya,1914-12-29,SPA,60, ,M,0,0,0,0,balmanya
-balbca,Catala,Balboa,1922-07-13,SPA,60, ,M,0,0,0,0,catala-balboa
-danida, ,Dani,1927-03-17,SPA,60, ,M,0,0,0,0,dani_7
-erneer, ,Ernesto,1924-11-10,SPA,60, ,M,0,0,0,0,ernesto_3
-gallju, ,Gallardo,1926-11-28,SPA,60, ,M,0,0,0,0,gallardo_2
-sansju, ,Sans,1920-05-07,SPA,60, ,M,0,0,0,0,sans
-garcso,Sole,Garcia,1928-11-28,SPA,60, ,M,0,0,0,0,sole-garcia
-alsuan, ,Alsúa,1919-10-25,SPA,60, ,A,0,0,0,0,alsua
-bravjo, ,Bravo,1916-02-18,SPA,60, ,A,0,0,0,0,bravo
-roigca,Camilo,Roig,1920-07-30,SPA,60, ,A,0,0,0,0,camilo-roig
-muriba, ,Murillo,1923-08-05,SPA,60, ,A,0,0,0,0,murillo_2
-vazqsa,Santiago,Vázquez,1924-03-02,SPA,60, ,A,0,0,0,0,santiago-vazquez
-taltga, ,Taltavull,1921-07-10,SPA,60, ,A,0,0,0,0,taltavull
 acunju, ,Acuña,1923-02-13,SPA,8, ,P,0,0,0,0,acuna
 pitajo, ,Pita,1927-01-07,SPA,8, ,P,0,0,0,0,pita_2
 vazqga,García,Vázquez,1926-09-28,SPA,8, ,F,0,0,0,0,garcia-vazquez

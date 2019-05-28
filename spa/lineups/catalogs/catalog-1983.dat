@@ -165,7 +165,7 @@ moraen, ,Moran,1953-10-15,SPA,1,10,A,0,0,0,0,moran_2
 alonp2,Pichi,Alonso,1953-02-01,SPA,1,10,A,0,0,0,0,pichi-alonso
 quinen, ,Quini,1949-09-23,SPA,1,10,A,0,0,0,0,quini
 albape, ,Alba,1955-05-13,SPA,20, ,P,0,0,0,0,alba_4
-arzuju,Julio,Arzu,1954-06-05,HON,20, ,P,0,0,0,0,julio-arzu
+arzuju,Julio,Arzu,1954-06-05,HON,20, ,P,0,0,0,0,julio-cesar-arzu
 castfe, ,Castaños,1959-01-12,SPA,20, ,F,0,0,0,0,castanos_2
 gelung, ,Gelucho,1962-02-28,SPA,20, ,F,0,0,0,0,gelucho
 mantfr, ,Mantilla,1958-01-22,SPA,20, ,F,0,0,0,0,mantilla
@@ -223,7 +223,7 @@ prieju,Julio,Prieto,1960-11-21,SPA,2, ,M,0,0,0,0,julio-prieto
 landj1, ,Landáburu,1955-01-24,SPA,2, ,M,0,0,0,0,landaburu
 larijf,Jean-François,Larios,1956-08-27,FRA,2, ,M,0,0,0,0,jean-francois-larios
 agujma,Manolo,Agujetas,1960-03-28,SPA,2, ,M,0,0,0,0,manolo-agujetas
-maril1, ,Marián,1959-12-19,SPA,2, ,M,0,0,0,0,marian
+maril1, ,Marián,1959-12-19,SPA,2, ,M,0,0,0,0,marian-diaz
 mariro, ,Marina,1961-08-28,SPA,2, ,M,0,0,0,0,marina
 mingri, ,Mínguez,1957-12-24,SPA,2, ,M,0,0,0,0,minguez
 pablpe,Pedro,Pablo,1961-02-07,SPA,2, ,M,0,0,0,0,pedro-pablo
@@ -233,7 +233,7 @@ cabrlu, ,Cabrera,1956-07-09,ARG,2, ,A,0,0,0,0,cabrera_4
 pedrj2, ,Pedraza,1959-09-01,SPA,2, ,A,0,0,0,0,pedraza_2
 rubij3, ,Rubio,1956-08-28,SPA,2, ,A,0,0,0,0,rubio_6
 sanchu,Hugo,Sánchez,1958-07-11,MEX,2, ,A,0,0,0,0,hugo-sanchez
-lozaan,Ángel,Lozano,1960-03-01,SPA,30, ,P,0,0,0,0,angel-lozano
+lozaan,Ángel,Lozano,1960-03-01,SPA,30, ,P,0,0,0,0,lozano_10
 dalero,Roberto,D'Alessandro,1949-07-28,ARG,30, ,P,0,0,0,0,roberto-dalessandro
 beneal, ,Benedé,1958-04-05,SPA,30, ,F,0,0,0,0,benede
 bezaju, ,Bezares,1958-01-05,SPA,30, ,F,0,0,0,0,bezares_2
@@ -325,7 +325,7 @@ amarr1,Raúl,Amarilla,1960-06-19,PAR,4, ,A,0,0,0,0,raul-amarilla
 amorjo, ,Amorrortu,1953-07-22,SPA,4, ,A,0,0,0,0,amorrortu
 aynema, ,Ayneto,1962-03-10,SPA,4, ,A,0,0,0,0,ayneto
 latara, ,Latapia,1962-10-24,SPA,4, ,A,0,0,0,0,latapia
-modemo, ,Modesto,1959-11-07,SPA,4, ,A,0,0,0,0,modesto_2
+modemo, ,Modesto,1959-11-07,SPA,4, ,A,0,0,0,0,perez
 totoba, ,Toto,1959-10-20,SPA,4, ,A,0,0,0,0,toto
 valdj2,Jorge,Valdano,1955-10-04,ARG,4, ,A,0,0,0,0,jorge-valdano
 cedran, ,Cedrún,1960-06-05,SPA,5, ,P,0,0,0,0,cedrun
@@ -381,7 +381,7 @@ alexal, ,Alex,1957-12-25,SPA,7, ,F,0,0,0,0,alex_16
 biosan, ,Biosca,1949-12-08,SPA,7, ,F,0,0,0,0,biosca
 carmc3, ,Carmelo,1959-03-25,SPA,7, ,F,0,0,0,0,carmelo_4
 rodrdi,Diego,Rodríguez,1960-04-20,SPA,7, ,F,0,0,0,0,diego-rodriguez
-garcf3,Francis,García,1960-01-09,SPA,7, ,F,0,0,0,0,francis-garcia
+garcf3,Francis,García,1960-01-09,SPA,7, ,F,0,0,0,0,garcia_7
 quicjo, ,Quico,1961-08-12,SPA,7, ,F,0,0,0,0,quico_4
 benia2, ,Benítez,1951-06-02,SPA,7, ,M,0,0,0,0,benitez_6
 canijo, ,Canito,1956-04-22,SPA,7, ,M,0,0,0,0,canito_2

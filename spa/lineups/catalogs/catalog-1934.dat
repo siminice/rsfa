@@ -18,32 +18,7 @@ gurrma, ,Gurruchaga,1908-05-09,SPA,0, ,A,0,0,0,0,gurruchaga
 hilaju, ,Hilario,1905-12-08,SPA,0, ,A,0,0,0,0,hilario_2
 lazcja, ,Lazcano,1909-12-30,SPA,0, ,A,0,0,0,0,lazcano
 olivma, ,Olivares,1909-04-02,SPA,0, ,A,0,0,0,0,olivares
-vilajs,Josep Josep Samitier,Vilalta,1902-02-02,SPA,0, ,A,0,0,0,0,josep-samitier-vilalta
-noguju, ,Nogués,1909-03-28,SPA,1, ,P,0,0,0,0,nogues
-cruzvi,Vicente,Cruz,0000-00-00,SPA,1, ,P,0,0,0,0,vicente-cruz
-alcofr, ,Alcoriza,1903-06-15,SPA,1, ,F,0,0,0,0,alcoriza
-periar,Arnau,Pericas,1907-11-10,SPA,1, ,F,0,0,0,0,arnau-pericas
-espuju, ,Espuny,0000-00-00,SPA,1, ,F,0,0,0,0,espuny
-guzmra, ,Guzman,1901-09-22,SPA,1, ,F,0,0,0,0,guzman_2
-masxra,Rafa,Mas,1908-05-09,SPA,1, ,F,0,0,0,0,rafa-mas
-villju, ,Villacampa,0000-00-00,SPA,1, ,F,0,0,0,0,villacampa
-zabara, ,Zabalo,1910-06-10,SPA,1, ,F,0,0,0,0,zabalo
-costco, ,Costa,0000-00-00,SPA,1, ,M,0,0,0,0,costa_2
-fontju, ,Font,1907-11-22,SPA,1, ,M,0,0,0,0,font
-goibse, ,Goiburu,1906-11-08,SPA,1, ,M,0,0,0,0,goiburu
-perspa, ,Padrón,1906-05-05,SPA,1, ,M,0,0,0,0,padron-person
-pedres, ,Pedrol,1909-10-21,SPA,1, ,M,0,0,0,0,pedrol
-usonsa,Salas,Usón,1910-05-17,SPA,1, ,M,0,0,0,0,salas-uson
-santvi, ,Santos,1906-00-00,SPA,1, ,M,0,0,0,0,santos_11
-sastjo, ,Sastre,1906-06-25,SPA,1, ,M,0,0,0,0,sastre_2
-solesa, ,Soler,0000-00-00,SPA,1, ,M,0,0,0,0,soler_6
-trujju, ,Trujillo,1913-06-29,SPA,1, ,M,0,0,0,0,trujillo
-cabama, ,Cabanes,1914-01-06,SPA,1, ,A,0,0,0,0,cabanes
-peremi,Miranda,Pérez,1909-11-07,SPA,1, ,A,0,0,0,0,miranda-perez
-moreal,Alejandro,Morera,1909-07-14,CRC,1, ,A,0,0,0,0,alejandro-morera
-quicqu, ,Quico,0000-00-00,SPA,1, ,A,0,0,0,0,quico_2
-perara,Ramon,Pera,1909-02-22,SPA,1, ,A,0,0,0,0,ramon-pera
-ventma, ,Ventolrá,1906-12-16,SPA,1, ,A,0,0,0,0,ventolra
+vilajs,Josep Josep Samitier,Vilalta,1902-02-02,SPA,0, ,A,0,0,0,0,samitier
 beriti, ,Beristáin,1904-12-06,SPA,10, ,P,0,0,0,0,beristain
 rojofl, ,Rojo,1913-06-23,SPA,10, ,P,0,0,0,0,rojo
 aranne, ,Arana,1908-12-19,SPA,10, ,F,0,0,0,0,arana
@@ -84,6 +59,31 @@ garcem,Emilín,García,1912-09-12,SPA,16, ,A,0,0,0,0,emilin-garcia
 suargo,González,Suárez,1913-06-06,SPA,16, ,A,0,0,0,0,gonzalez-suarez
 herred, ,Herrerita,1914-07-05,SPA,16, ,A,0,0,0,0,herrerita
 langis, ,Lángara,1912-05-25,SPA,16, ,A,0,0,0,0,langara
+noguju, ,Nogués,1909-03-28,SPA,1, ,P,0,0,0,0,nogues
+cruzvi,Vicente,Cruz,0000-00-00,SPA,1, ,P,0,0,0,0,vicente-cruz
+alcofr, ,Alcoriza,1903-06-15,SPA,1, ,F,0,0,0,0,alcoriza
+periar,Arnau,Pericas,1907-11-10,SPA,1, ,F,0,0,0,0,arnau-pericas
+espuju, ,Espuny,0000-00-00,SPA,1, ,F,0,0,0,0,espuny
+guzmra, ,Guzman,1901-09-22,SPA,1, ,F,0,0,0,0,guzman_2
+masxra,Rafa,Mas,1908-05-09,SPA,1, ,F,0,0,0,0,rafa-mas
+villju, ,Villacampa,0000-00-00,SPA,1, ,F,0,0,0,0,villacampa
+zabara, ,Zabalo,1910-06-10,SPA,1, ,F,0,0,0,0,zabalo
+costco, ,Costa,0000-00-00,SPA,1, ,M,0,0,0,0,costa_2
+fontju, ,Font,1907-11-22,SPA,1, ,M,0,0,0,0,font
+goibse, ,Goiburu,1906-11-08,SPA,1, ,M,0,0,0,0,goiburu
+perspa, ,Padrón,1906-05-05,SPA,1, ,M,0,0,0,0,padron-person
+pedres, ,Pedrol,1909-10-21,SPA,1, ,M,0,0,0,0,pedrol
+usonsa,Salas,Usón,1910-05-17,SPA,1, ,M,0,0,0,0,salas-uson
+santvi, ,Santos,1906-00-00,SPA,1, ,M,0,0,0,0,santos_11
+sastjo, ,Sastre,1906-06-25,SPA,1, ,M,0,0,0,0,sastre_2
+solesa, ,Soler,0000-00-00,SPA,1, ,M,0,0,0,0,soler_6
+trujju, ,Trujillo,1913-06-29,SPA,1, ,M,0,0,0,0,trujillo
+cabama, ,Cabanes,1914-01-06,SPA,1, ,A,0,0,0,0,cabanes
+peremi,Miranda,Pérez,1909-11-07,SPA,1, ,A,0,0,0,0,miranda-perez
+moreal,Alejandro,Morera,1909-07-14,CRC,1, ,A,0,0,0,0,alejandro-morera
+quicqu, ,Quico,0000-00-00,SPA,1, ,A,0,0,0,0,quico_2
+perara,Ramon,Pera,1909-02-22,SPA,1, ,A,0,0,0,0,ramon-pera
+ventma, ,Ventolrá,1906-12-16,SPA,1, ,A,0,0,0,0,ventolra
 jaurpa, ,Jáuregui,1910-05-04,SPA,20, ,P,0,0,0,0,jauregui_3
 mierfr, ,Miera,0000-00-00,SPA,20, ,P,0,0,0,0,miera
 pedrju, ,Pedrosa,1906-08-14,SPA,20, ,P,0,0,0,0,pedrosa_3

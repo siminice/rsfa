@@ -247,7 +247,7 @@ clemc2, ,Clemente,1959-02-08,SPA,2, ,M,0,0,0,0,clemente_4
 prieju,Julio,Prieto,1960-11-21,SPA,2, ,M,0,0,0,0,julio-prieto
 landj1, ,Landáburu,1955-01-24,SPA,2, ,M,0,0,0,0,landaburu
 agujma,Manolo,Agujetas,1960-03-28,SPA,2, ,M,0,0,0,0,manolo-agujetas
-maril1, ,Marián,1959-12-19,SPA,2, ,M,0,0,0,0,marian
+maril1, ,Marián,1959-12-19,SPA,2, ,M,0,0,0,0,marian-diaz
 mariro, ,Marina,1961-08-28,SPA,2, ,M,0,0,0,0,marina
 mingri, ,Mínguez,1957-12-24,SPA,2, ,M,0,0,0,0,minguez
 pablpe,Pedro,Pablo,1961-02-07,SPA,2, ,M,0,0,0,0,pedro-pablo
@@ -258,7 +258,7 @@ pedrj2, ,Pedraza,1959-09-01,SPA,2, ,A,0,0,0,0,pedraza_2
 rubij3, ,Rubio,1956-08-28,SPA,2, ,A,0,0,0,0,rubio_6
 sanchu,Hugo,Sánchez,1958-07-11,MEX,2, ,A,0,0,0,0,hugo-sanchez
 josev1,Victor,José,1959-04-22,SPA,2, ,A,0,0,0,0,victor-jose
-lozaan,Ángel,Lozano,1960-03-01,SPA,30, ,P,0,0,0,0,angel-lozano
+lozaan,Ángel,Lozano,1960-03-01,SPA,30, ,P,0,0,0,0,lozano_10
 dalero,Roberto,D'Alessandro,1949-07-28,ARG,30, ,P,0,0,0,0,roberto-dalessandro
 adamvi, ,Adam,1954-11-21,SPA,30, ,F,0,0,0,0,adam
 baltba, ,Balta,1962-05-09,SPA,30, ,F,0,0,0,0,balta
@@ -295,7 +295,7 @@ revesa, ,Revert,1961-10-22,SPA,3, ,F,0,0,0,0,revert
 serrad, ,Serrat,1955-08-02,SPA,3, ,F,0,0,0,0,serrat
 tendmi, ,Tendillo,1961-02-01,SPA,3, ,F,0,0,0,0,tendillo
 ferrce,César,Ferrando,1959-07-25,SPA,3, ,M,0,0,0,0,cesar-ferrando
-fernf3, ,Fernando,1965-09-11,SPA,3, ,M,0,0,0,0,fernando_2
+fernf3, ,Fernando,1965-09-11,SPA,3, ,M,0,0,0,0,fernando-gomez_3
 ribesa, ,Ribes,1958-04-21,SPA,3, ,M,0,0,0,0,ribes
 rober3, ,Robert,1962-07-05,SPA,3, ,M,0,0,0,0,robert_20
 subija, ,Subirats,1957-10-02,SPA,3, ,M,0,0,0,0,subirats
@@ -306,7 +306,7 @@ rodrpa,Pablo,Rodríguez,1955-03-08,SPA,3, ,A,0,0,0,0,pablo-rodriguez_2
 pitaje, ,Pitarch,1963-11-14,SPA,3, ,A,0,0,0,0,pitarch_3
 sauren, ,Saura,1954-08-02,SPA,3, ,A,0,0,0,0,saura_5
 urruju,Juan,Urruti,1962-05-24,ARG,3, ,A,0,0,0,0,juan-urruti
-pereru,Ruiz,Pérez,1962-12-03,SPA,4, ,P,0,0,0,0,ruiz-perez
+pereru,Ruiz,Pérez,1962-12-03,SPA,4, ,P,0,0,0,0,manolo-ruiz
 vitaeu, ,Vitaller,1958-12-26,SPA,4, ,P,0,0,0,0,vitaller
 blesto, ,Blesa,1962-02-21,SPA,4, ,F,0,0,0,0,blesa
 casuj1, ,Casuco,1955-09-26,SPA,4, ,F,0,0,0,0,casuco_2
@@ -324,7 +324,7 @@ amarr1,Raúl,Amarilla,1960-06-19,PAR,4, ,A,0,0,0,0,raul-amarilla
 aynema, ,Ayneto,1962-03-10,SPA,4, ,A,0,0,0,0,ayneto
 corcj1, ,Corchado,1957-11-16,SPA,4, ,A,0,0,0,0,corchado
 latara, ,Latapia,1962-10-24,SPA,4, ,A,0,0,0,0,latapia
-modemo, ,Modesto,1959-11-07,SPA,4, ,A,0,0,0,0,modesto_2
+modemo, ,Modesto,1959-11-07,SPA,4, ,A,0,0,0,0,perez
 totoba, ,Toto,1959-10-20,SPA,4, ,A,0,0,0,0,toto
 valdj2,Jorge,Valdano,1955-10-04,ARG,4, ,A,0,0,0,0,jorge-valdano
 meleca, ,Melendez,1957-01-26,SPA,5, ,P,0,0,0,0,melendez
@@ -381,7 +381,7 @@ navasa,Salva,Navarro,1960-09-05,SPA,7, ,P,0,0,0,0,salva-navarro
 alexal, ,Alex,1957-12-25,SPA,7, ,F,0,0,0,0,alex_16
 calljo, ,Calleja,1962-09-25,SPA,7, ,F,0,0,0,0,calleja_5
 rodrdi,Diego,Rodríguez,1960-04-20,SPA,7, ,F,0,0,0,0,diego-rodriguez
-garcf3,Francis,García,1960-01-09,SPA,7, ,F,0,0,0,0,francis-garcia
+garcf3,Francis,García,1960-01-09,SPA,7, ,F,0,0,0,0,garcia_7
 garcj2,Julio,García,1965-05-02,SPA,7, ,F,0,0,0,0,julio-garcia
 mantfr, ,Mantilla,1958-01-22,SPA,7, ,F,0,0,0,0,mantilla
 pepepe, ,Pepeo,0000-00-00,SPA,7, ,F,0,0,0,0,pepeo

@@ -1,0 +1,625 @@
+dyksan,Andrew,Dykstra,1986-01-02,USA,0,50,P,0,0,0,0,andrew-dykstra
+hamibi,Bill,Hamid,1990-11-25,USA,0,28,P,0,0,0,0,bill-hamid
+worrtr,Travis,Worra,1993-04-09,USA,0,48,P,0,0,0,0,travis-worra
+birnst,Steve,Birnbaum,1991-01-23,USA,0,15,F,0,0,0,0,steve-birnbaum
+boswbo,Bobby,Boswell,1983-03-15,USA,0,32,F,0,0,0,0,bobby-boswell
+franse,Sean,Franklin,1985-03-21,USA,0,5,F,0,0,0,0,sean-franklin
+halsma,Markus,Halsti,1984-03-19,FIN,0,4,F,0,0,0,0,markus-halsti
+kempta,Taylor,Kemp,1990-07-23,USA,0,2,F,0,0,0,0,taylor-kemp
+korbch,Chris,Korb,1987-10-08,USA,0,22,F,0,0,0,0,chris-korb
+mishlu,Luke,Mishu,1991-06-26,USA,0,34,F,0,0,0,0,luke-mishu
+oparko,Kofi,Opare,1990-10-12,USA,0,6,F,0,0,0,0,kofi-opare
+robija,Jalen,Robinson,1994-05-08,USA,0,20,F,0,0,0,0,jalen-robinson
+aguimi,Miguel,Aguilar,1993-08-30,MEX,0,17,M,0,0,0,0,miguel-aguilar_3
+arnada,Davy,Arnaud,1980-06-22,USA,0,8,M,0,0,0,0,davy-arnaud
+deleni,Nick,DeLeon,1990-07-17,USA,0,14,M,0,0,0,0,nick-deleon
+farfmi,Michael,Farfán,1988-06-23,USA,0,12,M,0,0,0,0,michael-farfan
+jeffja,Jared,Jeffrey,1990-06-14,USA,0,25,M,0,0,0,0,jared-jeffrey
+kitcpe,Perry,Kitchen,1992-02-29,USA,0,23,M,0,0,0,0,perry-kitchen
+martco,Collin,Martin,1994-11-09,USA,0,27,M,0,0,0,0,collin-martin
+pontch,Chris,Pontius,1987-05-12,USA,0,13,M,0,0,0,0,chris-pontius
+silvlu,Luis,Silva,1988-10-12,MEX,0,11,M,0,0,0,0,luis-silva_4
+arrija,Jairo,Arrieta,1983-08-25,CRC,0,19,A,0,0,0,0,jairo-arrieta
+corifa,Facundo,Coria,1987-05-28,ARG,0,21,A,0,0,0,0,facundo-coria
+doylco,Conor,Doyle,1991-10-13,USA,0,30,A,0,0,0,0,conor-doyle
+espifa,Fabián,Espíndola,1985-05-04,ARG,0,10,A,0,0,0,0,fabian-espindola
+johned,Eddie,Johnson,1984-03-31,USA,0,7,A,0,0,0,0,eddie-johnson_2
+rolfch,Chris,Rolfe,1983-01-17,USA,0,18,A,0,0,0,0,chris-rolfe
+seatmi,Michael,Seaton,1996-05-01,JAM,0,18,A,0,0,0,0,michael-seaton
+saboal,Álvaro,Saborio,1982-03-25,CRC,0, , ,0,0,0,0,alvaro-saborio
+castsa,Santiago,Castaño,1995-04-14,USA,11,24,P,0,0,0,0,santiago-castano
+reynky,Kyle,Reynish,1983-11-03,USA,11,18,P,0,0,0,0,kyle-reynish
+robllu,Luis,Robles,1984-05-11,USA,11,31,P,0,0,0,0,luis-robles_2
+armaar, ,Armando,1984-12-16,SPA,11,5,F,0,0,0,0,armando_4
+duvach,Chris,Duvall,1991-09-10,USA,11,25,F,0,0,0,0,chris-duvall
+ladeco,Connor,Lade,1989-11-16,USA,11,5,F,0,0,0,0,connor-lade
+lawrke,Kemar,Lawrence,1992-09-17,JAM,11,92,F,0,0,0,0,kemar-lawrence
+mclash,Shawn,McLaws,1993-03-09,USA,11,3,F,0,0,0,0,shawn-mclaws
+miazma,Matt,Miazga,1995-07-19,USA,11,20,F,0,0,0,0,matt-miazga
+millro,Roy,Miller,1984-11-24,CRC,11,7,F,0,0,0,0,roy-miller
+ouimka,Karl,Ouimette,1992-06-18,CAN,11,22,F,0,0,0,0,karl-ouimette
+perrda,Damien,Perrinelle,1983-09-12,FRA,11,55,F,0,0,0,0,damien-perrinelle
+plewko,Konrad,Plewa,1992-02-27,POL,11,55,F,0,0,0,0,konrad-plewa
+zubaro,Ronald,Zubar,1985-09-20,GDL,11,23,F,0,0,0,0,ronald-zubar
+davise,Sean,Davis,1993-02-09,USA,11,27,M,0,0,0,0,sean-davis_2
+felife, ,Felipe,1990-09-30,BRA,11,8,M,0,0,0,0,felipe_15
+grelmi,Mike,Grella,1987-01-23,USA,11,13,M,0,0,0,0,mike-grella
+kljesa,Sacha,Kljestan,1985-09-09,USA,11,16,M,0,0,0,0,sacha-kljestan
+mccada,Dax,McCarty,1987-04-30,USA,11,11,M,0,0,0,0,dax-mccarty
+obekma,Marius,Obekop,1994-12-19,CMR,11,21,M,0,0,0,0,marius-obekop
+richda,Dane,Richards,1983-12-14,JAM,11,91,M,0,0,0,0,dane-richards
+samxll,Lloyd,Sam,1984-09-27,GHA,11,10,M,0,0,0,0,lloyd-sam
+sancm2,Manolo,Sánchez,1991-11-10,PUR,11,17,M,0,0,0,0,manolo-sanchez
+stolle,Leonard,Stolz,1991-02-15,GER,11,19,M,0,0,0,0,leonard-stolz
+wallan,Anthony,Wallace,1989-01-26,USA,11,6,M,0,0,0,0,anthony-wallace
+zizzsa,Sal,Zizzo,1987-04-03,USA,11,15,M,0,0,0,0,sal-zizzo
+abanan,Anatole,Abang,1996-07-06,CMR,11,9,A,0,0,0,0,anatole-abang
+philbw,Bradley,Wright-Phillips,1985-03-12,ENG,11,99,A,0,0,0,0,bradley-wright-phillips
+verogo,Gonzalo,Verón,1989-12-24,ARG,11, , ,0,0,0,0,gonzalo-veron
+philsw,Shaun,Wright-Phillips,1981-10-25,ENG,11, , ,0,0,0,0,shaun-wright-phillips
+baptaj,Andrew,Jean-Baptiste,1992-06-16,HAI,11, , ,0,0,0,0,andrew-jean-baptiste
+attije,Jeff,Attinella,1988-09-29,USA,12,24,P,0,0,0,0,jeff-attinella
+ferned,Eduardo,Fernández,1992-12-16,MEX,12,1,P,0,0,0,0,eduardo-fernandez_4
+rimani,Nick,Rimando,1979-06-17,USA,12,18,P,0,0,0,0,nick-rimando
+beltto,Tony,Beltran,1987-10-11,USA,12,2,F,0,0,0,0,tony-beltran
+gladju,Justen,Glad,1997-02-28,USA,12,14,F,0,0,0,0,justen-glad
+kaviph,Phanuel,Kavita,1993-03-09,DRC,12,3,F,0,0,0,0,phanuel-kavita
+manske,Kenny,Mansally,1989-01-29,GAM,12,29,F,0,0,0,0,kenny-mansally
+maunaa,Aaron,Maund,1990-09-19,USA,12,21,F,0,0,0,0,aaron-maund
+okwubo,Boyd,Okwuonu,1993-02-24,USA,12,6,F,0,0,0,0,boyd-okwuonu
+olavja,Jámison,Olave,1981-04-21,COL,12,4,F,0,0,0,0,jamison-olave
+philde,Demar,Phillips,1983-09-23,JAM,12,17,F,0,0,0,0,demar-phillips
+schuch,Chris,Schuler,1987-09-06,USA,12,28,F,0,0,0,0,chris-schuler
+vasqel,Elías,Vásquez,1992-06-18,GUA,12,12,F,0,0,0,0,elias-vasquez
+allejo,Jordan,Allen,1995-04-25,USA,12,7,M,0,0,0,0,jordan-allen
+beckky,Kyle,Beckerman,1982-04-23,USA,12,5,M,0,0,0,0,kyle-beckerman
+gil_lu,Luis,Gil,1993-11-14,USA,12,10,M,0,0,0,0,luis-gil_3
+moraja,Javier,Morales,1980-01-10,ARG,12,11,M,0,0,0,0,javier-morales
+mulhlu,Luke,Mulholland,1988-08-07,ENG,12,19,M,0,0,0,0,luke-mulholland
+peckwe, ,Pecka,1989-05-02,BRA,12,16,M,0,0,0,0,pecka
+saucse,Sebastián,Saucedo,1997-01-22,USA,12,50,M,0,0,0,0,sebastian-saucedo
+sterjo,John,Stertzer,1990-10-04,USA,12,27,M,0,0,0,0,john-stertzer
+garcol,Olmes,García,1992-10-21,COL,12,13,A,0,0,0,0,olmes-garcia
+jaimse,Sebastián,Jaime,1987-01-30,ARG,12,23,A,0,0,0,0,sebastian-jaime
+platjo,João,Plata,1992-03-01,ECU,12,8,A,0,0,0,0,joao-plata
+saboal,Álvaro,Saborio,1982-03-25,CRC,12,15,A,0,0,0,0,alvaro-saborio
+sandde,Devon,Sandoval,1991-06-16,USA,12,49,A,0,0,0,0,devon-sandoval
+silvlu,Luis,Silva,1988-10-12,MEX,12, , ,0,0,0,0,luis-silva_4
+martj2,Juan,Martínez,1985-10-25,ARG,12, , ,0,0,0,0,juan-martinez_2
+derity,Tyler,Deric,1988-08-30,USA,14,1,P,0,0,0,0,tyler-deric
+liscmi,Michael,Lisch,1990-08-30,USA,14,30,P,0,0,0,0,michael-lisch
+willj1,Joe,Willis,1988-08-10,USA,14,31,P,0,0,0,0,joe-willis
+asheco,Corey,Ashe,1986-03-14,USA,14,26,F,0,0,0,0,corey-ashe
+cochaj,A.J.,Cochran,1993-02-09,USA,14,26,F,0,0,0,0,a-j-cochran
+horsda,David,Horst,1985-10-25,USA,14,18,F,0,0,0,0,david-horst
+huntta,Taylor,Hunter,1993-07-07,USA,14,23,F,0,0,0,0,taylor-hunter
+rodrra,Raúl,Rodríguez,1987-09-22,SPA,14,5,F,0,0,0,0,raul-rodriguez_2
+sarkko,Kofi,Sarkodie,1991-03-22,USA,14,2,F,0,0,0,0,kofi-sarkodie
+taylje,Jermaine,Taylor,1985-01-14,JAM,14,4,F,0,0,0,0,jermaine-taylor
+alexal, ,Alex,1988-12-15,BRA,14,14,M,0,0,0,0,alex_31
+beasda,DaMarcus,Beasley,1982-05-24,USA,14,7,M,0,0,0,0,damarcus-beasley
+clarri,Ricardo,Clark,1983-02-10,USA,14,13,M,0,0,0,0,ricardo-clark
+davibr,Brad,Davis,1981-11-08,USA,14,11,M,0,0,0,0,brad-davis
+garcbo,Boniek,García,1984-09-04,HON,14,27,M,0,0,0,0,boniek-garcia
+garrlu,Luis,Garrido,1990-11-05,HON,14,8,M,0,0,0,0,luis-garrido
+lopeal,Alex,López,1992-06-05,HON,14,15,M,0,0,0,0,alex-lopez_7
+lovero,Rob,Lovejoy,1991-10-23,USA,14,3,M,0,0,0,0,rob-lovejoy
+mirale,Leonel,Miranda,1994-01-07,ARG,14,33,M,0,0,0,0,leonel-miranda
+rodrme,Memo,Rodriguez,1995-12-27,USA,14,33,M,0,0,0,0,memo-rodriguez
+steiza,Zach,Steinberger,1992-05-10,USA,14,21,M,0,0,0,0,zach-steinberger
+sturna,Nathan,Sturgis,1987-07-06,USA,14,6,M,0,0,0,0,nathan-sturgis
+barngi,Giles,Barnes,1988-08-05,JAM,14,10,A,0,0,0,0,giles-barnes
+bruiwi,Will,Bruin,1989-10-24,USA,14,12,A,0,0,0,0,will-bruin
+hoffch,Chandler,Hoffman,1990-08-17,USA,14,17,A,0,0,0,0,chandler-hoffman
+manoma,Mauro,Manotas,1995-07-15,COL,14,19,A,0,0,0,0,mauro-manotas
+willsh,Sheanon,Williams,1990-03-17,USA,14, , ,0,0,0,0,sheanon-williams
+torrer,Érick,Torres,1993-01-19,MEX,14, , ,0,0,0,0,erick-torres_2
+olabra,Rasheed,Olabiyi,1990-02-03,NGR,14, , ,0,0,0,0,rasheed-olabiyi
+johnja,Jason,Johnson,1991-10-09,JAM,14, , ,0,0,0,0,jason-johnson
+lucach,Christian,Lucatero,1997-06-17,USA,14, , ,0,0,0,0,christian-lucatero
+bendjo,Joe,Bendik,1989-04-25,USA,15,12,P,0,0,0,0,joe-bendik
+bonoal,Alex,Bono,1994-04-01,USA,15,25,P,0,0,0,0,alex-bono
+konoch,Chris,Konopka,1985-04-14,USA,15,1,P,0,0,0,0,chris-konopka
+robequ,Quillan,Roberts,1994-09-13,CAN,15,40,P,0,0,0,0,quillan-roberts
+blooma,Mark,Bloom,1987-11-25,USA,15,28,F,0,0,0,0,mark-bloom
+caldst,Steven,Caldwell,1980-09-12,SCO,15,13,F,0,0,0,0,steven-caldwell
+haggni,Nick,Hagglund,1992-09-14,USA,15,6,F,0,0,0,0,nick-hagglund
+lovida,Daniel,Lovitz,1991-08-27,USA,15,19,F,0,0,0,0,daniel-lovitz
+morgas,Ashtone,Morgan,1991-02-09,CAN,15,5,F,0,0,0,0,ashtone-morgan
+morrju,Justin,Morrow,1987-10-04,USA,15,2,F,0,0,0,0,justin-morrow
+perqda,Damien,Perquis,1984-04-10,POL,15,24,F,0,0,0,0,damien-perquis
+simocl,Clément,Simonin,1991-01-07,FRA,15,38,F,0,0,0,0,clement-simonin
+zavaer,Eriq,Zavaleta,1992-08-02,USA,15,15,F,0,0,0,0,eriq-zavaleta
+bradmi,Michael,Bradley,1987-07-31,USA,15,4,M,0,0,0,0,michael-bradley
+chapja,Jay,Chapman,1994-01-01,CAN,15,14,M,0,0,0,0,jay-chapman
+cheybe,Benoît,Cheyrou,1981-05-03,FRA,15,8,M,0,0,0,0,benoit-cheyrou
+creawa,Warren,Creavalle,1990-08-15,GUY,15,3,M,0,0,0,0,warren-creavalle
+delgma,Marky,Delgado,1995-05-16,USA,15,18,M,0,0,0,0,marky-delgado
+jackja, ,Jackson,1988-06-03,BRA,15,11,M,0,0,0,0,jackson_5
+mannch,Chris,Mannella,1994-06-07,CAN,15,20,M,0,0,0,0,chris-mannella
+aparma,Manuel,Aparicio,1995-09-17,CAN,15,34,M,0,0,0,0,manuel-aparicio
+osorjo,Jonathan,Osorio,1992-12-06,CAN,15,21,M,0,0,0,0,jonathan-osorio
+warnco,Collen,Warner,1988-06-24,USA,15,26,M,0,0,0,0,collen-warner
+altijo,Jozy,Altidore,1989-11-06,USA,15,17,A,0,0,0,0,jozy-altidore
+findro,Robbie,Findley,1985-08-04,USA,15,55,A,0,0,0,0,robbie-findley
+giovse,Sebastian,Giovinco,1987-01-26,ITA,15,10,A,0,0,0,0,sebastian-giovinco
+hamijo,Jordan,Hamilton,1996-03-17,CAN,15,22,A,0,0,0,0,jordan-hamilton
+moorlu,Luke,Moore,1986-02-13,ENG,15,27,A,0,0,0,0,luke-moore
+kantah,Ahmed,Kantari,1985-06-28,MAR,15, , ,0,0,0,0,ahmed-kantari
+willjo,Josh,Williams,1988-04-18,USA,15, , ,0,0,0,0,josh-williams_3
+gomehe,Hérculez,Gómez,1982-04-06,USA,15, , ,0,0,0,0,herculez-gomez
+dikech,Chinedu,Dike,1987-02-02,NGR,15, , ,0,0,0,0,chinedu-dike
+freist,Stefan,Frei,1986-04-20,SUI,16,24,P,0,0,0,0,stefan-frei
+lyonch,Charlie,Lyon,1992-04-10,USA,16,22,P,0,0,0,0,charlie-lyon
+perktr,Troy,Perkins,1981-07-29,USA,16,1,P,0,0,0,0,troy-perkins
+corran,Andrés,Correa,1994-01-29,COL,16,13,F,0,0,0,0,andres-correa
+evanbr,Brad,Evans,1985-04-20,USA,16,3,F,0,0,0,0,brad-evans
+fishon,Oniel,Fisher,1991-11-22,JAM,16,91,F,0,0,0,0,oniel-fisher
+gonzle,Leonardo,González,1980-11-21,CRC,16,12,F,0,0,0,0,leonardo-gonzalez
+loweda,Damion,Lowe,1993-05-05,JAM,16,31,F,0,0,0,0,damion-lowe
+marsch,Chad,Marshall,1984-08-22,USA,16,14,F,0,0,0,0,chad-marshall
+mearty,Tyrone,Mears,1983-02-18,JAM,16,4,F,0,0,0,0,tyrone-mears
+ockfji,Jimmy,Ockford,1992-06-10,USA,16,21,F,0,0,0,0,jimmy-ockford
+remidy,Dylan,Remick,1991-05-19,USA,16,15,F,0,0,0,0,dylan-remick
+scotza,Zach,Scott,1980-07-02,USA,16,20,F,0,0,0,0,zach-scott
+alonos,Osvaldo,Alonso,1985-11-11,CUB,16,6,M,0,0,0,0,osvaldo-alonso
+arrojo,John,Arroyo,1993-05-06,ECU,16,6,M,0,0,0,0,john-arroyo
+azirmi,Micheal,Azira,1987-08-22,UGA,16,42,M,0,0,0,0,micheal-azira
+kovaaa,Aaron,Kovar,1993-08-14,USA,16,11,M,0,0,0,0,aaron-kovar
+neagla,Lamar,Neagle,1987-05-07,USA,16,27,M,0,0,0,0,lamar-neagle
+pappma,Marco,Pappa,1987-11-15,GUA,16,10,M,0,0,0,0,marco-pappa
+pinego,Gonzalo,Pineda,1982-10-19,MEX,16,8,M,0,0,0,0,gonzalo-pineda
+roldcr,Cristian,Roldan,1995-06-03,USA,16,7,M,0,0,0,0,cristian-roldan_2
+rosean,Andy,Rose,1990-02-13,ENG,16,5,M,0,0,0,0,andy-rose
+jaguth,Thomás,Jaguaribe,1993-02-24,BRA,16,18,M,0,0,0,0,thomas-jaguaribe
+barrch,Chad,Barrett,1985-04-30,USA,16,19,A,0,0,0,0,chad-barrett
+cravan,Andy,Craven,1992-01-21,USA,16,99,A,0,0,0,0,andy-craven
+dempcl,Clint,Dempsey,1983-03-09,USA,16,2,A,0,0,0,0,clint-dempsey
+joneda,Darwin,Jones,1992-04-04,USA,16,17,A,0,0,0,0,darwin-jones
+mansvi,Victor,Mansaray,1997-02-22,USA,16,80,A,0,0,0,0,victor-mansaray
+martob,Obafemi,Martins,1984-10-28,NGR,16,9,A,0,0,0,0,obafemi-martins
+parske,Kevin,Parsemain,1988-02-12,MRQ,16,77,A,0,0,0,0,kevin-parsemain
+friber,Erik,Friberg,1986-02-10,SWE,16, , ,0,0,0,0,erik-friberg
+valdne,Nelson,Valdez,1983-11-28,PAR,16, , ,0,0,0,0,nelson-valdez
+ivanan,Andreas,Ivanschitz,1983-10-15,AUT,16, , ,0,0,0,0,andreas-ivanschitz
+torrr1,Román,Torres,1986-03-20,PAN,16, , ,0,0,0,0,roman-torres
+gleeja,Jake,Gleeson,1990-06-26,NZL,17,90,P,0,0,0,0,jake-gleeson
+kwarad,Adam,Kwarasey,1987-12-12,GHA,17,12,P,0,0,0,0,adam-kwarasey
+webean,Andrew,Weber,1983-08-09,USA,17,33,P,0,0,0,0,andrew-weber
+borcna,Nat,Borchers,1981-04-13,USA,17,7,F,0,0,0,0,nat-borchers
+jeanje, ,Jeanderson,1991-08-13,BRA,17,15,F,0,0,0,0,jeanderson
+papano,Norberto,Paparatto,1984-01-03,ARG,17,23,F,0,0,0,0,norberto-paparatto
+peayta,Taylor,Peay,1991-09-05,USA,17,20,F,0,0,0,0,taylor-peay
+poweal,Alvas,Powell,1994-07-18,JAM,17,2,F,0,0,0,0,alvas-powell
+ridgli,Liam,Ridgewell,1984-07-21,ENG,17,24,F,0,0,0,0,liam-ridgewell
+thoman,Andy,Thoma,1993-04-29,USA,17,28,F,0,0,0,0,andy-thoma
+villjo,Jorge,Villafaña,1989-09-16,USA,17,19,F,0,0,0,0,jorge-villafana
+wallro,Rodney,Wallace,1988-06-17,CRC,17,22,F,0,0,0,0,rodney-wallace
+asprda,Dairon,Asprilla,1992-05-25,COL,17,11,M,0,0,0,0,dairon-asprilla
+beslni,Nick,Besler,1993-05-07,USA,17,27,M,0,0,0,0,nick-besler
+chardi,Diego,Chará,1986-04-05,COL,17,21,M,0,0,0,0,diego-chara
+fochge,George,Fochive,1992-03-24,USA,17,26,M,0,0,0,0,george-fochive
+jewsja,Jack,Jewsbury,1981-04-13,USA,17,13,M,0,0,0,0,jack-jewsbury
+johnw1,Will,Johnson,1987-01-21,CAN,17,4,M,0,0,0,0,will-johnson
+nagbda,Darlington,Nagbe,1990-07-19,USA,17,6,M,0,0,0,0,darlington-nagbe
+nancmi,Michael,Nanchoff,1988-09-24,USA,17,17,M,0,0,0,0,michael-nanchoff
+valedi,Diego,Valeri,1986-05-01,ARG,17,8,M,0,0,0,0,diego-valeri
+yartis,Ishmael,Yartey,1990-01-11,GHA,17,18,M,0,0,0,0,ishmael-yartey
+zemabe, ,Ben Zemanski,1988-05-12,USA,17,14,M,0,0,0,0,ben-zemanski
+adixfa,Fanendo,Adi,1990-10-10,NGR,17,9,A,0,0,0,0,fanendo-adi
+fernga,Gastón,Fernández,1983-10-12,ARG,17,10,A,0,0,0,0,gaston-fernandez
+tshusc,Schillo,Tshuma,1992-09-21,ZIM,17,32,A,0,0,0,0,schillo-tshuma
+urruma,Maxi,Urruti,1991-02-22,ARG,17,37,A,0,0,0,0,maxi-urruti
+melalu,Lucas,Melano,1993-03-01,ARG,17, , ,0,0,0,0,lucas-melano
+mannan,Anthony,Manning,1992-09-04,USA,17, , ,0,0,0,0,anthony-manning
+seatmi,Michael,Seaton,1996-05-01,JAM,17, , ,0,0,0,0,michael-seaton
+bushev,Evan,Bush,1986-03-06,USA,18,1,P,0,0,0,0,evan-bush
+crepma,Maxime,Crépeau,1994-05-11,CAN,18,40,P,0,0,0,0,maxime-crepeau
+kroner,Eric,Kronberg,1983-06-07,USA,18,22,P,0,0,0,0,eric-kronberg
+cabrvi,Víctor,Cabrera,1993-02-07,ARG,18,36,F,0,0,0,0,victor-cabrera_3
+camaha,Hassoun,Camara,1984-02-03,FRA,18,6,F,0,0,0,0,hassoun-camara
+cimala,Laurent,Ciman,1985-08-05,BEL,18,23,F,0,0,0,0,laurent-ciman
+lefewa,Wandrille,Lefèvre,1989-12-17,CAN,18,55,F,0,0,0,0,wandrille-lefevre
+miller,Eric,Miller,1993-01-15,USA,18,3,F,0,0,0,0,eric-miller
+oyonam,Ambroise,Oyongo,1991-06-22,CMR,18,2,F,0,0,0,0,ambroise-oyongo
+piscad, ,Piscu,1987-02-25,SPA,18,26,F,0,0,0,0,piscu
+soumba,Bakary,Soumaré,1985-11-09,MLI,18,5,F,0,0,0,0,bakary-soumare
+tissma,Maxim,Tissot,1992-04-16,CAN,18,51,F,0,0,0,0,maxim-tissot
+toiado,Donny,Toia,1992-05-28,USA,18,25,F,0,0,0,0,donny-toia
+alexer,Eric,Alexander,1988-04-14,USA,18,29,M,0,0,0,0,eric-alexander
+goyelb,Louis,Béland-Goyette,1995-09-15,CAN,18,27,M,0,0,0,0,louis-beland-goyette
+bernpa,Patrice,Bernier,1979-09-23,CAN,18,8,M,0,0,0,0,patrice-bernier
+donama,Marco,Donadel,1983-04-21,ITA,18,33,M,0,0,0,0,marco-donadel
+dukadi,Dilly,Duka,1989-09-15,USA,18,5,M,0,0,0,0,dilly-duka
+lapajg,Jérémy,Gagnon-Laparé,1995-03-09,CAN,18,28,M,0,0,0,0,jeremy-gagnon-lapare
+mallca,Calum,Mallace,1990-01-10,SCO,18,16,M,0,0,0,0,calum-mallace
+mappju,Justin,Mapp,1984-10-18,USA,18,21,M,0,0,0,0,justin-mapp
+piatig,Ignacio,Piatti,1985-02-04,ARG,18,10,M,0,0,0,0,ignacio-piatti
+cokenr,Nigel,Reo-Coker,1984-05-14,ENG,18,14,M,0,0,0,0,nigel-reo-coker
+romean,Andrés,Romero,1989-12-21,ARG,18,15,M,0,0,0,0,andres-romero
+coopke,Kenny,Cooper,1984-10-21,USA,18,13,A,0,0,0,0,kenny-cooper
+hameaj,Anthony,Jackson-Hamel,1993-08-03,CAN,18,24,A,0,0,0,0,anthony-jackson-hamel
+mcinja,Jack,McInerney,1992-08-05,USA,18,99,A,0,0,0,0,jack-mcinerney
+odurdo,Dominic,Oduro,1985-08-13,GHA,18,7,A,0,0,0,0,dominic-oduro
+portc1,Cameron,Porter,1993-05-23,USA,18,39,A,0,0,0,0,cameron-porter
+willro,Romario,Williams,1994-08-15,JAM,18,17,A,0,0,0,0,romario-williams
+venejo,Johan,Venegas,1988-11-27,CRC,18, , ,0,0,0,0,johan-venegas
+drogdi,Didier,Drogba,1978-03-11,CIV,18, , ,0,0,0,0,didier-drogba
+bekkky,Kyle,Bekker,1990-09-02,CAN,18, , ,0,0,0,0,kyle-bekker
+peneja,Jaime,Penedo,1981-09-26,PAN,1,18,P,0,0,0,0,jaime-penedo
+perkbr,Brian,Perk,1989-07-21,USA,1,24,P,0,0,0,0,brian-perk
+rowebr,Brian,Rowe,1988-11-16,USA,1,12,P,0,0,0,0,brian-rowe
+wolvan,Andrew,Wolverton,1990-01-29,USA,1,31,P,0,0,0,0,andrew-wolverton
+delaaj,A.J.,DeLaGarza,1987-11-04,GUM,1,20,F,0,0,0,0,a-j-delagarza
+dunito,Todd,Dunivant,1980-12-26,USA,1,2,F,0,0,0,0,todd-dunivant
+gargda,Dan,Gargan,1982-12-14,USA,1,33,F,0,0,0,0,dan-gargan
+gonzom,Omar,González,1988-10-11,USA,1,4,F,0,0,0,0,omar-gonzalez
+leonj1, ,Leonardo,1988-02-05,BRA,1,22,F,0,0,0,0,leonardo_12
+meyeto,Tommy,Meyer,1990-03-20,USA,1,21,F,0,0,0,0,tommy-meyer
+rogero,Robbie,Rogers,1987-05-12,USA,1,14,F,0,0,0,0,robbie-rogers
+sortos,Oscar,Sorto,1994-09-13,USA,1,36,F,0,0,0,0,oscar-sorto
+garcra,Rafael,Garcia,1988-12-19,USA,1,25,M,0,0,0,0,rafael-garcia_5
+husiba,Baggio,Hušidić,1987-05-19,BOS,1,6,M,0,0,0,0,baggio-husidic
+ishist,Stefan,Ishizaki,1982-05-15,SWE,1,24,M,0,0,0,0,stefan-ishizaki
+junivi, ,Juninho,1989-01-08,BRA,1,19,M,0,0,0,0,juninho_15
+lletse,Sebastian,Lletget,1992-09-03,USA,1,17,M,0,0,0,0,sebastian-lletget
+mendra,Raúl,Mendiola,1994-05-18,MEX,1,40,M,0,0,0,0,raul-mendiola
+vaeymi,Mika,Väyrynen,1981-12-28,FIN,1,3,M,0,0,0,0,mika-vaeyrynen
+villj1,Jose,Villarreal,1993-09-10,USA,1,5,M,0,0,0,0,jose-villarreal_2
+walkke,Kenney,Walker,1988-12-23,USA,1,34,M,0,0,0,0,kenney-walker
+budded,Edson,Buddle,1981-05-21,USA,1,16,A,0,0,0,0,edson-buddle
+gordal,Alan,Gordon,1981-10-16,USA,1,9,A,0,0,0,0,alan-gordon
+jamibr,Bradford,Jamieson,1996-10-18,USA,1,38,A,0,0,0,0,bradford-jamieson
+keanro,Robbie,Keane,1980-07-08,IRL,1,7,A,0,0,0,0,robbie-keane
+mcbeja,Jack,McBean,1994-12-15,USA,1,32,A,0,0,0,0,jack-mcbean
+magana,Nacho,Maganto,1992-01-02,SPA,1,15,A,0,0,0,0,nacho-maganto
+ruggch,Charlie,Rugg,1990-10-02,USA,1,27,A,0,0,0,0,charlie-rugg
+zardgy,Gyasi,Zardes,1991-09-02,USA,1,11,A,0,0,0,0,gyasi-zardes
+gerrst,Steven,Gerrard,1980-05-30,ENG,1, , ,0,0,0,0,steven-gerrard
+rickdo,Donovan,Ricketts,1977-06-07,JAM,1, , ,0,0,0,0,donovan-ricketts
+santgd,Giovani dos,Santos,1989-05-11,MEX,1, , ,0,0,0,0,giovani-dos-santos
+romnda,Dave,Romney,1993-06-12,USA,1, , ,0,0,0,0,dave-romney
+lassar,Ariel,Lassiter,1994-09-27,CRC,1, , ,0,0,0,0,ariel-lassiter
+mitctr,Trey,Mitchell,1991-04-27,USA,1, , ,0,0,0,0,trey-mitchell
+cardma,Marco,Carducci,1996-09-24,CAN,22,24,P,0,0,0,0,marco-carducci
+oustda,David,Ousted,1985-02-01,DEN,22,1,P,0,0,0,0,david-ousted
+tornpa,Paolo,Tornaghi,1988-06-21,ITA,22,70,P,0,0,0,0,paolo-tornaghi
+adeksa,Sam,Adekugbe,1995-01-16,CAN,22,3,F,0,0,0,0,sam-adekugbe
+beitst,Steven,Beitashour,1987-02-01,IRN,22,33,F,0,0,0,0,steven-beitashour
+deanch,Christian,Dean,1993-03-14,USA,22,22,F,0,0,0,0,christian-dean
+harvjo,Jordan,Harvey,1984-01-28,USA,22,2,F,0,0,0,0,jordan-harvey
+kahxpm,Pa-Modou,Kah,1980-07-30,NOR,22,44,F,0,0,0,0,pa-modou-kah
+parkti,Tim,Parker,1993-02-23,USA,22,26,F,0,0,0,0,tim-parker_2
+rodrdi,Diego,Rodríguez,1991-01-08,URU,22,18,F,0,0,0,0,diego-rodriguez_4
+sampet,Ethen,Sampson,1993-12-28,RSA,22,27,F,0,0,0,0,ethen-sampson
+wastke,Kendall,Waston,1988-01-01,CRC,22,4,F,0,0,0,0,kendall-waston
+bustma,Marco,Bustos,1996-04-22,CAN,22,32,M,0,0,0,0,marco-bustos
+florde,Deybi,Flores,1996-06-16,HON,22,20,M,0,0,0,0,deybi-flores
+froeki,Kianz,Froese,1996-04-16,CAN,22,38,M,0,0,0,0,kianz-froese
+koffge,Gershon,Koffie,1991-08-25,GHA,22,28,M,0,0,0,0,gershon-koffie
+labama,Matías,Laba,1991-12-11,ARG,22,15,M,0,0,0,0,matias-laba
+lewia1,Andre,Lewis,1994-08-12,JAM,22,25,M,0,0,0,0,andre-lewis
+mannke,Kekuta,Manneh,1994-12-30,USA,22,23,M,0,0,0,0,kekuta-manneh
+mckebe, ,Ben McKendry,1993-03-25,CAN,22,30,M,0,0,0,0,ben-mckendry
+mezqni,Nicolás,Mezquida,1992-01-21,URU,22,11,M,0,0,0,0,nicolas-mezquida
+morape,Pedro,Morales,1985-05-25,CHI,22,77,M,0,0,0,0,pedro-morales
+rosama,Mauro,Rosales,1981-02-24,ARG,22,7,M,0,0,0,0,mauro-rosales
+techcr,Cristian,Techera,1992-05-31,URU,22,13,M,0,0,0,0,cristian-techera
+teibru,Russell,Teibert,1992-12-22,CAN,22,31,M,0,0,0,0,russell-teibert
+clarca,Caleb,Clarke,1993-06-23,CAN,22,34,A,0,0,0,0,caleb-clarke
+earnro,Robert,Earnshaw,1981-04-06,WAL,22,88,A,0,0,0,0,robert-earnshaw
+hurter,Erik,Hurtado,1990-11-15,USA,22,88,A,0,0,0,0,erik-hurtado
+mattda,Darren,Mattocks,1990-09-02,JAM,22,11,A,0,0,0,0,darren-mattocks
+riveoc,Octavio,Rivero,1992-01-24,URU,22,29,A,0,0,0,0,octavio-rivero
+smitj2,Jordan,Smith,1991-04-23,CRC,22, , ,0,0,0,0,jordan-smith
+buscjo,Jon,Busch,1976-08-18,USA,2,18,P,0,0,0,0,jon-busch
+johnse,Sean,Johnson,1989-05-31,USA,2,25,P,0,0,0,0,sean-johnson
+kannal,Alec,Kann,1990-08-08,USA,2,1,P,0,0,0,0,alec-kann
+adaiad, ,Adaílton,1983-04-16,BRA,2,4,F,0,0,0,0,adailton
+cochgr,Greg,Cochrane,1990-11-01,USA,2,16,F,0,0,0,0,greg-cochrane
+doodpa,Patrick,Doody,1992-04-22,USA,2,22,F,0,0,0,0,patrick-doody
+gehrer,Eric,Gehrig,1987-12-15,USA,2,6,F,0,0,0,0,eric-gehrig
+jonej1,Joevin,Jones,1991-08-03,TRI,2,3,F,0,0,0,0,joevin-jones
+palmlo,Lovel,Palmer,1984-08-30,JAM,2,5,F,0,0,0,0,lovel-palmer
+polsma,Matt,Polster,1993-06-08,USA,2,2,F,0,0,0,0,matt-polster
+brycki,Kingsley,Bryce,1993-04-16,USA,2,27,M,0,0,0,0,kingsley-bryce
+cocirz,Răzvan,Cociş,1983-02-19,ROM,2,30,M,0,0,0,0,rzvan-cocis
+fernco,Collin,Fernandez,1997-02-13,USA,2,17,M,0,0,0,0,collin-fernandez
+lareje,Jeff,Larentowicz,1983-08-05,USA,2,20,M,0,0,0,0,jeff-larentowicz
+magemi,Mike,Magee,1984-09-02,USA,2,9,M,0,0,0,0,mike-magee
+malosh,Shaun,Maloney,1983-01-24,SCO,2,10,M,0,0,0,0,shaun-maloney
+nyarpa,Patrick,Nyarko,1986-01-15,GHA,2,14,M,0,0,0,0,patrick-nyarko
+rittch,Chris,Ritter,1990-10-29,USA,2,21,M,0,0,0,0,chris-ritter
+shipha,Harry,Shipp,1991-11-07,USA,2,19,M,0,0,0,0,harry-shipp
+stepmi,Michael,Stephens,1989-04-03,USA,2,26,M,0,0,0,0,michael-stephens
+perevi,Víctor,Pérez,1988-01-12,SPA,2,15,M,0,0,0,0,victor-perez_2
+watsm1,Matt,Watson,1985-01-01,ENG,2,8,M,0,0,0,0,matt-watson
+accada,David,Accam,1990-09-28,GHA,2,11,A,0,0,0,0,david-accam
+gulygu, ,Guly,1981-12-31,BRA,2,23,A,0,0,0,0,guly
+igboke,Kennedy,Igboananike,1989-02-08,NGR,2,77,A,0,0,0,0,kennedy-igboananike
+johnja,Jason,Johnson,1991-10-09,JAM,2,7,A,0,0,0,0,jason-johnson
+amarqu,Quincy,Amarikwa,1987-10-29,USA,2, , ,0,0,0,0,quincy-amarikwa
+gilbg1, ,Gilberto,1989-06-05,BRA,2, , ,0,0,0,0,gilberto_10
+cyruda,Daneil,Cyrus,1990-12-15,TRI,2, , ,0,0,0,0,daneil-cyrus
+hardty,Ty,Harden,1984-03-06,USA,2, , ,0,0,0,0,ty-harden
+alexal, ,Alex,1988-12-15,BRA,2, , ,0,0,0,0,alex_31
+blakan,Andre,Blake,1990-11-21,JAM,38,1,P,0,0,0,0,andre-blake
+mbolra,Raïs,M'Bolhi,1986-04-25,ALG,38,92,P,0,0,0,0,rais-mbolhi
+mccajo,John,McCarthy,1992-07-04,USA,38,55,P,0,0,0,0,john-mccarthy_2
+mitctr,Trey,Mitchell,1991-04-27,USA,38,99,P,0,0,0,0,trey-mitchell
+sylvbr,Brian,Sylvestre,1992-12-19,USA,38,49,P,0,0,0,0,brian-sylvestre
+fabifa, ,Fabinho,1985-03-16,BRA,38,33,F,0,0,0,0,fabinho_19
+gaddra,Ray,Gaddis,1990-01-13,USA,38,28,F,0,0,0,0,ray-gaddis
+leexra,Raymond,Lee,1993-04-26,USA,38,3,F,0,0,0,0,raymond-lee
+marqri,Richie,Marquez,1992-05-26,USA,38,16,F,0,0,0,0,richie-marquez
+vitost,Steven,Vitória,1987-01-11,CAN,38,23,F,0,0,0,0,steven-vitoria
+whitet,Ethan,White,1991-01-01,USA,38,15,F,0,0,0,0,ethan-white
+willsh,Sheanon,Williams,1990-03-17,USA,38,25,F,0,0,0,0,sheanon-williams
+ayuker,Eric,Ayuk,1997-02-17,CMR,38,14,M,0,0,0,0,eric-ayuk
+birder,Eric,Bird,1993-04-08,USA,38,21,M,0,0,0,0,eric-bird
+carrbr,Brian,Carroll,1981-07-20,USA,38,7,M,0,0,0,0,brian-carroll
+eduxma,Maurice,Edu,1986-04-18,USA,38,8,M,0,0,0,0,maurice-edu
+fredhe, ,Fred,1979-08-18,BRA,38,77,M,0,0,0,0,fred_2
+hoppan,Antoine,Hoppenot,1990-11-23,FRA,38,29,M,0,0,0,0,antoine-hoppenot
+lahomi,Michael,Lahoud,1986-09-15,SLE,38,13,M,0,0,0,0,michael-lahoud
+maidcr,Cristian,Maidana,1987-01-24,ARG,38,10,M,0,0,0,0,cristian-maidana
+mclaji,Jimmy,McLaughlin,1993-04-30,USA,38,20,M,0,0,0,0,jimmy-mclaughlin
+noguvi,Vincent,Nogueira,1988-01-16,FRA,38,5,M,0,0,0,0,vincent-nogueira
+pfefza,Zach,Pfeffer,1995-01-06,USA,38,27,M,0,0,0,0,zach-pfeffer
+wengan,Andrew,Wenger,1990-12-25,USA,38,11,M,0,0,0,0,andrew-wenger
+arisfe,Fernando,Aristeguieta,1992-04-09,VEN,38,18,A,0,0,0,0,fernando-aristeguieta
+caseco,Conor,Casey,1981-07-25,USA,38,6,A,0,0,0,0,conor-casey
+catidz,Dženan,Ćatić,1992-05-25,BOS,38,6,A,0,0,0,0,dzenan-catic
+touxsl,Sébastien,Le Toux,1984-01-10,FRA,38,9,A,0,0,0,0,sebastien-le-toux
+sapocj,C.J.,Sapong,1988-12-27,USA,38,17,A,0,0,0,0,c-j-sapong
+barntr,Tranquillo,Barnetta,1985-05-22,SUI,38, , ,0,0,0,0,tranquillo-barnetta
+creawa,Warren,Creavalle,1990-08-15,GUY,38, , ,0,0,0,0,warren-creavalle
+johaei,Eirik,Johansen,1992-07-12,NOR,39,25,P,0,0,0,0,eirik-johansen
+mearry,Ryan,Meara,1990-11-15,USA,39,18,P,0,0,0,0,ryan-meara
+saunjo,Josh,Saunders,1981-03-03,PUR,39,12,P,0,0,0,0,josh-saunders
+allerj,R.J.,Allen,1990-04-17,USA,39,27,F,0,0,0,0,r-j-allen
+branco,Connor,Brandt,1992-09-15,USA,39,16,F,0,0,0,0,connor-brandt
+brovje,Jeb,Brovsky,1988-12-03,USA,39,5,F,0,0,0,0,jeb-brovsky
+facesh,Shay,Facey,1995-01-07,ENG,39,24,F,0,0,0,0,shay-facey
+hernja,Jason,Hernández,1983-08-26,PUR,39,2,F,0,0,0,0,jason-hernandez
+johnge,George,John,1987-03-20,USA,39,6,F,0,0,0,0,george-john
+sirikw,Kwame,Watson-Siriboe,1986-11-13,USA,39,3,F,0,0,0,0,kwame-watson-siriboe
+willjo,Josh,Williams,1988-04-18,USA,39,13,F,0,0,0,0,josh-williams_3
+wingch,Chris,Wingert,1982-06-16,USA,39,17,F,0,0,0,0,chris-wingert
+ballme,Medhi,Ballouchy,1983-04-06,MAR,39,20,M,0,0,0,0,medhi-ballouchy
+callja,Javier,Calle,1991-04-29,COL,39,30,M,0,0,0,0,javier-calle
+diskmi,Mix,Diskerud,1990-10-02,USA,39,10,M,0,0,0,0,mix-diskerud
+grabne,Ned,Grabavoy,1983-07-01,USA,39,11,M,0,0,0,0,ned-grabavoy
+jacoan,Andrew,Jacobson,1985-09-25,USA,39,4,M,0,0,0,0,andrew-jacobson
+mcnato,Tommy,McNamara,1991-02-06,USA,39,15,M,0,0,0,0,tommy-mcnamara
+alvapa,Pablo,Álvarez,1980-05-14,SPA,39,22,M,0,0,0,0,pablo-alvarez
+pokukw,Kwadwo,Poku,1992-02-19,GHA,39,88,M,0,0,0,0,kwadwo-poku_2
+velase,Sebastián,Velásquez,1991-02-11,COL,39,26,M,0,0,0,0,sebastian-velasquez
+villda,David,Villa,1981-12-03,SPA,39,7,A,0,0,0,0,david-villa
+mullpa,Patrick,Mullins,1992-02-05,USA,39,14,A,0,0,0,0,patrick-mullins
+nemead,Adam,Nemec,1985-09-02,SVK,39,32,A,0,0,0,0,adam-nemec
+shelkh,Khiry,Shelton,1993-06-26,USA,39,19,A,0,0,0,0,khiry-shelton
+taylto,Tony,Taylor,1989-07-13,PAN,39,99,A,0,0,0,0,tony-taylor_2
+angejo,José,Angeliño,1997-01-04,SPA,39, , ,0,0,0,0,jose-angelino
+pirlan,Andrea,Pirlo,1979-05-19,ITA,39, , ,0,0,0,0,andrea-pirlo
+lampfr,Frank,Lampard,1978-06-20,ENG,39, , ,0,0,0,0,frank-lampard
+iraoan, ,Iraola,1982-06-22,SPA,39, , ,0,0,0,0,iraola
+menaje,Jefferson,Mena,1989-06-15,COL,39, , ,0,0,0,0,jefferson-mena
+dunnma,Matthew,Dunn,1994-01-13,USA,39, , ,0,0,0,0,matthew-dunn
+fitzak,Akira,Fitzgerald,1987-07-17,USA,39, , ,0,0,0,0,akira-fitzgerald
+menda1,Andrés,Mendoza,1989-08-16,ECU,39, , ,0,0,0,0,andres-mendoza_2
+gonzje,Jesse,González,1995-05-25,USA,3,44,P,0,0,0,0,jesse-gonzalez
+kennda,Dan,Kennedy,1982-07-22,USA,3,1,P,0,0,0,0,dan-kennedy
+seitch,Chris,Seitz,1987-03-12,USA,3,18,P,0,0,0,0,chris-seitz
+earlot,Otis,Earle,1992-01-17,ENG,3,33,F,0,0,0,0,otis-earle
+hedgma,Matt,Hedges,1990-04-01,USA,3,24,F,0,0,0,0,matt-hedges
+hernmo,Moises,Hernández,1992-03-05,GUA,3,3,F,0,0,0,0,moises-hernandez
+keelst,Stephen,Keel,1983-04-11,USA,3,22,F,0,0,0,0,stephen-keel
+loydza,Zach,Loyd,1987-07-18,USA,3,17,F,0,0,0,0,zach-loyd
+watsjv,Je-Vaughn,Watson,1983-10-22,JAM,3,27,F,0,0,0,0,je-vaughn-watson
+zimmwa,Walker,Zimmerman,1993-05-19,USA,3,25,F,0,0,0,0,walker-zimmerman
+acoske,Kellyn,Acosta,1995-07-24,USA,3,23,M,0,0,0,0,kellyn-acosta
+barrmi,Michael,Barrios,1991-04-21,COL,3,21,M,0,0,0,0,michael-barrios
+bekkky,Kyle,Bekker,1990-09-02,CAN,3,4,M,0,0,0,0,kyle-bekker
+diazma,Mauro,Díaz,1991-03-10,ARG,3,10,M,0,0,0,0,mauro-diaz
+escoro,Rolando,Escobar,1981-10-24,PAN,3,20,M,0,0,0,0,rolando-escobar
+garcda,Daniel,Garcia,1993-10-14,USA,3,26,M,0,0,0,0,daniel-garcia_2
+harrat,Atiba,Harris,1985-01-09,SKN,3,14,M,0,0,0,0,atiba-harris
+hollry,Ryan,Hollingshead,1991-04-16,USA,3,12,M,0,0,0,0,ryan-hollingshead
+michmi, ,Michel,1981-06-09,BRA,3,31,M,0,0,0,0,michel_4
+ullovi,Victor,Ulloa,1992-03-04,MEX,3,8,M,0,0,0,0,victor-ulloa_2
+zendal,Alejandro,Zendejas,1998-02-07,MEX,3,29,M,0,0,0,0,alejandro-zendejas
+akinte,Tesho,Akindele,1992-03-31,CAN,3,13,A,0,0,0,0,tesho-akindele
+castfa,Fabian,Castillo,1992-06-17,COL,3,11,A,0,0,0,0,fabian-castillo_2
+crafco,Coy,Craft,1997-05-23,USA,3,16,A,0,0,0,0,coy-craft
+perebl,Blas,Pérez,1981-03-13,PAN,3,7,A,0,0,0,0,blas-perez
+texeda,David,Texeira,1991-02-27,URU,3,9,A,0,0,0,0,david-texeira
+ciriez,Ezequiel,Cirigliano,1992-01-24,ARG,3, , ,0,0,0,0,ezequiel-cirigliano
+soumba,Bakary,Soumaré,1985-11-09,MLI,3, , ,0,0,0,0,bakary-soumare
+jrxxee,Earl Edwards,Jr.,1992-01-24,USA,42,36,P,0,0,0,0,earl-edwards-jr
+hallta,Tally,Hall,1985-05-12,USA,42,22,P,0,0,0,0,tally-hall
+rickdo,Donovan,Ricketts,1977-06-07,JAM,42,1,P,0,0,0,0,donovan-ricketts
+bodelu,Luke,Boden,1988-11-26,ENG,42,14,F,0,0,0,0,luke-boden
+collau,Aurélien,Collin,1986-03-08,FRA,42,78,F,0,0,0,0,aurelien-collin
+donoco,Conor,Donovan,1996-01-08,USA,42,23,F,0,0,0,0,conor-donovan
+hinese,Seb,Hines,1988-05-29,ENG,42,3,F,0,0,0,0,seb-hines
+okugam,Amobi,Okugo,1991-03-13,USA,42,5,F,0,0,0,0,amobi-okugo
+ramora,Rafael,Ramos,1995-01-09,POR,42,27,F,0,0,0,0,rafael-ramos
+reddto,Tommy,Redding,1997-01-24,USA,42,29,F,0,0,0,0,tommy-redding
+ledgss,Sean St,Ledger,1984-12-28,IRL,42,4,F,0,0,0,0,sean-st-ledger
+turnty,Tyler,Turner,1996-04-03,USA,42,2,F,0,0,0,0,tyler-turner
+aviler,Eric,Ávila,1987-11-24,USA,42,12,M,0,0,0,0,eric-avila
+cascto,Tony,Cascio,1990-03-28,USA,42,6,M,0,0,0,0,tony-cascio
+cereda,Darwin,Cerén,1989-12-31,SAL,42,17,M,0,0,0,0,darwin-ceren
+estrva, ,Estrela,1995-09-22,ANG,42,55,M,0,0,0,0,estrela
+heatha,Harrison,Heath,1996-03-06,ENG,42,8,M,0,0,0,0,harrison-heath
+higucr,Cristian,Higuita,1994-01-12,COL,42,7,M,0,0,0,0,cristian-higuita
+kakari, ,Kaká,1982-04-22,BRA,42,10,M,0,0,0,0,kaka
+molike,Kevin,Molino,1990-06-17,TRI,42,18,M,0,0,0,0,kevin-molino
+nealle,Lewis,Neal,1981-07-14,ENG,42,24,M,0,0,0,0,lewis-neal
+ribepe,Pedro,Ribeiro,1990-06-13,BRA,42,15,M,0,0,0,0,pedro-ribeiro_5
+rivaca,Carlos,Rivas,1994-04-15,COL,42,11,M,0,0,0,0,carlos-rivas_3
+sheabr,Brek,Shea,1990-02-28,USA,42,20,M,0,0,0,0,brek-shea
+laricy,Cyle,Larin,1995-04-17,CAN,42,21,A,0,0,0,0,cyle-larin
+mwanda,Danny,Mwanga,1991-07-17,DRC,42,19,A,0,0,0,0,danny-mwanga
+patema,Martin,Paterson,1987-05-10,NIR,42,9,A,0,0,0,0,martin-paterson
+rochbr,Bryan,Róchez,1995-01-01,HON,42,35,A,0,0,0,0,bryan-rochez
+carrse,Servando,Carrasco,1988-08-13,USA,42, , ,0,0,0,0,servando-carrasco
+asheco,Corey,Ashe,1986-03-14,USA,42, , ,0,0,0,0,corey-ashe
+wintad,Adrian,Winter,1986-07-08,SUI,42, , ,0,0,0,0,adrian-winter
+mateda, ,Mateos,1987-04-22,SPA,42, , ,0,0,0,0,mateos_4
+fordjo,Josh,Ford,1987-11-06,USA,42, , ,0,0,0,0,josh-ford_2
+mitctr,Trey,Mitchell,1991-04-27,USA,42, , ,0,0,0,0,trey-mitchell
+rivesi,Sidney,Rivera,1993-11-15,USA,42, , ,0,0,0,0,sidney-rivera
+knigbr,Brad,Knighton,1985-02-06,USA,4,18,P,0,0,0,0,brad-knighton
+shutbo,Bobby,Shuttleworth,1987-05-13,USA,4,22,P,0,0,0,0,bobby-shuttleworth
+spantr,Trevor,Spangenberg,1991-04-21,USA,4,26,P,0,0,0,0,trevor-spangenberg
+alstke,Kevin,Alston,1988-05-05,USA,4,30,F,0,0,0,0,kevin-alston
+barnda,Darrius,Barnes,1986-12-24,USA,4,25,F,0,0,0,0,darrius-barnes
+farran,Andrew,Farrell,1992-04-02,USA,4,2,F,0,0,0,0,andrew-farrell
+goncjo,José,Gonçalves,1985-09-17,POR,4,23,F,0,0,0,0,jose-goncalves_2
+smitdo,Donnie,Smith,1990-12-07,USA,4,33,F,0,0,0,0,donnie-smith
+tierch,Chris,Tierney,1986-01-09,USA,4,8,F,0,0,0,0,chris-tierney
+woodlo,London,Woodberry,1991-05-28,USA,4,44,F,0,0,0,0,london-woodberry
+caldsc,Scott,Caldwell,1991-03-15,USA,4,6,M,0,0,0,0,scott-caldwell
+dorman,Andy,Dorman,1982-05-01,WAL,4,12,M,0,0,0,0,andy-dorman
+fagudi,Diego,Fagúndez,1995-02-14,URU,4,14,M,0,0,0,0,diego-fagundez
+hallje,Jeremy,Hall,1988-09-11,PUR,4,5,M,0,0,0,0,jeremy-hall
+heriza,Zachary,Herivaux,1996-02-01,HAI,4,21,M,0,0,0,0,zachary-herivaux
+joneje,Jermaine,Jones,1981-11-03,USA,4,13,M,0,0,0,0,jermaine-jones
+josesh,Shalrie,Joseph,1978-05-24,GRN,4,21,M,0,0,0,0,shalrie-joseph
+kobada,Daigo,Kobayashi,1983-02-19,JAP,4,16,M,0,0,0,0,daigo-kobayashi
+neumst,Steve,Neumann,1991-10-07,USA,4,4,M,0,0,0,0,steve-neumann
+nguyle,Lee,Nguyen,1986-10-07,USA,4,24,M,0,0,0,0,lee-nguyen
+roweke,Kelyn,Rowe,1991-12-02,USA,4,11,M,0,0,0,0,kelyn-rowe
+rudyty,Tyler,Rudy,1993-09-29,USA,4,43,M,0,0,0,0,tyler-rudy
+agudju,Juan,Agudelo,1992-11-23,USA,4,17,A,0,0,0,0,juan-agudelo
+bowetr,Tristan,Bowen,1991-01-30,USA,4,17,A,0,0,0,0,tristan-bowen
+bunbte,Teal,Bunbury,1990-02-27,USA,4,10,A,0,0,0,0,teal-bunbury
+davich,Charlie,Davies,1986-06-25,USA,4,9,A,0,0,0,0,charlie-davies
+okolse,Sean,Okoli,1993-02-03,USA,4,7,A,0,0,0,0,sean-okoli
+kempjo,Jon,Kempin,1993-04-08,USA,5,1,P,0,0,0,0,jon-kempin
+marilu,Luis,Marín,1983-05-18,CHI,5,1,P,0,0,0,0,luis-marin_2
+meliti,Tim,Melia,1986-05-15,USA,5,29,P,0,0,0,0,tim-melia
+salasa,Saad,Abdul-Salaam,1991-09-08,USA,5,17,F,0,0,0,0,saad-abdul-salaam
+anibja,Jalil,Anibaba,1988-10-19,USA,5,23,F,0,0,0,0,jalil-anibaba
+beslma,Matt,Besler,1987-02-11,USA,5,5,F,0,0,0,0,matt-besler
+jongmd,Marcel,de Jong,1986-10-15,CAN,5,71,F,0,0,0,0,marcel-de-jong
+dia_am,Amadou,Dia,1993-06-08,USA,5,13,F,0,0,0,0,amadou-dia_2
+ellike,Kevin,Ellis,1991-06-30,USA,5,4,F,0,0,0,0,kevin-ellis
+medrji,Jimmy,Medranda,1994-02-07,COL,5,94,F,0,0,0,0,jimmy-medranda
+myerch,Chance,Myers,1987-12-07,USA,5,7,F,0,0,0,0,chance-myers
+oparik,Ike,Opara,1989-02-21,USA,5,3,F,0,0,0,0,ike-opara
+browep,Erik,Palmer-Brown,1997-04-24,USA,5,2,F,0,0,0,0,erik-palmer-brown
+sinose,Seth,Sinovic,1987-01-28,USA,5,15,F,0,0,0,0,seth-sinovic
+anorbe,Bernardo,Añor,1988-05-24,VEN,5,11,M,0,0,0,0,bernardo-anor
+carrse,Servando,Carrasco,1988-08-13,USA,5,16,M,0,0,0,0,servando-carrasco
+espiro,Roger,Espinoza,1986-10-25,HON,5,27,M,0,0,0,0,roger-espinoza
+feilbe,Benny,Feilhaber,1985-01-19,USA,5,10,M,0,0,0,0,benny-feilhaber
+hallco,Connor,Hallisey,1993-02-09,USA,5,22,M,0,0,0,0,connor-hallisey
+lopem1,Mikey,Lopez,1993-02-20,USA,5,12,M,0,0,0,0,mikey-lopez
+mustso,Soni,Mustivar,1990-02-12,HAI,5,93,M,0,0,0,0,soni-mustivar
+nagapa,Paulo,Nagamura,1983-03-02,BRA,5,6,M,0,0,0,0,paulo-nagamura
+zusigr,Graham,Zusi,1986-08-18,USA,5,8,M,0,0,0,0,graham-zusi
+rogeja,James Ansu,Rogers,1993-06-27,SLE,5,18,A,0,0,0,0,james-ansu-rogers
+dwyedo,Dom,Dwyer,1990-07-30,USA,5,14,A,0,0,0,0,dom-dwyer
+nemekr,Krisztián,Németh,1989-01-05,HUN,5,9,A,0,0,0,0,krisztian-nemeth
+peteja,Jacob,Peterson,1986-01-27,USA,5,37,A,0,0,0,0,jacob-peterson
+quinjo,Jordi,Quintillà,1993-10-25,SPA,5, , ,0,0,0,0,jordi-quintilla
+okugam,Amobi,Okugo,1991-03-13,USA,5, , ,0,0,0,0,amobi-okugo
+mitctr,Trey,Mitchell,1991-04-27,USA,5, , ,0,0,0,0,trey-mitchell
+bernjo,John,Berner,1991-02-14,USA,6,12,P,0,0,0,0,john-berner
+irwicl,Clint,Irwin,1989-04-01,USA,6,1,P,0,0,0,0,clint-irwin
+macmza,Zac,MacMath,1991-08-07,USA,6,18,P,0,0,0,0,zac-macmath
+burcma,Marc,Burch,1984-05-07,USA,6,4,F,0,0,0,0,marc-burch
+burlbo,Bobby,Burling,1984-10-15,USA,6,23,F,0,0,0,0,bobby-burling
+greejo,Joe,Greenspan,1992-09-12,USA,6,20,F,0,0,0,0,joe-greenspan
+harrmi,Michael,Harrington,1986-01-24,USA,6,5,F,0,0,0,0,michael-harrington
+moordr,Drew,Moor,1984-01-15,USA,6,3,F,0,0,0,0,drew-moor
+newnbe, ,Ben Newnam,1991-04-18,USA,6,13,F,0,0,0,0,ben-newnam
+oneish,Shane,O'Neill,1993-09-02,USA,6,27,F,0,0,0,0,shane-oneill_2
+rileja,James,Riley,1982-10-27,USA,6,16,F,0,0,0,0,james-riley
+sjoeax,Axel,Sjöberg,1991-03-08,SWE,6,44,F,0,0,0,0,axel-sjoeberg
+castgv,Grant Van,de Casteele,1991-05-10,USA,6,21,F,0,0,0,0,grant-van-de-casteele
+wattja,Jared,Watts,1992-02-03,USA,6,33,F,0,0,0,0,jared-watts
+alvaca,Carlos,Alvarez,1990-11-12,USA,6,57,M,0,0,0,0,carlos-alvarez_6
+cronsa,Sam,Cronin,1986-12-12,USA,6,6,M,0,0,0,0,sam-cronin
+elouch,Charles,Eloundou,1994-12-04,CMR,6,19,M,0,0,0,0,charles-eloundou
+hairma,Marlon,Hairston,1994-03-23,USA,6,94,M,0,0,0,0,marlon-hairston
+labrni,Nick,LaBrocca,1984-12-04,USA,6,2,M,0,0,0,0,nick-labrocca
+sarvma,Marcelo,Sarvas,1981-10-16,BRA,6,11,M,0,0,0,0,marcelo-sarvas
+pittlu,Lucas,Pittinari,1991-11-30,ARG,6,22,M,0,0,0,0,lucas-pittinari
+powedi,Dillon,Powers,1991-02-14,USA,6,8,M,0,0,0,0,dillon-powers
+ramiju,Juan,Ramírez,1993-05-25,ARG,6,15,M,0,0,0,0,juan-ramirez_8
+sernd1,Dillon,Serna,1994-03-25,USA,6,17,M,0,0,0,0,dillon-serna
+badjdo,Dom,Badji,1992-10-16,SEN,6,14,A,0,0,0,0,dom-badji
+calvca,Caleb,Calvert,1996-10-22,USA,6,29,A,0,0,0,0,caleb-calvert
+doylke,Kevin,Doyle,1983-09-18,IRL,6,9,A,0,0,0,0,kevin-doyle
+sancvi,Vicente,Sánchez,1979-12-07,URU,6,7,A,0,0,0,0,vicente-sanchez
+solilu,Luis,Solignac,1991-02-16,ARG,6,21,A,0,0,0,0,luis-solignac
+torrga,Gabriel,Torres,1988-10-31,PAN,6,10,A,0,0,0,0,gabriel-torres
+ledgss,Sean St,Ledger,1984-12-28,IRL,6, , ,0,0,0,0,sean-st-ledger
+figuma,Maynor,Figueroa,1983-05-02,HON,6, , ,0,0,0,0,maynor-figueroa
+browde,Deshorn,Brown,1990-12-22,JAM,6, , ,0,0,0,0,deshorn-brown
+bingda,David,Bingham,1989-10-19,USA,7,1,P,0,0,0,0,david-bingham_2
+gometo,Tomás,Gómez,1993-05-20,USA,7,18,P,0,0,0,0,tomas-gomez
+merebr,Bryan,Meredith,1989-08-02,USA,7,35,P,0,0,0,0,bryan-meredith
+bernvi,Víctor,Bernárdez,1982-05-24,HON,7,5,F,0,0,0,0,victor-bernardez
+fransh,Shaun,Francis,1986-10-02,JAM,7,20,F,0,0,0,0,shaun-francis
+goodcl,Clarence,Goodson,1982-05-17,USA,7,21,F,0,0,0,0,clarence-goodson
+hardty,Ty,Harden,1984-03-06,USA,7,2,F,0,0,0,0,ty-harden
+renapa,Paulo,Renato,1987-05-14,POR,7,38,F,0,0,0,0,paulo-renato
+pintpa,Pablo,Pintos,1987-07-01,URU,7,16,F,0,0,0,0,pablo-pintos
+stewjo,Jordan,Stewart,1982-03-03,ENG,7,3,F,0,0,0,0,jordan-stewart
+wynnma,Marvell,Wynne,1986-05-08,USA,7,4,F,0,0,0,0,marvell-wynne
+alasfa,Fatai,Alashe,1993-10-21,USA,7,27,M,0,0,0,0,fatai-alashe
+barkbr,Brandon,Barklage,1986-11-02,USA,7,26,M,0,0,0,0,brandon-barklage
+catoco,Cordell,Cato,1992-07-15,TRI,7,7,M,0,0,0,0,cordell-cato
+kovajj,J.J.,Koval,1992-05-19,USA,7,15,M,0,0,0,0,j-j-koval
+nyass1,Sanna,Nyassi,1989-01-31,GAM,7,17,M,0,0,0,0,sanna-nyassi
+garcmp,Matías Pérez,García,1984-10-13,ARG,7,10,M,0,0,0,0,matias-perez-garcia
+pierjb,Jean-Baptiste,Pierazzi,1985-06-17,FRA,7,80,M,0,0,0,0,jean-baptiste-pierazzi
+salish,Shea,Salinas,1986-06-24,USA,7,6,M,0,0,0,0,shea-salinas
+stepkh,Khari,Stephenson,1981-01-18,JAM,7,9,M,0,0,0,0,khari-stephenson
+thomto,Tommy,Thompson,1995-08-15,USA,7,22,M,0,0,0,0,tommy-thompson_2
+amarqu,Quincy,Amarikwa,1987-10-29,USA,7,25,A,0,0,0,0,quincy-amarikwa
+barrle,Leandro,Barrera,1991-02-28,ARG,7,23,A,0,0,0,0,leandro-barrera
+emegin,Innocent,Emeghara,1989-05-27,SUI,7,11,A,0,0,0,0,innocent-emeghara
+fucimi,Michael,Fucito,1986-03-29,USA,7,19,A,0,0,0,0,michael-fucito
+jahnad,Adam,Jahn,1991-01-05,USA,7,14,A,0,0,0,0,adam-jahn
+lenhst,Steven,Lenhart,1986-08-28,USA,7,24,A,0,0,0,0,steven-lenhart
+sherma,Mark,Sherrod,1990-08-13,USA,7,12,A,0,0,0,0,mark-sherrod
+wondch,Chris,Wondolowski,1983-01-28,USA,7,8,A,0,0,0,0,chris-wondolowski
+peloma,Marc,Pelosi,1994-06-17,USA,7, , ,0,0,0,0,marc-pelosi
+godoan,Aníbal,Godoy,1990-02-10,PAN,7, , ,0,0,0,0,anibal-godoy
+silvma,Matheus,Silva,1996-12-08,BRA,7, , ,0,0,0,0,matheus-silva
+clarst,Steve,Clark,1986-04-14,USA,8,1,P,0,0,0,0,steve-clark
+lampma,Matt,Lampson,1989-09-06,USA,8,28,P,0,0,0,0,matt-lampson
+stuvbr,Brad,Stuver,1991-04-16,USA,8,41,P,0,0,0,0,brad-stuver
+barsch,Chad,Barson,1991-02-25,USA,8,21,F,0,0,0,0,chad-barson
+campse,Sergio,Campbell,1992-01-12,JAM,8,24,F,0,0,0,0,sergio-campbell
+franwa,Waylon,Francis,1990-09-20,CRC,8,14,F,0,0,0,0,waylon-francis
+klutch,Chris,Klute,1990-03-05,USA,8,3,F,0,0,0,0,chris-klute
+parkmi,Michael,Parkhurst,1984-01-24,USA,8,4,F,0,0,0,0,michael-parkhurst
+pogaem,Emanuel,Pogatetz,1983-01-16,AUT,8,5,F,0,0,0,0,emanuel-pogatetz
+wahlty,Tyson,Wahl,1984-02-23,USA,8,2,F,0,0,0,0,tyson-wahl
+finlet,Ethan,Finlay,1990-08-06,USA,8,13,M,0,0,0,0,ethan-finlay
+gallro,Romain,Gall,1995-01-31,USA,8,19,M,0,0,0,0,romain-gall
+georke,Kevan,George,1990-01-30,TRI,8,12,M,0,0,0,0,kevan-george
+higufe,Federico,Higuaín,1984-10-25,ARG,8,10,M,0,0,0,0,federico-higuain
+jimehe,Héctor,Jiménez,1988-11-03,USA,8,16,M,0,0,0,0,hector-jimenez
+meraju,Justin,Meram,1988-12-04,IRQ,8,9,M,0,0,0,0,justin-meram
+saeimo,Mohammed,Saeid,1990-12-24,SWE,8,8,M,0,0,0,0,mohammed-saeid
+speabe, ,Ben Speas,1991-01-17,USA,8,17,M,0,0,0,0,ben-speas
+steikr,Kristinn,Steindórsson,1990-04-29,ISL,8,7,M,0,0,0,0,kristinn-steindorsson
+swanbe, ,Ben Swanson,1997-07-18,USA,8,26,M,0,0,0,0,ben-swanson
+tchato,Tony,Tchani,1989-04-13,CMR,8,6,M,0,0,0,0,tony-tchani
+trapwi,Wil,Trapp,1993-01-15,USA,8,20,M,0,0,0,0,wil-trapp
+bedead,Adam,Bedell,1991-12-01,USA,8,29,A,0,0,0,0,adam-bedell
+kamake,Kei,Kamara,1984-09-01,SLE,8,23,A,0,0,0,0,kei-kamara
+schoaa,Aaron,Schoenfeld,1990-04-17,USA,8,18,A,0,0,0,0,aaron-schoenfeld
+mabwce,Cedrick,Mabwati,1992-03-08,DRC,8, , ,0,0,0,0,cedrick-mabwati
+granhe,Hernán,Grana,1985-04-12,ARG,8, , ,0,0,0,0,hernan-grana
+affuha,Harrison,Afful,1986-07-24,GHA,8, , ,0,0,0,0,harrison-afful
+mcinja,Jack,McInerney,1992-08-05,USA,8, , ,0,0,0,0,jack-mcinerney
+saurga,Gastón,Sauro,1990-02-23,ARG,8, , ,0,0,0,0,gaston-sauro

@@ -1,8 +1,9 @@
-594
+613
 abbaeu,Abbattista,Eugenio, ,1982-12-28,ITA,Bari,ITA,eugenio-abbattista
 abisro,Abisso,Rosario, ,1985-11-22,ITA,Palermo,ITA,rosario-abisso
 acergi,Acernese,Giuliano, ,1928-03-18,ITA,Massa,MS,giuliano-acernese
 adamgi,Adami,Giuseppe, ,1915-07-14,ITA,Roma,ITA,giuseppe-adami
+affasa,Affatato,Salvatore,Salvatore Affatato, ,ITA, ,ITA,salvatore-affatato
 agnogu,Agnolin,Guido, ,1912-09-18,ITA,Bassano del Grappa,VI,guido-agnolin
 agnolu,Agnolin,Luigi Paolo, ,1943-03-21,ITA,Bassano del Grappa,VI,luigi-paolo-agnolin
 alasst,Alassio,Stefano,Stefano Alassio, ,ITA, ,ITA,stefano-alassio
@@ -41,6 +42,7 @@ bellfe,BellÈ,Ferruccio, ,1909-11-29,ITA,Villorba,TV,ferruccio-bellÈ
 bellst,Bellutti,Stefano,Stefano Bellutti,25/10/1982,ITA, ,ITA,stefano-bellutti
 benevi,Benedetti,Vittorio, ,1940-09-30,ITA,Bastia Umbra,PG,vittorio-benedetti
 beragi,Beraldi,Giovanni, ,1897-05-29,ITA,Oneglia,IM,giovanni-beraldi
+bercfi,Bercigli,Filippo,Filippo Bercigli, ,ITA, ,ITA,filippo-bercigli
 berena,Beretta,Natale, ,1894-12-26,ITA,Novi Ligure,AL,natale-beretta
 bergbr,Bergomi,Bruno, ,0000-00-00,ITA, ,ITA,bruno-bergomi
 bergma,Bergonzi,Mauro, ,1971-12-30,ITA,Genova,ITA,mauro-bergonzi
@@ -102,6 +104,7 @@ canefr,Canepa,Francesco, ,0000-00-00,ITA, ,ITA,francesco-canepa
 canoal,Canova,Alessandro, ,0000-00-00,ITA, ,ITA,alessandro-canova
 cantca,Cantelli,Carlo, ,1934-08-30,ITA,Firenze,Firenze,carlo-cantelli
 capapa,Capaldo,Pasquale,Pasquale Capaldo, ,ITA, ,ITA,pasquale-capaldo
+capoan,Capone,Andrea,Andrea Capone, ,ITA, ,ITA,andrea-capone_2
 cappce,Cappucci,Cesare, ,0000-00-00,ITA, ,ITA,cesare-cappucci
 capupa,Caputo,Pasquale, ,1921-11-04,ITA,Afragola,NA,pasquale-caputo
 carban,Carbonelli,Antonio, ,1920-01-21,ITA,Caiazzo,CE,antonio-carbonelli
@@ -165,8 +168,8 @@ crucmi,Cruciani,Michele, ,1970-03-09,ITA,Cesena,FC,michele-cruciani
 currre,Curradi,Renzo, ,1906-10-06,ITA,Firenze,ITA,renzo-curradi
 d'agal,D'agostini,Alessandro, ,1922-03-14,ITA,Roma,ITA,alessandro-d'agostini
 dagngi,Dagnello,Gilberto, ,1960-07-13,ITA,Trieste,ITA,gilberto-dagnello
-dalema,D'alessandro,Mario, ,0000-00-00,ITA, ,ITA,mario-d'alessandro
 dalFgi,Dal Forno,Gian Carlo, ,1949-11-28,ITA,Marano Lagunare,UD,gian-carlo-dal-forno
+dalema,D'alessandro,Mario, ,0000-00-00,ITA, ,ITA,mario-d'alessandro
 dallen,Dall'era,Enrico, ,1897-03-19,ITA,Brescia,ITA,enrico-dall'era
 damaan,Damato,Antonio, ,1972-08-15,ITA,Barletta,BT,antonio-damato
 damjec,Damiani,Ezio, ,1910-04-17, ,Pola,ITA,ezio-damiani
@@ -177,8 +180,6 @@ deAnpa,De Angelis,Paolo, ,1955-06-25,ITA,Civitavecchia,RM,paolo-de-angelis
 deCrxx,De Crescenzo,?, ,0000-00-00,ITA, ,ITA,?-de-crescenzo
 deGrar,De Gregorio,Aroldo, ,0000-00-00,ITA, ,ITA,aroldo-de-gregorio
 deLedi,De Leo,Diego, ,1920-12-05,ITA,Zenson di Piave,TV,diego-de-leo
-delipi,D'elia,Pietro, ,1946-04-29,ITA,Salerno,ITA,pietro-d'elia
-dellor,Dellarole,Oreste, ,1900-12-16,ITA,San Germano Vercellese,VC,oreste-dellarole
 deMaan,De Marco,Andrea, ,1973-05-21,ITA,Chiavari,GE,andrea-de-marco
 deMabr,De Marchi,Bruno, ,1925-12-08,ITA,Pordenone,ITA,bruno-de-marchi
 deMapi,De Magistris,Pietro, ,1921-04-25,ITA,Torino,ITA,pietro-de-magistris
@@ -186,13 +187,16 @@ dePrlu,De Prisco,Luigi, ,1959-09-16,ITA,Pagani,SA,luigi-de-prisco
 deRofr,De Robbio,Francesco, ,1926-11-11,ITA,Torre Annunziata,NA,francesco-de-robbio
 deSabe,De Sanctis,Beniamino, ,1901-03-16,ITA,Corropoli,TE,beniamino-de-sanctis
 deSama,De Santis,Massimo, ,1962-04-08,ITA,Tivoli,RM,massimo-de-santis
+delipi,D'elia,Pietro, ,1946-04-29,ITA,Salerno,ITA,pietro-d'elia
+dellor,Dellarole,Oreste, ,1900-12-16,ITA,San Germano Vercellese,VC,oreste-dellarole
 devija,Devillers,Jacques, ,1911-08-23, ,Cambrai,Francia,jacques-devillers
 diBema,Di Bello,Marco, ,1981-07-12,ITA,Brindisi,ITA,marco-di-bello
 diCobr,Di Cola,Bruno, ,1950-07-14,ITA,Avezzano,AQ,bruno-di-cola
 diMaan,Di Martino,Antonio, ,1987-12-22,ITA,Giulianova,TE,antonio-di-martino
-dineca,Dinelli,Carlo, ,1956-07-19,ITA,Capannori,LU,carlo-dinelli
 diPaal,Di Paolo,Aleandro, ,1977-10-21,ITA,Avezzano,AQ,aleandro-di-paolo
 diToan,Di Tonno,Antonio, ,1927-10-01,ITA,Foggia,ITA,antonio-di-tonno
+dineca,Dinelli,Carlo, ,1956-07-19,ITA,Capannori,LU,carlo-dinelli
+dionfe,Dionisi,Federico,Federico Dionisi, ,ITA, ,ITA,federico-dionisi_2
 dobogi,Dobosz,Giulio,Giulio Dobosz, ,ITA, ,ITA,giulio-dobosz
 donaal,Donati,Aldo, ,1906-12-02,ITA,Rimini,ITA,aldo-donati
 dondpa,Dondarini,Paolo, ,1968-10-01,ITA,Bologna,ITA,paolo-dondarini
@@ -254,6 +258,7 @@ giana1,Giannoccaro,Antonio Danilo, ,1971-08-18,ITA,Lecce,ITA,antonio-danilo-gian
 giana2,Giancola,Angelo Martino, ,1977-03-25,ITA,Vasto,CH,angelo-martino-giancola
 gianan,Gianelli,Angelo, ,1903-01-11,ITA,Genova,ITA,angelo-gianelli
 gianre,Gianni,Renato, ,1898-08-05,ITA,Pisa,ITA,renato-gianni
+gioivd,Di Gioia,Vittorio,Vittorio Di Gioia, ,ITA, ,ITA,vittorio-di-gioia
 giorpi,Giorgi,Piero, ,0000-00-00,ITA, ,ITA,piero-giorgi
 giovsd,Del Giovane,Stefano,Stefano Del Giovane, ,ITA, ,ITA,stefano-del-giovane
 giraos,Girardi,Oscar, ,1970-05-16,ITA,Basilea,Svizzera,oscar-girardi
@@ -289,11 +294,11 @@ irrama,Irrati,Massimiliano, ,1979-06-27,ITA,Firenze,ITA,massimiliano-irrati
 jiragu,Jiranek,Gustav, ,0000-00-00,AUT, ,ITA,gustav-jiranek
 jonnce,Jonni,Cesare, ,1917-01-21,ITA,Macerata,ITA,cesare-jonni
 kainka,Kainer,Karl, ,1915-04-09,AUT,Wolfsberg,Austria,karl-kainer
+laPefe,La Penna,Federico, ,1983-08-07,ITA,Roma,ITA,federico-la-penna
 lamopi,Lamorgese,Pierluigi, ,1948-07-21,ITA,Potenza,ITA,pierluigi-lamorgese
 lanagi,Lana,Giancarlo, ,1962-11-16,ITA,Torino,ITA,giancarlo-lana
 lanetu,Lanese,Tullio, ,1947-01-10,ITA,Messina,ITA,tullio-lanese
 lanolu,Lanotte,Luigi,Luigi Lanotte, ,ITA, ,ITA,luigi-lanotte
-laPefe,La Penna,Federico, ,1983-08-07,ITA,Roma,ITA,federico-la-penna
 lapigi,Lapi,Giancarlo, ,1937-03-16,ITA,Firenze,ITA,giancarlo-lapi
 lattri,Lattanzi,Riccardo, ,1934-04-10,ITA,Ancona,ITA,riccardo-lattanzi
 lattvi,Lattanzi,Vittorio Emanuele, ,1937-05-12,ITA,Roma,ITA,vittorio-emanuele-lattanzi
@@ -314,6 +319,7 @@ livefr,Liverani,Francesco, ,1912-12-05,ITA,Torino,ITA,francesco-liverani
 loBeco,Lo Bello,Concetto, ,1924-05-13,ITA,Siracusa,ITA,concetto-lo-bello
 loBero,Lo Bello,Rosario, ,1945-11-04,ITA,Siracusa,ITA,rosario-lo-bello
 locaag,Lo Cascio,Agostino, ,1913-06-18,ITA,Palermo,ITA,agostino-lo-cascio
+lombfa,Lombardo,Fabrizio,Fabrizio Lombardo, ,ITA, ,ITA,fabrizio-lombardo
 lombmi,Lombardi,Michele,Michele Lombardi, ,ITA, ,ITA,michele-lombardi_2
 lombsa,Lombardo,Salvatore, ,1948-01-12,ITA,Trapani,ITA,salvatore-lombardo
 longca,Longhi,Carlo, ,1944-03-10,ITA,Roma,ITA,carlo-longhi
@@ -324,6 +330,8 @@ lopsgi,Lops,Giorgio, ,1974-06-18,ITA,Torino,ITA,giorgio-lops
 lucigi,Luciano,Giovanni,Giovanni Luciano,30/09/1985,ITA, ,ITA,giovanni-luciano
 lucilu,Luci,Luciano, ,1949-08-02,ITA,Campiglia Marittima,LI,luciano-luci
 lupiri,Lupini,Rino, ,1902-01-12,ITA,Bergamo,ITA,rino-lupini
+macagi,Macaddino,Giuseppe,Giuseppe Macaddino, ,ITA, ,ITA,giuseppe-macaddino
+magglo,Maggioni,Lorenzo,Lorenzo Maggioni, ,ITA, ,ITA,lorenzo-maggioni
 maglca,Maglio,Carlo, ,0000-00-00,ITA, ,ITA,carlo-maglio
 magnpi,Magni,Pier Luigi, ,1947-06-21,ITA,Bergamo,ITA,pier-luigi-magni
 malawa,Malagodi,Walter, ,0000-00-00,ITA, ,ITA,walter-malagodi
@@ -334,10 +342,12 @@ manglo,Manganelli,Lorenzo,Lorenzo Manganelli,22/12/1974,ITA, ,ITA,lorenzo-mangan
 maraca,Marangio,Carlo, ,1919-09-10,ITA,Lecce,ITA,carlo-marangio
 marcan,Marchiori,Antonio, ,0000-00-00,ITA, ,ITA,antonio-marchiori
 marcar,Marchetti,Armando, ,1909-10-02,ITA,Roma,ITA,armando-marchetti
+marcda,Marchi,Daniele,Daniele Marchi, ,ITA, ,ITA,daniele-marchi
 marcge,Marchese,Gennaro, ,1918-11-10,ITA,Napoli,ITA,gennaro-marchese
 marean,Marengo,Antonio, ,0000-00-00,ITA, ,ITA,antonio-marengo
 marefa,Maresca,Fabio, ,1981-04-12,ITA,Napoli,ITA,fabio-maresca
 marelu,Marelli,Luca, ,1972-02-17,ITA,Como,ITA,luca-marelli
+margda,Margani,Damiano,Damiano Margani, ,ITA, ,ITA,damiano-margani
 marili,Marinelli,Livio,Livio Marinelli,06/11/1984,ITA, ,ITA,livio-marinelli
 marima,Mariani,Maurizio, ,1982-02-25,ITA,Roma,ITA,maurizio-mariani
 mariva,Marini,Valerio, ,1982-09-13,ITA,Roma,ITA,valerio-marini
@@ -350,6 +360,7 @@ martda,Martinelli,Daniele, ,1983-11-04,ITA,Roma,ITA,daniele-martinelli
 mascga,Mascali,Gaetano, ,1938-05-08,ITA,Linguaglossa,CT,gaetano-mascali
 mascru,Mascia,Ruggero, ,1937-01-17,ITA,Milano,ITA,ruggero-mascia
 massda,Massa,Davide, ,1981-07-15,ITA,Imperia,ITA,davide-massa
+masslu,Massimi,Luca,Luca Massimi, ,ITA, ,ITA,luca-massimi
 masspi,Massironi,Pietro, ,0000-00-00,ITA, ,ITA,pietro-massironi
 massre,Massai,Renzo, ,1910-08-11,ITA,Pisa,ITA,renzo-massai
 mastra,Mastellari,Raffaele, ,1904-04-18,ITA,Ferrara,ITA,raffaele-mastellari
@@ -377,6 +388,7 @@ messdo,Messina,Domenico, ,1962-08-12,ITA,Cava de' Tirreni,SA,domenico-messina
 michal,Michelotti,Alberto, ,1930-07-15,ITA,Parma,ITA,alberto-michelotti
 milapa,Milan,Paolo, ,1941-02-20,ITA,Padova,ITA,paolo-milan
 mineda,Minelli,Daniele, ,1982-07-09,ITA,Varese,ITA,daniele-minelli
+mokhga,Mokhtar,Gamal,Gamal Mokhtar, ,ITA, ,ITA,gamal-mokhtar
 mondlu,Mondin,Luca,Luca Mondin, ,ITA, ,ITA,luca-mondin
 montfa,Monti,Fabio, ,1928-07-14,ITA,Senigallia,AN,fabio-monti
 moreg1,Moretto,Giuseppe, ,1936-11-30,ITA,San Donà di Piave,VE,giuseppe-moretto
@@ -402,6 +414,7 @@ pacica,Pacifici,Carlo, ,1958-05-22,ITA,Roma,ITA,carlo-pacifici
 pagagi,Paganessi,Giacomo,Giacomo Paganessi, ,ITA, ,ITA,giacomo-paganessi
 paglni,Pagliardini,Niccolo,Niccolo Pagliardini, ,ITA, ,ITA,niccolo-pagliardini
 pagnan,Pagnin,Antonio, ,1897-07-20,ITA,Vazzola,TV,antonio-pagnin
+pagnor,Pagnotta,Orlando,Orlando Pagnotta, ,ITA, ,ITA,orlando-pagnotta
 pairlu,Pairetto,Luca, ,1984-04-14,ITA,Torino,ITA,luca-pairetto
 pairpi,Pairetto,Pierluigi, ,1952-07-15,ITA,Torino,ITA,pierluigi-pairetto
 palage,Palazzino,Gennaro, ,1975-06-18,ITA,Palestrina,RM,gennaro-palazzino
@@ -463,6 +476,7 @@ racasa,Racalbuto,Salvatore, ,1961-09-28,ITA,Palma di Montechiaro,AG,salvatore-ra
 rancma,Rancher,Marcello, ,1926-12-23,ITA,Roma,ITA,marcello-rancher
 rangse,Ranghetti,Sergio,Sergio Ranghetti, ,ITA, ,ITA,sergio-ranghetti
 rapuan,Rapuano,Antonio, ,1985-04-10,ITA,Rimini,ITA,antonio-rapuano
+rasped,Raspollini,Edoardo,Edoardo Raspollini, ,ITA, ,ITA,edoardo-raspollini
 rebugi,Rebuffo,Giovanni, ,1917-07-11,ITA,Savona,ITA,giovanni-rebuffo
 redigi,Redini,Giancarlo, ,1941-10-26,ITA,Pisa,ITA,giancarlo-redini
 reggfe,Reggiani,Ferdinando, ,1939-08-11,ITA,Castel San Pietro Terme,BO,ferdinando-reggiani
@@ -470,6 +484,7 @@ rigaig,Rigato,Gino, ,1920-08-08,ITA,Trieste,ITA,gino-rigato
 righlo,Righetti,Renzo, ,1930-08-17,ITA,Moncalieri,TO,renzo-righetti
 righra,Righi,Raul, ,1921-11-11,ITA,Modena,ITA,raul-righi
 rizzni,Rizzoli,Nicola, ,1971-10-05,ITA,Mirandola,MO,nicola-rizzoli
+robima,Robilotta,Manuel,Manuel Robilotta, ,ITA, ,ITA,manuel-robilotta
 rocadi,Roca,Diego, ,1980-12-20,ITA,Foggia,ITA,diego-roca
 rocccl,La Rocca,Claudio,Claudio La Rocca, ,ITA, ,ITA,claudio-la-rocca
 roccdo,Rocca,Domenico,Domenico Rocca,25/02/1984,ITA,Vibo Valentia,ITA,domenico-rocca
@@ -482,6 +497,7 @@ rosigi,Rosica,Giuseppe, ,1956-10-31,ITA,Roma,ITA,giuseppe-rosica
 rossch,Rossi,Christian,Christian Rossi, ,ITA, ,ITA,christian-rossi
 rossgi,Rosso,Giovanni, ,1900-05-22,ITA,Pertengo,VC,giovanni-rosso
 rosslu,Rossi,Luigi,Luigi Rossi,27/07/1982,ITA,Badia Polesine,ITA,luigi-rossi
+rossma,Rossi,Marcello,Marcello  Rossi, ,ITA, ,ITA,marcello-rossi
 rosspi,Rossi,Pier Paolo, ,1962-06-08,ITA,Roma,ITA,pier-paolo-rossi
 rosxri,Ros,Riccardo, ,1985-09-14,ITA,San Vito al Tagliamento,PN,riccardo-ros
 rovefe,Rovero,Felice, ,1897-09-13,ITA,Alessandria,ITA,felice-rovero
@@ -510,6 +526,7 @@ scatma,Scatragli,Marco,Marco Scatragli, ,ITA, ,ITA,marco-scatragli
 schefr,Schena,Francesco Paolo, ,1936-09-18,ITA,Aprilia,LT,francesco-paolo-schena
 schegi,Schenone,Giorgio,Giorgio Schenone, ,ITA, ,ITA,giorgio-schenone
 schiel,Schinetti,Elio, ,1929-09-20,ITA,Brescia,ITA,elio-schinetti
+schifa,Schirru,Fabio,Fabio Schirru, ,ITA, ,ITA,fabio-schirru
 scodva,Scoditti,Valerio, ,1973-09-01,ITA,Mesagne,BR,valerio-scoditti
 scorra,Scorzoni,Raffaele, ,1902-04-28,ITA,Bologna,ITA,raffaele-scorzoni
 scotgi,Scotti,Giuseppe, ,1900-04-15,ITA,Taranto,ITA,giuseppe-scotti
@@ -518,6 +535,7 @@ sebagi,Sebastio,Giovanni, ,1923-05-27,ITA,Taranto,ITA,giovanni-sebastio
 seipfr,Seipelt,Friedrich, ,1915-04-02,AUT,Vienna,Austria,friedrich-seipelt
 serado,Serafino,Domenico, ,1936-10-22,ITA,Locri,RC,domenico-serafino
 sereta,Serena,Tarcisio, ,1962-04-30,ITA,Fontaniva,PD,tarcisio-serena
+serrm1,Serra,Marco,Marco Serra,09/09/1982,ITA,Torino,ITA,marco-serra_2
 serrma,Serra,Marco, ,1982-09-09,ITA,Torino,ITA,marco-serra
 sguica,Sguizzato,Carlo, ,1948-01-15,ITA,San Bonifacio,VR,carlo-sguizzato
 silver,Silvano,Ermanno, ,1906-10-24,ITA,Garessio,CN,ermanno-silvano
@@ -532,8 +550,8 @@ stamde,Stampacchia,Demetrio, ,0000-00-00,ITA, ,ITA,demetrio-stampacchia
 staneu,Stanzione,Eugenio, ,1921-09-18,ITA,Salerno,ITA,eugenio-stanzione
 stefni,Stefanini,Nicola, ,1975-01-22,ITA,Firenze,ITA,nicola-stefanini
 steica,Steiner,Carl Erich, ,1920-05-09,AUT,Vienna,Austria,carl-erich-steiner
-stolal,Stoll,Alfred, ,1932-09-22,AUT,Becs,Ungheria,alfred-stoll
 stol?_,Stolz,?, ,0000-00-00,AUT, ,ITA,?-stolz
+stolal,Stoll,Alfred, ,1932-09-22,AUT,Becs,Ungheria,alfred-stoll
 stradi,Strathatos,Dimosthemis, ,0000-00-00, , ,ITA,dimosthemis-strathatos
 strafr,Strazzera,Francesco, ,1963-03-27,ITA,Trapani,ITA,francesco-strazzera
 stul?_,Stulle,?, ,0000-00-00,AUT, ,ITA,?-stulle
@@ -581,6 +599,7 @@ villta,Villa,Tarcisio,Tarcisio Villa, ,ITA, ,ITA,tarcisio-villa
 vitare,Vitali,Renzo, ,1942-05-07,ITA,Bologna,ITA,renzo-vitali
 vituan,Vitullo,Antonio, ,1931-03-31,ITA,Campobasso,ITA,antonio-vitullo
 vivema,Vivenzi,Mauro,Mauro Vivenzi, ,ITA, ,ITA,mauro-vivenzi
+volpma,Volpi,Manuel,Manuel Volpi, ,ITA, ,ITA,manuel-volpi
 vuolrd,Di Vuolo,Rodolfo,Rodolfo Di Vuolo, ,ITA, ,ITA,rodolfo-di-vuolo
 vuotgi,Vuoto,Gianluca,Gianluca Vuoto, ,ITA, ,ITA,gianluca-vuoto
 zaffpr,Zaffiri,Primo, ,0000-00-00,ITA, ,ITA,primo-zaffiri

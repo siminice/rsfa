@@ -17,35 +17,7 @@ lazcja, ,Lazcano,1909-12-30,SPA,0, ,A,0,0,0,0,lazcano
 olaslu,Luis,Olaso,1900-08-15,SPA,0, ,A,0,0,0,0,luis-olaso
 mendra, ,Mendizabal,1914-11-05,SPA,0, ,A,0,0,0,0,mendizabal
 olivma, ,Olivares,1909-04-02,SPA,0, ,A,0,0,0,0,olivares
-vilajs,Josep Josep Samitier,Vilalta,1902-02-02,SPA,0, ,A,0,0,0,0,josep-samitier-vilalta
-noguju, ,Nogués,1909-03-28,SPA,1, ,P,0,0,0,0,nogues
-vidam1, ,Vidal,1906-08-24,SPA,1, ,P,0,0,0,0,vidal_4
-vidama, ,Vidal,1901-10-15,SPA,1, ,P,0,0,0,0,vidal_2
-alcofr, ,Alcoriza,1903-06-15,SPA,1, ,F,0,0,0,0,alcoriza
-periar,Arnau,Pericas,1907-11-10,SPA,1, ,F,0,0,0,0,arnau-pericas
-guzmra, ,Guzman,1901-09-22,SPA,1, ,F,0,0,0,0,guzman_2
-masxra,Rafa,Mas,1908-05-09,SPA,1, ,F,0,0,0,0,rafa-mas
-salojo, ,Saló,0000-00-00,SPA,1, ,F,0,0,0,0,salo
-vilavi, ,Vila,0000-00-00,SPA,1, ,F,0,0,0,0,vila
-waltem,Emil,Walter,1900-04-07,GER,1, ,F,0,0,0,0,emil-walter
-zabara, ,Zabalo,1910-06-10,SPA,1, ,F,0,0,0,0,zabalo
-artira, ,Artigas,1902-05-31,SPA,1, ,M,0,0,0,0,artigas
-bestca, ,Bestit,1908-03-07,SPA,1, ,M,0,0,0,0,bestit
-costco, ,Costa,0000-00-00,SPA,1, ,M,0,0,0,0,costa_2
-fontju, ,Font,1907-11-22,SPA,1, ,M,0,0,0,0,font
-goibse, ,Goiburu,1906-11-08,SPA,1, ,M,0,0,0,0,goiburu
-helgpe, ,Helguera,1909-04-23,SPA,1, ,M,0,0,0,0,helguera
-bolema,Marti,Bolella,1903-05-22,SPA,1, ,M,0,0,0,0,marti-bolella
-pedres, ,Pedrol,1909-10-21,SPA,1, ,M,0,0,0,0,pedrol
-sastjo, ,Sastre,1906-06-25,SPA,1, ,M,0,0,0,0,sastre_2
-arocng, ,Arocha,1907-06-23,SPA,1, ,A,0,0,0,0,arocha
-cifues, ,Cifuentes,0000-00-00,SPA,1, ,A,0,0,0,0,cifuentes_2
-escrsa, ,Escrich,1907-10-28,SPA,1, ,A,0,0,0,0,escrich
-gualmi, ,Gual,1911-05-11,SPA,1, ,A,0,0,0,0,gual
-jordjo, ,Jordà,0000-00-00,SPA,1, ,A,0,0,0,0,jorda
-parema, ,Parera,1907-10-07,SPA,1, ,A,0,0,0,0,parera
-piervi, ,Piera,1903-06-11,SPA,1, ,A,0,0,0,0,piera
-perara,Ramon,Pera,1909-02-22,SPA,1, ,A,0,0,0,0,ramon-pera
+vilajs,Josep Josep Samitier,Vilalta,1902-02-02,SPA,0, ,A,0,0,0,0,samitier
 ayesan, ,Ayestaran,1911-10-13,SPA,10, ,P,0,0,0,0,ayestaran_2
 beriti, ,Beristáin,1904-12-06,SPA,10, ,P,0,0,0,0,beristain
 aranne, ,Arana,1908-12-19,SPA,10, ,F,0,0,0,0,arana
@@ -85,6 +57,34 @@ zulaan, ,Zulaica,0000-00-00,SPA,19, ,M,0,0,0,0,zulaica
 bareba, ,Barenedo,0000-00-00,SPA,19, ,A,0,0,0,0,barenedo
 irurpe, ,Irureta,1912-06-18,SPA,19, ,A,0,0,0,0,irureta
 urrecn, ,Urretavizcaya,1909-01-14,SPA,19, ,A,0,0,0,0,urretavizcaya
+noguju, ,Nogués,1909-03-28,SPA,1, ,P,0,0,0,0,nogues
+vidam1, ,Vidal,1906-08-24,SPA,1, ,P,0,0,0,0,vidal_4
+vidama, ,Vidal,1901-10-15,SPA,1, ,P,0,0,0,0,vidal_2
+alcofr, ,Alcoriza,1903-06-15,SPA,1, ,F,0,0,0,0,alcoriza
+periar,Arnau,Pericas,1907-11-10,SPA,1, ,F,0,0,0,0,arnau-pericas
+guzmra, ,Guzman,1901-09-22,SPA,1, ,F,0,0,0,0,guzman_2
+masxra,Rafa,Mas,1908-05-09,SPA,1, ,F,0,0,0,0,rafa-mas
+salojo, ,Saló,0000-00-00,SPA,1, ,F,0,0,0,0,salo
+vilavi, ,Vila,0000-00-00,SPA,1, ,F,0,0,0,0,vila
+waltem,Emil,Walter,1900-04-07,GER,1, ,F,0,0,0,0,emil-walter
+zabara, ,Zabalo,1910-06-10,SPA,1, ,F,0,0,0,0,zabalo
+artira, ,Artigas,1902-05-31,SPA,1, ,M,0,0,0,0,artigas
+bestca, ,Bestit,1908-03-07,SPA,1, ,M,0,0,0,0,bestit
+costco, ,Costa,0000-00-00,SPA,1, ,M,0,0,0,0,costa_2
+fontju, ,Font,1907-11-22,SPA,1, ,M,0,0,0,0,font
+goibse, ,Goiburu,1906-11-08,SPA,1, ,M,0,0,0,0,goiburu
+helgpe, ,Helguera,1909-04-23,SPA,1, ,M,0,0,0,0,helguera
+bolema,Marti,Bolella,1903-05-22,SPA,1, ,M,0,0,0,0,marti-bolella
+pedres, ,Pedrol,1909-10-21,SPA,1, ,M,0,0,0,0,pedrol
+sastjo, ,Sastre,1906-06-25,SPA,1, ,M,0,0,0,0,sastre_2
+arocng, ,Arocha,1907-06-23,SPA,1, ,A,0,0,0,0,arocha
+cifues, ,Cifuentes,0000-00-00,SPA,1, ,A,0,0,0,0,cifuentes_2
+escrsa, ,Escrich,1907-10-28,SPA,1, ,A,0,0,0,0,escrich
+gualmi, ,Gual,1911-05-11,SPA,1, ,A,0,0,0,0,gual
+jordjo, ,Jordà,0000-00-00,SPA,1, ,A,0,0,0,0,jorda
+parema, ,Parera,1907-10-07,SPA,1, ,A,0,0,0,0,parera
+piervi, ,Piera,1903-06-11,SPA,1, ,A,0,0,0,0,piera
+perara,Ramon,Pera,1909-02-22,SPA,1, ,A,0,0,0,0,ramon-pera
 jaurpa, ,Jáuregui,1910-05-04,SPA,20, ,P,0,0,0,0,jauregui_3
 collso,Sola,Coll,0000-00-00,SPA,20, ,P,0,0,0,0,sola-coll
 cebafe, ,Ceballos,1909-11-09,SPA,20, ,F,0,0,0,0,ceballos_2

@@ -30,36 +30,6 @@ zickal,Alexander,Zickler,1974-02-28,GER,0,24,A,0,0,0,0,alexander-zickler
 maiese,Sepp,Maier,1944-02-28,GER,0,21,P,0,0,0,0,sepp-maier
 mattlo,Lothar,Matthäus,1961-03-21,GER,0, , ,0,0,0,0,lothar-matthaeus
 baslma,Mario,Basler,1968-12-18,GER,0, , ,0,0,0,0,mario-basler
-beerwd,Wolfgang,de Beer,1964-01-02,GER,1, ,P,0,0,0,0,wolfgang-de-beer
-lehmje,Jens,Lehmann,1969-11-10,GER,1,12,P,0,0,0,0,jens-lehmann
-baumka,Karsten,Baumann,1969-10-14,GER,1,1,F,0,0,0,0,karsten-baumann
-dedede, ,Dédé,1978-04-18,BRA,1,33,F,0,0,0,0,dede
-evanev, ,Evanilson,1975-09-12,BRA,1,17,F,0,0,0,0,evanilson
-knocbe,Benjamin,Knoche,1978-10-11,GER,1,3,F,0,0,0,0,benjamin-knoche
-kohlj1,Jürgen,Kohler,1965-10-06,GER,1,28,F,0,0,0,0,juergen-kohler
-nijhal,Alfred,Nijhuis,1966-03-23,NED,1,5,F,0,0,0,0,alfred-nijhuis
-reutst,Stefan,Reuter,1966-10-16,GER,1,15,F,0,0,0,0,stefan-reuter
-woerch,Christian,Wörns,1972-05-10,GER,1,7,F,0,0,0,0,christian-woerns
-addoot,Otto,Addo,1975-06-09,GHA,1,2,M,0,0,0,0,otto-addo
-bugrfr,Francis,Bugri,1980-11-09,GER,1,19,M,0,0,0,0,francis-bugri
-butxvl,Vladimir,But,1977-09-07,RUS,1,31,M,0,0,0,0,vladimir-but
-kapese,Sead,Kapetanović,1972-01-21,BOS,1,29,M,0,0,0,0,sead-kapetanovic
-moelan,Andreas,Möller,1967-09-02,GER,1,16,M,0,0,0,0,andreas-moeller
-nerlch,Christian,Nerlinger,1973-03-21,GER,1,10,M,0,0,0,0,christian-nerlinger
-rickla,Lars,Ricken,1976-07-10,GER,1,8,M,0,0,0,0,lars-ricken
-stevmi,Miroslav,Stević,1970-01-07,YUG,1,18,M,0,0,0,0,miroslav-stevic
-barbse,Sergej,Barbarez,1971-09-17,BOS,1,4,A,0,0,0,0,sergej-barbarez
-bobifr,Fredi,Bobic,1971-10-30,GER,1,14,A,0,0,0,0,fredi-bobic
-gambba,Bashiru,Gambo,1978-09-24,GHA,1,20,A,0,0,0,0,bashiru-gambo
-herrhe,Heiko,Herrlich,1971-12-03,GER,1,25,A,0,0,0,0,heiko-herrlich
-ikpevi,Victor,Ikpeba,1973-06-12,NGR,1,11,A,0,0,0,0,victor-ikpeba
-reingi,Giuseppe,Reina,1972-04-15,GER,1,24,A,0,0,0,0,giuseppe-reina
-tankib,Ibrahim,Tanko,1977-07-25,GHA,1,13,A,0,0,0,0,ibrahim-tanko
-stahmi,Michael,Stahl,1959-12-09,GER,1,22,P,0,0,0,0,michael-stahl
-joncgu,Günter,Jonczyk,1957-05-11,GER,1,22,P,0,0,0,0,guenter-jonczyk
-kuhnpe,Peter,Kuhnt,1962-01-20,GER,1,22,P,0,0,0,0,peter-kuhnt
-zoelfr,Frank,Zöllner,1968-02-20,GER,1,22,P,0,0,0,0,frank-zoellner
-feiewo,Wolfgang,Feiersinger,1965-01-30,AUT,1, , ,0,0,0,0,wolfgang-feiersinger
 grodfr,Frode,Grodås,1964-10-24,NOR,10, ,P,0,0,0,0,frode-grodas
 reckol,Oliver,Reck,1965-02-27,GER,10,13,P,0,0,0,0,oliver-reck
 schoma,Mathias,Schober,1976-04-08,GER,10,1,P,0,0,0,0,mathias-schober
@@ -209,6 +179,36 @@ reispi,Piotr,Reiss,1972-06-20,POL,16,8,A,0,0,0,0,piotr-reiss
 spieuw,Uwe,Spies,1967-07-08,GER,16,10,A,0,0,0,0,uwe-spies
 toefst,Stig,Tøfting,1969-08-14,DEN,16, , ,0,0,0,0,stig-toefting
 andeer,Erik,Andersen,1970-11-14,DEN,16, , ,0,0,0,0,erik-andersen
+beerwd,Wolfgang,de Beer,1964-01-02,GER,1, ,P,0,0,0,0,wolfgang-de-beer
+lehmje,Jens,Lehmann,1969-11-10,GER,1,12,P,0,0,0,0,jens-lehmann
+baumka,Karsten,Baumann,1969-10-14,GER,1,1,F,0,0,0,0,karsten-baumann
+dedede, ,Dédé,1978-04-18,BRA,1,33,F,0,0,0,0,dede
+evanev, ,Evanilson,1975-09-12,BRA,1,17,F,0,0,0,0,evanilson
+knocbe,Benjamin,Knoche,1978-10-11,GER,1,3,F,0,0,0,0,benjamin-knoche
+kohlj1,Jürgen,Kohler,1965-10-06,GER,1,28,F,0,0,0,0,juergen-kohler
+nijhal,Alfred,Nijhuis,1966-03-23,NED,1,5,F,0,0,0,0,alfred-nijhuis
+reutst,Stefan,Reuter,1966-10-16,GER,1,15,F,0,0,0,0,stefan-reuter
+woerch,Christian,Wörns,1972-05-10,GER,1,7,F,0,0,0,0,christian-woerns
+addoot,Otto,Addo,1975-06-09,GHA,1,2,M,0,0,0,0,otto-addo
+bugrfr,Francis,Bugri,1980-11-09,GER,1,19,M,0,0,0,0,francis-bugri
+butxvl,Vladimir,But,1977-09-07,RUS,1,31,M,0,0,0,0,vladimir-but
+kapese,Sead,Kapetanović,1972-01-21,BOS,1,29,M,0,0,0,0,sead-kapetanovic
+moelan,Andreas,Möller,1967-09-02,GER,1,16,M,0,0,0,0,andreas-moeller
+nerlch,Christian,Nerlinger,1973-03-21,GER,1,10,M,0,0,0,0,christian-nerlinger
+rickla,Lars,Ricken,1976-07-10,GER,1,8,M,0,0,0,0,lars-ricken
+stevmi,Miroslav,Stević,1970-01-07,YUG,1,18,M,0,0,0,0,miroslav-stevic
+barbse,Sergej,Barbarez,1971-09-17,BOS,1,4,A,0,0,0,0,sergej-barbarez
+bobifr,Fredi,Bobic,1971-10-30,GER,1,14,A,0,0,0,0,fredi-bobic
+gambba,Bashiru,Gambo,1978-09-24,GHA,1,20,A,0,0,0,0,bashiru-gambo
+herrhe,Heiko,Herrlich,1971-12-03,GER,1,25,A,0,0,0,0,heiko-herrlich
+ikpevi,Victor,Ikpeba,1973-06-12,NGR,1,11,A,0,0,0,0,victor-ikpeba
+reingi,Giuseppe,Reina,1972-04-15,GER,1,24,A,0,0,0,0,giuseppe-reina
+tankib,Ibrahim,Tanko,1977-07-25,GHA,1,13,A,0,0,0,0,ibrahim-tanko
+stahmi,Michael,Stahl,1959-12-09,GER,1,22,P,0,0,0,0,michael-stahl
+joncgu,Günter,Jonczyk,1957-05-11,GER,1,22,P,0,0,0,0,guenter-jonczyk
+kuhnpe,Peter,Kuhnt,1962-01-20,GER,1,22,P,0,0,0,0,peter-kuhnt
+zoelfr,Frank,Zöllner,1968-02-20,GER,1,22,P,0,0,0,0,frank-zoellner
+feiewo,Wolfgang,Feiersinger,1965-01-30,AUT,1, , ,0,0,0,0,wolfgang-feiersinger
 braepe,Perry,Bräutigam,1963-03-28,GER,22, ,P,0,0,0,0,perry-braeutigam
 klewda,Daniel,Klewer,1977-03-04,GER,22,26,P,0,0,0,0,daniel-klewer
 piecma,Martin,Pieckenhagen,1971-11-15,GER,22,21,P,0,0,0,0,martin-pieckenhagen
@@ -359,39 +359,6 @@ jansol,Olaf,Janßen,1966-10-08,GER,3, , ,0,0,0,0,olaf-janssen
 dombti,Tibor,Dombi,1973-11-11,HUN,3, , ,0,0,0,0,tibor-dombi
 buluer,Erol,Bulut,1975-01-30,TUR,3, , ,0,0,0,0,erol-bulut
 westch,Christoph,Westerthaler,1965-01-11,AUT,3, , ,0,0,0,0,christoph-westerthaler
-hildti,Timo,Hildebrand,1979-04-05,GER,4, ,P,0,0,0,0,timo-hildebrand
-hollac,Achim,Hollerieth,1973-09-24,GER,4,30,P,0,0,0,0,achim-hollerieth
-traueb,Eberhard,Trautner,1967-02-07,GER,4,25,P,0,0,0,0,eberhard-trautner
-wohlfr,Franz,Wohlfahrt,1964-07-01,AUT,4,28,P,0,0,0,0,franz-wohlfahrt
-bertth,Thomas,Berthold,1964-11-12,GER,4,1,F,0,0,0,0,thomas-berthold
-bordbo, ,Bordon,1976-01-07,BRA,4,4,F,0,0,0,0,bordon
-sbordo,Domenico,Sbordone,1969-09-03,GER,4,4,F,0,0,0,0,domenico-sbordone
-endrjo,Jochen,Endress,1972-11-03,GER,4,5,F,0,0,0,0,jochen-endress
-kellje,Jens,Keller,1970-11-24,GER,4,21,F,0,0,0,0,jens-keller
-kiesth,Thomas,Kies,1975-10-16,GER,4,2,F,0,0,0,0,thomas-kies
-schnt1,Thomas,Schneider,1972-11-24,GER,4,29,F,0,0,0,0,thomas-schneider
-spanma,Martin,Spanring,1969-10-14,GER,4,14,F,0,0,0,0,martin-spanring
-balakr,Krassimir,Balakov,1966-03-29,BUL,4,24,M,0,0,0,0,krassimir-balakov
-carnbr,Bradley,Carnell,1977-01-21,RSA,4,10,M,0,0,0,0,bradley-carnell
-catigi,Giuseppe,Catizone,1977-07-20,ITA,4,16,M,0,0,0,0,giuseppe-catizone
-djorkr,Kristijan,Đorđević,1976-01-06,YUG,4,18,M,0,0,0,0,kristijan-djordjevic
-gerbhe,Heiko,Gerber,1972-07-11,GER,4,7,M,0,0,0,0,heiko-gerber
-kaufru,Rüdiger,Kauf,1975-03-01,GER,4,12,M,0,0,0,0,ruediger-kauf
-liszkr,Krisztián,Lisztes,1976-07-02,HUN,4,32,M,0,0,0,0,krisztian-lisztes
-pintro,Roberto,Pinto,1978-08-22,POR,4,22,M,0,0,0,0,roberto-pinto
-rostti,Timo,Rost,1978-08-29,GER,4,33,M,0,0,0,0,timo-rost
-soldzv,Zvonimir,Soldo,1967-11-02,CRO,4,17,M,0,0,0,0,zvonimir-soldo
-thiapa,Pablo,Thiam,1974-01-03,GUI,4,20,M,0,0,0,0,pablo-thiam
-todtje,Jens,Todt,1970-01-05,GER,4,6,M,0,0,0,0,jens-todt
-amanio,Ioannis,Amanatidis,1981-12-03,GRE,4,8,A,0,0,0,0,ioannis-amanatidis
-dididi, ,Didi,1976-02-24,BRA,4,35,A,0,0,0,0,didi_2
-dundse,Sean,Dundee,1972-12-07,GER,4,37,A,0,0,0,0,sean-dundee
-ganeio,Ioan,Ganea,1973-08-10,ROM,4,36,A,0,0,0,0,ioan-ganea
-hosnah,Ahmed,Hosny,1979-07-11,EGY,4,11,A,0,0,0,0,ahmed-hosny
-kukapa,Pavel,Kuka,1968-07-19,CZE,4,23,A,0,0,0,0,pavel-kuka
-ristsr,Sreto,Ristić,1976-02-07,YUG,4,9,A,0,0,0,0,sreto-ristic
-zahasr,Srdan,Zaharievski,1973-09-12,MAC,4,27,A,0,0,0,0,srdan-zaharievski
-ruecjo,Jochen,Rücker,1944-12-30,GER,4,19,P,0,0,0,0,jochen-ruecker
 betzho,Holger,Betz,1978-05-16,GER,48, ,P,0,0,0,0,holger-betz
 lauxph,Philipp,Laux,1973-01-25,GER,48,30,P,0,0,0,0,philipp-laux
 tuzyol,Oliver,Tuzyna,1969-03-10,GER,48,1,P,0,0,0,0,oliver-tuzyna
@@ -421,6 +388,39 @@ trkudr,Dragan,Trkulja,1964-09-30,YUG,48,20,A,0,0,0,0,dragan-trkulja
 haarh1,Hans,Van de Haar,1975-02-01,NED,48,11,A,0,0,0,0,hans-van-de-haar
 zdrida,David,Zdrilic,1974-04-13,AUS,48,9,A,0,0,0,0,david-zdrilic
 santra,Ralf,Santelli,1968-05-26,GER,48,23,P,0,0,0,0,ralf-santelli
+hildti,Timo,Hildebrand,1979-04-05,GER,4, ,P,0,0,0,0,timo-hildebrand
+hollac,Achim,Hollerieth,1973-09-24,GER,4,30,P,0,0,0,0,achim-hollerieth
+traueb,Eberhard,Trautner,1967-02-07,GER,4,25,P,0,0,0,0,eberhard-trautner
+wohlfr,Franz,Wohlfahrt,1964-07-01,AUT,4,28,P,0,0,0,0,franz-wohlfahrt
+bertth,Thomas,Berthold,1964-11-12,GER,4,1,F,0,0,0,0,thomas-berthold
+bordbo, ,Bordon,1976-01-07,BRA,4,4,F,0,0,0,0,bordon
+sbordo,Domenico,Sbordone,1969-09-03,GER,4,4,F,0,0,0,0,domenico-sbordone
+endrjo,Jochen,Endress,1972-11-03,GER,4,5,F,0,0,0,0,jochen-endress
+kellje,Jens,Keller,1970-11-24,GER,4,21,F,0,0,0,0,jens-keller
+kiesth,Thomas,Kies,1975-10-16,GER,4,2,F,0,0,0,0,thomas-kies
+schnt1,Thomas,Schneider,1972-11-24,GER,4,29,F,0,0,0,0,thomas-schneider
+spanma,Martin,Spanring,1969-10-14,GER,4,14,F,0,0,0,0,martin-spanring
+balakr,Krassimir,Balakov,1966-03-29,BUL,4,24,M,0,0,0,0,krassimir-balakov
+carnbr,Bradley,Carnell,1977-01-21,RSA,4,10,M,0,0,0,0,bradley-carnell
+catigi,Giuseppe,Catizone,1977-07-20,ITA,4,16,M,0,0,0,0,giuseppe-catizone
+djorkr,Kristijan,Đorđević,1976-01-06,YUG,4,18,M,0,0,0,0,kristijan-djordjevic
+gerbhe,Heiko,Gerber,1972-07-11,GER,4,7,M,0,0,0,0,heiko-gerber
+kaufru,Rüdiger,Kauf,1975-03-01,GER,4,12,M,0,0,0,0,ruediger-kauf
+liszkr,Krisztián,Lisztes,1976-07-02,HUN,4,32,M,0,0,0,0,krisztian-lisztes
+pintro,Roberto,Pinto,1978-08-22,POR,4,22,M,0,0,0,0,roberto-pinto
+rostti,Timo,Rost,1978-08-29,GER,4,33,M,0,0,0,0,timo-rost
+soldzv,Zvonimir,Soldo,1967-11-02,CRO,4,17,M,0,0,0,0,zvonimir-soldo
+thiapa,Pablo,Thiam,1974-01-03,GUI,4,20,M,0,0,0,0,pablo-thiam
+todtje,Jens,Todt,1970-01-05,GER,4,6,M,0,0,0,0,jens-todt
+amanio,Ioannis,Amanatidis,1981-12-03,GRE,4,8,A,0,0,0,0,ioannis-amanatidis
+dididi, ,Didi,1976-02-24,BRA,4,35,A,0,0,0,0,didi_2
+dundse,Sean,Dundee,1972-12-07,GER,4,37,A,0,0,0,0,sean-dundee
+ganeio,Ioan,Ganea,1973-08-10,ROM,4,36,A,0,0,0,0,ionel-ganea
+hosnah,Ahmed,Hosny,1979-07-11,EGY,4,11,A,0,0,0,0,ahmed-hosny
+kukapa,Pavel,Kuka,1968-07-19,CZE,4,23,A,0,0,0,0,pavel-kuka
+ristsr,Sreto,Ristić,1976-02-07,YUG,4,9,A,0,0,0,0,sreto-ristic
+zahasr,Srdan,Zaharievski,1973-09-12,MAC,4,27,A,0,0,0,0,srdan-zaharievski
+ruecjo,Jochen,Rücker,1944-12-30,GER,4,19,P,0,0,0,0,jochen-ruecker
 badeal,Alexander,Bade,1970-08-25,GER,5, ,P,0,0,0,0,alexander-bade
 butthj,Hans Jörg,Butt,1974-05-28,GER,5,12,P,0,0,0,0,hans-joerg-butt
 ilicsa,Saša,Ilić,1970-09-05,MAC,5,1,P,0,0,0,0,sasa-ilic_2
@@ -458,7 +458,7 @@ chanja,Jacek,Chańko,1974-01-25,POL,6,6,F,0,0,0,0,jacek-chanko
 cesaju,Júlio,César,1963-03-08,BRA,6,11,F,0,0,0,0,julio-cesar
 schibj,Björn,Schierenbeck,1974-07-12,GER,6,36,F,0,0,0,0,bjoern-schierenbeck
 skrivi,Viktor,Skripnik,1969-11-19,UKR,6,38,F,0,0,0,0,viktor-skripnik
-tjikra,Razundara,Tjikuzu,1979-12-12,NAM,6,19,F,0,0,0,0,razundara-tjikuzu
+tjikra,Razundara,Tjikuzu,1979-12-12,NAM,6,19,F,0,0,0,0,razzie-tjikuzu
 trarbe,Bernhard,Trares,1965-08-18,GER,6,28,F,0,0,0,0,bernhard-trares
 wiedan,Andree,Wiedener,1970-03-14,GER,6,8,F,0,0,0,0,andree-wiedener
 martwe,Mike,Barten,1973-11-20,GER,6,13,M,0,0,0,0,mike-barten
@@ -510,7 +510,7 @@ marsol,Olaf,Marschall,1966-03-19,GER,8,25,A,0,0,0,0,olaf-marschall
 pettjo,Jörgen,Pettersson,1975-09-29,SWE,8,11,A,0,0,0,0,joergen-pettersson
 reicm2,Marco,Reich,1977-12-30,GER,8,9,A,0,0,0,0,marco-reich
 tareig,Igli,Tare,1973-07-25,ALB,8,12,A,0,0,0,0,igli-tare
-ehrmge,Gerry,Ehrmann,1959-02-18,GER,8,19,P,0,0,0,0,gerry-ehrmann
+ehrmge,Gerry,Ehrmann,1959-02-18,GER,8,19,P,0,0,0,0,gerald-ehrmann
 riscju,Jürgen,Rische,1970-10-30,GER,8, , ,0,0,0,0,juergen-rische
 soboth,Thomas,Sobotzik,1974-10-16,GER,8, , ,0,0,0,0,thomas-sobotzik
 lechth,Thomas,Lechner,1979-01-09,GER,8, , ,0,0,0,0,thomas-lechner_2

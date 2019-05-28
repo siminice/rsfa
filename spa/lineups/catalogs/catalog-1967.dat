@@ -45,28 +45,6 @@ silvwl, ,Silva,1940-01-02,BRA,1, ,A,0,0,0,0,silva
 vidalu, ,Vidal,1943-07-12,SPA,1, ,A,0,0,0,0,vidal_10
 zabap2, ,Zaballa,1938-07-29,SPA,1, ,A,0,0,0,0,zaballa
 zaldj1, ,Zaldúa,1941-12-15,SPA,1, ,A,0,0,0,0,zaldua_3
-madied,Edgardo,Madinabeytia,1932-08-28,ARG,2, ,P,0,0,0,0,edgardo-madinabeytia
-rodrr2, ,Rodri,1942-11-14,SPA,2, ,P,0,0,0,0,rodri_16
-romasa,San,Román,1938-04-25,SPA,2, ,P,0,0,0,0,san-roman_2
-callis, ,Calleja,1936-12-06,SPA,2, ,F,0,0,0,0,calleja_2
-coloj1, ,Colo,1938-12-22,SPA,2, ,F,0,0,0,0,colo
-grifjo,Jorge,Griffa,1935-09-07,ARG,2, ,F,0,0,0,0,jorge-griffa
-santig,Iglesias,Santamaría,1944-03-25,SPA,2, ,F,0,0,0,0,iglesias-santamaria
-jayoma,Martinez,Jayo,1942-12-04,SPA,2, ,F,0,0,0,0,martinez-jayo
-rivife, ,Rivilla,1936-08-21,SPA,2, ,F,0,0,0,0,rivilla
-adelad, ,Adelardo,1939-09-26,SPA,2, ,M,0,0,0,0,adelardo
-gerpga,Garcia,Gerpe,1943-12-13,SPA,2, ,M,0,0,0,0,garcia-gerpe
-glarje, ,Glaría,1942-01-02,SPA,2, ,M,0,0,0,0,glaria_4
-sosaru,Ruiz,Sosa,1937-04-10,SPA,2, ,M,0,0,0,0,ruiz-sosa
-cardj2,José,Cardona,1939-02-27,HON,2, ,A,0,0,0,0,jose-cardona
-collen,Enrique,Collar,1934-11-02,SPA,2, ,A,0,0,0,0,enrique-collar
-ruizis,Isidro,Ruiz,1943-01-09,SPA,2, ,A,0,0,0,0,isidro-ruiz
-jonemi, ,Jones,1938-10-27,EQG,2, ,A,0,0,0,0,jones_3
-garajo,José,Gárate,1944-10-20,SPA,2, ,A,0,0,0,0,jose-garate
-ufarjo,José,Ufarte,1941-05-17,SPA,2, ,A,0,0,0,0,jose-ufarte
-araglu,Luis,Aragonés,1938-07-28,SPA,2, ,A,0,0,0,0,luis-aragones
-mendj1, ,Mendonça,1938-09-19,POR,2, ,A,0,0,0,0,mendonca_2
-urtijo, ,Urtiaga,1942-10-17,SPA,2, ,A,0,0,0,0,urtiaga
 beneju, ,Benegas,1934-12-28,SPA,25, ,P,0,0,0,0,benegas
 bilbvi, ,Bilbao,1937-07-29,SPA,25, ,P,0,0,0,0,bilbao
 blanfe,Fernández,Blanco,1940-12-26,SPA,25, ,P,0,0,0,0,fernandez-blanco
@@ -133,25 +111,28 @@ iborvi, ,Iborra,1932-02-16,SPA,27, ,A,0,0,0,0,iborra_2
 molian, ,Molina,1940-03-14,SPA,27, ,A,0,0,0,0,molina_4
 romeju,Juan,Romero,1934-12-27,PAR,27, ,A,0,0,0,0,juan-romero_2
 vavalu, ,Vavá,1944-05-28,SPA,27, ,A,0,0,0,0,vava_4
-abelng, ,Abelardo,1944-09-03,SPA,3, ,P,0,0,0,0,abelardo_2
-pesujo, ,Pesudo,1936-06-01,SPA,3, ,P,0,0,0,0,pesudo
-arnaal, ,Arnal,1939-09-23,SPA,3, ,F,0,0,0,0,arnal_2
-mestma, ,Mestre,1935-01-07,SPA,3, ,F,0,0,0,0,mestre
-solxju, ,Sol,1947-09-13,SPA,3, ,F,0,0,0,0,sol
-tatojo, ,Tatono,1940-05-05,SPA,3, ,F,0,0,0,0,tatono_4
-vidafr, ,Vidagañy,1940-10-19,SPA,3, ,F,0,0,0,0,vidagany
-clarjo, ,Claramunt,1946-07-16,SPA,3, ,M,0,0,0,0,claramunt
-estej1, ,Esteve,1942-11-25,SPA,3, ,M,0,0,0,0,esteve_4
-paquf4, ,Paquito,1938-02-14,SPA,3, ,M,0,0,0,0,paquito_6
-gilxro,Roberto,Gil,1938-07-30,SPA,3, ,M,0,0,0,0,roberto-gil
-totova, ,Toto,1941-05-05,SPA,3, ,M,0,0,0,0,toto_4
-vilalu, ,Vilar,1943-08-19,SPA,3, ,M,0,0,0,0,vilar
-ansofe, ,Ansola,1940-10-27,SPA,3, ,A,0,0,0,0,ansola_2
-guilvi, ,Guillot,1941-07-15,SPA,3, ,A,0,0,0,0,guillot
-cerdmu,Muñoz,Cerda,1945-05-13,SPA,3, ,A,0,0,0,0,munoz-cerda
-polima, ,Poli,1943-06-12,SPA,3, ,A,0,0,0,0,poli_6
-teroem, ,Terol,1944-08-19,SPA,3, ,A,0,0,0,0,terol_2
-waldwa, ,Waldo,1934-09-09,BRA,3, ,A,0,0,0,0,waldo
+madied,Edgardo,Madinabeytia,1932-08-28,ARG,2, ,P,0,0,0,0,edgardo-madinabeytia
+rodrr2, ,Rodri,1942-11-14,SPA,2, ,P,0,0,0,0,rodri_16
+romasa,San,Román,1938-04-25,SPA,2, ,P,0,0,0,0,san-roman_2
+callis, ,Calleja,1936-12-06,SPA,2, ,F,0,0,0,0,calleja_2
+coloj1, ,Colo,1938-12-22,SPA,2, ,F,0,0,0,0,colo
+grifjo,Jorge,Griffa,1935-09-07,ARG,2, ,F,0,0,0,0,jorge-griffa
+santig,Iglesias,Santamaría,1944-03-25,SPA,2, ,F,0,0,0,0,iglesias-santamaria
+jayoma,Martinez,Jayo,1942-12-04,SPA,2, ,F,0,0,0,0,martinez-jayo
+rivife, ,Rivilla,1936-08-21,SPA,2, ,F,0,0,0,0,rivilla
+adelad, ,Adelardo,1939-09-26,SPA,2, ,M,0,0,0,0,adelardo
+gerpga,Garcia,Gerpe,1943-12-13,SPA,2, ,M,0,0,0,0,garcia-gerpe
+glarje, ,Glaría,1942-01-02,SPA,2, ,M,0,0,0,0,glaria_4
+sosaru,Ruiz,Sosa,1937-04-10,SPA,2, ,M,0,0,0,0,ruiz-sosa
+cardj2,José,Cardona,1939-02-27,HON,2, ,A,0,0,0,0,jose-cardona
+collen,Enrique,Collar,1934-11-02,SPA,2, ,A,0,0,0,0,enrique-collar
+ruizis,Isidro,Ruiz,1943-01-09,SPA,2, ,A,0,0,0,0,isidro-ruiz
+jonemi, ,Jones,1938-10-27,EQG,2, ,A,0,0,0,0,jones_3
+garajo,José,Gárate,1944-10-20,SPA,2, ,A,0,0,0,0,jose-garate
+ufarjo,José,Ufarte,1941-05-17,SPA,2, ,A,0,0,0,0,jose-ufarte
+araglu,Luis,Aragonés,1938-07-28,SPA,2, ,A,0,0,0,0,luis-aragones
+mendj1, ,Mendonça,1938-09-19,POR,2, ,A,0,0,0,0,mendonca_2
+urtijo, ,Urtiaga,1942-10-17,SPA,2, ,A,0,0,0,0,urtiaga
 oregig, ,Oregui,1938-06-02,SPA,36, ,P,0,0,0,0,oregui
 pepij3, ,Pepín,1931-11-16,SPA,36, ,P,0,0,0,0,pepin_3
 ulacjo, ,Ulacia,1938-10-16,SPA,36, ,P,0,0,0,0,ulacia
@@ -190,10 +171,29 @@ hueral,Álvarez,Huerta,1946-10-22,SPA,38, ,A,0,0,0,0,alvarez-huerta
 benira, ,Benítez,1939-06-16,SPA,38, ,A,0,0,0,0,benitez_5
 bogama,Manuel,Bogado,1939-08-30,PAR,38, ,A,0,0,0,0,manuel-bogado
 ervido, ,Erviti,1942-09-21,SPA,38, ,A,0,0,0,0,erviti
-jaravi, ,Jara,1941-02-03,PAR,38, ,A,0,0,0,0,jara
+jaravi, ,Jara,1941-02-03,PAR,38, ,A,0,0,0,0,vicente-jara_2
 juanjA, ,Juanin,1940-05-22,SPA,38, ,A,0,0,0,0,juanin_4
 costlu,Luis,Costa,1943-02-19,SPA,38, ,A,0,0,0,0,luis-costa
 paneri,Riera,Panella,1939-08-11,SPA,38, ,A,0,0,0,0,riera-panella
+abelng, ,Abelardo,1944-09-03,SPA,3, ,P,0,0,0,0,abelardo_2
+pesujo, ,Pesudo,1936-06-01,SPA,3, ,P,0,0,0,0,pesudo
+arnaal, ,Arnal,1939-09-23,SPA,3, ,F,0,0,0,0,arnal_2
+mestma, ,Mestre,1935-01-07,SPA,3, ,F,0,0,0,0,mestre
+solxju, ,Sol,1947-09-13,SPA,3, ,F,0,0,0,0,sol
+tatojo, ,Tatono,1940-05-05,SPA,3, ,F,0,0,0,0,tatono_4
+vidafr, ,Vidagañy,1940-10-19,SPA,3, ,F,0,0,0,0,vidagany
+clarjo, ,Claramunt,1946-07-16,SPA,3, ,M,0,0,0,0,claramunt
+estej1, ,Esteve,1942-11-25,SPA,3, ,M,0,0,0,0,esteve_4
+paquf4, ,Paquito,1938-02-14,SPA,3, ,M,0,0,0,0,paquito_6
+gilxro,Roberto,Gil,1938-07-30,SPA,3, ,M,0,0,0,0,roberto-gil
+totova, ,Toto,1941-05-05,SPA,3, ,M,0,0,0,0,toto_4
+vilalu, ,Vilar,1943-08-19,SPA,3, ,M,0,0,0,0,vilar
+ansofe, ,Ansola,1940-10-27,SPA,3, ,A,0,0,0,0,ansola_2
+guilvi, ,Guillot,1941-07-15,SPA,3, ,A,0,0,0,0,guillot
+cerdmu,Muñoz,Cerda,1945-05-13,SPA,3, ,A,0,0,0,0,munoz-cerda
+polima, ,Poli,1943-06-12,SPA,3, ,A,0,0,0,0,poli_6
+teroem, ,Terol,1944-08-19,SPA,3, ,A,0,0,0,0,terol_2
+waldwa, ,Waldo,1934-09-09,BRA,3, ,A,0,0,0,0,waldo
 alarra, ,Alarcia,1938-07-18,SPA,4, ,P,0,0,0,0,alarcia
 goicjo, ,Goicoechea,1940-05-23,SPA,4, ,P,0,0,0,0,goicoechea
 yarzen, ,Yarza,1930-10-21,SPA,4, ,P,0,0,0,0,yarza
@@ -241,30 +241,6 @@ lavipe, ,Lavin,1948-01-06,SPA,5, ,A,0,0,0,0,lavin
 ormaja, ,Ormaza,1944-11-29,SPA,5, ,A,0,0,0,0,ormaza
 rojojo, ,Rojo,1947-01-28,SPA,5, ,A,0,0,0,0,rojo_4
 uriafi, ,Uriarte,1945-03-01,SPA,5, ,A,0,0,0,0,uriarte_4
-molimi, ,Molina,1942-02-05,SPA,6, ,P,0,0,0,0,molina_6
-mutxsa, ,Mut,1937-01-01,SPA,6, ,P,0,0,0,0,mut
-domir1,Rodri,Domínguez,1946-04-02,SPA,6, ,P,0,0,0,0,rodri-dominguez
-achuig,Ignacio,Achúcarro,1936-07-31,PAR,6, ,F,0,0,0,0,ignacio-achucarro
-eloyel, ,Eloy,1940-05-30,SPA,6, ,F,0,0,0,0,eloy_2
-hachjo, ,Hachero,1945-08-13,SPA,6, ,F,0,0,0,0,hachero
-isabis, ,Isabelo,1944-09-18,SPA,6, ,F,0,0,0,0,isabelo
-rebeal, ,Rebellón,1940-01-01,SPA,6, ,F,0,0,0,0,rebellon
-rincto,Toni,Rincón,1943-02-26,SPA,6, ,F,0,0,0,0,toni-rincon_2
-bancca, ,Bancalero,1944-06-16,SPA,6, ,M,0,0,0,0,bancalero
-cardma, ,Cardo,1940-06-16,SPA,6, ,M,0,0,0,0,cardo
-felora, ,Felo,1936-10-24,SPA,6, ,M,0,0,0,0,felo
-lizaj1, ,Lizarralde,1941-02-05,SPA,6, ,M,0,0,0,0,lizarralde_2
-loraen, ,Lora,1945-05-07,SPA,6, ,M,0,0,0,0,lora
-olivng, ,Oliveros,1941-10-27,SPA,6, ,M,0,0,0,0,oliveros
-suarpi,Pipi,Suarez,1938-06-25,SPA,6, ,M,0,0,0,0,pipi-suarez
-suarre,Reyes,Suárez,1941-06-08,SPA,6, ,M,0,0,0,0,reyes-suarez
-diezvi,Victor,Diéz,1941-04-02,SPA,6, ,M,0,0,0,0,victor-diez
-cabrpe,Pedro,Cabral,1940-02-06,PAR,6, ,A,0,0,0,0,pedro-cabral
-costma, ,Costas,1942-05-08,SPA,6, ,A,0,0,0,0,costas
-diegjo,José,Dieguez,1936-12-06,ARG,6, ,A,0,0,0,0,jose-dieguez
-moyara, ,Moya,1943-03-06,SPA,6, ,A,0,0,0,0,moya_6
-pintem, ,Pintado,1944-03-15,SPA,6, ,A,0,0,0,0,pintado
-romaj1, ,Román,1943-09-18,SPA,6, ,A,0,0,0,0,roman_5
 manomA, ,Manolin,1935-05-12,SPA,63, ,P,0,0,0,0,manolin_9
 nitoci, ,Ñito,1939-09-16,SPA,63, ,P,0,0,0,0,nito_4
 pancan, ,Pancho,1939-11-07,SPA,63, ,P,0,0,0,0,pancho_2
@@ -309,6 +285,30 @@ yosuna,Nando,Yosu,1939-07-08,SPA,64, ,A,0,0,0,0,nando-yosu
 odrijo, ,Odriozola,1941-08-27,SPA,64, ,A,0,0,0,0,odriozola
 plazfr, ,Plaza,1944-04-13,SPA,64, ,A,0,0,0,0,plaza_2
 roldju, ,Roldán,1943-11-15,SPA,64, ,A,0,0,0,0,roldan_2
+molimi, ,Molina,1942-02-05,SPA,6, ,P,0,0,0,0,molina_6
+mutxsa, ,Mut,1937-01-01,SPA,6, ,P,0,0,0,0,mut
+domir1,Rodri,Domínguez,1946-04-02,SPA,6, ,P,0,0,0,0,rodri-dominguez
+achuig,Ignacio,Achúcarro,1936-07-31,PAR,6, ,F,0,0,0,0,ignacio-achucarro
+eloyel, ,Eloy,1940-05-30,SPA,6, ,F,0,0,0,0,eloy_2
+hachjo, ,Hachero,1945-08-13,SPA,6, ,F,0,0,0,0,hachero
+isabis, ,Isabelo,1944-09-18,SPA,6, ,F,0,0,0,0,isabelo
+rebeal, ,Rebellón,1940-01-01,SPA,6, ,F,0,0,0,0,rebellon
+rincto,Toni,Rincón,1943-02-26,SPA,6, ,F,0,0,0,0,toni-rincon_2
+bancca, ,Bancalero,1944-06-16,SPA,6, ,M,0,0,0,0,bancalero
+cardma, ,Cardo,1940-06-16,SPA,6, ,M,0,0,0,0,cardo
+felora, ,Felo,1936-10-24,SPA,6, ,M,0,0,0,0,felo
+lizaj1, ,Lizarralde,1941-02-05,SPA,6, ,M,0,0,0,0,lizarralde_2
+loraen, ,Lora,1945-05-07,SPA,6, ,M,0,0,0,0,lora
+olivng, ,Oliveros,1941-10-27,SPA,6, ,M,0,0,0,0,oliveros
+suarpi,Pipi,Suarez,1938-06-25,SPA,6, ,M,0,0,0,0,pipi-suarez
+suarre,Reyes,Suárez,1941-06-08,SPA,6, ,M,0,0,0,0,reyes-suarez
+diezvi,Victor,Diéz,1941-04-02,SPA,6, ,M,0,0,0,0,victor-diez
+cabrpe,Pedro,Cabral,1940-02-06,PAR,6, ,A,0,0,0,0,pedro-cabral
+costma, ,Costas,1942-05-08,SPA,6, ,A,0,0,0,0,costas
+diegjo,José,Dieguez,1936-12-06,ARG,6, ,A,0,0,0,0,jose-dieguez
+moyara, ,Moya,1943-03-06,SPA,6, ,A,0,0,0,0,moya_6
+pintem, ,Pintado,1944-03-15,SPA,6, ,A,0,0,0,0,pintado
+romaj1, ,Román,1943-09-18,SPA,6, ,A,0,0,0,0,roman_5
 joanbe, ,Joanet,1935-09-15,SPA,8, ,P,0,0,0,0,joanet
 petxma,Mato,Pet,1943-11-23,SPA,8, ,P,0,0,0,0,mato-pet
 traivi,Vicente,Train,1931-12-19,SPA,8, ,P,0,0,0,0,vicente-train
@@ -336,7 +336,7 @@ ribalu, ,Ribada,1939-10-30,SPA,8, ,A,0,0,0,0,ribada
 lagejs,José Sánchez,Lage,1931-05-11,ARG,8, ,A,0,0,0,0,jose-sanchez-lage
 sucoan, ,Suco,1943-10-04,SPA,8, ,A,0,0,0,0,suco
 bertju, ,Bertomeu,1943-02-20,SPA,9, ,P,0,0,0,0,bertomeu
-carmca, ,Carmelo,1930-12-06,SPA,9, ,P,0,0,0,0,carmelo_6
+carmca, ,Carmelo,1930-12-06,SPA,9, ,P,0,0,0,0,carmelo-cedrun
 bergi1,Ignacio,Bergara,1940-07-20,URU,9, ,F,0,0,0,0,ignacio-bergara
 manuju,Juan,Manuel,1938-03-15,SPA,9, ,F,0,0,0,0,juan-manuel
 mingjo, ,Mingorance,1938-04-10,SPA,9, ,F,0,0,0,0,mingorance

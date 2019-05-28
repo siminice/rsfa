@@ -29,7 +29,7 @@ mollju,Moll,Jürgen,1939-11-16,GER,60, ,A,30,30,0,8, 2700,30,0,0,0,3,0,0,0
 pauldi,Paulsberg,Dieter,1941-11-16,GER,60, ,A,1,1,0,0,   90,1,0,0,0,0,0,0,0
 saaler,Saalfrank,Ernst,1939-10-12,GER,60, ,F,11,11,0,0,  990,11,0,0,0,0,0,0,0
 schmwa,Schmidt,Walter,1937-08-02,GER,60, ,F,30,30,0,2, 2700,30,0,0,0,0,0,0,0
-schrge,Schrader,Gerhard,1940-01-01,GER,60, ,A,13,13,0,4, 1170,13,0,0,0,0,0,0,0
+schrfi,Schrader,Fichte,1940-01-01,GER,60, ,A,13,13,0,4, 1170,13,0,0,0,0,0,0,0
 wesclo,Weschke,Lothar,1943-10-11,GER,60, ,A,13,13,0,0, 1170,13,0,0,0,0,0,0,0
 woltho,Wolter,Horst,1942-06-08,GER,60, ,P,1,1,0,0,   90,1,0,-1,0,0,0,0,0
 wuttma,Wuttich,Manfred,1941-01-26,GER,60, ,A,17,17,0,8, 1530,17,0,0,0,0,0,0,0
@@ -39,7 +39,7 @@ brunfr,Brungs,Franz,1936-12-04,GER,1, ,A,25,25,0,9, 2250,25,0,0,0,0,0,0,0
 burgwi,Burgsmüller,Wilhelm,1932-01-18,GER,1, ,F,19,19,0,0, 1710,19,0,0,0,0,0,0,0
 cylige,Cyliax,Gerd,1934-08-23,GER,1, ,F,11,11,0,3,  990,11,0,0,0,0,0,0,0
 emmelo,Emmerich,Lothar,1941-11-29,GER,1, ,A,29,29,0,16, 2610,29,0,0,0,0,0,0,0
-geislo,Geisler,Lothar,1936-12-08,GER,1, ,M,27,27,0,0, 2430,27,0,0,-1,0,0,0,0
+geislo,Geisler,Lothar,1936-12-08,GER,1, ,F,27,27,0,0, 2430,27,0,0,-1,0,0,0,0
 koniti,Konietzka,Timo,1938-08-02,GER,1, ,A,25,25,0,20, 2250,25,0,0,0,0,0,0,0
 kurrho,Kurrat,Hoppy,1942-05-15,GER,1, ,M,24,24,0,0, 2160,24,0,0,0,0,0,0,0
 kurrhj,Kurrat,Hans-Jürgen,1944-07-07,GER,1, ,A,1,1,0,1,   90,1,0,0,0,0,0,0,0
@@ -84,7 +84,7 @@ landlu,Landerer,Ludwig,1937-05-31,GER,3, ,M,13,13,0,0, 1170,13,0,0,0,0,0,0,0
 linddi,Lindner,Dieter,1939-06-11,GER,3, ,F,29,29,0,2, 2610,29,0,0,0,0,0,0,0
 loyxeg,Loy,Egon,1931-05-14,GER,3, ,P,28,28,0,0, 2520,28,0,-40,0,0,0,0,0
 lutzfr,Lutz,Friedel,1939-01-21,GER,3, ,F,21,21,0,0, 1890,21,0,0,0,0,0,0,0
-schalo,Schämer,Lothar,1940-04-28,GER,3, ,A,14,14,0,5, 1260,14,0,0,0,1,0,0,0
+schalo,Schämer,Lothar,1940-04-28,GER,3, ,F,14,14,0,5, 1260,14,0,0,0,1,0,0,0
 solzwo,Solz,Wolfgang,1940-02-12,GER,3, ,A,27,27,0,14, 2430,27,0,0,0,0,0,0,0
 steier,Stein,Erwin,1935-06-10,GER,3, ,A,19,19,0,9, 1710,19,0,0,0,0,0,0,0
 stindi,Stinka,Dieter,1937-08-10,GER,3, ,M,14,14,0,0, 1260,14,0,0,0,0,0,0,0

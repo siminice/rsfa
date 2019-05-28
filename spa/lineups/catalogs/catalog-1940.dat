@@ -20,6 +20,29 @@ sancem,Emilio,Sánchez,1915-06-16,SPA,0, ,A,0,0,0,0,emilio-sanchez
 marilu, ,Marin,1906-09-04,SPA,0, ,A,0,0,0,0,marin
 vigome, ,Méndez-Vigo,1916-01-09,SPA,0, ,A,0,0,0,0,mendez-vigo
 mesera, ,Meseguer,1916-03-17,SPA,0, ,A,0,0,0,0,meseguer_4
+kiszjy,Jyula,Kiszel,1911-07-04,HUN,12, ,P,0,0,0,0,jyula-kiszel
+labala, ,Labanda,0000-00-00,SPA,12, ,P,0,0,0,0,labanda
+armaar, ,Armando,0000-00-00,SPA,12, ,F,0,0,0,0,armando_9
+armaa1, ,Armando,0000-00-00,SPA,12, ,F,0,0,0,0,armando_3
+consvi, ,Cons,1914-07-17,SPA,12, ,F,0,0,0,0,cons
+emile1, ,Emilio,0000-00-00,SPA,12, ,F,0,0,0,0,emilio_2
+gonzig,Ignacio,González,0000-00-00,SPA,12, ,F,0,0,0,0,ignacio-gonzalez
+pinema, ,Piñeiro,1906-03-19,SPA,12, ,F,0,0,0,0,pineiro
+ribafr, ,Ribas,1916-12-01,SPA,12, ,F,0,0,0,0,ribas
+sansfr, ,Sanson,1924-04-20,SPA,12, ,F,0,0,0,0,sanson
+varego, ,Varela,1914-07-10,SPA,12, ,F,0,0,0,0,varela_4
+alvalv, ,Alvarito,1912-12-21,SPA,12, ,M,0,0,0,0,alvarito
+chican, ,Chicha,1916-04-27,SPA,12, ,M,0,0,0,0,chicha
+fuenan, ,Fuentes,1917-12-30,SPA,12, ,M,0,0,0,0,fuentes_4
+machng, ,Machicha,1908-12-08,SPA,12, ,M,0,0,0,0,machicha
+pireda, ,Pirelo,1910-02-08,MEX,12, ,M,0,0,0,0,pirelo
+agusag, ,Agustín,1911-10-11,SPA,12, ,A,0,0,0,0,agustin_2
+machjo, ,Machicha,0000-00-00,SPA,12, ,A,0,0,0,0,machicha_2
+nanola, ,Nano,1922-07-04,SPA,12, ,A,0,0,0,0,nano_4
+nolema, ,Nolete,1911-11-22,SPA,12, ,A,0,0,0,0,nolete
+odonod, ,O'Donell,1910-07-20,SPA,12, ,A,0,0,0,0,odonell
+toroma, ,Toro,1910-01-06,SPA,12, ,A,0,0,0,0,toro
+venave, ,Venancio,1914-12-08,SPA,12, ,A,0,0,0,0,venancio
 mirolu, ,Miró,1913-03-03,SPA,1, ,P,0,0,0,0,miro_5
 noguju, ,Nogués,1909-03-28,SPA,1, ,P,0,0,0,0,nogues
 benibe, ,Benito,1915-04-03,SPA,1, ,F,0,0,0,0,benito_10
@@ -47,49 +70,6 @@ olivfr, ,Olive,1921-05-18,SPA,1, ,A,0,0,0,0,olive
 pachs1, ,Pachi,1917-07-21,SPA,1, ,A,0,0,0,0,pachi
 rosxpa,Pascual,Ros,1915-08-19,ARG,1, ,A,0,0,0,0,pascual-ros
 sospja, ,Sospedra,1913-11-05,SPA,1, ,A,0,0,0,0,sospedra
-kiszjy,Jyula,Kiszel,1911-07-04,HUN,12, ,P,0,0,0,0,jyula-kiszel
-labala, ,Labanda,0000-00-00,SPA,12, ,P,0,0,0,0,labanda
-armaar, ,Armando,0000-00-00,SPA,12, ,F,0,0,0,0,armando_9
-armaa1, ,Armando,0000-00-00,SPA,12, ,F,0,0,0,0,armando_3
-consvi, ,Cons,1914-07-17,SPA,12, ,F,0,0,0,0,cons
-emile1, ,Emilio,0000-00-00,SPA,12, ,F,0,0,0,0,emilio_2
-gonzig,Ignacio,González,0000-00-00,SPA,12, ,F,0,0,0,0,ignacio-gonzalez
-pinema, ,Piñeiro,1906-03-19,SPA,12, ,F,0,0,0,0,pineiro
-ribafr, ,Ribas,1916-12-01,SPA,12, ,F,0,0,0,0,ribas
-sansfr, ,Sanson,1924-04-20,SPA,12, ,F,0,0,0,0,sanson
-varego, ,Varela,1914-07-10,SPA,12, ,F,0,0,0,0,varela_4
-alvalv, ,Alvarito,1912-12-21,SPA,12, ,M,0,0,0,0,alvarito
-chican, ,Chicha,1916-04-27,SPA,12, ,M,0,0,0,0,chicha
-fuenan, ,Fuentes,1917-12-30,SPA,12, ,M,0,0,0,0,fuentes_4
-machng, ,Machicha,1908-12-08,SPA,12, ,M,0,0,0,0,machicha
-pireda, ,Pirelo,1910-02-08,MEX,12, ,M,0,0,0,0,pirelo
-agusag, ,Agustín,1911-10-11,SPA,12, ,A,0,0,0,0,agustin_2
-machjo, ,Machicha,0000-00-00,SPA,12, ,A,0,0,0,0,machicha_2
-nanola, ,Nano,1922-07-04,SPA,12, ,A,0,0,0,0,nano_4
-nolema, ,Nolete,1911-11-22,SPA,12, ,A,0,0,0,0,nolete
-odonod, ,O'Donell,1910-07-20,SPA,12, ,A,0,0,0,0,odonell
-toroma, ,Toro,1910-01-06,SPA,12, ,A,0,0,0,0,toro
-venave, ,Venancio,1914-12-08,SPA,12, ,A,0,0,0,0,venancio
-guilgu, ,Guillermo,1910-03-21,SPA,2, ,P,0,0,0,0,guillermo
-tabafe, ,Tabales,1919-09-24,SPA,2, ,P,0,0,0,0,tabales
-alejal, ,Alejandro,1906-02-22,SPA,2, ,F,0,0,0,0,alejandro_2
-aparal, ,Aparicio,1919-08-14,SPA,2, ,F,0,0,0,0,aparicio_2
-alvabl,Blanco,Álvarez,1914-07-07,SPA,2, ,F,0,0,0,0,blanco-alvarez
-cobojo,José,Cobo,1917-01-06,SPA,2, ,F,0,0,0,0,jose-cobo
-mesajo, ,Mesa,1915-03-31,SPA,2, ,F,0,0,0,0,mesa
-bachce,Cesáreo,Bachiller,1911-05-05,ARG,2, ,M,0,0,0,0,cesareo-bachiller
-rubien,Enrique,Rubio,1915-07-19,SPA,2, ,M,0,0,0,0,enrique-rubio
-escuju, ,Escudero,1920-09-25,SPA,2, ,M,0,0,0,0,escudero
-gabira, ,Gabilondo,1913-03-15,SPA,2, ,M,0,0,0,0,gabilondo_2
-gomege,Germán,Gómez,1914-01-05,SPA,2, ,M,0,0,0,0,german-gomez
-machfr, ,Machín,1917-02-09,SPA,2, ,M,0,0,0,0,machin
-torrma, ,Torres,1912-07-11,SPA,2, ,M,0,0,0,0,torres_9
-urqulu, ,Urquiri,1906-09-01,SPA,2, ,M,0,0,0,0,urquiri
-arenfr, ,Arencibia,1912-12-28,CUB,2, ,A,0,0,0,0,arencibia
-bracad, ,Bracero,1909-10-22,SPA,2, ,A,0,0,0,0,bracero
-campf1, ,Campos,1916-03-08,SPA,2, ,A,0,0,0,0,campos_3
-elicju, ,Elícegui,1910-12-05,SPA,2, ,A,0,0,0,0,elicegui
-vazqju, ,Vazquez,1912-07-14,SPA,2, ,A,0,0,0,0,vazquez_6
 orenor, ,Orencio,1918-10-29,SPA,20, ,P,0,0,0,0,orencio
 pedrju, ,Pedrosa,1906-08-14,SPA,20, ,P,0,0,0,0,pedrosa_3
 trigfr, ,Trigo,1910-11-18,SPA,20, ,P,0,0,0,0,trigo
@@ -132,6 +112,26 @@ adromi, ,Adrover,1922-04-25,SPA,25, ,A,0,0,0,0,adrover
 aparan, ,Aparicio,1913-09-10,SPA,25, ,A,0,0,0,0,aparicio
 irlera, ,Irles,1911-01-11,SPA,25, ,A,0,0,0,0,irles
 vilajo, ,Vilanova,1910-04-20,SPA,25, ,A,0,0,0,0,vilanova_3
+guilgu, ,Guillermo,1910-03-21,SPA,2, ,P,0,0,0,0,guillermo
+tabafe, ,Tabales,1919-09-24,SPA,2, ,P,0,0,0,0,tabales
+alejal, ,Alejandro,1906-02-22,SPA,2, ,F,0,0,0,0,alejandro_2
+aparal, ,Aparicio,1919-08-14,SPA,2, ,F,0,0,0,0,aparicio_2
+alvabl,Blanco,Álvarez,1914-07-07,SPA,2, ,F,0,0,0,0,blanco-alvarez
+cobojo,José,Cobo,1917-01-06,SPA,2, ,F,0,0,0,0,jose-cobo
+mesajo, ,Mesa,1915-03-31,SPA,2, ,F,0,0,0,0,mesa
+bachce,Cesáreo,Bachiller,1911-05-05,ARG,2, ,M,0,0,0,0,cesareo-bachiller
+rubien,Enrique,Rubio,1915-07-19,SPA,2, ,M,0,0,0,0,enrique-rubio
+escuju, ,Escudero,1920-09-25,SPA,2, ,M,0,0,0,0,escudero
+gabira, ,Gabilondo,1913-03-15,SPA,2, ,M,0,0,0,0,gabilondo_2
+gomege,Germán,Gómez,1914-01-05,SPA,2, ,M,0,0,0,0,german-gomez
+machfr, ,Machín,1917-02-09,SPA,2, ,M,0,0,0,0,machin
+torrma, ,Torres,1912-07-11,SPA,2, ,M,0,0,0,0,torres_9
+urqulu, ,Urquiri,1906-09-01,SPA,2, ,M,0,0,0,0,urquiri
+arenfr, ,Arencibia,1912-12-28,CUB,2, ,A,0,0,0,0,arencibia
+bracad, ,Bracero,1909-10-22,SPA,2, ,A,0,0,0,0,bracero
+campf1, ,Campos,1916-03-08,SPA,2, ,A,0,0,0,0,campos_3
+elicju, ,Elícegui,1910-12-05,SPA,2, ,A,0,0,0,0,elicegui
+vazqju, ,Vazquez,1912-07-14,SPA,2, ,A,0,0,0,0,vazquez_6
 amada2, ,Amador,0000-00-00,SPA,3, ,P,0,0,0,0,amador
 pioxpi, ,Pio,1919-11-20,SPA,3, ,P,0,0,0,0,pio
 pereal,Álvaro,Pérez,1916-03-30,SPA,3, ,F,0,0,0,0,alvaro-perez
@@ -231,6 +231,7 @@ retama, ,Retamar,1919-08-19,SPA,7, ,A,0,0,0,0,retamar
 rosaan, ,Rosales,1917-10-21,SPA,7, ,A,0,0,0,0,rosales
 sarong, ,Saro,1909-03-01,SPA,7, ,A,0,0,0,0,saro
 valejo, ,Valera,1916-05-26,SPA,7, ,A,0,0,0,0,valera_2
+moria1, ,Morita,1920-08-23,SPA,7, ,F,0,0,0,0,morita
 persma, ,Martorell,1916-03-13,SPA,9, ,P,0,0,0,0,martorell-person
 naveju, ,Naves,1914-01-28,SPA,9, ,P,0,0,0,0,naves
 triajo, ,Trías,1921-10-16,SPA,9, ,P,0,0,0,0,trias_3

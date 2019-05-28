@@ -1,550 +1,714 @@
-alTaal,Adnan,Ali Kadhim Al-Tameemi,1993-12-19,IRQ,11,53,F,3,2,1,0,  166,1,12,0,0,0,0,0,0
-barrmu,Barrow,Musa,1998-11-14,GAM,11,99,A,10,5,5,0,  388,0,1,0,0,0,0,0,0
-beriet,Berisha,Etrit,1989-03-10,KOS,11,1,P,8,8,0,0,  720,8,7,-9,0,0,0,0,0
-bettda,Bettella,Davide,2000-04-07,ITA,11,13,F,0,0,0,0,    0,0,9,0,0,0,0,0,0
-castti,Castagne,Timothy,1995-12-05,BEL,11,21,F,8,5,3,1,  500,4,7,0,0,0,0,0,0
+alTaal,Adnan,Ali Kadhim Al-Tameemi,1993-12-19,IRQ,11, , ,3,2,1,0,  166,1,13,0,0,0,0,0,0
+barrmu,Barrow,Musa,1998-11-14,GAM,11,99,A,22,6,16,1,  628,0,8,0,0,0,0,0,0
+beriet,Berisha,Etrit,1989-03-10,KOS,11,1,P,18,18,0,0, 1620,18,20,-25,0,0,0,1,0
+bettda,Bettella,Davide,2000-04-07,ITA,11, , ,0,0,0,0,    0,0,9,0,0,0,0,0,0
+cambni,Cambiaghi,Nicolò,2000-12-28,ITA,11,97,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
+castti,Castagne,Timothy,1995-12-05,BEL,11,21,F,28,21,7,4, 2005,18,10,0,0,0,0,3,0
+colpan,Colpani,Andrea,1999-05-11,ITA,11,70,M,0,0,0,0,    0,0,6,0,0,0,0,0,0
 cornan,Cornelius,Andreas,1993-03-16,DEN,11, , ,0,0,0,0,    0,0,2,0,0,0,0,0,0
-deRoma,De Roon,Marten Elco,1991-03-29,NED,11,15,M,15,14,1,1, 1281,13,0,0,0,0,0,4,0
-djimbe,Djimsiti,Berat,1993-02-19,SUI,11,19,F,5,5,0,1,  405,4,9,0,0,0,0,2,0
-freure,Freuler,Remo Marco,1992-04-15,SUI,11,11,M,14,14,0,1, 1204,10,1,0,0,0,0,1,0
-gollpi,Gollini,Pierluigi,1995-03-18,ITA,11,95,P,7,7,0,0,  630,7,8,-11,0,0,0,0,0
-gomeal,Gomez,Alejandro Dario,1988-02-15,ARG,11,10,A,14,13,1,4, 1192,10,1,0,0,0,0,4,0
-gosero,Gosens,Robin,1994-07-05,GER,11,8,F,12,11,1,1,  974,8,3,0,0,0,0,2,0
-hateha,Hateboer,Hans,1994-01-09,NED,11,33,F,13,12,1,3, 1121,12,2,0,0,0,0,1,0
-ilicjo,Ilicic,Josip,1988-01-29,BOS,11,72,A,9,5,4,3,  540,3,0,0,0,0,0,4,0
-kulude,Kulusevski,Dejan,2000-04-25,SWE,11,44,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
-mancg2,Mancini,Gianluca,1996-04-17,ITA,11,23,F,10,8,2,3,  782,5,5,0,0,0,0,1,0
-masian,Masiello,Andrea,1986-02-05,ITA,11,5,F,9,9,0,0,  740,7,1,0,-1,0,0,3,0
-palojo,Palomino,José,1990-01-05,ARG,11,6,F,12,11,1,1,  993,11,0,0,0,0,0,2,0
-pasama,Pasalic,Mario,1995-02-09,GER,11,88,M,13,6,7,1,  580,2,2,0,0,0,0,0,0
-pessma,Pessina,Matteo,1997-04-21,ITA,11,22,M,2,1,1,0,   59,0,11,0,0,0,0,0,0
-recaar,Reca,Arkadiusz,1995-06-17,POL,11,7,F,0,0,0,0,    0,0,8,0,0,0,0,0,0
-rigoem,Rigoni,Emiliano,1993-02-04,ARG,11,24,M,11,6,5,3,  493,2,2,0,0,0,0,1,0
-rossfr,Rossi,Francesco,1991-04-27,ITA,11,31,P,0,0,0,0,    0,0,15,0,0,0,0,0,0
-tolora,Toloi,Rafael,1990-10-10,BRA,11,2,F,13,12,1,0, 1027,10,0,0,0,0,0,1,0
-tummma,Tumminello,Marco,1998-11-06,ITA,11,20,A,2,0,2,0,    9,0,2,0,0,0,0,1,0
-valzlu,Valzania,Luca,1996-03-05,ITA,11,4,M,2,1,1,0,   73,0,13,0,0,0,0,0,0
-zapadu,Zapata,Duvan Esteban,1991-04-01,COL,11,91,A,15,10,5,5,  973,6,0,0,0,0,0,0,0
-calaar,Calabresi,Arturo,1996-03-17,ITA,20,33,F,10,10,0,1,  827,8,4,0,0,0,0,5,0
-corbga,Corbo,Gabriele,2000-01-11,ITA,20,25,F,0,0,0,0,    0,0,5,0,0,0,0,0,0
-daCoan,Da Costa,Angelo Esmael Junior,1983-11-12,BRA,20,1,P,0,0,0,0,    0,0,14,0,0,0,0,0,0
-larada,Danilo,Larangeira,1984-05-10,BRA,20,23,F,13,13,0,0, 1105,11,1,0,0,0,0,1,0
-deMase,De Maio,Sebastien,1987-03-05,FRA,20,4,F,5,5,0,0,  400,3,9,0,0,0,0,2,0
-destma,Destro,Mattia,1991-03-20,ITA,20,22,A,6,2,4,0,  193,0,7,0,0,0,0,1,0
-dijkmi,Dijks,Mitchell,1993-02-09,NED,20,35,F,9,7,2,0,  585,4,4,0,0,0,0,2,0
-donsgo,Donsah,Godfred,1996-06-07,GHA,20,17,M,0,0,0,0,    0,0,3,0,0,0,0,0,0
-dzembl,Dzemaili,Blerim,1986-04-12,SUI,20,31,M,13,10,3,0,  894,8,1,0,0,0,0,3,0
-falcdi,Falcinelli,Diego,1991-06-26,ITA,20,91,A,11,7,4,0,  536,0,0,0,0,0,0,0,0
-gonzgi,Gonzalez,Giancarlo,1988-02-08,CRC,20,3,F,8,6,2,0,  542,3,7,0,0,0,0,1,0
-helafi,Helander,Filip Viktor,1993-04-22,SWE,20,18,F,10,10,0,0,  900,10,0,0,0,0,0,2,0
-krejla,Krejci,Ladislav,1992-07-05,CZE,20,11,A,10,7,3,0,  681,5,3,0,0,0,0,2,0
-mattfe,Mattiello,Federico,1995-07-14,ITA,20,14,M,10,10,0,1,  896,9,1,0,0,0,0,1,0
-mbayib,Mbaye,Ibrahima,1994-11-19,SEN,20,15,F,6,5,1,2,  480,5,9,0,0,0,0,2,0
-nagyad,Nagy,Adam,1995-06-17,HUN,20,8,M,8,6,2,0,  581,6,6,0,0,0,0,1,1
-okwoor,Okwonkwo,Orji,1998-01-19,NGR,20,30,A,7,1,6,0,  194,1,3,0,0,0,0,2,0
-orsori,Orsolini,Riccardo,1997-01-24,ITA,20,7,A,14,4,10,2,  507,1,1,0,0,0,0,0,0
-palaro,Palacio,Rodrigo Sebastian,1982-02-05,ARG,20,24,A,8,7,1,1,  649,5,0,0,0,0,0,3,0
-pazxne,Paz,Nehuén,1993-04-28,ARG,20,6,F,1,1,0,0,   90,1,11,0,0,0,0,1,0
+deRoma,De Roon,Marten Elco,1991-03-29,NED,11,15,M,35,34,1,2, 2975,31,0,0,0,1,0,8,0
+prated,Del Prato,Enrico,1999-11-10,ITA,11,78,F,0,0,0,0,    0,0,5,0,0,0,0,0,0
+djimbe,Djimsiti,Berat,1993-02-19,SUI,11,19,F,24,20,4,1, 1807,18,13,0,-1,0,0,3,0
+freure,Freuler,Remo Marco,1992-04-15,SUI,11,11,M,35,35,0,2, 3021,25,2,0,0,0,0,4,0
+gollpi,Gollini,Pierluigi,1995-03-18,ITA,11,95,P,20,20,0,0, 1799,19,18,-21,0,0,0,1,0
+gomeal,Gomez,Alejandro Dario,1988-02-15,ARG,11,10,A,35,34,1,7, 2900,20,1,0,0,0,0,5,0
+gosero,Gosens,Robin,1994-07-05,GER,11,8,F,28,23,5,3, 1943,14,10,0,0,0,0,2,0
+hateha,Hateboer,Hans,1994-01-09,NED,11,33,F,35,33,2,5, 2973,31,2,0,0,0,0,5,0
+ibanib,Ibañez,Ibañez,1998-11-23,BRA,11,41,F,1,0,1,0,    2,0,15,0,0,0,0,0,0
+ilicjo,Ilicic,Josip,1988-01-29,BOS,11,72,A,31,23,8,12, 2152,11,0,0,0,0,0,5,0
+kulude,Kulusevski,Dejan,2000-04-25,SWE,11,44,M,3,0,3,0,  125,0,12,0,0,0,0,0,0
+mancg2,Mancini,Gianluca,1996-04-17,ITA,11,23,F,30,25,5,5, 2246,17,7,0,0,0,0,5,0
+masian,Masiello,Andrea,1986-02-05,ITA,11,5,F,24,22,2,0, 1837,15,8,0,-1,0,0,5,0
+okolca,Okoli,Caleb,2001-07-13,NGR,11,55,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
+palojo,Palomino,José,1990-01-05,ARG,11,6,F,30,25,5,1, 2260,21,3,0,0,0,0,5,1
+pasama,Pasalic,Mario,1995-02-09,GER,11,88,M,33,17,16,5, 1619,7,5,0,0,0,0,1,0
+pelilo,Peli,Lorenzo,2000-01-24,ITA,11,32,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
+pessma,Pessina,Matteo,1997-04-21,ITA,11,22,M,12,1,11,0,  236,0,24,0,0,0,0,0,0
+piccr1,Piccoli,Roberto,2001-01-27,ITA,11,17,A,2,0,2,0,   48,0,9,0,0,0,0,0,0
+recaar,Reca,Arkadiusz,1995-06-17,POL,11,7,F,3,0,3,0,   49,0,27,0,0,0,0,0,0
+rigoem,Rigoni,Emiliano,1993-02-04,ARG,11, , ,12,6,6,3,  521,2,3,0,0,0,0,1,0
+rossfr,Rossi,Francesco,1991-04-27,ITA,11,31,P,1,0,1,0,    1,0,37,0,0,0,0,0,0
+tolora,Toloi,Rafael,1990-10-10,BRA,11,2,F,21,20,1,1, 1746,17,1,0,-1,0,0,1,1
+tummma,Tumminello,Marco,1998-11-06,ITA,11, , ,2,0,2,0,    9,0,5,0,0,0,0,1,0
+valzlu,Valzania,Luca,1996-03-05,ITA,11, , ,2,1,1,0,   73,0,17,0,0,0,0,0,0
+zapadu,Zapata,Duvan Esteban,1991-04-01,COL,11,91,A,37,32,5,23, 2895,24,0,0,0,1,0,5,0
+calaar,Calabresi,Arturo,1996-03-17,ITA,20,33,F,18,16,2,1, 1414,14,19,0,0,0,0,8,0
+corbga,Corbo,Gabriele,2000-01-11,ITA,20,25,F,1,0,1,0,    5,0,8,0,0,0,0,0,0
+daCoan,Da Costa,Angelo Esmael Junior,1983-11-12,BRA,20,1,P,0,0,0,0,    0,0,37,0,0,0,0,0,0
+larada,Danilo,Larangeira,1984-05-10,BRA,20,23,F,35,35,0,1, 3077,31,2,0,0,0,0,4,0
+deMase,De Maio,Sebastien,1987-03-05,FRA,20, , ,6,6,0,0,  490,4,13,0,0,0,0,3,0
+destma,Destro,Mattia,1991-03-20,ITA,20,22,A,17,5,12,4,  493,0,12,0,0,0,0,3,0
+dijkmi,Dijks,Mitchell,1993-02-09,NED,20,35,F,25,23,2,1, 2022,18,7,0,0,0,0,5,1
+donsgo,Donsah,Godfred,1996-06-07,GHA,20,17,M,6,1,5,0,  153,1,18,0,0,0,0,0,0
+dzembl,Dzemaili,Blerim,1986-04-12,SUI,20,31,M,28,20,8,1, 1750,11,6,0,0,0,0,4,0
+edersi,Edera,Simone,1997-01-09,ITA,20,20,A,4,3,1,0,  196,0,9,0,0,0,0,1,0
+falcdi,Falcinelli,Diego,1991-06-26,ITA,20,91,A,16,8,8,0,  703,1,0,0,0,0,0,0,0
+gonzgi,Gonzalez,Giancarlo,1988-02-08,CRC,20, , ,12,8,4,0,  746,4,17,0,0,0,0,2,0
+helafi,Helander,Filip Viktor,1993-04-22,SWE,20,18,F,20,19,1,0, 1713,19,9,0,0,0,0,6,0
+krejla,Krejci,Ladislav,1992-07-05,CZE,20,11,A,18,11,7,0, 1065,9,16,0,0,0,0,2,0
+lyanly,Lyanco, ,1997-02-01,SRB,20,4,F,13,13,0,1, 1119,10,1,0,0,0,0,1,1
+mattfe,Mattiello,Federico,1995-07-14,ITA,20,14,M,17,16,1,1, 1333,13,5,0,0,0,0,2,1
+mbayib,Mbaye,Ibrahima,1994-11-19,SEN,20,15,F,23,22,1,2, 2010,22,13,0,0,0,0,5,0
+nagyad,Nagy,Adam,1995-06-17,HUN,20,8,M,14,10,4,0,  976,10,20,0,0,0,0,2,1
+okwoor,Okwonkwo,Orji,1998-01-19,NGR,20, , ,8,2,6,0,  258,1,6,0,0,0,0,2,0
+orsori,Orsolini,Riccardo,1997-01-24,ITA,20,7,A,35,19,16,8, 1964,12,1,0,0,0,0,2,0
+palaro,Palacio,Rodrigo Sebastian,1982-02-05,ARG,20,24,A,28,26,2,3, 2327,18,0,0,0,0,0,6,0
+pazxne,Paz,Nehuén,1993-04-28,ARG,20,6,F,2,1,1,0,  114,1,28,0,0,0,0,1,0
 pirapi,Pirana,Pirana,1999-05-08,BRA,20,99,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
-polia1,Poli,Andrea,1989-09-29,ITA,20,16,M,11,9,2,2,  778,3,0,0,0,0,0,2,0
-pulger,Pulgar,Erick Antonio,1994-01-15,CHI,20,5,M,9,9,0,0,  774,7,4,0,0,0,0,1,1
-santf2,Santander,Federico,1991-06-04,PAR,20,9,A,15,13,2,4, 1177,11,0,0,0,0,0,2,0
-santan,Santurro,Antonio,1992-02-29,ITA,20,29,P,0,0,0,0,    0,0,14,0,0,0,0,0,0
-skorlu,Skorupski,Lukasz,1991-05-05,POL,20,28,P,15,15,0,0, 1350,15,0,-24,0,0,0,1,0
-svanma,Svanberg,Mattias,1999-01-05,SWE,20,32,M,11,8,3,0,  709,3,4,0,0,0,0,2,0
-valeju,Valencia,Juan Manuel,1998-10-17,COL,20,19,M,0,0,0,0,    0,0,7,0,0,0,0,0,0
-andrma,Andreolli,Marco,1986-06-10,ITA,24,3,F,2,1,1,0,   95,1,13,0,0,0,0,1,0
-aressi,Aresti,Simone,1986-03-15,ITA,24,16,P,0,0,0,0,    0,0,15,0,0,0,0,0,0
-bareni,Barella,Nicolò,1997-02-07,ITA,24,18,M,14,14,0,1, 1248,12,0,0,0,0,0,4,1
-bradfi,Bradarić,Filip,1992-01-11,CRO,24,6,M,14,11,3,0,  883,4,1,0,-1,0,0,3,0
-castl8,Castro,Lucas Nahuel,1989-04-09,ARG,24,29,M,10,9,1,1,  815,5,1,0,0,0,0,1,0
-cepplu,Ceppitelli,Luca,1989-08-11,ITA,24,23,F,8,8,0,0,  653,7,1,0,0,0,0,3,0
-cerral,Cerri,Alberto,1996-04-16,ITA,24,9,A,6,3,3,0,  279,1,5,0,0,0,0,1,0
-cigalu,Cigarini,Luca,1986-06-20,ITA,24,8,M,8,4,4,0,  381,1,7,0,0,0,0,2,0
-cragal,Cragno,Alessio,1994-06-28,ITA,24,28,P,15,15,0,0, 1350,15,0,-19,0,0,0,0,0
-dagari,Daga,Riccardo,2000-01-13,ITA,24,12,P,0,0,0,0,    0,0,8,0,0,0,0,0,0
-dessda,Dessena,Daniele,1987-05-10,ITA,24,4,M,10,3,7,0,  334,3,5,0,0,0,0,3,0
-dorari,Doratiotto,Riccardo,1999-06-07,ITA,24,36,M,0,0,0,0,    0,0,3,0,0,0,0,0,0
-farapa,Farago,Pancrazio Paolo,1993-02-12,ITA,24,24,M,10,4,6,0,  504,4,3,0,0,0,0,1,0
-daSidi,Farias,Diego Da Silva,1990-05-10,BRA,24,17,A,10,4,6,1,  388,1,1,0,0,0,0,1,0
-ioniar,Ioniţă,Artur,1990-08-17,MOL,24,21,M,15,13,2,2, 1107,6,0,0,0,0,0,4,0
-galvjo,Joao Pedro,Geraldino Dos Santos Galvao,1992-03-09,BRA,24,10,M,12,11,1,3,  948,6,0,0,0,0,0,1,0
-klavra,Klavan,Ragnar,1985-10-30,EST,24,15,F,8,8,0,0,  675,7,1,0,0,0,0,0,0
-lykoch,Lykogiannis,Charalampos,1993-10-22,GRE,24,22,F,3,3,0,0,  270,3,3,0,0,0,0,0,0
-padosi,Padoin,Simone,1984-03-18,ITA,24,20,M,11,11,0,0,  953,9,3,0,0,0,0,0,0
-pajama,Pajac,Marko,1993-05-11,CRO,24,2,M,1,0,1,0,   26,0,13,0,0,0,0,0,0
-pavole,Pavoletti,Leonardo,1988-11-26,ITA,24,30,A,13,12,1,6, 1058,10,1,0,0,0,0,2,0
-pinhr1,Pinheiro,Rafael,1982-03-03,BRA,24,1,P,0,0,0,0,    0,0,14,0,0,0,0,0,0
-pisafa,Pisacane,Fabio,1986-01-28,ITA,24,19,F,7,5,2,0,  557,4,8,0,0,0,0,4,0
-romafi,Romagna,Filippo,1997-05-26,ITA,24,56,F,8,8,0,0,  720,8,7,0,0,0,0,2,0
-sauxma,Sau,Marco,1987-11-03,ITA,24,25,A,11,5,6,1,  493,1,2,0,0,0,0,3,0
-srnada,Srna,Darijo,1982-05-01,CRO,24,33,F,13,13,0,0, 1106,11,0,0,0,0,0,2,1
-banima,Bani,Mattia,1993-12-10,ITA,41,14,F,12,12,0,0, 1057,11,2,0,-1,0,0,2,0
-barbfe,Barba,Federico,1993-09-01,ITA,41,5,F,11,11,0,0,  939,10,2,0,0,0,0,2,1
-birsva,Birsa,Valter,1986-08-07,SLO,41,23,M,14,11,3,2,  979,5,1,0,0,1,0,0,0
-burrma,Burruchaga,Mauro,1998-06-27,ARG,41,21,M,0,0,0,0,    0,0,11,0,0,0,0,0,0
-caccfa,Cacciatore,Fabrizio,1986-10-08,ITA,41,29,F,7,5,2,0,  497,5,0,0,0,0,0,1,0
-capre2,Caprile,Elia,2001-08-25,ITA,41,67,P,0,0,0,0,    0,0,3,0,0,0,0,0,0
-cesabo,Cesar,Bostjan,1982-07-09,SLO,41,12,F,2,1,1,0,  107,1,6,0,0,0,0,0,0
-depafa,Depaoli,Fabio,1997-04-24,ITA,41,27,M,14,11,3,0, 1038,10,1,0,0,0,0,4,1
-djorfi,Djordjevic,Filip,1987-09-28,YUG,41,20,A,4,2,2,0,  179,1,4,0,0,0,0,0,0
-giacem,Giaccherini,Emanuele,1985-05-05,ITA,41,17,M,10,8,2,1,  753,7,1,0,-1,1,0,2,0
-grubse,Grubač,Sergej,2000-05-29,MNT,41,25,A,0,0,0,0,    0,0,6,0,0,0,0,0,0
-hetepe,Hetemaj,Perparim,1986-12-12,YUG,41,56,M,10,7,3,0,  561,2,3,0,0,0,0,3,0
-jaropa,Jaroszyński,Paweł,1994-10-02,POL,41,44,F,5,4,1,0,  363,3,7,0,0,0,0,0,0
-juwamu,Juwara,Musa,2001-12-26,ITA,41,19,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
-kiyiso,Kiyine,Sofian,1997-10-02,BEL,41,13,M,8,2,6,0,  244,1,7,0,0,0,0,3,0
-lerime,Léris,Mehdi,1998-05-23,FRA,41,11,M,7,3,4,0,  331,1,8,0,0,0,0,1,0
-meggri,Meggiorini,Riccardo,1985-09-04,ITA,41,69,A,9,4,5,1,  395,0,0,0,0,1,0,3,0
-obixjo,Obi,Joel Chukwuma,1991-05-22,NGR,41,22,M,10,8,2,1,  645,1,1,0,0,0,0,1,0
-pells2,Pellissier,Sergio,1979-04-12,ITA,41,31,A,8,4,4,2,  316,1,6,0,0,0,0,0,0
-puccma,Pucciarelli,Manuel,1991-06-17,ITA,41,10,A,2,1,1,0,   78,0,6,0,0,0,0,0,0
-radoiv,Radovanovic,Ivan,1988-08-29,SRB,41,8,M,15,15,0,0, 1346,14,0,0,0,0,0,4,0
-rigoni,Rigoni,Nicola,1990-11-12,ITA,41,4,M,10,10,0,0,  821,5,1,0,0,0,0,2,0
-rossl1,Rossettini,Luca,1985-05-09,ITA,41,15,F,14,13,1,0, 1193,13,0,0,0,0,0,5,0
-secuan,Seculin,Andrea,1990-07-14,ITA,41,16,P,2,1,1,0,   91,1,11,-7,0,0,0,0,0
-sorrst,Sorrentino,Stefano,1979-03-28,ITA,41,70,P,14,14,0,0, 1259,13,0,-25,0,0,0,0,0
-stepma,Stępiński,Mariusz,1995-05-12,POL,41,9,A,14,12,2,4, 1072,9,0,0,0,0,0,2,0
-tanast,Tanasijević,Strahinja,1997-06-12,SRB,41,3,F,1,0,1,0,   17,0,10,0,0,0,0,1,1
-tomone,Tomovic,Nenad,1987-08-30,SRB,41,40,F,6,6,0,1,  497,5,0,0,0,0,0,1,0
-vignem,Vignato,Emanuel,2000-08-24,ITA,41,55,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
-sempad,Šemper,Adrian,1998-01-12,CRO,41,1,P,0,0,0,0,    0,0,15,0,0,0,0,0,0
-acquaf,Acquah,Afriyie,1992-01-05,GHA,55,18,M,12,10,2,0,  760,4,1,0,0,0,0,0,0
-antol1,Antonelli,Luca,1987-02-11,ITA,55,13,F,7,7,0,0,  500,3,2,0,0,0,0,1,0
-bennis,Bennacer,Ismaël,1997-12-01,FRA,55,10,M,15,10,5,0, 1020,8,0,0,0,0,0,4,0
-brigma,Brighi,Matteo,1981-02-14,ITA,55,4,M,2,0,2,0,   19,0,13,0,0,0,0,0,0
-capel1,Capezzi,Leonardo,1995-03-28,ITA,55,28,M,8,8,0,0,  657,4,7,0,-1,0,0,4,0
-capufr,Caputo,Francesco,1987-08-06,ITA,55,11,A,15,15,0,8, 1350,15,0,0,0,1,0,0,0
-fulian,Fulignati,Andrea,1994-10-31,ITA,55,99,P,0,0,0,0,    0,0,11,0,0,0,0,0,0
-jakuar,Jakupovic,Arnel,1998-05-29,AUT,55,19,A,0,0,0,0,    0,0,5,0,0,0,0,0,0
-krunra,Krunic,Rade,1993-10-07,SRB,55,33,M,15,15,0,2, 1261,10,0,0,0,0,0,4,0
-laGuan,La Gumina,Antonino,1996-03-06,ITA,55,20,A,15,9,6,2,  790,1,0,0,0,0,0,0,0
-lolllo,Lollo,Lorenzo,1990-12-08,ITA,55,17,M,0,0,0,0,    0,0,5,0,0,0,0,0,0
-loregd,Lorenzo,Giovanni Di,1993-08-04,ITA,55,2,F,15,15,0,0, 1350,15,0,0,0,0,0,4,0
-maiedo,Maietta,Domenico,1982-08-03,ITA,55,22,F,12,12,0,0, 1080,12,1,0,0,0,0,4,0
-marcm9,Marcjanik,Michał,1994-12-15,POL,55,29,F,0,0,0,0,    0,0,14,0,0,0,0,0,0
-mchele,Mchedlidze,Levan,1990-03-24,GEO,55,7,A,4,0,4,0,   77,0,2,0,0,0,0,1,0
-mrazsa,Mráz,Samuel,1997-05-13,SVK,55,66,A,5,1,4,1,  121,0,2,0,0,0,0,0,0
-pasqm2,Pasqual,Manuel,1982-03-13,ITA,55,23,F,8,3,5,0,  407,2,2,0,0,0,0,0,0
-proviv,Provedel,Ivan,1994-03-17,ITA,55,1,P,7,7,0,0,  630,7,8,-16,0,0,0,0,0
-rasmja,Rasmussen,Jacob,1997-05-28,DEN,55,32,F,5,4,1,0,  376,4,10,0,0,0,0,2,0
-rodra1,Rodríguez,Alejandro,1991-07-30,SPA,55,17,A,0,0,0,0,    0,0,2,0,0,0,0,0,0
-sarogi,Saro,Gianluca,2000-06-25,ITA,55,40,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
-silvm3,Silvestre,Matias Agustin,1984-09-25,ARG,55,26,F,15,15,0,2, 1350,15,0,0,-1,0,0,3,0
-terrpi,Terracciano,Pietro,1990-03-08,ITA,55,21,P,8,8,0,0,  720,8,7,-10,0,0,0,0,0
-traohj,Traoré,Hamed Junior,2000-02-16,CIV,55,8,M,12,7,5,0,  637,2,3,0,0,0,0,2,0
-ucansa,Ucan,Salih,1994-01-06,TUR,55,48,M,3,1,2,1,  120,0,11,0,0,0,0,1,0
-untejo,Untersee,Joel,1994-02-11,SUI,55,27,F,1,0,1,0,   16,0,12,0,0,0,0,0,0
-vesefr,Veseli,Frederic,1992-11-20,SUI,55,5,F,10,8,2,0,  725,8,3,0,0,0,0,2,0
-zajcmi,Zajc,Miha,1994-07-01,SLO,55,6,M,14,10,4,2,  864,3,0,0,0,0,0,1,1
-benam2,Benassi,Marco,1994-09-08,ITA,61,24,M,14,13,1,6,  999,4,1,0,0,0,0,3,0
-biracr,Biraghi,Cristiano,1992-09-01,ITA,61,3,F,15,15,0,1, 1305,14,0,0,0,0,0,3,0
-branfe,Brancolini,Federico,2001-07-14,ITA,61,33,P,0,0,0,0,    0,0,4,0,0,0,0,0,0
-ceccfe,Ceccherini,Federico,1992-05-11,ITA,61,5,F,1,1,0,0,   90,1,14,0,0,0,0,0,0
-chiefe,Chiesa,Federico,1997-10-25,ITA,61,25,M,15,14,1,2, 1254,11,0,0,0,0,0,2,0
-dabobr,Dabo,Bryan,1992-02-18,FRA,61,14,M,6,0,6,0,   84,0,7,0,0,0,0,1,0
-dikske,Diks,Kevin,1996-10-06,NED,61,34,F,0,0,0,0,    0,0,13,0,0,0,0,0,0
-dragba,Dragowski,Bartlomiej,1997-08-19,POL,61,69,P,3,2,1,0,  225,2,12,-2,0,0,0,0,0
-eyssva,Eysseric,Valentin,1992-03-25,FRA,61,7,M,7,4,3,0,  342,2,7,0,0,0,0,1,0
-ferned,Fernandes,Edimilson,1996-04-15,SUI,61,26,M,14,9,5,0,  895,6,1,0,0,0,0,5,0
-daSige,Gerson,Santos Da Silva,1997-05-20,BRA,61,8,M,15,13,2,1, 1080,3,0,0,0,0,0,3,0
-ghidsi,Ghidotti,Simone,2000-03-19,ITA,61,67,P,0,0,0,0,    0,0,4,0,0,0,0,0,0
-graima,Graiciar,Martin,1999-04-11,CZE,61,27,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
-hancda,Hancko,Dávid,1997-12-13,SVK,61,16,F,1,0,1,0,   45,0,14,0,0,0,0,0,0
-hugovi,Hugo,Vitor,1991-05-20,BRA,61,31,F,14,14,0,0, 1260,14,0,0,0,0,0,5,0
-lafoal,Lafont,Alban,1999-01-23,FRA,61,1,P,13,13,0,0, 1125,12,1,-14,-1,0,0,1,0
-laurvi,Laurini,Vincent Alain,1989-06-10,FRA,61,2,F,2,1,1,0,  100,1,13,0,0,0,0,0,0
-mileni,Milenković,Nikola,1997-10-12,SRB,61,4,F,15,15,0,2, 1349,14,0,0,0,0,0,2,1
-mirake,Mirallas,Kevin,1987-10-05,BEL,61,11,A,10,3,7,1,  386,2,3,0,0,0,0,2,0
-montto,Montiel,Tòfol,2000-04-11,SPA,61,19,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
-noerch,Nørgaard,Christian,1994-03-10,DEN,61,6,M,1,0,1,0,   37,0,12,0,0,0,0,0,0
-pezzge,Pezzella,Germán,1991-06-27,ARG,61,20,F,14,14,0,0, 1260,14,0,0,0,0,0,2,0
-pjacma,Pjaca,Marko,1995-05-06,CRO,61,10,A,13,7,6,1,  577,0,1,0,0,0,0,1,0
-simegi,Simeone,Giovanni Pablo,1995-07-05,ARG,61,9,A,15,13,2,3, 1174,8,0,0,0,0,0,0,0
-sottri,Sottil,Riccardo,1999-06-03,ITA,61,21,A,2,0,2,0,   20,0,8,0,0,0,0,0,0
-thercy,Thereau,Cyril,1983-04-24,FRA,61,77,A,2,0,2,0,   29,0,0,0,0,0,0,1,0
-verejo,Veretout,Jordan,1993-03-01,FRA,61,17,M,13,13,0,3, 1143,12,0,0,0,3,0,5,0
-vlahdu,Vlahović,Dušan,2000-01-28,SRB,61,28,A,4,1,3,0,   70,0,4,0,0,0,0,0,0
-ardajo,Ardaiz,Joaquín,1999-01-11,URU,67,99,A,1,0,1,0,   20,0,0,0,0,0,0,0,0
-arialo,Ariaudo,Lorenzo,1989-06-11,ITA,67,15,F,8,8,0,0,  720,8,7,0,0,0,0,1,0
-bardfr,Bardi,Francesco,1992-01-18,ITA,67,22,P,0,0,0,0,    0,0,14,0,0,0,0,0,0
-beghan,Beghetto,Andrea,1994-10-11,ITA,67,33,M,8,7,1,0,  617,6,7,0,0,0,0,1,0
-besepr,Besea,Prince,1997-04-15,GHA,67,31,A,0,0,0,0,    0,0,2,0,0,0,0,0,0
-brigni,Brighenti,Nicolò,1989-08-01,ITA,67,23,F,3,3,0,0,  270,3,12,0,0,0,0,2,0
-campj1,Campbell,Joel,1992-06-26,CRC,67,29,A,13,9,4,0,  734,2,0,0,0,0,0,4,0
-capum2,Capuano,Marco,1991-10-14,ITA,67,25,F,11,11,0,0,  960,9,3,0,0,0,0,0,0
-cassfr,Cassata,Francesco d'assisi,1997-07-16,ITA,67,24,M,8,5,3,1,  427,1,7,0,0,0,0,3,0
-chibyu,Chibsah,Yussif Raman,1993-03-10,GHA,67,66,M,15,15,0,1, 1329,14,0,0,0,0,0,2,0
-cianca,Ciano,Camillo,1990-02-22,ITA,67,28,A,13,10,3,3,  856,4,0,0,0,1,0,3,0
-ciofda,Ciofani,Daniel,1985-07-31,ITA,67,9,A,10,7,3,2,  693,4,2,0,0,1,0,0,0
-crislo,Crisetig,Lorenzo,1993-01-20,ITA,67,88,M,5,3,2,0,  335,3,10,0,0,0,0,1,0
-ghigpa,Ghiglione,Paolo,1997-02-02,ITA,67,2,M,3,0,3,0,   59,0,12,0,0,0,0,1,0
-golded,Goldaniga,Edoardo,1993-11-02,ITA,67,6,F,12,12,0,1, 1080,12,3,0,0,0,0,3,0
-gorimi,Gori,Mirko,1993-02-04,ITA,67,5,M,4,0,4,0,   96,0,1,0,0,0,0,1,0
-hallem,Hallfredsson,Emil,1984-06-29,ISL,67,20,M,6,5,1,0,  393,3,0,0,0,0,0,2,0
-iacoal,Iacobucci,Alessandro,1991-06-03,ITA,67,91,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
-krajlu,Krajnc,Luka,1994-09-19,SLO,67,32,F,4,4,0,0,  354,3,9,0,0,0,0,2,0
-maiera,Maiello,Raffaele,1991-07-10,ITA,67,8,M,11,10,1,0,  818,3,1,0,0,0,0,4,0
-matalu,Matarese,Luca,1998-04-16,ITA,67,19,M,1,0,1,0,    9,0,4,0,0,0,0,0,0
-molicr,Molinaro,Cristian,1983-07-30,ITA,67,3,F,8,8,0,0,  714,7,5,0,0,0,0,2,0
-perist,Perica,Stipe,1995-07-07,CRO,67,11,A,7,6,1,0,  464,2,1,0,0,0,0,3,0
-pinaan,Pinamonti,Andrea,1999-05-19,ITA,67,89,A,8,3,5,2,  268,0,1,0,0,0,0,1,0
-salaba,Salamon,Bartosz,1991-05-01,POL,67,27,F,7,7,0,0,  630,7,8,0,0,0,0,0,0
-sammpa,Sammarco,Paolo,1983-03-17,ITA,67,21,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
-soddda,Soddimo,Danilo,1987-09-27,ITA,67,10,A,9,1,8,0,  223,1,4,0,0,0,0,1,0
-sporma,Sportiello,Marco,1992-05-10,ITA,67,57,P,15,15,0,0, 1350,15,0,-33,0,0,0,2,0
-vloera,Vloet,Rai,1995-05-08,NED,67,4,M,5,1,4,0,  121,0,5,0,0,0,0,0,0
-zampfr,Zampano,Francesco Filippo,1993-09-30,ITA,67,17,F,15,15,0,0, 1310,13,0,0,0,0,0,1,0
-bessda,Bessa,Daniel,1993-01-14,BRA,70,24,M,13,9,4,1,  905,6,1,0,0,0,0,5,0
-birada,Biraschi,Davide,1994-07-02,ITA,70,14,F,15,15,0,0, 1350,15,0,0,-1,0,0,2,0
-crisd1,Criscito,Domenico,1986-12-30,ITA,70,4,F,14,14,0,0, 1180,13,0,0,0,0,0,7,1
-dalmni,Dalmonte,Nicola,1997-09-13,ITA,70,26,A,1,0,1,0,   24,0,6,0,0,0,0,0,0
-favian,Favilli,Andrea,1997-05-17,ITA,70,39,A,2,0,2,0,   90,0,3,0,0,0,0,0,0
-guenko,Günter,Koray,1994-08-16,GER,70,3,F,9,4,5,0,  513,4,6,0,0,0,0,1,0
-hiljos,Hiljemark,Oscar Karl Niclas,1992-06-28,SWE,70,88,M,13,11,2,0,  882,5,2,0,0,0,0,0,0
-kouacr,Kouamé,Cristhian,1997-12-06,CIV,70,11,A,15,13,2,3, 1217,10,0,0,0,0,0,2,0
-lakiiv,Lakićević,Ivan,1993-07-27,SRB,70,33,M,0,0,0,0,    0,0,12,0,0,0,0,0,0
-lapagi,Lapadula,Gianluca,1990-02-07,ITA,70,10,A,1,0,1,0,    9,0,10,0,0,0,0,0,0
-lazoda,Lazovic,Darko,1990-09-15,SRB,70,22,M,15,13,2,0, 1108,8,0,0,0,0,0,0,0
-lopeli,López,Lisandro,1989-09-01,ARG,70,5,F,0,0,0,0,    0,0,10,0,0,0,0,0,0
-marcfe,Marchetti,Federico,1983-02-07,ITA,70,1,P,4,4,0,0,  360,4,7,-10,0,0,0,1,0
-mazzl1,Mazzitelli,Luca,1995-11-15,ITA,70,15,M,8,2,6,0,  274,0,6,0,0,0,0,3,0
-medeiu,Medeiros,Iuri,1994-07-10,POR,70,45,A,2,2,0,0,  106,0,0,0,0,0,0,0,0
-velomi,Miguel Veloso,Luis Pinto,1986-05-11,POR,70,44,M,5,3,2,0,  269,1,2,0,0,0,0,3,0
-omeost,Omeonga,Stephane,1996-03-27,BEL,70,40,M,3,0,3,0,   57,0,8,0,0,0,0,1,0
-pandgo,Pandev,Goran,1983-07-27,MAC,70,19,A,10,6,4,2,  407,1,5,0,0,0,0,2,0
-perepe,Pereira,Pedro Miguel De Almeida Lopes,1998-01-22,POR,70,32,F,9,6,3,0,  518,3,6,0,0,0,0,0,0
-piatkr,Piątek,Krzysztof,1995-07-01,POL,70,9,A,15,14,1,11, 1233,12,0,0,0,2,0,3,0
-raduio,Radu,Ionuţ Andrei,1997-05-28,ROM,70,97,P,11,11,0,0,  990,11,4,-20,0,0,0,0,0
-roloes,Rolón,Esteban,1995-09-25,ARG,70,18,M,1,0,1,0,   25,0,10,0,0,0,0,0,0
-romecr,Romero,Cristian,1998-04-27,ARG,70,17,F,7,7,0,1,  613,6,0,0,0,0,0,1,1
-caldro,Romulo,Orestes Souza Caldeira,1987-05-22,BRA,70,8,M,13,13,0,1, 1036,8,1,0,0,1,0,0,1
-russal,Russo,Alessandro,2001-03-31,ITA,70,23,P,0,0,0,0,    0,0,4,0,0,0,0,0,0
-sandsa,Sandro, ,1989-03-15,BRA,70,30,M,9,7,2,0,  580,2,1,0,0,0,0,3,0
-spolni,Spolli,Nicolas Federico,1983-02-20,ARG,70,2,F,7,7,0,0,  538,5,1,0,-1,0,0,2,0
-vodiro,Vodišek,Rok,1998-12-05,SLO,70,25,P,0,0,0,0,    0,0,10,0,0,0,0,0,0
-zukaer,Zukanovic,Ervin,1987-02-11,BOS,70,87,F,7,4,3,0,  406,4,6,0,0,0,0,1,0
-asamkw,Asamoah,Kwadwo,1988-12-09,GHA,77,18,M,13,12,1,0, 1075,11,2,0,0,0,0,4,0
-baldk1,Baldé,Keita,1995-03-08,SEN,77,11,A,14,5,9,3,  530,1,1,0,0,0,0,1,0
-valebo,Borja Valero,Iglesias,1985-01-12,SPA,77,20,M,10,4,6,0,  522,1,5,0,0,0,0,1,0
-brozma,Brozovic,Marcelo,1992-11-16,CRO,77,77,M,13,12,1,2, 1104,9,0,0,0,0,0,3,1
-candan,Candreva,Antonio,1987-02-28,ITA,77,87,M,7,4,3,1,  281,0,8,0,0,0,0,0,0
-dambda,D'Ambrosio,Danilo,1988-09-09,ITA,77,33,F,11,11,0,1,  965,9,4,0,0,0,0,2,0
-dalbda,Dalbert, ,1993-09-08,BRA,77,29,F,5,4,1,0,  340,3,7,0,0,0,0,1,0
-deVrst,De Vrij,Stefan,1992-02-05,NED,77,6,F,10,10,0,1,  900,10,5,0,0,0,0,1,0
-gaglro,Gagliardini,Roberto,1994-04-07,ITA,77,5,M,10,7,3,2,  590,5,5,0,0,0,0,2,0
-handsa,Handanovic,Samir,1984-07-14,SLO,77,1,P,15,15,0,0, 1350,15,0,-13,0,0,0,0,0
-icarma,Icardi,Mauro Emanuel,1993-02-19,ARG,77,9,A,12,10,2,8,  950,9,2,0,0,2,0,0,0
-joaoma,Joao Mario,Eduardo Naval Da Costa,1993-01-19,POR,77,15,M,5,4,1,1,  332,2,9,0,0,0,0,0,0
+polia1,Poli,Andrea,1989-09-29,ITA,20,16,M,30,23,7,4, 1932,4,1,0,0,0,0,5,0
+pulger,Pulgar,Erick Antonio,1994-01-15,CHI,20,5,M,28,27,1,6, 2357,20,5,0,-1,5,0,6,1
+sansni,Sansone,Nicola Domenico,1991-09-10,GER,20,10,A,15,13,2,2, 1140,8,0,0,0,0,0,3,1
+santf2,Santander,Federico,1991-06-04,PAR,20,9,A,32,23,9,8, 2066,16,3,0,0,0,0,5,0
+santan,Santurro,Antonio,1992-02-29,ITA,20,29,P,0,0,0,0,    0,0,22,0,0,0,0,0,0
+skorlu,Skorupski,Lukasz,1991-05-05,POL,20,28,P,38,38,0,0, 3420,38,0,-56,0,0,0,1,0
+soriro,Soriano,Roberto,1991-02-08,GER,20,21,M,17,17,0,2, 1488,11,1,0,0,0,0,5,0
+svanma,Svanberg,Mattias,1999-01-05,SWE,20,32,M,23,13,10,0, 1177,5,14,0,0,0,0,2,0
+valeju,Valencia,Juan Manuel,1998-10-17,COL,20,19,M,1,0,1,0,   27,0,11,0,0,0,0,1,0
+andrma,Andreolli,Marco,1986-06-10,ITA,24, , ,3,1,2,0,  106,1,17,0,0,0,0,1,0
+aressi,Aresti,Simone,1986-03-15,ITA,24,16,P,0,0,0,0,    0,0,37,0,0,0,0,0,0
+bareni,Barella,Nicolò,1997-02-07,ITA,24,18,M,35,35,0,1, 3108,30,0,0,0,0,0,8,2
+birsva,Birsa,Valter,1986-08-07,SLO,24,14,M,12,4,8,0,  354,0,3,0,0,0,0,0,0
+bradfi,Bradarić,Filip,1992-01-11,CRO,24,6,M,27,17,10,0, 1494,8,9,0,-1,0,0,5,0
+caccfa,Cacciatore,Fabrizio,1986-10-08,ITA,24,12,F,7,7,0,0,  579,4,3,0,0,0,0,2,0
+castl8,Castro,Lucas Nahuel,1989-04-09,ARG,24,29,M,12,10,2,1,  894,5,2,0,0,0,0,1,0
+cepplu,Ceppitelli,Luca,1989-08-11,ITA,24,23,F,24,24,0,1, 2053,22,1,0,-1,0,0,6,1
+cerral,Cerri,Alberto,1996-04-16,ITA,24,9,A,15,7,8,0,  670,2,9,0,0,0,0,3,0
+cigalu,Cigarini,Luca,1986-06-20,ITA,24,8,M,25,20,5,0, 1683,9,12,0,0,0,0,9,0
+cragal,Cragno,Alessio,1994-06-28,ITA,24,28,P,38,38,0,0, 3420,38,0,-54,0,0,0,1,0
+dagari,Daga,Riccardo,2000-01-13,ITA,24,12,P,0,0,0,0,    0,0,10,0,0,0,0,0,0
+deioal,Deiola,Alessandro,1995-08-01,ITA,24,27,M,10,5,5,0,  450,2,6,0,0,0,0,2,0
+despki,Despodov,Kiril,1996-11-11,BUL,24,32,A,4,0,4,0,  105,0,7,0,0,0,0,0,0
+dessda,Dessena,Daniele,1987-05-10,ITA,24, , ,11,3,8,0,  352,3,8,0,0,0,0,3,0
+dorari,Doratiotto,Riccardo,1999-06-07,ITA,24,36,M,1,1,0,0,   78,0,8,0,0,0,0,0,0
+farapa,Farago,Pancrazio Paolo,1993-02-12,ITA,24,24,M,26,17,9,1, 1704,15,3,0,0,0,0,7,1
+daSidi,Farias,Diego Da Silva,1990-05-10,BRA,24, , ,16,7,9,3,  700,1,1,0,0,0,0,3,0
+ioniar,Ioniţă,Artur,1990-08-17,MOL,24,21,M,37,34,3,3, 2967,19,0,0,0,0,0,4,1
+galvjo,Joao Pedro,Geraldino Dos Santos Galvao,1992-03-09,BRA,24,10,M,34,30,4,7, 2556,11,0,0,0,2,0,4,1
+klavra,Klavan,Ragnar,1985-10-30,EST,24,15,F,15,15,0,0, 1230,12,2,0,0,0,0,2,0
+ladiri,Ladinetti,Riccardo,2000-12-20,ITA,24,38,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+lellnu,Lella,Nunzio,2000-07-28,ITA,24,39,F,0,0,0,0,    0,0,5,0,0,0,0,0,0
+levema,Leverbe,Maxime,1997-02-15,FRA,24,26,F,0,0,0,0,    0,0,9,0,0,0,0,0,0
+lykoch,Lykogiannis,Charalampos,1993-10-22,GRE,24,22,F,11,9,2,0,  830,8,14,0,0,0,0,1,0
+olivch,Oliva,Christian,1996-06-01,URU,24,17,M,0,0,0,0,    0,0,16,0,0,0,0,0,0
+padosi,Padoin,Simone,1984-03-18,ITA,24,20,M,30,22,8,0, 1915,15,7,0,0,0,0,2,0
+pajama,Pajac,Marko,1993-05-11,CRO,24, , ,3,0,3,0,  100,0,17,0,0,0,0,0,0
+pavole,Pavoletti,Leonardo,1988-11-26,ITA,24,30,A,32,31,1,16, 2734,26,2,0,0,0,0,6,0
+pelll2,Pellegrini,Luca,1999-03-07,ITA,24,3,F,12,11,1,0,  940,9,2,0,0,0,0,2,1
+pinhr1,Pinheiro,Rafael,1982-03-03,BRA,24,1,P,0,0,0,0,    0,0,37,0,0,0,0,0,0
+pisafa,Pisacane,Fabio,1986-01-28,ITA,24,19,F,27,24,3,1, 2265,22,10,0,0,0,0,6,0
+romafi,Romagna,Filippo,1997-05-26,ITA,24,56,F,18,16,2,0, 1475,15,19,0,0,0,0,2,0
+sauxma,Sau,Marco,1987-11-03,ITA,24, , ,14,5,9,1,  558,1,3,0,0,0,0,4,0
+srnada,Srna,Darijo,1982-05-01,CRO,24,33,F,26,24,2,0, 2087,20,7,0,0,0,0,6,0
+thercy,Thereau,Cyril,1983-04-24,FRA,24,77,A,5,1,4,0,  131,0,2,0,0,0,0,0,0
+verdfr,Verde,Francesco,1999-08-16,ITA,24,37,A,1,0,1,0,   12,0,2,0,0,0,0,0,0
+andrma,Andreolli,Marco,1986-06-10,ITA,41,33,F,8,7,1,0,  646,6,7,0,0,0,0,2,0
+banima,Bani,Mattia,1993-12-10,ITA,41,14,F,30,29,1,0, 2610,26,3,0,-1,0,0,7,1
+barbfe,Barba,Federico,1993-09-01,ITA,41,5,F,30,29,1,0, 2483,26,2,0,0,0,0,5,2
+birsva,Birsa,Valter,1986-08-07,SLO,41, , ,17,12,5,2, 1101,5,1,0,0,1,0,1,0
+bragmi,Bragantini,Michele,2001-05-14,ITA,41,22,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
+burrma,Burruchaga,Mauro,1998-06-27,ARG,41,21,M,1,0,1,0,   58,0,24,0,0,0,0,0,0
+caccfa,Cacciatore,Fabrizio,1986-10-08,ITA,41, , ,7,5,2,0,  497,5,0,0,0,0,0,1,0
+capre2,Caprile,Elia,2001-08-25,ITA,41,67,P,0,0,0,0,    0,0,13,0,0,0,0,0,0
+cesabo,Cesar,Bostjan,1982-07-09,SLO,41,12,F,14,11,3,1, 1079,11,17,0,0,0,0,3,0
+depafa,Depaoli,Fabio,1997-04-24,ITA,41,27,M,33,27,6,0, 2487,21,1,0,0,0,0,10,2
+diouel,Dioussé,El Hadji Assane,1997-09-20,SEN,41,8,M,14,9,5,0,  892,6,2,0,0,0,0,5,0
+djorfi,Djordjevic,Filip,1987-09-28,YUG,41,20,A,13,6,7,1,  634,4,9,0,0,0,0,1,0
+freyni,Frey,Nicolas Sebastien,1984-03-06,FRA,41,6,F,5,3,2,0,  227,2,9,0,0,0,0,0,0
+giacem,Giaccherini,Emanuele,1985-05-05,ITA,41,17,M,26,22,4,3, 2009,19,1,0,-1,1,0,8,0
+grubse,Grubač,Sergej,2000-05-29,MNT,41,25,A,3,2,1,0,  157,1,13,0,0,0,0,1,0
+hetepe,Hetemaj,Perparim,1986-12-12,YUG,41,56,M,30,25,5,2, 2155,15,5,0,0,0,0,9,0
+jaropa,Jaroszyński,Paweł,1994-10-02,POL,41,44,F,19,15,4,0, 1348,10,10,0,0,0,0,2,0
+juwamu,Juwara,Musa,2001-12-26,ITA,41,19,A,1,0,1,0,   12,0,1,0,0,0,0,0,0
+karaib,Karamoko,Ibrahim,2001-07-23,ITA,41,18,M,2,0,2,0,   66,0,3,0,0,0,0,0,0
+kiyiso,Kiyine,Sofian,1997-10-02,BEL,41,13,M,23,9,14,0,  815,2,13,0,0,0,0,7,0
+lerime,Léris,Mehdi,1998-05-23,FRA,41,11,M,23,18,5,0, 1607,11,12,0,0,0,0,5,0
+meggri,Meggiorini,Riccardo,1985-09-04,ITA,41,69,A,24,18,6,3, 1549,8,1,0,0,1,0,6,0
+ndrean,Ndrecka,Angelo,2001-09-24,ALB,41,43,F,1,1,0,0,   90,1,6,0,0,0,0,0,0
+obixjo,Obi,Joel Chukwuma,1991-05-22,NGR,41, , ,11,9,2,1,  659,1,2,0,0,0,0,1,0
+pells2,Pellissier,Sergio,1979-04-12,ITA,41,31,A,19,12,7,4,  952,5,6,0,0,1,0,1,0
+piazlu,Piazón,Lucas,1994-01-20,BRA,41,7,A,4,0,4,0,   84,0,12,0,0,0,0,0,0
+puccma,Pucciarelli,Manuel,1991-06-17,ITA,41,10,A,10,3,7,0,  302,0,16,0,0,0,0,1,0
+radoiv,Radovanovic,Ivan,1988-08-29,SRB,41, , ,19,19,0,0, 1706,18,0,0,0,0,0,6,0
+rigoni,Rigoni,Nicola,1990-11-12,ITA,41,4,M,24,23,1,0, 1951,15,7,0,0,0,0,8,1
+rossl1,Rossettini,Luca,1985-05-09,ITA,41,15,F,21,20,1,0, 1823,20,7,0,0,0,0,5,0
+scheez,Schelotto,Ezequiel Matias,1989-05-23,ARG,41,2,M,4,2,2,0,  143,1,1,0,0,0,0,0,0
+secuan,Seculin,Andrea,1990-07-14,ITA,41,16,P,2,1,1,0,   91,1,14,-7,0,0,0,0,0
+sorrst,Sorrentino,Stefano,1979-03-28,ITA,41,70,P,31,31,0,0, 2789,30,0,-60,0,0,0,2,0
+stepma,Stępiński,Mariusz,1995-05-12,POL,41,9,A,35,27,8,6, 2476,18,1,0,0,0,0,5,0
+tanast,Tanasijević,Strahinja,1997-06-12,SRB,41,3,F,1,0,1,0,   17,0,24,0,0,0,0,1,1
+tomone,Tomovic,Nenad,1987-08-30,SRB,41,40,F,10,9,1,1,  739,6,11,0,0,0,0,1,0
+vignem,Vignato,Emanuel,2000-08-24,ITA,41,55,M,10,8,2,1,  656,0,12,0,0,0,0,0,0
+sempad,Šemper,Adrian,1998-01-12,CRO,41,1,P,6,6,0,0,  540,6,31,-8,0,0,0,0,0
+acquaf,Acquah,Afriyie,1992-01-05,GHA,55,18,M,28,19,9,2, 1512,5,6,0,0,0,0,4,0
+antol1,Antonelli,Luca,1987-02-11,ITA,55,13,F,13,10,3,0,  772,4,8,0,0,0,0,1,0
+balded,Baldé,Eduardo,1999-03-10,GBS,55,45,M,0,0,0,0,    0,0,2,0,0,0,0,0,0
+belalu,Belardinelli,Luca,2001-03-14,ITA,55,46,M,0,0,0,0,    0,0,2,0,0,0,0,0,0
+bennis,Bennacer,Ismaël,1997-12-01,FRA,55,10,M,37,32,5,0, 2961,28,0,0,0,0,0,7,0
+brigma,Brighi,Matteo,1981-02-14,ITA,55,4,M,10,1,9,1,  232,0,28,0,0,0,0,1,0
+capel1,Capezzi,Leonardo,1995-03-28,ITA,55,28,M,12,9,3,0,  772,4,21,0,-1,0,0,4,0
+capufr,Caputo,Francesco,1987-08-06,ITA,55,11,A,38,38,0,16, 3420,38,0,0,0,3,0,3,0
+curtma,Curto,Marco,1999-01-05,ITA,55,41,F,0,0,0,0,    0,0,2,0,0,0,0,0,0
+dellcr,Dell'Orco,Cristian,1994-02-10,ITA,55,39,F,12,12,0,1, 1035,11,1,0,0,0,0,1,0
+dikske,Diks,Kevin,1996-10-06,NED,55,34,F,0,0,0,0,    0,0,4,0,0,0,0,0,0
+dragba,Dragowski,Bartlomiej,1997-08-19,POL,55,69,P,14,14,0,0, 1260,14,1,-24,0,0,0,2,0
+daSidi,Farias,Diego Da Silva,1990-05-10,BRA,55,17,A,16,16,0,4, 1191,5,0,0,0,0,0,1,0
+fulian,Fulignati,Andrea,1994-10-31,ITA,55, , ,0,0,0,0,    0,0,15,0,0,0,0,0,0
+jakuar,Jakupovic,Arnel,1998-05-29,AUT,55, , ,0,0,0,0,    0,0,6,0,0,0,0,0,0
+krunra,Krunic,Rade,1993-10-07,SRB,55,33,M,33,33,0,5, 2771,21,0,0,0,0,0,7,1
+laGuan,La Gumina,Antonino,1996-03-06,ITA,55,20,A,22,12,10,2, 1089,3,0,0,0,0,0,1,0
+lolllo,Lollo,Lorenzo,1990-12-08,ITA,55, , ,0,0,0,0,    0,0,5,0,0,0,0,0,0
+loregd,Lorenzo,Giovanni Di,1993-08-04,ITA,55,2,F,37,37,0,5, 3330,37,0,0,0,0,0,8,0
+maiedo,Maietta,Domenico,1982-08-03,ITA,55,22,F,21,21,0,0, 1713,15,7,0,0,0,0,5,0
+marcm9,Marcjanik,Michał,1994-12-15,POL,55, , ,0,0,0,0,    0,0,17,0,0,0,0,0,0
+mchele,Mchedlidze,Levan,1990-03-24,GEO,55,7,A,11,0,11,0,  208,0,8,0,0,0,0,1,0
+mrazsa,Mráz,Samuel,1997-05-13,SVK,55, , ,6,2,4,1,  170,0,4,0,0,0,0,0,0
+nikodi,Nikolaou,Dimitrios,1998-08-13,GRE,55,43,F,4,4,0,0,  348,3,13,0,0,0,0,0,0
+oberdi,Oberlin,Dimitri,1997-09-27,SUI,55,37,A,5,0,5,0,  139,0,9,0,0,0,0,0,0
+pajama,Pajac,Marko,1993-05-11,CRO,55,6,M,10,9,1,2,  738,4,5,0,0,0,0,5,0
+pasqm2,Pasqual,Manuel,1982-03-13,ITA,55,23,F,22,13,9,1, 1341,7,10,0,0,1,0,2,0
+pejoni,Pejović,Nikola,1998-09-22,SRB,55, , ,0,0,0,0,    0,0,2,0,0,0,0,0,0
+perufi,Perucchini,Filippo,1991-10-06,ITA,55,21,P,0,0,0,0,    0,0,15,0,0,0,0,0,1
+proviv,Provedel,Ivan,1994-03-17,ITA,55,1,P,16,16,0,0, 1440,16,22,-36,0,0,0,0,0
+rasmja,Rasmussen,Jacob,1997-05-28,DEN,55,32,F,14,10,4,0, 1017,8,22,0,0,0,0,3,0
+riccn1,Ricchi,Niccolò,2000-12-10,ITA,55,47,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
+riccsa,Ricci,Samuele,2001-08-21,ITA,55,42,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+rodra1,Rodríguez,Alejandro,1991-07-30,SPA,55, , ,1,0,1,0,   25,0,6,0,0,0,0,0,0
+sarogi,Saro,Gianluca,2000-06-25,ITA,55,40,P,0,0,0,0,    0,0,2,0,0,0,0,0,0
+silvm3,Silvestre,Matias Agustin,1984-09-25,ARG,55,26,F,34,34,0,2, 3060,34,0,0,-1,0,0,6,0
+terrpi,Terracciano,Pietro,1990-03-08,ITA,55, , ,8,8,0,0,  720,8,12,-10,0,0,0,0,0
+traohj,Traoré,Hamed Junior,2000-02-16,CIV,55,8,M,32,26,6,2, 2259,13,6,0,0,0,0,4,0
+ucansa,Ucan,Salih,1994-01-06,TUR,55,48,M,14,1,13,1,  261,0,18,0,0,0,0,1,0
+untejo,Untersee,Joel,1994-02-11,SUI,55, , ,3,1,2,0,  126,1,16,0,0,0,0,0,0
+vesefr,Veseli,Frederic,1992-11-20,SUI,55,5,F,31,28,3,0, 2539,28,5,0,0,0,0,4,0
+zajcmi,Zajc,Miha,1994-07-01,SLO,55, , ,20,12,8,3, 1166,4,0,0,0,0,0,1,1
+antzge,Antzoulas,Georgios,2000-02-04,GRE,61,30,F,0,0,0,0,    0,0,3,0,0,0,0,0,0
+benam2,Benassi,Marco,1994-09-08,ITA,61,24,M,32,29,3,7, 2314,13,4,0,0,0,0,6,0
+biracr,Biraghi,Cristiano,1992-09-01,ITA,61,3,F,36,36,0,1, 3194,34,1,0,0,0,0,8,0
+branfe,Brancolini,Federico,2001-07-14,ITA,61,33,P,0,0,0,0,    0,0,26,0,0,0,0,0,0
+ceccfe,Ceccherini,Federico,1992-05-11,ITA,61,5,F,15,11,4,0,  995,8,23,0,0,0,0,3,0
+chiefe,Chiesa,Federico,1997-10-25,ITA,61,25,M,37,34,3,6, 3033,29,0,0,0,0,0,4,0
+dabobr,Dabo,Bryan,1992-02-18,FRA,61,14,M,23,6,17,1,  838,4,13,0,0,0,0,4,0
+dikske,Diks,Kevin,1996-10-06,NED,61, , ,0,0,0,0,    0,0,14,0,0,0,0,0,0
+dragba,Dragowski,Bartlomiej,1997-08-19,POL,61, , ,3,2,1,0,  225,2,17,-2,0,0,0,0,0
+eyssva,Eysseric,Valentin,1992-03-25,FRA,61, , ,8,4,4,0,  358,2,10,0,0,0,0,1,0
+ferned,Fernandes,Edimilson,1996-04-15,SUI,61,26,M,29,23,6,2, 1971,13,2,0,0,0,0,8,1
+ferrgD,Ferrarini,Gabriele,2000-04-09,ITA,61,32,F,0,0,0,0,    0,0,3,0,0,0,0,0,0
+daSige,Gerson,Santos Da Silva,1997-05-20,BRA,61,8,M,36,27,9,3, 2429,12,1,0,-1,0,0,8,0
+ghidsi,Ghidotti,Simone,2000-03-19,ITA,61,67,P,0,0,0,0,    0,0,6,0,0,0,0,0,0
+graima,Graiciar,Martin,1999-04-11,CZE,61,27,A,0,0,0,0,    0,0,11,0,0,0,0,0,0
+hancda,Hancko,Dávid,1997-12-13,SVK,61,16,F,5,3,2,0,  282,2,33,0,0,0,0,0,0
+hugovi,Hugo,Vitor,1991-05-20,BRA,61,31,F,30,27,3,0, 2470,25,5,0,0,0,0,7,1
+koffch,Koffi,Christian,2000-08-28,FRA,61,34,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+lafoal,Lafont,Alban,1999-01-23,FRA,61,1,P,34,34,0,0, 3015,33,3,-40,-1,0,0,2,0
+lakter,Lakti,Erald,2000-01-06,ALB,61,34,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+laurvi,Laurini,Vincent Alain,1989-06-10,FRA,61,2,F,15,10,5,0,  918,4,20,0,0,0,0,4,0
+medjni,Medja,Nicky,2000-02-16,CMR,61,18,M,1,0,1,0,   45,0,2,0,0,0,0,1,0
+mileni,Milenković,Nikola,1997-10-12,SRB,61,4,F,34,34,0,3, 3008,32,1,0,0,0,0,7,1
+mirake,Mirallas,Kevin,1987-10-05,BEL,61,11,A,27,15,12,2, 1310,4,6,0,0,0,0,2,0
+montto,Montiel,Tòfol,2000-04-11,SPA,61,19,M,1,0,1,0,    6,0,10,0,0,0,0,0,0
+murilu,Muriel,Luis Fernando,1991-04-16,COL,61,29,A,19,16,3,6, 1442,11,0,0,0,0,0,1,0
+noerch,Nørgaard,Christian,1994-03-10,DEN,61,6,M,6,4,2,0,  323,1,29,0,0,0,0,0,0
+olivma,Olivera,Maximiliano Martin,1992-03-05,URU,61, , ,0,0,0,0,    0,0,2,0,0,0,0,0,0
+pezzge,Pezzella,Germán,1991-06-27,ARG,61,20,F,32,32,0,2, 2849,30,1,0,-1,0,0,6,0
+pjacma,Pjaca,Marko,1995-05-06,CRO,61,10,A,19,8,11,1,  749,1,6,0,0,0,0,1,0
+simegi,Simeone,Giovanni Pablo,1995-07-05,ARG,61,9,A,36,27,9,6, 2454,15,1,0,0,0,0,2,0
+sottri,Sottil,Riccardo,1999-06-03,ITA,61, , ,2,0,2,0,   20,0,11,0,0,0,0,0,0
+terrpi,Terracciano,Pietro,1990-03-08,ITA,61,23,P,2,2,0,0,  180,2,14,-3,0,0,0,0,0
+thercy,Thereau,Cyril,1983-04-24,FRA,61, , ,2,0,2,0,   29,0,2,0,0,0,0,1,0
+verejo,Veretout,Jordan,1993-03-01,FRA,61,17,M,33,33,0,5, 2941,30,0,0,0,5,0,12,1
+vlahdu,Vlahović,Dušan,2000-01-28,SRB,61,28,A,10,1,9,0,  160,0,10,0,0,0,0,0,0
+ardajo,Ardaiz,Joaquín,1999-01-11,URU,67, , ,1,0,1,0,   20,0,0,0,0,0,0,0,0
+arialo,Ariaudo,Lorenzo,1989-06-11,ITA,67,15,F,19,19,0,0, 1682,17,10,0,-1,0,0,2,0
+bardfr,Bardi,Francesco,1992-01-18,ITA,67,22,P,3,3,0,0,  270,3,26,-5,0,0,0,0,0
+beghan,Beghetto,Andrea,1994-10-11,ITA,67,33,M,27,25,2,0, 2226,22,10,0,0,0,0,3,0
+besepr,Besea,Prince,1997-04-15,GHA,67, , ,0,0,0,0,    0,0,3,0,0,0,0,0,0
+brigni,Brighenti,Nicolò,1989-08-01,ITA,67,23,F,11,11,0,0,  990,11,24,0,0,0,0,4,0
+campj1,Campbell,Joel,1992-06-26,CRC,67, , ,17,11,6,0,  892,2,1,0,0,0,0,4,0
+capum2,Capuano,Marco,1991-10-14,ITA,67,25,F,27,27,0,0, 2308,21,7,0,0,0,0,4,1
+cassfr,Cassata,Francesco d'assisi,1997-07-16,ITA,67,24,M,19,14,5,2, 1124,4,15,0,0,0,0,8,1
+chibyu,Chibsah,Yussif Raman,1993-03-10,GHA,67,66,M,32,30,2,1, 2623,24,1,0,0,0,0,5,0
+cianca,Ciano,Camillo,1990-02-22,ITA,67,28,A,33,28,5,7, 2453,15,0,0,0,2,0,12,0
+ciofda,Ciofani,Daniel,1985-07-31,ITA,67,9,A,32,17,15,5, 1635,9,2,0,0,2,0,1,0
+crislo,Crisetig,Lorenzo,1993-01-20,ITA,67, , ,8,5,3,0,  508,4,10,0,0,0,0,3,0
+dionfe,Dionisi,Federico,1987-06-16,ITA,67,18,A,9,1,8,1,  204,0,2,0,0,0,0,2,0
+errian,Errico,Andrea,1999-01-01,ITA,67,14,M,0,0,0,0,    0,0,4,0,0,0,0,0,0
+ghigpa,Ghiglione,Paolo,1997-02-02,ITA,67,2,M,9,6,3,1,  514,3,21,0,0,0,0,4,0
+golded,Goldaniga,Edoardo,1993-11-02,ITA,67,6,F,29,29,0,1, 2610,29,8,0,0,0,0,6,0
+gorimi,Gori,Mirko,1993-02-04,ITA,67,5,M,10,2,8,0,  330,2,11,0,0,0,0,3,0
+hallem,Hallfredsson,Emil,1984-06-29,ISL,67, , ,6,5,1,0,  393,3,0,0,0,0,0,2,0
+iacoal,Iacobucci,Alessandro,1991-06-03,ITA,67,91,P,0,0,0,0,    0,0,12,0,0,0,0,0,0
+krajlu,Krajnc,Luka,1994-09-19,SLO,67,32,F,9,9,0,0,  788,7,25,0,0,0,0,3,0
+maiera,Maiello,Raffaele,1991-07-10,ITA,67,8,M,29,22,7,0, 2041,13,5,0,0,0,0,4,0
+marcg5,Marciano,Giuseppe,2000-05-27,ITA,67,75,P,0,0,0,0,    0,0,5,0,0,0,0,0,0
+matalu,Matarese,Luca,1998-04-16,ITA,67, , ,2,0,2,0,   16,0,5,0,0,0,0,1,0
+molicr,Molinaro,Cristian,1983-07-30,ITA,67,3,F,14,13,1,0, 1159,11,22,0,0,0,0,3,0
+pagal1,Paganini,Luca,1993-06-08,ITA,67,7,M,14,12,2,2, 1123,12,3,0,0,0,0,2,0
+perist,Perica,Stipe,1995-07-07,CRO,67, , ,7,6,1,0,  464,2,1,0,0,0,0,3,0
+pinaan,Pinamonti,Andrea,1999-05-19,ITA,67,89,A,27,17,10,5, 1625,9,1,0,0,0,0,2,0
+salaba,Salamon,Bartosz,1991-05-01,POL,67,27,F,20,19,1,0, 1725,19,11,0,0,0,0,3,0
+salvpi,Salvati,Pierpaolo,2002-00-00,ITA,67,12,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
+sammpa,Sammarco,Paolo,1983-03-17,ITA,67,21,M,8,6,2,1,  553,4,14,0,0,0,0,1,0
+simist,Simic,Stefan,1995-01-20,CZE,67,4,F,0,0,0,0,    0,0,13,0,0,0,0,0,0
+soddda,Soddimo,Danilo,1987-09-27,ITA,67, , ,10,1,9,0,  251,1,7,0,0,0,0,2,0
+sporma,Sportiello,Marco,1992-05-10,ITA,67,57,P,35,35,0,0, 3150,35,0,-64,0,0,0,5,0
+trotma,Trotta,Marcello,1992-09-29,ITA,67,20,A,12,4,8,0,  399,0,0,0,0,0,0,0,0
+valzlu,Valzania,Luca,1996-03-05,ITA,67,16,M,13,11,2,2,  895,2,6,0,0,0,0,4,0
+verdf1,Verde,Francesco,2000-03-18,ITA,67,34,M,0,0,0,0,    0,0,4,0,0,0,0,0,0
+vivife,Viviani,Federico,1992-03-24,ITA,67,92,M,5,5,0,0,  337,2,1,0,0,0,0,1,0
+vloera,Vloet,Rai,1995-05-08,NED,67, , ,5,1,4,0,  121,0,5,0,0,0,0,0,0
+zampfr,Zampano,Francesco Filippo,1993-09-30,ITA,67,17,F,27,24,3,0, 2101,19,9,0,0,0,0,1,0
+bessda,Bessa,Daniel,1993-01-14,BRA,70,24,M,34,25,9,1, 2440,15,3,0,0,0,0,8,0
+birada,Biraschi,Davide,1994-07-02,ITA,70,14,F,34,32,2,0, 2841,27,3,0,-1,0,0,3,1
+canda1,Candela,Antonio,2000-04-27,ITA,70,20,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
+crisd1,Criscito,Domenico,1986-12-30,ITA,70,4,F,35,35,0,2, 3070,34,0,0,0,1,0,12,1
+dalmni,Dalmonte,Nicola,1997-09-13,ITA,70,26,A,3,0,3,0,   44,0,18,0,0,0,0,0,0
+favian,Favilli,Andrea,1997-05-17,ITA,70,39,A,6,0,6,0,  170,0,5,0,0,0,0,0,0
+guenko,Günter,Koray,1994-08-16,GER,70,3,F,14,8,6,0,  835,7,20,0,0,0,0,1,0
+hiljos,Hiljemark,Oscar Karl Niclas,1992-06-28,SWE,70,88,M,17,15,2,1, 1197,7,2,0,0,0,0,0,0
+jandja,Jandrei,Jandrei,1993-03-01,BRA,70,93,P,1,1,0,0,   90,1,17,-1,0,0,0,0,0
+kouacr,Kouamé,Cristhian,1997-12-06,CIV,70,11,A,38,33,5,4, 3066,24,0,0,0,0,0,4,0
+lakiiv,Lakićević,Ivan,1993-07-27,SRB,70,33,M,0,0,0,0,    0,0,29,0,0,0,0,0,0
+lapagi,Lapadula,Gianluca,1990-02-07,ITA,70,10,A,8,4,4,1,  405,2,15,0,0,0,0,1,0
+lazoda,Lazovic,Darko,1990-09-15,SRB,70,22,M,33,30,3,3, 2542,19,2,0,0,0,0,2,0
+leralu,Lerager,Lukas,1993-07-12,DEN,70,8,M,14,13,1,1, 1123,10,2,0,0,0,0,4,0
+lopeli,López,Lisandro,1989-09-01,ARG,70, , ,0,0,0,0,    0,0,15,0,0,0,0,0,0
+marcfe,Marchetti,Federico,1983-02-07,ITA,70,1,P,4,4,0,0,  360,4,27,-10,0,0,0,1,0
+mazzl1,Mazzitelli,Luca,1995-11-15,ITA,70,15,M,10,3,7,0,  323,0,12,0,0,0,0,3,0
+medeiu,Medeiros,Iuri,1994-07-10,POR,70, , ,2,2,0,0,  106,0,1,0,0,0,0,0,0
+velomi,Miguel Veloso,Luis Pinto,1986-05-11,POR,70,44,M,21,14,7,0, 1256,7,7,0,0,0,0,7,0
+njiefa,Njie,Fallou,1999-01-05,GAM,70,85,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
+omeost,Omeonga,Stephane,1996-03-27,BEL,70, , ,3,0,3,0,   57,0,12,0,0,0,0,1,0
+pandgo,Pandev,Goran,1983-07-27,MAC,70,19,A,26,12,14,4, 1123,3,10,0,0,0,0,6,0
+perepe,Pereira,Pedro Miguel De Almeida Lopes,1998-01-22,POR,70,32,F,26,15,11,0, 1382,9,12,0,0,0,0,1,0
+pezzgi,Pezzella,Giuseppe,1997-11-29,ITA,70,13,F,5,1,4,0,  112,1,13,0,0,0,0,0,1
+piatkr,Piątek,Krzysztof,1995-07-01,POL,70, , ,19,18,1,13, 1593,16,0,0,0,2,0,5,0
+radoiv,Radovanovic,Ivan,1988-08-29,SRB,70,21,M,16,15,1,0, 1278,10,1,0,0,0,0,3,0
+raduio,Radu,Ionuţ Andrei,1997-05-28,ROM,70,97,P,33,33,0,0, 2970,33,4,-46,0,0,0,0,0
+roloes,Rolón,Esteban,1995-09-25,ARG,70,18,M,19,10,9,0, 1047,6,14,0,0,0,0,9,0
+romecr,Romero,Cristian,1998-04-27,ARG,70,17,F,27,27,0,2, 2336,24,0,0,0,0,0,10,2
+caldro,Romulo,Orestes Souza Caldeira,1987-05-22,BRA,70, , ,17,17,0,1, 1350,10,3,0,0,1,0,0,1
+roveni,Rovella,Nicolò,2001-12-04,ITA,70,65,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+russal,Russo,Alessandro,2001-03-31,ITA,70,23,P,0,0,0,0,    0,0,6,0,0,0,0,0,0
+sanaar,Sanabria,Arnaldo Antonio,1996-03-04,PAR,70,9,A,15,9,6,3,  767,4,2,0,0,0,0,1,0
+sandsa,Sandro, ,1989-03-15,BRA,70, , ,13,9,4,0,  711,2,1,0,0,0,0,3,0
+schaan,Schäfer,András,1999-04-13,HUN,70,99,M,0,0,0,0,    0,0,6,0,0,0,0,0,0
+spolni,Spolli,Nicolas Federico,1983-02-20,ARG,70, , ,7,7,0,0,  538,5,5,0,-1,0,0,2,0
+sturst,Sturaro,Stefano,1993-03-09,ITA,70,27,M,5,4,1,1,  212,0,4,0,0,0,0,0,1
+vodiro,Vodišek,Rok,1998-12-05,SLO,70,25,P,0,0,0,0,    0,0,17,0,0,0,0,0,0
+zukaer,Zukanovic,Ervin,1987-02-11,BOS,70,87,F,25,22,3,0, 1960,20,10,0,0,0,0,5,0
+asamkw,Asamoah,Kwadwo,1988-12-09,GHA,77,18,M,32,30,2,0, 2671,27,5,0,0,0,0,6,0
+baldk1,Baldé,Keita,1995-03-08,SEN,77,11,A,24,8,16,5,  891,1,7,0,0,0,0,1,1
+bernto,Berni,Tommaso,1983-03-06,ITA,77,46,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
+valebo,Borja Valero,Iglesias,1985-01-12,SPA,77,20,M,27,12,15,0, 1230,3,9,0,0,0,0,4,0
+brozma,Brozovic,Marcelo,1992-11-16,CRO,77,77,M,32,31,1,2, 2650,23,0,0,0,0,0,10,1
+candan,Candreva,Antonio,1987-02-28,ITA,77,87,M,18,5,13,1,  502,0,20,0,0,0,0,0,0
+colifa,Colidio,Facundo,2000-01-04,ARG,77,61,A,0,0,0,0,    0,0,3,0,0,0,0,0,0
+dambda,D'Ambrosio,Danilo,1988-09-09,ITA,77,33,F,30,29,1,2, 2581,26,7,0,0,0,0,6,0
+dalbda,Dalbert, ,1993-09-08,BRA,77,29,F,11,9,2,0,  779,7,23,0,0,0,0,2,0
+deVrst,De Vrij,Stefan,1992-02-05,NED,77,6,F,28,28,0,2, 2520,28,5,0,-1,0,0,2,0
+gaglro,Gagliardini,Roberto,1994-04-07,ITA,77,5,M,19,13,6,5, 1086,8,19,0,0,0,0,4,0
+handsa,Handanovic,Samir,1984-07-14,SLO,77,1,P,38,38,0,0, 3420,38,0,-33,0,0,0,0,0
+icarma,Icardi,Mauro Emanuel,1993-02-19,ARG,77,9,A,29,24,5,11, 2267,18,2,0,0,5,0,0,0
+joaoma,Joao Mario,Eduardo Naval Da Costa,1993-01-19,POR,77,15,M,20,12,8,1, 1083,5,16,0,0,0,0,2,0
 karaya,Karamoh,Yann,1998-07-08,FRA,77, , ,1,0,1,0,    5,0,0,0,0,0,0,0,0
-martla,Martínez,Lautaro,1997-08-22,ARG,77,10,A,8,4,4,2,  363,2,6,0,0,0,0,1,0
-mirajo,Miranda,Joao De Souza Filho,1984-09-07,BRA,77,23,F,7,7,0,0,  610,6,7,0,0,0,0,3,0
-nainra,Nainggolan,Radja,1988-05-04,BEL,77,14,M,9,8,1,2,  622,4,2,0,0,0,0,0,0
-padeda,Padelli,Daniele,1985-10-25,ITA,77,27,P,0,0,0,0,    0,0,15,0,0,0,0,0,0
-perii1,Perisic,Ivan,1989-02-02,CRO,77,44,M,14,11,3,2, 1038,7,1,0,0,0,0,1,0
-polim1,Politano,Matteo,1993-08-03,ITA,77,16,A,15,11,4,2,  965,3,0,0,0,0,0,1,0
-ranoan,Ranocchia,Andrea,1988-02-16,ITA,77,13,F,0,0,0,0,    0,0,15,0,0,0,0,0,0
-skrimi,Skriniar,Milan,1995-02-11,SVK,77,37,F,13,13,0,0, 1170,13,2,0,-1,0,0,1,0
-vecima,Vecino,Matias,1991-08-24,URU,77,8,M,11,8,3,0,  681,5,4,0,0,0,0,2,0
-vrsasi,Vrsaljko,Sime,1992-01-10,CRO,77,2,F,7,5,2,0,  456,4,3,0,0,0,0,2,0
-silval,Alex Sandro,Lobo Silva,1991-01-26,BRA,80,12,F,13,11,2,0, 1001,9,0,0,0,0,0,3,0
-barza1,Barzagli,Andrea,1981-05-08,ITA,80,15,F,4,1,3,0,   96,0,8,0,0,0,0,0,0
-benam1,Benatia,Medhi Amine El Mouttaqui,1987-04-17,FRA,80,4,F,5,5,0,0,  450,5,10,0,0,0,0,2,0
-bentro,Bentancur,Rodrigo,1997-06-05,URU,80,30,M,13,10,3,2,  921,9,2,0,0,0,0,5,0
-bernfe,Bernardeschi,Federico,1994-02-16,ITA,80,33,A,10,3,7,2,  336,0,3,0,0,0,0,2,0
-bonule,Bonucci,Leonardo,1987-05-01,ITA,80,19,F,13,13,0,1, 1170,13,2,0,0,0,0,1,0
-canxem,Can,Emre,1994-01-12,GER,80,23,M,9,3,6,0,  348,1,1,0,0,0,0,1,0
-cancjo,Cancelo,João,1994-05-27,POR,80,20,F,12,11,1,0, 1012,11,3,0,0,0,0,2,0
-chieg2,Chiellini,Giorgio,1984-08-14,ITA,80,3,F,10,9,1,1,  814,9,5,0,0,0,0,0,0
-costdo,Costa,Douglas,1990-09-14,BRA,80,11,A,11,3,8,0,  358,0,0,0,0,0,0,2,0
-cuadju,Cuadrado,Juan Guillermo,1988-05-26,COL,80,16,A,11,7,4,1,  606,2,3,0,0,0,0,2,0
-deScma,De Sciglio,Mattia,1992-10-20,ITA,80,2,F,5,5,0,0,  449,4,5,0,0,0,0,0,0
-dybapa,Dybala,Paulo Exequiel,1993-11-15,ARG,80,10,M,13,11,2,2,  938,7,2,0,0,0,0,1,0
-keanbi,Kean,Bioty Moise,2000-02-28,ITA,80,18,A,1,0,1,0,    3,0,9,0,0,0,0,0,0
-khedsa,Khedira,Sami,1987-04-04,GER,80,6,M,5,4,1,1,  353,1,1,0,0,0,0,0,0
-mandm1,Mandzukic,Mario,1986-05-21,CRO,80,17,A,12,11,1,7,  961,6,1,0,0,0,0,2,0
-matubl,Matuidi,Blaise,1987-04-09,FRA,80,14,M,14,12,2,2, 1032,9,1,0,0,0,0,1,0
-perim1,Perin,Mattia,1992-11-10,ITA,80,22,P,2,2,0,0,  180,2,13,0,0,0,0,0,0
-pinsca,Pinsoglio,Carlo,1990-03-16,ITA,80,21,P,0,0,0,0,    0,0,15,0,0,0,0,0,0
-pjanmi,Pjanic,Miralem,1990-04-02,BOS,80,5,M,13,13,0,1, 1043,5,2,0,0,0,0,3,0
-ronacr,Ronaldo,Cristiano,1985-02-05,POR,80,7,A,15,15,0,10, 1339,14,0,0,0,2,0,1,0
-rugada,Rugani,Daniele,1994-07-29,ITA,80,24,F,3,3,0,0,  270,3,11,0,0,0,0,0,0
-spinl1,Spinazzola,Leonardo,1993-03-25,ITA,80,37,M,0,0,0,0,    0,0,5,0,0,0,0,0,0
-szczwo,Szczesny,Wojciech Tomasz,1990-04-18,POL,80,1,P,13,13,0,0, 1170,13,2,-8,0,0,0,0,0
-acerfr,Acerbi,Francesco,1988-02-10,ITA,83,33,F,15,15,0,2, 1350,15,0,0,0,0,0,1,0
-bademi,Badelj,Milan,1989-02-25,CRO,83,25,M,10,6,4,0,  496,2,3,0,-1,0,0,3,0
+martla,Martínez,Lautaro,1997-08-22,ARG,77,10,A,27,13,14,6, 1343,9,7,0,0,1,0,4,0
+mirajo,Miranda,Joao De Souza Filho,1984-09-07,BRA,77,23,F,14,14,0,0, 1158,11,20,0,0,0,0,3,0
+nainra,Nainggolan,Radja,1988-05-04,BEL,77,14,M,29,22,7,6, 1968,11,2,0,0,0,0,3,0
+padeda,Padelli,Daniele,1985-10-25,ITA,77,27,P,0,0,0,0,    0,0,38,0,0,0,0,0,0
+perii1,Perisic,Ivan,1989-02-02,CRO,77,44,M,34,30,4,8, 2701,22,4,0,-1,2,0,5,0
+polim1,Politano,Matteo,1993-08-03,ITA,77,16,A,36,31,5,5, 2545,8,0,0,0,0,0,4,1
+ranoan,Ranocchia,Andrea,1988-02-16,ITA,77,13,F,4,0,4,0,   62,0,34,0,0,0,0,1,0
+salced,Salcedo,Eddy,2001-10-01,ITA,77,74,A,0,0,0,0,    0,0,3,0,0,0,0,0,0
+skrimi,Skriniar,Milan,1995-02-11,SVK,77,37,F,35,35,0,0, 3150,35,3,0,-1,0,0,4,0
+soarce,Soares,Cédric,1991-08-31,POR,77,21,F,4,3,1,0,  259,2,13,0,0,0,0,0,0
+vecima,Vecino,Matias,1991-08-24,URU,77,8,M,30,23,7,3, 2016,14,5,0,0,0,0,8,0
+vrsasi,Vrsaljko,Sime,1992-01-10,CRO,77,2,F,10,8,2,0,  726,7,5,0,0,0,0,2,0
+silval,Alex Sandro,Lobo Silva,1991-01-26,BRA,80,12,F,31,28,3,1, 2387,21,2,0,0,0,0,7,0
+barza1,Barzagli,Andrea,1981-05-08,ITA,80,15,F,7,4,3,0,  260,0,17,0,0,0,0,0,0
+benam1,Benatia,Medhi Amine El Mouttaqui,1987-04-17,FRA,80, , ,5,5,0,0,  450,5,14,0,0,0,0,2,0
+bentro,Bentancur,Rodrigo,1997-06-05,URU,80,30,M,31,21,10,2, 2006,18,3,0,0,0,0,7,1
+bernfe,Bernardeschi,Federico,1994-02-16,ITA,80,33,A,28,14,14,2, 1478,3,5,0,0,0,0,5,1
+bonule,Bonucci,Leonardo,1987-05-01,ITA,80,19,F,29,27,2,3, 2472,26,6,0,0,0,0,2,0
+cacema,Caceres,José Martin,1987-04-07,URU,80,4,F,9,7,2,0,  628,6,4,0,0,0,0,1,0
+canxem,Can,Emre,1994-01-12,GER,80,23,M,29,20,9,4, 1812,16,1,0,-1,1,0,7,0
+cancjo,Cancelo,João,1994-05-27,POR,80,20,F,25,22,3,1, 1968,20,7,0,0,0,0,6,0
+cavihn,Caviglia,Hans Nicolussi,2000-06-18,ITA,80,41,M,3,0,3,0,   57,0,8,0,0,0,0,0,0
+chieg2,Chiellini,Giorgio,1984-08-14,ITA,80,3,F,25,22,3,1, 1991,20,9,0,0,0,0,3,0
+cocclu,Coccolo,Luca,1998-02-23,ITA,80,38,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
+costdo,Costa,Douglas,1990-09-14,BRA,80,11,A,17,7,10,1,  622,0,1,0,0,0,0,2,0
+cuadju,Cuadrado,Juan Guillermo,1988-05-26,COL,80,16,A,18,14,4,1, 1218,7,3,0,0,0,0,4,0
+deScma,De Sciglio,Mattia,1992-10-20,ITA,80,2,F,22,19,3,0, 1744,17,10,0,0,0,0,2,0
+delFma,Del Favero,Mattia,1998-06-05,ITA,80,32,P,0,0,0,0,    0,0,8,0,0,0,0,0,0
+dybapa,Dybala,Paulo Exequiel,1993-11-15,ARG,80,10,M,30,24,6,5, 2137,18,3,0,0,1,0,2,0
+fagini,Fagioli,Nicolò,2001-02-12,ITA,80,44,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+iwerpg,Iweru,Paolo Gozzi,2001-04-25,ITA,80,43,F,1,1,0,0,   90,1,0,0,0,0,0,0,0
+kastgr,Kastanos,Grigoris,1998-01-30,CYP,80,39,M,1,1,0,0,   60,0,4,0,0,0,0,0,0
+keanbi,Kean,Bioty Moise,2000-02-28,ITA,80,18,A,13,5,8,6,  543,3,18,0,0,0,0,2,0
+khedsa,Khedira,Sami,1987-04-04,GER,80,6,M,10,8,2,2,  705,1,5,0,0,0,0,0,0
+mandm1,Mandzukic,Mario,1986-05-21,CRO,80,17,A,25,23,2,9, 2012,15,2,0,0,0,0,4,0
+matubl,Matuidi,Blaise,1987-04-09,FRA,80,14,M,31,29,2,3, 2418,17,4,0,0,0,0,5,0
+mavist,Mavididi,Stephy,1998-05-31,ENG,80,40,A,1,0,1,0,   22,0,3,0,0,0,0,0,0
+morep1,Moreno,Pablo,2002-05-03,SPA,80,42,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
+murasi,Muratore,Simone,1998-05-30,ITA,80,36,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+perem1,Pereira,Matheus Da Silva,1998-02-25,BRA,80,35,M,3,1,2,0,   92,0,1,0,0,0,0,0,0
+perim1,Perin,Mattia,1992-11-10,ITA,80,22,P,9,9,0,0,  810,9,21,-8,0,0,0,1,0
+pinsca,Pinsoglio,Carlo,1990-03-16,ITA,80,21,P,1,1,0,0,   90,1,37,-2,0,0,0,0,0
+pjanmi,Pjanic,Miralem,1990-04-02,BOS,80,5,M,31,27,4,2, 2279,15,3,0,0,0,0,5,1
+portma,Portanova,Manolo,2000-06-02,ITA,80,34,M,1,0,1,0,   32,0,0,0,0,0,0,1,0
+ronacr,Ronaldo,Cristiano,1985-02-05,POR,80,7,A,31,30,1,21, 2688,28,1,0,0,5,0,3,0
+rugada,Rugani,Daniele,1994-07-29,ITA,80,24,F,15,15,0,2, 1350,15,18,0,0,0,0,3,0
+spinl1,Spinazzola,Leonardo,1993-03-25,ITA,80,37,M,10,6,4,0,  601,5,17,0,0,0,0,0,0
+szczwo,Szczesny,Wojciech Tomasz,1990-04-18,POL,80,1,P,28,28,0,0, 2520,28,10,-20,0,0,0,0,0
+acerfr,Acerbi,Francesco,1988-02-10,ITA,83,33,F,37,37,0,3, 3309,36,0,0,0,0,0,3,1
+aliama,Alia,Marco,2000-04-26,ITA,83,50,P,0,0,0,0,    0,0,2,0,0,0,0,0,0
+armini,Armini,Nicolò,2001-03-07,ITA,83,58,F,1,0,1,0,   38,0,2,0,0,0,0,0,0
+bademi,Badelj,Milan,1989-02-25,CRO,83,25,M,23,14,9,1, 1145,4,12,0,-1,0,0,6,0
 bastdu,Basta,Dusan,1984-08-18,SRB,83,8,F,0,0,0,0,    0,0,6,0,0,0,0,0,0
-quisba,Bastos,Jacinto Bartolomeu Quissanga,1991-03-27,ANG,83,15,F,3,0,3,0,   74,0,12,0,0,0,0,1,0
-beriv1,Berisha,Valon,1993-02-07,KOS,83,7,M,5,0,5,0,   79,0,5,0,0,0,0,0,0
-cacema,Caceres,José Martin,1987-04-07,URU,83,22,F,4,3,1,0,  307,3,10,0,0,0,0,0,0
-caicfe,Caicedo,Felipe,1988-09-05,ECU,83,20,A,10,6,4,1,  417,0,0,0,0,0,0,2,0
-catada,Cataldi,Danilo,1994-08-06,ITA,83,32,M,4,1,3,1,  188,1,10,0,0,0,0,1,0
-corrj1,Correa,Joaquín,1994-08-13,ARG,83,11,M,14,2,12,3,  547,2,1,0,0,0,0,2,0
-durmri,Durmisi,Riza,1994-01-08,DEN,83,14,F,3,0,3,0,   63,0,9,0,0,0,0,2,0
-felilu,Felipe,Luiz,1997-03-22,BRA,83,3,F,7,6,1,0,  513,4,4,0,0,0,0,1,0
-guergu,Guerrieri,Guido,1996-02-25,ITA,83,23,P,0,0,0,0,    0,0,12,0,0,0,0,0,0
-immoci,Immobile,Ciro,1990-02-20,ITA,83,17,A,15,14,1,10, 1283,12,0,0,0,2,0,3,0
-jordbr,Jordão,Bruno,1998-10-12,POR,83,66,M,0,0,0,0,    0,0,2,0,0,0,0,0,0
-leivlu,Leiva,Lucas,1987-01-09,BRA,83,6,M,8,8,0,0,  673,6,1,0,0,0,0,1,0
-romel1,Luis Alberto,Romero,1992-09-28,SPA,83,10,A,10,9,1,1,  647,2,0,0,0,0,0,2,0
-lukajo,Lukaku,Jordan Zacharie Menama Mokelenge,1994-07-25,BEL,83,5,F,3,0,3,0,   72,0,4,0,0,0,0,0,0
-lulise,Lulic,Senad,1986-01-18,SUI,83,19,M,14,14,0,0, 1169,10,0,0,0,0,0,2,0
-maruad,Marušić,Adam,1992-10-17,MNT,83,77,M,11,10,1,0,  860,8,3,0,0,0,0,2,0
-milise,Milinkovic-savic,Sergej,1995-02-27,SPA,83,21,M,14,14,0,1, 1153,8,1,0,0,0,0,3,0
-murgal,Murgia,Alessandro,1996-08-09,ITA,83,96,M,1,0,1,0,    9,0,10,0,0,0,0,0,0
-parom2,Parolo,Marco,1985-01-25,ITA,83,16,M,15,15,0,3, 1283,12,0,0,0,0,0,3,0
-gilxpa,Patric,Gabarron Gil,1993-04-17,SPA,83,4,F,7,5,2,0,  490,4,6,0,0,0,0,0,0
-protsi,Proto,Silvio,1983-05-23,BEL,83,24,P,0,0,0,0,    0,0,14,0,0,0,0,0,0
-radust,Radu,Stefan Daniel,1986-10-22,ROM,83,26,F,12,12,0,0,  976,8,0,0,0,0,0,3,0
-rossa5,Rossi,Alessandro,1997-01-03,ITA,83,9,A,0,0,0,0,    0,0,2,0,0,0,0,0,0
-strath,Strakosha,Thomas,1995-03-19,GRE,83,1,P,15,15,0,0, 1350,15,0,-17,0,0,0,2,0
-dosSw1,Wallace,Fortuna Dos Santos,1994-10-14,BRA,83,13,F,10,10,0,0,  851,8,5,0,-1,0,0,1,0
-abatig,Abate,Ignazio,1986-11-12,ITA,101,20,F,11,7,4,0,  678,5,4,0,0,0,0,2,0
-bakati,Bakayoko,Tiemoué,1994-08-17,FRA,101,14,M,11,6,5,0,  634,6,4,0,0,0,0,2,0
+quisba,Bastos,Jacinto Bartolomeu Quissanga,1991-03-27,ANG,83,15,F,18,11,7,1, 1139,8,19,0,0,0,0,3,0
+beriv1,Berisha,Valon,1993-02-07,KOS,83,7,M,8,1,7,0,  198,0,9,0,0,0,0,0,0
+biana2,Bianchi,Alessio,2000-10-02,ITA,83,44,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+cacema,Caceres,José Martin,1987-04-07,URU,83, , ,4,3,1,0,  307,3,11,0,0,0,0,0,0
+caicfe,Caicedo,Felipe,1988-09-05,ECU,83,20,A,28,17,11,8, 1372,2,2,0,0,1,0,4,0
+capalu,Capanni,Luan,2000-05-20,BRA,83,71,M,1,0,1,0,    9,0,2,0,0,0,0,1,0
+catada,Cataldi,Danilo,1994-08-06,ITA,83,32,M,12,4,8,2,  575,3,25,0,0,0,0,2,0
+cerbal,Cerbara,Alessandro,2001-03-03,ITA,83,37,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+corrj1,Correa,Joaquín,1994-08-13,ARG,83,11,M,34,18,16,5, 1927,12,2,0,0,0,0,5,0
+angerd,De Angelis,Roberto,2001-07-27,ITA,83,74,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
+durmri,Durmisi,Riza,1994-01-08,DEN,83,14,F,10,2,8,0,  327,2,21,0,0,0,0,4,0
+felilu,Felipe,Luiz,1997-03-22,BRA,83,3,F,17,15,2,1, 1289,10,13,0,0,0,0,4,0
+furlal,Furlanetto,Alessio,2002-09-07,ITA,83,90,P,0,0,0,0,    0,0,2,0,0,0,0,0,0
+guergu,Guerrieri,Guido,1996-02-25,ITA,83,23,P,1,1,0,0,   90,1,32,-3,0,0,0,0,0
+immoci,Immobile,Ciro,1990-02-20,ITA,83,17,A,36,31,5,15, 2860,27,0,0,0,4,0,6,0
+jordbr,Jordão,Bruno,1998-10-12,POR,83,66,M,3,1,2,0,   88,0,12,0,0,0,0,0,0
+kalase,Kalaj,Sergio,2000-01-28,ALB,83,28,F,0,0,0,0,    0,0,4,0,0,0,0,0,0
+leivlu,Leiva,Lucas,1987-01-09,BRA,83,6,M,27,22,5,0, 1987,16,2,0,0,0,0,7,0
+romel1,Luis Alberto,Romero,1992-09-28,SPA,83,10,A,27,25,2,4, 1987,9,0,0,0,1,0,5,1
+lukajo,Lukaku,Jordan Zacharie Menama Mokelenge,1994-07-25,BEL,83,5,F,7,1,6,0,  175,0,5,0,0,0,0,1,0
+lulise,Lulic,Senad,1986-01-18,SUI,83,19,M,35,34,1,4, 2920,25,1,0,0,0,0,5,0
+maruad,Marušić,Adam,1992-10-17,MNT,83,77,M,26,24,2,1, 2111,20,5,0,0,0,0,2,1
+milise,Milinkovic-savic,Sergej,1995-02-27,SPA,83,21,M,31,29,2,5, 2395,18,1,0,0,0,0,7,1
+mohaab,Mohamed,Abukar,1999-01-01,FIN,83,99,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+murgal,Murgia,Alessandro,1996-08-09,ITA,83, , ,1,0,1,0,    9,0,14,0,0,0,0,0,0
+netope,Neto,Pedro,2000-03-09,POR,83,30,A,4,0,4,0,   46,0,4,0,0,0,0,1,0
+parom2,Parolo,Marco,1985-01-25,ITA,83,16,M,34,28,6,4, 2565,24,2,0,0,0,0,7,0
+gilxpa,Patric,Gabarron Gil,1993-04-17,SPA,83,4,F,15,12,3,0, 1085,9,16,0,0,0,0,1,0
+protsi,Proto,Silvio,1983-05-23,BEL,83,24,P,2,2,0,0,  180,2,35,-4,0,0,0,1,0
+radust,Radu,Ştefan Daniel,1986-10-22,ROM,83,26,F,28,28,0,0, 2243,17,2,0,0,0,0,5,0
+caldro,Romulo,Orestes Souza Caldeira,1987-05-22,BRA,83,27,M,10,9,1,0,  777,7,7,0,0,0,0,1,0
+rossa5,Rossi,Alessandro,1997-01-03,ITA,83, , ,0,0,0,0,    0,0,2,0,0,0,0,0,0
+silvj1,Silva,Jorge,1999-02-04,POR,83,49,F,0,0,0,0,    0,0,2,0,0,0,0,0,0
+strath,Strakosha,Thomas,1995-03-19,GRE,83,1,P,35,35,0,0, 3150,35,0,-38,0,0,0,4,0
+dosSw1,Wallace,Fortuna Dos Santos,1994-10-14,BRA,83,13,F,16,14,2,0, 1233,11,17,0,-2,0,0,3,0
+zitema,Zitelli,Mauro,2000-04-12,ITA,83,98,F,0,0,0,0,    0,0,5,0,0,0,0,0,0
+abatig,Abate,Ignazio,1986-11-12,ITA,101,20,F,19,15,4,0, 1302,8,19,0,0,0,0,4,0
+bakati,Bakayoko,Tiemoué,1994-08-17,FRA,101,14,M,31,26,5,1, 2300,21,6,0,0,0,0,5,1
 bellra,Bellanova,Raoul,2000-05-17,ITA,101,95,F,0,0,0,0,    0,0,3,0,0,0,0,0,0
-berta6,Bertolacci,Andrea,1991-01-11,ITA,101,16,M,0,0,0,0,    0,0,14,0,0,0,0,0,0
-bigllu,Biglia,Lucas Rodrigo,1986-01-30,ARG,101,21,M,9,9,0,0,  777,8,0,0,0,0,0,2,0
+berta6,Bertolacci,Andrea,1991-01-11,ITA,101,16,M,0,0,0,0,    0,0,33,0,0,0,0,0,0
+bigllu,Biglia,Lucas Rodrigo,1986-01-30,ARG,101,21,M,16,13,3,1, 1114,10,5,0,0,0,0,3,0
 bonag2,Bonaventura,Giacomo,1989-08-22,ITA,101,5,M,8,8,0,3,  648,3,0,0,0,0,0,0,0
-borif1,Borini,Fabio,1991-03-29,ITA,101,11,A,6,3,3,0,  305,1,2,0,0,0,0,2,0
-calada,Calabria,Davide,1996-12-06,ITA,101,2,F,11,10,1,1,  863,7,2,0,0,0,0,3,0
-caldm1,Caldara,Mattia,1994-05-05,ITA,101,33,F,0,0,0,0,    0,0,4,0,0,0,0,0,0
-castsa,Castillejo,Samu,1995-01-18,SPA,101,7,M,12,2,10,1,  285,0,3,0,0,0,0,1,0
-conta2,Conti,Andrea,1994-03-02,ITA,101,12,F,0,0,0,0,    0,0,6,0,0,0,0,0,0
-cutrpa,Cutrone,Patrick,1998-01-03,ITA,101,63,A,13,6,7,3,  640,5,0,0,0,0,0,0,0
-donngi,Donnarumma,Gianluigi,1999-02-25,ITA,101,99,P,15,15,0,0, 1350,15,0,-18,0,0,0,1,0
-donnan,Donnarumma,Antonio,1990-07-07,ITA,101,90,P,0,0,0,0,    0,0,14,0,0,0,0,0,0
-halial,Halilović,Alen,1996-06-18,CRO,101,77,M,0,0,0,0,    0,0,8,0,0,0,0,0,0
-higugo,Higuain,Gonzalo Gerardo,1987-12-10,ARG,101,9,A,11,11,0,5,  934,10,0,0,0,0,0,3,0
-kessfr,Kessie,Franck Yannick,1996-12-19,CIV,101,79,M,15,15,0,3, 1330,13,0,0,0,1,0,4,0
-laxadi,Laxalt,Diego Sebastian,1993-02-07,URU,101,93,F,10,4,6,0,  388,1,5,0,0,0,0,1,0
-maurjo,Mauri,José Agustin,1996-05-16,ARG,101,4,M,1,1,0,0,   52,0,14,0,0,0,0,0,0
-montri,Montolivo,Riccardo,1985-01-18,ITA,101,18,M,0,0,0,0,    0,0,5,0,0,0,0,0,0
-musam1,Musacchio,Mateo,1990-08-26,ARG,101,22,F,10,10,0,0,  900,10,1,0,0,0,0,0,0
-plizal,Plizzari,Alessandro,2000-03-12,ITA,101,35,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
-reinpe,Reina,José Manuel Pepe,1982-08-31,SPA,101,25,P,0,0,0,0,    0,0,15,0,0,0,0,0,0
-rodrr1,Rodríguez,Ricardo,1992-08-25,SUI,101,68,F,14,14,0,0, 1235,11,1,0,0,0,0,2,0
-romaa3,Romagnoli,Alessio,1995-01-12,ITA,101,13,F,11,11,0,2,  990,11,0,0,-1,0,0,2,0
-simist,Simic,Stefan,1995-01-20,CZE,101,56,F,0,0,0,0,    0,0,12,0,0,0,0,0,0
-laToje,Suso,Jesus Joaquin Fernandez Saenz De La Torre,1993-11-19,SPA,101,8,A,15,15,0,4, 1347,13,0,0,0,0,0,2,0
-tsadfr,Tsadjout,Frank,1999-07-28,ITA,101,96,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
-zapacr,Zapata,Cristian Eduardo,1986-09-30,COL,101,17,F,6,6,0,0,  540,6,7,0,0,0,0,2,0
-calhha,Çalhanoğlu,Hakan,1994-02-08,TUR,101,10,M,13,12,1,0,  954,3,0,0,0,0,0,1,0
-albira,Albiol,Raul,1985-09-04,SPA,108,33,F,11,11,0,0,  990,11,3,0,0,0,0,2,0
-loural,Allan,Marques Loureiro,1991-01-08,BRA,108,5,M,15,11,4,0, 1116,11,0,0,0,0,0,3,0
-calljo,Callejon,José Maria,1987-02-11,SPA,108,7,A,12,10,2,0,  929,9,2,0,0,0,0,0,0
-chirvl,Chiriches,Vlad Iulian,1989-11-14,ROM,108,21,F,0,0,0,0,    0,0,3,0,0,0,0,0,0
-dandal,D'Andrea,Alessandro,2000-03-22,ITA,108,22,P,0,0,0,0,    0,0,9,0,0,0,0,0,0
+borif1,Borini,Fabio,1991-03-29,ITA,101,11,A,20,10,10,2, 1055,6,3,0,0,0,0,3,0
+bresm3,Brescianini,Marco,2000-01-20,ITA,101,94,M,0,0,0,0,    0,0,2,0,0,0,0,0,0
+calada,Calabria,Davide,1996-12-06,ITA,101,2,F,26,22,4,1, 1951,15,4,0,0,0,0,5,0
+caldm1,Caldara,Mattia,1994-05-05,ITA,101,33,F,0,0,0,0,    0,0,12,0,0,0,0,0,0
+castsa,Castillejo,Samu,1995-01-18,SPA,101,7,M,31,8,23,4, 1022,3,7,0,0,0,0,3,0
+conta2,Conti,Andrea,1994-03-02,ITA,101,12,F,12,4,8,0,  500,1,15,0,0,0,0,3,0
+cutrpa,Cutrone,Patrick,1998-01-03,ITA,101,63,A,34,12,22,3, 1458,9,1,0,0,0,0,2,0
+donngi,Donnarumma,Gianluigi,1999-02-25,ITA,101,99,P,36,36,0,0, 3091,34,0,-31,0,0,0,4,0
+donnan,Donnarumma,Antonio,1990-07-07,ITA,101,90,P,0,0,0,0,    0,0,37,0,0,0,0,0,0
+halial,Halilović,Alen,1996-06-18,CRO,101, , ,0,0,0,0,    0,0,11,0,0,0,0,0,0
+higugo,Higuain,Gonzalo Gerardo,1987-12-10,ARG,101, , ,15,15,0,6, 1285,13,0,0,0,0,0,3,0
+kessfr,Kessie,Franck Yannick,1996-12-19,CIV,101,79,M,34,34,0,7, 3018,31,1,0,0,3,0,8,0
+laxadi,Laxalt,Diego Sebastian,1993-02-07,URU,101,93,F,20,6,14,0,  650,3,18,0,0,0,0,2,0
+maurjo,Mauri,José Agustin,1996-05-16,ARG,101,4,M,5,2,3,0,  208,0,27,0,0,0,0,0,0
+montri,Montolivo,Riccardo,1985-01-18,ITA,101,18,M,0,0,0,0,    0,0,16,0,0,0,0,0,0
+musam1,Musacchio,Mateo,1990-08-26,ARG,101,22,F,29,29,0,1, 2610,29,5,0,0,0,0,2,0
+paqulu,Paquetá,Lucas,1997-08-27,BRA,101,39,M,13,12,1,1,  859,3,0,0,0,0,0,5,0
+piatkr,Piątek,Krzysztof,1995-07-01,POL,101,19,A,18,16,2,9, 1371,8,0,0,0,0,0,0,0
+plizal,Plizzari,Alessandro,2000-03-12,ITA,101,35,P,0,0,0,0,    0,0,7,0,0,0,0,0,0
+reinpe,Reina,José Manuel Pepe,1982-08-31,SPA,101,25,P,4,2,2,0,  329,2,29,-5,0,0,0,0,0
+rodrr1,Rodríguez,Ricardo,1992-08-25,SUI,101,68,F,35,35,0,0, 3047,30,2,0,0,0,0,5,0
+romaa3,Romagnoli,Alessio,1995-01-12,ITA,101,13,F,32,32,0,2, 2856,31,0,0,-1,0,0,6,0
+simist,Simic,Stefan,1995-01-20,CZE,101, , ,0,0,0,0,    0,0,14,0,0,0,0,0,0
+soncma,Soncin,Matteo,2001-03-28,ITA,101,84,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
+striiv,Strinic,Ivan,1987-07-17,CRO,101,23,F,0,0,0,0,    0,0,7,0,0,0,0,0,0
+laToje,Suso,Jesus Joaquin Fernandez Saenz De La Torre,1993-11-19,SPA,101,8,A,35,35,0,7, 3018,22,1,0,0,0,0,8,1
+torrem,Torrasi,Emanuel,1999-03-16,ITA,101,97,M,0,0,0,0,    0,0,3,0,0,0,0,0,0
+tsadfr,Tsadjout,Frank,1999-07-28,ITA,101,96,A,0,0,0,0,    0,0,2,0,0,0,0,0,0
+zapacr,Zapata,Cristian Eduardo,1986-09-30,COL,101,17,F,13,12,1,0, 1027,11,16,0,0,0,0,4,0
+calhha,Çalhanoğlu,Hakan,1994-02-08,TUR,101,10,M,36,34,2,3, 2884,19,0,0,0,0,0,3,0
+albira,Albiol,Raul,1985-09-04,SPA,108,33,F,20,19,1,1, 1714,19,6,0,0,0,0,4,0
+loural,Allan,Marques Loureiro,1991-01-08,BRA,108,5,M,33,28,5,1, 2616,26,0,0,0,0,0,10,0
+calljo,Callejon,José Maria,1987-02-11,SPA,108,7,A,34,29,5,3, 2650,22,3,0,0,0,0,1,0
+chirvl,Chiricheş,Vlad Iulian,1989-11-14,ROM,108,21,F,3,3,0,0,  147,1,8,0,0,0,0,0,0
+dandal,D'Andrea,Alessandro,2000-03-22,ITA,108,22,P,0,0,0,0,    0,0,14,0,0,0,0,0,0
 daniap,Daniele,Antonio Pio,2002-07-10,ITA,108,90,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
-diawam,Diawara,Amadou,1997-07-17,GUI,108,42,M,8,5,3,0,  414,2,7,0,0,0,0,3,0
-ghoufa,Ghoulam,Faouzi,1991-02-01,FRA,108,31,F,1,1,0,0,   90,1,5,0,0,0,0,0,0
-hamsma,Hamsik,Marek,1987-07-27,CZE,108,17,M,10,9,1,0,  729,4,5,0,0,0,0,0,0
-hysael,Hysaj,Elseid,1994-02-02,ALB,108,23,F,14,13,1,0, 1137,10,1,0,0,0,0,1,0
-insilo,Insigne,Lorenzo,1991-06-04,ITA,108,24,A,14,13,1,7, 1102,8,0,0,0,0,0,3,0
-karnor,Karnezis,Orestis Spyridon,1985-07-11,GRE,108,27,P,6,6,0,0,  540,6,9,-2,0,0,0,0,0
-koulka,Koulibaly,Kalidou,1991-06-20,FRA,108,26,F,15,15,0,0, 1350,15,0,0,0,0,0,4,0
-lupese,Luperto,Sebastiano,1996-09-06,ITA,108,13,F,3,2,1,0,  181,1,8,0,0,0,0,0,0
-maksni,Maksimovic,Nikola,1991-11-25,SRB,108,19,F,5,4,1,0,  363,3,10,0,0,0,0,0,0
-malcke,Malcuit,Kévin,1991-07-31,FRA,108,2,F,8,5,3,0,  510,5,7,0,0,0,0,1,0
-marfda,Marfella,Davide,1999-09-15,ITA,108,22,P,0,0,0,0,    0,0,2,0,0,0,0,0,0
-duarma,Mario Rui,Silva Duarte,1991-05-27,POR,108,6,F,10,9,1,0,  776,7,4,0,0,0,0,3,1
-mereal,Meret,Alex,1997-03-22,ITA,108,1,P,1,1,0,0,   90,1,2,0,0,0,0,0,0
-mertdr,Mertens,Dries,1987-05-06,BEL,108,14,A,14,8,6,7,  838,5,1,0,0,1,0,1,0
-miliar,Milik,Arkadiusz Krystian,1994-02-28,POL,108,99,A,13,8,5,7,  731,4,2,0,0,0,0,1,0
-ospida,Ospina,David,1988-08-31,COL,108,25,P,8,8,0,0,  720,8,7,-12,0,0,0,0,0
-ounaad,Ounas,Adam,1996-11-11,ALG,108,11,A,6,3,3,2,  251,0,4,0,0,0,0,0,0
-rogxma,Rog,Marko,1995-07-19,CRO,108,30,M,8,3,5,1,  268,1,6,0,0,0,0,2,0
-ruizfa,Ruiz,Fabián,1996-04-03,SPA,108,8,M,7,4,3,3,  472,2,7,0,0,0,0,0,0
-verdsi,Verdi,Simone,1992-07-12,ITA,108,9,A,5,4,1,1,  184,0,4,0,0,0,0,0,0
-younam,Younes,Amin,1993-08-06,GER,108,34,A,1,0,1,0,   18,0,1,0,0,0,0,0,0
-zielpi,Zielinski,Piotr Sebastian,1994-05-20,POL,108,20,M,15,12,3,3, 1018,5,0,0,0,0,0,2,0
-baghfa,Bagheria,Fabrizio,2001-04-05,ITA,119,56,P,0,0,0,0,    0,0,15,0,0,0,0,0,0
-baria1,Barillà,Antonino,1988-04-01,ITA,119,17,M,14,14,0,1, 1232,12,0,0,0,0,0,7,0
-basta1,Bastoni,Alessandro,1999-04-13,ITA,119,95,F,6,4,2,0,  398,3,6,0,0,0,0,1,0
-biabjo,Biabiany,Jonathan Ludovic,1988-04-28,FRA,119,77,A,6,3,3,0,  274,1,4,0,0,0,0,2,0
-alvebr,Bruno Alves,Eduardo Regufe,1981-11-27,POR,119,22,F,15,15,0,2, 1331,14,0,0,0,0,0,4,0
+diawam,Diawara,Amadou,1997-07-17,GUI,108,42,M,13,8,5,0,  661,3,14,0,0,0,0,4,0
+gaetgi,Gaetano,Gianluca,2000-05-05,ITA,108,18,A,2,0,2,0,    8,0,6,0,0,0,0,0,0
+ghoufa,Ghoulam,Faouzi,1991-02-01,FRA,108,31,F,16,12,4,1, 1156,9,11,0,0,0,0,2,0
+hamsma,Hamsik,Marek,1987-07-27,CZE,108, , ,13,12,1,0,  915,5,7,0,0,0,0,1,0
+hysael,Hysaj,Elseid,1994-02-02,ALB,108,23,F,27,24,3,0, 2109,19,11,0,0,0,0,4,0
+insilo,Insigne,Lorenzo,1991-06-04,ITA,108,24,A,28,24,4,10, 2073,13,1,0,0,1,0,6,1
+karnor,Karnezis,Orestis Spyridon,1985-07-11,GRE,108,27,P,9,9,0,0,  810,9,29,-7,0,0,0,0,0
+koulka,Koulibaly,Kalidou,1991-06-20,FRA,108,26,F,35,35,0,2, 3143,34,0,0,0,0,0,10,0
+lupese,Luperto,Sebastiano,1996-09-06,ITA,108,13,F,12,6,6,0,  728,5,22,0,0,0,0,0,0
+maksni,Maksimovic,Nikola,1991-11-25,SRB,108,19,F,17,15,2,0, 1375,13,17,0,0,0,0,4,0
+malcke,Malcuit,Kévin,1991-07-31,FRA,108,2,F,24,20,4,0, 1803,15,14,0,0,0,0,3,0
+marfda,Marfella,Davide,1999-09-15,ITA,108, , ,0,0,0,0,    0,0,2,0,0,0,0,0,0
+duarma,Mario Rui,Silva Duarte,1991-05-27,POR,108,6,F,20,17,3,1, 1415,12,13,0,0,0,0,4,1
+mereal,Meret,Alex,1997-03-22,ITA,108,1,P,14,13,1,0, 1151,12,11,-11,0,0,0,0,1
+mertdr,Mertens,Dries,1987-05-06,BEL,108,14,A,35,23,12,16, 2252,13,2,0,0,1,0,1,0
+miliar,Milik,Arkadiusz Krystian,1994-02-28,POL,108,99,A,35,27,8,17, 2397,17,2,0,0,0,0,4,0
+ospida,Ospina,David,1988-08-31,COL,108,25,P,17,16,1,0, 1457,15,16,-18,0,0,0,0,0
+ounaad,Ounas,Adam,1996-11-11,ALG,108,11,A,18,6,12,3,  536,0,9,0,0,0,0,0,0
+piaijo,Piai,João,2000-07-11,BRA,108,12,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
+rogxma,Rog,Marko,1995-07-19,CRO,108, , ,9,4,5,1,  333,1,10,0,0,0,0,3,0
+ruizfa,Ruiz,Fabián,1996-04-03,SPA,108,8,M,27,20,7,5, 1993,15,8,0,0,0,0,2,1
+verdsi,Verdi,Simone,1992-07-12,ITA,108,9,A,22,9,13,3,  704,0,8,0,0,1,0,0,0
+younam,Younes,Amin,1993-08-06,GER,108,34,A,12,6,6,3,  498,0,6,0,0,0,0,1,0
+zedaka,Zedadka,Karim,2000-06-09,FRA,108,3,M,0,0,0,0,    0,0,4,0,0,0,0,0,0
+zielpi,Zielinski,Piotr Sebastian,1994-05-20,POL,108,20,M,36,33,3,6, 2875,23,1,0,0,0,0,6,0
+baghfa,Bagheria,Fabrizio,2001-04-05,ITA,119,56,P,0,0,0,0,    0,0,22,0,0,0,0,0,0
+barayv,Baraye,Yves,1992-06-22,SEN,119, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
+baria1,Barillà,Antonino,1988-04-01,ITA,119,17,M,31,30,1,3, 2618,23,3,0,0,0,0,10,0
+basta1,Bastoni,Alessandro,1999-04-13,ITA,119,95,F,24,18,6,1, 1692,17,9,0,0,0,0,2,0
+biabjo,Biabiany,Jonathan Ludovic,1988-04-28,FRA,119,77,A,18,12,6,0, 1068,5,6,0,0,0,0,4,0
+brazga,Brazão,Gabriel,2000-10-05,BRA,119,31,P,0,0,0,0,    0,0,12,0,0,0,0,0,0
+alvebr,Bruno Alves,Eduardo Regufe,1981-11-27,POR,119,22,F,33,33,0,4, 2922,31,0,0,-1,0,0,8,1
 camadr,Camara,Drissa,2002-02-18,CIV,119,53,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
-cerag1,Ceravolo,Giovanni Fabio,1987-03-05,ITA,119,9,A,12,4,8,1,  463,1,3,0,0,0,0,0,0
-ciciam,Ciciretti,Amato,1993-12-31,ITA,119,10,A,4,1,3,0,  117,0,8,0,0,0,0,0,0
-cruzad,Cruz,Alessio Da,1997-01-18,NED,119,7,A,3,1,2,0,  144,1,7,0,0,0,0,0,0
-deioal,Deiola,Alessandro,1995-08-01,ITA,119,8,M,7,2,5,0,  294,2,8,0,0,0,0,1,0
-dezija,Dezi,Jacopo,1992-02-10,ITA,119,33,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
-diGaan,Di Gaudio,Antonio,1989-08-16,ITA,119,20,A,11,9,2,0,  690,1,3,0,0,0,0,0,0
-dimafe,Dimarco,Federico,1997-11-10,ITA,119,3,F,4,2,2,1,  192,1,3,0,0,0,0,1,0
-fratpi,Frattali,Pierluigi,1985-12-01,ITA,119,1,P,0,0,0,0,    0,0,15,0,0,0,0,0,0
-gaglri,Gagliolo,Riccardo,1990-04-28,ITA,119,28,F,15,15,0,0, 1350,15,0,0,-1,0,0,4,0
-gazzma,Gazzola,Marcello,1985-04-03,ITA,119,23,F,4,0,4,0,   72,0,10,0,0,0,0,0,0
-yaoxko,Gervinho,Kouassi Yao,1987-05-27,CIV,119,27,A,10,9,1,5,  721,5,0,0,0,0,0,0,0
-gobbma,Gobbi,Massimo,1980-10-31,ITA,119,18,F,11,9,2,0,  799,7,3,0,0,0,0,2,0
-grasal,Grassi,Alberto,1995-03-07,ITA,119,88,M,6,5,1,0,  424,3,0,0,0,0,0,0,0
-iacosi,Iacoponi,Simone,1987-04-30,ITA,119,2,F,15,15,0,0, 1336,14,0,0,0,0,0,3,0
-inglro,Inglese,Roberto,1991-11-12,ITA,119,45,A,12,11,1,4,  881,6,0,0,0,0,0,1,0
+cerag1,Ceravolo,Giovanni Fabio,1987-03-05,ITA,119,9,A,25,12,13,2, 1184,3,10,0,0,1,0,1,0
+ciciam,Ciciretti,Amato,1993-12-31,ITA,119, , ,6,1,5,0,  139,0,10,0,0,0,0,0,0
+cruzad,Cruz,Alessio Da,1997-01-18,NED,119, , ,3,1,2,0,  144,1,7,0,0,0,0,0,0
+davoca,Davordzie,Carl,2000-05-27,GHA,119,52,A,0,0,0,0,    0,0,3,0,0,0,0,0,0
+deioal,Deiola,Alessandro,1995-08-01,ITA,119, , ,10,5,5,0,  545,4,9,0,0,0,0,3,0
+dezija,Dezi,Jacopo,1992-02-10,ITA,119,33,M,1,1,0,0,   90,1,23,0,0,0,0,0,0
+diGaan,Di Gaudio,Antonio,1989-08-16,ITA,119, , ,12,9,3,0,  699,1,6,0,0,0,0,0,0
+diakal,Diakhate,Abdou Lahat,1998-12-31,SEN,119,8,M,1,0,1,0,    1,0,13,0,0,0,0,0,0
+dimafe,Dimarco,Federico,1997-11-10,ITA,119,3,F,13,10,3,1,  892,6,11,0,0,0,0,4,0
+fratpi,Frattali,Pierluigi,1985-12-01,ITA,119,1,P,1,1,0,0,   90,1,37,-2,0,0,0,0,0
+gaglri,Gagliolo,Riccardo,1990-04-28,ITA,119,28,F,34,34,0,0, 3045,33,1,0,-1,0,0,7,0
+gazzma,Gazzola,Marcello,1985-04-03,ITA,119,23,F,20,9,11,1,  921,5,17,0,0,0,0,3,0
+yaoxko,Gervinho,Kouassi Yao,1987-05-27,CIV,119,27,A,30,27,3,11, 2302,18,0,0,0,0,0,3,0
+gobbma,Gobbi,Massimo,1980-10-31,ITA,119,18,F,16,13,3,0, 1184,11,21,0,0,0,0,3,0
+grasal,Grassi,Alberto,1995-03-07,ITA,119,88,M,7,5,2,0,  462,3,2,0,0,0,0,0,0
+iacosi,Iacoponi,Simone,1987-04-30,ITA,119,2,F,38,38,0,0, 3346,34,0,0,0,0,0,4,0
+inglro,Inglese,Roberto,1991-11-12,ITA,119,45,A,25,23,2,9, 1964,17,0,0,0,2,0,3,0
+kasare,Kasa,Redi,2001-09-01,ITA,119,44,M,0,0,0,0,    0,0,2,0,0,0,0,0,0
+kuckju,Kucka,Juraj,1987-02-26,SVK,119,87,M,18,17,1,4, 1536,14,0,0,0,1,0,4,1
 maggad,Maggio,Andrea Di,2000-08-14,ITA,119,54,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
-rigolu,Rigoni,Luca,1984-12-07,ITA,119,32,M,10,9,1,1,  784,6,5,0,0,0,0,2,0
-scozma,Scozzarella,Matteo,1988-06-05,ITA,119,21,M,5,4,1,0,  339,1,2,0,0,0,0,0,0
-sepelu,Sepe,Luigi,1991-05-08,ITA,119,55,P,15,15,0,0, 1350,15,0,-19,0,0,0,1,0
-sierfr,Sierralta,Francisco,1997-05-06,CHI,119,13,F,1,0,1,0,   14,0,4,0,0,0,0,0,0
-sililu,Siligardi,Luca,1988-01-26,ITA,119,26,M,9,7,2,1,  610,2,2,0,0,0,0,1,0
-sproma,Sprocati,Mattia,1993-04-28,ITA,119,93,A,2,0,2,0,   38,0,9,0,0,0,0,0,0
-stulle,Štulac,Leo,1994-09-26,SLO,119,5,M,13,11,2,0,  967,9,1,0,0,0,0,3,1
-canggi,Cangiano,Gianmarco,2001-11-16,ITA,149,54,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
-crisbr,Cristante,Bryan,1995-03-03,ITA,149,4,M,14,8,6,2,  766,5,1,0,0,0,0,3,0
-deRoda,De Rossi,Daniele,1983-07-24,ITA,149,16,M,9,8,1,0,  667,5,0,0,0,0,0,3,0
-dzeked,Dzeko,Edin,1986-03-17,BOS,149,9,A,12,10,2,2,  943,10,1,0,0,0,0,3,0
-elShst,El Shaarawy,Stephan,1992-10-27,ITA,149,92,A,11,10,1,5,  878,8,0,0,0,0,0,0,0
-fazife,Fazio,Federico Julian,1987-03-17,ARG,149,20,F,12,11,1,2,  979,10,2,0,0,0,0,4,0
-floral,Florenzi,Alessandro,1991-03-11,ITA,149,24,M,12,10,2,2,  908,7,2,0,0,0,0,2,0
-fuzada,Fuzato,Daniel,1997-07-04,BRA,149,63,P,0,0,0,0,    0,0,15,0,0,0,0,0,0
-grecst,Greco,Stefano,1999-02-21,ITA,149,77,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
-jesuju,Juan Jesus,Guilherme Nunes,1991-06-10,BRA,149,5,F,9,6,3,1,  568,6,6,0,0,0,0,0,0
-karsri,Karsdorp,Rick,1995-02-11,NED,149,2,F,2,1,1,0,   99,0,6,0,0,0,0,0,0
-kluiju,Kluivert,Justin,1999-05-05,NED,149,34,A,10,4,6,0,  442,0,0,0,0,0,0,0,0
-kolaal,Kolarov,Aleksandar,1985-11-10,YUG,149,11,F,13,12,1,4, 1107,12,0,0,0,1,0,1,0
-manoko,Manolas,Konstantinos,1991-06-14,GRE,149,44,F,12,12,0,1, 1019,10,2,0,0,0,0,1,0
-marcm8,Marcano, ,1987-06-23,SPA,149,15,F,4,3,1,0,  270,2,11,0,0,0,0,0,0
-miraan,Mirante,Antonio,1983-07-08,ITA,149,83,P,1,1,0,0,   90,1,13,-1,0,0,0,0,0
-nzonst,N'Zonzi,Steven,1988-12-15,FRA,149,42,M,13,12,1,1, 1125,12,1,0,0,0,0,3,0
-olsero,Olsen,Robin,1990-01-08,SWE,149,1,P,14,14,0,0, 1260,14,0,-19,0,0,0,2,0
-pastja,Pastore,Javier Matias,1989-06-20,ARG,149,27,M,9,5,4,2,  399,1,1,0,0,0,0,0,0
-pelllo,Pellegrini,Lorenzo,1996-06-19,ITA,149,7,M,10,9,1,1,  757,4,3,0,0,0,0,4,0
-pelll2,Pellegrini,Luca,1999-03-07,ITA,149,3,F,4,2,2,0,  161,0,7,0,0,0,0,2,0
-perodi,Perotti,Diego,1988-07-26,ARG,149,8,M,2,1,1,0,  104,1,3,0,0,0,0,0,0
-santda,Santon,Davide,1991-01-02,ITA,149,18,F,7,6,1,0,  531,5,8,0,0,0,0,0,0
-schip1,Schick,Patrik,1996-01-24,CZE,149,14,A,9,6,3,1,  540,3,4,0,0,0,0,0,0
+munagi,Munari,Gianni,1983-06-24,ITA,119, , ,1,0,1,0,    3,0,0,0,0,0,0,0,0
+pepipe,Pepín,Pepín,1996-08-14,EQG,119,14,M,2,1,1,0,   77,0,15,0,0,0,0,0,0
+rigolu,Rigoni,Luca,1984-12-07,ITA,119,32,M,23,20,3,2, 1761,15,10,0,0,0,0,5,0
+schini,Schiappacasse,Nicolás,1999-01-12,URU,119,10,A,3,1,2,0,   82,0,4,0,0,0,0,0,0
+scozma,Scozzarella,Matteo,1988-06-05,ITA,119,21,M,22,17,5,0, 1459,4,3,0,0,0,0,8,0
+sepelu,Sepe,Luigi,1991-05-08,ITA,119,55,P,37,37,0,0, 3330,37,1,-59,-1,0,0,1,0
+sierfr,Sierralta,Francisco,1997-05-06,CHI,119,13,F,6,2,4,0,  270,2,8,0,-1,0,0,2,0
+sililu,Siligardi,Luca,1988-01-26,ITA,119,26,M,29,19,10,1, 1637,4,4,0,0,0,0,2,0
+sproma,Sprocati,Mattia,1993-04-28,ITA,119,93,A,16,5,11,1,  645,2,13,0,0,0,0,0,0
+stulle,Štulac,Leo,1994-09-26,SLO,119,5,M,26,17,9,0, 1452,10,5,0,0,0,0,3,1
+canggi,Cangiano,Gianmarco,2001-11-16,ITA,149,54,A,0,0,0,0,    0,0,2,0,0,0,0,0,0
+cargri,Cargnelutti,Riccardo,1999-02-08,ITA,149,58,F,0,0,0,0,    0,0,2,0,0,0,0,0,0
+celaza,Celar,Žan,1999-03-14,SLO,149,60,A,1,0,1,0,    5,0,3,0,0,0,0,0,0
+crisbr,Cristante,Bryan,1995-03-03,ITA,149,4,M,35,26,9,4, 2425,22,1,0,0,0,0,10,0
+doralu,D'Orazio,Ludovico,2000-02-19,ITA,149,56,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
+deRoda,De Rossi,Daniele,1983-07-24,ITA,149,16,M,18,15,3,1, 1270,8,5,0,0,0,0,3,0
+dzeked,Dzeko,Edin,1986-03-17,BOS,149,9,A,33,28,5,9, 2579,26,1,0,0,0,0,9,0
+elShst,El Shaarawy,Stephan,1992-10-27,ITA,149,92,A,28,23,5,11, 2104,15,2,0,0,0,0,2,0
+fazife,Fazio,Federico Julian,1987-03-17,ARG,149,20,F,34,31,3,5, 2806,30,2,0,0,0,0,6,0
+floral,Florenzi,Alessandro,1991-03-11,ITA,149,24,M,29,24,5,3, 2179,16,3,0,0,0,0,4,1
+fuzada,Fuzato,Daniel,1997-07-04,BRA,149,63,P,0,0,0,0,    0,0,37,0,0,0,0,0,0
+grecst,Greco,Stefano,1999-02-21,ITA,149,77,P,0,0,0,0,    0,0,5,0,0,0,0,0,0
+jesuju,Juan Jesus,Guilherme Nunes,1991-06-10,BRA,149,5,F,20,15,5,1, 1404,14,15,0,-1,0,0,4,0
+karsri,Karsdorp,Rick,1995-02-11,NED,149,2,F,11,7,4,0,  594,1,15,0,0,0,0,1,0
+kluiju,Kluivert,Justin,1999-05-05,NED,149,34,A,29,14,15,1, 1343,1,3,0,0,0,0,2,0
+kolaal,Kolarov,Aleksandar,1985-11-10,YUG,149,11,F,33,32,1,8, 2906,31,0,0,0,3,0,6,1
+manoko,Manolas,Konstantinos,1991-06-14,GRE,149,44,F,27,27,0,1, 2324,23,3,0,0,0,0,6,0
+marcm8,Marcano, ,1987-06-23,SPA,149,15,F,10,9,1,0,  810,8,28,0,0,0,0,0,0
+miraan,Mirante,Antonio,1983-07-08,ITA,149,83,P,11,11,0,0,  990,11,24,-6,0,0,0,0,0
+nzonst,N'Zonzi,Steven,1988-12-15,FRA,149,42,M,30,29,1,1, 2617,27,5,0,0,0,0,7,0
+olsero,Olsen,Robin,1990-01-08,SWE,149,1,P,27,27,0,0, 2430,27,9,-42,0,0,0,2,0
+pastja,Pastore,Javier Matias,1989-06-20,ARG,149,27,M,14,7,7,3,  595,1,14,0,0,0,0,0,0
+pelllo,Pellegrini,Lorenzo,1996-06-19,ITA,149,7,M,25,21,4,3, 1822,11,4,0,0,0,0,6,0
+pelll2,Pellegrini,Luca,1999-03-07,ITA,149, , ,4,2,2,0,  161,0,13,0,0,0,0,2,0
+perodi,Perotti,Diego,1988-07-26,ARG,149,8,M,13,6,7,5,  668,3,9,0,0,3,0,3,0
+pezzsa,Pezzella,Salvatore,2000-03-11,ITA,149,55,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+ricca1,Riccardi,Alessio,2001-04-03,ITA,149,53,M,0,0,0,0,    0,0,10,0,0,0,0,0,0
+santda,Santon,Davide,1991-01-02,ITA,149,18,F,17,11,6,0, 1008,9,13,0,0,0,0,0,0
+schip1,Schick,Patrik,1996-01-24,CZE,149,14,A,24,15,9,3, 1315,6,8,0,0,0,0,4,0
+semefr,Semeraro,Francesco,2001-05-01,ITA,149,57,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
 stroke,Strootman,Kevin Johannes Willem,1990-02-13,NED,149, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-zanin1,Zaniolo,Nicolò,1999-07-02,ITA,149,22,M,6,3,3,0,  279,0,8,0,0,0,0,0,0
-uendce,Ünder,Cengiz,1997-07-14,TUR,149,17,M,13,10,3,2,  848,3,2,0,0,0,0,1,0
-corian,Ćorić,Ante,1997-04-14,CRO,149,19,M,1,0,1,0,   20,0,8,0,0,0,0,0,0
-antemi,Antenucci,Mirco,1984-09-08,ITA,168,7,A,14,12,2,3, 1089,10,1,0,0,0,0,0,0
-bonike,Bonifazi,Kevin,1996-05-19,ITA,168,14,F,5,4,1,1,  337,3,6,0,0,0,0,1,0
-cionth,Cionek,Thiago Rangel,1986-04-21,BRA,168,4,F,13,12,1,0, 1037,9,1,0,0,0,0,3,1
-costfi,Costa,Filippo,1995-05-21,ITA,168,33,F,4,3,1,0,  280,3,11,0,0,0,0,0,0
-dicklo,Dickmann,Lorenzo,1996-09-24,ITA,168,24,F,1,0,1,0,   10,0,14,0,0,0,0,0,0
-djoujo,Djourou,Johan,1987-01-18,SUI,168,3,F,4,2,2,0,  238,2,8,0,0,0,0,0,0
-everev,Everton, ,1988-05-24,BRA,168,25,M,10,2,8,0,  317,0,4,0,0,0,0,5,0
-faremo,Fares,Mohamed Salim,1996-02-15,FRA,168,93,M,14,12,2,0, 1111,11,0,0,0,0,0,3,0
-dalBfe,Felipe,Dalbelo,1984-07-31,BRA,168,27,F,14,14,0,0, 1183,12,0,0,0,0,0,8,0
-flocse,Floccari,Sergio,1981-11-12,ITA,168,10,A,2,0,2,0,   23,0,4,0,0,0,0,1,0
-gomiam,Gomis,Amigo Alfred Junior,1993-09-05,SEN,168,1,P,14,13,1,0, 1184,13,1,-20,0,0,0,0,0
-kurtja,Kurtic,Jasmin,1989-01-10,SLO,168,19,M,10,9,1,3,  816,7,0,0,0,0,0,4,0
-lazzma,Lazzari,Manuel,1993-11-29,ITA,168,29,M,15,15,0,0, 1343,13,0,0,0,0,0,3,0
-savivm,Milinković-Savić,Vanja,1997-02-20,SRB,168,32,P,2,2,0,0,  164,1,12,-4,0,0,0,0,1
-misssi,Missiroli,Simone,1986-05-23,ITA,168,6,M,15,14,1,0, 1114,6,0,0,0,0,0,2,0
-moncga,Moncini,Gabriele,1996-04-26,ITA,168,11,M,1,0,1,0,    8,0,9,0,0,0,0,0,0
-nikola,Nikolić,Lazar,1999-08-01,SRB,168,45,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
-paloal,Paloschi,Alberto,1990-01-04,ITA,168,43,A,10,3,7,2,  336,0,0,0,0,0,0,1,0
-petaan,Petagna,Andrea,1995-06-30,ITA,168,37,A,15,15,0,5, 1276,10,0,0,0,1,0,4,0
-polugi,Poluzzi,Giacomo,1988-02-25,ITA,168,17,P,0,0,0,0,    0,0,4,0,0,0,0,0,0
-schipa,Schiattarella,Pasquale,1987-05-30,ITA,168,28,M,12,12,0,0, 1001,8,2,0,0,0,0,7,0
-similo,Simic,Lorenco,1996-07-15,CRO,168,5,F,5,1,4,0,  163,1,7,0,0,0,0,0,0
-thiade,Thiam,Demba,1998-03-09,SEN,168,22,P,0,0,0,0,    0,0,12,0,0,0,0,0,0
-valdmi,Valdifiori,Mirko,1986-04-21,ITA,168,16,M,9,4,5,0,  372,1,6,0,0,0,0,2,0
-valoma,Valoti,Mattia,1993-09-06,ITA,168,8,M,9,4,5,0,  388,0,4,0,0,0,0,1,0
-vicafr,Vicari,Francesco,1994-08-03,ITA,168,23,F,12,12,0,0, 1002,8,2,0,0,0,0,1,0
-vitama,Vitale,Mattia,1997-10-01,ITA,168,97,M,0,0,0,0,    0,0,5,0,0,0,0,0,0
-vivife,Viviani,Federico,1992-03-24,ITA,168,77,M,0,0,0,0,    0,0,6,0,0,0,0,0,0
-andejo,Andersen,Joachim,1996-05-31,DEN,155,3,F,15,15,0,0, 1350,15,0,0,0,0,0,3,0
-audeem,Audero,Emil,1997-01-18,INA,155,1,P,15,15,0,0, 1350,15,0,-20,0,0,0,2,0
-barred,Barreto,Edgar Osvaldo,1984-07-15,PAR,155,8,M,10,8,2,0,  682,7,1,0,0,0,0,1,0
-belevi,Belec,Vid,1990-06-06,SLO,155,72,P,0,0,0,0,    0,0,15,0,0,0,0,0,0
-bereba,Bereszynski,Bartosz,1992-07-12,POL,155,24,F,14,14,0,0, 1259,13,1,0,0,0,0,4,1
-caprgi,Caprari,Gianluca,1993-07-30,ITA,155,17,A,11,7,4,2,  577,0,1,0,0,0,0,0,0
-collom,Colley,Omar,1992-10-24,GAM,155,15,F,5,5,0,0,  450,5,10,0,0,0,0,0,0
-defrgr,Defrel,Gregoire Andre,1991-06-17,FRA,155,92,A,14,12,2,6, 1016,7,0,0,0,0,0,2,0
-ekdaal,Ekdal,Albin,1989-07-28,SWE,155,6,M,14,12,2,0, 1102,10,1,0,0,0,0,2,0
-ferra4,Ferrari,Alex,1994-07-01,ITA,155,25,F,0,0,0,0,    0,0,15,0,0,0,0,0,0
-jankja,Jankto,Jakub,1996-01-19,CZE,155,14,M,8,2,6,0,  284,1,3,0,0,0,0,0,0
-kownda,Kownacki,Dawid,1997-03-14,POL,155,99,A,11,0,11,1,  161,0,0,0,0,1,0,0,0
-levema,Leverbe,Maxime,1997-02-15,FRA,155,18,F,0,0,0,0,    0,0,5,0,0,0,0,0,0
-lineka,Linetty,Karol,1995-02-02,POL,155,16,M,13,11,2,1,  983,5,0,0,0,0,0,7,0
-murrni,Murru,Nicola,1994-12-16,ITA,155,29,F,15,15,0,0, 1256,13,0,0,0,0,0,2,0
-praede,Praet,Dennis,1994-05-14,BEL,155,10,M,12,11,1,1,  917,7,0,0,0,0,0,4,0
-quagfa,Quagliarella,Fabio,1983-01-31,ITA,155,27,A,14,14,0,8, 1183,8,0,0,0,0,0,0,0
-barbra,Rafael,Cabral Barbosa,1990-05-20,BRA,155,33,P,0,0,0,0,    0,0,15,0,0,0,0,0,0
-ramiga,Ramirez,Gaston Exequiel,1990-12-02,URU,155,11,M,12,8,4,1,  754,2,2,0,0,0,0,3,0
-rolaga,Rolando,Gabriele,1995-04-02,ITA,155,95,F,0,0,0,0,    0,0,11,0,0,0,0,0,0
-salaja,Sala,Jacopo,1991-12-05,ITA,155,7,F,5,1,4,0,  207,1,10,0,0,0,0,2,0
-sapori,Saponara,Riccardo,1991-12-21,ITA,155,5,M,7,3,4,1,  239,0,2,0,-1,0,0,1,0
-tavaju,Tavares,Júnior,1996-08-07,BRA,155,22,F,0,0,0,0,    0,0,13,0,0,0,0,0,0
-tonelo,Tonelli,Lorenzo,1990-01-17,ITA,155,26,F,10,10,0,1,  900,10,5,0,0,0,0,3,0
-vieiro,Vieira,Ronaldo,1998-07-19,ENG,155,4,M,4,2,2,0,  179,1,11,0,0,0,0,1,0
-adjacl,Adjapong,Claud,1998-05-06,ITA,226,98,F,3,2,1,1,  179,0,9,0,0,0,0,1,0
-khouel,Babacar,Khouma Elhadji,1993-03-17,SEN,226,30,A,14,7,7,4,  653,1,0,0,0,1,0,0,0
-berado,Berardi,Domenico,1994-08-01,ITA,226,25,A,14,13,1,2, 1155,10,1,0,0,1,0,4,0
-boatke,Boateng,Kevin Prince,1987-03-06,GER,226,27,M,11,10,1,4,  813,4,1,0,0,2,0,1,0
-bogaje,Boga,Jérémie,1997-01-03,CIV,226,20,M,6,2,4,0,  209,0,2,0,0,0,0,0,0
-bourme,Bourabia,Mehdi,1991-08-07,FRA,226,68,M,12,9,3,0,  842,6,1,0,0,0,0,1,0
-brigen,Brignola,Enrico,1999-07-08,ITA,226,99,A,2,0,2,0,   22,0,0,0,0,0,0,0,0
-consa1,Consigli,Andrea,1987-01-27,ITA,226,47,P,15,15,0,0, 1350,15,0,-22,0,0,0,2,0
-dellcr,Dell'Orco,Cristian,1994-02-10,ITA,226,39,F,2,0,2,0,   20,0,12,0,0,0,0,0,0
-diFrfe,Di Francesco,Federico,1994-06-14,ITA,226,34,A,10,9,1,2,  666,1,4,0,0,0,0,2,0
-duncjo,Duncan,Joseph Alfred,1993-03-10,GHA,226,32,M,10,10,0,1,  859,8,0,0,0,0,0,4,0
-ferrgC,Ferrari,Gian Marco,1992-05-15,ITA,226,31,F,15,15,0,3, 1350,15,0,0,0,0,0,4,0
-lemoma,Lemos,Mauricio,1995-12-28,URU,226,5,F,1,1,0,0,   89,0,13,0,0,0,0,0,0
-kosopo,Lirola,Pol Mikel,1997-08-13,SPA,226,21,F,13,12,1,1, 1086,11,2,0,0,0,0,1,0
-locam1,Locatelli,Manuel,1998-01-08,ITA,226,73,M,8,7,1,0,  588,5,7,0,0,0,0,3,0
-magnf1,Magnanelli,Francesco,1984-11-12,ITA,226,4,M,8,7,1,0,  610,6,6,0,0,0,0,1,0
-magng3,Magnani,Giangiacomo,1995-10-04,ITA,226,23,F,10,9,1,0,  838,9,5,0,0,0,0,1,0
-marlma,Marlon,Marlon,1995-09-07,BRA,226,2,F,13,13,0,1, 1169,12,0,0,0,0,0,3,1
-matral,Matri,Alessandro,1984-08-19,ITA,226,10,A,7,0,7,1,   97,0,7,0,0,0,0,2,0
-odgaje,Odgaard,Jens,1999-03-31,DEN,226,19,A,0,0,0,0,    0,0,2,0,0,0,0,0,0
-pegogi,Pegolo,Gianluca,1981-03-25,ITA,226,79,P,0,0,0,0,    0,0,15,0,0,0,0,0,0
-pelufe,Peluso,Federico,1984-01-20,ITA,226,13,F,0,0,0,0,    0,0,7,0,0,0,0,0,0
-rogero,Rogério, ,1998-01-13,BRA,226,6,F,14,12,2,0, 1100,10,0,0,0,0,0,3,1
-satagi,Satalino,Giacomo,1999-05-20,ITA,226,28,P,0,0,0,0,    0,0,4,0,0,0,0,0,0
-sensst,Sensi,Stefano,1995-08-05,ITA,226,12,M,11,7,4,1,  633,3,4,0,0,0,0,2,0
-sernle,Sernicola,Leonardo,1997-03-30,ITA,226,17,F,0,0,0,0,    0,0,9,0,0,0,0,0,0
-trotma,Trotta,Marcello,1992-09-29,ITA,226,29,A,1,0,1,0,    6,0,5,0,0,0,0,0,0
-djurfi,Đuričić,Filip,1992-01-30,SRB,226,9,M,10,5,5,1,  511,2,4,0,0,0,0,2,0
-ainaol,Aina,Ola,1996-10-08,NGR,176,34,F,13,9,4,0,  947,6,1,0,0,0,0,1,0
-ansacr,Ansaldi,Cristian Daniel,1986-09-20,ARG,176,15,F,4,4,0,1,  273,1,2,0,0,0,0,0,0
-baseda,Baselli,Daniele,1992-03-12,ITA,176,8,M,13,11,2,3,  939,3,1,0,0,0,0,2,0
-beloan,Belotti,Andrea,1993-12-20,ITA,176,9,A,15,15,0,5, 1318,13,0,0,0,3,0,1,0
-bereal,Berenguer,Álex,1995-07-04,SPA,176,21,A,11,5,6,1,  585,4,3,0,0,0,0,0,0
-brembr,Bremer,Bremer,1997-03-18,BRA,176,36,F,1,0,1,0,   12,0,14,0,0,0,0,0,0
-damav1,Damaşcan,Vitalie,1999-01-24,MOL,176,19,A,0,0,0,0,    0,0,11,0,0,0,0,0,0
-deSilo,De Silvestri,Lorenzo,1988-05-23,ITA,176,29,F,12,12,0,0,  879,5,2,0,0,0,0,1,0
-djidko,Djidji,Koffi,1992-11-30,CIV,176,30,F,8,8,0,0,  677,7,7,0,0,0,0,0,0
-edersi,Edera,Simone,1997-01-09,ITA,176,20,A,2,1,1,0,   61,0,12,0,0,0,0,0,0
-falqia,Falqué,Iago,1990-01-04,SPA,176,14,A,12,11,1,2,  849,4,1,0,0,0,0,1,0
-ferier,Ferigra,Erick,1999-02-07,ECU,176,99,F,0,0,0,0,    0,0,2,0,0,0,0,0,0
-ichasa,Ichazo,Salvador,1992-01-26,URU,176,1,P,0,0,0,0,    0,0,15,0,0,0,0,0,0
-izzoar,Izzo,Armando,1992-03-02,ITA,176,5,F,15,15,0,1, 1338,14,0,0,0,0,0,3,0
+zanin1,Zaniolo,Nicolò,1999-07-02,ITA,149,22,M,27,20,7,4, 1766,9,9,0,0,0,0,8,0
+uendce,Ünder,Cengiz,1997-07-14,TUR,149,17,M,26,17,9,3, 1373,5,4,0,0,0,0,1,0
+corian,Ćorić,Ante,1997-04-14,CRO,149,19,M,2,0,2,0,   24,0,24,0,0,0,0,0,0
+antemi,Antenucci,Mirco,1984-09-08,ITA,168,7,A,35,22,13,5, 2135,19,2,0,0,1,0,0,0
+bonike,Bonifazi,Kevin,1996-05-19,ITA,168,14,F,27,26,1,2, 2301,23,7,0,0,0,0,2,0
+cionth,Cionek,Thiago Rangel,1986-04-21,BRA,168,4,F,31,29,2,0, 2542,22,3,0,0,0,0,12,2
+costfi,Costa,Filippo,1995-05-21,ITA,168,33,F,9,6,3,0,  565,5,28,0,0,0,0,0,0
+dicklo,Dickmann,Lorenzo,1996-09-24,ITA,168,24,F,6,2,4,0,  175,0,28,0,0,0,0,1,0
+djoujo,Djourou,Johan,1987-01-18,SUI,168, , ,5,3,2,0,  279,2,9,0,0,0,0,0,0
+everev,Everton, ,1988-05-24,BRA,168, , ,10,2,8,0,  317,0,7,0,0,0,0,5,0
+farcri,Farcaș,Ricardo,2000-06-26,ROM,168,96,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
+faremo,Fares,Mohamed Salim,1996-02-15,FRA,168,93,M,35,32,3,3, 2949,31,0,0,0,0,0,12,0
+dalBfe,Felipe,Dalbelo,1984-07-31,BRA,168,27,F,30,27,3,3, 2362,21,5,0,0,0,0,13,0
+flocse,Floccari,Sergio,1981-11-12,ITA,168,10,A,20,11,9,3,  973,2,7,0,0,0,0,3,0
+fulian,Fulignati,Andrea,1994-10-31,ITA,168,12,P,0,0,0,0,    0,0,11,0,0,0,0,0,0
+gomiam,Gomis,Amigo Alfred Junior,1993-09-05,SEN,168,1,P,20,19,1,0, 1724,19,18,-27,0,0,0,0,0
+jankm1,Janković,Marko,1995-07-09,MNT,168,95,A,4,0,4,0,   54,0,1,0,0,0,0,1,0
+kurtja,Kurtic,Jasmin,1989-01-10,SLO,168,19,M,30,29,1,6, 2556,24,0,0,0,0,0,9,0
+lazzma,Lazzari,Manuel,1993-11-29,ITA,168,29,M,33,33,0,0, 2833,26,0,0,0,0,0,7,0
+savivm,Milinković-Savić,Vanja,1997-02-20,SRB,168, , ,2,2,0,0,  164,1,16,-4,0,0,0,0,1
+misssi,Missiroli,Simone,1986-05-23,ITA,168,6,M,34,33,1,0, 2740,23,1,0,0,0,0,9,0
+moncga,Moncini,Gabriele,1996-04-26,ITA,168, , ,1,0,1,0,    8,0,12,0,0,0,0,0,0
+murgal,Murgia,Alessandro,1996-08-09,ITA,168,11,M,15,11,4,0, 1073,7,1,0,0,0,0,1,0
+nikola,Nikolić,Lazar,1999-08-01,SRB,168,45,A,0,0,0,0,    0,0,2,0,0,0,0,0,0
+paloal,Paloschi,Alberto,1990-01-04,ITA,168,43,A,23,8,15,2,  863,5,5,0,0,0,0,3,0
+petaan,Petagna,Andrea,1995-06-30,ITA,168,37,A,36,35,1,16, 3031,21,0,0,0,6,0,8,0
+pinnar,Pinna,Andrea Rizzo,2000-01-13,ITA,168,94,M,0,0,0,0,    0,0,2,0,0,0,0,0,0
+polugi,Poluzzi,Giacomo,1988-02-25,ITA,168,17,P,1,0,1,0,    6,0,25,0,0,0,0,0,0
+regiva,Regini,Vasco,1990-09-09,ITA,168,13,F,4,1,3,0,   82,0,11,0,0,0,0,0,0
+schipa,Schiattarella,Pasquale,1987-05-30,ITA,168,28,M,28,20,8,0, 1841,11,5,0,0,0,0,10,0
+similo,Simic,Lorenco,1996-07-15,CRO,168,5,F,8,2,6,0,  238,1,22,0,0,0,0,0,0
+spinm1,Spina,Marco,2000-01-25,ITA,168,90,M,0,0,0,0,    0,0,3,0,0,0,0,0,0
+thiade,Thiam,Demba,1998-03-09,SEN,168, , ,0,0,0,0,    0,0,12,0,0,0,0,0,0
+uzelka,Uzéla,Karolis,2000-03-11,LIT,168,97,M,0,0,0,0,    0,0,2,0,0,0,0,0,0
+valdmi,Valdifiori,Mirko,1986-04-21,ITA,168,16,M,15,8,7,0,  670,1,23,0,0,0,0,3,0
+valoma,Valoti,Mattia,1993-09-06,ITA,168,8,M,24,14,10,2, 1221,1,10,0,0,0,0,6,0
+vicafr,Vicari,Francesco,1994-08-03,ITA,168,23,F,28,26,2,2, 2335,21,7,0,0,0,0,6,0
+vitama,Vitale,Mattia,1997-10-01,ITA,168, , ,0,0,0,0,    0,0,5,0,0,0,0,0,0
+vivife,Viviani,Federico,1992-03-24,ITA,168, , ,0,0,0,0,    0,0,10,0,0,0,0,0,0
+viviem,Viviano,Emiliano,1985-12-01,ITA,168,2,P,17,17,0,0, 1524,16,2,-25,0,0,0,0,0
+andejo,Andersen,Joachim,1996-05-31,DEN,155,3,F,32,32,0,0, 2880,32,1,0,0,0,0,7,0
+audeem,Audero,Emil,1997-01-18,INA,155,1,P,36,36,0,0, 3240,36,2,-52,0,0,0,4,0
+bahlmo,Bahlouli,Mohamed,2000-02-17,FRA,155,12,M,0,0,0,0,    0,0,2,0,0,0,0,0,0
+barred,Barreto,Edgar Osvaldo,1984-07-15,PAR,155,8,M,12,9,3,0,  784,7,5,0,0,0,0,2,0
+belevi,Belec,Vid,1990-06-06,SLO,155,72,P,0,0,0,0,    0,0,37,0,0,0,0,0,0
+bereba,Bereszynski,Bartosz,1992-07-12,POL,155,24,F,27,24,3,0, 2200,22,6,0,0,0,0,5,1
+caprgi,Caprari,Gianluca,1993-07-30,ITA,155,17,A,21,12,9,6, 1029,0,3,0,0,0,0,1,0
+collom,Colley,Omar,1992-10-24,GAM,155,15,F,21,21,0,0, 1761,18,16,0,0,0,0,0,1
+defrgr,Defrel,Gregoire Andre,1991-06-17,FRA,155,92,A,36,26,10,11, 2339,14,1,0,0,0,0,2,0
+ekdaal,Ekdal,Albin,1989-07-28,SWE,155,6,M,32,30,2,0, 2645,22,2,0,0,0,0,6,0
+farato,Farabegoli,Tommaso,1999-03-26,ITA,155,13,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
+ferra4,Ferrari,Alex,1994-07-01,ITA,155,25,F,6,6,0,0,  540,6,32,0,0,0,0,2,0
+gabbma,Gabbiadini,Manolo,1991-11-26,ITA,155,23,A,18,8,10,4,  813,4,0,0,0,0,0,5,0
+jankja,Jankto,Jakub,1996-01-19,CZE,155,14,M,25,7,18,0,  965,5,7,0,0,0,0,2,0
+kownda,Kownacki,Dawid,1997-03-14,POL,155, , ,13,0,13,1,  169,0,1,0,0,1,0,0,0
+krapti,Krapikas,Titas,1999-01-03,LIT,155,32,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
+levema,Leverbe,Maxime,1997-02-15,FRA,155, , ,0,0,0,0,    0,0,9,0,0,0,0,0,0
+lineka,Linetty,Karol,1995-02-02,POL,155,16,M,32,30,2,3, 2505,16,2,0,0,0,0,11,0
+mpieja,Mpie,James,2001-05-22,BEL,155,31,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
+murrni,Murru,Nicola,1994-12-16,ITA,155,29,F,35,34,1,0, 2934,29,0,0,0,0,0,9,0
+praede,Praet,Dennis,1994-05-14,BEL,155,10,M,34,33,1,2, 2890,27,0,0,0,0,0,6,0
+quagfa,Quagliarella,Fabio,1983-01-31,ITA,155,27,A,37,37,0,26, 3199,25,0,0,0,9,0,1,0
+barbra,Rafael,Cabral Barbosa,1990-05-20,BRA,155,33,P,2,2,0,0,  180,2,35,0,0,0,0,0,0
+ramiga,Ramirez,Gaston Exequiel,1990-12-02,URU,155,11,M,27,19,8,4, 1578,3,4,0,0,0,0,6,1
+regiva,Regini,Vasco,1990-09-09,ITA,155, , ,0,0,0,0,    0,0,3,0,0,0,0,0,0
+rolaga,Rolando,Gabriele,1995-04-02,ITA,155, , ,0,0,0,0,    0,0,16,0,0,0,0,0,0
+salaja,Sala,Jacopo,1991-12-05,ITA,155,7,F,21,16,5,0, 1518,13,14,0,0,0,0,5,0
+sapori,Saponara,Riccardo,1991-12-21,ITA,155,5,M,22,11,11,1,  906,1,9,0,-1,0,0,3,0
+sauxma,Sau,Marco,1987-11-03,ITA,155,20,A,5,0,5,0,   55,0,7,0,0,0,0,0,0
+tavaju,Tavares,Júnior,1996-08-07,BRA,155,22,F,3,2,1,0,  184,1,33,0,0,0,0,1,0
+tonelo,Tonelli,Lorenzo,1990-01-17,ITA,155,26,F,19,17,2,1, 1656,17,16,0,-1,0,0,6,0
+trimsi,Trimboli,Simone,2002-04-19,ITA,155,30,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+vieiro,Vieira,Ronaldo,1998-07-19,ENG,155,4,M,14,6,8,0,  600,3,23,0,0,0,0,3,0
+adjacl,Adjapong,Claud,1998-05-06,ITA,226,98,F,5,3,2,1,  270,1,21,0,0,0,0,1,0
+khouel,Babacar,Khouma Elhadji,1993-03-17,SEN,226,30,A,29,16,13,7, 1487,4,7,0,0,2,0,0,0
+berado,Berardi,Domenico,1994-08-01,ITA,226,25,A,35,32,3,8, 2875,26,1,0,0,1,0,5,1
+boatke,Boateng,Kevin Prince,1987-03-06,GER,226, , ,13,11,2,4,  938,5,1,0,0,2,0,1,0
+bogaje,Boga,Jérémie,1997-01-03,CIV,226,20,M,25,14,11,3, 1443,7,2,0,0,0,0,0,0
+bourme,Bourabia,Mehdi,1991-08-07,FRA,226,68,M,32,21,11,1, 2011,15,2,0,0,0,0,7,1
+brigen,Brignola,Enrico,1999-07-08,ITA,226,99,A,7,2,5,1,  175,0,2,0,0,0,0,2,0
+consa1,Consigli,Andrea,1987-01-27,ITA,226,47,P,36,36,0,0, 3213,35,1,-56,0,0,0,2,1
+dellcr,Dell'Orco,Cristian,1994-02-10,ITA,226, , ,3,1,2,0,  110,1,17,0,0,0,0,0,0
+demime,Demiral,Merih,1998-03-05,TUR,226,3,F,14,14,0,2, 1260,14,2,0,0,0,0,3,0
+diFrfe,Di Francesco,Federico,1994-06-14,ITA,226,34,A,19,14,5,2, 1074,2,13,0,0,0,0,2,0
+duncjo,Duncan,Joseph Alfred,1993-03-10,GHA,226,32,M,26,21,5,4, 1849,14,3,0,0,0,0,6,1
+ferrgC,Ferrari,Gian Marco,1992-05-15,ITA,226,31,F,31,31,0,4, 2790,31,6,0,0,0,0,9,0
+ghioan,Ghion,Andrea,2000-02-23,ITA,226,8,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+lemoma,Lemos,Mauricio,1995-12-28,URU,226,5,F,3,3,0,0,  179,0,32,0,0,0,0,0,0
+kosopo,Lirola,Pol Mikel,1997-08-13,SPA,226,21,F,35,32,3,2, 2975,30,3,0,-2,0,0,2,0
+locam1,Locatelli,Manuel,1998-01-08,ITA,226,73,M,29,21,8,2, 1847,11,8,0,0,0,0,7,0
+magnf1,Magnanelli,Francesco,1984-11-12,ITA,226,4,M,26,21,5,0, 1859,16,10,0,0,0,0,3,1
+magng3,Magnani,Giangiacomo,1995-10-04,ITA,226,23,F,19,17,2,0, 1516,16,14,0,0,0,0,2,0
+marlma,Marlon,Marlon,1995-09-07,BRA,226,2,F,18,18,0,1, 1508,15,6,0,0,0,0,3,1
+matral,Matri,Alessandro,1984-08-19,ITA,226,10,A,19,6,13,2,  603,1,17,0,0,0,0,3,0
+odgaje,Odgaard,Jens,1999-03-31,DEN,226,19,A,1,0,1,0,   16,0,13,0,0,0,0,0,0
+pegogi,Pegolo,Gianluca,1981-03-25,ITA,226,79,P,3,2,1,0,  203,2,34,-4,0,0,0,1,0
+pelufe,Peluso,Federico,1984-01-20,ITA,226,13,F,16,14,2,1, 1356,13,11,0,0,0,0,5,0
+raspgi,Raspadori,Giacomo,2000-02-18,ITA,226,18,A,1,0,1,0,    1,0,0,0,0,0,0,0,0
+rogero,Rogério, ,1998-01-13,BRA,226,6,F,33,29,4,1, 2672,27,2,0,0,0,0,9,1
+satagi,Satalino,Giacomo,1999-05-20,ITA,226,28,P,0,0,0,0,    0,0,17,0,0,0,0,0,0
+scamgi,Scamacca,Gianluca,1999-01-01,ITA,226,11,A,0,0,0,0,    0,0,9,0,0,0,0,0,0
+sensst,Sensi,Stefano,1995-08-05,ITA,226,12,M,28,23,5,2, 1972,11,7,0,0,0,0,8,0
+sernle,Sernicola,Leonardo,1997-03-30,ITA,226,17,F,1,0,1,0,    6,0,20,0,0,0,0,0,0
+trotma,Trotta,Marcello,1992-09-29,ITA,226, , ,1,0,1,0,    6,0,9,0,0,0,0,0,0
+djurfi,Đuričić,Filip,1992-01-30,SRB,226,9,M,23,16,7,2, 1257,2,12,0,0,0,0,2,0
+adopmi,Adopo,Michel,2000-01-01,FRA,176,80,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+ainaol,Aina,Ola,1996-10-08,NGR,176,34,F,30,22,8,1, 2162,16,2,0,0,0,0,5,0
+ansacr,Ansaldi,Cristian Daniel,1986-09-20,ARG,176,15,F,24,23,1,3, 1808,13,4,0,0,0,0,3,0
+baseda,Baselli,Daniele,1992-03-12,ITA,176,8,M,34,27,7,4, 2376,10,1,0,0,0,0,5,0
+beloan,Belotti,Andrea,1993-12-20,ITA,176,9,A,37,37,0,15, 3298,35,0,0,0,5,0,5,0
+bereal,Berenguer,Álex,1995-07-04,SPA,176,21,A,31,15,16,2, 1487,7,6,0,0,0,0,4,0
+brembr,Bremer,Bremer,1997-03-18,BRA,176,36,F,5,2,3,0,  183,1,33,0,0,0,0,1,0
+damav1,Damaşcan,Vitalie,1999-01-24,MOL,176,19,A,1,0,1,0,    4,0,25,0,0,0,0,0,0
+deSilo,De Silvestri,Lorenzo,1988-05-23,ITA,176,29,F,32,30,2,2, 2414,18,4,0,0,0,0,2,0
+djidko,Djidji,Koffi,1992-11-30,CIV,176,30,F,17,16,1,0, 1387,14,12,0,0,0,0,2,0
+edersi,Edera,Simone,1997-01-09,ITA,176, , ,3,1,2,0,   77,0,16,0,0,0,0,0,0
+falqia,Falqué,Iago,1990-01-04,SPA,176,14,A,26,19,7,6, 1613,6,4,0,0,0,0,1,0
+ferier,Ferigra,Erick,1999-02-07,ECU,176,99,F,0,0,0,0,    0,0,6,0,0,0,0,0,0
+gemelu,Gemello,Luca,2000-07-03,ITA,176,89,P,0,0,0,0,    0,0,2,0,0,0,0,0,0
+ichasa,Ichazo,Salvador,1992-01-26,URU,176,1,P,3,2,1,0,  251,2,35,-2,0,0,0,0,0
+izzoar,Izzo,Armando,1992-03-02,ITA,176,5,F,37,37,0,4, 3271,34,0,0,0,0,0,6,0
+konebe,Kone,Ben,2000-03-14,CIV,176,50,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
 ljajad,Ljajic,Adem,1991-09-29,YUG,176, , ,1,0,1,0,   30,0,1,0,0,0,0,0,0
-lukisa,Lukic,Sasa,1996-08-13,SRB,176,7,M,6,0,6,0,   72,0,9,0,0,0,0,0,0
-lyanly,Lyanco, ,1997-02-01,SRB,176,3,F,0,0,0,0,    0,0,5,0,0,0,0,0,0
-meitso,Meïté,Soualiho,1994-03-17,FRA,176,23,M,14,14,0,2, 1209,11,0,0,0,0,0,6,0
-moreem,Moretti,Emiliano,1981-06-11,ITA,176,24,F,7,7,0,0,  630,7,8,0,0,0,0,2,0
-nkouni,N'Koulou,Nicolas,1990-03-27,CMR,176,33,F,15,15,0,1, 1350,15,0,0,0,0,0,3,0
-parivi,Parigini,Vittorio,1996-03-25,ITA,176,27,A,9,1,8,0,  162,0,1,0,0,0,0,0,0
-rincto,Rincon,Tomas Eduardo,1988-01-13,VEN,176,88,M,13,13,0,1, 1158,11,1,0,0,0,0,5,0
-rosaa1,Rosati,Antonio,1983-06-26,ITA,176,25,P,0,0,0,0,    0,0,13,0,0,0,0,0,0
-sirisa,Sirigu,Salvatore,1987-01-12,ITA,176,39,P,15,15,0,0, 1350,15,0,-16,0,0,0,1,0
-soriro,Soriano,Roberto,1991-02-08,GER,176,6,M,11,6,5,0,  468,1,4,0,0,0,0,1,0
-zazasi,Zaza,Simone,1991-06-25,ITA,176,11,A,13,3,10,1,  543,3,2,0,0,0,0,2,0
-avesht,Avest,Hidde ter,1997-05-20,NED,186,18,F,6,5,1,0,  463,3,9,0,0,0,0,0,0
-balian,Balic,Andrija,1997-08-11,CRO,186,99,M,2,0,2,0,   12,0,5,0,0,0,0,0,0
-baraan,Barák,Antonín,1994-12-03,CZE,186,72,M,7,4,3,0,  317,0,3,0,0,0,0,0,0
-behrva,Behrami,Valon,1985-04-19,SUI,186,11,M,11,10,1,0,  767,3,4,0,0,0,0,4,0
-coulma,Coulibaly,Mamadou,1999-03-02,SEN,186,98,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
-dalema,D'Alessandro,Marco,1991-02-17,ITA,186,77,M,7,1,6,0,  135,0,6,0,0,0,0,0,0
-deParo,De Paul,Rodrigo Javier,1994-05-24,ARG,186,10,M,15,15,0,6, 1333,12,0,0,0,1,0,4,0
-fofase,Fofana,Seko Mohamed,1995-05-07,FRA,186,6,M,15,15,0,1, 1350,15,0,0,0,0,0,4,0
+lukisa,Lukic,Sasa,1996-08-13,SRB,176,7,M,24,11,13,2,  991,5,13,0,0,0,0,7,0
+lyanly,Lyanco, ,1997-02-01,SRB,176, , ,2,1,1,0,   90,0,9,0,0,0,0,1,0
+meitso,Meïté,Soualiho,1994-03-17,FRA,176,23,M,35,30,5,2, 2659,21,0,0,0,0,0,7,1
+millvi,Millico,Vincenzo,2000-08-12,ITA,176,72,A,1,0,1,0,    1,0,9,0,0,0,0,0,0
+moreem,Moretti,Emiliano,1981-06-11,ITA,176,24,F,24,22,2,0, 2018,21,12,0,0,0,0,5,0
+nkouni,N'Koulou,Nicolas,1990-03-27,CMR,176,33,F,36,36,0,2, 3214,35,0,0,0,0,0,6,1
+parivi,Parigini,Vittorio,1996-03-25,ITA,176,27,A,17,2,15,0,  377,0,7,0,0,0,0,2,0
+rincto,Rincon,Tomas Eduardo,1988-01-13,VEN,176,88,M,34,32,2,3, 2799,25,1,0,0,0,0,15,0
+rosaa1,Rosati,Antonio,1983-06-26,ITA,176,25,P,0,0,0,0,    0,0,36,0,0,0,0,0,0
+singwi,Singo,Wilfried,2000-12-25,CIV,176,17,F,0,0,0,0,    0,0,10,0,0,0,0,0,0
+sirisa,Sirigu,Salvatore,1987-01-12,ITA,176,39,P,36,36,0,0, 3169,35,0,-35,0,0,0,1,0
+soriro,Soriano,Roberto,1991-02-08,GER,176, , ,11,6,5,0,  468,1,8,0,0,0,0,1,0
+zazasi,Zaza,Simone,1991-06-25,ITA,176,11,A,29,11,18,4, 1437,6,6,0,0,0,0,8,1
+baduea,Agyemang-Badu,Emmanuel,1990-12-02,GHA,186,8,M,4,2,2,0,  161,0,7,0,0,0,0,0,0
+avesht,Avest,Hidde ter,1997-05-20,NED,186,18,F,13,12,1,0,  974,4,21,0,0,0,0,0,0
+balian,Balic,Andrija,1997-08-11,CRO,186, , ,4,0,4,0,   27,0,8,0,0,0,0,0,0
+baraan,Barák,Antonín,1994-12-03,CZE,186,72,M,8,4,4,0,  329,0,7,0,0,0,0,0,0
+battth,Battistella,Thomas,2001-07-29,ITA,186,43,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+behrva,Behrami,Valon,1985-04-19,SUI,186,11,M,19,17,2,1, 1361,8,4,0,0,0,0,6,0
+bocimi,Bocic,Milos,2000-01-26,SRB,186,41,A,0,0,0,0,    0,0,4,0,0,0,0,0,0
+coulma,Coulibaly,Mamadou,1999-03-02,SEN,186, , ,0,0,0,0,    0,0,2,0,0,0,0,0,0
+dalema,D'Alessandro,Marco,1991-02-17,ITA,186,77,M,24,16,8,0, 1495,9,7,0,0,0,0,3,0
+deMase,De Maio,Sebastien,1987-03-05,FRA,186,87,F,16,13,3,1, 1174,9,1,0,0,0,0,0,1
+deParo,De Paul,Rodrigo Javier,1994-05-24,ARG,186,10,M,36,36,0,9, 3189,31,0,0,0,3,0,7,0
+fofase,Fofana,Seko Mohamed,1995-05-07,FRA,186,6,M,31,31,0,2, 2638,24,0,0,0,0,0,5,0
 gaspm2,Gasparini,Manuel,2002-05-19,ITA,186,40,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
-larsjs,Larsen,Jens Stryger,1991-02-21,DEN,186,19,F,15,15,0,0, 1350,15,0,0,0,0,0,2,0
-lasake,Lasagna,Kevin,1992-08-10,ITA,186,15,A,14,12,2,3, 1073,7,1,0,0,0,0,2,0
-machda,Machís,Darwin,1993-02-07,VEN,186,16,A,10,4,6,0,  425,1,2,0,0,0,0,2,0
-mandr1,Mandragora,Rolando,1997-06-29,ITA,186,38,M,14,13,1,0, 1157,11,0,0,0,0,0,1,0
-micipe,Mićin,Petar,1998-09-29,SRB,186,14,A,0,0,0,0,    0,0,7,0,0,0,0,0,0
-mussju,Musso,Juan,1994-05-06,ARG,186,1,P,6,6,0,0,  540,6,8,-8,0,0,0,1,0
-andrnd,Nicolas,David Andrade,1988-04-12,BRA,186,88,P,0,0,0,0,    0,0,15,0,0,0,0,0,0
-nuytbr,Nuytinck,Bram,1990-05-04,NED,186,17,F,13,12,1,0, 1078,10,0,0,0,0,0,1,1
-opokni,Opoku,Nicholas,1997-11-08,GHA,186,4,F,4,2,2,0,  237,2,11,0,0,0,0,2,0
-pezzgi,Pezzella,Giuseppe,1997-11-29,ITA,186,7,F,3,2,1,0,  184,1,9,0,0,0,0,1,0
-pontsi,Pontisso,Simone,1997-03-20,ITA,186,21,M,0,0,0,0,    0,0,13,0,0,0,0,0,0
-pussig,Pussetto,Ignacio,1995-12-21,ARG,186,23,A,14,10,4,2,  833,2,0,0,0,0,0,4,0
-sants3,Samir,Caetano De Souza Santos,1994-12-05,BRA,186,3,F,13,13,0,0, 1122,11,0,0,0,0,0,3,0
-scufsi,Scuffet,Simone,1996-05-31,ITA,186,22,P,9,9,0,0,  810,9,6,-13,0,0,0,0,0
-teodlu,Teodorczyk,Łukasz,1991-06-03,POL,186,91,A,8,1,7,0,  244,0,0,0,0,0,0,0,0
-ekonwt,Troost-Ekong,William,1993-09-01,NGR,186,5,F,15,15,0,0, 1294,14,0,0,0,0,0,2,0
-vizefe,Vizeu,Felipe,1997-03-12,BRA,186,9,A,4,0,4,0,   30,0,6,0,0,0,0,0,0
-wagumo,Wague,Molla,1991-02-21,FRA,186,2,F,2,1,1,0,   95,1,10,0,0,0,0,0,0
+hallem,Hallfredsson,Emil,1984-06-29,ISL,186,20,M,3,1,2,1,  137,1,4,0,0,0,0,0,0
+ingesv,Ingelsson,Svante,1998-06-14,SWE,186,13,M,3,1,2,0,   97,0,9,0,0,0,0,0,0
+inigga,Iniguez,Gaspar Emmanuel,1994-03-26,ARG,186, , ,0,0,0,0,    0,0,2,0,0,0,0,0,0
+larsjs,Larsen,Jens Stryger,1991-02-21,DEN,186,19,F,36,36,0,1, 3234,34,0,0,0,0,0,6,0
+lasake,Lasagna,Kevin,1992-08-10,ITA,186,15,A,36,26,10,6, 2452,19,1,0,0,0,0,2,0
+machda,Machís,Darwin,1993-02-07,VEN,186, , ,13,4,9,0,  463,1,5,0,0,0,0,2,0
+mandr1,Mandragora,Rolando,1997-06-29,ITA,186,38,M,35,33,2,3, 2918,27,0,0,0,0,0,8,1
+micipe,Mićin,Petar,1998-09-29,SRB,186,14,A,1,0,1,0,    3,0,27,0,0,0,0,0,0
+mussju,Musso,Juan,1994-05-06,ARG,186,1,P,29,29,0,0, 2610,29,8,-40,0,0,0,4,0
+andrnd,Nicolas,David Andrade,1988-04-12,BRA,186,88,P,0,0,0,0,    0,0,38,0,0,0,0,0,0
+nuytbr,Nuytinck,Bram,1990-05-04,NED,186,17,F,27,24,3,0, 2127,21,3,0,0,0,0,4,1
+okakch,Okaka,Chuka Stefano,1989-08-09,ITA,186,7,A,16,11,5,6,  969,3,2,0,0,0,0,4,0
+opokni,Opoku,Nicholas,1997-11-08,GHA,186,4,F,12,9,3,0,  910,7,17,0,0,0,0,5,0
+perisa,Perisan,Samuele,1997-08-21,ITA,186,27,P,0,0,0,0,    0,0,19,0,0,0,0,0,0
+pezzgi,Pezzella,Giuseppe,1997-11-29,ITA,186, , ,4,2,2,0,  184,1,12,0,0,0,0,1,0
+pontsi,Pontisso,Simone,1997-03-20,ITA,186, , ,0,0,0,0,    0,0,19,0,0,0,0,0,0
+pussig,Pussetto,Ignacio,1995-12-21,ARG,186,23,A,35,24,11,4, 2177,10,0,0,0,0,0,8,0
+sants3,Samir,Caetano De Souza Santos,1994-12-05,BRA,186,3,F,21,21,0,2, 1797,18,2,0,0,0,0,7,0
+sandsa,Sandro, ,1989-03-15,BRA,186,30,M,12,7,5,0,  595,2,0,0,-1,0,0,5,0
+scufsi,Scuffet,Simone,1996-05-31,ITA,186, , ,9,9,0,0,  810,9,10,-13,0,0,0,0,0
+teodlu,Teodorczyk,Łukasz,1991-06-03,POL,186,91,A,16,2,14,1,  401,1,4,0,0,0,0,1,0
+ekonwt,Troost-Ekong,William,1993-09-01,NGR,186,5,F,35,35,0,0, 3064,32,0,0,0,0,0,4,0
+vaskfi,Vasko,Filip,1999-08-11,SVK,186,42,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
+vizefe,Vizeu,Felipe,1997-03-12,BRA,186, , ,5,0,5,0,   32,0,9,0,0,0,0,0,0
+wagumo,Wague,Molla,1991-02-21,FRA,186, , ,2,1,1,0,   95,1,14,0,0,0,0,0,0
+wilmbe,Wilmot,Ben,1999-11-04,ENG,186,24,F,5,2,3,0,  199,1,12,0,0,0,0,1,0
+zeegma,Zeegelaar,Marvin,1990-08-12,NED,186,90,F,12,10,2,0,  956,9,5,0,0,0,0,5,1

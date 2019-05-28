@@ -19,28 +19,6 @@ macajo, ,Macanás,1953-02-15,SPA,0, ,A,0,0,0,0,macanas
 martr1,Roberto,Martínez,1945-09-25,ARG,0, ,A,0,0,0,0,roberto-martinez_3
 barrs1,Sánchez,Barrios,1949-04-28,SPA,0, ,A,0,0,0,0,sanchez-barrios
 santc1, ,Santillana,1952-08-23,SPA,0, ,A,0,0,0,0,santillana
-artope, ,Artola,1948-09-06,SPA,1, ,P,0,0,0,0,artola
-morape, ,Mora,1947-12-18,SPA,1, ,P,0,0,0,0,mora_4
-cruzdl,De la,Cruz,1947-05-07,SPA,1, ,F,0,0,0,0,de-la-cruz_2
-migum4, ,Migueli,1951-12-19,SPA,1, ,F,0,0,0,0,migueli
-ramojo, ,Ramos,1951-04-03,SPA,1, ,F,0,0,0,0,ramos_4
-amaral,Alfredo,Amarillo,1953-01-02,URU,1, ,M,0,0,0,0,alfredo-amarillo
-asenju, ,Asensi,1949-09-23,SPA,1, ,M,0,0,0,0,asensi
-carrj3, ,Carreño,1953-05-15,SPA,1, ,M,0,0,0,0,carreno_3
-costen, ,Costas,1947-01-16,SPA,1, ,M,0,0,0,0,costas_2
-cruyjo,Johan,Cruyff,1947-04-25,NED,1, ,M,0,0,0,0,johan-cruyff
-emile4, ,Emilio,1958-01-14,SPA,1, ,M,0,0,0,0,emilio_8
-macij1, ,Macizo,1951-07-09,SPA,1, ,M,0,0,0,0,macizo
-neesjo,Johan,Neeskens,1951-09-15,NED,1, ,M,0,0,0,0,johan-neeskens
-olmoan, ,Olmo,1954-01-18,SPA,1, ,M,0,0,0,0,olmo_2
-rexaca, ,Rexach,1947-01-13,SPA,1, ,M,0,0,0,0,rexach
-sancj2, ,Sánchez,1956-10-08,SPA,1, ,M,0,0,0,0,sanchez
-sotihu,Hugo,Sotil,1949-03-08,PER,1, ,M,0,0,0,0,hugo-sotil
-botejo, ,Botella,1953-10-05,SPA,1, ,A,0,0,0,0,botella_4
-herejc,Juan Carlos,Heredia,1952-05-01,ARG,1, ,A,0,0,0,0,juan-carlos-heredia
-clarma,Manuel,Clares,1948-02-23,SPA,1, ,A,0,0,0,0,manuel-clares
-marcm4, ,Marcial,1946-08-23,SPA,1, ,A,0,0,0,0,marcial_3
-genemi,Mir,Genes,1956-03-24,SPA,1, ,A,0,0,0,0,mir-genes
 arcolu, ,Arconada,1954-06-26,SPA,10, ,P,0,0,0,0,arconada
 urrufr, ,Urruti,1952-02-17,SPA,10, ,P,0,0,0,0,urruti_2
 astajo, ,Astarbe,1955-01-13,SPA,10, ,F,0,0,0,0,astarbe
@@ -113,31 +91,30 @@ fortpa,Paco,Fortes,1955-01-04,SPA,15, ,A,0,0,0,0,paco-fortes
 quevda,Daniel,Quevedo,1947-10-03,ARG,15, ,A,0,0,0,0,daniel-quevedo
 requru, ,Requejo,1949-03-13,SPA,15, ,A,0,0,0,0,requejo
 uriafi, ,Uriarte,1945-03-01,SPA,15, ,A,0,0,0,0,uriarte_4
-gomepa,Pacheco,Gómez,1947-01-14,SPA,2, ,P,0,0,0,0,pacheco-gomez
-reinmi, ,Reina,1946-01-21,SPA,2, ,P,0,0,0,0,reina_2
-capojo, ,Capón,1948-02-06,SPA,2, ,F,0,0,0,0,capon
-diazru,Rubén,Díaz,1946-01-08,ARG,2, ,F,0,0,0,0,ruben-diaz_2
-euseeu, ,Eusebio,1948-05-06,SPA,2, ,F,0,0,0,0,eusebio_2
-perelu,Luís,Pereira,1949-06-21,BRA,2, ,F,0,0,0,0,luis-pereira
-marcm6, ,Marcelino,1955-08-13,SPA,2, ,F,0,0,0,0,marcelino_3
-sierju, ,Sierra,1955-01-02,SPA,2, ,F,0,0,0,0,sierra_3
-fernal,Alberto,Fernández,1943-11-19,SPA,2, ,M,0,0,0,0,alberto-fernandez
-benedo,Domingo,Benegas,1946-08-04,PAR,2, ,M,0,0,0,0,domingo-benegas
-bermfr, ,Bermejo,1956-03-09,SPA,2, ,M,0,0,0,0,bermejo_2
-herera,Ramón,Heredia,1951-02-26,ARG,2, ,M,0,0,0,0,ramon-heredia
-lealeu, ,Leal,1954-05-13,SPA,2, ,M,0,0,0,0,leal
-melofr, ,Melo,1943-11-13,SPA,2, ,M,0,0,0,0,melo
-robiva, ,Robi,1951-01-09,SPA,2, ,M,0,0,0,0,robi_2
-salcig, ,Salcedo,1947-05-22,SPA,2, ,M,0,0,0,0,salcedo_3
-aguif1, ,Aguilar,1952-05-10,SPA,2, ,A,0,0,0,0,aguilar_2
-ayalru,Rubén,Ayala,1950-01-08,ARG,2, ,A,0,0,0,0,ruben-ayala
-braope,Pedro,Braojos,1957-01-08,SPA,2, ,A,0,0,0,0,pedro-braojos
-garajo,José,Gárate,1944-10-20,SPA,2, ,A,0,0,0,0,jose-garate
-leivjo, ,Leivinha,1949-09-11,BRA,2, ,A,0,0,0,0,leivinha
-canoru,Rubén,Cano,1951-02-05,SPA,2, ,A,0,0,0,0,ruben-cano
-becehe, ,Becerra,1945-04-21,BRA,2, , ,0,0,0,0,becerra
+artope, ,Artola,1948-09-06,SPA,1, ,P,0,0,0,0,artola
+morape, ,Mora,1947-12-18,SPA,1, ,P,0,0,0,0,mora_4
+cruzdl,De la,Cruz,1947-05-07,SPA,1, ,F,0,0,0,0,de-la-cruz_2
+migum4, ,Migueli,1951-12-19,SPA,1, ,F,0,0,0,0,migueli
+ramojo, ,Ramos,1951-04-03,SPA,1, ,F,0,0,0,0,ramos_4
+amaral,Alfredo,Amarillo,1953-01-02,URU,1, ,M,0,0,0,0,alfredo-amarillo
+asenju, ,Asensi,1949-09-23,SPA,1, ,M,0,0,0,0,asensi
+carrj3, ,Carreño,1953-05-15,SPA,1, ,M,0,0,0,0,carreno_3
+costen, ,Costas,1947-01-16,SPA,1, ,M,0,0,0,0,costas_2
+cruyjo,Johan,Cruyff,1947-04-25,NED,1, ,M,0,0,0,0,johan-cruyff
+emile4, ,Emilio,1958-01-14,SPA,1, ,M,0,0,0,0,emilio_8
+macij1, ,Macizo,1951-07-09,SPA,1, ,M,0,0,0,0,macizo
+neesjo,Johan,Neeskens,1951-09-15,NED,1, ,M,0,0,0,0,johan-neeskens
+olmoan, ,Olmo,1954-01-18,SPA,1, ,M,0,0,0,0,olmo_2
+rexaca, ,Rexach,1947-01-13,SPA,1, ,M,0,0,0,0,rexach
+sancj2, ,Sánchez,1956-10-08,SPA,1, ,M,0,0,0,0,sanchez
+sotihu,Hugo,Sotil,1949-03-08,PER,1, ,M,0,0,0,0,hugo-sotil
+botejo, ,Botella,1953-10-05,SPA,1, ,A,0,0,0,0,botella_4
+herejc,Juan Carlos,Heredia,1952-05-01,ARG,1, ,A,0,0,0,0,juan-carlos-heredia
+clarma,Manuel,Clares,1948-02-23,SPA,1, ,A,0,0,0,0,manuel-clares
+marcm4, ,Marcial,1946-08-23,SPA,1, ,A,0,0,0,0,marcial_3
+genemi,Mir,Genes,1956-03-24,SPA,1, ,A,0,0,0,0,mir-genes
 albape, ,Alba,1955-05-13,SPA,20, ,P,0,0,0,0,alba_4
-damavt, ,Damas,1947-10-08,POR,20, ,P,0,0,0,0,damas
+damavt, ,Damas,1947-10-08,POR,20, ,P,0,0,0,0,vitor-damas
 moncjo, ,Monchi,1951-11-07,SPA,20, ,P,0,0,0,0,monchi_2
 arteju, ,Arteche,1957-04-11,SPA,20, ,F,0,0,0,0,arteche_3
 camupe, ,Camus,1955-07-13,SPA,20, ,F,0,0,0,0,camus
@@ -217,33 +194,33 @@ romej1, ,Romero,1945-01-05,SPA,28, ,M,0,0,0,0,romero_8
 valdje, ,Valdés,1949-10-10,SPA,28, ,M,0,0,0,0,valdes_2
 cosxbe,Bernardo,Cos,1949-03-31,ARG,28, ,A,0,0,0,0,bernardo-cos
 juanjE, ,Juanito,1954-11-10,SPA,28, ,A,0,0,0,0,juanito
-katiil,Ilja,Katić,1945-07-20,YUG,28, ,A,0,0,0,0,ilja-kati
+katiil,Ilja,Katić,1945-07-20,YUG,28, ,A,0,0,0,0,ilja-katic
 quinj3, ,Quini,1949-03-01,SPA,28, ,A,0,0,0,0,quini_2
 reyxom,Omar,Rey,1949-09-03,URU,28, ,A,0,0,0,0,omar-rey
 vitera, ,Viteri,1953-07-11,SPA,28, ,A,0,0,0,0,viteri
-balajo, ,Balaguer,1950-12-01,SPA,3, ,P,0,0,0,0,balaguer_2
-basaen, ,Basauri,1953-07-21,SPA,3, ,P,0,0,0,0,basauri
-marrvc, ,Marro,1946-10-21,SPA,3, ,P,0,0,0,0,marro
-pereca, ,Pereira,1951-09-09,SPA,3, ,P,0,0,0,0,pereira_4
-ariari, ,Arias,1957-02-25,SPA,3, ,F,0,0,0,0,arias_2
-botuma, ,Botubot,1955-11-23,SPA,3, ,F,0,0,0,0,botubot
-carrj2, ,Carrete,1951-04-05,SPA,3, ,F,0,0,0,0,carrete
-castn1, ,Castellanos,1952-11-15,SPA,3, ,F,0,0,0,0,castellanos_3
-cervj1, ,Cerveró,1949-09-03,SPA,3, ,F,0,0,0,0,cervero_2
-cordju, ,Cordero,1952-01-31,SPA,3, ,F,0,0,0,0,cordero_2
-domira, ,Domingo,1954-09-22,SPA,3, ,F,0,0,0,0,domingo_2
-martje,Jesús,Martínez,1947-12-07,SPA,3, ,F,0,0,0,0,jesus-martinez_2
-clarjo, ,Claramunt,1946-07-16,SPA,3, ,M,0,0,0,0,claramunt
-carlj2,Juan,Carlos,1954-05-02,SPA,3, ,M,0,0,0,0,juan-carlos_8
-tirafe, ,Tirapu,1951-11-07,SPA,3, ,M,0,0,0,0,tirapu_2
-adormi,Miguel,Adorno,1949-07-05,ARG,3, ,A,0,0,0,0,miguel-adorno
-diarca,Carlos,Diarte,1954-01-26,PAR,3, ,A,0,0,0,0,carlos-diarte
-anguel,Eloy,Angulo,1955-04-10,SPA,3, ,A,0,0,0,0,eloy-angulo
-kempma,Mario,Kempes,1954-07-15,ARG,3, ,A,0,0,0,0,mario-kempes
-repxjo,Johnny,Rep,1951-11-25,NED,3, ,A,0,0,0,0,johnny-rep
-sauren, ,Saura,1954-08-02,SPA,3, ,A,0,0,0,0,saura_5
-tecajo, ,Teca,1952-05-22,SPA,3, ,A,0,0,0,0,teca
-valdos,Óscar,Valdez,1946-07-25,ARG,3, ,A,0,0,0,0,oscar-valdez
+gomepa,Pacheco,Gómez,1947-01-14,SPA,2, ,P,0,0,0,0,pacheco-gomez
+reinmi, ,Reina,1946-01-21,SPA,2, ,P,0,0,0,0,reina_2
+capojo, ,Capón,1948-02-06,SPA,2, ,F,0,0,0,0,capon
+diazru,Rubén,Díaz,1946-01-08,ARG,2, ,F,0,0,0,0,ruben-diaz_2
+euseeu, ,Eusebio,1948-05-06,SPA,2, ,F,0,0,0,0,eusebio_2
+perelu,Luís,Pereira,1949-06-21,BRA,2, ,F,0,0,0,0,luis-pereira
+marcm6, ,Marcelino,1955-08-13,SPA,2, ,F,0,0,0,0,marcelino_3
+sierju, ,Sierra,1955-01-02,SPA,2, ,F,0,0,0,0,sierra_3
+fernal,Alberto,Fernández,1943-11-19,SPA,2, ,M,0,0,0,0,alberto-fernandez
+benedo,Domingo,Benegas,1946-08-04,PAR,2, ,M,0,0,0,0,domingo-benegas
+bermfr, ,Bermejo,1956-03-09,SPA,2, ,M,0,0,0,0,bermejo_2
+herera,Ramón,Heredia,1951-02-26,ARG,2, ,M,0,0,0,0,ramon-heredia
+lealeu, ,Leal,1954-05-13,SPA,2, ,M,0,0,0,0,leal
+melofr, ,Melo,1943-11-13,SPA,2, ,M,0,0,0,0,melo
+robiva, ,Robi,1951-01-09,SPA,2, ,M,0,0,0,0,robi_2
+salcig, ,Salcedo,1947-05-22,SPA,2, ,M,0,0,0,0,salcedo_3
+aguif1, ,Aguilar,1952-05-10,SPA,2, ,A,0,0,0,0,aguilar_2
+ayalru,Rubén,Ayala,1950-01-08,ARG,2, ,A,0,0,0,0,ruben-ayala
+braope,Pedro,Braojos,1957-01-08,SPA,2, ,A,0,0,0,0,pedro-braojos
+garajo,José,Gárate,1944-10-20,SPA,2, ,A,0,0,0,0,jose-garate
+leivjo, ,Leivinha,1949-09-11,BRA,2, ,A,0,0,0,0,leivinha
+canoru,Rubén,Cano,1951-02-05,SPA,2, ,A,0,0,0,0,ruben-cano
+becehe, ,Becerra,1945-04-21,BRA,2, , ,0,0,0,0,becerra
 dalero,Roberto,D'Alessandro,1949-07-28,ARG,30, ,P,0,0,0,0,roberto-dalessandro
 seoaed, ,Seoane,1948-01-25,SPA,30, ,P,0,0,0,0,seoane_2
 bustju, ,Bustillo,1948-02-13,SPA,30, ,F,0,0,0,0,bustillo
@@ -288,6 +265,29 @@ marrma, ,Marrero,1955-04-05,SPA,36, ,A,0,0,0,0,marrero_2
 angem2,Miguel,Ángel,1953-11-01,SPA,36, ,A,0,0,0,0,miguel-angel_9
 moreca,Carlos,Morete,1952-01-14,ARG,36, ,A,0,0,0,0,carlos-morete
 verdpe,Pedro,Verde,1949-03-12,ARG,36, ,A,0,0,0,0,pedro-verde
+balajo, ,Balaguer,1950-12-01,SPA,3, ,P,0,0,0,0,balaguer_2
+basaen, ,Basauri,1953-07-21,SPA,3, ,P,0,0,0,0,basauri
+marrvc, ,Marro,1946-10-21,SPA,3, ,P,0,0,0,0,marro
+pereca, ,Pereira,1951-09-09,SPA,3, ,P,0,0,0,0,pereira_4
+ariari, ,Arias,1957-02-25,SPA,3, ,F,0,0,0,0,arias_2
+botuma, ,Botubot,1955-11-23,SPA,3, ,F,0,0,0,0,botubot
+carrj2, ,Carrete,1951-04-05,SPA,3, ,F,0,0,0,0,carrete
+castn1, ,Castellanos,1952-11-15,SPA,3, ,F,0,0,0,0,castellanos_3
+cervj1, ,Cerveró,1949-09-03,SPA,3, ,F,0,0,0,0,cervero_2
+cordju, ,Cordero,1952-01-31,SPA,3, ,F,0,0,0,0,cordero_2
+domira, ,Domingo,1954-09-22,SPA,3, ,F,0,0,0,0,domingo_2
+martje,Jesús,Martínez,1947-12-07,SPA,3, ,F,0,0,0,0,jesus-martinez_2
+clarjo, ,Claramunt,1946-07-16,SPA,3, ,M,0,0,0,0,claramunt
+carlj2,Juan,Carlos,1954-05-02,SPA,3, ,M,0,0,0,0,juan-carlos_8
+tirafe, ,Tirapu,1951-11-07,SPA,3, ,M,0,0,0,0,tirapu_2
+adormi,Miguel,Adorno,1949-07-05,ARG,3, ,A,0,0,0,0,miguel-adorno
+diarca,Carlos,Diarte,1954-01-26,PAR,3, ,A,0,0,0,0,carlos-diarte
+anguel,Eloy,Angulo,1955-04-10,SPA,3, ,A,0,0,0,0,eloy-angulo
+kempma,Mario,Kempes,1954-07-15,ARG,3, ,A,0,0,0,0,mario-kempes
+repxjo,Johnny,Rep,1951-11-25,NED,3, ,A,0,0,0,0,johnny-rep
+sauren, ,Saura,1954-08-02,SPA,3, ,A,0,0,0,0,saura_5
+tecajo, ,Teca,1952-05-22,SPA,3, ,A,0,0,0,0,teca
+valdos,Óscar,Valdez,1946-07-25,ARG,3, ,A,0,0,0,0,oscar-valdez
 irazju, ,Irazusta,1948-05-28,SPA,4, ,P,0,0,0,0,irazusta
 junqan, ,Junquera,1946-04-23,SPA,4, ,P,0,0,0,0,junquera
 nievjo, ,Nieves,1947-10-28,SPA,4, ,P,0,0,0,0,nieves

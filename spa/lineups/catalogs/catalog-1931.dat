@@ -22,33 +22,6 @@ olaslu,Luis,Olaso,1900-08-15,SPA,0, ,A,0,0,0,0,luis-olaso
 triara, ,Triana,1902-06-28,SPA,0, ,A,0,0,0,0,triana
 urrecn, ,Urretavizcaya,1909-01-14,SPA,0, ,A,0,0,0,0,urretavizcaya
 hertli,Lipót,Hertzka,1904-11-19,HUN,0, ,C,0,0,0,0,lipot-hertzka
-llorra, ,Llorens,1906-11-01,SPA,1, ,P,0,0,0,0,llorens_2
-noguju, ,Nogués,1909-03-28,SPA,1, ,P,0,0,0,0,nogues
-uriaju, ,Uriach,1896-03-04,SPA,1, ,P,0,0,0,0,uriach
-periar,Arnau,Pericas,1907-11-10,SPA,1, ,F,0,0,0,0,arnau-pericas
-guzmra, ,Guzman,1901-09-22,SPA,1, ,F,0,0,0,0,guzman_2
-mirama,Mas,Mirandas,1907-09-27,SPA,1, ,F,0,0,0,0,mas-mirandas
-oroxma, ,Oro,1905-01-03,SPA,1, ,F,0,0,0,0,oro
-portco, ,Portas,1901-11-26,SPA,1, ,F,0,0,0,0,portas
-roigjo, ,Roig,0000-00-00,SPA,1, ,F,0,0,0,0,roig
-salojo, ,Saló,0000-00-00,SPA,1, ,F,0,0,0,0,salo
-waltem,Emil,Walter,1900-04-07,GER,1, ,F,0,0,0,0,emil-walter
-zabara, ,Zabalo,1910-06-10,SPA,1, ,F,0,0,0,0,zabalo
-bestca, ,Bestit,1908-03-07,SPA,1, ,M,0,0,0,0,bestit
-castjo, ,Castillo,1906-00-00,SPA,1, ,M,0,0,0,0,castillo_7
-molidi,Diego,Moliner,1907-06-18,SPA,1, ,M,0,0,0,0,diego-moliner
-fontju, ,Font,1907-11-22,SPA,1, ,M,0,0,0,0,font
-goibse, ,Goiburu,1906-11-08,SPA,1, ,M,0,0,0,0,goiburu
-bolema,Marti,Bolella,1903-05-22,SPA,1, ,M,0,0,0,0,marti-bolella
-pedres, ,Pedrol,1909-10-21,SPA,1, ,M,0,0,0,0,pedrol
-sastjo, ,Sastre,1906-06-25,SPA,1, ,M,0,0,0,0,sastre_2
-arocng, ,Arocha,1907-06-23,SPA,1, ,A,0,0,0,0,arocha
-garcga,García,García,1906-04-05,SPA,1, ,A,0,0,0,0,garcia-garcia
-parema, ,Parera,1907-10-07,SPA,1, ,A,0,0,0,0,parera
-piervi, ,Piera,1903-06-11,SPA,1, ,A,0,0,0,0,piera
-perara,Ramon,Pera,1909-02-22,SPA,1, ,A,0,0,0,0,ramon-pera
-sagiem, ,Sagibarba,1900-03-15,ARG,1, ,A,0,0,0,0,sagibarba
-vilajs,Josep Josep Samitier,Vilalta,1902-02-02,SPA,1, ,A,0,0,0,0,josep-samitier-vilalta
 elzofr, ,Elzo,1908-10-04,SPA,10, ,P,0,0,0,0,elzo_2
 goeniz,Izaguirre,Goena,1906-04-13,SPA,10, ,P,0,0,0,0,izaguirre-goena
 aranne, ,Arana,1908-12-19,SPA,10, ,F,0,0,0,0,arana
@@ -87,6 +60,33 @@ ibarib, ,Ibarraran,0000-00-00,SPA,19, ,A,0,0,0,0,ibarraran
 murujo, ,Murúa,0000-00-00,SPA,19, ,A,0,0,0,0,murua
 olivma, ,Olivares,1909-04-02,SPA,19, ,A,0,0,0,0,olivares
 iixxqu,Quincoces,II,0000-00-00,SPA,19, ,A,0,0,0,0,quincoces-ii
+llorra, ,Llorens,1906-11-01,SPA,1, ,P,0,0,0,0,llorens_2
+noguju, ,Nogués,1909-03-28,SPA,1, ,P,0,0,0,0,nogues
+uriaju, ,Uriach,1896-03-04,SPA,1, ,P,0,0,0,0,uriach
+periar,Arnau,Pericas,1907-11-10,SPA,1, ,F,0,0,0,0,arnau-pericas
+guzmra, ,Guzman,1901-09-22,SPA,1, ,F,0,0,0,0,guzman_2
+mirama,Mas,Mirandas,1907-09-27,SPA,1, ,F,0,0,0,0,mas-mirandas
+oroxma, ,Oro,1905-01-03,SPA,1, ,F,0,0,0,0,oro
+portco, ,Portas,1901-11-26,SPA,1, ,F,0,0,0,0,portas
+roigjo, ,Roig,0000-00-00,SPA,1, ,F,0,0,0,0,roig
+salojo, ,Saló,0000-00-00,SPA,1, ,F,0,0,0,0,salo
+waltem,Emil,Walter,1900-04-07,GER,1, ,F,0,0,0,0,emil-walter
+zabara, ,Zabalo,1910-06-10,SPA,1, ,F,0,0,0,0,zabalo
+bestca, ,Bestit,1908-03-07,SPA,1, ,M,0,0,0,0,bestit
+castjo, ,Castillo,1906-00-00,SPA,1, ,M,0,0,0,0,castillo_7
+molidi,Diego,Moliner,1907-06-18,SPA,1, ,M,0,0,0,0,diego-moliner
+fontju, ,Font,1907-11-22,SPA,1, ,M,0,0,0,0,font
+goibse, ,Goiburu,1906-11-08,SPA,1, ,M,0,0,0,0,goiburu
+bolema,Marti,Bolella,1903-05-22,SPA,1, ,M,0,0,0,0,marti-bolella
+pedres, ,Pedrol,1909-10-21,SPA,1, ,M,0,0,0,0,pedrol
+sastjo, ,Sastre,1906-06-25,SPA,1, ,M,0,0,0,0,sastre_2
+arocng, ,Arocha,1907-06-23,SPA,1, ,A,0,0,0,0,arocha
+garcga,García,García,1906-04-05,SPA,1, ,A,0,0,0,0,garcia-garcia
+parema, ,Parera,1907-10-07,SPA,1, ,A,0,0,0,0,parera
+piervi, ,Piera,1903-06-11,SPA,1, ,A,0,0,0,0,piera
+perara,Ramon,Pera,1909-02-22,SPA,1, ,A,0,0,0,0,ramon-pera
+sagiem, ,Sagibarba,1900-03-15,ARG,1, ,A,0,0,0,0,sagibarba
+vilajs,Josep Josep Samitier,Vilalta,1902-02-02,SPA,1, ,A,0,0,0,0,samitier
 gomeig,Iglesias,Gómez,1908-07-10,SPA,20, ,P,0,0,0,0,iglesias-gomez
 collso,Sola,Coll,0000-00-00,SPA,20, ,P,0,0,0,0,sola-coll
 cebafe, ,Ceballos,1909-11-09,SPA,20, ,F,0,0,0,0,ceballos_2
@@ -104,23 +104,6 @@ cladan, ,Cladera,1906-11-18,SPA,20, ,A,0,0,0,0,cladera
 rodros,Oscar,Rodríguez,1903-06-10,SPA,20, ,A,0,0,0,0,oscar-rodriguez
 zubisa,Santi,Zubieta,1910-06-20,SPA,20, ,A,0,0,0,0,santi-zubieta
 telecl, ,Telete,1905-08-04,SPA,20, ,A,0,0,0,0,telete
-blasgr, ,Blasco,1909-06-10,SPA,5, ,P,0,0,0,0,blasco
-izpijo, ,Izpizua,1908-10-01,SPA,5, ,P,0,0,0,0,izpizua
-vidama, ,Vidal,1901-10-15,SPA,5, ,P,0,0,0,0,vidal_2
-castj1, ,Castellanos,1909-04-08,SPA,5, ,F,0,0,0,0,castellanos
-moroja, ,Moronati,1911-03-27,SPA,5, ,F,0,0,0,0,moronati
-mugujo, ,Muguerza,1911-09-15,SPA,5, ,F,0,0,0,0,muguerza
-uriblu, ,Uribe,1906-10-17,SPA,5, ,F,0,0,0,0,uribe
-urquju, ,Urquizu,1901-06-24,SPA,5, ,F,0,0,0,0,urquizu
-chirig, ,Chirri,1909-05-10,SPA,5, ,M,0,0,0,0,chirri
-felide, ,Felipes,1908-04-20,SPA,5, ,M,0,0,0,0,felipes
-gariju, ,Garizurieta,1908-11-27,SPA,5, ,M,0,0,0,0,garizurieta
-robero, ,Roberto,1908-05-06,SPA,5, ,M,0,0,0,0,roberto_12
-bataag, ,Bata,1908-05-11,SPA,5, ,A,0,0,0,0,bata
-gorogu, ,Gorostiza,1909-02-15,SPA,5, ,A,0,0,0,0,gorostiza
-irarjo, ,Iraragorri,1912-03-16,SPA,5, ,A,0,0,0,0,iraragorri
-lafura, ,Lafuente,1907-12-31,SPA,5, ,A,0,0,0,0,lafuente_2
-unamvi,Victor,Unamuno,1909-05-21,SPA,5, ,A,0,0,0,0,victor-unamuno
 aizaai, ,Aizarna,0000-00-00,SPA,54, ,P,0,0,0,0,aizarna
 arocem,Emery,Arocena,1905-07-26,SPA,54, ,P,0,0,0,0,emery-arocena
 alzama, ,Alza,1906-07-27,SPA,54, ,F,0,0,0,0,alza
@@ -139,6 +122,23 @@ elicju, ,Elícegui,1910-12-05,SPA,54, ,A,0,0,0,0,elicegui
 herrjo, ,Herrandonea,1910-11-22,SPA,54, ,A,0,0,0,0,herrandonea
 sagama, ,Sagarzazu,1903-10-15,SPA,54, ,A,0,0,0,0,sagarzazu
 urtisa, ,Urtizberea,1909-07-25,SPA,54, ,A,0,0,0,0,urtizberea
+blasgr, ,Blasco,1909-06-10,SPA,5, ,P,0,0,0,0,blasco
+izpijo, ,Izpizua,1908-10-01,SPA,5, ,P,0,0,0,0,izpizua
+vidama, ,Vidal,1901-10-15,SPA,5, ,P,0,0,0,0,vidal_2
+castj1, ,Castellanos,1909-04-08,SPA,5, ,F,0,0,0,0,castellanos
+moroja, ,Moronati,1911-03-27,SPA,5, ,F,0,0,0,0,moronati
+mugujo, ,Muguerza,1911-09-15,SPA,5, ,F,0,0,0,0,muguerza
+uriblu, ,Uribe,1906-10-17,SPA,5, ,F,0,0,0,0,uribe
+urquju, ,Urquizu,1901-06-24,SPA,5, ,F,0,0,0,0,urquizu
+chirig, ,Chirri,1909-05-10,SPA,5, ,M,0,0,0,0,chirri
+felide, ,Felipes,1908-04-20,SPA,5, ,M,0,0,0,0,felipes
+gariju, ,Garizurieta,1908-11-27,SPA,5, ,M,0,0,0,0,garizurieta
+robero, ,Roberto,1908-05-06,SPA,5, ,M,0,0,0,0,roberto_12
+bataag, ,Bata,1908-05-11,SPA,5, ,A,0,0,0,0,bata
+gorogu, ,Gorostiza,1909-02-15,SPA,5, ,A,0,0,0,0,gorostiza
+irarjo, ,Iraragorri,1912-03-16,SPA,5, ,A,0,0,0,0,iraragorri
+lafura, ,Lafuente,1907-12-31,SPA,5, ,A,0,0,0,0,lafuente_2
+unamvi,Victor,Unamuno,1909-05-21,SPA,5, ,A,0,0,0,0,victor-unamuno
 jaurjo, ,Jáuregui,1896-03-15,SPA,65, ,P,0,0,0,0,jauregui_2
 zarrto, ,Zarraonaindia,1910-12-28,SPA,65, ,P,0,0,0,0,zarraonaindia
 llonar,Arrieta,Llona,1906-11-17,SPA,65, ,F,0,0,0,0,arrieta-llona

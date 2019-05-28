@@ -61,31 +61,6 @@ loncma,Marcel,Loncle,1936-01-05,FRA,18, ,M,0,0,0,0,marcel-loncle
 prigjf,Jean-François,Prigent,1944-05-26,FRA,18, ,M,0,0,0,0,jean-francois-prigent
 ruaube,Bernard,Ruaudel,1940-01-04,FRA,18, ,M,0,0,0,0,bernard-ruaudel
 pellgi,Giovanni,Pellegrini,1940-06-25,FRA,18, ,A,0,0,0,0,giovanni-pellegrini
-montch,Christian,Montes,1942-01-12,FRA,2, ,P,0,0,0,0,christian-montes
-ranojc,Jean-Claude,Ranouil,1937-09-01,FRA,2, ,P,0,0,0,0,jean-claude-ranouil
-ribuhe,Henri,Ribul,1941-03-01,FRA,2, ,P,0,0,0,0,henri-ribul
-adammi,Michel,Adam,1939-02-17,FRA,2, ,F,0,0,0,0,michel-adam_2
-baudbe,Bernard,Baudet,1939-12-16,FRA,2, ,F,0,0,0,0,bernard-baudet
-bideje,Jean,Bidegarray,1941-06-09,FRA,2, ,F,0,0,0,0,jean-bidegarray
-callgu,Guy,Calléja,1938-05-29,FRA,2, ,F,0,0,0,0,guy-calleja
-choran,André,Chorda,1938-02-20,FRA,2, ,F,0,0,0,0,andre-chorda
-fiorgi,Gilbert,Fioriti,1936-05-06,FRA,2, ,F,0,0,0,0,gilbert-fioriti
-moevgi,Gilbert,Moevi,1934-09-01,FRA,2, ,F,0,0,0,0,gilbert-moevi
-navafr,Francisco,Navarro,1933-04-07,MAR,2, ,F,0,0,0,0,francisco-navarro
-reyxcl,Claude,Rey,1935-09-22,FRA,2, ,F,0,0,0,0,claude-rey
-abosga,Gabriel,Abossolo,1939-01-16,CMR,2, ,M,0,0,0,0,gabriel-abossolo
-altuan,André,Altuzarra,1942-06-12,FRA,2, ,M,0,0,0,0,andre-altuzarra
-amarsa,Saïd,Amara,1933-03-11,ALG,2, ,M,0,0,0,0,said-amara
-bertge,Gérard,Bertrand,1936-10-21,FRA,2, ,M,0,0,0,0,gerard-bertrand
-mujimu,Muhamed,Mujić,1932-04-25,YUG,2, ,M,0,0,0,0,muhamed-mujic
-tayemo,Mohamed,Tayeb,1940-06-27,ALG,2, ,M,0,0,0,0,mohamed-tayeb
-texiyv,Yves,Texier,1945-01-26,FRA,2, ,M,0,0,0,0,yves-texier
-couedi,Didier,Couécou,1944-07-25,FRA,2, ,A,0,0,0,0,didier-couecou
-bourhd,Héctor,De Bourgoing,1934-07-23,ARG,2, ,A,0,0,0,0,hector-de-bourgoing
-duhahe,Henri,Duhayot,1944-03-25,FRA,2, ,A,0,0,0,0,henri-duhayot
-goriai,Aimé,Gori,1936-04-04,FRA,2, ,A,0,0,0,0,aime-gori
-keitka,Karounga,Keïta,1941-09-22,MLI,2, ,A,0,0,0,0,karounga-keita
-robula,Laurent,Robuschi,1935-10-05,FRA,2, ,A,0,0,0,0,laurent-robuschi
 delero,Robert,Deleuse,1944-06-06,FRA,20, ,P,0,0,0,0,robert-deleuse
 garoyv,Yvan,Garofalo,1934-07-24,FRA,20, ,P,0,0,0,0,yvan-garofalo
 marcch,Charly,Marchetti,1942-06-17,FRA,20, ,P,0,0,0,0,charly-marchetti
@@ -122,6 +97,7 @@ lemero,Roger,Lemerre,1941-06-18,FRA,22, ,F,0,0,0,0,roger-lemerre
 michpi,Pierre,Michelin,1937-01-07,FRA,22, ,F,0,0,0,0,pierre-michelin
 popljp,Jean-Pierre,Poplin,1938-12-12,FRA,22, ,F,0,0,0,0,jean-pierre-poplin
 rastma,Marc,Rastoll,1943-01-12,FRA,22, ,F,0,0,0,0,marc-rastoll
+salvjp,Jean-Pierre,Di Salvio,1945-11-10,FRA,22, ,M,0,0,0,0,jean-pierre-di-salvio
 gaspch,Charles,Gasparini,1938-03-11,FRA,22, ,M,0,0,0,0,charles-gasparini
 herbyv,Yves,Herbet,1945-08-17,FRA,22, ,M,0,0,0,0,yves-herbet
 laurmi,Michel,Lauretti,1942-11-13,FRA,22, ,M,0,0,0,0,michel-lauretti
@@ -151,6 +127,31 @@ gonfjp,Jean-Pierre,Gonfalone,1945-02-22,FRA,25, ,A,0,0,0,0,jean-pierre-gonfalone
 stiemi,Michel,Stievenard,1937-09-21,FRA,25, ,A,0,0,0,0,michel-stievenard
 thomjp,Jean-Pierre,Thomas,1938-12-17,FRA,25, ,A,0,0,0,0,jean-pierre-thomas
 bourcl,Claude,Bourrigault,1932-01-28,FRA,25, , ,0,0,0,0,claude-bourrigault
+montch,Christian,Montes,1942-01-12,FRA,2, ,P,0,0,0,0,christian-montes
+ranojc,Jean-Claude,Ranouil,1937-09-01,FRA,2, ,P,0,0,0,0,jean-claude-ranouil
+ribuhe,Henri,Ribul,1941-03-01,FRA,2, ,P,0,0,0,0,henri-ribul
+adammi,Michel,Adam,1939-02-17,FRA,2, ,F,0,0,0,0,michel-adam_2
+baudbe,Bernard,Baudet,1939-12-16,FRA,2, ,F,0,0,0,0,bernard-baudet
+bideje,Jean,Bidegarray,1941-06-09,FRA,2, ,F,0,0,0,0,jean-bidegarray
+callgu,Guy,Calléja,1938-05-29,FRA,2, ,F,0,0,0,0,guy-calleja
+choran,André,Chorda,1938-02-20,FRA,2, ,F,0,0,0,0,andre-chorda
+fiorgi,Gilbert,Fioriti,1936-05-06,FRA,2, ,F,0,0,0,0,gilbert-fioriti
+moevgi,Gilbert,Moevi,1934-09-01,FRA,2, ,F,0,0,0,0,gilbert-moevi
+navafr,Francisco,Navarro,1933-04-07,MAR,2, ,F,0,0,0,0,francisco-navarro
+reyxcl,Claude,Rey,1935-09-22,FRA,2, ,F,0,0,0,0,claude-rey
+abosga,Gabriel,Abossolo,1939-01-16,CMR,2, ,M,0,0,0,0,gabriel-abossolo
+altuan,André,Altuzarra,1942-06-12,FRA,2, ,M,0,0,0,0,andre-altuzarra
+amarsa,Saïd,Amara,1933-03-11,ALG,2, ,M,0,0,0,0,said-amara
+bertge,Gérard,Bertrand,1936-10-21,FRA,2, ,M,0,0,0,0,gerard-bertrand
+mujimu,Muhamed,Mujić,1932-04-25,YUG,2, ,M,0,0,0,0,muhamed-mujic
+tayemo,Mohamed,Tayeb,1940-06-27,ALG,2, ,M,0,0,0,0,mohamed-tayeb
+texiyv,Yves,Texier,1945-01-26,FRA,2, ,M,0,0,0,0,yves-texier
+couedi,Didier,Couécou,1944-07-25,FRA,2, ,A,0,0,0,0,didier-couecou
+bourhd,Héctor,De Bourgoing,1934-07-23,ARG,2, ,A,0,0,0,0,hector-de-bourgoing
+duhahe,Henri,Duhayot,1944-03-25,FRA,2, ,A,0,0,0,0,henri-duhayot
+goriai,Aimé,Gori,1936-04-04,FRA,2, ,A,0,0,0,0,aime-gori
+keitka,Karounga,Keïta,1941-09-22,MLI,2, ,A,0,0,0,0,karounga-keita
+robula,Laurent,Robuschi,1935-10-05,FRA,2, ,A,0,0,0,0,laurent-robuschi
 eonxda,Daniel,Éon,1939-12-20,FRA,3, ,P,0,0,0,0,daniel-eon
 moinro,Roger,Moine,1935-05-09,FRA,3, ,P,0,0,0,0,roger-moine
 budzro,Robert,Budzynski,1940-05-21,FRA,3, ,F,0,0,0,0,robert-budzynski
@@ -170,29 +171,6 @@ gondph,Philippe,Gondet,1942-05-17,FRA,3, ,A,0,0,0,0,philippe-gondet
 mullra,Ramon,Muller,1935-04-16,ARG,3, ,A,0,0,0,0,ramon-muller
 santra,Rafael,Santos,1942-06-17,ARG,3, ,A,0,0,0,0,rafael-santos_4
 simoja,Jacky,Simon,1941-03-25,FRA,3, ,A,0,0,0,0,jacky-simon
-hernjc,Jean-Claude,Hernandez,1936-12-15,FRA,4, ,P,0,0,0,0,jean-claude-hernandez
-sottra,Raymond,Sottimano,1939-04-18,FRA,4, ,P,0,0,0,0,raymond-sottimano
-artema,Marcel,Artélésa,1938-07-02,FRA,4, ,F,0,0,0,0,marcel-artelesa
-casoge,Georges,Casolari,1941-05-05,FRA,4, ,F,0,0,0,0,georges-casolari
-forcar,Armand,Forchério,1941-03-01, ,4, ,F,0,0,0,0,armand-forcherio
-nowama,Marcel,Nowak,1934-07-10,FRA,4, ,F,0,0,0,0,marcel-nowak
-thomge,Georges,Thomas,1931-12-31,FRA,4, ,F,0,0,0,0,georges-thomas
-bailan,André,Bailet,1942-05-15,FRA,4, ,M,0,0,0,0,andre-bailet
-bianhe,Henri,Biancheri,1932-07-30,FRA,4, ,M,0,0,0,0,henri-biancheri
-fouqgu,Guy,Fouque,1941-05-21,FRA,4, ,M,0,0,0,0,guy-fouque
-guilcl,Claude,Guilas,1941-10-10,FRA,4, ,M,0,0,0,0,claude-guilas
-hidami,Michel,Hidalgo,1933-03-22,FRA,4, ,M,0,0,0,0,michel-hidalgo
-pietpa,Paul,Pietri,1942-04-15,FRA,4, ,M,0,0,0,0,paul-pietri
-robial,Albert,Robin,1942-11-03,FRA,4, ,M,0,0,0,0,albert-robin
-szkuth,Théo,Szkudlapski,1935-01-17,FRA,4, ,M,0,0,0,0,theo-szkudlapski
-akesha,Hassan,Akesbi,1934-12-05,MAR,4, ,A,0,0,0,0,hassan-akesbi
-bartjc,Jean-Claude,Barthélémy,1941-04-13,FRA,4, ,A,0,0,0,0,jean-claude-barthelemy
-carlba,Bart,Carlier,1929-06-23,NED,4, ,A,0,0,0,0,bart-carlier
-cosslu,Lucien,Cossou,1936-01-29,FRA,4, ,A,0,0,0,0,lucien-cossou
-djibka,Karimou,Djibrill,1933-06-06,TOG,4, ,A,0,0,0,0,karimou-djibrill
-douiyv,Yvon,Douis,1935-05-16,FRA,4, ,A,0,0,0,0,yvon-douis
-hessan,André,Hess,1933-03-05,FRA,4, , ,0,0,0,0,andre-hess
-tabege,Georges,Taberner,1937-07-29,FRA,4, , ,0,0,0,0,georges-taberner
 landlo,Louis,Landi,1941-01-10,FRA,45, ,P,0,0,0,0,louis-landi
 molijp,Jean-Pierre,Molina,1943-07-04,FRA,45, ,P,0,0,0,0,jean-pierre-molina
 andrre,René,Andréo,1945-01-07,FRA,45, ,F,0,0,0,0,rene-andreo
@@ -219,26 +197,29 @@ parojo,José,Parody,1932-08-30,PAR,45, ,A,0,0,0,0,jose-parody
 sekoto,Touré,Sékou,1934-05-01,CIV,45, ,A,0,0,0,0,toure-sekou
 tylmhe,Henri,Tylman,0000-00-00,FRA,45, ,A,0,0,0,0,henri-tylman
 percmi,Michel,Perchey,1934-10-08,FRA,45, , ,0,0,0,0,michel-perchey
-auboma,Marcel,Aubour,1940-06-17,FRA,5, ,P,0,0,0,0,marcel-aubour
-beetpi,Pierre,Beetschen,1934-01-03,FRA,5, ,P,0,0,0,0,pierre-beetschen
-degelu,Lucien,Degeorges,1942-02-25,FRA,5, ,F,0,0,0,0,lucien-degeorges
-djorje,Jean,Djorkaeff,1939-10-27,FRA,5, ,F,0,0,0,0,jean-djorkaeff
-glycja,Jacques,Glyczinski,1944-09-27,FRA,5, ,F,0,0,0,0,jacques-glyczinski
-mignai,Aimé,Mignot,1932-12-03,FRA,5, ,F,0,0,0,0,aime-mignot
-polath,Thadée,Polak,1932-06-02,FRA,5, ,F,0,0,0,0,thadee-polak
-vialal,Alexandre,Viala,1940-00-00,FRA,5, ,F,0,0,0,0,alexandre-viala_2
-bossmi,Michel,Bossy,1940-01-10,FRA,5, ,M,0,0,0,0,michel-bossy
-dumaje,Jean,Dumas,1944-07-27,FRA,5, ,M,0,0,0,0,jean-dumas
-hatcgu,Guy,Hatchi,1934-03-18,FRA,5, ,M,0,0,0,0,guy-hatchi
-borgml,Marcel,Le Borgne,1939-09-09,FRA,5, ,M,0,0,0,0,marcel-le-borgne
-rivojl,Jean-Louis,Rivoire,1943-02-20,FRA,5, ,M,0,0,0,0,jean-louis-rivoire
-combne,Nestor,Combin,1940-12-29,FRA,5, ,A,0,0,0,0,nestor-combin
-nallfd,Fleury,Di Nallo,1943-04-20,FRA,5, ,A,0,0,0,0,fleury-di-nallo
-moungu,Guillaume,Moundi,1939-05-10,CMR,5, ,A,0,0,0,0,guillaume-moundi
-pelian,André,Pélisson,1942-09-17,FRA,5, ,A,0,0,0,0,andre-pelisson
-ramban,Angel,Rambert,1936-06-12,ARG,5, ,A,0,0,0,0,angel-rambert
-tabege,Georges,Taberner,1937-07-29,FRA,5, ,A,0,0,0,0,georges-taberner
-duffro,Roger,Duffez,1942-07-10,FRA,5, , ,0,0,0,0,roger-duffez
+hernjc,Jean-Claude,Hernandez,1936-12-15,FRA,4, ,P,0,0,0,0,jean-claude-hernandez
+sottra,Raymond,Sottimano,1939-04-18,FRA,4, ,P,0,0,0,0,raymond-sottimano
+artema,Marcel,Artélésa,1938-07-02,FRA,4, ,F,0,0,0,0,marcel-artelesa
+casoge,Georges,Casolari,1941-05-05,FRA,4, ,F,0,0,0,0,georges-casolari
+forcar,Armand,Forchério,1941-03-01,MNC,4, ,F,0,0,0,0,armand-forcherio
+nowama,Marcel,Nowak,1934-07-10,FRA,4, ,F,0,0,0,0,marcel-nowak
+thomge,Georges,Thomas,1931-12-31,FRA,4, ,F,0,0,0,0,georges-thomas
+bailan,André,Bailet,1942-05-15,FRA,4, ,M,0,0,0,0,andre-bailet
+bianhe,Henri,Biancheri,1932-07-30,FRA,4, ,M,0,0,0,0,henri-biancheri
+fouqgu,Guy,Fouque,1941-05-21,FRA,4, ,M,0,0,0,0,guy-fouque
+guilcl,Claude,Guilas,1941-10-10,FRA,4, ,M,0,0,0,0,claude-guilas
+hidami,Michel,Hidalgo,1933-03-22,FRA,4, ,M,0,0,0,0,michel-hidalgo
+pietpa,Paul,Pietri,1942-04-15,FRA,4, ,M,0,0,0,0,paul-pietri
+robial,Albert,Robin,1942-11-03,FRA,4, ,M,0,0,0,0,albert-robin
+szkuth,Théo,Szkudlapski,1935-01-17,FRA,4, ,M,0,0,0,0,theo-szkudlapski
+akesha,Hassan,Akesbi,1934-12-05,MAR,4, ,A,0,0,0,0,hassan-akesbi
+bartjc,Jean-Claude,Barthélémy,1941-04-13,FRA,4, ,A,0,0,0,0,jean-claude-barthelemy
+carlba,Bart,Carlier,1929-06-23,NED,4, ,A,0,0,0,0,bart-carlier
+cosslu,Lucien,Cossou,1936-01-29,FRA,4, ,A,0,0,0,0,lucien-cossou
+djibka,Karimou,Djibrill,1933-06-06,TOG,4, ,A,0,0,0,0,karimou-djibrill
+douiyv,Yvon,Douis,1935-05-16,FRA,4, ,A,0,0,0,0,yvon-douis
+hessan,André,Hess,1933-03-05,FRA,4, , ,0,0,0,0,andre-hess
+tabege,Georges,Taberner,1937-07-29,FRA,4, , ,0,0,0,0,georges-taberner
 barrma,Maurice,Barreau,1939-09-13,FRA,51, ,P,0,0,0,0,maurice-barreau
 laudch,Christian,Laudu,1946-01-25,FRA,51, ,P,0,0,0,0,christian-laudu
 hiegbe,Bernard,Hiegel,1940-05-05,FRA,51, ,F,0,0,0,0,bernard-hiegel
@@ -355,6 +336,26 @@ presfr,Francis,Préseau,1944-11-19,FRA,59, ,A,0,0,0,0,francis-preseau
 sanset,Étienne,Sansonetti,1935-12-05,FRA,59, ,A,0,0,0,0,etienne-sansonetti
 valnjm,Jean-Marie,Valnet,1945-01-20,FRA,59, ,A,0,0,0,0,jean-marie-valnet
 royxse,Serge,Roy,1932-11-09,FRA,59, , ,0,0,0,0,serge-roy
+auboma,Marcel,Aubour,1940-06-17,FRA,5, ,P,0,0,0,0,marcel-aubour
+beetpi,Pierre,Beetschen,1934-01-03,FRA,5, ,P,0,0,0,0,pierre-beetschen
+degelu,Lucien,Degeorges,1942-02-25,FRA,5, ,F,0,0,0,0,lucien-degeorges
+djorje,Jean,Djorkaeff,1939-10-27,FRA,5, ,F,0,0,0,0,jean-djorkaeff
+glycja,Jacques,Glyczinski,1944-09-27,FRA,5, ,F,0,0,0,0,jacques-glyczinski
+mignai,Aimé,Mignot,1932-12-03,FRA,5, ,F,0,0,0,0,aime-mignot
+polath,Thadée,Polak,1932-06-02,FRA,5, ,F,0,0,0,0,thadee-polak
+vialal,Alexandre,Viala,1940-00-00,FRA,5, ,F,0,0,0,0,alexandre-viala_2
+bossmi,Michel,Bossy,1940-01-10,FRA,5, ,M,0,0,0,0,michel-bossy
+dumaje,Jean,Dumas,1944-07-27,FRA,5, ,M,0,0,0,0,jean-dumas
+hatcgu,Guy,Hatchi,1934-03-18,FRA,5, ,M,0,0,0,0,guy-hatchi
+borgml,Marcel,Le Borgne,1939-09-09,FRA,5, ,M,0,0,0,0,marcel-le-borgne
+rivojl,Jean-Louis,Rivoire,1943-02-20,FRA,5, ,M,0,0,0,0,jean-louis-rivoire
+combne,Nestor,Combin,1940-12-29,FRA,5, ,A,0,0,0,0,nestor-combin
+nallfd,Fleury,Di Nallo,1943-04-20,FRA,5, ,A,0,0,0,0,fleury-di-nallo
+moungu,Guillaume,Moundi,1939-05-10,CMR,5, ,A,0,0,0,0,guillaume-moundi
+pelian,André,Pélisson,1942-09-17,FRA,5, ,A,0,0,0,0,andre-pelisson
+ramban,Angel,Rambert,1936-06-12,ARG,5, ,A,0,0,0,0,angel-rambert
+tabege,Georges,Taberner,1937-07-29,FRA,5, ,A,0,0,0,0,georges-taberner
+duffro,Roger,Duffez,1942-07-10,FRA,5, , ,0,0,0,0,roger-duffez
 bernpi,Pierre,Bernard,1932-06-27,FRA,7, ,P,0,0,0,0,pierre-bernard
 donore,René,Donoyan,1940-04-08,FRA,7, ,P,0,0,0,0,rene-donoyan
 philro,Robert,Philippe,1937-01-08,FRA,7, ,P,0,0,0,0,robert-philippe

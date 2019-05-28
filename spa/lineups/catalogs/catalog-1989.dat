@@ -21,31 +21,6 @@ aguial, ,Aguilá,1970-08-09,SPA,0,8,A,0,0,0,0,aguila
 butrem, ,Butragueño,1963-07-22,SPA,0,8,A,0,0,0,0,butragueno
 losase, ,Losada,1967-09-03,SPA,0,8,A,0,0,0,0,losada_2
 sanchu,Hugo,Sánchez,1958-07-11,MEX,0,8,A,0,0,0,0,hugo-sanchez
-unzuju, ,Unzué,1967-04-22,SPA,1, ,P,0,0,0,0,unzue
-zubian, ,Zubizarreta,1961-10-23,SPA,1, ,P,0,0,0,0,zubizarreta
-alexjo, ,Alexanko,1956-05-15,SPA,1, ,F,0,0,0,0,alexanko
-aloial, ,Aloísio,1963-08-16,BRA,1, ,F,0,0,0,0,aloisio_3
-albeju,Julio,Alberto,1958-10-07,SPA,1, ,F,0,0,0,0,julio-alberto
-rekalo,López,Rekarte,1962-03-26,SPA,1, ,F,0,0,0,0,lopez-rekarte
-solem1,Miquel,Soler,1965-03-16,SPA,1, ,F,0,0,0,0,miquel-soler
-salvsa, ,Salva,1961-03-04,SPA,1, ,F,0,0,0,0,salva
-serejo, ,Serer,1966-05-04,SPA,1, ,F,0,0,0,0,serer_2
-sergse, ,Sergi,1967-10-06,SPA,1, ,F,0,0,0,0,sergi_2
-sernri, ,Serna,1964-01-21,SPA,1, ,F,0,0,0,0,serna
-amorgu,Guillermo,Amor,1967-12-04,SPA,1, ,M,0,0,0,0,guillermo-amor
-bakejo, ,Bakero,1963-02-11,SPA,1, ,M,0,0,0,0,bakero
-sacreu,Eusebio,Sacristán,1964-04-13,SPA,1, ,M,0,0,0,0,eusebio-sacristan
-luceje,Jesús,Lucendo,1970-04-19,AND,1, ,M,0,0,0,0,jesus-lucendo
-milllu,Luis,Milla,1966-03-12,SPA,1, ,M,0,0,0,0,luis-milla
-rober3, ,Robert,1962-07-05,SPA,1, ,M,0,0,0,0,robert_20
-rourjo, ,Roura,1967-09-10,SPA,1, ,M,0,0,0,0,roura
-urbau1, ,Urbano,1961-12-22,SPA,1, ,M,0,0,0,0,urbano_3
-begiai, ,Begiristáin,1964-08-12,SPA,1, ,A,0,0,0,0,begiristain
-carrfr, ,Carrasco,1959-03-06,SPA,1, ,A,0,0,0,0,carrasco
-saliju,Julio,Salinas,1962-09-11,SPA,1, ,A,0,0,0,0,julio-salinas
-linega,Gary,Lineker,1960-11-30,ENG,1, ,A,0,0,0,0,gary-lineker
-romej5,Julio,Romero,1960-08-28,PAR,1, ,A,0,0,0,0,julio-romero
-valver, ,Valverde,1964-02-09,SPA,1, ,A,0,0,0,0,valverde
 arcolu, ,Arconada,1954-06-26,SPA,10, ,P,0,0,0,0,arconada
 gonzj5, ,González,1964-08-27,SPA,10, ,P,0,0,0,0,gonzalez_4
 alabig, ,Álaba,1966-11-14,SPA,10, ,F,0,0,0,0,alaba
@@ -73,7 +48,7 @@ baqusa, ,Baquero,1958-01-31,SPA,10, ,A,0,0,0,0,baquero
 igoafr, ,Igoa,1966-10-14,SPA,10, ,A,0,0,0,0,igoa_3
 loinmi, ,Loinaz,1967-03-28,SPA,10, ,A,0,0,0,0,loinaz
 beguma,Martín,Beguiristáin,1965-06-13,SPA,10, ,A,0,0,0,0,martin-beguiristain
-lozaan,Ángel,Lozano,1960-03-01,SPA,11, ,P,0,0,0,0,angel-lozano
+lozaan,Ángel,Lozano,1960-03-01,SPA,11, ,P,0,0,0,0,lozano_10
 ravnma,Mauro,Ravnić,1959-11-29,CRO,11, ,P,0,0,0,0,mauro-ravnic
 rodrj3, ,Rodri,1964-09-08,SPA,11, ,P,0,0,0,0,rodri_6
 albea3, ,Albesa,1965-03-06,SPA,11, ,F,0,0,0,0,albesa
@@ -168,7 +143,7 @@ gonzto,Tomás,González,1963-03-03,SPA,16, ,M,0,0,0,0,tomas-gonzalez
 hevije, ,Hevia,1965-12-24,SPA,16, ,A,0,0,0,0,hevia
 hickra,Ramón,Hicks,1959-05-30,PAR,16, ,A,0,0,0,0,ramon-hicks
 manuj7,José,Manuel,1967-03-28,SPA,16, ,A,0,0,0,0,jose-manuel_2
-lopel1,López,López,1965-11-19,SPA,16, ,A,0,0,0,0,lopez-lopez_2
+lopel1,López,López,1965-11-19,SPA,16, ,A,0,0,0,0,francisco-lopez_12
 rober5, ,Roberto,1962-03-12,SPA,17, ,P,0,0,0,0,roberto_15
 vicufr, ,Vicuña,1955-05-14,SPA,17, ,P,0,0,0,0,vicuna
 arozpe, ,Arozarena,1966-02-24,SPA,17, ,F,0,0,0,0,arozarena
@@ -215,31 +190,33 @@ loresa,Sánchez,Lorenzo,1958-02-14,SPA,197, ,M,0,0,0,0,sanchez-lorenzo
 munoad,Adolfo,Muñoz,1961-12-01,SPA,197, ,A,0,0,0,0,adolfo-munoz
 alzaan,Antonio,Alzamendi,1956-06-07,URU,197, ,A,0,0,0,0,antonio-alzamendi
 gonza3,Ángel,González,1958-12-03,SPA,197, ,A,0,0,0,0,angel-gonzalez
-inakjo, ,Iñaki,1972-02-26,SPA,197, ,A,0,0,0,0,inaki
+inakjo, ,Iñaki,1972-02-26,SPA,197, ,A,0,0,0,0,inaki-hurtado
 sarama,Manu,Sarabia,1957-01-09,SPA,197, ,A,0,0,0,0,manu-sarabia
-resiab,Abel,Resino,1960-02-02,SPA,2, ,P,0,0,0,0,abel-resino
-elduag, ,Elduayen,1964-08-04,SPA,2, ,P,0,0,0,0,elduayen
-mejing, ,Mejías,1959-03-01,SPA,2, ,P,0,0,0,0,mejias_2
-armajo, ,Armando,1966-10-20,SPA,2, ,F,0,0,0,0,armando_6
-arteju, ,Arteche,1957-04-11,SPA,2, ,F,0,0,0,0,arteche_3
-goikan, ,Goikoetxea,1956-08-23,SPA,2, ,F,0,0,0,0,goikoetxea_2
-carlj5,Juan,Carlos,1965-01-19,SPA,2, ,F,0,0,0,0,juan-carlos_2
-garcl1,Luis,García,1964-05-01,SPA,2, ,F,0,0,0,0,luis-garcia_4
-marrse, ,Marrero,1962-10-27,SPA,2, ,F,0,0,0,0,marrero
-eliase,Sergio,Elías,1963-09-16,SPA,2, ,F,0,0,0,0,sergio-elias
-tomape, ,Tomás,1960-08-09,SPA,2, ,F,0,0,0,0,tomas
-torrj5, ,Torrecilla,1964-02-25,SPA,2, ,F,0,0,0,0,torrecilla_3
-aguica, ,Aguilera,1969-05-22,SPA,2, ,M,0,0,0,0,aguilera
-alfra1, ,Alfredo,1967-10-13,SPA,2, ,M,0,0,0,0,alfredo_5
-donado, ,Donato,1962-12-30,BRA,2, ,M,0,0,0,0,donato
-mariro, ,Marina,1961-08-28,SPA,2, ,M,0,0,0,0,marina
-orejan, ,Orejuela,1960-12-02,SPA,2, ,M,0,0,0,0,orejuela
-parran, ,Parra,1961-06-17,SPA,2, ,M,0,0,0,0,parra_2
-baltb1, ,Baltazar,1959-07-17,BRA,2, ,A,0,0,0,0,baltazar_2
-carlc1, ,Carlos,1961-08-25,SPA,2, ,A,0,0,0,0,carlos_6
-futrpa, ,Futre,1966-02-28,POR,2, ,A,0,0,0,0,futre
-manomJ, ,Manolo,1965-01-17,SPA,2, ,A,0,0,0,0,manolo
-alonm1,Marcos,Alonso,1959-10-01,SPA,2, ,A,0,0,0,0,marcos-alonso
+unzuju, ,Unzué,1967-04-22,SPA,1, ,P,0,0,0,0,unzue
+zubian, ,Zubizarreta,1961-10-23,SPA,1, ,P,0,0,0,0,zubizarreta
+alexjo, ,Alexanko,1956-05-15,SPA,1, ,F,0,0,0,0,alexanko
+aloial, ,Aloísio,1963-08-16,BRA,1, ,F,0,0,0,0,aloisio_3
+albeju,Julio,Alberto,1958-10-07,SPA,1, ,F,0,0,0,0,julio-alberto
+rekalo,López,Rekarte,1962-03-26,SPA,1, ,F,0,0,0,0,lopez-rekarte
+solem1,Miquel,Soler,1965-03-16,SPA,1, ,F,0,0,0,0,miquel-soler
+salvsa, ,Salva,1961-03-04,SPA,1, ,F,0,0,0,0,salva
+serejo, ,Serer,1966-05-04,SPA,1, ,F,0,0,0,0,serer_2
+sergse, ,Sergi,1967-10-06,SPA,1, ,F,0,0,0,0,sergi_2
+sernri, ,Serna,1964-01-21,SPA,1, ,F,0,0,0,0,serna
+amorgu,Guillermo,Amor,1967-12-04,SPA,1, ,M,0,0,0,0,guillermo-amor
+bakejo, ,Bakero,1963-02-11,SPA,1, ,M,0,0,0,0,bakero
+sacreu,Eusebio,Sacristán,1964-04-13,SPA,1, ,M,0,0,0,0,eusebio-sacristan
+luceje,Jesús,Lucendo,1970-04-19,AND,1, ,M,0,0,0,0,jesus-lucendo
+milllu,Luis,Milla,1966-03-12,SPA,1, ,M,0,0,0,0,luis-milla
+rober3, ,Robert,1962-07-05,SPA,1, ,M,0,0,0,0,robert_20
+rourjo, ,Roura,1967-09-10,SPA,1, ,M,0,0,0,0,roura
+urbau1, ,Urbano,1961-12-22,SPA,1, ,M,0,0,0,0,urbano_3
+begiai, ,Begiristáin,1964-08-12,SPA,1, ,A,0,0,0,0,begiristain
+carrfr, ,Carrasco,1959-03-06,SPA,1, ,A,0,0,0,0,carrasco
+saliju,Julio,Salinas,1962-09-11,SPA,1, ,A,0,0,0,0,julio-salinas
+linega,Gary,Lineker,1960-11-30,ENG,1, ,A,0,0,0,0,gary-lineker
+romej5,Julio,Romero,1960-08-28,PAR,1, ,A,0,0,0,0,julio-cesar-romero
+valver, ,Valverde,1964-02-09,SPA,1, ,A,0,0,0,0,valverde
 ablaju, ,Ablanedo,1963-09-02,SPA,22, ,P,0,0,0,0,ablanedo
 isidi3, ,Isidro,1960-05-15,SPA,22, ,P,0,0,0,0,isidro_3
 rodrpe,Pedro,Rodríguez,1964-07-29,FRA,22, ,P,0,0,0,0,pedro-rodriguez_2
@@ -279,7 +256,7 @@ barljo, ,Barla,1967-01-01,SPA,23, ,M,0,0,0,0,barla
 beniel, ,Benito,1959-05-12,SPA,23, ,M,0,0,0,0,benito_4
 calda1, ,Calderón,1967-06-02,SPA,23, ,M,0,0,0,0,calderon_2
 canij1, ,Canillas,1960-08-12,SPA,23, ,M,0,0,0,0,canillas
-franj3,Julio,Franco,1965-10-01,PAR,23, ,M,0,0,0,0,julio-franco
+franj3,Julio,Franco,1965-10-01,PAR,23, ,M,0,0,0,0,julio-cesar-franco
 manomI, ,Manolito,1961-02-25,SPA,23, ,M,0,0,0,0,manolito
 monten, ,Montero,1954-12-28,SPA,23, ,M,0,0,0,0,montero_2
 benial,Álvarez,Benitez,1966-08-10,SPA,23, ,A,0,0,0,0,alvarez-benitez
@@ -347,6 +324,29 @@ pucha1, ,Puche,1972-08-02,SPA,27, ,A,0,0,0,0,puche
 rodrfe,Fernando,Rodríguez,1961-08-28,ARG,27, ,A,0,0,0,0,fernando-rodriguez_2
 saavlu, ,Saavedra,1962-11-02,SPA,27, ,A,0,0,0,0,saavedra_4
 sixtsi, ,Sixto,1962-01-08,SPA,27, ,A,0,0,0,0,sixto
+resiab,Abel,Resino,1960-02-02,SPA,2, ,P,0,0,0,0,abel-resino
+elduag, ,Elduayen,1964-08-04,SPA,2, ,P,0,0,0,0,elduayen
+mejing, ,Mejías,1959-03-01,SPA,2, ,P,0,0,0,0,mejias_2
+armajo, ,Armando,1966-10-20,SPA,2, ,F,0,0,0,0,armando_6
+arteju, ,Arteche,1957-04-11,SPA,2, ,F,0,0,0,0,arteche_3
+goikan, ,Goikoetxea,1956-08-23,SPA,2, ,F,0,0,0,0,goikoetxea_2
+carlj5,Juan,Carlos,1965-01-19,SPA,2, ,F,0,0,0,0,juan-carlos_2
+garcl1,Luis,García,1964-05-01,SPA,2, ,F,0,0,0,0,luis-garcia_4
+marrse, ,Marrero,1962-10-27,SPA,2, ,F,0,0,0,0,marrero
+eliase,Sergio,Elías,1963-09-16,SPA,2, ,F,0,0,0,0,sergio-elias
+tomape, ,Tomás,1960-08-09,SPA,2, ,F,0,0,0,0,tomas
+torrj5, ,Torrecilla,1964-02-25,SPA,2, ,F,0,0,0,0,torrecilla_3
+aguica, ,Aguilera,1969-05-22,SPA,2, ,M,0,0,0,0,aguilera
+alfra1, ,Alfredo,1967-10-13,SPA,2, ,M,0,0,0,0,alfredo_5
+donado, ,Donato,1962-12-30,BRA,2, ,M,0,0,0,0,donato
+mariro, ,Marina,1961-08-28,SPA,2, ,M,0,0,0,0,marina
+orejan, ,Orejuela,1960-12-02,SPA,2, ,M,0,0,0,0,orejuela
+parran, ,Parra,1961-06-17,SPA,2, ,M,0,0,0,0,parra_2
+baltb1, ,Baltazar,1959-07-17,BRA,2, ,A,0,0,0,0,baltazar_2
+carlc1, ,Carlos,1961-08-25,SPA,2, ,A,0,0,0,0,carlos_6
+futrpa, ,Futre,1966-02-28,POR,2, ,A,0,0,0,0,futre
+manomJ, ,Manolo,1965-01-17,SPA,2, ,A,0,0,0,0,manolo
+alonm1,Marcos,Alonso,1959-10-01,SPA,2, ,A,0,0,0,0,marcos-alonso
 ochojo, ,Ochotorena,1961-01-16,SPA,3, ,P,0,0,0,0,ochotorena
 sempjo, ,Sempere,1958-02-15,SPA,3, ,P,0,0,0,0,sempere_2
 ariari, ,Arias,1957-02-25,SPA,3, ,F,0,0,0,0,arias_2
@@ -360,7 +360,7 @@ vorosa, ,Voro,1963-10-09,SPA,3, ,F,0,0,0,0,voro
 arroca, ,Arroyo,1966-02-16,SPA,3, ,M,0,0,0,0,arroyo
 bossmi,Miguel,Bossio,1960-02-10,URU,3, ,M,0,0,0,0,miguel-bossio
 ciraru,Rubén,Ciraolo,1961-12-08,ARG,3, ,M,0,0,0,0,ruben-ciraolo
-fernf3, ,Fernando,1965-09-11,SPA,3, ,M,0,0,0,0,fernando_2
+fernf3, ,Fernando,1965-09-11,SPA,3, ,M,0,0,0,0,fernando-gomez_3
 ferrfr, ,Ferrando,1962-08-22,SPA,3, ,M,0,0,0,0,ferrando
 subija, ,Subirats,1957-10-02,SPA,3, ,M,0,0,0,0,subirats
 alcape, ,Alcañiz,1965-08-01,SPA,3, ,A,0,0,0,0,alcaniz
@@ -371,7 +371,7 @@ garcjo,Jon,García,1961-10-16,SPA,3, ,A,0,0,0,0,jon-garcia
 zurdca, ,Zurdi,1963-03-30,SPA,3, ,A,0,0,0,0,zurdi
 cedran, ,Cedrún,1960-06-05,SPA,4, ,P,0,0,0,0,cedrun
 chiljl,José Luis,Chilavert,1965-07-27,PAR,4, ,P,0,0,0,0,jose-luis-chilavert
-pereru,Ruiz,Pérez,1962-12-03,SPA,4, ,P,0,0,0,0,ruiz-perez
+pereru,Ruiz,Pérez,1962-12-03,SPA,4, ,P,0,0,0,0,manolo-ruiz
 vitaeu, ,Vitaller,1958-12-26,SPA,4, ,P,0,0,0,0,vitaller
 belsal, ,Belsué,1968-03-02,SPA,4, ,F,0,0,0,0,belsue
 fraiad, ,Fraile,1960-01-15,SPA,4, ,F,0,0,0,0,fraile

@@ -4,7 +4,7 @@ casiik,Iker,Casillas,1981-05-20,SPA,0,1,P,0,0,0,0,iker-casillas
 hierfe, ,Hierro,1968-03-23,SPA,0,4,F,0,0,0,0,hierro_3
 campiv,Iván,Campo,1974-02-21,SPA,0,12,F,0,0,0,0,ivan-campo
 helgiv,Iván,Helguera,1975-03-28,SPA,0,6,F,0,0,0,0,ivan-helguera
-karaai, ,Karanka,1973-09-18,SPA,0,18,F,0,0,0,0,karanka_2
+karaai, ,Karanka,1973-09-18,SPA,0,18,F,0,0,0,0,karanka
 salgmi,Míchel,Salgado,1975-10-22,SPA,0,2,F,0,0,0,0,michel-salgado
 minaos, ,Miñambres,1981-02-01,SPA,0,26,F,0,0,0,0,minambres
 pavofr, ,Pavón,1980-01-09,SPA,0,22,F,0,0,0,0,pavon
@@ -61,7 +61,7 @@ demege,Georgi,Demetradze,1976-09-26,GEO,10, , ,0,0,0,0,georgi-demetradze
 bizzal,Albano,Bizzarri,1977-11-09,ARG,11,25,P,0,0,0,0,albano-bizzarri
 veigjo,José,Veiga,1976-12-18,CVE,11,13,P,0,0,0,0,jose-veiga
 ricar3, ,Ricardo,1971-12-30,SPA,11,1,P,0,0,0,0,ricardo_2
-marcal,Alberto,Marcos,1974-02-15,SPA,11,3,F,0,0,0,0,alberto-marcos
+marcal,Alberto,Marcos,1974-02-15,SPA,11,3,F,0,0,0,0,marcos_14
 camijo, ,Caminero,1967-11-08,SPA,11,21,F,0,0,0,0,caminero
 gaspg1, ,Gaspar,1979-07-07,SPA,11,4,F,0,0,0,0,gaspar
 marip1, ,Mario,1982-02-02,SPA,11,5,F,0,0,0,0,mario
@@ -94,7 +94,7 @@ cacefe,Fernando,Cáceres,1969-02-07,ARG,12,4,F,0,0,0,0,fernando-caceres
 coirpa, ,Coira,1979-10-18,SPA,12,18,F,0,0,0,0,coira
 juanjY, ,Juanfran,1976-07-15,SPA,12,14,F,0,0,0,0,juanfran
 mendse,Sebastián,Méndez,1977-07-04,ARG,12,17,F,0,0,0,0,sebastian-mendez
-sergs1, ,Sergio,1977-05-23,SPA,12,21,F,0,0,0,0,sergio_3
+sergs1, ,Sergio,1977-05-23,SPA,12,21,F,0,0,0,0,sergio-fernandez_9
 sylvsy, ,Sylvinho,1974-04-12,BRA,12,3,F,0,0,0,0,sylvinho
 velaj1, ,Velasco,1977-05-15,SPA,12,2,F,0,0,0,0,velasco
 yaoxya,Yago,Yao,1979-08-19,SPA,12,23,F,0,0,0,0,yago-yao
@@ -127,7 +127,7 @@ azkojo, ,Azkoitia,1974-04-27,SPA,13,18,M,0,0,0,0,azkoitia
 bapthe,Hélder,Baptista,1972-02-18,POR,13,24,M,0,0,0,0,helder-baptista
 igleiv,Ivan,Iglesias,1971-12-16,SPA,13,7,M,0,0,0,0,ivan-iglesias
 cemblu,Luis,Cembranos,1972-06-06,SPA,13,14,M,0,0,0,0,luis-cembranos
-garcm6,Mauro,García,1971-05-21,SPA,13,19,M,0,0,0,0,mauro-garcia
+garcm6,Mauro,García,1971-05-21,SPA,13,19,M,0,0,0,0,mauro_5
 michmg, ,Míchel,1975-10-30,SPA,13,8,M,0,0,0,0,michel_2
 sanzp1,Pablo,Sanz,1973-08-30,SPA,13,22,M,0,0,0,0,pablo-sanz
 quevjo, ,Quevedo,1969-06-01,SPA,13,9,M,0,0,0,0,quevedo
@@ -138,7 +138,7 @@ boliel,Elvir,Bolić,1971-10-10,BOS,13,11,A,0,0,0,0,elvir-bolic
 boloju, ,Bolo,1974-03-05,SPA,13,21,A,0,0,0,0,bolo
 glaugl, ,Glaucio,1975-11-11,BRA,13,16,A,0,0,0,0,glaucio
 granem,Emir,Granov,1976-02-12,BOS,13,12,A,0,0,0,0,emir-granov
-peraro,Roberto,Peragón,1978-02-07,SPA,13,10,A,0,0,0,0,roberto-peragon
+peraro,Roberto,Peragón,1978-02-07,SPA,13,10,A,0,0,0,0,peragon
 rodrbr,Bruno,Rodriguez,1972-11-25,FRA,13, , ,0,0,0,0,bruno-rodriguez
 albea5, ,Alberto,1979-05-29,SPA,14,27,P,0,0,0,0,alberto_7
 franle,Leo,Franco,1977-05-20,ARG,14,25,P,0,0,0,0,leo-franco
@@ -154,7 +154,7 @@ campa2, ,Campano,1978-12-29,SPA,14,2,M,0,0,0,0,campano
 engovi, ,Engonga,1965-10-20,SPA,14,23,M,0,0,0,0,engonga
 ibagar,Ariel,Ibagaza,1976-10-27,ARG,14,10,M,0,0,0,0,ariel-ibagaza
 zaraiv,Iván,Zarandona,1980-08-30,EQG,14,34,M,0,0,0,0,ivan-zarandona
-roblju,Julián,Robles,1981-03-23,SPA,14,28,M,0,0,0,0,julian-robles
+roblju,Julián,Robles,1981-03-23,SPA,14,28,M,0,0,0,0,robles_4
 marcm8, ,Marcos,1968-09-17,SPA,14,18,M,0,0,0,0,marcos_2
 meriro,Roberto,Merino,1982-05-19,PER,14,30,M,0,0,0,0,roberto-merino
 novoa1,Álvaro,Novo,1978-05-16,SPA,14,16,M,0,0,0,0,alvaro-novo
@@ -224,7 +224,7 @@ rosaiv,Iván,Rosado,1974-04-24,SPA,17,9,A,0,0,0,0,ivan-rosado
 sabis1, ,Sabino,1978-02-14,SPA,17,18,A,0,0,0,0,sabino
 montda,Daniel,Montenegro,1979-03-28,ARG,17, , ,0,0,0,0,daniel-montenegro
 pereib,Iban,Pérez,1974-10-19,SPA,17, , ,0,0,0,0,iban-perez
-manomM, ,Manolo,1976-11-27,SPA,17, , ,0,0,0,0,manolo_2
+manomM, ,Manolo,1976-11-27,SPA,17, , ,0,0,0,0,manolo-sanchez_3
 herrm1,Martín,Herrera,1970-09-13,ARG,19,1,P,0,0,0,0,martin-herrera
 kikeen, ,Kike,1971-01-20,SPA,19,25,P,0,0,0,0,kike_2
 branpa,Pablo,Brandán,1983-03-05,ARG,19,24,F,0,0,0,0,pablo-brandan
@@ -317,7 +317,7 @@ unanje, ,Unanua,1969-06-23,SPA,29,13,P,0,0,0,0,unanua
 arruro,Rodolfo,Arruabarrena,1975-07-20,ARG,29,3,F,0,0,0,0,rodolfo-arruabarrena
 ballse, ,Ballesteros,1975-09-04,SPA,29,23,F,0,0,0,0,ballesteros
 galvje, ,Galván,1974-10-04,SPA,29,14,F,0,0,0,0,galvan
-berrin,Iñaki,Berruet,1973-04-23,SPA,29,4,F,0,0,0,0,inaki-berruet
+berrin,Iñaki,Berruet,1973-04-23,SPA,29,4,F,0,0,0,0,berruet
 bermle,Leo,Bermejo,1979-08-24,SPA,29,4,F,0,0,0,0,leo-bermejo
 alvaqu,Quique,Álvarez,1975-07-20,SPA,29,16,F,0,0,0,0,quique-alvarez
 unaiun, ,Unai,1977-01-21,SPA,29,24,F,0,0,0,0,unai
@@ -339,7 +339,7 @@ cicoze,Željko,Cicović,1970-09-16,YUG,36,1,P,0,0,0,0,zeljko-cicovic
 gonzi1,Ignacio,González,1971-12-17,ARG,36,25,P,0,0,0,0,ignacio-gonzalez_7
 quinor,Orlando,Quintana,1978-03-25,SPA,36,29,P,0,0,0,0,orlando-quintana
 alval6, ,Álvaro,1979-04-29,BRA,36,3,F,0,0,0,0,alvaro_2
-lopea4,Ángel,López,1981-03-10,SPA,36,31,F,0,0,0,0,angel-lopez
+lopea4,Ángel,López,1981-03-10,SPA,36,31,F,0,0,0,0,angel_12
 oliato, ,Olias,1969-02-04,SPA,36,2,F,0,0,0,0,olias
 paqufA, ,Paqui,1970-12-06,SPA,36,5,F,0,0,0,0,paqui
 sarako, ,Sarasúa,1972-03-18,SPA,36,4,F,0,0,0,0,sarasua
@@ -427,7 +427,7 @@ larrii, ,Larraínzar,1971-06-05,SPA,5,2,F,0,0,0,0,larrainzar
 murian, ,Murillo,1983-07-26,SPA,5,46,F,0,0,0,0,murillo
 riosro, ,Ríos,1971-10-08,SPA,5,14,F,0,0,0,0,rios_3
 alkibi, ,Alkiza,1970-10-26,SPA,5,18,M,0,0,0,0,alkiza
-cuelda, ,Cuéllar,1979-11-01,SPA,5,24,M,0,0,0,0,cuellar_3
+cuelda, ,Cuéllar,1979-11-01,SPA,5,24,M,0,0,0,0,david-cuellar
 felif7, ,Felipe,1975-11-18,SPA,5,15,M,0,0,0,0,felipe_3
 yestfr,Fran,Yeste,1979-12-06,SPA,5,10,M,0,0,0,0,fran-yeste
 guerju, ,Guerrero,1974-01-07,SPA,5,8,M,0,0,0,0,guerrero
@@ -440,7 +440,7 @@ tikoro, ,Tiko,1976-09-15,SPA,5,23,M,0,0,0,0,tiko
 urrujo, ,Urrutia,1968-04-14,SPA,5,6,M,0,0,0,0,urrutia
 etxejo, ,Etxeberria,1977-09-05,SPA,5,17,A,0,0,0,0,etxeberria
 ezqusa, ,Ezquerro,1976-12-14,SPA,5,9,A,0,0,0,0,ezquerro
-karada, ,Karanka,1978-04-20,SPA,5,21,A,0,0,0,0,karanka
+karada, ,Karanka,1978-04-20,SPA,5,21,A,0,0,0,0,david-karanka
 urzais, ,Urzáiz,1971-10-07,SPA,5,20,A,0,0,0,0,urzaiz
 artua2, ,Arturo,1981-08-15,SPA,6,25,P,0,0,0,0,arturo
 notaan, ,Notario,1972-11-19,SPA,6,13,P,0,0,0,0,notario
@@ -455,7 +455,7 @@ juraal,Álvaro,Jurado,1981-09-05,SPA,6,27,M,0,0,0,0,alvaro-jurado
 arteda, ,Arteaga,1981-12-01,SPA,6,31,M,0,0,0,0,arteaga_3
 casqfr, ,Casquero,1976-03-11,SPA,6,22,M,0,0,0,0,casquero
 lamafr,Francisco,Lama,1975-11-18,SPA,6,8,M,0,0,0,0,francisco-lama
-fredal, ,Fredy,1974-05-07,SPA,6,10,M,0,0,0,0,fredy
+fredal, ,Fredy,1974-05-07,SPA,6,10,M,0,0,0,0,fredi_3
 gallf1, ,Gallardo,1980-01-13,SPA,6,7,M,0,0,0,0,gallardo_7
 cotema,Mario,Cotelo,1975-02-10,SPA,6,17,M,0,0,0,0,mario-cotelo
 podein,Inti,Podestá,1978-04-23,URU,6,6,M,0,0,0,0,inti-podesta
@@ -474,7 +474,7 @@ gaspr1,Ronny,Gaspercic,1969-05-09,BEL,7,13,P,0,0,0,0,ronny-gaspercic
 pratan, ,Prats,1971-09-09,SPA,7,1,P,0,0,0,0,prats
 beleda, ,Belenguer,1972-12-17,SPA,7,12,F,0,0,0,0,belenguer
 filiiu,Iulian,Filipescu,1974-03-29,ROM,7,21,F,0,0,0,0,iulian-filipescu
-meriju,Juan,Merino,1970-08-24,SPA,7,6,F,0,0,0,0,juan-merino
+meriju,Juan,Merino,1970-08-24,SPA,7,6,F,0,0,0,0,merino
 juan14, ,Juanito,1976-07-23,SPA,7,22,F,0,0,0,0,juanito_2
 fernl2,Luis,Fernández,1972-09-27,SPA,7,2,F,0,0,0,0,luis-fernandez
 mingca, ,Mingo,1977-06-10,SPA,7,3,F,0,0,0,0,mingo
@@ -507,7 +507,7 @@ djorgo,Goran,Đorović,1971-11-11,YUG,8,19,F,0,0,0,0,goran-djorovic
 hecthc, ,Héctor,1974-10-11,SPA,8,24,F,0,0,0,0,hector
 heldma, ,Hélder,1971-03-21,POR,8,22,F,0,0,0,0,helder_8
 pablma,Manuel,Pablo,1976-01-25,SPA,8,2,F,0,0,0,0,manuel-pablo
-naybno,Nourredine,Naybet,1970-02-10,MAR,8,4,F,0,0,0,0,nourredine-naybet
+naybno,Nourredine,Naybet,1970-02-10,MAR,8,4,F,0,0,0,0,noureddine-naybet
 romeen, ,Romero,1971-06-23,SPA,8,3,F,0,0,0,0,romero
 amavjo, ,Amavisca,1971-06-19,SPA,8,11,M,0,0,0,0,amavisca
 djaldj, ,Djalminha,1970-12-09,BRA,8,8,M,0,0,0,0,djalminha

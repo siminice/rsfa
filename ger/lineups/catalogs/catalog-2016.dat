@@ -32,36 +32,6 @@ dantda, ,Dante,1983-10-18,BRA,0, , ,0,0,0,0,dante
 gaudgi,Gianluca,Gaudino,1996-11-11,GER,0, , ,0,0,0,0,gianluca-gaudino
 hoejpe,Pierre-Emile,Højbjerg,1995-08-05,DEN,0, , ,0,0,0,0,pierre-emile-hoejbjerg
 kircja,Jan,Kirchhoff,1990-10-01,GER,0, , ,0,0,0,0,jan-kirchhoff
-bonmhe,Hendrik,Bonmann,1994-01-22,GER,1,39,P,0,0,0,0,hendrik-bonmann
-buerro,Roman,Bürki,1990-11-14,SUI,1,38,P,0,0,0,0,roman-buerki
-weidr2,Roman,Weidenfeller,1980-08-06,GER,1,1,P,0,0,0,0,roman-weidenfeller
-bendsv,Sven,Bender,1989-04-27,GER,1,6,F,0,0,0,0,sven-bender
-durmer,Erik,Durm,1992-05-12,GER,1,37,F,0,0,0,0,erik-durm
-fritpa,Patrick,Fritsch,1998-12-21,GER,1,21,F,0,0,0,0,patrick-fritsch
-gintma,Matthias,Ginter,1994-01-19,GER,1,28,F,0,0,0,0,matthias-ginter
-stanjg,Jon Gorenc,Stankovič,1996-01-14,SLO,1,2,F,0,0,0,0,jon-gorenc-stankovic
-hummma,Mats,Hummels,1988-12-16,GER,1,15,F,0,0,0,0,mats-hummels
-papaso,Sokratis,Papastathopoulos,1988-06-09,GRE,1,25,F,0,0,0,0,sokratis-papastathopoulos
-parkjh,Joo-ho,Park,1987-01-16,KOR,1,3,F,0,0,0,0,joo-ho-park
-piszlu,Łukasz,Piszczek,1985-06-03,POL,1,26,F,0,0,0,0,lukasz-piszczek
-schmma,Marcel,Schmelzer,1988-01-22,GER,1,29,F,0,0,0,0,marcel-schmelzer
-subone,Neven,Subotić,1988-12-10,YUG,1,4,F,0,0,0,0,neven-subotic
-castgo,Gonzalo,Castro,1987-06-11,GER,1,27,M,0,0,0,0,gonzalo-castro
-guenlk,İlkay,Gündoğan,1990-10-24,GER,1,8,M,0,0,0,0,lkay-guendogan
-kagash,Shinji,Kagawa,1989-03-17,JAP,1,23,M,0,0,0,0,shinji-kagawa
-leitmo,Moritz,Leitner,1992-12-08,GER,1,14,M,0,0,0,0,moritz-leitner
-mkhihe,Henrikh,Mkhitaryan,1989-01-21,ARM,1,10,M,0,0,0,0,henrikh-mkhitaryan
-passfe,Felix,Passlack,1998-05-29,GER,1,30,M,0,0,0,0,felix-passlack
-sahinu,Nuri,Şahin,1988-09-05,TUR,1,18,M,0,0,0,0,nuri-sahin
-weigju,Julian,Weigl,1995-09-08,GER,1,33,M,0,0,0,0,julian-weigl
-aubape,Pierre-Emerick,Aubameyang,1989-06-18,GAB,1,17,A,0,0,0,0,pierre-emerick-aubameyang
-pulich,Christian,Pulisic,1998-09-18,USA,1,22,A,0,0,0,0,christian-pulisic
-ramoad,Adrián,Ramos,1986-01-22,COL,1,20,A,0,0,0,0,adrian-ramos
-reusma,Marco,Reus,1989-05-31,GER,1,11,A,0,0,0,0,marco-reus
-hofmj1,Jonas,Hofmann,1992-07-14,GER,1, , ,0,0,0,0,jonas-hofmann
-januad,Adnan,Januzaj,1995-02-05,BEL,1, , ,0,0,0,0,adnan-januzaj
-kampke,Kevin,Kampl,1990-10-09,SLO,1, , ,0,0,0,0,kevin-kampl
-stenpa,Pascal,Stenzel,1996-03-20,GER,1, , ,0,0,0,0,pascal-stenzel
 faehra,Ralf,Fährmann,1988-09-27,GER,10,1,P,0,0,0,0,ralf-faehrmann
 gieffa,Fabian,Giefer,1990-05-17,GER,10,34,P,0,0,0,0,fabian-giefer
 gspumi,Michael,Gspurning,1981-05-02,AUT,10,30,P,0,0,0,0,michael-gspurning
@@ -179,7 +149,7 @@ hoffan,André,Hoffmann,1993-02-28,GER,18,15,M,0,0,0,0,andre-hoffmann_2
 kiyohi,Hiroshi,Kiyotake,1989-11-12,JAP,18,10,M,0,0,0,0,hiroshi-kiyotake
 klaufe,Felix,Klaus,1992-09-13,GER,18,11,M,0,0,0,0,felix-klaus
 pribed,Edgar,Prib,1989-12-15,GER,18,7,M,0,0,0,0,edgar-prib
-bazenj,Noah Joel Sarenren,Bazee,1996-08-21,GER,18,37,M,0,0,0,0,noah-joel-sarenren-bazee
+bazenj,Noah Joel Sarenren,Bazee,1996-08-21,GER,18,37,M,0,0,0,0,noah-sarenren-bazee
 schmm1,Manuel,Schmiedebach,1988-12-05,GER,18,8,M,0,0,0,0,manuel-schmiedebach
 wolfma,Marius,Wolf,1995-05-27,GER,18,21,M,0,0,0,0,marius-wolf
 yamaho,Hotaru,Yamaguchi,1990-10-06,JAP,18,16,M,0,0,0,0,hotaru-yamaguchi
@@ -196,31 +166,36 @@ erdime,Mevlüt,Erdinç,1987-02-25,TUR,18, , ,0,0,0,0,mevluet-erdinc
 baehms,Mike-Steven,Bähre,1995-08-10,GER,18, , ,0,0,0,0,mike-steven-baehre
 feieni,Niklas,Feierabend,1997-04-28,GER,18, , ,0,0,0,0,niklas-feierabend
 hirsma,Maurice,Hirsch,1993-05-30,GER,18, , ,0,0,0,0,maurice-hirsch
-hornti,Timo,Horn,1993-05-12,GER,2,1,P,0,0,0,0,timo-horn
-kessth,Thomas,Kessler,1986-01-20,GER,2,18,P,0,0,0,0,thomas-kessler
-meseda,Daniel,Mesenhöler,1995-07-24,GER,2,37,P,0,0,0,0,daniel-mesenhoeler
-hectjo,Jonas,Hector,1990-05-27,GER,2,14,F,0,0,0,0,jonas-hector
-heindo,Dominique,Heintz,1993-08-15,GER,2,3,F,0,0,0,0,dominique-heintz
-kluelu,Lukas,Klünter,1996-05-26,GER,2,24,F,0,0,0,0,lukas-kluenter
-marodo,Dominic,Maroh,1987-03-04,SLO,2,5,F,0,0,0,0,dominic-maroh
-mavrme,Mergim,Mavraj,1986-06-09,ALB,2,19,F,0,0,0,0,mergim-mavraj
-mladfi,Filip,Mladenović,1991-08-15,YUG,2,25,F,0,0,0,0,filip-mladenovic
-olkopa,Paweł,Olkowski,1990-02-13,POL,2,16,F,0,0,0,0,pawel-olkowski
-soerfr,Frederik,Sørensen,1992-04-14,DEN,2,4,F,0,0,0,0,frederik-soerensen
-bittle,Leonardo,Bittencourt,1993-12-19,GER,2,21,M,0,0,0,0,leonardo-bittencourt
-gerhya,Yannick,Gerhardt,1994-03-13,GER,2,31,M,0,0,0,0,yannick-gerhardt
-hartma,Marcel,Hartel,1996-01-19,GER,2,30,M,0,0,0,0,marcel-hartel
-jojimi,Miloš,Jojić,1992-03-19,YUG,2,8,M,0,0,0,0,milos-jojic
-lehmma,Matthias,Lehmann,1983-05-28,GER,2,33,M,0,0,0,0,matthias-lehmann
-rissma,Marcel,Risse,1989-12-17,GER,2,7,M,0,0,0,0,marcel-risse
-svendu,Dušan,Švento,1985-08-01,SVK,2,29,M,0,0,0,0,dusan-svento
-vogtke,Kevin,Vogt,1991-09-23,GER,2,6,M,0,0,0,0,kevin-vogt
-hosiph,Philipp,Hosiner,1989-05-15,AUT,2,15,A,0,0,0,0,philipp-hosiner
-modean,Anthony,Modeste,1988-04-14,FRA,2,27,A,0,0,0,0,anthony-modeste_2
-osakyu,Yuya,Osako,1990-05-18,JAP,2,13,A,0,0,0,0,yuya-osako
-zollsi,Simon,Zoller,1991-06-26,GER,2,11,A,0,0,0,0,simon-zoller
-nagaka,Kazuki,Nagasawa,1991-12-16,JAP,2, , ,0,0,0,0,kazuki-nagasawa
-finnba,Bård,Finne,1995-02-13,NOR,2, , ,0,0,0,0,bard-finne
+bonmhe,Hendrik,Bonmann,1994-01-22,GER,1,39,P,0,0,0,0,hendrik-bonmann
+buerro,Roman,Bürki,1990-11-14,SUI,1,38,P,0,0,0,0,roman-buerki
+weidr2,Roman,Weidenfeller,1980-08-06,GER,1,1,P,0,0,0,0,roman-weidenfeller
+bendsv,Sven,Bender,1989-04-27,GER,1,6,F,0,0,0,0,sven-bender
+durmer,Erik,Durm,1992-05-12,GER,1,37,F,0,0,0,0,erik-durm
+fritpa,Patrick,Fritsch,1998-12-21,GER,1,21,F,0,0,0,0,patrick-fritsch
+gintma,Matthias,Ginter,1994-01-19,GER,1,28,F,0,0,0,0,matthias-ginter
+stanjg,Jon Gorenc,Stankovič,1996-01-14,SLO,1,2,F,0,0,0,0,jon-gorenc-stankovic
+hummma,Mats,Hummels,1988-12-16,GER,1,15,F,0,0,0,0,mats-hummels
+papaso,Sokratis,Papastathopoulos,1988-06-09,GRE,1,25,F,0,0,0,0,sokratis-papastathopoulos
+parkjh,Joo-ho,Park,1987-01-16,KOR,1,3,F,0,0,0,0,joo-ho-park
+piszlu,Łukasz,Piszczek,1985-06-03,POL,1,26,F,0,0,0,0,lukasz-piszczek
+schmma,Marcel,Schmelzer,1988-01-22,GER,1,29,F,0,0,0,0,marcel-schmelzer
+subone,Neven,Subotić,1988-12-10,YUG,1,4,F,0,0,0,0,neven-subotic
+castgo,Gonzalo,Castro,1987-06-11,GER,1,27,M,0,0,0,0,gonzalo-castro
+guenlk,İlkay,Gündoğan,1990-10-24,GER,1,8,M,0,0,0,0,lkay-guendogan
+kagash,Shinji,Kagawa,1989-03-17,JAP,1,23,M,0,0,0,0,shinji-kagawa
+leitmo,Moritz,Leitner,1992-12-08,GER,1,14,M,0,0,0,0,moritz-leitner
+mkhihe,Henrikh,Mkhitaryan,1989-01-21,ARM,1,10,M,0,0,0,0,henrikh-mkhitaryan
+passfe,Felix,Passlack,1998-05-29,GER,1,30,M,0,0,0,0,felix-passlack
+sahinu,Nuri,Şahin,1988-09-05,TUR,1,18,M,0,0,0,0,nuri-sahin
+weigju,Julian,Weigl,1995-09-08,GER,1,33,M,0,0,0,0,julian-weigl
+aubape,Pierre-Emerick,Aubameyang,1989-06-18,GAB,1,17,A,0,0,0,0,pierre-emerick-aubameyang
+pulich,Christian,Pulisic,1998-09-18,USA,1,22,A,0,0,0,0,christian-pulisic
+ramoad,Adrián,Ramos,1986-01-22,COL,1,20,A,0,0,0,0,adrian-ramos
+reusma,Marco,Reus,1989-05-31,GER,1,11,A,0,0,0,0,marco-reus
+hofmj1,Jonas,Hofmann,1992-07-14,GER,1, , ,0,0,0,0,jonas-hofmann
+januad,Adnan,Januzaj,1995-02-05,BEL,1, , ,0,0,0,0,adnan-januzaj
+kampke,Kevin,Kampl,1990-10-09,SLO,1, , ,0,0,0,0,kevin-kampl
+stenpa,Pascal,Stenzel,1996-03-20,GER,1, , ,0,0,0,0,pascal-stenzel
 benadi,Diego,Benaglio,1983-09-08,SUI,26,1,P,0,0,0,0,diego-benaglio
 castko,Koen,Casteels,1992-06-25,BEL,26,28,P,0,0,0,0,koen-casteels
 gruema,Max,Grün,1987-04-05,GER,26,20,P,0,0,0,0,max-gruen
@@ -256,41 +231,31 @@ bruykd,Kevin,De Bruyne,1991-06-28,BEL,26, , ,0,0,0,0,kevin-de-bruyne
 huntaa,Aaron,Hunt,1986-09-04,GER,26, , ,0,0,0,0,aaron-hunt
 periiv,Ivan,Perišić,1989-02-02,CRO,26, , ,0,0,0,0,ivan-perisic
 rodrfr,Francisco,Rodríguez,1995-09-14,SUI,26, , ,0,0,0,0,francisco-rodriguez
-balaem,Emil,Balayev,1994-04-17,AZE,3,29,P,0,0,0,0,emil-balayev
-hradlu,Lukáš,Hrádecký,1989-11-24,FIN,3,1,P,0,0,0,0,lukas-hradecky
-lindh1,Heinz,Lindner,1990-07-17,AUT,3,13,P,0,0,0,0,heinz-lindner
-zummya,Yannick,Zummack,1996-03-26,GER,3,33,P,0,0,0,0,yannick-zummack
-abrada,David,Abraham,1986-07-15,ARG,3,19,F,0,0,0,0,david-abraham
-ayhaka,Kaan,Ayhan,1994-11-10,TUR,3,3,F,0,0,0,0,kaan-ayhan
-andeba,Bamba,Anderson,1988-01-10,BRA,3,23,F,0,0,0,0,bamba-anderson
-chanti,Timothy,Chandler,1990-03-29,USA,3,22,F,0,0,0,0,timothy-chandler
-djakco,Constant,Djakpa,1986-10-17,CIV,3,15,F,0,0,0,0,constant-djakpa
-ignjal,Aleksandar,Ignjovski,1991-01-27,YUG,3,27,F,0,0,0,0,aleksandar-ignjovski
-ocziba,Bastian,Oczipka,1989-01-12,GER,3,6,F,0,0,0,0,bastian-oczipka
-regaya,Yanni,Regäsel,1996-01-14,GER,3,2,F,0,0,0,0,yanni-regaesel
-russma,Marco,Russ,1985-08-04,GER,3,4,F,0,0,0,0,marco-russ
-zambca,Carlos,Zambrano,1989-07-10,PER,3,5,F,0,0,0,0,carlos-zambrano
-aignst,Stefan,Aigner,1987-08-20,GER,3,16,M,0,0,0,0,stefan-aigner
-hatiab,Änis,Ben-Hatira,1988-07-18,TUN,3,32,M,0,0,0,0,aenis-ben-hatira
-fabima,Marco,Fabián,1989-07-21,MEX,3,10,M,0,0,0,0,marco-fabian
-flumjo,Johannes,Flum,1987-12-14,GER,3,18,M,0,0,0,0,johannes-flum
-gacimi,Mijat,Gaćinović,1995-02-08,YUG,3,11,M,0,0,0,0,mijat-gacinovic
-hasema,Makoto,Hasebe,1984-01-18,JAP,3,20,M,0,0,0,0,makoto-hasebe
-huszsz,Szabolcs,Huszti,1983-04-18,HUN,3,8,M,0,0,0,0,szabolcs-huszti
-kittso,Sonny,Kittel,1993-01-06,GER,3,28,M,0,0,0,0,sonny-kittel
-medosl,Slobodan,Medojević,1990-11-20,YUG,3,25,M,0,0,0,0,slobodan-medojevic
-reinst,Stefan,Reinartz,1989-01-01,GER,3,7,M,0,0,0,0,stefan-reinartz
-rindni,Nico,Rinderknecht,1997-10-11,GER,3,35,M,0,0,0,0,nico-rinderknecht
-stenma,Marc,Stendera,1995-12-10,GER,3,21,M,0,0,0,0,marc-stendera
-bunjen,Enis,Bunjaki,1997-10-17,GER,3,38,A,0,0,0,0,enis-bunjaki
-castlu,Luc,Castaignos,1992-09-27,NED,3,30,A,0,0,0,0,luc-castaignos
-meieal,Alexander,Meier,1983-01-17,GER,3,14,A,0,0,0,0,alexander-meier
-sefeha,Haris,Seferović,1992-02-22,SUI,3,9,A,0,0,0,0,haris-seferovic
-waldlu,Luca,Waldschmidt,1996-05-19,GER,3,24,A,0,0,0,0,luca-waldschmidt
-kadlva,Václav,Kadlec,1992-05-20,CZE,3, , ,0,0,0,0,vaclav-kadlec
-gerejo,Joel,Gerezgiher,1995-10-09,GER,3, , ,0,0,0,0,joel-gerezgiher
-kinsda,David,Kinsombi,1995-12-12,GER,3, , ,0,0,0,0,david-kinsombi
-inuita,Takashi,Inui,1988-06-02,JAP,3, , ,0,0,0,0,takashi-inui
+hornti,Timo,Horn,1993-05-12,GER,2,1,P,0,0,0,0,timo-horn
+kessth,Thomas,Kessler,1986-01-20,GER,2,18,P,0,0,0,0,thomas-kessler
+meseda,Daniel,Mesenhöler,1995-07-24,GER,2,37,P,0,0,0,0,daniel-mesenhoeler
+hectjo,Jonas,Hector,1990-05-27,GER,2,14,F,0,0,0,0,jonas-hector
+heindo,Dominique,Heintz,1993-08-15,GER,2,3,F,0,0,0,0,dominique-heintz
+kluelu,Lukas,Klünter,1996-05-26,GER,2,24,F,0,0,0,0,lukas-kluenter
+marodo,Dominic,Maroh,1987-03-04,SLO,2,5,F,0,0,0,0,dominic-maroh
+mavrme,Mergim,Mavraj,1986-06-09,ALB,2,19,F,0,0,0,0,mergim-mavraj
+mladfi,Filip,Mladenović,1991-08-15,YUG,2,25,F,0,0,0,0,filip-mladenovic
+olkopa,Paweł,Olkowski,1990-02-13,POL,2,16,F,0,0,0,0,pawel-olkowski
+soerfr,Frederik,Sørensen,1992-04-14,DEN,2,4,F,0,0,0,0,frederik-soerensen
+bittle,Leonardo,Bittencourt,1993-12-19,GER,2,21,M,0,0,0,0,leonardo-bittencourt
+gerhya,Yannick,Gerhardt,1994-03-13,GER,2,31,M,0,0,0,0,yannick-gerhardt
+hartma,Marcel,Hartel,1996-01-19,GER,2,30,M,0,0,0,0,marcel-hartel
+jojimi,Miloš,Jojić,1992-03-19,YUG,2,8,M,0,0,0,0,milos-jojic
+lehmma,Matthias,Lehmann,1983-05-28,GER,2,33,M,0,0,0,0,matthias-lehmann
+rissma,Marcel,Risse,1989-12-17,GER,2,7,M,0,0,0,0,marcel-risse
+svendu,Dušan,Švento,1985-08-01,SVK,2,29,M,0,0,0,0,dusan-svento
+vogtke,Kevin,Vogt,1991-09-23,GER,2,6,M,0,0,0,0,kevin-vogt
+hosiph,Philipp,Hosiner,1989-05-15,AUT,2,15,A,0,0,0,0,philipp-hosiner
+modean,Anthony,Modeste,1988-04-14,FRA,2,27,A,0,0,0,0,anthony-modeste_2
+osakyu,Yuya,Osako,1990-05-18,JAP,2,13,A,0,0,0,0,yuya-osako
+zollsi,Simon,Zoller,1991-06-26,GER,2,11,A,0,0,0,0,simon-zoller
+nagaka,Kazuki,Nagasawa,1991-12-16,JAP,2, , ,0,0,0,0,kazuki-nagasawa
+finnba,Bård,Finne,1995-02-13,NOR,2, , ,0,0,0,0,bard-finne
 curcgi,Gianluca,Curci,1985-07-12,ITA,33,23,P,0,0,0,0,gianluca-curci
 huthja,Jannik,Huth,1994-04-15,GER,33,33,P,0,0,0,0,jannik-huth
 karilo,Loris,Karius,1993-06-22,GER,33,1,P,0,0,0,0,loris-karius
@@ -330,6 +295,41 @@ parkjh,Joo-ho,Park,1987-01-16,KOR,33, , ,0,0,0,0,joo-ho-park
 nedeto,Todor,Nedelev,1993-02-07,BUL,33, , ,0,0,0,0,todor-nedelev
 zentro,Robin,Zentner,1994-10-28,GER,33, , ,0,0,0,0,robin-zentner
 zimlni,Niki,Zimling,1985-04-19,DEN,33, , ,0,0,0,0,niki-zimling
+balaem,Emil,Balayev,1994-04-17,AZE,3,29,P,0,0,0,0,emil-balayev
+hradlu,Lukáš,Hrádecký,1989-11-24,FIN,3,1,P,0,0,0,0,lukas-hradecky
+lindh1,Heinz,Lindner,1990-07-17,AUT,3,13,P,0,0,0,0,heinz-lindner
+zummya,Yannick,Zummack,1996-03-26,GER,3,33,P,0,0,0,0,yannick-zummack
+abrada,David,Abraham,1986-07-15,ARG,3,19,F,0,0,0,0,david-abraham
+ayhaka,Kaan,Ayhan,1994-11-10,TUR,3,3,F,0,0,0,0,kaan-ayhan
+andeba,Bamba,Anderson,1988-01-10,BRA,3,23,F,0,0,0,0,bamba-anderson
+chanti,Timothy,Chandler,1990-03-29,USA,3,22,F,0,0,0,0,timothy-chandler
+djakco,Constant,Djakpa,1986-10-17,CIV,3,15,F,0,0,0,0,constant-djakpa
+ignjal,Aleksandar,Ignjovski,1991-01-27,YUG,3,27,F,0,0,0,0,aleksandar-ignjovski
+ocziba,Bastian,Oczipka,1989-01-12,GER,3,6,F,0,0,0,0,bastian-oczipka
+regaya,Yanni,Regäsel,1996-01-14,GER,3,2,F,0,0,0,0,yanni-regaesel
+russma,Marco,Russ,1985-08-04,GER,3,4,F,0,0,0,0,marco-russ
+zambca,Carlos,Zambrano,1989-07-10,PER,3,5,F,0,0,0,0,carlos-zambrano
+aignst,Stefan,Aigner,1987-08-20,GER,3,16,M,0,0,0,0,stefan-aigner
+hatiab,Änis,Ben-Hatira,1988-07-18,TUN,3,32,M,0,0,0,0,aenis-ben-hatira
+fabima,Marco,Fabián,1989-07-21,MEX,3,10,M,0,0,0,0,marco-fabian
+flumjo,Johannes,Flum,1987-12-14,GER,3,18,M,0,0,0,0,johannes-flum
+gacimi,Mijat,Gaćinović,1995-02-08,YUG,3,11,M,0,0,0,0,mijat-gacinovic
+hasema,Makoto,Hasebe,1984-01-18,JAP,3,20,M,0,0,0,0,makoto-hasebe
+huszsz,Szabolcs,Huszti,1983-04-18,HUN,3,8,M,0,0,0,0,szabolcs-huszti
+kittso,Sonny,Kittel,1993-01-06,GER,3,28,M,0,0,0,0,sonny-kittel
+medosl,Slobodan,Medojević,1990-11-20,YUG,3,25,M,0,0,0,0,slobodan-medojevic
+reinst,Stefan,Reinartz,1989-01-01,GER,3,7,M,0,0,0,0,stefan-reinartz
+rindni,Nico,Rinderknecht,1997-10-11,GER,3,35,M,0,0,0,0,nico-rinderknecht
+stenma,Marc,Stendera,1995-12-10,GER,3,21,M,0,0,0,0,marc-stendera
+bunjen,Enis,Bunjaki,1997-10-17,GER,3,38,A,0,0,0,0,enis-bunjaki
+castlu,Luc,Castaignos,1992-09-27,NED,3,30,A,0,0,0,0,luc-castaignos
+meieal,Alexander,Meier,1983-01-17,GER,3,14,A,0,0,0,0,alexander-meier
+sefeha,Haris,Seferović,1992-02-22,SUI,3,9,A,0,0,0,0,haris-seferovic
+waldlu,Luca,Waldschmidt,1996-05-19,GER,3,24,A,0,0,0,0,luca-waldschmidt
+kadlva,Václav,Kadlec,1992-05-20,CZE,3, , ,0,0,0,0,vaclav-kadlec
+gerejo,Joel,Gerezgiher,1995-10-09,GER,3, , ,0,0,0,0,joel-gerezgiher
+kinsda,David,Kinsombi,1995-12-12,GER,3, , ,0,0,0,0,david-kinsombi
+inuita,Takashi,Inui,1988-06-02,JAP,3, , ,0,0,0,0,takashi-inui
 langm2,Mitchell,Langerak,1988-08-22,AUS,4,1,P,0,0,0,0,mitchell-langerak
 tytopr,Przemysław,Tytoń,1987-01-04,POL,4,22,P,0,0,0,0,przemyslaw-tyton
 uphobe,Benjamin,Uphoff,1993-08-08,GER,4,32,P,0,0,0,0,benjamin-uphoff
@@ -399,6 +399,36 @@ rudnar,Artjoms,Rudņevs,1988-01-13,LAT,5,16,A,0,0,0,0,artjoms-rudnevs
 schisv,Sven,Schipplock,1988-11-08,GER,5,9,A,0,0,0,0,sven-schipplock
 diazma,Marcelo,Díaz,1986-12-30,CHI,5, , ,0,0,0,0,marcelo-diaz
 stiezo,Zoltán,Stieber,1988-10-16,HUN,5, , ,0,0,0,0,zoltan-stieber
+mathch,Christian,Mathenia,1992-03-31,GER,62,31,P,0,0,0,0,christian-mathenia
+platpa,Patrick,Platins,1983-04-19,GER,62,1,P,0,0,0,0,patrick-platins
+zalulu,Łukasz,Załuska,1982-06-16,POL,62,40,P,0,0,0,0,lukasz-zaluska
+caldlu,Luca,Caldirola,1991-02-01,ITA,62,33,F,0,0,0,0,luca-caldirola
+diazju,Júnior,Díaz,1983-09-12,CRC,62,15,F,0,0,0,0,junior-diaz
+garigy,György,Garics,1984-03-08,AUT,62,13,F,0,0,0,0,gyoergy-garics
+gorkbe,Benjamin,Gorka,1984-04-15,GER,62,5,F,0,0,0,0,benjamin-gorka
+hollfa,Fabian,Holland,1990-07-11,GER,62,32,F,0,0,0,0,fabian-holland
+jungfl,Florian,Jungwirth,1989-01-27,GER,62,23,F,0,0,0,0,florian-jungwirth
+rajksl,Slobodan,Rajković,1989-02-03,YUG,62,35,F,0,0,0,0,slobodan-rajkovic
+rausko,Konstantin,Rausch,1990-03-15,RUS,62,34,F,0,0,0,0,konstantin-rausch
+sirisa,Sandro,Sirigu,1988-10-07,GER,62,17,F,0,0,0,0,sandro-sirigu
+stegmi,Michael,Stegmayer,1985-01-12,GER,62,3,F,0,0,0,0,michael-stegmayer
+suluay,Aytaç,Sulu,1985-12-11,TUR,62,4,F,0,0,0,0,aytac-sulu
+wembno,Noel,Wembacher,1997-03-15,GER,62,39,F,0,0,0,0,noel-wembacher
+fingja,Jan,Finger,1997-01-02,GER,62,36,M,0,0,0,0,jan-finger
+gondje,Jérôme,Gondorf,1988-06-26,GER,62,8,M,0,0,0,0,jerome-gondorf
+hellm1,Marcel,Heller,1986-02-12,GER,62,20,M,0,0,0,0,marcel-heller
+ivanmi,Milan,Ivana,1983-11-26,SVK,62,27,M,0,0,0,0,milan-ivana
+kazial,Ali,Kazimi,1997-06-30,GER,62,37,M,0,0,0,0,ali-kazimi
+kempto,Tobias,Kempe,1989-06-27,GER,62,11,M,0,0,0,0,tobias-kempe
+niempe,Peter,Niemeyer,1983-11-22,GER,62,18,M,0,0,0,0,peter-niemeyer
+roseja,Jan,Rosenthal,1986-04-07,GER,62,10,M,0,0,0,0,jan-rosenthal
+starya,Yannick,Stark,1990-10-28,GER,62,25,M,0,0,0,0,yannick-stark
+volkni,Nick,Volk,1997-11-12,GER,62,38,M,0,0,0,0,nick-volk
+vranma,Mario,Vrančić,1989-05-23,BOS,62,6,M,0,0,0,0,mario-vrancic
+platfe,Felix,Platte,1996-02-11,GER,62,19,A,0,0,0,0,felix-platte
+sailma,Marco,Sailer,1985-11-16,GER,62,7,A,0,0,0,0,marco-sailer
+engeds,Dominik,Stroh-Engel,1985-11-27,GER,62,9,A,0,0,0,0,dominik-stroh-engel
+wagnsa,Sandro,Wagner,1987-11-29,GER,62,14,A,0,0,0,0,sandro-wagner
 oelser,Eric,Oelschlägel,1995-09-20,GER,6,43,P,0,0,0,0,eric-oelschlaegel
 tremge,Gerhard,Tremmel,1978-11-16,GER,6,18,P,0,0,0,0,gerhard-tremmel
 wiedfe,Felix,Wiedwald,1990-03-15,GER,6,42,P,0,0,0,0,felix-wiedwald
@@ -437,68 +467,6 @@ ujahan,Anthony,Ujah,1990-10-14,NGR,6,21,A,0,0,0,0,anthony-ujah
 lukias,Assani,Lukimya,1986-01-25,DRC,6, , ,0,0,0,0,assani-lukimya
 kroofe,Felix,Kroos,1991-03-12,GER,6, , ,0,0,0,0,felix-kroos
 aycile,Levent,Ayçiçek,1994-02-14,GER,6, , ,0,0,0,0,levent-aycicek
-mathch,Christian,Mathenia,1992-03-31,GER,62,31,P,0,0,0,0,christian-mathenia
-platpa,Patrick,Platins,1983-04-19,GER,62,1,P,0,0,0,0,patrick-platins
-zalulu,Łukasz,Załuska,1982-06-16,POL,62,40,P,0,0,0,0,lukasz-zaluska
-caldlu,Luca,Caldirola,1991-02-01,ITA,62,33,F,0,0,0,0,luca-caldirola
-diazju,Júnior,Díaz,1983-09-12,CRC,62,15,F,0,0,0,0,junior-diaz
-garigy,György,Garics,1984-03-08,AUT,62,13,F,0,0,0,0,gyoergy-garics
-gorkbe,Benjamin,Gorka,1984-04-15,GER,62,5,F,0,0,0,0,benjamin-gorka
-hollfa,Fabian,Holland,1990-07-11,GER,62,32,F,0,0,0,0,fabian-holland
-jungfl,Florian,Jungwirth,1989-01-27,GER,62,23,F,0,0,0,0,florian-jungwirth
-rajksl,Slobodan,Rajković,1989-02-03,YUG,62,35,F,0,0,0,0,slobodan-rajkovic
-rausko,Konstantin,Rausch,1990-03-15,RUS,62,34,F,0,0,0,0,konstantin-rausch
-sirisa,Sandro,Sirigu,1988-10-07,GER,62,17,F,0,0,0,0,sandro-sirigu
-stegmi,Michael,Stegmayer,1985-01-12,GER,62,3,F,0,0,0,0,michael-stegmayer
-suluay,Aytaç,Sulu,1985-12-11,TUR,62,4,F,0,0,0,0,aytac-sulu
-wembno,Noel,Wembacher,1997-03-15,GER,62,39,F,0,0,0,0,noel-wembacher
-fingja,Jan,Finger,1997-01-02,GER,62,36,M,0,0,0,0,jan-finger
-gondje,Jérôme,Gondorf,1988-06-26,GER,62,8,M,0,0,0,0,jerome-gondorf
-hellm1,Marcel,Heller,1986-02-12,GER,62,20,M,0,0,0,0,marcel-heller
-ivanmi,Milan,Ivana,1983-11-26,SVK,62,27,M,0,0,0,0,milan-ivana
-kazial,Ali,Kazimi,1997-06-30,GER,62,37,M,0,0,0,0,ali-kazimi
-kempto,Tobias,Kempe,1989-06-27,GER,62,11,M,0,0,0,0,tobias-kempe
-niempe,Peter,Niemeyer,1983-11-22,GER,62,18,M,0,0,0,0,peter-niemeyer
-roseja,Jan,Rosenthal,1986-04-07,GER,62,10,M,0,0,0,0,jan-rosenthal
-starya,Yannick,Stark,1990-10-28,GER,62,25,M,0,0,0,0,yannick-stark
-volkni,Nick,Volk,1997-11-12,GER,62,38,M,0,0,0,0,nick-volk
-vranma,Mario,Vrančić,1989-05-23,BOS,62,6,M,0,0,0,0,mario-vrancic
-platfe,Felix,Platte,1996-02-11,GER,62,19,A,0,0,0,0,felix-platte
-sailma,Marco,Sailer,1985-11-16,GER,62,7,A,0,0,0,0,marco-sailer
-engeds,Dominik,Stroh-Engel,1985-11-27,GER,62,9,A,0,0,0,0,dominik-stroh-engel
-wagnsa,Sandro,Wagner,1987-11-29,GER,62,14,A,0,0,0,0,sandro-wagner
-heimch,Christofer,Heimeroth,1981-08-01,GER,7,33,P,0,0,0,0,christofer-heimeroth
-sippto,Tobias,Sippel,1988-03-22,GER,7,21,P,0,0,0,0,tobias-sippel
-sommya,Yann,Sommer,1988-12-17,SUI,7,1,P,0,0,0,0,yann-sommer
-brouro,Roel,Brouwers,1981-11-28,NED,7,4,F,0,0,0,0,roel-brouwers
-chrian,Andreas,Christensen,1996-04-10,DEN,7,3,F,0,0,0,0,andreas-christensen
-domido, ,Domínguez,1989-05-16,SPA,7,15,F,0,0,0,0,dominguez_4
-elveni,Nico,Elvedi,1996-09-30,SUI,7,30,F,0,0,0,0,nico-elvedi
-hintma,Martin,Hinteregger,1992-09-07,AUT,7,5,F,0,0,0,0,martin-hinteregger_2
-jantto,Tony,Jantschke,1990-04-07,GER,7,24,F,0,0,0,0,tony-jantschke
-korbju,Julian,Korb,1992-03-21,GER,7,27,F,0,0,0,0,julian-korb
-schum6,Marvin,Schulz,1995-01-15,GER,7,18,F,0,0,0,0,marvin-schulz_2
-schuni,Nico,Schulz,1993-04-01,GER,7,14,F,0,0,0,0,nico-schulz
-strama,Martin,Stranzl,1980-06-16,AUT,7,39,F,0,0,0,0,martin-stranzl
-wendos,Oscar,Wendt,1985-10-24,SWE,7,17,F,0,0,0,0,oscar-wendt
-dahoma,Mahmoud,Dahoud,1996-01-01,GER,7,8,M,0,0,0,0,mahmoud-dahoud
-hahna1,André,Hahn,1990-08-13,GER,7,28,M,0,0,0,0,andre-hahn
-hazath,Thorgan,Hazard,1993-03-29,BEL,7,10,M,0,0,0,0,thorgan-hazard
-herrp1,Patrick,Herrmann,1991-02-12,GER,7,7,M,0,0,0,0,patrick-herrmann_2
-hofmj1,Jonas,Hofmann,1992-07-14,GER,7,23,M,0,0,0,0,jonas-hofmann
-johnfa,Fabian,Johnson,1987-12-11,USA,7,19,M,0,0,0,0,fabian-johnson
-ndentw,Tsiy William,Ndenge,1997-06-13,GER,7,44,M,0,0,0,0,tsiy-william-ndenge
-nordha,Håvard,Nordtveit,1990-06-21,NOR,7,6,M,0,0,0,0,havard-nordtveit
-ruetni,Nils,Rütten,1995-07-20,GER,7,36,M,0,0,0,0,nils-ruetten
-sowxdj,Djibril,Sow,1997-02-06,SUI,7,20,M,0,0,0,0,djibril-sow
-stinla,Lars,Stindl,1988-08-26,GER,7,13,M,0,0,0,0,lars-stindl
-traoib,Ibrahima,Traoré,1988-04-21,GUI,7,16,M,0,0,0,0,ibrahima-traore
-xhakgr,Granit,Xhaka,1992-09-27,SUI,7,34,M,0,0,0,0,granit-xhaka
-hrgobr,Branimir,Hrgota,1993-01-12,SWE,7,31,A,0,0,0,0,branimir-hrgota
-raffra, ,Raffael,1985-03-28,BRA,7,11,A,0,0,0,0,raffael
-tonera,Raffael,Tonello,1974-06-14,ITA,7,11,A,0,0,0,0,raffael-tonello
-rittma,Marlon,Ritter,1994-10-15,GER,7,36,A,0,0,0,0,marlon-ritter
-drmijo,Josip,Drmić,1992-08-08,SUI,7, , ,0,0,0,0,josip-drmic
 baumol,Oliver,Baumann,1990-06-02,GER,70,1,P,0,0,0,0,oliver-baumann
 grahje,Jens,Grahl,1988-09-22,GER,70,13,P,0,0,0,0,jens-grahl
 stolal,Alexander,Stolz,1983-10-13,GER,70,33,P,0,0,0,0,alexander-stolz
@@ -566,6 +534,38 @@ jixxdw,Dong-won,Ji,1991-05-28,KOR,73,22,A,0,0,0,0,dong-won-ji
 parksh,Shawn,Parker,1993-03-07,GER,73,9,A,0,0,0,0,shawn-parker
 matati,Tim,Matavž,1989-01-13,SLO,73, , ,0,0,0,0,tim-matavz
 moelsa,Sascha,Mölders,1985-03-20,GER,73, , ,0,0,0,0,sascha-moelders
+heimch,Christofer,Heimeroth,1981-08-01,GER,7,33,P,0,0,0,0,christofer-heimeroth
+sippto,Tobias,Sippel,1988-03-22,GER,7,21,P,0,0,0,0,tobias-sippel
+sommya,Yann,Sommer,1988-12-17,SUI,7,1,P,0,0,0,0,yann-sommer
+brouro,Roel,Brouwers,1981-11-28,NED,7,4,F,0,0,0,0,roel-brouwers
+chrian,Andreas,Christensen,1996-04-10,DEN,7,3,F,0,0,0,0,andreas-christensen
+domido, ,Domínguez,1989-05-16,SPA,7,15,F,0,0,0,0,dominguez_4
+elveni,Nico,Elvedi,1996-09-30,SUI,7,30,F,0,0,0,0,nico-elvedi
+hintma,Martin,Hinteregger,1992-09-07,AUT,7,5,F,0,0,0,0,martin-hinteregger_2
+jantto,Tony,Jantschke,1990-04-07,GER,7,24,F,0,0,0,0,tony-jantschke
+korbju,Julian,Korb,1992-03-21,GER,7,27,F,0,0,0,0,julian-korb
+schum6,Marvin,Schulz,1995-01-15,GER,7,18,F,0,0,0,0,marvin-schulz_2
+schuni,Nico,Schulz,1993-04-01,GER,7,14,F,0,0,0,0,nico-schulz
+strama,Martin,Stranzl,1980-06-16,AUT,7,39,F,0,0,0,0,martin-stranzl
+wendos,Oscar,Wendt,1985-10-24,SWE,7,17,F,0,0,0,0,oscar-wendt
+dahoma,Mahmoud,Dahoud,1996-01-01,GER,7,8,M,0,0,0,0,mahmoud-dahoud
+hahna1,André,Hahn,1990-08-13,GER,7,28,M,0,0,0,0,andre-hahn
+hazath,Thorgan,Hazard,1993-03-29,BEL,7,10,M,0,0,0,0,thorgan-hazard
+herrp1,Patrick,Herrmann,1991-02-12,GER,7,7,M,0,0,0,0,patrick-herrmann_2
+hofmj1,Jonas,Hofmann,1992-07-14,GER,7,23,M,0,0,0,0,jonas-hofmann
+johnfa,Fabian,Johnson,1987-12-11,USA,7,19,M,0,0,0,0,fabian-johnson
+ndentw,Tsiy William,Ndenge,1997-06-13,GER,7,44,M,0,0,0,0,tsiy-william-ndenge
+nordha,Håvard,Nordtveit,1990-06-21,NOR,7,6,M,0,0,0,0,havard-nordtveit
+ruetni,Nils,Rütten,1995-07-20,GER,7,36,M,0,0,0,0,nils-ruetten
+sowxdj,Djibril,Sow,1997-02-06,SUI,7,20,M,0,0,0,0,djibril-sow
+stinla,Lars,Stindl,1988-08-26,GER,7,13,M,0,0,0,0,lars-stindl
+traoib,Ibrahima,Traoré,1988-04-21,GUI,7,16,M,0,0,0,0,ibrahima-traore
+xhakgr,Granit,Xhaka,1992-09-27,SUI,7,34,M,0,0,0,0,granit-xhaka
+hrgobr,Branimir,Hrgota,1993-01-12,SWE,7,31,A,0,0,0,0,branimir-hrgota
+raffra, ,Raffael,1985-03-28,BRA,7,11,A,0,0,0,0,raffael
+tonera,Raffael,Tonello,1974-06-14,ITA,7,11,A,0,0,0,0,raffael-tonello
+rittma,Marlon,Ritter,1994-10-15,GER,7,36,A,0,0,0,0,marlon-ritter
+drmijo,Josip,Drmić,1992-08-08,SUI,7, , ,0,0,0,0,josip-drmic
 kresda,Dario,Krešić,1984-01-11,CRO,9,25,P,0,0,0,0,dario-kresic
 lenobe,Bernd,Leno,1992-03-04,GER,9,1,P,0,0,0,0,bernd-leno
 yellda,David,Yelldell,1981-10-01,USA,9,22,P,0,0,0,0,david-yelldell

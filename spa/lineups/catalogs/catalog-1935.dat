@@ -18,31 +18,6 @@ hilaju, ,Hilario,1905-12-08,SPA,0, ,A,0,0,0,0,hilario_2
 lazcja, ,Lazcano,1909-12-30,SPA,0, ,A,0,0,0,0,lazcano
 amorlo,Losada,Amor,1910-01-01,SPA,0, ,A,0,0,0,0,losada-amor
 sanuil, ,Sañudo,1912-01-23,SPA,0, ,A,0,0,0,0,sanudo
-franjo, ,Francàs,1915-10-09,SPA,1, ,P,0,0,0,0,francas
-noguju, ,Nogués,1909-03-28,SPA,1, ,P,0,0,0,0,nogues
-vascja, ,Vasconcellos,1905-05-14,BRA,1, ,P,0,0,0,0,vasconcellos
-alcofr, ,Alcoriza,1903-06-15,SPA,1, ,F,0,0,0,0,alcoriza
-aranjo, ,Arana,1912-04-27,SPA,1, ,F,0,0,0,0,arana_2
-guzmra, ,Guzman,1901-09-22,SPA,1, ,F,0,0,0,0,guzman_2
-masxra,Rafa,Mas,1908-05-09,SPA,1, ,F,0,0,0,0,rafa-mas
-zabara, ,Zabalo,1910-06-10,SPA,1, ,F,0,0,0,0,zabalo
-berkel,Elemer,Berkessy,1905-06-20,HUN,1, ,M,0,0,0,0,elemer-berkessy
-florfr,Franco,Florensa,1911-10-25,SPA,1, ,M,0,0,0,0,franco-florensa
-lecura, ,Lecuona,1913-03-16,SPA,1, ,M,0,0,0,0,lecuona
-perspa, ,Padrón,1906-05-05,SPA,1, ,M,0,0,0,0,padron-person
-pedres, ,Pedrol,1909-10-21,SPA,1, ,M,0,0,0,0,pedrol
-raicjo, ,Raich,1913-08-28,SPA,1, ,M,0,0,0,0,raich
-ruando, ,Ruano,1913-02-21,SPA,1, ,M,0,0,0,0,ruano_2
-usonsa,Salas,Usón,1910-05-17,SPA,1, ,M,0,0,0,0,salas-uson
-saursa, ,Saurina,0000-00-00,SPA,1, ,M,0,0,0,0,saurina
-solesa, ,Soler,0000-00-00,SPA,1, ,M,0,0,0,0,soler_6
-trujju, ,Trujillo,1913-06-29,SPA,1, ,M,0,0,0,0,trujillo
-cabama, ,Cabanes,1914-01-06,SPA,1, ,A,0,0,0,0,cabanes
-escojo, ,Escola,1914-08-28,SPA,1, ,A,0,0,0,0,escola
-moreal,Alejandro,Morera,1909-07-14,CRC,1, ,A,0,0,0,0,alejandro-morera
-pagepa, ,Pages,0000-00-00,SPA,1, ,A,0,0,0,0,pages
-perara,Ramon,Pera,1909-02-22,SPA,1, ,A,0,0,0,0,ramon-pera
-ventma, ,Ventolrá,1906-12-16,SPA,1, ,A,0,0,0,0,ventolra
 beriti, ,Beristáin,1904-12-06,SPA,10, ,P,0,0,0,0,beristain
 rojofl, ,Rojo,1913-06-23,SPA,10, ,P,0,0,0,0,rojo
 aranne, ,Arana,1908-12-19,SPA,10, ,F,0,0,0,0,arana
@@ -77,12 +52,57 @@ casuju, ,Casuco,1911-10-13,SPA,16, ,M,0,0,0,0,casuco
 chusje, ,Chus,1911-05-13,SPA,16, ,M,0,0,0,0,chus_2
 gallri, ,Gallart,1907-01-16,SPA,16, ,M,0,0,0,0,gallart_3
 alonje,Jesús,Alonso,1917-04-24,CUB,16, ,M,0,0,0,0,jesus-alonso
-lavica, ,Laviaga,1915-05-16,MEX,16, ,M,0,0,0,0,laviaga
+lavica, ,Laviaga,1915-05-16,MEX,16, ,M,0,0,0,0,carlos-laviada_2
 sirisi, ,Sirio,1909-11-10,SPA,16, ,M,0,0,0,0,sirio
 solaen, ,Soladrero,1913-04-30,SPA,16, ,M,0,0,0,0,soladrero
 garcem,Emilín,García,1912-09-12,SPA,16, ,A,0,0,0,0,emilin-garcia
 herred, ,Herrerita,1914-07-05,SPA,16, ,A,0,0,0,0,herrerita
 langis, ,Lángara,1912-05-25,SPA,16, ,A,0,0,0,0,langara
+franjo, ,Francàs,1915-10-09,SPA,1, ,P,0,0,0,0,francas
+noguju, ,Nogués,1909-03-28,SPA,1, ,P,0,0,0,0,nogues
+vascja, ,Vasconcellos,1905-05-14,BRA,1, ,P,0,0,0,0,vasconcellos
+alcofr, ,Alcoriza,1903-06-15,SPA,1, ,F,0,0,0,0,alcoriza
+aranjo, ,Arana,1912-04-27,SPA,1, ,F,0,0,0,0,arana_2
+guzmra, ,Guzman,1901-09-22,SPA,1, ,F,0,0,0,0,guzman_2
+masxra,Rafa,Mas,1908-05-09,SPA,1, ,F,0,0,0,0,rafa-mas
+zabara, ,Zabalo,1910-06-10,SPA,1, ,F,0,0,0,0,zabalo
+berkel,Elemer,Berkessy,1905-06-20,HUN,1, ,M,0,0,0,0,elemer-berkessy
+florfr,Franco,Florensa,1911-10-25,SPA,1, ,M,0,0,0,0,franco-florensa
+lecura, ,Lecuona,1913-03-16,SPA,1, ,M,0,0,0,0,lecuona
+perspa, ,Padrón,1906-05-05,SPA,1, ,M,0,0,0,0,padron-person
+pedres, ,Pedrol,1909-10-21,SPA,1, ,M,0,0,0,0,pedrol
+raicjo, ,Raich,1913-08-28,SPA,1, ,M,0,0,0,0,raich
+ruando, ,Ruano,1913-02-21,SPA,1, ,M,0,0,0,0,ruano_2
+usonsa,Salas,Usón,1910-05-17,SPA,1, ,M,0,0,0,0,salas-uson
+saursa, ,Saurina,0000-00-00,SPA,1, ,M,0,0,0,0,saurina
+solesa, ,Soler,0000-00-00,SPA,1, ,M,0,0,0,0,soler_6
+trujju, ,Trujillo,1913-06-29,SPA,1, ,M,0,0,0,0,trujillo
+cabama, ,Cabanes,1914-01-06,SPA,1, ,A,0,0,0,0,cabanes
+escojo, ,Escola,1914-08-28,SPA,1, ,A,0,0,0,0,escola
+moreal,Alejandro,Morera,1909-07-14,CRC,1, ,A,0,0,0,0,alejandro-morera
+pagepa, ,Pages,0000-00-00,SPA,1, ,A,0,0,0,0,pages
+perara,Ramon,Pera,1909-02-22,SPA,1, ,A,0,0,0,0,ramon-pera
+ventma, ,Ventolrá,1906-12-16,SPA,1, ,A,0,0,0,0,ventolra
+cuevpe, ,Cuevas,0000-00-00,SPA,20, ,P,0,0,0,0,cuevas
+pedrju, ,Pedrosa,1906-08-14,SPA,20, ,P,0,0,0,0,pedrosa_3
+araujo, ,Arauna,0000-00-00,SPA,20, ,F,0,0,0,0,arauna
+cebafe, ,Ceballos,1909-11-09,SPA,20, ,F,0,0,0,0,ceballos_2
+illafl, ,Illardia,0000-00-00,SPA,20, ,F,0,0,0,0,illardia
+garcvi,Víctor,García,1915-07-15,SPA,20, ,F,0,0,0,0,victor-garcia
+garcfe, ,García,1912-12-20,SPA,20, ,M,0,0,0,0,garcia
+gomege,Germán,Gómez,1914-01-05,SPA,20, ,M,0,0,0,0,german-gomez
+ibarma, ,Ibarra,1907-08-31,SPA,20, ,M,0,0,0,0,ibarra
+larren, ,Larrinaga,1911-06-08,SPA,20, ,M,0,0,0,0,larrinaga
+allepe,Pérez,Allende,1911-06-02,SPA,20, ,M,0,0,0,0,perez-allende
+pombpa, ,Pombo,1916-06-13,SPA,20, ,M,0,0,0,0,pombo_2
+riveri, ,Rivero,0000-00-00,SPA,20, ,M,0,0,0,0,rivero_5
+echeru,Ruiz,Echevarría,0000-00-00,SPA,20, ,M,0,0,0,0,ruiz-echevarria
+yayosa, ,Yayo,1914-05-15,SPA,20, ,M,0,0,0,0,yayo
+alonma,Manuel,Alonso,0000-00-00,MEX,20, ,A,0,0,0,0,manuel-alonso
+artejo, ,Arteche,1912-03-19,SPA,20, ,A,0,0,0,0,arteche
+ciscfr, ,Cisco,0000-00-00,SPA,20, ,A,0,0,0,0,cisco
+fuenld,Luis de la,Fuente,1914-01-17,MEX,20, ,A,0,0,0,0,luis-de-la-fuente
+telecl, ,Telete,1905-08-04,SPA,20, ,A,0,0,0,0,telete
 guilgu, ,Guillermo,1910-03-21,SPA,2, ,P,0,0,0,0,guillermo
 pachsa, ,Pacheco,1909-11-11,SPA,2, ,P,0,0,0,0,pacheco_2
 alejal, ,Alejandro,1906-02-22,SPA,2, ,F,0,0,0,0,alejandro_2
@@ -105,26 +125,6 @@ lafura, ,Lafuente,1907-12-31,SPA,2, ,A,0,0,0,0,lafuente_2
 marilu, ,Marin,1906-09-04,SPA,2, ,A,0,0,0,0,marin
 mendra, ,Mendizabal,1914-11-05,SPA,2, ,A,0,0,0,0,mendizabal
 sornng, ,Sornichero,1913-02-16,SPA,2, ,A,0,0,0,0,sornichero
-cuevpe, ,Cuevas,0000-00-00,SPA,20, ,P,0,0,0,0,cuevas
-pedrju, ,Pedrosa,1906-08-14,SPA,20, ,P,0,0,0,0,pedrosa_3
-araujo, ,Arauna,0000-00-00,SPA,20, ,F,0,0,0,0,arauna
-cebafe, ,Ceballos,1909-11-09,SPA,20, ,F,0,0,0,0,ceballos_2
-illafl, ,Illardia,0000-00-00,SPA,20, ,F,0,0,0,0,illardia
-garcvi,Víctor,García,1915-07-15,SPA,20, ,F,0,0,0,0,victor-garcia
-garcfe, ,García,1912-12-20,SPA,20, ,M,0,0,0,0,garcia
-gomege,Germán,Gómez,1914-01-05,SPA,20, ,M,0,0,0,0,german-gomez
-ibarma, ,Ibarra,1907-08-31,SPA,20, ,M,0,0,0,0,ibarra
-larren, ,Larrinaga,1911-06-08,SPA,20, ,M,0,0,0,0,larrinaga
-allepe,Pérez,Allende,1911-06-02,SPA,20, ,M,0,0,0,0,perez-allende
-pombpa, ,Pombo,1916-06-13,SPA,20, ,M,0,0,0,0,pombo_2
-riveri, ,Rivero,0000-00-00,SPA,20, ,M,0,0,0,0,rivero_5
-echeru,Ruiz,Echevarría,0000-00-00,SPA,20, ,M,0,0,0,0,ruiz-echevarria
-yayosa, ,Yayo,1914-05-15,SPA,20, ,M,0,0,0,0,yayo
-alonma,Manuel,Alonso,0000-00-00,MEX,20, ,A,0,0,0,0,manuel-alonso
-artejo, ,Arteche,1912-03-19,SPA,20, ,A,0,0,0,0,arteche
-ciscfr, ,Cisco,0000-00-00,SPA,20, ,A,0,0,0,0,cisco
-fuenld,Luis de la,Fuente,1914-01-17,MEX,20, ,A,0,0,0,0,luis-de-la-fuente
-telecl, ,Telete,1905-08-04,SPA,20, ,A,0,0,0,0,telete
 aknaja,János,Aknai,1908-00-00,HUN,3, ,P,0,0,0,0,janos-aknai
 persca, ,Cano,1907-09-07,SPA,3, ,P,0,0,0,0,cano-person
 nebora, ,Nebot,1910-06-27,SPA,3, ,P,0,0,0,0,nebot
@@ -170,27 +170,6 @@ eliche, ,Elices,1914-04-13,SPA,5, ,A,0,0,0,0,elices
 gorogu, ,Gorostiza,1909-02-15,SPA,5, ,A,0,0,0,0,gorostiza
 irarjo, ,Iraragorri,1912-03-16,SPA,5, ,A,0,0,0,0,iraragorri
 mandjo, ,Mandalúniz,1910-03-19,SPA,5, ,A,0,0,0,0,mandaluniz
-eizagu, ,Eizaguirre,1909-05-27,SPA,6, ,P,0,0,0,0,eizaguirre
-ayuevi, ,Ayuela,1912-08-22,SPA,6, ,F,0,0,0,0,ayuela
-devaes, ,Deva,1910-08-03,SPA,6, ,F,0,0,0,0,deva
-euskpe, ,Euskalduna,1911-01-20,SPA,6, ,F,0,0,0,0,euskalduna
-huesan, ,Huesa,1911-12-19,SPA,6, ,F,0,0,0,0,huesa
-rodral,Alcázar,Rodríguez,1912-12-27,SPA,6, ,M,0,0,0,0,alcazar-rodriguez
-epeljo, ,Epelde,1907-05-25,SPA,6, ,M,0,0,0,0,epelde
-fedefe, ,Fede,1912-10-14,SPA,6, ,M,0,0,0,0,fede
-silvnu,Nuñez,Silva,1915-09-15,SPA,6, ,M,0,0,0,0,nunez-silva
-sancm1, ,Sánchez,1916-10-22,SPA,6, ,M,0,0,0,0,sanchez_8
-seguan, ,Segura,1912-09-12,SPA,6, ,M,0,0,0,0,segura
-tachfl, ,Tache,1910-01-21,SPA,6, ,M,0,0,0,0,tache
-tejalu, ,Tejada,1911-05-18,SPA,6, ,M,0,0,0,0,tejada
-bracad, ,Bracero,1909-10-22,SPA,6, ,A,0,0,0,0,bracero
-campgu, ,Campanal,1912-02-09,SPA,6, ,A,0,0,0,0,campanal
-caroan, ,Caro,1913-01-20,SPA,6, ,A,0,0,0,0,caro
-cortra, ,Cortón,1914-10-23,SPA,6, ,A,0,0,0,0,corton
-martlo,López,Martínez,1914-06-09,SPA,6, ,A,0,0,0,0,lopez-martinez
-palema, ,Palencia,1913-05-19,SPA,6, ,A,0,0,0,0,palencia_2
-torrmi, ,Torrontegui,1913-07-14,SPA,6, ,A,0,0,0,0,torrontegui
-virijo, ,Viri,0000-00-00,SPA,6, ,A,0,0,0,0,viri
 egusra, ,Egusquiza,1912-02-05,SPA,65, ,P,0,0,0,0,egusquiza
 jaurpa, ,Jáuregui,1910-05-04,SPA,65, ,P,0,0,0,0,jauregui_3
 albeba, ,Albeniz,1905-01-06,SPA,65, ,F,0,0,0,0,albeniz_2
@@ -218,6 +197,27 @@ pascp1, ,Pascual,1913-10-23,SPA,65, ,A,0,0,0,0,pascual_3
 yermjo, ,Yermo,1903-06-21,SPA,65, ,A,0,0,0,0,yermo
 zarrdo, ,Zarraonaindía,1915-11-20,SPA,65, ,A,0,0,0,0,zarraonaindia_2
 planjo,Josep,Planas,1901-04-14,SPA,65, ,P,0,0,0,0,josep-planas
+eizagu, ,Eizaguirre,1909-05-27,SPA,6, ,P,0,0,0,0,eizaguirre
+ayuevi, ,Ayuela,1912-08-22,SPA,6, ,F,0,0,0,0,ayuela
+devaes, ,Deva,1910-08-03,SPA,6, ,F,0,0,0,0,deva
+euskpe, ,Euskalduna,1911-01-20,SPA,6, ,F,0,0,0,0,euskalduna
+huesan, ,Huesa,1911-12-19,SPA,6, ,F,0,0,0,0,huesa
+rodral,Alcázar,Rodríguez,1912-12-27,SPA,6, ,M,0,0,0,0,alcazar-rodriguez
+epeljo, ,Epelde,1907-05-25,SPA,6, ,M,0,0,0,0,epelde
+fedefe, ,Fede,1912-10-14,SPA,6, ,M,0,0,0,0,fede
+silvnu,Nuñez,Silva,1915-09-15,SPA,6, ,M,0,0,0,0,nunez-silva
+sancm1, ,Sánchez,1916-10-22,SPA,6, ,M,0,0,0,0,sanchez_8
+seguan, ,Segura,1912-09-12,SPA,6, ,M,0,0,0,0,segura
+tachfl, ,Tache,1910-01-21,SPA,6, ,M,0,0,0,0,tache
+tejalu, ,Tejada,1911-05-18,SPA,6, ,M,0,0,0,0,tejada
+bracad, ,Bracero,1909-10-22,SPA,6, ,A,0,0,0,0,bracero
+campgu, ,Campanal,1912-02-09,SPA,6, ,A,0,0,0,0,campanal
+caroan, ,Caro,1913-01-20,SPA,6, ,A,0,0,0,0,caro
+cortra, ,Cortón,1914-10-23,SPA,6, ,A,0,0,0,0,corton
+martlo,López,Martínez,1914-06-09,SPA,6, ,A,0,0,0,0,lopez-martinez
+palema, ,Palencia,1913-05-19,SPA,6, ,A,0,0,0,0,palencia_2
+torrmi, ,Torrontegui,1913-07-14,SPA,6, ,A,0,0,0,0,torrontegui
+virijo, ,Viri,0000-00-00,SPA,6, ,A,0,0,0,0,viri
 espijo, ,Espinosa,1913-06-14,SPA,7, ,P,0,0,0,0,espinosa_4
 urqujo, ,Urquiaga,1910-03-29,SPA,7, ,P,0,0,0,0,urquiaga_2
 aedose, ,Aedo,1908-11-11,SPA,7, ,F,0,0,0,0,aedo

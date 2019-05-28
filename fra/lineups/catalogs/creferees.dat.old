@@ -1,4 +1,4 @@
-344
+351
 abedka,Abed,Karim,Karim Abed,18/12/1988,FRA, ,FRA,karim-abed
 almesd,De Almeida,Stéphane,Stéphane De Almeida, ,SUI, ,SUI,stephane-de-almeida
 amiobe,Amiotte,Bernard,Bernard Amiotte, ,FRA, ,FRA,bernard-amiotte
@@ -16,7 +16,9 @@ barbjo,Barbéran,Joseph,Joseph Barbéran,21/02/1925,FRA,Valdenobres,SPA,joseph-b
 bardro,Barde,Roger,Roger Barde,00/00/1921,FRA, ,FRA,roger-barde
 barrfr,Barrat,Frédéric,Frédéric Barrat,25/12/1968,FRA,Metz,FRA,frederic-barrat
 bastbe,Bastien,Benoît,Benoît Bastien,17/04/1983,FRA,Epinal,FRA,benoit-bastien
+battfl,Batta,Florent,Florent Batta,14/06/1980,FRA,Marseille,FRA,florent-batta
 battma,Batta,Marc,Marc Batta,01/11/1953,FRA,Marseille,FRA,marc-batta
+bedole,El Bedoui,Lakhdar,Lakhdar El Bedoui,09/07/1988,FRA, ,FRA,lakhdar-el-bedoui
 behaph,Behague,Philippe,Philippe Behague,19/03/1965,FRA,La Bassée,FRA,philippe-behague
 benamo,Benali,Mohamed,Mohamed Benali, ,FRA, ,FRA,mohamed-benali
 bencfa,Benchabane,Faouzi,Faouzi Benchabane,24/08/1989,FRA, ,FRA,faouzi-benchabane
@@ -27,6 +29,7 @@ bercmi,Berchebru,Mikael,Mikael Berchebru,08/03/1984,FRA, ,FRA,mikael-berchebru
 bergal,Berg,Alfons,Alfons Berg,10/10/1955,GER, ,GER,alfons-berg
 berlhu,Berly,Hugues,Hugues Berly,17/08/1972,FRA,Denain,FRA,hugues-berly
 bernod,di Bernardo,Ottorino,Ottorino di Bernardo, ,FRA, ,FRA,ottorino-di-bernardo
+bertau,Berthomieu,Aurélien,Aurélien Berthomieu, ,FRA, ,FRA,aurelien-berthomieu
 besoga,Besory,Gabriel,Gabriel Besory, ,FRA, ,FRA,gabriel-besory
 bienwi,Bien,Wilfried,Wilfried Bien,10/05/1974,FRA,Chambéry,FRA,wilfried-bien
 biguge,Biguet,Gérard,Gérard Biguet,16/06/1946,FRA, ,FRA,gerard-biguet
@@ -89,6 +92,7 @@ davicl,David,Claude,Claude David, ,FRA, ,FRA,claude-david
 debach,Debart,Christophe,Christophe Debart,30/12/1974,FRA, ,FRA,christophe-debart
 debagu,Debart,Guillaume,Guillaume Debart,17/05/1978,FRA,Amiens,FRA,guillaume-debart
 debran,Debroas,André,André Debroas, ,FRA, ,FRA,andre-debroas
+delawi,Delajod,Willy,Willy Delajod,25/09/1992,FRA, ,FRA,willy-delajod
 deleam,Delerue,Amaury,Amaury Delerue,06/06/1977,FRA,Luzy,FRA,amaury-delerue
 deleeu,Deleplace,Eugène,Eugène Deleplace, ,FRA, ,FRA,eugene-deleplace
 delmal,Delmer,Alain,Alain Delmer,00/00/1944,FRA, ,FRA,alain-delmer
@@ -265,6 +269,7 @@ philtu,Philippe,Tugdual,Tugdual Philippe,10/06/1974,FRA,Rennes,FRA,tugdual-phili
 picche,Piccirillo,Hervé,Hervé Piccirillo,06/03/1967,FRA,Martigues,FRA,herve-piccirillo
 pignje,Pignard,Jérémie,Jérémie Pignard, ,FRA, ,FRA,jeremie-pignard
 pignma,Pignol,Marcel,Marcel Pignol, ,FRA, ,FRA,marcel-pignol
+pignst,Pignatelli,Stephan,Stephan Pignatelli,13/08/1981,FRA, ,FRA,stephan-pignatelli
 planfa,Plancon,Fabrice,Fabrice Plancon,02/10/1973,FRA, ,FRA,fabrice-plancon
 planjl,Planchez,Jean-Louis,Jean-Louis Planchez,02/06/1959,FRA, ,FRA,jean-louis-planchez
 poncra,Poncin,Raymond,Raymond Poncin,00/00/1926,FRA, ,FRA,raymond-poncin
@@ -306,6 +311,7 @@ simopi,Simon,Pierric,Pierric Simon, ,FRA, ,FRA,pierric-simon
 soulda,Soulerot,Daniel,Daniel Soulerot, ,FRA, ,FRA,daniel-soulerot
 steiro,Steiner,Robert,Robert Steiner, ,FRA, ,FRA,robert-steiner_3
 stiela,Stien,Laurent,Laurent Stien,17/11/1973,FRA,Metz,FRA,laurent-stien
+stinje,Stinat,Jérémy,Jérémy Stinat,15/12/1978,FRA, ,FRA,jeremy-stinat_2
 swirjc,Swirog,Jean-Claude,Jean-Claude Swirog, ,FRA, ,FRA,jean-claude-swirog
 taxial,Taxil,Alain,Alain Taxil,05/06/1967,FRA,Marseille,FRA,alain-taxil
 tellcl,Tellène,Claude,Claude Tellène,30/03/1952,FRA, ,FRA,claude-tellene
@@ -332,6 +338,7 @@ vienne,Viennot,Nelly,Nelly Viennot,08/01/1962,FRA,Flers,FRA,nelly-viennot
 viglre,Vigliani,René,René Vigliani,24/07/1929,FRA, ,FRA,rene-vigliani
 vilepa,Vileo,Pascal,Pascal Vileo,27/04/1967,FRA,Villeneuve sur Lot,FRA,pascal-vileo
 vuilan,Vuillemin,André,André Vuillemin, ,FRA, ,FRA,andre-vuillemin
+watter,Wattellier,Eric,Eric Wattellier,07/09/1987,FRA, ,FRA,eric-wattellier
 wattwa,Wattiez, ,Wattiez, ,FRA, ,FRA,wattiez
 wichjy,Wicht,Jean Yves,Jean Yves Wicht,17/01/1980,SUI, ,SUI,jean-yves-wicht
 wurtro,Wurtz,Robert Charles Paul,Robert Charles Paul Wurtz,16/11/1941,FRA,Strasbourg,FRA,robert-wurtz

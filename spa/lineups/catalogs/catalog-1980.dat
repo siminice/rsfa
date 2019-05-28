@@ -52,7 +52,7 @@ ucedmi, ,Uceda,1952-02-02,SPA,13, ,F,0,0,0,0,uceda_2
 custpe,Pedro,Custodio,1953-08-09,URU,13, ,M,0,0,0,0,pedro-custodio
 fermjo, ,Fermin,1948-03-14,SPA,13, ,M,0,0,0,0,fermin_5
 franen, ,Francisco,1950-01-21,SPA,13, ,M,0,0,0,0,francisco_2
-maril1, ,Marián,1959-12-19,SPA,13, ,M,0,0,0,0,marian
+maril1, ,Marián,1959-12-19,SPA,13, ,M,0,0,0,0,marian-diaz
 barbma,Mariano,Barbero,1954-04-21,SPA,13, ,M,0,0,0,0,mariano-barbero
 matera, ,Maté,1955-03-10,SPA,13, ,M,0,0,0,0,mate
 solspu,Puig,Solsona,1952-10-31,SPA,13, ,M,0,0,0,0,puig-solsona
@@ -299,7 +299,7 @@ aguepe,Pérez,Aguerri,1955-09-25,SPA,4, ,M,0,0,0,0,perez-aguerri
 munovi,Víctor,Muñoz,1957-03-15,SPA,4, ,M,0,0,0,0,victor-munoz
 amorjo, ,Amorrortu,1953-07-22,SPA,4, ,A,0,0,0,0,amorrortu
 juanjI, ,Juanjo,1949-10-15,SPA,4, ,A,0,0,0,0,juanjo_6
-modemo, ,Modesto,1959-11-07,SPA,4, ,A,0,0,0,0,modesto_2
+modemo, ,Modesto,1959-11-07,SPA,4, ,A,0,0,0,0,perez
 alonp2,Pichi,Alonso,1953-02-01,SPA,4, ,A,0,0,0,0,pichi-alonso
 valdj2,Jorge,Valdano,1955-10-04,ARG,4, ,A,0,0,0,0,jorge-valdano
 cendju, ,Cendoya,1954-08-27,SPA,56, ,P,0,0,0,0,cendoya
@@ -374,7 +374,7 @@ monten, ,Montero,1954-12-28,SPA,6, ,M,0,0,0,0,montero_2
 sanjfr, ,Sanjosé,1952-11-12,SPA,6, ,M,0,0,0,0,sanjose
 varefr, ,Varela,1956-09-25,SPA,6, ,M,0,0,0,0,varela_6
 bertda,Daniel,Bertoni,1955-03-14,ARG,6, ,A,0,0,0,0,daniel-bertoni
-joaqj3, ,Joaquín,1959-08-12,SPA,6, ,A,0,0,0,0,joaquin_6
+joaqj3, ,Joaquín,1959-08-12,SPA,6, ,A,0,0,0,0,jose-pichardo
 muruda,Daniel,Murúa,1957-03-15,ARG,6, ,A,0,0,0,0,daniel-murua
 scothe,Héctor,Scotta,1950-09-27,ARG,6, ,A,0,0,0,0,hector-scotta
 yiyifr, ,Yiyi,1953-07-04,SPA,6, ,A,0,0,0,0,yiyi
@@ -385,7 +385,7 @@ alexal, ,Alex,1957-12-25,SPA,7, ,F,0,0,0,0,alex_16
 biosan, ,Biosca,1949-12-08,SPA,7, ,F,0,0,0,0,biosca
 bizcfr, ,Bizcocho,1951-01-22,SPA,7, ,F,0,0,0,0,bizcocho
 coboju, ,Cobo,1948-04-15,SPA,7, ,F,0,0,0,0,cobo_2
-garcf3,Francis,García,1960-01-09,SPA,7, ,F,0,0,0,0,francis-garcia
+garcf3,Francis,García,1960-01-09,SPA,7, ,F,0,0,0,0,garcia_7
 jesuge,Gerardo,Jesús,1955-01-03,SPA,7, ,F,0,0,0,0,gerardo-jesus
 pelajo, ,Pelayo,1957-03-24,SPA,7, ,F,0,0,0,0,pelayo_2
 peruca,Carlos,Peruena,1955-03-13,URU,7, ,F,0,0,0,0,carlos-peruena
@@ -402,7 +402,7 @@ cabehu,Hugo,Cabezas,1955-03-16,URU,7, ,A,0,0,0,0,hugo-cabezas
 moraen, ,Moran,1953-10-15,SPA,7, ,A,0,0,0,0,moran_2
 tellj1, ,Tello,1959-04-15,SPA,7, ,A,0,0,0,0,tello_2
 villm2, ,Villalba,1954-01-09,SPA,7, ,A,0,0,0,0,villalba_2
-vitafr, ,Vital,1954-06-27,POR,7, ,A,0,0,0,0,vital_3
+vitafr, ,Vital,1954-06-27,POR,7, ,A,0,0,0,0,francisco-vital
 olivan, ,Oliveira,1952-06-10,POR,7, , ,0,0,0,0,oliveira
 durami, ,Durán,1957-02-03,SPA,9, ,P,0,0,0,0,duran_8
 pereed,Eduardo,Pereira,1954-03-21,URU,9, ,P,0,0,0,0,eduardo-pereira

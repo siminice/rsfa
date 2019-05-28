@@ -128,7 +128,7 @@ zambma, ,Zambrano,1962-03-08,SPA,15, ,M,0,0,0,0,zambrano
 herng1,Gabi,Hernandez,1964-04-14,SPA,15, ,A,0,0,0,0,gabi-hernandez
 hurtjo,José,Hurtado,1959-08-01,SPA,15, ,A,0,0,0,0,jose-hurtado
 micazl,Zlatomir,Micanovic,1954-12-08,YUG,15, ,A,0,0,0,0,zlatomir-micanovic
-modemo, ,Modesto,1959-11-07,SPA,15, ,A,0,0,0,0,modesto_2
+modemo, ,Modesto,1959-11-07,SPA,15, ,A,0,0,0,0,perez
 ramof1, ,Ramos,1962-10-04,SPA,15, ,A,0,0,0,0,ramos_3
 tellj1, ,Tello,1959-04-15,SPA,15, ,A,0,0,0,0,tello_2
 totoa1, ,Toto,1959-01-21,SPA,15, ,A,0,0,0,0,toto_2
@@ -197,7 +197,7 @@ archst,Steve,Archibald,1956-09-27,SCO,1, ,A,0,0,0,0,steve-archibald
 carrfr, ,Carrasco,1959-03-06,SPA,1, ,A,0,0,0,0,carrasco
 closfr, ,Clos,1960-08-08,SPA,1, ,A,0,0,0,0,clos
 loboma, ,Lobo,1964-02-16,SPA,1, ,A,0,0,0,0,lobo
-lopel1,López,López,1965-11-19,SPA,1, ,A,0,0,0,0,lopez-lopez_2
+lopel1,López,López,1965-11-19,SPA,1, ,A,0,0,0,0,francisco-lopez_12
 alonm1,Marcos,Alonso,1959-10-01,SPA,1, ,A,0,0,0,0,marcos-alonso
 alonp2,Pichi,Alonso,1953-02-01,SPA,1, ,A,0,0,0,0,pichi-alonso
 rojoju, ,Rojo,1959-11-17,SPA,1, ,A,0,0,0,0,rojo_2
@@ -425,7 +425,7 @@ tendmi, ,Tendillo,1961-02-01,SPA,3, ,F,0,0,0,0,tendillo
 angejo, ,Ángel,1964-00-00,SPA,3, ,M,0,0,0,0,angel_6
 arroca, ,Arroyo,1966-02-16,SPA,3, ,M,0,0,0,0,arroyo
 cuxajo, ,Cuxart,1962-07-04,SPA,3, ,M,0,0,0,0,cuxart_2
-fernf3, ,Fernando,1965-09-11,SPA,3, ,M,0,0,0,0,fernando_2
+fernf3, ,Fernando,1965-09-11,SPA,3, ,M,0,0,0,0,fernando-gomez_3
 ferrfr, ,Ferrando,1962-08-22,SPA,3, ,M,0,0,0,0,ferrando
 huezju, ,Huezo,0000-00-00,SPA,3, ,M,0,0,0,0,huezo
 palovi, ,Palonés,1961-07-15,SPA,3, ,M,0,0,0,0,palones
@@ -440,7 +440,7 @@ sixtsi, ,Sixto,1962-01-08,SPA,3, ,A,0,0,0,0,sixto
 urruju,Juan,Urruti,1962-05-24,ARG,3, ,A,0,0,0,0,juan-urruti
 cedran, ,Cedrún,1960-06-05,SPA,4, ,P,0,0,0,0,cedrun
 etxela, ,Etxeberria,1966-11-17,SPA,4, ,P,0,0,0,0,etxeberria_2
-pereru,Ruiz,Pérez,1962-12-03,SPA,4, ,P,0,0,0,0,ruiz-perez
+pereru,Ruiz,Pérez,1962-12-03,SPA,4, ,P,0,0,0,0,manolo-ruiz
 vitaeu, ,Vitaller,1958-12-26,SPA,4, ,P,0,0,0,0,vitaller
 aldeig, ,Aldea,1967-01-10,SPA,4, ,F,0,0,0,0,aldea
 beltca, ,Beltrán,1966-08-22,SPA,4, ,F,0,0,0,0,beltran_2
@@ -544,7 +544,7 @@ calljo, ,Calleja,1962-09-25,SPA,7, ,F,0,0,0,0,calleja_5
 camaju, ,Camacho,1964-04-08,SPA,7, ,F,0,0,0,0,camacho_4
 carmc3, ,Carmelo,1959-03-25,SPA,7, ,F,0,0,0,0,carmelo_4
 rodrdi,Diego,Rodríguez,1960-04-20,SPA,7, ,F,0,0,0,0,diego-rodriguez
-garcf3,Francis,García,1960-01-09,SPA,7, ,F,0,0,0,0,francis-garcia
+garcf3,Francis,García,1960-01-09,SPA,7, ,F,0,0,0,0,garcia_7
 garcj2,Julio,García,1965-05-02,SPA,7, ,F,0,0,0,0,julio-garcia
 mantfr, ,Mantilla,1958-01-22,SPA,7, ,F,0,0,0,0,mantilla
 marif1, ,Marin,0000-00-00,SPA,7, ,F,0,0,0,0,marin_4
