@@ -13,8 +13,8 @@
 1900 Neman Stalbţî~Stalbţî*1999 Darîda Stalbţî~Darîda*2002 Darida Jdanovici~Darida*2003 Darida Kunţauşcina~Darida*2004 Darida Minski Raion~Darida
 1800 Neman Grodno~Neman
 1800 Lokomotiv Minsk~Lokomotiv
-1800 Smena Minsk~Smena*1996 Zvezda BDU Minsk~Zvezda*2002 Zvezda BGU Minsk~Zvezda*2010 Zorka BDU Minsk~Zorka*2012 Zvezda BGU Minsk~Zvezda
-1800 Vedrici 97 Rehiţa~Vedrici*2014 FK Rehiţa~Rehiţa*2017 Sputnik Rehiţa~Rehiţa
+1800 Smena Minsk~Smena*1996 Zvezda BDU Minsk~Zvezda*2002 Zvezda BGU Minsk~Zvezda*2010 Zorka BDU Minsk~Zorka*2012 Zvezda BGU Minsk~Zvezda*2018 Energetik BGU Minsk~BGU
+1800 Vedrici 97 Reciţa~Vedrici*2014 FK Reciţa~Reciţa*2017 Sputnik Reciţa~Reciţa
 1800 Stankostroitel Smorgon~Smorgon*1994 FK Smorgon~Smorgon
 1900 Granit Mikaşevici~Mikaşevici*2006 FK Granit Mikaşevici~Mikaşevici
 1800 ZLiN Gomel~ZLiN
@@ -32,7 +32,7 @@
 1800 Smena Minsk~Smena*1996 Smena BATE Minsk~Smena*2001 Smena Minsk~Smena
 1800 Maxim Orşa~Orşa*1996 FK Orşa~Orşa*2010 MOFK Orşa~Orşa
 1900 KRZ Osipovici~Osipovici*1996 Svisloci Krovlia Osipovici~Osipovici*2003 FK Osipovici~Osipovici
-1900 Kommunalnik Pinsk~Pinsk*1997 FK Pinsk-900~Pinsk*2006 Hvalia Pinsk~Pinsk
+1900 Kommunalnik Pinsk~Pinsk*1997 FK Pinsk-900~Pinsk*2006 Volna Pinsk~Pinsk
 1800 Spartak Şklov~Şklov*2001 Spartak VAR Şklov~Şklov
 1800 Livadia Dzerjinsk~Dzerjinsk*2015 FK Krutogorîe Dzerjinsk~Dzerjinsk
 1800 Energhia Jlobin~Jlobin*1997 Kommunalnik Jlobin~Jlobin*2009 FK Jlobin~Jlobin
@@ -48,7 +48,7 @@
 1900 Belarus Minsk~Belarus*1994 Dinamo 93 Minsk~Dinamo 93*2000 Dinamo II Minsk~Dinamo II
 1800 FK Minsk~FK Minsk
 1800 MPKC Minsk~MPKC*1997 RVAR Minsk~RVAR
-1800 Zabudova Molodecino~Zabudova*1999 Zabudova Cisţ~Zabudova*2017 FK Cisţ~Cisţ
+1800 Zabudova Molodecino~Zabudova*1999 Zabudova Cisţ~Zabudova*2017 FK Cisţ~Cisţ*2019 FK Underdogs Cisţ~Cisţ
 1800 Dinamo BNTU Minsk~BNTU
 1800 Skvici Minsk~Skvici
 1900 Stroitel' Starîe Doroghi*2000 FK Starîe Doroghi
@@ -65,7 +65,7 @@
 1800 Miasokombinat Vitebsk~Miasokombinat
 1800 Niva TR Samohvalovici~Samohvalovici*1994 Santanas Samohvalovici~Samohvalovici*2000 BGATU Niva Samohvalovici~Samohvalovici
 1800 FK Gorodeia~Gorodeia
-1800 Khimik Klioţsk~Klioţsk*1993 Rada Klioţsk~Klioţsk*2000 Klecesk Klioţsk~Kliotsk
+1800 Khimik Kleţsk~Kleţsk*1993 Rada Kleţsk~Kleţsk*2000 Klecesk Kleţsk~Kleţsk*2014 FK Kleţsk~Kleţsk
 1800 FK Rudensk~Rudensk
 1800 Academ-Slavia Minsk~Slavia*2001 SKAF Minsk~SKAF
 1800 FK Lunineţ~Lunineţ
@@ -125,9 +125,9 @@
 1800 FK Isloci Minski Raion~Isloci
 1800 FK Miorî~Miorî
 1800 ALF 2007 Minsk~ALF*2014 Luci Minsk~Luci
-1800 IuA-Stroi Jitkovici~Jitkovici
+1800 IuA-Stroi Jitkovici~Jitkovici*2019 UAS Jitkovici~Jitkovici
 1800 Kolos-Drujba Gorodişce~Gorodişce
-1800 Krumkaci Minsk~Krumkaci
+1800 Krumkaci Minsk~Krumkaci*2019 NFK Minsk~NFK
 1800 Prioziorie Verhnedvinsk~Verhnedvisnk
 1800 Jdanovici Minsk~Jdanovici
 1800 Slavianin Minsk~Slavianin
@@ -136,10 +136,12 @@
 1800 Viktoria Marina Gorka~Marina Gorka
 1800 Neman-Agro Stolbţî~Stolbţî
 1800 Montajnik Mozîr~Montajnik
-1800 Energosbît BGATU Minsk~Energosbît
+1800 Energozbît Minsk~Energozbît*2018 Energetik BDATU Minsk~Energetik
 1800 SDIuŞOR-8 Gomel~Sdiuşor-8
 1800 SMI Avtotrans Okteabrski~Okteabrski
-1800 SDIuŞOR-3 Pinsk~Sdiuşor-3
+1800 SDIuŞOR-3 Pinsk~Sdiuşor-3*2019 DIuSŞ-3 Stenles Pinsk~DIuSŞ-3
 1800 FSK Grodnenski Skidel~Skidel
 1800 Bumprom Gomel~Bumprom
 1800 Ruh Brest~Ruh Brest
+1800 Arsenal Dzerjinsk~Arsenal
+1800 Belşina Bobruisk II~Belşina II

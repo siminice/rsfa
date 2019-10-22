@@ -1,4 +1,4 @@
-306
+325
 Benfica        SL Benfica Lisabona
 Porto          FC Porto
 Sporting       Sporting CP Lisabona
@@ -22,7 +22,7 @@ Viseu          Academico Viseu
 Gil Vicente    Gil Vicente Barcelos
 Penafiel       FC Penafiel
 Espinho        SC Espinho
-Pacos          Pa�os de Ferreira
+Pacos          Paços de Ferreira
 Nacional       CD Nacional Madeira
 Rio Ave        Rio Ave FC
 Moreirense     Moreirense FC
@@ -34,7 +34,7 @@ Uniao Madeira  Uniao Madeira
 Ovarense       AD Ovarense
 Felgueiras     Felgueiras
 Aves           CD Aves
-Leca           Le�a FC
+Leca           Leça FC
 Campomaiorense SC Campomaiorense
 Tirsense       FC Tirsense
 Lamas          Uniao Lamas
@@ -47,7 +47,7 @@ Freamunde      Freamunde
 Esposende      Esposende
 Torreense      SCU Torreense
 Feirense       CD Feirense
-Famalicao      FC Famali�ao
+Famalicao      FC Famalicao
 Gondomar       Gondomar
 Olhanense      SC Olhanense
 Beja           Desportivo Beja
@@ -57,17 +57,17 @@ Fafe           AD Fafe
 Elvas          O Elvas CAD
 Vizela         FC Vizela
 Agueda         RD Agueda
-Alcobaca       GC Alcoba�a
+Alcobaca       GC Alcobaça
 Barreirense    FC Barreirense
 Riopele        GD Riopele
 Atletico       Atletico CP
 Montijo        CD Montijo
-Fabril         GD CUF Barreiro
+CUF            GD CUF Barreiro
 Tomar          Uniao de Tomar
 Oriental       Oriental
 Uniao Coimbra  CF Uniao Coimbra
 Sanjoanense    AD Sanjoanense
-Evora          Lusitano Evora
+Lusitano Evora Lusitano Evora
 Seixal         Seixal FC
 Caldas         SC Caldas
 Lusitano VR    Lusitano VRSA
@@ -125,8 +125,8 @@ Vilafranquense Vilafranquense
 Alcains        Alcains
 Vendas Novas   Vendas Novas
 Vasco da Gama  Vasco da Gama
-Braganca       Bragan�a
-Taipas         Ca�ador Taipas
+Braganca       Bragança
+Taipas         Caçador de Taipas
 Coimbra-B      Academico Coimbra B
 Marinhense     Marinhense
 Sporting-B     Sporting Lisabona B
@@ -137,7 +137,7 @@ Canelas        Canelas
 Vianense       Vianense
 Sertanense     Sertanense
 Sao Joao Ver   Sao Joao Ver
-Portalegre     Estrela Portalegre
+Est Portalegre Estrela Portalegre
 Vila Real      Vila Real
 Lamego         Lamego
 Arrifanense    Arrifanense
@@ -154,7 +154,7 @@ Torres Novas   Torres Novas
 Cucujaes       Cucujaes
 Lourinhanense  Lourinhanense
 Sesimbra       Sesimbra
-Lusitania      Lusitania
+Lusitania      Lusitania de Açores
 Aguias CamarateAguias Camarate
 Peniche        Peniche
 Guarda         Guarda
@@ -167,7 +167,7 @@ Tondela        Tondela
 Malveira       Atletico Malveira
 Maria da Fonte Maria da Fonte
 Vila Mea       Vila Mea
-Avan�a         Avan�a
+Avança         Avança
 Mirandense     Mirandense
 Messinense     Messinense
 Electrico      Electrico
@@ -230,7 +230,7 @@ Prado          Prado
 Tadim          Tadim
 Alba           Alba
 Sarilhense     Sarilhense
-Brandao        Pa�os de Brandao
+Brandao        Paços de Brandao
 Regua          Regua
 Marrazes       Marrazes
 Vildemoinhos   Vildemoinhos
@@ -275,7 +275,7 @@ Ouriense       Atletico Ouriense
 Cerveira       CD Cerveira
 Moimenta       CDR Moimenta de Beira
 Mortagua       Mortagua FC
-Vildemoinhos   Lusitano de Vildemoinhos
+Lusitano FCV   Lusitano de Vildemoinhos
 Almancilense   SR Almancilense
 Castrense      FC Castrense
 Aroes          Aroes SC
@@ -287,7 +287,7 @@ Mondinense     Mondinense FC
 Frades         GD Oliveira de Frades
 Varzim-B       Varzim SC (B)
 Ponte da Barca AD Ponte da Barca
-Gandra         FC Alian�a de Gandra
+Gandra         FC Aliança de Gandra
 Moncorvo       GD Torre de Moncorvo
 Oleiros        ARC Oleiros
 Gafetense      GDR Gafetense
@@ -305,3 +305,22 @@ Meda           Sporting Mêda
 Macao          AD Mação
 Santa Iria     CF Santa Iria
 Redondense     Redondense FC
+Sines          Vasco da Gama AC Sines
+Serpa          Futebol Clube de Serpa
+Arroios        CD Arroios
+Mertola        São Domingos Mértola
+Ronfe          Juventude Ronfe
+Amares         FC Amares
+Salir          AC Salir
+Arsenal Braga  Arsenal Braga
+Pedroucos      Pedrouços AC
+Delaes         CRP Delães
+Valpacos       AD Valpaços
+Santacomba     GD Santacombadense
+Fontinhas      GD Fontinhas
+Berco          Berço SC
+Condeixa       Clude de Condeixa ACD
+Figueirense    Ginásio Figueirense
+Sintra         Sintra Football
+Valadares      Valadares Gaia FC
+Castro Daire   AD Castro Daire

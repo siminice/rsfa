@@ -6,11 +6,11 @@
 1800 Grazer AK~GAK
 1800 Linzer ASK~LASK
 1800 Wiener Sportclub~Sportclub
-1945 Admira Wien~Admira*1960 Admira Energie Wien~Admira*1972 Admira Wacker Wien~Admira Wacker*1998 VfB Admira Wacker Mödling~Admira*2009 FC Trenkwalder Admira Wacker~Admira
+1945 Admira Wien~Admira*1960 Admira Energie Wien~Admira*1972 Admira Wacker Wien~Admira Wacker*1998 VfB Admira Wacker Mödling~Admira*2009 FC Trenkwalder Admira Wacker~Admira*2014 FC Admira Wacker Mödling~Admira*2999 Admira Wien~Admira
 1800 First Vienna FC~Vienna
 1800 Favoritner AC~Favorit
-1945 VÖEST Linz~VÖEST*1978 SK VOEST Linz~VOEST*1992 FC Stahl Linz~Stahl Linz*1994 FC Linz~FC Linz*1998 Linzer ASK~LASK
-1800 BSK Voith St. Pölten~~St.Pölten*1970 VSE Sankt Pölten~St.Pölten*2000 SKN Sankt Pölten~St.Pölten
+1945 VÖEST Linz~VÖEST*1978 SK VOEST Linz~VOEST*1992 FC Stahl Linz~Stahl Linz*1994 FC Linz~FC Linz*1998 Linzer ASK~LASK*2999 SK VOEST Linz~VOEST
+1800 BSK Voith St. Pölten~~St.Pölten*1970 VSE Sankt Pölten~St.Pölten*2001 SKN Sankt Pölten~St.Pölten
 1800 SK Vorwärts Steyr~Steyr
 1800 SC Eisenstadt~Eisenstadt
 1900 ASKÖ Pasching~Pasching*2004 SV Pasching~Pasching*2005 FC Superfund Pasching~Pasching*2008 SK Austria Kärnten~Kärnten
@@ -50,7 +50,7 @@
 1800 Oberwart SV~Oberwart
 1800 FC Puch~Puch
 1800 SV Braunau~Braunau
-1800 Wacker Wiener Neustadt SC~Neustadt*1946 Wiener Neustadt SC~Neustadt*2009 FC Magna Wiener Neustadt~Neustadt
+1800 Wacker Wiener Neustadt SC~Neustadt*1946 1 Wiener Neustädter SC~Neustadt*2009 SC Magna Wiener Neustadt~Neustadt
 1945 ASK Klingenbach*2000 FC Klingenbach
 1800 TSV Hartberg~Hartberg
 1800 ASK Kottingbrunn~Kottingbrunn
@@ -60,7 +60,7 @@
 1800 FC Vorarlberg~Vorarlberg
 1800 WSG Radenthein~Radenthein
 1800 SK Bischofshofen~Bischofshofen
-1945 SC Wacker Wien~Wacker*1972 Admira/Wacker Wien~Admira/Wacker
+1945 SC Wacker Wien~Wacker*1972 Admira/Wacker Wien~Admira/Wacker*2999 SC Wacker Wien~Wacker
 1800 SV Thörl~Thorl
 1800 ASK Voitsberg~Voitsberg
 1800 Badener AC~Baden
@@ -113,7 +113,7 @@
 1800 SC Rapid Oberlaa Wien~Oberlaa
 1800 Post SV Wien~Post Wien
 1800 Helfort Wien~Helfort
-1800 SC Admira Wiener Neustadt~Admira Neust.
+1800 SV Admira Wiener Neustadt~Admira WN
 1800 ASV Wienerberg~Wienerberg
 1800 SV Hall~SV Hall
 1800 SV Innsbruck~SV Innsbruck
@@ -213,7 +213,7 @@
 1800 LASK Amateure~LASK Am*2009 Linzer ASK II~LASK II
 1800 SV Neuberg~Neuberg
 1800 TuS FC Arnfels~Arnfels
-1800 Austria Karnten (Amateure)~Pasching Am*2009 Austria Kärnten II~Karnten II*2010 FC Pasching~Pasching
+1800 Austria Karnten (Amateure)~Pasching Am*2009 Austria Kärnten II~Karnten II*2010 FC Pasching~Pasching*2018 FC Juniors OÖ Pasching~Pasching
 1800 SV Gmünden~Gmünd
 1800 SV Horn~Horn
 1800 SV Mattersburg (Amateure)~Mattersburg Am*2009 SV Mattersburg II~Mattersburg II
@@ -252,7 +252,7 @@
 1800 ATSV Stadl-Paura~Stadl-Paura
 1800 ASK Ebreichsdorf~Ebreichsdorf
 1800 SC Gleisdorf 1919~Gleisdorf
-1800 SC Mannsdorf~Mannsdorf
+1800 SC Mannsdorf~Mannsdorf*2020 FC Marchfeld Mannsdorf-Großenzersdorf~Mannsdorf
 1800 FC Alberschwende~Alberschwende
 1800 TuS Bad Gleichenberg~Gleichenberg
 1800 ASK-BSC Bruck/Leitha~Bruck
@@ -261,3 +261,13 @@
 1800 FC Langenegg~Langenegg
 1800 SV Leobendorf~Leobendorf
 1800 SC Team Wiener Linien~Wiener Linien
+1800 SV Ried im Innkries II~Ried II
+1800 USV St.Anna am Aigen~St.Anna
+1800 ASV Draßburg~Draßburg
+1800 SV Stripfing~Stripfing
+1800 FC Lauterach~Lauterach
+1800 SC Röthis~Röthis
+1800 SV Kuchl~Kuchl
+1800 SC Imst~Imst
+1800 SV Telfs~Telfs
+1800 FC Zirl~Zirl

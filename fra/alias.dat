@@ -1,27 +1,27 @@
 1800 Stade St.Germain~St.Germain*1970 Paris St.Germain~PSG
-1800 Olympique Marseille~Marseille
-1800 Girondins de Bordeaux~Bordeaux
+1800 Olympique de Marseille~Marseille
+1800 FC Girondins de Bordeaux~Bordeaux
 1800 FC Nantes~Nantes
 1800 AS Monaco~Monaco
 1800 Olympique Lyon~Lyon
 1800 AJ Auxerre~Auxerre
 1800 AS Saint Étienne~St.Étienne
-1800 HSC Montpellier~Montpellier
+1800 Stade Olympique Montpelliérain~Montpellier*1990 HSC Montpellier~Montpellier
 1800 RC Lens~Lens
 1800 FC Toulouse~Toulouse
 1800 RC Strasbourg~Strasbourg
 1800 FC Metz~Metz
-1800 FC Sochaux Montbeliard~Sochaux
-1800 Olympique SC Lille~Lille
+1800 FC Sochaux~Sochaux*1931 FC Sochaux-Montbéliard~Sochaux
+1800 Olympique Lillois~Lille*1945 Lille OSC~Lille
 1800 AS Cannes~Cannes
 1800 Stade Malherbe Caen~Caen
 1800 Le Havre AC~Le Havre
 1800 Stade de Rennes~Rennes
 1800 SC Bastia~Bastia
 1800 Olympique GC Nice~Nice
-1800 AS Nancy-Lorraine~Nancy
-1800 CS Sedan Ardennes~Sedan
-1800 ATAC Troyes~Troyes*2000 ES Troyes AC~Troyes
+1800 FC Nancy~Nancy*1965 AS Nancy-Lorraine~Nancy
+1800 UA Sedan-Torcy~Sedan*1978 CS Sedan Ardennes~Sedan
+1800 AS Troyes-Savinienne~Troyes*1969 Troyes Aube Football~Troyes*1986 ATAC Troyes~Troyes*2000 ES Troyes AC~Troyes
 1800 AS Martigues~Martigues*2012 FC Martigues~Martigues
 1800 Angers SCO~Angers
 1800 En Avant Guingamp~Guingamp
@@ -29,7 +29,7 @@
 1800 LB Berrichone de Châteauroux~Châteauroux
 1800 FC Lorient Bretagne Sud~Lorient
 1800 AC Ajaccio~Ajaccio
-1800 AS Chamois Niort~Niort
+1800 Chamois Niortais FC~Niort
 1800 UC Le Mans~Le Mans
 1800 AS Beauvais Oise~Beauvais
 1800 Stade Laval~Laval
@@ -43,7 +43,7 @@
 1800 Olympique Charleville~Charleville
 1800 AS St.Brieuc~St.Brieuc
 1800 SAS Épinal~Epinal
-1800 SC Nîmes~Nîmes*1935 Olympique Nîmes~Nîmes
+1800 SC Nîmes~Nîmes*1937 Nîmes Olympique~Nîmes
 1800 ES Wasquehal~Wasquehal
 1800 US Créteil Lusitanos~Creteil
 1800 FC Grenoble~Grenoble
@@ -52,13 +52,13 @@
 1800 Stade de Reims~Reims
 1800 RC Roubaix~Roubaix*1946 CO Roubaix Tourcoing~Roubaix*1964 Racing Stade Roubaix~Roubaix*1990 Stade Club Olympique de Roubaix~Roubaix
 1800 FC Sète~Sète
-1800 Stade Français~Stade Français
+1800 Stade Français FC~Stade Français
 1800 Racing Club de France~Racing*1932 Racing Club de Paris~Racing*1968 Racing Club de France~Racing*1984 Racing Club de Paris~Racing*1988 Racing Matra Paris~Racing*1990 Racing Paris~Racing*1992 Racing CF 92 Paris~Racing*2010 Racing CF Levallois~Racing
 1800 FC Rouen~Rouen
-1800 Olympique Alés~Ales
+1800 Olympique Alès~Alès
 1800 SR Colmar~Colmar
-1800 US Valenciennes~Valenciennes*2000 AFC Valenciennes~Valenciennes
-1800 AS Béziers~Beziers
+1800 US Valenciennes-Anzin~Valenciennes*1997 US Valenciennes~Valenciennes*2000 AFC Valenciennes~Valenciennes
+1800 AS Béziers~Béziers
 1800 Limoges FC~Limoges
 1800 AS Aix-en-Provence~Aix
 1800 AS Angoulême Charente~Angoulême*2007 Angoulême CFC~Angoulême
@@ -284,7 +284,7 @@
 1800 FC Toulouse II~Toulouse II
 1800 RC Strasbourg II~Strasbourg II
 1800 FC Metz II~Metz II
-1800 FC Sochaux Montbeliard II~Sochaux II
+1800 FC Sochaux-Montbéliard II~Sochaux II
 1800 Olympique SC Lille II~Lille II
 1800 AS Cannes II~Cannes II
 1800 Stade Malherbe Caen II~Caen II
@@ -315,7 +315,7 @@
 1800 AC Boulogne-Billancourt~Billancourt
 1800 FC Saint-Louis Neuweg~Neuweg
 1800 SC Toulon-Le Las~Toulon Le Las
-1800 FC Chartres~Chartres*0 Football~Chartres
+1800 FC Chartres~Chartres*2019 C'Chartres Football~Chartres
 1800 US Granville~Granville
 1800 Stade de Reims II~Reims II
 1800 ES Paulhan Pézenas~Pezenas
@@ -323,3 +323,6 @@
 1800 AS Furiani-Agliani~Furiani
 1800 Nîmes Olympique II~Nîmes II
 1800 Bobigny AC~Bobigny
+1800 Angers SCO II~Angers II
+1800 FC Gobelins Paris 13~Gobelins
+1800 Chamalières FC~Chamalières

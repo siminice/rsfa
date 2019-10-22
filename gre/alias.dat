@@ -55,9 +55,9 @@
 1800 Asteras Rethymnou Kritis~Rethymno
 1800 AO Pyrgos~Pyrgos
 1800 Anagennisi Kolindros~Kolindros
-1800 Haravgiakos Athena~Haravgiakos
+1800 Charavgiakos Ilioupoli~Charavgiakos
 1800 AE Pontii Verias~Pontii
-1800 Anagennisi Giannitson~Giannitson
+1800 Anagennisi Giannitson~Giannitsa
 1800 Aris Ptolemaida~Ptolemaida*1975 Eordaikos Ptolemaida~Eordaikos*1990 Ptolemiada Lignitoriki~Ptolemaida*2007 Eordaikos 2007 Ptolemaida~Eordaikos
 1800 Makedonikos Efkarpia Saloniki~Makedonikos
 1800 AO Spartis Leonidas~Leonidas
@@ -97,7 +97,7 @@
 1800 GS Marko Markopoulos~Marko
 1800 Apollon Kryas Vrysis~Kryas Vrysis
 1800 Iraklis Ampelokipoi~Ampelokipoi
-1800 Poseidonas Neas Mihanionas~Poseidon
+1800 Poseidonas Neas Michanionas~Michaniona
 1800 Ergotelis Iraklion~Ergotelis
 1800 PAO Agios Dimitrios Brachami~Dimitrios
 1800 Thrasyvoulos Fylis~Thrasyvoulos
@@ -115,7 +115,7 @@
 1800 AO Neapolis Saloniki~Neapolis*2009 Makedonikos Neapolis~Neapolis
 1800 PO Atsalenios Iraklio~Atsalenios
 1800 Olympiakos Halkidas~Halkida*1968 AS Halkidas~Halkida
-1800 APS Thiella Patras~Thiella
+1800 APS Thyella Patras~Thyella Patras
 1800 AO Haidari Athena~Haidari
 1800 Lilas Vasilikon~Lilas
 1800 Pano Mallia Iraklio~Pano Mallia
@@ -132,7 +132,7 @@
 1800 PAO Neon Epivaton~Epivaton
 1800 Doxa Gratini~Gratini
 1800 PAO Vardas~Vardas
-1800 OF Ierapetra~Ierapetra*2015 Anagennisi Ierapetra~Ierapetra
+1800 OF Ierapetra~Ierapetra*2012 Ierapetra FC~Ierapetra*2013 OF Ierapetra~Ierapetra
 1800 Koropiou AO~Koropiou
 1800 Zakynthos APS~Zakynthos
 1800 Ilioupoli GS~Ilioupoli
@@ -164,7 +164,7 @@
 1800 AO Syros~Syros
 1800 AO Dimitra Trikala~Dimitra Trik.
 1800 AO Panaspropyrgiakos~Aspropyrgos*2010 Aspropyrgos Enosi~Aspropyrgos
-1800 AO Fivos Kremastis Rodos~Fivos
+1800 AO Foivos Kremastis~Foivos
 1800 AE Moschato Athena~Moschato
 1800 AE Nestos Chrysoupolis~Nestos
 1800 AO Finikas Polychnis Saloniki~Finikas
@@ -256,7 +256,7 @@
 1800 AO Pannaxiakos~Pannaxiakos
 1800 Peramaikos FC~Peramaikos
 1800 Thyella Diastavroseos~Diastavroseos
-1800 Trigila Rafinas~Trigila Rafina
+1800 Triglia Rafinas~Triglia
 1800 Apollon Arnaia~Arnaia
 1800 Thyella Filotas~Filotas
 1800 Pyrasos Nea Anchialos~Pyrasos
@@ -302,7 +302,7 @@
 1800 Philippos Alexandreia~Alexandreia
 1800 Asteras Parapotamos~Parapotamos
 1800 Ermis Amyntaio~Amyntaio
-1800 AEP Karagiannia~Karagiannia
+1800 AE Pontion Karagiannion~Karagiannia
 1800 AE Lefkimmi~Lefkimmi
 1800 Panamvrakakikos Amphilochia-Mpouka~Amphilochia
 1800 Panlefkadios FC~Panlefkadios
@@ -322,4 +322,64 @@
 1800 Tamyniakos FC~Tamyniakos
 1800 Aittitos Spata~Spata
 1800 AE Mylopotamos~Mylopotamos
-1800 Palaiochora FC~Palaiochora
+1800 AO Palaiochora FC~Palaiochora
+1800 Alexandros Kilkis~Alex Kilkis
+1800 Aspida Xanthi~Aspida Xanthi
+1800 AE Kalampaki~Kalampaki
+1800 Keravnos Pernis~Perni
+1800 Meliteas Melitis~Meliti
+1800 Niki Agkathias~Agkathia
+1800 Olympiakos Kyminon~Kimina
+1800 PAO Koufalion~Koufalia
+1800 AO Floriadas~Floriada
+1800 Grevena Aerata~Aerata
+1800 Kronos Argyrades~Argyrades
+1800 Megas Alexandros Kallithea~MA Kallithea
+1800 Souli Paramythias~Paramythia
+1800 Thriamvos Serviana~Serviana
+1800 Apollon Makrychoriou~Makrychori
+1800 AE Meteora~Meteora
+1800 AO Stylidas~Stylida
+1800 Theseas Agrias~Agria
+1800 AE Neapolis~Neapolis
+1800 Ampelakiakos Salaminas~Salamina
+1800 PS Agion Anargyron~Anargyroi
+1800 Apollon Eretrias~Eretria
+1800 Thyella Kamari~Kamari
+1800 AO Eikosimias Kefallonias~Eikosimia
+1800 Enosi Lernas~Lerna
+1800 AO Ipatou~Ipato
+1800 AO Katastari Zakynthou~Katastari
+1800 AE Pellanas Kastoriou~Pellana
+1800 Niki Traganou~Tragano
+1800 Palliniakos AO~Palliniakos
+1800 Anegennisi Ierapetra~An Ierapetra
+1800 Enosi Antheias-Aristinou~Antheias
+1800 Doxa Kato Kamila~Kamila
+1800 Doxa Theologos~Theologos
+1800 Iraklis Zygou~Zygou
+1800 Astrapi Mesopotamia~Mesopotamia
+1800 Nea Kallikrateia FC~Kallikrateia
+1800 AO Seirina Grevena~Seirina
+1800 Thyella Sarakinoi~Sarakinoi
+1800 Atalanti FC~Atalanti
+1800 Atromitos Palamas~Palamas
+1800 Diagoras Stefanovik~Stefanovik
+1800 Dias Diou FC~Dias Diou
+1800 AE Iraklis Larissa~Iraklis Lar
+1800 Potamia FC Megalo Chorio~Potamia
+1800 Apollon Efpaliou~Efpaliou
+1800 Thinaliakos FC Acharavi~Thinaliakos
+1800 AS Ano Meras~Ano Meras
+1800 OF Ermis Korydallos~Korydallos
+1800 PAS Kithairon~Kithairon
+1800 Nea Artaki~Nea Artaki
+1800 AS Rodos~AS Rodos
+1800 AEK Tripolis~AEK Tripolis
+1800 AO Diavolitsi~Diavolitsi
+1800 Olympiakos Zacharo~Zacharo
+1800 Pangytheatikos Gytheio~Pangytheatikos
+1800 Tsilivi FC Planos~Tsilivi
+1800 Panakrotiriakos~Akrotiri
+1800 Poros FC~Poros
+1800 AO Rethymniakos~Rethymniakos

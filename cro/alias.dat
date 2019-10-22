@@ -9,7 +9,7 @@
 1800 NK Šibenik~Šibenik
 1800 NK Trnsko~Trnsko*1976 ONK Novi Zagreb~Novi Zagreb*1991 Hrvatski Dragovoljac Zagreb~Dragovoljac
 1800 Kamen Ingrad~Kamen*2008 NK Velika~Velika
-1900 NK Istra Pula~Istra
+1900 NK Istra Pula~Istra*2020 NK Uljanik Pula~Uljanik
 1900 Zadarkomerc Zadar~Zadar*2000 NK Zadar~Zadar
 1800 NK Međimurje Čakovec~Medimurje
 1800 NK Čakovec~Čakovec
@@ -32,7 +32,7 @@
 1800 NK Mosor Žrnovnica~Mosor
 1800 HAŠK Naftaš Ivanič Grad~Naftaš
 1900 Croatia Imotski*1997 NK Imotski
-1800 NK Uškok Kliš~Uskok Klis
+1800 NK Uskok Klis~Klis
 1900 Badel Sevete Zagreb~Sesvete*1999 Croatia Sesvete Zagreb~Sesvete*2013 NK Croatia Prigorje~Prigorje
 1800 NK Graničar Županja~Županja
 1800 TŠK Topolovac~Topolovac
@@ -48,13 +48,13 @@
 1800 NK Pazinka Pazin~Pazin
 1800 NK Dubrava Zagreb~Dubrava
 1800 NK Primorac Stobreč~Primorac
-1800 Radnik Velika Gorica~Radnik VG
+1800 Radnik Velika Gorica~Gorica*2010 HNK Gorica~Gorica
 1800 NK Samobor~Samobor
 1800 NK Split~NK Split
 1800 NK Jadran Poreč~Porec
 1800 NK Zagorec Krapina~Zagorec
 1800 Posavina Zagreb~Posavina
-1800 NK Orijent Rijeka~Orijent
+1800 NK Orijent Rijeka~Orijent*2019 NK Orijent 1919 Rijeka~Orijent
 1800 NK Neretva Metkovič~Neretva
 1800 PIK Vrbovec~Vrbovec*2005 NK Vrbovec~Vrbovec
 1800 NK Cazma Trans~Cazma
@@ -70,7 +70,7 @@
 1800 NK Špansko Zagreb~Spansko
 1800 Mladost Petrinja~Petrinja
 1800 Mladost Zabok~Zabok
-1800 Ponikve Zagreb~Ponikve
+1800 NK Ponikve Zagreb~Ponikve
 1800 Metalac Sisak~Metalac Sisak
 1800 NK Lokomotiva Zagreb~Lokomotiva
 1800 NK Lučko~Lucko
@@ -88,7 +88,7 @@
 1800 Mladost Nada Hrastovac~Hrastovac
 1800 NK Podravina Ludbreg~Ludbreg
 1800 Spartak Subotica~Subotica
-1800 Graničar Djurdjevac~Djurdjevac
+1800 Graničar Đurđevac~Đurđevac
 1800 Daruvar Gradolit~Gradolit*2005 NK Daruvar~Daruvar
 1800 NK Mladost Ždralovi~Zdralovi
 1800 NK Križevci~Križevci
@@ -138,7 +138,7 @@
 1800 NK Rudeš Zagreb~Rudes
 1800 NK 1921 Medulin~Medulin
 1800 Naftaš HAŠK Zagreb~HASK
-1800 SD Polet Buševac~Busevac
+1800 SD Polet Buševac~Buševac
 1800 NK Maksimir Zagreb~Maksimir
 1800 Šokadija Stari Mikanovci~Sokadija
 1800 Sloboda Varaždin~Sloboda Var
@@ -166,7 +166,7 @@
 1800 Tondach Bedekovcina~Bedekovcina
 1800 Graničar Tucenik~Tucenik
 1800 Predionica Klanjec~Klanjec
-1800 Udarnik Kurilovec~Kurilovec
+1800 Udarnik Kurilovec~Kurilovec*2019 NK Kurilovec~Kurilovec
 1800 NK Pag~Pag
 1800 Tomislav Donji Andrijevci~Andrijevci
 1800 Omladinac Sloga Herešin~Heresin
@@ -214,7 +214,7 @@
 1800 NK Lipik~Lipik
 1800 MV Croatia Slavonski Brod~Croatia SB*2012 NK Marsonia Slavonski Brod~Marsonia
 1800 NK Zelina~Zelina
-1800 Jedinstvo Omladinac Nedeščina~Nedescina
+1800 NK Jedinstvo Omladinac Nedeščina~Nedescina
 1800 NK Polača~Polaca
 1800 BK Zmaj Blato~Blato
 1800 NK Radnik Sesvete~Radnik Sesvete*2014 NK Sesvete~Sesvete
@@ -228,15 +228,23 @@
 1800 NK Tekstilac Ravnice Zagreb~Tekstilac
 1800 NK Kamen Ivanbegovina~Ivanbegovina
 1800 NK Polet Sveti Martin / Muri~Sveti Martin
-1800 Klas Mičevec~Micevec
-1800 Libertas Novska~Novska
+1800 NK Klas Mičevec~Micevec
+1800 NK Libertas Novska~Novska
 1800 NK Croatia Zmijavci~Zmijavci
-1800 Rudar Mursko Središče~Mursko Sred
-1800 Dinamo Zagreb "B"~Dinamo "B"
-1800 Istra 1961 Pula "B"~Istra "B"
-1800 NK Rijeka "B"~Rijeka "B"
-1800 Hajduk Split "B"~Hajduk "B"
-1800 Igralište NK Kustošija~Kustošija
+1800 NK Rudar Mursko Središće~Mursko Sred
+1800 GNK Dinamo Zagreb II~Dinamo II
+1800 NK Istra 1961 Pula II~Istra II
+1800 NK Rijeka II~Rijeka II
+1800 HNK Hajduk Split II~Hajduk II
+1800 NK Igralište Kustošija~Kustošija
 1800 NK Osijek II~Osijek II
 1800 NK Urania Baška Voda~Baška Voda
 1800 NK Varteks Varaždin~Varteks
+1800 NK Vihor Jelisavac~Vihor
+1800 NK Zrinski Jurjevac~Jurjevac
+1800 NK Jarun Zagreb~Jarun
+1800 NK Sloga Mravince~Mravince
+1800 NK Vodice~Vodice
+1800 NK Kutjevo~Kutjevo
+1800 NK Vuteks Sloga Vukovar~Vuteks
+1800 NK Tehničar 1974 Cvetkovec~Cvetkovec

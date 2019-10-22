@@ -49,7 +49,7 @@
 1800 TJ ZŤS Petržalka~Petrzalka*1990 FC Petržalka~Petrzalka
 1800 TJ Slovan Levice~Levice
 1800 TJ Magnezit Jelšava~Jelšava
-1800 Slavia Bratislava~Slavia Brat*1953 TJ Slávia Bratislava VŠ~Slavia Brat*1954 SKP Bratislava~SKP Brat*1991 ŠK Polície Bratislava~ŠKP Brat
+1800 Slavia Bratislava~Slavia Brat*1953 TJ Slávia Bratislava VŠ~Slavia Brat*1954 SKP Bratislava~SKP Brat*1956 TJ Červená hviezda Bratislava~CH Bratislava*1991 ŠK Polície Bratislava~ŠKP Brat
 1800 TJ SH Senica~Senica
 1800 AC Sparta Považská Bystrica~Považská*1949 ZSJ Manet Považská Bystrica~Považská*1953 TJ Spartak Považská Bystrica~Považská*1962 TJ ZVL Považská Bystrica~Považská*1963 TJ Spartak Považská Bystrica~Považská*1985 TJ ZVL Považská Bystrica~Považská*1991 FK Považská Bystrica~Považská
 1800 TJ Agro SZZ Hurbanovo~Hurbanovo
@@ -63,7 +63,7 @@
 1800 TJ ŽD Bohumín~Bohumín*1994 FC Coring Bohumín~Bohumín
 1800 TJ Spartak Uherský Brod~Uherský Brod*1994 ČSK Uherský Brod~Uherský Brod
 1800 ZSJ Armaturka Ústí nad Labem~Ústí*1953 TJ Spartak Ústí nad Labem~Ústí*1992 FK GGS Arma Ústí nad Labem~Ústí*2008 MFK Ústí nad Labem~Ústí
-1900 TJ Portal Příbram~Příbram*1996 FK Příbram~Příbram
+1900 TJ Slávia Bratislava~Slávia Brat
 1800 FC Tatran Poštorná~Poštorná
 1800 SK Chrudim~Chrudim
 1800 FK PS Přerov~Přerov*1998 FK Hanácká kyselka Přerov~Přerov
@@ -76,7 +76,7 @@
 1900 FK Spartak Jihlava~Jihlava*1997 PSJ Jihlava*2003 FC Vysočina Jihlava
 1800 AFK Kolín~Kolin*1956 TJ Jiskra Kolín~Kolín*1992 FK Mogul Kolín~Kolin*2008 FK Kolín~Kolin
 1800 DSO Tatran Olomouc~Tatran Olomouc*1956 VTJ Dukla Olomouc~Dukla Olomouc*1964 TJ MŽ Olomouc~MŽ Olomouc*1995 SK Sigma Olomouc II~Sigma B
-1800 TJ Sparta ČKD Praha B~Sparta B*1990 AC Sparta Praha B~Sparta B
+1800 TJ Sparta ČKD Praha II~Sparta II*1990 AC Sparta Praha II~Sparta II
 1800 FK Kunovice~Kunovice
 1800 Roubina Dolny Kounice~Kounice*2003 FC Dolní Kounice~Kounice
 1800 Tatran Prachatice~Prachatice
@@ -160,7 +160,7 @@
 1800 SK Lišeň~Lisen
 1800 TJ Slavoj Praha~Slavoj*1992 FK Admira/Slavoj Praha~Admira*2014 FK Admira Praha~Admira
 1800 FK Jiskra Trebon~Trebon
-1800 VTJ Dukla Jičín~Jičín*1992 FK Novy Jičín~Jičín
+1800 VTJ Dukla Jičín~Jičín*1992 FK Nový Jičín~Jičín
 1800 SK EME Mělník~Mělník
 1800 FC Dukla Sekopt Hranice~Dukla Hranice
 1800 FC Zeman Brno~Zeman Brno
@@ -191,14 +191,14 @@
 1800 FC Slovan Rosice~Rosice
 1800 SK Vyškov~Vyškov
 1800 SK Horní Měcholupy~Mecholupy
-1800 SK Převýšov~Prevysov
-1800 TJ Sokol Zápy~Zapy
+1800 SK Převýšov~Převýšov
+1800 TJ Sokol Zápy~Zápy
 1800 FK Slavia Orlová-Lutyně~Orlova-Lutyne
-1800 FK TJ Štěchovice~Stechovice
+1800 FK TJ Štěchovice~Štěchovice
 1800 FK Mikulovice~Mikulovice
 1800 DSO Spartak Třebíč~Třebíč*1995 Horácký FK Třebíč~Třebíč
 1800 FK Louňovice~Lounovice
-1800 Union Nový Bydžov~Novy Bydzov
+1800 Union Nový Bydžov~Nový Bydzov
 1800 Slezsky FC Opava II~Opava II
 1800 SK Kopaná Benátky~Benatky
 1800 Sokol Brozany~Brozany
@@ -250,7 +250,7 @@
 1800 TJ Dukla Kysucké Nové Mesto~Nové Mesto
 1800 TJ Fatra Slavia Napajedla~Napajedla
 1800 TJ Dukla Komárno~Komárno
-1800 TJ Slovnaft Bratislava B~Slovnaft B*1977 TJ Červená hviezda Bratislava~CH Bratislava
+1800 TJ Slovnaft Bratislava B~Slovnaft B
 1800 TJ Dukla Slaný~Slaný
 1800 TJ Zemplín Vihorlat Michalovce~Michalovce
 1800 TJ DKG Hrdlovka~Hrdlovka
@@ -266,3 +266,10 @@
 1800 TJ Tesla Agro Stropkov~Stropkov
 1800 TJ ZZO Čadca~Čadca
 1800 TJ Spoje Bratislava~Spoje
+1800 1.FK Příbram II~Příbram II
+1800 Sokol Hostouň~Hostouň
+1800 FC Bohemians 1905 Praha II~Bohemians II
+1800 FK Chlumec nad Cidlinou~Chlumec
+1800 FK Přepeře~Přepeře
+1800 FK Zbuzany~Zbuzany
+1800 FK Pardubice II~Pardubice II

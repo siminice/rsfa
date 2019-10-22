@@ -11,7 +11,7 @@
 1900 Sztalinváros VE~Sztalinvaros*1957 Kohut Dunaújváros~Dunaujvaros*1991 Dunaferr SE~Dunaferr*2008 Dunaújváros FC~Dunaujvaros*2012 Dunaújváros SE~Dunaujvaros
 1800 Békéscsaba Elöre~Békéscsaba*1992 Békéscsaba 1921 Elöre SE~Békéscsaba
 1800 Debreceni VSC~Debrecen*1950 Debreceni Lokomotiv~Debrecen*1960 Debreceni VSC~Debrecen
-1900 Szekesfehervári VT SK~Fehervar*1950 VT Vasas Szekesfehervár~Fehervar*1968 Videoton Szekesfehervár~Videoton*2006 SC Fehervár~Fehervar*2010 Videoton FC Szekesfehervár~Videoton*2019 MOL Vidi FC~Vidi
+1900 Szekesfehervári VT SK~Fehervar*1950 VT Vasas Szekesfehervár~Fehervar*1968 Videoton Szekesfehervár~Videoton*2006 SC Fehervár~Fehervar*2010 Videoton FC Szekesfehervár~Videoton*2019 MOL Vidi FC~Vidi*2020 Fehérvár FC~Fehérvár
 1800 Matav Sopron~Sopron*2008 FC Sopron~Sopron*2012 Soproni VSE~Sopron
 1800 Kaposvári Rákóczi~Kaposvár
 1800 Tatabánya FC~Tatabanya*2014 Duna FC Tatabánya~Tatabanya
@@ -45,7 +45,7 @@
 1800 Barcsi SC~Barcs
 1800 Szentlőrinc-Ormánság~Szentlorinc*2017 Szentlőrinc SE~Szentlőrinc
 1800 Mezőfalva~Mezőfalva
-1800 Penzügyör SE~Penzügyör
+1800 Pénzügyőri SE~Pénzügyőr
 1800 Baktalórántháza VSE~Baktalórántháza
 1800 Vecses FC~Vecses
 1800 Jászápati VSE~Jaszapati
@@ -71,7 +71,7 @@
 1800 Balassagyarmati SE~Balassagyarmat
 1800 Volan FC~Volan
 1800 Egri Dózsa~Eger*1975 Eger SE~Eger*2010 Egri FC~Eger
-1800 Ozdi Kohasz~Ozdi Kohasz
+1800 Ozdi Kohasz~Ozdi Kohasz*2020 Ózdi FC~Ózd
 1800 MAV Elöre Szekesfehervár~MAVE
 1800 Pécsi VSK~VSK Pecs
 1800 Dorogi Tarna~Dorog*1951 Dorogi AC Bányasz~Dorog*2000 Dorogi FC~Dorog
@@ -81,7 +81,7 @@
 1800 Ajkai SE~Ajka
 1800 Tuzser Erdert SE~Tuzser
 1800 Jászberényi SE~Jászberényi
-1800 Budaörs SC~Budaors
+1800 Budaörsi SC~Budaörs
 1800 Budapesti Postas~Postas
 1800 Sortex~Sortex
 1800 Szegedi Petőfi~Szeged Petőfi
@@ -142,10 +142,10 @@
 1800 Marcali IFC~Marcali
 1800 Budapest Honvéd FC II~Honved II
 1800 Szigetszentmiklósi TK~Szentmiklos
-1800 FC Fehervár II~Feherhvar II*2011 Videoton II~Videoton II*2019 MOL Vidi II~Vidi II
+1800 FC Fehervár II~Feherhvar II*2011 Videoton II~Videoton II*2019 MOL Vidi II~Vidi II*2020 FC Fehérvár II~Fehérvár II
 1800 Fóti SE~óti
 1800 Dunakezi ADtransz~Dunakez
-1800 Komaromi VSE~Komarom
+1800 Komáromi VSE~Komárom
 1800 Hajdúszoboszlo~Hajduszoboszlo
 1800 Tiszaújvárosi FC~Tiszaujvaros
 1800 Újpest FC II~Ujpest II
@@ -204,3 +204,7 @@
 1800 Sényő Carnifex~Sényő
 1800 Taksony SE~Taksony
 1800 Ménfőcsanak ESK~Ménfőcsanak
+1800 Debreceni VSC II~Debrecen II
+1800 Bicskei TC~Bicske
+1800 Lipót SK~Lipót
+1800 Kelen SC Budapest~Kelen
