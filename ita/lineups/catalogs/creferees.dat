@@ -1,4 +1,4 @@
-613
+614
 abbaeu,Abbattista,Eugenio, ,1982-12-28,ITA,Bari,ITA,eugenio-abbattista
 abisro,Abisso,Rosario, ,1985-11-22,ITA,Palermo,ITA,rosario-abisso
 acergi,Acernese,Giuliano, ,1928-03-18,ITA,Massa,MS,giuliano-acernese
@@ -168,8 +168,8 @@ crucmi,Cruciani,Michele, ,1970-03-09,ITA,Cesena,FC,michele-cruciani
 currre,Curradi,Renzo, ,1906-10-06,ITA,Firenze,ITA,renzo-curradi
 d'agal,D'agostini,Alessandro, ,1922-03-14,ITA,Roma,ITA,alessandro-d'agostini
 dagngi,Dagnello,Gilberto, ,1960-07-13,ITA,Trieste,ITA,gilberto-dagnello
-dalFgi,Dal Forno,Gian Carlo, ,1949-11-28,ITA,Marano Lagunare,UD,gian-carlo-dal-forno
 dalema,D'alessandro,Mario, ,0000-00-00,ITA, ,ITA,mario-d'alessandro
+dalFgi,Dal Forno,Gian Carlo, ,1949-11-28,ITA,Marano Lagunare,UD,gian-carlo-dal-forno
 dallen,Dall'era,Enrico, ,1897-03-19,ITA,Brescia,ITA,enrico-dall'era
 damaan,Damato,Antonio, ,1972-08-15,ITA,Barletta,BT,antonio-damato
 damjec,Damiani,Ezio, ,1910-04-17, ,Pola,ITA,ezio-damiani
@@ -180,6 +180,8 @@ deAnpa,De Angelis,Paolo, ,1955-06-25,ITA,Civitavecchia,RM,paolo-de-angelis
 deCrxx,De Crescenzo,?, ,0000-00-00,ITA, ,ITA,?-de-crescenzo
 deGrar,De Gregorio,Aroldo, ,0000-00-00,ITA, ,ITA,aroldo-de-gregorio
 deLedi,De Leo,Diego, ,1920-12-05,ITA,Zenson di Piave,TV,diego-de-leo
+delipi,D'elia,Pietro, ,1946-04-29,ITA,Salerno,ITA,pietro-d'elia
+dellor,Dellarole,Oreste, ,1900-12-16,ITA,San Germano Vercellese,VC,oreste-dellarole
 deMaan,De Marco,Andrea, ,1973-05-21,ITA,Chiavari,GE,andrea-de-marco
 deMabr,De Marchi,Bruno, ,1925-12-08,ITA,Pordenone,ITA,bruno-de-marchi
 deMapi,De Magistris,Pietro, ,1921-04-25,ITA,Torino,ITA,pietro-de-magistris
@@ -187,16 +189,14 @@ dePrlu,De Prisco,Luigi, ,1959-09-16,ITA,Pagani,SA,luigi-de-prisco
 deRofr,De Robbio,Francesco, ,1926-11-11,ITA,Torre Annunziata,NA,francesco-de-robbio
 deSabe,De Sanctis,Beniamino, ,1901-03-16,ITA,Corropoli,TE,beniamino-de-sanctis
 deSama,De Santis,Massimo, ,1962-04-08,ITA,Tivoli,RM,massimo-de-santis
-delipi,D'elia,Pietro, ,1946-04-29,ITA,Salerno,ITA,pietro-d'elia
-dellor,Dellarole,Oreste, ,1900-12-16,ITA,San Germano Vercellese,VC,oreste-dellarole
 devija,Devillers,Jacques, ,1911-08-23, ,Cambrai,Francia,jacques-devillers
 diBema,Di Bello,Marco, ,1981-07-12,ITA,Brindisi,ITA,marco-di-bello
 diCobr,Di Cola,Bruno, ,1950-07-14,ITA,Avezzano,AQ,bruno-di-cola
 diMaan,Di Martino,Antonio, ,1987-12-22,ITA,Giulianova,TE,antonio-di-martino
-diPaal,Di Paolo,Aleandro, ,1977-10-21,ITA,Avezzano,AQ,aleandro-di-paolo
-diToan,Di Tonno,Antonio, ,1927-10-01,ITA,Foggia,ITA,antonio-di-tonno
 dineca,Dinelli,Carlo, ,1956-07-19,ITA,Capannori,LU,carlo-dinelli
 dionfe,Dionisi,Federico,Federico Dionisi, ,ITA, ,ITA,federico-dionisi_2
+diPaal,Di Paolo,Aleandro, ,1977-10-21,ITA,Avezzano,AQ,aleandro-di-paolo
+diToan,Di Tonno,Antonio, ,1927-10-01,ITA,Foggia,ITA,antonio-di-tonno
 dobogi,Dobosz,Giulio,Giulio Dobosz, ,ITA, ,ITA,giulio-dobosz
 donaal,Donati,Aldo, ,1906-12-02,ITA,Rimini,ITA,aldo-donati
 dondpa,Dondarini,Paolo, ,1968-10-01,ITA,Bologna,ITA,paolo-dondarini
@@ -294,11 +294,11 @@ irrama,Irrati,Massimiliano, ,1979-06-27,ITA,Firenze,ITA,massimiliano-irrati
 jiragu,Jiranek,Gustav, ,0000-00-00,AUT, ,ITA,gustav-jiranek
 jonnce,Jonni,Cesare, ,1917-01-21,ITA,Macerata,ITA,cesare-jonni
 kainka,Kainer,Karl, ,1915-04-09,AUT,Wolfsberg,Austria,karl-kainer
-laPefe,La Penna,Federico, ,1983-08-07,ITA,Roma,ITA,federico-la-penna
 lamopi,Lamorgese,Pierluigi, ,1948-07-21,ITA,Potenza,ITA,pierluigi-lamorgese
 lanagi,Lana,Giancarlo, ,1962-11-16,ITA,Torino,ITA,giancarlo-lana
 lanetu,Lanese,Tullio, ,1947-01-10,ITA,Messina,ITA,tullio-lanese
 lanolu,Lanotte,Luigi,Luigi Lanotte, ,ITA, ,ITA,luigi-lanotte
+laPefe,La Penna,Federico, ,1983-08-07,ITA,Roma,ITA,federico-la-penna
 lapigi,Lapi,Giancarlo, ,1937-03-16,ITA,Firenze,ITA,giancarlo-lapi
 lattri,Lattanzi,Riccardo, ,1934-04-10,ITA,Ancona,ITA,riccardo-lattanzi
 lattvi,Lattanzi,Vittorio Emanuele, ,1937-05-12,ITA,Roma,ITA,vittorio-emanuele-lattanzi
@@ -470,6 +470,7 @@ prenem,Prenna,Emanuele,Emanuele Prenna, ,ITA, ,ITA,emanuele-prenna
 presdi,Preschern,Diego, ,1963-10-06,ITA,Venezia,ITA,diego-preschern
 pretfa,Preti,Fabiano,Fabiano Preti, ,ITA, ,ITA,fabiano-preti
 pribjo,Pribyl,Johan, ,0000-00-00,AUT, ,ITA,johan-pribyl
+pronal,Prontera,Alessandro,Alessandro Prontera,15/09/1986,ITA,Tricase,ITA,alessandro-prontera
 quarvi,Quartuccio,Virginio, ,1954-02-18,ITA,Torre Annunziata,NA,virginio-quartuccio
 quilfa,Quilleri,Fausto, ,1898-02-09,ITA,Brescia,ITA,fausto-quilleri
 racasa,Racalbuto,Salvatore, ,1961-09-28,ITA,Palma di Montechiaro,AG,salvatore-racalbuto
@@ -550,8 +551,8 @@ stamde,Stampacchia,Demetrio, ,0000-00-00,ITA, ,ITA,demetrio-stampacchia
 staneu,Stanzione,Eugenio, ,1921-09-18,ITA,Salerno,ITA,eugenio-stanzione
 stefni,Stefanini,Nicola, ,1975-01-22,ITA,Firenze,ITA,nicola-stefanini
 steica,Steiner,Carl Erich, ,1920-05-09,AUT,Vienna,Austria,carl-erich-steiner
-stol?_,Stolz,?, ,0000-00-00,AUT, ,ITA,?-stolz
 stolal,Stoll,Alfred, ,1932-09-22,AUT,Becs,Ungheria,alfred-stoll
+stol?_,Stolz,?, ,0000-00-00,AUT, ,ITA,?-stolz
 stradi,Strathatos,Dimosthemis, ,0000-00-00, , ,ITA,dimosthemis-strathatos
 strafr,Strazzera,Francesco, ,1963-03-27,ITA,Trapani,ITA,francesco-strazzera
 stul?_,Stulle,?, ,0000-00-00,AUT, ,ITA,?-stulle

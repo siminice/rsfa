@@ -1,4 +1,4 @@
-10785
+10960
 aaltmi,Aaltonen,Mika Anton,1965-11-16,FIN,Turku,FIN
 aaroro,Aarons,Rolando,1995-11-16,JAM,Kingston,JAM
 abalro,Aballay,Roberto,1922-11-22,ARG,Buenos Aires,ARG
@@ -48,6 +48,7 @@ adanda,Adani,Daniele,1974-07-10,ITA,Correggio,RE
 adcoch,Adcock,Charles Norman,1923-02-21,ENG,Boston,ENG
 addase,Addamo,Sem,1995-02-25,ITA,Patti,ME
 adejda,Adejo,Daniel,1989-08-07,NGR,Kachia Kaduna,NGR
+adekbo,Adekanye,Bobby,1999-02-14,NED,Ibadan,NGR
 adjacl,Adjapong,Claud,1998-05-06,ITA,Modena,ITA
 adobfa,Adobati,Fabio,1988-04-08,ITA,San Giovanni Bianco,BG
 adopmi,Adopo,Michel,2000-01-01,FRA, ,FRA
@@ -77,11 +78,13 @@ agospa,Agosteo,Paolo,1908-01-27,ITA,Catania,ITA
 agospe,Agosto,José,1914-01-22,ARG,Buenos Aires,ARG
 agosr1,Agostinelli,Romano,1928-10-30,ITA,Mantova,ITA
 agosro,Agostini,Rodolfo,1916-07-29,ITA,Viareggio,LU
+agoulu,Agoumé,Lucien,2002-02-09,FRA,Yaoundé,CMR
 agrasa,Agra,Salvador José Milhazes,1991-11-11,POR,Vila do Conde,POR
 agrema,Agretti,Mauro,1949-02-02,ITA,Livorno,ITA
 agrial,Agrifogli,Alessio,1996-02-28,ITA,Firenze,ITA
 agroal,Agroppi,Aldo,1944-04-14,ITA,Piombino,LI
 aguaru,Rui Aguas,José Lopes,1960-04-28,POR,Lisbona,POR
+agudke,Agudelo,Kevin,1998-11-14,COL,Puerto Caicedo,COL
 aguiab,Aguilar,Abel Enrique,1985-01-06,COL,Cali,COL
 aguica,Aguilera,Carlos Alberto,1964-09-21,URU,Montevideo,URU
 aguima,Aguirregaray,Matias,1989-04-01,URU,Porto Alegre,BRA
@@ -101,8 +104,6 @@ ainaol,Aina,Ola,1996-10-08,NGR,London,ENG
 airosi,Airoldi,Simone,1970-12-21,ITA,Giussano,MB
 ajetar,Ajeti,Arlind,1993-09-25,SUI,Basel,SUI
 ajidol,Ajide,Olasunkanmi Akande,1985-12-24,NGR,Lagos,NGR
-alGaal,Gheddafi,Saadi,1973-05-28,LYB,Tripoli,LYB
-alTaal,Adnan,Ali Kadhim Al-Tameemi,1993-12-19,IRQ,Baghdad,IRQ
 alaral,Alario,Alfredo,1948-01-01,ITA,Palermo,ITA
 alarro,Alarcon,Roberto,1924-02-23,ARG,Buenos Aires,ARG
 alasfa,Alastra,Fabrizio,1997-10-01,ITA,Erice,TP
@@ -153,6 +154,7 @@ alfisa,Alfieri,Salvatore,1969-10-26,ITA,Cerignola,FG
 alfivi,Alfieri,Vittorio,1911-01-17,ITA,Torre del Greco,NA
 alfoam,Alfonso,Ambrogio,1917-01-11,ITA,Bari,ITA
 alfoen,Alfonso,Enrico,1988-05-04,ITA,Padova,ITA
+alGaal,Gheddafi,Saadi,1973-05-28,LYB,Tripoli,LYB
 algeji,Algerino,Jimmy,1971-10-28,FRA,Tolosa,FRA
 alghlu,Alghisi,Luciano,1917-04-18,ITA,Milano,ITA
 alhaab,Alhassan,Abass,1995-01-21,GHA,Accra,GHA
@@ -187,6 +189,7 @@ aloeil,Aloe,Ilario,1986-07-10,ITA,Varese,ITA
 aloesi,Aloe,Simone,1978-09-05,ITA,Genova,ITA
 aloian,Aloisi,Antonio,1968-08-28,ITA,Ascoli Piceno,ITA
 aloijo,Aloisi,John,1976-02-05,AUS,Adelaide,AUS
+alTaal,Adnan,Ali Kadhim Al-Tameemi,1993-12-19,IRQ,Baghdad,IRQ
 altagi,Altare,Giorgio,1998-08-09,ITA,Bergamo,ITA
 altajo,Altafini,José,1938-07-24,BRA,Piracicaba,BRA
 altoal,Altobelli,Alessandro,1955-11-28,ITA,Sonnino,LT
@@ -231,6 +234,7 @@ amorma,Amoroso,Marcio Dos Santos,1974-07-05,BRA,Brasilia,BRA
 amorni,Amoruso,Nicola,1974-08-29,ITA,San Giovanni Rotondo,FG
 amorug,Amoretti,Ugo,1909-02-06,ITA,Genova,ITA
 ampual,Ampuero,Alvaro Francisco Garcia,1992-09-25,PER,Lima,PER
+amraso,Amrabat,Sofyan,1996-08-21,MAR,Blaricum,NED
 amuzst,Amuzie,Stanley,1996-02-28,NGR,Lagos,NGR
 anacgi,Anaclerio,Giuseppe,1974-01-26,ITA,Bari,ITA
 anacjo,Anacoura,Joyce Francesco,1994-08-01,ITA,Milano,ITA
@@ -246,8 +250,10 @@ anasva,Anastasi,Valerio,1990-04-13,ITA,Catania,ITA
 anceca,Ancelotti,Carlo,1959-06-10,ITA,Reggiolo,RE
 ancian,Ancilotti,Ancilotto,1914-02-18,ITA,Fucecchio,FI
 ancini,Ancis,Nicola,1974-02-08,ITA,Cagliari,ITA
+andean,Anderson, ,1999-09-23,ITA,Maracai,BRA
 andecl,Andersson,Claes Andreas,1974-04-10,SWE,Osterhaninge,SWE
 andeda,Andersson,Daniel Jerry,1977-08-28,SWE,Lund,SWE
+andedj,Anderson,Djavan,1995-04-21,NED,Amsterdam,NED
 andega,Andena,Gabriele,1947-09-26,ITA,Milano,ITA
 andejo,Andersen,Joachim,1996-05-31,DEN,Frederiksberg,DEN
 andeke,Andersson,Kennet Bernt,1967-10-06,SWE,Eskilstuna,SWE
@@ -262,6 +268,7 @@ andrer,Andrian,Ermenegildo,1920-09-30,ITA,Trieste,ITA
 andrgi,Andreuzza,Giuliano,1950-01-20,ITA,Noventa di Piave,VE
 andrj1,Andrade,Jorge Manuel Almeida Gomes,1978-04-09,POR,Lisbona,POR
 andrjo,Andrade,Jorge Luis,1957-04-21,BRA,Juiz de Fora,BRA
+andrlo,Andrenacci,Lorenzo,1995-01-02,ITA,Fermo,ITA
 andrm1,Andriani,Maycol,1987-09-17,ITA,Verona,ITA
 andrma,Andreolli,Marco,1986-06-10,ITA,Ponte dell'Olio,PC
 andrmi,Andrisani,Michele,1973-08-06,ITA,Bari,ITA
@@ -285,6 +292,7 @@ angest,Angeleri,Stefano,1926-08-26,ITA,Castellazzo Bormida,AL
 angeum,Angeli,Umberto,1938-02-12,ITA,Fiume,ITA
 angima,Angiolini,Mario,1911-04-25,ITA,Modena,ITA
 angljo,Angloma,Jocelyn Gaetan,1965-08-07,FRA,Les Abymes,GDL
+ankepe,Ankersen,Peter,1990-09-22,DEN,Esbjerg,DEN
 annian,Annibale,Antonio,1940-02-10,ITA,Milano,ITA
 annoca,Annovazzi,Carlo,1925-05-24,ITA,Milano,ITA
 annoen,Annoni,Enrico,1966-07-10,ITA,Giussano,MB
@@ -336,6 +344,7 @@ arabch,Araboni,Christian,1979-01-22,ITA,Palmanova,UD
 aramma,Aramu,Mattia,1995-05-14,ITA,Cirié,TO
 aranal,Arangelovic,Aleksandar,1920-12-18,YUG,Crna Trava,YUG
 aranca,Arano,Carlos Andres,1980-05-06,ARG,Avellaneda,ARG
+arangu,Arana,Guilherme,1997-04-14,BRA,São Paulo,BRA
 arbial,Arbitrio,Alberto Maria,1950-01-01,ITA,Gioia Tauro,RC
 arbilu,Arbizzani,Luciano,1938-09-09,ITA,Tripoli,LYB
 arcaa1,Arcadio,Antonio,1972-11-01,ITA,Monteiasi,TA
@@ -403,6 +412,7 @@ artema,Arteaga,Manuel Alejandro,1994-06-17,VEN,Maracaibo,VEN
 artian,Artich,Andrea,1979-08-30,ITA,Aviano,PN
 artied,Artistico,Edoardo,1969-06-16,ITA,Roma,ITA
 artifa,Artico,Fabio,1973-12-09,ITA,Venaria Reale,TO
+artiga,Artistico,Gabriele,2002-07-14,ITA,Roma,ITA
 artiis,Artico,Isidoro,1946-06-21,ITA,San Stino di Livenza,VE
 artiiv,Artipoli,Ivan,1986-03-24,ITA,Pescara,ITA
 asamkw,Asamoah,Kwadwo,1988-12-09,GHA,Accra,GHA
@@ -430,6 +440,7 @@ aubawi,Aubameyang,Willy Francois Robert,1987-02-16,FRA,Paris,FRA
 aubegi,Auber,Giuseppe,1938-08-29,ITA,Capodistria,PL
 audeem,Audero,Emil,1997-01-18,INA,Mataram,INA
 audima,Audisio,Mario Franco,1930-02-13,ITA,Venezia,ITA
+augeto,Augello,Tommaso,1994-08-30,ITA,Milano,ITA
 augubl,Augustyn,Blazej Szczepan,1988-01-26,POL,Strzelin,POL
 aurevi,Aureli,Vincenzo,1973-01-20,ITA,Avezzano,AQ
 austgi,Austoni,Gianluca,1994-02-04,ITA,Calcinate,BG
@@ -444,12 +455,14 @@ avenfe,Avenatti,Felipe,1993-04-26,URU,Montevideo,URU
 avensa,Aveni,Salvatore Fabio,1994-09-05,ITA,Barcelona Pozzo di Gotto,ME
 averre,Aversano,Renato,1960-07-09,ITA,Caivano,NA
 avesht,Avest,Hidde ter,1997-05-20,NED,Wierden,NED
+avoglo,Avogadri,Lorenzo,2001-08-21,ITA,Bergamo,ITA
 avolga,Avolio,Gaetano,1982-01-01,ITA,Napoli,ITA
 avravl,Avramov,Vlada,1979-04-05,YUG,Novi Sad,YUG
 ayalos,Ayala,Oscar Osmar,1980-03-14,PAR,Nueva Italia,PAR
 ayalro,Ayala,Roberto Fabian,1973-04-14,ARG,Parana,ARG
 ayaxra,Aya,Ramzi,1990-02-08,ITA,Roma,ITA
 ayewkw,Ayew,Kwame,1973-12-28,GHA,Accra,GHA
+ayexfl,Ayé,Florian,1997-01-19,FRA,Paris,FRA
 azorbi,Azor,Bidrece,1988-03-14, ,Delmas,Haiti
 azzac1,Azzali,Claudio,1956-02-18,ITA,Motta Baluffi,CR
 azzacl,Azzali,Claudio,1937-12-08,ITA,Cortile San Martino,PR
@@ -491,6 +504,7 @@ badaan,Badan,Andrea,1998-03-21,ITA,Monselice,PD
 bademi,Badelj,Milan,1989-02-25,CRO,Zagreb,CRO
 badiot,Badiali,Otello,1924-01-22,ITA,Castel San Pietro Terme,BO
 badiro,Badiani,Roberto,1949-10-09,ITA,Prato,ITA
+badjmo,Badjie,Modou,1997-01-02,GAM,Banjul,GAM
 baduea,Agyemang-Badu,Emmanuel,1990-12-02,GHA,Seikwa,GHA
 baduem,Badu,Emmanuel Agyeman,1990-12-02,GHA,Berekum,GHA
 baezja,Baez,Jaime,1995-04-25,URU,Montevideo,URU
@@ -532,6 +546,7 @@ balami,Balasa,Mihai Alexandru,1995-01-14,ROM,Targoviste,ROM
 balbab,Balbo,Abel Eduardo,1966-06-01,ARG,Empalme Villa Constitution,ARG
 balbal,Balbiano,Alfio,1931-02-17,ITA,Cuneo,ITA
 baldam,Baldizzone,Amedeo,1960-05-02,ITA,Genova,ITA
+baldan,Baldursson,Andri,2002-01-10,ISL, ,ISL
 baldd1,Baldini,Daniele,1964-02-21,ITA,Firenze,ITA
 baldda,Baldini,Davide,1970-12-05,ITA,Lugo,RA
 baldde,Baldi,Diodiede,1911-05-28,ITA,Trieste,ITA
@@ -579,12 +594,14 @@ ballg1,Ballico,Giovanni,1924-11-28,ITA,Lonigo,VI
 ballg2,Ballotta,Gabriele,1979-02-12,ITA,Codogno,LO
 ballga,Ballarini,Gastone,1937-04-06,ITA,Camerano,AN
 ballgi,Ballerio,Giuseppe,1909-06-27,ITA,Milano,ITA
+ballm1,Ballarini,Marco,2001-03-28,ITA, ,ITA
 ballma,Ballotta,Marco,1964-04-03,ITA,Casalecchio di Reno,BO
 ballpa,Balleello,Patrizio,1982-03-05,ITA,Mirano,VE
 ballse,Ballarin,Sergio,1925-12-11,ITA,Chioggia,VE
 ballva,Balloni,Valeriano,1934-08-15,ITA,Carrara,MS
 ballwa,Ballarin,Walter,1953-04-19,ITA,Venezia,ITA
 baload,Baloncieri,Adolfo,1897-07-27,ITA,Alessandria,ITA
+balobo,Balogh,Botond,2002-06-06,HUN, ,HUN
 baloma,Balotelli,Mario,1990-08-12,ITA,Palermo,ITA
 balona,Balossino,Natale,1904-12-25,ITA,Vercelli,ITA
 balono,Balogh,Norbert Sandor,1996-02-21,HUN,Hajduboszormeny,HUN
@@ -773,6 +790,7 @@ bearen,Bearzot,Enzo,1927-09-26,ITA,Aiello del Friuli,UD
 beatbr,Beatrice,Bruno,1948-03-05,ITA,Milano,ITA
 beatni,Beati,Nicola,1983-02-13,ITA,Perugia,ITA
 becafo,Becattini,Fosco,1925-03-16,ITA,Sestri Levante,GE
+becaro,Becão,Rodrigo,1996-01-19,BRA,Salvador,BRA
 beccev,Beccalossi,Evaristo,1956-05-12,ITA,Brescia,ITA
 beckal,Alisson,Becker Ramses,1992-10-02,BRA,Novo Hamburgo,BRA
 beckda,Beckham,David,1975-05-02,ENG,Londra,ENG
@@ -890,6 +908,7 @@ benufr,Benussi,Francesco,1981-10-15,ITA,Venezia,ITA
 benulo,Benucci,Lorenzo,1996-11-22,ITA,Venaria Reale,TO
 benval,Benvenga,Alex,1991-05-30,ITA,Gallipoli,LE
 benvma,Benvenuti,Mauro,1934-01-16,ITA,Firenze,ITA
+benzro,Benzar,Romario,1992-03-26,ROM,Timișoara,ROM
 beoral,Beorchia,Aldo,1916-09-20,ITA,Lauco,UD
 beraal,Berardi,Alessandro,1991-01-16,ITA,Roma,ITA
 berado,Berardi,Domenico,1994-08-01,ITA,Cariati,CS
@@ -1034,6 +1053,7 @@ bertth,Berthold,Thomas,1964-11-12,GER,Hanau,GER
 bertv1,Bertotto,Valerio,1973-01-15,ITA,Torino,ITA
 bertva,Bertini,Valerio,1947-03-05,ITA,Lastra a Signa,FI
 berupa,Beruatto,Paolo Antonello,1957-01-02,ITA,Cuorgné,TO
+berupi,Beruatto,Pietro,1998-12-21,ITA,Trieste,ITA
 besepr,Besea,Prince,1997-04-15,GHA,Wenchi,GHA
 bessda,Bessa,Daniel,1993-01-14,BRA,San Paolo,BRA
 betegi,Betello,Giam Piero,1935-01-11,ITA,Roma,ITA
@@ -1096,6 +1116,7 @@ bianro,Bianchi,Rolando Romano Beniamino,1983-02-15,ITA,Lovere,BG
 bianst,Bianconi,Stefano,1968-12-31,ITA,San Miniato,PI
 bianto,Bianchi,Tommaso,1988-11-01,ITA,Piombino,LI
 bianwa,Bianchi,Walter,1963-11-07,ITA,Aarau,SUI
+bianwi,Bianda,William,2000-04-30,FRA,Suresnes,FRA
 biasau,Biassoni,Aurelio,1912-06-12,ITA,Milano,ITA
 biasda,Biasi,Dario,1979-08-24,ITA,Isola della Scala,VR
 biasf1,Biasin,Fabio,1961-02-06,ITA,Gorizia,ITA
@@ -1156,6 +1177,7 @@ biscna,Biscatto,Nazzareno,1961-01-27,ITA,Legnago,VR
 bisemi,Bisevac,Milan,1983-08-31,YUG, ,YUG
 bisgmo,Bisgaard,Morten,1974-06-25,DEN,Randers,DEN
 bisian,Bisigato,Antonio,1911-07-26,ITA,Treviso,ITA
+bisodi,Bisoli,Dimitri,1994-03-25,ITA,Cagliari,ITA
 bisofr,Bison,Francesco,1980-10-05,ITA,Venezia,ITA
 bisoma,Biso,Mattia,1977-05-06,ITA,Milano,ITA
 bisopi,Bisoli,Pierpaolo,1966-11-20,ITA,Porretta Terme,BO
@@ -1185,6 +1207,7 @@ blasma,Blasi,Manuele,1980-08-17,ITA,Civitavecchia,RM
 blazal,Blaze,Allan Junior,1994-06-24,FRA,Petit-Bourg,FRA
 blazan,Blazevic,Anton,1902-08-18,ITA,Split,CRO
 blenre,Blengio,Renato,1924-03-15,ITA,Genova,ITA
+blevma,Bleve,Marco,1995-10-18,ITA,San Cesario di Lecce,ITA
 blislu,Blissett,Luther Loide,1958-02-01,ENG,Falmouth,Giamaica
 blomla,Blomqvist,Lars Jesper,1974-02-05,SWE,Tavelsjo,Svezia
 blonce,Blondet,Cesare,1910-02-11,ITA,Voghera,PV
@@ -1451,6 +1474,7 @@ bracad,Brach,Adelchi,1928-05-01,ITA,Aquileia,UD
 bracgi,Braccini,Giuseppe,1921-08-31,ITA,Livorno,ITA
 bracpa,Braca,Paolo,1944-07-20,ITA,Giulianova,TE
 bracri,Bracaloni,Riccardo,1970-02-07,ITA,Carrara,MS
+bracwi,Braciano,Willy,1999-12-05,CIV,Divo,CIV
 bradda,Bradaschia,Daniel,1989-03-02,ITA,Monfalcone,GO
 bradfi,Bradarić,Filip,1992-01-11,CRO,Split,CRO
 bradmi,Bradley,Michael Sheehan,1987-07-31,USA,Princeton,USA
@@ -1590,6 +1614,7 @@ bruzgi,Bruzzone,Giovanni,1957-05-06,ITA,Fauglia,PI
 bruzlo,Bruzzi,Lorenzo,2000-01-31,ITA,Bologna,ITA
 bruzma,Bruzzano,Marco Antonio,1968-04-24,ITA,Portoferraio,LI
 bruzti,Bruzzone,Tiziano,1984-08-19,ITA,Pisa,ITA
+buakna,Buaka,Nathan,1999-01-18,DRC, ,DRC
 bubagi,Bubacco,Giovanni,1938-08-27,ITA,Venezia,ITA
 bubnig,Bubnjic,Igor,1992-07-17,CRO,Split,CRO
 bucagi,Bucaro,Giovanni,1970-11-20,ITA,Palermo,ITA
@@ -1702,10 +1727,10 @@ cacima,Caciagli,Mario,1923-10-22,ITA,Pontedera,PI
 cadaal,Cadario,Aldo,1918-08-12,ITA,Portacomaro,AT
 cadear,Cadei,Arnaldo,1918-12-27,ITA,Cologna Veneta,VR
 cadepa,Cadete,Jorge Paulo Santos,1968-08-27,POR,Pemba,MOZ
-cadian,Cadili,Andrea,1999-06-05,ITA,San Gavino Monreale,VS
-cadrgi,Cadregari,Giuseppe,1919-10-21,ITA,Crema,CR
 cad�g1,Cadé,Giuseppe,1934-03-05,ITA,Zanica,BG
 cad�gi,Cadé,Giancarlo,1930-02-27,ITA,Zanica,BG
+cadian,Cadili,Andrea,1999-06-05,ITA,San Gavino Monreale,VS
+cadrgi,Cadregari,Giuseppe,1919-10-21,ITA,Crema,CR
 cafag1,Cafaro,Giuseppe,1948-07-21,ITA,Briatico,VV
 cafagi,Cafasso,Giuseppe,1929-04-03,ITA,Torino,ITA
 cafflu,Caffarelli,Luigi,1962-07-07,ITA,Napoli,ITA
@@ -1734,6 +1759,7 @@ calaga,CalÀ,Gaetano,1989-01-11,ITA,Licata,AG
 calal1,Calapai,Luca,1993-05-20,ITA,Messina,ITA
 calalu,Calafiore,Luigi,1928-05-12,ITA,Palermo,ITA
 calani,Calabro,Nicola Antonio,1976-08-10,ITA,Galatina,LE
+calari,Calafiori,Riccardo,2002-05-19,ITA,Roma,ITA
 calcfa,Calcaterra,Fabio,1965-05-13,ITA,Magenta,MI
 calcum,Calcagno,Umberto,1970-09-06,ITA,Chiavari,GE
 caldal,Calderoni,Alex,1976-05-31,ITA,Ravenna,ITA
@@ -1866,6 +1892,7 @@ cannad,Cannellini,Adriano,1973-03-05,ITA,Ascoli Piceno,ITA
 cannch,Cannavaro,Christian,1999-07-17,ITA,Napoli,ITA
 cannfa,Cannavaro,Fabio,1973-09-13,ITA,Napoli,ITA
 cannju,Cannarsa,Juriy,1976-04-22,ITA,Torino,ITA
+cannp1,Cannistrà,Paolo,2000-11-03,ITA, ,ITA
 cannpa,Cannavaro,Paolo,1981-06-26,ITA,Napoli,ITA
 canoan,Cano,Andrea,1976-04-18,ITA,Roma,ITA
 canoca,Canova,Carlo,1923-01-01,ITA,Ferrara,ITA
@@ -1951,6 +1978,7 @@ caraa1,Carannante,Antonio,1965-06-23,ITA,Pozzuoli,NA
 caraa2,Caracciolo,Andrea Antonio,1981-09-18,ITA,Milano,ITA
 caraa3,Caracciolo,Antonio Aldo,1990-06-30,ITA,Tempio Pausania,OT
 caraan,Caracciolo,Antonio,1917-01-29,ITA,Filadelfia,VV
+caraap,Carayol,Álex Pastor,1999-10-01,SPA,Barcelona,SPA
 carajo,Caraballo,Jorge Washington,1959-05-05,URU,Treinta y Tres,URU
 carami,Caraglio,Milton Joel,1988-12-01,ARG,Rosario,ARG
 carari,Carapellese,Riccardo,1922-07-01,ITA,Cerignola,FG
@@ -1975,6 +2003,7 @@ cardfr,Cardani,Franco,1925-03-05,ITA,Cardano al Campo,VA
 cardg1,Cardone,Giuseppe Nicola,1974-03-03,ITA,Pavia,ITA
 cardgi,Cardinali,Giampiero,1963-01-30,ITA,Montecarotto,AN
 cardiv,Cardinali,Ivano,1930-11-07,ITA,Ancona,ITA
+cardm1,Cardinali,Matteo,2001-06-28,ITA,Roma,ITA
 cardma,Cardacio,Mathias Adolfo,1987-10-02,URU,Montevideo,URU
 cardro,Cardinale,Roberto,1981-06-12,ITA,Pollena Trocchia,NA
 cardth,Thiago Ribeiro,Cardoso,1986-02-24,BRA,Pontes Gestal,BRA
@@ -2078,6 +2107,7 @@ casaot,Casanova,Ottorino,9015-11-23,ITA,Guastalla,RE
 casapa,Casale,Pasquale,1959-03-02,ITA,Napoli,ITA
 casaru,Casari,Ruggero,1954-12-19,ITA,Paderno Franciacorta,BS
 casast,Casale,Stefano,1971-02-13,ITA,Potenza,ITA
+casati,Casasola,Tiago,1995-08-11,ARG,Buenos Aires,ARG
 casato,Casadio,Tolmino,1916-08-11,ITA,Crevalcore,BO
 casava,Casaroli,Valter,1957-04-13,ITA,Roma,ITA
 casavi,Casaretti,Vittorio,1922-10-24,ITA,Trecasali,PR
@@ -2335,12 +2365,15 @@ cesare,Cesarini,Renato,1906-04-11,ITA,Senigallia,AN
 cesaro,Cesati,Roberto Arcangelo,1957-02-05,ITA,Milano,ITA
 cestri,Cestaro,Riccardo,1997-05-03,ITA,Bologna,ITA
 ceteda,Ceter,Damir,1997-11-02,COL,Buenaventura,COL
+cetiym,Çetin,Yıldırım Mert,1997-01-01,TUR,Ankara,TUR
 cettma,Cetto,Mauro Dario Jesus,1982-04-14,ARG,Rosario,ARG
 ceveca,Cevenini,Carlo,1901-03-08,ITA,Milano,ITA
 cevelu,Cevenini,Luigi,1895-03-13,ITA,Milano,ITA
 cevoro,Cevoli,Roberto,1968-12-29,ITA,Rimini,ITA
+chabju,Chabot,Julian,1998-02-12,GER,Hanau,GER
 chalna,Chalobah,Nathaniel,1994-12-12,ENG,Freetown,Sierra Leone
 chamjo,Chamot,Jose Antonio,1969-05-17,ARG,Concepcion del Uruguay,ARG
+chanjh,Chancellor,Jhon,1992-01-02,VEN,Puerto Ordaz,VEN
 chanro,Chanturia,Romani,1996-02-09,GEO,Tbilisi,GEO
 charri,Chara,Ricardo,1990-05-24,COL,Cali,COL
 charwi,Charles,William John,1931-12-27,WAL,Swansea,WAL
@@ -2391,6 +2424,7 @@ chioal,Chiorri,Alviero,1959-03-02,ITA,Roma,ITA
 chiolu,Chiodi,Luigi,1919-08-20,ITA,Vicenza,ITA
 chiost,Chiodi,Stefano,1956-12-26,ITA,Bentivoglio,BO
 chiote,Chiodi,Teresio,1912-02-28,ITA,Alessandria,ITA
+chirgi,Chironi,Gianmarco,1997-09-07,ITA,Nardò,ITA
 chirmi,Chirico,Michele,1940-08-22,ITA,Bari,ITA
 chirni,Chiricallo,Nicola,1933-12-02,ITA,Bari,ITA
 chirvl,Chiricheş,Vlad Iulian,1989-11-14,ROM,Bacău,ROM
@@ -2458,6 +2492,7 @@ cinglu,Cingolani,Luigi,1923-04-13,ITA,Foligno,PG
 cingni,Cingolani,Nicola,1979-01-28,ITA,Fano,PU
 cinqg1,Cinquetti,Giovanni Domenico,1960-10-19,ITA,Montichiari,BS
 cinqgi,Cinquetti,Giordano,1953-07-15,ITA,Verona,ITA
+ciocgi,Ciocci,Giuseppe,2002-01-24,ITA,Cagliari,ITA
 ciocma,Ciocci,Massimo,1968-02-25,ITA,Corridonia,MC
 ciocra,Ciocca,Raffaello,1945-04-26,ITA,Roma,ITA
 ciofda,Ciofani,Daniel,1985-07-31,ITA,Avezzano,AQ
@@ -2475,6 +2510,7 @@ ciscan,Cisco,Andrea,1951-04-16,ITA,Longare,VI
 cissdj,Cissé,Djibril,1981-08-12,FRA,Arles,FRA
 cissis,Cissokho,Issa,1985-02-23,FRA,Paris,FRA
 cisska,Cisse,Karamoko,1988-11-14,GUI,Koubia,GUI
+cistan,Cistana,Andrea,1997-04-01,ITA,Brescia,ITA
 citase,Citarella,Sergio,1960-01-16,ITA,Genova,ITA
 cittal,Citterio,Alberto,1917-05-10,ITA,Milano,ITA
 cittan,Cittadino,Andrea,1987-10-05,ITA,Avellino,ITA
@@ -2495,6 +2531,7 @@ clauma,Claut,Mario,1929-08-16,ITA,Trieste,ITA
 clemce,Clemente,Cesare,1934-08-11,ITA,Turriaco,GO
 clemcl,Clementi,Claudio,1968-12-19,ITA,San Vito di Leguzzano,VI
 clemra,Clemente,Raffaele,1980-01-08,ITA,Spilimbergo,PN
+cleode,Cleonise,Denilho,2001-12-08,NED, ,NED
 clergi,Clerici,Gianfranco,1939-03-16,ITA,Lucca,ITA
 clerse,Clerici,Sergio,1941-05-25,BRA,San Paolo,BRA
 clocgi,Clocchiatti,Giovanni,1920-06-24,ITA,Udine,ITA
@@ -2540,6 +2577,7 @@ colium,Colicchio,Umberto,1977-11-27,ITA,Maratea,PZ
 collal,Collimedaglia,Aldo,1919-07-21,ITA,Mortara,PV
 collan,Colletta,Angelo,1948-05-03,ITA,Genova,ITA
 collce,Meza Colli,Cesar Daniel,1991-10-05,PAR,Asuncion,PAR
+colleb,Colley,Ebrima,2000-02-01,GAM,Serekunda,GAM
 collfu,Collovati,Fulvio,1957-05-09,ITA,Teor,UD
 colllo,Collacchioni,Lorenzo,1980-08-09,ITA,Firenze,ITA
 collm1,Collauto,Mattia,1973-11-10,ITA,Venezia,ITA
@@ -2732,6 +2770,7 @@ cortr2,Cortellini,Roberto,1982-02-19,ITA,Brescia,ITA
 cortro,Cortesi,Roberto,1957-08-23,ITA,Vigatto,PR
 corval,Corvesi,Alessandro,1988-08-27,ITA,Roma,ITA
 corvda,Corvia,Daniele,1984-11-22,ITA,Roma,ITA
+corved,Corvi,Edoardo,2001-03-23,ITA,Parma,ITA
 coscar,Coscia,Aristide,1918-03-15,ITA,Alessandria,ITA
 coseac,Coser,Achille,1982-07-14,ITA,Gazzaniga,BG
 cosefr,Cosenza,Francesco,1986-02-05,ITA,Locri,RC
@@ -2832,6 +2871,7 @@ crislo,Crisetig,Lorenzo,1993-01-20,ITA,Cividale del Friuli,UD
 crislu,Criscuolo,Luigi,1944-10-15,ITA,Castellammare di Stabia,NA
 crisma,Cristi,Marco,1970-01-20,ITA,Brescia,ITA
 crispa,Cristallini,Paolo,1971-09-20,ITA,Milano,ITA
+crisro,Criscuolo,Roberto,1997-02-21,ITA,Palestrina,ITA
 crissa,Crispino,Sandro,1952-06-03,ITA,Parenti,CS
 crisse,Cristoforo,Sebastian Carlos,1993-08-23,URU,Montevideo,URU
 crisst,Crisci,Stefano,1989-08-18,ITA,Vasto,CH
@@ -2872,6 +2912,7 @@ cudica,Cudicini,Carlo,1973-09-06,ITA,Milano,ITA
 cudifa,Cudicini,Fabio,1935-10-20,ITA,Trieste,ITA
 cudigu,Cudicini,Guglielmo,1903-11-23,ITA,Trieste,ITA
 cudimi,Cudini,Mirko,1973-09-01,ITA,Sant'Elpidio a Mare,FM
+cuelja,Cuéllar,Jaume,2001-08-23,BOL,Granollers,SPA
 cuesmi,Michu,Miguel Perez Cuesta,1986-03-21,SPA,Oviedo,SPA
 cufrle,Cufré,Leandro Damian,1978-05-09,ARG,La Plata,ARG
 cugolo,Cugola,Loris Sergio,1946-07-19,ITA,Sorgà,VR
@@ -2888,6 +2929,7 @@ cupian,Cupini,Angelo,1958-09-18,ITA,Ortonovo,SP
 curafr,Curatoli,Francesco,1946-01-22,ITA,Napoli,ITA
 curbjo,Casanova,Jorge Daniel,1976-07-26,URU,Sauce,URU
 curcem,Curcio,Emanuele,1953-05-03,ITA,Sant'Angelo di Brolo,ME
+curcfe,Curcio,Felipe,1993-06-08,BRA,Jundiai,BRA
 curcgi,Curci,Gianluca,1985-07-12,ITA,Roma,ITA
 curida,Curiale,Davis,1987-12-30,ITA,Colonia,GER
 curire,Curi,Renato,1953-09-20,ITA,Montefiore dell'Aso,AP
@@ -2905,17 +2947,118 @@ cvetbo,Cvetkovic,Borislav,1962-09-30,YUG,Karlovac,YUG
 cvitma,Cvitanovic,Mario,1975-05-06,CRO,Zagreb,CRO
 cyprje,Cyprien,Jean-Pierre,1969-02-12,FRA,Basse-Terre,Guadalupa
 czacpi,Czachowski,Piotr,1966-11-07,POL,Warszawa,POL
+dabobr,Dabo,Bryan,1992-02-18,FRA,Marseille,FRA
+daboel,Dabo,El Hadji Ousmane,1977-02-08,FRA,Laval,FRA
 daCadi,Da Caprile,Dino,1911-04-24,ITA,Siena,ITA
 daCoal,Alex,Rodrigo Dias Da Costa,1982-06-17,BRA,Niteroi,BRA
 daCoan,Da Costa,Angelo Esmael Junior,1983-11-12,BRA,Sao Bernardo do Campo,BRA
 daCodi,Da Costa,Dino,1931-08-01,BRA,Rio de Janeiro,BRA
 daCofr,Costinha,Francisco José Rodrigues Da Costa,1974-12-01,POR,Lisbona,POR
+dacool,Dacourt,Olivier Yohan,1974-09-25,FRA,Montreuil-sous-Bois,FRA
 daCrca,Carlao,Carlos Roberto Da Cruz Junior,1986-01-19,BRA,San Paolo,BRA
 daCudi,Diego,Ribas Da Cunha,1985-02-28,BRA,Ribeirao Preto,BRA
+daddan,D'Addosio,Antonio,1950-01-01,ITA,Bologna,ITA
+dadist,Dadina,Stefano,1962-01-20,ITA,Imola,BO
 daForo,Rolando,Jorge Pires Da Fonseca,1985-08-31,CVE,Sao Vicente,CVE
+dagari,Daga,Riccardo,2000-01-13,ITA,Cagliari,ITA
+dagivi,Dagianti,Vittorio,1919-05-10,ITA,Roma,ITA
+dagoan,D'Agostino,Antonino,1978-10-08,ITA,Torino,ITA
+dagoga,D'Agostino,Gaetano,1982-06-03,ITA,Palermo,ITA
+dahlma,Dahlin,Martin Nataniel,1968-04-16,SWE,Uddevalla,SWE
+daiero,D'Aiello,Rocco,1986-06-28,ITA,Palermo,ITA
+daind1,Dainelli,Dario,1979-06-09,ITA,Pontedera,PI
+dainda,Daino,Daniele,1979-09-08,ITA,Alessandria,ITA
+dainfi,D'Ainzara,Fiorenzo,1973-01-23,ITA,Vasto,CH
+dalBcl,Dal Bello,Claudio,1956-06-25,ITA,Spilimbergo,PN
+dalbda,Dalbert, ,1993-09-08,BRA,Barra Mansa,BRA
+dalbdo,D'Alberto,Domenico,1907-02-01,HUN,Budapest,HUN
+dalBen,Dal Bianco,Ennio,1962-11-03,ITA,Thiene,VI
+dalBfe,Felipe,Dalbelo,1984-07-31,BRA,Guaratingueta,BRA
+dalBma,Dal Bello,Mattia,1984-01-19,ITA,Asolo,TV
+dalCal,Dal Canto,Alessandro,1975-03-10,ITA,Castelfranco Veneto,TV
+dalcer,D'Alconzo,Ernani,1919-12-13,ITA,Taranto,ITA
+dalCma,Dal Compare,Massimiliano,1969-02-19,ITA,Venezia,ITA
+dalCne,Dal Corso,Nello,1960-07-06,ITA,Mirano,VE
+dalDen,Dal Dan,Enzo,1900-10-02,ITA,Udine,ITA
+daledi,D'Alessi,Dino,1942-05-02,ITA,Paese,TV
+dalem1,D'Alessandro,Matteo,1989-05-18,ITA,Sondrio,ITA
+dalema,D'Alessandro,Marco,1991-02-17,ITA,Roma,ITA
+dalero,D'Alessandro,Rosario,1955-07-27,ITA,Napoli,ITA
+dalesi,D'Alessandro,Siro,1953-03-09,ITA,Campobasso,ITA
+dalfma,Dalfini,Mario,1909-02-02,ITA,Villafranca di Verona,VR
+dalFpa,Dal Fiume,Paolo,1955-01-26,ITA,Giacciano con Baruchella,RO
+dallgi,Dall'Igna,Giovanni,1972-08-16,ITA,Malo,VI
+dallni,Dalla Chiara,Nicola,1977-08-14,ITA,San Bonifacio,VR
+dallpi,Dalle Vedove,Pietro,1903-08-19,ITA,Cremona,ITA
+dalls1,Dallamano,Simone,1983-11-25,ITA,Brescia,ITA
+dallsa,Dalla Bona,Samuele,1981-02-06,ITA,San Donà di Piave,VE
+dallsi,Dalle Vacche,Silvano,1923-09-30,ITA,Sant'Agata sul Santerno,RA
+dallst,Dall'Acqua,Stefano,1981-07-13,ITA,Oderzo,TV
+dalman,Dalmonte,Antonio,1919-04-03,ITA,Castrocaro Terme,FC
+dalMfi,Dal Moro,Filippo,1970-08-11,ITA,Treviso,ITA
+dalMfr,Dal Maso,Franco,1942-03-17,ITA,Thiene,VI
+dalMgi,Dal Monte,Giorgio Carlo,1931-05-04,ITA,Aosta,ITA
+dalmni,Dalmonte,Nicola,1997-09-13,ITA,Ravenna,ITA
+dalmst,Dalmat,Stephane,1979-02-16,FRA,Joué Les Tours,FRA
+dalMst,Dal Monte,Stefano,1943-08-22,ITA,Imperia,ITA
+dalmwi,Dalmat,Wilfried,1982-07-17,FRA,Tours,FRA
+dalPed,Dal Pos,Edoardo,1927-08-30,ITA,San Fior,TV
+dalPfe,Dal Pont,Ferdinando,1911-05-24,ITA,Udine,ITA
+dalPlu,Dal PrÀ,Luigino,1961-02-16,ITA,Cogollo del Cengio,VI
+daltsa,D'Alterio,Salvatore,1980-02-17,ITA,Villaricca,NA
+damav1,Damaşcan,Vitalie,1999-01-24,MOL,Soroca,MOL
+damavi,D'Amato,Vito,1944-07-27,ITA,Gallipoli,LE
+damban,D'Amblé,Andrea,1974-05-16,ITA,Lecce,ITA
+dambda,D'Ambrosio,Danilo,1988-09-09,ITA,Napoli,ITA
+damepa,Dametto,Paolo,1993-06-28,ITA,Oristano,ITA
+damian,D'Amico,Andrea,1981-03-16,ITA,Cuneo,ITA
+damife,D'Amico,Felice,2000-08-22,ITA,Palermo,ITA
+damifi,Damian,Filippo,1996-04-21,ITA,Castelfranco Veneto,TV
+damifr,D'Amico,Francesco Andrea,1989-05-17,ITA,Catania,ITA
+damig1,Damiani,Giuseppe,1950-06-15,ITA,Brescia,ITA
+damigi,Damiani,Oscar Giuseppe,1950-06-15,ITA,Brescia,ITA
+damisa,Damiani,Samuele,1998-01-30,ITA,Poggibonsi,SI
+damivi,D'Amico,Vincenzo,1954-11-06,ITA,Latina,ITA
 daMobr,Da Mota,Bruno Fontes,1987-01-24,SUI,Ginevra,SUI
+damore,Damonti,Renato,1950-09-12,ITA,Brescia,ITA
+dandal,D'Andrea,Alessandro,2000-03-22,ITA,Pietrasanta,ITA
+daneel,Danelutti,Eldino,1924-04-08,ITA,Cividale del Friuli,UD
+daneli,Danese,Livio,1969-11-17,ITA,Collecorvino,PE
+danesa,Danelutti,Sandro,1965-02-27,ITA,Udine,ITA
+danggi,D'Angiulli,Gian Piero,1948-04-25,ITA,Cormano,MI
+dangma,D'Angelo,Maurizio,1969-09-29,ITA,Napoli,ITA
+dangpi,D'Angelo,Piermarco,1999-10-25,ITA,Pescara,ITA
+dangsa,D'Angelo,Salvatore,1974-11-22,ITA,Napoli,ITA
+daniap,Daniele,Antonio Pio,2002-07-10,ITA, ,ITA
+danid1,Danilo, ,1991-07-15,BRA,Bicas,BRA
+danida,Danieli,Daniele,1934-07-03,ITA,Venezia,ITA
+danifr,D'Aniello,Francesco,1980-04-22,ITA,Aversa,CE
+danipa,D'Aniello,Pasquale,1985-12-16,ITA,Napoli,ITA
+danipr,Danieli,Primo,1899-06-24,ITA,Milano,ITA
+danist,Daniel,Stefano,1968-07-14,ITA,Monastier di Treviso,TV
+danito,Danilevicius,Tomas,1978-07-18,LIT,Klaipeda,LIT
+dannem,D'Anna,Emanuele,1982-05-23,ITA,Baiano,AV
+dannlo,D'Anna,Lorenzo,1972-01-29,ITA,Oggiono,LC
+danoan,Danotti,Angelo,1979-10-12,ITA,Leno,BS
+danofr,Danova,Franco,1930-05-26,ITA,Milano,ITA
+danogi,Danova,Giancarlo,1938-11-18,ITA,Sesto San Giovanni,MI
+danolu,Danova,Luigi,1952-06-05,ITA,Sant'Angelo Lodigiano,LO
+dantbr,Dante,Bruno,1920-02-14,ITA,Torino,ITA
+dantda,D'Antoni,David,1979-01-18,ITA,Viterbo,ITA
+danulu,Luis Silvio,Danuello,1960-01-28,BRA,Julio Mesquita,BRA
+danzan,Danzi,Andrea,1999-02-25,ITA,Verona,ITA
+daolfa,Daolio,Fausto,1947-02-05,ITA,Guastalla,RE
 daPoma,Da Pozzo,Mario,1939-07-09,ITA,Legnago,VR
+daprfa,DaprelÀ,Fabio,1991-02-19,SUI,Zurich,SUI
+daqura,D'Aquino,Raffaele,1903-11-23,ITA,Trani,BT
+darbeb,Darboe,Ebrima,2001-06-01,GAM, ,GAM
+dariac,Dari,Achille,1910-06-15,ITA,Golasecca,VA
+darist,Darin,Stelio,1926-12-30,ITA,Venezia,ITA
+darmma,Darmian,Matteo,1989-12-02,ITA,Legnano,MI
 daRoem,Emerson,Ferreira Da Rosa,1976-04-04,BRA,Pelotas,BRA
+darran,D'Arrigo,Angelo,1965-06-13,ITA,Genova,ITA
+darsse,D'Arsié,Sergio,1960-12-25,ITA,Jesolo,VE
+dasama,Dasara,Marco,1960-01-09,ITA,Cagliari,ITA
 daSia1,Nené,Anderson Miguel Da Silva,1983-07-28,BRA,Sorocaba,BRA
 daSiad,Adriano,Pereira Da Silva,1982-04-03,BRA,Salvador de Bahia,BRA
 daSial,Da Silva,Alejandro Damian,1982-05-18,PAR,Lamabaré,PAR
@@ -2937,104 +3080,6 @@ daSira,Rafael,Pereira Da Silva,1980-03-13,BRA,Barretos,BRA
 daSiro,Ronaldo,Pompeu Da Silva,1990-04-08,BRA,Caxambu do Sul,BRA
 daSith,Thiago Silva,Emiliano,1984-09-22,BRA,Rio de Janeiro,BRA
 daSivi,Silva,Victor Matheus Matos Da,1995-01-04,BRA,Cuiaba,BRA
-dabobr,Dabo,Bryan,1992-02-18,FRA,Marseille,FRA
-daboel,Dabo,El Hadji Ousmane,1977-02-08,FRA,Laval,FRA
-dacool,Dacourt,Olivier Yohan,1974-09-25,FRA,Montreuil-sous-Bois,FRA
-daddan,D'Addosio,Antonio,1950-01-01,ITA,Bologna,ITA
-dadist,Dadina,Stefano,1962-01-20,ITA,Imola,BO
-dagari,Daga,Riccardo,2000-01-13,ITA,Cagliari,ITA
-dagivi,Dagianti,Vittorio,1919-05-10,ITA,Roma,ITA
-dagoan,D'Agostino,Antonino,1978-10-08,ITA,Torino,ITA
-dagoga,D'Agostino,Gaetano,1982-06-03,ITA,Palermo,ITA
-dahlma,Dahlin,Martin Nataniel,1968-04-16,SWE,Uddevalla,SWE
-daiero,D'Aiello,Rocco,1986-06-28,ITA,Palermo,ITA
-daind1,Dainelli,Dario,1979-06-09,ITA,Pontedera,PI
-dainda,Daino,Daniele,1979-09-08,ITA,Alessandria,ITA
-dainfi,D'Ainzara,Fiorenzo,1973-01-23,ITA,Vasto,CH
-dalBcl,Dal Bello,Claudio,1956-06-25,ITA,Spilimbergo,PN
-dalBen,Dal Bianco,Ennio,1962-11-03,ITA,Thiene,VI
-dalBfe,Felipe,Dalbelo,1984-07-31,BRA,Guaratingueta,BRA
-dalBma,Dal Bello,Mattia,1984-01-19,ITA,Asolo,TV
-dalCal,Dal Canto,Alessandro,1975-03-10,ITA,Castelfranco Veneto,TV
-dalCma,Dal Compare,Massimiliano,1969-02-19,ITA,Venezia,ITA
-dalCne,Dal Corso,Nello,1960-07-06,ITA,Mirano,VE
-dalDen,Dal Dan,Enzo,1900-10-02,ITA,Udine,ITA
-dalFpa,Dal Fiume,Paolo,1955-01-26,ITA,Giacciano con Baruchella,RO
-dalMfi,Dal Moro,Filippo,1970-08-11,ITA,Treviso,ITA
-dalMfr,Dal Maso,Franco,1942-03-17,ITA,Thiene,VI
-dalMgi,Dal Monte,Giorgio Carlo,1931-05-04,ITA,Aosta,ITA
-dalMst,Dal Monte,Stefano,1943-08-22,ITA,Imperia,ITA
-dalPed,Dal Pos,Edoardo,1927-08-30,ITA,San Fior,TV
-dalPfe,Dal Pont,Ferdinando,1911-05-24,ITA,Udine,ITA
-dalPlu,Dal PrÀ,Luigino,1961-02-16,ITA,Cogollo del Cengio,VI
-dalbda,Dalbert, ,1993-09-08,BRA,Barra Mansa,BRA
-dalbdo,D'Alberto,Domenico,1907-02-01,HUN,Budapest,HUN
-dalcer,D'Alconzo,Ernani,1919-12-13,ITA,Taranto,ITA
-daledi,D'Alessi,Dino,1942-05-02,ITA,Paese,TV
-dalem1,D'Alessandro,Matteo,1989-05-18,ITA,Sondrio,ITA
-dalema,D'Alessandro,Marco,1991-02-17,ITA,Roma,ITA
-dalero,D'Alessandro,Rosario,1955-07-27,ITA,Napoli,ITA
-dalesi,D'Alessandro,Siro,1953-03-09,ITA,Campobasso,ITA
-dalfma,Dalfini,Mario,1909-02-02,ITA,Villafranca di Verona,VR
-dallgi,Dall'Igna,Giovanni,1972-08-16,ITA,Malo,VI
-dallni,Dalla Chiara,Nicola,1977-08-14,ITA,San Bonifacio,VR
-dallpi,Dalle Vedove,Pietro,1903-08-19,ITA,Cremona,ITA
-dalls1,Dallamano,Simone,1983-11-25,ITA,Brescia,ITA
-dallsa,Dalla Bona,Samuele,1981-02-06,ITA,San Donà di Piave,VE
-dallsi,Dalle Vacche,Silvano,1923-09-30,ITA,Sant'Agata sul Santerno,RA
-dallst,Dall'Acqua,Stefano,1981-07-13,ITA,Oderzo,TV
-dalman,Dalmonte,Antonio,1919-04-03,ITA,Castrocaro Terme,FC
-dalmni,Dalmonte,Nicola,1997-09-13,ITA,Ravenna,ITA
-dalmst,Dalmat,Stephane,1979-02-16,FRA,Joué Les Tours,FRA
-dalmwi,Dalmat,Wilfried,1982-07-17,FRA,Tours,FRA
-daltsa,D'Alterio,Salvatore,1980-02-17,ITA,Villaricca,NA
-damav1,Damaşcan,Vitalie,1999-01-24,MOL,Soroca,MOL
-damavi,D'Amato,Vito,1944-07-27,ITA,Gallipoli,LE
-damban,D'Amblé,Andrea,1974-05-16,ITA,Lecce,ITA
-dambda,D'Ambrosio,Danilo,1988-09-09,ITA,Napoli,ITA
-damepa,Dametto,Paolo,1993-06-28,ITA,Oristano,ITA
-damian,D'Amico,Andrea,1981-03-16,ITA,Cuneo,ITA
-damifi,Damian,Filippo,1996-04-21,ITA,Castelfranco Veneto,TV
-damifr,D'Amico,Francesco Andrea,1989-05-17,ITA,Catania,ITA
-damig1,Damiani,Giuseppe,1950-06-15,ITA,Brescia,ITA
-damigi,Damiani,Oscar Giuseppe,1950-06-15,ITA,Brescia,ITA
-damisa,Damiani,Samuele,1998-01-30,ITA,Poggibonsi,SI
-damivi,D'Amico,Vincenzo,1954-11-06,ITA,Latina,ITA
-damore,Damonti,Renato,1950-09-12,ITA,Brescia,ITA
-dandal,D'Andrea,Alessandro,2000-03-22,ITA,Pietrasanta,ITA
-daneel,Danelutti,Eldino,1924-04-08,ITA,Cividale del Friuli,UD
-daneli,Danese,Livio,1969-11-17,ITA,Collecorvino,PE
-danesa,Danelutti,Sandro,1965-02-27,ITA,Udine,ITA
-danggi,D'Angiulli,Gian Piero,1948-04-25,ITA,Cormano,MI
-dangma,D'Angelo,Maurizio,1969-09-29,ITA,Napoli,ITA
-dangpi,D'Angelo,Piermarco,1999-10-25,ITA,Pescara,ITA
-dangsa,D'Angelo,Salvatore,1974-11-22,ITA,Napoli,ITA
-daniap,Daniele,Antonio Pio,2002-07-10,ITA, ,ITA
-danida,Danieli,Daniele,1934-07-03,ITA,Venezia,ITA
-danifr,D'Aniello,Francesco,1980-04-22,ITA,Aversa,CE
-danipa,D'Aniello,Pasquale,1985-12-16,ITA,Napoli,ITA
-danipr,Danieli,Primo,1899-06-24,ITA,Milano,ITA
-danist,Daniel,Stefano,1968-07-14,ITA,Monastier di Treviso,TV
-danito,Danilevicius,Tomas,1978-07-18,LIT,Klaipeda,LIT
-dannem,D'Anna,Emanuele,1982-05-23,ITA,Baiano,AV
-dannlo,D'Anna,Lorenzo,1972-01-29,ITA,Oggiono,LC
-danoan,Danotti,Angelo,1979-10-12,ITA,Leno,BS
-danofr,Danova,Franco,1930-05-26,ITA,Milano,ITA
-danogi,Danova,Giancarlo,1938-11-18,ITA,Sesto San Giovanni,MI
-danolu,Danova,Luigi,1952-06-05,ITA,Sant'Angelo Lodigiano,LO
-dantbr,Dante,Bruno,1920-02-14,ITA,Torino,ITA
-dantda,D'Antoni,David,1979-01-18,ITA,Viterbo,ITA
-danulu,Luis Silvio,Danuello,1960-01-28,BRA,Julio Mesquita,BRA
-danzan,Danzi,Andrea,1999-02-25,ITA,Verona,ITA
-daolfa,Daolio,Fausto,1947-02-05,ITA,Guastalla,RE
-daprfa,DaprelÀ,Fabio,1991-02-19,SUI,Zurich,SUI
-daqura,D'Aquino,Raffaele,1903-11-23,ITA,Trani,BT
-dariac,Dari,Achille,1910-06-15,ITA,Golasecca,VA
-darist,Darin,Stelio,1926-12-30,ITA,Venezia,ITA
-darmma,Darmian,Matteo,1989-12-02,ITA,Legnano,MI
-darran,D'Arrigo,Angelo,1965-06-13,ITA,Genova,ITA
-darsse,D'Arsié,Sergio,1960-12-25,ITA,Jesolo,VE
-dasama,Dasara,Marco,1960-01-09,ITA,Cagliari,ITA
 dasode,Dasoul,Denis,1983-07-20,BEL,Liegi,BEL
 dassbr,Dazzi,Bruno,1923-09-10,ITA,Fidenza,PR
 datoje,Datolo,Jesus Alberto,1984-05-19,ARG,Carlos Spegazzini,ARG
@@ -3050,6 +3095,7 @@ daviga,Davin,Gabriele,1962-07-07,ITA,Torino,ITA
 davigi,D'Avino,Giuseppe,1927-09-10,ITA,Salerno,ITA
 davima,David,Mario,1934-01-03,ITA,Udine,ITA
 davoca,Davordzie,Carl,2000-05-27,GHA, ,GHA
+dawipa,Dawidowicz,Paweł,1995-05-20,POL,Olsztyn,POL
 deAglu,De Agostini,Luigi,1961-04-07,ITA,Udine,ITA
 deAgst,De Agostini,Stefano,1964-10-25,ITA,Udine,ITA
 deAlal,Almir,Moraes Pernambuquinho,1938-12-25,BRA,Recife,BRA
@@ -3066,6 +3112,7 @@ deArgu,Gustavo,Lazzaretti De Araujo,1984-03-09,BRA,Curitiba,BRA
 deArle,Leonardo,De Araujo,1969-09-05,BRA,Niteroi,BRA
 deArze,ZÉ Eduardo,De Araujo,1991-08-16,BRA,Uberaba,BRA
 deAsdi,De Ascentis,Diego,1976-07-31,ITA,Como,ITA
+deasfr,Deasti,Franco,1941-06-01,ITA,Torino,ITA
 deBean,De Bellis,Antonio,1937-02-02,ITA,Taranto,ITA
 deBeca,De Bernardi,Carlo,1952-12-09,ITA,Busto Arsizio,VA
 deBegi,De Bernardi,Gianfranco,1945-03-01,ITA,Busto Arsizio,VA
@@ -3076,12 +3123,15 @@ deCaan,De Carli,Antonio,1910-10-11,ITA,Guastalla,RE
 deCagi,De Carli,Giovanni,1903-04-23,ITA,Milano,ITA
 deCajo,Jorginho,Henrique Amaral De Castro Paulista,1980-02-20,BRA,San Paolo,BRA
 deCaro,De Carvalho,Roger,1986-12-10,BRA,Arapongas,BRA
+decasa,Decarli,Saulo Igor,1992-02-04,SUI,Brione sopra Minusio,SUI
 deCean,De Cecco,Andrea,1979-05-11,ITA,Latisana,UD
 deCec1,Cicinho,Cicero Joao De Cesare,1980-06-24,BRA,Pradopolis,BRA
 deCeci,De Cesare,Ciro,1971-12-16,ITA,Salerno,ITA
 deCefr,De Cecco,Franco Maria,1942-10-04,ITA,Buja,UD
 deCepa,De Ceglie,Paolo,1986-09-17,ITA,Aosta,ITA
+decoca,Caio,Ribeiro Decoussau,1975-08-16,BRA,San Paolo,BRA
 deCrma,De Cristofano,Marco,1983-06-17,ITA,Firenze,ITA
+dedizl,Dedic,Zlatko,1984-10-05,SLO,Bihac,SLO
 deDodo,De Dominicis,Domenico,1937-06-19,ITA,Monte Argentario,GR
 deEsju,Julio Cesar,Soares De Espindola,1979-09-03,BRA,Rio de Janeiro,BRA
 deFaal,De Fazio,Aldo,1927-05-26,ITA,Salerno,ITA
@@ -3089,146 +3139,47 @@ deFaan,De Falco,Andrea,1986-06-19,ITA,Ancona,ITA
 deFaf1,De Falco,Francesco,1979-03-07,ITA,Castellammare di Stabia,NA
 deFafr,De Falco,Franco,1959-04-02,ITA,Pomigliano d'Arco,NA
 deFegi,De Feudis,Giuseppe Pio,1983-07-10,ITA,Bollate,MI
-deFilo,De Filippis,Lodovico,1915-12-22,ITA,Ancona,ITA
-deFram,De Franceschi,Amedeo,0000-00-00,ITA, ,ITA
-deFrfr,De Francesco,Francesco,1977-09-21,ITA,Praia a Mare,CS
-deFriv,De Franceschi,Ivone,1974-01-01,ITA,Padova,ITA
-deGepa,De Gennaro,Pantaleo,1954-11-27,ITA,Molfetta,BA
-deGian,De Giovanni,Angelo Enzo,1928-11-15,ITA,Faenza,RA
-deGife,De Giuseppe,Ferdinando,1975-05-21,ITA,Reggio di Calabria,ITA
-deGipa,De Giovanni,Paolo,1955-02-06,ITA,San Marco in Lamis,FG
-deGipi,De Giorgio,Pietro,1983-02-16,ITA,Praia a Mare,CS
-deGito,De Giorgi,Tommaso Maria,1970-05-13,ITA,San Cesario di Lecce,LE
-deGrbe,De Grandi,Benigno,1924-06-15,ITA,Salsomaggiore Terme,PR
-deGrfr,De Gregori,Franco,1927-01-08,ITA,Vittorio Veneto,TV
-deGrp1,De Gregorio,Pascual Renato,1972-03-05,CHI,Coronel,CHI
-deGrpa,De Grandi,Paolo,1916-04-04,ITA,Rive,VC
-deGujo,De Guzman,Jonathan Alexander,1987-09-13,CAN,Toronto,CAN
-deIuem,De Iuliis,Emiliano,1971-02-08,ITA,Penne,PE
-deJejo,Jonathas,Cristian De Jesus,1989-03-06,BRA,Betim,BRA
-deJoni,De Jong,Nigel,1984-11-30,NED,Amsterdam,NED
-deLabr,De Lazzari,Bruno,1922-06-19,ITA,Mestre,VE
-deLama,De Laurentis,Marco,1976-05-21,ITA,Roma,ITA
-deLaro,De Lazzari,Rodrigo,1980-12-10,BRA,Curitiba,BRA
-deLira,Martinho,Raphael Alves De Lima,1988-04-15,BRA,Campo Grande,BRA
-deLone,De Lorenzi,Nello,1913-11-17,ITA,Bologna,ITA
-deLual,De Lucia,Alfonso,1983-11-12,ITA,Nola,NA
-deLug1,De Luca,Giuseppe,1991-10-11,ITA,Angera,VA
-deLugi,De Luca,Giuseppe,1916-09-15,ITA,Bari,ITA
-deLugr,De Luca,Graziano,1952-11-20,ITA,Orvieto,TR
-deLum1,De Luca,Manuel,1998-07-17,ITA,Bolzano,ITA
-deLuma,De Luca,Manuel,1984-06-23,ITA,Scandiano,RE
-deMaal,Demaria,Alejandro,1904-06-19,BRA,Votorantim,BRA
-deMag1,De Marchi,Giorgio,1934-05-01,ITA,Schio,VI
-deMag2,De Marchi,Gianfranco,1942-09-07,ITA,Paese,TV
-deMag3,De Martino,Giuseppe,1963-02-07,ITA,Orta Nova,FG
-deMaga,De Marzo,Gaetano,1903-12-08,ITA,Bari,ITA
-deMagi,De Marchi,Giuseppe,1916-05-03,ITA,Badia Polesine,RO
-deMal1,De Mango,Luciano,1957-01-18,ITA,Frascati,RM
-deMalu,De Marchi,Luigi,1910-12-10,ITA,Trino,VC
-deMam1,Marquinho,Marco Antonio De Mattos,1986-07-03,BRA,Passo Fundo,BRA
-deMam2,Maicosuel,Reginaldo De Matos,1986-06-16,BRA,Cosmopolis,BRA
-deMama,De Marchi,Marco Antonio,1966-09-08,ITA,Milano,ITA
-deMara,De Martino,Raffaele,1986-04-08,ITA,Nocera Inferiore,SA
-deMare,De Manzano,Renato,1907-03-19,ITA,Trieste,ITA
-deMaro,De Marco,Rocco,1963-05-04,ITA,Sora,FR
-deMase,De Maio,Sebastien,1987-03-05,FRA,Saint-Denis,FRA
-deMedo,Douglas Santos,Justino De Melo,1994-03-22,BRA,Joao Pessoa,BRA
-deMelu,Vinicio,Luis De Menezes,1932-02-28,BRA,Belo Horizonte,BRA
-deMial,Rodriguez,Alejandro De Miguel,1991-07-03,SPA,Terrassa,SPA
-deMian,De Min,Andrea,1971-04-20,ITA,Belluno,ITA
-deMigi,De Min,Giovanni,1940-05-28,ITA,Asmara,Eritrea
-deMima,De Micheli,Mario,1906-02-03,ITA,Roma,ITA
-deMimi,De Min,Michele,1972-11-13,ITA,Belluno,ITA
-deMoan,Anselmo,De Moraes,1989-02-20,BRA,San Paolo,BRA
-deNaag,De Nardi,Agostino,1939-02-01,ITA,Vittorio Veneto,TV
-deNafe,De Napoli,Fernando,1964-03-15,ITA,Chiusano di San Domenico,AV
-deNami,De Nadai,Michele,1954-09-08,ITA,Milano,ITA
-deNido,De Nicola,Domenico,1911-10-15,ITA,Castellammare di Stabia,NA
-deOlam,Amauri,Carvalho De Oliveira,1980-06-03,BRA,Carapiquiba,BRA
-deOlfi,Filipe Oliveira,Vilaca,1984-05-27,POR,Braga,POR
-deOllu,Lucas Evangelista,Santana De Oliveira,1995-02-06,BRA,Limeira,BRA
-deOlri,Oliveira,Ricardo De,1980-05-06,BRA,San Paolo,BRA
-deOlro,BabÙ,Rodney De Oliveira,1980-12-23,BRA,San Paolo,BRA
-deOlso,Socrates,Sampaio De Souza Vieira,1954-02-19,BRA,Belem,BRA
-dePage,Gerson,Candido De Paula,1967-06-01,BRA,San Paolo,BRA
-dePalu,De Paola,Luciano,1961-05-30,ITA,Crotone,ITA
-dePama,De Paula,Marcos Ariel,1983-12-19,BRA,Bariri,BRA
-deParo,De Paul,Rodrigo Javier,1994-05-24,ARG,Sarandi,ARG
-dePati,De Patre,Tiziano,1968-12-18,ITA,Notaresco,TE
-dePavi,De Paoli,Virgilio Roberto,1945-01-11,ITA,Buttapietra,VR
-dePero,De Petri,Roberto,1947-02-09,ITA,Udine,ITA
-dePiaf,De Pietri,Afro,9015-11-04,ITA,Carpi,MO
-dePido,De Pierro,Domenico,1944-03-27,ITA,Roccanova,PZ
-dePoal,De Poli,Alessandro,1969-10-07,ITA,Treviso,ITA
-dePogi,De Ponti,Gianluca,1952-07-14,ITA,Firenze,ITA
-dePrgi,De Pr�,Giovanni,1900-06-28,ITA,Genova,ITA
-deRaen,Radio,Enrico,1920-02-04,ITA,Trieste,ITA
-deRobe,De Rossi,Natalino,1936-12-15,ITA,Cologna Veneta,VR
-deRoda,De Rossi,Daniele,1983-07-24,ITA,Roma,ITA
-deRofr,De Rosalia,Francesco Paolo,1914-11-06,ITA,Palermo,ITA
-deRoga,De Rosa,Gaetano,1973-05-10,ITA,Dusseldorf,GER
-deRogi,De Rossi,Giorgio,1940-10-09,ITA,Ivrea,TO
-deRolu,De Robertis,Luigi,1936-08-17,ITA,Bari,ITA
-deRoma,De Roon,Marten Elco,1991-03-29,NED,Zwijndrecht,NED
-deRoni,De Rossi,Nicola,1983-01-17,ITA,Venezia,ITA
-deSaer,De Santis,Eros,1997-10-30,ITA,Tivoli,RM
-deSaiv,De Santis,Ivan Francesco,1997-05-21,ITA,Conversano,BA
-deSajo,Germano,JoséDe Saleso,1942-03-25,BRA,Conselheiro Pena,BRA
-deSamo,De Sanctis,Morgan,1977-03-26,ITA,Guardiagrele,CH
-deSapi,De Santis,Pietro,1927-07-01,ITA,Lecce,ITA
-deScma,De Sciglio,Mattia,1992-10-20,ITA,Milano,ITA
-deSido,De Simone,Domenico,1975-06-10,ITA,Napoli,ITA
-deSigi,De Sisti,Giancarlo,1943-03-13,ITA,Roma,ITA
-deSilo,De Silvestri,Lorenzo,1988-05-23,ITA,Roma,ITA
-deSima,De Simone,Marco,1963-01-09,ITA,Frattamaggiore,NA
-deSimi,De Simone,Michele,1977-02-09,ITA,Napoli,ITA
-deSivi,De Sio,Vincenzo,1972-07-10,ITA,Salerno,ITA
-deSoca,De Souza,Carlos Cezar,1938-09-06,BRA,Ribeirao Preto,BRA
-deSocl,De Sousa,Claudio,1985-08-10,ITA,Roma,ITA
-deSoje,Junior,Jenilson Angelo De Souza,1973-06-20,BRA,Santo Antonio de Jesus,BRA
-deSolu,Lucas Souza,Vieira,1990-07-04,BRA,Santo André,BRA
-deSoro,Robinho,De Souza,1984-01-25,BRA,Sao Vicente,BRA
-deStgi,De Stefani,Giuseppe,0000-00-00,ITA, ,ITA
-deStma,De Stefanis,Massimo,1957-02-08,ITA,Roma,ITA
-deStpi,De Stefanis,Piero,1914-08-30,ITA,Voghera,PV
-deToga,De Toni,Gabriele,1933-01-20,ITA,Sandrigo,VI
-deTogi,De Toma,Giovanni,1980-10-29,ITA,Campi Salentina,LE
-deTori,De Togni,Rino,1921-10-27,ITA,Giacciano con Baruchella,RO
-deTrgi,De Trizio,Giorgio,1961-02-28,ITA,Bari,ITA
-deVeda,De Vezze,Daniele,1980-01-09,ITA,Roma,ITA
-deVewa,De Vecchi,Walter,1955-02-18,ITA,Milano,ITA
-deVia1,De Vito,Andrea,1991-11-27,ITA,Pavia,ITA
-deVia2,De Vitis,Alessandro,1992-02-15,ITA,Piacenza,ITA
-deVial,De Vincenzi,Alfredo Ciriaco,1907-06-09,ARG,Buenos Aires,ARG
-deVian,De Vitis,Antonio Francesco,1964-05-16,ITA,Lecce,ITA
-deVicr,De Vito,Crescenzo,1979-08-16,ITA,Villaricca,NA
-deVido,De Vito,Domenico,1927-05-27,ITA,Angri,SA
-deVipa,De Vincenzo,Pasquale,1968-02-12,ITA,Bari,ITA
-deVrst,De Vrij,Stefan,1992-02-05,NED,Ouderkerk aan den Ijssel,NED
-deZero,De Zerbi,Roberto,1979-06-06,ITA,Brescia,ITA
-deasfr,Deasti,Franco,1941-06-01,ITA,Torino,ITA
-decasa,Decarli,Saulo Igor,1992-02-04,SUI,Brione sopra Minusio,SUI
-decoca,Caio,Ribeiro Decoussau,1975-08-16,BRA,San Paolo,BRA
-dedizl,Dedic,Zlatko,1984-10-05,SLO,Bihac,SLO
 defeit,Defendi,Italo,1895-08-28,ITA,Piubega,MN
 defema,Defendi,Marino Giovanni,1985-08-19,ITA,Bergamo,ITA
 defero,Defendi,Rodrigo,1986-06-17,BRA,Ribeirao Preto,BRA
+deFilo,De Filippis,Lodovico,1915-12-22,ITA,Ancona,ITA
+deFram,De Franceschi,Amedeo,0000-00-00,ITA, ,ITA
+deFrfr,De Francesco,Francesco,1977-09-21,ITA,Praia a Mare,CS
 defrgr,Defrel,Gregoire Andre,1991-06-17,FRA,Meudon,FRA
+deFriv,De Franceschi,Ivone,1974-01-01,ITA,Padova,ITA
 degada,Degano,Daniele,1982-09-21,ITA,Crema,CR
 degalu,Degara,Luciano,1912-09-07,ITA,Vercelli,ITA
 degapi,Degano,Pietro,1919-09-07,ITA,Lissa,YUG
 degava,Degani,Valentino,9015-02-14,ITA,Badia Polesine,RO
+deGepa,De Gennaro,Pantaleo,1954-11-27,ITA,Molfetta,BA
+deGian,De Giovanni,Angelo Enzo,1928-11-15,ITA,Faenza,RA
+deGife,De Giuseppe,Ferdinando,1975-05-21,ITA,Reggio di Calabria,ITA
 degigi,Degiorgis,Giorgio,1957-10-13,ITA,Genova,ITA
+deGipa,De Giovanni,Paolo,1955-02-06,ITA,San Marco in Lamis,FG
+deGipi,De Giorgio,Pietro,1983-02-16,ITA,Praia a Mare,CS
+deGito,De Giorgi,Tommaso Maria,1970-05-13,ITA,San Cesario di Lecce,LE
 degngi,Degni,Giovanni,1900-09-28,ITA,Roma,ITA
+deGrbe,De Grandi,Benigno,1924-06-15,ITA,Salsomaggiore Terme,PR
+deGrfr,De Gregori,Franco,1927-01-08,ITA,Vittorio Veneto,TV
 degrgi,Degradi,Giuseppe,1958-01-23,ITA,Casalpusterlengo,LO
 degrm1,Degrassi,Mario,1937-07-16,ITA,Monfalcone,GO
 degrm2,Degrassi,Mauro,1937-03-16,ITA,Grado,GO
 degrma,Degrassi,Mario,1919-01-22,ITA,Livorno,ITA
+deGrp1,De Gregorio,Pascual Renato,1972-03-05,CHI,Coronel,CHI
+deGrpa,De Grandi,Paolo,1916-04-04,ITA,Rive,VC
+deGujo,De Guzman,Jonathan Alexander,1987-09-13,CAN,Toronto,CAN
 dehore,Dehò,Renato,1946-09-12,ITA,Milano,ITA
 deioal,Deiola,Alessandro,1995-08-01,ITA,San Gavino Monreale,VS
+deIuem,De Iuliis,Emiliano,1971-02-08,ITA,Penne,PE
 deixto,Dei,Tommaso,1976-09-22,ITA,Roma,ITA
+deJejo,Jonathas,Cristian De Jesus,1989-03-06,BRA,Betim,BRA
+deJoni,De Jong,Nigel,1984-11-30,NED,Amsterdam,NED
 dejosi,Dejori,Simone,1995-05-14,ITA,Roma,ITA
+deLabr,De Lazzari,Bruno,1922-06-19,ITA,Mestre,VE
+delagi,Delaude,Giacomo,1923-04-04,ITA,Milano,ITA
+deLama,De Laurentis,Marco,1976-05-21,ITA,Roma,ITA
+deLaro,De Lazzari,Rodrigo,1980-12-10,BRA,Curitiba,BRA
+delban,Delbianco,Andrea,1969-03-14,ITA,Pesaro,PU
 delBan,Del Bino,Andrea,1965-04-28,ITA,Vinci,FI
 delBfa,Del Bianco,Fabio,1914-04-05,ITA,Gallarate,VA
 delBgi,Del Bianco,Giacomo,1939-01-13,ITA,Aquileia,UD
@@ -3241,36 +3192,17 @@ delDar,Del Debbio,Armando,1904-11-02,BRA,San Paolo,BRA
 delFal,Del Frati,Alberto,1924-06-06,ITA,Codogno,LO
 delFda,Del Fabro,Dario,1995-03-24,ITA,Alghero,SS
 delFfa,Del Fabro,Fabiano,1970-05-12,ITA,Udine,ITA
+delfgi,Delfino,Giovanni Battista,1937-06-03,ITA,Sezzadio,AL
+delflu,Delfino,Luciano,1932-08-09,ITA,Alessandria,ITA
 delFma,Del Favero,Mattia,1998-06-05,ITA,Firenze,ITA
 delGal,Del Grosso,Alessandro,1972-08-27,ITA,Ardea,RM
 delGbi,Del Giudice,Biagio,1988-07-10,ITA,Napoli,ITA
 delGcr,Del Grosso,Cristiano,1983-03-24,ITA,Giulianova,TE
 delGgi,Del Gratta,Giacomo,1935-11-24,ITA,Cascina,PI
-delGlu,Del Grosso,Luigi,1916-07-25,ITA,San Secondo Parmense,PR
-delLro,Del Lama,Roberto,1972-01-06,ITA,Pistoia,ITA
-delMce,Rickler Del Mare,Cesare Gianfranco,1987-03-18,ITA,Viareggio,LU
-delMru,Ruben Perez,Salvador Del Marmol,1989-04-26,SPA,Ecija,SPA
-delMst,Del Monte,Stefano,1964-08-08,ITA,Parma,ITA
-delMwa,Del Medico,Walter,1920-01-29,ITA,Feletto Umberto,UD
-delNit,Del Negro,Italo,1940-02-17,ITA,Basiliano,UD
-delNlu,Del Neri,Luigi,1950-08-23,ITA,Aquileia,UD
-delNsi,Del Nero,Simone,1981-08-04,ITA,Carrara,MS
-delPal,Del Piero,Alessandro,1974-11-09,ITA,Conegliano,TV
-delPlo,Del Prete,Lorenzo,1986-01-12,ITA,Roma,ITA
-delPse,Del Pinto,Sergio,1923-11-15,ITA,Roma,ITA
-delRce,Cesar Gomez,Del Rey,1967-10-23,SPA,Madrid,SPA
-delSfe,Del Sole,Ferdinando,1998-01-17,ITA,Napoli,ITA
-delSlu,Del Sol,Luis,1935-04-06,SPA,Arcos de Jalón,SPA
-delTce,Del Torto,Cesare,1911-10-20,ITA,Pergine Valdarno,AR
-delVem,Del Vecchio,Emanuele,1934-09-24,BRA,Sao Vicente,BRA
-delVfe,Del Vivo,Federico,1988-06-29,ITA,Livorno,ITA
-delZgi,Del Zotto,Giuseppe,1943-06-01,ITA,Udine,ITA
-delagi,Delaude,Giacomo,1923-04-04,ITA,Milano,ITA
-delban,Delbianco,Andrea,1969-03-14,ITA,Pesaro,PU
-delfgi,Delfino,Giovanni Battista,1937-06-03,ITA,Sezzadio,AL
-delflu,Delfino,Luciano,1932-08-09,ITA,Alessandria,ITA
 delggu,Delgrosso,Guido,1935-07-08,ITA,Borgo Val di Taro,PR
+delGlu,Del Grosso,Luigi,1916-07-25,ITA,San Secondo Parmense,PR
 delgro,Delgado,Roberto Afonso,1986-05-07,SPA,San Miguel de Abona,SPA
+deLira,Martinho,Raphael Alves De Lima,1988-04-15,BRA,Campo Grande,BRA
 delisa,D'Elia,Salvatore,1989-02-10,ITA,Mugnano di Napoli,NA
 della1,Dell'Oglio,Antonio,1963-06-19,ITA,Milano,ITA
 dellac,Dellarole,Achille,1902-07-17,ITA,Pezzana,VC
@@ -3301,150 +3233,169 @@ dellm1,Della Martira,Mauro,1951-12-16,ITA,Roma,ITA
 dellma,Della Bianchina,Mauro,1954-01-07,ITA,Massa,MS
 dellre,Dellarole,Renato,1914-05-07,ITA,Vercelli,ITA
 dellri,Della Puppa,Riccardo,1919-12-09,ITA,Aviano,PN
+delLro,Del Lama,Roberto,1972-01-06,ITA,Pistoia,ITA
 dellsa,Delli Carri,Samuel,1997-11-26,SUI,Sorengo,SUI
 delltr,Dellas,Traianos,1976-01-31,GRE,Saloniki,GRE
 dellvi,Della Casa,Stelvio Vittorio,1928-07-01,ITA,Genova,ITA
+delMce,Rickler Del Mare,Cesare Gianfranco,1987-03-18,ITA,Viareggio,LU
+delMru,Ruben Perez,Salvador Del Marmol,1989-04-26,SPA,Ecija,SPA
+delMst,Del Monte,Stefano,1964-08-08,ITA,Parma,ITA
+delMwa,Del Medico,Walter,1920-01-29,ITA,Feletto Umberto,UD
+delNit,Del Negro,Italo,1940-02-17,ITA,Basiliano,UD
 delnlo,Delnevo,Loris,1975-05-31,ITA,Torino,ITA
+delNlu,Del Neri,Luigi,1950-08-23,ITA,Aquileia,UD
+delNsi,Del Nero,Simone,1981-08-04,ITA,Carrara,MS
+deLone,De Lorenzi,Nello,1913-11-17,ITA,Bologna,ITA
+delPal,Del Piero,Alessandro,1974-11-09,ITA,Conegliano,TV
 delpcl,Delpin,Claudio,1942-08-20,ITA,San Vito al Torre,UD
+delPlo,Del Prete,Lorenzo,1986-01-12,ITA,Roma,ITA
+delPse,Del Pinto,Sergio,1923-11-15,ITA,Roma,ITA
+delRce,Cesar Gomez,Del Rey,1967-10-23,SPA,Madrid,SPA
+delSfe,Del Sole,Ferdinando,1998-01-17,ITA,Napoli,ITA
+delSlu,Del Sol,Luis,1935-04-06,SPA,Arcos de Jalón,SPA
+delTce,Del Torto,Cesare,1911-10-20,ITA,Pergine Valdarno,AR
+deLual,De Lucia,Alfonso,1983-11-12,ITA,Nola,NA
 deluan,Delucca,Antonio,1968-10-07,ITA,Roma,ITA
+deLug1,De Luca,Giuseppe,1991-10-11,ITA,Angera,VA
+deLugi,De Luca,Giuseppe,1916-09-15,ITA,Bari,ITA
+deLugr,De Luca,Graziano,1952-11-20,ITA,Orvieto,TR
+deLum1,De Luca,Manuel,1998-07-17,ITA,Bolzano,ITA
+deLuma,De Luca,Manuel,1984-06-23,ITA,Scandiano,RE
+delVem,Del Vecchio,Emanuele,1934-09-24,BRA,Sao Vicente,BRA
+delVfe,Del Vivo,Federico,1988-06-29,ITA,Livorno,ITA
 delvge,Delvecchio,Gennaro,1978-03-25,ITA,Barletta,BT
 delvma,Delvecchio,Marco,1973-04-07,ITA,Milano,ITA
+delZgi,Del Zotto,Giuseppe,1943-06-01,ITA,Udine,ITA
+deMaal,Demaria,Alejandro,1904-06-19,BRA,Votorantim,BRA
 demaat,Demaria,Attilio José,1909-03-19,ARG,Buenos Aires,ARG
 demafe,Demaria,Felice,1912-04-27,ARG,Haedo,ARG
+deMag1,De Marchi,Giorgio,1934-05-01,ITA,Schio,VI
+deMag2,De Marchi,Gianfranco,1942-09-07,ITA,Paese,TV
+deMag3,De Martino,Giuseppe,1963-02-07,ITA,Orta Nova,FG
+deMaga,De Marzo,Gaetano,1903-12-08,ITA,Bari,ITA
+deMagi,De Marchi,Giuseppe,1916-05-03,ITA,Badia Polesine,RO
 demahe,Demarco,Hector,1936-05-31,URU,Montevideo,URU
+deMal1,De Mango,Luciano,1957-01-18,ITA,Frascati,RM
+deMalu,De Marchi,Luigi,1910-12-10,ITA,Trino,VC
+deMam1,Marquinho,Marco Antonio De Mattos,1986-07-03,BRA,Passo Fundo,BRA
+deMam2,Maicosuel,Reginaldo De Matos,1986-06-16,BRA,Cosmopolis,BRA
+deMama,De Marchi,Marco Antonio,1966-09-08,ITA,Milano,ITA
+deMara,De Martino,Raffaele,1986-04-08,ITA,Nocera Inferiore,SA
+deMare,De Manzano,Renato,1907-03-19,ITA,Trieste,ITA
+deMaro,De Marco,Rocco,1963-05-04,ITA,Sora,FR
+deMase,De Maio,Sebastien,1987-03-05,FRA,Saint-Denis,FRA
+deMedo,Douglas Santos,Justino De Melo,1994-03-22,BRA,Joao Pessoa,BRA
+deMelu,Vinicio,Luis De Menezes,1932-02-28,BRA,Belo Horizonte,BRA
+deMial,Rodriguez,Alejandro De Miguel,1991-07-03,SPA,Terrassa,SPA
+deMian,De Min,Andrea,1971-04-20,ITA,Belluno,ITA
+deMigi,De Min,Giovanni,1940-05-28,ITA,Asmara,Eritrea
+deMima,De Micheli,Mario,1906-02-03,ITA,Roma,ITA
 demime,Demiral,Merih,1998-03-05,TUR,Kocaeli,TUR
+deMimi,De Min,Michele,1972-11-13,ITA,Belluno,ITA
+deMoan,Anselmo,De Moraes,1989-02-20,BRA,San Paolo,BRA
 demost,Demol,Stephane Auguste,1966-03-11,BEL,Watermael-Boitsfort,BEL
+deNaag,De Nardi,Agostino,1939-02-01,ITA,Vittorio Veneto,TV
+deNafe,De Napoli,Fernando,1964-03-15,ITA,Chiusano di San Domenico,AV
+deNami,De Nadai,Michele,1954-09-08,ITA,Milano,ITA
 denebr,Denegri,Bruno,1912-08-11,ITA,Genova,ITA
+deNido,De Nicola,Domenico,1911-10-15,ITA,Castellammare di Stabia,NA
 denige,Denis,German Gustavo,1981-09-10,ARG,Lomas de Zamora,ARG
+densst,Denswil,Stefano,1993-05-07,NED,Zaandam,NED
 dental,Dentoni,Sandro,1943-09-29,ITA,Meda,MB
 dentgi,Dentuto,Giorgio,1914-12-07,ITA,Bari,ITA
 dentpi,Dentella,Pietro,1920-08-16,ITA,Bergamo,ITA
 deoggi,Deogratias,Giovanni,1961-01-31,ITA,Cartoceto,PU
+deOlam,Amauri,Carvalho De Oliveira,1980-06-03,BRA,Carapiquiba,BRA
+deOlfi,Filipe Oliveira,Vilaca,1984-05-27,POR,Braga,POR
+deOllu,Lucas Evangelista,Santana De Oliveira,1995-02-06,BRA,Limeira,BRA
+deOlri,Oliveira,Ricardo De,1980-05-06,BRA,San Paolo,BRA
+deOlro,BabÙ,Rodney De Oliveira,1980-12-23,BRA,San Paolo,BRA
+deOlso,Socrates,Sampaio De Souza Vieira,1954-02-19,BRA,Belem,BRA
 depafa,Depaoli,Fabio,1997-04-24,ITA,Riva del Garda,TN
+dePage,Gerson,Candido De Paula,1967-06-01,BRA,San Paolo,BRA
+dePalu,De Paola,Luciano,1961-05-30,ITA,Crotone,ITA
+dePama,De Paula,Marcos Ariel,1983-12-19,BRA,Bariri,BRA
+deParo,De Paul,Rodrigo Javier,1994-05-24,ARG,Sarandi,ARG
+dePati,De Patre,Tiziano,1968-12-18,ITA,Notaresco,TE
+dePavi,De Paoli,Virgilio Roberto,1945-01-11,ITA,Buttapietra,VR
 depavi,Depaoli,Virginio,1938-06-22,ITA,Certosa di Pavia,PV
+dePero,De Petri,Roberto,1947-02-09,ITA,Udine,ITA
 depete,Depetrini,Teobaldo,1913-03-12,ITA,Vercelli,ITA
 depeum,Depetrini,Umberto,1944-07-29,ITA,Pontestura,AL
+dePiaf,De Pietri,Afro,9015-11-04,ITA,Carpi,MO
+dePido,De Pierro,Domenico,1944-03-27,ITA,Roccanova,PZ
+dePoal,De Poli,Alessandro,1969-10-07,ITA,Treviso,ITA
+dePogi,De Ponti,Gianluca,1952-07-14,ITA,Firenze,ITA
+dePrgi,De Pr�,Giovanni,1900-06-28,ITA,Genova,ITA
 deprma,Deprati,Mario,1928-10-11,ITA,Mortara,PV
+deRaen,Radio,Enrico,1920-02-04,ITA,Trieste,ITA
 deribr,Deri,Bruno,1907-07-25,ITA,Rosignano Marittimo,LI
 derigi,Derin,Giuseppe,1910-02-05,ITA,Muggia,TS
 derlro,Derlin,Roberto,1942-07-17,ITA,La Spezia,ITA
-dermka,Dermaku,Kastriot,1992-01-15, ,Scandiano,RE
+dermka,Dermaku,Kastriot,1992-01-15,ALB,Scandiano,RE
+deRobe,De Rossi,Natalino,1936-12-15,ITA,Cologna Veneta,VR
+deRoda,De Rossi,Daniele,1983-07-24,ITA,Roma,ITA
+deRofr,De Rosalia,Francesco Paolo,1914-11-06,ITA,Palermo,ITA
+deRoga,De Rosa,Gaetano,1973-05-10,ITA,Dusseldorf,GER
 derogi,Derosa,Giovanni,1956-09-15,ITA,Cerignola,FG
+deRogi,De Rossi,Giorgio,1940-10-09,ITA,Ivrea,TO
+deRolu,De Robertis,Luigi,1936-08-17,ITA,Bari,ITA
+deRoma,De Roon,Marten Elco,1991-03-29,NED,Zwijndrecht,NED
+deRoni,De Rossi,Nicola,1983-01-17,ITA,Venezia,ITA
 dertos,Dertycia,Oscar Alberto,1965-03-03,ARG,Cordoba,ARG
 deruan,Deruggiero,Angelo,1966-10-13,ITA,Cerignola,FG
+deSaer,De Santis,Eros,1997-10-30,ITA,Tivoli,RM
+deSaiv,De Santis,Ivan Francesco,1997-05-21,ITA,Conversano,BA
+deSajo,Germano,JoséDe Saleso,1942-03-25,BRA,Conselheiro Pena,BRA
 desama,Desailly,Marcel,1968-09-07,FRA,Accra,Ghana
+deSamo,De Sanctis,Morgan,1977-03-26,ITA,Guardiagrele,CH
+deSapi,De Santis,Pietro,1927-07-01,ITA,Lecce,ITA
 descdi,Deschamps,Didier Claude,1968-10-15,FRA,Bayonne,FRA
+deScma,De Sciglio,Mattia,1992-10-20,ITA,Milano,ITA
+deSido,De Simone,Domenico,1975-06-10,ITA,Napoli,ITA
+deSigi,De Sisti,Giancarlo,1943-03-13,ITA,Roma,ITA
+deSilo,De Silvestri,Lorenzo,1988-05-23,ITA,Roma,ITA
+deSima,De Simone,Marco,1963-01-09,ITA,Frattamaggiore,NA
+deSimi,De Simone,Michele,1977-02-09,ITA,Napoli,ITA
 desios,Desiderio,Oscar Mario,1938-02-01,ARG,Buenos Aires,ARG
 desist,Desideri,Stefano,1965-07-03,ITA,Roma,ITA
+deSivi,De Sio,Vincenzo,1972-07-10,ITA,Salerno,ITA
+deSoca,De Souza,Carlos Cezar,1938-09-06,BRA,Ribeirao Preto,BRA
 desocl,Desolati,Claudio,1955-01-24,ITA,Genk,BEL
+deSocl,De Sousa,Claudio,1985-08-10,ITA,Roma,ITA
+deSoje,Junior,Jenilson Angelo De Souza,1973-06-20,BRA,Santo Antonio de Jesus,BRA
+deSolu,Lucas Souza,Vieira,1990-07-04,BRA,Santo André,BRA
 desoma,Desolda,Massimo,1966-04-05,ITA,Brindisi,ITA
+deSoro,Robinho,De Souza,1984-01-25,BRA,Sao Vicente,BRA
 despki,Despodov,Kiril,1996-11-11,BUL,Kresna,BUL
 dessda,Dessena,Daniele,1987-05-10,ITA,Parma,ITA
 dessri,Dessi,Riccardo,1947-03-04,ITA,Cagliari,ITA
 destfl,Destro,Flavio,1962-08-28,ITA,Rivoli,TO
+deStgi,De Stefani,Giuseppe,0000-00-00,ITA, ,ITA
 destlo,Desti,Loris Enzo,1908-06-01,ITA,Crema,CR
+deStma,De Stefanis,Massimo,1957-02-08,ITA,Roma,ITA
 destma,Destro,Mattia,1991-03-20,ITA,Ascoli Piceno,ITA
+deStpi,De Stefanis,Piero,1914-08-30,ITA,Voghera,PV
 detala,Detari,Lajos,1963-04-24,HUN,Budapest,HUN
+deToga,De Toni,Gabriele,1933-01-20,ITA,Sandrigo,VI
+deTogi,De Toma,Giovanni,1980-10-29,ITA,Campi Salentina,LE
+deTori,De Togni,Rino,1921-10-27,ITA,Giacciano con Baruchella,RO
+deTrgi,De Trizio,Giorgio,1961-02-28,ITA,Bari,ITA
 dettfr,Dettori,Francesco,1983-03-02,ITA,Sassari,ITA
+deVeda,De Vezze,Daniele,1980-01-09,ITA,Roma,ITA
+deVewa,De Vecchi,Walter,1955-02-18,ITA,Milano,ITA
+deVia1,De Vito,Andrea,1991-11-27,ITA,Pavia,ITA
+deVia2,De Vitis,Alessandro,1992-02-15,ITA,Piacenza,ITA
+deVial,De Vincenzi,Alfredo Ciriaco,1907-06-09,ARG,Buenos Aires,ARG
+deVian,De Vitis,Antonio Francesco,1964-05-16,ITA,Lecce,ITA
+deVicr,De Vito,Crescenzo,1979-08-16,ITA,Villaricca,NA
+deVido,De Vito,Domenico,1927-05-27,ITA,Angri,SA
+deVipa,De Vincenzo,Pasquale,1968-02-12,ITA,Bari,ITA
+deVrst,De Vrij,Stefan,1992-02-05,NED,Ouderkerk aan den Ijssel,NED
+deZero,De Zerbi,Roberto,1979-06-06,ITA,Brescia,ITA
 dezija,Dezi,Jacopo,1992-02-10,ITA,Atri,TE
 dezogu,Dezotti,Gustavo Abel,1964-02-14,ARG,Monte Buey,ARG
 dhorvi,Dhorasoo,Vikash Rao,1973-10-10,FRA,Mauritius, 
-diBaa1,Di Bartolomei,Agostino,1955-04-08,ITA,Roma,ITA
-diBaag,Di Bartolomeo,Agostino,1939-02-11,ITA,Torre de' Passeri,PE
-diBag1,Di Bari,Giuseppe,1969-11-17,ITA,Foggia,ITA
-diBagi,Di Bari,Giorgio,1963-07-02,ITA,Bari,ITA
-diBeca,Di Bella,Carmelo,1921-01-23,ITA,Catania,ITA
-diBeda,Di Benedetti,Dante,1916-10-28,ITA,Genzano di Roma,RM
-diBefa,Di Bella,Fabrizio,1988-03-02,ITA,Roma,ITA
-diBilu,Di Biagio,Luigi,1971-06-03,ITA,Roma,ITA
-diBirj,Di Bin,Rjkj,1968-03-10,ITA,Torino,ITA
-diCaan,Di Carlo,Antonio,1962-06-06,ITA,Roma,ITA
-diCadi,Di Carlo,Dino,1946-04-21,ITA,Pescara,ITA
-diCado,Di Carlo,Domenico,1964-03-23,ITA,Cassino,FR
-diCaem,Di Carmine,Emidio,1952-03-08,ITA,Amatrice,RI
-diCapa,Di Canio,Paolo,1968-07-09,ITA,Roma,ITA
-diCasa,Di Carmine,Samuel,1988-09-29,ITA,Firenze,ITA
-diCeva,Di Cesare,Valerio,1983-05-23,ITA,Roma,ITA
-diChal,Di Chiara,Alberto,1964-03-29,ITA,Roma,ITA
-diChst,Di Chiara,Stefano,1956-02-21,ITA,Roma,ITA
-diCian,Di Cintio,Andrea,1971-08-16,ITA,Pescara,ITA
-diCoeg,Di Costanzo,Egidio,1922-07-11,ITA,Napoli,ITA
-diCuru,Di Cuonzo,Ruggero,1919-03-30,ITA,Barletta,BT
-diDagi,Di Davide,Giovanni,1934-12-05,ITA,Trieste,ITA
-diDipa,Di Dio,Palmiro,1985-07-06,ITA,Benevento,ITA
-diDoda,Di Donato,Daniele,1977-02-21,ITA,Giulianova,TE
-diFist,Di Fiordo,Stefano,1980-02-05,ITA,Civitavecchia,RM
-diFivi,Di Filippo,Vincenzo,1967-12-18,ITA,Siano,SA
-diFran,Di Franco,Antonino,1987-04-04,ITA,Palermo,ITA
-diFreu,Di Francesco,Eusebio Luca,1969-09-08,ITA,Pescara,ITA
-diFrfe,Di Francesco,Federico,1994-06-14,ITA,Pisa,ITA
-diFrlu,Di Franco,Luigi,1918-11-18,ITA,Roma,ITA
-diFrri,Di Fraia,Rino,1932-02-20,ITA,La Spezia,ITA
-diFura,Di Fusco,Raffaele,1961-10-06,ITA,Riardo,CE
-diGaan,Di Gaudio,Antonio,1989-08-16,ITA,Palermo,ITA
-diGean,Di Gennaro,Antonio,1958-10-05,ITA,Firenze,ITA
-diGeda,Di Gennaro,Davide Andrea Luca,1988-06-16,ITA,Milano,ITA
-diGegi,Di Gennaro,Gianluca,1987-02-11,ITA,San Felice a Cancello,CE
-diGera,Di Gennaro,Raffaele,1993-10-03,ITA,Saronno,VA
-diGesi,Di Gennaro,Silvio,1919-03-20,ITA,Civitavecchia,RM
-diGibe,Di Giacomo,Beniamino,1935-11-13,ITA,Porto Recanati,MC
-diGipa,Di Giovanni,Pasquale,1944-01-02,ITA,Napoli,ITA
-diGipi,Di Già,Pierluigi,1968-03-22,ITA,Milano,ITA
-diGivi,Di Giovanni,Vincenzo,1955-03-24,ITA,Palermo,ITA
-diGral,Di Grazia,Aldo,1963-09-16,ITA,Napoli,ITA
-diLaam,Di Latte,Amedeo,1974-01-03,ITA,Alassio,SV
-diLalu,Di Laura,Luca,1991-03-25,ITA,Cagliari,ITA
-diLefi,Di Leo,Filippo,1979-04-06,ITA,Bologna,ITA
-diLema,Di Lello,Mauro,1978-03-12,ITA,Roma,ITA
-diLeni,Di Leo,Nicola,1960-01-07,ITA,Trani,BT
-diLian,Di Livio,Angelo,1966-07-26,ITA,Roma,ITA
-diLilo,Di Livio,Lorenzo,1997-01-11,ITA,Torino,ITA
-diLocr,Di Loreto,Cristiano,1971-05-16,ITA,Roma,ITA
-diLoma,Di Loreto,Marco,1974-09-28,ITA,Terni,ITA
-diLust,Di Lucia,Stefano,1959-01-24,ITA,Roma,ITA
-diMaa1,Di Matteo,Antonio,1989-06-09,ITA,Venosa,PZ
-diMaal,Di Marco,Alfonso,1965-10-05,ITA,Milano,ITA
-diMaan,Di Maggio,Antonino Pietro,1974-02-24,ITA,Capaci,PA
-diMada,Di Maso,Dante,1924-07-23,ITA,Torino,ITA
-diMado,Di Matteo,Domenico,1950-01-07,ITA,Palermo,ITA
-diMafa,Di Mauro,Fabrizio,1965-06-18,ITA,Roma,ITA
-diMafr,Di Mariano,Francesco,1996-04-20,ITA,Palermo,ITA
-diMagi,Di Magno,Giampaolo,1974-04-01,ITA,Nettuno,RM
-diMalu,Di Matteo,Luca,1988-02-25,ITA,Pescara,ITA
-diMar1,Di Matteo,Roberto,1970-05-29,ITA,Sciaffusa,SUI
-diMaro,Di Martino,Roberto,1903-05-28,ITA,Castellammare di Stabia,NA
-diMase,Di Marzio,Sergio,1962-12-01,ITA,Atri,TE
-diMavi,Di Mauro,Vincenzo,1935-06-06,ITA,Napoli,ITA
-diMiba,Di Michele,Bartolomeo Mimmo,1957-08-21,ITA,Pescara,ITA
-diMida,Di Michele,David,1976-01-06,ITA,Guidonia Montecelio,RM
-diModa,Di Molfetta,Davide,1996-06-23,ITA,Sesto San Giovanni,MI
-diMuau,Di Muri,Augusto,1973-03-29,ITA,La Spezia,ITA
-diNaan,Di Natale,Antonio,1977-10-13,ITA,Napoli,ITA
-diNaar,Di Napoli,Arturo,1974-04-18,ITA,Milano,ITA
-diNiro,Di Nicola,Roberto,1961-04-03,ITA,Avezzano,AQ
-diPalu,Di Pasquale,Luigi,1919-06-12,ITA,Udine,ITA
-diPilo,Di Piazza,Longino,1920-02-01,ITA,Trieste,ITA
-diPima,Di Pietro,Mario,1928-04-23,BRA,Banne,BRA
-diPucl,Di Pucchio,Claudio,1944-08-09,ITA,Sora,FR
-diRogi,Di Rocco,Giovanni,1970-12-27,ITA,Napoli,ITA
-diRonu,Di Roberto,Nunzio,1985-09-21,ITA,Napoli,ITA
-diSaen,Di Santantonio,Enzo Jean Luc,1995-07-11,FRA,Tolone,FRA
-diSafa,Di Sauro,Fabio,1975-12-19,ITA,Terracina,LT
-diSagi,Di Sarno,Giuseppe,1964-05-02,ITA,Pomigliano d'Arco,NA
-diSapa,Di Sarno,Paolo,1968-06-01,ITA,Ivrea,TO
-diSeal,Di Seri,Alessandro,1972-04-15,ITA,La Valletta,Malta
-diSimi,Di Simoni,Michele,1971-01-25,ITA,Urbino,PU
-diSosa,Di Somma,Salvatore,1948-04-11,ITA,Castellammare di Stabia,NA
-diStpa,Di Stefano,Pasqualino,1965-02-26,ITA,Toronto,Canada
-diTafr,Di Tacchio,Francesco,1990-04-20,ITA,Trani,BT
-diTeda,Di Terlizzi,Davide,1976-01-31,ITA,Genova,ITA
-diToan,Di Tora,Andrea,1984-09-19,ITA,Gaeta,LT
-diToel,Di Toro,Elio,1975-01-28,ITA,Lanciano,CH
-diVama,Di Vaio,Marco,1976-07-15,ITA,Roma,ITA
-diVegi,Di Veroli,Giovanni,1932-08-11,ITA,Roma,ITA
-diVigi,Di Vicino,Giorgio,1980-07-16,ITA,Napoli,ITA
-diViro,Di Vincenzo,Rosario,1941-06-16,ITA,Genova,ITA
-diVivi,Di Vincenzo,Vincenzo,1966-08-18,ITA,Cervia,RA
 diabch,Diabaté,Cheick,1988-04-25,MLI,Bamako,MLI
 diabmo,Diaby,Moussa,1999-07-07,FRA,Paris,FRA
 diakal,Diakhate,Abdou Lahat,1998-12-31,SEN,Dakar,SEN
@@ -3464,30 +3415,103 @@ diawdj,Diawara,Djibril,1975-01-03,SEN,Dakar,SEN
 diawdo,Doudou,Diaw,1975-10-31,SEN,Pikine,SEN
 diazcr,Diaz,Cristian Lionel,1976-05-12,ARG,Florencio Varela,ARG
 diazra,Diaz,Ramon Angel,1959-08-29,ARG,La Rioja,ARG
+diBaa1,Di Bartolomei,Agostino,1955-04-08,ITA,Roma,ITA
+diBaag,Di Bartolomeo,Agostino,1939-02-11,ITA,Torre de' Passeri,PE
+diBag1,Di Bari,Giuseppe,1969-11-17,ITA,Foggia,ITA
+diBagi,Di Bari,Giorgio,1963-07-02,ITA,Bari,ITA
+diBeca,Di Bella,Carmelo,1921-01-23,ITA,Catania,ITA
+diBeda,Di Benedetti,Dante,1916-10-28,ITA,Genzano di Roma,RM
+diBefa,Di Bella,Fabrizio,1988-03-02,ITA,Roma,ITA
+diBilu,Di Biagio,Luigi,1971-06-03,ITA,Roma,ITA
 dibini,Di Bitonto,Nicola,1966-05-01,ITA,Barletta,BT
+diBirj,Di Bin,Rjkj,1968-03-10,ITA,Torino,ITA
+diCaan,Di Carlo,Antonio,1962-06-06,ITA,Roma,ITA
 dicaco,Dica,Constantin Nicolae,1980-05-09,ROM,Pitesti,ROM
+diCadi,Di Carlo,Dino,1946-04-21,ITA,Pescara,ITA
+diCado,Di Carlo,Domenico,1964-03-23,ITA,Cassino,FR
+diCaem,Di Carmine,Emidio,1952-03-08,ITA,Amatrice,RI
 dicagi,Dicara,Giacomo,1970-04-27,ITA,Pescara,ITA
+diCapa,Di Canio,Paolo,1968-07-09,ITA,Roma,ITA
+diCasa,Di Carmine,Samuel,1988-09-29,ITA,Firenze,ITA
+diCeva,Di Cesare,Valerio,1983-05-23,ITA,Roma,ITA
+diChal,Di Chiara,Alberto,1964-03-29,ITA,Roma,ITA
 dichda,Dichio,Danny Salvatore,1974-10-19,ENG,Hammersmith,ENG
+diChst,Di Chiara,Stefano,1956-02-21,ITA,Roma,ITA
+diCian,Di Cintio,Andrea,1971-08-16,ITA,Pescara,ITA
 dicklo,Dickmann,Lorenzo,1996-09-24,ITA,Milano,ITA
+diCoeg,Di Costanzo,Egidio,1922-07-11,ITA,Napoli,ITA
 dicojo,Pepin,José Machin Dicombo,1996-08-14,GUI,Bata,GUI Equatoriale
+diCuru,Di Cuonzo,Ruggero,1919-03-30,ITA,Barletta,BT
+diDagi,Di Davide,Giovanni,1934-12-05,ITA,Trieste,ITA
 didaro,Didac Vila,Rossello,1989-06-09,SPA,Barcelona,SPA
+diDipa,Di Dio,Palmiro,1985-07-06,ITA,Benevento,ITA
+diDoda,Di Donato,Daniele,1977-02-21,ITA,Giulianova,TE
 didoor,Didoné,Oreste,1967-07-16,ITA,Milano,ITA
 dienar,Diena,Armando,1914-04-08,ITA,Torino,ITA
 dienfe,Diena,Ferruccio,1912-08-26,ITA,Torino,ITA
 dienou,Dieng,Oumar,1972-12-30,FRA,Dakar,Senegal
 diexmh,Dié,Mhinseia Serge Aristide,1977-10-04,CIV,Abidjan,CIV
+diFist,Di Fiordo,Stefano,1980-02-05,ITA,Civitavecchia,RM
+diFivi,Di Filippo,Vincenzo,1967-12-18,ITA,Siano,SA
+diFran,Di Franco,Antonino,1987-04-04,ITA,Palermo,ITA
+diFreu,Di Francesco,Eusebio Luca,1969-09-08,ITA,Pescara,ITA
+diFrfe,Di Francesco,Federico,1994-06-14,ITA,Pisa,ITA
+diFrlu,Di Franco,Luigi,1918-11-18,ITA,Roma,ITA
+diFrri,Di Fraia,Rino,1932-02-20,ITA,La Spezia,ITA
+diFura,Di Fusco,Raffaele,1961-10-06,ITA,Riardo,CE
+diGaan,Di Gaudio,Antonio,1989-08-16,ITA,Palermo,ITA
+diGean,Di Gennaro,Antonio,1958-10-05,ITA,Firenze,ITA
+diGeda,Di Gennaro,Davide Andrea Luca,1988-06-16,ITA,Milano,ITA
+diGegi,Di Gennaro,Gianluca,1987-02-11,ITA,San Felice a Cancello,CE
+diGera,Di Gennaro,Raffaele,1993-10-03,ITA,Saronno,VA
+diGesi,Di Gennaro,Silvio,1919-03-20,ITA,Civitavecchia,RM
+diGibe,Di Giacomo,Beniamino,1935-11-13,ITA,Porto Recanati,MC
+diGipa,Di Giovanni,Pasquale,1944-01-02,ITA,Napoli,ITA
+diGipi,Di Già,Pierluigi,1968-03-22,ITA,Milano,ITA
+diGivi,Di Giovanni,Vincenzo,1955-03-24,ITA,Palermo,ITA
 digngi,D'Ignazio,Gilberto,1968-12-12,ITA,Putignano,BA
 dignlu,Digne,Lucas,1993-07-20,FRA,Meaux,FRA
+diGral,Di Grazia,Aldo,1963-09-16,ITA,Napoli,ITA
 dijkmi,Dijks,Mitchell,1993-02-09,NED,Purmerend,NED
 dikske,Diks,Kevin,1996-10-06,NED,Apeldoorn,NED
+diLaam,Di Latte,Amedeo,1974-01-03,ITA,Alassio,SV
+diLalu,Di Laura,Luca,1991-03-25,ITA,Cagliari,ITA
+diLefi,Di Leo,Filippo,1979-04-06,ITA,Bologna,ITA
+diLema,Di Lello,Mauro,1978-03-12,ITA,Roma,ITA
+diLeni,Di Leo,Nicola,1960-01-07,ITA,Trani,BT
+diLian,Di Livio,Angelo,1966-07-26,ITA,Roma,ITA
+diLilo,Di Livio,Lorenzo,1997-01-11,ITA,Torino,ITA
 dilini,Diliso,Nicola,1974-10-10,ITA,Bari,ITA
+diLocr,Di Loreto,Cristiano,1971-05-16,ITA,Roma,ITA
+diLoma,Di Loreto,Marco,1974-09-28,ITA,Terni,ITA
+diLust,Di Lucia,Stefano,1959-01-24,ITA,Roma,ITA
+diMaa1,Di Matteo,Antonio,1989-06-09,ITA,Venosa,PZ
+diMaal,Di Marco,Alfonso,1965-10-05,ITA,Milano,ITA
+diMaan,Di Maggio,Antonino Pietro,1974-02-24,ITA,Capaci,PA
+diMada,Di Maso,Dante,1924-07-23,ITA,Torino,ITA
+diMado,Di Matteo,Domenico,1950-01-07,ITA,Palermo,ITA
+diMafa,Di Mauro,Fabrizio,1965-06-18,ITA,Roma,ITA
 dimafe,Dimarco,Federico,1997-11-10,ITA,Milano,ITA
 dimafr,Dimarco,Francesco,1995-07-28,ITA,Genova,ITA
+diMafr,Di Mariano,Francesco,1996-04-20,ITA,Palermo,ITA
+diMagi,Di Magno,Giampaolo,1974-04-01,ITA,Nettuno,RM
+diMalu,Di Matteo,Luca,1988-02-25,ITA,Pescara,ITA
+diMar1,Di Matteo,Roberto,1970-05-29,ITA,Sciaffusa,SUI
+diMaro,Di Martino,Roberto,1903-05-28,ITA,Castellammare di Stabia,NA
+diMase,Di Marzio,Sergio,1962-12-01,ITA,Atri,TE
+diMavi,Di Mauro,Vincenzo,1935-06-06,ITA,Napoli,ITA
+diMiba,Di Michele,Bartolomeo Mimmo,1957-08-21,ITA,Pescara,ITA
+diMida,Di Michele,David,1976-01-06,ITA,Guidonia Montecelio,RM
 dimimi,Dimitrijevic,Milos,1984-02-16,YUG,Beograd,YUG
+diModa,Di Molfetta,Davide,1996-06-23,ITA,Sesto San Giovanni,MI
+diMuau,Di Muri,Augusto,1973-03-29,ITA,La Spezia,ITA
+diNaan,Di Natale,Antonio,1977-10-13,ITA,Napoli,ITA
+diNaar,Di Napoli,Arturo,1974-04-18,ITA,Milano,ITA
 dinefr,Dinelli,Franco,1937-12-21,ITA,Pola,ITA
 dineiv,Dinelli,Ivano,1930-02-06,ITA,Lucca,ITA
 dinigi,Dini,Giovanni,1925-09-22,ITA,Livorno,ITA
 dinima,Diniz,Marcus Plinio Paixao,1987-08-01,BRA,Vitoria,BRA
+diNiro,Di Nicola,Roberto,1961-04-03,ITA,Avezzano,AQ
 diomma,Diomedi,Marcello,1942-12-01,ITA,Calangianus,OT
 dionda,Dionigi,Davide,1974-01-10,ITA,Reggio nell'Emilia,ITA
 dionfe,Dionisi,Federico,1987-06-16,ITA,Rieti,ITA
@@ -3496,10 +3520,33 @@ diotal,Diotalevi,Alfredo,1917-08-08,ITA,Senigallia,AN
 diotpa,Diotti,Paolo Massimiliano,1971-10-05,ITA,Desio,MB
 diotvo,Diotallevi,Volturno,1922-09-04,ITA,Fano,PU
 diouel,Dioussé,El Hadji Assane,1997-09-20,SEN,Dakar,SEN
+diPalu,Di Pasquale,Luigi,1919-06-12,ITA,Udine,ITA
 dipalu,Dipasquale,Luigi,1980-10-09,ITA,Cerignola,FG
+diPilo,Di Piazza,Longino,1920-02-01,ITA,Trieste,ITA
+diPima,Di Pietro,Mario,1928-04-23,BRA,Banne,BRA
+diPucl,Di Pucchio,Claudio,1944-08-09,ITA,Sora,FR
 dircjo,Dirceu,José Guimaraes,1952-06-15,BRA,Curitiba,BRA
+diRogi,Di Rocco,Giovanni,1970-12-27,ITA,Napoli,ITA
+diRonu,Di Roberto,Nunzio,1985-09-21,ITA,Napoli,ITA
+diSaen,Di Santantonio,Enzo Jean Luc,1995-07-11,FRA,Tolone,FRA
+diSafa,Di Sauro,Fabio,1975-12-19,ITA,Terracina,LT
+diSagi,Di Sarno,Giuseppe,1964-05-02,ITA,Pomigliano d'Arco,NA
+diSapa,Di Sarno,Paolo,1968-06-01,ITA,Ivrea,TO
+diSeal,Di Seri,Alessandro,1972-04-15,ITA,La Valletta,Malta
+diSimi,Di Simoni,Michele,1971-01-25,ITA,Urbino,PU
+diSosa,Di Somma,Salvatore,1948-04-11,ITA,Castellammare di Stabia,NA
+diStpa,Di Stefano,Pasqualino,1965-02-26,ITA,Toronto,Canada
 distro,Distefano,Roberto Consolato,1964-02-21,ITA,Paternò,CT
+diTafr,Di Tacchio,Francesco,1990-04-20,ITA,Trani,BT
+diTeda,Di Terlizzi,Davide,1976-01-31,ITA,Genova,ITA
+diToan,Di Tora,Andrea,1984-09-19,ITA,Gaeta,LT
+diToel,Di Toro,Elio,1975-01-28,ITA,Lanciano,CH
+diVama,Di Vaio,Marco,1976-07-15,ITA,Roma,ITA
+diVegi,Di Veroli,Giovanni,1932-08-11,ITA,Roma,ITA
 divibr,Divina,Bruno,1945-02-25,ITA,Borgo Valsugana,TN
+diVigi,Di Vicino,Giorgio,1980-07-16,ITA,Napoli,ITA
+diViro,Di Vincenzo,Rosario,1941-06-16,ITA,Genova,ITA
+diVivi,Di Vincenzo,Vincenzo,1966-08-18,ITA,Cervia,RA
 djetma,Djetou,Martin Okeli,1974-12-15,FRA,Brogohla,CIV
 djidko,Djidji,Koffi,1992-11-30,CIV,Bagnolet,FRA
 djimbe,Djimsiti,Berat,1993-02-19,SUI,Zürich,SUI
@@ -3515,12 +3562,10 @@ djurmi,Djuric,Milan,1990-05-22,BOS,Tuzla,BOS
 djurur,Djurdjevic,Uros,1994-03-02,SRB,Beograd,SRB
 dlPeiv,De La Pena,Ivan,1976-05-06,SPA,Santander,SPA
 doAmle,Leandro,Camara Do Amaral,1977-08-06,BRA,San Paolo,BRA
-doCaal,Alberto,Valentim Do Carmo,1975-03-22,BRA,Oliveira,BRA
-doNale,Leandrinho,Henrique Do Nascimento,1998-10-11,BRA,Ribeirao Claro,BRA
-doPrgu,Do Prado,Guilherme Raymundo,1981-12-31,BRA,Campinas,BRA
 doardo,Doardo,Domenico,1974-07-03,ITA,Verona,ITA
 doblan,Doblas,Toni David,1980-08-05,SPA,Sevilla,SPA
 dobrig,Dobrovolski,Igor,1967-08-27,RUS,Markovo,RUS
+doCaal,Alberto,Valentim Do Carmo,1975-03-22,BRA,Oliveira,BRA
 docaju,Docabo,Juan Carlos,1970-12-14,ARG,Buenos Aires,ARG
 dodowa,D'Odorico,Walter,1913-09-04,ITA,Udine,ITA
 dogaal,Doga,Alessandro,1975-10-15,ITA,Genova,ITA
@@ -3533,6 +3578,7 @@ domean,Domenghini,Angelo,1941-08-25,ITA,Lallio,BG
 domema,Domenichini,Marco,1958-10-21,ITA,La Spezia,ITA
 domilo,Dominissini,Loris,1961-11-19,ITA,Udine,ITA
 domima,Domizzi,Maurizio,1980-06-28,ITA,Roma,ITA
+domini,Domínguez,Nicolás,1998-06-28,ARG,Haedo,ARG
 domise,Domini,Sergio,1961-03-11,ITA,Udine,ITA
 domode,Domoraud,Depri Cyrille Leandr,1971-07-22,CIV,Lakota,CIV
 donaal,Donati,Aldo,1910-09-29,ITA,Budrio,BO
@@ -3542,11 +3588,13 @@ donada,DonÀ,Dario,1961-09-17,ITA,Cismon del Grappa,VI
 donaet,Donati,Ettore,1955-10-01,ITA,Peccioli,PI
 donafe,Donati,Ferdinando,1949-07-06,ITA,Peccioli,PI
 donagi,Donati,Giulio,1990-02-05,ITA,Pietrasanta,LU
+doNale,Leandrinho,Henrique Do Nascimento,1998-10-11,BRA,Ribeirao Claro,BRA
 donam1,Donati,Massimo,1981-03-26,ITA,San Vito al Tagliamento,PN
 donama,Donadel,Marco,1983-04-21,ITA,Conegliano,TV
 donamo,Donati,Morris,1990-03-22,ITA,Cles,TN
 donaro,Donadoni,Roberto,1963-09-09,ITA,Cisano Bergamasco,BG
 donasp,Donati,Spartaco,1928-11-17,ITA,Fucecchio,FI
+don�cr,DonÀ,Cristiano,1973-01-29,ITA,Torino,ITA
 dondpi,Dondi,Pietro,1915-03-13,ITA,Novara,ITA
 dondwa,Dondoni,Walter,1965-08-18,ITA,Milano,ITA
 donia1,Donis,Anastasios,1996-08-29,ENG,Blackburn,ENG
@@ -3556,6 +3604,7 @@ donijp,Joao Paulo,Sergio Luiz Donizeti,1964-07-09,BRA,Campinas,BRA
 donipa,Doni,Paolo,1965-11-06,ITA,Genova,ITA
 donise,Donino,Secondo,1937-01-10,ITA,San Nazzaro Sesia,NO
 donkis,Donkor,Isaac,1995-08-15,GHA,Kumasi,GHA
+donna1,Donnarumma,Alfredo,1990-11-30,ITA,Torre Annunziata,ITA
 donnal,Donnarumma,Alessio,1998-02-16,ITA,Vico Equense,ITA
 donnan,Donnarumma,Antonio,1990-07-07,ITA,Castellammare di Stabia,NA
 donngi,Donnarumma,Gianluigi,1999-02-25,ITA,Castellammare di Stabia,NA
@@ -3564,7 +3613,7 @@ donocl,D'Onofrio,Claudio,1971-02-03,ITA,Visciano,NA
 donode,D'Onofrio,Denis,1989-07-03,ITA,Torino,ITA
 donsgo,Donsah,Godfred,1996-06-07,GHA,Accra,GHA
 donzel,Donzelli,Elia,1986-06-28,ITA,Chiaravalle,AN
-don�cr,DonÀ,Cristiano,1973-01-29,ITA,Torino,ITA
+doPrgu,Do Prado,Guilherme Raymundo,1981-12-31,BRA,Campinas,BRA
 dorael,D'Orazi,Elvezio,1920-05-24,ITA,Roma,ITA
 doralu,D'Orazio,Ludovico,2000-02-19,ITA,Sora,ITA
 dorari,Doratiotto,Riccardo,1999-06-07,ITA,Cagliari,ITA
@@ -3575,25 +3624,25 @@ dorifr,Dori,Franco,1943-06-05,ITA,Venezia,ITA
 doripa,D'Oriano,Pasquale,1961-10-08,ITA,Grado,GO
 dosMwe,Wellington,Teixeira Dos Montes,1988-06-21,BRA,Guaramirim,BRA
 dosSal,Alex,Costa Dos Santos,1989-01-29,BRA,Santa Luzia,BRA
+dossan,Dossena,Andrea,1981-09-11,ITA,Lodi,ITA
+dossca,Dossi,Carlo,1926-01-28,ITA,Fara Gera d'Adda,BG
+dossda,Dossi,Dario,1977-02-02,ITA,Brescia,ITA
 dosSel,Eliseu,Pereira Dos Santos,1983-10-01,POR,Angra do Heroismo,POR
+dossgi,Dossena,Giuseppe,1958-05-02,ITA,Milano,ITA
 dosSgl,Santos,Gleison Pinto,1981-08-18,BRA,Vitoria,BRA
+dossgu,Dossena,Guido,1910-09-06,ITA,Ombriano,CR
 dosSja,Jadson,Alves Dos Santos,1993-08-30,BRA,Sao Bernardo do Campo,BRA
 dosSju,Juan,Silveira Dos Santos,1979-02-01,BRA,Rio de Janeiro,BRA
 dosSma,Marcio Santos,Roberto,1969-09-15,BRA,San Paolo,BRA
+dossna,Dossena,Natale,1907-06-13,ITA,Cremona,ITA
 dosSra,Santos,Rafael Alves,1984-11-10,BRA,Jaboticabal,BRA
+dossre,Dossena,Renato,1987-04-14,ITA,Savona,ITA
 dosSre,Reinaldo,Rosa Dos Santos,1976-07-01,BRA,Belo Horizonte,BRA
 dosSsa,Saulo,Rodrigues Dos Santos Squarsone,1985-08-10,BRA,Salto,BRA
 dosSsi,Sidny,Feitosa Dos Santos,1981-07-21,BRA,Xique-Xique,BRA
 dosSw1,Wallace,Fortuna Dos Santos,1994-10-14,BRA,Rio de Janeiro,BRA
 dosSwa,Wallace,Oliveira Dos Santos,1994-05-01,BRA,Rio de Janeiro,BRA
 dosSwi,Wilker,Pereira Dos Santos,1987-06-16,BRA,Salvador,BRA
-dossan,Dossena,Andrea,1981-09-11,ITA,Lodi,ITA
-dossca,Dossi,Carlo,1926-01-28,ITA,Fara Gera d'Adda,BG
-dossda,Dossi,Dario,1977-02-02,ITA,Brescia,ITA
-dossgi,Dossena,Giuseppe,1958-05-02,ITA,Milano,ITA
-dossgu,Dossena,Guido,1910-09-06,ITA,Ombriano,CR
-dossna,Dossena,Natale,1907-06-13,ITA,Cremona,ITA
-dossre,Dossena,Renato,1987-04-14,ITA,Savona,ITA
 dottni,D'Ottavio,Nicola,1959-04-04,ITA,Agnone,IS
 dottpi,Dotti,Pietro,1939-05-06,ITA,Castelfranco Emilia,MO
 doubta,Doubai,Tapé Moussé Thierry Lambert,1988-07-01,CIV,Adjamé,CIV
@@ -3606,13 +3655,17 @@ draglu,Dragoni,Lucio,1954-03-12,ITA,Fabro,TR
 drambo,Dramé,Boukary,1985-07-22,FRA,Villepinte,FRA
 dreocl,Dreossi,Claudio Biagio,1931-07-06,ITA,Ronchi dei Legionari,GO
 drezpi,Drezza,Piergiorgio,1960-09-08,ITA,Colognola ai Colli,VR
+duarle,Duarte,Léo,1996-07-17,BRA,Mococa,BRA
 duarma,Mario Rui,Silva Duarte,1991-05-27,POR,Sines,POR
+dubied,Dubickas,Edgaras,1998-07-09,LIT,Marijampole,LIT
 ducabr,Ducati,Bruno,1938-03-27,ITA,Bengasi,LYB
 duexal,Dué,Alessandro,1913-07-10,ITA,Pisa,ITA
 dugach,Dugarry,Christophe Jerome,1972-03-24,FRA,Lormont,FRA
 dugiot,Dugini,Ottorino,1914-09-06,ITA,Terranuova Bracciolini,AR
 dugobr,Dugoni,Bruno,9015-03-30,ITA,Modena,ITA
+dumalu,Dumančić,Luka,1998-10-27,CRO,Split,CRO
 dumini,Dumitru,Nicolao Manuel,1991-10-12,ITA,Nacka,Svezia
+duncbo,Duncan,Bobby,2001-06-26,ENG,Whiston,ENG
 duncjo,Duncan,Joseph Alfred,1993-03-10,GHA,Accra,GHA
 dundlj,Dundjerski,Ljubisa,1972-05-26,YUG,Doboj,YUG
 dungca,Dunga,Carlos Caetano Bledorn Verri,1963-10-31,BRA,Ijui,BRA
@@ -3632,6 +3685,7 @@ dzeked,Dzeko,Edin,1986-03-17,BOS,Sarajevo,BOS
 dzembl,Dzemaili,Blerim,1986-04-12,SUI,Tetovo,Macedonia
 ebagos,Ebagua,Osarimen,1986-06-06,NGR,Benin City,NGR
 ebergi,Eberle,Giuseppe,1922-03-12,ITA,Torrebelvicino,VI
+eboast,Eboa,Steeve,2001-02-20,FRA, ,FRA
 ebunpa,Mpoku,Paul José Ebunge,1992-04-19,BEL,Kinshasa,Congo
 ederci,Eder,Citadin Martins,1986-11-15,BRA,Lauro Muller,BRA
 edersi,Edera,Simone,1997-01-09,ITA,Torino,ITA
@@ -3648,24 +3702,25 @@ ekonwt,Troost-Ekong,William,1993-09-01,NGR,Haarlem,NED
 ekstjo,Ekstroem,Johnny Douglas,1965-03-05,SWE,Orgryte,SWE
 ekstla,Ekstrand,Lars Henning Joel,1989-02-04,SWE,Lund,SWE
 ekubca,Ekuban,Caleb Ansah,1994-03-23, ,Villafranca di Verona,VR
-elHamo,El Hamdaoui,Mounir,1984-07-14,NED,Rotterdam,NED
-elHima,El Hilali,Mattia,1998-01-20, ,Milano,ITA
-elKaab,El Kaoutari,Abdelhamid,1990-03-17,FRA,Montpellier,FRA
-elKamo,El Kabir,Mostapha,1988-10-05,MAR,Targuist,MAR
-elKaom,El Kaddouri,Omar,1990-08-21,BEL,Bruxelles,BEL
-elShst,El Shaarawy,Stephan,1992-10-27,ITA,Savona,ITA
 elefan,Elefante,Antonino,1954-08-16,ITA,Gragnano,NA
 elefdi,Eleftheropoulos,Dimitrios,1976-08-07,GRE,Athena,GRE
 elezjo,Elez,Josip,1994-04-25,CRO,Split,CRO
+elHamo,El Hamdaoui,Mounir,1984-07-14,NED,Rotterdam,NED
+elHima,El Hilali,Mattia,1998-01-20, ,Milano,ITA
 eliaab,Eliakwu,Abdulahi Isah,1985-10-25,NGR,Lokoja,NGR
 eliaal,Eliani,Alberto,1922-01-14,ITA,Trieste,ITA
 eliael,Elia,Eljero George Rinaldo,1987-02-13,NED,Voorburg,NED
 eliafi,Elia,Firmino,1974-05-20,ITA,Napoli,ITA
 eliasa,Elia,Salvatore,1999-06-30,ITA,Prato,ITA
+elKaab,El Kaoutari,Abdelhamid,1990-03-17,FRA,Montpellier,FRA
+elKamo,El Kabir,Mostapha,1988-10-05,MAR,Targuist,MAR
+elKaom,El Kaddouri,Omar,1990-08-21,BEL,Bruxelles,BEL
 elkjpr,Elkjaer,Preben,1957-09-11,DEN,Copenaghen,DEN
 ellegi,Ellena,Giacinto,1914-11-13,ITA,Torino,ITA
 ellipa,Elliott,Paul Marcellous,1964-03-18,ENG,Lewisham,ENG
+elmael,Elmas,Eljif,1999-09-24,MAC,Skopje,MAC
 eloifr,Eloi,Francisco Chagas,1955-02-17,BRA,Andradina,BRA
+elShst,El Shaarawy,Stephan,1992-10-27,ITA,Savona,ITA
 elsndi,Elsneg,Dieter,1990-02-04,AUT,Wagna,AUT
 elyxro,Ely,Rodrigo,1993-11-03,ITA,Lajeado,BRA
 emamha,Emam,Hazem Mohamed Yehia,1975-05-10,EGY,Cairo,EGY
@@ -3676,6 +3731,7 @@ emegin,Emeghara,Innocent Nkasiobi,1989-05-27,SUI, ,SUI
 emilgi,Emiliani,Giovanni,1922-07-18,ITA,Conselice,RA
 emmexi,Emmers,Xian,1999-07-20,BEL,Lugano,SUI
 emolfl,Emoli,Flavio,1934-08-23,ITA,Torino,ITA
+empeal,Empereur,Alan,1994-03-10,BRA,Ipatinga,BRA
 eneaan,Enea,Antonino,1932-04-28,ITA,Ficarazzi,PA
 eneaca,Eneas,Camargo,1954-03-18,BRA,San Paolo,BRA
 engeen,Engel,Enrico,1909-06-01,ITA,Isola d&#39;Istria,CRO
@@ -3784,6 +3840,7 @@ fagngi,Fagni,Giuseppe,1950-05-13,ITA,Larciano,PT
 fagufe,Federico Gino,Acevedo,1993-02-26,URU, ,BRA
 faingi,Faini,Giacomo,1976-01-04,ITA,Brescia,ITA
 falafe,Falaguerra,Felice,1971-04-08,ITA,Morcone,BN
+falblu,Falbo,Luca,2000-02-21,ITA,Chivasso,ITA
 falcda,Falcioni,Davide,1975-05-19,ITA,Fano,PU
 falcdi,Falcinelli,Diego,1991-06-26,ITA,Marsciano,PG
 falcfi,Falco,Filippo,1992-02-11,ITA,Taranto,ITA
@@ -3883,7 +3940,9 @@ fedepa,Feder,Paolo,1955-10-08,ITA,Zevio,VR
 fedufr,Fedullo,Francisco,9015-05-27,URU,Montevideo,URU
 feixam,Fei,Amedeo,1952-10-03,ITA,Chiusi,SI
 feligi,Felicioli,Gian Filippo,1997-09-30,ITA,San Severino Marche,MC
+felil1,Felippe,Lucas,2000-05-03,BRA,São Paulo,BRA
 felilu,Felipe,Luiz,1997-03-22,BRA,Colina,BRA
+felima,Felici,Mattia,2001-04-17,ITA,Roma,ITA
 felipe,Felipe Anderson,Pereira Gomes,1993-04-15,BRA,Brasilia,BRA
 fellfu,Fellet,Fulvio,1952-09-15,ITA,Pordenone,ITA
 feltro,Feltscher,Rolf Gunther,1990-10-06,SUI,Bulach,SUI
@@ -3948,11 +4007,11 @@ ferrg6,Ferrero,Giuseppe,1942-10-13,ITA,Torino,ITA
 ferrg7,Ferradini,Giovanni,1953-05-09,ITA,Fucecchio,FI
 ferrg8,Ferrara,Giorgio,1954-12-06,ITA,Messina,ITA
 ferrg9,Ferri,Giacomo,1959-01-20,ITA,Crema,CR
+ferrga,Ferrari,Gabriel Enzo,1988-09-01,USA,New York,USA
 ferrgA,Gabriel,Ferreira Vasconcelos,1992-09-27,BRA,Unai,BRA
 ferrgB,Ferrari,Giacomo Nicola,1967-12-06,ITA,Calcinate,BG
 ferrgC,Ferrari,Gian Marco,1992-05-15,ITA,Parma,ITA
 ferrgD,Ferrarini,Gabriele,2000-04-09,ITA, ,ITA
-ferrga,Ferrari,Gabriel Enzo,1988-09-01,USA,New York,USA
 ferrgi,Ferrari,Giovanni,1907-12-06,ITA,Alessandria,ITA
 ferrgl,Ferron,Glauco,1924-08-28,ITA,Udine,ITA
 ferrgu,Ferrante,Guglielmo,1958-12-02,ITA,Lettomanoppello,PE
@@ -3978,9 +4037,9 @@ ferrm7,Ferrari,Marco,1966-08-21,ITA,Rimini,ITA
 ferrm8,Ferrari,Matteo,1979-12-05,ITA,Aflou,ALG
 ferrm9,Ferraro,Mattia,1990-05-21,ITA,Genova,ITA
 ferrmA,Ferrara,Marco,1994-05-05,ITA,Milano,ITA
+ferrma,Ferraris,Mario,1904-05-26,ITA,Vercelli,ITA
 ferrmB,Ferrari,Matteo,1994-04-05,ITA,Parma,ITA
 ferrmC,Ferrini,Manuel,1998-06-25,ITA,Rimini,ITA
-ferrma,Ferraris,Mario,1904-05-26,ITA,Vercelli,ITA
 ferrmi,Ferri,Michele,1981-05-29,ITA,Busto Arsizio,VA
 ferrmo,Ferrario,Moreno Luigi,1959-03-20,ITA,Lainate,MI
 ferrn1,Ferrari,Nicola,1966-06-25,ITA,Crema,CR
@@ -4130,6 +4189,7 @@ fondfu,Fonda,Fulvio,1931-07-04,ITA,Trieste,ITA
 fongli,Fongaro,Livio,1931-01-02,ITA,Valdagno,VI
 fonial,Foni,Alfredo,1911-01-20,ITA,Udine,ITA
 fonjdi,Fonjock,Divine,1987-01-16,CMR,Kumba,CMR
+fonsma,Fonseca,Matias,2001-03-12,ITA,Napoli,ITA
 fonsre,Reginaldo,Ferreira Da Silva Fonseca,1983-07-31,BRA,Jundiai,BRA
 fonswi,Wilson,Rodrigues Fonseca,1985-03-21,BRA,Araras,BRA
 fonta1,Fontana,Alfio,1932-11-10,ITA,Tradate,VA
@@ -4363,6 +4423,7 @@ galied,Galimberti,Edoardo,1915-07-21,ITA,Como,ITA
 galiro,Galia,Roberto,1963-03-16,ITA,Trapani,ITA
 galla1,Gallo,Alberto,1975-04-28,ITA,Padova,ITA
 galla2,Gallinetta,Alberto,1992-04-16,ITA,Giussano,MB
+galla3,Gallo,Antonio,2000-01-05,ITA,Palermo,ITA
 gallal,Gallardo,Alberto,1940-11-28,PER,Lima,PER
 gallan,Galli,Angelo,1912-09-08,ITA,Novara,ITA
 gallas,Galli,Astro,1913-04-29,ITA,Modena,ITA
@@ -4582,6 +4643,7 @@ ghetpi,Ghetti,Pierino,1951-07-24,ITA,Molinella,BO
 ghezab,Ghezzal,Abdelkader,1984-12-05,FRA,Decines-Charpieu,FRA
 ghezg1,Ghezzi,Giambattista,1967-02-14,ITA,Brembate,BG
 ghezgi,Ghezzi,Giorgio,1930-07-11,ITA,Cesenatico,FC
+ghezra,Ghezzal,Rachid,1992-05-09,ALG,Décines-Charpieu,FRA
 ghiaro,Ghiandi,Rodrigo,1951-08-18,ITA,Castellammare di Stabia,NA
 ghiavi,Ghiandi,Vittorio,1927-01-01,ITA,Genova,ITA
 ghibum,Ghibaudo,Umberto,1907-07-21,ITA,Torino,ITA
@@ -4637,6 +4699,7 @@ giang2,Giannichedda,Giuliano,1974-09-21,ITA,Pontecorvo,FR
 giang3,Gianola,Giorgio,1989-07-02,ITA,Milano,ITA
 giangi,Giannini,Giuseppe,1964-08-20,ITA,Roma,ITA
 giangu,Gianfardoni,Guido,1901-02-25,ITA,La Spezia,ITA
+gianja,Gianelli,Jacopo,2001-03-04,ITA,Magenta,ITA
 gianlu,Giandomenico,Luigi,1978-09-01,ITA,Macerata,ITA
 gianm1,Giannelli,Massimo,1970-03-10,ITA,Carrara,MS
 gianm2,Giandebiaggi,Marco,1969-02-01,ITA,Parma,ITA
@@ -4763,6 +4826,7 @@ gobbre,Gobbi,Renzo,1915-07-03,ITA,Vigevano,PV
 gobeg1,Gobetto,Giuliano,1917-03-16,ITA,Firenze,ITA
 gobegi,Gobetti,Giuseppe,1909-05-06,ITA,Torino,ITA
 godede,Godeas,Denis,1975-07-25,ITA,Cormons,GO
+godidi,Godín,Diego,1986-02-16,URU,Rosario,URU
 godivi,Godigna,Vittorio,1908-02-12,ITA,Pola,ITA
 godnvi,Godini,Vittorio,1920-01-03,ITA,Duino,TS
 goffce,Goffi,Cesare,1920-05-05,ITA,Torino,ITA
@@ -4786,6 +4850,7 @@ gomema,Gomez,Mario,1985-07-10,GER,Riedlingen,GER
 gomewa,Gomez,Walter,1927-12-12,URU,Montevideo,URU
 gomiam,Gomis,Amigo Alfred Junior,1993-09-05,SEN,Ziguinchor,SEN
 gomily,Gomis,Lys,1989-10-06,ITA, ,Senegal
+gomima,Gomis,Maurice,1997-11-10,ITA,Cuneo,ITA
 gonacy,Gona,Cyril,1984-09-25,NGR,Lagos,NGR
 gonama,Gonalons,Maxime,1989-03-10,FRA,Vénissieux,FRA
 gonfpi,Gonfiantini,Piero,1937-06-12,ITA,Signa,FI
@@ -4862,6 +4927,7 @@ grassi,Grassi,Silvano,1919-09-16,ITA,Signa,FI
 grated,Gratton,Edi,1924-07-25,ITA,Cervignano del Friuli,UD
 gratgu,Gratton,Guido,1932-09-23,ITA,Monfalcone,GO
 graucl,Grauso,Claudio,1979-03-18,ITA,Torino,ITA
+grava1,Gravillon,Andreaw,1998-02-08,GDL,Pointe-à-Pitre,GDL
 gravan,Gravillon,Andrew Rayan,1998-02-08,FRA,Pointe-a-Pitre,FRA
 gravgi,Grava,Gianluca,1977-03-07,ITA,Caserta,ITA
 gravli,Grava,Lino,1927-03-05,ITA,Vittorio Veneto,TV
@@ -4974,6 +5040,7 @@ gubest,Guberti,Stefano,1984-11-06,ITA,Sesto San Giovanni,MI
 guchro,Gucher,Robert Franz,1991-02-20,AUT,Graz,AUT
 guddsa,Guddo,Samuele,1999-07-02,ITA,Palermo,ITA
 gudmal,Gudmundsson,Albert Sigordur,1923-10-05,ISL,Reykjavik,ISL
+guemsi,Gümüş,Sinan,1994-01-15,GER,Pfullendorf,GER
 guenko,Günter,Koray,1994-08-16,GER,Höxter,GER
 guera1,Guerci,Alex,1989-07-31,ITA,Soresina,CR
 gueral,Guerra,Alessandro,1963-09-16,ITA,Genova,ITA
@@ -5046,6 +5113,7 @@ hateha,Hateboer,Hans,1994-01-09,NED,Beerta,NED
 hatema,Hateley,Mark Wayne,1961-11-07,ENG,Derby,ENG
 hatzmi,Hatz,Michael,1970-11-17,AUT,Vienna,AUT
 haucga,Hauche,Gabriel Augustin,1986-11-27,ARG,Remedios de Escalada,ARG
+hayeth,Haye,Thom,1995-02-09,NED,Amsterdam,NED
 hedmca,Hedman,Carl Magnus,1973-03-19,SWE,Botkyrka,SWE
 hegaah,Hegazi,Ahmed Elsayed Ali Elsayed,1991-01-25,EGY,Ismailia,EGY
 heinga,Heinze,Gabriel Ivan,1978-04-19,ARG,Crespo,ARG
@@ -5055,10 +5123,13 @@ heldor,Held,Orlando,1994-03-03,ITA,Genova,ITA
 helgiv,Helguera,Ivan,1975-03-28,SPA,Santander,SPA
 helglu,Helguera,Luis,1976-06-09,SPA,Ferrol,SPA
 helvth,Helveg,Thomas Lund,1971-06-24,DEN,Odense,DEN
+hendli,Henderson,Liam,1996-04-25,SCO,Livingston,SCO
 henrth,Henry,Thierry,1977-08-17,FRA,Les Ulis,FRA
 hernab,Hernandez,Abel Mathias,1990-08-08,URU,Pando,URU
+hernhe,Hernani, ,1994-03-27,BRA,São Gonçalo do Sapucaí,BRA
 hernos,Oscar Lopez,Hernandez,1980-05-11,SPA,Cerdanyola del Valles,SPA
 hernpa,Hernandez,Patricio José,1956-08-16,ARG,San Nicolas de los Arroyos,ARG
+hernth,Hernández,Theo,1997-10-06,FRA,Marseille,FRA
 herrdi,Tristan,Diego Herrera,1976-01-05,SPA,La Algaba,SPA
 herrjo,Herrera,José Oscar,1965-06-17,URU,Tala,URU
 hervgi,Hervatin,Gian Luca,1974-01-01,ITA,Porto Torres,SS
@@ -5131,11 +5202,13 @@ iezzge,Iezzo,Gennaro,1973-06-08,ITA,Castellammare di Stabia,NA
 ighaod,Ighalo,Odion Jude,1989-06-16,NGR,Lagos,NGR
 iglial,Iglio,Alberto,1996-04-20,ITA,Ravenna,ITA
 ignogi,Ignoffo,Giovanni Battista,1977-04-03,ITA,Palermo,ITA
+igorig,Igor, ,1998-02-07,BRA,Bom Sucesso,BRA
 ilicjo,Ilicic,Josip,1988-01-29,BOS,Prijedor,BOS
 ilieiv,Iliev,Ivica,1979-10-27,YUG,Beograd,YUG
 ilieni,Iliev,Nikolay,1964-03-31,BUL,Sofia,BUL
 imbefr,Imberti,Francesco,1912-03-17,ITA,Barge,CN
 imbrca,Imbriani,Carmelo,1976-02-10,ITA,Benevento,ITA
+imbugi,Imbula,Giannelli,1992-09-12,FRA,Vilvorde,BEL
 immoci,Immobile,Ciro,1990-02-20,ITA,Torre Annunziata,NA
 impalu,Imparato,Luigi,1963-01-17,ITA,Castellammare di Stabia,NA
 impast,Impallomeni,Stefano,1967-10-24,ITA,Roma,ITA
@@ -5214,6 +5287,7 @@ jacoca,Jacomuzzi,Carlo,1949-05-22,ITA,Torino,ITA
 jacoos,Jaconi,Osvaldo,1947-01-19,ITA,Mandello del Lario,LC
 jacopa,Jacobini,Paolo,1919-09-26,ITA,Roma,ITA
 jadiab,Jadid,Abderrazzak,1983-06-01,MAR,Beni Hamir,MAR
+jagifi,Jagiełło,Filip,1997-08-08,POL,Lubin,POL
 jairda,Jair,Da Costa,1940-07-09,BRA,São Paulo,BRA
 jajama,Jajalo,Mato,1988-05-25,BOS,Jajce,BOS
 jakuar,Jakupovic,Arnel,1998-05-29,AUT, ,AUT
@@ -5250,10 +5324,12 @@ joelin,Joelson,Inacio José,1983-07-10,BRA,Ibitinga,BRA
 jokibo,Jokic,Bojan,1986-05-17,SLO,Kranj,SLO
 jonkwi,Jonk,Wim,1966-10-12,NED,Volendam,NED
 jonsto,Jonsson,Torbjorn,1936-05-06,SWE,Ljusne,SWE
+jonyjo,Jony, ,1991-07-09,SPA,Cangas de Narcea,SPA
 jordbr,Jordão,Bruno,1998-10-12,POR,Marinha Grande,POR
 jordjo,Jordan,Joe,1951-12-15,SCO,Cleland,Scozia
 jordwi,Jordan,William John,1921-11-08,ENG,Bromley,ENG
 jorgla,Jorgensen,Lars Martin,1975-10-06,DEN,Ryomgard,DEN
+joroje,Joronen,Jesse,1993-03-21,FIN,Rautjärvi,FIN
 jorqcr,Jorquera,Cristobal Andres,1988-08-04,CHI,Santiago del Cile,CHI
 jovest,Jovetic,Stevan,1989-11-02,YUG,Podgorica,YUG
 jovizo,Jovicic,Zoran,1973-04-17,YUG,Beograd,YUG
@@ -5294,6 +5370,7 @@ karsri,Karsdorp,Rick,1995-02-11,NED,Schoonhoven,NED
 kasapa,Kasami,Pajtim,1992-06-02,SUI,Zurich,SUI
 kasare,Kasa,Redi,2001-09-01,ITA,Psrma,ITA
 kastgr,Kastanos,Grigoris,1998-01-30,CYP,Nicosia,CYP
+kastli,Kastrati,Lirim,1999-02-02,KOS,Malishevë,KOS
 kaszla,Kaszas,Laszlo,1938-02-18,HUN,Budapest,HUN
 katasr,Katanec,Srecko,1963-07-16,YUG,Lubiana,YUG
 kateth,Katergiannakis,Theofanis,1974-02-16,GRE,Saloniki,GRE
@@ -5319,6 +5396,7 @@ kiyiso,Kiyine,Sofian,1997-10-02,BEL,Verviers,BEL
 kjaesi,Kjaer,Simon Thorup,1989-03-26,DEN,Horsens,DEN
 klavra,Klavan,Ragnar,1985-10-30,EST,Viljandi,EST
 kleigu,Klein,Guido,1923-03-23,ITA,Roma,ITA
+klimau,Klimavičius,Augustinas,2001-04-27,LIT, ,LIT
 klinju,Klinsmann,Jurgen,1964-07-30,GER,Goppingen,GER
 klosmi,Klose,Miroslav,1978-06-09,POL,Opole,POL
 kluiju,Kluivert,Justin,1999-05-05,NED,Zaandam,NED
@@ -5355,6 +5433,7 @@ kosopo,Lirola,Pol Mikel,1997-08-13,SPA,Mollet del Valles,SPA
 kosser,Kossovel,Ernesto Attilio,1909-04-21,ITA,Fiume,ITA
 kostbo,Kostic,Bora,1930-06-14,YUG,Obrenovac,YUG
 kotnan,Kotnik,Andrej,1995-08-04,SLO, ,SLO
+kouac1,Kouamé,Christian,1997-12-06,CIV,Abidjan,CIV
 kouach,Kouadio,Christ,2000-12-23,CIV, ,CIV
 kouacr,Kouamé,Cristhian,1997-12-06,CIV,Abidjan,CIV
 koulka,Koulibaly,Kalidou,1991-06-20,FRA,Saint-Die-des-Vosges,FRA
@@ -5363,6 +5442,7 @@ kovada,Kovacevic,Darko,1973-11-18,YUG,Kovin,YUG
 kovama,Kovacic,Mateo,1994-05-06,AUT,Linz,AUT
 kovami,Kovacic,Miljenko,1973-03-19,YUG,Zagabria,YUG
 kovaro,Kovac,Robert,1974-04-06,GER,Berlino,GER
+kovayv,Kovadio,Yves,1999-12-12,CIV,Tiassalé,CIV
 kownda,Kownacki,Dawid,1997-03-14,POL,Gorzów Wielkopolski,POL
 kozali,Kozak,Libor,1989-05-30,CZE,Brumov-Bylnice,CZE
 kozmma,Kozminski,Marek,1971-02-07,POL,Cracovia,POL
@@ -5387,6 +5467,8 @@ krstfi,Krstic,Filip,1988-09-24,GER,Monaco,GER
 krstne,Krsticic,Nenad,1990-07-03,SRB,Beograd,SRB
 kruipi,Kruiver,Piet,1938-01-05,NED,Koog aan de Zaan,NED
 krunra,Krunic,Rade,1993-10-07,SRB,Foca,SRB
+kryeal,Kryeziu,Altin,2002-01-03,SLO,Kranj,SLO
+kubaja,Kubala,Jan,2000-05-05,CZE, ,CZE
 kubilu,Kubik,Lubos,1964-01-20,CZE,Vysoke Myto,CZE
 kuckju,Kucka,Juraj,1987-02-26,SVK,Bojnice,SVK
 kufema,Cuffersin,Marcello,1910-06-01,ITA,Trieste,ITA
@@ -5398,13 +5480,7 @@ kupito,Kupisz,Tomasz Mateusz,1990-01-02,POL,Radom,POL
 kurtja,Kurtic,Jasmin,1989-01-10,SLO,Crnomelj,SLO
 kutuvi,Kutuzov,Vitali,1980-03-20,BLR,Pinsk,BLR
 kuzmzd,Kuzmanovic,Zdravko,1987-09-22,SUI,Thun,SUI
-laFoan,La Fortezza,Antonio,1982-04-01,ITA,Bari,ITA
-laGuan,La Gumina,Antonino,1996-03-06,ITA,Palermo,ITA
-laPaan,La Palma,Antonio,1951-03-23,ITA,Brindisi,ITA
-laRofr,La Rosa,Francesco,1926-12-09,ITA,Messina,ITA
-laRogi,La Rosa,Giacomo,1946-08-25,ITA,Messina,ITA
-laToje,Suso,Jesus Joaquin Fernandez Saenz De La Torre,1993-11-19,SPA,Cadice,SPA
-laTonu,La Torre,Nunzio,1973-04-21,ITA,Catania,ITA
+kyrigi,Kyriakopoulos,Giorgos,1996-02-05,GRE,Patras,GRE
 labar1,Labardi,Roberto,1967-02-27,ITA,Firenze,ITA
 labaro,Labadini,Roberto,1964-07-09,ITA,Codogno,LO
 laboan,Labonia,Antonio Fernando,1959-07-27,ITA,Buenos Aires,ARG
@@ -5415,8 +5491,10 @@ laczzs,Laczko,Zsolt,1986-12-18,HUN,Szeged,HUN
 ladegi,Noto La Deca,Giuseppe,1928-04-13,ITA,Palermo,ITA
 ladiri,Ladinetti,Riccardo,2000-12-20,ITA, ,ITA
 lafoal,Lafont,Alban,1999-01-23,FRA,Ouagadougou,BFS
+laFoan,La Fortezza,Antonio,1982-04-01,ITA,Bari,ITA
 lafodo,Laforgia,Domenico,1928-08-11,ITA,Molfetta,BA
 lafrag,La Franca,Agostino,1931-02-24,ITA,Partinico,PA
+laGuan,La Gumina,Antonino,1996-03-06,ITA,Palermo,ITA
 laigpi,Laigle,Pierre,1970-09-12,FRA,Auchel,FRA
 laixva,Lai,Valentino,1984-02-03,ITA,Cagliari,ITA
 lakewi,Lakenberg,Wim,1921-04-19,NED,Sneek,NED
@@ -5473,13 +5551,17 @@ lanzda,Lanza,Damian Enrique,1982-04-10,ECU,Cuenca,ECU
 lanzen,Lanzi,Enrico,1953-02-05,ITA,Spessa,PV
 lanzma,Lanzaro,Maurizio,1982-03-14,ITA,Avellino,ITA
 lanzre,Lanza,Renzo,1936-07-26,ITA,Verona,ITA
+laPaan,La Palma,Antonio,1951-03-23,ITA,Brindisi,ITA
 lapagi,Lapadula,Gianluca,1990-02-07,ITA,Torino,ITA
 laparo,La Paz,Roberto Luiz,1919-08-19,URU,Canelones,URU
 lapeco,La Penna,Cosimo,1924-03-21,ITA,Campi Salentina,LE
 lapiwa,Lapini,Walter,1974-04-03,ITA,Poggibonsi,SI
+lappla,Lappalainen,Lassi,1998-08-24,FIN,Espoo,FIN
 larada,Danilo,Larangeira,1984-05-10,BRA,Sao Bernardo do Campo,BRA
 larien,Larini,Enrico,1934-12-03,ITA,Novara,ITA
 larika,Laribi,Karim,1991-04-20,ITA,Milano,ITA
+laRofr,La Rosa,Francesco,1926-12-09,ITA,Messina,ITA
+laRogi,La Rosa,Giacomo,1946-08-25,ITA,Messina,ITA
 larrjo,Larrivey,Joaquin Oscar,1984-08-20,ARG,Buenos Aires,ARG
 larrma,Larrondo,Marcelo Alejandro,1988-08-16,ARG,Tunuyan,ARG
 larshe,Larsen,Henrik,1966-05-17,DEN,Lyngby-Taarbaek,DEN
@@ -5496,6 +5578,8 @@ lateni,Latella,Nicolino,1902-06-22,ITA,La Spezia,ITA
 lathel,Lath,Emmanuel Latte,1999-01-02,CIV,Anoumalo Marcory,CIV
 latial,Latini,Alberto,1936-04-16,ITA,Certaldo,FI
 latodi,Latorre,Diego Fernando,1969-08-04,ARG,Buenos Aires,ARG
+laToje,Suso,Jesus Joaquin Fernandez Saenz De La Torre,1993-11-19,SPA,Cadice,SPA
+laTonu,La Torre,Nunzio,1973-04-21,ITA,Catania,ITA
 lattla,Latte,Lath Junior Emmanuel Delan,1999-01-01,CIV, ,CIV
 lattpa,Lattanzi,Pasquale,1950-03-24,ITA,Civitavecchia,RM
 lattri,Lattuada,Alessandro Rino,1913-10-17,ITA,Gallarate,VA
@@ -5521,6 +5605,7 @@ layumi,Layun,Miguel Arturo,1988-06-25,MEX,Cordoba,MEX
 lazaac,Lazaar,Achraf,1992-01-22,MAR,Casablanca,MAR
 lazade,Lazarevic,Dejan,1990-02-15,SLO,Lubiana,SLO
 lazage,Deulofeu,Gerard Lazaro,1994-03-13,SPA,Riudarenes,SPA
+lazava,Lazaro,Valentino,1996-03-24,AUT,Graz,AUT
 lazeni,Lazetic,Nikola,1978-02-09,SRB,Kosovska Mitrovica,SRB
 lazoda,Lazovic,Darko,1990-09-15,SRB,Cacak,SRB
 lazza1,Lazzarini,Alessandro,1967-01-10,ITA,Viareggio,LU
@@ -5530,10 +5615,10 @@ lazzfl,Lazzari,Flavio,1986-09-05,ITA,Roma,ITA
 lazzma,Lazzari,Manuel,1993-11-29,ITA,Valdagno,ITA
 lazzpa,Lazzotti,Paolo,1941-01-22,ITA,Pietrasanta,LU
 lazzvi,Lazzarini,Vinicio,1929-02-05,ITA,Portogruaro,VE
-leNogi,Le Noci,Giuseppe,1982-01-22,ITA,Como,ITA
 lealcl,Branco,Claudio Ibraim Vaz Leal,1964-04-04,BRA,Bagé,BRA
 lealhi,Hilario,Paulino Neves Freitas Leal,1974-05-15,FRA,Ajaccio,FRA
 lealni,Leali,Nicola,1993-02-17,ITA,Castiglione delle Stiviere,MN
+leaora,Leão,Rafael,1999-06-10,POR,Almada,POR
 learco,Leardi,Corrado,1947-02-21,ITA,Aquileia,UD
 ledecr,Ledesma,Cristian Daniel,1982-09-24,ARG,Buenos Aires,ARG
 ledeem,Ledesma,Emmanuel Jorge,1988-05-24,ARG,Quilmes,ARG
@@ -5560,6 +5645,7 @@ lemoma,Lemos,Mauricio,1995-12-28,URU,Rivera,URU
 lenafa,Lena,Fausto,1933-12-11,ITA,Galliate,NO
 lencca,Lenci,Carlo,1928-07-15,ITA,Viareggio,LU
 lencfa,Lenci,Fabricio German,1984-02-24,ARG,San Nicolas,ARG
+leNogi,Le Noci,Giuseppe,1982-01-22,ITA,Como,ITA
 lentgi,Lentini,Gianluigi,1969-03-27,ITA,Carmagnola,TO
 lenuen,Lenuzza,Ennio,1934-08-05,ITA,Pola,ITA
 lenzga,Lenzi,Gastone,1927-05-15,ITA,Bressanone,BZ
@@ -5592,6 +5678,7 @@ lestma,Lestienne,Maxime Christophe,1992-06-17,BEL,Courtrai,BEL
 lestmi,Lestani,Michele,1986-05-03,ITA,San Daniele del Friuli,UD
 letael,Letari,Elio,1934-07-19,ITA,Busto Arsizio,VA
 letiga,Letizia,Gaetano,1990-06-29,ITA,Napoli,ITA
+letika,Letica,Karlo,1997-02-11,CRO,Split,CRO
 letose,Leto,Sebastian Eduardo,1986-08-30,ARG,Alejandro Korn,ARG
 letsti,Letschert,Timo,1993-05-25,NED,Purmerend,NED
 levada,Levanto,Dario,1966-07-25,ITA,Cutrofiano,LE
@@ -5608,6 +5695,7 @@ lichst,Lichtsteiner,Stephan,1984-01-16,SUI,Adligenswil,SUI
 lickma,Licka,Mario,1982-04-30,CZE,Ostrava,CZE
 liedni,Liedholm,Nils,1922-10-08,SWE,Valdemarsvik,SWE
 lignma,Lignani,Matteo,1991-09-07,ITA,Umbertide,PG
+ligtmd,de Ligt,Matthijs,1999-08-12,NED,Leiderdorp,NED
 ligufr,Liguori,Franco,1946-06-12,ITA,Napoli,ITA
 liguli,Liguori,Liborio Attilio,1950-02-24,ITA,San Costantino Albanese,PZ
 liguno,Liguera,Norberto,1912-03-26,URU,Canelones,URU
@@ -5642,15 +5730,12 @@ lizzcr,Lizzori,Cristian,1980-04-02,ITA,Codogno,LO
 ljajad,Ljajic,Adem,1991-09-29,YUG,Novi Pazar,YUG
 llaman,Llamas,Andres,1998-05-07,ITA,Milano,ITA
 llamcr,Llama,Cristian Ezequiel,1986-06-26,ARG,Lomas de Zamora,ARG
+llorf1,Llorente, ,1985-02-26,SPA,Pamplona,SPA
 llorfe,Llorente,Fernando Javier,1985-02-26,SPA,Pamplona,SPA
 llorja,Kaviedes,Jaime Ivan Kaviedes,1977-10-24,ECU,Santo Domingo de los Colorados,ECU
+lobobo,Lobont,Bogdan Ionut,1978-01-18,ROM,Hunedoara,ROM
 loBolo,Lo Bosco,Loreto,1989-07-29,ITA,Palermo,ITA
 loBuni,Lo Buono,Nicola,1933-06-04,ITA,Bari,ITA
-loFasi,Lo Faso,Simone,1998-02-18,ITA,Palermo,ITA
-loGato,Lo Gatto,Tommaso,1967-06-12,ITA,Reggio di Calabria,ITA
-loPogi,Lo Polito,Giuseppe,1972-08-27,ITA,Foggia,ITA
-loPost,Lo Porto,Stefano,1968-01-30,ITA,Milano,ITA
-lobobo,Lobont,Bogdan Ionut,1978-01-18,ROM,Hunedoara,ROM
 locam1,Locatelli,Manuel,1998-01-08,ITA,Lecco,ITA
 locama,Locatelli,Marco,1939-01-21,ARG,Mar del Plata,ARG
 locato,Locatelli,Tomas,1976-06-09,ITA,Bergamo,ITA
@@ -5660,7 +5745,9 @@ lodegi,Lodetti,Giovanni Paolo,1942-08-10,ITA,Caselle Lurani,LO
 lodifr,Lodi,Francesco,1984-03-23,ITA,Napoli,ITA
 lodigi,Lodi,Giusto,1937-11-09,ITA,Bomporto,MO
 lodiis,Lodi,Iseo,1923-11-19,ITA,Belfiore,VR
+loFasi,Lo Faso,Simone,1998-02-18,ITA,Palermo,ITA
 lofgsi,Lofgren,Sigvard,1928-04-12,SWE,Ronneby,SWE
+loGato,Lo Gatto,Tommaso,1967-06-12,ITA,Reggio di Calabria,ITA
 logoal,Logofatu,Alexandru Florin,1995-04-07,ROM,Suceava,ROM
 logoan,Logozzo,Antonio,1954-09-26,ITA,Gioiosa Ionica,RC
 loikez,Loik,Ezio,1919-09-26,ITA,Fiume,ITA
@@ -5721,6 +5808,9 @@ lopeli,López,Lisandro,1989-09-01,ARG,Villa Constitución,ARG
 lopem1,López,Maxi,1984-04-03,ARG,Buenos Aires,ARG
 lopema,Maxi Lopez,Gaston,1984-04-03,ARG,Buenos Aires,ARG
 lopeni,Nico Lopez,Alonso Federico,1993-10-01,URU,Montevideo,URU
+lopepa,López,Pau,1994-12-13,SPA,Girona,SPA
+loPogi,Lo Polito,Giuseppe,1972-08-27,ITA,Foggia,ITA
+loPost,Lo Porto,Stefano,1968-01-30,ITA,Milano,ITA
 loppal,Loppoli,Aldo,1947-01-02,ITA,Piazzola sul Brenta,PD
 loraen,Loranzi,Enrico,1932-08-16,ITA,Piacenza,ITA
 lorebe,Lorenzi,Benito,1925-12-20,ITA,Buggiano,PT
@@ -5757,6 +5847,7 @@ lovama,Lovati,Mario,1917-01-11,ITA,Milano,ITA
 lovaro,Lovati,Roberto,1927-07-20,ITA,Cusano Milanino,MI
 lovema,Lovetti,Mario,1909-10-23,ITA,Gallarate,VA
 lovima,Loviso,Massimo,1984-04-09,ITA,Bentivoglio,BO
+lozahi,Lozano,Hirving,1995-07-30,MEX,Ciudad de México,MEX
 lucaal,Lucarelli,Alessandro,1977-07-22,ITA,Livorno,ITA
 lucacr,Lucarelli,Cristiano,1975-10-04,ITA,Livorno,ITA
 lucada,Lucarelli,Davide,1963-03-14,ITA,Pistoia,ITA
@@ -5792,6 +5883,7 @@ luisne,Nelsinho,Luise,1939-08-18,BRA,San Paolo,BRA
 luispa,Luiso,Pasquale,1969-10-30,ITA,Napoli,ITA
 luixma,Antonini,Matias Lui,1998-04-09,BRA,Porto Alegre,BRA
 lukajo,Lukaku,Jordan Zacharie Menama Mokelenge,1994-07-25,BEL,Antwerpen,BEL
+lukaro,Lukaku,Romelu,1993-05-13,BEL,Antwerp,BEL
 lukisa,Lukic,Sasa,1996-08-13,SRB,Sabac,SRB
 lukoal,Lukovic,Aleksandar,1982-10-23,SRB,Kraljevo,SRB
 lulika,Lulic,Karlo,1996-05-10,CRO,Nova Gradiska,CRO
@@ -5920,6 +6012,7 @@ mairan,Mairana,Antonio,1930-05-02,ITA,Santo Stefano di Camastra,ME
 maisfa,Maistro,Fabio,1998-04-05,ITA,Rovigo,ITA
 maisvi,Maisto,Vincenzo,1982-01-11,ITA,Napoli,ITA
 majafr,Maja,Franco,1912-12-26,ITA,Como,ITA
+majeza,Majer,Žan,1992-07-25,SLO,Maribor,SLO
 majogi,Majoli,Giorgio,1940-06-18,ITA,Verona,ITA
 majova,Majo,Valerio,1952-11-27,ITA,Ortona,CH
 makisi,Makienok,Simon Christoffersen,1990-11-21,DEN,Naestved,DEN
@@ -5942,6 +6035,7 @@ malavi,Malagoli,Vittorio,1917-08-11,ITA,Modena,ITA
 malcke,Malcuit,Kévin,1991-07-31,FRA,Chatenay-Malabry,FRA
 maldal,Maldera,Aldo,1953-10-16,ITA,Milano,ITA
 maldce,Maldini,Cesare,1932-02-05,ITA,Trieste,ITA
+maldda,Maldini,Daniel,2001-10-11,ITA,Milano,ITA
 maldlu,Maldera,Luigi,1946-01-19,ITA,Corato,BA
 maldpa,Maldini,Paolo Cesare,1968-06-26,ITA,Milano,ITA
 maldru,Maldonado,Ruben Dario,1979-04-25,PAR,Asuncion,PAR
@@ -5952,6 +6046,8 @@ maliad,Malisan,Adriano,1956-09-19,ITA,Udine,ITA
 malier,Malinverni,Ermando,1919-10-30,ITA,Vercelli,ITA
 maline,Malizia,Nello,1950-07-30,ITA,Montenero di Bisaccia,CB
 malini,Malinverni,Nino,1926-08-03,ITA,Vercelli,ITA
+maliru,Malinovskiy,Ruslan,1993-05-04,UKR,Zhytomyr,UKR
+mallal,Mallé,Aly,1998-04-03,MLI,Bamako,MLI
 mallma,Mallus,Marco,1982-01-24,ITA,Como,ITA
 maloal,Malomo,Alessandro,1991-04-12,ITA,Roma,ITA
 malodo,Malonga,Dominique,1989-01-08,FRA,Chatenay-Malabry,FRA
@@ -6009,6 +6105,7 @@ manfwa,Manfredini,Waldemar Pietro,1935-09-07,ARG,Mendoza,ARG
 mangam,Mangone,Amedeo,1968-07-12,ITA,Milano,ITA
 mangfe,Mangili,Fernando,1943-11-16,ITA,Rezzato,BS
 manggi,Mangiarotti,Giampiero,1935-02-17,ITA,Stradella,PV
+mangma,Mangraviti,Massimiliano,1998-01-24,ITA,Brescia,ITA
 mangro,Manganotto,Roberto,1943-03-04,ITA,Udine,ITA
 mangth,Mangani,Thomas,1987-04-29,FRA,Carpentras,FRA
 manian,Manicone,Antonio,1966-10-27,ITA,Milano,ITA
@@ -6039,6 +6136,7 @@ manoko,Manolas,Konstantinos,1991-06-14,GRE,Nasso,GRE
 manopi,Manola,Pietro,1918-02-28,YUG,Jaice,YUG 
 manrvi,Victor,Munoz Manrique,1957-03-15,SPA,Saragozza,SPA
 manspi,Manservisi,Pier Paolo,1944-08-04,ITA,Castello d'Argile,BO
+manta1,La Mantia,Andrea,1991-05-06,ITA,Marino,ITA
 mantal,Mantovani,Alberto,1952-03-18,ITA,Castel d'Ario,MN
 mantan,Mantovani,Andrea,1984-06-22,ITA,Torino,ITA
 mantcl,Mantovani,Claudio,1943-07-01,ITA,Mantova,ITA
@@ -6194,6 +6292,7 @@ maroal,Marongiu,Alessandro,1999-01-28,ITA,Cagliari,ITA
 marodo,Marocchino,Domenico,1957-05-05,ITA,Vercelli,ITA
 marog1,Marocchi,Gian Carlo,1965-07-04,ITA,Imola,BO
 marogi,Marozzi,Giuseppe,1960-05-19,ITA,Porto Sant'Elpidio,FM
+marogo,Maroni,Gonzalo,1999-03-18,ARG,Córdoba,ARG
 maroma,Marocchi,Marco,1961-01-22,ITA,Mantova,ITA
 marop1,Maroso,Pietro,1934-06-16,ITA,Torino,ITA
 maropa,Marocchi,Paolo,1936-05-16,ITA,Suzzara,MN
@@ -6285,6 +6384,7 @@ masef1,Masetto,Franco,1942-07-10,ITA,Sesto San Giovanni,MI
 masefr,Maselli,Franco,1932-02-09,ITA,Bazzano,BO
 masegu,Masetti,Guido,1907-11-22,ITA,Verona,ITA
 masena,Masera,Natale,1910-06-01,ITA,Busto Arsizio,VA
+masese,Maselli,Sergio,2001-04-06,ITA, ,ITA
 masia1,Masia,Alessandro,1995-09-28,ITA,Cagliari,ITA
 masiad,Masina,Adam,1994-01-02,ITA,Khouribga,Marocco
 masial,Masi,Alberto,1992-09-02,ITA,Genova,ITA
@@ -6325,6 +6425,7 @@ mastfa,Mastini,Fabrizio,1964-03-08,ITA,Rimini,ITA
 mastgi,Mastropasqua,Giorgio,1951-07-13,ITA,Rivoli,TO
 mastha,Mastour,Hachim,1998-06-15,ITA,Reggio nell'Emilia,ITA
 mastpa,Mastrantonio,Paolo,1967-07-17,ITA,Roma,ITA
+mastr1,Mastrilli,Riccardo,1997-05-30,ITA,Giulianova,ITA
 mastri,Mastalli,Riccardo,1906-10-20,ITA,Livorno,ITA
 mastsa,Mastronunzio,Salvatore,1979-09-05,ITA,Empoli,FI
 masuga,Masucci,Gaetano Vittorio,1984-10-26,ITA,Avellino,ITA
@@ -6336,6 +6437,7 @@ matedi,Mateo,Diego,1978-08-07,ARG,Roldan,ARG
 matedo,Mateut,Dorin,1965-08-05,ROM,Vad,ROM
 matema,Materazzi,Marco,1973-08-19,ITA,Lecce,ITA
 mathca,Matheu,Carlos Javier,1985-05-13,ARG,Quilmes,ARG
+matjal,Matějů,Aleš,1996-06-03,CZE,Příbram,CZE
 matofr,Matosic,Frane,1918-11-25,CRO,Split,CRO
 matokr,Matosevic,Kristjan,1997-06-05,SLO,Capodistria,SLO
 matory,Matos,Ryder Santos Pinto,1993-02-27,BRA,Seabra,BRA
@@ -6432,6 +6534,7 @@ meangi,Meanti,Giovanni,1935-02-14,ITA,Crema,CR
 meaxmi,Mea Vitali,Miguel Angel,1981-02-19,VEN,Caracas,VEN
 meazgi,Meazza,Giuseppe,1910-08-23,ITA,Milano,ITA
 meazlu,Meazza,Luca Paolo Stefano,1964-11-13,ITA,Milano,ITA
+meccbi,Meccariello,Biagio,1991-03-27,ITA,Benevento,ITA
 meddst,Medda,Stefano,1977-03-02,ITA,Cagliari,ITA
 medega,Medel,Gary Alexis,1987-08-03,CHI,Santiago del Cile,CHI
 medegi,Medeot,Giovanni,1937-06-02,ITA,Mariano del Friuli,GO
@@ -6673,6 +6776,7 @@ mistdo,Mistone,Dolo,1936-01-05,ITA,Napoli,ITA
 misugi,Misuraca,Gianvito,1990-04-02,ITA,Palermo,ITA
 mitrio,Mitrita,Ionut-Alexandru,1995-02-08,ROM,Craiova,ROM
 miurka,Miura,Kazuyoshi,1967-02-26,JAP,Shizuoka,JAP
+mkhihe,Mkhitaryan,Henrikh,1989-01-21,ARM,Yerevan,ARM
 mlacma,Mlakar,Mario,1920-03-24,ITA,Trieste,ITA
 mlakja,Mlakar,Jan,1998-10-23,SLO, ,SLO
 mlinfr,Mlinar,Frano,1992-03-30,CRO,Zagreb,CRO
@@ -6705,6 +6809,7 @@ molilu,Molina,Luigi,1927-01-25,ITA,Novara,ITA
 molimo,Molinari,Morris,1975-04-04,ITA,Udine,ITA
 molisa,Molina,Salvatore Andrea,1992-01-01,ITA,Garbagnate Milanese,MI
 mollan,Mollestam,André,1991-05-14,SWE,Malmoe,Svezia
+mollma,Molla,Marco,2002-06-19,ITA,Sesto Fiorentino,ITA
 molten,Molteni,Enzo,1942-01-26,ITA,Bovisio-Masciago,MB
 moltlu,Moltrasio,Luigi,1928-01-17,ITA,Rovellasca,CO
 momema,Momenté,Matteo,1987-02-26,ITA,Jesolo,VE
@@ -6749,6 +6854,7 @@ montfo,Montiglia,Fortunato,1930-06-26,ITA,Trieste,ITA
 montfr,Monti,Franco,1965-01-09,ITA,Paderno Dugnano,MI
 montg1,Montesano,Gian Paolo,1958-08-06,ITA,Aulla,MS
 montgi,Monti,Giovanni,1900-01-16,ITA,Fratta Polesine,RO
+montil,Monterisi,Ilario,2001-12-19,ITA, ,ITA
 montj1,Montano,Johnnier Esteiner,1983-01-14,COL,Calì,COL
 montj2,Montiel,José Arnulfo,1988-03-19,PAR,Itagua,PAR
 montjo,Montagnoli,José Ismael,1926-08-30,ARG,Magdalena,ARG
@@ -6911,10 +7017,12 @@ mozzpa,Mozzini,Paolo,1975-11-21,ITA,Reggio nell'Emilia,ITA
 mozzro,Mozzini,Roberto,1951-10-22,ITA,Sustinente,MN
 mpieja,Mpie,James,2001-05-22,BEL,Tongeren,BEL
 mrazsa,Mráz,Samuel,1997-05-13,SVK,Malacky,SVK
+mrgiiu,Mărginean,Iulius,2001-07-03,ROM, ,ROM
 muccer,Muccinelli,Ermes,1927-07-28,ITA,Lugo,RA
 muccma,Muccini,Manlio,1940-09-25,ITA,Riccione,RN
 mucico,Muci,Cosimo,1920-05-14,ITA,Novara,ITA
 mudiga,Mudingayi,Gaby,1981-10-01,DRC,Kinshasa,DRC
+muelme,Müldür,Mert,1999-04-03,TUR,Wien,AUT
 mugnma,Mugnaini,Marco,1981-03-11,ITA,Firenze,ITA
 muielu,Muiesan,Lucio,1943-01-11,ITA,Pirano d'Istria,YUG
 mulapa,Mulato,Paolo,1968-01-16,ITA,Torino,ITA
@@ -6985,6 +7093,7 @@ nalian,Nalini,Andrea,1990-06-20,ITA,Isola della Scala,VR
 nalidi,Nalitzis,Dimitrios,1976-01-25,GRE,Pireo,GRE
 nalili,Nalis,Lilian Bernard Pierre,1971-09-29,FRA,Nogent sur Marne,FRA
 nanahi,Nanami,Hiroshi,1972-11-28,JAP,Yamanashi,JAP
+nandna,Nández,Nahitan,1995-12-28,URU,Punta del Este,URU
 nanina,Nani, ,1986-11-17,POR,Praia,CVE
 nannda,Nannipieri,David,1964-09-30,ITA,Livorno,ITA
 nannfr,Nanni,Franco,1948-05-11,ITA,Pisa,ITA
@@ -7038,7 +7147,9 @@ navawi,Nava,William Francesco,1984-08-16,ITA,Milano,ITA
 nayxce,Nay,Cesare,1925-10-22,ITA,Torino,ITA
 nazaga,Nazario,Gaudenzio,0000-00-00,ITA, ,ITA
 ndiadj,Djiby,Ndiaye,1994-01-05,SEN,Thies,SEN
+ndiakh,Ndiaye,Khadim,2000-04-12,SEN,Dakar,SEN
 ndiapa,Papa Waigo,Ndiaye,1984-01-20,SEN,Saint Louis,SEN
+ndojem,Ndoj,Emanuele,1996-11-20,ALB,Catania,ITA
 ndrean,Ndrecka,Angelo,2001-09-24,ALB,Desenzano del Garda,ITA
 ndrelu,Ndreu,Luis,1999-05-20,ALB,Lezhe,ALB
 nebbar,Nebbia,Arnaldo Luigi,1906-07-24,ITA,Casale Monferrato,AL
@@ -7207,6 +7318,7 @@ occhle,Occhipinti,Leonardo Giacomo,1960-08-11,ITA,Milano,ITA
 occhvi,Occhetta,Enzo,1931-02-16,ITA,Romentino,NO
 ocwier,Ocwirk,Ernest,1926-03-07,AUT,Vienna,AUT
 odasan,Odasso,Antonio,1942-01-05,ITA,Torino,ITA
+oddebr,Oddei,Brian,2002-09-18,ITA, ,ITA
 oddiem,Oddi,Emidio,1956-07-22,ITA,Castorano,AP
 oddigi,Oddi,Giancarlo,1948-07-23,ITA,Roma,ITA
 oddoma,Oddo,Massimo,1976-06-14,ITA,Pescara,ITA
@@ -7250,14 +7362,17 @@ olivg2,Oliva,Giuseppe,1986-12-26,ITA,Siracusa,ITA
 olivge,Olivieri,Gennaro,1942-02-10,ITA,Castellammare di Stabia,NA
 olivgi,Olivieri,Giorgio Matteo,1928-10-03,ITA,Genova,ITA
 olivlu,Oliveira,Luis,1969-03-24,BRA,Sao Luis,BRA
+olivm1,Olivieri,Marco,1999-06-30,ITA,Fermo,ITA
 olivma,Olivera,Maximiliano Martin,1992-03-05,URU,Montevideo,URU
 olivre,Olive,Renato,1971-04-06,ITA,Putignano,BA
 olivri,Olivieri,Rinaldo,1935-01-01,ITA,San Benedetto del Tronto,AP
 olivru,Olivera,Ruben Ariel,1983-05-04,URU,Montevideo,URU
+olivv1,Oliveira,Vasco,2000-05-28,POR,Lisboa,POR
 olivva,Oliveira,Vasco Da Cunha Roberto,2000-05-28,POR,Lisbona,POR
 olmire,Olmi,Renato,1914-07-12,ITA,Trezzo sull'Adda,MI
 olmivi,Olmi,Vinicio,1964-08-23,ITA,La Spezia,ITA
 olorma,Olorunleke,Mathew,1983-10-04,NGR,Gusau,NGR
+olseas,Olsen,Andreas Skov,1999-12-29,DEN,Hillerød,DEN
 olsepa,Olsen,Patrick Haakon,1994-04-23,DEN,Tarnby,DEN
 olsero,Olsen,Robin,1990-01-08,SWE,Malmö,SWE
 oltrro,Oltramari,Roberto,1939-11-09,ITA,Sustinente,MN
@@ -7625,6 +7740,7 @@ pedriv,Pedrelli,Ivan,1986-04-08,ITA,Bologna,ITA
 pedrlu,Pedrazzini,Luigi,1909-07-20,ITA,Milano,ITA
 pedrma,Pedretti,Marco,1973-01-06,ITA,Cremona,ITA
 pedrpa,Pedretti,Paride,9015-11-15,ITA,Pontevico,BS
+pedrpe,Pedro, ,1997-06-20,BRA,Río de Janeiro,BRA
 pedrre,Pedros,Reynald Michel Sebas,1971-10-10,FRA,Orleans,FRA
 pedrva,Pedrale,Valentino,1911-03-19,ITA,Torino,ITA
 pegagi,Pegan,Giorgio,1931-02-18,ITA,Genova,ITA
@@ -7657,6 +7773,7 @@ pellg3,Pellizzaro,Giorgio,1947-08-16,ITA,Mantova,ITA
 pellg4,Pellicanò,Giuseppe,1954-03-24,ITA,Reggio di Calabria,ITA
 pellgi,Pellegrino,Giulio,1915-02-18,ITA,Cuneo,ITA
 pellgr,Pellé,Graziano,1985-07-15,ITA,San Cesario di Lecce,LE
+pellja,Pellegrini,Jacopo,2000-09-19,ITA, ,ITA
 pelll1,Pellegrini,Luca,1979-02-10,ITA,Massa,MS
 pelll2,Pellegrini,Luca,1999-03-07,ITA,Roma,ITA
 pelllo,Pellegrini,Lorenzo,1996-06-19,ITA,Roma,ITA
@@ -7803,6 +7920,7 @@ petrde,Petro,Denis,1999-06-18,SVK, SVK,(null)
 petrfa,Petruzzi,Fabio,1970-10-24,ITA,Roma,ITA
 petrg1,Petrachi,Gianluca,1969-01-14,ITA,Lecce,ITA
 petrgi,Petris,Gianfranco,1936-08-27,ITA,Budoia,PN
+petrja,Petriccione,Jacopo,1995-02-22,ITA,Gorizia,ITA
 petrla,Petri,Lamberto Angelino,1910-01-25,ITA,Lucca,ITA
 petrma,Petras,Martin,1979-11-02,SVK,Bojnice,SVK
 petrpa,Petrillo,Pasquale,0000-00-00,ITA, ,ITA
@@ -7876,6 +7994,7 @@ piccr1,Piccoli,Roberto,2001-01-27,ITA,Bergamo,ITA
 piccre,Piccoli,Renato,1947-06-09,ITA,Verona,ITA
 piccro,Piccinini,Roberto,1961-05-06,ITA,Roma,ITA
 piccsi,Picci,Silvio,1965-09-20,ITA,Pisa,ITA
+piccst,Piccinini,Stefano,2002-12-31,ITA, ,ITA
 piccte,Piccinno,Teodoro,1966-10-27,ITA,Poggiardo,LE
 picegi,Picella,Giuseppe,1945-02-07,ITA,L'Aquila,ITA
 pichsa,Pichler,Sascha,1986-01-31,AUT,Vienna,AUT
@@ -7889,6 +8008,7 @@ pierm2,Pierangeli,Manuel,1976-04-16,ITA,Roma,ITA
 pierma,Pieri,Mario,1930-04-26,ITA,Genova,ITA
 piermi,Pieri,Mirko,1978-07-24,ITA,Grosseto,ITA
 pierni,Pierini,Nicholas,1998-08-06,ITA,Parma,ITA
+pierro,Pierno,Roberto,2001-02-14,ITA,Bari,ITA
 pietan,Pietropaolo,Antonio,1977-03-21,ITA,Pozzuoli,NA
 pietma,Pietruzzi,Mario,1918-06-19,ITA,Alessandria,ITA
 pietmi,Pietranera,Michele,1974-07-29,ITA,Parma,ITA
@@ -7925,6 +8045,7 @@ pinima,Pini,Mario,1960-03-04,ITA,La Spezia,ITA
 pinire,Pini,Renzo,1919-05-05,ITA,Viareggio,LU
 pinise,Pini,Sergio,1936-01-09,ITA,Siena,ITA
 pinnar,Pinna,Andrea Rizzo,2000-01-13,ITA, ,ITA
+pinnsi,Pinna,Simone,1997-10-17,ITA,Oristano,ITA
 pinogi,Pinotti,Gian Nicola,1947-03-05,ITA,Calendasco,PC
 pinsca,Pinsoglio,Carlo,1990-03-16,ITA,Moncalieri,TO
 pintad,Ferreira Pinto,Adriano,1979-12-10,BRA,Quinta do Sol,BRA
@@ -8118,6 +8239,7 @@ porrse,Porrini,Sergio,1968-11-08,ITA,Milano,ITA
 portan,Porta,Antonio Oreste,1911-02-23,ITA,Torino,ITA
 portco,Portaluri,Cosimo,1970-03-24,ITA,Maglie,LE
 portda,Portanova,Daniele,1978-12-17,ITA,Roma,ITA
+portde,Portanova,Denis,2001-06-20,ITA,Napoli,ITA
 portja,Portillo,Javier Garcia,1982-03-30,SPA,Aranjuez,SPA
 portma,Portanova,Manolo,2000-06-02,ITA,Napoli,ITA
 portre,Renato,Portaluppi,1962-09-09,BRA,Guaporé,BRA
@@ -8279,6 +8401,7 @@ quirda,Quironi,Davide,1968-10-22,ITA,Guidonia Montecelio,RM
 quirfa,Quiroga,Facundo Hernan,1978-01-10,ARG,San Luis de Loyola,ARG
 quisba,Bastos,Jacinto Bartolomeu Quissanga,1991-03-27,ANG,Luanda,ANG
 rabbmo,Rabbas,Mohamed,1999-09-29,MAR,Fquih Ben Salah,MAR
+rabiad,Rabiot,Adrien,1995-04-03,FRA,Saint-Maurice,FRA
 rabian,Rabito,Andrea,1980-05-11,ITA,Vicenza,ITA
 rabier,Rabitti,Ercole,1921-08-24,ITA,Torino,ITA
 rabumi,Rabusic,Michael,1989-09-17,CZE,Namest nad Oslavou,CZE
@@ -8336,6 +8459,7 @@ rampel,Rampinelli,Elio,1930-08-30,ITA,Bergamo,ITA
 rampmi,Rampulla,Michelangelo,1962-08-10,ITA,Patti,ME
 rampro,Rampanti,Rosario,1949-03-13,ITA,Carbonia,CI
 rampse,Rampini,Sergio,1917-01-18,ITA,Monticelli d'Ongina,PC
+ramsaa,Ramsey,Aaron,1990-12-26,WAL,Caerphilly,WAL
 ramugi,Ramusani,Giorgio,1939-01-27,ITA,Reggio nell'Emilia,ITA
 ramzad,Ramzi,Adil,1977-07-14,MAR,Marrakech,MAR
 ranalu,Rana,Luigi,1986-11-06,ITA,Bari,ITA
@@ -8359,12 +8483,14 @@ rapost,Raponi,Stefano,1974-10-13,ITA,Foligno,PG
 rasmja,Rasmussen,Jacob,1997-05-28,DEN,Odense,DEN
 rasmpa,Rasmussen,Paul Aage,1925-12-13,DEN,Moribo,DEN
 raspgi,Raspadori,Giacomo,2000-02-18,ITA,Bentivoglio,ITA
+raspma,Raspa,Matteo,2001-08-21,ITA,Genova,ITA
 rastcl,Rastelli,Claudio,1963-07-17,ITA,Rimini,ITA
 rastma,Rastelli,Massimo,1968-12-27,ITA,Torre del Greco,NA
 rattda,Ratti,Davide,1976-02-02,ITA,Viareggio,LU
 rattfe,Ratti,Ferruccio,1913-02-26,ITA,Legnano,MI
 rattga,Ratti,Gabriele,1955-03-03,ITA,Lecco,ITA
 rattum,Ratti,Umberto,1940-03-09,ITA,Brescia,ITA
+rautni,Rauti,Nicola,2000-04-17,ITA,Legnano,ITA
 ravaat,Ravani,Attilio,1900-05-31,ITA,Cremona,ITA
 ravafa,Ravanelli,Fabrizio,1968-12-11,ITA,Perugia,ITA
 ravafe,Ravaglia,Federico,1999-11-11,ITA,Bologna,ITA
@@ -8452,6 +8578,7 @@ rezara,Rezaei,Rahman,1975-02-20,IRN,Noor,IRN
 ribagi,Ribarich,Giuseppe,1911-04-02,ITA,Matteria,Fiume
 ribead,Adriano,Leite Ribeiro,1982-02-17,BRA,Rio de Janeiro,BRA
 ribefi,Filipe Gomes,Ribeiro,1987-05-28,BRA,Rio de Janeiro,BRA
+ribefr,Ribéry,Franck,1983-04-07,FRA,Boulogne-sur-Mer,FRA
 ribejo,Dodo,José Rodolfo Pires Ribeiro,1992-02-06,BRA,Campinas,BRA
 ribenu,Nuno Gomes,Miguel Soares Pereira,1976-07-05,POR,Amarante,POR
 ribevi,Vinicius,De Freitas Ribeiro,1993-03-07,BRA,Rio de Janeiro,BRA
@@ -8464,6 +8591,7 @@ ricccl,Ricciarelli,Claudio,1955-09-27,ITA,Carrara,MS
 riccda,Riccardi,Davide,1996-04-09,ITA,Monfalcone,GO
 riccfe,Ricci,Federico,1994-05-27,ITA,Roma,ITA
 riccg1,Ricci,Gian Luca,1968-03-02,ITA,Ravenna,ITA
+riccg2,Ricci,Giacomo,1996-09-02,ITA,Livorno,ITA
 riccge,Ricciardelli,Gennaro,1935-11-13,ITA,Palermo,ITA
 riccgi,Riccardi,Giovanni,1911-12-10,ITA,Alessandria,ITA
 riccil,Riccarand,Iliano,1957-10-31,ITA,Donnas,AO
@@ -8513,6 +8641,7 @@ riisjo,Riise,John Arne Semundseth,1980-09-24,NOR,Alesund,NOR
 rijkfr,Rijkaard,Frank,1962-09-30,NED,Amsterdam,NED
 rimban,Rimbano,Angelo Luigi,1949-01-28,ITA,Contarina,RO
 rimbcl,Rimbaldo,Claudio,1932-11-13,ITA,Pola,ITA
+rimosa,Rimoli,Salvatore,2001-06-07,ITA,Napoli,ITA
 rinaal,Rinaldi,Alessandro,1974-11-23,ITA,Roma,ITA
 rinafa,Rinaudo,Fabian Andres,1987-05-08,ARG,Armstrong,ARG
 rinagi,Rinaldi,Giuseppe,1922-02-20,ITA,Bazzano,BO
@@ -8540,6 +8669,7 @@ rivaal,Riva,Arnaldo,1923-06-29,ITA,Milano,ITA
 rivacl,Rivalta,Claudio,1978-06-30,ITA,Faenza,RA
 rivaem,Rivas,Emanuel Benito,1983-03-17,ARG,Quilmes,ARG
 rivafr,Rivara,Franco,1938-10-17,ITA,Ronco Scrivia,GE
+rivajd,Da Riva,Jacopo,2000-10-27,ITA,Montebelluna,ITA
 rivalu,Riva,Luigi,1944-11-07,ITA,Leggiuno,VA
 rivam1,Rivas,Martin Sebastian,1977-02-17,URU,Montevideo,URU
 rivama,Riva,Mariano,1953-02-28,ITA,Tortona,AL
@@ -8590,6 +8720,7 @@ roccmi,Rocca,Michele,1996-02-06,ITA,Milano,ITA
 roccne,Rocco,Nereo,1912-05-20,ITA,Trieste,ITA
 roccpa,Rocco,Pasquale Domenico,1970-10-11,ITA,Paderno Dugnano,MI
 roccto,Rocchi,Tommaso,1977-09-19,ITA,Venezia,ITA
+rochka,Rocha,Kaique,2001-02-28,BRA, ,BRA
 rodado,Roda,Donato,1953-09-04,ITA,Brescia,ITA
 rodafa,Roda,Fabrizio,1969-03-05,ITA,Monza,MB
 rodase,Rodaro,Sergio,1938-11-02,ITA,Udine,ITA
@@ -8626,6 +8757,7 @@ rohdma,Rohden,Marcus Christer,1991-05-11,SWE, ,SWE
 rolaga,Rolando,Gabriele,1995-04-02,ITA,Genova,ITA
 rolegi,Roletto,Giovanni,1908-04-18,ITA,Rosignano Monferrato,AL
 rolial,Rolin,German Alexis,1989-02-07,URU,Montevideo,URU
+rollal,Rollandi,Alessio,1999-07-06,ITA,La Spezia,ITA
 rollpl,Rolle,Plinio,1924-03-04,ITA,Padova,ITA
 roloes,Rolón,Esteban,1995-09-25,ARG,Posadas,ARG
 romaa1,Romano,Aldo,1931-07-21,ITA,Brescia,ITA
@@ -8763,10 +8895,10 @@ rossm6,Rossi,Marco,1964-09-09,ITA,Torio,ITA
 rossm7,Rossi,Matteo,1975-07-11,ITA,Genova,ITA
 rossm8,Rossi,Maurizio,1970-02-16,ITA,Parma,ITA
 rossm9,Rossi,Marco,1978-04-01,ITA,Seravezza,LU
+rossma,Rossi,Mariano,1914-07-19,ITA,Vicenza,ITA
 rossmA,Rossi,Matteo,1984-11-15,ITA,Senigallia,AN
 rossmB,Rossi,Marco,1987-09-30,ITA,Parma,ITA
 rossmC,Rossetti,Matteo,1998-07-23,ITA,Saluzzo,CN
-rossma,Rossi,Mariano,1914-07-19,ITA,Vicenza,ITA
 rossni,Rosso,Niccolò,1989-01-13,ITA,Torino,ITA
 rossor,Rossi,Orfeo,1963-05-08,ITA,Castignano,AP
 rossot,Rossi,Ottavio,1916-07-23,ITA,Adria,RO
@@ -8801,6 +8933,7 @@ rozeda,Rozehnal,David,1980-07-05,CZE,Sternberk,CZE
 rozzan,Rozzi,Antonio,1994-05-28,ITA,Roma,ITA
 rozzor,Rozzoni,Orlando,1937-07-23,ITA,Treviglio,BG
 rozzpa,Rozzio,Paolo,1992-07-22,ITA,Savigliano,CN
+rraham,Rrahmani,Amir,1994-02-24,KOS,Priština,KOS
 rrudxh,Rrudho,Xhulian,1987-09-09,ALB,Lushnje,ALB
 rubih1,Rubini,Hugo Daniel,1969-11-07,ITA,Buenos Aires,ARG
 rubihu,Rubio,Hugo Eduardo,1960-07-05,CHI,Talca,CHI
@@ -8901,6 +9034,7 @@ salaru,Salar,Ruggero,1918-10-17,ITA,San Vito al Torre,UD
 salava,Sala,Valentino,1908-10-08,ITA,Morimondo,MI
 salcca,Salcedo,Carlos Joel,1993-09-29,MEX,Guadalajara,MEX
 salcdo,Salciccia,Domenico,1960-07-19,ITA,Roma,ITA
+salce1,Salcedo,Eddie,2001-10-01,ITA,Genova,ITA
 salced,Salcedo,Eddy,2001-10-01,ITA,Genova,ITA
 salgma,Salgado,Mario Antonio,1981-06-03,CHI,Talcahuano,CHI
 saliam,Salifu,Amidu,1992-09-20,GHA,Accra,GHA
@@ -9042,6 +9176,7 @@ saumju,Saumel,Jurgen,1984-09-08,AUT,Friesach,AUT
 saurgi,Saurini,Giampaolo,1968-11-13,ITA,Colleferro,RM
 sauxma,Sau,Marco,1987-11-03,ITA,Sorgono,NU
 sauzfr,Sauzee,Franck Gaston Henri,1965-10-28,FRA,Aubenas,FRA
+saveal,Saveljevs,Aleksejs,1999-01-30,LAT,Rīga,LAT
 savelu,Savelloni,Luca,1995-07-16,ITA,Roma,ITA
 savesa,Saveriano,Sabatino,1965-06-12,ITA,Monteforte Irpino,AV
 savia1,Savic,Andelko,1993-03-11,SUI,Losanna,SUI
@@ -9130,6 +9265,7 @@ scepst,Scepovic,Stefan,1990-01-10,SRB,Beograd,SRB
 scespi,Scesa,Piero,1939-02-28,ITA,Domodossola,VB
 schaan,Schäfer,András,1999-04-13,HUN,Szombathely,HUN
 schawa,Schachner,Walter,1957-02-01,AUT,Leoben,AUT
+schean,Schetino,Andrés,1994-05-26,URU,Montevideo,URU
 schebr,Scher,Bruno,1907-10-12,ITA,Capodistria,CRO
 scheez,Schelotto,Ezequiel Matias,1989-05-23,ARG,Buenos Aires,ARG
 schema,Schenardi,Marco,1968-03-03,ITA,San Giorgio Piacentino,PC
@@ -9159,6 +9295,8 @@ schiv1,Schifilliti,Vittorio,1952-12-07,ITA,Messina,ITA
 schivi,Schiavi,Vittorio,1916-04-19,ITA,Clusone,BG
 schmjo,Schmidt,João,1993-05-19,BRA,São Paulo,BRA
 schnka,Schnellinger,Karl Heinz,1939-03-31,GER,Düren,GER
+schoje,Schouten,Jerdy,1997-01-12,NED,Spijkenisse,NED
+schola,Schöne,Lasse,1986-05-27,DEN,Glostrup,DEN
 schoma,Schopp,Markus,1974-02-22,AUT,Graz,AUT
 schuj1,Schutz,Jurgen,1939-07-01,GER,Dortmund,GER
 schuju,Schubert,Julius,1922-12-12,HUN,Budapest,HUN
@@ -9203,6 +9341,7 @@ seccg1,Secchi,Giuseppe,1931-04-16,ITA,Concorezzo,MB
 seccg2,Secchi,Giuseppe,1961-05-15,ITA,Formigine,MO
 seccgi,Seccatore,Giuseppe,1901-07-01,ITA,Pezzana,VC
 seccri,Secci,Riccardo,1970-07-28,ITA,Firenze,ITA
+seckmb,Seck,Mbaye,1998-11-27,SEN,Dakar,SEN
 seckmo,Seck,Moustapha Adjalian,1996-02-23,SEN,Dakar,SEN
 secofe,Secondini,Felice Giuseppe,1953-01-20,ITA,Cerro Maggiore,MI
 secuan,Seculin,Andrea,1990-07-14,ITA,Gorizia,ITA
@@ -9220,6 +9359,7 @@ sellez,Sella,Ezio,1956-04-11,ITA,Roma,ITA
 sellgu,Sellan,Guido,1910-12-05,ITA,Stoccarda,GER
 selmar,Selmosson,Arne Bengt,1931-03-29,SWE,Gotene,SWE
 selvfr,Selvaggi,Franco,1953-05-15,ITA,Pomarico,MT
+semake,Sema,Ken,1993-09-30,SWE,Norrköping,SWE
 semefr,Semeraro,Francesco,2001-05-01,ITA,Fasano,ITA
 semejo,Semedo,José Vitor Moreira,1985-01-11,POR,Setubal,POR
 semida,Seminara,Davide,1998-07-05,ITA,Pisa,ITA
@@ -9302,6 +9442,7 @@ sgraid,Sgrazzutti,Ido,1947-02-17,ITA,Talmassons,UD
 sgrasi,Sgrafetto,Silvio Antonio,1943-11-20,ITA,Desio,MB
 sgrial,Sgrigna,Alessandro,1980-04-24,ITA,Roma,ITA
 sgroma,Sgrò,Marco,1970-05-09,ITA,Sermoneta,LT
+shakye,Shakhov,Yevhen,1990-11-30,UKR,Dnipropetrovsk,UKR
 shalig,Shalimov,Igor Michailovich,1969-02-02,RUS,Moskva,RUS
 shalri,Shala,Rijat,1983-09-26,SUI,Prizren,YUG
 shaqxh,Shaqiri,Xherdan,1991-10-10,SUI,Gnjilane,KOS
@@ -9411,11 +9552,13 @@ skorha,Skoro,Haris,1962-09-02,YUG,Sarajevo,YUG
 skorlu,Skorupski,Lukasz,1991-05-05,POL,Zabrze,POL
 skovso,Skov,Soren,1954-02-21,DEN,Nyborg,DEN
 skrimi,Skriniar,Milan,1995-02-11,SVK,Ziar nad Hronom,SVK
+skrtma,Škrtel,Martin,1984-12-15,SVK,Handlová,SVK
 skuhto,Skuhravy,Tomas,1965-09-07,CZE,Cesky Brod,CZE
 slavgo,Slavkovski,Goran,1989-04-08,SWE,Skravlinge,SWE
 slisbl,Sliskovic,Blaz,1959-05-30,YUG,Mostar,YUG
 slivvy,Slivka,Vykintas,1995-04-29,LIT,Panevezys,LIT
 sloajo,Sloan,Joshua Walter Paddy,1920-04-30,IRL,Lurgan,IRL del Nord
+smalch,Smalling,Chris,1989-11-22,ENG,Greenwich,ENG
 smerbo,Smerzi,Bonifacio,1909-07-31,ITA,Verona,ITA
 smersi,Smersy,Silvio,1933-01-16,ITA,Milano,ITA
 smimdo,Smimmo,Domenico,1961-01-22,ITA,Volla,NA
@@ -9503,6 +9646,7 @@ spagle,Spagnoli,Leonetto,1920-03-25,ITA,Livorno,ITA
 spagli,Spaggiari,Livio,1924-04-12,ITA,Montecchio Emilia,RE
 spalfe,Spallanzani,Fermo,1964-04-13,ITA,Reggio nell'Emilia,ITA
 spalgi,Spalazzi,Giuseppe,1943-03-17,ITA,Agazzano,PC
+spalni,Špalek,Nikolas,1997-02-12,SVK,Šaľa,SVK
 spanan,Spanio,Angelo,1939-10-04,ITA,Venezia,ITA
 spanlu,Spanghero,Luigi,1909-05-15,ITA,San Canzian d&#39;Isonzo,GO
 spanro,Spanevello,Rolando Apollonio,1927-09-05,ITA,Valdagno,VI
@@ -9629,6 +9773,7 @@ strapi,Strada,Pietro,1969-12-11,ITA,Brescia,ITA
 strar1,Strasser,Rodney,1990-03-30,SLE,Freetown,SLE
 straro,Straus,Rok,1987-03-03,SLO,Maribor,SLO
 strath,Strakosha,Thomas,1995-03-19,GRE,Athena,GRE
+strega,Strefezza,Gabriel,1997-04-18,BRA,São Paulo,BRA
 strigu,Striuli,Guerrino,1917-12-21,ITA,San Donà di Piave,VE
 striiv,Strinic,Ivan,1987-07-17,CRO,Split,CRO
 stripa,Stringara,Paolo,1962-09-22,ITA,Orbetello,GR
@@ -9807,6 +9952,7 @@ terrgi,Terraneo,Giuliano,1953-10-16,ITA,Briosco,MB
 terrpi,Terracciano,Pietro,1990-03-08,ITA,San Felice a Cancello,CE
 terrro,Terreni,Roberto,1946-03-11,ITA,Livorno,ITA
 terspi,Tersigni,Piero,1968-08-06,ITA,Sora,FR
+terzal,Terzić,Aleksa,1999-08-17,SRB,Beograd,SRB
 terzcl,Terzi,Claudio,1984-06-19,ITA,Milano,ITA
 terzgi,Terzano,Giuseppe Alfredo,1900-12-21,ITA,San Marzano Oliveto,AT
 terzug,Terzani,Ugo,1912-10-11,ITA,Firenze,ITA
@@ -9833,6 +9979,7 @@ therjo,Thern,Jonas Magnus,1967-03-20,SWE,Falkoping,SWE
 therma,Thermes,Maurizio,1939-04-07,ITA,Roma,ITA
 thiade,Thiam,Demba,1998-03-09,SEN,Dakar,SEN
 thiama,Thiam,Mame Baba,1992-10-09,SEN,Nguidile,SEN
+thormo,Thorsby,Morten,1996-05-05,NOR,Oslo,NOR
 thorth,Thorninger,Thomas,1972-10-20,DEN,Ringkobing,DEN
 thurli,Thuram,Lilian,1972-01-01,FRA,Pointe-a-Pitre,FRA
 tibeal,Tiberti,Alberto,1911-08-10,ITA,Genova,ITA
@@ -9873,6 +10020,7 @@ toldfr,Toldo,Francesco,1971-12-02,ITA,Padova,ITA
 tolede,Toledo,Delio Cesar,1976-02-10,PAR,Cecilio Baez,PAR
 tolehe,Toledo,Hernan Dario,1996-01-17,ARG,Santa Fe,ARG
 toligi,Tolio,Gianluca,1960-01-12,ITA,Padova,ITA
+toljje,Toljan,Jeremy,1994-08-08,GER,Stuttgart,GER
 tolora,Toloi,Rafael,1990-10-10,BRA,Gloria d'Oeste,BRA
 tomaer,Tomasi,Ernesto,1906-10-30,ITA,Ventimiglia,IM
 tomag1,Tomasella,Giovanni,1927-09-12,ITA,Sacile,PN
@@ -9891,15 +10039,17 @@ tomigo,Tomic,Goran,1977-03-18,CRO,Sebenico,CRO
 tomiiv,Tomic,Ivan,1976-01-05,YUG,Beograd,YUG
 tomimi,Tomic,Michal,1999-03-30,SVK,Skalica,SVK
 tomiro,Tomich,Rodolfo,1903-10-27,ITA,Pola,ITA
+tomita,Tomiyasu,Takehiro,1998-11-05,JAP,Fukuoka,JAP
 tommda,Tommasi,Damiano,1974-05-17,ITA,Negrar,VR
 tommfr,Tommasi,Franco,1963-01-15,ITA,Verona,ITA
 tommro,Tommasi,Rodolfo,1907-11-24,ITA,Abbazia,Fiume
 tomms1,Tommasi,Stefano,1972-04-09,ITA,Negrar,VR
 tommst,Tommei,Stevan,1912-01-10,ITA,Piombino,LI
 tomone,Tomovic,Nenad,1987-08-30,SRB,Kragujevac,SRB
-tomyma,Tomy,Mario,1943-11-07,ITA,Thiene,VI
 tom�sa,TomÀ,Sauro,1925-12-04,ITA,La Spezia,ITA
+tomyma,Tomy,Mario,1943-11-07,ITA,Thiene,VI
 tonama,Tonali,Mario,1910-09-10,ITA,Roma,ITA
+tonasa,Tonali,Sandro,2000-05-08,ITA,Lodi,ITA
 toncsi,Toncelli,Silvano,1926-10-23,ITA,Genova,ITA
 toneal,Tonev,Aleksandar,1990-02-03,BUL,Elin Pelin,BUL
 tonelo,Tonelli,Lorenzo,1990-01-17,ITA,Firenze,ITA
@@ -9929,6 +10079,7 @@ torran,Torriglia,Angelo,1926-08-02,ITA,Tortona,AL
 torrce,Torrini,Celso,1924-02-01,ITA,Sesto Fiorentino,FI
 torrda,Torretta,Davide,1978-04-04,ITA,Bra,CN
 torrem,Torrasi,Emanuel,1999-03-16,ITA, ,ITA
+torrer,Torregrossa,Ernesto,1992-06-28,ITA,Caltanissetta,ITA
 torrfe,Torres,Fernando,1984-03-20,SPA,Fuenlabrada,SPA
 torrfo,Torrisi,Fortunato,1955-10-23,ITA,Melito di Porto Salvo,RC
 torrfr,Torroni,Francesco,1986-03-05,ITA,Roma,ITA
@@ -9980,8 +10131,11 @@ trajal,Trajkovski,Aleksandar,1992-09-05,MAC,Skopje,MAC
 trampa,Tramezzani,Paolo,1970-07-30,ITA,Castelnovo ne' Monti,RE
 tranma,Tranquilli,Massimo,1964-02-10,ITA,Ascoli Piceno,ITA
 tranni,Trangoni,Nicola,1973-12-03,ITA,Udine,ITA
+traoab,Traoré,Abdoulaye,2000-04-30,CIV,Abidjan,CIV
+traoam,Traoré,Amad,2002-07-11,CIV, ,CIV
 traoar,Traoré,Armand,1989-10-08,FRA,Paris,FRA
 traoba,Traoré,Bakaye,1985-03-06,FRA,Bondy,FRA
+traoha,Traorè,Hamed,2000-02-16,CIV,Abidjan,CIV
 traohj,Traoré,Hamed Junior,2000-02-16,CIV,Abidjan,CIV
 trapan,Trapani,Antonino,1952-05-29,ITA,Palermo,ITA
 trapcr,Trapella,Cristian,1972-05-02,ITA,Biella,ITA
@@ -9999,6 +10153,7 @@ travma,Traversa,Martino,1974-02-06,ITA,Bari,ITA
 travte,Traversa,Teresio,1915-03-12,ITA,Candiolo,TO
 trebma,Trebbi,Mario,1939-09-09,ITA,Sesto San Giovanni,MI
 trebos,Trebbi,Osvaldo,1914-03-23,ITA,Castelfranco Emilia,MO
+tremlu,Tremolada,Luca,1991-11-25,ITA,Milano,ITA
 trenan,Trentin,Angelo,1925-02-11,ITA,Venezia,ITA
 trenga,Trentini,Gaudenzio,1936-01-09,ITA,Argenta,FE
 trenra,Trentini,Raffaele,1945-08-26,ITA,Soave,VR
@@ -10027,6 +10182,7 @@ trimsi,Trimboli,Simone,2002-04-19,ITA,Lavagna,ITA
 tringi,Trinchero,Giuseppe,1944-04-08,ITA,Busalla,GE
 trinma,Da Costa,Manuel Marouan Trinidade,1986-05-06,FRA,Saint-Max,FRA
 trinst,Trinchera,Stefano,1974-01-10,ITA,Copertino,LE
+tripal,Tripaldelli,Alessandro,1999-02-09,ITA,Napoli,ITA
 tripfr,Tripodi,Franco,1953-05-12,ITA,Roma,ITA
 triugi,Triuzzi,Gianluca,1978-09-09,ITA,Taranto,ITA
 trivgi,Trivellini,Giuseppe,1895-12-26,ITA,Gottolengo,BS
@@ -10051,6 +10207,7 @@ trotro,Trotta,Roberto Luis,1969-01-28,ARG,Pigué,ARG
 trovgi,Trovade,Giordano,1998-05-23,ITA,Este,PD
 trovle,Trovati,Leo,1912-05-10,ITA,Cremona,ITA
 tsadfr,Tsadjout,Frank,1999-07-28,ITA,Perugia,ITA
+tsonra,Tsonev,Radoslav,1995-04-29,BUL,Blagoevgrad,BUL
 tubalo,Tubaro,Lodovico,1927-02-15,ITA,Pozzuolo del Friuli,UD
 tuccma,Tuccini,Mauro,1928-02-10,ITA,Santa Croce sull'Arno,PI
 tudoig,Tudor,Igor,1978-04-16,YUG,Spalato,YUG
@@ -10065,8 +10222,10 @@ tumiri,Tumiatti,Riccardo,1963-04-26,ITA,Milano,ITA
 tumivi,Tumiati,Vinicio,1913-09-17,ITA,Formignana,FE
 tumman,Tummiolo,Andrea,1984-03-20,ITA,Sciacca,AG
 tummma,Tumminello,Marco,1998-11-06,ITA,Erice,TP
+tunjge,Tunjov,Georgi,2001-04-17,EST,Narva,EST
 tuptlu,Tupta,Lubomir,1998-03-27,SVK,Presov,SVK
 turagi,Turatti,Giuliano,1933-08-10,ITA,Noventa Vicentina,VI
+turast,Turati,Stefano,2001-09-05,ITA,Milano,ITA
 turbis,Turbeky,Istvan,1922-11-23,HUN,Szigetvar,HUN
 turblu,Turbacci,Luigi,1993-11-09,ITA,Foggia,ITA
 turcan,Turconi,Angelo,1923-07-05,ITA,Solbiate Olona,VA
@@ -10088,6 +10247,7 @@ turoma,Turone,Maurizio,1948-10-27,ITA,Varazze,SV
 turral,Turrin,Alessandro,1997-03-10,ITA,San Vito al Tagliamento,PN
 turrfa,Turra,Faustino,1939-02-07,ITA,Cologne,BS
 turrfr,Turrini,Francesco,1965-10-18,ITA,Foligno,PG
+tutige,Tutino,Gennaro,1996-08-20,ITA,Napoli,ITA
 tutoga,Tutone,Gaspare,1931-01-06,ITA,Palermo,ITA
 tuttpa,Tuttino,Paolo,1951-04-17,ITA,Basiliano,UD
 tzioal,Tziolis,Alexandros,1985-02-13,GRE,Katerini,GRE
@@ -10099,6 +10259,7 @@ uendce,Ünder,Cengiz,1997-07-14,TUR,Balikesir,TUR
 ugolgu,Ugolotti,Guido,1958-08-28,ITA,Massa,MS
 ugolmi,Ugolotti,Michele,1967-12-05,ITA,Parma,ITA
 ugolwa,Ugolini,Walter,1969-03-07,ITA,Negrar,VR
+uhunja,Uhunamure,James,2000-06-10,NGR,Reggio Emilia,ITA
 ujfato,Ujfalusi,Tomas,1978-03-24,CZE,Rymarov,CZE
 ujkasa,Ujkani,Samir,1988-07-05,YUG,Resnik,YUG
 ulivma,Ulivi,Mauro,1939-02-07,ITA,Piombino,LI
@@ -10160,6 +10321,7 @@ valebo,Borja Valero,Iglesias,1985-01-12,SPA,Madrid,SPA
 valebr,Vale,Bruno,1911-07-10,ITA,Bisterza,Fiume
 valeca,Valeri,Carl,1984-08-14,AUS,Canberra,AUS
 valeed,Valenti,Edoardo,1922-03-10,ITA,Roma,ITA
+valeem,Valerio,Emanuele,1999-04-07,ITA,Torino,ITA
 valefa,Valente,Fabio,1964-03-26,ITA,Genova,ITA
 valeg1,Valentini,Giacomo,1915-01-23,ITA,Roma,ITA
 valeg2,Valentinuzzi,Giorgio,1931-03-02,ITA,Monfalcone,GO
@@ -10201,15 +10363,14 @@ valtfa,Valtolina,Fabian Natale,1971-06-10,ITA,Limbiate,MB
 valzgi,Valzoni,Giuseppe,1950-03-12,ITA,Germignaga,VA
 valzlu,Valzania,Luca,1996-03-05,ITA,Cesena,FC
 vampma,Vampeta,Marcos Andre Batista,1974-03-13,BRA,Nazaré das Farinhas,BRA
+vanael,Vanara,Elio,1944-07-31,ITA,Fubine,AL
 vanBm1,Van Bommel,Mark Peter Gertruda Andreas,1977-04-22,NED,Maasbracht,NED
 vanBma,Van Basten,Marco,1964-10-31,NED,Utrecht,NED
-vanGwu,Van Ginkel,Marco Wulfert Cornelis,1992-12-01,NED,Amersfoort,NED
-vanUle,Van Utrecht,Leonard Adrianus,1969-02-25,NED,Noordwijk,NED
-vanael,Vanara,Elio,1944-07-31,ITA,Fubine,AL
 vandgu,Vandone,Guido,1930-02-18,ITA,Torino,ITA
 vandre,Vandereycken,René,1953-07-22,BEL,Spalbeek,BEL
 vanesa,Vanello,Sandro,1948-06-18,ITA,Tarcento,UD
 vangle,Vangioni,Leonel Jesus,1987-05-05,ARG,Villa Constitucion,ARG
+vanGwu,Van Ginkel,Marco Wulfert Cornelis,1992-12-01,NED,Amersfoort,NED
 vanhzi,Vanheusden,Zinho,1999-07-29,BEL,Hasselt,BEL
 vanigi,Vanin,Giordano,1985-08-19,ITA,Treviso,ITA
 vaniri,Vanigli,Richard,1971-06-01,ITA,Forlì,FC
@@ -10222,6 +10383,7 @@ vanopa,Vanoli,Paolo,1972-08-12,ITA,Varese,ITA
 vanoro,Vanoli,Rodolfo,1963-01-11,ITA,Gavirate,VA
 vansje,Vanstrattan,Jess Kedwell,1982-07-19,AUS,Gosford,AUS
 vantda,Vantaggiato,Daniele,1984-10-10,ITA,Brindisi,ITA
+vanUle,Van Utrecht,Leonard Adrianus,1969-02-25,NED,Noordwijk,NED
 vanzfr,Vanzini,Franco,1941-09-14,ITA,Ferrara,ITA
 vanzgl,Vanz,Glauco,1920-08-10,ITA,Mantova,ITA
 varama,Varaldi,Marco,1982-07-21,ITA,Milano,ITA
@@ -10254,11 +10416,13 @@ vasig1,Vasini,Giancarlo,1940-05-22,ITA,Cremona,ITA
 vasigi,Vasirani,Gino,1921-05-05,ITA,Albinea,RE
 vaskfi,Vasko,Filip,1999-08-11,SVK, ,SVK
 vassad,Vass,Adam,1988-09-09,HUN,Kapolnasnyek,HUN
+vassan,Vassallo,Andrea,1997-09-30,ITA,Milano,ITA
 vastga,Vastola,Gaetano,1978-05-10,ITA,Pompei,NA
 vastgi,Vastola,Giovanni,1938-04-20,ITA,San Valentino Torio,SA
 vavag1,Vavassori,Giovanni,1952-01-16,ITA,Arcene,BG
 vavagi,Vavassori,Giuseppe,1934-06-29,ITA,Rivoli,TO
 vavost,Vavoli,Stefano,1960-12-30,ITA,Terracina,LT
+vavrde,Vavro,Denis,1996-04-10,SVK,Partizánske,SVK
 vayxgi,Vay,Giuseppe,1911-08-28,ITA,Milano,ITA
 vazqfr,Vazquez,Franco Damian,1989-02-22,ARG,Tanti,ARG
 vazqra,Martin Vazquez,Rafael,1965-09-25,SPA,Madrid,SPA
@@ -10304,6 +10468,7 @@ ventma,Ventimiglia,Mario,1921-03-07,ITA,Sanremo,IM
 ventni,Ventola,Nicola,1978-05-24,ITA,Grumo Appula,BA
 ventre,Venturi,Renzo,1928-03-05,ITA,Portogruaro,VE
 venulo,Venuti,Lorenzo,1995-04-12,ITA,Montevarchi,AR
+verabr,Vera,Brayan,1999-01-15,COL,San Luis,COL
 veraen,Verachi,Enrico,1990-01-18,ITA,Nuoro,ITA
 veralu,Veratti,Luca,1993-02-03,ITA,Mirandola,MO
 verdco,Verdelli,Corrado,1963-09-30,ITA,Lodi,ITA
@@ -10316,6 +10481,7 @@ verdro,Verdi,Roberto,1977-05-10,ITA,La Spezia,ITA
 verdse,Verderi,Sergio,1926-11-08,ITA,Parma,ITA
 verdsi,Verdi,Simone,1992-07-12,ITA,Broni,PV
 verejo,Veretout,Jordan,1993-03-01,FRA,Ancenis,FRA
+verged,Vergani,Edoardo,2001-02-06,ITA,Segrate,ITA
 vergga,Vergassola,Gaetano,1936-09-02,ITA,La Spezia,ITA
 vergjh,Vergara,Jherson,1994-05-26,COL,Florida,COL
 vergru,Verga,Rufo Emiliano,1969-12-21,ITA,Legnano,MI
@@ -10470,6 +10636,7 @@ viviem,Viviano,Emiliano,1985-12-01,ITA,Fiesole,FI
 vivifa,Viviani,Fabio,1966-09-29,ITA,Lucca,ITA
 vivife,Viviani,Federico,1992-03-24,ITA,Lecco,ITA
 vivifr,Viviani,Franco,1930-06-22,ITA,Pisa,ITA
+vivima,Viviani,Mattia,2000-09-04,ITA,Brescia,ITA
 vivopa,Vivolo,Pasquale,1928-01-06,ITA,Brusciano,NA
 vizefe,Vizeu,Felipe,1997-03-12,BRA,Três Rios,BRA
 vizzlu,Vizza,Luigi,1965-01-07,ITA,Parenti,CS
@@ -10528,15 +10695,18 @@ vydrma,Vydra,Matej,1992-05-01,CZE,Chotebor,CZE
 waashe,Waas,Herbert,1963-09-08,GER,Passau,GER
 wagumo,Wague,Molla,1991-02-21,FRA,Vernon,FRA
 wahaad,Wahab,Adewale Dauda,1984-10-04,NGR,Port Harcourt,NGR
+walawa,Walace, ,1995-04-04,BRA,Salvador,BRA
 walder,Waldner,Erwin,1933-01-24,GER,Nurtingen,GER
 walejo,Walem,Johan,1972-02-01,BEL,Soignies,BEL
 walkde,Walker,Desmond Sinclair,1965-11-26,ENG,Homerton,ENG
+waluse,Walukiewicz,Sebastian,2000-04-05,POL,Gorzów Wielkopolski,POL
 wapeha,Wapenaar,Harald Paul,1970-04-10,NED,Vlaardingen,NED
 weahge,Weah,George,1966-10-01,LBR,Monrovia,LBR
 weisvl,Weiss,Vladimir,1989-11-30,SVK,Bratislava,SVK
 welbal,Welby,Alfredo,1910-02-16,ITA,Roma,ITA
 welbna,Nana,Welbeck Maseko Addo,1994-11-24,GHA,Accra,GHA
 wellou,Welle,Oussou,1991-03-11,SEN,Dakar,SEN
+weslwe,Wesley, ,2000-03-13,BRA,Retirolândia,BRA
 westta,West,Taribo,1974-03-26,NGR,Port Harcourt-Lagos,NGR
 widmsi,Widmer,Silvan Dominic,1993-03-05,SUI,Aarau,SUI
 wielgv,van der Wiel,Gregory,1988-02-03,NED,Amsterdam,NED
@@ -10596,6 +10766,7 @@ zamaiv,Zamagni,Ivan,1972-01-15,ITA,Rimini,ITA
 zambce,Zamboni,Cesare,1931-02-27,ITA,Villa Carcina,BS
 zamben,Zambetti,Enzo,1916-06-03,ITA,Ranzanico,BG
 zamber,Zambianchi,Ernesto,1909-11-24,ITA,Grosseto,ITA
+zambey,Zambataro,Eyob,1998-08-18,ITA,Addis Abeba,ETH
 zambfa,Zambrella,Fabrizio Antonio,1986-03-01,SUI,Ginevra,SUI
 zambgi,Zambrotta,Gianluca,1977-02-19,ITA,Como,ITA
 zambit,Zamberletti,Italo,1904-03-14,ITA,Milano,ITA
@@ -10614,6 +10785,7 @@ zampvi,Zampedri,Vittorio,1911-10-24,ITA,Brescia,ITA
 zanagu,Zanasi,Guglielmo,1909-04-14,ITA,Formigine,MO
 zancad,Zancopé,Adriano,1971-11-09,ITA,Padova,ITA
 zancan,Zanchetta,Andrea,1975-02-02,ITA,Biella,ITA
+zancfe,Zanchetta,Federico,2002-03-23,ITA, ,ITA
 zancge,Zanca,Germano,1915-02-18,ITA,Battaglia Terme,PD
 zancma,Zanchi,Marco,1977-04-15,ITA,San Giovanni Bianco,BG
 zandal,ZandonÀ,Alessandro,1976-01-19,ITA,Montebelluna,TV
@@ -10696,6 +10868,7 @@ zenagi,Zenaro,Giovanni,1914-05-02,ITA,Berlino,GER
 zengwa,Zenga,Walter,1960-04-28,ITA,Milano,ITA
 zennad,Zennaro,Adelino,1963-08-28,ITA,Venezia,ITA
 zennau,Zennaro,Aurelio,1916-11-19,ITA,Castelnovo Bariano,RO
+zennma,Zennaro,Mattia,2000-08-03,ITA,Venezia,ITA
 zenocr,Zenoni,Cristian,1977-04-23,ITA,Trescore Balneario,BG
 zenoda,Zenoni,Damiano,1977-04-23,ITA,Trescore Balneario,BG
 zenopi,Zeno,Pier Luigi,1934-06-29,ITA,Gattinara,VC
@@ -10737,6 +10910,7 @@ zitofr,Zitolo,Francesco,1981-11-20,ITA,Cerignola,FG
 zittcl,Zitta,Claudio,1955-01-19,ITA,Sanremo,IM
 zivaiv,Zivanovic,Ivan,1981-12-10,SRB,Sabac,SRB
 zivkbr,Zivkovic,Bratislav,1970-11-28,YUG,Leskovac,YUG
+zmrhja,Zmrhal,Jaromír,1993-08-02,CZE,Žatec,CZE
 zmudwl,Zmuda,Wladyslaw Antoni,1954-06-06,POL,Lublino,POL
 zoboda,Zoboli,Davide,1981-10-08,ITA,Parma,ITA
 zoccbi,Zoccola,Biagio,1903-01-27,ITA,Pietra Marazzi,AL
@@ -10781,6 +10955,7 @@ zunigi,Zunico,Giacomo,1960-12-03,ITA,Napoli,ITA
 zuniju,Zuniga,Juan Camilo,1985-12-14,COL,Chigorodo,COL
 zupada,Zuparic,Dario,1992-05-03,CRO,Zupanja,CRO
 zupptu,Zuppet,Tullio,1926-02-27,ITA,San Canzian d'Isonzo,GO
+zurksz,Żurkowski,Szymon,1997-09-25,POL,Tychy,POL
 zurlma,Zurlini,Mario,1942-03-17,ITA,Parma,ITA
 zweiau,Zweifel,Augusto,1921-07-12,ITA,Novara,ITA
 zzzzzz,Zzzz,Zz,0000-00-00, , , 

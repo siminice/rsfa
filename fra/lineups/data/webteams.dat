@@ -20,7 +20,7 @@ Le Havre,le-havre-ac
 Rennes,stade-rennes
 Bastia,sc-bastia
 Nice,ogc-nice
-Nancy,as-nancy
+Nancy,fc-nancy
 Sedan,cs-sedan
 Troyes,estac-troyes
 Martigues,fc-martigues
@@ -51,16 +51,16 @@ Grenoble,grenoble-foot-38
 Istres,fc-istres
 Clermont,clermont-foot
 Reims,stade-reims
-Roubaix,fc-roubaix-tourcoing
+Roubaix,rc-roubaix
 Sete,fc-sete
 Stade Francais,stade-francais
 Racing,racing-club-de-france
 Rouen,fc-rouen
 Ales,olympique-ales
-Colmar,colmar
+Colmar,sr-colmar
 Valenciennes,valenciennes-fc
 Beziers,as-beziers
-Limoges,limoges
+Limoges,limoges-fc
 Aix,as-aixoise
 Angouleme,angouleme-cfc
 Paris FC,paris-fc
@@ -128,7 +128,7 @@ Neuilly,paris-neuilly
 Forbach,us-forbach
 Marignane,us-marignane
 Cherbourg,as-cherbourg-football
-CA Paris,ca-paris
+CA Paris,ca-paris-alt
 GSC Marseille,gsc-marseille
 Douai,sc-douai
 Antibes,fc-antibes
@@ -158,10 +158,10 @@ Moulins,as-moulins
 Vannes,vannes-oc
 Yzeure,yzeure
 Villemomble,villemomble-sports
-Fives,fives
-Excelsior,excelsior
-Hyeres,hyeres
-Club Francais,club-francais
+Fives,sc-fives-lille
+Excelsior,excelsior-roubaix
+Hyeres,hyeres-fc
+Club Francais,club-francais-paris
 Vitre,as-vitre
 La Vitreenne,la-vitreenne-fc
 Plabennec,stade-plabennecois

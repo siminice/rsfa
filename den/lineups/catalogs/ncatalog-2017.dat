@@ -1,0 +1,451 @@
+aminmu,Amini,Mustafa,1993-04-20,AUS,3,8,M,32,29,3,5, 2493,21,0,0,0,0,0,3,0
+andeaj,Andersen,Alexander Juel,1991-01-29,DEN,3,5,F,23,21,2,3, 1910,19,0,0,-1,0,0,1,0
+backni,Backman,Niklas,1988-11-13,SWE,3,3,F,22,21,1,1, 1895,20,0,0,-1,0,0,2,0
+baxtle,Baxter,Lee,1976-06-17,SWE,3,50,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
+bjarte,Bjarnason,Teddy,1987-03-04,ISL,3,20,M,26,20,6,1, 1661,4,3,0,0,0,0,5,0
+bundmu,Bundu,Mustapha,1997-02-27,SLE,3,19,A,9,3,6,1,  304,0,5,0,0,0,0,2,0
+buuros,Buur,Oskar,1998-03-31,DEN,3,17,F,1,0,1,0,   16,0,8,0,0,0,0,0,0
+chrida,Christensen,Daniel,1988-09-19,DEN,3, , ,4,3,1,0,  341,3,2,0,0,0,0,0,0
+chriem,Christensen,Emil,1997-07-10,DEN,3,24,F,0,0,0,0,    0,0,8,0,0,0,0,0,0
+duncmo,Duncan, ,1985-01-31,DEN,3,13,A,24,22,2,13, 2020,21,2,0,0,5,0,4,0
+gribni,Gribenco,Nimo,1997-01-23,DEN,3,34,A,1,0,1,0,    5,0,7,0,0,0,0,0,0
+hageth,Hagelskjær,Thomas,1995-02-04,DEN,3,31,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
+hausse,Hausner,Sebastian,2000-04-11,DEN,3,37,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
+hvidbe,Hvidt,Benjamin,2000-03-12,DEN,3,22,M,1,0,1,0,    9,0,5,0,0,0,0,0,0
+ikonch,Ikonomidis,Chris,1995-05-04,AUS,3,16,M,18,11,7,1,  976,3,4,0,0,0,0,4,0
+jakoka,Jakobsen,Kasper,1999-07-17,DEN,3,35,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+jovaal,Jovanović,Aleksandar,1992-12-06,SRB,3,26,P,30,30,0,0, 2658,29,0,-39,0,0,0,1,0
+nieltj,Juel-Nielsen,Thomas,1990-06-18,DEN,3,21,F,6,4,2,2,  392,4,0,0,0,0,0,0,0
+juelje,Juelsgård,Jesper,1989-01-26,DEN,3,18,F,23,23,0,2, 2019,21,0,0,0,0,0,5,0
+junkka,Junker,Kasper,1994-03-05,DEN,3,9,A,26,17,9,3, 1530,9,4,0,0,0,0,4,0
+joenje,Jønsson,Jens,1993-01-10,DEN,3, , ,4,4,0,0,  331,3,0,0,0,0,0,1,0
+kaasma,Kaastrup,Magnus,2000-12-28,DEN,3,44,M,0,0,0,0,    0,0,2,0,0,0,0,0,0
+khoddz,Khodzhaniyazov,Dzhamaldin,1996-07-18,RUS,3,28,F,20,19,1,1, 1624,17,2,0,0,0,0,7,1
+mikadi,Mikanović,Dino,1994-05-07,CRO,3,2,F,25,24,1,0, 2132,20,5,0,0,0,0,9,0
+olseda,Olsen,Danny,1985-06-11,DEN,3,11,M,23,12,11,3, 1121,3,3,0,0,0,0,4,0
+pededa,Pedersen,Daniel,1992-07-27,DEN,3,4,M,22,14,8,0, 1426,12,0,0,0,0,0,11,0
+petest,Petersen,Stephan,1985-11-15,DEN,3,7,M,19,10,9,2,  968,6,8,0,0,0,0,3,0
+raskmi,Rask,Mikkel,1983-06-22,DEN,3,15,F,4,3,1,0,  274,3,1,0,0,0,0,0,0
+rasmst,Rasmussen,Steffen,1982-09-30,DEN,3,1,P,3,2,1,0,  222,2,29,-7,0,0,0,0,0
+soaraj,Soares,A. J.,1988-11-28,USA,3, , ,6,5,1,1,  422,4,0,0,0,0,0,2,0
+spelma,Spelmann,Martin,1987-03-21,DEN,3,10,M,26,25,1,2, 2168,16,1,0,0,0,0,10,0
+stagje,Stage,Jens,1996-11-08,DEN,3,14,M,16,9,7,1,  932,7,11,0,0,0,0,1,0
+sverbj,Sverrisson,Björn,1990-05-29,ISL,3,6,M,24,20,4,3, 1661,10,2,0,0,0,0,3,0
+zachmi,Zacho,Michael,1996-11-11,DEN,3,27,M,9,1,8,0,  153,0,9,0,0,0,0,1,0
+abilol,Abildgaard,Oliver,1996-06-10,DEN,4,27,M,11,4,7,0,  453,2,6,0,0,0,0,0,0
+ahlmja,Ahlmann,Jakob,1991-01-18,DEN,4,3,F,22,19,3,0, 1719,18,2,0,0,0,0,8,0
+bassch,Bassogog,Christian,1995-10-18,CMR,4, , ,21,20,1,4, 1475,4,0,0,0,0,0,1,0
+blabja,Blåbjerg,Jakob,1995-01-11,DEN,4,4,F,21,21,0,1, 1884,20,9,0,0,0,0,3,0
+bytyba,Bytyqi,Bardhec,1997-01-08,ALB,4,33,F,0,0,0,0,    0,0,4,0,0,0,0,0,0
+boerfr,Børsting,Frederik,1995-02-13,DEN,4,25,M,27,20,7,4, 1753,11,1,0,0,0,0,5,0
+chrima,Christensen,Magnus,1997-08-20,DEN,4,16,M,24,17,7,0, 1537,11,6,0,0,0,0,3,0
+chrica,Christensen,Carsten,1986-08-28,DEN,4, , ,0,0,0,0,    0,0,20,0,0,0,0,0,0
+enevth,Enevoldsen,Thomas,1987-07-27,DEN,4,7,A,15,10,5,1,  901,3,6,0,0,0,0,0,0
+flored,Flores,Édison,1994-05-14,PER,4,10,A,16,8,8,1,  850,3,1,0,0,0,0,0,0
+groese,Grønning,Sebastian,1997-02-03,DEN,4,29,A,12,0,12,0,  199,0,6,0,0,0,0,3,0
+heleni,Helenius,Nicklas,1991-05-08,DEN,4, , ,3,1,2,0,  113,0,0,0,0,0,0,0,0
+holgma,Holgersson,Markus,1985-04-12,SWE,4,5,F,26,26,0,2, 2295,25,2,0,0,0,0,2,0
+joerni,Jørgensen,Nicolaj,1998-01-30,DEN,4,37,P,0,0,0,0,    0,0,4,0,0,0,0,0,0
+kakero,Kakeeto,Robert,1995-05-19,UGA,4,26,M,0,0,0,0,    0,0,4,0,0,0,0,0,0
+krispa,Kristensen,Patrick,1987-04-28,DEN,4,2,F,27,23,4,0, 2060,18,5,0,0,0,0,1,0
+larsni,Larsen,Nicolai,1991-03-09,DEN,4,1,P,32,32,0,0, 2880,32,0,-45,0,0,0,1,0
+luciiv,Lučić,Ivan,1995-03-23,AUT,4,22,P,0,0,0,0,    0,0,7,0,0,0,0,0,0
+meilma,Meilinger,Marco,1991-08-03,AUT,4,20,M,28,26,2,3, 2104,12,3,0,0,0,0,2,0
+maehjo,Mæhle,Joakim,1997-05-20,DEN,4,31,F,22,19,3,1, 1689,17,5,0,0,0,0,3,0
+pedera,Pedersen,Rasmus,1997-01-09,DEN,4,18,M,12,8,4,1,  787,4,11,0,0,0,0,1,0
+pedeka,Pedersen,Kasper,1991-01-13,DEN,4,32,F,23,21,2,2, 1928,20,7,0,0,0,0,1,0
+pohlja,Pohl,Jannik,1996-04-06,DEN,4,9,A,17,7,10,1,  744,3,2,0,0,0,0,0,0
+ramkmh,Ramkilde,Marco Harboe,1998-05-09,DEN,4,19,A,2,0,2,0,   49,0,0,0,0,0,0,1,0
+risgka,Risgård,Kasper,1983-01-04,DEN,4,21,M,26,22,4,2, 1908,15,0,0,0,1,0,3,0
+rokkmo,Rokkedal,Morten,1997-10-10,DEN,4,24,F,0,0,0,0,    0,0,5,0,0,0,0,0,0
+rolagi,Rólantsson,Gilli,1992-08-11,FER,4, , ,3,3,0,0,  253,2,2,0,0,0,0,0,0
+slotca,Sloth,Casper,1992-03-26,DEN,4,14,M,20,10,10,0,  936,3,10,0,0,0,0,3,0
+sylvja,Sylvestr,Jakub,1989-02-02,SVK,4,11,A,11,9,2,5,  823,8,0,0,0,1,0,3,0
+wuerra,Würtz,Rasmus,1983-09-18,DEN,4,8,M,26,26,0,1, 2340,26,0,0,0,0,0,11,0
+albrma,Albrechtsen,Martin,1980-03-31,DEN,0, , ,2,0,2,0,   48,0,14,0,0,0,0,0,0
+ankevi,Anker,Viktor,1998-01-10,DEN,0,30,P,0,0,0,0,    0,0,3,0,0,0,0,0,0
+arajpa,Arajuuri,Paulus,1988-06-15,FIN,0,23,F,8,6,2,0,  457,3,6,0,0,0,0,4,0
+austro,Austin,Rodolph,1985-06-01,JAM,0,8,M,23,11,12,1, 1091,8,11,0,0,0,0,5,0
+borrjo,Borring,Jonas,1985-01-04,DEN,0, , ,1,0,1,0,   34,0,0,0,0,0,0,0,0
+carrol,Carrara,Oliver,1998-01-20,DEN,0,32,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
+corlre,Corlu,Rezan,1997-08-07,DEN,0,17,A,4,1,3,0,  128,1,15,0,0,0,0,0,0
+cronsv,Crone,Svenn,1995-05-20,DEN,0,27,F,29,22,7,0, 2154,19,5,0,0,0,0,4,0
+enemch,Enemark,Christian,1999-01-20,DEN,0,41,F,2,1,1,0,  118,1,0,0,0,0,0,0,0
+hermhj,Hermannsson,Hjörtur,1995-02-08,ISL,0,6,F,32,32,0,1, 2681,28,2,0,0,0,0,4,1
+hjulan,Hjulsager,Andrew,1995-01-15,DEN,0, , ,19,18,1,7, 1572,12,1,0,0,0,0,5,0
+holsfr,Holst,Frederik,1994-09-24,DEN,0,12,F,24,17,7,2, 1493,8,11,0,0,0,0,6,0
+jakoch,Jakobsen,Christian,1993-03-27,DEN,0, , ,16,3,13,1,  486,2,4,0,0,0,0,1,0
+juelje,Juelsgård,Jesper,1989-01-26,DEN,0, , ,4,4,0,0,  305,3,3,0,0,0,0,1,0
+kabojo,Kabongo,Joël,1998-04-05,DEN,0,24,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
+kahlth,Kahlenberg,Thomas,1983-03-20,DEN,0,7,M,2,1,1,0,   92,0,2,0,0,0,0,0,0
+kalmzs,Kalmár,Zsolt,1995-06-09,HUN,0,11,M,12,8,4,0,  619,0,3,0,0,0,0,0,0
+klimja,Kliment,Jan,1993-09-01,CZE,0,29,A,18,4,14,1,  639,1,3,0,0,0,0,2,0
+kwarad,Kwarasey,Adam,1987-12-12,GHA,0,16,P,2,2,0,0,  180,2,12,-7,0,0,0,0,0
+larsja,Larsen,Jacob,1998-06-25,DEN,0, , ,0,0,0,0,    0,0,13,0,0,0,0,0,0
+larsjo,Larsson,Johan,1990-05-05,SWE,0,13,F,35,33,2,2, 3006,32,0,0,-1,0,0,2,0
+menske,Mensah,Kevin,1991-05-15,DEN,0,14,F,8,1,7,1,  245,1,0,0,0,0,0,0,0
+mukhha,Mukhtar,Hany,1995-03-21,GER,0,10,M,29,28,1,6, 2440,17,0,0,0,0,0,7,0
+nilsgu,Nilsson,Gustaf,1997-05-23,SWE,0,22,A,11,4,7,1,  295,2,4,0,0,0,0,0,0
+noerch,Nørgaard,Christian,1994-03-10,DEN,0,19,M,31,30,1,4, 2665,26,1,0,0,0,0,7,0
+phirle,Phiri,Lebogang,1994-11-09,RSA,0,18,M,34,30,4,1, 2693,24,0,0,0,0,0,1,0
+pukkte,Pukki,Teemu,1990-03-29,FIN,0,9,A,34,31,3,20, 2638,16,2,0,0,3,0,3,0
+roecbe,Röcker,Benedikt,1989-11-19,GER,0,4,F,34,33,1,0, 3001,33,1,0,0,0,0,7,0
+roenfr,Rønnow,Frederik,1992-08-04,DEN,0,1,P,34,34,0,0, 3060,34,1,-33,0,0,0,2,0
+sikogr,Sikošek,Gregor,1994-02-13,SLO,0,5,F,10,9,1,0,  693,4,1,0,0,0,0,3,2
+stueda,Stückler,Daniel,1997-04-13,DEN,0, , ,1,1,0,0,   45,0,1,0,0,0,0,0,0
+toppma,Toppel,Mads,1982-01-30,DEN,0, , ,0,0,0,0,    0,0,7,0,0,0,0,0,0
+urenma,Ureña,Marcos,1990-03-05,CRC,0, , ,13,2,11,0,  348,1,3,0,0,0,0,0,0
+warmma,Warming,Magnus,2000-06-08,DEN,0,36,A,1,0,1,0,   11,0,1,0,0,0,0,0,0
+wilcka,Wilczek,Kamil,1988-01-14,POL,0,20,A,30,29,1,13, 2184,7,3,0,0,0,0,4,0
+yunxsy,Yun,Suk-young,1990-02-13,KOR,0, , ,0,0,0,0,    0,0,8,0,0,0,0,0,0
+silvpd,da Silva,Patrick,1994-10-23,DEN,0, , ,1,1,0,0,   42,0,1,0,0,0,0,0,0
+amanda,Amankwaa,Danny,1994-01-30,DEN,1,32,M,8,0,8,0,  110,0,8,0,0,0,0,0,0
+andest,Andersen,Stephan,1981-11-26,DEN,1,1,P,3,3,0,0,  270,3,32,-3,0,0,0,0,0
+ankepe,Ankersen,Peter,1990-09-22,DEN,1,22,F,32,32,0,5, 2768,29,2,0,0,0,0,3,0
+antomi,Antonsson,Mikael,1981-05-31,SWE,1,15,F,8,6,2,0,  526,4,21,0,0,0,0,0,0
+augulu,Augustinsson,Ludwig,1994-04-21,SWE,1,3,F,32,31,1,1, 2753,29,0,0,0,1,0,2,0
+berger,Berg,Erik,1988-12-30,SWE,1,5,F,28,28,0,1, 2511,27,4,0,-1,0,0,7,1
+boilni,Boilesen,Nicolai,1992-02-16,DEN,1,20,F,8,5,3,0,  504,5,6,0,0,0,0,0,0
+chriki,Christensen,Kim,1979-07-16,DEN,1,41,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
+cornan,Cornelius,Andreas,1993-03-16,DEN,1,11,A,30,21,9,12, 1925,13,1,0,0,0,0,5,0
+delath,Delaney,Thomas,1991-09-03,DEN,1, , ,19,18,1,6, 1553,14,0,0,0,0,0,7,0
+falkra,Falk,Rasmus,1992-01-15,DEN,1,33,M,22,16,6,5, 1434,1,2,0,0,0,0,0,0
+gregja,Greguš,Ján,1991-01-29,SVK,1,16,M,28,12,16,2, 1272,9,7,0,0,0,0,1,0
+hoegto,Høgli,Tom,1984-02-24,NOR,1,2,F,9,4,5,0,  469,4,15,0,0,0,0,0,0
+kadrba,Kadrii,Bashkim,1991-07-09,DEN,1, , ,1,0,1,0,   13,0,3,0,0,0,0,0,0
+keitab,Keita,Aboubakar,1997-11-05,CIV,1, , ,2,0,2,0,   34,0,4,0,0,0,0,0,0
+krisju,Kristoffersen,Julian,1997-05-10,NOR,1,37,A,0,0,0,0,    0,0,11,0,0,0,0,0,0
+kuskka,Kusk,Kasper,1991-11-10,DEN,1,17,M,30,14,16,6, 1279,4,4,0,0,0,0,1,0
+kviswi,Kvist,William,1985-02-24,DEN,1,6,M,30,29,1,0, 2495,22,0,0,0,0,0,8,0
+matiur,Matić,Uroš,1990-05-23,SRB,1,8,M,15,13,2,2, 1180,11,0,0,0,0,0,2,0
+okorjo,Okore,Jores,1992-08-11,DEN,1,26,F,5,3,2,0,  279,3,11,0,0,0,0,1,0
+olsero,Olsen,Robin,1990-01-08,SWE,1,31,P,33,33,0,0, 2970,33,3,-17,0,0,0,0,0
+pavlan,Pavlović,Andrija,1993-11-16,SRB,1,23,A,35,25,10,8, 2225,12,0,0,0,0,0,1,0
+rasmmr,Rasmussen,Mads Roerslev,1999-06-24,DEN,1,27,F,3,2,1,0,  220,2,0,0,0,0,0,0,0
+racilu,Račić,Luka,1999-05-08,DEN,1,39,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
+remmch,Remmer,Christoffer,1993-01-16,DEN,1, , ,0,0,0,0,    0,0,3,0,0,0,0,0,0
+roejni,Røjkjær,Nicklas,1998-07-24,DEN,1,39,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
+santfe,Santander,Federico,1991-06-04,PAR,1,19,A,28,24,4,12, 2115,17,0,0,0,0,0,4,0
+toutyo,Toutouh,Youssef,1992-10-06,DEN,1,24,M,33,23,10,5, 2103,12,2,0,0,0,0,5,0
+verbbe,Verbič,Benjamin,1993-11-27,SLO,1,7,A,27,21,6,6, 1669,3,4,0,0,1,0,2,0
+zankma,Zanka, ,1990-04-23,DEN,1,25,F,33,33,0,0, 2954,32,0,0,0,0,0,10,0
+andeje,Andersen,Jeppe,1992-12-06,DEN,9,8,M,12,12,0,2, 1037,9,0,0,0,0,0,3,0
+anyeda,Anyembe,Daniel,1998-07-22,DEN,9,38,M,1,0,1,0,   45,0,2,0,0,0,0,0,0
+brinje,Brinch,Jeppe,1995-05-08,DEN,9,25,F,8,8,0,0,  720,8,12,0,0,0,0,1,0
+brinma,Brink,Mark,1998-03-15,DEN,9,21,M,12,3,9,0,  423,0,14,0,0,0,0,3,0
+dreyan,Dreyer,Anders,1998-05-02,DEN,9,39,A,6,4,2,1,  369,1,2,0,0,0,0,0,0
+hageni,Hagelskjær,Nikolaj,1990-05-06,DEN,9,32,F,14,12,2,0, 1091,11,12,0,0,0,0,0,0
+hvilma,Hvilsom,Mads,1992-08-23,DEN,9,9,A,25,14,11,2, 1255,6,4,0,0,0,0,2,0
+hoejje,Højbjerg,Jeppe,1995-04-30,DEN,9,16,P,24,24,0,0, 2160,24,4,-44,0,0,0,1,0
+jakomi,Jakobsen,Michael,1985-11-28,DEN,9,38,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
+jensjo,Jensen,Jonas,1985-10-25,DEN,9,1,P,8,8,0,0,  720,8,23,-10,0,0,0,0,0
+jessle,Jessen,Leon,1986-06-11,DEN,9, , ,14,12,2,0, 1114,12,3,0,0,0,0,1,0
+joerje,Jørgensen,Jesper,1984-05-09,DEN,9,7,M,17,14,3,1, 1179,8,7,0,0,1,0,4,0
+kakaot,Kakabadze,Otar,1995-06-27,GEO,9,18,F,9,9,0,0,  810,9,1,0,0,0,0,2,0
+katsgi,Katsikas,Giorgios,1990-06-14,GRE,9,5,F,10,10,0,0,  900,10,0,0,0,0,0,4,0
+krism1,Kristensen,Matthias,1997-03-21,DEN,9,26,M,9,5,4,0,  445,3,8,0,0,0,0,0,0
+laurje,Lauridsen,Jesper,1991-03-27,DEN,9,14,F,14,8,6,0,  886,8,1,0,0,0,0,0,0
+laurrj,Laursen,Ryan Johnson,1992-04-14,DEN,9, , ,12,11,1,0, 1035,11,0,0,0,0,0,3,0
+lekvma,Lekven,Magnus,1988-01-13,NOR,9, , ,2,1,1,0,  100,0,0,0,0,0,0,0,0
+lundma,Lund,Marco,1996-06-30,DEN,9,24,F,23,19,4,1, 1808,19,9,0,0,0,0,1,0
+mabiaw,Mabil,Awer,1995-09-15,AUS,9,10,A,25,18,7,4, 1701,15,1,0,0,0,0,4,1
+mcgrbr,McGrath,Brent,1991-06-18,AUS,9,22,A,17,11,6,1,  895,3,9,0,0,0,0,1,0
+menske,Mensah,Kevin,1991-05-15,DEN,9, , ,13,12,1,1, 1108,11,2,0,0,0,0,3,0
+mikkla,Mikkelsen,Lasse,1998-01-18,DEN,9,35,P,0,0,0,0,    0,0,5,0,0,0,0,0,0
+nielca,Nielsen,Casper,1994-04-29,DEN,9, , ,17,16,1,0, 1288,9,1,0,0,0,0,1,0
+nordan,Nordvik,Andreas,1987-03-18,NOR,9,23,F,24,24,0,2, 2022,20,2,0,0,0,0,2,0
+otixem,Oti,Emmanuel,1996-09-24,GHA,9,17,M,4,3,1,0,  182,0,0,0,0,0,0,0,0
+parula,Parunashvili,Lasha,1993-02-14,GEO,9,6,M,2,0,2,0,   25,0,0,0,0,0,0,0,0
+paulbj,Paulsen,Bjørn,1991-07-02,DEN,9, , ,20,16,4,2, 1436,10,0,0,0,0,0,2,0
+palsvi,Pálsson,Victor,1991-04-30,ISL,9,4,M,30,29,1,2, 2615,29,1,0,0,0,0,3,0
+stenda,Stenderup,Daniel,1989-05-31,DEN,9, , ,8,7,1,0,  626,6,10,0,0,0,0,0,0
+soedro,Söder,Robin,1991-04-01,SWE,9,27,A,28,24,4,10, 2162,15,2,0,0,0,0,1,0
+soerj1,Sørensen,Jacob,1998-03-03,DEN,9,38,M,8,7,1,0,  464,0,5,0,0,0,0,1,0
+tsimko,Tsimikas,Kostas,1996-05-12,GRE,9,3,F,9,8,1,2,  689,5,1,0,0,0,0,3,0
+zivzbu,Zivzivadze,Budu,1994-03-10,GEO,9,11,A,7,3,4,0,  323,1,1,0,0,0,0,1,0
+aabeki,Aabech,Kim,1983-05-31,DEN,30,19,M,30,23,7,7, 2017,10,2,0,0,2,0,3,0
+albrma,Albrechtsen,Martin,1980-03-31,DEN,30,3,F,2,1,1,0,  139,0,1,0,0,0,0,0,0
+bertja,Berthelsen,Jacob,1986-07-04,DEN,30, , ,0,0,0,0,    0,0,4,0,0,0,0,0,0
+bjeran,Bjerregaard,André,1991-09-03,DEN,30,29,A,31,26,5,3, 2220,13,0,0,0,0,0,7,0
+bobjma,Bobjerg,Markus,1998-01-26,DEN,30,30,P,0,0,0,0,    0,0,12,0,0,0,0,0,0
+clarst,Clark,Steve,1986-04-14,USA,30,21,P,11,11,0,0,  990,11,0,-18,0,0,0,0,0
+dannni,Dannevang,Niklas,1990-09-11,DEN,30,1,P,21,21,0,0, 1844,20,10,-32,0,0,0,0,0
+dohnni,Dohn,Nikolai,1998-08-18,DEN,30,23,M,1,0,1,0,   15,0,2,0,0,0,0,0,0
+finnkj,Finnbogason,Kjartan,1986-07-09,ISL,30,9,A,30,14,16,8, 1454,6,1,0,0,1,0,4,0
+gemmjo,Gemmer,Jonas,1996-01-31,DEN,30,14,M,19,5,14,0,  635,3,13,0,0,0,0,4,0
+hansha,Hansson,Hallur,1992-07-08,FER,30,17,A,29,29,0,4, 2469,26,0,0,0,0,0,8,0
+helgel,Helgason,Elfar,1989-07-27,ISL,30,2,F,5,4,1,1,  323,2,6,0,0,0,0,3,0
+henrdo,Henry,Doneil,1993-04-20,CAN,30, , ,4,2,2,0,  133,1,0,0,0,0,0,1,0
+holmma,Holm,Martin,1998-05-27,DEN,30,2,F,0,0,0,0,    0,0,2,0,0,0,0,0,0
+jespmi,Jespersen,Mikkel,1991-06-11,DEN,30,8,M,23,8,15,1,  866,4,8,0,0,0,0,3,0
+kortth,Kortegaard,Thomas,1984-07-02,DEN,30,13,F,14,10,4,1,  904,7,10,0,0,0,0,2,0
+krygla,Kryger,Lasse,1982-11-03,DEN,30,10,M,26,24,2,2, 1922,14,1,0,0,0,0,2,0
+mehlje,Mehl,Jeppe,1986-09-21,DEN,30,18,M,15,6,9,0,  677,2,12,0,0,0,0,0,0
+mensjo,Mensah,Joseph,1994-09-29,GHA,30,12,M,6,0,6,0,   94,0,6,0,0,0,0,0,0
+moelfr,Møller,Frederik,1993-07-08,DEN,30,5,F,30,30,0,1, 2645,29,0,0,0,0,0,4,0
+nielma,Nielsen,Mathias,1991-03-02,DEN,30,7,F,22,22,0,0, 1943,20,1,0,0,0,0,5,1
+nymape,Nymann,Peter,1982-08-22,DEN,30,11,F,31,31,0,0, 2741,26,0,0,0,0,0,2,0
+obrico,O'Brien,Conor,1988-10-20,USA,30,4,M,31,30,1,1, 2559,19,1,0,0,0,0,1,0
+qvismi,Qvist,Mikkel,1993-04-22,DEN,30,20,F,2,0,2,0,   87,0,4,0,0,0,0,0,0
+sannbu,Sanneh,Bubacarr,1994-11-14,GAM,30,15,F,31,31,0,4, 2731,28,0,0,0,0,0,2,0
+soermb,Sørensen,Mads Bech,1999-01-07,DEN,30,22,F,6,2,4,0,  241,2,14,0,0,0,0,0,0
+tshide,Tshiembe,Delphin,1991-07-17,DRC,30,16,F,25,22,3,0, 1957,14,7,0,0,0,0,3,0
+wolapa,Wolański,Patryk,1991-08-15,POL,30, , ,1,0,1,0,   46,0,9,-3,0,0,0,0,0
+arrida,Arrieta,Danilo,1987-02-10,DEN,5,11,M,2,0,2,0,   38,0,2,0,0,0,0,0,0
+blumbr,Blume,Bror,1992-01-22,DEN,5,22,M,28,20,8,2, 1959,17,3,0,0,0,0,2,0
+boysda,Boysen,David,1991-04-30,DEN,5,21,A,14,13,1,2, 1093,5,0,0,0,1,0,4,0
+branje,Brandrup,Jeppe,1985-06-03,DEN,5,20,M,28,28,0,2, 2520,28,5,0,0,0,0,7,0
+chrith,Christensen,Thomas,1984-01-20,DEN,5,2,F,2,1,1,0,   92,1,8,0,0,0,0,1,0
+chrije,Christjansen,Jesper,1987-12-20,DEN,5,7,M,34,33,1,4, 2975,31,0,0,-1,0,0,7,0
+elkjjo,Elkjær,Jonas,1997-06-05,DEN,5,31,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
+fosgla,Fosgaard,Lasse,1986-09-06,DEN,5,9,A,28,21,7,1, 1905,12,4,0,0,0,0,3,0
+gytkfr,Gytkjær,Frederik,1993-03-16,DEN,5, , ,11,3,8,0,  362,1,3,0,0,0,0,1,0
+hansje,Hansen,Jesper,1985-03-31,DEN,5, , ,35,35,0,0, 3091,34,0,-34,0,0,0,0,0
+jonaha,Jónasson,Hallgrímur,1986-05-04,ISL,5,30,F,20,16,4,1, 1516,14,9,0,0,0,0,0,0
+kjaeje,Kjær,Jeppe,1985-11-06,DEN,5,15,A,29,23,6,11, 2024,10,1,0,0,0,0,7,1
+kjaeol,Kjærgaard,Oliver,1998-07-11,DEN,5,28,M,3,0,3,0,   36,0,1,0,0,0,0,1,0
+larsan,Larsen,Andreas,1990-05-22,DEN,5,16,P,2,1,1,0,  149,1,34,-1,0,0,0,0,0
+larsk1,Larsen,Kristoffer,1992-01-19,NOR,5,19,A,27,19,8,4, 1500,3,0,0,0,0,0,2,0
+larsem,Larsen,Emil,1991-06-22,DEN,5,25,M,4,3,1,0,  224,0,5,0,0,0,0,1,0
+lumbmi,Lumb,Michael,1988-01-09,DEN,5,3,F,32,32,0,1, 2799,30,0,0,0,0,0,7,0
+marcgu,Marcussen,Gustav,1998-06-12,DEN,5,32,A,2,0,2,0,   16,0,1,0,0,0,0,0,0
+munkal,Munksgaard,Alexander,1997-12-13,DEN,5, , ,10,8,2,0,  732,8,10,0,0,0,0,1,0
+nielch,Nielsen,Casper Højer,1994-11-20,DEN,5,17,F,9,5,4,0,  590,4,23,0,0,0,0,2,0
+nordma,Nordam,Mads,1995-05-14,DEN,5, , ,2,1,1,0,  100,1,6,0,0,0,0,0,0
+odgaje,Odgaard,Jens,1999-03-31,DEN,5,23,A,16,4,12,3,  464,0,14,0,0,0,0,1,0
+ojoxki,Ojo,Kim,1988-12-02,NGR,5,27,A,16,8,8,3,  746,3,4,0,0,0,0,6,0
+rasmph,Rasmussen,Philip,1989-01-12,DEN,5, , ,13,4,9,0,  482,1,4,0,0,0,0,4,0
+risela,Rise,Lasse,1986-06-09,DEN,5,8,A,10,1,9,0,  216,0,9,0,0,0,0,1,0
+rygami,Rygaard,Mikkel,1990-12-25,DEN,5,10,M,34,31,3,5, 2632,16,0,0,0,0,0,7,0
+soerth,Sørensen,Thomas,1984-08-01,DEN,5,24,F,31,30,1,0, 2611,26,1,0,0,0,0,4,0
+taubma,Tauber,Mathias,1984-08-24,DEN,5,4,F,25,25,0,1, 2129,23,1,0,0,0,0,2,0
+tshike,Tshiembe,Kevin,1997-03-31,DEN,5,18,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
+oernma,Ørnskov,Martin,1985-10-10,DEN,5,5,M,31,31,0,1, 2640,25,0,0,0,0,0,8,1
+akinba,Akintola,Babajide,1996-01-13,NGR,12, , ,0,0,0,0,    0,0,3,0,0,0,0,0,0
+andemi,Andersen,Mikkel,1988-12-17,DEN,12, , ,13,12,1,0, 1125,12,19,-13,0,0,0,0,0
+andem1,Anderson,Mikael,1998-07-01,ISL,12,34,A,2,0,2,0,   24,0,4,0,0,0,0,0,0
+bangpa,Banggaard,Patrick,1994-04-04,DEN,12, , ,20,20,0,1, 1756,18,0,0,0,0,0,5,0
+borrjo,Borring,Jonas,1985-01-04,DEN,12,11,M,33,22,11,3, 2039,12,1,0,0,0,0,2,0
+brunbr,Bruninho, ,1989-09-29,BRA,12,77,M,11,1,10,0,  267,0,5,0,0,0,0,3,0
+dahljo,Dahlin,Johan,1986-09-08,SWE,12,16,P,24,24,0,0, 2115,23,10,-40,-1,0,0,1,0
+dracja,Drachmann,Janus,1988-05-11,DEN,12,9,M,9,9,0,0,  777,7,2,0,0,0,0,2,1
+duelmi,Duelund,Mikkel,1997-06-29,DEN,12,22,M,32,24,8,8, 2068,11,2,0,0,0,0,4,0
+faouza,Faour,Zackarias,1998-01-30,SWE,12, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
+halsma,Halsti,Markus,1984-03-19,FIN,12,6,M,15,14,1,0, 1255,10,16,0,-1,0,0,4,1
+hanski,Hansen,Kian,1989-03-03,DEN,12,2,F,30,30,0,2, 2527,25,1,0,-2,0,0,6,0
+hassri,Hassan,Rilwan,1991-02-09,NGR,12,36,M,34,30,4,4, 2533,13,1,0,0,0,0,3,0
+hendma,Hende,Marc,1990-11-06,DEN,12,5,F,4,1,3,0,  128,1,4,0,0,0,0,1,0
+kadlva,Kadlec,Václav,1992-05-20,CZE,12, , ,7,5,2,3,  406,0,0,0,0,0,0,0,0
+kairka,Kairinen,Kaan,1998-12-22,FIN,12,21,M,2,0,2,0,   15,0,5,0,0,0,0,0,0
+krisra,Kristensen,Rasmus,1997-07-11,DEN,12,43,F,33,32,1,2, 2907,31,0,0,0,0,0,3,1
+kroosi,Kroon,Simon,1993-06-16,SWE,12,14,M,5,0,5,0,   51,0,6,0,0,0,0,0,0
+larsm1,Larsen,Marco,1993-05-15,DEN,12, , ,1,0,1,0,    3,0,0,0,0,0,0,0,0
+munkal,Munksgaard,Alexander,1997-12-13,DEN,12,13,F,1,0,1,0,   31,0,4,0,0,0,0,0,0
+nicora,Nicolaisen,Rasmus,1997-03-16,DEN,12,20,F,7,5,2,0,  509,5,7,0,0,0,0,0,0
+novafi,Novák,Filip,1990-06-26,CZE,12,70,F,33,33,0,5, 2893,29,0,0,0,0,0,2,0
+olsskr,Olsson,Kristoffer,1995-06-30,SWE,12, , ,13,5,8,1,  537,1,7,0,0,0,0,2,0
+onuapa,Onuachu,Paul,1994-05-28,NGR,12,33,A,35,28,7,17, 2657,20,1,0,0,0,0,3,0
+poulja,Poulsen,Jakob,1983-07-07,DEN,12,7,M,35,35,0,6, 3150,35,0,0,0,3,0,4,0
+poulan,Poulsen,Andreas,1999-10-13,DEN,12,40,F,1,1,0,0,   90,1,3,0,0,0,0,0,0
+pusima,Pušić,Martin,1987-10-24,AUT,12, , ,12,5,7,2,  431,1,1,0,0,1,0,0,0
+raahan,Raahauge,Andreas,1997-06-29,DEN,12,30,P,0,0,0,0,    0,0,5,0,0,0,0,0,0
+riiskr,Riis,Kristian,1997-02-17,DEN,12,18,F,14,9,5,0,  922,8,15,0,0,0,0,5,0
+roeman,Rømer,André,1993-07-18,DEN,12,28,M,31,26,5,3, 2214,18,2,0,0,0,0,7,1
+sistpi,Sisto,Pione,1995-02-04,DEN,12, , ,2,1,1,2,   93,0,0,0,0,1,0,0,0
+sparti,Sparv,Tim,1987-02-20,FIN,12,3,M,4,3,1,0,  250,1,0,0,0,0,0,0,1
+thycma,Thychosen,Mads,1997-06-27,DEN,12,24,M,4,0,4,0,   39,0,11,0,0,0,0,0,0
+torpvi,Torp,Victor,1999-07-30,DEN,12,39,M,0,0,0,0,    0,0,2,0,0,0,0,0,0
+vaarrv,Vaart,Rafael van der,1983-02-11,NED,12,8,M,15,10,5,2,  737,0,4,0,0,0,0,1,0
+wikhgu,Wikheim,Gustav,1993-03-18,NOR,12,88,M,21,11,10,4,  991,2,2,0,0,0,0,2,0
+andemk,Andersen,Magnus Kofod,1999-05-10,DEN,23,38,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+asaner,Asante,Ernest,1988-11-06,GHA,23,12,A,30,19,11,5, 1784,8,1,0,0,0,0,1,0
+bartka,Bartolec,Karlo,1995-04-20,CRO,23,2,F,21,21,0,1, 1842,19,0,0,0,0,0,6,0
+carlpa,Carlgren,Patrik,1992-01-08,SWE,23,1,P,5,5,0,0,  450,5,10,-8,0,0,0,2,0
+dhafso,Dhaflaoui,Souheib,1996-05-08,TUN,23,27,A,0,0,0,0,    0,0,2,0,0,0,0,0,0
+donygo,Donyoh,Godsway,1994-10-14,GHA,23,31,A,26,23,3,9, 1903,6,3,0,0,0,0,6,0
+fellmo,Fellah,Mohammed,1989-05-24,NOR,23,11,M,12,6,6,0,  467,0,5,0,0,0,0,1,0
+fresma,Frese,Martin,1998-01-04,DEN,23,11,M,1,1,0,0,   34,0,6,0,0,0,0,0,0
+gregpa,Gregor,Pascal,1994-02-18,DEN,23,3,F,18,17,1,0, 1496,16,2,0,0,0,0,4,0
+grooin,Groothuizen,Indy,1996-07-22,NED,23,21,P,12,11,1,0, 1037,11,6,-15,0,0,0,2,0
+ingvma,Ingvartsen,Marcus,1996-01-04,DEN,23,19,A,35,34,1,23, 3094,32,0,0,0,3,0,7,0
+jensm1,Jensen,Mathias,1996-01-01,DEN,23,23,M,22,17,5,2, 1553,8,9,0,0,0,0,4,0
+jenspv,Jensen,Peter Vindahl,1998-02-16,DEN,23,28,P,0,0,0,0,    0,0,9,0,0,0,0,0,0
+johaja,Johansson,Jakob,1998-08-06,DEN,23,35,A,3,1,2,0,  111,0,2,0,0,0,0,1,0
+johnjo,John,Joshua,1988-10-01,ARU,23, , ,3,3,0,1,  247,1,0,0,0,0,0,1,0
+koehch,Køhler,Christian,1996-04-10,DEN,23,24,M,20,11,9,0,  894,5,13,0,0,0,0,5,0
+lobost,Lobotka,Stanislav,1994-11-25,SVK,23,7,M,35,35,0,0, 3129,33,0,0,0,0,0,7,0
+lundbe,Lund,Benjamin,1997-03-12,DEN,23,29,F,7,5,2,1,  474,5,7,0,0,0,0,1,0
+marcem,Marcondes,Emiliano,1995-03-09,DEN,23,10,M,25,19,6,12, 1803,12,1,0,0,0,0,6,0
+maxsan,Maxsø,Andreas,1994-03-18,DEN,23,4,F,33,33,0,1, 2917,32,0,0,0,0,0,4,0
+mikkto,Mikkelsen,Tobias,1986-09-18,DEN,23,9,M,19,7,12,1,  727,3,2,0,0,0,0,0,0
+mohaad,Mohammad,Adnan,1996-07-02,PAK,23, , ,10,4,6,0,  388,2,7,0,0,0,0,0,0
+mourni,Mouritsen,Nicklas,1995-03-15,DEN,23, , ,3,2,1,0,  182,1,4,0,0,0,0,0,0
+mtilpa,Mtiliga,Patrick,1981-01-28,DEN,23,8,F,15,13,2,0, 1159,11,1,0,0,0,0,3,0
+mumiab,Mumin,Abdel,1998-06-06,GHA,23,30,F,3,1,2,0,  120,1,4,0,0,0,0,0,0
+naahdi,Naah,Divine,1996-04-20,GHA,23, , ,5,4,1,0,  273,0,3,0,0,0,0,0,0
+nelsvi,Nelsson,Victor,1998-10-14,DEN,23,36,M,23,12,11,0, 1099,11,6,0,0,0,0,5,0
+odurdo,Oduro,Dominic,1995-01-21,GHA,23, , ,1,1,0,0,   72,0,3,0,0,0,0,0,0
+pedem1,Pedersen,Mads,1996-09-01,DEN,23,5,F,25,25,0,0, 2117,17,0,0,0,0,0,8,0
+petrla,Petry,Lasse,1992-09-19,DEN,23,6,M,4,4,0,0,  334,0,0,0,0,0,0,0,0
+rasmma,Rasmussen,Mathias,1997-11-25,NOR,23,14,F,13,3,10,1,  445,1,10,0,0,0,0,0,0
+ramora,Rámon, ,1990-08-22,BRA,23, , ,6,6,0,1,  540,6,0,0,0,0,0,2,0
+runaru,Rúnarsson,Rúnar,1995-02-18,ISL,23,16,P,20,20,0,0, 1753,19,10,-32,0,0,0,0,0
+skovan,Skovgaard,Andreas,1997-03-27,DEN,23,17,F,24,18,6,0, 1802,17,9,0,0,0,0,6,0
+tanoco,Tanor,Collins,1998-01-04,GHA,23,33,M,3,0,3,0,   88,0,5,0,0,0,0,1,0
+tranvi,Tranberg,Viktor,1997-02-26,DEN,23,32,F,16,14,2,0, 1180,10,6,0,0,0,0,1,0
+silvpd,da Silva,Patrick,1994-10-23,DEN,23,20,F,2,1,1,0,  126,0,1,0,0,0,0,0,0
+buusja,Buus,Jacob,1997-03-07,DEN,2,17,M,0,0,0,0,    0,0,3,0,0,0,0,0,0
+chriol,Christensen,Oliver,1999-03-22,DEN,2,27,P,0,0,0,0,    0,0,4,0,0,0,0,0,0
+deslmi,Desler,Mikkel,1995-02-19,DEN,2,19,F,30,29,1,0, 2453,19,0,0,0,0,0,2,0
+dieuya,Dieudonne,Yao,1997-02-14,CIV,2,26,M,13,1,12,0,  209,0,10,0,0,0,0,1,0
+edmujo,Edmundsson,Jóan,1991-07-26,FER,2,7,M,27,24,3,9, 2193,21,0,0,0,0,0,8,0
+falkmi,Falkesgaard,Michael,1991-04-09,PHI,2, , ,3,2,1,0,  230,2,27,-3,0,0,0,0,0
+festra,Festersen,Rasmus,1986-08-26,DEN,2,10,A,26,24,2,5, 1939,14,0,0,0,1,0,4,0
+grevma,Greve,Mathias,1995-02-11,DEN,2,21,A,25,9,16,1, 1069,5,5,0,0,0,0,1,0
+grytst,Grytebust,Sten,1989-10-25,NOR,2,13,P,30,30,0,0, 2650,29,0,-35,0,0,0,1,0
+jacoan,Jacobsen,Anders,1989-10-27,DEN,2,28,A,27,21,6,2, 1851,11,0,0,0,0,0,3,0
+joenra,Jönsson,Rasmus,1990-01-27,SWE,2,9,A,32,30,2,6, 2501,18,0,0,0,0,0,1,0
+kuruha,Kuruçay,Hasan,1997-08-31,TUR,2, , ,0,0,0,0,    0,0,2,0,0,0,0,0,0
+laurja,Laursen,Jacob,1994-11-17,DEN,2,20,F,21,18,3,0, 1688,17,0,0,0,0,0,2,0
+laurrj,Laursen,Ryan Johnson,1992-04-14,DEN,2,4,F,3,1,2,0,  112,1,3,0,0,0,0,0,0
+lundol,Lund,Oliver,1990-08-21,DEN,2,24,F,18,11,7,0, 1152,11,6,0,0,0,0,3,0
+makrme,Makrini,Mohamed el,1987-07-06,NED,2, , ,16,16,0,0, 1375,11,0,0,0,0,0,6,1
+mikkt1,Mikkelsen,Thomas,1990-01-19,DEN,2, , ,12,3,9,2,  465,1,6,0,0,0,0,2,0
+nielca,Nielsen,Casper,1994-04-29,DEN,2,11,M,9,9,0,1,  671,4,1,0,0,0,0,0,0
+perejo,Pereira,João,1990-05-10,POR,2,5,F,10,10,0,0,  764,6,6,0,0,0,0,2,0
+peteke,Petersen,Kenneth,1985-01-15,DEN,2,2,F,21,21,0,2, 1844,19,4,0,0,1,0,5,1
+thomje,Thomasen,Jens,1996-06-25,DEN,2,14,M,21,19,2,2, 1641,7,1,0,0,0,0,2,0
+thrama,Thrane,Mathias,1993-09-04,DEN,2,18,M,18,4,14,1,  508,0,12,0,0,0,0,1,0
+tingfr,Tingager,Frederik,1993-02-22,DEN,2,3,F,23,20,3,2, 1840,19,7,0,-1,0,0,3,1
+tverje,Tverskov,Jeppe,1993-03-12,DEN,2,6,F,30,29,1,0, 2659,28,1,0,-1,0,0,5,0
+uzociz,Uzochukwu,Izunna,1990-04-11,NGR,2,15,M,22,17,5,0, 1427,9,9,0,0,0,0,4,0
+webekr,Weber,Kristian,1997-01-03,DEN,2,35,A,0,0,0,0,    0,0,3,0,0,0,0,0,0
+welbna,Welbeck,Nana,1994-11-24,GHA,2,22,M,11,4,7,0,  372,1,18,0,0,0,0,3,0
+agesma,Agesen,Mads,1983-03-17,DEN,15,5,F,27,26,1,0, 2345,26,1,0,0,0,0,7,0
+allajo,Allansson,Joel,1992-11-03,SWE,15,20,M,24,21,3,0, 1847,16,4,0,0,0,0,3,0
+babaed,Babayan,Edgar,1995-10-28,DEN,15, , ,8,3,5,0,  317,0,11,0,0,0,0,0,0
+bagejo,Bager,Jonas,1996-07-18,DEN,15,24,F,21,15,6,0, 1333,11,9,0,-1,0,0,6,1
+bruhan,Bruhn,Andreas,1994-02-17,DEN,15,7,M,8,1,7,0,  245,0,2,0,0,0,0,2,0
+dakijo,Dakir,Jonas,1997-04-18,DEN,15,71,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
+damsto,Damsgaard,Tobias,1998-08-03,DEN,15,74,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+duexfr,Due,Frederik,1992-07-18,DEN,15,22,P,2,2,0,0,  180,2,29,-4,0,0,0,0,0
+enghka,Enghardt,Kasper,1992-05-27,DEN,15,2,F,27,19,8,1, 1860,15,3,0,0,0,0,2,0
+fengma,Fenger,Mads,1990-09-10,DEN,15,13,F,24,23,1,0, 2031,21,1,0,-1,0,0,5,1
+fiscal,Fischer,Alexander,1986-09-16,DEN,15,21,F,12,11,1,1,  965,8,6,0,0,0,0,1,0
+fiskka,Fisker,Kasper,1988-05-22,DEN,15,16,M,31,31,0,2, 2710,27,0,0,0,0,0,6,0
+georma,George,Mayron,1993-10-23,CRC,15,9,A,15,4,11,2,  495,2,4,0,0,0,0,1,0
+hallha,Halldórsson,Hannes,1984-04-27,ISL,15,1,P,30,30,0,0, 2700,30,2,-31,0,0,0,1,0
+harelu,Haren,Lucas,1997-10-13,DEN,15,18,M,2,1,1,0,   52,0,4,0,0,0,0,0,0
+ishami,Ishak,Mikael,1993-03-31,SWE,15, , ,17,17,0,8, 1477,10,0,0,0,0,0,3,0
+kallmi,Kallesøe,Mikkel,1997-04-20,DEN,15,19,M,17,13,4,3, 1045,2,2,0,0,0,0,0,0
+kaukjo,Kauko,Joni,1990-07-12,FIN,15,6,M,20,12,8,1, 1190,8,6,0,0,0,0,1,0
+lauefr,Lauenborg,Frederik,1997-05-18,DEN,15,51,M,0,0,0,0,    0,0,4,0,0,0,0,0,0
+lundvi,Lundberg,Viktor,1991-03-04,SWE,15,23,A,26,20,6,3, 1612,5,1,0,0,0,0,3,0
+lundsa,Lundholm,Sam,1994-07-01,SWE,15,15,A,1,1,0,0,   65,0,9,0,0,0,0,0,0
+lykkca,Lykke,Caspar,0000-00-00,DEN,15,79,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
+marxer,Marxen,Erik,1990-12-02,DEN,15,11,F,25,24,1,2, 2141,22,5,0,0,0,0,3,1
+masama,Masango,Mandla,1989-07-18,RSA,15, , ,2,2,0,1,  180,2,0,0,0,0,0,0,0
+mitrma,Mitrović,Marko,1992-06-27,SWE,15, , ,10,3,7,0,  316,0,5,0,0,0,0,1,0
+moelma,Mølvadgaard,Marcus,1999-08-03,DEN,15,70,A,6,1,5,0,  165,0,6,0,0,0,0,0,0
+nielkl,Nielsen,Kasper Lynge,1991-01-22,DEN,15, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
+olsebr,Olsen,Brandur,1995-12-19,FER,15,8,M,5,1,4,1,  118,0,10,0,0,0,0,0,0
+poulni,Poulsen,Nikolai,1993-08-15,DEN,15,38,M,25,21,4,0, 1686,11,2,0,0,0,0,2,1
+pourma,Pourie,Marvin,1991-01-08,GER,15,10,A,26,19,7,7, 1715,10,1,0,0,0,0,3,0
+thomjo,Thomsen,Johnny,1982-02-26,DEN,15,4,F,29,29,0,0, 2555,26,0,0,0,0,0,0,0
+djurni,Đurđić,Nikola,1986-04-01,SRB,15,28,A,4,2,2,0,  237,2,0,0,0,0,0,1,0
+aggeni,Agger,Nicolaj,1988-10-23,DEN,8,7,A,20,8,12,0,  810,0,0,0,0,0,0,0,0
+albean,Albers,Andreas,1990-03-23,DEN,8,9,A,31,7,24,6,  978,0,0,0,0,1,0,1,0
+crammi,Cramer,Mikkel,1992-01-25,DEN,8,5,F,24,21,3,0, 1951,20,8,0,0,0,0,2,0
+dahlgu,Dahl,Gustav,1996-01-21,DEN,8,15,M,12,11,1,0,  929,8,19,0,0,0,0,2,0
+flinde,Flinta,Dennis,1983-11-14,DEN,8,14,F,31,31,0,0, 2790,31,0,0,-1,0,0,5,0
+floxul,Flo,Ulrik,1988-10-06,NOR,8, , ,3,0,3,0,   67,0,1,0,0,0,0,1,0
+faeskr,Fæste,Kristian,1990-03-24,DEN,8, , ,0,0,0,0,    0,0,3,0,0,0,0,0,0
+gammje,Gammelby,Jens,1995-02-05,DEN,8,6,F,31,31,0,2, 2790,31,0,0,0,0,0,4,0
+gertje,Gertsen,Jeppe,1997-02-09,DEN,8,24,F,0,0,0,0,    0,0,6,0,0,0,0,0,0
+hansfr,Hansen,Frank,1983-02-23,DEN,8,20,M,3,0,3,0,   11,0,4,0,0,0,0,0,0
+hedvos,Hedvall,Oscar,1998-08-09,DEN,8,16,P,0,0,0,0,    0,0,7,0,0,0,0,0,0
+heleni,Helenius,Nicklas,1991-05-08,DEN,8,11,A,27,27,0,9, 2156,11,0,0,0,2,0,0,0
+ixxxim,I,Ibrahim Moro,1993-11-10,GHA,8,18,M,24,24,0,1, 2152,22,0,0,0,0,0,4,0
+jakosi,Jakobsen,Simon,1990-11-17,DEN,8,4,F,31,31,0,0, 2790,31,0,0,0,0,0,4,0
+lyngem,Lyng,Emil,1989-08-03,DEN,8, , ,18,2,16,0,  352,0,1,0,0,0,0,1,0
+lysdra,Lysdal,Rasmus,1997-00-00,DEN,8,2,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
+madsm1,Madsen,Mads,1998-01-14,DEN,8,21,M,2,0,2,0,   20,0,15,0,0,0,0,0,0
+mendru,Méndez,Rubio,1996-03-01,USA,8,20,A,3,0,3,1,   62,0,4,0,0,0,0,0,0
+noerth,Nørgaard,Thomas,1987-01-07,DEN,8,1,P,29,29,0,0, 2610,29,0,-43,0,0,0,0,0
+okkeje,Okkels,Jeppe,1999-07-27,DEN,8,23,A,5,0,5,0,   47,0,11,0,0,0,0,0,0
+rasmni,Rasmussen,Niels,1993-09-09,DEN,8, , ,0,0,0,0,    0,0,18,0,0,0,0,0,0
+rinkje,Rinke,Jens,1990-04-16,DEN,8,31,P,3,3,0,0,  270,3,21,-8,0,0,0,0,0
+salqto,Salquist,Tobias,1995-05-18,DEN,8,28,F,6,3,3,0,  280,3,5,0,0,0,0,0,0
+scheem,Scheel,Emil,1990-03-18,DEN,8,10,M,32,28,4,2, 2459,15,0,0,0,0,0,1,0
+skhida,Skhirtladze,Davit,1993-03-16,GEO,8,22,A,29,28,1,7, 2168,6,2,0,0,0,0,0,0
+skovro,Skov,Robert,1996-05-20,DEN,8,29,M,27,26,1,7, 2327,24,0,0,0,0,0,2,0
+skytsa,Skytte,Sammy,1997-02-20,DEN,8,19,M,17,14,3,1, 1266,9,0,0,0,0,0,3,0
+thomma,Thomsen,Martin,1982-08-06,DEN,8, , ,7,7,0,0,  500,3,7,0,0,0,0,1,0
+vendmi,Vendelbo,Mikkel,1987-08-15,DEN,8,13,M,26,21,5,0, 1895,17,1,0,0,0,0,6,0
+absajo,Absalonsen,Johan,1985-09-16,DEN,25,11,A,27,24,3,7, 2064,16,0,0,0,2,0,4,0
+bechto,Bechmann,Tommy,1981-12-22,DEN,25, , ,10,3,7,0,  298,0,2,0,0,0,0,0,0
+bornpa,Born,Patrick,1994-07-09,DEN,25,35,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
+dalgth,Dalgaard,Thomas,1984-04-13,DEN,25, , ,0,0,0,0,    0,0,2,0,0,0,0,0,0
+dracja,Drachmann,Janus,1988-05-11,DEN,25, , ,16,16,0,1, 1324,11,1,0,0,0,0,5,0
+fernlu,Fernandes,Lukas,1993-03-01,DEN,25,28,P,27,27,0,0, 2430,27,5,-38,0,0,0,1,0
+guirad,Guira,Adama,1988-04-24,BFS,25, , ,7,7,0,0,  514,2,0,0,0,0,0,2,0
+hedemi,Hedegaard,Mikkel,1996-07-03,DEN,25,14,M,18,8,10,2,  874,5,12,0,0,0,0,4,0
+hendma,Hende,Marc,1990-11-06,DEN,25, , ,18,18,0,3, 1620,18,1,0,0,0,0,4,0
+jakoch,Jakobsen,Christian,1993-03-27,DEN,25,8,M,13,12,1,3, 1022,9,0,0,0,0,0,1,0
+kanspi,Kanstrup,Pierre,1989-02-21,DEN,25,26,F,36,36,0,1, 3240,36,0,0,-1,1,0,3,0
+kloetr,Kløve,Troels,1990-10-23,DEN,25,15,M,32,28,4,2, 2459,22,1,0,0,0,0,2,0
+kroosi,Kroon,Simon,1993-06-16,SWE,25, , ,14,10,4,4,  917,6,0,0,0,1,0,2,0
+laurn1,Laursen,Nicolaj,1998-05-07,DEN,25,35,P,0,0,0,0,    0,0,3,0,0,0,0,0,0
+luijke,Luijckx,Kees,1986-02-11,NED,25,5,F,24,24,0,2, 2152,23,3,0,0,0,0,4,1
+maakma,Maak,Matthias,1992-05-12,AUT,25,31,F,12,8,4,0,  676,6,20,0,0,0,0,1,0
+madsn1,Madsen,Nicolaj,1988-07-16,DEN,25,10,M,30,27,3,3, 2373,18,0,0,0,0,0,9,0
+marfni,Marfelt,Nicholas,1994-09-15,DEN,25,18,F,10,5,5,0,  598,5,3,0,0,0,0,0,0
+mattsa,Mattila,Sakari,1989-07-14,FIN,25,16,F,18,9,9,1,  948,7,6,0,0,0,0,3,0
+mitrma,Mitrović,Marko,1992-06-27,SWE,25,9,A,9,3,6,1,  300,1,6,0,0,0,0,1,0
+nisser,Nissen,Erik,1997-02-05,DEN,25, , ,0,0,0,0,    0,0,2,0,0,0,0,0,0
+okwiem,Okwi,Emmanuel,1992-12-25,UGA,25, , ,2,2,0,0,  180,2,6,0,0,0,0,1,0
+olesca,Olesen,Casper,1996-05-10,DEN,25,13,M,2,0,2,0,   47,0,1,0,0,0,0,0,0
+pedema,Pedersen,Marc,1989-07-31,DEN,25,3,F,26,26,0,2, 2184,21,2,0,0,0,0,8,0
+poulsi,Poulsen,Simon,1984-10-07,DEN,25,7,F,11,11,0,0,  947,9,2,0,0,0,0,4,0
+rittni,Ritter,Nicolaj,1992-05-08,DEN,25,2,F,10,3,7,0,  396,2,17,0,0,0,0,2,0
+ramora,Rámon, ,1990-08-22,BRA,25,4,F,12,8,4,0,  798,6,8,0,0,0,0,4,0
+roemma,Rømer,Marcel,1991-08-08,DEN,25,30,M,33,31,2,2, 2729,24,1,0,0,0,0,8,0
+simoje,Simonsen,Jeppe,1995-11-21,DEN,25,21,F,3,1,2,1,  127,1,8,0,0,0,0,0,0
+skenma,Skender,Marin,1979-08-12,CRO,25,1,P,9,9,0,0,  810,9,27,-16,0,0,0,0,0
+songsi,Songani,Silas,1989-06-28,ZIM,25,23,M,3,1,2,1,   91,0,3,0,0,0,0,0,0
+uhremi,Uhre,Mikkel,1994-09-30,DEN,25,17,A,34,29,5,5, 2553,14,0,0,0,0,0,5,0
+vindra,Vinderslev,Rasmus,1997-08-12,DEN,25,29,M,2,0,2,0,   26,0,4,0,0,0,0,0,0
+zincph,Zinckernagel,Philip,1994-12-16,DEN,25,19,M,24,10,14,1,  968,0,4,0,0,0,0,2,0
+akhaos,Akharraz,Osama,1990-11-26,DEN,11,21,M,3,0,3,1,   54,0,1,0,0,0,0,0,0
+andeja,Andersen,Jacob,1995-08-04,DEN,11,4,F,4,1,3,0,  142,1,18,0,0,0,0,0,0
+bruhan,Bruhn,Andreas,1994-02-17,DEN,11, , ,13,4,9,0,  460,2,5,0,0,0,0,1,0
+curtje,Curth,Jeppe,1984-03-21,DEN,11,10,A,18,12,6,2,  873,1,1,0,0,0,0,0,0
+deblse,Deblé,Serges,1989-10-01,CIV,11, , ,26,24,2,5, 2013,11,0,0,0,0,0,1,0
+fochge,Fochive,George,1992-03-24,USA,11,8,M,12,9,3,0,  847,7,8,0,0,0,0,3,1
+fredso,Frederiksen,Søren,1989-08-07,DEN,11,25,A,28,23,5,6, 2175,17,2,0,0,3,0,4,0
+friipe,Friis,Peter,1988-05-02,DEN,11,1,P,27,27,0,0, 2430,27,3,-44,0,0,0,2,0
+gortdo,Gorter,Donny,1988-06-15,NED,11, , ,1,0,1,0,   33,0,5,0,0,0,0,0,0
+groeje,Grønning,Jeppe,1991-05-24,DEN,11,13,M,31,30,1,0, 2626,22,0,0,0,0,0,4,0
+jakoal,Jakobsen,Alexander,1994-03-18,EGY,11,70,M,10,9,1,1,  807,5,1,0,0,0,0,3,0
+jakos1,Jakobsen,Simon,1998-07-06,DEN,11,24,F,0,0,0,0,    0,0,2,0,0,0,0,0,0
+kampjo,Kamper,Jonas,1983-05-03,DEN,11,11,M,30,28,2,4, 2499,23,0,0,0,0,0,4,0
+kellch,Keller,Christian,1980-08-17,DEN,11,3,M,22,18,4,1, 1523,14,4,0,0,0,0,3,0
+lethni,Leth,Nikolaj,2000-04-21,DEN,11,15,F,0,0,0,0,    0,0,2,0,0,0,0,0,0
+linnse,Linnet,Sebastian,1996-03-26,DEN,11,33,P,0,0,0,0,    0,0,23,0,0,0,0,0,0
+mensba,Mensah,Baba,1994-08-20,GHA,11,19,F,0,0,0,0,    0,0,2,0,0,0,0,0,0
+mobeer,Moberg,Erik,1986-07-05,SWE,11,5,F,11,11,0,0,  977,10,0,0,0,0,0,4,0
+mortfr,Mortensen,Frederik,1998-10-30,DEN,11,27,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+pallkr,Pallesen,Kristoffer,1990-04-30,DEN,11,6,F,29,29,0,0, 2561,28,0,0,0,0,0,2,0
+parkjb,Park,Jung-bin,1994-02-22,KOR,11,14,M,25,17,8,1, 1453,3,1,0,0,0,0,2,0
+raskmi,Rask,Mikkel,1983-06-22,DEN,11, , ,21,21,0,4, 1890,21,0,0,0,0,0,1,0
+reesso,Reese,Søren,1993-07-29,DEN,11,20,F,28,28,0,2, 2484,27,3,0,0,0,0,2,0
+sivech,Sivebæk,Christian,1988-02-19,DEN,11,23,A,18,7,11,2,  648,2,10,0,0,0,0,1,0
+stanal,Stankov,Aleksandar,1991-02-19,MAC,11, , ,9,1,8,1,  244,1,6,0,0,0,0,1,0
+thorjo,Thorsen,Jonas,1990-04-19,DEN,11,2,M,31,30,1,0, 2660,27,0,0,0,0,0,0,0
+thycol,Thychosen,Oliver,1993-01-17,DEN,11,9,A,7,6,1,2,  460,3,0,0,0,0,0,0,0
+vatsma,Vatsadze,Mate,1988-12-17,GEO,11,18,A,7,5,2,0,  404,0,4,0,0,0,0,0,0
+veldje,Veldmate,Jeroen,1988-11-08,NED,11,26,F,4,4,0,0,  360,4,3,0,0,0,0,0,0
+vestmi,Vestergaard,Mikkel,1992-11-22,DEN,11,29,A,10,0,10,2,  274,0,2,0,0,0,0,0,0
+vettja,Vetter,Jacob,1998-08-05,DEN,11,27,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
+viitwa,Viitala,Walter,1992-01-09,FIN,11,12,P,5,5,0,0,  450,5,6,-3,0,0,0,0,0
+wichma,Wichmann,Mathias,1991-08-06,DEN,11,7,M,12,3,9,0,  310,1,20,0,0,0,0,1,0

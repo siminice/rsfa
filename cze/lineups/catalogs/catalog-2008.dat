@@ -1,0 +1,520 @@
+grigto,Tomáš,Grigar,1983-02-01,CZE,0,29,P,0,0,0,0,tomas-grigar
+kozama,Matúš,Kozáčik,1983-12-27,SVK,0,24,P,0,0,0,0,matus-kozacik
+postto,Tomáš,Poštulka,1974-02-02,CZE,0,1,P,0,0,0,0,tomas-postulka
+hainan,André,Hainault,1986-06-17,CAN,0,8,F,0,0,0,0,andre-hainault
+kadlm1,Michal,Kadlec,1984-12-13,CZE,0,23,F,0,0,0,0,michal-kadlec
+kladji,Jiří,Kladrubský,1985-11-19,CZE,0,15,F,0,0,0,0,jiri-kladrubsky
+limbda,David,Limberský,1983-10-06,CZE,0,6,F,0,0,0,0,david-limbersky
+marepa,Pavel,Mareš,1976-01-18,CZE,0,26,F,0,0,0,0,pavel-mares
+repkto,Tomáš,Řepka,1974-01-02,CZE,0,2,F,0,0,0,0,tomas-repka
+horvpa,Pavel,Horváth,1975-04-22,CZE,0,14,M,0,0,0,0,pavel-horvath
+huselu,Luboš,Hušek,1984-01-26,CZE,0,27,M,0,0,0,0,lubos-husek
+kiseka,Karol,Kisel,1977-03-15,SVK,0,27,M,0,0,0,0,karol-kisel
+kolada,Daniel,Kolář,1985-10-27,CZE,0,11,M,0,0,0,0,daniel-kolar
+konato,Tomáš,Kóňa,1984-03-01,SVK,0,7,M,0,0,0,0,tomas-kona
+kudeon,Ondřej,Kúdela,1987-03-26,CZE,0,20,M,0,0,0,0,ondrej-kudela
+sivoto,Tomáš,Sivok,1983-09-15,CZE,0,16,M,0,0,0,0,tomas-sivok
+vaceka,Kamil,Vacek,1987-05-18,CZE,0,25,M,0,0,0,0,kamil-vacek
+voripe,Petr,Voříšek,1979-03-19,CZE,0,19,M,0,0,0,0,petr-vorisek
+zemama,Martin,Zeman,1989-03-28,CZE,0,31,M,0,0,0,0,martin-zeman
+doseli,Libor,Došek,1978-04-24,CZE,0,9,A,0,0,0,0,libor-dosek
+holeja,Jan,Holenda,1985-08-22,CZE,0,17,A,0,0,0,0,jan-holenda
+jeslj1,Jiří,Jeslínek,1987-09-30,CZE,0,21,A,0,0,0,0,jiri-jeslinek
+kulim1,Marek,Kulič,1975-10-11,CZE,0,30,A,0,0,0,0,marek-kulic
+matumi,Miroslav,Matušovič,1980-11-02,CZE,0,28,A,0,0,0,0,miroslav-matusovic
+slepmi,Miroslav,Slepička,1981-11-10,CZE,0,10,A,0,0,0,0,miroslav-slepicka
+pospzd,Zdeněk,Pospěch,1978-12-14,CZE,0, , ,0,0,0,0,zdenk-pospch
+brezm1,Miloš,Brezinský,1984-04-02,SVK,0, , ,0,0,0,0,milos-brezinsky
+rezeja,Jan,Rezek,1982-05-05,CZE,0, , ,0,0,0,0,jan-rezek
+sylvlu,Ludovic,Sylvestre,1984-02-05,FRA,0, , ,0,0,0,0,ludovic-sylvestre
+abrama,Martin,Abrahám,1978-09-20,CZE,0, , ,0,0,0,0,martin-abraham
+zofcig,Igor,Žofčák,1983-04-10,SVK,0, , ,0,0,0,0,igor-zofcak
+zabara,Radoslav,Zabavník,1980-09-16,SVK,0, , ,0,0,0,0,radoslav-zabavnik
+petrm1,Milan,Petržela,1983-06-19,CZE,0, , ,0,0,0,0,milan-petrzela
+simuja,Jan,Šimůnek,1987-02-20,CZE,0, , ,0,0,0,0,jan-simunek
+belito,Tomáš,Belic,1978-07-02,SVK,10,30,P,0,0,0,0,tomas-belic
+kolapa,Patrik,Kolář,1981-10-30,CZE,10,21,P,0,0,0,0,patrik-kolar
+slavma,Martin,Slavík,1979-09-21,CZE,10,1,P,0,0,0,0,martin-slavik
+kaufjo,Josef,Kaufman,1984-03-27,CZE,10,3,F,0,0,0,0,josef-kaufman
+kleima,Martin,Klein,1984-07-02,CZE,10,4,F,0,0,0,0,martin-klein_2
+vieile,Leandro,Vieira,1979-04-03,BRA,10,8,F,0,0,0,0,leandro-vieira
+lukape,Petr,Lukáš,1978-04-24,CZE,10,15,F,0,0,0,0,petr-lukas
+pimpji,Jiří,Pimpara,1987-02-04,CZE,10,2,F,0,0,0,0,jiri-pimpara
+rosaan,Antonín,Rosa,1986-11-12,CZE,10,22,F,0,0,0,0,antonin-rosa
+ryskvl,Vlastimil,Ryška,1982-04-01,CZE,10,2,F,0,0,0,0,vlastimil-ryska
+smejmi,Michal,Smejkal,1986-02-21,CZE,10,18,F,0,0,0,0,michal-smejkal
+vidlvl,Vlastimil,Vidlička,1981-07-02,CZE,10,6,F,0,0,0,0,vlastimil-vidlicka
+benape,Petr,Benát,1980-05-20,CZE,10,10,M,0,0,0,0,petr-benat
+dolemi,Michal,Doležal,1977-08-19,CZE,10,12,M,0,0,0,0,michal-dolezal
+gaspmi,Michal,Gašparík,1981-12-19,SVK,10,7,M,0,0,0,0,michal-gasparik
+ljevad,Admir,Ljevakovič,1984-08-07,BOS,10,5,M,0,0,0,0,admir-ljevakovic
+mareja,Jakub,Mareš,1987-01-26,CZE,10,19,M,0,0,0,0,jakub-mares
+merzsa,Samir,Merzič,1984-06-29,BOS,10,14,M,0,0,0,0,samir-merzic
+saboji,Jiří,Sabou,1974-12-05,CZE,10,11,M,0,0,0,0,jiri-sabou
+stohja,Jan,Štohanzl,1985-03-20,CZE,10,24,M,0,0,0,0,jan-stohanzl
+verbpa,Pavel,Verbíř,1972-11-13,CZE,10,9,M,0,0,0,0,pavel-verbir
+hesean,Andrej,Hesek,1981-06-12,SVK,10,20,A,0,0,0,0,andrej-hesek
+junxto,Tomáš,Jun,1983-01-17,CZE,10,16,A,0,0,0,0,tomas-jun
+smispe,Petr,Smíšek,1978-01-22,CZE,10,23,A,0,0,0,0,petr-smisek
+fenima,Martin,Fenin,1987-04-16,CZE,10, , ,0,0,0,0,martin-fenin
+krouka,Karel,Kroupa,1980-04-27,CZE,10, , ,0,0,0,0,karel-kroupa
+koukzd,Zdeněk,Koukal,1984-03-14,CZE,10, , ,0,0,0,0,zdenk-koukal
+hasepa,Pavel,Hašek,1983-06-27,CZE,10, , ,0,0,0,0,pavel-hasek
+krmapa,Pavel,Krmaš,1980-03-03,CZE,10, , ,0,0,0,0,pavel-krmas
+hauzzb,Zbyněk,Hauzr,1973-04-20,CZE,12,1,P,0,0,0,0,zbynk-hauzr
+uvarma,Maksims,Uvarenko,1987-01-17,LAT,12,30,P,0,0,0,0,maksims-uvarenko
+zlamzd,Zdeněk,Zlámal,1985-11-05,CZE,12,31,P,0,0,0,0,zdenk-zlamal
+bejbra,Radek,Bejbl,1972-08-29,CZE,12,22,F,0,0,0,0,radek-bejbl
+dejmra,Radek,Dejmek,1988-02-02,CZE,12,12,F,0,0,0,0,radek-dejmek
+holemi,Miroslav,Holeňák,1976-02-10,CZE,12,11,F,0,0,0,0,miroslav-holenak
+januto,Tomáš,Janů,1973-09-17,CZE,12,17,F,0,0,0,0,tomas-janu
+kosapa,Pavel,Košťál,1980-09-17,CZE,12,14,F,0,0,0,0,pavel-kosal
+matum1,Milan,Matula,1984-04-22,CZE,12,2,F,0,0,0,0,milan-matula
+polaj1,Jan,Polák,1989-03-26,CZE,12,13,F,0,0,0,0,jan-polak_2
+rehada,Daniel,Rehák,1985-04-02,SVK,12,13,F,0,0,0,0,daniel-rehak
+singpe,Peter,Šinglár,1979-07-24,SVK,12,19,F,0,0,0,0,peter-singlar
+bileji,Jiří,Bílek,1983-11-04,CZE,12,7,M,0,0,0,0,jiri-bilek
+dockbo,Bořek,Dočkal,1988-09-30,CZE,12,18,M,0,0,0,0,borek-dockal
+dohnja,Jakub,Dohnálek,1988-01-12,CZE,12,25,M,0,0,0,0,jakub-dohnalek
+frejto,Tomáš,Frejlach,1985-11-24,CZE,12,20,M,0,0,0,0,tomas-frejlach
+gecoma,Marcel,Gecov,1988-01-01,CZE,12,10,M,0,0,0,0,marcel-gecov
+hudsfe, ,Hudson,1986-07-18,BRA,12,5,M,0,0,0,0,hudson
+lattdi,Diego,Lattmann,1985-02-22,SUI,12,5,M,0,0,0,0,diego-lattmann
+liskji,Jiří,Liška,1982-03-13,CZE,12,8,M,0,0,0,0,jiri-liska
+marsal,Aleš,Maršner,1981-04-18,CZE,12,3,M,0,0,0,0,ales-marsner
+papope,Petr,Papoušek,1977-05-07,CZE,12,23,M,0,0,0,0,petr-papousek
+vachlu,Lukáš,Vácha,1989-05-13,CZE,12,23,M,0,0,0,0,lukas-vacha
+vlasja,Ján,Vlasko,1990-01-11,SVK,12,28,M,0,0,0,0,jan-vlasko
+brozvi,Vítězslav,Brožík,1985-12-22,CZE,12,6,A,0,0,0,0,vitzslav-brozik
+dejmro,Robin,Dejmek,1986-01-16,CZE,12,31,A,0,0,0,0,robin-dejmek
+dortfi,Filip,Dort,1980-07-27,CZE,12,29,A,0,0,0,0,filip-dort
+jaleja, ,Jales,1983-03-04,BRA,12,11,A,0,0,0,0,jales
+kerian,Andrej,Kerič,1986-02-11,CRO,12,15,A,0,0,0,0,andrej-keric
+nezmja,Jan,Nezmar,1977-07-05,CZE,12,27,A,0,0,0,0,jan-nezmar
+radzto,Tomas,Radzinevičius,1981-06-05,LIT,12,26,A,0,0,0,0,tomas-radzinevicius
+smeton,Ondřej,Smetana,1982-09-04,CZE,12,9,A,0,0,0,0,ondrej-smetana
+hoduiv,Ivan,Hodúr,1979-10-07,SVK,12, , ,0,0,0,0,ivan-hodur
+petrad,Adam,Petrouš,1977-09-19,CZE,12, , ,0,0,0,0,adam-petrous
+hochra,Radek,Hochmeister,1982-09-06,CZE,12, , ,0,0,0,0,radek-hochmeister
+blazj2,Jan,Blažek,1988-03-20,CZE,12, , ,0,0,0,0,jan-blazek
+jiroma,Martin,Jirouš,1986-11-27,CZE,12, , ,0,0,0,0,martin-jirous
+kratpe,Petr,Krátký,1981-10-08,CZE,12, , ,0,0,0,0,petr-kratky
+jonami,Michal,Jonáš,1986-09-25,SVK,12, , ,0,0,0,0,michal-jonas
+pudida,Daniel,Pudil,1985-09-27,CZE,12, , ,0,0,0,0,daniel-pudil
+bartp2,Peter,Bartalský,1978-01-27,SVK,14,27,P,0,0,0,0,peter-bartalsky
+pariol,Oldřich,Pařízek,1972-03-24,CZE,14,1,P,0,0,0,0,oldrich-parizek
+kropm1,Michal,Kropík,1985-02-20,CZE,14,1,F,0,0,0,0,michal-kropik
+kucet1,Tomáš,Kučera,1980-09-09,CZE,14,14,F,0,0,0,0,tomas-kucera_2
+kusnon,Ondřej,Kušnír,1984-04-05,CZE,14,13,F,0,0,0,0,ondrej-kusnir
+lababr,Branislav,Labant,1976-05-11,SVK,14,5,F,0,0,0,0,branislav-labant
+moreal,Aldo,Mores,1982-01-13,ARG,14,2,F,0,0,0,0,aldo-mores
+procj1,Jaroslav,Procházka,1987-12-06,CZE,14,6,F,0,0,0,0,jaroslav-prochazka
+sastma,Marcel,Šťastný,1983-02-18,CZE,14,18,F,0,0,0,0,marcel-sastny
+zenghe,Herve,Zengue,1984-01-22,BFS,14,25,F,0,0,0,0,herve-zengue
+bestpa,Pavel,Besta,1982-09-02,CZE,14,8,M,0,0,0,0,pavel-besta
+koukzd,Zdeněk,Koukal,1984-03-14,CZE,14,20,M,0,0,0,0,zdenk-koukal
+mougyo,Youssef,Moughfire,1976-12-01,FRA,14,7,M,0,0,0,0,youssef-moughfire
+novoj1,Jan,Novotný,1982-04-15,CZE,14,4,M,0,0,0,0,jan-novotny
+pilara,Radek,Pilař,1981-03-17,CZE,14,22,M,0,0,0,0,radek-pilar
+procto,Tomáš,Procházka,1984-04-11,CZE,14,11,M,0,0,0,0,tomas-prochazka
+stralu,Luděk,Stracený,1977-04-19,CZE,14,19,M,0,0,0,0,ludk-straceny
+tingmr, ,Tinga,1985-08-12,BRA,14,16,M,0,0,0,0,tinga_3
+blahlu,Lubomír,Blaha,1978-03-28,CZE,14,16,A,0,0,0,0,lubomir-blaha
+bukara,Radek,Bukač,1981-06-12,CZE,14,24,A,0,0,0,0,radek-bukac
+demjro,Róbert,Demjan,1982-10-26,SVK,14,15,A,0,0,0,0,robert-demjan
+kalori,Richard,Kalod,1984-05-08,CZE,14,10,A,0,0,0,0,richard-kalod
+svanpe,Petr,Švancara,1977-11-05,CZE,14,9,A,0,0,0,0,petr-svancara
+bazima,Marek,Bažík,1976-02-09,SVK,14, , ,0,0,0,0,marek-bazik
+jambmi,Milan,Jambor,1975-11-27,SVK,14, , ,0,0,0,0,milan-jambor
+baravi,Vít,Baránek,1974-09-27,CZE,18,1,P,0,0,0,0,vit-baranek
+gavlma,Martin,Gavlak,1983-05-24,SVK,18,17,P,0,0,0,0,martin-gavlak
+korial,Aleš,Kořínek,1983-01-09,CZE,18,30,P,0,0,0,0,ales-korinek
+celuon,Ondřej,Čelůstka,1989-06-18,CZE,18,25,F,0,0,0,0,ondrej-celustka
+dujkto,Tomáš,Dujka,1982-12-10,CZE,18,2,F,0,0,0,0,tomas-dujka
+kroczd,Zdeněk,Kroča,1980-09-29,CZE,18,5,F,0,0,0,0,zdenk-kroca
+pazdlu,Lukáš,Pazdera,1987-03-06,CZE,18,9,F,0,0,0,0,lukas-pazdera
+pennmi,Miloslav,Penner,1972-05-09,CZE,18,19,F,0,0,0,0,miloslav-penner
+zboziv,Ivo,Zbožínek,1977-05-24,CZE,18,15,F,0,0,0,0,ivo-zbozinek
+elsipa,Pavel,Elšík,1985-10-23,CZE,18,14,M,0,0,0,0,pavel-elsik
+konezd,Zdeněk,Konečník,1987-07-10,CZE,18,11,M,0,0,0,0,zdenk-konecnik
+mcquja,James,McQuilkin,1989-01-09,NIR,18,6,M,0,0,0,0,james-mcquilkin
+musipe,Petr,Musil,1981-09-23,CZE,18,18,M,0,0,0,0,petr-musil
+otrubr,Bronislav,Otruba,1987-02-15,CZE,18,25,M,0,0,0,0,bronislav-otruba
+smahda,David,Šmahaj,1981-11-04,CZE,18,21,M,0,0,0,0,david-smahaj
+vrtlvi,Vit,Vrtělka,1982-10-21,CZE,18,8,M,0,0,0,0,vit-vrtlka
+vyskma,Martin,Vyskočil,1982-09-15,CZE,18,10,M,0,0,0,0,martin-vyskocil
+zubema,Marek,Zúbek,1975-08-05,CZE,18,4,M,0,0,0,0,marek-zubek
+bacim1,Martin,Bačík,1989-01-24,CZE,18,24,A,0,0,0,0,martin-bacik
+barage,Gejza,Baranyai,1983-11-13,SVK,18,20,A,0,0,0,0,gejza-baranyai
+gavlto,Tomáš,Gavlák,1985-09-15,SVK,18,20,A,0,0,0,0,tomas-gavlak
+krauja,Jan,Kraus,1979-08-28,CZE,18,26,A,0,0,0,0,jan-kraus
+malavl,Vladimír,Malár,1976-02-12,CZE,18,9,A,0,0,0,0,vladimir-malar
+pacami,Milan,Pacanda,1978-02-28,CZE,18,14,A,0,0,0,0,milan-pacanda
+zureli,Libor,Žůrek,1979-11-02,CZE,18,7,A,0,0,0,0,libor-zurek
+bacama,Martin,Bača,1985-09-30,CZE,18, , ,0,0,0,0,martin-baca
+zaplva,Václav,Zapletal,1985-08-30,CZE,18, , ,0,0,0,0,vaclav-zapletal
+vidlvl,Vlastimil,Vidlička,1981-07-02,CZE,18, , ,0,0,0,0,vlastimil-vidlicka
+opielu,Lukáš,Opiela,1986-01-13,SVK,18, , ,0,0,0,0,lukas-opiela
+kubajo,Josef,Kubasek,1985-05-06,CZE,1,31,P,0,0,0,0,josef-kubasek
+vanima,Martin,Vaniak,1970-10-04,CZE,1,28,P,0,0,0,0,martin-vaniak
+voremi,Michal,Vorel,1975-06-27,CZE,1,1,P,0,0,0,0,michal-vorel
+braber,Erich,Brabec,1977-02-24,CZE,1,3,F,0,0,0,0,erich-brabec
+drizfr,František,Dříždal,1978-08-08,CZE,1,12,F,0,0,0,0,frantisek-drizdal
+selatg,Theodor Gebre,Selassie,1986-12-24,CZE,1,32,F,0,0,0,0,theodor-gebre-selassie
+hubada,David,Hubáček,1977-02-23,CZE,1,4,F,0,0,0,0,david-hubacek
+krajma,Matej,Krajčík,1978-03-19,SVK,1,19,F,0,0,0,0,matej-krajcik
+latkma,Martin,Latka,1984-09-28,CZE,1,6,F,0,0,0,0,martin-latka
+souron,Ondřej,Šourek,1983-04-26,CZE,1,13,F,0,0,0,0,ondrej-sourek
+suchma,Marek,Suchý,1988-03-29,CZE,1,17,F,0,0,0,0,marek-suchy
+abrama,Martin,Abrahám,1978-09-20,CZE,1,22,M,0,0,0,0,martin-abraham
+belati,Tijani,Belaïd,1987-09-06,TUN,1,21,M,0,0,0,0,tijani-belaid
+cernja,Jaroslav,Černý,1979-06-26,CZE,1,26,M,0,0,0,0,jaroslav-cerny
+jandpe,Petr,Janda,1987-01-05,CZE,1,8,M,0,0,0,0,petr-janda
+jaroma,Marek,Jarolím,1984-05-21,CZE,1,30,M,0,0,0,0,marek-jarolim
+kalida,David,Kalivoda,1982-08-25,CZE,1,25,M,0,0,0,0,david-kalivoda
+pudida,Daniel,Pudil,1985-09-27,CZE,1,16,M,0,0,0,0,daniel-pudil
+smicvl,Vladimír,Šmicer,1973-05-24,CZE,1,11,M,0,0,0,0,vladimir-smicer
+svendu,Dušan,Švento,1985-08-01,SVK,1,18,M,0,0,0,0,dusan-svento
+tavami,Mickaël,Tavares,1982-10-25,SEN,1,2,M,0,0,0,0,mickael-tavares
+volela,Ladislav,Volešák,1984-04-07,CZE,1,23,M,0,0,0,0,ladislav-volesak
+blazj2,Jan,Blažek,1988-03-20,CZE,1,7,A,0,0,0,0,jan-blazek
+ivanmi,Milan,Ivana,1983-11-26,SVK,1,20,A,0,0,0,0,milan-ivana
+senkzd,Zdeněk,Šenkeřík,1980-12-19,CZE,1,14,A,0,0,0,0,zdenk-senkerik
+strida,David,Střihavka,1983-03-04,CZE,1,27,A,0,0,0,0,david-strihavka
+tolego,Goce,Toleski,1977-05-05,MAC,1,9,A,0,0,0,0,goce-toleski
+vlcest,Stanislav,Vlček,1976-02-26,CZE,1, , ,0,0,0,0,stanislav-vlcek
+jablto,Tomáš,Jablonský,1987-06-21,CZE,1, , ,0,0,0,0,tomas-jablonsky
+svecmi,Michal,Švec,1987-03-19,CZE,1, , ,0,0,0,0,michal-svec
+gaucro, ,Gaúcho,1979-09-07,BRA,1, , ,0,0,0,0,gaucho_2
+necito,Tomáš,Necid,1989-08-13,CZE,1, , ,0,0,0,0,tomas-necid
+hrabja,Jakub,Hrabek,1987-09-10,CZE,2,28,P,0,0,0,0,jakub-hrabek
+snozra,Radek,Sňozík,1975-10-17,CZE,2,1,P,0,0,0,0,radek-snozik
+zichlu,Lukáš,Zich,1985-01-10,CZE,2,29,P,0,0,0,0,lukas-zich
+brhllu,Lukas,Brhlik,1988-12-18,CZE,2,23,F,0,0,0,0,lukas-brhlik
+hasepa,Pavel,Hašek,1983-06-27,CZE,2,9,F,0,0,0,0,pavel-hasek
+knakma,Martin,Knakal,1984-04-17,CZE,2,11,F,0,0,0,0,martin-knakal
+lukapa,Pavel,Lukáš,1975-11-20,CZE,2,3,F,0,0,0,0,pavel-lukas
+marelu,Lukáš,Marek,1981-01-30,CZE,2,14,F,0,0,0,0,lukas-marek
+niklma,Marek,Nikl,1976-02-20,CZE,2,7,F,0,0,0,0,marek-nikl
+pavemi,Michal,Pávek,1985-02-13,CZE,2,24,F,0,0,0,0,michal-pavek
+radaka,Karel,Rada,1971-03-02,CZE,2,5,F,0,0,0,0,karel-rada
+ruzija,Jan,Růžička,1984-08-26,CZE,2,13,F,0,0,0,0,jan-ruzicka
+bartda,David,Bartek,1988-02-13,CZE,2,15,M,0,0,0,0,david-bartek
+cisapa,Patrik,Cisar,1988-07-04,CZE,2,18,M,0,0,0,0,patrik-cisar
+hasei1,Ivan,Hašek,1987-08-30,CZE,2,8,M,0,0,0,0,ivan-hasek_2
+karavl,Vlastimil,Karal,1983-04-26,CZE,2,12,M,0,0,0,0,vlastimil-karal
+kotyma,Martin,Kotyza,1984-10-01,CZE,2,25,M,0,0,0,0,martin-kotyza
+kuchto,Tomáš,Kuchař,1976-08-25,CZE,2,25,M,0,0,0,0,tomas-kuchar
+kunape,Petr,Kunášek,1979-07-11,CZE,2,4,M,0,0,0,0,petr-kunasek
+kvetla,Ladislav,Kveton,1988-01-10,CZE,2,2,M,0,0,0,0,ladislav-kveton
+moraja,Jan,Moravec,1987-07-13,CZE,2,16,M,0,0,0,0,jan-moravec
+moraj1,Jan,Morávek,1989-11-01,CZE,2,30,M,0,0,0,0,jan-moravek
+siroja,Jan,Sirovy,1988-05-26,CZE,2,22,M,0,0,0,0,jan-sirovy
+slezda,Dalibor,Slezák,1970-01-28,CZE,2,10,M,0,0,0,0,dalibor-slezak
+smarmi,Michal,Šmarda,1971-01-31,CZE,2,6,M,0,0,0,0,michal-smarda
+vagnji,Jiří,Vágner,1982-02-03,CZE,2,27,M,0,0,0,0,jiri-vagner
+balevl,Vladimir,Bálek,1981-03-08,CZE,2,31,A,0,0,0,0,vladimir-balek
+formed,Eduard,Formacek,1988-02-13,CZE,2,20,A,0,0,0,0,eduard-formacek
+ordomi,Michal,Ordoš,1983-01-27,CZE,2,19,A,0,0,0,0,michal-ordos
+polomi,Michal,Polodna,1978-03-23,CZE,2,34,A,0,0,0,0,michal-polodna
+rezeja,Jan,Rezek,1982-05-05,CZE,2,26,A,0,0,0,0,jan-rezek
+skodmi,Milan,Škoda,1986-01-16,CZE,2,21,A,0,0,0,0,milan-skoda
+adamlu,Lukáš,Adam,1980-09-05,CZE,2, , ,0,0,0,0,lukas-adam
+rychji,Jiří,Rychlík,1977-11-24,CZE,2, , ,0,0,0,0,jiri-rychlik
+matulu,Lukáš,Matůš,1980-10-06,CZE,2, , ,0,0,0,0,lukas-matus
+turtvi,Vít,Turtenwald,1980-03-05,CZE,2, , ,0,0,0,0,vit-turtenwald
+kostp1,Peter,Kostolanský,1985-08-08,SVK,37,1,P,0,0,0,0,peter-kostolansky
+miskzo,Zoltán,Miski,1983-05-29,HUN,37,22,P,0,0,0,0,zoltan-miski
+pavlro,Roman,Pavlík,1976-01-17,CZE,37,30,P,0,0,0,0,roman-pavlik
+bartpa,Pavel,Bartoš,1979-08-17,CZE,37,3,F,0,0,0,0,pavel-bartos_2
+benevi,Vít,Beneš,1988-08-12,CZE,37,23,F,0,0,0,0,vit-benes
+farbma,Marián,Farbák,1983-02-10,SVK,37,18,F,0,0,0,0,marian-farbak
+grospa,Patrik,Gross,1978-05-06,CZE,37,16,F,0,0,0,0,patrik-gross
+hochra,Radek,Hochmeister,1982-09-06,CZE,37,7,F,0,0,0,0,radek-hochmeister
+killlu,Lukáš,Killar,1981-08-05,CZE,37,17,F,0,0,0,0,lukas-killar
+krobja,Jan,Krob,1987-04-27,CZE,37,21,F,0,0,0,0,jan-krob
+brunda,David,Brunclík,1985-04-17,CZE,37,5,M,0,0,0,0,david-brunclik
+capxto,Tomáš,Cáp,1978-11-21,CZE,37,24,M,0,0,0,0,tomas-cap
+cigato,Tomáš,Cigánek,1978-11-30,CZE,37,10,M,0,0,0,0,tomas-ciganek
+holuan,Antonin,Holub,1986-03-08,CZE,37,8,M,0,0,0,0,antonin-holub
+jablto,Tomáš,Jablonský,1987-06-21,CZE,37,11,M,0,0,0,0,tomas-jablonsky
+radaja,Jakub,Rada,1987-05-05,CZE,37,4,M,0,0,0,0,jakub-rada
+szabon,Ondřej,Szabo,1979-02-23,CZE,37,6,M,0,0,0,0,ondrej-szabo
+vrsaav,Avdija,Vršajević,1986-03-06,BOS,37,13,M,0,0,0,0,avdija-vrsajevic
+zoublu,Lukáš,Zoubele,1985-12-20,CZE,37,15,M,0,0,0,0,lukas-zoubele
+klinto,Tomáš,Klinka,1977-04-24,CZE,37,29,A,0,0,0,0,tomas-klinka
+kousmi,Miloslav,Kousal,1978-10-29,CZE,37,9,A,0,0,0,0,miloslav-kousal
+krouka,Karel,Kroupa,1980-04-27,CZE,37,20,A,0,0,0,0,karel-kroupa
+semejo,Josef,Semerák,1979-01-19,CZE,37,26,A,0,0,0,0,josef-semerak
+zachm1,Michal,Zachariáš,1984-04-15,CZE,37,12,A,0,0,0,0,michal-zacharias
+jeslj1,Jiří,Jeslínek,1987-09-30,CZE,37, , ,0,0,0,0,jiri-jeslinek
+dockbo,Bořek,Dočkal,1988-09-30,CZE,37, , ,0,0,0,0,borek-dockal
+kudeon,Ondřej,Kúdela,1987-03-26,CZE,37, , ,0,0,0,0,ondrej-kudela
+gecoma,Marcel,Gecov,1988-01-01,CZE,37, , ,0,0,0,0,marcel-gecov
+hoffjo,Josef,Hoffmann,1978-11-19,CZE,37, , ,0,0,0,0,josef-hoffmann_2
+silhj1,Jaromír,Šilhan,1983-04-10,CZE,37, , ,0,0,0,0,jaromir-silhan
+selira,Radek,Šelicha,1975-09-12,CZE,37, , ,0,0,0,0,radek-selicha
+hlavda,David,Hlava,1980-06-28,CZE,37, , ,0,0,0,0,david-hlava
+millmi,Miroslav,Miller,1980-08-19,CZE,40,27,P,0,0,0,0,miroslav-miller
+pizape,Petr,Pižanowski,1974-04-13,CZE,40,1,P,0,0,0,0,petr-pizanowski
+sedaja,Jan,Šeda,1985-12-17,CZE,40,12,P,0,0,0,0,jan-seda
+hrdlto,Tomáš,Hrdlička,1982-02-17,CZE,40,23,F,0,0,0,0,tomas-hrdlicka
+kopimi,Milan,Kopic,1985-11-23,CZE,40,9,F,0,0,0,0,milan-kopic
+procva,Václav,Procházka,1984-05-08,CZE,40,26,F,0,0,0,0,vaclav-prochazka
+rajnja,Jan,Rajnoch,1981-09-30,CZE,40,17,F,0,0,0,0,jan-rajnoch
+rolkad,Adrian,Rolko,1978-09-14,CZE,40,4,F,0,0,0,0,adrian-rolko
+sevifr,František,Ševinský,1979-03-31,CZE,40,3,F,0,0,0,0,frantisek-sevinsky
+dittja,Jaroslav,Dittrich,1982-03-08,CZE,40,24,M,0,0,0,0,jaroslav-dittrich
+fabito,Tomáš,Fabián,1989-09-10,CZE,40,19,M,0,0,0,0,tomas-fabian
+ganugi,Giorgi,Ganugrava,1988-02-21,GEO,40,15,M,0,0,0,0,giorgi-ganugrava
+hoduiv,Ivan,Hodúr,1979-10-07,SVK,40,37,M,0,0,0,0,ivan-hodur
+kaliva,Václav,Kalina,1979-07-15,CZE,40,6,M,0,0,0,0,vaclav-kalina
+kyseja,Jan,Kysela,1985-12-17,CZE,40,20,M,0,0,0,0,jan-kysela
+mendal,Alex,Mendy,1983-12-14,FRA,40,18,M,0,0,0,0,alex-mendy
+opielu,Lukáš,Opiela,1986-01-13,SVK,40,33,M,0,0,0,0,lukas-opiela
+polato,Tomáš,Poláček,1980-08-29,CZE,40,12,M,0,0,0,0,tomas-polacek
+schuji,Jiří,Schubert,1988-04-18,CZE,40,14,M,0,0,0,0,jiri-schubert
+sedlmi,Michal,Sedláček,1988-10-27,CZE,40,8,M,0,0,0,0,michal-sedlacek
+vancda,David,Vaněček,1983-07-25,CZE,40,28,M,0,0,0,0,david-vancek_2
+holura,Radim,Holub,1975-11-12,CZE,40,7,A,0,0,0,0,radim-holub
+maseji,Jiří,Mašek,1978-10-05,CZE,40,25,A,0,0,0,0,jiri-masek
+reznja,Jakub,Řezníček,1988-05-26,CZE,40,16,A,0,0,0,0,jakub-reznicek
+sedlt1,Tomáš,Sedláček,1980-08-29,CZE,40,11,A,0,0,0,0,tomas-sedlacek
+taboiv,Ivo,Taborský,1985-05-10,CZE,40,10,A,0,0,0,0,ivo-taborsky
+matjma,Marek,Matějovský,1981-12-20,CZE,40, , ,0,0,0,0,marek-matjovsky
+voripe,Petr,Voříšek,1979-03-19,CZE,40, , ,0,0,0,0,petr-vorisek
+brunda,David,Brunclík,1985-04-17,CZE,40, , ,0,0,0,0,david-brunclik
+bernto,Tomás,Bernády,1969-10-24,CZE,4,16,P,0,0,0,0,tomas-bernady
+bucean,Antonín,Buček,1984-02-24,CZE,4,1,P,0,0,0,0,antonin-bucek
+vasepe,Petr,Vašek,1979-04-09,CZE,4,30,P,0,0,0,0,petr-vasek
+bolfre,René,Bolf,1974-02-25,CZE,4,5,F,0,0,0,0,rene-bolf
+bystda,David,Bystroň,1982-11-18,CZE,4,6,F,0,0,0,0,david-bystron
+cigape,Petr,Cigánek,1986-09-03,CZE,4,12,F,0,0,0,0,petr-ciganek
+couppe,Petr,Čoupek,1982-05-10,CZE,4,15,F,0,0,0,0,petr-coupek
+mareto,Tomáš,Marek,1981-04-20,CZE,4,18,F,0,0,0,0,tomas-marek
+neuwal,Aleš,Neuwirth,1985-01-04,CZE,4,23,F,0,0,0,0,ales-neuwirth
+pavlp1,Petr,Pavlík,1987-07-22,CZE,4,19,F,0,0,0,0,petr-pavlik_2
+reznra,Radim,Řezník,1989-01-20,CZE,4,3,F,0,0,0,0,radim-reznik
+rickpa,Pavel,Ricka,1987-01-28,CZE,4,26,F,0,0,0,0,pavel-ricka
+tchuda,Daniel,Tchuř,1976-08-08,CZE,4,22,F,0,0,0,0,daniel-tchur
+ficeon,Ondrej,Ficek,1988-08-18,CZE,4,21,M,0,0,0,0,ondrej-ficek
+lukema,Martin,Lukeš,1978-11-17,CZE,4,4,M,0,0,0,0,martin-lukes
+metefr,František,Metelka,1980-04-08,CZE,4,24,M,0,0,0,0,frantisek-metelka
+micoto,Tomáš,Mičola,1988-09-26,CZE,4,9,M,0,0,0,0,tomas-micola
+otepru,Rudolf,Otepka,1973-11-13,CZE,4,8,M,0,0,0,0,rudolf-otepka
+rajtfr,František,Rajtoral,1986-03-12,CZE,4,11,M,0,0,0,0,frantisek-rajtoral
+tomape,Petr,Tomašák,1986-02-20,CZE,4,20,M,0,0,0,0,petr-tomasak
+magelu,Lukáš,Magera,1983-01-17,CZE,4,17,A,0,0,0,0,lukas-magera
+svrkva,Václav,Svěrkoš,1983-11-01,CZE,4,25,A,0,0,0,0,vaclav-svrkos
+vroxto,Tomáš,Vrťo,1988-09-06,CZE,4,27,A,0,0,0,0,tomas-vro
+zehero,Róbert,Zeher,1985-02-12,SVK,4,10,A,0,0,0,0,robert-zeher
+varaad,Adam,Varadi,1985-04-30,CZE,4, , ,0,0,0,0,adam-varadi
+misivl,Vladimír,Mišinský,1986-07-08,CZE,4, , ,0,0,0,0,vladimir-misinsky
+tesadu,Dušan,Tesařík,1976-03-21,CZE,4, , ,0,0,0,0,dusan-tesarik
+bartm1,Michal,Bárta,1989-12-23,CZE,5,30,P,0,0,0,0,michal-barta
+drobpe,Petr,Drobisz,1976-07-14,CZE,5,20,P,0,0,0,0,petr-drobisz
+lovato,Tomáš,Lovásik,1974-07-31,SVK,5,1,P,0,0,0,0,tomas-lovasik
+heidja,Jakub,Heidenreich,1989-04-27,CZE,5,15,F,0,0,0,0,jakub-heidenreich
+hudema,Martin,Hudec,1982-04-15,CZE,5,25,F,0,0,0,0,martin-hudec
+janot1,Tomáš,Janotka,1982-03-04,CZE,5,23,F,0,0,0,0,tomas-janotka
+jindj1,Josef,Jindřišek,1981-02-14,CZE,5,17,F,0,0,0,0,josef-jindrisek
+jurkde,Dejan,Jurkič,1983-12-09,SLO,5,21,F,0,0,0,0,dejan-jurkic
+komama,Martin,Komárek,1984-10-14,CZE,5,4,F,0,0,0,0,martin-komarek
+randto,Tomáš,Randa,1974-12-23,CZE,5,2,F,0,0,0,0,tomas-randa
+sedipe,Peter,Šedivý,1983-01-05,SVK,5,2,F,0,0,0,0,peter-sedivy
+skeral,Aleš,Škerle,1982-06-14,CZE,5,12,F,0,0,0,0,ales-skerle
+suskda,Darko,Šuškavčević,1974-04-28,MNT,5,19,F,0,0,0,0,darko-suskavcevic
+bajelu,Lukáš,Bajer,1984-12-15,CZE,5,14,M,0,0,0,0,lukas-bajer
+rossda,Daniel,Rossi,1981-01-04,BRA,5,8,M,0,0,0,0,daniel-rossi_2
+horato,Tomáš,Hořava,1988-05-29,CZE,5,26,M,0,0,0,0,tomas-horava
+kascma,Marek,Kaščák,1982-05-22,SVK,5,7,M,0,0,0,0,marek-kascak
+kazato,Tomáš,Kazár,1984-10-08,CZE,5,9,M,0,0,0,0,tomas-kazar
+meliro, ,Melinho,1980-03-26,BRA,5,11,M,0,0,0,0,melinho
+onofla,Ladislav,Onofrej,1977-09-20,SVK,5,6,M,0,0,0,0,ladislav-onofrej
+rydefi,Filip,Rýdel,1984-03-30,CZE,5,24,M,0,0,0,0,filip-rydel
+stpavo,Vojtěch,Štěpán,1985-06-08,CZE,5,7,M,0,0,0,0,vojtch-stpan
+buenda, ,Bueno,1983-12-15,BRA,5,15,A,0,0,0,0,bueno_4
+hartlu,Lukáš,Hartig,1976-10-28,CZE,5,29,A,0,0,0,0,lukas-hartig
+hubnmi,Michal,Hubník,1983-06-01,CZE,5,10,A,0,0,0,0,michal-hubnik
+kleszd,Zdeněk,Klesnil,1986-10-28,CZE,5,10,A,0,0,0,0,zdenk-klesnil
+petrja,Jakub,Petr,1990-04-10,CZE,5,22,A,0,0,0,0,jakub-petr
+schuvo,Vojtěch,Schulmeister,1983-09-09,CZE,5,16,A,0,0,0,0,vojtch-schulmeister
+knakma,Martin,Knakal,1984-04-17,CZE,5, , ,0,0,0,0,martin-knakal
+luksfi,Filip,Lukšík,1985-02-03,SVK,5, , ,0,0,0,0,filip-luksik
+pulkma,Martin,Pulkert,1984-02-24,CZE,5, , ,0,0,0,0,martin-pulkert
+banada,Dawid,Banaczek,1979-06-03,POL,5, , ,0,0,0,0,dawid-banaczek
+cuprma,Martin,Čupr,1977-10-17,CZE,5, , ,0,0,0,0,martin-cupr
+ilizlu,Luboš,Ilizi,1982-10-13,SVK,6,1,P,0,0,0,0,lubos-ilizi
+krbelu,Lukáš,Krbeček,1985-10-27,CZE,6,19,P,0,0,0,0,lukas-krbecek
+tichma,Martin,Ticháček,1981-09-15,CZE,6,30,P,0,0,0,0,martin-tichacek
+halaja,Jan,Halama,1988-07-14,CZE,6,12,F,0,0,0,0,jan-halama
+knakpe,Petr,Knakal,1983-02-01,CZE,6,3,F,0,0,0,0,petr-knakal
+muelma,Martin,Müller,1970-11-06,CZE,6,5,F,0,0,0,0,martin-mueller
+navrj1,Jakub,Navrátil,1984-02-01,CZE,6,21,F,0,0,0,0,jakub-navratil
+radato,Tomáš,Rada,1983-09-28,CZE,6,4,F,0,0,0,0,tomas-rada
+smejzd,Zdeněk,Šmejkal,1988-06-21,CZE,6,29,F,0,0,0,0,zdenk-smejkal
+smolma,Marek,Smola,1975-04-07,CZE,6,29,F,0,0,0,0,marek-smola
+suesja,Jakub,Süsser,1989-08-06,CZE,6,2,F,0,0,0,0,jakub-suesser
+boreto,Tomáš,Borek,1986-04-04,CZE,6,23,M,0,0,0,0,tomas-borek
+lecjja,Jan,Lecjaks,1990-08-09,CZE,6,17,M,0,0,0,0,jan-lecjaks
+mudrja,Jan,Mudra,1990-01-22,CZE,6,24,M,0,0,0,0,jan-mudra
+petrm1,Milan,Petržela,1983-06-19,CZE,6,11,M,0,0,0,0,milan-petrzela
+rothfe,Ferenc,Róth,1978-12-24,HUN,6,20,M,0,0,0,0,ferenc-roth
+simlon,Ondřej,Šiml,1986-04-19,CZE,6,15,M,0,0,0,0,ondrej-siml
+sylvlu,Ludovic,Sylvestre,1984-02-05,FRA,6,18,M,0,0,0,0,ludovic-sylvestre
+trappe,Petr,Trapp,1985-12-06,CZE,6,7,M,0,0,0,0,petr-trapp
+vrzaon,Ondřej,Vrzal,1987-03-01,CZE,6,28,M,0,0,0,0,ondrej-vrzal
+krbeto,Tomáš,Krbeček,1985-10-27,CZE,6,9,A,0,0,0,0,tomas-krbecek
+malcpa,Pavel,Malchárek,1986-02-16,CZE,6,26,A,0,0,0,0,pavel-malcharek
+rodrpa,Paulo,Rodrígues,1986-11-10,BRA,6,10,A,0,0,0,0,paulo-rodrigues_3
+psohma,Martin,Psohlavec,1981-02-12,CZE,6,14,A,0,0,0,0,martin-psohlavec
+varaad,Adam,Varadi,1985-04-30,CZE,6,17,A,0,0,0,0,adam-varadi
+jaroma,Marek,Jarolím,1984-05-21,CZE,6, , ,0,0,0,0,marek-jarolim
+dankmi,Michal,Daněk,1983-07-06,CZE,6, , ,0,0,0,0,michal-dank
+fillma,Martin,Fillo,1986-02-07,CZE,6, , ,0,0,0,0,martin-fillo
+smejmi,Michal,Smejkal,1986-02-21,CZE,6, , ,0,0,0,0,michal-smejkal
+simape,Petr,Šíma,1983-02-25,CZE,6, , ,0,0,0,0,petr-sima
+brozvi,Vítězslav,Brožík,1985-12-22,CZE,6, , ,0,0,0,0,vitzslav-brozik
+zakoja,Jan,Zakopal,1977-10-22,CZE,6, , ,0,0,0,0,jan-zakopal
+procva,Václav,Procházka,1984-05-08,CZE,6, , ,0,0,0,0,vaclav-prochazka
+malavl,Vladimír,Malár,1976-02-12,CZE,6, , ,0,0,0,0,vladimir-malar
+simrj1,Jaromír,Šimr,1979-01-31,CZE,6, , ,0,0,0,0,jaromir-simr
+hyklda,Daniel,Hykl,1989-09-27,CZE,71,21,P,0,0,0,0,daniel-hykl
+svenmi,Milan,Švenger,1986-07-06,CZE,71,21,P,0,0,0,0,milan-svenger
+svobma,Martin,Svoboda,1975-01-02,CZE,71,30,P,0,0,0,0,martin-svoboda
+grecpa,Pavel,Grechishko,1989-03-23,BLR,71,30,F,0,0,0,0,pavel-grechishko
+hofmst,Stanislav,Hofmann,1990-06-17,CZE,71,30,F,0,0,0,0,stanislav-hofmann
+jamrla,Ladislav,Jamrich,1978-11-27,CZE,71,18,F,0,0,0,0,ladislav-jamrich
+johape,Petr,Johana,1976-11-01,CZE,71,29,F,0,0,0,0,petr-johana
+lafrke,Kevin,Lafrance,1990-01-13,HAI,71,29,F,0,0,0,0,kevin-lafrance
+loospe,Petr,Loos,1986-11-18,CZE,71,11,F,0,0,0,0,petr-loos
+prason,Ondřej,Prášil,1978-05-06,CZE,71,25,F,0,0,0,0,ondrej-prasil
+procja,Jan,Procházka,1978-12-02,CZE,71,14,F,0,0,0,0,jan-prochazka
+studj1,Jiří,Studík,1985-09-12,CZE,71,28,F,0,0,0,0,jiri-studik
+tavaga,Gary,Tavars,1984-07-15,FRA,71,15,F,0,0,0,0,gary-tavars
+trubvi,Vitaliy,Trubilo,1985-01-07,BLR,71,3,F,0,0,0,0,vitaliy-trubilo
+websby,Byron,Webster,1987-03-31,ENG,71,27,F,0,0,0,0,byron-webster
+andran, ,Andrei,1988-02-06,BRA,71,2,M,0,0,0,0,andrei_2
+bogdlu,Lubomir,Bogdanov,1982-12-21,BUL,71,21,M,0,0,0,0,lubomir-bogdanov
+boutab,Abdelhak,Boutasgount,1986-02-11,FRA,71,23,M,0,0,0,0,abdelhak-boutasgount
+cermpa,Pavel,Čermák,1989-05-14,CZE,71,26,M,0,0,0,0,pavel-cermak
+gedepa,Patrik,Gedeon,1975-07-19,CZE,71,7,M,0,0,0,0,patrik-gedeon
+horsja,Jaroslav,Horský,1987-02-04,CZE,71,7,M,0,0,0,0,jaroslav-horsky
+mendvi,Vincent,Mendy,1988-01-22,FRA,71,22,M,0,0,0,0,vincent-mendy
+pilato,Tomáš,Pilař,1976-08-05,CZE,71,8,M,0,0,0,0,tomas-pilar
+roseez,Ezequiel,Rosendo,1985-03-06,ARG,71,28,M,0,0,0,0,ezequiel-rosendo
+schulu,Lukás,Schut,1985-12-09,CZE,71,17,M,0,0,0,0,lukas-schut
+sislji,Jiří,Šisler,1984-11-24,CZE,71,17,M,0,0,0,0,jiri-sisler
+skodja,Jaroslav,Škoda,1975-05-28,CZE,71,19,M,0,0,0,0,jaroslav-skoda
+stozvl,Vlastimil,Stožický,1983-08-19,CZE,71,6,M,0,0,0,0,vlastimil-stozicky
+kacast,Štěpán,Kacafírek,1989-09-29,CZE,71,6,A,0,0,0,0,stpan-kacafirek
+lattem,Emiliano,Lattes,1985-01-28,ARG,71,11,A,0,0,0,0,emiliano-lattes
+mabibr,Brandon,Mabiala,1989-11-05,FRA,71,11,A,0,0,0,0,brandon-mabiala
+oboypa,Patrick,Oboya,1987-02-19,KEN,71,16,A,0,0,0,0,patrick-oboya
+pesito,Tomáš,Pešír,1981-05-30,CZE,71,23,A,0,0,0,0,tomas-pesir
+rilkem,Emil,Rilke,1983-11-19,CZE,71,9,A,0,0,0,0,emil-rilke
+simpda,Dave,Simpson,1983-01-11,CAN,71,10,A,0,0,0,0,dave-simpson
+hainan,André,Hainault,1986-06-17,CAN,71, , ,0,0,0,0,andre-hainault
+tolego,Goce,Toleski,1977-05-05,MAC,71, , ,0,0,0,0,goce-toleski
+holeja,Jan,Holenda,1985-08-22,CZE,71, , ,0,0,0,0,jan-holenda
+acevlu,Lupce,Acevski,1977-11-14,AUS,71, , ,0,0,0,0,lupce-acevski
+stipva,Vaclav,Štípek,1984-07-19,CZE,71, , ,0,0,0,0,vaclav-stipek
+jediji,Jiri,Jedinak,1983-09-21,CZE,71, , ,0,0,0,0,jiri-jedinak
+mendal,Alex,Mendy,1983-12-14,FRA,71, , ,0,0,0,0,alex-mendy
+philpe,Peter,Philipakos,1983-01-21,GRE,71, , ,0,0,0,0,peter-philipakos
+krizzd,Zdeněk,Křížek,1983-01-16,CZE,7,30,P,0,0,0,0,zdenk-krizek
+kucepa,Pavel,Kučera,1976-07-02,CZE,7,1,P,0,0,0,0,pavel-kucera
+homoda,David,Homoláč,1973-10-12,CZE,7,4,F,0,0,0,0,david-homolac
+horeda,David,Horejš,1977-05-19,CZE,7,3,F,0,0,0,0,david-horejs
+hunato,Tomáš,Hunal,1973-06-01,CZE,7,2,F,0,0,0,0,tomas-hunal
+lestma,Martin,Leština,1981-04-25,CZE,7,19,F,0,0,0,0,martin-lestina
+smidm1,Michal,Šmíd,1986-10-20,CZE,7,23,F,0,0,0,0,michal-smid
+svehvl,Vlastimil,Švehla,1985-05-21,CZE,7,23,F,0,0,0,0,vlastimil-svehla
+zizkmi,Michal,Žižka,1981-05-23,CZE,7,11,F,0,0,0,0,michal-zizka
+dolepe,Petr,Dolejš,1986-04-01,CZE,7,21,M,0,0,0,0,petr-dolejs
+hileja,Jaroslav,Hílek,1978-06-06,SVK,7,9,M,0,0,0,0,jaroslav-hilek
+jasama,Martin,Jasanský,1989-08-04,CZE,7,6,M,0,0,0,0,martin-jasansky
+masami,Michal,Mašát,1984-01-22,CZE,7,28,M,0,0,0,0,michal-masat
+mezlpa,Pavel,Mezlík,1983-06-25,CZE,7,10,M,0,0,0,0,pavel-mezlik
+peroji,Jiří,Peroutka,1982-12-31,CZE,7,24,M,0,0,0,0,jiri-peroutka
+pivoro,Roman,Pivoňka,1982-10-23,CZE,7,5,M,0,0,0,0,roman-pivonka
+plicma,Marek,Plichta,1983-07-27,CZE,7,18,M,0,0,0,0,marek-plichta
+plocja,Jaromír,Plocek,1975-12-14,CZE,7,13,M,0,0,0,0,jaromir-plocek
+simape,Petr,Šíma,1983-02-25,CZE,7,6,M,0,0,0,0,petr-sima
+vozama,Martin,Vozábal,1978-11-08,CZE,7,25,M,0,0,0,0,martin-vozabal
+mrkvva,Václav,Mrkvička,1979-08-07,CZE,7,12,A,0,0,0,0,vaclav-mrkvicka
+ondrzd,Zdeněk,Ondrášek,1988-12-22,CZE,7,14,A,0,0,0,0,zdenk-ondrasek
+strato,Tomáš,Stráský,1987-04-15,CZE,7,14,A,0,0,0,0,tomas-strasky
+svatja,Jan,Svátek,1983-05-24,CZE,7,16,A,0,0,0,0,jan-svatek
+cernja,Jaroslav,Černý,1979-06-26,CZE,7, , ,0,0,0,0,jaroslav-cerny
+radzto,Tomas,Radzinevičius,1981-06-05,LIT,7, , ,0,0,0,0,tomas-radzinevicius
+adamji,Jiří,Adamec,1982-03-21,CZE,7, , ,0,0,0,0,jiri-adamec
+jungma,Marek,Jungr,1987-04-11,CZE,7, , ,0,0,0,0,marek-jungr
+biroon,Ondrej,Biro,1986-01-28,CZE,7, , ,0,0,0,0,ondrej-biro
+renare, ,Renan,1983-03-08,BRA,7, , ,0,0,0,0,renan_6
+hrbaji,Jiří,Hrbáč,1984-02-22,CZE,7, , ,0,0,0,0,jiri-hrbac
+zelika,Karel,Zelinka,1987-01-17,CZE,7, , ,0,0,0,0,karel-zelinka
+bureto,Tomáš,Bureš,1978-09-27,CZE,8,20,P,0,0,0,0,tomas-bures
+lejsma,Martin,Lejsal,1982-09-16,CZE,8,1,P,0,0,0,0,martin-lejsal
+dvorjo,Josef,Dvorník,1978-04-23,CZE,8,29,F,0,0,0,0,josef-dvornik
+kubalu,Lukáš,Kubáň,1987-06-22,CZE,8,3,F,0,0,0,0,lukas-kuban
+kuncma,Martin,Kuncl,1984-04-01,CZE,8,18,F,0,0,0,0,martin-kuncl
+pavlpe,Petr,Pavlík,1978-07-17,CZE,8,24,F,0,0,0,0,petr-pavlik
+svejm1,Martin,Švejnoha,1977-11-25,CZE,8,30,F,0,0,0,0,martin-svejnoha
+trouja,Jan,Trousil,1976-04-09,CZE,8,22,F,0,0,0,0,jan-trousil
+zivnma,Martin,Živný,1981-03-20,CZE,8,13,F,0,0,0,0,martin-zivny
+chlufi,Filip,Chlup,1985-06-10,CZE,8,28,M,0,0,0,0,filip-chlup
+eltolt, ,Elton,1986-09-21,BRA,8,4,M,0,0,0,0,elton_6
+hanama,Martin,Hanák,1985-08-15,CZE,8,6,M,0,0,0,0,martin-hanak
+marel1,Lukáš,Mareček,1990-04-17,CZE,8,5,M,0,0,0,0,lukas-marecek
+okleto,Tomáš,Okleštěk,1987-02-21,CZE,8,9,M,0,0,0,0,tomas-oklestk
+polat1,Tomáš,Polách,1977-01-16,CZE,8,21,M,0,0,0,0,tomas-polach
+siegpa,Patrik,Siegl,1976-02-26,CZE,8,21,M,0,0,0,0,patrik-siegl
+strema,Marek,Střeštík,1987-02-01,CZE,8,15,M,0,0,0,0,marek-strestik
+veceka,Karel,Večeřa,1978-11-10,CZE,8,12,M,0,0,0,0,karel-vecera
+balali,Libor,Baláž,1977-01-18,CZE,8,10,A,0,0,0,0,libor-balaz
+bestal,Aleš,Besta,1983-04-10,CZE,8,14,A,0,0,0,0,ales-besta
+boraja,Jaroslav,Borák,1989-11-09,CZE,8,14,A,0,0,0,0,jaroslav-borak
+doseto,Tomáš,Došek,1978-09-12,CZE,8,26,A,0,0,0,0,tomas-dosek
+simrpa,Pavel,Simr,1983-07-06,CZE,8,8,A,0,0,0,0,pavel-simr
+surajo,Josef,Šural,1990-05-30,CZE,8,23,A,0,0,0,0,josef-sural
+wagnre,René,Wagner,1972-10-31,CZE,8,17,A,0,0,0,0,rene-wagner
+kalolu,Luboš,Kalouda,1987-05-20,CZE,8, , ,0,0,0,0,lubos-kalouda
+holema,Mario,Holek,1986-10-28,CZE,8, , ,0,0,0,0,mario-holek
+pacami,Milan,Pacanda,1978-02-28,CZE,8, , ,0,0,0,0,milan-pacanda
+mezlra,Radek,Mezlík,1982-05-20,CZE,8, , ,0,0,0,0,radek-mezlik
+vranpa,Pavel,Vrána,1985-06-13,CZE,8, , ,0,0,0,0,pavel-vrana
+belemi,Michal,Belej,1982-11-16,CZE,8, , ,0,0,0,0,michal-belej
+boboji,Jiří,Bobok,1977-03-01,CZE,9,20,P,0,0,0,0,jiri-bobok
+spitmi,Michal,Špit,1975-04-09,CZE,9,1,P,0,0,0,0,michal-spit
+fukami,Milan,Fukal,1975-05-16,CZE,9,27,F,0,0,0,0,milan-fukal
+hamojo,Josef,Hamouz,1980-04-08,CZE,9,9,F,0,0,0,0,josef-hamouz
+homoj1,Jiří,Homola,1980-07-02,CZE,9,22,F,0,0,0,0,jiri-homola_2
+hubeto,Tomáš,Huber,1985-08-29,CZE,9,25,F,0,0,0,0,tomas-huber
+krejji,Jiří,Krejčí,1986-03-22,CZE,9,18,F,0,0,0,0,jiri-krejci
+lacija,Jaroslav,Laciga,1982-09-24,CZE,9,26,F,0,0,0,0,jaroslav-laciga
+zabope,Petr,Zábojník,1980-10-03,CZE,9,5,F,0,0,0,0,petr-zabojnik
+adamja,Jakub,Adam,1985-02-07,CZE,9,2,M,0,0,0,0,jakub-adam
+eliapa,Pavel,Eliáš,1986-11-26,CZE,9,13,M,0,0,0,0,pavel-elias
+hauran,Anes,Haurdič,1990-03-01,BOS,9,3,M,0,0,0,0,anes-haurdic
+hlouad,Adam,Hloušek,1988-12-20,CZE,9,10,M,0,0,0,0,adam-hlousek
+klapfi,Filip,Klapka,1981-06-20,CZE,9,12,M,0,0,0,0,filip-klapka
+louclu,Luboš,Loučka,1982-08-25,CZE,9,15,M,0,0,0,0,lubos-loucka
+michto,Tomáš,Michálek,1977-11-27,CZE,9,23,M,0,0,0,0,tomas-michalek
+valeji,Jiří,Valenta,1988-02-14,CZE,9,7,M,0,0,0,0,jiri-valenta
+zofcig,Igor,Žofčák,1983-04-10,SVK,9,16,M,0,0,0,0,igor-zofcak
+barami,Miroslav,Baránek,1973-11-10,CZE,9,11,A,0,0,0,0,miroslav-baranek
+fujelu,Lukáš,Fujerik,1983-12-09,CZE,9,8,A,0,0,0,0,lukas-fujerik
+mickja,Jakub,Mičkal,1984-03-15,CZE,9,8,A,0,0,0,0,jakub-mickal
+necito,Tomáš,Necid,1989-08-13,CZE,9,24,A,0,0,0,0,tomas-necid
+nulidu,Dušan,Nulíček,1988-06-02,CZE,9,19,A,0,0,0,0,dusan-nulicek
+strapa,Pavol,Straka,1980-12-13,SVK,9,14,A,0,0,0,0,pavol-straka
+vosaja,Jan,Vošahlík,1989-03-08,CZE,9,17,A,0,0,0,0,jan-vosahlik
+svatja,Jan,Svátek,1983-05-24,CZE,9, , ,0,0,0,0,jan-svatek
+zelelu,Luděk,Zelenka,1973-09-11,CZE,9, , ,0,0,0,0,ludk-zelenka
+vachlu,Lukáš,Vácha,1989-05-13,CZE,9, , ,0,0,0,0,lukas-vacha
+flacja,Jan,Flachbart,1978-03-03,CZE,9, , ,0,0,0,0,jan-flachbart
+rilkem,Emil,Rilke,1983-11-19,CZE,9, , ,0,0,0,0,emil-rilke
+stozvl,Vlastimil,Stožický,1983-08-19,CZE,9, , ,0,0,0,0,vlastimil-stozicky
+kordm1,Michal,Kordula,1978-02-11,CZE,9, , ,0,0,0,0,michal-kordula
+stpavo,Vojtěch,Štěpán,1985-06-08,CZE,9, , ,0,0,0,0,vojtch-stpan

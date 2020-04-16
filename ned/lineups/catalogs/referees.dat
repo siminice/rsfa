@@ -1,8 +1,9 @@
-306
+336
 aalbja,Aalbrecht,Adrianus, &dagger;,NED, ,NED
 allapa,Allaerts,Paul,09/07/1964,BEL,Mol,BEL
 arkece,Arkenbout,Cees, ,NED, ,NED
 arriba,Arri,Barry, ,BEL, ,BEL
+aussbe,Aussum,Bertus, ,NED, ,NED
 bakkco,Bakker,Cornelius A.,17/03/1945,NED, ,NED
 baldjo,Balder,Johan,27/12/1982,NED, ,NED
 baldri,Balder,Rik,29/01/1971,NED, ,NED
@@ -12,10 +13,12 @@ baxxch,Bax,Christiaan,15/06/1988,NED, ,NED
 beckja,Beck,Jan F.,11/08/1933,NED, ,NED
 beekhv,van Beek,Harry,07/06/1955,NED, ,NED
 bekeru,Bekebrede,Rutger,15/10/1984,NED, ,NED
+beltwi,Beltman,Willem, ,NED, ,NED
 bentj1,Bentvelzen,Joop,06/12/1930,NED,Stompwijk,NED
 bentjo,Benthem,Johan,28/12/1963,NED, ,NED
 berbch,Berbiers,Christophe,15/05/1978,BEL, ,BEL
 bergcv,de Berg,Chris van, ,NED, ,NED
+bergvd,Berg,van den, ,NED, ,NED
 berrge,Berrevoets,Gerrit J., ,NED, ,NED
 bettbe,Ben Bettinger, , ,NED, ,NED
 beuklo,Beukman,Louis, ,NED, ,NED
@@ -32,10 +35,14 @@ blomke,Blom,Bernie Raymond,21/02/1974,NED,Gouda,NED
 blomth,Blommesteijn,Theo, ,NED,Zwanenburg,NED
 bluere,Bluemink,Rens,17/10/1984,NED, ,NED
 boekpv,van Boekel,Paulus,19/09/1975,NED, ,NED
+boerde,de Boer, , ,NED, ,NED
 boerev,Boer,Edgard Vanden,04/03/1964,BEL, ,BEL
+boergd,de Boer,G., ,NED, ,NED
+bogabo,Bogaerts, , ,NED, ,NED
 bomxto,Bom,Ton, ,NED, ,NED
 bontpe,Bonte,Peter,14/12/1963,BEL, ,BEL
 boogad,Boogaerts,Adrianus,20/08/1925,NED, ,NED
+boogav,de Boogaard,A. van, ,NED, ,NED
 boonan,Boonman,Angelo,14/09/1979,NED, ,NED
 boosth,Boosten,Theo,00/00/1939,NED, ,NED
 bosmpi,Bosman,Piet, ,NED, ,NED
@@ -47,6 +54,7 @@ breebr,Breedijk, , ,NED, ,NED
 brekro,Brekelmans,Robertus J.A.M., ,NED, ,NED
 brinar,Brink,Arie,18/08/1968,NED, ,NED
 broero,Broekman,Rob, ,NED, ,NED
+bronja,Bronkhorst,Johann,03/03/1914,NED,Hiesfeld,GER
 bronri,Brondijk,Richard,21/04/1980,NED, ,NED
 brouko,Brouwer,Koen, ,NED, ,NED
 bruicd,de Bruin,Cees, ,NED, ,NED
@@ -60,6 +68,7 @@ carmjo,Carmeliet,Jozef,22/09/1962,BEL, ,BEL
 corpso,Corpodean,Sorin,29/03/1965,ROM, ,ROM
 corvch,Corver,Charles George Rainier,16/01/1936,NED,Leiden,NED
 cremji,Cremers,Jimmy,21/12/1976,BEL, ,BEL
+croial,La Croix,André, ,NED, ,NED
 crotgr,Crotteux,Gregory,21/09/1979,BEL, ,BEL
 cuytsv,Cuyt,Sven,21/08/1971,BEL, ,BEL
 damsch,Dams,Chris,30/11/1962,BEL, ,BEL
@@ -78,6 +87,7 @@ dobrcr,Dobre,Cristian,25/04/1979,NED, ,ROM
 dolsja,Dolstra,Jan,11/01/1952,NED,Nijehaske,NED
 dongbv,van Dongen,Bas,16/11/1975,NED, ,NED
 dongpv,van Dongen,Peter,07/01/1960,NED, ,NED
+doorcv,van Doorn,C., ,NED, ,NED
 dorpje,Dorpmans,Joseph Franciscus,06/07/1925,NED, ,NED
 draabo,Draaisma,Bouke, ,NED, ,NED
 drosco,Droste,Coen,23/12/1967,NED, ,NED
@@ -91,10 +101,12 @@ elzitj,Elzinga,Tjeerd, ,NED, ,NED
 endemv,Ende,Mario van der,28/03/1956,NED,Den Haag,NED
 ettehv,van Ettekoven,Henrik Johan,00/00/1937,NED,Arnhem,NED
 fikkdy,Fikkert,Dyon,02/12/1987,NED, ,NED
+florg_,Florin,G., ,NED, ,NED
 frijdo,Frijn,Don,19/09/1992,NED, ,NED
 ganspe,Gans,Peter, ,NED, ,NED
 gastpv,van Gastel,Piet, ,NED, ,NED
 geldfr,Geldhof,Frederik,16/04/1976,BEL, ,BEL
+geldkv,van Gelder,Koos,19/10/1908,NED, ,NED
 gemeav,Van Gemert,Arie,23/03/1929,NED,Dordrecht,NED
 gennhe,Gennissen,Henk, ,NED, ,NED
 gerami,Gerard,Michaël,21/10/1972,BEL, ,BEL
@@ -109,8 +121,10 @@ goosda,Goossens,Dave,06/03/1974,NED, ,NED
 graaev,de Graaf,Edwin van,16/05/1983,NED, ,NED
 graahd,de Graaf,Hennie,14/03/1959,NED, ,NED
 gregcl,Gregoire,Claude,16/09/1960,BEL, ,BEL
+groeja,Groenewoud,Jan, ,NED, ,NED
 gumise,Gumienny,Serge,14/04/1972,BEL, ,BEL
 havebe,Ben Haverkort, ,27/10/1961,NED, ,NED
+heenhe,Heeneman, , ,NED, ,NED
 helmed,Helmstrijd,Ed,09/03/1963,NED, ,NED
 hendja,Hendriks,Jan, ,NED, ,NED
 hendru,Henderickx,Rudi,28/06/1972,BEL, ,BEL
@@ -128,6 +142,7 @@ hornle,Horn,Leopold Sylvain,29/08/1916,NED, ,NED
 houbfr,Houben,Frans,00/00/1947,NED, ,NED
 hubejo,Hubers,Johan,08/05/1983,NED, ,NED
 huenda,Huens,Danny,01/09/1970,BEL, ,BEL
+hugefr,Hugens,Frans, ,NED, ,NED
 hultjv,van Hulten,Jack C. D.,17/08/1962,NED, ,NED
 hutsst,Hutsebaut,Styn,12/05/1969,BEL, ,BEL
 ijkhjo,Ijkhout,John, ,NED, ,NED
@@ -136,10 +151,12 @@ iniapa,Inia,Patrick,17/02/1992,NED, ,NED
 jansed,Janssen,Ed,08/01/1971,NED, ,NED
 jansfr,Jansen,Frank,06/01/1975,NED, ,NED
 janspe,Janson,Peter,18/07/1972,NED, ,NED
+jeldto,Jelders,Toon, ,NED, ,NED
 jolxdi,Jol,Dick Zier Gerardus,29/03/1956,NED,Scheveningen,NED
 jongpd,De Jonge,Pascal,14/03/1961,BEL, ,BEL
 jonkge,Jonker,Gerard, ,NED, ,NED
 kampjo,Kamphuis,Jochem,11/04/1986,NED, ,NED
+kampnv,van Kampen,Nils,04/04/1993,NED, ,NED
 karrro,Karremans,Ron,16/01/1963,NED, ,NED
 keizja,Keizer,Johannes Nicolaus Ignacius,06/10/1940,NED,Volendam,NED
 kempbe,Ben Kempers, , ,NED, ,NED
@@ -163,6 +180,7 @@ langpa,Langkamp,Peter,18/04/1971,NED, ,NED
 lapaje,Lapar,Jermain,25/01/1976,NED, ,NED
 lardjo,Lardot,Jonathan,31/01/1984,BEL, ,BEL
 laushe,Lausberg,Henk, ,NED, ,NED
+lazala,Lazaroms, , ,NED, ,NED
 leeuav,van Leeuwen,Andries,14/11/1916,NED, ,NED
 lerolu,Leroy,Luc,13/02/1966,BEL, ,BEL
 liesri,Liesveld,Richard,10/05/1973,NED,Waverveen,NED
@@ -181,6 +199,7 @@ meenro,Meenhuis,Rob,12/01/1967,NED, ,NED
 meenrv,van Meenen,Raymond,28/09/1974,NED, ,NED
 meerav,van Meerkerk,Ad, ,NED, ,NED
 meerkr,Meers,Kristof, ,BEL, ,BEL
+meerkv,Meer,Karel Van der,29/07/1905,NED, ,NED
 meinja,Meints,Jantinus,16/11/1961,NED, ,NED
 metzro,Metz,Ron,08/10/1955,NED, ,NED
 meyefr,Meyer,Frans, ,NED, ,NED
@@ -192,6 +211,7 @@ muldjo,Mulder,Joost,23/10/1976,NED, ,NED
 muldmu,Mulder, , ,NED, ,NED
 muldsi,Mulder,Siemen,23/11/1983,NED, ,NED
 munnad,de Munnik,Arie, ,NED, ,NED
+nagtma,Nagtegaal,Marc,02/06/1993,NED, ,NED
 nannsj,Nanninga,Sjoerd,28/02/1990,NED, ,NED
 nasxrd,de Nas,Roy,10/10/1988,NED, ,NED
 neutcv,Neut,Cees van der,30/11/1950,NED, ,NED
@@ -206,6 +226,7 @@ olthho,Olthof,Hans Olde,08/10/1968,NED, ,NED
 ooijwv,van Ooijen,Wil, ,NED, ,NED
 oostgv,van Oostrum,Gerard, ,NED, ,NED
 oskape,Oskam,Peter,05/01/1960,NED, ,NED
+ossemi,Osseweijer,Michael,03/02/1992,NED, ,NED
 overro,Overkleeft,Robert,03/07/1952,NED, ,NED
 pasxwv,Pas,Wilfred van der,22/05/1959,NED, ,NED
 perema,Pérez,Martin,03/11/1987,NED, ,NED
@@ -223,12 +244,15 @@ rieldv,van Riel,Dick, ,NED, ,NED
 rijsja,Rijser,Jan,07/10/1956,NED, ,NED
 roeksv,van Roekel,Sander,28/03/1974,NED, ,NED
 roelhe,Roelofsen,Henk, ,NED, ,NED
+roodch,Roodenburg,Chr., ,NED, ,NED
+roodro,Roodenburg, , ,NED, ,NED
 roompi,Roomer,Pieter Paulus,04/06/1920,NED, ,NED
 roosed,Roosens,Eddy, ,BEL, ,BEL
 rozeth,Rozeboom,Thijs,23/07/1957,NED, ,NED
 rutgwi,Rutgers,Wijnand,09/08/1962,NED, ,NED
 sandje,Sanders,Jeroen,21/07/1985,NED, ,NED
 scatmi,Scatorchia,Michel, ,BEL, ,BEL
+schac1,Schaap,Charles,08/10/1977,NED, ,NED
 schach,Schaap,Charl,08/10/1977,NED, ,NED
 schawi,Schalks,Willem J. M.,00/00/1923,NED, ,NED
 schawo,Schaap,Wout,03/02/1952,NED, ,NED
@@ -236,10 +260,13 @@ schefd,Schepens,Fabian de Lima,28/08/1976,NED, ,NED
 schegd,de Schepper,Gerard, ,NED, ,NED
 scheja,Schenkels,Jac,09/10/1963,NED, ,NED
 schiju,Schiphorst,Jürgen,24/10/1973,NED, ,NED
+schikl,Schipper,Klaas,02/12/1910,NED,Delfzijl,NED
+schimw,Schings,M.W., ,NED, ,NED
 schuad,Schuurmans,Ad, ,NED, ,NED
 seveja,Severijn,Jan, ,NED, ,NED
 sichtv,van Sichem,Tom,29/07/1968,NED, ,NED
 siebni,Siebert,Nicky,29/12/1969,NED, ,NED
+sighsi,Sighs, , ,NED, ,NED
 simobe,Simons,Norbertus Josephus C.,18/01/1969,NED, ,NED
 simoma,Simons,Mark,29/12/1966,BEL, ,BEL
 slotri,Slot,Richard,03/02/1967,NED, ,NED
@@ -261,6 +288,7 @@ theeeu,Theelen,Eugene,01/02/1959,NED, ,NED
 thirer,Thiry,Eric,27/03/1969,BEL, ,BEL
 thomal,Thomas,Albert Rudolf,07/10/1939,NED,Amsterdam,NED
 tienbo,Tientjes,Bob, ,NED, ,NED
+tuintu,Tuinenburg, , ,NED, ,NED
 uileja,Uilenberg,Jacobus,05/06/1950,NED,Enschede,NED
 vanapa,Vanackere,Patrick,19/12/1968,BEL, ,BEL
 vandba,Vandeweghe,Bart,29/12/1967,BEL, ,BEL
@@ -270,12 +298,14 @@ vanhdi,Vanhoutte,Dirk,23/10/1959,BEL, ,BEL
 vanwro,Vanwelden,Ronny,05/05/1963,BEL, ,BEL
 veerhv,Veer,Henk van der, ,NED, ,NED
 veerpv,Veer,Piet van der, ,NED, ,NED
+veldhe,Veldhuizen,Henk, ,NED, ,NED
 veldjv,De Velde,Joeri Van,14/02/1971,BEL, ,BEL
 velujw,van Veluwen,Jan Willem,06/12/1957,NED, ,NED
 venxrv,de Ven,Rob van,19/09/1973,NED, ,NED
 verbjo,Verbist,Johan,13/04/1966,BEL, ,BEL
 verdda,Verdeyen,Danny,17/04/1961,BEL, ,BEL
 verhch,Verhoef,Chris, ,NED, ,NED
+verkja,Verkerk,Jaap, ,NED, ,NED
 vermja,Vermeulen,Jan,08/07/1967,BEL, ,BEL
 versal,Verstraeten,Alex,10/08/1965,BEL, ,BEL
 vervjo,Vervoort,Johannes C.,00/00/1932,NED, ,NED

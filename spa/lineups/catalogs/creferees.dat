@@ -1,4 +1,4 @@
-531
+538
 abadjc,Abad,José Manuel Carreira,José Manuel Carreira Abad,13/07/1941,SPA,Arzúa,SPA,jose-carreira-abad
 aguafd,Aguado,Francisco David,Francisco David Aguado, ,SPA,Valencia,SPA,francisco-david-aguado
 aguajc,Aguado,Jesús Cristóbal,Jesús Cristóbal Aguado,24/12/1912,SPA,San Sebastián,SPA,jesus-cristobal-aguado
@@ -39,6 +39,7 @@ arriar,Arrillaga, ,Arrillaga, ,SPA, ,SPA,arrillaga
 arrimg,Arribas,Manuel Gómez,Manuel Gómez Arribas, ,SPA, ,SPA,manuel-gomez-arribas
 asurja,Asurmendi,José Manuel Andradas,José Manuel Andradas Asurmendi,13/05/1956,SPA,Pamplona,SPA,jose-andradas-asurmendi
 aurrfc,Aurre,Felipe Crespo,Felipe Crespo Aurre,03/07/1940,SPA,Santander,SPA,felipe-crespo-aurre
+ayusgp,Ayuso,Guadalupe Porras,Guadalupe Porras Ayuso, ,SPA, ,SPA,guadalupe-porras-ayuso
 azpiiu,Azpitarte,Ildefonso Urizar,Ildefonso Urizar Azpitarte,19/11/1943,SPA,Bilbao,SPA,ildefonso-urizar-azpitarte
 bachvf,Bachero,Vicente Forés,Vicente Forés Bachero,10/03/1932,SPA,Barcelona,SPA,vicente-fores-bachero
 banejm,Banegas,Juan Martínez,Juan Martínez Banegas,28/01/1929,SPA,Madrid,SPA,juan-martinez-banegas
@@ -64,6 +65,7 @@ buenac,Bueno,Abilio Caetano,Abilio Caetano Bueno,05/01/1949,SPA,Huelva,SPA,abili
 burrap,Burrull,Alfonso Pérez,Alfonso Pérez Burrull,15/09/1965,SPA,Santander,SPA,alfonso-perez-burrull
 cabajm,Caballero,José Manuel Matías,José Manuel Matías Caballero, ,SPA, ,SPA,jose-matias-caballero
 cabeap,Cabeza,Alfonso Pérez,Alfonso Pérez Cabeza, ,SPA,Melilla,SPA,alfonso-perez-cabeza
+cabrac,Cabrera,Álvaro Yeray Carreño,Álvaro Yeray Carreño Cabrera, ,SPA, ,SPA,alvaro-carreno-cabrera
 calvss,Calvo,Santiago Sánchez,Santiago Sánchez Calvo,05/07/1949,SPA,Madrid,SPA,santiago-sanchez-calvo
 camajc,Camacho,Vicente José Caballero,Vicente José Caballero Camacho, ,SPA, ,SPA,jose-caballero-camacho
 campca,Campos, ,Campos, ,SPA, ,SPA,campos
@@ -131,6 +133,7 @@ espial,Espinosa,Arturo López,Arturo López Espinosa,00/00/1891,SPA,Madrid,SPA,a
 fajuse,Fajula,Salvador Elías,Salvador Elías Fajula,15/10/1961,SPA,Olot,SPA,salvador-elias-fajula
 falart,Falaguera,Rafael Tamarit,Rafael Tamarit Falaguera,09/08/1910,SPA,Valencia,SPA,rafael-tamarit-falaguera
 felavi,Felani,Vidal,Vidal Felani, ,SPA, ,SPA,vidal-felani
+fernca,Fernández,Carlos Álvarez,Carlos Álvarez Fernández, ,SPA, ,SPA,carlos-alvarez-fernandez
 ferncg,Fernández,César García,César García Fernández, ,SPA, ,SPA,cesar-garcia-fernandez
 ferncm,Fernández,César Muñiz,César Muñiz Fernández,18/05/1970,SPA,Brussels,BEL,cesar-muniz-fernandez
 ferncr,Fernández,Clemente Rivas,Clemente Rivas Fernández,26/10/1953,SPA,Valladolid,SPA,clemente-rivas-fernandez
@@ -190,6 +193,7 @@ gomegm,Gómez, ,Gómez, ,SPA, ,SPA,gomez
 gomejo,Gómez,Julio Ostalé,Julio Ostalé Gómez,00/00/1901,SPA,Zaragoza,SPA,julio-ostale-gomez
 gomejp,Gómez,Jorge Paredes,Jorge Paredes Gómez, ,SPA, ,SPA,jorge-paredes-gomez
 gomerb,Gómez,Rubén Becerril,Rubén Becerril Gómez, ,SPA, ,SPA,ruben-becerril-gomez
+gomevp,Gómez,Valentín Pizarro,Valentín Pizarro Gómez, ,SPA, ,SPA,valentin-pizarro-gomez
 gonzac,González,Antonio Couso,Antonio Couso González, ,SPA, ,SPA,antonio-couso-gonzalez
 gonzcy,González,Carlos Tomás Yuste,Carlos Tomás Yuste González,07/03/1948,SPA,Badajoz,SPA,carlos-yuste-gonzalez
 gonzei,González,Eduardo Iturralde,Eduardo Iturralde González,20/02/1967,SPA,Arrankudiaga (Vizcaya),SPA,eduardo-iturralde-gonzalez
@@ -207,6 +211,7 @@ gonzpl,Gonzalez,Placido,Placido Gonzalez, ,SPA, ,SPA,placido-gonzalez
 goroei,Gorostiaga,Eduardo Iturralde,Eduardo Iturralde Gorostiaga, ,SPA, ,SPA,eduardo-iturralde-gorostiaga
 gracft,Gracia,Fernando Tresaco,Fernando Tresaco Gracia,04/07/1955,SPA,Huesca,SPA,fernando-tresaco-gracia
 gracli,Gracia,Luis Iglesias,Luis Iglesias Gracia,04/04/1899,SPA,Zaragoza,SPA,luis-iglesias-gracia
+gradcs,Grado,César Soto,César Soto Grado,17/06/1980,SPA, ,SPA,cesar-soto-grado
 grancd,Grande,Carlos Del Cerro,Carlos Del Cerro Grande,13/03/1976,SPA,Madrid,SPA,carlos-del-cerro-grande
 griefe,Grien,Fernandez,Fernandez Grien, ,SPA, ,SPA,fernandez-grien
 grijid,Grijalba,Iker De Francisco,Iker De Francisco Grijalba, ,SPA, ,SPA,iker-de-francisco-grijalba
@@ -444,9 +449,11 @@ rodrje,Rodríguez,Jordi Esquerdo,Jordi Esquerdo Rodríguez, ,SPA, ,SPA,jordi-esq
 rodrmg,Rodríguez,Manuel García,Manuel García Rodríguez, ,SPA, ,SPA,manuel-garcia-rodriguez
 rodrpe,Rodríguez,Pedro,Pedro Rodríguez, ,SPA, ,SPA,pedro-rodriguez
 rojaja,Rojas,Javier Alberola,Javier Alberola Rojas, ,SPA, ,SPA,javier-alberola-rojas
+rojods,Rojo,Diego Sánchez,Diego Sánchez Rojo, ,SPA, ,SPA,diego-sanchez-rojo
 romaem,Román,Ezequiel Montero,Ezequiel Montero Román,22/02/1893,SPA,Madrid,SPA,ezequiel-montero-roman
 romara,Roma,Ramón Azón,Ramón Azón Roma,01/05/1913,SPA,Barcelona,SPA,ramon-azon-roma
 romego,Romero,González,González Romero, ,SPA, ,SPA,gonzalez-romero
+romejg,Romero,José Antonio Garrido,José Antonio Garrido Romero, ,SPA, ,SPA,jose-garrido-romero
 romejp,Romero,José Luis Paradas,José Luis Paradas Romero,16/10/1972,SPA, ,SPA,jose-paradas-romero
 ronxjb,Ron,José Antonio Balsa,José Antonio Balsa Ron,08/03/1937,SPA,Gijón,SPA,jose-balsa-ron
 rozave,Rozas,Vicente Egido,Vicente Egido Rozas, ,SPA, ,SPA,vicente-egido-rozas

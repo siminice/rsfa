@@ -1,4 +1,4 @@
-7322
+7460
 aaroaa,Aarón, ,1997-04-22,SPA,Montmeló,SPA
 aasxei,Aas,Einar,1955-10-12,NOR,Moss,NOR
 abarja,Abardonado,Jacques,1978-05-27,FRA,Marseille,FRA
@@ -7,6 +7,7 @@ abbeer,Abbé,Ernst,1948-06-04,GER, ,GER
 abdeay,Abdennour,Aymen,1989-08-06,TUN,Sousse,TUN
 abdemo,Abdellaoue,Mohammed,1985-10-23,NOR,Oslo,NOR
 abdeya,Abdessadki,Yacine,1981-01-01,MAR,Nice,FRA
+abdusu,Abdullahi,Suleiman,1996-12-10,NGR,Kaduna,NGR
 abelhj,Abel,Hans-Joachim,1952-06-25,GER, ,GER
 abelma,Abel,Mathias,1981-06-22,GER,Kaiserslautern,GER
 abouel,Abouchabaka,Elias,2000-03-31,GER,Berlin,GER
@@ -22,6 +23,7 @@ ackero,Ackermann,Rolf,1947-03-15,GER, ,GER
 acquaf,Acquah,Afriyie,1992-01-05,GHA,Sunyani,GHA
 adamda,Adamczuk,Dariusz,1969-10-21,POL,Szczecin,POL
 adamka,Adams,Kasim,1995-06-22,GHA,Accra,GHA
+adamsa,Adamyan,Sargis,1993-05-23,ARM,Yerevan,ARM
 adamty,Adams,Tyler,1999-02-14,USA,Wappingers Falls,USA
 adamya,Adamu,Yakubu,1981-10-04,NGR,Kaduna,NGR
 addoda,Addo,Daniel,1976-11-06,GHA,Accra,GHA
@@ -32,6 +34,7 @@ ademor,Ademi,Orhan,1991-10-28,SUI,Altstätten,SUI
 adenho,Aden,Holger,1965-08-25,GER,Hamburg,GER
 adhead,Adhemar, ,1972-04-27,BRA,Tatuí,BRA
 adixad,Adi, ,1985-12-15,BRA,Riachão,BRA
+adjeca,Antwi-Adjei,Christopher,1994-02-07,GER,Hagen,GER
 adleni,Adler,Nicky,1985-05-23,GER,Leipzig,GER
 adler1,Adler,René,1985-01-15,GER,Leipzig,GER
 adlere,Adler,Reinhard,1947-02-09,GER, ,GER
@@ -72,6 +75,7 @@ akgume,Akgün,Mehmet,1986-08-06,TUR,Bielefeld,GER
 akkaat,Akkaynak,Atakan,1999-01-05,GER, ,GER
 akolch,Akolo,Chadrac,1995-04-01,DRC,Kinshasa,DRC
 akonch,Akonnor,Charles,1974-03-12,GHA, ,GHA
+akoncy,Akono,Cyrill,2000-02-29,GER,Münster,GER
 akpajo,Akpala,Joseph,1986-08-24,NGR,Jos,NGR
 akpojo,Akpoborie,Jonathan,1968-10-20,NGR,Lagos,NGR
 akpoke,Akpoguma,Kevin,1995-04-19,GER,Neustadt an der Weinstraße,GER
@@ -86,6 +90,7 @@ albega,Alberman,Gal,1983-04-17,ISR,Petach Tikva,ISR
 albejo,Albertz,Jörg,1971-01-29,GER,Mönchengladbach,GER
 albomi,Albornoz,Miiko,1990-11-30,CHI,Stockholm,SWE
 albrjo,Albracht,Jörg,1963-11-30,GER,Hilden,GER
+albrju,Albrecht,Julian,2001-08-31,GER,Rostock,GER
 albrph,Albrecht,Philip,1979-11-21,GER, ,GER
 albrri,Albrecht,Richard,1936-05-26,GER, ,GER
 albrwe,Albrecht,Werner,1953-03-30,GER,Garmisch-Partenkirchen,GER
@@ -132,6 +137,8 @@ aminmu,Amini,Mustafa,1993-04-20,AUS,Sydney,AUS
 amirna,Amiri,Nadiem,1996-10-27,GER,Ludwigshafen,GER
 amoama,Amoah,Matthew,1980-10-24,GHA,Tema,GHA
 amoram,Amoroso, ,1974-07-05,BRA,Brasilia,BRA
+ampaet,Ampadu,Ethan,2000-09-14,WAL,Exeter,ENG
+ampona,Ampomah,Nana,1996-01-02,GHA, ,GHA
 amrakl,Amrath,Klaus,1954-01-25,GER, ,GER
 amrich,Amri,Chadli,1984-12-14,ALG,St.Avold,FRA
 amsimo,Amsif,Mohamed,1989-02-07,MAR,Düsseldorf,GER
@@ -149,11 +156,13 @@ andejo,Andersen,Jørn,1963-02-03,NOR,Fredrikstad,NOR
 andeni,Andersen,Niklas,1988-08-04,GER,Frankfurt am Main,GER
 andepa,Andersson,Patrik,1971-08-18,SWE,Borgeby,SWE
 andepe,Anders,Peter,1946-06-29,GER, ,GER
+andese,Andersson,Sebastian,1991-07-15,SWE,Ängelholm,SWE
 andeth,Andersson,Thomas,1956-12-11,SWE,Katrineholm,SWE
 andran,Andrezinho, ,1981-10-09,BRA,Mineiros,BRA
 andrhj,Andree,Hans-Joachim,1950-07-06,GER, ,GER
 andrle,Andreasen,Leon,1983-04-23,DEN,Aidt Thorsø,DEN
 andrpe,Andres,Peter,0000-00-00,GER, ,GER
+andrro,Andrich,Robert,1994-09-22,GER,Potsdam,GER
 anfama,Anfang,Markus,1974-06-12,GER,Köln,GER
 angeed,Angele,Eduard,1951-12-10,GER, ,GER
 angelo,Angermund,Lothar,1952-11-11,GER, ,GER
@@ -169,10 +178,12 @@ antowa,Anton,Waldemar,1996-07-20,GER,Engen,GER
 antoze,António,Zé,1977-03-14,POR,Torres Vedras,POR
 anziwe,Anzill,Werner,1940-04-19,GER, ,GER
 aogode,Aogo,Dennis,1987-01-14,GER,Karlsruhe,GER
+appesh,Appelkamp,Shinta,2000-11-01,JAP, ,GER
 aracil,Aračić,Ilija,1970-11-15,CRO,Slavonski Brod,CRO
 aranch,Aránguiz,Charles,1989-04-17,CHI,Puente Alto,CHI
 aranju,Arango,Juan,1980-05-17,VEN,Maracay,VEN
 arbial,Arbinger,Alfred,1957-06-06,GER,Aldersbach,GER
+arcomo,Opfermann-Arcones,Maurice,2000-06-16,GER,Berlin,GER
 argubr,Arguez,Bryan,1989-01-13,USA,Miami,USA
 arilar,Arílson, ,1973-06-11,BRA,Bento Gonçalves,BRA
 arkefy,Arkenberg,Fynn,1996-03-04,GER,Neustadt,GER
@@ -225,6 +236,7 @@ avdido,Avdijaj,Donis,1996-08-25,KOS,Osnabrück,GER
 avelav,Avelar, ,1989-06-09,BRA,Paranavaí,BRA
 avesbt,ter Avest,Berthil,1970-11-19,NED, ,NED
 avevch,Avevor,Christopher,1992-02-11,GER,Kiel,GER
+awonta,Awoniyi,Taiwo,1997-08-12,NGR,Ilorin,NGR
 aycide,Aycicek,Deniz,1990-06-05,GER,Neustadt am Rübenberge,GER
 aycile,Ayçiçek,Levent,1994-02-14,GER,Nienburg,GER
 aydial,Aydin,Aliosman,1992-02-06,GER,Dormagen,GER
@@ -236,6 +248,7 @@ ayhaka,Ayhan,Kaan,1994-11-10,TUR,Gelsenkirchen,GER
 ayikon,Ayik,Onur,1990-01-28,GER,Walsrode,GER
 azaomi,Azaouagh,Mimoun,1982-11-17,GER,Benisidel,MAR
 azemil,Azemi,Ilir,1992-02-21,KOS,Priština,KOS
+azhiay,Azhil,Ayman,2001-04-10,GER, ,GER
 azizkh,Azizi,Khodadad,1971-06-22,IRN,Mashad,IRN
 azzais,Azzaoui,Ismail,1998-01-06,BEL,Brussels,BEL
 azzora,Azzouzi,Rachid,1971-01-10,MAR,Fes,MAR
@@ -255,6 +268,7 @@ bachsv,Bacher,Sven,1988-09-28,GER, ,GER
 backse,Backer,Sebastian,1980-09-05,GER,München,GER
 backsv,Backhaus,Sven,1968-06-01,GER, ,GER
 badeal,Bade,Alexander,1970-08-25,GER,Berlin,GER
+badema,Bader,Matthias,1997-06-17,GER,Pforzheim,GER
 bademi,Badelj,Milan,1989-02-25,CRO,Zagreb,CRO
 badjma,Badji,Malik,1967-11-27,SEN,Dakar,SEN
 badsho,Badstuber,Holger,1989-03-13,GER,Memmingen,GER
@@ -290,6 +304,7 @@ bajnba,Bajner,Bálint,1990-11-18,HUN,Szombathely,HUN
 bajrzl,Bajramović,Zlatan,1979-08-12,BOS,Hamburg,GER
 bakadi,Bakalorz,Dirk,1963-08-22,GER,Bottrop,GER
 bakama,Bakalorz,Marvin,1989-09-13,GER,Offenbach,GER
+bakele,Baker,Lewis,1995-04-25,ENG,Luton,ENG
 bakubo,Baku,Bote,1998-04-08,GER,Mainz,GER
 bakuri,Baku,Ridle,1998-04-08,GER,Mainz,GER
 balaem,Balayev,Emil,1994-04-17,AZE,Volgograd,RUS
@@ -411,7 +426,9 @@ beckol,Becker,Olaf,1970-11-21,GER, ,GER
 beckra,Becker,Ralf,1970-09-26,GER,Leonberg,GER
 beckro,Becker,Robin,1997-01-18,GER, ,GER
 becks1,Beckert,Stefan,1982-05-03,GER,Jena,GER
+becksh,Becker,Sheraldo,1995-02-09,NED,Amsterdam,NED
 beckst,Beckenbauer,Stephan,1968-12-01,GER,München,GER
+beckti,Becker,Timo,1997-03-25,GER,Herten,GER
 beckvo,Becker,Volker,1946-12-12,GER, ,GER
 beckwo,Becker,Wolfgang,1966-04-01,GER, ,GER
 bedama,Béda,Mathieu,1981-07-28,FRA,Nice,FRA
@@ -431,6 +448,7 @@ behrva,Behrami,Valon,1985-04-19,SUI,Kosovska Mitrovica,KOS
 beicge,Beichle,Georg,1948-09-16,GER, ,GER
 beiebe,Beierlorzer,Bertram,1957-05-31,GER,Neunkirchen am Brand,GER
 beiedi,Beiersdorfer,Dietmar,1963-11-16,GER,Fürth,GER
+beiem1,Beier,Maximilian,2002-10-17,GER,Brandenburg an der Havel,GER
 beiema,Beierle,Markus,1972-06-02,GER,Brackenheim,GER
 beijfe,Beijmo,Felix,1998-01-31,SWE,Stockholm,SWE
 beinst,Beinlich,Stefan,1972-01-13,GER,Berlin,GER
@@ -477,6 +495,7 @@ benkle,Benko,Leon,1983-11-11,CRO,Varazdin,CRO
 benksv,Benken,Sven,1970-04-20,GER, ,GER
 bennke,Bennetts,Keanan,1999-03-09,ENG,Edgware,ENG
 bensch,Benschop,Charlison,1989-08-21,NED,Koralspecht, 
+bensra,Bensebaini,Ramy,1995-04-16,ALG,Constantine,ALG
 bensro,Benschneider,Roland,1980-08-22,GER,Neuruppin,GER
 benswa,Bensmann,Walter,1938-05-16,GER,Holzhausen,GER
 bentem,Bentil,Emanuel,1978-12-03,GHA, ,GHA
@@ -570,6 +589,7 @@ bileji,Bílek,Jiří,1983-11-04,CZE,Praha,CZE
 bilima,Biliskov,Marino,1976-03-17,CRO,Split,CRO
 bilisl,Bilić,Slaven,1968-09-11,CRO,Split,CRO
 billju,Billmann,Jürgen,1942-12-21,GER, ,GER
+bilodo,Bilogrevic,Dominik,1999-01-02,GER, ,GER
 binduw,Bindewald,Uwe,1968-08-13,GER,Dorheim,GER
 binkst,Binke,Steffen,1972-09-07,GER, ,GER
 binzma,Binz,Manfred,1965-09-22,GER,Frankfurt,GER
@@ -665,6 +685,7 @@ boesfr,Böse,Frank,1969-02-14,GER,Hamburg,GER
 boetjp,Boëtius,Jean-Paul,1994-03-22,NED,Rotterdam,NED
 boetti,Böttjer,Timo,1979-05-31,GER,Karlsruhe,GER
 bogadr,Bogavac,Dragan,1980-04-07,MNT,Bijelo Polje,MNT
+bogame,Bogarde,Melayro,2002-05-28,NED,Rotterdam,NED
 bogdra,Bogdanović,Rade,1970-05-21,YUG,Sarajevo,BOS
 bogdsr,Bogdan,Srećko,1957-01-05,CRO,Mursko Središće,CRO
 boguda,Bogusz,Daniel,1974-09-21,POL,Warszawa,POL
@@ -714,6 +735,7 @@ borkdi,Borkenhagen,Dirk,1965-01-16,GER, ,GER
 bormro,Bormuth,Robin,1995-09-19,GER,Groß-Rohrheim,GER
 bormuw,Bormann,Uwe,1970-03-11,GER, ,GER
 bornan,Bornemann,Andreas,1971-09-15,GER, ,GER
+bornse,Bornauw,Sebastiaan,1999-03-22,BEL,Wemmel,BEL
 bornst,Born,Stefan,1958-03-07,GER,Siegen,GER
 boroal,Borodyuk,Aleksandr,1962-11-30,RUS,Voronezh,RUS
 boroti,Borowski,Tim,1980-05-02,GER,Neubrandenburg,GER
@@ -735,6 +757,7 @@ bounmo,Bounoua,Mourad,1972-07-30,FRA,Mulhouse,FRA
 bouyou,Bouy,Ouasim,1993-06-11,MAR,Amsterdam,NED
 bouzmo,Bouziane,Mounir,1991-02-05,FRA,Saint Louis,FRA
 boxxjp,Box,Jens-Peter,1956-03-11,GER, ,GER
+boyade,Boyata,Dedryck,1990-11-28,BEL,Brussels,BEL
 boydte,Boyd,Terrence,1991-02-16,USA,Bremen,GER
 boyefr,Boyens,Fritz,1943-10-12,GER,Berlin,GER
 boyshj,Boysen,Hans-Jürgen,1957-05-30,GER,Mannheim,GER
@@ -830,6 +853,7 @@ brueh1,Brügmann,Holger,1960-07-06,GER, ,GER
 brueha,Brückner,Hauke,1980-02-29,GER,Eutin,GER
 brueho,Brück,Holger,1947-09-30,GER,Kassel,GER
 bruekh,Brücken,Karl-Heinz,1947-09-24,GER, ,GER
+bruele,Brüggemeier,Leon,1997-08-23,GER,Salzkotten,GER
 bruelu,Bründl,Ludwig,1946-11-23,GER,München,GER
 bruema,Brücken,Matthias,1953-07-23,GER, ,GER
 brugar,Bruggink,Arnold,1977-07-24,NED,Almelo,NED
@@ -873,6 +897,7 @@ buehjo,Bühler,Johannes,1997-07-26,GER,Alsfeld,GER
 buehkh,Bührer,Karl-Heinz,1959-10-20,GER, ,GER
 buehuw,Bühler,Uwe,1960-02-03,GER, ,GER
 buelka,Bülow,Kai,1986-05-31,GER,Rostock,GER
+buelma,Bülter,Marius,1993-03-29,GER,Ibbenbüren,GER
 buenho,Bünting,Horst,1949-10-03,GER, ,GER
 buenku,Büns,Kurt,1949-07-24,GER, ,GER
 buenlo,Buenaventura,Lorenzo,1963-01-01,SPA,Sevilla,SPA
@@ -921,6 +946,7 @@ buscma,Busch,Marnon,1994-12-08,GER,Stade,GER
 buscmi,Busch,Mike,1981-04-05,GER, ,GER
 buscno,Buschlinger,Norbert,1957-12-06,GER, ,GER
 buseax,Busenkell,Axel,1971-11-26,GER,Andernach,GER
+buskja,Busk,Jakob,1993-09-12,DEN,København,DEN
 buskjv,van Buskirk,John,1972-04-13,USA,Texas,USA
 bussga,Bussmann,Gaëtan,1991-02-02,FRA,Épinal,FRA
 bussgu,Busse,Günter,1941-04-24,GER, ,GER
@@ -956,6 +982,7 @@ camaid,de Camargo,Igor,1983-05-12,BEL,Porto Feliz,BRA
 camoma,Camoranesi,Mauro,1976-10-04,ITA,Tandil,ARG
 campca,Campaña, ,1993-05-31,SPA,Sevilla,SPA
 campno,Campbell,Noel,1949-12-11,IRL,Dublin,IRL
+candlu,Cândido,Luan,2001-02-02,BRA,Ubá,BRA
 canoru,Canouse,Russell,1995-06-11,USA,Lancaster,USA
 cantma,Cantaluppi,Mario,1974-04-11,SUI,Schlieren,SUI
 canxem,Can,Emre,1994-01-12,GER,Frankfurt am Main,GER
@@ -982,6 +1009,7 @@ castlu,Castaignos,Luc,1992-09-27,NED,Schiedam,NED
 castni,Castillo,Nicolás,1993-02-14,CHI,Renca,CHI
 castro,Castelen,Romeo,1983-05-03,NED,Paramaribo, 
 catigi,Catizone,Giuseppe,1977-07-20,ITA,Waiblingen,GER
+caulca,Cauly, ,1995-09-15,BRA,Porto Seguro,BRA
 cavama,Ćavar,Marijan,1998-02-02,BOS,Rama Prozor,BOS
 cayaju,Cayasso,Juan,1961-06-24,CRC,Limón,CRC
 cebisr,Čebinac,Srđan,1939-12-08,YUG,Beograd,YUG
@@ -1028,6 +1056,7 @@ chrim1,Christiansen,Max,1996-09-25,GER,Flensburg,GER
 chrima,Chrisantus,Macauley,1990-08-20,NGR,Abuja,NGR
 chrisv,Christians,Sven,1967-01-28,GER, ,GER
 chrith,Christiansen,Thomas,1973-03-11,SPA,Hadsund,DEN
+churda,Churlinov,Darko,2000-07-11,MAC,Skopje,MAC
 ciceci,Cícero, ,1984-08-26,BRA,Castelo,BRA
 cichjo,Cichy,Johann,1932-06-02,GER, ,GER
 cichth,Cichon,Thomas,1976-07-09,GER,Ruda Slaska,POL
@@ -1055,6 +1084,7 @@ cokeco,Coke, ,1987-04-26,SPA,Madrid,SPA
 colaan,Čolak,Antonio,1993-09-17,CRO,Ludwigsburg,GER
 colaro,Colautti,Roberto,1982-05-24,ISR,Lozada,ARG
 coldso,Colding,Søren,1972-09-02,DEN,Fredriksberg,DEN
+collja,Collins,Jamilu,1994-08-05,NGR,Kaduna,NGR
 collru,Collet,Rudolf,1958-08-20,GER, ,GER
 coltfa,Coltorti,Fabio,1980-12-03,SUI,Kriens,SUI
 comaki,Coman,Kingsley,1996-06-13,FRA,Paris,FRA
@@ -1080,6 +1110,7 @@ costdo,Costa,Douglas,1990-09-14,BRA,Sapucaia do Sul,BRA
 costri,Costa,Ricardo,1981-05-16,POR,Vila Nova de Gaia,POR
 costro,Costa,Rodrigo,1975-07-30,BRA,Laranjal Paulista,BRA
 coulso,Coulibaly,Soumaila,1978-04-15,MLI,Bamako,MLI
+coutph,Coutinho, ,1992-06-12,BRA,Rio de Janeiro,BRA
 covian,Čović,Ante,1975-08-31,CRO,Berlin,GER
 covima,Čović,Maurice,1998-04-17,GER,Berlin,GER
 cozzdo,Cozza,Domenico,1983-01-18,GER, ,GER
@@ -1107,6 +1138,7 @@ cvitma,Cvitanović,Mario,1975-05-06,CRO,Zagreb,CRO
 cylige,Cyliax,Gerd,1934-08-23,GER,Dortmund,GER
 cyrory,Cyroń,Ryszard,1965-02-11,POL, ,POL
 czerpe,Czernotzky,Peter,1947-02-18,GER, ,GER
+czicra,Czichos,Rafael,1990-05-14,GER,Djidda,KSA
 cziosi,Cziommer,Simon,1980-11-06,GER,Nordhorn,GER
 czysda,Czyszczon,David,1981-09-04,GER, ,POL
 dababe,Dabanlı,Berkay,1990-06-27,GER,Frankfurt am Main,GER
@@ -1179,6 +1211,7 @@ degeda,Degen,David,1983-02-15,SUI,Liestal,SUI
 degehf,Degen,Horst-Franz,1954-11-07,GER, ,GER
 degeju,Degen,Jürgen,1967-11-07,GER,Hamburg,GER
 degeph,Degen,Philipp,1983-02-15,SUI,Liestal,SUI
+dehlla,Dehl,Laurenz,2001-12-12,GER,Berlin,GER
 dehmti,Dehmelt,Tino,1992-01-29,GER, ,GER
 dehnho,Dehn,Horst,1937-08-20,GER,Hamburg,GER
 deispe,Deißenberger,Peter,1976-12-01,GER,Würzburg,GER
@@ -1221,6 +1254,7 @@ dewikd,Dewinski,Klaus-Dieter,1950-08-31,GER, ,GER
 deyvde,Deyverson, ,1991-05-08,BRA,Santa Margarida,BRA
 dezede,Dezelak,Detlef,1964-08-01,GER, ,GER
 dheedi,Dheedene,Didier,1972-01-22,BEL,Antwerpen,BEL
+diabm1,Diaby,Moussa,1999-07-07,FRA,Paris,FRA
 diabmo,Diabang,Momo,1979-01-21,SEN,Dakar,SEN
 diagfa,Diagné,Fallou,1989-08-14,SEN,Pikine,SEN
 diakba,Diakité,Bakary,1980-11-09,GER,Frankfurt/Main,GER
@@ -1295,6 +1329,7 @@ doerbe,Dörfel,Bernd,1944-12-18,GER, ,GER
 doerch,Dörfel,Charly,1939-09-18,GER,Hamburg,GER
 doerfa,Dörr,Falk,1941-06-24,GER, ,GER
 doerha,Dörre,Hans,1946-11-14,GER, ,GER
+doerjo,Dörfler,Johannes,1996-08-23,GER,Düsseldorf,GER
 doerma,Dörper,Manfred,1949-12-11,GER, ,GER
 doerno,Dörmann,Norbert,1958-08-31,GER, ,GER
 doerpa,Dörflinger,Paul,1955-01-23,GER, ,GER
@@ -1346,6 +1381,7 @@ dreswe,Dreßel,Werner,1958-08-30,GER,Hambach,GER
 drewda,Drewes,Dagmar,1937-12-09,GER, ,GER
 drewgu,Drews,Günter,1967-07-09,GER, ,GER
 drewpa,Drewes,Patrick,1993-02-04,GER,Delmenhorst,GER
+drexdo,Drexler,Dominick,1990-05-26,GER,Bonn,GER
 drexma,Drexler,Manfred,1951-06-26,GER,Fürth,GER
 dreybj,Dreyer,Björn,1977-07-27,GER, ,GER
 dreyuw,Dreyer,Uwe,1952-08-14,GER, ,GER
@@ -1430,6 +1466,7 @@ eggepe,Eggert,Peter,1943-06-08,GER, ,GER
 eggest,Egger,Stefan,1979-12-08,AUT, ,AUT
 eggima,Eggimann,Mario,1981-01-24,SUI,Brugg,SUI
 eglian,Egli,Andy,1958-05-08,SUI,Bäretswil,SUI
+ehizki,Ehizibue,Kingsley,1995-05-25,NED,München,GER
 ehleuw,Ehlers,Uwe,1975-03-08,GER,Rostock,GER
 ehmaeu,Ehmann,Eugen,1945-02-14,GER, ,GER
 ehmath,Ehmann,Thorsten,1967-07-15,GER, ,GER
@@ -1481,6 +1518,7 @@ ellesv,Eller,Sven,1979-09-24,GER, ,GER
 ellgan,Ellguth,Andreas,1964-08-28,GER, ,GER
 ellmla,Ellmerich,Lars,1961-01-02,GER, ,GER
 elmema,Elmer,Markus,1952-12-21,GER,Oberkochen,GER
+elmkil,Elmkies,Ilay,2000-03-10,ISR,Nahariya,ISR
 elsefr,Elser,Frank,1958-10-05,GER, ,GER
 elseru,Elsener,Rudolf,1953-02-18,SUI,Zürich,SUI
 elsoel,Élson, ,1981-11-16,BRA,Conceição do Araguaia,BRA
@@ -1560,6 +1598,7 @@ ewenra,Ewen,Ralf,1972-02-11,GER, ,GER
 ewere1,Ewerton, ,1989-03-23,BRA,Penedo,BRA
 ewerew,Ewerthon, ,1981-06-10,BRA,São Paulo,BRA
 ewerfr,Ewert,Fritz,1937-02-09,GER, ,GER
+eyiber,Eyibil,Erkan,2001-06-15,GER, ,GER
 eymogu,Eymold,Günter,1959-04-17,GER,Schnaittach,GER
 eyxxju,Ey,Jürgen,1946-09-04,GER,Bremen,GER
 ezeqez,Ezequiel, ,1991-01-12,SPA,Melilla,SPA
@@ -1639,6 +1678,7 @@ fernd2,Ferner,Dieter,1949-01-16,GER,Wuppertal,GER
 fernda,Fernandes,Daniel,1983-09-25,POR,Edmonton,CAN
 ferndh,Fernandes,Daniel Heuer,1992-11-13,POR,Bochum,GER
 ferndi,Ferner,Diethelm,1941-07-13,GER,Prochladnoe (Kragau),RUS
+ferned,Fernandes,Edimilson,1996-04-15,SUI,Sion,SUI
 fernf1,Fernando, ,1980-02-25,BRA,Rio de Janeiro,BRA
 fernfe,Fernando, ,1971-09-12,SPA,Madrid,SPA
 fernge,Fernandes,Gelson,1986-09-02,SUI,Praia,CVE
@@ -1664,6 +1704,7 @@ filipe,Filipović,Petar,1990-09-14,GER,Hamburg,GER
 fillma,Fillinger,Mario,1984-10-10,GER,Pirna,GER
 fincan,Fincke,Andree,1968-09-17,GER, ,GER
 fingja,Finger,Jan,1997-01-02,GER,Groß-Gerau,GER
+fingpa,Finger,Patrick,2001-01-01,GER, ,GER
 finkd1,Finke,Dieter,1960-03-11,GER, ,GER
 finkdi,Finkler,Dieter,1952-11-10,GER, ,GER
 finkhe,Finken,Heribert,1939-12-31,GER, ,GER
@@ -1694,6 +1735,7 @@ fjoeja,Fjørtoft,Jan Åge,1967-01-10,NOR,Ålesund,NOR
 flacgu,Flachenecker,Gustav,1940-10-28,GER,Nürnberg,GER
 fladeg,Flad,Egon,1964-03-05,GER, ,GER
 fladwa,Fladerer,Walter,1940-02-21,GER, ,GER
+flecfl,Flecker,Florian,1995-10-29,AUT,Voitsberg,AUT
 fleeju,Fleer,Jürgen,1957-02-26,GER, ,GER
 flegpe,Flegel,Peter,1940-01-05,GER, ,GER
 flekma,Flekken,Mark,1993-06-13,NED,Kerkrade,NED
@@ -1831,6 +1873,7 @@ futama,Futács,Márkó,1990-02-22,HUN,Budapest,HUN
 gabean,Gaber,Andreas,1973-01-15,GER, ,GER
 gabrhe,Gabriel,Helmut,1968-10-03,GER, ,GER
 gabrpe,Gabriel,Petr,1973-05-17,CZE,Praha,CZE
+gabrrp,Pierre-Gabriel,Ronaël,1998-06-13,FRA,Paris,FRA
 gacimi,Gaćinović,Mijat,1995-02-08,YUG,Novi Sad,YUG
 gadipe,Gadinger,Peter,1956-07-06,GER,Bellheim,GER
 gaeden,Gaede,Enrico,1982-01-31,GER,Stralsund,GER
@@ -1947,6 +1990,7 @@ gipske,Gipson,Ken,1996-02-24,GER,Ludwigsburg,GER
 girsge,Girschkowski,Gert,1944-11-23,GER, ,GER
 giskan,Giske,Anders,1959-11-22,NOR,Kristiansund,NOR
 gjasju,Gjasula,Jurgen,1985-12-05,ALB,Tirana,ALB
+gjaskl,Gjasula,Klaus,1989-12-14,GER,Tiranë,ALB
 gjurbo,Gjurev,Borje,1969-08-02,CYP, ,MAC
 glasfe,Glaser,Ferdinand,1954-07-25,GER,Schwandorf,GER
 glasfr,Glaß,Frank,1965-05-29,GER, ,GER
@@ -2109,6 +2153,7 @@ grubva,Grubač,Vanja,1971-01-11,YUG,Nikšić,
 grueca,Gruezo,Carlos,1995-04-19,ECU,Santo Domingo,ECU
 gruehe,Gründel,Heinz,1957-02-13,GER,Berlin,GER
 gruehw,Grünwald,Hans-Werner,1963-12-02,GER, ,GER
+grueil,Gruev,Ilia,2000-05-06,BUL, ,BUL
 gruejo,Grünewald,Jonas,1984-05-08,GER, ,GER
 gruema,Grün,Max,1987-04-05,GER,Karlstadt,GER
 gruemi,Grünewald,Michael,1958-08-29,GER, ,GER
@@ -2147,6 +2192,7 @@ guetgu,Güttler,Günter,1961-05-31,GER,Herzogenaurach,GER
 guetto,Gütschow,Torsten,1962-07-28,GER,Görlitz,GER
 guevse,Güvenışık,Sercan,1980-03-01,TUR,Donauwörth,GER
 guexmi,Gue,Michael,1962-09-21,GER,Hannover,GER
+gueyba,Gueye,Babacar,1994-12-31,SEN,Dakar,SEN
 guezma,Guezmir,Marouene,1974-03-06,TUN, ,TUN
 guiljo,Guilavogui,Josuha,1990-09-19,FRA,Toulon,FRA
 guilpa,Guillou,Patrick,1970-04-16,FRA,Villingen,GER
@@ -2245,6 +2291,7 @@ handst,Handschuh,Steffen,1980-04-26,GER, ,GER
 handti,Handwerker,Tim,1998-05-19,GER, ,GER
 hanifr,Hanisch,Frank,1953-11-06,GER,Berlin,GER
 hanikp,Hanisch,Klaus-Peter,1952-01-29,GER, ,GER
+haniom,Hanin,Omer,1998-05-14,ISR,Rishon leZion,ISR
 hankmi,Hanke,Mike,1983-11-05,GER,Hamm,GER
 hankst,Hanke,Stephan,1972-10-19,GER,Mannheim,GER
 hanndi,Hannemann,Dirk,1970-08-11,GER,Dessau,GER
@@ -2312,6 +2359,7 @@ haugho,Haug,Horst,1946-05-12,GER,Stuttgart,GER
 hauneb,Haun,Eberhard,1949-10-01,GER, ,GER
 haunfr,Haun,Frank,1967-08-31,GER, ,GER
 haunha,Haunstein,Hans,1950-08-07,GER,Wien,AUT
+haupni,Hauptmann,Niklas,1996-06-27,GER,Köln,GER
 haupra,Hauptmann,Ralf,1968-09-20,GER,Eberswalde,GER
 hausch,Hausmann,Christian,1963-11-21,GER, ,GER
 hausge,Hausser,Gerard,1941-10-28,FRA, ,FRA
@@ -2430,6 +2478,7 @@ hermhe,Hermann,Helmut,1966-12-16,GER, ,GER
 hermla,Hermel,Lars,1970-09-28,GER,Chemnitz,GER
 hermpe,Hermann,Peter,1952-03-22,GER,Kleinmaischeid,GER
 hernja,Hernández,Javier,1988-06-01,MEX,Guadalajara,MEX
+hernlu,Hernández,Lucas,1996-02-14,FRA,Marseille,FRA
 herrch,Herrmann,Christian,1966-01-16,GER, ,GER
 herrfr,Herrnleben,Fritz,1941-04-02,GER, ,GER
 herrgu,Herrmann,Günther,1939-09-11,GER,Trier,GER
@@ -2681,6 +2730,7 @@ humpha,Humpa,Hans,1939-04-17,GER, ,GER
 huntaa,Hunt,Aaron,1986-09-04,GER,Goslar,GER
 huntkj,Huntelaar,Klaas Jan,1983-08-12,NED,Voor-Drempt,NED
 hupedi,Hupe,Dirk,1957-05-29,GER, ,GER
+hupejo,Hupe,Jonas,1999-12-01,GER, ,GER
 huscth,Huschbeck,Thomas,1967-12-17,GER,Köln,GER
 husesa,Husejinović,Said,1988-05-13,BOS,Zvornik,BOS
 husira,Husic,Raif,1996-02-05,GER,Zusmarshausen,GER
@@ -2692,6 +2742,7 @@ hutthe,Huttary,Helmut,1944-02-28,GER,Wrocław,POL
 hutwka,Hutwelker,Karsten,1971-08-27,GER,Wuppertal,GER
 hykaja,Hyka,Jahmir,1988-03-08,ALB,Tiranë,ALB
 hyypsa,Hyypiä,Sami,1973-10-07,FIN,Porvoo,FIN
+iagoia,Iago, ,1997-03-23,BRA,Monte Azul Paulista,BRA
 iashal,Iashvili,Aleksandr,1977-10-23,GEO,Tbilisi,GEO
 iberan,Ibertsberger,Andreas,1982-07-27,AUT,Seekirchen,AUT
 ibisve,Ibišević,Vedad,1984-08-06,BOS,Vlasenica,BOS
@@ -2705,6 +2756,7 @@ ifejem,Ifejiagwa,Emeka,1977-10-30,NGR,Aba,NGR
 igleuw,Igler,Uwe,1964-11-14,GER,Schwäbisch Hall,GER
 ignjal,Ignjovski,Aleksandar,1991-01-27,YUG,Pancevo,YUG
 ihenal,Ihenacho,Aloy,1995-07-21,GER,Ibadan,NGR
+ihorlu,Ihorst,Luc,2000-03-07,GER,Damme,GER
 ikenjo,Ikeng,José,1988-01-30,GER,Bafia,CMR
 ikpevi,Ikpeba,Victor,1973-06-12,NGR,Benin City,NGR
 ildimu,Ildiz,Muhammed,1991-05-14,AUT,Wien,AUT
@@ -2723,6 +2775,7 @@ immoci,Immobile,Ciro,1990-02-20,ITA,Torre Annunziata,ITA
 inamju,Inamoto,Junichi,1979-09-18,JAP,Yūsui,JAP
 ingedi,Ingendae,Dieter,1959-05-18,GER, ,GER
 ingrke,Ingreso,Kevin,1993-02-10,PHI,Hamburg,GER
+ingvma,Ingvartsen,Marcus,1996-01-04,DEN,Farum,DEN
 insuem,Insúa,Emiliano,1989-01-07,ARG,Buenos Aires,ARG
 insufe,Insúa,Federico,1980-01-03,ARG,Buenos Aires,ARG
 insupa,Insua,Pablo,1993-09-09,SPA,Arzúa,SPA
@@ -2799,6 +2852,7 @@ jankkd,Jank,Klaus-Dieter,1952-11-23,GER,Waiblingen,GER
 janksr,Jankovic,Srdjan,1960-02-03,YUG, ,YUG
 jansal,Jansen,Albert,1936-11-03,GER, ,GER
 jansdi,Janssen,Dietmar,1966-01-03,GER, ,GER
+jansla,Jans,Laurent,1992-08-05,LUX,Luxemburg,LUX
 jansma,Jansen,Marcell,1985-11-04,GER,Mönchengladbach,GER
 jansol,Janßen,Olaf,1966-10-08,GER,Krefeld,GER
 janswi,Jansen,Willi,1947-09-01,GER, ,GER
@@ -2861,6 +2915,7 @@ joerst,Jörissen,Stefan,1969-10-16,GER, ,GER
 johaan,Johansson,Andreas,1982-03-10,SWE,Halmstad,SWE
 johaar,Jóhannsson,Aron,1990-11-10,USA,Mobile,USA
 johane,Johansson,Nils-Eric,1980-01-13,SWE,Stockholm,SWE
+johary,Johansson,Ryan,2001-02-15,LUX, ,LUX
 johner,Johnsen,Erland,1967-04-05,NOR,Moss,NOR
 johnfa,Johnson,Fabian,1987-12-11,USA,München,GER
 johnol,John,Ola,1992-05-19,NED,Zwedru,LBR
@@ -2884,6 +2939,7 @@ josewa,Josef,Waldemar,1960-10-25,GER,Wolfsburg,GER
 josujo,Josué, ,1979-07-19,BRA,Vitória de São Antão,BRA
 jovadu,Jovanović,Dušan,1946-11-04,YUG, ,YUG
 jovara,Jovanović,Ranisav,1980-11-05,YUG,Berlin,GER
+jovede,Joveljić,Dejan,1999-08-07,SRB,Bijeljina,BOS
 jovilu,Jović,Luka,1997-12-23,YUG,Loznica,YUG
 joziiv,Jozić,Ivica,1969-07-22,BOS,Mostar,BOS
 juanj1,Juanan, ,1987-04-27,SPA,Palma de Mallorca,SPA
@@ -2922,6 +2978,7 @@ jurgda,Jurgeleit,Daniel,1963-12-15,GER, ,GER
 jurifr,Juric,Frank,1973-10-28,AUS,Melbourne,AUS
 juskan,Juskowiak,Andrzej,1970-11-03,POL, ,POL
 juskzi,Juškić,Živojin,1969-12-16,YUG,Zaječar,YUG
+justjs,Juste,Jerry St.,1996-10-19,NED,Groningen,NED
 jusufa,Jusufi,Fahrudin,1939-12-08,YUG,Dragash,YUG
 jususa,Jusufi,Sascha,1963-01-20,GER,Beograd,YUG
 kaacpe,Kaack,Peter,1943-12-09,GER, ,GER
@@ -2995,6 +3052,7 @@ kapeju,Kapellmann,Jupp,1949-12-19,GER,Bardenberg,GER
 kapese,Kapetanović,Sead,1972-01-21,BOS,Sarajevo,BOS
 kapiad,Kapič,Adem,1975-04-16,SLO,Ljubljana,SLO
 kapihe,Kapitulski,Helmut,1934-09-29,GER,Dortmund,GER
+kapiri,Kapič,Rifet,1995-07-03,BOS,Cazin,BOS
 kapist,Kapino,Stefanos,1994-03-18,GRE,Athina,GRE
 kaplbu,Kaplan,Burak,1990-02-01,TUR,Köln,GER
 kapled,Kapllani,Edmond,1982-07-31,ALB,Durrës,ALB
@@ -3019,7 +3077,9 @@ kasavl,Kasalo,Vlado,1962-11-11,CRO, ,CRO
 kasmne,El Kasmi,Nasir,1982-10-02,MAR,Wuppertal,GER
 kaspge,Kasperski,Gerd,1949-12-25,GER, ,GER
 kastbe,Kastrati,Bekim,1979-09-25,ALB,Peje,KOS
+kastfl,Kastenmeier,Florian,1997-06-28,GER, ,GER
 kastfr,Kastner,Frank,1969-11-29,GER, ,GER
+kastli,Kasten,Lino,2001-01-17,GER, ,GER
 kastma,Kastl,Manfred,1965-09-23,GER, ,GER
 kastth,Kastenmaier,Thomas,1966-05-31,GER,München,GER
 kasual,Kasumovic,Almir,1994-06-03,BOS, ,GER
@@ -3027,6 +3087,7 @@ katasr,Katanec,Srečko,1963-07-17,SLO,Ljubljana,SLO
 kateha,Katemann,Harald,1972-07-07,GER, ,GER
 kathfl,Kath,Florian,1994-10-21,GER,Balingen,GER
 katoch,Katongo,Chris,1982-08-31,ZAM,Mufulira,ZAM
+kattno,Katterbach,Noah,2001-04-13,GER,Simmerath,GER
 kaueri,Kauerhof,Rico,1972-12-09,GER, ,GER
 kaufan,Kaufmann,Andreas,1973-10-06,GER, ,GER
 kaufji,Kaufman,Jiří,1979-11-28,CZE,Pardubice,CZE
@@ -3045,6 +3106,7 @@ keidra,Keidel,Ralf,1977-03-06,GER,Würzburg,GER
 keifgu,Keifler,Günter,1948-09-30,GER, ,GER
 keiman,Keim,Andreas,1962-06-08,GER, ,GER
 keitna,Keïta,Naby,1995-02-10,GUI,Conakry,GUI
+keitya,Keitel,Yannik,2000-02-15,GER, ,GER
 kellax,Keller,Axel,1977-03-25,GER, ,GER
 kellfe,Keller,Ferdinand,1946-07-30,GER,München-Pasing,GER
 kellge,Kellermann,Georg,1934-09-21,GER,Hannover,GER
@@ -3066,6 +3128,7 @@ kempwe,Kempkens,Werner,1969-11-03,GER, ,GER
 kendis,Kenderesi,Istvan,1944-11-09,HUN, ,HUN
 kendjo,Kendrick,Joe,1983-06-26,IRL,Dublin,IRL
 kenile,Kenia,Levan,1990-10-18,GEO,Tbilisi,GEO
+kennj1,Kenny,Jonjoe,1997-03-15,ENG,Kirkdale,ENG
 kennjo,Kennedy,Joshua,1982-08-20,AUS,Wodonga,AUS
 kentge,Kentschke,Gerhard,1942-09-18,GER, ,GER
 kentry,Kent,Ryan,1996-11-11,ENG,Oldham,ENG
@@ -3104,6 +3167,7 @@ kiesst,Kießling,Stefan,1984-01-25,GER,Lichtenfels,GER
 kiesth,Kies,Thomas,1975-10-16,GER,Karlsruhe,GER
 kikngi,Kiknadze,Giorgi,1976-04-26,GEO,Tbilisi,GEO
 kikxwe,Kik,Werner,1939-01-30,GER, ,GER
+kililu,Kilian,Luca,1999-09-01,GER, ,GER
 killkl,Killich,Klaus,1955-02-06,GER, ,GER
 killwe,Killmaier,Werner,1955-04-21,GER,Ebingen,GER
 kimmjo,Kimmich,Joshua,1995-02-08,GER,Rottweil,GER
@@ -3119,6 +3183,7 @@ kinsda,Kinsombi,David,1995-12-12,GER,Rüdesheim am Rhein,GER
 kioyfr,Kioyo,Francis,1979-09-18,GER,Yaoundé,CMR
 kippbe,Kipp,Bernd,1948-08-12,GER, ,GER
 kippma,Kipp,Manfred,1947-05-05,GER, ,GER
+kiprm1,Kiprit,Muhammed,1999-07-09,GER,Berlin,GER
 kiprmu,Kiprit,Muhamed,1999-07-09,GER,Berlin,GER
 kiraga,Király,Gábor Ferenc,1976-04-01,HUN,Szombathelyi,HUN
 kircbe,Kirchstetter,Bernd,1967-11-29,GER, ,GER
@@ -3287,6 +3352,7 @@ koehph,Köhn,Philipp,1998-04-02,SUI,Dinslaken,GER
 koehth,Köhler,Thomas,1967-06-17,GER,Sömmerda,GER
 koejsa,Koejoe,Samuel,1974-08-17,NED,Paramaribo, 
 koelkl,Köller,Klaus,1943-08-06,GER, ,GER
+koelni,Kölle,Niklas,1999-11-17,GER,Wolfsburg,GER
 koelru,Kölbl,Rudolf,1937-06-11,GER,Unterschleißheim,GER
 koener,Koen,Erwin,1978-09-07,NED,Den Helder,NED
 koenti,Königsmann,Timo,1997-04-05,GER,Hannover,GER
@@ -3386,6 +3452,7 @@ kottge,Kottán,Georg,1946-10-06,HUN,Budapest,HUN
 kotual,Kotuljac,Aleksandar,1981-11-02,GER,Hannover,GER
 kotzjo,Kotzke,Jonatan,1990-03-18,GER,Pinneberg,GER
 koubpe,Kouba,Petr,1969-01-28,CZE,Praha,CZE
+koubto,Koubek,Tomáš,1992-08-26,CZE,Hradec Kralove,CZE
 kouedo,Kouemaha,Dorge,1983-06-28,CMR,Yaoundé,CMR
 kouldi,Koulmann,Dieter,1939-12-04,GER, ,GER
 kovade,Kovalenko,Dema,1977-08-28,USA,Kiev,UKR
@@ -3612,6 +3679,7 @@ kwaslu,Kwasniok,Łukasz,1981-06-12,GER,Gliwice,POL
 kweule,Kweuke,Léonard,1987-07-12,CMR,Yaoundé,CMR
 kwiahe,Kwiatkowski,Heinz,1926-07-16,GER,Gelsenkirchen,GER
 kwiebo,Kwiecien,Bogusław,1959-09-03,POL,Kluczbork,POL
+kwonch,Kwon,Chang-hoon,1994-06-30,KOR,Seoul,KOR
 kyrgso,Kyrgiakos,Sotirios,1979-07-23,GRE,Trikala,GRE
 laarbj,Laars,Björn,1974-12-05,GER,Bergen auf Rügen,GER
 laasal,Laas,Alexander,1984-05-05,GER,Hamburg,GER
@@ -3629,6 +3697,7 @@ lahmph,Lahm,Philipp,1983-11-11,GER,München,GER
 lahmth,Lahm,Thorsten,1969-11-11,GER, ,GER
 lahnju,Lahn,Jürgen,1953-10-26,GER, ,GER
 laimko,Laimer,Konrad,1997-05-27,AUT,Salzburg,AUT
+lainst,Lainer,Stefan,1992-08-27,AUT,Seekirchen,AUT
 laisma,Lais,Marc,1991-02-04,GER,Freiburg i. Breisgau,GER
 lakhmo,Lakhouil,Mohamed,1975-05-06,MAR, ,MAR
 lakica,Lakies,Carsten,1971-01-08,GER,Kassel,GER
@@ -3666,6 +3735,7 @@ langlu,Lang,Ludwig,1946-02-09,GER, ,GER
 langm1,Langner,Marco,1969-05-08,GER,Würzburg,GER
 langm2,Langerak,Mitchell,1988-08-22,AUS,Emerald,AUS
 langm3,Lang,Michael,1991-02-08,SUI,St. Gallen,SUI
+langm4,Langer,Marcel,1997-02-16,GER,Stadthagen,GER
 langma,Langkamp,Matthias,1984-02-24,GER,Speyer,GER
 langmi,Langer,Michael,1985-01-06,AUT,Bregenz,AUT
 langro,Langers,Robby,1960-08-01,LUX,Luxemburg,LUX
@@ -3761,6 +3831,7 @@ lensbe,Lense,Benjamin,1978-11-30,GER,Lich,GER
 lenshe,Lenssen,Heinz,1944-11-15,GER, ,GER
 lentav,van Lent,Arie,1970-08-31,NED,Opheusden,NED
 lenzan,Lenz,André,1973-11-19,GER,Mülheim/Ruhr,GER
+lenzch,Lenz,Christopher,1994-09-22,GER,Berlin,GER
 lenzkl,Lenzke,Klaus,1949-08-12,GER, ,GER
 lenzma,Lenz,Manfred,1947-11-21,GER, ,GER
 lenzno,Lenzen,Norbert,1952-11-23,GER,Aachen,GER
@@ -3791,6 +3862,7 @@ libust,Libuda,Stan,1943-10-10,GER,Wendlinghausen,GER
 lichhe,Lichte,Henning,1984-10-13,GER,Kassel,GER
 lichhu,Licht,Hubertus,1955-05-28,GER, ,GER
 lichsa,Licht,Sascha,1974-09-27,GER,Neustadt/Coburg,GER
+lichst,Lichtsteiner,Stephan,1984-01-16,SUI,Adligenswil,SUI
 liebba,Liebhaber,Barnabas,1946-04-19,HUN,Budapest,HUN
 liebdi,Lieberwirth,Dieter,1954-01-13,GER,Fürth,GER
 liebfr,Lieberam,Frank,1962-12-17,GER,Halberstadt,GER
@@ -3838,6 +3910,7 @@ lizabi,Lizarazu,Bixente,1969-12-09,FRA,Saint-Jean-de-Luz,FRA
 ljubda,Ljuboja,Danijel,1978-09-04,YUG,Vinkovci,CRO
 ljubkr,Ljubičić,Krešo,1988-09-26,CRO,Hanau,GER
 ljunro,Ljung,Roger,1966-01-08,SWE,Lomma,SWE
+locaju,Locadia,Jürgen,1993-11-07,NED,Emmen,NED
 loebal,Löbe,Alexander,1972-11-13,GER,Jena,GER
 loecti,Löchelt,Tino,1965-08-13,GER, ,GER
 loefre,Löffler,Reinhard,1942-02-22,GER, ,GER
@@ -3973,6 +4046,7 @@ maiest,Maierhofer,Stefan,1982-08-16,AUT,Gablitz,AUT
 mai_lu,Mai,Lukas,2000-03-31,GER,Dresden,GER
 mainli,Maina,Linton,1999-06-23,GER,Berlin,GER
 maiwan,Maiwald,Andreas,1965-04-14,GER, ,GER
+maixll,Mai,Lars Lukas,2000-03-31,GER,Dresden,GER
 maixud,Mai,Udo,1967-07-29,GER,Üchtelhausen,GER
 majasl,Majak,Sławomir,1969-01-12,POL,Radomsko,POL
 majeer,Majetschak,Erik,2000-03-01,GER, ,GER
@@ -3986,6 +4060,7 @@ makaro,Makaay,Roy,1975-03-09,NED,Wijchen,NED
 makehu,Makel,Hubert,1945-09-12,GER, ,GER
 makice,Makiadi,Cédric,1984-02-23,DRC,Kinshasa,DRC
 makito,Makino,Tomoaki,1987-05-11,JAP,Hiroshima,JAP
+makrch,Makridis,Charalambos,1996-07-05,GRE, ,GER
 maksyu,Maksimov,Yuriy,1968-12-08,UKR,Kherson,UKR
 makxro,Mak,Róbert,1991-03-08,SVK,Bratislava,SVK
 malaju,Malanda,Junior,1994-08-28,BEL,Bruxelles,BEL
@@ -3998,12 +4073,14 @@ maliwe,Malischke,Werner,1961-12-07,GER, ,GER
 maljvl,Maljkovic,Vladimir,1982-04-18,CRO, ,CRO
 mallro,Mall,Roland,1951-04-17,GER, ,GER
 mallyu,Mallı,Yunus,1992-02-24,TUR,Kassel,GER
+malole,Maloney,Lennard,1999-10-08,GER,Berlin,GER
 maloma,Malone,Maurice,2000-08-17,GER, ,GER
 malopi,Malong,Pierre,1995-07-26,CMR,Limbé,CMR
 maltma,Maltritz,Marcel,1978-10-02,GER,Magdeburg,GER
 malzra,Malzkorn,Rainer,1953-05-10,GER, ,GER
 malzst,Malz,Stefan,1972-06-15,GER,Ludwigshafen,GER
 mamari,Mamajewski,Richard,1956-02-24,GER,München,GER
+mambst,Mamba,Streli,1994-06-17,GER,Göppingen,GER
 mamizo,Mamić,Zoran,1971-09-30,CRO,Bjelovar,CRO
 mancmi,Mancienne,Michael,1988-01-08,ENG,Isleworth,ENG
 mandge,Mandjeck,Georges,1988-12-09,CMR,Douala,CMR
@@ -4125,6 +4202,7 @@ mazabb,Basala-Mazana,Bienvenue,1992-01-02,GER,Bonn,GER
 mazagu,Mazany,Guido,1959-11-22,GER, ,GER
 mazama,Maza, ,1981-10-20,MEX,Mazatlán,MEX
 mazima,Mazinho, ,1965-12-26,BRA,Rio de Janeiro,BRA
+mbabke,Mbabu,Kevin,1995-04-19,SUI,Chêne-Bougeries,SUI
 mbokdi,Mbokani,Dieumerci,1985-11-22,DRC,Kinshasa,DRC
 mbomjm,Mbom,Jean-Manuel,2000-02-24,GER,Bovenden,GER
 mboune,Mbouhom,Nelson,1999-05-04,CMR,Douala,CMR
@@ -4133,6 +4211,7 @@ mcinal,McInally,Alan,1963-02-10,SCO,Ayr,SCO
 mckeke,McKenna,Kevin,1980-01-21,CAN,Calgary,CAN
 mckewe,McKennie,Weston,1998-08-28,USA,Little Elm,USA
 medosl,Medojević,Slobodan,1990-11-20,YUG,Novi Sad,YUG
+meesjo,Mees,Joshua,1996-04-15,GER,Lebach,GER
 meesst,Mees,Stefan,1969-07-10,GER, ,GER
 meeuma,Meeuwis,Marcel,1980-10-31,NED,Goirle,NED
 meffjo,Meffert,Jonas,1994-09-04,GER,Köln,GER
@@ -4150,6 +4229,7 @@ meiege,Meier,German,1955-12-19,GER, ,GER
 meiehe,Meier,Heiko,1961-01-06,GER, ,GER
 meiejo,Meier,Jonathan,1999-11-11,GER, ,GER
 meieno,Meier,Norbert,1958-09-20,GER,Reinbek,GER
+meieob,Batista-Meier,Oliver,2001-02-16,GER,Kaiserslautern,GER
 meiere,Meier,Reinhard,1946-03-11,GER, ,GER
 meijer,Meijer,Erik,1969-08-02,NED,Meerssen,NED
 meindi,Meinzer,Dieter,1942-10-07,GER, ,GER
@@ -4184,7 +4264,9 @@ mensju,Menseguez,Juan,1984-02-18,ARG,Córdoba,ARG
 menswi,Mense,Wilhelm,1957-09-08,GER, ,GER
 menthp,Mentzel,Hans-Peter,1957-09-07,GER, ,GER
 menzhe,Menzel,Helmut,1935-06-26,GER, ,GER
+menzp1,Menzel,Phillip,1998-08-18,GER,Kiel,GER
 menzph,Menzel,Philip,1998-08-18,GER,Kiel,GER
+mercle,Mercan,Levent,2000-12-10,GER,Recklinghausen,GER
 merejo,Meré,Jorge,1997-04-17,SPA,Oviedo,SPA
 merhge,Merheim,Gerd,1960-01-02,GER, ,GER
 merimi,Merino,Mikel,1996-06-22,SPA,Pamplona,SPA
@@ -4227,6 +4309,7 @@ michfr,Michelberger,Franz,1955-08-28,GER, ,GER
 michgu,Michl,Günther,1950-05-30,GER, ,GER
 michhe,Michallik,Heinz,1947-07-21,GER,Hamm,GER
 michka,Michalke,Kai,1976-04-05,GER,Bochum,GER
+michsv,Michel,Sven,1990-07-15,GER,Freudenberg,GER
 michuw,Michel,Uwe,1962-08-08,GER, ,GER
 michwe,Michelbach,Werner,1951-03-23,GER, ,GER
 mickto,Mickel,Tom,1989-04-19,GER,Hoyerswerda,GER
@@ -4267,6 +4350,7 @@ minemi,Mineiro, ,1975-08-02,BRA,Porto Alegre,BRA
 minkst,Minkwitz,Stefan,1968-06-01,GER,Magdeburg,GER
 mintma,Mintál,Marek,1977-09-02,SVK,Žilina,SVK
 minzdo,Minz,Dominic,1999-03-07,GER, ,GER
+miraju,Miranda,Juan,2000-01-19,SPA,Olivares,SPA
 mirbma,Mirbach,Manuel,1964-07-23,GER, ,GER
 miriva,Miriuţă,Vasile,1968-09-19,HUN,Baia-Mare,ROM
 mirnhd,Mirnegg,Hans-Dieter,1954-05-24,AUT,Klagenfurt,AUT
@@ -4333,6 +4417,7 @@ moraja,Morávek,Jan,1989-11-01,CZE,Praha,CZE
 moralu,Moravčík,Lubomir,1965-06-22,SVK,Nitra,SVK
 moreal,Moreira,Almami,1978-06-16,GBS,Bissau,GBS
 morefa,Morena,Fabio,1980-03-19,GER,Musberg,GER
+morem1,Morey,Mateu,2000-03-02,SPA,Petra,SPA
 morema,Moreno,Marcelo,1987-06-18,BOL,Santa Cruz de la Sierra,BOL
 morich,Moritz,Christoph,1990-01-27,GER,Düren,GER
 morida,Mori,Damian,1970-09-30,AUS,Melbourne,AUS
@@ -4394,6 +4479,7 @@ muelro,Müller,Robert,1986-11-12,GER,Schwerin,GER
 muelru,Müller,Rudi,1960-09-28,GER, ,GER
 muels1,Müller,Steve,1985-05-16,GER,Halle an der Saale,GER
 muels2,Müller,Sven,1996-02-16,GER,Köln,GER
+muelse,Müller,Sebastian,2001-01-23,GER,Schwalmstadt,GER
 muelst,Müller,Stefan,1974-03-08,GER,Schopfheim,GER
 muelsv,Müller,Sven,1980-04-04,GER,Burgau,GER
 muelth,Müller,Thomas,1989-09-13,GER,Weilheim,GER
@@ -4424,6 +4510,7 @@ mutoyo,Mutō,Yoshinori,1992-07-15,JAP,Tokyo,JAP
 mutsol,Mutschler,Oliver,1973-06-05,GER,Waiblingen,GER
 mutzmi,Mutzel,Michael,1979-09-27,GER,Memmingen,GER
 mvogyv,Mvogo,Yvon,1994-06-06,SUI,Yaoundé,CMR
+mwenp1,Mwene,Phillipp,1994-01-29,AUT,Wien,AUT
 mwenph,Mwene,Philipp,1994-01-29,AUT,Wien,AUT
 mykler,Mykland,Erik,1971-07-21,NOR,Risør,NOR
 nachan,Nachreiner,Anton,1955-09-10,GER, ,GER
@@ -4557,7 +4644,9 @@ nixxud,Nix,Udo,1941-07-06,GER, ,GER
 njamfr,Njambe,Franck,1987-10-24,CMR,Douala,CMR
 nkossi,Nkosi,Siyabonga,1981-08-22,RSA,Newcastle,RSA
 nkufbl,N'Kufo,Blaise,1975-05-25,SUI,Kinshasa,DRC
+nkunch,Nkunku,Christopher,1997-11-14,FRA,Lagny-sur-Marne,FRA
 nmecji,Němec,Jiří,1966-05-16,CZE,Pacov,CZE
+nmeclu,Nmecha,Lukas,1998-12-12,GER,Hamburg,GER
 nobarg,Ghasemi-Nobakht,Rubic,1987-07-27,GER,Göttingen,GER
 nobsed,Nobs,Edgar,1953-12-02,GER,Bräunlingen,GER
 noerch,Nørgaard,Christian,1994-03-10,DEN,København,DEN
@@ -4567,6 +4656,7 @@ noldlu,Nolden,Ludwig,1935-10-05,GER, ,GER
 nollem,Noll,Emil,1978-11-21,GER,Kinshasa,DRC
 nordha,Nordtveit,Håvard,1990-06-21,NOR,Vats,NOR
 noruax,Noruschat,Axel,1962-01-31,GER, ,GER
+nossco,Noß,Conor,2001-01-01,GER, ,GER
 nottp1,Notthoff,Patrick,1966-02-26,GER,Oberhausen,GER
 nottpa,Notthoff,Pascal,1963-04-27,GER,Bottrop,GER
 novadz,Novak,Džoni,1969-09-04,SLO,Ljubljana,SLO
@@ -4647,6 +4737,7 @@ oeztya,Öztekin,Yasin,1987-03-19,TUR,Dortmund,GER
 offehj,Offermanns,Hans-Jürgen,1957-03-16,GER, ,GER
 ofoevo,Odjidja-Ofoe,Vadis,1989-02-21,BEL,Gent,BEL
 oforeb,Ofori,Ebenezer,1995-07-01,GHA,Kumasi,GHA
+oforke,Ofori,Kelvin,2001-07-27,GHA, ,GHA
 ogabpe,Ogaba,Peter,1974-09-24,NGR, ,NGR
 ognjpe,Ognjenović,Perica,1977-02-24,YUG,Smederevska Palanka,YUG
 ogunad,Ogungbure,Adebowale,1981-07-13,NGR,Lagos,NGR
@@ -4665,6 +4756,7 @@ okonmi,Okoński,Mirosław,1958-12-08,POL,Koszalin,POL
 okorch,Okoroji,Chima,1997-04-19,ENG,London,ENG
 okorso,Okoronkwo,Solomon,1987-03-02,NGR,Enugo,NGR
 okotru,Okotie,Rubin,1987-06-06,AUT,Karatschi,PAK
+okoyma,Okoye,Maduka,1999-08-28,NGR,Düsseldorf,GER
 okubyo,Okubo,Yoshito,1982-06-09,JAP,Fukuoka,JAP
 okudya,Okudera,Yasuhiko,1952-03-12,JAP,Kazuno,JAP
 okwasa,Okwaraji,Samuel,1964-05-19,NGR,Orlu,NGR
@@ -4692,6 +4784,7 @@ oparda,Opare,Dan,1990-10-18,GHA,Accra,GHA
 opitmi,Opitz,Michael,1962-07-16,GER,Finnentrop,GER
 opitth,Opitz,Thomas,1963-08-24,GER, ,GER
 opokal,Opoku,Alexander,1974-08-31,GHA, ,GHA
+oppele,Oppermann,Leo,2001-08-28,GER, ,GER
 oppelu,Oppermann,Lucas,1986-08-28,GER,Dieburg,GER
 orahsa,Orahovac,Sanibal,1978-12-12,MNT,Podgorica,MNT
 orbawi,Orban,Willi,1992-11-03,GER,Kaiserslautern,GER
@@ -4719,6 +4812,7 @@ ostrma,Ostrzolek,Matthias,1990-06-05,GER,Bochum,GER
 oswafe,Oswald,Ferdinand,1990-10-05,GER,Weilheim,GER
 oswaka,Oswald,Kai,1977-11-29,GER,Geislingen,GER
 oswawa,Oswald,Walter,1955-10-08,GER, ,GER
+otavpa,Otávio,Paulo,1994-11-23,BRA,Ourinhos,BRA
 oti_ot,Oti, ,1969-10-19,SPA,Puerto de la Cruz,SPA
 otsuyu,Ōtsu,Yūki,1990-03-24,JAP,Mito,JAP
 ottedi,Otten,Dirk,1968-01-22,GER, ,GER
@@ -4756,6 +4850,7 @@ pahlju,Pahl,Jürgen,1956-03-17,GER,Teuchern,GER
 pajobe,Pajonk,Bernd,1955-08-01,GER, ,GER
 palaan,Pałasz,Andrzej,1960-07-22,POL,Zabrze,POL
 palaau,Palacios,Augusto,1953-12-23,PER,Lima,PER
+palaex,Palacios,Exequiel,1998-10-05,ARG,Famaillá,ARG
 pallda,Pallas,David,1980-07-07,SPA,A Laracha,SPA
 palmpd,da Palma,Paolo,1966-03-18,POR,Nordhorn,GER
 palopa,Palop, ,1973-10-22,SPA,Valencia,SPA
@@ -4777,6 +4872,7 @@ papijp,Papin,Jean-Pierre,1963-11-05,FRA,Boulogne-Sur-Mer,FRA
 papiju,Papies,Jürgen,1944-04-22,GER, ,GER
 papivl,Papic,Vlado,1968-09-21,CRO,Zagreb,CRO
 pardpa,Pardo,Pável,1976-07-26,MEX,Guadalajara,MEX
+paremi,Parensen,Michael,1986-06-24,GER,Bad Driburg,GER
 parith,Parits,Thomas,1946-10-07,AUT,Siegendorf,AUT
 parkde,Parker,Devante,1996-03-16,GER,Wiesbaden,GER
 parkjb,Park,Jung-Bin,1994-02-22,KOR,Busan,KOR
@@ -4819,6 +4915,7 @@ pavlmi,Pavlin,Miran,1971-10-08,SLO,Kranj,SLO
 pawero,Pawellek,Rolf,1939-09-10,GER, ,GER
 pearhe,Pearce,Heath,1984-08-13,USA,Modesto,USA
 peclge,Pecl,Gerhard,1955-04-17,GER, ,GER
+pedema,Pedersen,Mads,1996-09-01,DEN,Hørsholm,DEN
 pedemo,Pedersen,Morten,1972-04-12,NOR,Tromsø,NOR
 pedepe,Pedersen,Per,1969-03-30,DEN,Odense,DEN
 pedest,Pedersen,Steinar,1975-06-06,NOR,Kristiansand,NOR
@@ -4837,6 +4934,7 @@ pelkkh,Pelka,Karl-Heinz,1958-07-16,GER, ,GER
 pellni,Pellatz,Nico,1986-07-08,GER,Berlin,GER
 peltju,Peltonen,Juhani,1936-06-16,FIN,Valkeakoski,FIN
 penkma,Penksa,Marek,1973-08-04,SVK,Veľký Krtíš,SVK
+pentph,Pentke,Philipp,1985-05-01,GER,Freiberg,GER
 pepimi,Pepić,Mirnes,1995-12-19,MNT,Podgorica,MNT
 percpe,Perchtold,Peter,1984-09-02,GER,Nürnberg,GER
 perdfa,Perdedaj,Fanol,1991-07-16,KOS,Gjakova,KOS
@@ -4900,6 +4998,7 @@ pfluhe,Pflügge,Heinz,1946-11-15,GER, ,GER
 pflupa,Pflücke,Patrick,1996-11-30,GER,Dresden,GER
 pfluul,Pflug,Ulrich,1975-10-17,GER, ,GER
 pfudac,Pfuderer,Achim,1975-11-29,GER,Waiblingen,GER
+philda,Philipp,David,2000-04-10,GER, ,GER
 philjo,Philipkowski,Joachim,1962-02-26,GER,Mragowo,POL
 phillo,Philipp,Lothar,1937-02-26,GER, ,GER
 philma,Philipp,Maximilian,1994-03-01,GER,Berlin,GER
@@ -5051,6 +5150,7 @@ procan,Prockl,Anton,1945-00-00,GER, ,GER
 proeca,Pröpper,Carsten,1967-10-20,GER,Remscheid,GER
 proegr,Prömel,Grischa,1995-01-09,GER,Stuttgart,GER
 proegu,Pröpper,Günter,1941-12-08,GER,Dorsten,GER
+proeka,Pröger,Kai,1992-05-15,GER,Wilhelmshaven,GER
 proema,Pröll,Markus,1979-08-28,GER,Rheinbach,GER
 proese,Prödl,Sebastian,1987-06-21,AUT,Graz,AUT
 prokge,Prokop,Gerhard,1939-05-18,GER,Gladbeck,GER
@@ -5141,6 +5241,7 @@ rappma,Rapp,Marc,1970-12-02,GER, ,GER
 rappni,Rapp,Nicolai,1996-12-13,GER,Heidelberg,GER
 rapsra,Raps,Ralf,1960-10-10,GER, ,GER
 rascfr,Raschid,Franz,1954-10-18,GER,Linz am Rhein,GER
+rascto,Raschl,Tobias,2000-02-21,GER,Düsseldorf,GER
 rascul,Raschke,Ulf,1972-07-23,GER, ,GER
 rashmi,Rashica,Milot,1996-06-28,KOS,Vučitrn,KOS
 rasije,Rasiejewski,Jens,1975-01-01,GER,Marburg,GER
@@ -5176,6 +5277,7 @@ rducma,Răducanu,Marcel,1954-10-21,ROM,Bucureşti,ROM
 rebeha,Rebele,Hans,1943-01-26,GER,München,GER
 rebian,Rebić,Ante,1993-09-21,CRO,Split,CRO
 reckol,Reck,Oliver,1965-02-27,GER,Frankfurt/Main,GER
+redada,Redan,Daishawn,2001-02-02,NED,Amsterdam,NED
 reddnp,Pfingsten-Reddig,Nils,1982-05-23,GER,Gehrden,GER
 reddpe,Redder,Peter,1952-09-25,GER, ,GER
 reddth,Redder,Theo,1941-11-19,GER,Werl,GER
@@ -5269,6 +5371,7 @@ reutuw,Reuter,Uwe,1934-11-27,GER, ,GER
 revere,Réver, ,1985-01-04,BRA,Ariranha,BRA
 rexhel,Rexhbecaj,Elvis,1997-11-01,GER,Gjonaj,ALB
 reyncl,Reyna,Claudio,1973-07-20,USA,Livingston / New Jersey,USA
+reyngi,Reyna,Gio,2002-11-13,USA,Sunderland,ENG
 rheisi,Rhein,Simon,1998-05-18,GER, ,GER
 ribefr,Ribéry,Franck,1983-04-07,FRA,Boulogne-sur-Mer,FRA
 ribelu,Ribeiro,Lucas,1999-01-19,BRA,Salvador de Bahia,BRA
@@ -5465,6 +5568,7 @@ rudzch,Rudzki,Christian,1946-07-26,ARG, ,ARG
 ruecjo,Rücker,Jochen,1944-12-30,GER,Bischofswerda,GER
 ruecst,Rückert,Stefan,1952-05-10,GER, ,GER
 ruedan,Rüdiger,Antonio,1993-03-03,GER,Berlin,GER
+ruedfa,Rüdlin,Fabian,1997-01-13,GER, ,GER
 ruehch,Rühl,Carl-Heinz,1939-11-14,GER,Berlin,GER
 ruehpe,Rühmkorb,Peter,1948-12-13,GER, ,GER
 ruehra,Rühle,Rainer,1956-06-10,GER, ,GER
@@ -5483,6 +5587,7 @@ rummkh,Rummenigge,Karl-Heinz,1955-09-25,GER,Lippstadt,GER
 rummma,Rummel,Manfred,1938-07-22,GER, ,GER
 rummmi,Rummenigge,Michael,1964-02-03,GER,Lippstadt,GER
 rumoju,Rumor,Jürgen,1945-02-19,GER, ,GER
+rumpjl,Rumpf,Jan-Luca,1999-07-08,GER, ,GER
 rundmi,Rundio,Michael,1983-01-21,GER,Ulm,GER
 rungno,Runge,Norbert,1956-07-08,GER, ,GER
 ruppbe,Rupp,Bernd,1942-02-24,GER,Solms,GER
@@ -5494,6 +5599,7 @@ russst,Russo,Stefano,2000-06-29,GER,Ludwigshafen,GER
 rybagu,Rybarczyk,Günther,1951-11-04,GER,Neuötting,GER
 rychal,Rychkov,Aleksandr,1974-09-29,RUS,Irkutsk,RUS
 rydlre,Rydlewicz,René,1973-07-18,GER,Forst (Lausitz),GER
+ryerju,Ryerson,Julian,1997-11-17,NOR,Lyngdal,NOR
 rylebu,Rylewicz,Burghard,1936-07-18,GER, ,GER
 ryniju,Rynio,Jürgen,1948-04-01,GER, ,GER
 ryttth,Rytter,Thomas,1974-01-06,DEN,København,DEN
@@ -5506,6 +5612,7 @@ saarja,Saarinen,Janne,1977-02-28,FIN,Helsinki,FIN
 sabaal,Sabah,Alban,1992-06-22,TOG,Kpalime,TOG
 sabach,Saba,Christian,1978-12-29,GHA, ,GHA
 sabajo,Sabath,Johann,1939-06-04,GER, ,GER
+sabiab,Sabiri,Abdelhamid,1996-11-28,GER,Goulmima,MAR
 sabima,Sabitzer,Marcel,1994-03-17,AUT,Graz,AUT
 sabofr,Saborowski,Frank,1958-03-14,GER, ,GER
 saboge,Saborowski,Gerd,1943-09-03,GER, ,GER
@@ -5544,6 +5651,7 @@ sallyl,Sallahi,Ylli,1994-04-06,AUT,Skënderaj,KOS
 saloba,Salou,Bachirou,1970-09-15,TOG,Lome,TOG
 salvad,Di Salvo,Antonio,1979-06-05,GER,Paderborn,GER
 salzma,Salz,Manuel,1985-08-06,GER,Böblingen,GER
+samadi,Samassékou,Diadié,1996-01-11,MLI,Bamako,MLI
 samast,Sama,Stephen,1993-03-05,GER,Bamenda,CMR
 sambch,Samba,Christopher,1984-03-28,CGO,Créteil,FRA
 sammma,Sammer,Matthias,1967-09-05,GER,Dresden,GER
@@ -5624,6 +5732,7 @@ schaha,Schäfer,Hans,1927-10-19,GER,Köln-Zollstock,GER
 schaho,Schauß,Horst,1945-11-06,GER, ,GER
 schaja,Schanda,Jan,1977-08-17,GER,Wolfsburg,GER
 schaje,Scharping,Jens,1974-07-16,GER, ,GER
+schal1,Schaub,Louis,1994-12-29,AUT,Fulda,GER
 schalo,Schämer,Lothar,1940-04-28,GER,Ottowitz (Otovice),CZE
 schama,Schäfer,Marcel,1984-06-07,GER,Aschaffenburg,GER
 schaol,Schäfer,Oliver,1969-02-27,GER,Lahr,GER
@@ -5672,10 +5781,12 @@ schihe,Schimeczek,Helmut,1938-07-04,GER,Berlin,GER
 schihg,Schimmöller,Hans-Günter,1935-09-25,GER, ,GER
 schiju,Schieber,Julian,1989-02-13,GER,Backnang,GER
 schike,Schindler,Kevin,1988-05-21,GER,Delmenhorst,GER
+schiki,Schindler,Kingsley,1993-07-12,GER,Hamburg,GER
 schim1,Schierenberg,Mark,1972-08-01,GER,Rhede,GER
 schim2,Schinner,Markus,1981-01-20,GER,Hannover,GER
 schima,Schipper,Mathias,1957-09-23,GER,Castrop-Rauxel,GER
 schimv,von Walsleben-Schied,Marcel,1983-07-28,GER,Weißenfels,GER
+schip1,Schick,Patrik,1996-01-24,CZE,Praha,CZE
 schipa,Schiermeister,Patrick,1986-08-09,GER,Holzminden,GER
 schise,Schindzielorz,Sebastian,1979-01-21,GER,Krapkowice,POL
 schisi,Schindler,Siegfried,1934-06-16,GER, ,GER
@@ -5704,6 +5815,7 @@ schlt2,Schlieck,Thomas,1969-12-17,GER,Greven,GER
 schlth,Schlumberger,Thorsten,1960-10-29,GER,Hamburg,GER
 schlvo,Schlappner,Volker,1964-02-18,GER, ,GER
 schlwo,Schlief,Wolfgang,1949-04-13,GER, ,GER
+schlxa,Schlager,Xaver,1997-09-28,AUT,Linz,AUT
 schma1,Schmidt,Andreas,1973-09-14,GER,Berlin,GER
 schmak,Schmidt,Aki,1935-09-05,GER,Dortmund,GER
 schman,Schmidkunz,Anton,1963-01-03,GER, ,GER
@@ -5821,6 +5933,7 @@ schor1,Scholz,Rainer,1954-09-03,GER, ,GER
 schora,Schönwälder,Rainer,1940-02-29,GER, ,GER
 schore,Schöll,Reinhold,1955-10-23,GER, ,GER
 schoru,Schonhoff,Rudolf,1952-09-01,GER, ,GER
+schos1,Schonlau,Sebastian,1994-08-05,GER,Warburg,GER
 schose,Schoof,Sebastian,1980-03-22,GER, ,GER
 schovo,Schöttner,Volker,1952-06-09,GER, ,GER
 schowe,Scholz,Werner,1944-12-01,GER, ,GER
@@ -5850,6 +5963,7 @@ schrsa,Schreck,Sam,1999-01-29,GER, ,GER
 schrsi,Schröter,Silvio,1979-06-29,GER,Radebeul,GER
 schrst,Schröck,Stephan,1986-08-21,PHI,Schweinfurt,GER
 schrt1,Schramm,Torsten,1979-02-19,GER, ,GER
+schrt2,Schreiber,Tim,2002-04-24,GER,Freital,GER
 schrti,Schraml,Tim,1993-03-18,GER,Göppingen,GER
 schrto,Schreier,Toni,1962-03-07,GER, ,GER
 schrud,Schrötter,Udo,1981-06-05,GER, ,GER
@@ -5898,6 +6012,7 @@ schum4,Schuon,Marcel,1985-04-28,GER,Freudenstadt,GER
 schum5,Schulze,Michael,1989-01-13,GER,Göttingen,GER
 schum6,Schulz,Marvin,1995-01-15,GER,Mülheim an der Ruhr,GER
 schum7,Schuster,Marco,1995-10-10,GER,Rögling,GER
+schum8,Schubert,Markus,1998-06-12,GER,Freiberg,GER
 schuma,Schupp,Markus,1966-01-07,GER,Idar-Oberstein,GER
 schumi,Schuhmacher,Michael,1957-08-20,GER, ,GER
 schuni,Schulz,Nico,1993-04-01,GER,Berlin,GER
@@ -6011,6 +6126,7 @@ shaoji,Shao,Jiayi,1980-04-10,CHN,Peking,CHN
 shapam,Shapourzadeh,Amir,1982-09-19,IRN,Teheran,IRN
 shaqxh,Shaqiri,Xherdan,1991-10-10,SUI,Gjilan,KOS
 shecit,Shechter,Itay,1987-02-22,ISR,Ramat Yishai,ISR
+shelkh,Shelton,Khiry,1993-06-26,USA,Fort Carson,USA
 shmava,Shmarov,Valeriy,1965-02-23,RUS,Voronezh,RUS
 siadge,Siadas,Georgios,1999-12-27,GER,Solingen,GER
 sibehe,Siber,Helmut,1942-05-16,AUT, ,AUT
@@ -6046,6 +6162,7 @@ siloso,Silooy,Sonny,1963-08-31,NED,Rotterdam,NED
 silva1,da Silva,Antônio,1978-06-13,BRA,Rio de Janeiro,BRA
 silvad,da Silva,Alessandro,1970-11-07,BRA,São Paulo,BRA
 silval,Silva,Alex,1985-03-10,BRA,Amparo,BRA
+silvan,Silva,André,1995-11-06,POR,Baguim do Monte,POR
 silvge,Silva,Geovani,1964-04-06,BRA,Vitória,BRA
 silvld,da Silva,Leandro,1982-07-06,BRA,Rio de Janeiro,BRA
 silvmi,Silvestre,Mikaël,1977-08-09,FRA,Chambray-Les-Tours,FRA
@@ -6065,8 +6182,10 @@ simoti,Simons,Timmy,1976-12-11,BEL,Diest,BEL
 simowo,Simon,Wolfgang,1946-08-12,GER, ,GER
 simuja,Šimůnek,Jan,1987-02-20,CZE,Praha, 
 simujo,Šimunić,Josip,1978-02-18,CRO,Canberra,AUS
+singsa,Singh,Sarpreet,1999-02-20,NZL,Auckland,NZL
 sinije,Sinisterra,Jesús,1975-09-12,COL,Quidbo-Choco,COL
 sinkan,Sinkala,Andrew,1979-06-18,ZAM,Chingola,ZAM
+sinkda,Sinkgraven,Daley,1995-07-04,NED,Assen,NED
 sinklu,Sinkiewicz,Lukas,1985-10-09,GER,Tychy,POL
 sinokh,Sinouh,Khalid,1975-05-02,MAR,Amsterdam,NED
 sioxgi,Sio,Giovanni,1989-03-31,CIV,Saint-Sébastien-sur-Loire,FRA
@@ -6083,6 +6202,7 @@ skallo,Skala,Lothar,1952-05-02,GER, ,GER
 skambe,Skammelsrud,Bent,1966-05-18,NOR,Rakkestad,NOR
 skeler,Skela,Ervin,1976-11-17,ALB,Vlorë,ALB
 skenme,Skenderović,Meris,1998-03-28,GER,Mannheim,GER
+skhiel,Skhiri,Ellyes,1995-05-10,TUN,Lunel,FRA
 skibmi,Skibbe,Michael,1965-08-04,GER,Gelsenkirchen,GER
 skjepe,Skjelbred,Per,1987-06-16,NOR,Trondheim,NOR
 skobjo,Skoblar,Josip,1941-03-12,CRO,Privlaka,CRO
@@ -6092,6 +6212,7 @@ skooni,Skoog,Niklas,1974-06-15,SWE,Göteborg,SWE
 skorpe,Škorić,Pero,1969-06-18,YUG, ,YUG
 skorzl,Škorić,Zlatko,1943-07-27,CRO,Zagreb,CRO
 skoumo,Skoubo,Morten,1980-06-30,DEN,Holstebro,DEN
+skovro,Skov,Robert,1996-05-20,DEN,Marbella,SPA
 skrivi,Skripnik,Viktor,1969-11-19,UKR,Nowomoskowsk,UKR
 skrora,Skrotzki,Rainer,1945-05-25,GER, ,GER
 skrzan,Skrzyszowski,Andreas,1957-05-30,GER, ,GER
@@ -6221,6 +6342,7 @@ stefm1,Stefaniak,Marvin,1995-02-03,GER,Königsbrück,GER
 stefma,Stefes,Manfred,1967-03-28,GER,Korschenbroich,GER
 stefre,Steffen,Renato,1991-11-03,SUI,Aarau,SUI
 stefto,Steffen,Tobias,1992-06-03,GER,Leer (Ostfriesland),GER
+stefza,Steffen,Zack,1995-04-02,USA,Coatesville,USA
 stegma,ter Stegen,Marc-Andr�r,1992-04-30,GER,Mönchengladbach,GER
 stegmi,Stegmayer,Michael,1985-01-12,GER,Heidenheim an der Brenz,GER
 stegni,Stegmann,Niklas,1987-07-02,GER, ,GER
@@ -6324,6 +6446,7 @@ strama,Stranzl,Martin,1980-06-16,AUT,Güssing,AUT
 straol,Straube,Oliver,1971-12-13,GER,Schwaikheim,GER
 strare,Straus,Reinhold,1938-05-19,GER, ,GER
 straro,Straal,Roberto,1966-12-19,NED,Arnhem,NED
+strasi,Straudi,Simon,1999-01-27,ITA,Brunico,ITA
 strast,Straub,Stephan,1971-01-25,GER,Saarbrücken,GER
 strath,Stratos,Thomas,1966-10-09,GER, ,GER
 strawi,Stradt,Winfried,1956-09-25,GER, ,GER
@@ -6370,6 +6493,7 @@ sturwi,Sturm,Wilhelm,1940-02-08,GER,Bochum,GER
 subkka,Subklewe,Karlheinz,1950-12-06,GER, ,GER
 subone,Subotić,Neven,1988-12-10,YUG,Banja Luka,BOS
 suchju,Suchanek,Jürgen,1955-03-24,GER, ,GER
+suchma,Suchý,Marek,1988-03-29,CZE,Praha,CZE
 sudeul,Sude,Ulrich,1956-04-19,GER,Korbach,GER
 suehwo,Sühnholz,Wolfgang,1946-09-14,GER, ,GER
 suelni,Süle,Niklas,1995-09-03,GER,Frankfurt am Main,GER
@@ -6457,6 +6581,7 @@ teinch,Teinert,Christoph,1980-01-30,GER,Heidelberg,GER
 tekesi,Tekerci,Sinan,1993-09-22,GER,Freudenstadt,GER
 tekker,Tekkan,Ersan,1985-01-06,GER,Bochum,GER
 tekpbe,Tekpetey,Bernard,1997-09-03,GHA,Accra,GHA
+templi,Tempelmann,Lino,1999-02-02,GER, ,GER
 tenbwe,Tenbruck,Werner,1941-11-13,GER, ,GER
 tenhfj,Tenhagen,Franz-Josef,1952-10-31,GER,Millingen,GER
 tepewi,Tepe,Wilfried,1940-11-25,GER,Beckum,GER
@@ -6485,10 +6610,12 @@ thiebe,Thiele,Bernd,1956-01-24,GER,Burg auf Fehmarn,GER
 thiece,Thier,César,1967-10-15,BRA,Santa Cruz,BRA
 thieda,Thiel,David,1984-07-28,GER, ,GER
 thiegu,Thiele,Günter,1961-11-07,GER,Neuss,GER
+thieja,Thielmann,Jan,2002-05-26,GER,Föhren,GER
 thiejo,Thiel,Joachim,1951-08-07,GER, ,GER
 thiekh,Thielen,Karl-Heinz,1940-04-02,GER,Ariendorf,GER
 thiekl,Thies,Klaus,1950-10-25,GER, ,GER
 thiema,Thiede,Marco,1992-05-20,GER,Augsburg,GER
+thieni,Thiede,Niclas,1999-04-14,GER,Hagen,GER
 thiero,Thielemann,Ronny,1973-11-15,GER,Bad Schlema,GER
 thiew1,Thier,Wolfgang,1948-11-04,GER, ,GER
 thiewo,Thiele,Wolfgang,1951-04-04,GER, ,GER
@@ -6516,6 +6643,7 @@ thorgu,Þorvaldsson,Gunnar,1982-04-01,ISL,Vestmannaeyjar,ISL
 thorma,Thorandt,Markus,1981-04-01,GER,Augsburg,GER
 thundi,Thun,Dieter,1939-06-04,GER, ,GER
 thurda,Thur,Daniel,1998-04-28,GER, ,GER
+thurma,Thuram,Marcus,1997-08-06,FRA,Parma,ITA
 thurmi,Thurk,Michael,1976-05-28,GER,Frankfurt/Main,GER
 thycst,Thychosen,Steen,1958-09-22,DEN,Vejle,DEN
 thygmi,Thygesen,Mikkel,1984-10-22,DEN,Greve,DEN
@@ -6596,6 +6724,7 @@ tretre,Tretschok,René,1968-12-23,GER,Wolfen,GER
 triean,Triebel,Andreas,1943-09-18,GER, ,GER
 triema,Trieb,Martin,1961-09-23,GER,Augsburg,GER
 triest,Trienekens,Stefan,1970-08-21,GER, ,GER
+trimch,Trimmel,Christopher,1987-02-24,AUT,Oberpullendorf,AUT
 trimh1,Trimhold,Holger,1953-06-13,GER,Wolfhagen,GER
 trimho,Trimhold,Horst,1941-02-04,GER,Essen-Altenessen,GER
 trinfl,Trinks,Florian,1992-03-11,GER,Gera,GER
@@ -6688,9 +6817,11 @@ vareg1,Varela,Guillermo,1993-03-24,URU,Montevideo,URU
 varegu,Varela,Gustavo,1978-05-14,URU,Las Flores,URU
 varged,Vargas,Eduardo,1989-11-20,CHI,Renca,CHI
 vargjo,Varga,József,1988-06-06,HUN,Debrecen,HUN
+vargru,Vargas,Ruben,1998-08-05,SUI,Adligenswil,SUI
 vargzo,Varga,Zoltán,1945-01-01,HUN,Vál,HUN
 varvmi,Varvodić,Miro,1989-05-15,CRO,Zagreb,CRO
 vasidu,Vasiljević,Dušan,1982-05-07,YUG,Beograd,YUG
+vasise,Vasiliadis,Sebastian,1997-10-04,GER,Auenwald,GER
 vasoal,Vasoski,Aleksandar,1979-11-21,MAC,Skopje,MAC
 vastiv,Vastić,Ivica,1969-09-29,AUT,Split,CRO
 vatafa,Vata,Fatmir,1971-09-19,ALB,Rrëshen,ALB
@@ -6708,11 +6839,13 @@ verlfr,Verlaat,Frank,1968-03-05,NED,Haarlem,NED
 verlje,Verlaat,Jesper,1996-06-04,NED,Zaanstad,NED
 vermgi,Vermouth,Gil,1985-08-05,ISR,Kiryat Yam,ISR
 vermsv,Vermant,Sven,1973-04-04,BEL,Lier,BEL
+versbi,Verstraete,Birger,1994-04-16,BEL,Oostende,BEL
 versdi,Versen,Dieter,1945-06-22,GER, ,GER
 vershe,Versteeg,Heinz,1939-03-24,GER,Duisburg,GER
 versth,Versick,Thilo,1985-11-27,GER,Minden,GER
 vesebe,Vesely,Bernd,1952-01-19,GER, ,GER
 vestja,Vestergaard,Jannik,1992-08-03,DEN,Hvidovre,DEN
+victjo,Victor,João,1994-03-27,BRA, ,BRA
 vidaar,Vidal,Arturo,1987-05-22,CHI,Santiago de Chile,CHI
 vidado,Vida,Domagoj,1989-04-29,CRO,Donji Miholjac,CRO
 vidaru,Vidal,Rudolf,1971-03-09,GER, ,GER
@@ -6759,6 +6892,7 @@ vollra,Vollmer,Ralf,1962-07-05,GER, ,GER
 vollri,Vollath,Richard,1959-03-02,GER, ,GER
 vollru,Vollborn,Rüdiger,1963-02-12,GER,Berlin,GER
 vollwe,Vollack,Werner,1955-03-24,GER,Duisburg,GER
+voloro,Voloder,Robert,2001-05-09,BOS,Frankfurt am Main,GER
 volzka,Volz,Karlheinz,1947-03-30,GER, ,GER
 volzmo,Volz,Moritz,1983-01-21,GER,Siegen,GER
 vorbma,Vorbeck,Marco,1981-06-24,GER,Kühlungsborn,GER
@@ -7105,6 +7239,7 @@ wolfdi,Wolf,Dirk,1972-08-04,GER,Marburg,GER
 wolfeg,Wolf,Egwin,1951-01-28,GER, ,GER
 wolfer,Wolf,Erich,1940-05-23,GER, ,GER
 wolffr,Wolf,Frank,1968-05-09,GER, ,GER
+wolfha,Wolf,Hannes,1999-04-16,AUT,Graz,AUT
 wolfj1,Wolff,Johannes,1998-07-10,GER, ,GER
 wolfjo,Wolff,Jörg,1962-11-26,GER, ,GER
 wolfma,Wolf,Marius,1995-05-27,GER,Coburg,GER
@@ -7121,6 +7256,7 @@ wollph,Wollscheid,Philipp,1989-03-06,GER,Wadern,GER
 wolsch,Wolski,Christian,1973-06-17,GER, ,GER
 woltca,Wolters,Carsten,1969-07-25,GER,Gelsenkirchen,GER
 woltho,Wolter,Horst,1942-06-08,GER,Berlin,GER
+woltni,Woltemade,Nick,2002-02-14,GER,Bremen,GER
 woltth,Wolter,Thomas,1963-10-04,GER,Hamburg,GER
 wolzke,Wolze,Kevin,1990-03-09,GER,Wolfsburg,GER
 womepi,Womé,Pierre,1979-03-26,CMR,Douala,CMR
@@ -7293,6 +7429,7 @@ zinkwo,Zink,Wolfgang,1956-02-13,GER, ,GER
 zinnjo,Zinnbauer,Joe,1970-05-01,GER,Schwandorf,GER
 zinnst,Zinnow,Stefan,1980-05-28,GER,Weinheim,GER
 zippfr,Zipperer,Friedrich,1939-06-23,GER, ,GER
+zirkjo,Zirkzee,Joshua,2001-05-22,NED,Schiedam,NED
 ziteda,Zitelli,David,1968-10-30,FRA,Mont-Saint-Martin,FRA
 zivami,Živaljević,Miodrag,1951-09-09,YUG,Kragujevac,YUG
 zivkbo,Živković,Boris,1975-11-15,CRO,Zivinice,BOS
@@ -7300,6 +7437,7 @@ zizzsa,Zizzo,Sal,1987-04-03,USA,San Diego,USA
 zmijhy,Zmijani,Hysen,1963-04-29,ALB, ,ALB
 zobera,Zobel,Rainer,1948-11-03,GER,Wrestedt,GER
 zoelfr,Zöllner,Frank,1968-02-20,GER, ,GER
+zolibe,Ben Zolinski, ,1992-05-03,GER,Berlin,GER
 zollsi,Zoller,Simon,1991-06-26,GER,Friedrichshafen,GER
 zoppsi,Zoppke,Siegfried,1953-03-30,GER, ,GER
 zorbfu,Zorba,Furkan,1998-02-25,GER,Rüsselsheim,GER

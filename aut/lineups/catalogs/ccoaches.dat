@@ -1,4 +1,4 @@
-347
+356
 abraru,Abramczik,Rüdiger, ,1956-02-18,GER,Gelsenkirchen,GER,ruediger-abramczik
 ackerv,Van Acker,Régi, ,1955-04-25,BEL,Beveren,BEL,regi-van-acker
 adrico,Adriaanse,Co,Jacobus Adriaanse,1947-07-21,NED,Amsterdam,NED,co-adriaanse
@@ -126,6 +126,7 @@ iberro,Ibertsberger,Robert, ,1977-01-20,AUT,Neumarkt,AUT,robert-ibertsberger
 illoru,Illovszky,Rudolf, ,1922-02-21,HUN,Budapest,HUN,rudolf-illovszky
 ilsahe,Ilsanker,Herbert, ,1967-05-24,AUT,Hallein,AUT,herbert-ilsanker
 ilzech,Ilzer,Christian, ,1977-10-21,AUT, ,AUT,christian-ilzer
+ismava,Ismaël,Valérien, ,1975-09-28,FRA,Strasbourg,FRA,valerien-ismael
 janofe,Janotka,Ferry,Ferdinand Janotka,1945-10-17,AUT,Wien,AUT,ferry-janotka
 jaraku,Jara,Kurt, ,1950-10-14,AUT,Innsbruck,AUT,kurt-jara
 jasist,Jasiołek,Stefan, ,1945-12-04,POL, ,POL,stefan-jasiolek
@@ -197,10 +198,12 @@ ludewa,Ludescher,Walter,Prof. Walter Ludescher,1942-10-05,AUT,Klagenfurt,AUT,wal
 luiswo,Luisser,Wolfgang, ,1979-08-31,AUT, ,AUT,wolfgang-luisser
 lukira,Lukić,Radan, ,1957-09-21,BOS,Sarajevo,YUG,radan-lukic
 maehro,Mählich,Roman, ,1971-09-17,AUT,Wiener Neustadt,AUT,roman-maehlich
+maesne,El Maestro,Nestor,Nestor El Maestro (Jevtic),1983-03-25,SRB,Beograd,SRB,nestor-el-maestro
 malaan,Malatinský,Anton, ,1920-01-15,SVK,Trnava,SVK,anton-malatinsky
 mandal,Mandziara,Aleksander, ,1940-08-16,POL,Gliwice,POL,aleksander-mandziara
 markiv,Marković,Ivan, ,1928-11-06,CRO,Senj,YUG,ivan-markovic_3
 markvl,Marković,Vlatko,Vladimir Marković,1937-01-01,CRO,Bugojno,BOS,vlatko-markovic
+marsje,Marsch,Jesse, ,1973-11-08,USA,Racine,USA,jesse-marsch
 martle,Martinschitz,Leo, ,1956-07-18,AUT, ,AUT,leo-martinschitz
 mattlo,Matthäus,Lothar,Lothar Herbert Matthäus,1961-03-21,GER,Erlangen,GER,lothar-matthaeus
 maturu,Matuschka,Rudolf, ,0000-00-00,AUT, ,AUT,rudolf-matuschka
@@ -247,6 +250,7 @@ pintad,Pinter,Adi,Adolf Pinter,1948-01-19,AUT,Graz,AUT,adi-pinter
 plakra,Plakalovic,Rade, ,1960-05-12,SRB, ,SRB,rade-plakalovic
 polami,Polak,Miroslav, ,1958-03-08,SRB,Beograd,YUG,miroslav-polak
 polsto,Polster,Toni,Anton Polster,1964-03-10,AUT,Wien,AUT,toni-polster
+ponwfr,Ponweiser,Franz, ,1975-09-15,AUT,Neunkirchen,AUT,franz-ponweiser
 popora,Popović,Ranko, ,1967-06-26,SRB,Peć,SRB,ranko-popovic
 prasgu,Praschak,Günter, ,1929-09-12,AUT,Heidenreichstein,AUT,guenter-praschak
 preljo,Prelogar,Jože, ,1959-03-05,SLO,Ljubljana,SLO,joze-prelogar
@@ -265,6 +269,7 @@ rosema,Rose,Marco, ,1976-09-11,GER,Leipzig,GER,marco-rose
 rumpau,Rumpf,August, ,0000-00-00,AUT, ,AUT,august-rumpf
 ruttwi,Ruttensteiner,Willibald, ,1962-11-12,AUT,Steyr,AUT,willibald-ruttensteiner
 sageth,Sageder,Thomas, ,1983-09-05,AUT, ,AUT,thomas-sageder
+sahlmo,Sahli,Mohamed, ,1978-03-24,AUT, ,AUT,mohamed-sahli
 sararo,Sara,Robert, ,1946-06-09,AUT,Oberlainsitz,AUT,robert-sara
 sastle,Šťastný,Leopold, ,1911-05-23,SVK,Rohožník,SVK,leopold-sastny
 schahp,Schaller,Hans-Peter, ,1962-09-05,AUT, ,AUT,hans-peter-schaller
@@ -274,6 +279,8 @@ schema,Scherb,Martin, ,1969-06-23,AUT,Sankt Pölten,AUT,martin-scherb
 schifr,Schinkels,Frenkie,Frenk Schinkels,1963-01-09,AUT,Rotterdam,NED,frenkie-schinkels
 schlka,Schlechta,Karl, ,1922-01-28,AUT,Wien-Meidling,AUT,karl-schlechta
 schlwa,Schleger,Walter, ,1929-09-19,AUT,Prag,CZE,walter-schleger
+schmal,Schmidt,Alexander, ,1968-10-23,GER,Augsburg,GER,alexander-schmidt_3
+schmk1,Schmidt,Klaus, ,1967-10-21,AUT,Graz,AUT,klaus-schmidt
 schmkl,Schmidt,Klaus, ,1967-10-21,AUT,Graz,AUT,klaus-schmidt_3
 schmma,Schmidt,Markus, ,1977-10-12,AUT,Wiener Neustadt,AUT,markus-schmidt_2
 schmro,Schmidt,Roger, ,1967-03-13,GER,Kierspe,GER,roger-schmidt
@@ -288,6 +295,7 @@ schwwe,Schwarz,Werner, ,1952-04-12,AUT,Innsbruck,AUT,werner-schwarz
 schwwo,Schwarz,Wolfgang, ,1952-02-12,AUT,Innsbruck,AUT,wolfgang-schwarz
 senehe,Senekowitsch,Helmut, ,1933-10-22,AUT,Graz,AUT,helmut-senekowitsch
 sikijo,Šikić,Josip, ,1929-08-04,CRO, ,CRO,josip-sikic
+silbth,Silberberger,Thomas, ,1973-06-03,AUT,Innsbruck,AUT,thomas-silberberger
 simkla,Simko,Laszlo, ,1925-11-05,HUN,Budapest,HUN,laszlo-simko
 simuvl,Šimunić,Vladimir, ,1919-05-19,CRO,Pula,CRO,vladimir-simunic
 skerka,Skerlan,Karl, ,1940-01-03,AUT, ,AUT,karl-skerlan
@@ -311,6 +319,7 @@ strafr,Straka,František, ,1958-05-28,CZE,České Budějovice,CZE,frantisek-stra
 stremi,Streiter,Michael, ,1966-01-19,AUT,Hall,AUT,michael-streiter
 striru,Strittich,Rudolf, ,1922-03-03,AUT, ,AUT,rudolf-strittich
 stroer,Strobl,Erich, ,1933-05-03,AUT, ,AUT,erich-strobl
+strug1,Struber,Gerhard, ,1977-01-24,AUT,Kuchl,AUT,gerhard-struber
 struge,Struppert,Gerd, ,1950-10-21,GER,Jena,GER,gerd-struppert
 sundju,Sundermann,Jürgen,Hans-Jürgen Sundermann,1940-01-25,GER,Mülheim a.d.R.,GER,juergen-sundermann
 szanru,Szanwald,Rudolf, ,1931-07-06,AUT,Wien,AUT,rudolf-szanwald

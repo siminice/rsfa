@@ -19,14 +19,17 @@ cargda,David,Cargill,1936-07-21,SCO,17, ,A,0,0,0,0,david-cargill
 cheeal,Albert,Cheesebrough,1935-01-17,ENG,17, ,A,0,0,0,0,albert-cheesebrough
 graybi,Billy,Gray,1927-05-24,ENG,17, ,A,0,0,0,0,billy-gray_2
 holdbi,Bill,Holden,1928-04-01,ENG,17, ,A,0,0,0,0,bill-holden
-lancdc,Desmond Charles,Lancaster,1937-07-16,ENG,17, ,A,0,0,0,0,desmond-charles-lancaster
+lancde,Desmond,Lancaster,1937-07-16,ENG,17, ,A,0,0,0,0,desmond-lancaster
 mckape,Peter,McKay,1925-02-23,SCO,17, ,A,0,0,0,0,peter-mckay
 newldo,Doug,Newlands,1931-10-29,SCO,17, ,A,0,0,0,0,doug-newlands
 shacal,Alan,Shackleton,1934-02-03,ENG,17, ,A,0,0,0,0,alan-shackleton
 stepro,Roy,Stephenson,1932-05-27,ENG,17, ,A,0,0,0,0,roy-stephenson
 waltj2,Johnny,Walton,1928-03-21,ENG,17, ,A,0,0,0,0,johnny-walton
 whitb1,Billy,White,1936-10-13,ENG,17, ,A,0,0,0,0,billy-white
+mathha,Harry,Mather,1921-01-24,ENG,17, , ,0,0,0,0,harry-mather
 binner,Eric,Binns,1924-08-13,ENG,17, , ,0,0,0,0,eric-binns
+attwre,Reg,Attwell,1920-03-23,ENG,17, , ,0,0,0,0,reg-attwell
+guthra,Ralph,Guthrie,1932-09-13,ENG,1, ,P,0,0,0,0,ralph-guthrie
 kelsja,Jack,Kelsey,1929-11-19,WAL,1, ,P,0,0,0,0,jack-kelsey
 stanji,Jim,Standen,1935-05-30,ENG,1, ,P,0,0,0,0,jim-standen
 sullc1,Con,Sullivan,1928-08-22,ENG,1, ,P,0,0,0,0,con-sullivan
@@ -55,7 +58,11 @@ tapsde,Derek,Tapscott,1932-06-30,WAL,1, ,A,0,0,0,0,derek-tapscott
 walsbr,Brian,Walsh,1932-03-26,ENG,1, ,A,0,0,0,0,brian-walsh
 wardge,Gerry,Ward,1936-10-05,ENG,1, ,A,0,0,0,0,gerry-ward
 wilkja,Jack,Wilkinson,1931-09-17,ENG,1, ,A,0,0,0,0,jack-wilkinson_2
-mardbe, ,Ben Marden,1927-02-10,ENG,1, , ,0,0,0,0,ben-marden
+wadejo,Joe,Wade,1921-07-07,ENG,1, , ,0,0,0,0,joe-wade
+logiji,Jimmy,Logie,1919-11-23,SCO,1, , ,0,0,0,0,jimmy-logie
+miltar,Arthur,Milton,1928-03-10,ENG,1, , ,0,0,0,0,arthur-milton
+mardbe,Ben,Marden,1927-02-10,ENG,1, , ,0,0,0,0,ben-marden
+shawar,Arthur,Shaw,1924-04-09,ENG,1, , ,0,0,0,0,arthur-shaw
 hower2,Ronald,Howells,1927-01-12,WAL,22, ,P,0,0,0,0,ronald-howells
 veargr,Graham,Vearncombe,1934-03-28,WAL,22, ,P,0,0,0,0,graham-vearncombe
 davir5,Ron,Davies,1932-09-21,WAL,22, ,F,0,0,0,0,ron-davies_2
@@ -83,6 +90,8 @@ ohalne,Neil,O'Halloran,1933-06-21,WAL,22, ,A,0,0,0,0,neil-ohalloran
 stocr1,Ron,Stockin,1931-06-27,ENG,22, ,A,0,0,0,0,ron-stockin
 tiddmi,Mike,Tiddy,1929-04-04,ENG,22, ,A,0,0,0,0,mike-tiddy
 willr1,Roley,Williams,1927-07-10,WAL,22, ,A,0,0,0,0,roley-williams
+granwi,Wilf,Grant,1920-08-03,ENG,22, , ,0,0,0,0,wilf-grant
+bakebi,Billy,Baker,1920-10-03,WAL,22, , ,0,0,0,0,billy-baker
 bartsa,Sam,Bartram,1914-01-22,ENG,24, ,P,0,0,0,0,sam-bartram
 marsed,Eddie,Marsh,1927-12-14,SCO,24, ,P,0,0,0,0,eddie-marsh
 reedfr,Frank,Reed,1933-10-12,ENG,24, ,P,0,0,0,0,frank-reed
@@ -92,7 +101,7 @@ ellisy,Syd,Ellis,1931-08-16,ENG,24, ,F,0,0,0,0,syd-ellis
 hewijo,John,Hewie,1927-12-13,SCO,24, ,F,0,0,0,0,john-hewie
 towndo,Don,Townsend,1930-09-17,ENG,24, ,F,0,0,0,0,don-townsend
 tuckk1,Keith,Tucker,1936-11-25,ENG,24, ,F,0,0,0,0,keith-tucker_2
-chamkr,Kenneth Russell,Chamberlain,1926-06-30,RSA,24, ,M,0,0,0,0,kenneth-russell-chamberlain
+chamke,Kenneth,Chamberlain,1926-06-30,RSA,24, ,M,0,0,0,0,kenneth-chamberlain
 hammcy,Cyril,Hammond,1927-10-10,ENG,24, ,M,0,0,0,0,cyril-hammond
 jagogo,Gordon,Jago,1932-10-22,ENG,24, ,M,0,0,0,0,gordon-jago
 oostro,Ron,Oosthuizen,1936-03-16,RSA,24, ,M,0,0,0,0,ron-oosthuizen
@@ -107,6 +116,8 @@ olinsi,Sid,O'Linn,1927-05-05,RSA,24, ,A,0,0,0,0,sid-olinn
 ryanj2,John,Ryan,1930-10-16,SCO,24, ,A,0,0,0,0,john-ryan_6
 terrpa,Pat,Terry,1933-10-02,ENG,24, ,A,0,0,0,0,pat-terry
 whitro,Ronnie,White,1931-11-09,ENG,24, ,A,0,0,0,0,ronnie-white
+fentbe,Benny,Fenton,1918-10-28,ENG,24, , ,0,0,0,0,benny-fenton
+lumlbo,Bobby,Lumley,1933-01-06,ENG,24, , ,0,0,0,0,bobby-lumley
 robebi,Bill,Robertson,1928-11-13,SCO,25, ,P,0,0,0,0,bill-robertson_3
 thomc1,Chic,Thomson,1930-03-02,SCO,25, ,P,0,0,0,0,chic-thomson
 bellwa,Wally,Bellett,1933-11-14,ENG,25, ,F,0,0,0,0,wally-bellett
@@ -124,6 +135,7 @@ dicka3,Alan,Dicks,1934-08-29,ENG,25, ,M,0,0,0,0,alan-dicks
 allele,Les,Allen,1937-09-04,ENG,25, ,A,0,0,0,0,les-allen
 bentro,Roy,Bentley,1924-05-17,ENG,25, ,A,0,0,0,0,roy-bentley
 brabpe,Peter,Brabrook,1937-11-08,ENG,25, ,A,0,0,0,0,peter-brabrook
+edwabo,Bobby,Edwards,1931-05-22,ENG,25, ,A,0,0,0,0,bobby-edwards
 kitcra,Ray,Kitchener,1930-10-31,ENG,25, ,A,0,0,0,0,ray-kitchener
 lewiji,Jim,Lewis,1927-06-26,ENG,25, ,A,0,0,0,0,jim-lewis_2
 mcnijo,Johnny,McNichol,1925-08-20,SCO,25, ,A,0,0,0,0,johnny-mcnichol
@@ -132,7 +144,9 @@ parser,Eric,Parsons,1923-11-09,ENG,25, ,A,0,0,0,0,eric-parsons
 smitbo,Bobby,Smith,1933-02-22,ENG,25, ,A,0,0,0,0,bobby-smith
 stuble,Les,Stubbs,1929-02-18,ENG,25, ,A,0,0,0,0,les-stubbs
 tindro,Ron,Tindall,1935-09-23,ENG,25, ,A,0,0,0,0,ron-tindall
+greer4,Ron,Greenwood,1921-11-11,ENG,25, , ,0,0,0,0,ron-greenwood
 jonek3,Keith,Jones,1928-10-23,WAL,2, ,P,0,0,0,0,keith-jones_2
+parsde,Dennis,Parsons,1925-05-29,ENG,2, ,P,0,0,0,0,dennis-parsons
 pinnmi,Mike,Pinner,1934-02-16,ENG,2, ,P,0,0,0,0,mike-pinner
 aldipe,Peter,Aldis,1927-04-11,ENG,2, ,F,0,0,0,0,peter-aldis
 ashfge,George,Ashfield,1934-04-07,ENG,2, ,F,0,0,0,0,george-ashfield
@@ -141,10 +155,14 @@ jackde,Dennis,Jackson,1932-03-08,ENG,2, ,F,0,0,0,0,dennis-jackson
 lynnst,Stan,Lynn,1928-06-18,ENG,2, ,F,0,0,0,0,stan-lynn
 martco,Con,Martin,1923-03-20,IRL,2, ,F,0,0,0,0,con-martin
 mossam,Amos,Moss,1921-08-28,ENG,2, ,F,0,0,0,0,amos-moss
+parkha,Harry,Parkes,1920-01-04,ENG,2, ,F,0,0,0,0,harry-parkes
+prouar,Arthur,Proudler,1929-10-03,ENG,2, ,F,0,0,0,0,arthur-proudler
 sharjo,John,Sharples,1934-08-08,ENG,2, ,F,0,0,0,0,john-sharples
 baxtb1,Bill,Baxter,1924-09-21,SCO,2, ,M,0,0,0,0,bill-baxter
 birctr,Trevor,Birch,1933-11-20,ENG,2, ,M,0,0,0,0,trevor-birch
+clarno,Nobby,Clarke,1934-10-31,ENG,2, ,M,0,0,0,0,nobby-clarke
 crowvi,Vic,Crowe,1932-01-31,WAL,2, ,M,0,0,0,0,vic-crowe
+mossfr,Frank,Moss,1917-09-16,ENG,2, ,M,0,0,0,0,frank-moss_3
 chapro,Roy,Chapman,1934-03-18,ENG,2, ,A,0,0,0,0,roy-chapman
 dixoj1,Johnny,Dixon,1923-12-10,ENG,2, ,A,0,0,0,0,johnny-dixon_2
 folled,Eddie,Follan,1929-10-03,SCO,2, ,A,0,0,0,0,eddie-follan
@@ -157,6 +175,7 @@ soutto,Tommy,Southren,1927-08-01,ENG,2, ,A,0,0,0,0,tommy-southren
 thomto,Tommy,Thompson,1928-11-10,ENG,2, ,A,0,0,0,0,tommy-thompson
 tyrejo,Joe,Tyrell,1932-01-21,ENG,2, ,A,0,0,0,0,joe-tyrell
 walsda,Davy,Walsh,1923-04-28,IRL,2, ,A,0,0,0,0,davy-walsh
+blanda,Danny,Blanchflower,1926-02-10,NIR,2, , ,0,0,0,0,danny-blanchflower
 dunlal,Albert,Dunlop,1932-04-21,ENG,37, ,P,0,0,0,0,albert-dunlop
 harra3,Albert,Harris,1931-11-21,ENG,37, ,P,0,0,0,0,albert-harris
 leylha,Harry,Leyland,1930-05-12,ENG,37, ,P,0,0,0,0,harry-leyland
@@ -171,10 +190,12 @@ tansji,Jimmy,Tansey,1929-01-29,ENG,37, ,F,0,0,0,0,jimmy-tansey
 woodma,Matt,Woods,1931-11-01,ENG,37, ,F,0,0,0,0,matt-woods
 farral,Alec,Farrall,1936-03-03,ENG,37, ,M,0,0,0,0,alec-farrall
 farrpe,Peter,Farrell,1922-08-16,IRL,37, ,M,0,0,0,0,peter-farrell
+granja,Jackie,Grant,1924-09-08,ENG,37, ,M,0,0,0,0,jackie-grant
 harrbr,Brian,Harris,1935-05-16,ENG,37, ,M,0,0,0,0,brian-harris
 joneto,Tommy,Jones,1930-04-11,ENG,37, ,M,0,0,0,0,tommy-jones
 lellcy,Cyril,Lello,1920-02-24,ENG,37, ,M,0,0,0,0,cyril-lello
 tomljo,John,Tomlinson,1934-03-26,ENG,37, ,M,0,0,0,0,john-tomlinson
+buckte,Ted,Buckle,1924-10-28,ENG,37, ,A,0,0,0,0,ted-buckle
 eglito,Tommy,Eglington,1923-01-15,IRL,37, ,A,0,0,0,0,tommy-eglington
 fielwa,Wally,Fielding,1919-11-26,ENG,37, ,A,0,0,0,0,wally-fielding
 harrji,Jimmy,Harris,1933-08-18,ENG,37, ,A,0,0,0,0,jimmy-harris
@@ -202,7 +223,7 @@ daviwi,Willie,Davie,1925-01-07,SCO,46, ,M,0,0,0,0,willie-davie
 hobsal,Albert,Hobson,1925-04-07,ENG,46, ,M,0,0,0,0,albert-hobson
 mcgabi,Bill,McGarry,1927-06-10,ENG,46, ,M,0,0,0,0,bill-mcgarry
 metcvi,Vic,Metcalfe,1922-02-03,ENG,46, ,M,0,0,0,0,vic-metcalfe
-queswi,Wilfred,Quested,1925-01-09,AUS,46, ,M,0,0,0,0,wilfred-quested
+quesle,Len,Quested,1925-01-09,AUS,46, ,M,0,0,0,0,len-quested
 taylk2,Ken,Taylor,1935-08-21,ENG,46, ,M,0,0,0,0,ken-taylor_3
 burrge,Gerry,Burrell,1924-09-06,NIR,46, ,A,0,0,0,0,gerry-burrell
 cavato,Tommy,Cavanagh,1928-06-29,ENG,46, ,A,0,0,0,0,tommy-cavanagh
@@ -212,11 +233,14 @@ ledgbo,Bob,Ledger,1937-10-05,ENG,46, ,A,0,0,0,0,bob-ledger
 shinro,Roy,Shiner,1924-11-15,ENG,46, ,A,0,0,0,0,roy-shiner
 simpro,Ron,Simpson,1934-02-25,ENG,46, ,A,0,0,0,0,ron-simpson
 watsji,Jimmy,Watson,1924-01-16,SCO,46, ,A,0,0,0,0,jimmy-watson
+mcevdo,Don,McEvoy,1928-12-03,ENG,46, , ,0,0,0,0,don-mcevoy
 andej1,John,Anderson,1929-12-08,SCO,51, ,P,0,0,0,0,john-anderson
+dickad,Adam,Dickson,1929-01-04,SCO,51, ,P,0,0,0,0,adam-dickson
 cunnw1,Willie,Cunningham,1930-02-20,NIR,51, ,F,0,0,0,0,willie-cunningham_2
 gillma,Matt,Gillies,1921-08-12,SCO,51, ,F,0,0,0,0,matt-gillies
 jackr1,Ron,Jackson,1919-10-15,ENG,51, ,F,0,0,0,0,ron-jackson
 milbst,Stanley,Milburn,1926-10-27,ENG,51, ,F,0,0,0,0,stanley-milburn
+webbbi,Billy,Webb,1932-03-07,ENG,51, ,F,0,0,0,0,billy-webb
 applco,Colin,Appleton,1936-03-07,ENG,51, ,M,0,0,0,0,colin-appleton
 baldji,Jimmy,Baldwin,1922-01-12,ENG,51, ,M,0,0,0,0,jimmy-baldwin
 fincgo,Gordon,Fincham,1935-01-08,ENG,51, ,M,0,0,0,0,gordon-fincham
@@ -231,6 +255,11 @@ hoggde,Derek,Hogg,1930-11-04,ENG,51, ,A,0,0,0,0,derek-hogg
 morrj4,Johnny,Morris,1923-09-27,ENG,51, ,A,0,0,0,0,johnny-morris
 rowlar,Arthur,Rowley,1926-04-21,ENG,51, ,A,0,0,0,0,arthur-rowley
 thomba,Barrie,Thomas,1937-05-19,ENG,51, ,A,0,0,0,0,barrie-thomas
+wortf1,Fred,Worthington,1924-01-06,ENG,51, ,A,0,0,0,0,fred-worthington
+smalpe,Peter,Small,1924-10-23,ENG,51, , ,0,0,0,0,peter-small
+richda,Dave,Richardson,1932-03-11,ENG,51, , ,0,0,0,0,dave-richardson
+jakele,Les,Jakeman,1930-03-14,ENG,51, , ,0,0,0,0,les-jakeman
+litter,Eric,Littler,1929-04-14,ENG,51, , ,0,0,0,0,eric-littler
 cromja,Jack,Crompton,1921-12-18,ENG,58, ,P,0,0,0,0,jack-crompton
 hawkto,Tony,Hawksworth,1938-01-15,ENG,58, ,P,0,0,0,0,tony-hawksworth
 woodr1,Ray,Wood,1931-06-11,ENG,58, ,P,0,0,0,0,ray-wood
@@ -240,6 +269,7 @@ foulbi,Bill,Foulkes,1932-01-05,ENG,58, ,F,0,0,0,0,bill-foulkes
 greaia,Ian,Greaves,1932-05-26,ENG,58, ,F,0,0,0,0,ian-greaves
 harrbo,Bobby,Harrop,1936-08-25,ENG,58, ,F,0,0,0,0,bobby-harrop
 jonem5,Mark,Jones,1933-06-15,ENG,58, ,F,0,0,0,0,mark-jones_5
+kennp1,Pat,Kennedy,1934-10-09,IRL,58, ,F,0,0,0,0,pat-kennedy
 blanja,Jackie,Blanchflower,1933-03-07,NIR,58, ,M,0,0,0,0,jackie-blanchflower
 chilal,Allenby,Chilton,1918-09-16,ENG,58, ,M,0,0,0,0,allenby-chilton
 colmed,Eddie,Colman,1936-11-01,ENG,58, ,M,0,0,0,0,eddie-colman
@@ -260,6 +290,8 @@ scotj3,Jackie,Scott,1933-12-22,NIR,58, ,A,0,0,0,0,jackie-scott
 taylt2,Tommy,Taylor,1932-01-29,ENG,58, ,A,0,0,0,0,tommy-taylor
 violde,Dennis,Viollet,1933-09-20,ENG,58, ,A,0,0,0,0,dennis-viollet
 websco,Colin,Webster,1932-07-17,WAL,58, ,A,0,0,0,0,colin-webster
+rowlja,Jack,Rowley,1920-10-07,ENG,58, , ,0,0,0,0,jack-rowley
+cockhe,Henry,Cockburn,1923-09-14,ENG,58, , ,0,0,0,0,henry-cockburn
 savaja,Jack,Savage,1929-12-14,ENG,59, ,P,0,0,0,0,jack-savage
 traube,Bert,Trautmann,1923-10-22,GER,59, ,P,0,0,0,0,bert-trautmann
 brank2,Ken,Branagan,1930-07-27,ENG,59, ,F,0,0,0,0,ken-branagan
@@ -319,6 +351,7 @@ puntbi,Bill,Punton,1934-05-09,SCO,64, ,A,0,0,0,0,bill-punton
 taital,Alex,Tait,1933-11-28,ENG,64, ,A,0,0,0,0,alex-tait
 taylha,Harry,Taylor,1935-10-06,ENG,64, ,A,0,0,0,0,harry-taylor_2
 whitle,Len,White,1930-03-23,ENG,64, ,A,0,0,0,0,len-white
+platte,Ted,Platt,1921-03-26,ENG,74, ,P,0,0,0,0,ted-platt
 uprino,Norman,Uprichard,1928-04-20,NIR,74, ,P,0,0,0,0,norman-uprichard
 guntph,Phil,Gunter,1932-01-06,ENG,74, ,F,0,0,0,0,phil-gunter
 mansja,Jack,Mansell,1927-08-22,ENG,74, ,F,0,0,0,0,jack-mansell
@@ -333,6 +366,7 @@ phill3,Len,Phillips,1922-09-11,ENG,74, ,M,0,0,0,0,len-phillips
 pickre,Reg,Pickett,1927-01-06,ENG,74, ,M,0,0,0,0,reg-pickett
 barnm1,Mike,Barnard,1933-07-18,ENG,74, ,A,0,0,0,0,mike-barnard
 dalego,Gordon,Dale,1928-05-20,ENG,74, ,A,0,0,0,0,gordon-dale
+davij3,John,Davies,1933-09-26,ENG,74, ,A,0,0,0,0,john-davies_10
 gordjo,Johnny,Gordon,1931-09-11,ENG,74, ,A,0,0,0,0,johnny-gordon
 hendja,Jackie,Henderson,1932-01-17,SCO,74, ,A,0,0,0,0,jackie-henderson
 neilpa,Pat,Neil,1937-10-24,ENG,74, ,A,0,0,0,0,pat-neil
@@ -340,8 +374,9 @@ newmro,Ron,Newman,1936-01-19,ENG,74, ,A,0,0,0,0,ron-newman
 raffro,Ron,Rafferty,1934-05-06,ENG,74, ,A,0,0,0,0,ron-rafferty
 reesde,Derek,Rees,1934-02-18,WAL,74, ,A,0,0,0,0,derek-rees
 reiddu,Duggie,Reid,1917-10-03,SCO,74, ,A,0,0,0,0,duggie-reid
+gemmma,Matt,Gemmell,1931-03-10,SCO,74, , ,0,0,0,0,matt-gemmell
 elsefr,Fred,Else,1933-03-31,ENG,76, ,P,0,0,0,0,fred-else
-thomgh,George Herbert,Thompson,1926-09-15,ENG,76, ,P,0,0,0,0,george-herbert-thompson
+thomg4,George,Thompson,1926-09-15,ENG,76, ,P,0,0,0,0,george-thompson
 cunnwi,Willie,Cunningham,1925-02-22,SCO,76, ,F,0,0,0,0,willie-cunningham
 dunnj2,Joe,Dunn,1925-09-20,SCO,76, ,F,0,0,0,0,joe-dunn
 marsjo,Joe,Marston,1926-01-07,AUS,76, ,F,0,0,0,0,joe-marston
@@ -360,7 +395,9 @@ fostbo,Bobby,Foster,1929-07-19,ENG,76, ,A,0,0,0,0,bobby-foster
 hatsde,Dennis,Hatsell,1930-06-09,ENG,76, ,A,0,0,0,0,dennis-hatsell
 highpe,Peter,Higham,1930-11-08,ENG,76, ,A,0,0,0,0,peter-higham
 joneer,Eric,Jones,1931-10-23,ENG,76, ,A,0,0,0,0,eric-jones
+lawrt2,Tommy,Lawrenson,1929-05-24,ENG,76, ,A,0,0,0,0,tommy-lawrenson
 morra1,Angus,Morrison,1924-04-26,SCO,76, ,A,0,0,0,0,angus-morrison
+waymch,Charlie,Wayman,1922-05-16,ENG,76, , ,0,0,0,0,charlie-wayman
 farmge,George,Farm,1924-07-13,SCO,7, ,P,0,0,0,0,george-farm
 wyllbo,Bob,Wyllie,1929-04-04,SCO,7, ,P,0,0,0,0,bob-wyllie
 armfji,Jimmy,Armfield,1935-09-21,ENG,7, ,F,0,0,0,0,jimmy-armfield
@@ -389,12 +426,16 @@ perrbi,Bill,Perry,1930-09-10,ENG,7, ,A,0,0,0,0,bill-perry
 smitk3,Ken,Smith,1932-05-21,ENG,7, ,A,0,0,0,0,ken-smith
 starma,Malcolm,Starkey,1936-01-25,ENG,7, ,A,0,0,0,0,malcolm-starkey
 tayler,Ernie,Taylor,1925-09-02,ENG,7, ,A,0,0,0,0,ernie-taylor
+withal,Alan,Withers,1930-10-20,ENG,7, ,A,0,0,0,0,alan-withers
+wrigb1,Billy,Wright,1931-03-04,ENG,7, ,A,0,0,0,0,billy-wright_4
+steple,Len,Stephenson,1930-07-14,ENG,7, , ,0,0,0,0,len-stephenson
 hincal,Alan,Hinchcliffe,1936-12-08,ENG,81, ,P,0,0,0,0,alan-hinchcliffe
 mcinda,David,McIntosh,1925-05-04,SCO,81, ,P,0,0,0,0,david-mcintosh_2
 ryalbr,Brian,Ryalls,1932-07-07,ENG,81, ,P,0,0,0,0,brian-ryalls
 willl2,Les,Williams,1935-03-27,ENG,81, ,P,0,0,0,0,les-williams
 conwto,Tony,Conwell,1932-01-17,ENG,81, ,F,0,0,0,0,tony-conwell
 curtno,Norman,Curtis,1924-09-10,ENG,81, ,F,0,0,0,0,norman-curtis
+kennvi,Vince,Kenny,1924-12-29,ENG,81, ,F,0,0,0,0,vince-kenny
 martj1,Jack,Martin,1935-08-20,SCO,81, ,F,0,0,0,0,jack-martin_2
 mcevdo,Don,McEvoy,1928-12-03,ENG,81, ,F,0,0,0,0,don-mcevoy
 butlb1,Barry,Butler,1934-07-30,ENG,81, ,M,0,0,0,0,barry-butler
@@ -403,11 +444,14 @@ ganned,Eddie,Gannon,1921-01-03,IRL,81, ,M,0,0,0,0,eddie-gannon
 kayxto,Tony,Kay,1937-05-13,ENG,81, ,M,0,0,0,0,tony-kay
 mcanto,Tom,McAnearney,1933-01-06,SCO,81, ,M,0,0,0,0,tom-mcanearney
 odonra,Ralph,O'Donnell,1931-10-17,ENG,81, ,M,0,0,0,0,ralph-odonnell
+turlmi,Mike,Turley,1936-02-14,ENG,81, ,M,0,0,0,0,mike-turley
 whitte,Terry,Whitham,1935-08-14,ENG,81, ,M,0,0,0,0,terry-whitham
 ellike,Keith,Ellis,1935-11-06,ENG,81, ,A,0,0,0,0,keith-ellis
 finnal,Alan,Finney,1933-10-31,ENG,81, ,A,0,0,0,0,alan-finney
 frogre,Redfern,Froggatt,1924-08-23,ENG,81, ,A,0,0,0,0,redfern-froggatt
 greer3,Ron,Greensmith,1933-01-22,ENG,81, ,A,0,0,0,0,ron-greensmith
+howepe,Peter,Howells,1932-09-23,ENG,81, ,A,0,0,0,0,peter-howells
+hukiar,Arthur,Hukin,1937-10-22,ENG,81, ,A,0,0,0,0,arthur-hukin
 marrja,Jack,Marriott,1928-04-01,ENG,81, ,A,0,0,0,0,jack-marriott_2
 mcanji,Jim,McAnearney,1935-03-20,SCO,81, ,A,0,0,0,0,jim-mcanearney
 quixal,Albert,Quixall,1933-08-09,ENG,81, ,A,0,0,0,0,albert-quixall
@@ -417,15 +461,19 @@ watsdo,Donald,Watson,1932-08-27,ENG,81, ,A,0,0,0,0,donald-watson
 wilkde,Derek,Wilkinson,1935-06-04,ENG,81, ,A,0,0,0,0,derek-wilkinson
 woodd2,Dennis,Woodhead,1925-06-12,ENG,81, ,A,0,0,0,0,dennis-woodhead
 seemiv,Ivor,Seemley,1929-06-30,ENG,81, , ,0,0,0,0,ivor-seemley
+jordcl,Clarrie,Jordan,1922-06-20,ENG,81, , ,0,0,0,0,clarrie-jordan
 burgte,Ted,Burgin,1927-04-29,ENG,82, ,P,0,0,0,0,ted-burgin
 hodgal,Alan,Hodgkinson,1936-08-16,ENG,82, ,P,0,0,0,0,alan-hodgkinson
 coldce,Cec,Coldwell,1929-01-12,ENG,82, ,F,0,0,0,0,cec-coldwell
+furnfr,Fred,Furniss,1922-07-10,ENG,82, ,F,0,0,0,0,fred-furniss
 gratde,Dennis,Gratton,1934-04-21,ENG,82, ,F,0,0,0,0,dennis-gratton
 johnho,Howard,Johnson,1925-07-17,ENG,82, ,F,0,0,0,0,howard-johnson
 richbr,Brian,Richardson,1934-10-05,ENG,82, ,F,0,0,0,0,brian-richardson
+ridgro,Roy,Ridge,1934-10-21,ENG,82, ,F,0,0,0,0,roy-ridge
 shawgr,Graham,Shaw,1934-07-09,ENG,82, ,F,0,0,0,0,graham-shaw
+denige,Geoff,Denial,1932-01-31,ENG,82, ,M,0,0,0,0,geoff-denial
 founja,Jack,Fountain,1932-05-27,ENG,82, ,M,0,0,0,0,jack-fountain
-hawkdm,Derek Marshall,Hawksworth,1927-07-16,ENG,82, ,M,0,0,0,0,derek-marshall-hawksworth
+hawkd1,Derek,Hawksworth,1927-07-16,ENG,82, ,M,0,0,0,0,derek-hawksworth
 ileyji,Jim,Iley,1935-12-15,ENG,82, ,M,0,0,0,0,jim-iley
 rawsco,Colin,Rawson,1926-11-12,ENG,82, ,M,0,0,0,0,colin-rawson
 shawjo,Joseph,Shaw,1928-06-23,ENG,82, ,M,0,0,0,0,joseph-shaw_2
@@ -457,6 +505,8 @@ aitkge,George,Aitken,1925-05-28,SCO,88, ,M,0,0,0,0,george-aitken
 bingbi,Billy,Bingham,1931-08-05,NIR,88, ,M,0,0,0,0,billy-bingham
 boltly,Lyall,Bolton,1932-07-11,ENG,88, ,M,0,0,0,0,lyall-bolton
 morrw1,Willie,Morrison,1934-03-31,SCO,88, ,M,0,0,0,0,willie-morrison
+snelal,Albert,Snell,1931-02-07,ENG,88, ,M,0,0,0,0,albert-snell
+woodno,Norman,Wood,1932-08-10,ENG,88, ,M,0,0,0,0,norman-wood
 wrigar,Arthur,Wright,1919-09-23,ENG,88, ,M,0,0,0,0,arthur-wright
 chiske,Ken,Chisholm,1925-04-12,SCO,88, ,A,0,0,0,0,ken-chisholm
 ellibi,Billy,Elliott,1925-03-20,ENG,88, ,A,0,0,0,0,billy-elliott
@@ -467,7 +517,9 @@ purdte,Ted,Purdon,1930-03-01,RSA,88, ,A,0,0,0,0,ted-purdon
 shacle,Len,Shackleton,1922-05-03,ENG,88, ,A,0,0,0,0,len-shackleton
 shieji,Jimmy,Shields,1931-09-26,NIR,88, ,A,0,0,0,0,jimmy-shields
 weddde,Derek,Weddle,1935-12-27,ENG,88, ,A,0,0,0,0,derek-weddle
+wrigt4,Tommy,Wright,1928-01-20,SCO,88, ,A,0,0,0,0,tommy-wright_6
 kirtha,Harry,Kirtley,1930-05-23,ENG,88, , ,0,0,0,0,harry-kirtley
+evanja,Jack,Evans,1932-10-21,ENG,88, , ,0,0,0,0,jack-evans_3
 barnar,Arthur,Barnard,1932-06-20,ENG,8, ,P,0,0,0,0,arthur-barnard
 grieke,Ken,Grieves,1925-08-27,ENG,8, ,P,0,0,0,0,ken-grieves
 hansst,Stan,Hanson,1915-12-27,ENG,8, ,P,0,0,0,0,stan-hanson
@@ -479,17 +531,20 @@ hartro,Roy,Hartle,1931-10-04,ENG,8, ,F,0,0,0,0,roy-hartle
 higgjo,John,Higgins,1932-10-15,ENG,8, ,F,0,0,0,0,john-higgins_3
 barrma,Malcolm,Barrass,1924-12-15,ENG,8, ,M,0,0,0,0,malcolm-barrass
 beller,Eric,Bell,1929-11-27,ENG,8, ,M,0,0,0,0,eric-bell
+hassha,Harold,Hassall,1929-03-04,ENG,8, ,M,0,0,0,0,harold-hassall
 hennde,Derek,Hennin,1931-12-28,ENG,8, ,M,0,0,0,0,derek-hennin
 neilto,Tommy,Neill,1930-10-03,SCO,8, ,M,0,0,0,0,tommy-neill
 parrra,Ray,Parry,1936-01-19,ENG,8, ,M,0,0,0,0,ray-parry
 wheejo,John,Wheeler,1928-07-26,ENG,8, ,M,0,0,0,0,john-wheeler
 allcte,Terry,Allcock,1935-12-10,ENG,8, ,A,0,0,0,0,terry-allcock
 baild1,Dennis,Bailey,1935-09-24,ENG,8, ,A,0,0,0,0,dennis-bailey_2
+bircbr,Brian,Birch,1938-04-09,ENG,8, ,A,0,0,0,0,brian-birch_2
 edwabr,Bryan,Edwards,1930-10-27,ENG,8, ,A,0,0,0,0,bryan-edwards
 gubbra,Ralph,Gubbins,1932-01-31,ENG,8, ,A,0,0,0,0,ralph-gubbins
 holddo,Doug,Holden,1930-09-28,ENG,8, ,A,0,0,0,0,doug-holden
 loftna,Nat,Lofthouse,1925-08-27,ENG,8, ,A,0,0,0,0,nat-lofthouse
 moirwi,Willie,Moir,1922-04-19,SCO,8, ,A,0,0,0,0,willie-moir
+pillvi,Vince,Pilling,1932-01-08,ENG,8, ,A,0,0,0,0,vince-pilling
 stevde,Dennis,Stevens,1933-11-30,ENG,8, ,A,0,0,0,0,dennis-stevens
 websha,Harry,Webster,1930-08-22,ENG,8, ,A,0,0,0,0,harry-webster
 ditcte,Ted,Ditchburn,1921-10-24,ENG,91, ,P,0,0,0,0,ted-ditchburn
@@ -505,8 +560,10 @@ bailed,Eddie,Baily,1925-08-06,ENG,91, ,M,0,0,0,0,eddie-baily
 blanda,Danny,Blanchflower,1926-02-10,NIR,91, ,M,0,0,0,0,danny-blanchflower
 britco,Colin,Brittan,1927-06-02,ENG,91, ,M,0,0,0,0,colin-brittan
 clarh2,Harry,Clarke,1923-02-23,ENG,91, ,M,0,0,0,0,harry-clarke
+kingde,Derek,King,1929-08-15,ENG,91, ,M,0,0,0,0,derek-king_2
 marcto,Tony,Marchi,1933-01-21,ENG,91, ,M,0,0,0,0,tony-marchi
 nichbi,Bill,Nicholson,1919-01-26,ENG,91, ,M,0,0,0,0,bill-nicholson
+wettra,Ralph,Wetton,1927-06-06,ENG,91, ,M,0,0,0,0,ralph-wetton
 wooda2,Alan,Woods,1937-02-15,ENG,91, ,M,0,0,0,0,alan-woods_2
 broojo,John,Brooks,1931-12-23,ENG,91, ,A,0,0,0,0,john-brooks
 dulimi,Micky,Dulin,1935-10-25,ENG,91, ,A,0,0,0,0,micky-dulin
@@ -520,7 +577,10 @@ owenal,Aled,Owen,1934-01-07,WAL,91, ,A,0,0,0,0,aled-owen
 robbge,George,Robb,1926-06-01,ENG,91, ,A,0,0,0,0,george-robb
 stokal,Alfie,Stokes,1932-10-03,ENG,91, ,A,0,0,0,0,alfie-stokes
 waltso,Sonny,Walters,1924-09-05,ENG,91, ,A,0,0,0,0,sonny-walters
+bennle,Les,Bennett,1918-01-10,ENG,91, , ,0,0,0,0,les-bennett
+dowsdi,Dickie,Dowsett,1931-07-03,ENG,91, , ,0,0,0,0,dickie-dowsett
 barng1,Geoff,Barnsley,1935-12-09,ENG,95, ,P,0,0,0,0,geoff-barnsley
+davir6,Reg,Davies,1933-10-10,ENG,95, ,P,0,0,0,0,reg-davies_2
 sandji,Jimmy,Sanders,1920-07-05,ENG,95, ,P,0,0,0,0,jimmy-sanders
 howedo,Don,Howe,1935-10-12,ENG,95, ,F,0,0,0,0,don-howe
 milll1,Len,Millard,1919-03-07,ENG,95, ,F,0,0,0,0,len-millard

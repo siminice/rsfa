@@ -1,4 +1,4 @@
-421
+436
 adamma,Adamczyk,Marcel,1935-01-05,FRA,giraumont,FRA
 almeru,Almeida,Rui,1969-09-29,POR,Lissabon,POR
 alonpi,Alonzo,Pierre,1940-03-23,FRA,Meknès,MAR
@@ -48,6 +48,7 @@ blanla,Blanc,Laurent,1965-11-19,FRA,Alés,FRA
 blanro,Blanc,Robert,1944-05-08,FRA,Carnoules,FRA
 blaqbe,Blaquart,Bernard,1957-08-16,FRA,Roumazières-Loubert,FRA
 blazmi,Blaževic,Miroslav,1935-02-10,CRO,Travnik,BOS
+boasav,Villas-Boas,André,1977-10-17,POR,Porto,POR
 boella,Bölöni,Ladislau,1953-03-11,ROM,Târgu Mureş,ROM
 bollbr,Bollini,Bruno,1933-09-14,FRA, ,FRA
 boraan,Boragno,André,1935-09-07,FRA,La Londe les Maures,FRA
@@ -119,10 +120,12 @@ dubacl,Dubaële,Claude,1940-01-19,FRA,Lens,FRA
 dugalo,Dugauguez,Louis,1918-02-21,FRA,Thénac,FRA
 duguja,Duguépéroux,Jacky,1948-01-02,FRA,Saint-Malô,FRA
 dumafr,Dumas,Franck,1968-01-09,FRA,Bayeux,FRA
+dupala,Dupal,Ladislav,1913-04-17,FRA,Dubany,CZE
 dupoal,Dupont,Alex,1954-06-30,FRA,Dunkerque,FRA
 duprpa,Dupraz,Pascal,1962-09-19,FRA,Annemasse,FRA
 dusscl,Dusseau,Claude,0000-00-00,FRA, ,FRA
 ehrhro,Ehrhardt,Rolland,1941-02-22,FRA,Haute-Yutz,FRA
+elsnlu,Elsner,Luka,1982-08-02,SLO,Ljubljana,SLO
 emerun,Emery,Unai,1971-11-03,SPA,Hondarribi,SPA
 emonal,Emon,Albert,1953-06-24,FRA,Berre-l'Étang (Bouches-du-Rhône),FRA
 eoxxge,Eo,Georges,1948-11-07,FRA,Lorient,FRA
@@ -137,6 +140,7 @@ favrlu,Favre,Lucien,1957-11-02,SUI,Saint-Barthélemy,SUI
 ferhka,Ferhaoui,Kader,1965-03-19,ALG,Oran,ALG
 fernje,Fernández,Jean,1954-10-08,FRA,Monstaganem,ALG
 fernlu,Fernández,Luis,1959-10-02,FRA,Tenerife,SPA
+fernma,Fernández,Manuel,1922-02-01,SPA,Langreo,SPA
 ferrko,Ferry,Koczur,1930-09-02,FRA,Brunssum,NED
 firoab,Firoud,Abdelkader,1919-10-11,ALG,Oran,ALG
 flampi,Flamion,Pierre,1924-12-13,FRA,Mohon,FRA
@@ -182,6 +186,7 @@ grizge,Grizzetti,Gérard,1943-11-20,FRA,Aubervillers,FRA
 guegol,Guégan,Olivier,1972-08-20,FRA,Longjumeau,FRA
 guenpl,Le Guen,Paul,1964-03-01,FRA,Pencran,FRA
 guerer,Guérit,Éric,1964-07-21,FRA,Niort,FRA
+guerhe,Guérin,Henri,1921-08-27,FRA,Montmirail,FRA
 guidfr,Guidolin,Francesco,1955-10-03,ITA,Castelfranco Veneto,ITA
 guiljm,Guillou,Jean-Marc,1945-12-20,FRA,Bouaye,FRA
 guioda,Guion,David,1967-09-30,FRA,Le Mans,FRA
@@ -199,6 +204,7 @@ hercbe,Herczeg,Bela,1911-12-06,HUN,Budapest,HUN
 heylge,Heylens,Georges,1941-08-08,BEL,Etterbeek,BEL
 hildra,Hild,Raymond,1934-12-04,FRA,Weyersheim,FRA
 hinsph,Hinschberger,Philippe,1959-11-19,FRA,Algrange,FRA
+hognvi,Hognon,Vincent,1974-08-16,FRA,Nancy,FRA
 hollhe,Hollink,Hennie,1931-10-01,NED,Glanerbrug,NED
 honxlo,Hon,Louis,1924-09-14,FRA,Couches Les Mines,FRA
 houlge,Houllier,Gérard,1947-09-03,FRA,Thérouanne,FRA
@@ -215,6 +221,7 @@ jaroka,Jarolím,Karel,1956-08-23,CZE,Čáslav,CZE
 jasslu,Jasseron,Lucien,1913-12-29,ALG,Oran,FRA
 jeaman,Jeampierre,André,1917-05-10,FRA,Don sur Auron,FRA
 jeanda,Jeandupeux,Daniel,1949-02-07,SUI,Saint-Imier,SUI
+jobast,Jobard,Stéphane,1971-02-22,FRA,Langres,FRA
 jonqro,Jonquet,Robert,1925-05-03,FRA,Paris,FRA
 jorgar,Jorge,Artur,1946-02-13,POR,Oporto,POR
 kasphe,Kasperczak,Henryk,1946-07-10,POL,Zabrze,POL
@@ -272,10 +279,13 @@ mezymi,Mézy,Michel,1948-08-15,FRA,Aigues-Mortes,FRA
 mezzmo,Mezzara,Mohamed,1937-05-08,ALG,Zeralda,ALG
 michhe,Michel,Henri,1947-10-28,FRA,Aix-en-Provence,FRA
 michjo,Míchel, ,1963-03-23,SPA,Madrid,SPA
+michka,Michlowski,Karel,1918-10-09,CZE,Ladna,CZE
 mignai,Mignot,Aimé,1932-12-03,FRA,Aix-en-Provence,FRA
 miliml,Le Milinaire,Michel,1931-02-07,FRA,Kergrist-Moëlou,FRA
 mirohe,Mirouze,Hervé,1924-12-10,FRA,Montpellier,FRA
+mirolu,Miró, ,1913-03-03,SPA,Barcelona,SPA
 moizal,Moizan,Alain,1953-11-18,FRA,Saint-Louis,SEN
+molial,Molina,Albert,1921-09-28,ITA,Solbiaté Arno,ITA
 momber,Mombaerts,Erick,1955-04-21,FRA,Chantecoq,FRA
 montch,Montes,Christian,1942-01-12,FRA,Rauzan,FRA
 montja,Montagne,Jacky,1940-04-28,FRA,Mons-en-Baroeul,FRA
@@ -291,6 +301,7 @@ mulljo,Muller,Joël,1952-01-12,FRA,Donchery,FRA
 muroal,Muro,Alberto,1927-04-27,ARG,Buenos Aires,ARG
 muslsl,Muslin,Slavoljub,1953-06-15,SRB,Beograd,SRB
 musxlo,Mus,Louis,1921-10-26,FRA,Grasse,FRA
+nagygy,Nagy,Gyula,1924-04-07,HUN,Szob,HUN
 nagyla,Nagy,Ladislas,1931-12-16,FRA,La Tronche,FRA
 navavi,Navarro,Vincent,1942-10-05,FRA,Oran,ALG
 ndorja,N'Doram,Japhet,1966-02-27,CHA,N'Djaména,CHA
@@ -316,6 +327,7 @@ passfr,Passi,Franck,1966-03-28,FRA,Bergerac,FRA
 pavimi,Pavić,Milorad,1921-11-11,SRB,Valjevo,SRB
 pavomi,Pavon,Michel,1968-11-07,FRA,La Ciotat,FRA
 pelich,Pelissier,Christophe,1965-10-05,FRA,Revel,FRA
+penvar,Penverne,Armand,1926-11-26,FRA,Pont-Scorff,FRA
 perfjc,Perfetti,Jean-Claude,1940-06-15,FRA,Toulon,FRA
 perral,Perrin,Alain,1956-10-07,FRA,Lure,FRA
 petycl,Petyt,Claude,1944-04-15,FRA,Lille,FRA
@@ -326,6 +338,7 @@ piasfr,Piasecki,Francis,1951-07-28,FRA,Talange,FRA
 pibapi,Pibarot,Pierre,1916-07-23,FRA,Alès,FRA
 pinojo,Pinot,José,1965-04-30,FRA,Beauvais,FRA
 pirolo,Pironi,Louis,1924-11-06,FRA,Marseille,FRA
+pleire,Pleimelding,René,1925-02-13,FRA,Joudreville,FRA
 poulyv,Pouliquen,Yvon,1962-10-17,FRA,Morlaix,FRA
 poyegu,Poyet,Gustavo,1967-11-15,URU,Montevideo,URU
 preswa,Presch,Walter,1910-08-05,AUT,Wien,AUT
@@ -389,6 +402,7 @@ suaujc,Suaudeau,Jean-Claude,1938-05-24,FRA,Cholet,FRA
 sudran,Sudre,André,1936-05-08,FRA,Toulon,FRA
 sundju,Sundermann,Jürgen,1940-01-25,GER,Mülheim a.d.R.,GER
 susisa,Sušić,Safet,1955-04-13,YUG,Zavidovići,BOS
+sylvsy,Sylvinho, ,1974-04-12,BRA,São Paulo,BRA
 taddfd,De Taddeo,Francis,1957-12-19,FRA,Briey,FRA
 takasy,Takač,Sylvester,1940-11-08,SRB,Đurđevo,SRB
 thetjl,Thétard,Jean-Louis,1940-09-24,FRA,Ajaccio,FRA
@@ -413,6 +427,7 @@ vincje,Vincent,Jean,1930-11-29,FRA,La Beuvrière,FRA
 walljg,Wallemme,Jean-Guy,1967-08-10,FRA,Maubeuge,FRA
 webela,Weber,Laurent,1972-09-01,FRA,Colmar,FRA
 wengar,Wenger,Arsène,1949-10-22,FRA,Strasbourg,FRA
+wicafr,Wicart,François,1926-01-03,FRA,Bruay-en-Artois,FRA
 wilcer,Wilczek,Erwin,1940-11-20,POL,Wirek,POL
 zakamd,Zakarian,Michel Der,1963-02-18,FRA,Yerevan,ARM
 zatema,Zatelli,Mario,1912-12-21,FRA,Setif,ALG
