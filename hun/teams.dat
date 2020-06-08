@@ -1,4 +1,4 @@
-210
+277
 Ferencvaros    Ferencvaros TC Budapest
 MTK            MTK Hungaria Budapest
 Ujpest         Ujpesti TE
@@ -42,10 +42,10 @@ Kaposvolgye    Kaposv�lgye VSC
 Budakalasz     Budakalaszi MSE Cora
 Gyirmot        Gyirmot
 DAC            Integral DAC Gy�r
-Celld�m�lk     Celld�m�lki VSE
+Celldomolk     Celld�m�lki VSE
 Barcs          Barcsi FC
-Szentlorinc    Szentl�rinc-Orm�ns�g
-Mez�falva      Mez�falva
+Szentlorinc Or Szentl�rinc-Orm�ns�g
+Mezofalva      Mez�falva
 Penzugyor      Penzugyor SE
 BaktaloranthazaBaktal�r�nth�za VSE
 Vecses         Vecses FC
@@ -66,9 +66,9 @@ Siofok         Siofoki FC Banyas
 Nagykanizsa    Nagykanizsai Olajbanyasz
 Gazszer        Gazszer Akaszto
 BVSC           BVSC Budapest
-Kerulet        Ker�leti TVE Budapest
+III Kerulet    Kerületi TVE Budapest
 Tiszakecske    Tiszakecske FC
-Stadler        Ilzer Stadler FC
+Kiskoros       Ilzer Stadler FC
 Balassagyarmat Balassagyarmati SE
 Volan          Volan FC
 Eger           Eger SE
@@ -85,15 +85,15 @@ Jaszbereny     Jaszbereny
 Budaors        Budaors
 Postas         Budapesti Postas
 Sortex         Sortex
-Szeged Petofi  Szeged Petofi
+Szeged Dozsa   Szegedi Dozsa
 Boripar        B�ripari DSE
 MATEOSZ        Teherfuvar
-Szentorinc     Szent�rinc AG
+Szentlorinc AC Szent�rinc AG
 Kistext        Kistext
 Goldberger     Goldberger
 MOGURT         MOG�RT
 Elektromos     Elektromos
-Perecses       Perecses
+Pereces        Pereces
 Testveriseg    Testveriseg
 Zuglo          Zuglo MADISZ
 HAC            HAC
@@ -123,7 +123,7 @@ Taxisoks       Taxisoks
 Kassai         Kassai AC
 Phobus         P�bus
 Budai 11       Budai 11
-III Kerulet    III Kerulet FC
+VII Kerulet    VII Kerulet FC
 Attila         Attila
 Somogy         Somogy
 Sabaria        Sabaria
@@ -147,7 +147,7 @@ Fehervar-2     FC Fehervar II
 Fot            Foti SE
 Dunakez        Dunakezi ADtransz
 Komarom        Komaromi FC
-Hajduszoboszlo Hajduszoboszlo
+Kaba           Hajduszoboszlo
 Tiszaujvaros   Tiszaujvarosi FC
 Ujpest-2       Ujpest FC II
 Ferencvaros-2  Ferencvarosi TC II
@@ -185,7 +185,7 @@ Bekescsaba-2   B�k�scsaba II
 Hodmezova      H�dmez�v�s�rhely FC
 Csornai        Csornai SE
 Puskas-2       Pusk�s FC II
-Erdi           �rdi VSE
+Erd            Erdi VSE
 Diosgyor-2     Di�sgy�r II
 Tallya         T�llya KSE
 Somos          Somos SE
@@ -195,7 +195,7 @@ Mehkerek       M�hker�ki SE
 Morahalom      M�rahalom VSE
 Kunszentm      Kunszentmarton
 Csongrad       Csongradi LC
-Kiskoros       Kiskoros
+Kiskoros-2     Kiskoros II
 Motim          MTE Motim TE
 Szabadkikoto   THSE Szabadkikoto
 Ivancsa        Iváncsa KSE
@@ -209,3 +209,70 @@ Debrecen-2     Debreceni VSC II
 Bicske         Bicskei TC
 Lipot          Lipót SK
 Kelen          Kelen SC Budapest
+ETC            Erzsébeti TC
+BEAC           Budapesti EAC
+Vivo           Vívó és Atlétikai Club
+BTC            Budapesti TC
+Zuglo AC       Zuglói AC
+UTSE           Újpesti Törekvés SE
+Magyar         Magyar AC
+Muegyetem      Műegyetemi AFC
+Terezvaros     Terézvárosi FC
+BAK            Budapesti AK
+Fovaros        Fővárosi TK
+Typographia    Typographia
+MUE            Magyar Úszó Egylet
+BSC            Budapesti SC
+Pecs Baranya   Pécs-Baranya FC
+Sopron FAC     Soproni FAC
+Tiszavasvar    Tiszavasvári SE
+Kecskemet SC   Kecskeméti SC
+Hajdunanas     Hajdúnánási FC
+Mohacs         Mohácsi FC
+Keszthely      Keszthelyi Haladás
+Godollo        Gödöllői SK
+Beremend       Beremendi Építők SK
+Szarvas        Szarvasi Vasas SSE
+Bag            Bagi TC
+Oroszlanyi     Oroszlányi Bányász SE
+Miske          Miskei ALC
+Debrecen MTE   Debreceni MTE
+Tapolc         Tapolcai Bauxitbányász SE
+Debrecen Kin   Debreceni Kinizsi SE
+Mezotur        Mezőtúri Honvéd SE
+Csurgo         Csurgói TK
+Epitok         Budapesti Építők SC
+22 Volan       Budapesti 22. Volán SC
+Batony         Nagybátonyi SC
+Varpalota      Várpalotai Bányász SK
+Dombovar       Dombóvári Vasutas MSE
+Szentendre     Honvéd Kossuth Lajos Főiskol
+Babolna        Bábolnai SE
+Papp Jozsef    Honvéd Papp József SE
+Asztalos       Honvéd Asztalos János SE
+Sellye         Sellyei SK
+Rakoczi        Honvéd Rákóczi SE
+Fuzfoi         NIKE Fűzfői AK
+Peti           Péti Munkás TE
+DELEP          PSzegedi DÉLÉP SC
+Spartacus      Budapesti Spartacus SC
+Duna Epitok    Dunaújvárosi Építők SE
+Borsod         Borsod Volán SE
+MAV Nagyk      MÁV Nagykanizsa TE
+Gyor Dozsa     Győri Dózsa SE
+Esztergom      FC Esztergom
+Janoshalma     Jánoshalmi FC
+Vasas Izzo     Budapesti Vasas Izzó
+TASK           Békéscsabai TASK
+Repcelak       Répcelaki SE
+Ikarus         Ikarus BSE-Fejlődő Kertváro
+Szolnok MTE    Szolnoki MTE
+Lang           Láng Vasas SK
+Szigethalom    Csepel Autó SE Szigethalom
+Salgotarjan K  Salgótarjáni Kohász SE
+Del Budai      Budai Spartacus
+Traktor        Kispesti Traktorgyár
+Sopron VSE     Soproni Vasutas SE
+Diosgyor B     Diósgyőri Bányász
+Miskolc M      Miskolci Munkás TE
+Pecs Gaz       Pécsi Gázmü
