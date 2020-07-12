@@ -1,32 +1,247 @@
-31
-arkabo,Arkadiev,Boris,Борис Андреевич Аркадьев,1899-09-21,URS, ,URS,boris-arkadiev
-arkavi,Arkadiev,Vitali,Виталий Андреевич Аркадьев, ,URS, ,URS,vitaliy-arkadiev
-batypa,Batîrev,Pavel,Павел Васильевич Батырев,1897-02-25,URS, ,URS,pavel-batyrev
-blange,Blank,Gherman,Герман Исаакович Бланк, , , , ,german-blank
-blinvl,Blinkov,Vladimir,Владимир Георгиевич Блинков,1901-06-10,URS, ,URS,vladimir-blinkov
-bukhse,Buhteev,Serghei,Сергей Васильевич Бухтеев,1896-12-20,URS, ,URS,sergei-bukhteev
-butumi,Butusov,Mihail,Михаил Павлович Бутусов,1899-08-02,URS, ,URS,mikhail-butusov
-dangab,Dangulov,Abram,Абрам Христофорович Дангулов,1900-08-18,URS, ,URS,abram-dangulov
-egorko,Egorov,Konstantin,Константин Александрович Егоров, ,URS, ,URS,konstantin-egorov
-fivean,Fivébr,Antonín,1888-11-22,CZE,Praha,CZE, ,antonin-fivebr
-fomivl,Fomin,Vladimir,Владимир Васильевич Фомин,1905,URS, ,URS,vladimir-fomin
-khodyu,Hodotov,Yuri,Юрий Николаевич Ходотов,1914-01-20,URS, ,URS,yuri-khodotov
-kravko,Kravcenko,Konstantin,Константин Иосифович Кравченко, ,URS, ,URS,konstantin-kravchenko
-krotni,Krotov,Nikolai,Николай Федорович Кротов,1898,URS, ,URS,nikolai-krotov
-kvasko,Kvaşnikov,Konstantin,Константин Павлович Квашнин,1899,URS, ,URS,konstantin-kvashnikov
-larini,Larionov,Nikolai,Николай Николаевич Ларионов, ,URS, ,URS,nikolai-larionov
-lemeko,Lemeşev,Konstantin,Константин Иванович Лемешев,1907,URS, ,URS,konstantin-lemeshev
-nataiv,Natarov,Ivan,Иван Андреевич Натаров, ,URS, ,URS,ivan-natarov
-nikini,Nikitin,Nikolai,Николай Николаевич Никитин,1895,URS, ,URS,nikolai-nikitin
-okunmi,Okun,Mihail,Михаил Осипович Окунь,1898-03-18,URS, ,URS,mikhail-okun
-parspa,Parsadanov,Paruir,Паруйр Герасимович Парсаданов,1897,URS, ,URS,paruir-parsadanov
-popope,Popov,Piotr,Петр Герасимович Попов, ,URS, ,URS,petr-popov
-scheal,Şcelkov,Aleksandr,Александр Иванович Щелчков,1906-08-12,URS, ,URS,aleksandr-schelkov
-shveal,Şveţov,Aleksandr,Александр Трифонович Швецов, ,URS, ,URS,aleksandr-shvetsov
-sokoal,Sokolov,Aleksei,Алексей Андреевич Соколов,1904-12-08,URS, ,URS,aleksey-sokolov
-sotnal,Sotnikov,Aleksei,Алексей Андреевич Сотников, ,URS, ,URS,aleksey-sotnikov
-sushmi,Suşkov,Mihail,Михаил Павлович Сушков,1899,URS, ,URS,mikhail-sushkov
-tovamo,Tovarovski,Moisei,Моисей Давидович Товаровский,1902-07-11,URS, ,URS,moisey-tovarovskiy
-yudemi,Yudenici,Mihail,Михаил Иванович Юденич,1902,URS, ,URS,mikhail-yudenich
-zhibko,Jiboedov,Konstantin,Константин Михайлович,Жибоедов,1899,URS, ,konstantin-zhiboedov
-zzzzzz,Zzzz,Zz,Zz Zzzz,0000-00-00, , , ,zz-zzzz
+246
+abraal,Abramov,Aleksandr,Александр Кузьмич Абрамов,0000-00-00,URS,Москва, ,483854-abramov-aleksandr-kuzmich
+agapvl,Agapov,Vladimir,Владимир Михайлович Агапов,1933-11-18,RUS,Москва,URS,105326-agapov-vladimir-mihajlovich
+akhano,Akhalkatsi,Nodar,Нодар Парсаданович Ахалкаци,1938-01-02,URS,Тбилиси,URS,390100-ahalkaci-nodar-parsadanovich
+akiman,Akimov,Anatoliy,Анатолий Михайлович Акимов,0000-00-00,URS,Москва, ,105339-akimov-anatolij-mihajlovich
+alesah,Aleskerov,Ahməd,Ахмед Лятифович Алескеров,1935-10-05,URS,Баку, ,70574-aleskerov-ahmed-lyatifovich
+alovar,Alov,Arkadiy,Аркадий Иванович Алов,1914-12-04,URS,д. Тарасово,URS,105366-alov-arkadij-ivanovich
+altmse,Altman,Semyon,Семён Иосифович Альтман,1946-04-21,URS,Чугуев,UKR,105368-altman-semyon-iosifovich
+andrar,Andriasyan,Arkadiy,Аркадий Георгиевич Андриасян (Андриасов),1947-08-11,ARM,Баку,URS,105381-andriasyan-andriasov-arkadij-georgievich
+andrga,Andriasov,Gayk,Гайк Аршакович Андриасов (Андриасян),0000-00-00,URS,Баку, ,105392-andriasov-andriasyan-gajk-arshakovich
+andriv,Andreev,Ivan,Иван Яковлевич Андреев,0000-00-00,URS, ,URS,105387-andreev-ivan-yakovlevich
+apukbo,Apukhtin,Boris,Борис Трифонович Апухтин,1906-03-04,URS,Красково, ,484282-apuhtin-boris-trifonovich
+arhagr,Arhangelskiy,Grigoriy,Григорий Иванович Архангельский,1896-05-12,RUS,м. Никольское, ,412242-arhangelskij-grigorij-ivanovich
+arkabo,Arkadiev,Boris,Борис Андреевич Аркадьев,1899-09-21,RUS,Нарва, ,155138-arkadev-boris-andreevich
+arkavi,Arkadiev,Vitaliy,Виталий Андреевич Аркадьев,1898-09-08,URS,Нарва, ,1392322-arkadev-vitalij-andreevich
+arkhgr,Arkhangelskiy,Grigoriy,Григорий Иванович Архангельский,1896-05-12,RUS,м. Никольское, ,412242-arhangelskij-grigorij-egor-zinovevich
+arzave,Arzamastsev,Veniamin,Вениамин Владимирович Арзамасцев,1937-08-01,BLR,с. Казакевичево, ,105415-arzamascev-veniamin-vladimirovich
+asatka,Asatiani,Kakhi,Кахи Шалвович Асатиани,1947-01-01,URS,Телави,URS,105433-asatiani-kahi-shalvovich
+balami,Balakin,Mikola,Николай Николаевич Балакин,0000-00-00,URS,Киев, ,105478-balakin-nikolaj-nikolaevich
+batypa,Batyrev,Pavel,Павел Васильевич Батырев,1897-02-25,URS,д. Лопатино,URS,601518-batyrev-pavel-vasilevich
+baziol,Bazilevich,Oleg,Олег Петрович Базилевич,1938-07-06,URS,Киев,URS,105466-bazilevich-oleg-petrovich
+bekhva,Bekhtenev,Valeriy,Валерий Борисович Бехтенев,1914-12-08,URS,Барнаул, ,105567-behtenev-valerij-borisovich
+belovi,Belov,Viktor,Виктор Петрович Белов,1925-01-23,RUS,Москва,RUS,105531-belov-viktor-petrovich
+belovl,Belousov,Vladimir,Владимир Сергеевич Белоусов,1947-07-11,RUS,Москва,URS,105539-belousov-vladimir-sergeevich
+berdmi,Berdzenishvili,Mikhail,Михаил Ираклиевич Бердзенишвили,0000-00-00,URS,Тифлис, ,105559-berdzenishvili-mihail-iraklievich
+beskko,Beskov,Konstantin,Константин Иванович Бесков,1920-11-18,RUS,Москва,RUS,70796-beskov-konstantin-ivanovich
+bibaan,Biba,Andrey,Андрей Андреевич Биба,1937-08-10,URS,Киев,URS,105570-biba-andrej-andreevich
+blinvl,Blinkov,Vladimir,Владимир Георгиевич Блинков,0000-00-00,RUS,Москва, ,412249-blinkov-vladimir-georgievich
+blinvs,Blinkov,Vsevolod,Всеволод Константинович Блинков,1918-12-10,URS,Новониколаевск,URS,105583-blinkov-vsevolod-konstantinovich
+bobrvs,Bobrov,Vsevolod,Всеволод Михайлович Бобров,1922-12-01,URS,Моршанск, ,105594-bobrov-vsevolod-mihajlovich
+bondge,Bondarenko,Gennadiy,Геннадий Борисович Бондаренко,1929-02-04,URS,Гагра,GEO,105619-bondarenko-gennadij-borisovich
+bozemi,Bozenenkov,Mikhail,Михаил Георгиевич Бозененков,1921-01-24,URS,Рославль,URS,717304-bozenenkov-mihail-georgievich
+bubuva,Bubukin,Valentin,Валентин Борисович Бубукин,1933-04-23,URS,Москва,URS,105658-bubukin-valentin-borisovich
+bukhse,Bukhteev,Sergey,Сергей Васильевич Бухтеев,1896-12-20,RUS,Москва, ,412254-buhteev-sergej-vasilevich
+burmpy,Burmistrov,Pyotr,Пётр Петрович Бурмистров,0000-00-00,URS,Москва, ,105678-burmistrov-pyotr-petrovich
+butumi,Butusov,Mikhail,Михаил Павлович Бутусов,1900-06-18,URS,Мышкин, ,105686-butusov-mihail-pavlovich
+byshan,Byshovets,Anatoliy,Анатолий Фёдорович Бышовец,1946-04-23,RUS,Киев,URS,70920-byshovec-anatolij-fyodorovich
+cheniS,Chen,Ir Son,Ир Сон (Андрей) Бу Ирович Чен,1921-08-06,URS, ,URS,406438-chen-ir-son-andrej-bu-irovich
+chkhne,Chkhatarashvili,Nestor,Нестор Иосифович Чхатарашвили,0000-00-00,URS,Тифлис, ,108236-chhatarashvili-nestor-iosifovich
+chokgi,Chokheli,Givi,Гиви Дмитриевич Чохели,1937-06-27,URS,Телави,URS,108223-choheli-givi-dmitrievich
+churmi,Churkin,Mikhail,Михаил Васильевич Чуркин,0000-00-00,URS,Московская губ.,URS,593451-churkin-mihail-vasilevich
+dangab,Dangulov,Abram,Абрам Христофорович Дангулов,1900-08-18,URS,с. Армавир, ,105265-dangulov-abram-hristoforovich
+djedga,Djedjelava,Gayoz,Гайоз Иванович Джеджелава,0000-00-00,URS,Тифлис, ,106061-dzhedzhelava-gajoz-ivanovich
+dmitya,Dmitrasevich,Yaroslav,Ярослав Иванович Дмитрасевич,1940-05-27,URS,п.г.т. Великий Любень, ,393472-dmitrasevich-yaroslav-ivanovich
+dubivi,Dubinin,Viktor,Виктор Иванович Дубинин,0000-00-00,URS,Москва, ,106099-dubinin-viktor-ivanovich
+egorko,Egorov,Konstantin,Константин Андреевич Егоров,0000-00-00,URS,Санкт-Петербург,URS,584377-egorov-konstantin-andreevich
+elisev,Eliseev,Evgeniy,Евгений Иванович Елисеев,1908-12-25,URS,Москва, ,106144-eliseev-evgenij-ivanovich
+emetvl,Emets,Vladimir,Владимир Александрович Емец,1937-04-03,URS,Никополь, ,393815-emec-vladimir-aleksandrovich
+ermiva,Ermilov,Vasiliy,Василий Алексеевич Ермилов,1914-01-13,URS,Вязники, ,106163-ermilov-vasilij-alekseevich
+eskoal,Eskov,Aleksey,Алексей Алексеевич Еськов,1944-06-23,URS,Грозный,RUS,106174-eskov-aleksej-alekseevich
+faizvl,Faizulin,Vladimir,Владимир Файзулович Файзулин,1952-11-25,RUS,Сталинград,RUS,73404-fajzulin-vladimir-fajzulovich
+falyar,Falyan,Artëm,Артём Гайкович (Григорьевич) Фальян,1919-12-27,URS,Баку,URS,108014-falyan-artyom-gajkovich-grigorevich
+fdorva,Fëdorov,Valentin,Валентин Васильевич Фёдоров,0000-00-00,URS,Санкт-Петербург,URS,108024-fyodorov-valentin-vasilevich
+fdorvi,Fëdorov,Viktor,Виктор Иванович Фёдоров,1928-08-27,URS,Москва,RUS,108025-fyodorov-viktor-ivanovich
+fedovl,Fedotov,Vladimir,Владимир Григорьевич Федотов,1943-01-18,RUS,Москва,URS,73421-fedotov-vladimir-grigorevich
+filava,Filatov,Valeri,Валерий Николаевич Филатов,1950-11-18,RUS,Ашхабад,URS,73438-filatov-valerij-nikolaevich
+filipy,Filippov,Pyotr,Пётр Павлович Филиппов,0000-00-00,RUS,Санкт-Петербург,URS,146191-filippov-pyotr-pavlovich
+fivean,Fivebr,Antonin,Антонин Фивебр,1888-11-22,CZE,Прага,CZE,108984-fivebr-antonin
+fokiev,Fokin,Evgeniy,Евгений Васильевич Фокин,1909-10-25,URS,Подольск, ,108055-fokin-evgenij-vasilevich
+fomemi,Fomenko,Mikhail,Михаил Иванович Фоменко,1948-09-19,URS,с. Малая Рыбица, ,108058-fomenko-mihail-ivanovich
+fomivl,Fomin,Vladimir,Владимир Васильевич Фомин,0000-00-00,URS,Харьковская губ.,URS,231392-fomin-vladimir-vasilevich
+gazzva,Gazzaev,Valeriy,Валерий Георгиевич Газзаев,1954-08-07,RUS,Орджоникидзе,RUS,71058-gazzaev-valerij-georgievich
+glazge,Glazkov,Georgiy,Георгий Фёдорович Глазков,1968-11-18,URS,Верейский р-н,URS,105853-glazkov-georgij-fyodorovich
+glebni,Glebov,Nikolay,Николай Яковлевич Глебов,0000-00-00,URS,Санкт-Петербург,URS,596809-glebov-nikolaj-yakovlevich
+goldma,Goldin,Matvej,Матвей Иосифович Гольдин,1897-03-20,URS,Рославль,URS,1392084-goldin-matvej-iosifovich
+goload,Golodets,Adamas,Адамас Соломонович Голодец,1933-08-23,URS,Москва,URS,105879-golodec-adamas-solomonovich
+goluvl,Golubev,Vladimir,Владимир Евгеньевич Голубев,1950-04-16,RUS,Ленинград,URS,71140-golubev-vladimir-evgenevich
+gorovl,Gorokhov,Vladimir,Владимир Иванович Горохов,0000-00-00,URS,Москва, ,105264-gorohov-vladimir-ivanovich
+goryev,Goryanskiy,Evgeniy,Евгений Иванович Горянский,1929-02-28,RUS,Москва, ,71180-goryanskij-evgenij-ivanovich
+gostge,Gostev,Georgiy,Георгий Фёдорович Гостев,0000-00-00,URS,Псков, ,1384063-gostev-georgij-fyodorovich
+griged,Grigoryan,Eduard,Эдуард Григорьевич Григорян,1929-05-25,URS, ,URS,384585-grigoryan-eduard-grigorevich
+grinal,Grinin,Aleksey,Алексей Григорьевич Гринин,1919-08-21,URS,с. Озерки, ,105947-grinin-aleksej-grigorevich
+guleol,Gulevskiy,Oleksandr,Александр Петрович Гулевский,1928-03-18,URS,с. Кривое озеро,URS,105966-gulevskij-aleksandr-petrovich
+gulyni,Gulyaev,Nikolay,Николай Алексеевич Гуляев,1915-03-03,URS,д. Каковино,URS,105970-gulyaev-nikolaj-alekseevich
+gurevi,Gureev,Viktor,Виктор Григорьевич Гуреев,0000-00-00,URS,РСФСР,URS,384608-gureev-viktor-grigorevich
+habiol,Habi,Oleg,Олег Иосифович Хаби,1940-10-02,RUS, ,URS,73477-habi-oleg-iosifovich
+isakpy,Isakov,Pyotr,Пётр Ефимович Исаков,0000-00-00,URS,Московская губ.,URS,105271-isakov-pyotr-efimovich
+ivanv1,Ivanov,Vadim,Вадим Геннадьевич Иванов,1943-07-17,RUS,Нижний Тагил,RUS,71561-ivanov-vadim-gennadevich
+ivanva,Ivanov,Valentin,Валентин Козьмич Иванов,1934-11-19,RUS,Москва,URS,71562-ivanov-valentin-kozmich
+ivinbo,Ivin,Boris,Борис Иванович Ивин,0000-00-00,URS,Российская Империя,URS,106322-ivin-boris-ivanovich
+juszer,Juszt,Ernő,Эрнест Эрвинович Юст,1927-06-17,URS,Ужгород, ,108400-yust-ernest-ervinovich
+kachga,Kachalin,Gavriil,Гавриил Дмитриевич Качалин,0000-00-00,URS,Москва, ,106444-kachalin-gavriil-dmitrievich
+kalial,Kalinin,Aleksey,Алексей Петрович Калинин,1913-12-30,URS,Подольск, ,106382-kalinin-aleksej-petrovich
+kamist,Kaminskiy,Stanislav,Станислав Францевич Каминский,1938-08-17,RUS,Барнаул,RUS,71667-kaminskij-stanislav-francevich
+kanevi,Kanevskiy,Viktor,Виктор Израилевич (Ильич) Каневский,1936-10-03,URS,Киев,URS,106392-kanevskij-viktor-izrailevich-ilich
+kapese,Kapelkin,Sergey,Сергей Михайлович Капелькин,0000-00-00,URS,Москва, ,106400-kapelkin-sergej-mihajlovich
+karpvi,Karpov,Viktor,Виктор Иванович Карпов,1927-03-04,RUS,п. Королёвка,URS,71696-karpov-viktor-ivanovich
+kegear,Kegeyan,Arutyun,Арутюн Левонович Кегеян,1930-04-09,ARM,Афины,URS,106461-kegeyan-arutyun-levonovich
+kellal,Keller,Aleksandr,Александр Андреевич Келлер,1911-05-17,URS,с. Большая Дмитриевка,URS,395313-keller-aleksandr-andreevich
+khadru,Khadartsev,Ruslan,Руслан Сосланович Хадарцев,1951-07-13,RUS, ,URS,73484-hadarcev-ruslan-soslanovich
+khalpa,Khalkiopov,Pavel,Павел Васильевич Халкиопов,0000-00-00,RUS,Московская губ.,URS,412360-halkiopov-pavel-vasilevich
+khodyu,Khodotov,Yuriy,Юрий Николаевич Ходотов,0000-00-00,URS,Санкт-Петербург,URS,487103-hodotov-yurij-nikolaevich
+khudni,Khudiev,Nikolai,Николай Урузмакович Худиев,1949-05-15,RUS,Дзауджикау,RUS,73551-hudiev-nikolaj-uruzmakovich
+kipida,Kipiani,David,Давид Давидович Кипиани,1951-06-18,GEO,Тбилиси,URS,71725-kipiani-david-davidovich
+kireal,Kireev,Aleksey,Алексей Сергеевич Киреев,0000-00-00,URS, ,URS,395393-kireev-aleksej-sergeevich
+kirimi,Kirillov,Mikhail,Михаил Сергеевич Кириллов,1940-07-13,URS, ,URS,589154-kirillov-mihail-sergeevich
+kirsvi,Kirsh,Viktor,Виктор Владимирович Кирш,1933-09-01,RUS,Самара,RUS,71735-kirsh-viktor-vladimirovich
+kochal,Kochetkov,Aleksandr,Александр Петрович Кочетков,1933-10-28,URS,Москва,URS,397218-kochetkov-aleksandr-petrovich
+kolese,Kolesnikov,Sergey,Сергей Николаевич Колесников,0000-00-00,URS, ,URS,106533-kolesnikov-sergej-nikolaevich
+koltle,Koltun,Leonid,Леонид Яковлевич Колтун,1944-09-07,RUS,Харьков,UKR,71844-koltun-leonid-yakovlevich
+konkan,Konkov,Anatoliy,Анатолий Дмитриевич Коньков,1949-09-19,URS,Красный Луч,UKR,106568-konkov-anatolij-dmitrievich
+korcle,Korchebokov,Lev,Лев Николаевич Корчебоков,1907-03-11,URS,Царское Село, ,106613-korchebokov-lev-nikolaevich
+korovi,Korolkov,Viktor,Виктор Георгиевич Корольков,1936-02-26,URS,Москва,URS,106601-korolkov-viktor-georgievich
+kosevi,Kosenyuk,Vitaliy,Виталий Александрович Косенюк,1923-05-17,URS,Брест,URS,397120-kosenyuk-vitalij-aleksandrovich
+kostal,Kostylev,Aleksey,Алексей Николаевич Костылев,0000-00-00,URS,Московская губ.,URS,412297-kostylev-aleksej-nikolaevich
+kotlvl,Kotlyarov,Vladimir,Владимир Алексеевич Котляров,1930-10-06,URS,Москва,RUS,397187-kotlyarov-vladimir-alekseevich
+kotral,Kotrikadze,Aleksandr,Александр Парменович Котрикадзе,1930-12-03,URS,Тифлис, ,106630-kotrikadze-aleksandr-parmenovich
+kozlmi,Kozlov,Mikhail,Михаил Степанович Козлов,0000-00-00,URS,Тверь, ,105274-kozlov-mihail-stepanovich
+krotni,Krotov,Nikolay,Николай Фёдорович Кротов,0000-00-00,RUS,Харьковская губ.,URS,146163-krotov-nikolaj-fyodorovich
+krutan,Krutikov,Anatoliy,Анатолий Фёдорович Крутиков,1933-09-21,RUS,д. Стёпушкино, ,106661-krutikov-anatolij-fyodorovich
+krylve,Krylov,Veniamin,Вениамин Петрович Крылов,1921-09-29,URS, ,URS,483488-krylov-veniamin-petrovich
+kuchev,Kucherevskiy,Evgeniy,Евгений Мефодьевич Кучеревский,1941-08-06,URS,Херсон,UKR,72058-kucherevskij-evgenij-mefodevich
+kuskvl,Kuskov,Vladimir,Владимир Аполлонович Кусков,1898-08-02,RUS,д. Халузи, ,106734-kuskov-vladimir-apollonovich
+kuznyu,Kuznetsov,Yuriy,Юрий Константинович Кузнецов,1931-08-02,URS,Баку, ,106694-kuznecov-yurij-konstantinovich
+kvasko,Kvashnin,Konstantin,Константин Павлович Квашнин,1898-12-27,URS,Москва, ,105273-kvashnin-konstantin-pavlovich
+lasige,Lasin,Georgiy,Георгий Семёнович Ласин,0000-00-00,RUS,Санкт-Петербург,URS,106762-lasin-georgij-semyonovich
+lemeev,Lemeshko,Evgeniy,Евгений Филиппович Лемешко,1930-12-11,URS,Николаев,URS,106788-lemeshko-evgenij-filippovich
+lemeko,Lemeshev,Konstantin,Константин Иванович Лемешев,0000-00-00,URS, ,URS,584369-lemeshev-konstantin-ivanovich
+lemevl,Lemeshev,Vladimir,Владимир Иванович Лемешев,0000-00-00,URS,Санкт-Петербург,URS,106787-lemeshev-vladimir-ivanovich
+limbgy,Limbeck,Gyula,Дьюла (Жюль) Лимбек,0000-00-00,ROM,жудец Алба,ROM,484300-limbek-dyula-zhyul
+ljubal,Ljubinskas,Algimantas,Альгимантас Йонович Любинскас,1951-11-04,LIT,Кибартай,LIT,398982-lyubinskas-algimantas-jonovich
+lobava,Lobanovskiy,Valeriy,Валерий Васильевич Лобановский,1939-01-06,URS,Киев,URS,106818-lobanovskij-valerij-vasilevich
+lobzil,Lobzhanidze,Ilya,Илья Окропирович Лобжанидзе,0000-00-00,URS, ,URS,398801-lobzhanidze-ilya-okropirovich
+lukavi,Lukashenko,Viktor,Виктор Авраамович Лукашенко,1937-07-02,URS,Киев,URS,106835-lukashenko-viktor-avraamovich
+luzhle,Luzhinskiy,Leopold,Леопольд Григорьевич Лужинский,0000-00-00,URS,округ Нью-Йорк, ,1387654-luzhinskij-leopold-grigorevich
+lyukni,Lyukshinov,Nikolay,Николай Михайлович Люкшинов,1915-10-27,RUS,д. Артюшино, ,584347-lyukshinov-nikolaj-mihajlovich
+maksdm,Maksimov,Dmitriy,Дмитрий Михайлович Максимов,0000-00-00,URS, ,URS,106872-maksimov-dmitrij-mihajlovich
+maloed,Malofeev,Eduard,Эдуард Васильевич Малофеев,1942-06-02,RUS,Красноярск,RUS,72233-malofeev-eduard-vasilevich
+mameal,Mamedov,Alekper,Алекпер Амирович Мамедов,1930-05-09,URS,Баку, ,106890-mamedov-alekper-amirovich
+mamyal,Mamykin,Aleksej,Алексей Иванович Мамыкин,1936-02-29,URS,с. Веряево,URS,106892-mamykin-aleksej-ivanovich
+marked,Markarov,Eduard,Эдуард Артёмович Маркаров,1942-06-20,ARM,Баку,URS,106903-markarov-eduard-artyomovich
+maryvi,Maryenko,Viktor,Виктор Семёнович Марьенко,1929-08-22,URS,Ясиноватая,URS,106915-marenko-viktor-semyonovich
+maslvi,Maslov,Viktor,Виктор Александрович Маслов,0000-00-00,URS,Москва, ,106920-maslov-viktor-aleksandrovich
+matvge,Matveev,Gennadiy,Геннадий Михайлович Матвеев,1937-08-22,RUS,Ростов-на-Дону,RUS,72285-matveev-gennadij-mihajlovich
+mazage,Mazanov,Georgiy,Георгий Васильевич Мазанов,0000-00-00,URS,Константиновка, ,106857-mazanov-georgij-vasilevich
+mikhvl,Mikhailov,Vladimir,Владимир Алексеевич Михайлов,1939-10-07,RUS,Одесса,UKR,72377-mihajlov-vladimir-alekseevich
+minami,Minaev,Mikhail,Михаил Петрович Минаев,0000-00-00,URS, ,URS,106990-minaev-mihail-petrovich
+mirdag,Mirdjavadov,Agasalim,Агасалим Сейидахмед-Оглы Мирджавадов,1947-10-22,URS,Баку,URS,106995-mirdzhavadov-agasalim-sejidahmedogly
+moroni,Morozov,Nikolay,Николай Петрович Морозов,0000-00-00,URS,д. Большое Замошье, ,107051-morozov-nikolaj-petrovich
+moroyu,Morozov,Yuriy,Юрий Андреевич Морозов,1934-05-13,RUS,п.г.т. Синявино, ,72417-morozov-yurij-andreevich
+moshvl,Moshkarkin,Vladimir,Владимир Васильевич Мошкаркин,0000-00-00,URS,Москва, ,107070-moshkarkin-vladimir-vasilevich
+mosyse,Mosyagin,Sergey,Сергей Михайлович Мосягин,1937-12-29,URS,Рязанская обл.,URS,483913-mosyagin-sergej-mihajlovich
+mozeiv,Mozer,Ivan,Иван Иванович Мозер,1933-12-21,RUS,Мукачево, ,72398-mozer-ivan-ivanovich
+mykhol,Mykhaylychenko,Oleksiy,Алексей Александрович Михайличенко,1963-03-30,URS,Киев,URS,107009-mihajlichenko-aleksej-aleksandrovich
+nadeig,Nadein,Igor,Игорь Александрович Надеин,1948-03-03,URS,Тула,RUS,107097-nadein-igor-aleksandrovich
+nataiv,Natarov,Ivan,Иван Андреевич Натаров,0000-00-00,URS,Харьковская губ.,URS,717314-natarov-ivan-andreevich
+nazash,Nazarov,Sharif,Шариф Назарович Назаров,1946-02-23,URS, ,URS,343344-nazarov-sharif-nazarovich
+nestyu,Nesterenko,Yuriy,Юрий Владимирович Нестеренко,1956-05-18,RUS,Харьков,UKR,72497-nesterenko-yurij-vladimirovich
+nettig,Netto,Igor,Игорь Александрович Нетто,1930-01-09,URS,Москва, ,107129-netto-igor-aleksandrovich
+nikavl,Nikanorov,Vladimir,Владимир Николаевич Никаноров,0000-00-00,URS,Москва, ,107134-nikanorov-vladimir-nikolaevich
+nikini,Nikitin,Nikolay,Николай Николаевич Никитин,0000-00-00,RUS,Московская губ.,URS,592973-nikitin-nikolaj-nikolaevich
+nikova,Nikolaev,Valentin,Валентин Александрович Николаев,1921-08-16,URS,д. Еросово,URS,107144-nikolaev-valentin-aleksandrovich
+nodigi,Nodia,Givi,Гиви Георгиевич Нодия,1948-01-02,GEO,Кутаиси,URS,72542-nodiya-givi-georgievich
+noraan,Norakidze,Anatoliy,Анатолий Леванович Норакидзе,1930-03-30,GEO,Очамчира,GEO,107169-norakidze-anatolij-levanovich
+nosovi,Nosov,Viktor,Виктор Васильевич Носов,1940-07-19,URS,п.г.т. Красная Речка, ,107174-nosov-viktor-vasilevich
+novify,Novikov,Fyodor,Фёдор Сергеевич Новиков,1927-04-04,URS,с. Семёнково,URS,107165-novikov-fyodor-sergeevich
+novivi,Novikov,Viktor,Виктор Иванович Новиков,0000-00-00,URS,Москва, ,107161-novikov-viktor-ivanovich
+okunmi,Okun,Mikhail,Михаил Осипович Окунь,1898-03-18,URS,Мариуполь,URS,601528-okun-mihail-osipovich
+osheol,Oshenkov,Oleg,Олег Александрович Ошенков (Ошемков),0000-00-00,URS,Санкт-Петербург,URS,107235-oshenkov-oshemkov-oleg-aleksandrovich
+ostrle,Ostroushko,Leonid,Леонид Константинович Остроушко,1936-08-10,RUS,п.г.т. Большой Токмак,UKR,72603-ostroushko-leonid-konstantinovich
+pabest,Paberžis,Stanislovas,Станисловас Игно Пабяржис,1918-03-23,URS,Валга,EST,395575-pabyarzhis-stanislovas-igno
+paicbo,Paichadze,Boris,Борис Соломонович Пайчадзе,1915-01-21,URS,с. Ончикети,URS,107252-pajchadze-boris-solomonovich
+paropy,Parovyshnikov,Pyotr,Пётр Гаврилович Паровышников,0000-00-00,URS,Харьков, ,107274-parovyshnikov-pyotr-gavrilovich
+patsvi,Patsevich,Viktor,Виктор Сергеевич Пацевич,0000-00-00,URS, ,URS,107281-pacevich-viktor-sergeevich
+pechmi,Pechyonyi,Mikhail,Михаил Фёдорович Печёный,0000-00-00,URS,Николаев, ,585528-pechyonyj-mihail-fyodorovich
+pestev,Pestov,Evgeniy,Евгений Владимирович Пестов,1925-03-22,URS,Родники, ,107290-pestov-evgenij-vladimirovich
+pinagr,Pinaichev,Grigoriy,Григорий Маркович Пинаичев,0000-00-00,URS,д. Муратово, ,107324-pinaichev-grigorij-markovich
+plonse,Plonskiy,Sergey,Сергей Илларионович Плонский,0000-00-00,URS,Николаев, ,107337-plonskij-sergej-illarionovich
+poloan,Polosin,Anatoliy,Анатолий Фёдорович Полосин,1935-08-30,RUS,Ташкент,URS,72755-polosin-anatolij-fyodorovich
+ponoal,Ponomarëv,Aleksandr,Александр Семёнович Пономарёв,1918-04-23,URS,Корсунь,URS,107379-ponomaryov-aleksandr-semyonovich
+popopy,Popov,Pyotr,Пётр Герасимович Попов,0000-00-00,URS,Москва, ,105282-popov-pyotr-gerasimovich
+prokvi,Prokopenko,Viktor,Виктор Евгеньевич Прокопенко,1944-10-24,RUS,Мариуполь,UKR,72811-prokopenko-viktor-evgenevich
+putiga,Putilin,Gavriil,Гавриил Григорьевич Путилин,1908-03-25,URS,с. Мервино,URS,107447-putilin-gavriil-grigorevich
+puzaan,Puzach,Anatoliy,Анатолий Кириллович Пузач,1941-06-03,URS,Красный Кут,RUS,107443-puzach-anatolij-kirillovich
+rasuza,Rasulov,Zafar,Зафар Мухамеджанович Расулов,1946-07-08,URS, ,URS,108605-rasulov-zafar-muhamedzhanovich
+rogoev,Rogov,Evgeniy,Евгений Александрович Рогов,1929-04-08,URS,Челябинск, ,107509-rogov-evgenij-aleksandrovich
+romaol,Romantsev,Oleg,Олег Иванович Романцев,1954-01-04,RUS,с. Гавриловское, ,72927-romancev-oleg-ivanovich
+rushmi,Rushinskiy,Mikhail,Михаил Осипович (Иосифович) Рущинский,0000-00-00,RUS,Москва, ,146177-rucshinskij-mihail-osipovich-iosifovich
+ryabgl,Ryabikov,Gleb,Глеб Алексеевич Рябиков,0000-00-00,URS,Петродворец, ,717309-ryabikov-gleb-alekseevich
+rzhean,Rzhevtsev,Andrey,Андрей Николаевич Ржевцев,0000-00-00,URS, ,URS,107504-rzhevcev-andrej-nikolaevich
+sadypa,Sadyrin,Pavel,Павел Фёдорович Садырин,1942-09-18,RUS,Молотов,RUS,72987-sadyrin-pavel-fyodorovich
+salkvl,Salkov,Vladimir,Владимир Максимович Сальков,1937-04-01,RUS,Сталино,UKR,73003-salkov-vladimir-maksimovich
+salnse,Salnikov,Sergey,Сергей Сергеевич Сальников,1925-09-13,URS,Краснодар, ,107598-salnikov-sergej-sergeevich
+samani,Samarin,Nikolay,Николай Александрович Самарин,1924-12-04,URS,Нижний Тагил,RUS,107599-samarin-nikolaj-aleksandrovich
+sarkar,Sarkisyan,Armen,Армен Владимирович Саркисян,1953-01-01,ARM,Ереван,URS,107619-sarkisyan-armen-vladimirovich
+savoiv,Savostikov,Ivan,Иван Иванович Савостиков,1941-08-22,URS,Минск,URS,107581-savostikov-ivan-ivanovich
+segiti,Segizbaev,Timur,Тимур Санжарович Сегизбаев,1941-05-12,KAZ,Семипалатинск,KAZ,107645-segizbaev-timur-sanzharovich
+sekeis,Sekech,Ishtvan,Иштван Йожефович Секеч,1939-12-03,RUS,Берегсас,URS,73062-sekech-ishtvan-jozhefovich
+selify,Selin,Fyodor,Фёдор Ильич Селин,0000-00-00,RUS,Тула, ,146178-selin-fyodor-ilich
+semimi,Semichastnyi,Mikhail,Михаил Васильевич Семичастный,1910-12-05,URS,п. Перловка, ,107665-semichastnyj-mihail-vasilevich
+sevial,Sevidov,Aleksandr,Александр Александрович Севидов,1921-09-05,URS,Москва,RUS,107642-sevidov-aleksandr-aleksandrovich
+shapse,Shaposhnikov,Sergey,Сергей Иосифович Шапошников,1923-03-08,URS,Петроград,URS,108251-shaposhnikov-sergej-iosifovich
+shchko,Shchegodskiy,Konstantin,Константин (Казимир) Васильевич Щегодский (Щегоцкий),0000-00-00,URS,Москва, ,108355-cshegodskij-cshegockij-konstantin-kazimir-vasilevich
+shchpy,Shcherbatenko,Pyotr,Пётр Петрович Щербатенко,0000-00-00,URS,Таганрог, ,108365-csherbatenko-pyotr-petrovich
+shesal,Shesternev,Albert,Альберт Алексеевич Шестернёв,1941-06-20,URS,Москва,URS,108300-shesternyov-albert-alekseevich
+sheval,Shevtsov,Aleksandr,Александр Трифонович Шевцов,0000-00-00,URS, ,URS,30904-shevcov-aleksandr-trifonovich
+shilvi,Shilovskiy,Viktor,Виктор Константинович Шиловский,1911-07-25,URS,п. Юзовка,URS,108308-shilovskij-viktor-konstantinovich
+shubpy,Shubin,Pyotr,Пётр Евгеньевич Шубин,1944-02-21,RUS,Челябинск,RUS,73785-shubin-pyotr-evgenevich
+sillka,Sillak,Karl-Rudolf,Карл-Рудольф Силлак (до 1934 - Силберг),1906-03-20,EST,п.г.т. Мярьямаа, ,1710739-sillak-do-1934-silberg-karlrudolf
+simoni,Simonyan,Nikita,Никита (Мкртич) Павлович (Погосович) Симонян,1926-10-12,RUS,Армавир, ,107698-simonyan-nikita-mkrtich-pavlovich-pogosovich
+skomev,Skomorokhov,Evgeniy,Евгений Васильевич Скоморохов,1945-07-11,URS, ,URS,108685-skomorohov-evgenij-vasilevich
+smysbo,Smyslov,Boris,Борис Васильевич Смыслов,1917-12-25,URS,Ростов,URS,107741-smyslov-boris-vasilevich
+sokoal,Sokolov,Aleksey,Алексей Андреевич Соколов,0000-00-00,RUS,Серпухов, ,412345-sokolov-aleksej-andreevich
+sokova,Sokolov,Vasiliy,Василий Николаевич Соколов,1912-02-12,URS,Ярцево, ,107761-sokolov-vasilij-nikolaevich
+solovy,Soloviëv,Vyacheslav,Вячеслав Дмитриевич Соловьёв,1925-01-14,URS,ст. Вешняки,URS,107780-solovyov-vyacheslav-dmitrievich
+sotnal,Sotnikov,Aleksey,Алексей Андреевич Сотников,0000-00-00,URS, ,URS,1388366-sotnikov-aleksej-andreevich
+stepvi,Stepanov,Viktor,Виктор Григорьевич Степанов,0000-00-00,URS,Владивосток, ,584279-stepanov-viktor-grigorevich
+stolal,Stolyarov,Aleksey,Алексей Иванович Столяров,0000-00-00,URS,Санкт-Петербург,URS,107841-stolyarov-aleksej-ivanovich
+stuppy,Stupakov,Pyotr,Пётр Алексеевич Ступаков,0000-00-00,URS,Екатеринославская губ.,URS,107858-stupakov-pyotr-alekseevich
+sushmi,Sushkov,Mikhail,Михаил Павлович Сушков,0000-00-00,URS,Москва, ,484292-sushkov-mihail-pavlovich
+syomyu,Syomin,Yuriy,Юрий Павлович Сёмин,1947-05-11,RUS,Чкалов,RUS,73078-syomin-yurij-pavlovich
+szabjo,Szabo,Jozsef,Йожеф Йожефович Сабо,1940-02-29,URS,Ужгород, ,107566-sabo-jozhef-jozhefovich
+talaiv,Talanov,Ivan,Иван Михайлович Таланов,0000-00-00,URS,слобода Канавино, ,107895-talanov-ivan-mihajlovich
+taraan,Tarasov,Anatoliy,Анатолий Владимирович Тарасов,1918-12-10,URS,Москва,RUS,107901-tarasov-anatolij-vladimirovich
+tarkal,Tarkhanov,Aleksandr,Александр Фёдорович Тарханов,1954-09-06,RUS,ст. Казахстан, ,73260-tarhanov-aleksandr-fyodorovich
+terevi,Terentiev,Viktor,Виктор Васильевич Терентьев,1924-12-16,URS,Москва,RUS,107918-terentev-viktor-vasilevich
+tetevi,Teterin,Viktor,Виктор Сергеевич Тетерин,0000-00-00,URS,Москва, ,107925-teterin-viktor-sergeevich
+tkacle,Tkachenko,Leonid,Леонид Иванович Ткаченко,1953-10-01,RUS,Старый Крым,RUS,73298-tkachenko-leonid-ivanovich
+tovamo,Tovarovskiy,Moisey,Моисей (Михаил) Давидович Товаровский,1903-11-07,RUS,д. Орловец,URS,155430-tovarovskij-moisej-mihail-davidovich
+tsarvi,Tsaryov,Viktor,Виктор Григорьевич Царёв,1931-06-02,URS,Москва,URS,108142-caryov-viktor-grigorevich
+tsimva,Tsimmerberg,Vasiliy,Василий Николаевич Циммерберг,0000-00-00,URS, ,URS,601524-cimmerberg-vasilij-nikolaevich
+tsybbo,Tsybin,Boris,Борис Алексеевич Цыбин,1918-03-18,URS, ,URS,108151-cybin-boris-alekseevich
+tuayk�,Tuayev,Kazbek Əlirza,Казбек Алиевич Туаев,1940-11-13,AZE,п.г.т. Алят,URS,107967-tuaev-kazbek-alievich
+vergmi,Vergeenko,Mikhail,Михаил Никифорович Вергеенко,1950-01-12,URS,Гомель,BLR,105745-vergeenko-mihail-nikiforovich
+volcig,Volchok,Igor,Игорь Семёнович Волчок (Волчёк),1931-10-04,RUS,Москва,URS,71017-volchok-volchyok-igor-semyonovich
+volral,Volrat,Albert,Альберт Хенрикович Вольрат,0000-00-00,URS,Ревель, ,105259-volrat-albert-henrikovich
+voynyu,Voynov,Yuriy,Юрий Николаевич Войнов,1931-11-29,URS,р.п. Калининский, ,105768-vojnov-yurij-nikolaevich
+yakobo,Yakovlev,Boris,Борис Евгеньевич Яковлев,1924-02-20,URS,д. Кочуково,URS,108409-yakovlev-boris-evgenevich
+yakumi,Yakushin,Mikhail,Михаил Иосифович Якушин,0000-00-00,URS,Москва, ,108417-yakushin-mihail-iosifovich
+yareva,Yaremchenko,Valeriy,Валерий Иванович Яремченко,1947-08-15,URS,Кривой Рог,UKR,73861-yaremchenko-valerij-ivanovich
+yudemi,Yudenich,Mihail,Михаил Иванович Юденич,0000-00-00,URS,Российская Империя,URS,108382-yudenich-mihail-ivanovich
+zaboyu,Zabolotnyi,Yuriy,Юрий Леонидович Заболотный,1939-10-02,URS,Одесса,UKR,106222-zabolotnyj-yurij-leonidovich
+zakhl1,Zakharov,Leonid,Леонид Захарович Захаров (Захарян),0000-00-00,URS, ,URS,2838935-zaharov-leonid-zaharovich
+zakhle,Zakharov,Leonid,Леонид Захарович Захаров (Захарян),0000-00-00,URS, ,URS,2838935-zaharov-zaharyan-leonid-zaharovich
+zakhyu,Zakharov,Yuriy,Юрий Владимирович Захаров,1937-03-24,RUS,Ростов-на-Дону,RUS,71499-zaharov-yurij-vladimirovich
+zavist,Zavidonov,Stanislav,Станислав Петрович Завидонов,1934-10-14,URS,Канск, ,106230-zavidonov-stanislav-petrovich
+zazran,Zazroshvili,Andrey,Андрей Иванович Зазроев (Зазрошвили),1925-10-21,URS,Тифлис, ,106236-zazroev-zazroshvili-andrej-ivanovich
+zelkbe,Zelkavicius,Benjaminas,Беньяминас Викторович Зелькявичюс,1944-02-06,LIT,Каунас,LIT,71515-zelkyavichyus-benyaminas-viktorovich
+zharge,Zharkov,Georgiy,Георгий Иванович Жарков,1915-09-01,URS,Богородск, ,106183-zharkov-georgij-ivanovich
+zhilvi,Zhilin,Viktor,Виктор Степанович Жилин,1923-01-09,URS, ,URS,106196-zhilin-viktor-stepanovich
+zhoran,Zhordania,Andrey,Андрей Дмитриевич Жордания,0000-00-00,URS,Ланчхути, ,344422-zhordaniya-andrej-dmitrievich
+zoloiv,Zolotukhin,Ivan,Иван Васильевич Золотухин,1924-04-03,URS, ,URS,394394-zolotuhin-ivan-vasilevich
+zoloyu,Zolotov,Yuriy,Юрий Васильевич Золотов,1929-06-16,RUS,Москва, ,71537-zolotov-yurij-vasilevich
+zonige,Zonin,German,Герман Семёнович Зонин,1926-09-09,URS,Казань,RUS,106274-zonin-german-semyonovich
+zubran,Zubritskiy,Anatoliy,Анатолий Фёдорович Зубрицкий,1920-11-20,URS,Одесса,URS,106282-zubrickij-anatolij-fyodorovich
+zubxvi,Zub,Vitaliy,Виталий Никитович Зуб,1928-06-01,URS,Харьков,URS,106279-zub-vitalij-nikitovich
+zzzzzz,Zzzz,Zz,Zz Zzzz,0000-00-00,URS, ,URS,zz-zzzz
