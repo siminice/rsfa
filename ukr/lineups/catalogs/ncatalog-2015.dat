@@ -1,0 +1,512 @@
+androl,Andrievsky,Oleksandr,1994-06-25,UKR,0,37,M,1,0,1,0,   14,0,0,0,0,0,0,0,0
+antuvi,Antunes, ,1987-04-01,POR,0,5,F,8,8,0,1,  720,8,3,0,0,0,0,2,0
+belhyo,Belhanda,Younès,1990-02-25,MAR,0,90,M,24,22,2,2, 1798,8,0,0,0,0,0,3,0
+betaeb,Betão, ,1983-11-11,BRA,0,30,F,0,0,0,0,    0,0,7,0,0,0,0,0,0
+bezuro,Bezus,Roman,1990-09-26,UKR,0, , ,9,2,7,1,  249,0,4,0,0,0,0,1,0
+burdmy,Burda,Mykyta,1995-03-24,UKR,0,26,F,4,3,1,1,  315,3,9,0,0,0,0,0,0
+buyavi,Buyalskiy,Vitaliy,1993-01-06,UKR,0,29,M,11,5,6,2,  508,3,9,0,0,0,0,2,0
+chumev,Chumak,Evgen,1995-08-25,UKR,0,28,F,2,0,2,1,   28,0,3,0,0,0,0,0,0
+dragal,Dragović,Aleksandar,1991-03-06,AUT,0,6,F,24,24,0,0, 2115,23,1,0,0,0,0,5,0
+garmde,Garmash,Denys,1990-04-19,UKR,0,19,M,6,3,3,0,  287,0,6,0,0,0,0,1,0
+guseol,Gusev,Oleg,1983-04-25,UKR,0,20,M,17,8,9,3,  684,2,7,0,0,1,0,0,0
+kalivl,Kalitvintsev,Vladislav,1993-01-04,UKR,0,45,M,6,4,2,1,  358,2,6,0,0,0,0,0,0
+khacye,Khacheridi,Yevhen,1987-07-28,UKR,0,34,F,13,13,0,1, 1125,12,4,0,0,0,0,1,0
+kravar,Kravets,Artem,1989-06-03,UKR,0,22,A,24,19,5,15, 1618,8,2,0,0,0,0,2,0
+lensje,Lens,Jeremain,1987-11-24,NED,0,7,A,21,18,3,5, 1575,10,0,0,0,0,0,3,0
+makaev,Makarenko,Evgen,1991-05-21,UKR,0,27,F,7,7,0,0,  630,7,0,0,0,0,0,2,0
+mbokdi,Mbokani,Dieumerci,1985-11-22,DRC,0,85,A,8,5,3,3,  430,2,1,0,0,0,0,1,0
+mykhbo,Mykhaylychenko,Bogdan,1997-03-21,UKR,0,14,F,1,0,1,0,    5,0,0,0,0,0,0,0,0
+rudkar,Rudko,Artur,1992-05-07,UKR,0,72,P,0,0,0,0,    0,0,4,0,0,0,0,0,0
+rybase,Rybalka,Serhiy,1990-04-01,UKR,0,17,M,22,19,3,1, 1767,17,1,0,0,0,0,4,1
+rybkol,Rybka,Oleksandr,1987-04-10,UKR,0,23,P,8,8,0,0,  720,8,17,-3,0,0,0,0,0
+seliev,Selin,Evgen,1988-05-09,UKR,0, , ,2,0,2,0,   48,0,3,0,0,0,0,0,0
+shovol,Shovkovskiy,Oleksandr,1975-01-02,UKR,0,1,P,18,18,0,0, 1620,18,4,-9,0,0,0,1,0
+silvda,Silva,Danilo,1986-11-24,BRA,0,2,F,25,25,0,0, 2198,23,0,0,0,0,0,3,0
+sydose,Sydorchuk,Sergiy,1991-05-02,UKR,0,16,M,22,18,4,3, 1504,7,0,0,0,0,0,4,1
+teodlu,Teodorczyk,Łukasz,1991-06-03,POL,0,91,A,13,2,11,5,  376,0,6,0,0,0,0,0,0
+trembe,Trémoulinas,Benoît,1985-12-28,FRA,0, , ,3,2,1,0,  208,2,1,0,0,0,0,0,0
+tsuran,Tsurikov,Andriy,1992-10-05,UKR,0, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
+tsygvi,Tsygankov,Viktor,1997-11-15,UKR,0,15,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+velomi,Veloso,Miguel,1986-05-11,POR,0,4,M,14,9,5,1,  871,6,2,0,0,0,0,0,0
+vidado,Vida,Domagoj,1989-04-29,CRO,0,24,F,20,20,0,2, 1800,20,2,0,0,0,0,4,0
+vukoog,Vukojević,Ognjen,1983-12-20,CRO,0, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
+yarman,Yarmolenko,Andrey,1989-10-23,UKR,0,10,A,26,24,2,14, 2159,22,0,0,0,3,0,3,0
+balade,Balanyuk,Denis,1997-01-16,UKR,2,17,M,2,0,2,0,   30,0,1,0,0,0,0,0,0
+bartml,Bartulović,Mladen,1986-10-05,CRO,2,21,M,3,0,3,0,   29,0,6,0,0,0,0,0,1
+bezuro,Bezus,Roman,1990-09-26,UKR,2,19,A,11,10,1,1,  810,5,0,0,0,0,0,2,0
+blyzan,Blyznychenko,Andriy,1994-07-24,UKR,2,97,M,8,6,2,3,  468,1,5,0,0,0,0,1,0
+bokhev,Bokhashvili,Evgen,1993-01-05,UKR,2,22,A,1,1,0,0,   72,0,0,0,0,0,0,0,0
+boykde,Boyko,Denis,1988-01-29,UKR,2,71,P,21,21,0,0, 1890,21,3,-14,0,0,0,1,0
+chebev,Cheberyachko,Evgeniy,1983-06-19,UKR,2,14,F,11,8,3,0,  815,8,12,0,0,0,0,1,0
+chigdm,Chigrinskiy,Dmitro,1986-11-07,UKR,2,15,F,2,2,0,0,  180,2,1,0,0,0,0,1,0
+dougdo,Douglas, ,1990-04-04,BRA,2,23,F,17,17,0,0, 1461,16,2,0,0,0,0,3,1
+egideg,Egídio, ,1986-06-16,BRA,2, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
+fedear,Fedetskiy,Artem,1985-04-26,UKR,2,44,F,16,14,2,1, 1255,13,5,0,0,0,0,4,0
+fedova,Fedorchuk,Valeriy,1988-10-05,UKR,2,25,M,10,7,3,0,  605,5,1,0,0,0,0,2,0
+gamabr,Gama,Bruno,1987-11-15,POR,2,20,A,23,19,4,5, 1562,9,1,0,0,0,0,3,0
+gorbse,Gorbunov,Sergiy,1994-03-14,UKR,2,47,M,1,1,0,0,   57,0,1,0,0,0,0,0,0
+gueypa,Gueye,Papa,1984-06-07,SEN,2,30,F,10,10,0,0,  900,10,0,0,0,0,0,1,0
+kalini,Kalinić,Nikola,1988-01-05,CRO,2,9,A,23,12,11,12, 1217,2,0,0,0,2,0,2,1
+kankja,Kankava,Jaba,1986-03-18,GEO,2,7,M,15,14,1,0, 1195,11,4,0,0,0,0,4,0
+konoye,Konoplyanka,Yevhen,1989-09-29,UKR,2,10,M,21,14,7,7, 1436,13,0,0,0,0,0,2,0
+kravse,Kravchenko,Sergiy,1983-04-24,UKR,2,4,M,12,9,3,0,  787,6,2,0,0,0,0,1,0
+ksonpa,Ksonz,Pavlo,1987-01-02,UKR,2,8,A,12,12,0,1, 1069,11,0,0,0,0,0,0,0
+lastja,Laštůvka,Jan,1982-07-07,CZE,2,16,P,5,5,0,0,  450,5,19,-3,0,0,0,0,0
+luchva,Luchkevych,Valeri,1996-01-11,UKR,2,24,M,13,11,2,2, 1019,7,8,0,0,0,0,1,0
+mathma,Matheus, ,1983-01-15,BRA,2,99,A,8,4,4,2,  366,0,0,0,0,1,0,1,0
+matole,Matos,Léo,1986-04-02,BRA,2,12,F,7,5,2,0,  416,4,4,0,0,0,0,0,0
+mazuon,Mazuch,Ondřej,1989-03-15,CZE,2,3,F,10,10,0,0,  900,10,0,0,0,0,0,2,0
+mihuol,Mihunov,Oleksandr,1994-04-13,UKR,2,90,M,3,1,2,0,  117,1,4,0,0,0,0,1,0
+polise,Politylo,Sergiy,1989-01-09,UKR,2, , ,4,1,3,0,  146,1,4,0,0,0,0,1,0
+polovo,Poloviy,Volodimir,1985-07-28,UKR,2, , ,1,1,0,0,   90,1,1,0,0,0,0,0,0
+rotaru,Rotan,Ruslan,1981-10-29,UKR,2,29,M,16,13,3,0, 1244,11,2,0,0,0,0,3,1
+seleye,Seleznyov,Yevhen,1985-07-20,UKR,2,11,A,21,12,9,8, 1074,2,3,0,0,1,0,3,0
+shakye,Shakhov,Yevhen,1990-11-30,UKR,2,28,M,17,10,7,3,  849,3,4,0,0,0,0,3,0
+shelde,Shelikhov,Denis,1989-06-23,UKR,2,77,P,0,0,0,0,    0,0,4,0,0,0,0,0,0
+striiv,Strinić,Ivan,1987-07-17,CRO,2, , ,8,8,0,0,  720,8,1,0,0,0,0,2,0
+svatol,Svatok,Oleksandr,1994-09-27,UKR,2,39,F,5,5,0,0,  450,5,2,0,0,0,0,0,0
+tretma,Tretyakov,Maksym,1996-03-06,UKR,2,96,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+vasyol,Vasyliev,Oleksandr,1994-04-27,UKR,2,27,M,2,1,1,0,   91,0,1,0,0,0,0,0,0
+vladal,Vlad,Alexandru,1989-12-06,ROM,2,2,F,10,10,0,0,  866,9,2,0,0,0,0,1,0
+zozuro,Zozulya,Roman,1989-11-17,UKR,2,18,A,13,11,2,1,  927,5,1,0,0,0,0,2,0
+antodm,Antonov,Dmytro,1996-08-28,UKR,8,54,F,1,0,1,0,    5,0,0,0,0,0,0,0,0
+averma,Averyanov,Maksim,1997-07-22,UKR,8,56,M,1,1,0,0,   57,0,1,0,0,0,0,0,0
+azevma,Azevedo,Márcio,1986-02-05,BRA,8, , ,3,3,0,0,  270,3,0,0,0,0,0,1,0
+barise,Barilko,Sergiy,1987-01-05,UKR,8,11,M,5,1,4,0,  112,0,3,0,0,0,0,1,0
+barivl,Barilko,Vladimir,1994-01-29,UKR,8,86,A,1,0,1,0,    4,0,12,0,0,0,0,0,0
+berean,Berezovchuk,Andriy,1981-04-16,UKR,8,4,M,5,4,1,0,  305,3,7,0,0,0,0,3,0
+besear,Besedin,Artem,1996-03-31,UKR,8,21,A,8,4,4,1,  436,2,0,0,0,0,0,1,0
+bobkiv,Bobko,Ivan,1990-12-10,UKR,8,9,M,11,10,1,0,  877,7,1,0,0,0,0,1,0
+bolbse,Bolbat,Sergiy,1993-06-13,UKR,8,7,M,17,11,6,4, 1050,5,0,0,0,1,0,0,0
+boycbo,Boychuk,Bogdan,1996-05-30,UKR,8,47,F,4,2,2,0,  229,1,4,0,0,0,0,0,0
+buljju,Buljat,Jurica,1986-09-12,CRO,8,30,F,10,10,0,0,  900,10,1,0,0,0,0,4,0
+caiada,Caiado,David,1987-05-02,POR,8,10,A,11,8,3,2,  731,4,0,0,0,1,0,0,0
+chegye,Chegurko,Yegor,1995-01-27,UKR,8,42,A,1,1,0,0,   90,1,1,0,0,0,0,0,0
+cheril,Cherednychenko,Ilya,1995-06-12,UKR,8,41,M,0,0,0,0,    0,0,2,0,0,0,0,0,0
+davise,Davidov,Sergiy,1984-12-16,UKR,8,25,A,2,0,2,0,   56,0,3,0,0,0,0,1,0
+dencar,Denchuk,Artur,1992-04-03,UKR,8,75,P,0,0,0,0,    0,0,2,0,0,0,0,0,0
+dislvl,Dišljenković,Vladimir,1981-07-02,SRB,8, , ,5,5,0,0,  405,4,5,-6,0,0,0,0,0
+dovgol,Dovgiy,Oleksiy,1989-11-02,UKR,8,2,M,10,10,0,1,  832,8,0,0,0,0,0,4,0
+edmaed,Edmar, ,1980-06-16,UKR,8,8,M,10,10,0,1,  900,10,0,0,0,0,0,3,0
+gomevo,Gomenyuk,Volodimir,1985-07-19,UKR,8,14,A,10,8,2,1,  706,4,1,0,0,0,0,0,0
+goryol,Goryainov,Oleksandr,1975-06-29,UKR,8,29,P,5,5,0,0,  450,5,6,-5,0,0,0,0,0
+gueypa,Gueye,Papa,1984-06-07,SEN,8, , ,6,6,0,0,  540,6,1,0,0,0,0,1,0
+ishcmi,Ishchenko,Mikola,1983-03-09,UKR,8,3,F,10,10,0,0,  900,10,1,0,0,0,0,6,0
+jajaav,Jajá, ,1986-02-28,BRA,8, , ,10,9,1,5,  834,8,0,0,0,2,0,1,0
+kobiva,Kobin,Vasiliy,1985-05-24,UKR,8, , ,9,9,0,0,  755,6,0,0,0,0,0,2,0
+kovaky,Kovalchuk,Kyrylo,1986-06-11,UKR,8,5,M,12,12,0,0,  894,6,0,0,0,0,0,1,0
+kovtol,Kovtun,Oleksiy,1995-02-05,UKR,8,54,F,1,1,0,0,   90,1,3,0,0,0,0,1,0
+koziig,Kozinets,Igor,1995-05-29,UKR,8,51,A,0,0,0,0,    0,0,3,0,0,0,0,0,0
+kraevl,Kraev,Vladislav,1995-02-05,UKR,8,36,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+krasol,Krasnoporov,Oleg,1980-07-25,UKR,8,32,M,8,8,0,0,  666,5,5,0,0,0,0,2,0
+kulade,Kulakov,Denis,1986-05-01,UKR,8,22,M,16,13,3,1, 1110,7,1,0,0,0,0,3,0
+nazase,Nazarenko,Sergiy,1980-02-16,UKR,8,28,M,8,4,4,1,  501,3,0,0,0,0,0,1,0
+osmaol,Osman,Oleksandr,1996-04-18,UKR,8,45,F,3,1,2,0,  119,1,14,0,0,0,0,0,0
+pogose,Pogoriliy,Sergiy,1986-07-28,UKR,8,23,P,10,10,0,0,  900,10,0,-13,0,0,0,2,0
+priyvo,Priyomov,Volodimir,1986-01-02,UKR,8,80,M,12,12,0,6, 1016,10,0,0,0,2,0,1,0
+pshese,Pshenichnikh,Sergiy,1981-11-19,UKR,8,17,F,11,10,1,0,  902,9,1,0,0,0,0,1,0
+radcar,Radchenko,Artem,1995-01-02,UKR,8, , ,8,2,6,0,  249,0,0,0,0,0,0,0,0
+rebepa,Rebenok,Pavlo,1985-07-23,UKR,8,82,M,12,7,5,0,  549,2,1,0,0,0,0,0,0
+ryzhdm,Ryzhuk,Dmytro,1992-04-05,UKR,8,15,F,10,10,0,0,  854,9,0,0,0,0,0,2,1
+seliev,Selin,Evgen,1988-05-09,UKR,8,19,F,11,11,0,0,  990,11,0,0,0,0,0,3,0
+shusbo,Shust,Bogdan,1986-03-04,UKR,8, , ,4,3,1,0,  315,3,2,-7,0,0,0,0,0
+sidode,Sidorenko,Denis,1989-04-18,UKR,8,1,P,2,2,0,0,  180,2,9,-2,0,0,0,0,0
+soloda,Solomakha,Daniil,1996-06-12,UKR,8,55,A,2,0,2,0,   43,0,0,0,0,0,0,0,0
+syzyse,Syzyi,Sergiy,1995-09-01,UKR,8,53,M,1,0,1,0,   33,0,2,0,0,0,0,0,0
+tkacyu,Tkachuk,Yuriy,1995-04-18,UKR,8,43,M,3,1,2,0,   95,1,15,0,0,0,0,1,0
+torrju,Torres,Juan,1985-06-20,ARG,8,19,M,9,6,3,0,  584,5,1,0,0,0,0,4,0
+torsma,Torsiglieri,Marco,1988-01-12,ARG,8, , ,10,8,2,0,  758,7,2,0,0,0,0,3,0
+villcr,Villagra,Cristian,1985-12-27,ARG,8, , ,12,12,0,1, 1027,10,0,0,0,0,0,3,1
+xavicl,Xavier,Cleiton,1983-03-23,BRA,8, , ,9,9,0,8,  810,9,0,0,0,3,0,0,0
+yussay,Yussuf,Ayila,1984-11-04,NGR,8,24,F,6,6,0,1,  538,5,2,0,0,0,0,1,0
+zotkiv,Zotko,Ivan,1996-07-09,UKR,8,58,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
+balagr,Balažic,Gregor,1988-02-12,SLO,5, , ,13,12,1,4, 1090,12,0,-1,0,0,0,4,0
+chacam,Chachua,Ambrosiy,1994-04-02,UKR,5,92,M,20,16,4,0, 1295,8,6,0,0,0,0,1,0
+dausmu,Daushvili,Murtaz,1989-05-01,GEO,5,88,M,17,12,5,0, 1154,11,2,0,0,0,0,6,1
+gitcan,Gitchenko,Andriy,1984-10-02,UKR,5,5,F,21,21,0,1, 1866,20,0,0,0,0,0,6,0
+goloo1,Golodyuk,Oleg,1988-01-02,UKR,5,17,M,25,22,3,1, 1829,11,0,0,0,0,0,7,0
+gudivo,Gudima,Volodimir,1990-07-20,UKR,5, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
+gutsol,Gutsulyak,Oleksiy,1997-12-25,UKR,5,97,M,7,1,6,0,  232,0,5,0,0,0,0,1,0
+hrosos,Hros,Ostap,1996-03-04,UKR,5,83,F,0,0,0,0,    0,0,2,0,0,0,0,0,0
+iliuol,Iliushchenkov,Oleksandr,1990-03-23,UKR,5, , ,5,5,0,0,  450,5,4,-10,0,0,0,0,0
+karnar,Karnoza,Artur,1990-08-02,UKR,5,8,M,14,5,9,1,  597,3,2,0,0,0,0,2,0
+khudig,Khudobyak,Igor,1985-02-20,UKR,5,16,M,23,17,6,3, 1627,14,1,0,0,0,0,3,0
+klyodm,Klyots,Dmytro,1996-04-15,UKR,5,48,M,10,10,0,0,  784,5,2,0,0,0,0,4,0
+kopomi,Kopolovets,Mikhaylo,1984-01-29,UKR,5, , ,7,0,7,0,  149,0,2,0,0,0,0,2,0
+kostvo,Kostevych,Volodymyr,1992-10-23,UKR,5,8,F,23,23,0,2, 2070,23,2,0,0,0,0,3,0
+kozhde,Kozhanov,Denis,1987-06-13,UKR,5,9,M,24,19,5,2, 1560,5,0,0,0,0,0,4,0
+kravva,Kravets,Vasyl,1997-08-20,UKR,5,3,F,2,0,2,0,   12,0,10,0,0,0,0,1,0
+ksonpa,Ksonz,Pavlo,1987-01-02,UKR,5, , ,14,14,0,0, 1217,9,0,0,0,0,0,2,0
+lobaiv,Lobay,Ivan,1996-05-21,UKR,5,70,F,2,2,0,0,  154,1,6,0,0,0,0,0,0
+markan,Markovych,Andriy,1995-06-25,UKR,5,79,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
+martya,Martinyuk,Yaroslav,1989-02-20,UKR,5, , ,7,4,3,0,  374,1,6,0,0,0,0,3,0
+maruma,Marusych,Maksim,1993-07-17,UKR,5,41,M,2,0,2,0,   16,0,2,0,0,0,0,0,0
+mirode,Miroshnichenko,Denis,1994-10-11,UKR,5,94,M,26,26,0,0, 2288,24,0,0,0,0,0,2,0
+moziol,Mozil,Oleh,1996-04-07,UKR,5,98,P,0,0,0,0,    0,0,3,0,0,0,0,0,0
+mysaro,Mysak,Roman,1991-09-09,UKR,5,23,P,20,20,0,0, 1800,20,4,-20,0,0,0,1,0
+novoar,Novotryasov,Artur,1992-07-19,UKR,5,26,F,6,6,0,0,  540,6,12,0,0,0,0,1,0
+plasig,Plastun,Igor,1990-08-20,UKR,5,32,M,21,21,0,2, 1884,20,2,0,0,0,0,4,1
+puchta,Puchkovsyi,Taras,1994-08-23,UKR,5,62,F,8,2,6,1,  297,0,1,0,0,0,0,0,0
+pdkvro,Pіdkіvka,Roman,1995-05-09,UKR,5,1,P,0,0,0,0,    0,0,14,0,0,0,0,0,0
+sergmy,Sergiychuk,Mykhaylo,1991-07-29,UKR,5,14,A,21,13,8,1, 1092,4,4,0,0,0,0,4,0
+shvema,Shved,Marian,1997-07-16,UKR,5,35,A,10,8,2,2,  742,5,0,0,0,0,0,0,0
+strava,Strashkevich,Vadim,1994-04-21,UKR,5,27,F,14,7,7,2,  584,1,6,0,0,0,0,2,0
+yastyu,Yastrub,Yurii,1995-10-25,UKR,5,91,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+zakhyu,Zakharkiv,Yuri,1996-03-21,UKR,5,45,A,1,0,1,0,   18,0,2,0,0,0,0,0,0
+zavita,Zaviyskiy,Taras,1995-04-12,UKR,5,73,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+aksiol,Aksionov,Olexandr,1994-01-07,UKR,18, , ,3,3,0,0,  270,3,5,0,0,0,0,0,0
+budcro,Budchenko,Rodion,1994-04-26,UKR,18,28,F,0,0,0,0,    0,0,2,0,0,0,0,0,0
+budyor,Budyuk,Orest,1995-08-23,UKR,18, , ,0,0,0,0,    0,0,4,0,0,0,0,0,0
+butkbo,Butko,Bogdan,1991-01-13,UKR,18, , ,8,8,0,0,  720,8,0,0,0,0,0,0,0
+bykoig,Bykovsky,Igor,1996-09-05,UKR,18,96,M,1,0,1,0,    1,0,1,0,0,0,0,0,0
+chizol,Chizhov,Oleksandr,1986-08-10,UKR,18, , ,5,5,0,0,  450,5,0,0,0,0,0,3,0
+churol,Churilov,Oleksandr,1984-06-06,UKR,18,33,P,5,5,0,0,  450,5,11,-9,0,0,0,1,0
+churvy,Churko,Vyacheslav,1993-05-10,UKR,18,20,M,12,12,0,4,  991,5,0,0,0,2,0,0,0
+datss1,Datsenko,Semen,1994-05-10,UKR,18,17,F,3,3,0,0,  270,3,2,0,0,0,0,1,0
+dekhol,Dekhtiarenko,Oleksandr,1996-02-13,UKR,18,50,F,1,0,1,0,    2,0,3,0,0,0,0,0,0
+dovgol,Dovgiy,Oleksiy,1989-11-02,UKR,18, , ,4,4,0,1,  358,3,0,0,0,0,0,2,0
+fedov1,Fedotov,Vitali,1991-07-16,UKR,18, , ,5,1,4,0,  123,0,0,0,0,0,0,0,0
+filial,Filipov,Aleksandr,1992-10-23,UKR,18, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
+galcev,Galchuk,Evgen,1992-03-05,UKR,18,1,P,20,20,0,0, 1800,20,6,-40,0,0,0,0,0
+garase,Garashchenkov,Sergey,1990-05-16,RUS,18, , ,3,3,0,0,  253,1,2,0,0,0,0,1,0
+grynse,Gryn,Sergiy,1994-06-06,UKR,18,11,A,25,25,0,7, 2189,21,0,0,0,0,0,1,1
+ilyuma,Ilyuk,Maksim,1990-11-10,UKR,18,45,A,5,3,2,0,  226,1,0,0,0,0,0,0,0
+ishcmi,Ishchenko,Mikola,1983-03-09,UKR,18, , ,3,3,0,0,  270,3,0,0,0,0,0,2,0
+kaliig,Kalinin,Igor,1995-11-11,UKR,18, , ,3,2,1,0,  188,2,2,0,0,0,0,0,0
+kisiru,Kisil,Ruslan,1991-10-23,UKR,18,14,M,1,0,1,0,   22,0,3,0,0,0,0,0,0
+kravmy,Kravchenko,Mykyta,1997-06-14,UKR,18,99,M,2,0,2,0,   46,0,2,0,0,0,0,0,0
+kriumy,Kriukov,Mykyta,1991-04-30,UKR,18,32,P,1,1,0,0,   90,1,5,-6,0,0,0,0,0
+kulavl,Kulach,Vladyslav,1993-05-07,UKR,18, , ,12,12,0,2, 1029,11,0,0,0,2,0,1,1
+luchol,Luchyk,Oleksandr,1994-03-30,UKR,18,80,M,3,0,3,0,   16,0,8,0,0,0,0,0,0
+mandol,Mandzyuk,Oleksandr,1983-01-10,UKR,18,16,A,8,2,6,0,  227,0,4,0,0,0,0,4,0
+matvol,Matveev,Oleksandr,1989-02-11,UKR,18,23,F,10,10,0,0,  900,10,0,0,0,0,0,5,0
+matyiv,Matyazh,Ivan,1988-02-15,UKR,18,15,A,9,9,0,0,  756,6,0,0,0,0,0,1,0
+myshdm,Myshnov,Dmytro,1994-01-26,UKR,18,61,M,17,16,1,0, 1378,13,0,0,0,0,0,2,0
+nemtev,Nemtinov,Evgen,1995-10-03,UKR,18,95,M,6,1,5,0,  180,0,0,0,0,0,0,0,0
+oberan,Oberemko,Andriy,1984-03-18,UKR,18,9,M,14,10,4,0,  941,5,1,0,0,0,0,3,0
+ochizu,Ochihava,Zurab,1995-05-18,UKR,18,19,F,7,4,3,0,  346,3,11,0,0,0,0,2,0
+prykse,Prykhodko,Sergiy,1994-01-21,UKR,18,94,M,4,1,3,0,  151,1,12,0,0,0,0,2,0
+putiar,Putivtsev,Artem,1988-08-29,UKR,18, , ,5,5,0,0,  450,5,0,0,0,0,0,1,0
+shapmy,Shaparenko,Mykola,1998-10-04,UKR,18,98,M,2,0,2,1,   31,0,2,0,0,0,0,0,0
+shevse,Shevchuk,Sergiy,1985-06-18,UKR,18,7,F,20,18,2,1, 1552,12,5,0,0,0,0,1,0
+skobdm,Skoblov,Dmitro,1989-11-30,UKR,18,21,M,12,8,4,0,  640,1,4,0,0,0,0,1,0
+suhobo,Suhodub,Bohdan,1994-02-09,UKR,18,30,F,4,4,0,0,  360,4,6,0,0,0,0,0,0
+targda,Targamadze,David,1989-08-22,GEO,18,99,M,3,2,1,0,  170,1,1,0,0,0,0,1,0
+totoan,Totovytskyy,Andriy,1993-01-20,UKR,18, , ,14,14,0,3, 1231,12,0,0,0,1,0,2,0
+tsyuiv,Tsyupa,Ivan,1993-06-25,UKR,18,93,F,17,16,1,0, 1448,15,2,0,0,0,0,7,0
+vakuse,Vakulenko,Sergiy,1993-09-07,UKR,18,79,M,11,11,0,0,  990,11,0,0,0,0,0,4,0
+valeri,Valeev,Rinar,1987-08-22,UKR,18,88,M,9,9,0,0,  749,5,1,0,0,0,0,2,0
+vaside,Vasin,Denis,1989-03-04,UKR,18, , ,3,2,1,0,  191,0,1,0,0,0,0,0,0
+vovkse,Vovkodav,Sergiy,1988-07-02,UKR,18,8,M,8,8,0,0,  720,8,0,0,0,0,0,0,0
+yanaiv,Yanakov,Ivan,1994-07-07,UKR,18,31,A,2,0,2,0,   28,0,7,0,0,0,0,0,0
+yavose,Yavorskiy,Sergiy,1989-07-05,UKR,18,13,F,20,16,4,3, 1530,16,3,0,0,0,0,4,0
+zhycma,Zhychykov,Maksim,1992-11-07,UKR,18,12,F,3,2,1,0,  173,0,5,0,0,0,0,0,0
+zubkru,Zubkov,Ruslan,1991-11-24,UKR,18,24,M,9,8,1,1,  765,8,2,0,-2,0,0,1,0
+adoral,Adorno,Aldo,1982-04-08,PAR,9, , ,4,4,0,1,  272,0,0,0,0,0,0,0,0
+akymol,Akymenko,Oleksandr,1985-09-05,UKR,9,11,A,1,0,1,0,   51,0,3,0,0,0,0,0,0
+alexal,Alexandre, ,1983-08-15,BRA,9,14,M,18,15,3,1, 1197,3,0,0,0,0,0,1,0
+arauga,Araújo,Gabriel,1992-01-29,BRA,9,37,F,14,8,6,0,  829,5,2,0,0,0,0,1,0
+bandal,Bandura,Aleksandr,1986-05-30,UKR,9,12,P,17,17,0,0, 1530,17,9,-22,0,0,0,0,0
+baraar,Baranovskiy,Artem,1990-03-17,UKR,9,2,F,14,6,8,0,  585,5,7,0,0,0,0,2,0
+checvy,Checher,Vyacheslav,1980-12-15,UKR,9,4,F,23,23,0,2, 2065,22,0,0,-1,0,0,5,0
+degtma,Degtyarev,Maksym,1993-05-30,UKR,9,77,A,3,1,2,0,   65,0,1,0,0,0,0,0,0
+fedov1,Fedotov,Vitali,1991-07-16,UKR,9,20,M,16,4,12,0,  548,1,1,0,0,0,0,0,0
+golade,Golaydo,Denis,1984-06-03,UKR,9,84,F,1,0,1,0,   36,0,3,0,0,0,0,0,0
+hovsru,Hovsepyan,Rumyan,1991-11-13,ARM,9, , ,11,8,3,0,  738,4,10,0,0,0,0,1,0
+kaliol,Kalitov,Oleksandr,1993-09-29,UKR,9, , ,0,0,0,0,    0,0,2,0,0,0,0,0,0
+koshig,Koshman,Igor,1995-03-07,UKR,9,24,M,1,0,1,0,    8,0,0,0,0,0,0,1,0
+kozaol,Kozak,Oleksandr,1994-07-25,UKR,9,25,M,2,1,1,0,   84,0,1,0,0,0,0,0,0
+lazidj,Lazić,Đorđe,1983-06-18,SRB,9,9,M,22,22,0,9, 1876,16,0,0,0,2,0,1,0
+makrko,Makrides,Konstantinos,1982-01-13,CYP,9,13,M,20,19,1,2, 1666,16,0,0,0,0,0,6,0
+miroro,Miroshnyk,Roman,1994-01-03,UKR,9,3,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
+mkrtka,Mkrtchyan,Karlen,1988-11-25,ARM,9, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
+moraju,Moraes,Júnior,1987-04-04,UKR,9,10,A,13,12,1,5,  999,8,0,0,0,2,0,2,0
+moromi,Morozyuk,Mikola,1988-01-17,UKR,9,7,M,22,22,0,4, 1755,8,0,0,0,0,0,5,0
+myshbo,Myshenko,Bogdan,1994-12-29,UKR,9,87,M,9,2,7,0,  349,1,5,0,0,0,0,2,0
+mysyma,Mysyk,Marian,1996-10-02,UKR,9,40,M,1,0,1,0,   25,0,5,0,0,0,0,0,0
+nasool,Nasonov,Oleksandr,1992-04-28,UKR,9,23,F,15,12,3,0, 1069,10,7,0,0,0,0,3,0
+nelsgr,Nelson,Gregory,1988-01-31,NED,9,8,M,25,23,2,1, 2060,18,0,0,0,0,0,4,0
+noyool,Noyok,Oleksandr,1992-05-15,UKR,9,18,M,22,16,6,0, 1528,15,2,0,0,0,0,6,0
+pankyu,Pankiv,Yuri,1984-11-03,UKR,9,79,P,9,9,0,0,  810,9,15,-16,0,0,0,0,0
+penkge,Penkov,German,1994-05-26,UKR,9,64,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
+pliava,Pliatsikas,Vasilios,1988-04-14,GRE,9,22,M,3,3,0,0,  241,2,1,0,0,0,0,0,1
+postan,Postupalenko,Anton,1988-08-28,UKR,9,17,M,8,1,7,2,  207,0,13,0,0,0,0,3,0
+pryiva,Pryima,Vasyl,1991-06-10,UKR,9,44,F,22,20,2,0, 1756,18,1,0,0,0,0,4,0
+putiar,Putivtsev,Artem,1988-08-29,UKR,9,5,M,17,17,0,0, 1527,16,0,0,0,0,0,3,1
+sharvy,Sharpar,Vyacheslav,1987-06-02,UKR,9, , ,7,6,1,0,  520,5,2,0,0,0,0,0,0
+soboed,Sobol,Eduard,1995-04-20,UKR,9,55,F,15,15,0,0, 1277,12,1,0,0,0,0,6,1
+troyye,Troyanovskiy,Yevhen,1993-07-02,UKR,9, , ,0,0,0,0,    0,0,2,0,0,0,0,0,0
+yefiol,Yefimchuk,Oleh,1994-03-15,UKR,9,47,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
+zadema,Zaderaka,Maksym,1994-09-07,UKR,9,94,M,5,0,5,0,   54,0,1,0,0,0,0,0,0
+arzhvo,Arzhanov,Volodimir,1985-11-29,UKR,3, , ,13,13,0,0, 1117,8,0,0,0,0,0,2,0
+balavi,Balashov,Vitaliy,1991-01-15,UKR,3,27,A,15,12,3,2, 1002,6,4,0,0,1,0,1,0
+bezodm,Bezotosniy,Dmytro,1983-11-15,UKR,3, , ,7,7,0,0,  630,7,2,-5,0,0,0,1,0
+bobkiv,Bobko,Ivan,1990-12-10,UKR,3, , ,8,8,0,1,  688,4,0,0,0,0,0,1,0
+dancol,Danchenko,Oleg,1994-08-01,UKR,3,94,M,15,12,3,0, 1073,8,5,0,0,0,0,1,0
+didean,Didenko,Anatoliy,1982-06-09,UKR,3,9,A,20,14,6,2, 1274,12,1,0,0,1,0,2,0
+filiar,Filimonov,Artem,1994-02-21,UKR,3,16,M,11,11,0,0,  827,3,0,0,0,0,0,4,0
+fomiru,Fomin,Ruslan,1986-03-02,UKR,3, , ,13,12,1,3, 1073,8,0,0,0,0,0,3,0
+gadrgi,Gadrani,Giorgi,1994-09-30,GEO,3,15,F,4,2,2,0,  276,2,2,0,0,0,0,0,0
+gayxol,Gay,Oleksiy,1982-11-06,UKR,3, , ,13,13,0,4, 1136,10,0,0,0,1,0,1,0
+grecdm,Grechyshkin,Dmytro,1991-09-22,UKR,3,24,M,16,10,6,0, 1069,7,5,0,0,0,0,3,0
+kabavl,Kabayev,Vladyslav,1995-09-01,UKR,3,22,A,9,5,4,0,  462,2,2,0,0,0,0,5,0
+kaliol,Kalitov,Oleksandr,1993-09-29,UKR,3,19,F,3,0,3,0,   55,0,2,0,0,0,0,0,0
+kichan,Kicha,Anton,1990-05-01,UKR,3,8,F,3,1,2,0,   78,0,7,0,0,0,0,1,0
+kovaky,Kovalchuk,Kyrylo,1986-06-11,UKR,3, , ,12,11,1,0,  997,10,0,0,0,0,0,1,0
+krnejo,Krneta,Jovan,1992-05-04,SRB,3,42,F,11,11,0,0,  939,10,1,0,0,0,0,2,0
+kutapa,Kutas,Pavlo,1982-09-03,UKR,3,77,F,15,14,1,0, 1254,11,4,0,0,0,0,3,0
+lutso1,Lutsenko,Oleg,1993-02-14,UKR,3,88,F,2,0,2,0,   55,0,1,0,0,0,0,1,0
+martyu,Martishchuk,Yuriy,1986-04-22,UKR,3,13,P,9,9,0,0,  810,9,7,-16,0,0,0,1,0
+martev,Martynenko,Evgeny,1993-06-25,UKR,3,25,F,9,9,0,0,  810,9,14,0,0,0,0,2,0
+muraev,Murashov,Evgen,1995-05-09,UKR,3,14,A,5,1,4,0,  110,0,0,0,0,0,0,0,0
+nazase,Nazarenko,Sergiy,1980-02-16,UKR,3, , ,10,6,4,1,  498,4,0,0,0,0,0,2,0
+oleyya,Oleynik,Yaroslav,1991-03-14,UKR,3,2,M,4,4,0,0,  299,3,0,0,0,0,0,1,1
+opanev,Opanasenko,Evgeniy,1990-08-25,UKR,3, , ,10,6,4,0,  681,5,2,0,0,0,0,0,0
+pastev,Past,Evgen,1988-03-16,UKR,3,44,P,9,9,0,0,  810,9,16,-10,0,0,0,1,0
+perepe,Pereverza,Petro,1994-07-10,UKR,3,21,A,1,0,1,0,   12,0,0,0,0,0,0,0,0
+petkse,Petko,Sergiy,1994-01-23,UKR,3,32,F,9,9,0,0,  739,8,0,0,0,0,0,2,0
+putryu,Putrash,Yuriy,1990-01-29,UKR,3,4,F,6,4,2,0,  355,2,6,0,0,0,0,0,0
+shchvl,Shchetinin,Vladyslav,1997-08-29,UKR,3,51,F,3,3,0,0,  270,3,1,0,0,0,0,0,0
+shynan,Shynder,Anton,1987-06-13,UKR,3, , ,7,2,5,0,  185,0,2,0,0,0,0,0,0
+sivami,Sivakov,Mikhail,1988-01-16,BLR,3, , ,10,10,0,1,  900,10,1,0,-1,0,0,4,0
+slinan,Slinkin,Andrii,1991-02-19,UKR,3,33,F,12,7,5,0,  657,6,7,0,0,0,0,2,0
+smirye,Smirnov,Yevhen,1993-04-16,UKR,3,61,M,8,5,3,0,  411,2,3,0,0,0,0,0,0
+teikad,Teikeu,Adolphe,1990-06-23,CMR,3, , ,11,11,0,0,  990,11,2,0,0,0,0,2,0
+vaside,Vasin,Denis,1989-03-04,UKR,3,39,A,11,9,2,0,  694,1,0,0,0,0,0,1,1
+yavova,Yavorsky,Vadym,1994-06-26,UKR,3,99,A,6,2,4,0,  276,2,7,0,0,0,0,0,0
+zubeev,Zubeyko,Evgeniy,1989-09-30,UKR,3, , ,13,13,0,0, 1170,13,0,0,0,0,0,2,0
+brovyu,Brovchenko,Yuri,1988-01-25,BLR,88,33,M,4,3,1,0,  294,2,3,0,0,0,0,0,1
+dorovo,Doronin,Volodomyr,1993-01-15,UKR,88,8,M,12,11,1,0,  888,8,5,0,0,0,0,1,0
+doroky,Doroshenko,Kyrylo,1989-10-17,UKR,88,5,M,19,18,1,4, 1390,7,0,0,0,1,0,3,1
+dracma,Drachenko,Maksym,1990-01-28,UKR,88,7,M,25,20,5,0, 1746,12,0,0,-1,0,0,5,0
+dytyol,Dytyatev,Oleksiy,1988-11-07,UKR,88,34,F,22,21,1,0, 1829,19,2,0,0,0,0,10,0
+eremdm,Eremenko,Dmytry,1990-06-20,UKR,88, , ,8,5,3,0,  396,1,3,0,0,0,0,3,0
+galede,Galenkov,Denis,1995-10-13,UKR,88,6,A,1,1,0,0,   76,0,1,0,0,0,0,0,0
+gelzvl,Gelzin,Vladyslav,1973-08-27,UKR,88,10,A,6,1,5,1,  115,0,7,0,0,0,0,1,0
+goshvi,Goshkoderia,Vitali,1988-01-08,UKR,88,99,F,6,4,2,0,  383,3,1,0,0,0,0,0,1
+grisdm,Grishko,Dmitro,1985-12-02,UKR,88,4,F,22,21,1,1, 1900,21,3,0,0,0,0,2,0
+isaxsh,Isa,Sheriff,1990-11-10,NGR,88,23,M,21,21,0,2, 1568,9,1,0,0,0,0,2,0
+ivanpa,Ivanov,Pavel,1984-09-28,UKR,88,3,M,20,20,0,0, 1755,19,1,0,0,0,0,1,0
+kadige,Kadimyan,Gegam,1992-10-19,ARM,88,77,A,21,17,4,4, 1329,7,1,0,0,0,0,2,0
+kotlya,Kotlyarov,Yaroslav,1997-11-19,UKR,88,12,P,0,0,0,0,    0,0,3,0,0,0,0,0,0
+lebeva,Lebed,Valeri,1989-01-05,UKR,88,15,M,12,10,2,0,  782,5,3,0,0,0,0,4,0
+lisevl,Lisenko,Vladimir,1988-04-20,UKR,88,21,A,18,9,9,3,  919,5,1,0,0,0,0,4,0
+litoig,Litovka,Igor,1988-06-05,UKR,88,72,P,13,13,0,0, 1170,13,13,-29,0,0,0,1,0
+makhza,Makharadze,Zauri,1993-03-24,GEO,88,1,P,13,13,0,0, 1170,13,10,-35,0,0,0,1,0
+maksol,Maksimov,Oleksandr,1985-02-13,UKR,88, , ,0,0,0,0,    0,0,3,0,0,0,0,0,0
+mohamo,Moha, ,1993-09-15,MAR,88,11,A,18,13,5,2, 1267,10,4,0,0,0,0,1,0
+myshan,Myshchenko,Andriy,1991-04-07,UKR,88,22,F,15,11,4,0, 1070,11,10,0,0,0,0,2,0
+nedoar,Nedolia,Artem,1993-10-20,UKR,88, , ,1,0,1,0,   29,0,0,0,0,0,0,0,0
+odytev,Odytsov,Evgen,1986-08-23,UKR,88,30,M,2,1,1,0,  126,1,2,0,0,0,0,0,0
+ohirvl,Ohirya,Vladislav,1990-04-03,UKR,88,13,M,22,21,1,0, 1920,21,0,0,0,0,0,5,1
+oleyya,Oleynik,Yaroslav,1991-03-14,UKR,88, , ,3,2,1,0,  192,2,7,0,0,0,0,0,0
+semeig,Semenyna,Igor,1989-01-01,UKR,88,18,M,15,4,11,3,  693,2,8,0,0,0,0,1,0
+sitnol,Sitnik,Oleksandr,1984-07-07,UKR,88,9,M,20,8,12,2,  842,0,4,0,-1,0,0,3,0
+tishig,Tishchenko,Igor,1989-05-11,UKR,88,19,M,21,17,4,2, 1671,17,2,0,0,0,0,7,0
+tsymev,Tsymbalyuk,Evgeniy,1996-06-19,UKR,88,2,F,1,1,0,0,   90,1,1,0,0,0,0,0,0
+babami,Babatunde,Michel,1992-12-24,NGR,23,79,M,13,11,2,2, 1013,8,0,0,0,0,0,5,0
+baberu,Babenko,Ruslan,1992-07-08,UKR,23,6,F,17,16,1,1, 1333,11,3,0,0,0,0,5,1
+bicfer,Bicfalvi,Eric,1988-02-05,ROM,23,10,M,26,26,0,17, 2334,24,0,0,0,4,0,2,0
+bokhev,Bokhashvili,Evgen,1993-01-05,UKR,23, , ,1,1,0,0,   45,0,2,0,0,0,0,0,0
+bulydm,Bulyha,Dmytro,1995-01-16,UKR,23,56,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+celial,Celin,Alessandro,1989-09-11,BRA,23,11,A,7,2,5,1,  138,0,3,0,0,0,0,2,0
+fedova,Fedorchuk,Valeriy,1988-10-05,UKR,23, , ,11,11,0,0,  929,7,0,0,0,0,0,3,0
+godoro,Godovaniy,Roman,1990-10-04,UKR,23,36,F,5,4,1,0,  330,3,2,0,0,0,0,1,0
+gumeol,Gumenyuk,Oleg,1983-05-03,UKR,23,30,M,16,5,11,0,  743,3,6,0,0,0,0,4,0
+khomvi,Khomchenko,Victor,1994-11-11,UKR,23,94,A,4,1,3,0,  145,0,1,0,0,0,0,1,0
+kobaal,Kobakhidze,Aleksandr,1987-02-11,GEO,23,19,M,23,21,2,6, 1945,16,0,0,0,0,0,1,0
+kozbdm,Kozban,Dmytro,1989-04-27,UKR,23,89,A,10,1,9,1,  295,1,8,0,0,0,0,1,0
+kychar,Kychak,Artem,1989-05-16,UKR,23,74,P,9,6,3,0,  664,6,16,-13,0,0,0,0,0
+litose,Litovchenko,Sergiy,1987-10-04,UKR,23, , ,0,0,0,0,    0,0,3,0,0,0,0,0,0
+marida,Mariotto, ,1996-01-15,BRA,23, , ,9,5,4,1,  462,4,2,0,0,1,0,1,0
+matefl,Matei,Florentin,1993-04-15,ROM,23,93,M,21,20,1,2, 1607,9,0,0,0,0,0,5,0
+memere,Memeshev,Redvan,1993-08-15,UKR,23,9,M,19,15,4,2, 1091,4,0,0,0,0,0,3,0
+nedivi,Nedilko,Vitaliy,1982-08-21,UKR,23,42,P,10,10,0,0,  769,6,3,-15,0,0,0,0,0
+nemcdm,Nemchaninov,Dmitriy,1990-01-27,UKR,23,8,F,6,6,0,0,  457,3,1,0,0,0,0,2,0
+novaev,Novak,Evgen,1989-02-01,UKR,23,33,F,7,3,4,0,  311,2,12,0,0,0,0,2,0
+nykyro,Nykytyuk,Roman,1993-09-09,UKR,23,26,F,2,0,2,0,   37,0,9,0,0,0,0,0,0
+partte,Partsvaniya,Temur,1991-07-06,UKR,23,91,F,10,8,2,0,  657,4,0,0,0,0,0,3,0
+petrse,Petrov,Serhii,1997-05-21,UKR,23,38,A,3,1,2,0,   94,1,3,0,0,0,0,1,0
+polise,Politylo,Sergiy,1989-01-09,UKR,23,8,M,11,9,2,0,  896,7,1,0,0,0,0,2,0
+polovo,Poloviy,Volodimir,1985-07-28,UKR,23,14,F,11,9,2,0,  862,7,1,0,0,0,0,3,0
+prynvi,Pryndeta,Vitali,1993-02-02,UKR,23,4,F,5,5,0,0,  399,4,3,0,0,0,0,0,0
+rogaiv,Rogač,Ivan,1992-06-18,SRB,23, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
+shabar,Shabanov,Artem,1992-03-07,UKR,23,13,F,22,20,2,1, 1771,17,2,0,0,0,0,4,0
+shapvl,Shapoval,Vladyslav,1995-05-08,UKR,23,45,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+sharvy,Sharpar,Vyacheslav,1987-06-02,UKR,23, , ,11,11,0,1,  972,10,0,0,0,0,0,3,0
+shisga,Shish,Gal,1989-01-28,ISR,23,16,F,9,5,4,0,  522,5,6,0,0,0,0,3,0
+shusbo,Shust,Bogdan,1986-03-04,UKR,23,1,P,10,10,0,0,  900,10,1,-15,0,0,0,1,0
+simise,Siminin,Sergiy,1987-10-09,UKR,23, , ,13,13,0,1, 1169,12,0,0,0,0,0,2,1
+svatol,Svatok,Oleksandr,1994-09-27,UKR,23, , ,4,1,3,0,   69,0,4,0,0,0,0,1,0
+vororo,Vorobey,Roman,1995-06-07,UKR,23,57,F,0,0,0,0,    0,0,3,0,0,0,0,0,0
+vorose,Voronin,Sergiy,1987-03-24,UKR,23,5,F,5,4,1,0,  372,3,3,0,0,0,0,0,0
+zadedm,Zaderetskyi,Dmytro,1994-08-03,UKR,23,20,F,3,0,3,0,   74,0,5,0,0,0,0,0,0
+zinkol,Zinkevych,Oleksey,1997-05-12,UKR,23,98,M,1,0,1,0,    1,0,0,0,0,0,0,0,0
+zuniiv,Žunić,Ivica,1988-09-11, ,23,15,M,26,26,0,3, 2340,26,0,0,-1,0,0,3,0
+baraol,Barannik,Oleg,1992-03-20,UKR,4,24,A,15,8,7,1,  654,0,3,0,0,0,0,1,0
+bogust,Bogush,Stanislav,1983-10-25,UKR,4,31,P,23,23,0,0, 2070,23,2,-19,0,0,0,1,0
+budnev,Budnik,Evgen,1990-09-04,UKR,4,22,A,2,1,1,0,   74,0,7,0,0,0,0,1,0
+chesvo,Chesnakov,Volodimir,1988-02-12,UKR,4,17,F,23,23,0,0, 2059,21,3,0,0,0,0,3,0
+dalla1,Dallku,Armend,1983-06-16,ALB,4,4,F,22,22,0,0, 1979,21,0,0,0,0,0,6,1
+dedede,Dedechko,Denis,1987-07-02,UKR,4,15,M,20,19,1,3, 1647,14,2,0,0,0,0,2,1
+gromar,Gromov,Artem,1990-01-14,UKR,4,7,M,24,24,0,7, 2130,22,0,0,0,0,0,3,0
+januah,Januzi,Ahmed,1988-07-08,KOS,4,9,A,14,8,6,1,  716,1,3,0,0,0,0,4,1
+kizije,Kizilatesh,Jemal,1994-03-14,UKR,4,14,M,1,0,1,0,    1,0,5,0,0,0,0,0,0
+kovpol,Kovpak,Oleksandr,1983-02-02,UKR,4,39,A,24,18,6,8, 1664,6,1,0,0,1,0,1,0
+kravdm,Kravchenko,Dmitro,1995-02-25,UKR,4,29,M,0,0,0,0,    0,0,2,0,0,0,0,0,0
+kriviv,Krivoshenko,Ivan,1984-05-11,UKR,4, , ,7,2,5,0,  184,0,7,0,0,0,0,0,0
+logise,Loginov,Serhiy,1990-08-24,UKR,4,3,F,0,0,0,0,    0,0,8,0,0,0,0,0,0
+markjo,Markoski,Jovan,1980-06-23,SRB,4,10,M,14,5,9,0,  386,0,8,0,0,0,0,2,0
+mishol,Mishchenko,Oleg,1989-10-10,UKR,4,99,A,12,0,12,1,  225,0,2,0,0,0,0,1,0
+nepodm,Nepogodov,Dmytro,1988-02-17,UKR,4,12,P,3,3,0,0,  270,3,21,-3,0,0,0,0,0
+perdig,Perduta,Igor,1990-11-15,UKR,4,40,F,14,7,7,0,  737,6,3,0,0,0,0,2,0
+pohrty,Pohranichnii,Tymur,1995-02-16,UKR,4,27,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+romaol,Romanchuk,Oleksandr,1984-10-21,UKR,4, , ,1,0,1,0,   24,0,11,0,0,0,0,0,0
+sapava,Sapay,Vadim,1986-02-07,UKR,4,23,F,23,23,0,1, 2059,22,0,0,0,0,0,4,0
+shynan,Shynder,Anton,1987-06-13,UKR,4,11,A,11,11,0,4,  899,6,0,0,0,0,0,3,1
+sichbo,Sichkaruk,Bohdan,1994-08-01,UKR,4,47,A,2,0,2,0,    8,0,4,0,0,0,0,0,0
+simise,Siminin,Sergiy,1987-10-09,UKR,4,3,F,11,11,0,0,  990,11,0,0,0,0,0,2,0
+sklyal,Sklyar,Aleksandr,1991-02-26,UKR,4,6,M,19,17,2,1, 1535,13,5,0,0,0,0,3,1
+tkacol,Tkachenko,Oleksandr,1993-02-19,UKR,4,21,P,0,0,0,0,    0,0,2,0,0,0,0,0,0
+tkacev,Tkachuk,Evgen,1991-06-27,UKR,4,34,F,23,22,1,0, 1969,20,3,0,0,0,0,4,0
+tkacan,Tkachuk,Andriy,1987-11-18,UKR,4,8,M,18,13,5,1, 1150,8,7,0,0,0,0,3,0
+turssa,Tursunov,Sanzhar,1986-12-29,UZB,4,77,M,26,26,0,5, 2251,18,0,0,0,0,0,4,0
+akakse,Akakpo,Serge,1987-10-15,TOG,22,5,F,20,19,1,0, 1633,16,1,0,0,0,0,3,0
+akimvi,Akimov,Viacheslav,1989-10-17,UKR,22,88,M,4,1,3,0,  131,0,6,0,0,0,0,1,0
+babedm,Babenko,Dmitro,1978-06-28,UKR,22,22,P,3,2,1,0,  184,2,13,-10,0,0,0,0,0
+bonxmi,Bon,Miroslav,1993-02-16,UKR,22,12,P,0,0,0,0,    0,0,6,0,0,0,0,0,0
+burdlu,Burdujan,Lucian,1984-02-18,ROM,22,31,A,6,5,1,0,  456,4,0,0,0,0,0,1,0
+everev,Everson, ,1986-07-01,BRA,22,3,F,1,1,0,0,   90,1,3,0,0,0,0,0,0
+fedovi,Fedoriv,Vitaliy,1987-10-21,UKR,22,42,F,1,1,0,0,   90,1,2,0,0,0,0,0,0
+feshma,Feshchuk,Maksim,1985-11-25,UKR,22,10,A,23,22,1,4, 1960,19,2,0,0,0,0,2,0
+gegero,Gegedosh,Robert,1993-05-02,UKR,22,27,M,0,0,0,0,    0,0,4,0,0,0,0,0,0
+geraol,Gerasimyuk,Oleg,1986-09-25,UKR,22,10,M,17,15,2,0, 1283,9,0,0,0,0,0,2,0
+glusil,Glushytskiy,Ilya,1993-08-02,UKR,22,29,F,10,8,2,0,  753,6,7,0,-1,0,0,2,1
+harulu,Haruna,Lukman,1990-12-04,NGR,22,25,M,5,5,0,0,  394,1,0,0,0,0,0,1,0
+hrysva,Hryshyn,Valeriy,1994-06-12,UKR,22,77,A,10,8,2,1,  642,4,0,0,0,0,0,1,0
+jagovi,Jagodinskis,Vitālijs,1992-02-28,LAT,22,20,F,22,22,0,1, 1850,19,1,0,0,0,0,2,1
+kachta,Kacharaba,Taras,1995-01-07,UKR,22,14,M,14,9,5,1,  983,9,7,0,0,0,0,6,0
+kavevi,Kaverin,Vitaliy,1990-09-04,UKR,22,24,A,13,1,12,2,  313,0,1,0,0,0,0,1,0
+khlydm,Khlyobas,Dmytro,1994-05-09,UKR,22,99,A,11,5,6,4,  614,5,0,0,0,0,0,1,0
+khoman,Khomin,Andriy,1982-01-02,UKR,22,4,F,16,15,1,0, 1247,11,1,0,-1,0,0,6,0
+koroih,Korotetskyi,Ihor,1987-09-13,UKR,22,13,F,2,2,0,0,  180,2,1,0,0,0,0,1,0
+kovama,Koval,Maksim,1992-12-09,UKR,22,21,P,21,21,0,0, 1890,21,0,-32,0,0,0,3,0
+kuznse,Kuznetsov,Sergey,1982-08-31,UKR,22, , ,2,2,0,0,  180,2,0,0,0,0,0,1,0
+liulse,Liulka,Serhii,1990-02-22,UKR,22,23,F,21,21,0,0, 1788,17,0,0,-2,0,0,5,0
+lukhvy,Lukhtanov,Vyacheslav,1995-02-12,UKR,22,95,F,1,0,1,0,   11,0,5,0,0,0,0,0,0
+myakse,Myakushko,Sergiy,1993-04-15,UKR,22,8,F,19,19,0,5, 1633,14,0,0,0,0,0,1,0
+nadxol,Nad,Oleksandr,1985-09-02,UKR,22,1,P,3,3,0,0,  266,2,6,-5,0,0,0,0,0
+panfvy,Panfilov,Vyacheslav,1993-06-24,UKR,22, , ,4,0,4,0,   27,0,0,0,0,0,0,0,0
+pavlvl,Pavlenko,Vladyslav,1994-04-05,UKR,22, , ,4,4,0,0,  309,2,3,0,0,0,0,1,0
+polyol,Polyanskiy,Oleksiy,1986-04-12,UKR,22,2,F,10,9,1,0,  676,4,2,0,0,0,0,1,0
+pyskmy,Pysko,Mykhailo,1993-03-19,UKR,22,32,F,0,0,0,0,    0,0,3,0,0,0,0,0,0
+radcar,Radchenko,Artem,1995-01-02,UKR,22,45,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+raicmi,Raičević,Mirko,1982-03-22,MNT,22,7,M,15,9,6,0,  934,5,6,0,0,0,0,6,0
+replmy,Repliuk,Mykhailo,1986-11-10,UKR,22,19,M,0,0,0,0,    0,0,3,0,0,0,0,0,0
+rodiiv,Rodić,Ivan,1985-11-11,CRO,22,28,A,4,2,2,0,  211,0,9,0,0,0,0,1,0
+shatma,Shatskikh,Maksim,1978-08-30,UZB,22,16,A,18,17,1,3, 1394,9,1,0,0,0,0,2,0
+stepru,Stepanyuk,Ruslan,1992-01-16,UKR,22, , ,13,5,8,0,  588,0,0,0,0,0,0,1,0
+tomayu,Toma,Yurii,1996-04-27,UKR,22,96,M,1,0,1,0,    6,0,1,0,0,0,0,0,0
+trukdm,Trukhin,Dmytro,1983-06-29,UKR,22,15,M,15,7,8,0,  717,5,9,0,0,0,0,2,0
+tudoal,Tudose,Alexandru,1987-04-03,ROM,22,6,F,23,23,0,1, 2014,21,0,0,0,0,0,5,0
+vechmi,Vechurko,Mikola,1992-06-06,UKR,22,18,M,2,0,2,0,   20,0,5,0,0,0,0,0,0
+similo,Šimić,Lorenco,1996-07-15,CRO,22,44,F,3,3,0,0,  238,2,2,0,0,0,0,1,0
+babyma,Babyichuk,Maxim,1994-04-28,UKR,17,35,P,0,0,0,0,    0,0,8,0,0,0,0,0,0
+balisa,Balić,Saša,1990-01-29,MNT,17,3,F,20,20,0,0, 1767,18,1,0,0,0,0,4,1
+boroev,Borovik,Evgen,1985-03-02,UKR,17, , ,10,10,0,0,  900,10,1,-20,0,0,0,1,0
+gavrvi,Gavrish,Vitaly,1986-03-18,UKR,17,9,M,10,4,6,1,  516,3,4,0,0,0,0,0,0
+godiol,Godin,Oleksiy,1983-02-02,UKR,17,11,M,0,0,0,0,    0,0,2,0,0,0,0,0,0
+gvilva,Gvilia,Valeriane,1994-05-24,GEO,17,80,M,12,8,4,0,  828,7,2,0,0,0,0,2,0
+hrdlli,Hrdlička,Libor,1986-01-02,SVK,17, , ,1,1,0,0,   90,1,3,-1,0,0,0,0,0
+ignada,Ignatenko,Danylo,1997-03-13,UKR,17,97,M,1,0,1,0,   29,0,1,0,0,0,0,0,0
+jokimi,Jokić,Miloš,1987-06-07,SRB,17,5,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+kaplol,Kaplienko,Oleksandr,1996-03-07,UKR,17,18,F,19,14,5,3, 1181,5,3,0,0,0,0,4,0
+klimeg,Klimenchuk,Egor,1997-11-11,UKR,17,60,M,1,0,1,0,   14,0,0,0,0,0,0,1,0
+koroih,Korotetskyi,Ihor,1987-09-13,UKR,17, , ,4,4,0,0,  360,4,4,0,0,0,0,1,0
+kulavl,Kulach,Vladyslav,1993-05-07,UKR,17,7,A,9,9,0,0,  765,8,0,0,0,0,0,3,0
+kulyse,Kulynych,Sergiy,1995-01-09,UKR,17,27,M,2,2,0,0,  135,1,11,0,0,0,0,0,0
+kuriol,Kurilov,Oleksiy,1988-04-24,RUS,17,8,F,10,10,0,0,  877,9,5,0,0,0,0,2,0
+kuznar,Kuznetsov,Artur,1995-03-09,UKR,17,15,F,7,6,1,0,  553,5,1,0,0,0,0,1,0
+lepadm,Lepa,Dmitriy,1988-11-23,UKR,17,39,M,14,14,0,1, 1199,12,3,0,0,0,0,4,0
+lisivi,Lisitskiy,Vitaliy,1982-04-16,UKR,17,22,F,22,20,2,3, 1806,18,2,0,0,2,0,7,0
+leo_le,Léo, ,1989-11-29,BRA,17, , ,3,0,3,1,   63,0,4,0,0,0,0,0,0
+matyiv,Matyazh,Ivan,1988-02-15,UKR,17, , ,5,0,5,0,   76,0,3,0,0,0,0,0,0
+nestan,Nesterov,Andriy,1990-07-02,UKR,17,5,F,7,5,2,0,  441,4,6,0,0,0,0,1,0
+orelnu,Orelesi,Nurudeen,1989-04-10,NGR,17,88,M,19,18,1,1, 1536,14,0,0,0,0,0,5,0
+pashpa,Pashaev,Pavlo,1988-01-04,AZE,17,20,F,22,22,0,0, 1937,20,0,0,0,0,0,6,0
+platru,Platon,Ruslan,1982-01-12,UKR,17,24,A,16,13,3,5, 1086,4,6,0,0,0,0,4,0
+pomaro,Pomazan,Roman,1994-09-05,UKR,17,6,F,3,2,1,0,  198,2,0,0,0,0,0,0,0
+poporo,Popov,Roman,1995-06-29,UKR,17,95,A,1,1,0,0,   76,0,0,0,0,0,0,0,0
+priyvo,Priyomov,Volodimir,1986-01-02,UKR,17, , ,13,13,0,0, 1113,8,0,0,0,0,0,2,0
+rudise,Rudika,Sergiy,1988-06-14,UKR,17,19,M,18,9,9,0,  927,7,0,0,-1,0,0,4,0
+sakhan,Sakhnevych,Andriy,1989-04-17,UKR,17, , ,3,2,1,0,  175,1,6,0,0,0,0,1,0
+sergs1,Serginho, ,1985-06-16,POR,17, , ,12,11,1,0,  987,9,1,0,0,0,0,1,0
+sherty,Sheremeta,Tymofey,1995-10-06,UKR,17,16,P,1,1,0,0,   90,1,4,-2,0,0,0,0,0
+shtuyu,Shturko,Yuriy,1984-10-08,UKR,17,21,M,12,6,6,2,  509,3,0,0,0,0,0,2,0
+starma,Startsev,Maksim,1980-01-20,UKR,17,1,P,13,13,0,0, 1170,13,8,-16,0,0,0,1,0
+tatamy,Tatarkov,Mykyta,1995-01-04,UKR,17,20,M,9,4,5,1,  464,3,3,0,0,0,0,1,0
+tsuran,Tsurikov,Andriy,1992-10-05,UKR,17,17,F,7,6,1,1,  484,4,1,0,0,0,0,1,0
+ulyadm,Ulyanov,Dmitry,1993-12-01,UKR,17,33,F,5,4,1,0,  371,3,1,0,0,0,0,1,0
+yurcva,Yurchuk,Valeri,1990-04-12,UKR,17,23,P,1,1,0,0,   90,1,1,-1,0,0,0,0,0
+yusodm,Yusov,Dmytro,1993-05-11,UKR,17,44,A,24,19,5,0, 1589,10,2,0,0,0,0,4,0
+zakhar,Zakharov,Artem,1996-06-19,UKR,17,70,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+zhurig,Zhurakhovskyi,Igor,1994-09-19,UKR,17,25,M,22,14,8,0, 1313,5,1,0,0,0,0,2,0
+banama,Banasevich,Maxym,1995-01-31,UKR,27,48,M,0,0,0,0,    0,0,2,0,0,0,0,0,0
+bilyma,Bilyi,Maksym,1990-06-21,UKR,27,25,F,16,10,6,1,  999,9,8,0,0,0,0,3,0
+borool,Borodai,Oleg,1993-01-07,UKR,27,57,M,0,0,0,0,    0,0,3,0,0,0,0,0,0
+budkpy,Budkovsky,Pylyp,1992-03-10,UKR,27,28,A,25,25,0,8, 2082,20,0,0,0,0,0,3,1
+chayig,Chaykovskiy,Igor,1991-10-07,UKR,27,4,M,14,9,5,0,  736,2,5,0,0,0,0,4,0
+gordar,Gordienko,Artem,1991-03-04,UKR,27,45,M,6,5,1,0,  450,4,7,0,-1,0,0,3,0
+gritol,Gritsay,Oleksandr,1977-09-30,UKR,27,35,M,16,14,2,0, 1067,5,7,0,0,0,0,3,0
+ignjni,Ignjatijević,Nikola,1983-12-12,SRB,27, , ,11,10,1,0,  915,8,1,0,0,0,0,3,1
+kameni,Kamenyuka,Nikita,1985-06-03,UKR,27,6,F,23,23,0,1, 2062,22,1,0,0,0,0,2,0
+karaol,Karavayev,Oleksandr,1992-06-02,UKR,27,20,M,24,22,2,2, 1914,16,0,0,0,0,0,1,0
+khomdm,Khomchenovsky,Dmytro,1990-04-16,UKR,27,37,M,23,22,1,4, 1854,16,1,0,0,0,0,1,0
+khudru,Khudzhamov,Rustam,1982-10-05,UKR,27,12,P,1,1,0,0,   18,0,0,-1,0,0,0,0,0
+khudpa,Khudzik,Pavlo,1985-04-29,UKR,27, , ,2,0,2,0,   69,0,2,0,0,0,0,0,0
+levcig,Levchenko,Igor,1991-02-23,UKR,27,91,P,1,1,0,0,   90,1,2,-4,0,0,0,0,0
+lipaja,Lipartia,Jaba,1987-11-16,GEO,27,10,A,16,6,10,3,  676,2,10,0,0,0,0,1,0
+ljubze,Ljubenović,Željko,1981-07-09,SRB,27,22,M,24,11,13,8, 1215,6,0,0,0,1,0,0,0
+lukadm,Lukanov,Dmytro,1995-03-02,UKR,27,49,A,1,0,1,0,   54,0,1,0,0,0,0,0,0
+maliru,Malinovskiy,Ruslan,1993-05-04,UKR,27,18,M,23,16,7,1, 1360,2,0,0,0,1,0,8,0
+malyma,Malyshev,Maksym,1992-12-24,UKR,27,8,F,16,16,0,3, 1402,14,1,0,0,0,0,4,0
+opanev,Opanasenko,Evgeniy,1990-08-25,UKR,27,21,F,8,6,2,0,  585,5,4,0,0,0,0,2,0
+petriv,Petryak,Ivan,1994-03-13,UKR,27,34,F,9,3,6,1,  329,1,4,0,0,0,0,0,0
+pilyan,Pilyavsky,Andriy,1988-12-04,UKR,27,99,F,19,19,0,3, 1665,18,2,0,0,1,0,3,0
+poltan,Poltavtsev,Andriy,1991-12-07,UKR,27,36,P,2,1,1,0,  162,1,6,-2,0,0,0,0,0
+pyskmy,Pysko,Mykhailo,1993-03-19,UKR,27, , ,4,1,3,0,  220,0,8,0,0,0,0,1,0
+santkr,Santini,Krševan,1987-04-11,CRO,27,1,P,8,8,0,0,  720,8,15,-9,0,0,0,0,0
+segbpr,Segbefia,Prince,1991-03-11,TOG,27, , ,9,7,2,1,  579,4,0,0,0,0,0,3,0
+shevni,Shevchenko,Nikita,1993-01-26,UKR,27,30,P,15,15,0,0, 1350,15,2,-15,0,0,0,2,0
+totoan,Totovytskyy,Andriy,1993-01-20,UKR,27,29,M,9,3,6,1,  366,2,2,0,0,0,0,1,0
+vernvi,Vernidub,Vitaliy,1987-10-17,UKR,27,15,F,23,23,0,2, 2003,22,1,0,0,0,0,5,0
+yarmgr,Yarmash,Grigoriy,1985-01-04,UKR,27,16,F,12,9,3,0,  760,7,12,0,0,0,0,3,0
+adrilu,Adriano,Luiz,1987-04-12,BRA,1,9,A,21,19,2,9, 1643,15,2,0,0,1,0,3,0
+azevma,Azevedo,Márcio,1986-02-05,BRA,1,66,F,2,1,1,0,  115,1,1,0,0,0,0,0,0
+bernbe,Bernard, ,1992-09-08,BRA,1,10,M,14,6,8,0,  526,0,1,0,0,0,0,1,0
+bolbse,Bolbat,Sergiy,1993-06-13,UKR,1, , ,1,0,1,0,   22,0,2,0,0,0,0,0,0
+chigdm,Chigrinskiy,Dmitro,1986-11-07,UKR,1, , ,1,1,0,0,   90,1,2,0,0,0,0,0,0
+costdo,Costa,Douglas,1990-09-14,BRA,1,20,A,20,14,6,4, 1270,5,1,0,0,0,0,3,0
+dentbr,Dentinho, ,1989-01-19,BRA,1,89,A,11,1,10,1,  286,0,5,0,0,0,0,1,0
+fernf1,Fernando, ,1992-03-03,BRA,1,17,M,13,11,2,1,  907,7,10,0,0,0,0,2,0
+ferrfa,Ferreyra,Facundo,1991-03-14,ARG,1, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
+fredfr,Fred, ,1993-03-05,BRA,1,8,M,22,14,8,1, 1365,10,2,0,0,0,0,4,0
+gladol,Gladkyi,Oleksandr,1987-08-24,UKR,1,21,A,19,14,5,11, 1183,8,7,0,0,0,0,1,0
+ilsiil,Ilsinho, ,1985-10-12,BRA,1,77,M,14,11,3,0,  957,4,3,0,0,0,0,6,0
+ismais,Ismaily, ,1990-01-11,BRA,1,31,F,8,8,0,0,  707,7,2,0,0,0,0,0,0
+kanian,Kanibolotskiy,Anton,1988-05-16,UKR,1,32,P,11,11,0,0,  990,11,14,-8,0,0,0,1,0
+kovavi,Kovalenko,Viktor,1996-02-14,UKR,1,74,M,2,0,2,0,   25,0,2,0,0,0,0,0,0
+krivse,Krivtsov,Sergiy,1991-03-15,UKR,1,38,F,17,16,1,3, 1412,14,3,0,0,0,0,2,0
+kuchol,Kucher,Oleksandr,1982-10-22,UKR,1,5,F,11,9,2,0,  855,8,8,0,0,0,0,2,1
+marlma,Marlos, ,1988-06-07,UKR,1,11,M,21,12,9,4, 1072,3,4,0,0,0,0,3,0
+nemxwe,Nem,Wellington,1992-02-06,BRA,1,7,A,8,0,8,3,  167,0,5,0,0,0,0,1,0
+ordeiv,Ordets,Ivan,1992-07-08,UKR,1,18,F,9,9,0,0,  702,7,9,0,0,0,0,2,2
+pyatan,Pyatov,Andriy,1984-06-28,UKR,1,30,P,15,15,0,0, 1350,15,10,-13,0,0,0,0,0
+rakiya,Rakitskiy,Yaroslav,1989-08-03,UKR,1,44,F,18,17,1,2, 1601,15,0,0,0,0,0,4,2
+sarnbo,Sarnavskiy,Bogdan,1995-01-29,UKR,1,23,P,0,0,0,0,    0,0,2,0,0,0,0,0,0
+shevvy,Shevchuk,Vyacheslav,1979-05-13,UKR,1,13,F,16,16,0,1, 1318,12,2,0,0,0,0,0,1
+srnada,Srna,Darijo,1982-05-01,CRO,1,33,F,23,23,0,4, 1914,19,1,0,0,2,0,5,0
+stepta,Stepanenko,Taras,1989-08-08,UKR,1,6,M,22,22,0,4, 1892,19,0,0,0,0,0,5,0
+taista,Taison, ,1988-01-13,BRA,1,28,A,21,18,3,4, 1451,5,1,0,0,0,0,2,0
+teixal,Teixeira,Alex,1990-01-06,BRA,1,29,M,22,18,4,17, 1772,18,0,0,0,1,0,5,0
+volool,Volovik,Oleksandr,1985-10-28,UKR,1,4,F,0,0,0,0,    0,0,6,0,0,0,0,0,0
