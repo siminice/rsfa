@@ -1,0 +1,828 @@
+ID,Name,Vorname,AnzeigeName,Geburtsdatum,IsGeburtsdatumUnbekannt,DatumNew,DatumUpdate,UserID,SuchName,LandID,Notiz,Vorsatzwort,GID,ToDo,MasterID
+1600216,Wenger,Hans,Hans Wenger,1952-02-16,F,2010-09-19,2020-10-07,1015,wenger,9, ,,1632406016, ,5850
+1600217,Müller,R,R Müller, ,T,2010-09-27,2010-10-08,1029,mueller,9,Bern evt. Hans Müller???,,1622227072, ,5850
+1600219,Gachoud,Claude,Claude Gachoud, ,T,2010-09-27,2011-01-08,1029,gachoud,9, ,,1449642880, ,5850
+1600220,Süess, ,Süess, ,T,2010-09-27,2011-01-08,1029,sueess,9, ,,237371136,könnte ev. Robert Süess sein!,5850
+1600221,Bernhardsgrütter,Bruno,Bruno Bernhardsgrütter, ,T,2010-10-18,2011-01-05,1029,bernhardsgruetter,9, ,,1139287424, ,5850
+1600222,Bürki,Daniel,Daniel Bürki, ,T,2010-10-18,2011-01-04,1029,buerki,9, ,,1334636800, ,5850
+1600225,Papa,Silvio,Silvio Papa, ,T,2010-11-13,2011-08-01,1015,papa,9, ,,12374528, ,5850
+1600226,Süess,Robert,Robert Süess,1950-08-15,F,2010-11-15,2014-07-14,1015,sueess,9, ,,831903872, ,5850
+1600227,Hauser,Peter,Peter Hauser, ,T,2010-11-15,2011-01-08,1029,hauser,9, ,,734881152, ,5850
+1600229,Schiess, ,Schiess, ,T,2010-11-15,2011-01-09,1029,schiess,9,ev Robert Süess und nicht schiess?,,1944904320,ID 1600226,5850
+1600230,Lüthi,Daniel,Daniel Lüthi, ,T,2010-11-15,2011-10-12,1015,luethi,9, ,,287853056, ,5850
+1600231,Pfister,Urs,Urs Pfister, ,T,2010-11-15,2015-04-27,1015,pfister,9, ,,316302080, ,5850
+1600232,Jakober,Hansruedi,Hansruedi Jakober, ,T,2010-11-16,2015-04-27,1015,jakober,9, ,,857170688, ,5850
+1600233,Pfiffer, ,Pfiffer, ,T,2010-11-16,2011-01-08,1029,pfiffer,9, ,,2005273472,ev Pfister,5850
+1600234,Barmettler,Bruno,Bruno Barmettler, ,T,2011-01-16,2011-01-16,1015,barmettler,9,ab 1991,,1394271104, ,5850
+1600235,Ben-Itzchak,Itzhak,Itzhak Ben-Itzchak,1948-08-02,F,2011-01-16,2011-01-16,1015,ben itzchak,55, ,,1651291904, ,5850
+1600236,Gnägi,Roland,Roland Gnägi, ,T,2011-01-16,2011-01-16,1015,gnaegi,9, ,,1982151808, ,5850
+1600237,Gozzi,Sandro,Sandro Gozzi, ,T,2011-01-16,2011-01-16,1015,gozzi,9, ,,770812928, ,5850
+1600238,Rossi,Marco,Marco Rossi, ,T,2011-01-16,2011-01-16,1015,rossi,9, ,,95051136, ,5850
+1600239,Schönenberger,Jakob,Jakob Schönenberger, ,T,2011-01-16,2011-01-16,1015,schoenenberger,9, ,,2032552192, ,5850
+1600240,Schürmann,Kurt,Kurt Schürmann, ,T,2011-01-16,2011-01-16,1015,schuermann,9, ,,1187022464, ,5850
+1600241,Schuppisser,Roger,Roger Schuppisser, ,T,2011-01-16,2011-01-16,1015,schuppisser,9, ,,499633664, ,5850
+1600242,Toro,Vito,Vittorio de Toro, ,T,2011-01-16,2020-05-22,1015,toro,9, ,de,825227136, ,5850
+1600243,Ulmann,Roman,Roman Ulmann, ,T,2011-01-16,2011-01-16,1015,ulmann,9, ,,628980480, ,5850
+1600245,Hänni,Charly,Charly Hänni,1956-11-28,F,2011-02-13,2015-02-15,1015,haenni,9, ,,884592128, ,5850
+1600246,Sandoz,M.,M. Sandoz, ,T,2011-02-19,2011-02-19,1015,sandoz,9, ,,1785725696, ,5850
+1600247,Willi,R.,R. Willi, ,T,2011-02-21,2011-02-21,1015,willi,9, ,,980223488, ,5850
+1600248,Niederhauser, ,Niederhauser, ,T,2011-02-24,2011-02-24,1015,niederhauser,9, ,,1627538304, ,5850
+1600249,Berchier,Jean-Marc,Jean-Marc Berchier,1943-03-18,F,2011-03-07,2015-02-15,1015,berchier,9, ,,487054976, ,5850
+1600250,Mariani, ,Mariani, ,T,2011-03-10,2011-03-10,1015,mariani,9, ,,2130924800, ,5850
+1600252,Bettex,Yvan,Yvan Bettex, ,T,2011-03-30,2012-01-14,1015,bettex,9, ,,1184829568, ,5850
+1600253,Rieder,Peter,Peter Rieder, ,T,2011-04-13,2011-04-22,1015,rieder,9, ,,1973622272, ,5850
+1600254,Bachmann, ,Bachmann, ,T,2011-04-22,2011-04-22,1015,bachmann,9, ,,1583372544, ,5850
+1600255,Prammer,Thomas,Thomas Prammer,1973-05-17,F,2011-05-08,2011-05-08,1015,prammer,8, ,,1539420928, ,5850
+1600256,Francesconi,Jean,Jean Francesconi, ,T,2011-08-01,2015-04-27,1015,francesconi,9, ,,1820104704, ,5850
+1600257,Hauri,Bruno,Bruno Hauri, ,T,2011-08-28,2012-04-10,1015,hauri,9, ,,1736806528, ,5850
+1600258,Isler,Otto,Otto Isler,1935-10-07,F,2011-09-12,2020-12-03,1015,isler,9, ,,1865607296, ,5850
+1600259,Rotschi,Peter,Peter Rotschi, ,T,2011-09-13,2011-09-13,1015,rotschi,9, ,,161749376, ,5850
+1600260,Harkam,Alexander,Alexander Harkam,1981-11-17,F,2011-09-29,2011-09-29,1015,harkam,8, ,,1950630400, ,5850
+1600261,Corminboeuf,Gérald,Gérald Corminboeuf, ,T,2011-10-01,2015-04-27,1015,corminboeuf,9, ,,1255452288, ,5850
+1600262,Glattmann, ,Glattmann, ,T,2011-10-01,2011-10-01,1015,glattmann,9, ,,984282368, ,5850
+1600263,Wolfer,Hans,Hans Wolfer, ,T,2011-10-06,2012-03-14,1015,wolfer,9, ,,508671616, ,5850
+1600264,Hofer,Daniel,Daniel Hofer, ,T,2011-10-06,2015-04-27,1015,hofer,9, ,,1368647936, ,5850
+1600265,Meyer,Urs,Urs Meyer, ,T,2011-10-09,2015-04-27,1015,meyer,9, ,,892557824, ,5850
+1600266,Lüthi,Fritz,Fritz Lüthi, ,T,2011-10-12,2011-10-12,1015,luethi,9, ,,586395648, ,5850
+1600267,Kellenberger,René,René Kellenberger, ,T,2011-10-13,2011-11-23,1015,kellenberger,9, ,,1733150464, ,5850
+1600268,Racine,Gérard,Gérard Racine, ,T,2011-10-13,2011-11-16,1015,racine,9, ,,1799751424, ,5850
+1600270,Della Bruna,Bruno,Bruno Della Bruna,1930-11-05,F,2011-10-13,2020-10-18,1015,della bruna,9, ,,1075801088, ,5850
+1600271,Osta,Mario,Mario Osta,1940-04-27,F,2011-10-16,2020-05-27,1015,osta,9, ,,1877236224, ,5850
+1600272,Wertli,Alfred,Alfred Wertli,1939-01-29,F,2011-10-16,2020-10-31,1015,wertli,9, ,,896379648, ,5850
+1600274,Wyniger,Otto,Otto Wyniger, ,T,2011-10-16,2014-07-13,1015,wyniger,9, ,,2110417408, ,5850
+1600275,Häring,Marcel,Marcel Häring,1937-04-26,F,2011-10-16,2020-11-28,1015,haering,9, ,,1710217088, ,5850
+1600276,Jaberg,Hans,Hans Jaberg, ,T,2011-10-16,2011-12-11,1015,jaberg,9, ,,885399424, ,5850
+1600277,Prudente, ,Prudente, ,T,2011-10-16,2011-10-16,1015,prudente,9, ,,185248768, ,5850
+1600278,Guignet,Ernest,Ernest Guignet, ,T,2011-10-31,2011-12-17,1015,guignet,9, ,,520318848, ,5850
+1600279,Janer,Salvador,Salvador Janer,1943-10-17,F,2011-10-31,2020-10-07,1015,janer,9, ,,578368256, ,5850
+1600280,Ow,Herbert,Herbert von Ow, ,T,2011-10-31,2015-04-27,1015,ow,9, ,von,277972736, ,5850
+1600281,Salvadore, ,Salvadore, ,T,2011-11-01,2011-11-01,1015,salvadore,9, ,,2101859456, ,5850
+1600282,Schnidrig,Josef,Josef Schnidrig, ,T,2011-11-02,2011-11-04,1015,schnidrig,9, ,,1077231616, ,5850
+1600283,Favre,André,André Favre, ,T,2011-11-02,2011-12-17,1015,favre,9, ,,195736960, ,5850
+1600284,Fuchs,Kurt,Kurt Fuchs, ,T,2011-11-03,2011-12-11,1015,fuchs,9, ,,1726216192, ,5850
+1600285,Matthieu,René,René Matthieu,1933-11-30,F,2011-11-06,2020-10-18,1015,matthieu,9, ,,984300032, ,5850
+1600286,Martínez Munuera,Juan,Juan Martínez Munuera,1982-07-13,F,2011-11-06,2011-11-06,1015,martinez munuera,49, ,,344138880, ,5850
+1600287,Hameter,Markus,Markus Hameter,1980-04-11,F,2011-11-06,2011-11-06,1015,hameter,8, ,,2053701248, ,5850
+1600288,Longaretti,André,André Longaretti, ,T,2011-11-06,2012-04-10,1015,longaretti,9, ,,40062080, ,5850
+1600289,Bays,Gérald,Gérald Bays, ,T,2011-11-06,2015-05-27,1015,bays,9, ,,253490176, ,5850
+1600290,Utz,Willy,Willy Utz, ,T,2011-11-09,2011-12-11,1015,utz,9, ,,2095168512, ,5850
+1600291,Bignasca,Attilio,Attilio Bignasca, ,T,2011-11-09,2012-01-13,1015,bignasca,9, ,,1724612864, ,5850
+1600292,Meier, ,Meier, ,T,2011-11-16,2011-11-16,1015,meier,9, ,,1968609536, ,5850
+1600293,Dreier,Willy,Willy Dreier, ,T,2011-12-03,2015-05-27,1015,dreier,9, ,,2118693760, ,5850
+1600294,Darbellay,Ulysse,Ulysse Darbellay, ,T,2011-12-04,2012-01-13,1015,darbellay,9, ,,999283840, ,5850
+1600295,Gallmann,Walter,Walter Gallmann, ,T,2011-12-04,2011-12-17,1015,gallmann,9, ,,1971889152, ,5850
+1600296,Rudin,W.,W. Rudin, ,T,2011-12-04,2011-12-18,1015,rudin,9, ,,373522432, ,5850
+1600297,Fazzini,Giovanni,Giovanni Fazzini, ,T,2011-12-05,2012-01-13,1015,fazzini,9, ,,1421612288, ,5850
+1600298,Wieland,Hans,Hans Wieland, ,T,2011-12-05,2011-12-17,1015,wieland,9, ,,1839798144, ,5850
+1600299,Burioli,Fernand,Fernand Burioli, ,T,2011-12-05,2012-03-14,1015,burioli,9, ,,1034510848, ,5850
+1600300,Racine,Roland,Roland Racine,1928-07-13,F,2011-12-06,2020-06-19,1015,racine,9, ,,1993143424, ,5850
+1600301,Despont,Pierre,Pierre Despont, ,T,2011-12-06,2012-01-13,1015,despont,9, ,,2126698240, ,5850
+1600302,Rettig,Rudolf,Rudolf Rettig, ,T,2011-12-06,2012-04-10,1015,rettig,9, ,,1211191808, ,5850
+1600303,Uldry,Paul,Paul Uldry, ,T,2011-12-06,2012-01-13,1015,uldry,9, ,,1775351168, ,5850
+1600304,Piguet,Paul-André,Paul-André Piguet, ,T,2011-12-07,2015-05-27,1015,piguet,9, ,,262293760, ,5850
+1600305,Ghidoni,Telemaco,Telemaco Ghidoni, ,T,2011-12-07,2011-12-11,1015,ghidoni,9, ,,79763328, ,5850
+1600306,Germann,Willi,Willi Germann,1927-06-20,F,2011-12-07,2014-07-13,1015,germann,9, ,,617300992, ,5850
+1600307,Schuhmacher,Hans,Hans Schuhmacher, ,T,2011-12-07,2012-01-13,1015,schuhmacher,9, ,,1290236672, ,5850
+1600308,Stutz,Guido,Guido Stutz, ,T,2011-12-07,2015-05-27,1015,stutz,9, ,,270275584, ,5850
+1600309,Laich,Claudio,Claudio Laich, ,T,2011-12-07,2012-03-19,1015,laich,9, ,,2128383872, ,5850
+1600310,Hänggi,Felix,Felix Hänggi, ,T,2011-12-07,2015-05-27,1015,haenggi,9, ,,390099840, ,5850
+1600311,Despland,Marcel,Marcel Despland, ,T,2011-12-07,2012-03-14,1015,despland,9, ,,1307349376, ,5850
+1600315,Keller,Roland,Roland Keller,1926-10-03,F,2011-12-07,2020-06-19,1015,keller,9, ,,1442651136, ,5850
+1600316,Zbinden,Joseph,Joseph Zbinden,1942-11-14,F,2011-12-07,2020-06-19,1015,zbinden,9, ,,887304576, ,5850
+1600317,Bächer,Erich,Erich Bächer, ,T,2011-12-07,2012-01-13,1015,baecher,9, ,,1785349248, ,5850
+1600318,Güder, ,Güder, ,T,2011-12-11,2020-05-27,1015,gueder,9,evt. Willy Güder, Colombier, 21.10.33, seit 2003 Ehrenmitglied SFV?,,201892992, ,5850
+1600319,Tschabold, ,Tschabold, ,T,2011-12-11,2011-12-11,1015,tschabold,9, ,,714561408, ,5850
+1600320,Salzgeber, ,Salzgeber, ,T,2011-12-13,2011-12-13,1015,salzgeber,9, ,,1900613120, ,5850
+1600321,Haldimann,Gérard,Gérard Haldimann, ,T,2011-12-13,2020-11-28,1015,haldimann,9, ,,507740288, ,5850
+1600322,Keller, ,Keller, ,T,2011-12-13,2011-12-13,1015,keller,9, ,,157610240, ,5850
+1600323,Gisler, ,Gisler, ,T,2011-12-16,2011-12-16,1015,gisler,9, ,,577568640, ,5850
+1600324,Marendaz,Roland,Roland Marendaz, ,T,2011-12-17,2012-03-29,1015,marendaz,9, ,,501850240, ,5850
+1600326,Marre, ,Marre, ,T,2011-12-27,2011-12-27,1015,marre,9, ,,1003787008, ,5850
+1600327,Balbinot,Karl,Karl Balbinot, ,T,2012-01-13,2012-01-13,1015,balbinot,9, ,,2145853184, ,5850
+1600328,Nussbaum, ,Nussbaum, ,T,2012-01-14,2012-01-14,1015,nussbaum,9, ,,1703844480, ,5850
+1600330,Blanchoud,Jean-Pierre,Jean-Pierre Blanchoud, ,T,2012-01-22,2015-05-27,1015,blanchoud,9, ,,325590272, ,5850
+1600331,Lutz,W.,W. Lutz, ,T,2012-01-22,2012-01-22,1015,lutz,9, ,,1818350080, ,5850
+1600332,Keller,H.,H. Keller, ,T,2012-03-12,2012-03-12,1015,keller,9, ,,1751102080, ,5850
+1600333,Göppel,Karl,Karl Göppel, ,T,2012-03-18,2012-04-10,1015,goeppel,9, ,,147651200, ,5850
+1600334,Zürcher,Marcel,Marcel Zürcher, ,T,2012-03-22,2015-05-27,1015,zuercher,9, ,,1322512640, ,5850
+1600335,Rössler,Walter,Walter Rössler, ,T,2012-03-22,2015-05-27,1015,roessler,9, ,,1106055808, ,5850
+1600336,Ceretti,André,André Ceretti, ,T,2012-03-28,2014-12-22,1015,ceretti,9,evt. A. Ceretti Porrentruy,,950842240, ,5850
+1600337,Schneuwly,Marcel,Marcel Schneuwly, ,T,2012-03-28,2013-02-04,1015,schneuwly,9, ,,926252416, ,5850
+1600338,Mettler,Werner,Werner Mettler, ,T,2012-03-28,2014-08-19,1015,mettler,9, ,,633972864, ,5850
+1600339,Zibung,Josef,Josef Zibung, ,T,2012-03-29,2012-03-29,1015,zibung,9, ,,1658305792, ,5850
+0,[unbekannt], ,<unbekannt>, ,T,2004-01-01,2004-01-01,1,unbekannt,0, ,,0, ,0
+1,Affolter,Rudolf,Rudolf Affolter,1938-07-04,F,2004-01-01,2020-10-30,1015,affolter,9, ,,1, ,8950
+21,Blattmann,Rolf,Rolf Blattmann,1944-07-29,F,2004-01-01,2020-02-15,1015,blattmann,9, ,,21, ,8950
+24,Boos,Rainer,Rainer Boos,1946-08-16,F,2004-01-01,2004-01-01,1,boos,3, ,,24, ,8950
+25,Brehm,Siegfried,Siegfried Brehm,1947-02-03,F,2004-01-01,2004-01-01,1,brehm,3, ,,25, ,8950
+29,Brückner,Norbert,Norbert Brückner,1947-01-08,F,2004-01-01,2004-01-01,1,brueckner,3, ,,29, ,8950
+35,Correll,Peter,Peter Correll,1944-11-09,F,2004-01-01,2004-01-01,1,correll,3, ,,35, ,8950
+37,Dellwing,Hans-Peter,Hans-Peter Dellwing,1950-03-15,F,2004-01-01,2004-01-01,1,dellwing,3, ,,37, ,8950
+48,Ermer,Adolf,Adolf Ermer,1939-06-17,F,2004-01-01,2004-01-01,1,ermer,3, ,,48, ,8950
+55,Föckler,Werner,Werner Föckler,1945-06-24,F,2004-01-01,2004-01-01,1,foeckler,3, ,,55, ,8950
+66,Gächter,Franz,Franz Gächter,1942-12-15,F,2004-01-01,2010-09-09,1,gaechter,9, ,,66, ,8950
+68,Galler,Bruno,Bruno Galler,1946-10-21,F,2004-01-01,2004-12-14,1,galler,9, ,,68, ,8950
+87,Heinis,Alfred,Alfred Heinis,1941-04-23,F,2004-01-01,2004-12-14,1,heinis,9, ,,87, ,8950
+100,Hontheim,Franz-Josef,Franz-Josef Hontheim,1938-08-13,F,2004-01-01,2004-01-01,1,hontheim,3, ,,100, ,8950
+109,Jaus,Willi,Willi Jaus,1938-01-19,F,2004-01-01,2004-12-14,1,jaus,9, ,,109, ,8950
+138,Liebi,Werner,Werner Liebi,1938-09-02,F,2004-01-01,2004-12-14,1,liebi,9, ,,138, ,8950
+147,Martino,Arturo,Arturo Martino,1945-10-18,F,2004-01-01,2004-12-14,1,martino,9, ,,147, ,8950
+150,Mercier,Philippe,Philippe Mercier,1942-01-03,F,2004-01-01,2004-12-14,1,mercier,9, ,,150, ,8950
+159,Muhmenthaler,Serge,Serge Muhmenthaler,1953-05-20,F,2004-01-01,2004-12-14,1,muhmenthaler,9, ,,159, ,8950
+160,Neuner,Manfred,Manfred Neuner,1945-11-20,F,2004-01-01,2004-01-01,1,neuner,3, ,,160, ,8950
+162,Niebergall,Dieter,Dieter Niebergall,1950-07-22,F,2004-01-01,2004-01-01,1,niebergall,3, ,,162, ,8950
+171,Pauly,Dieter,Dieter Pauly,1942-02-14,F,2004-01-01,2004-01-01,1,pauly,3, ,,171, ,8950
+172,Peduzzi,Renzo,Renzo Peduzzi,1941-06-02,F,2004-01-01,2004-12-14,1,peduzzi,9, ,,172, ,8950
+188,Risse,Günther,Günther Risse,1936-09-18,F,2004-01-01,2004-01-01,1,risse,3, ,,188, ,8950
+192,Röthlisberger,Kurt,Kurt Röthlisberger,1951-05-21,F,2004-01-01,2004-12-14,1,roethlisberger,9, ,,192, ,8950
+194,Sandoz,Georges,Georges Sandoz,1945-07-08,F,2004-01-01,2004-12-14,1,sandoz,9, ,,194, ,8950
+198,Scheuerer,Hans,Hans Scheuerer,1949-10-18,F,2004-01-01,2004-01-01,1,scheuerer,3, ,,198, ,8950
+199,Schlup,Manfred,Manfred Schlup,1946-03-07,F,2004-01-01,2004-12-14,1,schlup,9, ,,199, ,8950
+200,Schmidhuber,Aron,Aron Schmidhuber,1947-02-28,F,2004-01-01,2006-03-18,1,schmidhuber,3,Weltschiedsrichter 1992,,200, ,8950
+223,Stäglich,Dieter,Dr. Dieter Stäglich,1941-02-08,F,2004-01-01,2004-01-01,1,staeglich,3, ,,223, ,8950
+230,Theobald,Gerhard,Gerhard Theobald,1949-12-27,F,2004-01-01,2004-01-01,1,theobald,3, ,,230, ,8950
+235,Tritschler,Karl-Heinz,Karl-Heinz Tritschler,1949-09-16,F,2004-01-01,2004-01-01,1,tritschler,3, ,,235, ,8950
+237,Uhlig,Manfred,Manfred Uhlig,1940-03-20,F,2004-01-01,2004-01-01,1,uhlig,3, ,,237, ,8950
+243,Wahmann,Hans,Hans Wahmann,1939-06-27,F,2004-01-01,2004-01-01,1,wahmann,3, ,,243, ,8950
+247,Walz,Robert,Robert Walz,1942-02-27,F,2004-01-01,2004-01-01,1,walz,3, ,,247, ,8950
+251,Werner,Heinz,Heinz Werner,1946-08-08,F,2004-01-01,2004-01-01,1,werner,3, ,,251, ,8950
+256,Wiesel,Wolf-Günter,Wolf-Günter Wiesel,1947-11-16,F,2004-01-01,2004-01-01,1,wiesel,3, ,,256, ,8950
+1000305,Clematide,Mario,Mario Clematide, ,T,2011-11-23,2011-11-23,1008,clematide,9, ,,1158592896, ,5900
+1400208,Mellet,Daniel,Daniel Mellet,1923-06-08,F,2008-02-17,2020-08-26,1014,mellet,9, ,,1952928896, ,5870
+1400213,Scheurer,Rudolf,Rudolf Scheurer,1925-05-25,F,2008-02-17,2008-02-17,1014,scheurer,9, ,,746556544, ,5870
+1400822,Millot,Benoît,Benoît Millot,1982-01-10,F,2017-07-31,2017-07-31,1014,millot,18, ,,1410804992, ,5870
+1500091,Tzilos,Athanasios,Athanasios Tzilos,1983-10-01,F,2019-06-01,2019-06-01,1013,tzilos,30, ,,1869954304, ,5860
+1600023,Bernold,Claudio,Claudio Bernold,1970-02-23,F,2005-01-09,2005-01-29,0,bernold,9, ,,1600023, ,5850
+1600024,Figaroli,Valerio,Valerio Figaroli,1968-11-17,F,2005-01-09,2005-01-29,0,figaroli,9, ,,1600024, ,5850
+1600025,Grossen,Bruno,Bruno Grossen,1972-01-14,F,2005-01-09,2005-01-29,0,grossen,9, ,,1600025, ,5850
+1600026,Hug,Marcel,Marcel Hug,1970-07-10,F,2005-01-09,2005-01-29,0,hug,9, ,,1600026, ,5850
+1600027,Johann,Reto,Reto Johann,1971-05-14,F,2005-01-09,2005-01-29,0,johann,9, ,,1600027, ,5850
+1600028,Meroni,Stefano,Stefano Meroni,1977-07-19,F,2005-01-09,2009-04-14,1015,meroni,9, ,,1600028, ,5850
+1600029,Rutschi,Reto,Reto Rutschi,1969-05-10,F,2005-01-09,2005-01-29,0,rutschi,9, ,,1600029, ,5850
+1600030,Studer,Stéphan,Stéphan Studer,1975-10-09,F,2005-01-09,2005-01-29,0,studer,9, ,,1600030, ,5850
+1600031,Känel,Markus,Markus von Känel,1973-01-04,F,2005-01-09,2005-01-29,0,kaenel,9, ,von,1600031, ,5850
+1600032,Wermelinger,Daniel,Daniel Wermelinger,1971-03-18,F,2005-01-09,2005-01-29,0,wermelinger,9, ,,1600032, ,5850
+1600034,Studer,Frédéric,Frédéric Studer,1977-08-06,F,2005-01-09,2005-07-16,0,studer,9, ,,1600034, ,5850
+1600035,Laperrière,Jérôme,Jérôme Laperrière,1969-10-23,F,2005-01-09,2005-01-29,0,laperriere,9, ,,1600035, ,5850
+1600036,Wildhaber,Guido,Guido Wildhaber,1962-05-24,F,2005-01-10,2005-09-30,0,wildhaber,9,Schweizer Schiedsrichter der Jahre 2001, 2002.,,1600036, ,5850
+1600037,Busacca,Massimo,Massimo Busacca,1969-02-06,F,2005-01-10,2008-03-14,1015,busacca,9,Schweizer Schiedsrichter des Jahres 2005.,,1600037, ,5850
+1600038,Petignat,Nicole,Nicole Petignat,1966-10-27,F,2005-01-10,2005-09-30,0,petignat,9, ,,1600038, ,5850
+1600039,Circhetta,Claudio,Claudio Circhetta,1970-11-18,F,2005-01-10,2005-07-28,0,circhetta,9,Schweizer Schiedsrichter des Jahres 2003.,,1600039, ,5850
+1600040,Meier,Urs,Urs Meier,1959-01-22,F,2005-01-10,2005-09-30,0,meier,9,Schweizer Schiedsrichter der Jahre 1999. 2000, 2004.,,1600040, ,5850
+1600041,Salm,Martin,Martin Salm,1967-04-13,F,2005-01-10,2005-01-29,0,salm,9, ,,1600041, ,5850
+1600042,Kever,Sascha,Sascha Kever,1975-04-24,F,2005-01-10,2005-01-29,0,kever,9, ,,1600042, ,5850
+1600043,Zimmermann,Cyril,Cyril Zimmermann,1976-01-26,F,2005-01-11,2005-01-11,0,zimmermann,9, ,,1600043, ,5850
+1600044,Etter,Florian,Florian Etter,1965-09-06,F,2005-01-11,2005-01-29,0,etter,9, ,,1600044, ,5850
+1600045,Fonseca,José,José da Fonseca,1970-01-25,F,2005-01-11,2006-07-23,1015,fonseca,9, ,da,1600045, ,5850
+1600046,Nobs,Markus,Markus Nobs,1966-06-17,F,2005-01-11,2005-01-29,0,nobs,9, ,,1600046, ,5850
+1600047,Bertolini,Carlo,Carlo Bertolini,1965-09-16,F,2005-01-11,2005-01-29,0,bertolini,9, ,,1600047, ,5850
+1600048,Leuba,Philippe,Philippe Leuba,1965-12-09,F,2005-01-11,2005-01-29,0,leuba,9, ,,1600048, ,5850
+1600049,Rogalla,René,René Rogalla,1963-12-19,F,2005-01-11,2005-01-29,0,rogalla,9, ,,1600049, ,5850
+1600050,Rutz,Reto,Reto Rutz,1967-04-20,F,2005-01-12,2005-01-29,0,rutz,9, ,,1600050, ,5850
+1600051,Steiner,Thomas,Thomas Steiner,1963-03-25,F,2005-01-31,2008-02-22,1015,steiner,8, ,,1600051, ,5850
+1600052,Einwaller,Thomas,Thomas Einwaller,1977-04-25,F,2005-01-31,2008-02-22,1015,einwaller,8, ,,1600052, ,5850
+1600053,Lehner,Gerald,Gerald Lehner,1968-03-12,F,2005-01-31,2008-02-22,1015,lehner,8, ,,1600053, ,5850
+1600054,Beck,Roland,Roland Beck,1959-09-28,F,2005-02-05,2005-02-05,0,beck,119, ,,1600054, ,5850
+1600055,Schoch,Dieter,Dieter Schoch,1963-10-13,F,2005-02-05,2005-02-05,0,schoch,9, ,,1600055, ,5850
+1600056,Schluchter,Andreas,Andreas Schluchter,1957-08-03,F,2005-02-05,2005-02-05,0,schluchter,9, ,,1600056, ,5850
+1600057,Schmid,Jean-Luc,Jean-Luc Schmid,1966-05-20,F,2005-02-05,2005-02-05,0,schmid,9, ,,1600057, ,5850
+1600058,Golay,Gilles,Gilles Golay,1960-10-26,F,2005-02-06,2014-10-18,1015,golay,9, ,,1600058, ,5850
+1600059,Stuchlik,Fritz,Fritz Stuchlik,1966-02-11,F,2005-02-06,2008-02-22,1015,stuchlik,8, ,,1600059, ,5850
+1600060,Hänsel,Erwin,Erwin Hänsel, ,T,2005-02-06,2008-02-22,1015,haensel,8, ,,1600060, ,5850
+1600061,Sedlaceck,Robert,Robert Sedlaceck,1955-07-15,F,2005-02-07,2008-03-14,1015,sedlaceck,8, ,,1600061, ,5850
+1600062,Meßner,Stefan,Stefan Meßner,1964-12-13,F,2005-02-07,2008-03-16,1015,messner,8, ,,1600062, ,5850
+1600063,Benkö,Günther,Günther Benkö,1955-07-12,F,2005-02-07,2008-02-22,1015,benkoe,8, ,,1600063, ,5850
+1600064,Gelsomino,Giancarlo,Giancarlo Gelsomino,1961-07-16,F,2005-02-09,2014-07-14,1015,gelsomino,9, ,,1600064, ,5850
+1600065,Burkhart,Jürg,Jürg Burkhart, ,T,2005-02-09,2005-05-22,0,burkhart,9, ,,1600065, ,5850
+1600066,Weissbaum,François,François Weissbaum, ,T,2005-02-09,2005-05-22,0,weissbaum,9, ,,1600066, ,5850
+1600067,Bleuer,Christian,Christian Bleuer, ,T,2005-02-09,2005-04-14,0,bleuer,9, ,,1600067, ,5850
+1600068,Meyer,Roman,Roman Meyer, ,T,2005-02-13,2005-03-15,0,meyer,9, ,,1600068, ,5850
+1600070,Hänni,Nikolaj,Nikolaj Hänni,1976-03-02,F,2005-03-26,2005-03-26,0,haenni,9, ,,1600070, ,5850
+1600071,Sowa,Wolfgang,Wolfgang Sowa,1960-06-29,F,2005-03-28,2008-02-22,1015,sowa,8, ,,1600071, ,5850
+1600072,Schüttengruber,Manfred,Manfred Schüttengruber,1960-01-19,F,2005-03-31,2008-02-22,1015,schuettengruber,8, ,,1600072, ,5850
+1600073,Falb,Wolfgang,Wolfgang Falb,1969-04-20,F,2005-04-02,2008-02-22,1015,falb,8, ,,1600073, ,5850
+1600074,Robert,Christophe,Christophe Robert,1975-09-09,F,2005-04-15,2020-05-31,1015,robert,9, ,,1600074, ,5850
+1600075,Mostböck,Franz,Franz Mostböck,1960-06-14,F,2005-04-19,2008-02-22,1015,mostboeck,8, ,,1600075, ,5850
+1600076,Kern,Richard,Richard Kern,1970-08-15,F,2005-05-12,2008-02-22,1015,kern,8, ,,1600076, ,5850
+1600077,Tudor,Alexandru,Alexandru Tudor,1971-09-13,F,2005-05-22,2008-02-22,1015,tudor,19, ,,1600077, ,5850
+1600078,Hofmann,Louis,Louis Hofmann,1965-01-08,F,2005-06-15,2008-02-22,1015,hofmann,8, ,,1600078, ,5850
+1600079,Brugger,Bernhard,Bernhard Brugger,1966-12-25,F,2005-06-20,2008-02-22,1015,brugger,8, ,,1600079, ,5850
+1600080,Drabek,Dietmar,Dietmar Drabek,1965-06-30,F,2005-06-30,2008-02-22,1015,drabek,8, ,,1600080, ,5850
+1600081,Plautz,Konrad,Konrad Plautz,1964-10-16,F,2005-07-11,2008-02-22,1015,plautz,8, ,,1600081, ,5850
+1600082,Krassnitzer,Manfred,Manfred Krassnitzer,1968-02-16,F,2005-07-11,2008-02-22,1015,krassnitzer,8, ,,1600082, ,5850
+1600083,Käser,Daniel,Daniel Käser,1969-10-14,F,2005-07-16,2005-07-16,0,kaeser,9, ,,1600083, ,5850
+1600084,Meier,Thomas,Thomas Meier,1969-04-21,F,2005-07-16,2005-07-24,0,meier,9, ,,1600084, ,5850
+1600085,Schneider,Martin,Martin Schneider,1972-03-29,F,2005-07-16,2005-07-16,0,schneider,9, ,,1600085, ,5850
+1600087,Zuppinger,Kurt,Kurt Zuppinger,1965-10-20,F,2005-08-11,2012-04-18,1015,zuppinger,9, ,,1600087, ,5850
+1600088,Tavel,Dominique,Dominique Tavel,1960-10-30,F,2005-08-11,2012-04-18,1015,tavel,9, ,,1600088, ,5850
+1600089,Vollenweider,Marcel,Marcel Vollenweider,1961-11-03,F,2005-08-11,2012-04-18,1015,vollenweider,9, ,,1600089, ,5850
+1600090,Daina,Nicolas,Nicolas Daina,1969-01-13,F,2005-08-11,2012-04-13,1015,daina,9, ,,1600090, ,5850
+1600091,Herrmann,Jürg,Jürg Herrmann,1954-12-07,F,2005-08-15,2012-04-18,1015,herrmann,9, ,,1600091, ,5850
+1600092,Détruche,Claude,Claude Détruche,1954-06-27,F,2005-08-15,2008-03-14,1015,detruche,9, ,,1600092, ,5850
+1600093,Schörgenhofer,Robert,Robert Schörgenhofer,1973-02-21,F,2005-08-21,2008-02-22,1015,schoergenhofer,8, ,,1600093, ,5850
+1600094,Ferrari,Roberto,Roberto Ferrari, ,T,2005-08-31,2005-12-30,1015,ferrari,9, ,,1600094, ,5850
+1600095,Müller,Hans,Hans Müller, ,T,2005-10-29,2011-01-08,1029,mueller,9, ,,1600095, ,5850
+1600096,Strässle,Karl,Karl Strässle, ,T,2005-10-29,2005-10-29,0,straessle,9, ,,1600096, ,5850
+1600097,Fölmli,Erwin,Erwin Fölmli, ,T,2005-10-29,2005-10-29,0,foelmli,9, ,,1600097, ,5850
+1600098,Stadler,Hans,Hans Stadler, ,T,2005-10-29,2005-10-29,0,stadler,9, ,,1600098, ,5850
+1600099,Philippoz,Fredy,Fredy Philippoz,1951-05-26,F,2005-10-29,2012-07-30,1015,philippoz,9, ,,1600099, ,5850
+1600100,Cornu,Yvan,Yvan Cornu, ,T,2005-10-29,2005-10-29,0,cornu,9, ,,1600100, ,5850
+1600101,Dafflon,René,René Dafflon, ,T,2005-10-29,2020-04-04,1015,dafflon,9,Einsätze 95-97 kontrolliern (unterscheidung d. dafflon und r. dafflon,,1600101, ,5850
+1600102,Daina,André,André Daina,1940-07-08,F,2005-11-28,2011-01-05,1029,daina,9, ,,1600102, ,5850
+1600103,Baumann,Jakob,Jakob Baumann,1941-09-22,F,2005-11-28,2015-04-27,1015,baumann,9, ,,1600103, ,5850
+1600104,Macheret,Jean-Marie,Jean-Marie Macheret,1940-07-01,F,2005-11-28,2011-01-08,1029,macheret,9, ,,1600104, ,5850
+1600106,Nyffenegger,Ulrich,Ulrich Nyffenegger,1942-05-12,F,2005-11-29,2019-04-11,1015,nyffenegger,9, ,,1600106, ,5850
+1600107,Raveglia,Marco,Marco Raveglia, ,T,2005-11-29,2011-02-28,1015,raveglia,9,*1941,,1600107, ,5850
+1600108,Nussbaumer,Walter,Walter Nussbaumer, ,T,2005-11-29,2012-01-14,1015,nussbaumer,9, ,,1600108,evt. Einsätze ab 1989 Nussbaum (Lachen) zuordnen,5850
+1600116,Winter,Othmar,Othmar Winter,1941-01-23,F,2005-11-29,2020-06-19,1015,winter,9, ,,1600116, ,5850
+1600117,Morex,Charles-Henri,Charles-Henri Morex,1948-08-16,F,2005-11-29,2020-05-27,1015,morex,9, ,,1600117, ,5850
+1600118,Haas,Daniel,Daniel Haas, ,T,2005-12-05,2005-12-05,0,haas,9, ,,1600118, ,5850
+1600119,Luca,Roberto,Roberto de Luca, ,T,2005-12-28,2005-12-28,1015,luca,9, ,de,1600119, ,5850
+1600120,Delgrosso,Ivan,Ivan Delgrosso, ,T,2005-12-28,2012-04-14,1015,delgrosso,9,evt. auch del Grosso,,1600120, ,5850
+1600121,Müller,Werner,Werner Müller,1951-11-20,F,2006-03-22,2020-05-31,1015,mueller,9, ,,48947712, ,5850
+1600122,Gilliéron,Damien,Damien Gilliéron, ,T,2006-04-13,2006-04-13,1015,gillieron,9, ,,1086648064, ,5850
+1600123,Balmer,Christoph,Christoph Balmer,1974-01-09,F,2006-04-13,2006-07-23,1015,balmer,9, ,,1505399936, ,5850
+1600124,Santoro,Massimo,Massimo Santoro, ,T,2006-04-13,2006-04-13,1015,santoro,9, ,,1673962496, ,5850
+1600125,Calabretta,Fausto,Fausto Calabretta, ,T,2006-04-13,2006-04-13,1015,calabretta,9, ,,1172632960, ,5850
+1600126,Kalbermatter,Jörg,Jörg Kalbermatter,1979-09-07,F,2006-04-13,2006-04-13,1015,kalbermatter,9, ,,1660453120, ,5850
+1600127,Abt,Martin,Martin Abt, ,T,2006-04-13,2006-04-13,1015,abt,9, ,,1706974848, ,5850
+1600128,Jaccottet,Adrien,Adrien Jaccottet,1983-07-19,F,2006-04-13,2008-07-23,1015,jaccottet,9, ,,509920768, ,5850
+1600129,Rüegsegger,Bruno,Bruno Rüegsegger,1976-01-17,F,2006-04-13,2006-04-13,1015,rueegsegger,9, ,,1935585280, ,5850
+1600130,Stoiljkovic,Ratko,Ratko Stoiljkovic, ,T,2006-04-13,2006-04-13,1015,stoiljkovic,9, ,,397955456, ,5850
+1600131,Walker,Reto,Reto Walker,1975-01-14,F,2006-04-13,2012-01-01,1015,walker,9, ,,908881152, ,5850
+1600132,Carrel,Damien,Damien Carrel,1982-05-21,F,2006-04-13,2007-07-21,1015,carrel,9, ,,1123818112, ,5850
+1600133,Graf,Patrick,Patrick Graf,1973-01-09,F,2006-04-13,2006-07-23,1015,graf,9, ,,966758912, ,5850
+1600134,Weber,Andreas,Andreas Weber, ,T,2006-04-13,2010-08-25,1029,weber,9, ,,1077668096, ,5850
+1600135,Amhof,Sascha,Sascha Amhof,1980-03-04,F,2006-04-13,2008-08-25,1015,amhof,9, ,,1006020224, ,5850
+1600136,Gremaud,Ludovic,Ludovic Gremaud,1979-11-01,F,2006-04-13,2008-08-25,1015,gremaud,9, ,,1385065984, ,5850
+1600137,Binggeli,Oliver,Oliver Binggeli,1975-01-18,F,2006-04-13,2012-03-18,1015,binggeli,9, ,,1409849216, ,5850
+1600138,Devouge,David,David Devouge,1978-05-23,F,2006-04-13,2006-07-23,1015,devouge,9, ,,1889803008, ,5850
+1600139,Speranda,Marco,Marco Speranda,1974-05-08,F,2006-04-14,2006-07-23,1015,speranda,9, ,,1610894848, ,5850
+1600140,Jenzer,Bernhard,Bernhard Jenzer,1969-07-29,F,2006-04-14,2010-09-13,1015,jenzer,9, ,,2012608384, ,5850
+1600141,Winter,Patrick,Patrick Winter,1978-02-26,F,2006-04-14,2012-03-18,1015,winter,9, ,,1433205504, ,5850
+1600142,Huwiler,Roland,Roland Huwiler,1978-02-01,F,2006-04-14,2010-08-07,1015,huwiler,9, ,,1817440384, ,5850
+1600143,Esseiva,Guillaume,Guillaume Esseiva, ,T,2006-04-14,2006-04-14,1015,esseiva,9, ,,419225856, ,5850
+1600144,Gennaro, ,Gennaro, ,T,2006-04-14,2020-05-31,1015,gennaro,9,Name richtig?,,1516584576, ,5850
+1600145,Starovlah,Dejan,Dejan Starovlah,1978-05-29,F,2006-04-14,2012-04-18,1015,starovlah,9, ,,377824768, ,5850
+1600147,Dittli,Beat,Beat Dittli, ,T,2006-04-14,2006-04-14,1015,dittli,9, ,,179233792, ,5850
+1600148,Kehl,Sascha,Sascha Kehl, ,T,2006-04-14,2006-04-14,1015,kehl,9, ,,215266688, ,5850
+1600150,Risse,Manfred,Manfred Risse, ,T,2006-04-15,2006-04-15,1015,risse,9, ,,476347264, ,5850
+1600151,Bieri,Alain,Alain Bieri,1979-03-13,F,2006-04-20,2006-07-23,1015,bieri,9, ,,922410112, ,5850
+1600152,Leuenberger, ,Leuenberger, ,T,2006-04-20,2006-04-20,1015,leuenberger,9, ,,1883653888, ,5850
+1600153,Flückiger, ,Flückiger, ,T,2006-04-26,2006-04-26,1015,flueckiger,9, ,,420454784, ,5850
+1600154,Grobelnik,Gerhard,Gerhard Grobelnik,1975-07-10,F,2006-09-09,2008-02-22,1015,grobelnik,8, ,,772999552, ,5850
+1600155,Barmettler,Gottlieb,Gottlieb Barmettler, ,T,2007-03-24,2010-10-27,1029,barmettler,9,bis 1985,,200733696, ,5850
+1600156,Gangl,Thomas,Thomas Gangl,1971-10-04,F,2007-04-07,2008-02-22,1015,gangl,8, ,,1271124608, ,5850
+1600157,Hänni,Willy,Willy Hänni,1942-01-11,F,2007-10-20,2020-02-15,1015,haenni,9, ,,151555712, ,5850
+1600158,Friedrich,Gottfried,Gottfried Friedrich, ,T,2007-10-20,2011-01-07,1029,friedrich,9, ,,384576512, ,5850
+1600160,Roduit,Daniel,Daniel Roduit,1949-03-12,F,2007-10-21,2010-09-13,1015,roduit,9, ,,2097278848, ,5850
+1600161,Balideh,Abdullah,Abdullah Dor Muhammed Balideh,1970-02-04,F,2007-11-11,2008-02-22,1015,balideh,127, ,,1278947968, ,5850
+1600162,Bianchi,Francesco,Francesco Bianchi,1951-11-02,F,2007-11-13,2020-11-26,1015,bianchi,9, ,,432869888, ,5850
+1600164,Zen Ruffinen,Michel,Michel Zen Ruffinen,1959-04-24,F,2008-03-05,2014-07-14,1015,zen ruffinen,9, ,,153964416, ,5850
+1600165,Bösch,Werner,Werner Bösch, ,T,2008-03-27,2011-10-12,1015,boesch,9, ,,218945280, ,5850
+1600167,Scherz,Peter,Peter Scherz, ,T,2008-03-27,2011-01-08,1029,scherz,9, ,,1198177408, ,5850
+1600168,Burgener,Bruno,Bruno Burgener, ,T,2008-03-28,2011-01-04,1029,burgener,9, ,,2144673664, ,5850
+1600170,Aschwanden,Peter,Peter Aschwanden, ,T,2008-03-28,2011-01-05,1029,aschwanden,9, ,,679028864, ,5850
+1600171,Paggiola,Marino,Marino Paggiola, ,T,2008-03-28,2011-01-08,1029,paggiola,9, ,,1861542912, ,5850
+1600172,Perrenoud,Denis,Denis Perrenoud,1940-09-13,F,2008-03-28,2020-05-27,1015,perrenoud,9, ,,1971369344, ,5850
+1600175,Kellenberger,Peter,Peter Kellenberger, ,T,2008-04-02,2020-06-03,1015,kellenberger,9, ,,805562752, ,5850
+1600176,Schuler,Erwin,Erwin Schuler,1955-01-18,F,2008-04-02,2014-07-14,1015,schuler,9, ,,57717632, ,5850
+1600177,Tollot,Reto,Reto Tollot, ,T,2008-04-04,2014-10-18,1015,tollot,9, ,,31391104, ,5850
+1600178,Kohli,Stefan,Stefan Kohli, ,T,2008-04-04,2011-01-08,1029,kohli,9, ,,1231884800, ,5850
+1600179,Kaltenrieder,Raymond,Raymond Kaltenrieder, ,T,2008-04-04,2011-01-08,1029,kaltenrieder,9, ,,709686912, ,5850
+1600180,Ruppen,Emil,Emil Ruppen, ,T,2008-04-04,2011-01-08,1029,ruppen,9, ,,1923426944, ,5850
+1600181,Al-Dosari,Banjar,Banjar Mohammed Al-Dosari,1981-08-08,F,2008-11-13,2012-05-19,1015,al dosari,127, ,,1894937600, ,5850
+1600182,Hussain,Abdulrahman,Abdulrahman Hussain,1972-10-01,F,2009-05-30,2012-05-19,1015,hussain,127, ,,1632443136, ,5850
+1600183,Lechner,Harald,Harald Lechner,1982-07-30,F,2009-10-25,2009-10-25,1015,lechner,8, ,,1873780352, ,5850
+1600184,Eisner,René,René Eisner,1975-09-02,F,2009-11-29,2009-11-29,1015,eisner,8, ,,1386494848, ,5850
+1600185,Drachta,Oliver,Oliver Drachta,1977-05-15,F,2010-05-03,2010-05-03,1015,drachta,8, ,,1893708032, ,5850
+1600186,Eschmann,Pierre-Alain,Pierre-Alain Eschmann, ,T,2010-07-20,2010-10-27,1029,eschmann,9, ,,1884377856, ,5850
+1600187,Fischer,Francis,Francis Fischer, ,T,2010-07-20,2011-02-28,1015,fischer,9,*1952,,837249152, ,5850
+1600188,Rudin,Willi,Willi Rudin,1953-08-24,F,2010-07-20,2014-07-14,1015,rudin,9, ,,173746176, ,5850
+1600189,Vuillemin,Pierre-Alain,Pierre-Alain Vuillemin, ,T,2010-07-20,2010-07-21,1029,vuillemin,9, ,,22931840, ,5850
+1600190,Christe,Paul-Louis,Paul-Louis Christe, ,T,2010-07-20,2011-02-28,1015,christe,9,*1947,,322675968, ,5850
+1600192,Bochsler,Peter,Peter Bochsler,1947-08-05,F,2010-09-04,2014-07-14,1015,bochsler,9, ,,1308475264, ,5850
+1600193,Craviolini,Jean-Claude,Jean-Claude Craviolini, ,T,2010-09-04,2010-09-04,1015,craviolini,9, ,,540287744, ,5850
+1600194,Despland,Michel,Michel Despland, ,T,2010-09-04,2011-02-28,1015,despland,9,*1957,,1904146560, ,5850
+1600195,Gemperle,René,René Gemperle, ,T,2010-09-04,2011-01-08,1029,gemperle,9, ,,1574205440, ,5850
+1600196,Gritsch,Oswald,Oswald Gritsch, ,T,2010-09-04,2011-01-05,1029,gritsch,119, ,,1345452416, ,5850
+1600197,Klötzli,Bruno,Bruno Klötzli, ,T,2010-09-04,2011-02-28,1015,kloetzli,9,*1951,,1258255616, ,5850
+1600198,Michlig,Rudolf,Rudolf Michlig, ,T,2010-09-04,2011-02-28,1015,michlig,9,*1946,,2095383168, ,5850
+1600199,Tagliabue,Jean-Claude,Jean-Claude Tagliabue, ,T,2010-09-04,2011-01-07,1029,tagliabue,9, ,,944396800, ,5850
+1600200,Zurkirchen,Ludwig,Ludwig Zurkirchen, ,T,2010-09-04,2011-01-05,1029,zurkirchen,9, ,,1792562048, ,5850
+1600201,Amherdt,François-Xavier,François-Xavier Amherdt, ,T,2010-09-19,2011-01-05,1029,amherdt,9, ,,414752000, ,5850
+1600202,Barbezat,Michel,Michel Barbezat, ,T,2010-09-19,2011-01-08,1029,barbezat,9, ,,1247382144, ,5850
+1600203,Canales,M,M Canales, ,T,2010-09-19,2011-01-05,1029,canales,9, ,,739033600, ,5850
+1600204,Chapuis,Roland,Roland Chapuis, ,T,2010-09-19,2011-01-05,1029,chapuis,9, ,,2066815872, ,5850
+1600205,Dossenbach,Stephan,Stephan Dossenbach, ,T,2010-09-19,2014-10-08,1015,dossenbach,9, ,,688525056, ,5850
+1600206,Maire,René,René Maire, ,T,2010-09-19,2015-04-27,1015,maire,9, ,,1705849984, ,5850
+1600207,Marbet,Mario,Mario Marbet,1951-11-13,F,2010-09-19,2020-05-27,1015,marbet,9, ,,356107264, ,5850
+1600208,Meier,Joseph,Joseph Meier, ,T,2010-09-19,2011-01-08,1029,meier,9, ,,775034240, ,5850
+1600209,Neukom,Armand,Armand Neukom, ,T,2010-09-19,2011-01-12,1015,neukom,9, ,,1685004544, ,5850
+1600210,Neukom,Bernard,Bernard Neukom,1947-11-17,F,2010-09-19,2020-05-27,1015,neukom,9, ,,1447427712, ,5850
+1600211,Palama,Aldo,Aldo Palama, ,T,2010-09-19,2011-01-08,1029,palama,9, ,,2065131008, ,5850
+1600212,Pralong,Jean-Daniel,Jean-Daniel Pralong, ,T,2010-09-19,2011-01-07,1029,pralong,9, ,,1973497728, ,5850
+1600213,Reck,André,André Reck, ,T,2010-09-19,2011-01-08,1029,reck,9, ,,1124717312, ,5850
+1600214,Scalena,Flavio,Flavio Scalena, ,T,2010-09-19,2011-01-08,1029,scalena,9, ,,1002301568, ,5850
+1600215,Schödl,Rudolf,Rudolf Schödl, ,T,2010-09-19,2011-01-07,1029,schoedl,9, ,,1725409280, ,5850
+1600340,Keller,Karl,Karl Keller,1923-04-01,F,2012-04-13,2019-04-11,1015,keller,9,bis 69/70,,796065152, ,5850
+1600341,Gilliand, ,Gilliand, ,T,2012-04-19,2012-04-19,1015,gilliand,9, ,,1076449664, ,5850
+1600342,Risi,Peter,Peter Risi, ,T,2012-04-21,2012-05-18,1015,risi,9, ,,2067091968, ,5850
+1600343,Schüttengruber,Manuel,Manuel Schüttengruber,1983-07-20,F,2012-04-28,2012-04-28,1015,schuettengruber,8, ,,1128640768, ,5850
+1600344,Ouschan,Dominik,Dominik Ouschan,1984-01-28,F,2012-05-16,2012-05-20,1015,ouschan,8, ,,1107383424, ,5850
+1600345,Al-Marri,Fahad,Fahad Jaber Al-Marri, ,T,2012-05-19,2015-05-25,1015,al marri,127,*1986,,2042430976, ,5850
+1600346,Dafflon,Dominique,Dominique Dafflon, ,T,2012-07-01,2020-04-04,1015,dafflon,9,Einsätze 95-97 kontrolliern (unterscheidung d. dafflon und r. dafflon,,2107195648, ,5850
+1600347,Stadler,Hans,Hans Stadler,1955-07-07,F,2012-07-01,2014-07-14,1015,stadler,9,= Hans Stadler,,1531420288, ,5850
+1600348,Brunner, ,Brunner, ,T,2012-07-21,2012-07-21,1015,brunner,9, ,,585510912, ,5850
+1600349,Boller,Eugen,Eugen Boller, ,T,2012-08-05,2014-12-22,1015,boller,9, ,,603441536, ,5850
+1600351,Wyttenbach,Otto,Otto Wyttenbach, ,T,2012-08-05,2012-12-27,1015,wyttenbach,9, ,,503662080, ,5850
+1600352,Morier-Genoud,Christian,Christian Morier-Genoud, ,T,2012-08-05,2015-05-27,1015,morier genoud,9, ,,1917804288, ,5850
+1600353,Rey-Bellet,Guy,Guy Rey-Bellet, ,T,2012-08-06,2013-02-24,1015,rey bellet,9, ,,764904064, ,5850
+1600354,Schneider,Otto,Otto Schneider, ,T,2012-08-06,2015-05-27,1015,schneider,9, ,,1006619392, ,5850
+1600355,Schumacher,Adolf,Adolf Schumacher, ,T,2012-08-06,2013-02-04,1015,schumacher,9, ,,1039500800, ,5850
+1600356,Grobéty,Raymond,Raymond Grobéty, ,T,2012-08-06,2015-05-27,1015,grobety,9, ,,1395044864, ,5850
+1600357,Raczkowski,Pawel,Pawel Raczkowski,1983-05-10,F,2012-08-15,2017-07-31,1015,raczkowski,14, ,,937794560, ,5850
+1600358,Waldron,Nick,Nick Waldron,1982-05-26,F,2012-08-23,2012-08-23,1015,waldron,75, ,,1349459712, ,5850
+1600359,Gionata,Carmine,Carmine Gionata,1983-10-15,F,2012-09-17,2012-09-17,1015,gionata,9, ,,38022528, ,5850
+1600360,Simcek,Haci,Haci Mehmet Simsek, ,T,2012-10-24,2012-10-24,1015,simcek,29, ,,906281088, ,5850
+1600361,Risi,Peter,Peter Risi, ,T,2012-10-29,2013-08-09,1015,risi,9, ,,66219136, ,5850
+1600362,Visentin,Mauro,Mauro Visentin, ,T,2012-10-29,2014-10-18,1015,visentin,9, ,,1054782208, ,5850
+1600363,Guggler,Robert,Robert Guggler, ,T,2012-10-29,2013-08-09,1015,guggler,9, ,,1595271936, ,5850
+1600365,Roduit,Daniel,Daniel Roduit, ,T,2012-11-01,2012-11-07,1015,roduit,9, ,,1803307776, ,5850
+1600366,Marti,Beat,Beat Marti, ,T,2012-11-01,2014-04-15,1015,marti,9, ,,331431040, ,5850
+1600367,Fischer,Francis,Francis Fischer, ,T,2012-11-01,2015-11-02,1015,fischer,9, ,,1449402624, ,5850
+1600368,Santana,Casto,Casto Santana, ,T,2012-11-01,2014-10-18,1015,santana,9, ,,1205049856, ,5850
+1600369,Risi,Peter,Peter Risi, ,T,2012-11-01,2013-08-08,1015,risi,9, ,,889590912, ,5850
+1600370,Tafflon, ,Tafflon, ,T,2012-11-01,2012-11-01,1015,tafflon,9, ,,584382464, ,5850
+1600371,Kronig,Walter,Walter Kronig, ,T,2012-11-01,2014-10-18,1015,kronig,9, ,,1727767936, ,5850
+1600372,Gunten,Albert,Albert von Gunten, ,T,2012-11-03,2014-12-22,1015,gunten,9, ,von,861330432, ,5850
+1600373,Schönholzer,E.,E. Schönholzer, ,T,2012-11-03,2014-12-22,1015,schoenholzer,9, ,,1005246080, ,5850
+1600374,Guidi,Emilio,Emilio Guidi, ,T,2012-11-03,2013-06-27,1015,guidi,9, ,,1875315456, ,5850
+1600375,Rufli,Willy,Willy Rufli, ,T,2012-11-04,2015-04-27,1015,rufli,9, ,,582845312, ,5850
+1600376,Rapin,Roger,Roger Rapin, ,T,2012-11-04,2014-12-22,1015,rapin,9, ,,1671340544, ,5850
+1600377,Schmid,Alexander,Alexander Schmid, ,T,2012-11-07,2014-10-18,1015,schmid,9, ,,2020519936, ,5850
+1600378,Baumgartner,Willi,Willi Baumgartner, ,T,2012-11-07,2012-11-07,1015,baumgartner,9, ,,259161216, ,5850
+1600379,Mosimann,Toni,Toni Mosimann, ,T,2012-11-07,2014-10-18,1015,mosimann,9, ,,56413824, ,5850
+1600380,Marty, ,Marty, ,T,2012-11-07,2012-11-07,1015,marty,9, ,,1797923840, ,5850
+1600381,Nussbaumer,W.,W. Nussbaumer, ,T,2012-11-07,2015-02-21,1015,nussbaumer,9, ,,1058767616, ,5850
+1600382,Schwaller, ,Schwaller, ,T,2012-11-07,2012-11-07,1015,schwaller,9, ,,1017474176, ,5850
+1600383,Meyer,Walter,Walter Meyer, ,T,2012-11-07,2015-02-21,1015,meyer,9, ,,1462836224, ,5850
+1600384,Dahinden,Peter,Peter Dahinden, ,T,2012-11-07,2015-10-16,1015,dahinden,9, ,,330042752, ,5850
+1600385,Bergamini,Gino,Gino Bergamini, ,T,2012-11-19,2013-06-02,1015,bergamini,9, ,,1755989888, ,5850
+1600386,Gulde,Josef,Josef Gulde,1915-09-27,F,2012-11-19,2014-07-13,1015,gulde,9, ,,206473984, ,5850
+1600387,Schicker,Viktor,Viktor Schicker, ,T,2012-12-03,2015-04-27,1015,schicker,9, ,,1062827520, ,5850
+1600388,Zutter,Fritz,Fritz Zutter, ,T,2012-12-03,2013-02-04,1015,zutter,9, ,,85655424, ,5850
+1600389,Karlen,Fritz,Fritz Karlen, ,T,2012-12-03,2013-06-08,1015,karlen,9, ,,1132869760, ,5850
+1600390,Baumberger,René,René Baumberger, ,T,2012-12-03,2013-02-04,1015,baumberger,9, ,,348043264, ,5850
+1600391,Buchmüller,Fritz,Fritz Buchmüller, ,T,2012-12-03,2014-06-21,1015,buchmueller,9, ,,611531136, ,5850
+1600393,Grassi,Luigi,Luigi Grassi, ,T,2012-12-30,2014-12-22,1015,grassi,9, ,,490039424, ,5850
+1600394,Dörflinger,Ernst,Ernst Dörflinger, ,T,2013-01-04,2014-12-22,1015,doerflinger,9, ,,88367744, ,5850
+1600395,Schüttel,Jean,Jean Schüttel, ,T,2013-01-04,2013-02-04,1015,schuettel,9, ,,1420573184, ,5850
+1600396,Andres,August,August Andres, ,T,2013-01-04,2014-12-22,1015,andres,9, ,,1966257024, ,5850
+1600397,Keller,Roland,Roland Keller, ,T,2013-01-13,2014-12-22,1015,keller,9,evt. Roland Keller (Kehrsatz),,1741578752, ,5850
+1600399,Ceretti,André,André Ceretti, ,T,2013-01-13,2013-01-22,1015,ceretti,9,oder Cerutti,,621206912, ,5850
+1600400,Darni,Erminio,Erminio Darni, ,T,2013-01-13,2014-12-22,1015,darni,9, ,,1711540992, ,5850
+1600401,Orlando, ,Orlando, ,T,2013-01-13,2013-01-13,1015,orlando,9, ,,301121408, ,5850
+1600402,Pecorini,Clément,Clément Pecorini, ,T,2013-01-13,2013-02-04,1015,pecorini,9, ,,1401783552, ,5850
+1600403,Sispele,Alfred,Alfred Sispele, ,T,2013-01-13,2018-03-13,1015,sispele,9, ,,1565782912, ,5850
+1600404,Heymann,Josef,Josef Heymann, ,T,2013-01-13,2013-02-04,1015,heymann,9, ,,1665187200, ,5850
+1600405,Hardmeier,Walter,Walter Hardmeier, ,T,2013-01-13,2014-01-29,1015,hardmeier,9, ,,947749632, ,5850
+1600406,Bühlmann,Fritz,Fritz Bühlmann, ,T,2013-01-13,2013-01-22,1015,buehlmann,9, ,,951188864, ,5850
+1600407,Joss,Fritz,Fritz Joss, ,T,2013-01-13,2014-04-22,1015,joss,9, ,,1759411072, ,5850
+1600408,Pian,Ernesto,Ernesto dal Pian, ,T,2013-01-13,2014-12-22,1015,pian,9, ,dal,970332672, ,5850
+1600409,Lohri, ,Lohri, ,T,2013-01-13,2013-01-13,1015,lohri,9, ,,771070592, ,5850
+1600412,Stettler,Claude,Claude Stettler, ,T,2013-01-13,2013-02-04,1015,stettler,9, ,,304082304, ,5850
+1600413,Chollet,Louis,Louis Chollet, ,T,2013-01-13,2014-12-22,1015,chollet,9, ,,347862144, ,5850
+1600414,Turin,Bruno,Bruno Turin, ,T,2013-01-13,2014-04-28,1015,turin,9, ,,853722624, ,5850
+1600415,Zürrer,Gottfried,Gottfried Zürrer, ,T,2013-01-13,2013-02-04,1015,zuerrer,9, ,,1120373504, ,5850
+1600416,Schulip, ,Schulip, ,T,2013-01-13,2013-01-13,1015,schulip,9, ,,688201344, ,5850
+1600417,Szabó,Kálmán,Kálmán Szabó, ,T,2013-01-13,2014-12-22,1015,szabo,9, ,,204017792, ,5850
+1600419,Bulliard,Vincent,Vincent Bulliard, ,T,2013-01-14,2014-12-22,1015,bulliard,9,oder Buillard,,1348424064, ,5850
+1600420,Gex,André,André Gex, ,T,2013-01-14,2014-07-13,1015,gex,9, ,,1614591360, ,5850
+1600421,Guinnard,Albert,Albert Guinnard,1915-01-25,F,2013-01-14,2014-07-13,1015,guinnard,9, ,,1908035840, ,5850
+1600422,Coutaz,Gérald,Gérald Coutaz, ,T,2013-01-14,2013-02-04,1015,coutaz,9, ,,1218963968, ,5850
+1600423,Weber,Albert,Albert Weber, ,T,2013-01-14,2013-02-01,1015,weber,9, ,,779110656, ,5850
+1600424,David,Roland,Roland David, ,T,2013-01-14,2013-02-04,1015,david,9, ,,1705556736, ,5850
+1600425,Strässle,Paul,Paul Strässle, ,T,2013-01-14,2013-01-22,1015,straessle,9, ,,1358611328, ,5850
+1600426,Helbling,Anton,Anton Helbling, ,T,2013-01-14,2013-02-04,1015,helbling,9, ,,339288960, ,5850
+1600427,Baumgartner, ,Baumgartner, ,T,2013-01-16,2013-01-16,1015,baumgartner,9, ,,606547072, ,5850
+1600428,Oettli,Jakob,Jakob Oettli, ,T,2013-01-16,2013-01-22,1015,oettli,9, ,,927315840, ,5850
+1600430,Schorer,Fritz,Fritz Schorer, ,T,2013-01-16,2013-02-04,1015,schorer,9, ,,1951362560, ,5850
+1600431,Lüthi,Walter,Walter Lüthi, ,T,2013-01-27,2014-07-13,1015,luethi,9, ,,712933504, ,5850
+1600432,Kalmann,S.,S. Kalmann, ,T,2013-02-03,2013-02-10,1015,kalmann,9, ,,698870016, ,5850
+1600433,Graf,Kurt,Kurt Graf, ,T,2013-02-04,2014-10-21,1015,graf,9, ,,1771236352, ,5850
+1600434,Rössler, ,Rössler, ,T,2013-02-04,2013-02-04,1015,roessler,9, ,,1508630784, ,5850
+1600435,Schumacher, ,Schumacher, ,T,2013-02-04,2013-02-04,1015,schumacher,9, ,,1320596736, ,5850
+1600436,Surdez,Joseph,Joseph Surdez, ,T,2013-02-04,2014-12-22,1015,surdez,9, ,,849250304, ,5850
+1600437,Tasca,Maurice,Maurice Tasca, ,T,2013-02-04,2014-12-22,1015,tasca,9, ,,1726672896, ,5850
+1600438,Hosang,Armin,Armin Hosang, ,T,2013-02-14,2015-05-27,1015,hosang,9, ,,1693993984, ,5850
+1600439,Jordan,Walter,Walter Jordan, ,T,2013-02-24,2015-04-27,1015,jordan,9, ,,785758976, ,5850
+1600440,Wittwer,Rodolphe,Rodolphe Wittwer, ,T,2013-02-24,2015-04-27,1015,wittwer,9, ,,1778004096, ,5850
+1600441,Allemann,Ferdinand,Ferdinand Allemann, ,T,2013-02-24,2016-05-28,1015,allemann,9, ,,121819136, ,5850
+1600442,Wunderlin,Karl,Karl Wunderlin, ,T,2013-02-24,2015-04-27,1015,wunderlin,9, ,,457634176, ,5850
+1600443,Wüthrich,Hans,Hans Wüthrich,1889-10-01,F,2013-02-24,2020-08-20,1015,wuethrich,9, ,,329288960, ,5850
+1600444,Enderli,Hans,Hans Enderli, ,T,2013-02-24,2015-04-27,1015,enderli,9, ,,627161728, ,5850
+1600445,Brüschweiler,Ernst,Ernst Brüschweiler, ,T,2013-02-24,2015-04-27,1015,brueschweiler,9, ,,934556160, ,5850
+1600446,Meyer,Ernest,Ernest Meyer, ,T,2013-02-24,2015-04-27,1015,meyer,9, ,,1118688256, ,5850
+1600448,Bangerter,William,William Bangerter,1900-03-13,F,2013-02-24,2020-11-16,1015,bangerter,9,später auch Winterthur,,1354375040, ,5850
+1600449,Heer,Charles,Charles Heer, ,T,2013-02-24,2015-04-27,1015,heer,9, ,,322496768, ,5850
+1600450,Spengler,Alfred,Alfred Spengler, ,T,2013-02-24,2015-04-27,1015,spengler,9, ,,1701432704, ,5850
+1600451,Herren,Felix,Felix Herren, ,T,2013-02-24,2015-04-27,1015,herren,9, ,,11617664, ,5850
+1600452,Schrumpf,Paul,Paul Schrumpf, ,T,2013-02-24,2013-09-09,1015,schrumpf,9, ,,585471744, ,5850
+1600453,Rosenbaum,Saly,Saly Rosenbaum, ,T,2013-02-24,2014-10-20,1015,rosenbaum,9, ,,194426496, ,5850
+1600454,Schwaar,Charles,Charles Schwaar, ,T,2013-02-24,2015-04-27,1015,schwaar,9, ,,34313728, ,5850
+1600455,Genoud, ,Genoud, ,T,2013-02-24,2013-02-24,1015,genoud,9, ,,1003364096, ,5850
+1600456,Fischer,Robert,Robert Fischer, ,T,2013-04-02,2015-04-27,1015,fischer,9, ,,453783936, ,5850
+1600457,Merlotti,Armand,Armand Merlotti,1907-06-21,F,2013-04-10,2020-11-16,1015,merlotti,9, ,,1669232768, ,5850
+1600460,Tschopp,Louis,Louis Tschopp, ,T,2013-04-11,2014-12-22,1015,tschopp,9, ,,14115584, ,5850
+1600461,Al-Jassmim,Abdulrahman Ibrahim,Abdulrahman Ibrahim Al-Jassmim,1987-10-14,F,2013-05-06,2013-05-06,1015,al jassmim,127, ,,1107270400, ,5850
+1600462,Ovcharov,Vladimir,Vladimir Ovcharov,1978-08-08,F,2013-06-05,2016-04-04,1015,ovcharov,9, ,,931639936, ,5850
+1600463,Feurer, ,Feurer, ,T,2013-08-07,2013-08-07,1015,feurer,9, ,,577957120, ,5850
+1600464,Neumann, ,Neumann, ,T,2013-09-08,2013-09-08,1015,neumann,9, ,,127906816, ,5850
+1600465,Feurer,Albert,Albert Feurer, ,T,2013-09-09,2015-04-27,1015,feurer,9, ,,1142782464, ,5850
+1600467,Dagon,Willy,Willy Dagon, ,T,2013-10-23,2015-04-27,1015,dagon,9, ,,112062080, ,5850
+1600468,Neumann,Hugo,Hugo Neumann, ,T,2013-10-25,2015-04-27,1015,neumann,9, ,,995020544, ,5850
+1600469,Corrodi,Walter,Walter Corrodi, ,T,2013-10-28,2015-04-27,1015,corrodi,9, ,,48966912, ,5850
+1600470,Speidel,Paul,Paul Speidel, ,T,2013-10-28,2015-04-27,1015,speidel,9, ,,1512483456, ,5850
+1600472,Richardet, ,Richardet, ,T,2013-10-29,2013-10-29,1015,richardet,9, ,,94798848, ,5850
+1600473,Iseli,Eduard,Eduard Iseli, ,T,2013-10-29,2015-04-27,1015,iseli,9, ,,178015360, ,5850
+1600474,Schumacher,Georges,Georges Schumacher, ,T,2013-10-29,2015-04-27,1015,schumacher,9, ,,1548978688, ,5850
+1600475,Wieland,Joseph,Joseph Wieland, ,T,2013-10-29,2020-04-18,1015,wieland,9,33-35,,39677568, ,5850
+1600477,Gerber, ,Gerber, ,T,2013-10-30,2013-10-30,1015,gerber,9, ,,377115136, ,5850
+1600478,Cottier,Armand,Armand Cottier, ,T,2013-10-30,2015-04-27,1015,cottier,9, ,,1658453888, ,5850
+1600479,Jaggi,Ernst,Ernst Jaggi, ,T,2013-10-30,2015-04-27,1015,jaggi,9, ,,2115533056, ,5850
+1600480,Camille, ,Camille, ,T,2013-11-02,2013-11-02,1015,camille,9, ,,894509568, ,5850
+1600481,Gerber,Hans,Hans Gerber, ,T,2013-11-02,2015-04-27,1015,gerber,9, ,,151194880, ,5850
+1600482,Meister,Jean,Jean Meister, ,T,2013-12-16,2013-12-25,1015,meister,9, ,,595962368, ,5850
+1600483,Burkhard,Kurt,Kurt Burkhard, ,T,2013-12-16,2014-06-18,1015,burkhard,9, ,,337960576, ,5850
+1600484,Schwab,André,André Schwab, ,T,2013-12-23,2014-04-30,1015,schwab,9, ,,226580864, ,5850
+1600485,Eisenegger, ,Eisenegger, ,T,2013-12-23,2013-12-23,1015,eisenegger,9, ,,765962624, ,5850
+1600486,Domeniconi,Roger,Roger Domeniconi, ,T,2013-12-23,2014-12-22,1015,domeniconi,9, ,,1913255296, ,5850
+1600487,Stauffer,Roger,Roger Stauffer, ,T,2013-12-23,2014-09-09,1015,stauffer,9, ,,307410688, ,5850
+1600488,Werner,Willy,Willy Werner, ,T,2013-12-23,2013-12-24,1015,werner,9, ,,573539200, ,5850
+1600489,Gutzler,Walter,Walter Gutzler, ,T,2013-12-23,2020-11-14,1015,gutzler,9, ,,1281928448, ,5850
+1600490,Imhof,Emile,Emile Imhof, ,T,2013-12-23,2015-04-27,1015,imhof,9, ,,1572334336, ,5850
+1600491,Stettler, ,Stettler, ,T,2013-12-24,2013-12-24,1015,stettler,9, ,,1423026816, ,5850
+1600492,Stäuble,L.,L. Stäuble, ,T,2013-12-24,2014-06-17,1015,staeuble,9, ,,1979816064, ,5850
+1600493,Hösli,Max,Max Hösli, ,T,2013-12-24,2013-12-24,1015,hoesli,9, ,,1298683520, ,5850
+1600494,Lohri,Isidor,Isidor Lohri, ,T,2013-12-24,2015-04-27,1015,lohri,9, ,,1645211136, ,5850
+1600495,Emmenegger, ,Emmenegger, ,T,2013-12-24,2013-12-24,1015,emmenegger,9, ,,256587264, ,5850
+1600496,Corini, ,de Corini, ,T,2013-12-25,2013-12-25,1015,corini,9, ,de,1795494912, ,5850
+1600497,Müller,Werner,Werner Müller, ,T,2013-12-25,2014-04-30,1015,mueller,9, ,,1402651392, ,5850
+1600498,Schreiber,Max,Max Schreiber, ,T,2013-12-26,2013-12-26,1015,schreiber,9, ,,496269952, ,5850
+1600499,Arx,Jules,Jules von Arx, ,T,2013-12-27,2014-04-30,1015,arx,9, ,von,1133282688, ,5850
+1600500,Gurtner, ,Gurtner, ,T,2014-04-22,2014-04-22,1015,gurtner,9, ,,1085565568, ,5850
+1600501,Al-Kuwari,Mohamed,Mohamed Khamis Al-Kuwari, ,T,2014-05-12,2015-05-25,1015,al kuwari,127,*1982,,716716160, ,5850
+1600502,Muckenhammer,Dieter,Dieter Muckenhammer,1981-02-12,F,2014-05-12,2014-05-12,1015,muckenhammer,8, ,,1129841152, ,5850
+1600503,Sargenti,Riziero,Riziero Sargenti, ,T,2014-05-18,2014-10-21,1015,sargenti,9, ,,234134400, ,5850
+1600504,Flueckiger,Jean,Jean Flueckiger, ,T,2014-05-18,2014-07-10,1015,flueckiger,9, ,,532066688, ,5850
+1600505,Künzler,David,David Künzler, ,T,2014-05-30,2014-12-22,1015,kuenzler,9, ,,528700672, ,5850
+1600506,Schaub,Max,Max Schaub, ,T,2014-05-30,2015-01-18,1015,schaub,9, ,,989229312, ,5850
+1600507,Bründler,Ernst,Ernst Bründler, ,T,2014-05-30,2014-12-22,1015,bruendler,9, ,,1092545408, ,5850
+1600508,Pedrazzoli,Ezio,Ezio Pedrazzoli, ,T,2014-06-14,2014-12-22,1015,pedrazzoli,9, ,,321471104, ,5850
+1600509,Guillet,Edmond,Edmond Guillet, ,T,2014-06-14,2014-09-05,1015,guillet,9, ,,531283200, ,5850
+1600510,Pic,Fernand,Fernand Pic, ,T,2014-06-15,2014-12-22,1015,pic,9, ,,613850624, ,5850
+1600511,Fischlewitz,Adolf,Adolf Fischlewitz, ,T,2014-06-15,2014-12-22,1015,fischlewitz,9, ,,817386624, ,5850
+1600512,Hertling,Louis,Louis Hertling, ,T,2014-06-19,2015-04-27,1015,hertling,9, ,,140284672, ,5850
+1600513,Zulauf,Ernst,Ernst Zulauf, ,T,2014-06-19,2014-12-22,1015,zulauf,9, ,,991969152, ,5850
+1600514,Vettori,Adolf,Adolf Vettori, ,T,2014-06-19,2015-01-25,1015,vettori,9, ,,1426546304, ,5850
+1600516,Mouche,Adrien,Adrien Mouche, ,T,2014-07-10,2014-12-22,1015,mouche,9, ,,1711493504, ,5850
+1600517,Martin,Huldreich,Huldreich Martin, ,T,2014-09-01,2014-09-11,1015,martin,9, ,,2011189376, ,5850
+1600518,Weiersmüller,W.,W. Weiersmüller, ,T,2014-09-04,2014-10-25,1015,weiersmueller,9, ,,1849863040, ,5850
+1600519,Frieden,Walter,Walter Frieden, ,T,2014-09-09,2015-04-27,1015,frieden,9, ,,502147840, ,5850
+1600520,Hohl, ,Hohl, ,T,2014-09-09,2014-09-09,1015,hohl,9, ,,1196239104, ,5850
+1600521,Aeby,Ernst,Ernst Aeby, ,T,2014-09-09,2015-01-18,1015,aeby,9, ,,217127552, ,5850
+1600522,Hofer,François,François Hofer, ,T,2014-09-10,2015-04-27,1015,hofer,9, ,,1207138048, ,5850
+1600523,Pirovano, ,Pirovano, ,T,2014-10-21,2014-10-21,1015,pirovano,9, ,,30015872, ,5850
+1600524,Widmer, ,Widmer, ,T,2014-11-11,2019-02-01,1015,widmer,9,wahrscheinlich rodolphe wittwer,,1170307456, ,5850
+1600525,Bitterli,Sigmund,Sigmund Bitterli, ,T,2014-11-15,2016-06-14,1015,bitterli,9, ,,974657280, ,5850
+1600526,Rohner, ,Rohner, ,T,2014-11-17,2014-11-17,1015,rohner,9, ,,314748288, ,5850
+1600527,Mondet,Charles,Charles Mondet, ,T,2014-12-14,2015-04-27,1015,mondet,9, ,,1938292224, ,5850
+1600528,Bardet,Alois,Alois Bardet, ,T,2014-12-17,2016-06-14,1015,bardet,9, ,,435147904, ,5850
+1600529,Corderay,Henri,Henri Corderay, ,T,2014-12-17,2016-06-14,1015,corderay,9, ,,1338726144, ,5850
+1600531,Meier,Albert,Albert Meier, ,T,2014-12-17,2015-04-27,1015,meier,9, ,,942507392, ,5850
+1600532,Wartburg,Paul,Paul von Wartburg, ,T,2014-12-22,2014-12-22,1015,wartburg,9, ,von,1820270848, ,5850
+1600533,Stuber,Albert,Albert Stuber, ,T,2014-12-22,2014-12-22,1015,stuber,9, ,,2115370624, ,5850
+1600534,Schmalz,Jules,Jules Schmalz, ,T,2014-12-22,2014-12-22,1015,schmalz,9, ,,1135044096, ,5850
+1600535,Python,Louis,Louis Python, ,T,2014-12-22,2014-12-22,1015,python,9, ,,1542532992, ,5850
+1600536,Nicolet,Roger,Roger Nicolet, ,T,2014-12-22,2014-12-22,1015,nicolet,9, ,,1343869696, ,5850
+1600537,Locher,Max,Max Locher, ,T,2014-12-22,2015-04-13,1015,locher,9,evt. auch Paul Locher?,,1418586240, ,5850
+1600538,Lauener,Karl,Karl Lauener, ,T,2014-12-22,2014-12-22,1015,lauener,9, ,,1550297088, ,5850
+1600539,Kellerhals,Max,Max Kellerhals, ,T,2014-12-22,2014-12-22,1015,kellerhals,9, ,,1563978112, ,5850
+1600540,Kaspard,Joseph,Joseph Kaspard, ,T,2014-12-22,2014-12-22,1015,kaspard,9, ,,162276608, ,5850
+1600541,Hauser,Oskar,Oskar Hauser, ,T,2014-12-22,2014-12-22,1015,hauser,9, ,,262075008, ,5850
+1600542,Favre,Aimé,Aimé Favre, ,T,2014-12-22,2014-12-22,1015,favre,9, ,,333220352, ,5850
+1600543,Ducret,Constant,Constant Ducret, ,T,2014-12-22,2014-12-22,1015,ducret,9, ,,484557696, ,5850
+1600544,Bertsche,Edmund,Edmund Bertsche, ,T,2014-12-22,2014-12-22,1015,bertsche,9, ,,949491456, ,5850
+1600545,Grassi,Mario,Mario Grassi, ,T,2014-12-23,2015-04-27,1015,grassi,9, ,,325149824, ,5850
+1600546,Stoudmann,Julien,Julien Stoudmann, ,T,2014-12-25,2015-05-27,1015,stoudmann,9, ,,1373544576, ,5850
+1600547,Girelli,Guerino,Guerino Girelli, ,T,2014-12-25,2015-04-27,1015,girelli,9, ,,1947258368, ,5850
+1600548,Tschopp,L.,L. Tschopp, ,T,2014-12-26,2014-12-30,1015,tschopp,9, ,,1474610560, ,5850
+1600549,Willy,Werner,Werner Willy, ,T,2014-12-26,2014-12-28,1015,willy,9,evt. Willy Werner,,1602184576, ,5850
+1600550,Weidmann,Heinrich,Heinrich Weidmann, ,T,2014-12-26,2015-01-03,1015,weidmann,9, ,,1331258240, ,5850
+1600551,Puppato,Ferrer,Ferrer Puppato, ,T,2014-12-28,2014-12-29,1015,puppato,9, ,,1847075840, ,5850
+1600552,Sutter, ,Sutter, ,T,2014-12-30,2014-12-30,1015,sutter,9,evt. Schüttel,,671769728, ,5850
+1600553,Haymoz,Léon,Léon Haymoz, ,T,2014-12-30,2015-01-03,1015,haymoz,9, ,,1953413760, ,5850
+1600554,Walter,F.,F. Walter, ,T,2015-01-18,2015-01-18,1015,walter,9, ,,122043008, ,5850
+1600555,Ricklin, ,Ricklin, ,T,2015-01-19,2015-01-19,1015,ricklin,9, ,,1977578496, ,5850
+1600557,Risi,Peter,Peter Risi, ,T,2015-02-25,2015-10-18,1015,risi,9, ,,596079104, ,5850
+1600559,Jeanneret, ,Jeanneret, ,T,2015-03-18,2015-03-18,1015,jeanneret,9, ,,1634257280, ,5850
+1600560,Opitz,Otto,Otto Opitz, ,T,2015-03-18,2015-04-27,1015,opitz,9, ,,1222644992, ,5850
+1600561,Peverelli,Max,Max Peverelli, ,T,2015-03-18,2015-04-27,1015,peverelli,9, ,,1623558656, ,5850
+1600562,Bornhauser,Hermann,Hermann Bornhauser, ,T,2015-03-18,2015-04-27,1015,bornhauser,9, ,,40121984, ,5850
+1600563,Keller,Ernst,Ernst Keller, ,T,2015-03-18,2015-04-15,1015,keller,9, ,,1490358272, ,5850
+1600564,Beck,Franz,Franz Beck, ,T,2015-03-18,2015-04-27,1015,beck,9, ,,597451008, ,5850
+1600565,Hirt,Robert,Robert Hirt, ,T,2015-03-18,2015-05-27,1015,hirt,9, ,,1663788800, ,5850
+1600566,Craviolini,Georges,Georges Craviolini, ,T,2015-03-20,2015-04-27,1015,craviolini,9, ,,150661888, ,5850
+1600567,Lottenbach,Theodor,Theodor Lottenbach, ,T,2015-03-21,2015-05-27,1015,lottenbach,9, ,,907398400, ,5850
+1600568,Sieber, ,Sieber, ,T,2015-03-21,2015-03-21,1015,sieber,9, ,,229090816, ,5850
+1600569,Pineroli,Primo,Primo Pineroli, ,T,2015-03-21,2015-05-27,1015,pineroli,9, ,,1124886272, ,5850
+1600570,Steiner, ,Steiner, ,T,2015-03-21,2015-03-21,1015,steiner,9, ,,1966226944, ,5850
+1600571,Bachmann,Karl,Karl Bachmann, ,T,2015-03-21,2015-04-07,1015,bachmann,9, ,,522261888, ,5850
+1600572,Bujard,Paul,Paul Bujard, ,T,2015-03-21,2015-04-27,1015,bujard,9, ,,588277632, ,5850
+1600573,Scanferla,Angelo,Angelo Scanferla, ,T,2015-03-21,2015-04-27,1015,scanferla,9, ,,1510822656, ,5850
+1600574,Schürch,Joseph,Joseph Schürch, ,T,2015-03-21,2015-04-19,1015,schuerch,9, ,,451692032, ,5850
+1600575,Jeanneret, ,Jeanneret, ,T,2015-03-21,2015-03-21,1015,jeanneret,9, ,,1753208064, ,5850
+1600576,Hagen,Otto,Otto Hagen, ,T,2015-03-22,2015-04-27,1015,hagen,9, ,,1992864512, ,5850
+1600577,Schenk,Walter,Walter Schenk, ,T,2015-03-23,2015-05-27,1015,schenk,9, ,,835815680, ,5850
+1600578,Ruefer,Ernst,Ernst Ruefer, ,T,2015-03-23,2015-04-27,1015,ruefer,9, ,,1217298304, ,5850
+1600579,Vogt,Hans,Hans Vogt, ,T,2015-03-24,2015-04-16,1015,vogt,9, ,,212589696, ,5850
+1600580,Scherz,Eugen,Eugen Scherz, ,T,2015-03-24,2015-04-27,1015,scherz,9, ,,681190528, ,5850
+1600581,Vuilleumier, ,Vuilleumier, ,T,2015-03-25,2015-03-25,1015,vuilleumier,9, ,,1713057280, ,5850
+1600582,Zwyssig, ,Zwyssig, ,T,2015-03-26,2015-03-26,1015,zwyssig,9, ,,972024448, ,5850
+1600584,Niederhauser,Paul,Paul Niederhauser, ,T,2015-03-28,2015-04-27,1015,niederhauser,9, ,,100861696, ,5850
+1600585,Schmidsberger,Leopold,Leopold Schmidsberger, ,T,2015-03-28,2015-04-27,1015,schmidsberger,9, ,,2040868480, ,5850
+1600586,Vogt,Hans,Hans Vogt, ,T,2015-03-28,2015-04-27,1015,vogt,9, ,,441451264, ,5850
+1600587,Lutz,Jean,Jean Lutz,1904-01-02,F,2015-04-03,2020-11-16,1015,lutz,9, ,,640289408, ,5850
+1600588,Monney,Georges,Georges Monney, ,T,2015-04-03,2015-04-27,1015,monney,9, ,,1595074048, ,5850
+1600589,Vollenweider, ,Vollenweider, ,T,2015-04-04,2015-04-04,1015,vollenweider,9, ,,1501036928, ,5850
+1600590,Torche,Gaston,Gaston Torche, ,T,2015-04-04,2019-02-01,1015,torche,9, ,,1206066688, ,5850
+1600591,Schwitter, ,Schwitter, ,T,2015-04-04,2015-04-04,1015,schwitter,9, ,,814408192, ,5850
+1600592,Wirz, ,Wirz, ,T,2015-04-07,2015-04-07,1015,wirz,9, ,,667605632, ,5850
+1600593,Wilmes,Laurent,Laurent Wilmes,1987-01-21,F,2015-04-29,2015-04-29,1015,wilmes,60, ,,1936909824, ,5850
+1600594,Al-Marri,Khamis,Khamis Mohammed Al-Marri,1984-07-06,F,2015-05-25,2015-05-25,1015,al marri,127, ,,1877628032, ,5850
+1600595,Arn,Hermann,Hermann Arn, ,T,2015-05-26,2015-05-27,1015,arn,9, ,,35641344, ,5850
+1600596,Iseli,Charles,Charles Iseli, ,T,2015-05-26,2015-05-27,1015,iseli,9, ,,71364096, ,5850
+1600597,Heiniger,Emil,Emil Heiniger, ,T,2015-05-26,2015-05-27,1015,heiniger,9, ,,1053606656, ,5850
+1600598,Hofer, ,Hofer, ,T,2015-05-26,2015-11-04,1015,hofer,9,evt. Hofer Francis,,489535872, ,5850
+1600599,Hofer,François,François Hofer, ,T,2015-05-26,2015-05-27,1015,hofer,9, ,,735688960, ,5850
+1600600,Schmoll,Alfred,Alfred Schmoll, ,T,2015-05-26,2015-05-27,1015,schmoll,9, ,,140916352, ,5850
+1600601,Sannwald,Hans,Hans Sannwald, ,T,2015-05-27,2015-05-27,1015,sannwald,9, ,,1278982400, ,5850
+1600602,Sandoz,Adrien,Adrien Sandoz, ,T,2015-05-28,2020-04-13,1015,sandoz,9,39-48,,108638592, ,5850
+1600603,Keller, ,Keller, ,T,2015-05-29,2015-11-04,1015,keller,9,evt. Keller Ernst,,1606965248, ,5850
+1600604,Scandella,Paolo,Paolo Scandella, ,T,2015-05-29,2015-11-04,1015,scandella,9, ,,69475072, ,5850
+1600605,Gröbli,Eugen,Eugen Gröbli, ,T,2015-06-01,2015-11-04,1015,groebli,9, ,,1189140224, ,5850
+1600606,Merminod, ,Merminod, ,T,2015-07-27,2015-07-27,1015,merminod,9, ,,1849283712, ,5850
+1600607,Berner, ,Berner, ,T,2015-07-27,2015-07-27,1015,berner,9, ,,1770344704, ,5850
+1600609,Reinmann, ,Reinmann, ,T,2015-09-17,2015-09-17,1015,reinmann,9, ,,1014835840, ,5850
+1600610,Egg, ,Egg, ,T,2015-09-19,2015-09-19,1015,egg,9, ,,142033408, ,5850
+1600611,Guyot,Maurice,Maurice Guyot, ,T,2015-09-20,2015-11-04,1015,guyot,9, ,,1013139584, ,5850
+1600612,Häring,Walter,Walter Häring, ,T,2015-09-20,2016-03-28,1015,haering,9, ,,1524900864, ,5850
+1600613,Traub,Anton,Anton Traub, ,T,2015-09-20,2016-06-21,1015,traub,9, ,,1803421184, ,5850
+1600614,Rosenbaum,Saly,Saly Rosenbaum, ,T,2015-09-21,2016-06-21,1015,rosenbaum,9, ,,1695970176, ,5850
+1600615,Kessler,Alois,Alois Kessler, ,T,2015-09-22,2016-06-21,1015,kessler,9, ,,882393600, ,5850
+1600617,Antonioli, ,Antonioli, ,T,2015-10-15,2015-10-15,1015,antonioli,9, ,,1988720000, ,5850
+1600618,Ribul, ,Ribul, ,T,2015-10-15,2015-10-15,1015,ribul,9, ,,1294917248, ,5850
+1600619,Yavuczan, ,Yavuczan, ,T,2015-10-18,2015-10-18,1015,yavuczan,9, ,,501411328, ,5850
+1600620,Risi, ,Risi, ,T,2015-10-18,2015-10-18,1015,risi,9, ,,1599366272, ,5850
+1600621,Veronelli,Mario,Mario Veronelli, ,T,2015-11-08,2016-06-21,1015,veronelli,9, ,,1402319872, ,5850
+1600622,Massa, ,Massa, ,T,2016-01-17,2016-01-17,1015,massa,9, ,,510910464, ,5850
+1600624,Huber, ,Huber, ,T,2016-02-13,2016-02-13,1015,huber,9, ,,1676451712, ,5850
+1600625,Pusterla,Rafaele,Rafaele Pusterla, ,T,2016-02-20,2016-02-21,1015,pusterla,9, ,,580277248, ,5850
+1600626,Dubois,Gaston,Gaston Dubois, ,T,2016-02-20,2016-06-14,1015,dubois,9, ,,1125496704, ,5850
+1600627,Raimondi,Gildo,Gildo Raimondi, ,T,2016-02-21,2016-06-21,1015,raimondi,9, ,,1100683904, ,5850
+1600628,Fuchs, ,Fuchs, ,T,2016-02-21,2016-02-21,1015,fuchs,9, ,,12137728, ,5850
+1600629,Buser, ,Buser, ,T,2016-02-21,2016-02-21,1015,buser,9, ,,1610650240, ,5850
+1600630,Müry, ,Müry, ,T,2016-02-21,2016-02-21,1015,muery,9, ,,791699200, ,5850
+1600631,Marti,Hans,Hans Marti, ,T,2016-02-21,2016-06-14,1015,marti,9, ,,1414123008, ,5850
+1600632,Eggmann,Hans,Hans Eggmann, ,T,2016-02-25,2016-06-21,1015,eggmann,9, ,,460132864, ,5850
+1600633,Dominé,Ernest,Ernest Dominé, ,T,2016-03-02,2016-06-21,1015,domine,9, ,,1470276480, ,5850
+1600634,Ott,Theodor,Theodor Ott, ,T,2016-03-08,2016-06-14,1015,ott,9, ,,1773030272, ,5850
+1600635,Lehmann,Felix,Felix Lehmann, ,T,2016-03-25,2016-06-21,1015,lehmann,9, ,,1275164160, ,5850
+1600636,Mignot,Charles,Charles Mignot, ,T,2016-03-27,2016-06-21,1015,mignot,9, ,,260094464, ,5850
+1600637,Roth,Simon,Simon Roth,1989-12-11,F,2016-04-09,2016-08-15,1015,roth,9, ,,1483028864, ,5850
+1600638,Dupuis,Marcel,Marcel Dupuis, ,T,2016-04-24,2016-06-14,1015,dupuis,9, ,,1361745920, ,5850
+1600639,Studer, ,Studer, ,T,2016-06-07,2020-05-31,1015,studer,9, ,,1834871680, ,5850
+1600640,Fritsch, ,Fritsch, ,T,2016-06-21,2016-06-21,1015,fritsch,9, ,,216609280, ,5850
+1600641,Al-Marri,Abdulla Ali,Abdulla Ali Al-Marri,1992-12-16,F,2016-10-15,2016-10-15,1015,al marri,127, ,,762342272, ,5850
+1600642,Gianforte,Nico,Nico Gianforte,1993-03-12,F,2017-03-12,2017-03-12,1015,gianforte,9, ,,1711923072, ,5850
+1600643,Al-Adba,Saoud,Saoud Ali Al-Adba,1986-07-27,F,2017-04-14,2017-04-14,1015,al adba,127, ,,575238656, ,5850
+1600644,Brisard,Jérôme,Jérôme Brisard,1986-03-24,F,2018-02-15,2018-02-15,1015,brisard,18, ,,2093581440, ,5850
+1600645,Mandach,Johannes,Johannes von Mandach,1994-07-28,F,2018-03-10,2018-03-10,1015,mandach,9, ,von,782314496, ,5850
+1600646,Schneider,Frank,Frank Schneider,1979-05-11,F,2018-03-30,2018-03-30,1015,schneider,18, ,,1107199616, ,5850
+1600647,Falahi,Salman,Salman Ahmad Falahi,1990-02-05,F,2018-04-13,2020-05-29,1015,falahi,127, ,,1704546816, ,5850
+1600648,Herren, ,Herren, ,T,2018-05-03,2018-05-03,1015,herren,9,evt. Felix Herren,,490154112, ,5850
+1600649,Haudenschild,Alf.,Alf. Haudenschild, ,T,2018-05-03,2020-04-18,1015,haudenschild,9, ,,929818624, ,5850
+1600650,Wüthrich, ,Wüthrich, ,T,2018-05-05,2018-06-28,1015,wuethrich,9,evt. Hans Wüthrich,,1924259200, ,5850
+1600651,Funk, ,Funk, ,T,2018-05-05,2020-05-31,1015,funk,9, ,,806340864, ,5850
+1600652,Röthlisberger, ,Röthlisberger, ,T,2018-05-05,2018-05-05,1015,roethlisberger,9, ,,671352448, ,5850
+1600653,Stutz,Emil,Emil Stutz, ,T,2018-05-05,2020-05-31,1015,stutz,9, ,,1744653824, ,5850
+1600654,Eichenberger,Guido,Guido Eichenberger, ,T,2018-05-05,2018-05-05,1015,eichenberger,9, ,,60376064, ,5850
+1600655,Burkhardt, ,Burkhardt, ,T,2018-05-05,2018-05-05,1015,burkhardt,9, ,,1996775040, ,5850
+1600656,Beuchat,Fritz,Fritz Beuchat, ,T,2018-06-28,2018-10-17,1015,beuchat,9, ,,213768448, ,5850
+1600657,Thies,Tobias,Tobias Thies, ,T,2018-08-02,2018-08-02,1015,thies,9, ,,1293525760, ,5850
+1600658,Spengler, ,Spengler, ,T,2018-08-18,2018-08-18,1015,spengler,9, ,,267009280, ,5850
+1600659,Wieland,Joseph,Joseph Wieland, ,T,2018-08-18,2020-05-31,1015,wieland,9,um 1917,,1501140096, ,5850
+1600660,Papadopoulos,Ioannis,Ioannis Papadopoulos,1982-03-17,F,2018-10-04,2018-10-04,1015,papadopoulos,30, ,,414287360, ,5850
+1600661,Rutschmann,Jules,Jules Rutschmann, ,T,2018-10-13,2020-05-31,1015,rutschmann,9, ,,612516480, ,5850
+1600662,Besomi, ,Besomi, ,T,2019-01-30,2019-01-30,1015,besomi,9, ,,1638907008, ,5850
+1600663,Büttikofer,Albert,Albert Büttikofer, ,T,2019-01-30,2019-11-02,1015,buettikofer,9, ,,894577664, ,5850
+1600664,Marti, ,Marti, ,T,2019-01-30,2019-01-30,1015,marti,9, ,,294182272, ,5850
+1600665,Paschoud,Charles,Charles Paschoud, ,T,2019-01-30,2019-01-30,1015,paschoud,9, ,,908553728, ,5850
+1600666,Margot, ,Margot, ,T,2019-01-30,2019-01-30,1015,margot,9, ,,480933120, ,5850
+1600667,Richner, ,Richner, ,T,2019-01-30,2019-01-30,1015,richner,9, ,,624758016, ,5850
+1600668,Richardin, ,Richardin, ,T,2019-01-30,2019-01-30,1015,richardin,9, ,,1531745536, ,5850
+1600669,Hürlimann,Roman,Roman Hürlimann,1990-05-25,F,2019-03-01,2019-03-01,1015,huerlimann,9, ,,757531776, ,5850
+1600670,Kanagasingam,Anojen,Anojen Kanagasingam, ,T,2019-03-07,2019-03-07,1015,kanagasingam,9, ,,1183251072, ,5850
+1600671,Carrard,Yannick,Yannick Carrard, ,T,2019-03-14,2019-03-14,1015,carrard,9, ,,2042207360, ,5850
+1600672,Delerue,Amaury,Amaury Delerue,1977-06-06,F,2019-04-05,2019-04-05,1015,delerue,18, ,,798606592, ,5850
+1600673,Al-Shammari,Mohammed,Mohammed Ahmed Al-Shammari,1990-08-02,F,2019-05-09,2019-05-09,1015,al shammari,127, ,,413954176, ,5850
+1600674,Huwiler,David,David Huwiler,1987-11-18,F,2019-07-30,2020-06-25,1015,huwiler,9, ,,1728702848, ,5850
+1600675,Ducommun,H.,H. Ducommun, ,T,2019-08-18,2019-08-18,1015,ducommun,9, ,,811667584, ,5850
+1600676,Bruckhardt,H.,H. Bruckhardt, ,T,2019-08-18,2019-08-18,1015,bruckhardt,9, ,,81207680, ,5850
+1600677,Frey,Hans,Hans Frey, ,T,2019-08-18,2019-08-18,1015,frey,9, ,,591071488, ,5850
+1600678,Christen, ,Christen, ,T,2019-08-18,2019-08-18,1015,christen,9, ,,2001628544, ,5850
+1600679,Demartines, ,Demartines, ,T,2019-09-08,2019-09-08,1015,demartines,9, ,,1372497792, ,5850
+1600680,Neumann,H.,H. Neumann, ,T,2019-09-08,2019-12-04,1015,neumann,9,wahrscheinlich hugo neumann,,694742656, ,5850
+1600681,Giavarini, ,Giavarini, ,T,2019-09-08,2019-09-08,1015,giavarini,9, ,,55620224, ,5850
+1600682,Diamantopoulos,Aristotelis,Aristotelis Diamantopoulos,1983-05-07,F,2019-10-03,2019-10-03,1015,diamantopoulos,30, ,,1161134336, ,5850
+1600683,Monte, ,Monte, ,T,2019-10-30,2019-10-30,1015,monte,9, ,,284134144, ,5850
+1600684,Afflerbach, ,Afflerbach, ,T,2019-10-31,2019-10-31,1015,afflerbach,9, ,,1717064192, ,5850
+1600685,Scherz, ,Scherz, ,T,2019-11-02,2019-11-02,1015,scherz,9, ,,1299288320, ,5850
+1600686,Herz, ,Herz, ,T,2019-11-02,2019-11-02,1015,herz,9, ,,875915392, ,5850
+1600687,Abed,Karim,Karim Abed,1988-12-18,F,2019-11-23,2019-11-23,1015,abed,18, ,,369994240, ,5850
+1600688,Osterwalder, ,Osterwalder, ,T,2019-12-04,2019-12-04,1015,osterwalder,9, ,,588946688, ,5850
+1600689,Hubert, ,Hubert, ,T,2019-12-07,2019-12-07,1015,hubert,9, ,,1797372416, ,5850
+1600690,Diethelm, ,Diethelm, ,T,2019-12-07,2019-12-07,1015,diethelm,9, ,,800453888, ,5850
+1600691,Ferrers-Guy,S.,S. Ferrers-Guy, ,T,2019-12-31,2019-12-31,1015,ferrers guy,0, ,,597600896, ,5850
+1600692,Huntington,L.C.,L.C. Huntington, ,T,2019-12-31,2019-12-31,1015,huntington,0, ,,787989760, ,5850
+1600693,Tollmann, ,Tollmann, ,T,2019-12-31,2019-12-31,1015,tollmann,0, ,,1849638912, ,5850
+1600694,Dondelinger,Albert,Albert Dondelinger, ,T,2020-03-22,2020-05-31,1015,dondelinger,3, ,,106368640, ,5850
+1600695,Rinderer, ,Rinderer, ,T,2020-03-22,2020-03-22,1015,rinderer,9, ,,1555994624, ,5850
+1600696,Bech, ,Bech, ,T,2020-03-22,2020-03-22,1015,bech,9, ,,706072320, ,5850
+1600697,Guillermin, ,Guillermin, ,T,2020-03-22,2020-03-22,1015,guillermin,9, ,,1001119488, ,5850
+1600698,Sandoz,Adamir,Adamir Sandoz,1887-04-07,F,2020-03-22,2020-05-31,1015,sandoz,9, ,,1382447360, ,5850
+1600699,Grafenried, ,Grafenried, ,T,2020-03-22,2020-03-28,1015,grafenried,9, ,,227875712, ,5850
+1600700,Schmidt,Arthur,Arthur Schmidt,1886-08-07,F,2020-03-22,2020-05-31,1015,schmidt,9, ,,590357760, ,5850
+1600701,Barbey,E.,E. Barbey, ,T,2020-03-22,2020-03-22,1015,barbey,9, ,,1874613760, ,5850
+1600702,Nater,Ernst,Ernst Nater, ,T,2020-03-22,2020-05-31,1015,nater,9, ,,1738053760, ,5850
+1600703,Stutz,Eugen,Eugen Stutz, ,T,2020-03-22,2020-03-26,1015,stutz,9, ,,1685812736, ,5850
+1600704,Desmaisons, ,Desmaisons, ,T,2020-03-22,2020-03-22,1015,desmaisons,9, ,,873544832, ,5850
+1600705,Haslebacher,Emil,Emil Haslebacher, ,T,2020-03-26,2020-03-26,1015,haslebacher,9, ,,662277504, ,5850
+1600706,Riesterer,Ernest,Ernest Riesterer, ,T,2020-03-26,2020-05-31,1015,riesterer,9, ,,284191360, ,5850
+1600707,Turnheer,H.,H. Turnheer, ,T,2020-03-26,2020-05-31,1015,turnheer,9, ,,792188288, ,5850
+1600708,Koblet,U.,U. Koblet, ,T,2020-03-26,2020-05-31,1015,koblet,9,Hans Koblet?,,897209728, ,5850
+1600709,Beuttner,Willy,Willy Beuttner,1885-11-14,F,2020-03-26,2020-05-31,1015,beuttner,9, ,,1794986880, ,5850
+1600710,Schmidlin, ,Schmidlin, ,T,2020-03-26,2020-03-26,1015,schmidlin,9, ,,945652992, ,5850
+1600711,Walther,S.,S. Walther, ,T,2020-03-26,2020-03-26,1015,walther,9, ,,17570048, ,5850
+1600712,Etzensberger,Hermann,Hermann Etzensberger, ,T,2020-03-26,2020-05-31,1015,etzensberger,9, ,,1699251328, ,5850
+1600713,Stäbler, ,Stäbler, ,T,2020-03-26,2020-03-26,1015,staebler,9, ,,2036976640, ,5850
+1600714,Weber,Henry Otto,Henry Otto Weber, ,T,2020-03-26,2020-05-24,1015,weber,9,Hat später seinen Namen in Henry Otto Pohlmann abgeändert (gemäss SFAZ 19/1917).,,515374848, ,5850
+1600715,Sydler, ,Sydler, ,T,2020-03-26,2020-03-26,1015,sydler,9, ,,436440448, ,5850
+1600716,Jaques,Charles,Charles Jaques, ,T,2020-03-26,2020-04-21,1015,jaques,9,auch Jacques,,289297024, ,5850
+1600717,Forster,John,John Forster,1886-04-16,F,2020-03-26,2020-05-31,1015,forster,9, ,,978894336, ,5850
+1600718,Henninger,Marcel,Marcel Henninger,1886-01-18,F,2020-03-26,2020-05-31,1015,henninger,9, ,,1237432448, ,5850
+1600719,Daccord, ,Daccord, ,T,2020-03-26,2020-03-26,1015,daccord,9, ,,620520320, ,5850
+1600720,Welti, ,Welti, ,T,2020-03-26,2020-03-26,1015,welti,9, ,,1294543872, ,5850
+1600721,Sommer, ,Sommer, ,T,2020-03-26,2020-03-26,1015,sommer,9, ,,1608859264, ,5850
+1600722,Mühlemann, ,Mühlemann, ,T,2020-03-27,2020-03-27,1015,muehlemann,9, ,,917127168, ,5850
+1600723,Schmid,Ernst,Ernst Schmid, ,T,2020-03-27,2020-03-27,1015,schmid,9,oder Ernest,,1584661632, ,5850
+1600724,Ryser,Ed.,Ed. Ryser, ,T,2020-03-27,2020-03-27,1015,ryser,9, ,,658884608, ,5850
+1600725,Weber,Gustav,Gustav Weber, ,T,2020-03-27,2020-05-31,1015,weber,9, ,,373842944, ,5850
+1600726,Häfelin,Paul,Dr. jur. Paul Häfelin,1889-05-18,F,2020-03-27,2020-05-31,1015,haefelin,9, ,,603665280, ,5850
+1600727,Reich,Jacques,Jacques Reich, ,T,2020-03-27,2020-05-31,1015,reich,9, ,,1972207616, ,5850
+1600728,Blum,Hans,Hans Blum, ,T,2020-03-27,2020-03-31,1015,blum,9,ab Sommer 1916 nicht mehr YB angehörig.,,2039879296, ,5850
+1600729,Fricker,Ernst,Ernst Fricker, ,T,2020-03-27,2020-05-31,1015,fricker,9, ,,2071944192, ,5850
+1600730,Heck,H.,H. Heck, ,T,2020-03-27,2020-05-31,1015,heck,9, ,,738399872, ,5850
+1600731,Richard,F.,F. Richard, ,T,2020-03-28,2020-03-28,1015,richard,9, ,,1393775872, ,5850
+1600732,Dessaules,M.,M. Dessaules, ,T,2020-03-28,2020-05-31,1015,dessaules,9, ,,819495936, ,5850
+1600733,Keller, ,Keller, ,T,2020-03-28,2020-03-28,1015,keller,9, ,,82898816, ,5850
+1600734,Hirrlé,Jacques,Jacques Hirrlé, ,T,2020-03-28,2020-03-28,1015,hirrle,9, ,,730042240, ,5850
+1600735,Schaller,Alb.,Alb. Schaller, ,T,2020-03-28,2020-04-18,1015,schaller,9, ,,1174952064, ,5850
+1600737,Graffenried, ,von Graffenried, ,T,2020-03-29,2020-03-29,1015,graffenried,9, ,von,374448896, ,5850
+1600738,Rivolta,Hans,Hans Rivolta, ,T,2020-03-29,2020-05-31,1015,rivolta,9, ,,2122990336, ,5850
+1600739,Ullmann, ,Ullmann, ,T,2020-03-29,2020-03-29,1015,ullmann,9, ,,496318336, ,5850
+1600740,Hinnen, ,Hinnen, ,T,2020-03-31,2020-03-31,1015,hinnen,9, ,,1808349952, ,5850
+1600741,Favre,O.,O. Favre, ,T,2020-04-18,2020-04-18,1015,favre,9, ,,1480663680, ,5850
+1600742,Holm, ,Holm, ,T,2020-04-18,2020-04-18,1015,holm,9, ,,453556352, ,5850
+1600743,Wenger, ,Wenger, ,T,2020-04-18,2020-04-18,1015,wenger,9, ,,1025988096, ,5850
+1600744,Ollmann,Georg,Georg Ollmann, ,T,2020-04-19,2020-05-31,1015,ollmann,9, ,,203156352, ,5850
+1600745,Ammann,Eugène,Eugène Ammann,1889-08-29,F,2020-04-19,2020-05-31,1015,ammann,9, ,,318822656, ,5850
+1600746,Noverraz, ,Noverraz, ,T,2020-04-19,2020-04-19,1015,noverraz,9, ,,1823313408, ,5850
+1600747,Haslebacher,Roger,Roger Haslebacher, ,T,2020-04-19,2020-05-31,1015,haslebacher,9, ,,1627970048, ,5850
+1600748,Matthey, ,Matthey, ,T,2020-04-19,2020-04-19,1015,matthey,9, ,,1016438784, ,5850
+1600749,Bossard,Robert,Robert Bossard, ,T,2020-04-21,2020-05-31,1015,bossard,9, ,,1363118208, ,5850
+1600750,Baumann, ,Baumann, ,T,2020-04-21,2020-04-21,1015,baumann,9, ,,1199884800, ,5850
+1600751,Hösli,Hans,Hans Hösli, ,T,2020-04-21,2020-05-31,1015,hoesli,9, ,,1216005248, ,5850
+1600752,Jansen,J. C.,J. C. Jansen, ,T,2020-04-21,2020-05-31,1015,jansen,9, ,,39325568, ,5850
+1600753,Levrat,Pierre,Pierre Levrat, ,T,2020-04-21,2020-05-31,1015,levrat,9, ,,872268800, ,5850
+1600754,Lehmann,Walter,Walter Lehmann, ,T,2020-04-21,2020-05-31,1015,lehmann,9, ,,430619008, ,5850
+1600755,Kult-Reynaud,Ch.,Ch. Kult-Reynaud, ,T,2020-05-10,2020-05-31,1015,kult reynaud,9, ,,421811840, ,5850
+1600756,Mutter, ,Mutter, ,T,2020-05-16,2020-05-16,1015,mutter,9, ,,192613248, ,5850
+1600758,Guisolan,Noël,Noël Guisolan, ,T,2020-05-16,2020-05-22,1015,guisolan,9, ,,952704384, ,5850
+1600759,Giannini, ,Giannini, ,T,2020-05-16,2020-05-16,1015,giannini,9, ,,475555328, ,5850
+1600761,Wehrli,Claude,Claude Wehrli, ,T,2020-05-17,2020-05-17,1015,wehrli,9, ,,1346712064, ,5850
+1600764,Blanc,Dominique,Dominique Blanc, ,T,2020-05-20,2020-05-22,1015,blanc,9, ,,1736316928, ,5850
+1600765,Waefler,Martin,Martin Waefler, ,T,2020-05-20,2020-05-22,1015,waefler,9, ,,1690992768, ,5850
+1600766,Krähenbühl, ,Krähenbühl, ,T,2020-05-22,2020-05-22,1015,kraehenbuehl,9, ,,769861760, ,5850
+1600767,Kury, ,Kury, ,T,2020-05-23,2020-05-23,1015,kury,9, ,,1296292352, ,5850
+1600768,Catillaz, ,Catillaz, ,T,2020-05-23,2020-05-23,1015,catillaz,9, ,,89713408, ,5850
+1600769,Riesterer,Louis,Louis Riesterer, ,T,2020-05-24,2020-06-01,1015,riesterer,9, ,,816614272, ,5850
+1600770,Lötscher,Leander,Leander Lötscher, ,T,2020-05-27,2020-05-27,1015,loetscher,9, ,,1031325696, ,5850
+1600771,Haudenschild,Henri,Henri Haudenschild, ,T,2020-05-31,2020-05-31,1015,haudenschild,9, ,,412681728, ,5850
+1600772,Burckhardt,Carl,Carl Burckhardt, ,T,2020-05-31,2020-05-31,1015,burckhardt,9, ,,222369920, ,5850
+1600773,Wälti,Ernst,Ernst Wälti, ,T,2020-06-01,2020-06-01,1015,waelti,9, ,,1164170240, ,5850
+1600774,Müller, ,Müller, ,T,2020-06-01,2020-06-01,1015,mueller,9, ,,607928064, ,5850
+1600775,Ruoff,Paul,Paul Ruoff,1897-10-19,F,2020-06-03,2020-06-03,1015,ruoff,9, ,,1585688576, ,5850
+1600776,Minder,Dario,Dario Minder,1991-11-27,F,2020-06-24,2020-06-24,1015,minder,9, ,,761477760, ,5850
+1600777,Drmic,Marijan,Marijan Drmic,1994-03-23,F,2020-06-24,2020-06-24,1015,drmic,9, ,,95400448, ,5850
+1600778,Vidic,Aleksandar,Aleksandar Vidic, ,T,2020-06-26,2020-06-26,1015,vidic,9, ,,1812267648, ,5850
+1600779,Monnin,Jonathan,Jonathan Monnin,1991-05-12,F,2020-06-27,2020-06-27,1015,monnin,9, ,,2120157184, ,5850
+1600780,Luca,Emanuele,Emanuele De Luca,1984-01-24,F,2020-06-27,2020-06-27,1015,luca,9, ,De,1178410368, ,5850
+1600781,Tester,Alexander,Alexander Tester,1991-08-20,F,2020-06-27,2020-06-27,1015,tester,9, ,,1000257408, ,5850
+1600782,Werder,Daniel,Daniel Werder,1988-10-18,F,2020-06-27,2020-06-27,1015,werder,9, ,,23748480, ,5850
+1600783,Berchier,Logan,Logan Berchier,1995-11-21,F,2020-06-27,2020-06-27,1015,berchier,9, ,,1737529728, ,5850
+1600784,Jerkic,Bojan,Bojan Jerkic,1994-06-28,F,2020-06-27,2020-06-27,1015,jerkic,9, ,,1135637248, ,5850
+1600785,Risi,Esteban,Esteban Risi,1996-03-20,F,2020-06-27,2020-06-27,1015,risi,9, ,,1139980032, ,5850
+1600786,Kachevski,Jovan,Jovan Kachevski, ,T,2020-07-04,2020-07-04,1015,kachevski,48, ,,296964608, ,5850
+1600787,Masiyev,Elchin,Elchin Masiyev, ,T,2020-07-05,2020-07-05,1015,masiyev,101, ,,835625600, ,5850
+1600789,Frappart,Stéphanie,Stéphanie Frappart,1983-12-14,F,2020-08-01,2020-08-01,1015,frappart,18, ,,1650827520, ,5850
+1600790,Omlin, ,Omlin, ,T,2020-09-02,2020-09-02,1015,omlin,9, ,,1537856640, ,5850
+2100141,Oliver,Michael,Michael Oliver,1985-02-20,F,2008-02-07,2011-04-19,1030,oliver,1, ,,2032552448, ,5790
+2200050,Makkelie,Danny,Danny Makkelie,1983-01-28,F,2007-06-06,2007-06-06,1026,makkelie,7, ,,827509890, ,5780
+2400001,Poma,Giosia,Giosia Poma, ,T,2006-08-14,2020-05-29,1015,poma,9,*1979,,1796268544, ,5760
+2400004,Lanfranchi,Remo,Remo Lanfranchi, ,T,2006-08-14,2006-08-14,1029,lanfranchi,9, ,,1512880640, ,5760
+2400006,San,Fedayi,Fedayi San,1982-11-11,F,2006-08-14,2013-04-01,1029,san,9, ,,1047046656, ,5760
+2400008,Staubli,Esther,Esther Staubli,1979-10-03,F,2006-08-14,2006-10-07,1029,staubli,9, ,,1516774528, ,5760
+2400009,Klossner,Stephan,Stephan Klossner,1981-05-30,F,2006-08-20,2008-08-02,1029,klossner,9, ,,313968768, ,5760
+2400016,Gut,Luca,Luca Gut,1983-06-27,F,2007-08-09,2010-08-06,1029,gut,9, ,,333353600, ,5760
+2400027,Stocker,Daniel,Daniel Stocker,1979-01-25,F,2008-08-04,2011-08-08,1029,stocker,9, ,,506654848, ,5760
+2400028,Jancevski,Nicolas,Nicolas Jancevski,1983-12-18,F,2008-08-04,2008-08-04,1029,jancevski,9, ,,93931392, ,5760
+2400029,Dégallier,Yves,Yves Dégallier, ,T,2008-08-04,2008-08-04,1029,degallier,9, ,,1291672832, ,5760
+2400030,Pache,Sébastien,Sébastien Pache,1975-03-04,F,2008-08-04,2011-03-27,1029,pache,9, ,,448816128, ,5760
+2400033,Cathomen,Luca,Luca Cathomen,1979-09-21,F,2008-08-04,2011-08-08,1029,cathomen,9, ,,646482304, ,5760
+2400042,Schenk,Jan,Jan Schenk,1984-04-01,F,2009-03-15,2011-08-08,1029,schenk,9, ,,2016401792, ,5760
+2400043,Erlachner,Pascal,Pascal Erlachner,1980-02-01,F,2009-04-06,2010-07-31,1029,erlachner,9, ,,1179671936, ,5760
+2400044,Schärer,Sandro,Sandro Schärer,1988-06-06,F,2009-04-24,2011-08-08,1029,schaerer,9, ,,1631254400, ,5760
+2400045,Ghisletta,Simona,Simona Ghisletta,1975-06-11,F,2009-05-22,2010-08-06,1029,ghisletta,9, ,,222277376, ,5760
+2400049,Bianchi,Simone,Simone Bianchi, ,T,2009-08-01,2009-08-01,1029,bianchi,9, ,,1320340736, ,5760
+2400052,Fähndrich,Lukas,Lukas Fähndrich,1984-08-26,F,2010-03-22,2011-08-08,1029,faehndrich,9, ,,1895271808, ,5760
+2400055,Ramaj,Haziz,Haziz Ramaj,1982-10-10,F,2010-05-23,2011-08-08,1029,ramaj,9, ,,102143360, ,5760
+2400056,Schmid,Fabian,Fabian Schmid,1986-05-27,F,2010-05-23,2011-08-08,1029,schmid,9, ,,820732288, ,5760
+2400058,Marciniak,Szymon,Szymon Marciniak,1981-01-07,F,2010-09-06,2010-09-13,1029,marciniak,14, ,,2010709888, ,5760
+2400068,Musa,Zenel,Zenel Musa,1983-12-20,F,2011-03-21,2016-04-04,1015,musa,9, ,,1404512896, ,5760
+2400071,Schnyder,Urs,Urs Schnyder,1986-04-17,F,2011-03-30,2013-06-10,1029,schnyder,9, ,,2057557760, ,5760
+2400074,Schläpfer,Daniel,Daniel Schläpfer, ,T,2011-04-08,2011-04-08,1029,schlaepfer,9, ,,67316992, ,5760
+2400075,Tschudi,Léonce Lionel,Lionel Tschudi,1989-03-20,F,2011-04-11,2020-07-26,1015,tschudi,9, ,,225816064, ,5760
+2400076,Skalonja,Nenad,Nenad Skalonja,1985-03-15,F,2011-04-18,2011-08-08,1029,skalonja,9, ,,1253823360, ,5760
+2400078,Carmine,Gionata,Gionata Carmine,1983-10-15,F,2011-05-02,2012-08-07,1029,carmine,9, ,,1659123072, ,5760
+2400082,Brunner,Michael,Michael Brunner,1986-04-11,F,2011-08-08,2012-03-15,1029,brunner,9, ,,155680256, ,5760
+2400086,Superczynski,Tomasz,Tomasz Superczynski,1979-03-18,F,2011-09-05,2011-10-03,1029,superczynski,9, ,,344922368, ,5760
+2400094,Gentile,Raphael,Raphael Gentile,1985-04-22,F,2011-11-10,2012-03-15,1029,gentile,9, ,,174401408, ,5760
+2400095,Dudic,Alessandro,Alessandro Dudic,1988-11-30,F,2011-11-10,2012-03-26,1029,dudic,9, ,,2001003008, ,5760
+2400096,Zgraggen,Cornelio,Cornelio Zgraggen,1987-06-02,F,2011-11-17,2011-11-20,1029,zgraggen,9, ,,1101784448, ,5760
+2400097,Huber,Michael,Michael Huber,1987-11-20,F,2012-03-12,2012-03-12,1029,huber,9, ,,159013504, ,5760
+2400102,Hänggi,Fabian,Fabian Hänggi,1984-07-12,F,2012-04-15,2012-04-15,1029,haenggi,9, ,,484583296, ,5760
+2400104,Papapetrou,Anastasios,Anastasios Papapetrou,1985-01-13,F,2012-05-14,2018-08-09,1029,papapetrou,30, ,,1377823232, ,5760
+2400106,Grundbacher,Désirée,Désirée Grundbacher,1983-08-16,F,2012-08-07,2012-08-07,1029,grundbacher,9, ,,1852758656, ,5760
+2400108,Bosnic,Sandi,Sandi Bosnic,1989-05-09,F,2012-08-11,2012-08-11,1029,bosnic,9, ,,1380566144, ,5760
+2400109,Schärli,David,David Schärli,1988-06-24,F,2012-08-11,2012-08-11,1029,schaerli,9, ,,583307136, ,5760
+2400111,Bozcelik,Bora,Bora Bozcelik,1985-07-17,F,2012-08-14,2020-08-27,1029,bozcelik,9, ,,510411392, ,5850
+2400114,Piccolo,Luca,Luca Piccolo,1992-10-01,F,2012-08-21,2012-08-21,1029,piccolo,9, ,,508843648, ,5760
+2400119,Schwaller,Matthias,Matthias Schwaller,1985-12-09,F,2012-10-08,2012-10-08,1029,schwaller,9, ,,1519107328, ,5760
+2700084,Dienst,Gottfried,Gottfried Dienst,1919-09-09,F,2008-02-24,2008-02-24,1032,dienst,9, ,,451204033, ,5730
+2700168,Mercet,René,René Mercet,1898-12-01,F,2008-02-24,2020-05-31,1015,mercet,9, ,,353818925, ,5730
+2700251,Wyssling,Paul,Paul Raymond Wyssling,1912-01-05,F,2008-02-24,2020-09-12,1015,wyssling,9, ,,199218387, ,5730
+2700288,Dubach,Jean,Jean Dubach,1930-02-28,F,2008-02-24,2008-02-24,1032,dubach,9, ,,901166851, ,5730
+2701364,Stefanski,Daniel,Daniel Stefanski,1977-07-02,F,2013-10-16,2013-10-16,1032,stefanski,14, ,,1775469056, ,5730
+2800095,Hungerbühler,Walter,Walter Hungerbühler,1930-08-09,F,2008-02-24,2011-12-31,1032,hungerbuehler,9, ,,1898641862, ,5720
+2800890,Renggli,Ruedi,Rudolf Renggli,1938-09-06,F,2008-02-24,2012-08-30,1032,renggli,9, ,,981378560, ,5720
+2800912,Dörflinger-Buser,Ernst,Ernst Dörflinger-Buser, ,T,2008-02-24,2008-02-24,1032,doerflinger buser,9, ,,2143200000, ,5720
+2800951,Bucheli,Anton,Anton Bucheli,1929-09-14,F,2008-02-24,2011-12-05,1032,bucheli,9, ,,1951309440, ,5720
+2800963,Kamber,Pius,Pius Kamber,1926-07-29,F,2008-06-03,2012-08-30,1032,kamber,9, ,,1267470976, ,5720
+2800986,Droz,Gilbert,Gilbert Droz,1928-02-14,F,2008-06-15,2012-01-22,1032,droz,9, ,,88577152, ,5720
+2801019,Huber,Othmar,Othmar Huber,1920-04-05,F,2008-08-12,2020-09-12,1015,huber,9, ,,970344448, ,5720
+2801073,Turpin,Clément,Clément Turpin,1982-05-16,F,2011-09-06,2011-09-06,1032,turpin,18, ,,1866381440, ,5720
+4200050,Horisberger,Stefan,Stefan Horisberger,1988-07-24,F,2013-08-20,2017-08-10,1015,horisberger,9, ,,972205312, ,5580
+4200051,Ljatifi,Mehmed,Mehmed Ljatifi,1984-08-06,F,2013-08-23,2013-08-23,1029,ljatifi,9, ,,540749056, ,5580
+4200054,Wolfensberger,Sven,Sven Wolfensberger,1989-10-20,F,2014-08-14,2014-08-14,1029,wolfensberger,9, ,,1491719296, ,5580
+4200060,Morais,Filipe,Filipe Morais, ,T,2014-09-17,2014-09-17,1029,morais,9, ,,1737950592, ,5580
+4200061,Rothenfluh,Marco,Marco Rothenfluh, ,T,2015-08-08,2015-08-08,1029,rothenfluh,9, ,,1405867904, ,5580
+4200063,Bontempelli,Benoît,Benoît Bontempelli, ,T,2015-08-08,2015-08-08,1029,bontempelli,9, ,,1602080896, ,5580
+4200064,Rogalla,Patrick,Patrick Rogalla,1992-12-31,F,2015-08-08,2019-08-09,1029,rogalla,9, ,,1027076096, ,5580
+4200068,Bannwart,Christian,Christian Bannwart,1985-06-21,F,2015-09-21,2015-09-21,1029,bannwart,9, ,,144802560, ,5580
+4200069,Cibelli,Luca,Luca Cibelli,1988-10-17,F,2015-09-21,2020-01-24,1015,cibelli,9, ,,176215168, ,5580
+4200071,Odiet,Maxime,Maxime Odiet,1992-11-20,F,2016-08-11,2016-08-13,1029,odiet,9, ,,955020032, ,5580
+4200072,Schelb,Markus,Markus Schelb,1990-06-06,F,2016-08-11,2016-08-13,1029,schelb,9, ,,748030080, ,5580
+4200073,Rosset,Simon,Simon Rosset,1991-06-01,F,2016-08-11,2020-06-26,1015,rosset,9, ,,483346432, ,5580
+4200074,Mischler,Marc,Marc Mischler, ,T,2016-08-13,2016-08-13,1029,mischler,9, ,,605039872, ,5580
+4200075,Borra,Andrin,Andrin Borra,1990-01-30,F,2016-08-13,2020-06-24,1015,borra,9, ,,792353408, ,5580
+4200076,Turkes,Mirel,Mirel Turkes, ,T,2016-09-14,2016-09-14,1029,turkes,9, ,,562474240, ,5580
+4200078,Qovanaj,Hajrim,Hajrim Qovanaj,1994-06-17,F,2017-08-10,2017-08-10,1029,qovanaj,9, ,,1819073152, ,5580
+4200080,Porret,Raphaël,Raphaël Porret,1990-11-29,F,2017-08-10,2019-08-22,1029,porret,9, ,,106883968, ,5580
+4200081,Schmölzer,Michèle,Michèle Schmölzer,1992-12-02,F,2017-08-10,2017-08-10,1029,schmoelzer,9, ,,1119919872, ,5580
+4200083,Sanli,Hüseyin,Hüseyin Sanli,1995-01-04,F,2018-08-09,2018-08-09,1029,sanli,9, ,,788880000, ,5580
+4200084,Dedukic,Mujo,Mujo Dedukic, ,T,2018-08-09,2018-08-09,1029,dedukic,9, ,,826888704, ,5580
+4200086,Jaussi,Jonathan,Jonathan Jaussi,1995-03-26,F,2018-08-09,2018-08-09,1029,jaussi,9, ,,1923817216, ,5580
+4200088,Aebi,Clovis,Clovis Aebi,1994-04-27,F,2019-08-09,2019-08-09,1029,aebi,9, ,,1278323968, ,5580
+4400014,Higler,Dennis,Dennis Higler,1985-09-30,F,2010-02-16,2010-09-04,1026,higler,7, ,,1022479872, ,5560

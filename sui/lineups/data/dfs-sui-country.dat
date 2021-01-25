@@ -1,0 +1,282 @@
+ID,Kz,Bezeichnung,FNFlaggeSmall,DatumNew,DatumUpdate,UserID,KontinentalverbandID,FNWappenMedium,Notiz,FNFlaggeLarge,GID,ToDo,MasterID
+0,???,[unbekannt], ,2004-01-01 00:00:00.000000,2004-01-01 00:00:00.000000,1,0, , , ,0, ,0
+1,ENG,England,dfs_fs_england.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_england.gif, ,dfs_fl_england.gif,1, ,8950
+2,SCO,Schottland,dfs_fs_schottland.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_schottland.gif, ,dfs_fl_schottland.gif,2, ,8950
+3,D,Deutschland,dfs_fs_deutschland.bmp,2004-01-01 00:00:00.000000,2006-10-22 11:36:54.000000,1,6,dfs_vm_deutschland.gif, ,dfs_fl_deutschland.gif,3, ,8950
+4,CZE,Tschechien,dfs_fs_tschechien.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_tschechien.gif,s. auch Notiz zu Tschechoslowakei,dfs_fl_tschechien.gif,4, ,8950
+5,YUG,Jugoslawien,dfs_fs_jugoslawien.bmp,2004-01-01 00:00:00.000000,2006-05-25 21:44:05.000000,1,6,dfs_vm_jugoslawien.gif,Nationalität wird verwendet bei ehem. Spielern Jugoslawiens, wenn sie nach dem Stichtag 1.7.1991 nicht mehr aktiv waren. Ab diesem Stichtag werden folgende Nationalitäten verwendet:
+Bosnien u. Herzegowina
+Kroatien
+Mazedonien
+Serbien u. Montenegro (ab 21.5.2006 getrennt)
+Slowenien,dfs_fl_jugoslawien.gif,5, ,8950
+6,LIB,Libanon,dfs_fs_libanon.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_libanon.gif, ,dfs_fl_libanon.gif,6, ,8950
+7,NED,Niederlande,dfs_fs_niederlande.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_niederlande.gif, ,dfs_fl_niederlande.gif,7, ,8950
+8,AUT,Österreich,dfs_fs_oesterreich.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_oesterreich.gif, ,dfs_fl_oesterreich.gif,8, ,8950
+9,SUI,Schweiz,dfs_fs_schweiz.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_schweiz.gif, ,dfs_fl_schweiz.gif,9, ,8950
+10,PER,Peru,dfs_fs_peru.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,4,dfs_vm_peru.gif, ,dfs_fl_peru.gif,10, ,8950
+11,TUN,Tunesien,dfs_fs_tunesien.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_tunesien.gif, ,dfs_fl_tunesien.gif,11, ,8950
+12,HUN,Ungarn,dfs_fs_ungarn.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_ungarn.gif, ,dfs_fl_ungarn.gif,12, ,8950
+13,DEN,Dänemark,dfs_fs_daenemark.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_daenemark.gif, ,dfs_fl_daenemark.gif,13, ,8950
+14,POL,Polen,dfs_fs_polen.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_polen.gif, ,dfs_fl_polen.gif,14, ,8950
+15,NOR,Norwegen,dfs_fs_norwegen.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_norwegen.gif, ,dfs_fl_norwegen.gif,15, ,8950
+16,TOG,Togo,dfs_fs_togo.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_togo.gif, ,dfs_fl_togo.gif,16, ,8950
+17,ITA,Italien,dfs_fs_italien.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_italien.gif, ,dfs_fl_italien.gif,17, ,8950
+18,FRA,Frankreich,dfs_fs_frankreich.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_frankreich.gif, ,dfs_fl_frankreich.gif,18, ,8950
+19,ROM,Rumänien,dfs_fs_rumaenien.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_rumaenien.gif, ,dfs_fl_rumaenien.gif,19, ,8950
+20,CRO,Kroatien,dfs_fs_kroatien.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_kroatien.gif,s. auch Notiz zu Jugoslawien,dfs_fl_kroatien.gif,20, ,8950
+21,CMR,Kamerun,dfs_fs_kamerun.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_kamerun.gif, ,dfs_fl_kamerun.gif,21, ,8950
+22,ARG,Argentinien,dfs_fs_argentinien.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,4,dfs_vm_argentinien.gif, ,dfs_fl_argentinien.gif,22, ,8950
+23,SWE,Schweden,dfs_fs_schweden.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_schweden.gif, ,dfs_fl_schweden.gif,23, ,8950
+24,EGY,Ägypten,dfs_fs_aegypten.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_aegypten.gif, ,dfs_fl_aegypten.gif,24, ,8950
+25,BRA,Brasilien,dfs_fs_brasilien.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,4,dfs_vm_brasilien.gif, ,dfs_fl_brasilien.gif,25, ,8950
+26,NGA,Nigeria,dfs_fs_nigeria.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_nigeria.gif, ,dfs_fl_nigeria.gif,26, ,8950
+27,GHA,Ghana,dfs_fs_ghana.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_ghana.gif, ,dfs_fl_ghana.gif,27, ,8950
+28,RUS,Russland,dfs_fs_russland.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_russland.gif,s. auch Notiz zu Sowjetunion,dfs_fl_russland.gif,28, ,8950
+29,TUR,Türkei,dfs_fs_tuerkei.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_tuerkei.gif, ,dfs_fl_tuerkei.gif,29, ,8950
+30,GRE,Griechenland,dfs_fs_griechenland.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_griechenland.gif, ,dfs_fl_griechenland.gif,30, ,8950
+31,BIH,Bosnien u. Herzegowina,dfs_fs_bosnien.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_bosnien.gif,s. auch Notiz zu Jugoslawien,dfs_fl_bosnien.gif,31, ,8950
+32,GEO,Georgien,dfs_fs_georgien.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_georgien.gif,s. auch Notiz zu Sowjetunion,dfs_fl_georgien.gif,32, ,8950
+33,PAR,Paraguay,dfs_fs_paraguay.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,4,dfs_vm_paraguay.gif, ,dfs_fl_paraguay.gif,33, ,8950
+34,BUL,Bulgarien,dfs_fs_bulgarien.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_bulgarien.gif, ,dfs_fl_bulgarien.gif,34, ,8950
+35,USA,USA,dfs_fs_usa.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_usa.gif, ,dfs_fl_usa.gif,35, ,8950
+36,ALB,Albanien,dfs_fs_albanien.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_albanien.gif, ,dfs_fl_albanien.gif,36, ,8950
+37,RSA,Südafrika,dfs_fs_suedafrika.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_suedafrika.gif, ,dfs_fl_suedafrika.gif,37, ,8950
+38,IRN,Iran,dfs_fs_iran.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_iran.gif, ,dfs_fl_iran.gif,38, ,8950
+39,AUS,Australien,dfs_fs_australien.bmp,2004-01-01 00:00:00.000000,2006-03-18 12:46:19.000000,1,1,dfs_vm_australien.gif, ,dfs_fl_australien.gif,39, ,8950
+40,URU,Uruguay,dfs_fs_uruguay.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,4,dfs_vm_uruguay.gif, ,dfs_fl_uruguay.gif,40, ,8950
+41,BEL,Belgien,dfs_fs_belgien.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_belgien.gif, ,dfs_fl_belgien.gif,41, ,8950
+42,MLI,Mali,dfs_fs_mali.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_mali.gif, ,dfs_fl_mali.gif,42, ,8950
+43,ISL,Island,dfs_fs_island.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_island.gif, ,dfs_fl_island.gif,43, ,8950
+44,SVK,Slowakei,dfs_fs_slowakei.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_slowakei.gif,s. auch Notiz zu Tschechoslowakei,dfs_fl_slowakei.gif,44, ,8950
+45,CRC,Costa Rica,dfs_fs_costarica.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_costarica.gif, ,dfs_fl_costarica.gif,45, ,8950
+46,ZAM,Sambia,dfs_fs_sambia.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_sambia.gif, ,dfs_fl_sambia.gif,46, ,8950
+47,GUI,Guinea,dfs_fs_guinea.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_guinea.gif, ,dfs_fl_guinea.gif,47, ,8950
+48,MKD,Nordmazedonien,dfs_fs_mazedonien.bmp,2004-01-01 00:00:00.000000,2019-08-30 07:25:01.000000,1,6,dfs_vm_mazedonien.gif,Bis zum 12.2 2019: Republik Mazedonien.
+
+s. auch Notiz zu Jugoslawien,dfs_fl_mazedonien.gif,48, ,8950
+49,ESP,Spanien,dfs_fs_spanien.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_spanien.gif, ,dfs_fl_spanien.gif,49, ,8950
+50,POR,Portugal,dfs_fs_portugal.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_portugal.gif, ,dfs_fl_portugal.gif,50, ,8950
+51,MDA,Moldawien,dfs_fs_moldawien.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_moldawien.gif,s. auch Notiz zu Sowjetunion,dfs_fl_moldawien.gif,51, ,8950
+52,CHN,China,dfs_fs_china.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_china.gif, ,dfs_fl_china.gif,52, ,8950
+53,NAM,Namibia,dfs_fs_namibia.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_namibia.gif, ,dfs_fl_namibia.gif,53, ,8950
+54,FIN,Finnland,dfs_fs_finnland.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_finnland.gif, ,dfs_fl_finnland.gif,54, ,8950
+55,ISR,Israel,dfs_fs_israel.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_israel.gif, ,dfs_fl_israel.gif,55, ,8950
+56,BFA,Burkina Faso,dfs_fs_burkinafaso.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_burkinafaso.gif, ,dfs_fl_burkinafaso.gif,56, ,8950
+57,LTU,Litauen,dfs_fs_litauen.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_litauen.gif,s. auch Notiz zu Sowjetunion,dfs_fl_litauen.gif,57, ,8950
+58,SVN,Slowenien,dfs_fs_slowenien.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_slowenien.gif,s. auch Notiz zu Jugoslawien,dfs_fl_slowenien.gif,58, ,8950
+59,SEN,Senegal,dfs_fs_senegal.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_senegal.gif, ,dfs_fl_senegal.gif,59, ,8950
+60,LUX,Luxemburg,dfs_fs_luxemburg.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_luxemburg.gif, ,dfs_fl_luxemburg.gif,60, ,8950
+61,MAR,Marokko,dfs_fs_marokko.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_marokko.gif, ,dfs_fl_marokko.gif,61, ,8950
+62,WAL,Wales,dfs_fs_wales.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_wales.gif, ,dfs_fl_wales.gif,62, ,8950
+63,BLR,Weißrussland,dfs_fs_weissrussland.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_weissrussland.gif,s. auch Notiz zu Sowjetunion,dfs_fl_weissrussland.gif,63, ,8950
+64,UKR,Ukraine,dfs_fs_ukraine.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_ukraine.gif,s. auch Notiz zu Sowjetunion,dfs_fl_ukraine.gif,64, ,8950
+65,JPN,Japan,dfs_fs_japan.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_japan.gif, ,dfs_fl_japan.gif,65, ,8950
+66,IRL,Irland,dfs_fs_irland.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_irland.gif, ,dfs_fl_irland.gif,66, ,8950
+67,MLT,Malta,dfs_fs_malta.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_malta.gif, ,dfs_fl_malta.gif,67, ,8950
+68,BEN,Benin,dfs_fs_benin.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_benin.gif, ,dfs_fl_benin.gif,68, ,8950
+69,COL,Kolumbien,dfs_fs_kolumbien.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,4,dfs_vm_kolumbien.gif, ,dfs_fl_kolumbien.gif,69, ,8950
+70,CGO,Kongo,dfs_fs_kongorepublik.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_kongorepublik.gif, ,dfs_fl_kongorepublik.gif,70, ,8950
+71,KOR,Südkorea,dfs_fs_suedkorea.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_suedkorea.gif, ,dfs_fl_suedkorea.gif,71, ,8950
+72,CAN,Kanada,dfs_fs_kanada.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_kanada.gif, ,dfs_fl_kanada.gif,72, ,8950
+74,TRI,Trinidad u. Tobago,dfs_fs_trinidad.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_trinidad.gif, ,dfs_fl_trinidad.gif,74, ,8950
+75,NZL,Neuseeland,dfs_fs_neuseeland.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,5,dfs_vm_neuseeland.gif, ,dfs_fl_neuseeland.gif,75, ,8950
+76,ANG,Angola,dfs_fs_angola.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_angola.gif, ,dfs_fl_angola.gif,76, ,8950
+77,DDR,DDR,dfs_fs_ddr.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_ddr.gif,Nationalität wird verwendet bei ehem. DDR-Spielern, wenn sie nach der Vereinigung Deutschlands am 3.10.1990 nicht mehr aktiv waren. Ab diesem Stichtag wird Nationalität Deutschland verwendet.,dfs_fl_ddr.gif,77, ,8950
+78,CHI,Chile,dfs_fs_chile.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,4,dfs_vm_chile.gif, ,dfs_fl_chile.gif,78, ,8950
+79,EST,Estland,dfs_fs_estland.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_estland.gif,s. auch Notiz zu Sowjetunion,dfs_fl_estland.gif,79, ,8950
+80,ARM,Armenien,dfs_fs_armenien.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_armenien.gif,s. auch Notiz zu Sowjetunion,dfs_fl_armenien.gif,80, ,8950
+81,SYR,Syrien,dfs_fs_syrien.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_syrien.gif, ,dfs_fl_syrien.gif,81, ,8950
+82,CIV,Elfenbeinküste,dfs_fs_elfenbeinkueste.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_elfenbeinkueste.gif, ,dfs_fl_elfenbeinkueste.gif,82, ,8950
+83,LBR,Liberia,dfs_fs_liberia.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_liberia.gif, ,dfs_fl_liberia.gif,83, ,8950
+84,SLE,Sierra Leone,dfs_fs_sierraleone.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_sierraleone.gif, ,dfs_fl_sierraleone.gif,84, ,8950
+85,GAM,Gambia,dfs_fs_gambia.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_gambia.gif, ,dfs_fl_gambia.gif,85, ,8950
+86,HKG,Hongkong,dfs_fs_hongkong.bmp,2004-01-01 00:00:00.000000,2007-08-04 19:18:23.000000,1,1,dfs_vm_hongkong.gif, ,dfs_fl_hongkong.gif,86, ,8950
+87,DMA,Dominica,dfs_fs_domenica.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_domenica.gif, ,dfs_fl_domenica.gif,87, ,8950
+88,HAI,Haiti,dfs_fs_haiti.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_haiti.gif, ,dfs_fl_haiti.gif,88, ,8950
+89,MEX,Mexiko,dfs_fs_mexiko.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_mexiko.gif, ,dfs_fl_mexiko.gif,89, ,8950
+90,VEN,Venezuela,dfs_fs_venezuela.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,4,dfs_vm_venezuela.gif, ,dfs_fl_venezuela.gif,90, ,8950
+91,ZIM,Simbabwe,dfs_fs_zimbabwe.bmp,2004-01-01 00:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_zimbabwe.gif, ,dfs_fl_zimbabwe.gif,91, ,8950
+92,ECU,Ecuador,dfs_fs_equador.bmp,2004-07-29 18:43:30.000000,2005-12-03 00:00:00.000000,1002,4,dfs_vm_equador.gif, ,dfs_fl_equador.gif,92, ,8950
+93,JAM,Jamaika,dfs_fs_jamaika.bmp,2004-07-29 18:43:59.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_jamaika.gif, ,dfs_fl_jamaika.gif,93, ,8950
+94,LVA,Lettland,dfs_fs_lettland.bmp,2004-07-29 18:44:35.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_lettland.gif,s. auch Notiz zu Sowjetunion,dfs_fl_lettland.gif,94, ,8950
+95,NIR,Nordirland,dfs_fs_nordirland.bmp,2004-07-29 18:45:02.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_nordirland.gif, ,dfs_fl_nordirland.gif,95, ,8950
+96,ALG,Algerien,dfs_fs_algerien.bmp,2004-07-29 18:46:38.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_algerien.gif, ,dfs_fl_algerien.gif,96, ,8950
+97,COD,Kongo, DR,dfs_fs_kongodr.bmp,2004-08-28 09:00:00.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_kongodr.gif,ehemals Zaire,dfs_fl_kongodr.gif,97, ,8950
+98,NCL,Neukaledonien,dfs_fs_neukaledonien.bmp,2004-09-17 19:05:29.000000,2005-12-03 00:00:00.000000,1,5,dfs_vm_neukaledonien.gif, ,dfs_fl_neukaledonien.gif,98, ,8950
+99,ASA,Amerikanisch-Samoa,dfs_fs_amerikanisch_samoa.bmp,2004-09-17 19:06:36.000000,2005-12-03 00:00:00.000000,1,5,dfs_vm_amerikanisch_samoa.gif, ,dfs_fl_amerikanisch_samoa.gif,99, ,8950
+100,AND,Andorra,dfs_fs_andorra.bmp,2004-09-17 19:07:25.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_andorra.gif, ,dfs_fl_andorra.gif,100, ,8950
+101,AZE,Aserbaidschan,dfs_fs_aserbaidschan.bmp,2004-09-17 19:07:45.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_aserbaidschan.gif,s. auch Notiz zu Sowjetunion,dfs_fl_aserbaidschan.gif,101, ,8950
+102,BHR,Bahrain,dfs_fs_bahrain.bmp,2004-09-17 19:08:08.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_bahrain.gif, ,dfs_fl_bahrain.gif,102, ,8950
+103,BOL,Bolivien,dfs_fs_bolivien.bmp,2004-09-17 19:08:23.000000,2005-12-03 00:00:00.000000,1,4,dfs_vm_bolivien.gif, ,dfs_fl_bolivien.gif,103, ,8950
+104,COK,Cookinseln,dfs_fs_cook_inseln.bmp,2004-09-17 19:08:47.000000,2005-12-03 00:00:00.000000,1,5,dfs_vm_cook_inseln.gif, ,dfs_fl_cook_inseln.gif,104, ,8950
+105,CYP,Zypern,dfs_fs_zypern.bmp,2004-09-17 19:09:05.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_zypern.gif, ,dfs_fl_zypern.gif,105, ,8950
+106,FRO,Färöer,dfs_fs_faroer_inseln.bmp,2004-09-17 19:09:41.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_faroer_inseln.gif, ,dfs_fl_faroer_inseln.gif,106, ,8950
+107,FIJ,Fidschi,dfs_fs_fidschi_inseln.bmp,2004-09-17 19:10:08.000000,2005-12-03 00:00:00.000000,1,5,dfs_vm_fidschi_inseln.gif, ,dfs_fl_fidschi_inseln.gif,107, ,8950
+108,TAH,Tahiti,dfs_fs_franz_polynesien.bmp,2004-09-17 19:10:34.000000,2006-03-18 10:21:17.000000,1,5,dfs_vm_franz_polynesien.gif,zu Französisch Polynesien,dfs_fl_franz_polynesien.gif,108, ,8950
+109,GUA,Guatemala,dfs_fs_guatemala.bmp,2004-09-17 19:11:09.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_guatemala.gif, ,dfs_fl_guatemala.gif,109, ,8950
+110,HON,Honduras,dfs_fs_honduras.bmp,2004-09-17 19:11:40.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_honduras.gif, ,dfs_fl_honduras.gif,110, ,8950
+111,IDN,Indonesien,dfs_fs_indonesien.bmp,2004-09-17 19:11:53.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_indonesien.gif, ,dfs_fl_indonesien.gif,111, ,8950
+112,IND,Indien,dfs_fs_indien.bmp,2004-09-17 19:12:08.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_indien.gif, ,dfs_fl_indien.gif,112, ,8950
+113,JOR,Jordanien,dfs_fs_jordanien.bmp,2004-09-17 19:12:25.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_jordanien.gif, ,dfs_fl_jordanien.gif,113, ,8950
+114,KAZ,Kasachstan,dfs_fs_kasachstan.bmp,2004-09-17 19:12:54.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_kasachstan.gif,s. auch Notiz zu Sowjetunion,dfs_fl_kasachstan.gif,114, ,8950
+115,KGZ,Kirgisistan,dfs_fs_kirgisien.bmp,2004-09-17 19:13:23.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_kirgisien.gif,s. auch Notiz zu Sowjetunion,dfs_fl_kirgisien.gif,115, ,8950
+116,KSA,Saudi-Arabien,dfs_fs_saudi_arabien.bmp,2004-09-17 19:14:34.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_saudi_arabien.gif, ,dfs_fl_saudi_arabien.gif,116, ,8950
+117,KUW,Kuwait,dfs_fs_kuwait.bmp,2004-09-17 19:15:10.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_kuwait.gif, ,dfs_fl_kuwait.gif,117, ,8950
+118,LAO,Laos,dfs_fs_laos.bmp,2004-09-17 19:15:24.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_laos.gif, ,dfs_fl_laos.gif,118, ,8950
+119,LIE,Liechtenstein,dfs_fs_liechtenstein.bmp,2004-09-17 19:15:44.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_liechtenstein.gif, ,dfs_fl_liechtenstein.gif,119, ,8950
+120,MDV,Malediven,dfs_fs_malediven.bmp,2004-09-17 19:16:20.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_malediven.gif, ,dfs_fl_malediven.gif,120, ,8950
+121,MAS,Malaysia,dfs_fs_malaysia.bmp,2004-09-17 19:16:44.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_malaysia.gif, ,dfs_fl_malaysia.gif,121, ,8950
+122,PRK,Nordkorea,dfs_fs_nordkorea.bmp,2004-09-17 19:17:06.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_nordkorea.gif, ,dfs_fl_nordkorea.gif,122, ,8950
+123,OMA,Oman,dfs_fs_oman.bmp,2004-09-17 19:17:29.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_oman.gif, ,dfs_fl_oman.gif,123, ,8950
+124,PAN,Panama,dfs_fs_panama.bmp,2004-09-17 19:17:45.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_panama.gif, ,dfs_fl_panama.gif,124, ,8950
+125,PLE,Palästina,dfs_fs_palaestina.bmp,2004-09-17 19:18:02.000000,2011-08-13 11:28:32.000000,1,1,dfs_vm_palaestina.gif, ,dfs_fl_palaestina.gif,125, ,8950
+126,PNG,Papua-Neuguinea,dfs_fs_papua_neuguinea.bmp,2004-09-17 19:18:25.000000,2005-12-03 00:00:00.000000,1,5,dfs_vm_papua_neuguinea.gif, ,dfs_fl_papua_neuguinea.gif,126, ,8950
+127,QAT,Katar,dfs_fs_katar.bmp,2004-09-17 19:18:47.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_katar.gif, ,dfs_fl_katar.gif,127, ,8950
+128,SLV,El Salvador,dfs_fs_el_salvador.bmp,2004-09-17 19:19:14.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_el_salvador.gif, ,dfs_fl_el_salvador.gif,128, ,8950
+129,SIN,Singapur,dfs_fs_singapur.bmp,2004-09-17 19:19:32.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_singapur.gif, ,dfs_fl_singapur.gif,129, ,8950
+130,SKN,St. Kitts u. Nevis,dfs_fs_stkittis_nevis.bmp,2004-09-17 19:20:06.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_stkittis_nevis.gif, ,dfs_fl_stkittis_nevis.gif,130, ,8950
+131,SOL,Salomonen,dfs_fs_solomonen.bmp,2004-09-17 19:20:29.000000,2005-12-03 00:00:00.000000,1,5,dfs_vm_solomonen.gif, ,dfs_fl_solomonen.gif,131, ,8950
+132,SMR,San Marino,dfs_fs_san_marino.bmp,2004-09-17 19:20:42.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_san_marino.gif, ,dfs_fl_san_marino.gif,132, ,8950
+133,SRI,Sri Lanka,dfs_fs_sri_lanka.bmp,2004-09-17 19:21:02.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_sri_lanka.gif, ,dfs_fl_sri_lanka.gif,133, ,8950
+134,VIN,St. Vincent u. die Grenadinen,dfs_fs_stvincent_grenadinen.bmp,2004-09-17 19:22:51.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_stvincent_grenadinen.gif, ,dfs_fl_stvincent_grenadinen.gif,134, ,8950
+135,TJK,Tadschikistan,dfs_fs_tadschikistan.bmp,2004-09-17 19:23:17.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_tadschikistan.gif,s. auch Notiz zu Sowjetunion,dfs_fl_tadschikistan.gif,135, ,8950
+136,TGA,Tonga,dfs_fs_tonga.bmp,2004-09-17 19:23:36.000000,2005-12-03 00:00:00.000000,1,5,dfs_vm_tonga.gif, ,dfs_fl_tonga.gif,136, ,8950
+137,TKM,Turkmenistan,dfs_fs_turkmenistan.bmp,2004-09-17 19:24:03.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_turkmenistan.gif,s. auch Notiz zu Sowjetunion,dfs_fl_turkmenistan.gif,137, ,8950
+138,TPE,Taiwan,dfs_fs_taiwan.bmp,2004-09-17 19:24:21.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_taiwan.gif, ,dfs_fl_taiwan.gif,138, ,8950
+139,UAE,Vereinigte Arabische Emirate,dfs_fs_vaemirate.bmp,2004-09-17 19:25:01.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_vaemirate.gif, ,dfs_fl_vaemirate.gif,139, ,8950
+140,UZB,Usbekistan,dfs_fs_usbekistan.bmp,2004-09-17 19:25:39.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_usbekistan.gif,s. auch Notiz zu Sowjetunion,dfs_fl_usbekistan.gif,140, ,8950
+141,VAN,Vanuatu,dfs_fs_vanuatu.bmp,2004-09-17 19:26:00.000000,2005-12-03 00:00:00.000000,1,5,dfs_vm_vanuatu.gif, ,dfs_fl_vanuatu.gif,141, ,8950
+142,VIE,Vietnam,dfs_fs_vietnam.bmp,2004-09-17 19:26:14.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_vietnam.gif, ,dfs_fl_vietnam.gif,142, ,8950
+143,SAM,Samoa,dfs_fs_westsamoa.bmp,2004-09-17 19:26:32.000000,2005-12-03 00:00:00.000000,1,5,dfs_vm_westsamoa.gif, ,dfs_fl_westsamoa.gif,143, ,8950
+144,YEM,Jemen,dfs_fs_jemen.bmp,2004-09-17 19:26:44.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_jemen.gif, ,dfs_fl_jemen.gif,144, ,8950
+145,GRN,Grenada,dfs_fs_grenada.bmp,2004-09-17 20:04:33.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_grenada.gif, ,dfs_fl_grenada.gif,145, ,8950
+146,THA,Thailand,dfs_fs_thailand.bmp,2004-09-18 15:04:04.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_thailand.gif, ,dfs_fl_thailand.gif,146, ,8950
+147,AFG,Afghanistan,dfs_fs_afghanistan.bmp,2004-10-30 18:41:45.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_afghanistan.gif, ,dfs_fl_afghanistan.gif,147, ,8950
+148,VIR,Amerik. Jungferninseln,dfs_fs_amerikanische_jungferninseln.bmp,2004-10-30 18:43:25.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_amerikanische_jungferninseln.gif, ,dfs_fl_amerikanische_jungferninseln.gif,148, ,8950
+149,AIA,Anguilla,dfs_fs_anguilla.bmp,2004-10-30 18:44:53.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_anguilla.gif, ,dfs_fl_anguilla.gif,149, ,8950
+150,ATG,Antigua u. Barbuda,dfs_fs_antigua.bmp,2004-10-30 18:45:34.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_antigua.gif, ,dfs_fl_antigua.gif,150, ,8950
+151,ARU,Aruba,dfs_fs_aruba.bmp,2004-10-30 18:46:09.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_aruba.gif, ,dfs_fl_aruba.gif,151, ,8950
+152,BAH,Bahamas,dfs_fs_bahamas.bmp,2004-10-30 18:46:58.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_bahamas.gif, ,dfs_fl_bahamas.gif,152, ,8950
+153,BAN,Bangladesch,dfs_fs_bangladesch.bmp,2004-10-30 18:47:28.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_bangladesch.gif, ,dfs_fl_bangladesch.gif,153, ,8950
+154,BRB,Barbados,dfs_fs_barbados.bmp,2004-10-30 18:47:49.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_barbados.gif, ,dfs_fl_barbados.gif,154, ,8950
+155,BLZ,Belize,dfs_fs_belize.bmp,2004-10-30 18:49:15.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_belize.gif, ,dfs_fl_belize.gif,155, ,8950
+156,BER,Bermuda,dfs_fs_bermuda.bmp,2004-10-30 18:49:50.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_bermuda.gif, ,dfs_fl_bermuda.gif,156, ,8950
+157,BHU,Bhutan,dfs_fs_bhutan.bmp,2004-10-30 18:50:11.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_bhutan.gif, ,dfs_fl_bhutan.gif,157, ,8950
+158,BOT,Botsuana,dfs_fs_botsuana.bmp,2004-10-30 18:50:55.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_botsuana.gif, ,dfs_fl_botsuana.gif,158, ,8950
+159,VGB,Britische Jungferninseln,dfs_fs_britische_jungferninseln.bmp,2004-10-30 18:51:43.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_britische_jungferninseln.gif, ,dfs_fl_britische_jungferninseln.gif,159, ,8950
+160,BRU,Brunei Darussalam,dfs_fs_brunei_darussalam.bmp,2004-10-30 18:52:17.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_brunei_darussalam.gif, ,dfs_fl_brunei_darussalam.gif,160, ,8950
+161,BDI,Burundi,dfs_fs_burundi.bmp,2004-10-30 18:52:53.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_burundi.gif, ,dfs_fl_burundi.gif,161, ,8950
+162,CAY,Kaimaninseln,dfs_fs_kaimaninseln.bmp,2004-10-30 18:53:23.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_kaimaninseln.gif, ,dfs_fl_kaimaninseln.gif,162, ,8950
+164,DOM,Dominikanische Republik,dfs_fs_dominikanische_republik.bmp,2004-10-30 19:00:46.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_dominikanische_republik.gif, ,dfs_fl_dominikanische_republik.gif,164, ,8950
+165,DJI,Dschibuti,dfs_fs_dschibuti.bmp,2004-10-30 19:01:14.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_dschibuti.gif, ,dfs_fl_dschibuti.gif,165, ,8950
+166,ERI,Eritrea,dfs_fs_eritrea.bmp,2004-10-30 19:02:55.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_eritrea.gif, ,dfs_fl_eritrea.gif,166, ,8950
+167,GAB,Gabun,dfs_fs_gabun.bmp,2004-10-30 19:04:38.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_gabun.gif, ,dfs_fl_gabun.gif,167, ,8950
+168,GUM,Guam,dfs_fs_guam.bmp,2004-10-30 19:05:49.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_guam.gif, ,dfs_fl_guam.gif,168, ,8950
+169,GUY,Guyana,dfs_fs_guyana.bmp,2004-10-30 19:06:22.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_guyana.gif, ,dfs_fl_guyana.gif,169, ,8950
+170,GNB,Guinea-Bissau,dfs_fs_guinea_bissau.bmp,2004-10-30 19:06:57.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_guinea_bissau.gif, ,dfs_fl_guinea_bissau.gif,170, ,8950
+171,IRQ,Irak,dfs_fs_irak.bmp,2004-10-30 19:07:43.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_irak.gif, ,dfs_fl_irak.gif,171, ,8950
+172,CAM,Kambodscha,dfs_fs_kambodscha.bmp,2004-10-30 19:09:16.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_kambodscha.gif, ,dfs_fl_kambodscha.gif,172, ,8950
+173,CPV,Kap Verde,dfs_fs_kap_verde.bmp,2004-10-30 19:09:53.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_kap_verde.gif, ,dfs_fl_kap_verde.gif,173, ,8950
+174,KEN,Kenia,dfs_fs_kenia.bmp,2004-10-30 19:10:21.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_kenia.gif, ,dfs_fl_kenia.gif,174, ,8950
+175,CUB,Kuba,dfs_fs_kuba.bmp,2004-10-30 19:19:02.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_kuba.gif, ,dfs_fl_kuba.gif,175, ,8950
+176,LES,Lesotho,dfs_fs_lesotho.bmp,2004-10-30 19:19:26.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_lesotho.gif, ,dfs_fl_lesotho.gif,176, ,8950
+177,LBY,Libyen,dfs_fs_libyen.bmp,2004-10-30 19:20:32.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_libyen.gif, ,dfs_fl_libyen.gif,177, ,8950
+178,MAC,Macao,dfs_fs_macao.bmp,2004-10-30 19:21:47.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_macao.gif,Zürich, 15. Februar 2005
+
+Das FIFA-Dringlichkeitskomitee hat den Fussballverband von Macao (MFA) angesichts der massiven Einmischung seitens der politischen Behörden der Sonderverwaltung von Macao der Volksrepublik China, die ein klarer Verstoss gegen Art. 17 der FIFA-Statuten darstellt, mit sofortiger Wirkung suspendiert.
+Kraft dieses Entscheids sind alle internationalen Fussballaktivitäten des MFA (Spiele ausländischer Teams in Macao und Partien von Teams aus Macao im Ausland, Teilnahme an regionalen Turnieren, Ernennung von Offiziellen aus Macao etc.) bis auf weiteres suspendiert.,dfs_fl_macao.gif,178, ,8950
+179,MAD,Madagaskar,dfs_fs_madagaskar.bmp,2004-10-30 19:22:13.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_madagaskar.gif, ,dfs_fl_madagaskar.gif,179, ,8950
+180,MWI,Malawi,dfs_fs_malawi.bmp,2004-10-30 19:22:37.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_malawi.gif, ,dfs_fl_malawi.gif,180, ,8950
+181,MTN,Mauretanien,dfs_fs_mauretanien.bmp,2004-10-30 19:23:54.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_mauretanien.gif, ,dfs_fl_mauretanien.gif,181, ,8950
+182,MRI,Mauritius,dfs_fs_mauritius.bmp,2004-10-30 19:24:10.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_mauritius.gif, ,dfs_fl_mauritius.gif,182, ,8950
+183,MSR,Montserrat,dfs_fs_montserrat.bmp,2004-10-30 19:24:34.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_montserrat.gif, ,dfs_fl_montserrat.gif,183, ,8950
+184,MOZ,Mosambik,dfs_fs_mosambik.bmp,2004-10-30 19:24:50.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_mosambik.gif, ,dfs_fl_mosambik.gif,184, ,8950
+185,MYA,Myanmar,dfs_fs_myanmar.bmp,2004-10-30 19:25:10.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_myanmar.gif, ,dfs_fl_myanmar.gif,185, ,8950
+186,NEP,Nepal,dfs_fs_nepal.bmp,2004-10-30 19:25:29.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_nepal.gif, ,dfs_fl_nepal.gif,186, ,8950
+187,NCA,Nicaragua,dfs_fs_nicaragua.bmp,2004-10-30 19:25:53.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_nicaragua.gif, ,dfs_fl_nicaragua.gif,187, ,8950
+188,ANT,Niederl. Antillen,dfs_fs_niederlaendische_antillen.bmp,2004-10-30 19:26:23.000000,2011-05-17 09:53:30.000000,1,3,dfs_vm_niederlaendische_antillen.gif,Die Nationalmannschaft der Niederländischen Antillen war die Nationalmannschaft der karibischen Inselgruppe, die als Niederländische Antillen autonomer Teil des Königreichs der Niederlande war.
+Offizieller Nachfolger seit 10.10.2010 ist die Nationalmannschaft von Curaçao.,dfs_fl_niederlaendische_antillen.gif,188, ,8950
+189,NIG,Niger,dfs_fs_niger.bmp,2004-10-30 19:26:47.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_niger.gif, ,dfs_fl_niger.gif,189, ,8950
+190,PAK,Pakistan,dfs_fs_pakistan.bmp,2004-10-30 19:28:37.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_pakistan.gif, ,dfs_fl_pakistan.gif,190, ,8950
+191,PHI,Philippinen,dfs_fs_philippinen.bmp,2004-10-30 19:29:25.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_philippinen.gif, ,dfs_fl_philippinen.gif,191, ,8950
+192,PUR,Puerto Rico,dfs_fs_puerto_rico.bmp,2004-10-30 19:29:54.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_puerto_rico.gif, ,dfs_fl_puerto_rico.gif,192, ,8950
+193,RWA,Ruanda,dfs_fs_ruanda.bmp,2004-10-30 19:30:36.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_ruanda.gif, ,dfs_fl_ruanda.gif,193, ,8950
+194,SEY,Seychellen,dfs_fs_seychellen.bmp,2004-10-30 19:34:15.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_seychellen.gif, ,dfs_fl_seychellen.gif,194, ,8950
+195,SOM,Somalia,dfs_fs_somalia.bmp,2004-10-30 19:35:40.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_somalia.gif, ,dfs_fl_somalia.gif,195, ,8950
+196,LCA,St. Lucia,dfs_fs_stlucia.bmp,2004-10-30 19:36:40.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_stlucia.gif, ,dfs_fl_stlucia.gif,196, ,8950
+197,SUD,Sudan,dfs_fs_sudan.bmp,2004-10-30 19:37:15.000000,2011-07-08 10:46:00.000000,1,2,dfs_vm_sudan.gif,s. auch Notiz zu Südsudan,dfs_fl_sudan.gif,197, ,8950
+198,SUR,Suriname,dfs_fs_suriname.bmp,2004-10-30 19:37:38.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_suriname.gif, ,dfs_fl_suriname.gif,198, ,8950
+199,SWZ,Swasiland,dfs_fs_swasiland.bmp,2004-10-30 19:38:01.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_swasiland.gif, ,dfs_fl_swasiland.gif,199, ,8950
+200,STP,São Tomé u. Príncipe,dfs_fs_sao_tome.bmp,2004-10-30 19:39:08.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_sao_tome.gif, ,dfs_fl_sao_tome.gif,200, ,8950
+202,TAN,Tansania,dfs_fs_tansania.bmp,2004-10-30 19:40:51.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_tansania.gif, ,dfs_fl_tansania.gif,202, ,8950
+203,CHA,Tschad,dfs_fs_tschad.bmp,2004-10-30 19:41:47.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_tschad.gif, ,dfs_fl_tschad.gif,203, ,8950
+204,TCA,Turks- u. Caicos-Inseln,dfs_fs_turks_caicos_inseln.bmp,2004-10-30 19:42:59.000000,2005-12-03 00:00:00.000000,1,3,dfs_vm_turks_caicos_inseln.gif, ,dfs_fl_turks_caicos_inseln.gif,204, ,8950
+205,UGA,Uganda,dfs_fs_uganda.bmp,2004-10-30 19:43:25.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_uganda.gif, ,dfs_fl_uganda.gif,205, ,8950
+206,CTA,Zentralafrikanische Republik,dfs_fs_zentralafrikanische_republik.bmp,2004-10-30 19:45:39.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_zentralafrikanische_republik.gif, ,dfs_fl_zentralafrikanische_republik.gif,206, ,8950
+207,ETH,Äthiopien,dfs_fs_aethiopien.bmp,2004-10-30 19:46:30.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_aethiopien.gif, ,dfs_fl_aethiopien.gif,207, ,8950
+208,EQG,Äquatorialguinea,dfs_fs_aequatorialguinea.bmp,2004-10-30 19:47:06.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_aequatorialguinea.gif, ,dfs_fl_aequatorialguinea.gif,208, ,8950
+209,MGL,Mongolei,dfs_fs_mongolei.bmp,2005-01-30 01:07:02.000000,2005-12-03 00:00:00.000000,1,1,dfs_vm_mongolei.gif, ,dfs_fl_mongolei.gif,209, ,8950
+210,SNM,Serbien u. Montenegro,dfs_fs_serbien_montenegro.bmp,2005-02-20 10:00:00.000000,2006-05-25 18:14:50.000000,1,6,dfs_vm_serbien_montenegro.gif,Nationalität wird verwendet bei ehem. Spielern Serbien u. Montenegros, wenn sie nach dem Stichtag 21.5.2006 nicht mehr aktiv waren. Ab diesem Stichtag werden folgende Nationalitäten verwendet:
+Serbien
+Montenegro
+
+s. auch Notiz zu Jugoslawien,dfs_fl_serbien_montenegro.gif,210, ,8950
+211,URS,Sowjetunion,dfs_fs_sowjetunion.bmp,2005-02-20 10:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_sowjetunion.gif,Nationalität wird verwendet bei ehem. Spielern der Sowjetunion, wenn sie nach folgenden Stichtagen nicht mehr aktiv waren. Ab diesen Stichtagen werden die angegebenen Nationalitäten verwendet.
+
+1.3.1990:
+Litauen
+
+1.8.1991:
+Estland
+Lettland
+
+1.1.1992:
+Armenien
+Aserbaidschan
+Georgien
+Kasachstan
+Kirgisien
+Moldawien
+Russland
+Tadschikistan
+Turkmenistan
+Ukraine
+Usbekistan
+Weißrussland,dfs_fl_sowjetunion.gif,211, ,8950
+212,CSV,Tschechoslowakei,dfs_fs_tschechoslowakei.bmp,2005-02-20 10:00:00.000000,2005-12-03 00:00:00.000000,1,6,dfs_vm_tschechoslowakei.gif,Nationalität wird verwendet bei ehem. Spielern der Tschechoslowakei, wenn sie nach dem Stichtag 1.1.1993 nicht mehr aktiv waren. Ab diesem Stichtag werden folgende Nationalitäten verwendet:
+Tschechien
+Slowakei,dfs_fl_tschechoslowakei.gif,212, ,8950
+213,COM,Komoren,dfs_fs_komoren.bmp,2005-11-01 00:38:52.000000,2005-12-03 00:00:00.000000,1,2,dfs_vm_komoren.gif, ,dfs_fl_komoren.gif,213, ,8950
+214,TLS,Osttimor,dfs_fs_timor_leste.bmp,2005-11-01 00:39:51.000000,2007-08-04 19:19:04.000000,1,1,dfs_vm_timor_leste.gif, ,dfs_fl_timor_leste.gif,214, ,8950
+215,SRB,Serbien,dfs_fs_serbien.bmp,2006-05-25 18:00:00.000000,2007-10-03 17:46:58.000000,1,6,dfs_vm_serbien.gif,s. auch Notiz zu Serbien u. Montenegro,dfs_fl_serbien.gif,215, ,8950
+216,MNE,Montenegro,dfs_fs_montenegro.bmp,2006-05-25 18:00:00.000000,2011-08-13 11:28:20.000000,1,6,dfs_vm_montenegro.gif,s. auch Notiz zu Serbien u. Montenegro,dfs_fl_montenegro.gif,216, ,8950
+217,GLP,Guadeloupe,dfs_fs_guadeloupe.bmp,2007-08-05 15:01:20.000000,2007-08-05 15:09:05.000000,1,3,dfs_vm_guadeloupe.gif,Kein FIFA-Mitglied.
+Wurde als CONCACAF-Mitglied aufgenommen.,dfs_fl_guadeloupe.gif,217, ,8950
+218,DSL,Saarland,dfs_fs_saarland.bmp,2007-08-05 15:05:25.000000,2008-03-02 23:29:41.000000,1,6,dfs_vm_saarland.gif,In den Jahren von 1950 bis 1956 war das französisch besetzte Saarland eigenständiges Mitglied des Weltfußballverbandes FIFA.,dfs_fl_saarland.gif,218, ,8950
+219,GRL,Grönland,dfs_fs_groenland.bmp,2007-09-16 17:33:22.000000,2007-09-16 17:33:22.000000,1,6,dfs_vm_groenland.gif,Der grönländische Fußballverband ist noch nicht offiziell von FIFA und UEFA anerkannt.,dfs_fl_groenland.gif,219, ,8950
+220,TUV,Tuvalu,dfs_fs_tuvalu.bmp,2007-10-20 18:26:04.000000,2007-10-21 22:50:37.000000,1,5,dfs_vm_tuvalu.gif,Der Verband ist noch nicht offiziell von der FIFA anerkannt.,dfs_fl_tuvalu.gif,220, ,8950
+221,MTQ,Martinique,dfs_fs_martinique.bmp,2007-12-26 11:40:42.000000,2007-12-26 11:40:42.000000,1,3,dfs_vm_martinique.gif,Martinique ist ein vollintegrierter Teil des französischen Staates. Die Aufnahme erfolgt hier, weil ein eigener Fußballverband innerhalb CONCACAF existiert.,dfs_fl_martinique.gif,221, ,8950
+222,CIS,GUS,dfs_fs_gus.bmp,2008-01-19 13:12:19.000000,2008-01-19 13:12:19.000000,1,6,dfs_vm_gus.gif,Gemeinschaft Unabhängiger Staaten (GUS) (engl. Commonwealth of Independent States (CIS)) bezeichnet den Zusammenschluss verschiedener Nachfolgestaaten der Sowjetunion seit dem 8.12.1991.
+
+GUS wird hier aufgeführt, weil sie nach dem Zerfall der Sowjetunion Ende 1991 kurzzeitig deren Nachfolge antrat (jedoch bereits ohne Spieler aus den drei baltischen Republiken).,dfs_fl_gus.gif,222, ,8950
+223,YMD,Südjemen,dfs_fs_suedjemen.bmp,2008-03-18 06:43:00.000000,2008-03-18 06:43:00.000000,1,1,dfs_vm_suedjemen.gif,1967 bis 1990,dfs_fl_suedjemen.gif,223, ,8950
+224,SVI,Südvietnam,dfs_fs_suedvietnam.bmp,2008-03-18 06:43:00.000000,2008-03-18 06:43:00.000000,1,1,dfs_vm_suedvietnam.gif,1954 bis 1976,dfs_fl_suedvietnam.gif,224, ,8950
+225,KOS,Kosovo,dfs_fs_kosovo.bmp,2008-03-21 12:20:53.000000,2016-05-15 18:45:53.000000,1,6,dfs_vm_kosovo.gif,Löste sich am 17.2.2008 von Serbien ab und erklärte die Unabhängigkeit.
+
+Am 13.4.2014 erlaubte die FIFA dem Kosovo, Freundschaftsspiele gegen FIFA-Mitgliedsverbände zu bestreiten. Das Freunschaftsspiel gegen Haiti am 5.3.2014 wird als erstes offizielles Länderspiel des Kosovo angesehen.
+
+Am 13.5.2016 Aufnahme in die FIFA.,dfs_fl_kosovo.gif,225, ,8950
+226,CUW,Curaçao,dfs_fs_curacao.bmp,2011-05-17 14:00:00.000000,2011-05-17 14:00:00.000000,1,3,dfs_vm_curacao.gif,s. auch Notiz zu Niederländische Antillen,dfs_fl_curacao.gif,226, ,8950
+227,SXM,Sint Maarten,dfs_fs_sint_maarten.bmp,2011-05-17 14:00:00.000000,2011-05-17 14:19:23.000000,1,3,dfs_vm_sint_maarten.gif,Die Nationalmannschaft von Sint Maarten ist die Mannschaft des niederländischen Teiles der Karibikinsel St. Martin. Nicht zu verwechseln mit der Mannschaft von Saint-Martin vom französischen Teil der Insel.
+
+Kein FIFA-Mitglied.
+Wurde als CONCACAF-Mitglied aufgenommen.,dfs_fl_sint_maarten.gif,227, ,8950
+228,SMA,Saint-Martin,dfs_fs_saint_martin.bmp,2011-05-17 14:00:00.000000,2011-05-17 14:19:11.000000,1,3,dfs_vm_saint_martin.gif,Die Nationalmannschaft von Saint-Martin ist die Mannschaft des französischen Teiles der Karibikinsel St. Martin. Nicht zu verwechseln mit der Mannschaft von Sint Maarten vom niederländischen Teil der Insel.
+
+Kein FIFA-Mitglied.
+Wurde als CONCACAF-Mitglied aufgenommen.,dfs_fl_saint_martin.gif,228, ,8950
+229,SSD,Südsudan,dfs_fs_suedsudan.bmp,2011-07-08 07:00:00.000000,2012-05-27 11:00:13.000000,1,2,dfs_vm_suedsudan.gif,Seit 9.7.2011 ein unabhängiger Staat. Entstanden durch Abspaltung vom Sudan.
+
+Seit 25.5.2012 Mitglied der FIFA.,dfs_fl_suedsudan.gif,229, ,8950
+230,GIB,Gibraltar,dfs_fs_gibraltar.bmp,2013-11-23 08:21:18.000000,2016-05-15 18:46:11.000000,1,6,dfs_vm_gibraltar.gif,Am 13.5.2016 Aufnahme in die FIFA.,dfs_fl_gibraltar.gif,230, ,8950

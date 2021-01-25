@@ -1,0 +1,566 @@
+bakea1,Alfred,Baker,1898-04-27,ENG,1, , ,23,23,0,0
+barljc,John Charles,Barley,1904-10-30,ENG,1, , ,3,3,0,1
+blytwn,William Naismith,Blyth,1895-06-17,SCO,1, , ,33,33,0,2
+boweec,Edward C,Bowen,1903-07-01,ENG,1, , ,1,1,0,0
+braija,James,Brain,1900-09-11,ENG,1, , ,37,37,0,31
+buchcm,Charles Murray,Buchan,1891-09-22,ENG,1, , ,33,33,0,14
+butljd,John Dennis,Butler,1894-08-14,ENG,1, , ,31,31,0,1
+copehw,Horace Walter,Cope,1899-05-24,ENG,1, , ,11,11,0,0
+hadesa,Samson,Haden,1902-01-17,ENG,1, , ,17,17,0,4
+harpwi,William,Harper,1897-01-19,SCO,1, , ,23,23,0,0
+hoarsw,Sidney Walter,Hoar,1895-11-28,ENG,1, , ,16,16,0,2
+hulmj1,Joe,Hulme,1904-08-26,ENG,1, , ,37,37,0,8
+johnrf,Robert Frederick,John,1900-02-03,WAL,1, , ,41,41,0,3
+kenna1,Andrew Lynd,Kennedy,1897-09-01,NIR,1, , ,11,11,0,0
+lambjo,John,Lambert,1902-05-22,ENG,1, , ,16,16,0,1
+leexjw,John William,Lee,1903-06-26,ENG,1, , ,7,7,0,0
+lewida,Daniel,Lewis,1902-02-11,WAL,1, , ,17,17,0,0
+milnwi,William,Milne,1895-11-24,ENG,1, , ,6,6,0,0
+moodjo,John,Moody,1903-11-10,ENG,1, , ,2,2,0,0
+parktr,Thomas Robert,Parker,1897-11-19,ENG,1, , ,42,42,0,4
+peelhb,Harold Burston,Peel,1900-03-26,ENG,1, , ,9,9,0,0
+ramsjh,James Howie,Ramsay,1898-08-07,SCO,1, , ,12,12,0,2
+robehe,Herbie,Roberts,1905-02-19,ENG,1, , ,2,2,0,0
+seddwc,William Charles,Seddon,1901-07-28,ENG,1, , ,17,17,0,0
+shawj4,James,Shaw,1904-08-08,ENG,1, , ,5,5,0,1
+tricrw,Reginald William,Tricker,1905-10-05,ENG,1, , ,4,4,0,3
+younan,Andrew,Young,1896-09-17,ENG,1, , ,6,6,0,0
+armfwc,William Charles Wassell,Armfield,1904-07-07,ENG,2, , ,1,1,0,0
+bowese,Sanuel Edward,Bowen,1903-11-17,ENG,2, , ,31,31,0,0
+capelk,Leonard King,Capewell,1895-06-08,ENG,2, , ,21,21,0,16
+chesra,Reginald Arthur,Chester,1904-11-21,ENG,2, , ,4,4,0,0
+cookgw,George William,Cook,1895-02-27,ENG,2, , ,13,13,0,9
+corbjo,Joseph,Corbett,1902-06-19,ENG,2, , ,1,1,0,0
+dorrar,Arthur Reginald,Dorrell,1896-03-30,ENG,2, , ,38,38,0,7
+gibsjd,James Davidson,Gibson,1901-06-12,SCO,2, , ,1,1,0,0
+harrwh,Walter H,Harris,1904-07-01,ENG,2, , ,13,13,0,4
+jackth,Thomas,Jackson,1898-03-16,ENG,2, , ,38,38,0,0
+jakegj,George John William,Jakeman,1903-05-19,ENG,2, , ,1,1,0,0
+johnww,William Walter Francis,Johnson,1902-08-29,ENG,2, , ,2,2,0,0
+johnjc,John Charles,Johnstone,1896-04-01,SCO,2, , ,16,16,0,1
+kingwi,William Isaacher Garfield,Kingdon,1907-06-25,ENG,2, , ,26,26,0,2
+kirtwj,William John,Kirton,1896-12-02,ENG,2, , ,8,8,0,1
+milndv,Victor Edmond,Milne,1897-06-22,SCO,2, , ,35,35,0,0
+mortth,Thomas,Mort,1897-12-01,ENG,2, , ,22,22,0,0
+mossf2,Frank,Moss,1895-04-17,ENG,2, , ,36,36,0,1
+muldtp,Thomas Patrick,Muldoon,1901-02-01,IRL,2, , ,2,2,0,0
+nichjr,Joseph Robinson,Nicholson,1898-06-04,ENG,2, , ,1,1,0,0
+norrfh,Frederick Harold,Norris,1903-08-14,ENG,2, , ,3,3,0,0
+smarth,Thomas,Smart,1897-09-01,ENG,2, , ,30,30,0,0
+spiech,Cyril Henry,Spiers,1902-04-04,ENG,2, , ,2,2,0,0
+stepgt,George Ternent,Stephenson,1900-09-03,ENG,2, , ,36,36,0,13
+talbad,Alexander Douglas,Talbot,1902-07-13,ENG,2, , ,6,6,0,0
+walkwh,William Henry,Walker,1897-10-29,ENG,2, , ,33,33,0,15
+yorkre,Richard Ernest,York,1899-04-25,ENG,2, , ,42,42,0,12
+bartph,Percival Harry,Barton,1895-08-19,ENG,5, , ,30,30,0,0
+bondbe,Benjamin,Bond,1904-10-01,ENG,5, , ,19,19,0,3
+bradjo,Joseph,Bradford,1901-01-22,ENG,5, , ,34,34,0,21
+briggr,George Richard,Briggs,1903-05-23,ENG,5, , ,41,41,0,17
+bruche,Henry,Bruce,1905-05-01,ENG,5, , ,3,3,0,0
+castfc,Frederick Charles,Castle,1899-01-01,ENG,5, , ,1,1,0,0
+crinja,James Anderson,Cringan,1904-12-16,SCO,5, , ,35,35,0,2
+crosj2,John Anderson,Crosbie,1896-06-03,SCO,5, , ,39,39,0,6
+dalera,Richard Armstrong,Dale,1896-03-21,ENG,5, , ,29,29,0,0
+harrwn,Wallace Norman,Harris,1900-02-22,ENG,5, , ,22,22,0,5
+harved,Edmund,Harvey,1900-09-08,ENG,5, , ,1,1,0,0
+hibbha,Harry,Hibbs,1906-05-27,ENG,5, , ,1,1,0,0
+huntwi,William,Hunter,1900-08-16,SCO,5, , ,6,6,0,0
+isheha,Harold,Isherwood,1905-05-01,ENG,5, , ,1,1,0,0
+islier,Ernest,Islip,1892-10-10,ENG,5, , ,7,7,0,2
+jonejw,John William,Jones,1891-02-08,ENG,5, , ,14,14,0,0
+leslaj,Alfred James,Leslie,1902-04-01,SCO,5, , ,7,7,0,0
+liddgm,George M,Liddell,1895-07-14,ENG,5, , ,41,41,0,1
+oakeaw,Alfred William,Oakes,1901-07-22,ENG,5, , ,1,1,0,0
+owenw1,William,Owen,1906-01-01,ENG,5, , ,5,5,0,0
+russcj,Cecil John,Russell,1904-06-19,ENG,5, , ,6,6,0,0
+scriau,Aubrey,Scriven,1904-07-07,ENG,5, , ,17,17,0,5
+smitjG,Joseph,Smith,1890-04-17,ENG,5, , ,17,17,0,0
+thirwj,William J,Thirlaway,1896-10-10,ENG,5, , ,22,22,0,1
+tremrd,Richard Daniel,Tremelling,1897-12-12,ENG,5, , ,36,36,0,0
+womafr,Francis,Womack,1888-09-16,ENG,5, , ,26,26,0,0
+woodee,Edmund Eli,Wood,1903-02-10,ENG,5, , ,1,1,0,0
+campaf,Austen Fenwick,Campbell,1901-05-05,ENG,6, , ,22,22,0,1
+copeha,Harold,Cope,1902-02-09,ENG,6, , ,14,14,0,0
+crawjc,John Chalmers,Crawford,1902-10-11,SCO,6, , ,23,23,0,0
+crisjo,John,Crisp,1896-11-27,ENG,6, , ,1,1,0,0
+harpec,Edward Cashfield,Harper,1901-08-22,ENG,6, , ,39,39,0,35
+healhe,Henry,Healless,1893-02-10,ENG,6, , ,35,35,0,0
+hollpb,Peter Byrom,Holland,1898-10-05,ENG,6, , ,16,16,0,3
+huttjo,John,Hutton,1898-10-29,SCO,6, , ,17,17,0,0
+jonehe,Herbert,Jones,1896-09-03,ENG,6, , ,39,39,0,0
+lowxda,David,Low,1904-01-01,ENG,6, , ,10,10,0,0
+mccuss,Samuel Shaw,McCulloch,1906-05-21,SCO,6, , ,1,1,0,0
+mcinj3,John McGregor,McIntyre,1895-01-04,SCO,6, , ,21,21,0,1
+mckajr,John Reid,McKay,1898-11-01,SCO,6, , ,17,17,0,4
+mcleth,Thomas,McLean,1903-12-26,SCO,6, , ,10,10,0,1
+mitcth,Thomas,Mitchell,1905-06-27,ENG,6, , ,22,22,0,4
+puddsc,Sydney Charles,Puddefoot,1894-10-17,ENG,6, , ,39,39,0,14
+rankwi,William,Rankin,1902-03-20,SCO,6, , ,2,2,0,1
+rigbar,Arthur,Rigby,1900-06-07,ENG,6, , ,40,40,0,8
+rollda,David,Rollo,1890-08-26,NIR,6, , ,2,2,0,0
+roscjo,John,Roscamp,1901-08-08,ENG,6, , ,25,25,0,0
+roxbro,Robert,Roxburgh,1896-02-05,ENG,6, , ,26,26,0,0
+sewewr,Walter Ronald,Sewell,1890-07-19,ENG,6, , ,5,5,0,0
+shawg1,Gilbert Alexander,Shaw,1906-05-01,WAL,6, , ,4,4,0,2
+smaima,Matthew,Smailes,1899-03-25,ENG,6, , ,3,3,0,0
+waltjd,Joseph Dorville,Walter,1895-08-16,ENG,6, , ,22,22,0,2
+whytjo,John,Whyte,1906-01-01,SCO,6, , ,7,7,0,0
+baggwj,Walter John,Baggett,1902-05-29,ENG,8, , ,3,3,0,2
+blacha,Harold Alfred,Blackmore,1904-05-13,ENG,8, , ,5,5,0,3
+bosthj,Henry James,Boston,1899-10-20,ENG,8, , ,3,3,0,0
+butlwi,William,Butler,1900-03-17,ENG,8, , ,39,39,0,10
+copejw,John William,Cope,1899-11-23,ENG,8, , ,26,26,0,0
+finna1,Alexander,Finney,1902-03-13,ENG,8, , ,33,33,0,0
+gibsge,George,Gibson,0000-00-00,SCO,8, , ,14,14,0,9
+gilljj,James Joshua Allison,Gill,1903-07-21,ENG,8, , ,2,2,0,0
+greehw,Harry Woodgate,Greenhalgh,1900-06-27,ENG,8, , ,34,34,0,0
+haworo,Robert,Haworth,1897-06-26,ENG,8, , ,14,14,0,0
+jackdb,David Bone Nightingale,Jack,1898-04-03,ENG,8, , ,38,38,0,16
+jackrr,Robert Rollo,Jack,1902-04-04,ENG,8, , ,5,5,0,1
+jennwi,William,Jennings,1893-02-25,WAL,8, , ,10,10,0,0
+nutthe,Henry,Nuttall,1897-11-09,ENG,8, , ,35,35,0,0
+pickah,Albert Henry,Picken,1904-08-04,ENG,8, , ,6,6,0,0
+pymxrh,Richard Henry,Pym,1893-02-02,ENG,8, , ,37,37,0,0
+robecl,Charles Leslie,Roberts,1901-02-28,ENG,8, , ,2,2,0,0
+robewd,William David,Roberts,1904-01-09,ENG,8, , ,5,5,0,4
+rounjh,John Henry,Round,1903-05-20,ENG,8, , ,5,5,0,0
+seddja,James,Seddon,1895-05-20,ENG,8, , ,35,35,0,1
+smitjr,John Reid,Smith,1895-04-02,SCO,8, , ,32,32,0,13
+smitjH,Joseph,Smith,1889-06-25,ENG,8, , ,12,12,0,7
+thoreh,Elijah Holden,Thornborough,1902-01-17,ENG,8, , ,15,15,0,0
+vizaet,Edward Thomas,Vizard,1889-06-07,WAL,8, , ,29,29,0,9
+wagsjt,James T,Wagstaffe, ,ENG,8, , ,3,3,0,0
+wrigwb,William Bullock,Wright,1899-12-25,ENG,8, , ,17,17,0,7
+yatewi,William,Yates,1903-03-20,ENG,8, , ,3,3,0,0
+basnal,Alfred,Basnett,1893-04-10,ENG,17, , ,1,1,0,0
+beelgw,George William,Beel,1900-02-26,ENG,17, , ,36,36,0,24
+blinfr,Frederick,Blinkhorn,1901-08-02,ENG,17, , ,8,8,0,0
+brutjo,John,Bruton,1903-11-21,ENG,17, , ,42,42,0,9
+burlgm,George Marcus,Burley,1900-12-23,ENG,17, , ,2,2,0,0
+crosbe,Benjamin,Cross,1898-08-23,ENG,17, , ,29,29,0,8
+dawsje,Jeremiah,Dawson,1888-03-18,ENG,17, , ,1,1,0,0
+devijc,Joseph Cassidy,Devine,1905-09-08,SCO,17, , ,26,26,0,9
+dougw1,William,Dougall,1895-10-25,SCO,17, , ,37,37,0,0
+earlej,Edwin James,Earle,1905-06-17,ENG,17, , ,3,3,0,1
+fergal,Alexander,Fergus,1899-01-01,SCO,17, , ,9,9,0,0
+freeal,Albert,Freeman,1899-10-21,ENG,17, , ,14,14,0,7
+hargha,Harold,Hargreaves,1896-03-15,ENG,17, , ,14,14,0,4
+hilljh,John Henry,Hill,1897-03-02,ENG,17, , ,35,35,0,1
+mcclan,Andrew,McCluggage,1900-09-01,NIR,17, , ,33,33,0,2
+pagela,Louis Antonio,Page,1899-03-27,ENG,17, , ,36,36,0,13
+parkg2,George,Parkin,1903-08-20,ENG,17, , ,14,14,0,0
+pollwa,Walter,Pollard,1906-09-26,ENG,17, , ,4,4,0,2
+reida1,Andrew,Reid, ,SCO,17, , ,1,1,0,0
+richp2,Percy,Richards,1905-05-15,ENG,17, , ,5,5,0,5
+sommgd,George Douglas Liddle,Sommerville,1900-12-21,SCO,17, , ,41,41,0,0
+sparst,Stephen,Spargo,1903-12-29,ENG,17, , ,1,1,0,0
+steejo,John,Steel,1901-10-24,SCO,17, , ,38,38,0,5
+wategs,George Smith,Waterfield,1901-06-02,ENG,17, , ,32,32,0,0
+adamtk,Thomas Kay,Adamson,1901-09-12,SCO,20, , ,38,38,0,0
+amoswr,Walter Robert,Amos,1899-09-03,ENG,20, , ,41,41,0,7
+ballj1,John,Ball,1899-09-29,ENG,20, , ,38,38,0,23
+bradti,Tiny,Bradshaw,1904-02-07,SCO,20, , ,40,40,0,0
+bullno,Norman,Bullock,1900-09-08,ENG,20, , ,37,37,0,12
+chamrj,Robert James,Chambers,1908-07-26,NIR,20, , ,1,1,0,0
+chesth,Thomas Holland,Chester,1907-11-07,SCO,20, , ,2,2,0,0
+davij6,Jack,Davies,1902-01-01,ENG,20, , ,3,3,0,0
+dutthr,Henry Robert,Dutton,1898-01-16,ENG,20, , ,11,11,0,1
+farehv,Harold Vaughton,Fare,1895-05-01,ENG,20, , ,2,2,0,0
+finnwa,William Arthur,Finney,1900-07-17,ENG,20, , ,14,14,0,0
+galear,Arthur Reuben,Gale,1904-11-16,ENG,20, , ,3,3,0,0
+harrw1,William,Harrison,1901-09-26,ENG,20, , ,8,8,0,0
+heapfr,Frederick,Heap,1897-10-12,ENG,20, , ,19,19,0,0
+holmth,Thomas,Holmes,1902-04-20,ENG,20, , ,4,4,0,0
+hughj3,Joseph,Hughes,1901-03-18,WAL,20, , ,8,8,0,6
+massal,Alex,Massie,1906-03-13,SCO,20, , ,11,11,0,4
+mattch,Cyril Henry Wheater,Matthews,1901-12-01,ENG,20, , ,12,12,0,2
+portwj,W James,Porter,1901-07-31,ENG,20, , ,37,37,0,0
+richw1,William,Richardson,1897-01-01,ENG,20, , ,31,31,0,0
+robbdm,David Middleton,Robbie,1899-10-06,SCO,20, , ,29,29,0,6
+robial,Alick,Robinson,1906-04-17,ENG,20, , ,1,1,0,0
+smitf2,Frederick,Smith,1898-11-26,ENG,20, , ,5,5,0,1
+stagwi,William,Stage,1893-03-22,SCO,20, , ,29,29,0,5
+turnwi,William,Turner,1894-12-22,ENG,20, , ,5,5,0,0
+wardfr,Frank,Ward,1903-01-21,ENG,20, , ,15,15,0,0
+wynnsa,Samuel,Wynne,1897-04-26,ENG,20, , ,18,18,0,1
+bailja,James,Baillie,1900-02-18,SCO,22, , ,4,4,0,0
+blacgf,George Frederick,Blackburn,1899-03-08,ENG,22, , ,18,18,0,0
+castfr,Frederick Richard,Castle,1902-04-10,WAL,22, , ,2,2,0,0
+collwc,William Charles Elvet,Collins,1902-10-16,WAL,22, , ,3,3,0,0
+curter,Ernest Robert,Curtis,1907-06-10,WAL,22, , ,26,26,0,5
+davils,Leonard Stephen,Davies,1899-04-28,WAL,22, , ,34,34,0,6
+daviw1,William,Davies,1900-02-16,WAL,22, , ,15,15,0,4
+farqtg,Thomas G,Farquharson,1900-12-04,IRL,22, , ,40,40,0,0
+ferghu,Hugh,Ferguson,1898-03-02,SCO,22, , ,39,39,0,25
+hampth,Thomas,Hampson,1898-05-02,ENG,22, , ,2,2,0,0
+hardwi,William,Hardy,1892-04-18,ENG,22, , ,40,40,0,0
+irvisj,Samuel Johnstone,Irving,1894-08-28,NIR,22, , ,27,27,0,4
+jennjo,John,Jennings,1902-08-27,ENG,22, , ,5,5,0,0
+keenfc,Frederick Charles,Keenor,1894-07-31,WAL,22, , ,33,33,0,1
+matsfr,Francis Robert,Matson,1905-11-21,WAL,22, , ,4,4,0,0
+mclagh,George Herbert,McLachlan,1902-09-21,SCO,22, , ,38,38,0,4
+nelsja,James,Nelson,1901-01-07,SCO,22, , ,38,38,0,0
+pirits,Thomas S,Pirie,1900-12-09,SCO,22, , ,5,5,0,0
+richp1,Percy,Richards,1907-01-01,WAL,22, , ,3,3,0,0
+sloatm,Thomas Milne,Sloan,1898-09-23,NIR,22, , ,20,20,0,0
+smittp,T P,Smith, ,ENG,22, , ,8,8,0,1
+smits2,Samuel James William,Smith,1904-09-07,ENG,22, , ,2,2,0,0
+thirwj,William J,Thirlaway,1896-10-10,ENG,22, , ,12,12,0,0
+tysogf,George Frank,Tysoe,1902-11-13,ENG,22, , ,2,2,0,0
+wakehw,Henry Williamson,Wake,1901-01-27,ENG,22, , ,9,9,0,2
+watsth,Thomas Houston,Watson,1900-10-04,NIR,22, , ,33,33,0,0
+bacoar,Arthur,Bacon,1905-03-31,ENG,35, , ,1,1,0,0
+bedfhe,Henry,Bedford,1899-10-15,ENG,35, , ,33,33,0,22
+bromen,Enos,Bromage,1898-10-22,ENG,35, , ,1,1,0,0
+carrwp,William Patterson,Carr,1901-11-06,ENG,35, , ,19,19,0,0
+coopto,Tom,Cooper,1904-04-09,ENG,35, , ,25,25,0,0
+cowewi,William,Cowell,1902-12-07,ENG,35, , ,1,1,0,0
+crilth,Thomas,Crilly,1895-07-20,ENG,35, , ,38,38,0,0
+donaed,Edward,Donaghy,1900-01-08,ENG,35, , ,6,6,0,0
+fairal,Albert,Fairclough,1891-10-04,ENG,35, , ,3,3,0,2
+gillj1,James J,Gill,1894-11-09,ENG,35, , ,40,40,0,22
+halewt,William Thomas,Haley,1904-02-16,ENG,35, , ,1,1,0,0
+hartjl,John Leslie,Hart,1904-11-21,ENG,35, , ,1,1,0,1
+hopej1,John,Hope,1905-06-10,ENG,35, , ,3,3,0,0
+kelld1,Daniel,Kelly, ,SCO,35, , ,4,4,0,0
+mcinjm,John McMutrie,McIntyre,1898-10-19,SCO,35, , ,29,29,0,0
+mclabe,Bernard,McLaverty,1898-03-15,ENG,35, , ,26,26,0,1
+meexgw,George Wilfred,Mee,1900-04-12,ENG,35, , ,11,11,0,3
+murpli,Lionel,Murphy,1895-09-15,ENG,35, , ,34,34,0,10
+nelsed,Edward,Nelson,1907-04-21,ENG,35, , ,2,2,0,0
+olneba,Benjamin Albert,Olney,1899-03-30,ENG,35, , ,41,41,0,0
+o_c2mt,Michael Terence,O´Brien,1893-08-10,IRL,35, , ,1,1,0,0
+placsy,Sydney,Plackett,1898-09-21,ENG,35, , ,12,12,0,0
+ritcar,Archibald,Ritchie,1894-05-11,SCO,35, , ,1,1,0,0
+smitva,Valentine,Smith, ,ENG,35, , ,2,2,0,0
+storha,Harry,Storer,1898-02-02,ENG,35, , ,29,29,0,8
+thomh3,Henry,Thoms,1896-11-19,ENG,35, , ,42,42,0,1
+thorg2,George,Thornewell,1898-07-08,ENG,35, , ,32,32,0,3
+whitjc,John Charles,Whitehouse,1897-03-04,ENG,35, , ,23,23,0,13
+wighha,Harold,Wightman,1894-06-19,ENG,35, , ,1,1,0,0
+bainda,David,Bain,1900-08-05,SCO,37, , ,10,10,0,3
+bakebh,Benjamin Howard,Baker,1892-02-13,ENG,37, , ,11,11,0,0
+batthg,Herbert George,Batten,1898-05-14,ENG,37, , ,4,4,0,0
+broww3,William,Brown,1897-05-10,SCO,37, , ,25,25,0,0
+creswa,Warneford,Cresswell,1897-11-05,ENG,37, , ,15,15,0,0
+crited,Edward,Critchley,1903-12-31,ENG,37, , ,15,15,0,0
+davia3,Arthur,Davies,1905-01-03,ENG,37, , ,10,10,0,0
+deandi,Dixie,Dean,1907-01-22,ENG,37, , ,27,27,0,21
+domiaa,Arthur Albert,Dominy,1893-02-11,ENG,37, , ,28,28,0,12
+forsri,Richard,Forshaw,1895-08-20,ENG,37, , ,10,10,0,2
+griftp,Thomas Percival,Griffiths,1906-02-21,WAL,37, , ,1,1,0,0
+hamihh,Herbert Harold,Hamilton,1906-03-27,ENG,37, , ,1,1,0,0
+hardhj,Henry James,Hardy,1895-01-14,ENG,37, , ,7,7,0,0
+harthu,Hunter,Hart,1897-03-11,SCO,37, , ,39,39,0,1
+irvirw,Robert William,Irvine,1900-04-29,NIR,37, , ,34,34,0,11
+kellje,Jeremiah,Kelly,1900-01-01,SCO,37, , ,14,14,0,0
+kennfr,Frederick,Kennedy,1902-10-23,ENG,37, , ,6,6,0,0
+kerrja,Jasper,Kerr,1903-01-01,SCO,37, , ,15,15,0,1
+mcdoj3,John,McDonald,1896-01-04,SCO,37, , ,24,24,0,0
+millth,Thomas,Millington,1906-01-12,ENG,37, , ,13,13,0,0
+moffha,Harold,Moffat,1900-01-01,ENG,37, , ,2,2,0,0
+murrdj,David James,Murray,1902-01-01,ENG,37, , ,1,1,0,0
+o_c2jo,John,O´Donnell,1897-03-25,ENG,37, , ,24,24,0,3
+parkth,Thomas H,Parker,1901-01-01,ENG,37, , ,6,6,0,0
+peacjo,John,Peacock,1897-03-15,ENG,37, , ,3,3,0,0
+raitda,David,Raitt,1897-01-01,SCO,37, , ,11,11,0,0
+reidda,David,Reid,1897-01-01,SCO,37, , ,7,7,0,0
+tayleh,Edward Hallows,Taylor,1887-03-07,ENG,37, , ,14,14,0,0
+troual,Alexander,Troup,1895-05-04,SCO,37, , ,37,37,0,5
+virrae,Albert E,Virr,1902-01-01,ENG,37, , ,32,32,0,1
+weavwa,Walter,Weaver,1898-11-09,ENG,37, , ,5,5,0,0
+weldan,Anthony,Weldon,1900-11-12,SCO,37, , ,9,9,0,3
+woodrt,Roland Thomas,Woodhouse,1897-01-15,ENG,37, , ,2,2,0,0
+barkne,Ned,Barkas,1901-11-21,ENG,46, , ,9,9,0,0
+browge,George,Brown,1903-06-22,ENG,46, , ,40,40,0,27
+carrwe,William Edward,Carr,1905-03-07,ENG,46, , ,2,2,0,0
+cawtha,Harold,Cawthorne,1900-01-01,ENG,46, , ,21,21,0,1
+cookgw,George William,Cook,1895-02-27,ENG,46, , ,8,8,0,3
+dentjg,John George,Dent,1903-01-31,ENG,46, , ,6,6,0,3
+devlwa,William Alexander,Devlin,1899-07-30,SCO,46, , ,28,28,0,10
+goodf2,Frederick Roy,Goodall,1902-12-31,ENG,46, , ,34,34,0,4
+jackas,Alexander Skinner,Jackson,1905-05-12,SCO,46, , ,32,32,0,6
+kellrf,Robert F,Kelly,1893-11-16,ENG,46, , ,14,14,0,4
+meadth,Thomas,Meads,1900-11-02,ENG,46, , ,10,10,0,1
+mercwh,William Henry,Mercer,1892-01-01,ENG,46, , ,8,8,0,0
+rawxhe,Henry,Raw,1903-07-06,ENG,46, , ,3,3,0,0
+shawge,George,Shaw,1899-10-13,ENG,46, , ,5,5,0,0
+slicjo,John,Slicer,1902-11-24,ENG,46, , ,7,7,0,2
+smitw2,William Henry,Smith,1895-05-23,ENG,46, , ,39,39,0,8
+smitno,Norman,Smith,1897-12-15,ENG,46, , ,17,17,0,0
+steedm,David Morton,Steele,1894-06-26,SCO,46, , ,20,20,0,0
+stepcl,Clement,Stephenson,1890-02-06,ENG,46, , ,25,25,0,5
+tayleh,Edward Hallows,Taylor,1887-03-07,ENG,46, , ,10,10,0,0
+turnhu,Hugh,Turner,1904-08-06,ENG,46, , ,24,24,0,0
+wadssj,Samuel John,Wadsworth,1896-09-13,ENG,46, , ,36,36,0,1
+watsw3,William,Watson,1893-12-31,ENG,46, , ,22,22,0,0
+wilsth,Thomas,Wilson,1896-04-16,ENG,46, , ,42,42,0,0
+allaja,James,Allan,1899-08-29,SCO,49, , ,22,22,0,0
+armaje,John Edward,Armand,1898-08-11,ENG,49, , ,18,18,0,5
+atkijw,Joshua Whitehead,Atkinson,1902-03-28,ENG,49, , ,11,11,0,0
+chadwi,Wilfred,Chadwick,1900-10-07,ENG,49, , ,2,2,0,0
+duggha,Henry Anthony,Duggan,1903-06-08,IRL,49, , ,8,8,0,1
+edwaw1,Willis,Edwards,1903-04-28,ENG,49, , ,37,37,0,1
+felljw,John William,Fell,1902-05-14,ENG,49, , ,6,6,0,0
+hartea,Ernest Arthur,Hart,1902-01-03,ENG,49, , ,5,5,0,0
+jackw1,William,Jackson,1902-07-15,ENG,49, , ,8,8,0,0
+jennth,Thomas Hamilton Oliver,Jennings,1902-03-08,SCO,49, , ,41,41,0,35
+kirkj3,James,Kirkpatrick,1903-01-01,SCO,49, , ,3,3,0,0
+mearfr,Frank,Mears,1899-01-01,ENG,49, , ,1,1,0,0
+menzwj,William John,Menzies,1901-07-10,SCO,49, , ,30,30,0,1
+mitctm,Thomas Morris,Mitchell,1899-09-30,ENG,49, , ,23,23,0,4
+pottjf,James Forster,Potts,1899-02-25,ENG,49, , ,42,42,0,0
+reedge,George,Reed,1904-02-07,ENG,49, , ,22,22,0,0
+robehb,Henry Bramley,Roberts,1902-06-27,ENG,49, , ,34,34,0,0
+robid2,David,Robinson,1900-01-01,ENG,49, , ,4,4,0,0
+sissae,Albert Edward,Sissons,1903-07-05,ENG,49, , ,16,16,0,1
+townth,Thomas,Townsley,1898-04-28,SCO,49, , ,42,42,0,0
+turnrj,Robert Joseph,Turnbull,1895-12-17,ENG,49, , ,31,31,0,5
+wainwr,William Russell,Wainscoat,1898-07-28,ENG,49, , ,25,25,0,11
+whippl,Percy Leonard,Whipp,1897-06-28,SCO,49, , ,15,15,0,3
+whitj4,John,White,1897-08-27,SCO,49, , ,16,16,0,2
+adcohu,Hugh,Adcock,1903-04-10,ENG,51, , ,42,42,0,2
+bambj1,John,Bamber,1895-04-11,ENG,51, , ,16,16,0,2
+bellwj,William John,Bell,1906-07-01,ENG,51, , ,23,23,0,3
+bishsm,Sidney Macdonald,Bishop,1900-02-10,ENG,51, , ,26,26,0,3
+blacah,Adam Hudson,Black,1898-02-18,SCO,51, , ,23,23,0,0
+browjt,John Thomas,Brown,1901-06-15,ENG,51, , ,18,18,0,0
+campk1,Kenneth,Campbell,1892-09-06,SCO,51, , ,39,39,0,0
+carrge,George,Carr,1899-01-19,ENG,51, , ,19,19,0,3
+carrpa,Patrick,Carrigan,1898-07-05,SCO,51, , ,10,10,0,0
+chanac,Arthur Clarence Hillier,Chandler,1895-11-27,ENG,51, , ,34,34,0,28
+duncj2,John,Duncan,1896-02-14,SCO,51, , ,42,42,0,5
+findwi,William,Findlay,1900-02-17,SCO,51, , ,1,1,0,0
+goddae,Albert Edward,Godderidge,1902-05-29,ENG,51, , ,2,2,0,0
+heatjb,Joseph Berty,Heathcock,1903-12-05,ENG,51, , ,1,1,0,2
+hineew,Ernest William,Hine,1901-04-09,ENG,51, , ,39,39,0,16
+lanewh,William Henry Charles,Lane,1904-10-23,ENG,51, , ,4,4,0,2
+lochaw,Arthur William,Lochhead,1897-12-08,SCO,51, , ,29,29,0,13
+mclaja,James,McLaren,1897-07-12,SCO,51, , ,1,1,0,0
+moyeda,David,Moyes, ,SCO,51, , ,3,3,0,0
+osbore,Reginald,Osborne,1898-07-23,ENG,51, , ,38,38,0,0
+wadsha,Harold,Wadsworth,1898-10-01,ENG,51, , ,18,18,0,4
+watsno,Norman,Watson,1899-12-21,ENG,51, , ,34,34,0,0
+barofj,Frederick John,Baron,1901-12-29,ENG,54, , ,1,1,0,0
+bromtg,Thomas George,Bromilow,1894-10-07,ENG,54, , ,40,40,0,0
+chamhe,Henry,Chambers,1896-12-17,ENG,54, , ,42,42,0,17
+cockwo,William Old,Cockburn,1899-01-01,ENG,54, , ,9,9,0,0
+devlwa,William Alexander,Devlin,1899-07-30,SCO,54, , ,1,1,0,1
+donero,Robert,Done,1904-04-27,ENG,54, , ,2,2,0,0
+edmera,Richard Alfred,Edmed,1904-02-14,ENG,54, , ,38,38,0,6
+forsri,Richard,Forshaw,1895-08-20,ENG,54, , ,24,24,0,14
+hodgg1,Gordon,Hodgson,1904-04-16,ENG,54, , ,36,36,0,16
+hopkfr,Frederick,Hopkin,1895-09-23,ENG,54, , ,36,36,0,0
+jackrj,Rev James,Jackson,1899-12-04,ENG,54, , ,19,19,0,0
+longep,Ephraim,Longworth,1887-10-02,ENG,54, , ,15,15,0,0
+lucath,Thomas,Lucas,1895-09-20,ENG,54, , ,39,39,0,1
+mckido,Donald,McKinlay,1891-07-25,SCO,54, , ,28,28,0,1
+mcmuda,David,McMullan, ,NIR,54, , ,2,2,0,0
+mcnajs,John S,McNab,1894-04-17,SCO,54, , ,29,29,0,0
+pithgb,George B,Pither,1899-06-24,ENG,54, , ,6,6,0,0
+pratd1,David,Pratt,1896-03-05,SCO,54, , ,14,14,0,0
+reidtj,Thomas Joseph,Reid,1905-08-15,SCO,54, , ,20,20,0,12
+rilear,Arthur,Riley,1903-12-26,RSA,54, , ,10,10,0,0
+scotel,Elisha,Scott,1893-08-24,NIR,54, , ,32,32,0,0
+scotth,Thomas,Scott,1904-04-06,ENG,54, , ,4,4,0,1
+sheaae,Albert Edward,Shears,1900-05-12,ENG,54, , ,8,8,0,0
+walsja,James Arthur,Walsh,1901-05-15,ENG,54, , ,7,7,0,0
+astlj1,Joseph Emmanuel,Astley,1899-04-01,ENG,58, , ,1,1,0,0
+barsfr,Frank,Barson,1891-04-10,ENG,58, , ,21,21,0,2
+bennsr,Samuel Raymond,Bennion,1896-09-01,WAL,58, , ,37,37,0,0
+chapwi,William,Chapman,1902-09-21,ENG,58, , ,17,17,0,0
+grimjb,John Barton,Grimwood,1898-10-25,ENG,58, , ,17,17,0,0
+hanncw,Charles William,Hannaford,1896-01-08,ENG,58, , ,7,7,0,0
+hansja,James,Hanson,1904-11-06,ENG,58, , ,21,21,0,5
+harrth,Thomas,Harris,1905-09-18,ENG,58, , ,4,4,0,1
+haslge,George,Haslam,1898-04-01,ENG,58, , ,4,4,0,0
+hawor1,Ronald,Haworth,1901-03-10,ENG,58, , ,2,2,0,0
+hildcg,Clarence George,Hilditch,1894-06-02,ENG,58, , ,16,16,0,0
+iddori,Richard,Iddon,1901-06-22,ENG,58, , ,1,1,0,0
+inglww,William White,Inglis,1894-03-02,SCO,58, , ,6,6,0,0
+jonet2,Thomas,Jones,1899-12-06,WAL,58, , ,21,21,0,0
+mannfd,Frank Drury,Mann,1878-03-17,ENG,58, , ,14,14,0,0
+mcphfc,Francis Comber,McPherson,1901-05-14,ENG,58, , ,32,32,0,15
+moorcw,Charles William,Moore,1898-06-03,ENG,58, , ,30,30,0,0
+parted,Edward,Partridge,1891-02-13,ENG,58, , ,16,16,0,0
+renncl,Clatworthy,Rennox,1897-02-25,SCO,58, , ,22,22,0,7
+silcjo,John,Silcock,1898-01-15,ENG,58, , ,26,26,0,0
+smitac,Albert Charles,Smith,1900-01-01,SCO,58, , ,5,5,0,1
+smittg,Thomas Gable,Smith,1900-10-18,ENG,58, , ,10,10,0,0
+spenjw,Joseph Waters,Spence,1898-12-13,ENG,58, , ,40,40,0,18
+stewa1,Alfred,Steward,1896-09-18,ENG,58, , ,42,42,0,0
+sweeee,Eric Edwin,Sweeney,1903-10-03,ENG,58, , ,13,13,0,3
+thomh2,Henry,Thomas,1901-02-28,WAL,58, , ,16,16,0,0
+wilsj3,John Thomas,Wilson,1897-03-08,ENG,58, , ,21,21,0,0
+boydji,Jimmy,Boyd,1907-04-29,SCO,64, , ,2,2,0,0
+chanal,Albert,Chandler,1897-01-15,ENG,64, , ,4,4,0,0
+clarjr,John Robinson,Clark,1903-02-06,ENG,64, , ,17,17,0,4
+currth,Thomas,Curry,1894-09-01,ENG,64, , ,5,5,0,0
+gallhu,Hughie,Gallacher,1903-02-02,SCO,64, , ,38,38,0,36
+gibswm,William M,Gibson,1898-07-21,SCO,64, , ,32,32,0,0
+hampwi,William,Hampson,1882-08-26,ENG,64, , ,2,2,0,0
+harrj5,Joseph,Harris,1896-03-19,SCO,64, , ,9,9,0,0
+hudsfc,Francis Carr,Hudspeth,1890-04-20,ENG,64, , ,42,42,0,3
+lougja,James,Loughlin,1905-10-09,ENG,64, , ,4,4,0,0
+lowxja,James,Low,1894-03-09,SCO,64, , ,2,2,0,1
+mackrr,Roderick R,MacKenzie,1901-05-22,SCO,64, , ,38,38,0,2
+maitae,Alfred Edward,Maitland,1896-10-08,SCO,64, , ,36,36,0,0
+mcdoth,Thomas Henry,McDonald,1895-09-25,SCO,64, , ,41,41,0,17
+mckaro,Robert,McKay,1900-09-02,SCO,64, , ,25,25,0,10
+moonep,Edward Peter,Mooney,1897-03-22,ENG,64, , ,3,3,0,0
+parkos,Oswald,Park,1905-02-07,ENG,64, , ,5,5,0,0
+seymgs,George Stanley,Seymour,1895-05-16,ENG,64, , ,42,42,0,18
+spencw,Charles William,Spencer,1899-12-04,ENG,64, , ,34,34,0,0
+urwith,Thomas,Urwin,1896-02-05,ENG,64, , ,39,39,0,4
+wilswi,William,Wilson,1900-09-07,SCO,64, , ,42,42,0,0
+aldejt,John Thomas,Alderson,1891-11-28,ENG,82, , ,34,34,0,0
+bellwt,William Todd,Bell,1905-03-17,ENG,82, , ,5,5,0,0
+birkle,Leonard,Birks,1896-10-06,ENG,82, , ,30,30,0,0
+boyltw,Thomas W,Boyle,1897-02-27,ENG,82, , ,20,20,0,1
+cawtha,Harold,Cawthorne,1900-01-01,ENG,82, , ,14,14,0,0
+chanal,Albert,Chandler,1897-01-15,ENG,82, , ,19,19,0,0
+dunnj6,James,Dunne,1905-09-03,IRL,82, , ,1,1,0,0
+gillwb,William Ballantrae,Gillespie,1891-08-06,NIR,82, , ,38,38,0,11
+greegh,George Henry,Green,1901-05-02,ENG,82, , ,36,36,0,1
+harrbe,Bernard,Harris,1901-03-14,ENG,82, , ,27,27,0,0
+hoylwa,Walter,Hoyland,1901-08-14,ENG,82, , ,9,9,0,1
+johnh1,Harry,Johnson,1899-01-04,ENG,82, , ,35,35,0,23
+kingse,Seth,King,1897-02-14,ENG,82, , ,37,37,0,0
+macers,Robert Stanley,Mace,1895-12-02,ENG,82, , ,4,4,0,0
+mercdw,David William,Mercer,1893-03-20,ENG,82, , ,39,39,0,3
+mercas,Arthur Stanley,Mercer,1903-01-01,ENG,82, , ,28,28,0,14
+milter,Ernest,Milton,1897-08-07,ENG,82, , ,1,1,0,0
+mordth,Thomas,Mordue,1905-07-22,ENG,82, , ,4,4,0,0
+partae,Albert Edward,Partridge,1901-02-13,ENG,82, , ,3,3,0,0
+pickja,Jack,Pickering,1908-12-18,ENG,82, , ,1,1,0,0
+roxbja,John A,Roxburgh,1901-11-10,SCO,82, , ,3,3,0,1
+sampwa,William Albert,Sampy,1901-01-21,ENG,82, , ,7,7,0,0
+sampth,Thomas,Sampy,1899-03-14,ENG,82, , ,6,6,0,0
+shanja,James,Shankly,1902-06-19,SCO,82, , ,4,4,0,4
+sutccs,Charles Spencer,Sutcliffe,1890-10-07,ENG,82, , ,8,8,0,0
+tunsfe,Frederick Edward,Tunstall,1897-05-28,ENG,82, , ,42,42,0,15
+waugja,James,Waugh,1898-08-12,ENG,82, , ,3,3,0,0
+webswg,Walter George,Webster,1895-05-22,ENG,82, , ,1,1,0,0
+willvi,Victor,Williams,1901-10-27,ENG,82, , ,3,3,0,0
+andrar,Arthur,Andrews,1903-01-12,ENG,88, , ,36,36,0,0
+bartj3,John,Bartley,1909-01-15,ENG,88, , ,3,3,0,1
+belljc,John Cuthbert,Bell,1905-10-24,ENG,88, , ,8,8,0,0
+clunwm,William McLean,Clunas,1899-04-29,SCO,88, , ,37,37,0,6
+coglst,Stephen,Coglin,1903-10-14,ENG,88, , ,12,12,0,6
+coxfjo,John,Coxford,1901-07-25,ENG,88, , ,2,2,0,0
+creswa,Warneford,Cresswell,1897-11-05,ENG,88, , ,25,25,0,0
+cresfr,Frank,Cresswell,1908-09-05,ENG,88, , ,5,5,0,0
+deatwg,William George,Death,1899-11-13,ENG,88, , ,9,9,0,3
+elliwt,William Thomas,Ellis,1895-11-05,ENG,88, , ,32,32,0,5
+englee,Ernest E,England,1901-02-03,ENG,88, , ,41,41,0,0
+grimwi,William,Grimshaw,1892-04-30,ENG,88, , ,5,5,0,1
+gurnbo,Bobby,Gurney,1907-10-13,ENG,88, , ,23,23,0,7
+halld2,David,Halliday,1897-12-11,SCO,88, , ,33,33,0,36
+hawear,Arthur Robert,Hawes,1895-10-02,ENG,88, , ,6,6,0,0
+hendgb,George Brown,Henderson,1902-01-09,SCO,88, , ,17,17,0,1
+kellrf,Robert F,Kelly,1893-11-16,ENG,88, , ,27,27,0,4
+lloyth,Thomas,Lloyd,1903-11-17,ENG,88, , ,2,2,0,0
+marsbo,Bobby,Marshall,1903-04-03,ENG,88, , ,38,38,0,19
+mcgoim,Isaac Moor,McGorian,1901-10-19,ENG,88, , ,5,5,0,0
+mcina3,Albert,McInroy,1901-04-23,ENG,88, , ,34,34,0,0
+oaklje,James Ernest,Oakley,1901-11-10,ENG,88, , ,16,16,0,0
+parkcw,Charles William,Parker,1891-09-21,ENG,88, , ,22,22,0,0
+priojo,John,Prior,1904-07-02,ENG,88, , ,5,5,0,1
+ramssh,Stanley Hunter,Ramsay,1904-08-10,ENG,88, , ,9,9,0,8
+wilka1,Alwyne,Wilks,1906-09-04,ENG,88, , ,10,10,0,0
+barnfw,Frederick William,Barnett,1896-04-13,ENG,91, , ,1,1,0,0
+bellwr,Walter Richard,Bellamy,1904-11-06,ENG,91, , ,1,1,0,0
+blaijg,John Guthrie,Blair,1905-08-23,SCO,91, , ,24,24,0,11
+britjo,John,Britton,1900-03-18,SCO,91, , ,18,18,0,0
+clayth,Thomas,Clay,1892-11-19,ENG,91, , ,16,16,0,0
+dimmjh,James Henry,Dimmock,1900-12-05,ENG,91, , ,41,41,0,19
+elkeaj,Albert John E,Elkes,1894-12-31,SCO,91, , ,40,40,0,2
+forsma,Matthew,Forster,1900-08-24,ENG,91, , ,35,35,0,0
+grimar,Arthur,Grimsdell,1894-03-23,ENG,91, , ,2,2,0,0
+handch,Charles Harold James,Handley,1899-03-12,ENG,91, , ,24,24,0,10
+lanewh,William Henry Charles,Lane,1904-10-23,ENG,91, , ,4,4,0,1
+lindaf,Alexander Findlay,Lindsay,1896-11-08,SCO,91, , ,37,37,0,0
+loweho,Horace,Lowe,1886-08-10,ENG,91, , ,1,1,0,0
+nichj3,Joseph Henry,Nicholls,1905-03-08,ENG,91, , ,1,1,0,0
+ocalta,Taffy,O'Callaghan,1906-10-06,WAL,91, , ,13,13,0,5
+osbofr,Frank Raymond,Osborne,1896-10-14,ENG,91, , ,34,34,0,9
+poynce,Cecil,Poynton,1901-08-10,ENG,91, , ,31,31,0,0
+richj4,John,Richardson,1906-11-11,SCO,91, , ,2,2,0,0
+roextw,Thomas William,Roe,1900-12-08,ENG,91, , ,3,3,0,3
+sandaw,Arthur William,Sanders,1901-05-08,ENG,91, , ,12,12,0,7
+seedjm,James Marshall,Seed,1895-03-25,ENG,91, , ,23,23,0,7
+skitha,Harry,Skitt,1901-06-26,ENG,91, , ,22,22,0,0
+smitjm,James McQueen Anderson,Smith,1901-11-28,SCO,91, , ,23,23,0,0
+smitb3,Bertram,Smith,1892-03-07,ENG,91, , ,24,24,0,0
+thoma6,Andrew,Thompson,1899-01-21,ENG,91, , ,30,30,0,2
+allejw,John William Alcroft,Allen,1903-01-31,ENG,81, , ,5,5,0,0
+anstha,Henry Augustus,Anstiss,1899-08-22,ENG,81, , ,12,12,0,5
+blener,Ernie,Blenkinsopp,1902-04-20,ENG,81, , ,37,37,0,0
+browjh,John Henry,Brown,1899-03-18,ENG,81, , ,39,39,0,0
+burrbj,Ben James Herbert,Burridge,1898-03-11,ENG,81, , ,4,4,0,0
+cruial,Alexander,Cruickshank,1903-01-01,ENG,81, , ,2,2,0,0
+feltwi,William,Felton,1900-08-01,ENG,81, , ,17,17,0,0
+frogfr,Frank,Froggatt,1898-03-21,ENG,81, , ,4,4,0,1
+hillha,Harold,Hill,1899-09-24,ENG,81, , ,27,27,0,12
+hoopma,Mark,Hooper,1901-07-14,ENG,81, , ,15,15,0,2
+keanfw,Frederick William,Kean,1898-12-10,ENG,81, , ,39,39,0,1
+kirkda,Daniel,Kirkwood,1900-12-24,SCO,81, , ,17,17,0,1
+leactj,Thomas J,Leach,1903-09-23,ENG,81, , ,14,14,0,1
+lowdae,Arthur Edward,Lowdell,1897-11-07,ENG,81, , ,28,28,0,0
+marswi,William,Marsden,1901-11-10,ENG,81, , ,42,42,0,0
+marsf2,Fred,Marson,1900-01-18,ENG,81, , ,3,3,0,0
+mellrd,Richard Douglas,Mellors,1905-03-17,ENG,81, , ,3,3,0,0
+powesa,Samuel,Powell,1899-05-25,ENG,81, , ,4,4,0,1
+straah,Alfred Henry,Strange,1900-04-02,ENG,81, , ,13,13,0,5
+trotjw,James William,Trotter,1899-11-25,ENG,81, , ,41,41,0,37
+walkt2,Thomas,Walker,1902-03-04,SCO,81, , ,30,30,0,0
+wilkjo,John,Wilkinson,1902-06-13,ENG,81, , ,38,38,0,8
+willdr,David Rees,Williams,1900-01-01,WAL,81, , ,28,28,0,1
+adamwi,William,Adams,1892-08-01,ENG,95, , ,6,6,0,0
+ashmgs,George Samuel Austin,Ashmore,1898-05-05,ENG,95, , ,38,38,0,0
+ashuwi,William,Ashurst,1894-05-04,ENG,95, , ,22,22,0,1
+baugrh,Richard Horace,Baugh,1898-03-06,ENG,95, , ,13,13,0,0
+byerje,John Edwin,Byers,1897-07-01,ENG,95, , ,29,29,0,5
+cartjh,Joseph Henry,Carter,1899-07-27,ENG,95, , ,36,36,0,15
+corbfj,Francis James,Corbett,1903-08-27,ENG,95, , ,4,4,0,0
+davisc,Stanley Charles,Davies,1898-04-24,WAL,95, , ,33,33,0,15
+dutthr,Henry Robert,Dutton,1898-01-16,ENG,95, , ,3,3,0,0
+evanjt,Joseph Thomas,Evans,1906-02-06,ENG,95, , ,5,5,0,0
+fincbo,Bob,Finch,1908-08-31,ENG,95, , ,1,1,0,0
+fittga,George Arthur,Fitton,1902-05-30,ENG,95, , ,12,12,0,1
+glidtw,Thomas William,Glidden,1902-07-20,ENG,95, , ,41,41,0,6
+howane,Nelson,Howarth,1905-01-01,ENG,95, , ,34,34,0,0
+jamegc,George Charles,James,1899-02-02,ENG,95, , ,17,17,0,6
+magetp,Thomas Patrick,Magee,1899-05-06,ENG,95, , ,42,42,0,3
+perraa,Arthur Arnold,Perry,1897-07-01,ENG,95, , ,13,13,0,0
+poxtjh,James Harold,Poxton,1903-02-02,ENG,95, , ,1,1,0,0
+reedfw,Frederick William Marshall,Reed,1894-03-01,ENG,95, , ,15,15,0,0
+richsa,Samuel,Richardson,1894-08-11,ENG,95, , ,7,7,0,0
+rookej,Edward J H,Rooke,1899-11-01,ENG,95, , ,25,25,0,1
+shawge,George,Shaw,1899-10-13,ENG,95, , ,25,25,0,0
+shorjs,John Samuel,Short,1903-05-10,ENG,95, , ,18,18,0,7
+sproth,Thomas,Sproson,1903-12-09,ENG,95, , ,4,4,0,0
+wilsch,Charles,Wilson,1905-07-20,ENG,95, , ,18,18,0,4
+bailda,David Arthur,Baillie,1905-06-06,ENG,96, , ,1,1,0,0
+barrjw,James William,Barrett,1907-01-19,ENG,96, , ,42,42,0,1
+bishsm,Sidney Macdonald,Bishop,1900-02-10,ENG,96, , ,9,9,0,0
+cadwaf,Albert Frank,Cadwell,1900-11-01,ENG,96, , ,13,13,0,0
+cartgw,George William,Carter,1900-10-19,ENG,96, , ,26,26,0,0
+colljf,James Frederick Arthur,Collins,1903-07-14,ENG,96, , ,42,42,0,1
+dowsjo,John,Dowsey,1905-05-01,ENG,96, , ,1,1,0,0
+earlat,Alfred Thomas,Earl,1903-03-19,ENG,96, , ,1,1,0,0
+earlsg,Stanley George James,Earle,1897-09-06,ENG,96, , ,42,42,0,13
+gibbwv,William Vivian Talvot,Gibbins,1901-01-07,ENG,96, , ,22,22,0,4
+hebdjt,John Thomas,Hebden,1900-11-12,ENG,96, , ,39,39,0,0
+hodgth,Thomas,Hodgson,1903-01-19,ENG,96, , ,16,16,0,0
+horlgh,George Henry,Horler,1895-02-10,ENG,96, , ,20,20,0,0
+huftae,Arthur Edward,Hufton,1892-11-25,ENG,96, , ,40,40,0,0
+hullaj,Archibald James,Hull,1902-08-08,ENG,96, , ,1,1,0,0
+johnwj,William Joseph,Johnson, ,ENG,96, , ,14,14,0,7
+kaneal,Alexander,Kane,1900-01-22,SCO,96, , ,1,1,0,0
+moorwg,William Gray Bruce,Moore,1894-10-06,ENG,96, , ,12,12,0,2
+paynjf,John Frederick,Payne,1906-06-03,ENG,96, , ,1,1,0,0
+ruffjw,James William,Ruffell,1900-08-08,ENG,96, , ,37,37,0,13
+watsvm,Victor Martin,Watson,1897-11-10,ENG,96, , ,42,42,0,34
+willwd,William Dennis,Williams,1905-09-27,ENG,96, , ,1,1,0,0
+yewstp,Thomas Peace,Yews,1902-02-28,ENG,96, , ,39,39,0,8
