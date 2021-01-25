@@ -462,8 +462,8 @@ int Extract(char *filename) {
         char home[64], guest[64], aux[64];
         tok[0] = strtok(s, " \t\n");
         int h;
-        for (h=1; h<10; h++) tok[h] = strtok(NULL, " \t\n");
-        int k = 9; while (k>0 && tok[k]==NULL) k--;
+        for (h=1; h<20; h++) tok[h] = strtok(NULL, " \t\n");
+        int k = 19; while (k>0 && tok[k]==NULL) k--;
         if (k<3) continue;
         if (tok[k][strlen(tok[k])-1]==']') {
           tkm = tok[k-1]+1;

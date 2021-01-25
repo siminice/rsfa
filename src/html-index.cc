@@ -399,20 +399,31 @@ int main(int argc, char* argv[]) {
   fprintf(f, "<tbody>\n");
   for (int y=FY[0]; y<=LY[0]; y++) {
     int played = 0;
+    int champ = -1;
     for (int p=0; p<=MAX[0]; p++)
       if (part[0][y-FY[0]][p][1]>0) played = 1;
     if (!played) {
+      champ = -1;
       continue;
     }
     SeasonName(y, ss);
-    int champ = part[0][y-FY[0]][0][2];
+    int nt = part[0][y-FY[0]][0][1];
+    if (nt > 0) champ = part[0][y-FY[0]][0][2];
     fprintf(f, "<TR><TD ALIGN=\"center\"><B>%s</B></TD>", ss);
     if (y<LY[0] && champ>=0 && champ<NC) {
       nw[champ]++;
-      fprintf(f, "<TD> <A HREF=\"istoric-%d.html\"><FONT COLOR=\"000000\">%s</FONT></A> (%d)</TD>", champ, NameOf(L, champ, y), nw[champ]);
+      fprintf(f, "<TD> <IMG SRC=\"logo/logo-%d.png\" HEIGHT=\"20\"> <A HREF=\"istoric-%d.html\"><FONT COLOR=\"000000\">%s</FONT></A> (%d)</TD>", champ, champ, NameOf(L, champ, y), nw[champ]);
     }
     else if (y==LY[0] && champ>=0 && champ<NC) {
       fprintf(f, "<TD> -- <A HREF=\"istoric-%d.html\"><FONT COLOR=\"000000\"><I>%s?</I></FONT></A> (%d)</TD>", champ, NameOf(L, champ, y), nw[champ]+1);
+    }
+    else if (nt<=0 && MAX[0]>1 && part[0][y-FY[0]][1][1] > 0 && part[0][y-FY[0]][1][1] > 0) {
+      int champ1 = part[0][y-FY[0]][1][2];
+      int champ2 = part[0][y-FY[0]][2][2];
+      nw[champ1]++;
+      fprintf(f, "<TD> <A HREF=\"istoric-%d.html\"><FONT COLOR=\"000000\">%s</FONT></A> (%d), ", champ1, NameOf(L, champ1, y), nw[champ1]);
+      nw[champ2]++;
+      fprintf(f, "<A HREF=\"istoric-%d.html\"><FONT COLOR=\"000000\">%s</FONT></A> (%d)", champ2, NameOf(L, champ2, y), nw[champ2]);
     }
     else {
       fprintf(f, "<TD></TD>");
@@ -469,6 +480,7 @@ int main(int argc, char* argv[]) {
   fprintf(f, "<LI><A HREF=\"consecutive.html\"><FONT COLOR=\"999999\">Serii consecutive</FONT></A></LI>\n");
   fprintf(f, "<LI><A HREF=\"consecutive-a.html\"><FONT COLOR=\"999999\">Serii consecutive - Liga 1</FONT></A></LI>\n");
   fprintf(f, "</UL>\n");
+  fprintf(f, "</body>");
   fprintf(f, "</html>");
   fclose(f);
 

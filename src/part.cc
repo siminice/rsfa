@@ -4,19 +4,33 @@
 #include <dirent.h>
 
 #define MAX_LEVELS 10
+#define DEFAULT      0
+#define HEAD_TO_HEAD 1
+#define RATIO        2
+#define NUMWINS      4
+#define DRAW8        5
+#define DRAW10       6
+#define GDIFF2       7
+#define GDIFF3       8
+#define AWAY3        9
+#define NUM_ORD      10
+
+#define MAX_N           64
+#define MAX_RR           4
 
 int ND;
 int  ****part;
 int *FY, *LY, *MAX;
 
-int n, ppv, tbr, pr1, pr2, rel1, rel2;
-int id[64], rank[64], pts[64]; 
-int win[64], drw[64], los[64], gsc[64], gre[64];
-int pen[64], pdt[64], round[64][64], res[64][64], round2[64][64], res2[64][64];
-int tbwin[64], tbdrw[64], tblos[64], tbgsc[64], tbgre[64], tbrk[64];
+int  id[MAX_N], win[MAX_N], drw[MAX_N], los[MAX_N], gsc[MAX_N], gre[MAX_N], pen[MAX_N], pdt[MAX_N];
+int pts[MAX_N], rank[MAX_N];
+int rnd[MAX_RR][MAX_N][MAX_N], res[MAX_RR][MAX_N][MAX_N], allres[MAX_RR][MAX_N][MAX_N];
+int  tbwin[MAX_N], tbdrw[MAX_N], tblos[MAX_N], tbgsc[MAX_N], tbgre[MAX_N], tbrk[MAX_N];
+int n, ppv, numr, tbr, pr1, pr2, rel1, rel2;
 
+/*
 int sup(int i, int j, int tbr=0) {
-  if (tbr==1) {
+  if (tbr%10==1) {
     int p1 = ppv*tbwin[i]+tbdrw[i];
     int p2 = ppv*tbwin[j]+tbdrw[j];
     if (p1 > p2) return 1;
@@ -33,7 +47,7 @@ int sup(int i, int j, int tbr=0) {
     if (res[i][j]%100 > res[j][i]%100) return 0;
     return sup(i, j, 0);
   }
-  else if (tbr==2) {
+  else if (tbr%10==2) {
     int p1 = ppv*win[i]+drw[i];
     int p2 = ppv*win[j]+drw[j];
     if (p1 > p2) return 1;
@@ -49,24 +63,24 @@ int sup(int i, int j, int tbr=0) {
     if (win[i] > win[j]) return 1;
     if (win[i] < win[j]) return 0;
     if (i > j) return 0;
+    return 1;
   }
-  else {
+  else if (tbr%10==4) {
     int p1 = pts[i] - pen[i];
     int p2 = pts[j] - pen[j];
     if (p1 > p2) return 1;
     if (p1 < p2) return 0;
+    if (win[i] > win[j]) return 1;
+    if (win[i] < win[j]) return 0;
     if (gsc[i] - gre[i] > gsc[j] - gre[j]) return 1;
     if (gsc[i] - gre[i] < gsc[j] - gre[j]) return 0;
     if (gsc[i] > gsc[j]) return 1;
     if (gsc[i] < gsc[j]) return 0;
-    if (win[i] > win[j]) return 1;
-    if (win[i] < win[j]) return 0;
     if (i > j) return 0;
     return 1;
   }
 }
 
-  
 void Tiebreak(int h, int k) {
   for (int i=h; i<=k; i++) {
     int j = rank[i];
@@ -102,6 +116,148 @@ void Tiebreak(int h, int k) {
   do {
     sorted = 1;
     for (int i=h; i<k; i++)
+      if (sup(tbrk[i+1], tbrk[i], tbr%10)) {
+        sorted = 0;
+        int aux = tbrk[i];
+        tbrk[i] = tbrk[i+1];
+        tbrk[i+1] = aux;
+      }
+  } while (!sorted);
+  for (int i=h; i<=k; i++)
+    rank[i] = tbrk[i];
+}
+
+void Ranking() {
+  // BubbleSort
+  int i, j;
+  for (i=0; i<n; i++) rank[i] = i;
+  int sorted;
+  do {
+    sorted = 1;
+    for (i=0; i<n-1; i++)
+      if (sup(rank[i+1], rank[i], tbr)) {
+        sorted = 0;
+        int aux = rank[i];
+        rank[i] = rank[i+1];
+        rank[i+1] = aux;
+      }
+  } while (!sorted);
+  if (tbr%10==1) {
+    i = 0;
+    while (i<n-1) {
+      j = i;
+      while (j+1<n && (pts[rank[j+1]]-pen[rank[j+1]] == pts[rank[i]]-pen[rank[i]])) j++;
+      if (j>i) Tiebreak(i,j);
+      i = j+1;
+    }
+  }
+}
+*/
+
+int sup(int i, int j, int tbr=0) {
+  int gm1 = win[i]+drw[i]+los[i];
+  int gm2 = win[j]+drw[j]+los[j];
+  int p1 = pts[i] - pen[i];
+  int p2 = pts[j] - pen[j];
+  if (gm1==0 && p1==0 && gm2>0) return 0;
+  if (gm2==0 && p2==0 && gm1>0) return 1;
+  if (tbr%NUM_ORD==HEAD_TO_HEAD) {
+    int p1 = ppv*tbwin[i]+tbdrw[i];
+    int p2 = ppv*tbwin[j]+tbdrw[j];
+    if (p1 > p2) return 1;
+    if (p1 < p2) return 0;
+    if (tbgsc[i] - tbgre[i] > tbgsc[j] - tbgre[j]) return 1;
+    if (tbgsc[i] - tbgre[i] < tbgsc[j] - tbgre[j]) return 0;
+    if (tbgsc[i] > tbgsc[j]) return 1;
+    if (tbgsc[i] < tbgsc[j]) return 0;
+    if (tbwin[i] > tbwin[j]) return 1;
+    if (tbwin[i] < tbwin[j]) return 0;
+    int gs1 = 0;
+    int gs2 = 0;
+    for (int k=0; k<numr; k++) {
+      if (res[k][i][j] >=0) { gs1 += res[k][i][j]/100; gs2 += res[k][i][j]%100; }
+      if (res[k][j][i] >=0) { gs1 += res[k][j][i]%100; gs2 += res[k][j][i]/100; }
+    }
+    if (gs1 > gs2 ) return 1;
+    if (gs2 > gs1 ) return 0;
+    return sup(i, j, 0);
+  }
+  else if (tbr%NUM_ORD==RATIO) {
+    int p1 = ppv*win[i]+drw[i];
+    int p2 = ppv*win[j]+drw[j];
+    if (p1 > p2) return 1;
+    if (p1 < p2) return 0;
+    double gc1 = 0.0;
+    if (gre[i]>0) gc1 = (double) gsc[i]/ (double) gre[i];
+    double gc2 = 0.0;
+    if (gre[j]>0) gc2 = (double) gsc[j]/ (double) gre[j];
+    if (gc1>gc2) return 1;
+    if (gc1<gc2) return 0;
+    if (gsc[i] > gsc[j]) return 1;
+    if (gsc[i] < gsc[j]) return 0;
+    if (win[i] > win[j]) return 1;
+    if (win[i] < win[j]) return 0;
+    if (i > j) return 0;
+  }
+  else if (tbr%NUM_ORD==NUMWINS) {
+    int p1 = pts[i] - pen[i];
+    int p2 = pts[j] - pen[j];
+    if (p1 > p2) return 1;
+    if (p1 < p2) return 0;
+    if (win[i] > win[j]) return 1;
+    if (win[i] < win[j]) return 0;
+    if (gsc[i] - gre[i] > gsc[j] - gre[j]) return 1;
+    if (gsc[i] - gre[i] < gsc[j] - gre[j]) return 0;
+    if (gsc[i] > gsc[j]) return 1;
+    if (gsc[i] < gsc[j]) return 0;
+    if (i > j) return 0;
+  }
+  else {
+    int p1 = pts[i] - pen[i];
+    int p2 = pts[j] - pen[j];
+    if (p1 > p2) return 1;
+    if (p1 < p2) return 0;
+    if (gsc[i] - gre[i] > gsc[j] - gre[j]) return 1;
+    if (gsc[i] - gre[i] < gsc[j] - gre[j]) return 0;
+    if (gsc[i] > gsc[j]) return 1;
+    if (gsc[i] < gsc[j]) return 0;
+    if (win[i] > win[j]) return 1;
+    if (win[i] < win[j]) return 0;
+    if (i > j) return 0;
+    return 1;
+  }
+}
+
+void Tiebreak(int h, int k) {
+  for (int i=h; i<=k; i++) {
+    int j = rank[i];
+    tbwin[j] = tbdrw[j] = tblos[j] = tbgsc[j] = tbgre[j] = 0;
+    tbrk[i] = rank[i];
+  }
+  int gm = 0;
+  for (int i=h; i<=k; i++) {
+    for (int j=h; j<=k; j++) {
+      int t1 = rank[i];
+      int t2 = rank[j];
+      for (int kr=0; kr<numr; kr++) {
+      if (res[kr][t1][t2] >= 0) {
+        gm++;
+        int x = res[kr][t1][t2] / 100;
+        int y = res[kr][t1][t2] % 100;
+        tbgsc[t1] += x; tbgre[t2] += x;
+        tbgsc[t2] += y; tbgre[t1] += y;
+        if (x>y) {tbwin[t1]++; tblos[t2]++;}
+        else if (x==y) {tbdrw[t1]++; tbdrw[t2]++;}
+        else {tbwin[t2]++; tblos[t1]++;}
+      }
+      }
+    }
+  }
+
+  int sorted;
+  do {
+    sorted = 1;
+    for (int i=h; i<k; i++)
       if (sup(tbrk[i+1], tbrk[i], tbr)) {
         sorted = 0;
         int aux = tbrk[i];
@@ -112,7 +268,8 @@ void Tiebreak(int h, int k) {
   for (int i=h; i<=k; i++)
     rank[i] = tbrk[i];
 }
-    
+
+
 void Ranking() {
   // BubbleSort
   int i, j;
@@ -120,25 +277,27 @@ void Ranking() {
   int sorted;
   do {
     sorted = 1;
-    for (i=0; i<n-1; i++)
-      if (sup(rank[i+1], rank[i], (tbr<2?0:tbr))) {
+    for (i=0; i<n-1; i++) {
+      if (sup(rank[i+1], rank[i], (tbr%NUM_ORD<2?0:tbr))) {
         sorted = 0;
-        int aux = rank[i];   
+        int aux = rank[i];
         rank[i] = rank[i+1];
         rank[i+1] = aux;
       }
+    }
   } while (!sorted);
-  if (tbr) {
-    i = 0;
+  if (tbr%NUM_ORD==1) {
+   i = 0;
     while (i<n-1) {
       j = i;
       while (j+1<n && (pts[rank[j+1]]-pen[rank[j+1]] == pts[rank[i]]-pen[rank[i]])) j++;
-      if (j>i) Tiebreak(i,j);  
+      if (j>i) Tiebreak(i,j);
       i = j+1;
     }
   }
 }
 
+/*
 void LoadFile(char *filename) {
   FILE *f;
   int i, j, x, y, r, z;
@@ -183,6 +342,50 @@ void LoadFile(char *filename) {
   }
 
   fclose(f);
+}
+*/
+
+int LoadFile(char *filename) {
+  FILE *f;
+  int i, j, k, x, y, r, z;
+//  printf("Reading from file %s...\n", filename);
+  f = fopen(filename, "rt");
+  if (NULL == f) return 0;
+  // Loading file
+  char s[500], *tok[12];
+  fscanf(f, "%d %d %d %d %d %d %d\n", &n, &ppv, &tbr, &pr1, &pr2, &rel1, &rel2);
+  numr = tbr/NUM_ORD + 1;
+  for (i=0; i<n; i++) {
+    fgets(s, 200, f);
+    tok[0] = strtok(s, " ");
+    for (int k=1; k<12; k++) tok[k] = strtok(NULL, " \n");
+    id[i] = atoi(tok[0]);
+    win[i] = atoi(tok[2]);
+    drw[i] = atoi(tok[3]);
+    los[i] = atoi(tok[4]);
+    gsc[i] = atoi(tok[5]);
+    gre[i] = atoi(tok[6]);
+    pts[i] = atoi(tok[7]);
+    if (tok[8]) pen[i] = atoi(tok[8]); else pen[i] = 0;
+    if (tok[9]) pdt[i] = atoi(tok[9]); else pdt[i] = 0;
+  }
+
+  for (k=0; k<MAX_RR; k++)
+    for (i=0; i<n; i++)
+      for (j=0; j<n; j++) { rnd[k][i][j] = res[k][i][j] = -1; }
+
+  for (k=0; k<numr; k++) {
+   for (i=0; i<n; i++) {
+    for (j=0; j<n; j++) {
+      fscanf(f, "%d %d", &r, &z);
+      rnd[k][i][j] = r;
+      res[k][i][j] = z;
+    }
+    fscanf(f, "\n");
+   }
+  }
+  fclose(f);
+  return 1;
 }
 
 int main(int argc, char **argv) {

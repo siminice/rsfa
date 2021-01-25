@@ -227,7 +227,7 @@ int sup(int i, int j, int tbr=0) {
   int p2 = pts[j] - pen[j];
   if (gm1==0 && p1==0 && gm2>0) return 0;
   if (gm2==0 && p2==0 && gm1>0) return 1;
-  if (tbr%NUM_ORD==HEAD_TO_HEAD) {  
+  if (tbr%NUM_ORD==HEAD_TO_HEAD) {
     int p1 = ppv*tbwin[i]+tbdrw[i];
     int p2 = ppv*tbwin[j]+tbdrw[j];
     if (p1 > p2) return 1;
@@ -241,14 +241,14 @@ int sup(int i, int j, int tbr=0) {
     int gs1 = 0;
     int gs2 = 0;
     for (int k=0; k<numr; k++) {
-      if (res[k][i][j] >=0) { gs1 += res[k][i][j]/100; gs2 += res[k][i][j]%100; } 
-      if (res[k][j][i] >=0) { gs1 += res[k][j][i]%100; gs2 += res[k][j][i]/100; } 
+      if (res[k][i][j] >=0) { gs1 += res[k][i][j]/100; gs2 += res[k][i][j]%100; }
+      if (res[k][j][i] >=0) { gs1 += res[k][j][i]%100; gs2 += res[k][j][i]/100; }
     }
     if (gs1 > gs2 ) return 1;
     if (gs2 > gs1 ) return 0;
     return sup(i, j, 0);
   }
-  else if (tbr%NUM_ORD==RATIO) {  
+  else if (tbr%NUM_ORD==RATIO) {
     int p1 = ppv*win[i]+drw[i];
     int p2 = ppv*win[j]+drw[j];
     if (p1 > p2) return 1;
@@ -265,6 +265,21 @@ int sup(int i, int j, int tbr=0) {
     if (win[i] < win[j]) return 0;
     if (i > j) return 0;
   }
+  else if (tbr%NUM_ORD==NUMWINS) {
+    int p1 = pts[i];
+    int p2 = pts[j];
+    if (pen[i]!=0 && after(pdt[i],lastr)) p1 -= pen[i];
+    if (pen[j]!=0 && after(pdt[j],lastr)) p2 -= pen[j];
+    if (p1 > p2) return 1;
+    if (p1 < p2) return 0;
+    if (win[i] > win[j]) return 1;
+    if (win[i] < win[j]) return 0;
+    if (gsc[i] - gre[i] > gsc[j] - gre[j]) return 1;
+    if (gsc[i] - gre[i] < gsc[j] - gre[j]) return 0;
+    if (gsc[i] > gsc[j]) return 1;
+    if (gsc[i] < gsc[j]) return 0;
+    if (i > j) return 0;
+  }
   else {
     int p1 = pts[i];
     int p2 = pts[j];
@@ -274,7 +289,7 @@ int sup(int i, int j, int tbr=0) {
     if (p1 < p2) return 0;
     if (gsc[i] - gre[i] > gsc[j] - gre[j]) return 1;
     if (gsc[i] - gre[i] < gsc[j] - gre[j]) return 0;
-    if (gsc[i] > gsc[j]) return 1;   
+    if (gsc[i] > gsc[j]) return 1;
     if (gsc[i] < gsc[j]) return 0;
     if (win[i] > win[j]) return 1;
     if (win[i] < win[j]) return 0;
@@ -282,7 +297,7 @@ int sup(int i, int j, int tbr=0) {
     return 1;
   }
 }
-  
+
 void Tiebreak(int h, int k) {
   for (int i=h; i<=k; i++) {
     int j = rank[i];
@@ -309,11 +324,11 @@ void Tiebreak(int h, int k) {
     }
   }
 
-  int sorted; 
+  int sorted;
   do {
     sorted = 1;
     for (int i=h; i<k; i++)
-      if (sup(tbrk[i+1], tbrk[i], (tbr%NUM_ORD!=RATIO ? gm>=(k-h+1)*(k-h) : RATIO))) {  
+      if (sup(tbrk[i+1], tbrk[i], (tbr%NUM_ORD!=RATIO ? gm>=(k-h+1)*(k-h) : RATIO))) {
         sorted = 0;
         int aux = tbrk[i];
         tbrk[i] = tbrk[i+1];
@@ -323,7 +338,7 @@ void Tiebreak(int h, int k) {
   for (int i=h; i<=k; i++)
     rank[i] = tbrk[i];
 }
-    
+
 
 void Ranking() {
   // BubbleSort

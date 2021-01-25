@@ -6,7 +6,7 @@
 #define MAX_NAMES      2000
 #define MAX_SEASONS     200
 
-#define DB_ROWS         600
+#define DB_ROWS         800
 #define DB_COLS          60
 #define DB_CELL          40
 
@@ -32,7 +32,7 @@
 
 #define NUM_ORD	10
 #define MAX_RR	 3
-#define MAX_TEAMS 24
+#define MAX_TEAMS 32
 #define ROSTER_SIZE 22
 
 #define EV_COLS 30

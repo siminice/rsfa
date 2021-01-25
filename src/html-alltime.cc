@@ -379,7 +379,8 @@ void Alltime(int d) {
   fprintf(of, "<TABLE BORDER=\"1\" WIDTH=\"80%%\" CELLPADDING=\"2\" RULES=\"rows\" FRAME=\"box\">\n");
   fprintf(of, "<TR BGCOLOR=\"DDDDDD\">");
   fprintf(of, "<TH WIDTH=\"2%%\" ALIGN=\"right\">#</TH>");
-  fprintf(of, "<TH WIDTH=\"40%%\" ALIGN=\"left\">Echipa</TH>");
+  fprintf(of, "<TH WIDTH=\"3%%\" ALIGN=\"center\"></TH>");
+  fprintf(of, "<TH WIDTH=\"37%%\" ALIGN=\"left\">Echipa</TH>");
   fprintf(of, "<TH WIDTH=\"3%%\" ALIGN=\"center\">S</TH>");
   fprintf(of, "<TH WIDTH=\"7%%\" ALIGN=\"center\">J</TH>");
   fprintf(of, "<TH WIDTH=\"7%%\" ALIGN=\"center\">V</TH>");
@@ -398,6 +399,7 @@ void Alltime(int d) {
     if (ng>0) {
       fprintf(of, "<TR BGCOLOR=\"%s\">", (i%2==1?"FFFFFF":"DDDDFF"));
       fprintf(of, "<TD ALIGN=\"right\">%d.</TD>", i+1);
+      fprintf(of, "<TD><IMG SRC=\"logo/logo-%d.png\" HEIGHT=\"20\"></TD>", k);
       fprintf(of, "<TD ALIGN=\"left\"><A HREF=\"istoric-%d.html\">%s%s%s</A></TD>", k, (last[d][k]>0?"<B>":""), NameOf(L, k, 3000), (last[d][k]>0?"</B>":""));
       fprintf(of, "<TD ALIGN=\"right\">(%d)</TD>", aed[d][k]);
       fprintf(of, "<TD ALIGN=\"right\">%d</TD>", ng);

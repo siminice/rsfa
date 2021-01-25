@@ -86,7 +86,7 @@ int split_after, split_top, split_points, cancel_gdiff, vs_top;
 FILE *of;
 char dvz;
 int  tier, seria;
-char sf[128];
+char sf[32], psf[32], nsf[32];
 int  played[650];
 int  sched[650][24];
 int  num_sched, first_d, first_r, last_d, last_r;
@@ -336,6 +336,14 @@ int sup(int r, int i, int j, int tbr=0) {
   int gm2 = win[j]+drw[j]+los[j];
   int p1 = pts[i];
   int p2 = pts[j];
+  if (tbr%NUMORD==DRAW10) {
+    p1 = drw[i] > 10? p1 - (drw[i]-10) : p1;
+    p2 = drw[j] > 10? p2 - (drw[j]-10) : p2;
+  }
+  if (tbr%NUMORD==DRAW8) {
+    p1 = drw[i] > 8? p1 - (drw[i]-8) : p1;
+    p2 = drw[j] > 8? p2 - (drw[j]-8) : p2;
+  }
   if (r <= split_after) {
     p1 -= pen[i];
     p2 -= pen[j];
@@ -384,6 +392,21 @@ int sup(int r, int i, int j, int tbr=0) {
     if (gc1<gc2) return 0;
     if (win[i] > win[j]) return 1;
     if (win[i] < win[j]) return 0;
+    if (gsc[i] > gsc[j]) return 1;
+    if (gsc[i] < gsc[j]) return 0;
+    if (i > j) return 0;
+  }
+  else if (tbr%NUMORD==NUMWINS) {
+    int p1 = pts[i];
+    int p2 = pts[j];
+    if (r<=split_after && pen[i]!=0 && after(pdt[i],lastr)) p1 -= pen[i];
+    if (r<=split_after && pen[j]!=0 && after(pdt[j],lastr)) p2 -= pen[j];
+    if (p1 > p2) return 1;
+    if (p1 < p2) return 0;
+    if (win[i] > win[j]) return 1;
+    if (win[i] < win[j]) return 0;
+    if (gsc[i] - gre[i] > gsc[j] - gre[j]) return 1;
+    if (gsc[i] - gre[i] < gsc[j] - gre[j]) return 0;
     if (gsc[i] > gsc[j]) return 1;
     if (gsc[i] < gsc[j]) return 0;
     if (i > j) return 0;
@@ -730,7 +753,7 @@ void AdjustStats() {
 
 int LoadFile(char *filename) {
   FILE *f;
-  int i, j, x, y, r, z;
+  int i, j, x, y, r, z, maxr;
   char s[512], *tok[20];
 
 //  printf("Reading from file %s...\n", filename);
@@ -742,6 +765,7 @@ int LoadFile(char *filename) {
   rr = tbr/NUMORD + 1;
   if (n%2==0) numr = rr*2*(n-1);
   else numr = rr*2*n;
+  maxr = numr;
 
   dates_unknown = 1;
   /* clear all  data */
@@ -794,6 +818,7 @@ int LoadFile(char *filename) {
       res[h][i][j] = -1;
       int tr = round[h][i][j]/1000;
       int td = round[h][i][j]%1000;
+      if (tr > maxr) maxr = tr;
       // autocorrect multiple round robin ?
 /*
       if (h>0 && tr <= numr/rr) {
@@ -814,6 +839,7 @@ int LoadFile(char *filename) {
   }
   }
   fclose(f);
+  if (maxr > numr) numr = maxr;
   return 1;
 }
 
@@ -826,8 +852,8 @@ void LoadPlayers() {
     fprintf(stderr, "ERROR: player database not found!\n");
     exit(0);
   }
-  char s[100], *t[10];
-  fgets(s, 100, f);
+  char s[512], *t[10];
+  fgets(s, 500, f);
   sscanf(s, "%d", &NP);
   pname = new char*[MAX_NAMES];
   pmnem = new char*[MAX_NAMES];
@@ -838,7 +864,7 @@ void LoadPlayers() {
   pjud  = new char*[MAX_NAMES];
 
   for (int i=0; i<NP; i++) {
-    fgets(s, 100, f);
+    fgets(s, 500, f);
 //    fprintf(stderr, "... parsing %s", s);
     t[0] = strtok(s, ",\t\n");
      pmnem[i] = new char[7];
@@ -947,9 +973,9 @@ void TopScorers() {
 }
 
 void SeasonName(int y, char *ss) {
-  int winter = 0;
+  winter = false;
   for (int  i=0; i<num_winter; i++) {
-    if (y>=start_winter[i] && y<=end_winter[i]) winter = 1;
+    if (y>=start_winter[i] && y<=end_winter[i]) winter = true;
   }
   if (winter) sprintf(ss, "%d", y);
   else sprintf(ss, "%d/%02d", y-1, y%100);
@@ -993,6 +1019,10 @@ void NavTable(int r) {
   fprintf(of, "<B><FONT SIZE=+2>%s ", lex[tier]->GetNick(year));
   if (seria>0) fprintf(of, "%d", seria);
   fprintf(of, " %s", ss);
+
+  fprintf(of, "&nbsp;<A HREF=\"%s-r%d.html\"><IMG HEIGHT=\"30\" SRC=\"prev.gif\"></IMG></A>", psf, r);
+  fprintf(of, "<A HREF=\"%s-r%d.html\"><IMG HEIGHT=\"30\" SRC=\"next.gif\"></IMG></A>", nsf, r);
+
   if (calendar) {
     fprintf(of, "<BR>  %d %s", r%50, romonth[r/50]);
   }
@@ -1027,7 +1057,7 @@ void NavTable(int r) {
     if (r!=first_d) {
       fprintf(of, "<A HREF=\"%s-d%d.html\">", sf, pr);
     }
-    fprintf(of, "<IMG HEIGHT=\"32\" SRC=\"prev.gif\"></IMG>");
+    fprintf(of, "<IMG HEIGHT=\"24\" SRC=\"prev.gif\"></IMG>");
     if (r!=first_d) {
       fprintf(of, "</A>");
     }
@@ -1036,7 +1066,7 @@ void NavTable(int r) {
     if (r>1) {
       fprintf(of, "<A HREF=\"%s-r%d.html\">", sf, r-1);
     }
-    fprintf(of, "<IMG HEIGHT=\"32\" SRC=\"prev.gif\"></IMG>");
+    fprintf(of, "<IMG HEIGHT=\"24\" SRC=\"prev.gif\"></IMG>");
     if (r>1) {
       fprintf(of, "</A>");
     }
@@ -1048,7 +1078,7 @@ void NavTable(int r) {
     if (r!=last_d) {
       fprintf(of, "<A HREF=\"%s-d%d.html\">", sf, nr);
     }
-    fprintf(of, "<IMG HEIGHT=\"32\" SRC=\"next.gif\"></IMG>");
+    fprintf(of, "<IMG HEIGHT=\"24\" SRC=\"next.gif\"></IMG>");
     if (r!=first_d) {
       fprintf(of, "</A>");
     }
@@ -1057,7 +1087,7 @@ void NavTable(int r) {
     if (r<numr) {
       fprintf(of, "<A HREF=\"%s-r%d.html\">", sf, r+1);
     }
-    fprintf(of, "<IMG HEIGHT=\"32\" SRC=\"next.gif\"></IMG>");
+    fprintf(of, "<IMG HEIGHT=\"24\" SRC=\"next.gif\"></IMG>");
     if (r<numr) {
       fprintf(of, "</A>");
     }
@@ -1506,6 +1536,9 @@ void ClasTable(int r, int synoptic) {
     fprintf(of, "<TD ALIGN=\"center\">%c</TD>\n", (tbr%10<2?'-':':'));
     fprintf(of, "<TD ALIGN=\"right\">%d</TD>\n", gre[x]);
     int points =  ppv*win[x]+drw[x];
+    if (tbr%NUMORD==DRAW10) { points = drw[x] > 10? points - (drw[x]-10) : points; }
+    if (tbr%NUMORD==DRAW8) { points = drw[x] > 8? points - (drw[x]-8) : points; }
+
     if (pen[x]!=0 && after(pdt[x],lastr)) points -= pen[x];
     if (r > split_after) points = pts[x];
     fprintf(of, "<TD ALIGN=\"right\">%d</TD>\n", points);
@@ -1732,17 +1765,30 @@ int main(int argc, char* argv[]) {
     return -1;
   }
 
+  char *farg = new char[24];
+  strncpy(farg, argv[1], 24);
+  strtok(farg, ".");
+  char *ystr = strtok(NULL, " ");
+  //ystr = strtok(NULL, " ");
+  if (ystr) year = atoi(ystr); else year = 0;
+
   sprintf(sf, "%s", argv[1]);
   dvz = sf[0] - 32;
   tier = dvz - 65;
   char spl[3];
-  if (sf[1]=='.') seria = 0;
+  if (sf[1]=='.') {
+    seria = 0;
+    sprintf(psf, "%c.%d", sf[0], year-1);
+    sprintf(nsf, "%c.%d", sf[0], year+1);
+  }
   else {
     spl[0] = sf[1]; spl[1] = 0;
     if (sf[2]!='.') {
       spl[1] = sf[2]; spl[2] = 0;
     }
     seria = atoi(spl);
+    sprintf(psf, "%c%d.%d", sf[0], seria, year-1);
+    sprintf(nsf, "%c%d.%d", sf[0], seria, year+1);
   }
   if (!LoadFile(argv[1])) {
     printf("ERROR: file %s not found.\n", argv[1]);
@@ -1755,11 +1801,7 @@ int main(int argc, char* argv[]) {
   cancel_gdiff = 0;
   vs_top = n;
 
-  char *ystr = strtok(argv[1], ".");
-  ystr = strtok(NULL, " ");
-  if (ystr) year = atoi(ystr); else year = 0;
   bool full = true;
-  winter = false;
   fd = -1;
   ld = -1;
   NG = 0;

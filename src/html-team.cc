@@ -572,11 +572,14 @@ void Evol(int a) {
   fprintf(of, "<HEAD>\n<link href=\"css/seasons.css\" rel=\"stylesheet\" type=\"text/css\"/>\n");
   fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(of, "</HEAD>\n<BODY BGCOLOR=\"777777\">\n");
+  fprintf(of, "<TABLE>\n<TR>\n");
+  fprintf(of, "<TD><IMG SRC=\"logo/logo-%d.png\" HEIGHT=\"120\" onerror=this.src=\"../../blogo.png\">\n<TD>", a);
   fprintf(of, "<H2>Evoluţie istorică %s</H2>\n", NameOf(L, a, 3000));
   fprintf(of, "<UL><LI><A HREF=\"palmares-%d.html\"><FONT COLOR=\"000000\" SIZE=+1>Palmares</FONT></A></LI>\n", a);
   fprintf(of, "<LI><A HREF=\"consecutive-%d.html\"><FONT COLOR=\"000000\" SIZE=+1>Serii consecutive</FONT></A></LI>\n", a);
   fprintf(of, "<LI><A HREF=\"lot-%d.html\"><FONT COLOR=\"000000\" SIZE=+1>Loturi jucători</FONT></A></LI>\n", a);
   fprintf(of, "</UL>\n");
+  fprintf(of, "</TD>\n</TR></TABLE>\n\n");
 
   fprintf(of, "<TABLE  WIDTH=\"85%%\" BORDER=\"1\" RULES=\"rows\" FRAME=\"box\">\n");
   fprintf(of, "<THEAD>\n<TR BGCOLOR=\"EEEEEE\">\n");

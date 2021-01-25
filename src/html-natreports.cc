@@ -12,7 +12,7 @@
 #define CAT_COLS		  20
 #define ROSTER_SIZE		22
 
-#define MAX_NAMES  20000
+#define MAX_NAMES  30000
 #define DB_ROWS      60
 #define DB_COLS      60
 #define DB_CELL      40
@@ -1889,7 +1889,7 @@ void SynopticTable() {
 int main(int argc, char* argv[]) {
   char filename[256];
 	NFY = 1922;
-	NLY = 2017;
+	NLY = 2019;
 
   if (!Load()) {
     printf("ERROR: called from invalid drectory.\n");

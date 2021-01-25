@@ -8,6 +8,7 @@
 #define TM_NATL	-3
 #define TM_CUPA	-4
 #define EURO 1000
+#define MPSSN 2000
 #define NATIONALA 39000
 #define PSO_TIME     200
 #define UNKNOWN_TIME 999
@@ -24,6 +25,7 @@
 
 int verbosity;
 int current;
+int euro;
 int *curpids;
 int *curtids;
 int numpids, numtids;
@@ -380,18 +382,18 @@ int GetYear(char *sd) {
 /* *************************************** */
 
 #define MAX_NAMES	20000
-#define MAX_SEASONS	200
-#define MAX_CDB		800
-#define MAX_LDB		700
-#define MAX_CKDB	750
-#define MAX_LKDB	 50
-#define MAX_CEDB	200
-#define MAX_LEDB	100
-#define MAX_CNDB	100
-#define MAX_LNDB	 30
-#define LDB_COLS	 60
-#define VDB_COLS	 30
-#define MAX_LOG	   1000
+#define MAX_SEASONS	  200
+#define MAX_CDB      1500
+#define MAX_LDB 	 1500
+#define MAX_CKDB	  750
+#define MAX_LKDB	   50
+#define MAX_CEDB	  200
+#define MAX_LEDB	  100
+#define MAX_CNDB	  100
+#define MAX_LNDB	   30
+#define LDB_COLS	   60
+#define VDB_COLS	   30
+#define MAX_LOG	     1000
 
 #define CAT_MNEM    0
 #define CAT_NAME    1
@@ -618,8 +620,8 @@ void LoadPlayers() {
     fprintf(stderr, "ERROR: player database not found!\n");
     exit(0);
   }
-  char s[256], *t[10];
-  fgets(s, 256, f);
+  char s[512], *t[10];
+  fgets(s, 500, f);
   sscanf(s, "%d", &NP);
   pname = new char*[NP+1];
   pmnem = new char*[NP+1];
@@ -647,7 +649,7 @@ void LoadPlayers() {
   echn = new int[NP+1];
 
   for (int i=0; i<NP; i++) {
-    fgets(s, 256, f);
+    fgets(s, 500, f);
     t[0] = strtok(s, ",\t\n");
      pmnem[i] = new char[7];
      strcpy(pmnem[i], t[0]);
@@ -704,10 +706,10 @@ void LoadPlayers() {
   f = fopen("cplayers.dat", "rf");
   if (f!=NULL) {
     int CNP = 0;
-    fgets(s, 256, f);
+    fgets(s, 500, f);
     sscanf(s, "%d", &CNP);
     for (int i=0; i<NP; i++) {
-      fgets(s, 256, f);
+      fgets(s, 500, f);
       t[0] = strtok(s, ",\t\n");
       for (int j=1; j<4; j++) t[j] = strtok(NULL, ",");
       if (t[3]) {
@@ -835,7 +837,7 @@ int NumericDate(char *s) {
 	if (l<10) return -1;
     while (s[0]==' ') s++;
 	if (s[0]==0) return -1;
-	int ssn = 1000*(s[0]-48) + 100*(s[1]-48) + 10*(s[2]-48) + (s[3]-48) - (FY-1);
+	int ssn = 2000*(s[0]-48) + 100*(s[1]-48) + 10*(s[2]-48) + (s[3]-48) - (FY-1);
     int day = 500*(s[5]-48) + 50*(s[6]-48) + 10*(s[8]-48) + (s[9]-48);
 	int hrs = 0;
 	int min = 0;
@@ -1050,7 +1052,7 @@ void ExtractLists(int year, char ****ldb, char ****edb) {
 						   }
                         }
 					}
-					clist[pid][n+1] = 1000*y+r;
+					clist[pid][n+1] = 2000*y+r;
 					mlist[pid][n+1] = 1000*(j<DB_ROSTER2?wx:wy)+min;
 					if (j>=DB_ROSTER2) mlist[pid][n+1] += 10000;
 					clist[pid][0]++;
@@ -1144,7 +1146,7 @@ void TeamStats(int year, int t, int pl) {
     if (ccdb[n][i][CAT_YELLOW]) scg = atoi(ccdb[n][i][CAT_YELLOW]);
     if (ccdb[n][i][CAT_RED])    scr = atoi(ccdb[n][i][CAT_RED]);
 
-    if (year !=1957) {
+//    if (year !=1957) {
       pmeci[p] += sm;
       ptit[p]  += st;
       prez[p]  += sr;
@@ -1155,7 +1157,7 @@ void TeamStats(int year, int t, int pl) {
 	  prec[p]  += sh;
       pyel[p]  += scg;
       pred[p]  += scr;
-    }
+//    }
 
     if (sm>0) {
       if (year!=pfy[p] && year!=ply[p]) psez[p]++;
@@ -1775,13 +1777,13 @@ void PlayerStats(int pl) {
 		do {
 			k++;
 			debmid = clist[pl][k];
-			debssn = debmid/1000;
-			debnum = debmid%1000;
+			debssn = debmid/2000;
+			debnum = debmid%2000;
 		} while (k<=ncaps && debnum>=ngm[debssn][COMP_LIGA]);
 		if (k<=ncaps) {
 			debyear = debssn + FY;
 			debc = debyear - CFY;
-			retyear = clist[pl][ncaps]/1000 + FY;
+			retyear = clist[pl][ncaps]/2000 + FY;
 			char sdate[32];
 			strcpy(sdate, lcdb[debc][debnum][DB_DATE]);
 			strtok(sdate, "@");
@@ -1881,11 +1883,11 @@ void PlayerStats(int pl) {
       if (ccdb[n][i][CAT_GREC])  sh = atoi(ccdb[n][i][CAT_GREC]);
       if (ccdb[n][i][CAT_MIN])   sn = atoi(ccdb[n][i][CAT_MIN]);
 
-      if (year !=1957) {
+//      if (year !=1957) {
         pmeci[p] += sm;
         pmin[p]  += sn;
         pgol[p]  += (sh<0 ? sh : sg);
-      }
+//      }
 
       if (sg>0) {
         if (year!=pfy[p] && year!=ply[p]) psez[p]++;
@@ -1920,7 +1922,7 @@ void PlayerStats(int pl) {
     int i = 0;
     SeasonName(year, ssn);
 
-    while (i<MAX_CKDB && ckdb[n][i]!=NULL) {
+    while (i<ngm[n][COMP_CUPA] && ckdb[n][i]!=NULL) {
       int p = FindMnem(ckdb[n][i][CAT_MNEM]);
       if (p<0) {
         fprintf(stderr, "ERROR: mnemonic ID %s not found.\n", ckdb[n][i][CAT_MNEM]);
@@ -1986,7 +1988,7 @@ void PlayerStats(int pl) {
     SeasonName(year, ssn);
 
     em = et = er = eg = eh = en = 0;
-    while (i<MAX_CEDB && cedb[n][i]!=NULL) {
+    while (i<ngm[n][COMP_EURO] && cedb[n][i]!=NULL) {
       int p = FindMnem(cedb[n][i][TD_MNEM]);
       if (p<0) {
         fprintf(stderr, "ERROR: mnemonic ID %s not found.\n", cedb[n][i][TD_MNEM]);
@@ -2262,9 +2264,9 @@ void PlayerStats(int pl) {
     int firstrow = 1;
   for (int i=0; i<ncaps; i++) {
 			int mid = clist[pl][i+1];
-			int y = mid/1000;
+			int y = mid/2000;
 			int year = FY+y;
-			int k = mid%1000;
+			int k = mid%2000;
 			if (y!=lsez) {
 				if (lsez>=0) fprintf(of, "</TBODY>");
 				fprintf(of, "<TBODY>");
@@ -2532,12 +2534,13 @@ void HTMLEuroAlltimeTeamStats(int t) {
 
 int main(int argc, char **argv) {
   current = 0;
+  euro = 0;
   verbosity = 2;
-  CFY  = 1933; CLY = 2019;
-  KFY  = 1934; KLY = 2019;
-  EFY  = 1957; ELY = 2019;
-  NFY  = 1922; NLY = 2019;
-  FY   = 1922; LY  = 2019;
+  CFY  = 1933; CLY = 2021;
+  KFY  = 1934; KLY = 2021;
+  EFY  = 1957; ELY = 2021;
+  NFY  = 1922; NLY = 2021;
+  FY   = 1922; LY  = 2021;
   tm = -1;
   pl = -1;
   cr = CR_M;
@@ -2545,6 +2548,7 @@ int main(int argc, char **argv) {
   for (int k=1; k<argc; k++) {
     if (strcmp(argv[k], "-q")==0) verbosity = 0;
     else if (strcmp(argv[k], "-c")==0) current = 1;
+    else if (strcmp(argv[k], "-e")==0) euro = 1;
     else if (strcmp(argv[k], "-fy")==0 && k<argc-1)  {
       FY = atoi(argv[++k]);
       CFY = KFY = EFY = NFY = FY;
@@ -2722,19 +2726,20 @@ int main(int argc, char **argv) {
     HTMLFooter();
     fclose(of);
 
-    ResetStats();
-    for (year=EFY; year<=ELY; year++) {
-      CollectCatalog(year, cedb, COMP_EURO);
-      EuroStats(year, TM_EURO);
-    }
+    if (euro) {
+      ResetStats();
+      for (year=EFY; year<=ELY; year++) {
+        CollectCatalog(year, cedb, COMP_EURO);
+        EuroStats(year, TM_EURO);
+      }
 
-    if (tm<0) {
-      for (int et=0; et<NC; et++) {
-        if (ecc[et]>0) {
-          HTMLEuroAlltimeTeamStats(et);
+      if (tm<0) {
+        for (int et=0; et<NC; et++) {
+          if (ecc[et]>0) {
+            HTMLEuroAlltimeTeamStats(et);
+          }
         }
       }
-    }
 
     sprintf(ofilename, "html/catalog-euro.html");
     of = fopen(ofilename, "wt");
@@ -2748,6 +2753,7 @@ int main(int argc, char **argv) {
     HTMLFooter();
 
     fclose(of);
+  }
 
   ResetStats();
   for (year=NFY; year<=NLY; year++) {

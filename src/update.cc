@@ -809,7 +809,7 @@ int Extract(char *filename) {
         tk = strstr(s, "team-a");
       } while (tk==NULL && !feof(f));
       if (tk!=NULL) {
-        for (int ii=0; ii<2; ii++) fgets(s, 1024, f);
+        for (int ii=0; ii<1; ii++) fgets(s, 1024, f);
         s[strlen(s)-1] = 0;
         t2 = s; while (t2[0]==' ') t2++;
         strcpy(home, t2);
@@ -825,16 +825,21 @@ int Extract(char *filename) {
         tk = strstr(s, "score-time");
       } while (tk==NULL && !feof(f));
 
-      for (int ii=0; ii<3; ii++)
+      for (int ii=0; ii<2; ii++)
         fgets(s, 1024, f);
 
       if (strstr(s, "PSTP")!=NULL) continue;
       if (strstr(s, "CANC")!=NULL) continue;
       if (strstr(s, "SUSP")!=NULL) continue;
       if (strchr(s, ':')!=NULL) continue;
-      char *sk = GetTag(s);
-      tkx = strtok(sk, " -");
-      tky = strtok(NULL, " -\n");
+//      char *sk = GetTag(s);
+      tkx = strtok(s, ">");
+      tkx = strtok(NULL, "<");
+      for (int ii=0; ii<2; ii++)
+        fgets(s, 1024, f);
+      tky = strtok(s, ">");
+      tky = strtok(NULL, "<");
+
       if (tkx==NULL || tky==NULL) continue;
       x = atoi(tkx);
       y = atoi(tky);
@@ -844,7 +849,7 @@ int Extract(char *filename) {
         tk = strstr(s, "team-b");
       } while (tk==NULL && !feof(f));
       if (tk!=NULL) {
-        for (int ii=0; ii<2; ii++) fgets(s, 1024, f);
+        for (int ii=0; ii<1; ii++) fgets(s, 1024, f);
         s[strlen(s)-1] = 0;
         t2 = s; while (t2[0]==' ') t2++;
         strcpy(guest, t2);

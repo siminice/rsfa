@@ -19,8 +19,8 @@
 #define MAX_N       64
 #define MAX_TEAMS 2000
 
-#define MAX_NAMES       20000
-#define DB_ROWS         700
+#define MAX_NAMES     20000
+#define DB_ROWS        1200
 #define DB_COLS         60
 #define DB_CELL         20
 #define EV_COLS		30
@@ -360,8 +360,8 @@ void LoadPlayers() {
     fprintf(stderr, "ERROR: player database not found!\n");
     exit(0);
   }
-  char s[100], *t[10];
-  fgets(s, 100, f);
+  char s[512], *t[10];
+  fgets(s, 500, f);
   sscanf(s, "%d", &NP);
   pname = new char*[MAX_NAMES];
   pmnem = new char*[MAX_NAMES];
@@ -394,7 +394,7 @@ void LoadPlayers() {
   crnk  = new int[MAX_NAMES];
 
   for (int i=0; i<NP; i++) {
-    fgets(s, 100, f);
+    fgets(s, 500, f);
 //    fprintf(stderr, "... parsing %s", s);
     t[0] = strtok(s, ",\t\n");
      pmnem[i] = new char[7];
@@ -1219,7 +1219,7 @@ void HTMLInfoBlock(int r, int a, int b) {
   fprintf(of, "  <div class=\"container left\">\n");
   fprintf(of, "    <div class=\"logo\">\n");
   fprintf(of, "        <a href=\"../../istoric-%d.html\">\n", id[a]);
-  fprintf(of, "        <img src=\"../../logo/logo-%d.png\" height=\"150\"/>\n", id[a]);
+  fprintf(of, "        <img src=\"../../logo/logo-%d.png\" height=\"150\" onerror=this.src=\"../../../../blogo.png\">\n", id[a]);
   fprintf(of, "      </a>\n");
   fprintf(of, "    </div>\n");
   fprintf(of, "    <table class=\"seasonform\">\n");
@@ -1274,7 +1274,7 @@ void HTMLInfoBlock(int r, int a, int b) {
   fprintf(of, "  <div class=\"container right\">\n");
   fprintf(of, "    <div class=\"logo\">\n");
   fprintf(of, "        <a href=\"../../istoric-%d.html\">\n", id[b]);
-  fprintf(of, "        <img src=\"../../logo/logo-%d.png\" height=\"150\"/>\n", id[b]);
+  fprintf(of, "        <img src=\"../../logo/logo-%d.png\" height=\"150\"  onerror=this.src=\"../../../../blogo.png\">\n", id[b]);
   fprintf(of, "      </a>\n");
   fprintf(of, "    </div>\n");
   fprintf(of, "    <table class=\"seasonform\">\n");

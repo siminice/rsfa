@@ -114,7 +114,7 @@ int Extract(char *filename) {
         printf("%s %d-%d %s\n", mnem[id[i]], x, y, mnem[id[j]]);
       }
     }
-    fgets(s,240,f);
+    fgets(s,240,f); if (strlen(s) < 20) { fgets(s, 240, f); }
     fgets(t, 240, f);
   }
   delete[] s;

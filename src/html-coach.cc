@@ -6,7 +6,7 @@
 #define MAX_NAMES      2000
 #define MAX_SEASONS     200
 
-#define DB_ROWS         600
+#define DB_ROWS         800
 #define DB_COLS          60
 #define DB_CELL          40
 
@@ -32,7 +32,7 @@
 
 #define NUM_ORD	10
 #define MAX_RR	 3
-#define MAX_TEAMS 24
+#define MAX_TEAMS 32
 
 char  db[MAX_SEASONS][DB_ROWS][DB_COLS][DB_CELL];
 int   qord[DB_ROWS], qd[DB_ROWS];
@@ -45,7 +45,7 @@ Ranking *cR;
 int FY, LY;
 
 int id[MAX_TEAMS], res[MAX_RR][MAX_TEAMS][MAX_TEAMS], rnd[MAX_RR][MAX_TEAMS][MAX_TEAMS];
-int NC, NT, NK, ppv, tbr, pr1, pr2, rel1, rel2, r, z;
+int NC, NT, NK, CNP, ppv, tbr, pr1, pr2, rel1, rel2, r, z;
 int hc[MAX_NAMES][MAX_SEASONS];
 int ns[MAX_NAMES], fs[MAX_NAMES], ls[MAX_NAMES], nch[MAX_NAMES], nret[MAX_NAMES];
 int ntm[MAX_SEASONS];
@@ -54,6 +54,7 @@ int num_winter;
 int *start_winter, *end_winter;
 char **club;
 char **mnem;
+char **pfull;
 
 //---------------------------
 char *hexlink = new char[32];
@@ -266,6 +267,30 @@ int Load() {
     s[0] = 0;
   }
   fclose(f);
+
+  f = fopen("ccoaches.dat", "rf");
+  CNP = 0;
+  pfull = new char*[NC];
+  if (f!=NULL) {
+    fgets(s, 256, f);
+    sscanf(s, "%d", &CNP);
+    for (int i=0; i<CNP; i++) {
+      fgets(s, 256, f);
+      tok[0] = strtok(s, ",\t\n");
+      for (int j=1; j<4; j++) tok[j] = strtok(NULL, ",");
+      if (tok[3]) {
+        pfull[i] = new char[60];
+        strncpy(pfull[i], tok[3], 60);
+      } else {
+        pfull[i] = new char[3];
+        strcpy(pfull[i], "");
+      }
+    }
+    fclose(f);
+  } else {
+    for (int i=0; i<NC; i++) { pfull[i] = new char[2]; pfull[i][0] = 0; }
+  }
+
   return 1;
 }
 
@@ -572,6 +597,7 @@ void HTMLStatLine(FILE *of, int nl, int year, int tm, Stat *s, int bold) {
 
 void HTMLCoach(int c) {
 	char filename[256];
+    char sfull[256];
 	Person p = Ant->P[c];
     makeHexlink(p.mnem);
 	sprintf(filename, "html/antrenori/%s.html", hexlink);
@@ -591,8 +617,10 @@ void HTMLCoach(int c) {
   fprintf(of, "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n");
   fprintf(of, "</HEAD>\n<BODY>\n");
 
+  if (strlen(pfull[c])>2) sprintf(sfull, "%s", pfull[c]);
+  else sprintf(sfull, "%s %s", p.pren, p.name);
   fprintf(of, "<TABLE CELLSPACING=\"10\" CELLPADDING=\"5\">\n<TR>\n<TD>");
-  fprintf(of, "<H3>Antrenor <IMG SRC=\"../../../thumbs/22/3/%s.png\"></IMG> %s %s</H3>\n", p.cty, p.pren, p.name);
+  fprintf(of, "<H3>Antrenor <IMG SRC=\"../../../thumbs/22/3/%s.png\"></IMG> %s</H3>\n", p.cty, sfull);
   fprintf(of, "<UL><LI>Data naşterii: %s </LI>\n", p.dob);
   fprintf(of, "<LI>Locul naşterii: %s\n", p.pob);
   if (p.jud!=NULL && p.jud[0]!=0) { fprintf(of, " (%s)", p.jud); }
@@ -715,10 +743,11 @@ int main(int argc, char **argv) {
     }
   }
 
-	Load();
 	Ant = new Catalog();
 	Ant->Load("coaches.dat");
 	NC = Ant->Size();
+	Load();
+
   for (int i=0; i<NC; i++)  R[i] = new Ranking(NK);
 	RR = new Ranking(NC);
 	cR = new Ranking(NC);

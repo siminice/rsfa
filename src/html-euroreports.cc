@@ -16,7 +16,7 @@
 #define DB_ROWS      60
 #define DB_COLS      60
 #define DB_CELL      40
-#define EV_COLS      30
+#define EV_COLS      40
 #define PL_INITIAL	  0
 #define PL_FULL_NAME  1
 #define EURO       1000

@@ -12,10 +12,10 @@
 #define CAT_COLS      20
 #define ROSTER_SIZE   22
 
-#define MAX_NAMES  20000
+#define MAX_NAMES  15000
 #define DB_KROWS      60
 #define DB_KCOLS      60
-#define DB_KCELL      40
+#define DB_KCELL     128
 #define EV_COLS       30
 #define PL_INITIAL     0
 #define PL_FULL_NAME   1
@@ -94,12 +94,13 @@ int  roster[2*ROSTER_SIZE], annotation[2*ROSTER_SIZE];
 int  overtime;
 int  nev, nrev, pso, evp[EV_COLS], evm[EV_COLS], evt[EV_COLS];
 char rname[2*ROSTER_SIZE][DB_KCELL];
+char rcty[2*ROSTER_SIZE][DB_KCELL];
 
 /* *************************************** */
 
 char  db[DB_KROWS][DB_KCOLS][DB_KCELL];
 char edb[DB_KROWS][EV_COLS][DB_KCELL];
-char catalog[CAT_ROWS][128];
+char catalog[CAT_ROWS][192];
 int  tid[MAX_N];
 int  plid[MAX_N][MAX_ROSTER];
 char rmnem[MAX_N][MAX_ROSTER][7];
@@ -737,28 +738,51 @@ void ResetRoster() {
 }
 
 void GetRoster(int r, int a, int b) {
-  char s[DB_KCELL], *sp, *sm;
+  char s[DB_KCELL], scty[64], *sp, *sm, *sn, *sc;
   int rp, rm;
   ResetRoster();
   for (int i=DB_ROSTER1; i<DB_COACH1; i++) {
+    int pn = i-DB_ROSTER1;
     strcpy(s, db[r][i]);
     sp = strtok(s, ":");
     sm = strtok(NULL, ",\n");
-		if (sp) strncpy(rname[i-DB_ROSTER1], sp, DB_KCELL-1);
-			else strcpy(rname[i-DB_ROSTER1], "?");
+    strcpy(rcty[pn], "");
+	if (sp) {
+      strncpy(rname[pn], sp, DB_KCELL-1);
+      sn = strtok(rname[pn], "(");
+      if (sn) {
+        sc = strtok(NULL, ")");
+        if (sc) {
+          strncpy(rcty[pn], sc, 3);
+        }
+      }
+    }
+	else strcpy(rname[pn], "?");
     if (sm) rm = atoi(sm); else rm=-1;
     if (sp) rp = Pl.FindMnem(sp); else rp=-1;
-    if (rm>=0 && rp>=0) roster[i-DB_ROSTER1] = rp;
+    if (rm>=0 && rp>=0) roster[pn] = rp;
   }
   for (int i=DB_ROSTER2; i<DB_COACH2; i++) {
+    int pn = ROSTER_SIZE+i-DB_ROSTER2;
     strcpy(s, db[r][i]);
     sp = strtok(s, ":");
     sm = strtok(NULL, ",\n");
-		if (sp) strncpy(rname[ROSTER_SIZE+i-DB_ROSTER2], sp, DB_KCELL-1);
-			else strcpy(rname[ROSTER_SIZE+i-DB_ROSTER2], "?");
+	strcpy(rname[pn], "?");
+    strcpy(rcty[pn], "");
+	if (sp) {
+      strncpy(rname[pn], sp, DB_KCELL-1);
+      sn = strtok(rname[pn], "(");
+      if (sn) {
+        sc = strtok(NULL, ")");
+        if (sc) {
+          strncpy(rcty[pn], sc, 3);
+        }
+      }
+    }
+
     if (sm) rm = atoi(sm); else rm=-1;
     if (sp) rp = Pl.FindMnem(sp); else rp=-1;
-    if (rm>=0 && rp>=0) roster[22+i-DB_ROSTER2] = rp;
+    if (rm>=0 && rp>=0) roster[pn] = rp;
   }
 }
 
@@ -773,7 +797,7 @@ int RosterMnem(int r, int i) {
 	char *escn = edb[r][i];
 	char scn[128];
 	strncpy(scn, escn, 100);
-	strtok(scn, "'`\"/#!,\n");
+	strtok(scn, "('`\"/#!,\n");
 	for (int j=0; j<2*ROSTER_SIZE; j++) {
 		if (strcmp(scn, rname[j])==0) return j;
 	}
@@ -805,6 +829,7 @@ void GetEvents(int r, int a, int b) {
 				if (strchr(edb[r][i], '`')) evt[i] = EV_OWNGOAL;
 				else if (strchr(edb[r][i], '"')) evt[i] = EV_PKGOAL;
 				else if (strchr(edb[r][i], '/')) evt[i] = EV_PKMISS;
+                else if (strchr(edb[r][i], '#')) evt[i] = EV_YELLOW;
 				else if (strchr(edb[r][i], '!')) evt[i] = EV_RED;
 			} else {
       	     if (edb[r][i][6]=='`') evt[i] = EV_OWNGOAL;
@@ -1046,6 +1071,7 @@ void GetUtfPrefix(char *s, int plen) {
 void UnknownPlayerDisplayName(char *source, char *target) {
   char w[256], pini[8];
   strncpy(w, source, 256);
+  strtok(w, "(");
   char *tk[16];
   tk[0] = strtok(w, " ");
   for (int j=1; j<16; j++) { tk[j] = strtok(NULL, " "); }
@@ -1068,7 +1094,11 @@ void HTMLUnknownPlayerTR(int pnum, char *pn, int m) {
     int sn = (pnum<=ROSTER_SIZE? pnum : pnum-ROSTER_SIZE);
     fprintf(of, "      <tr class=\"%s\">\n", (sn%2==1?"odd":"even"));
     fprintf(of, "        <td class=\"shirtnumber\">%d</td>\n", sn);
-    fprintf(of, "        <td class=\"player large-link\"><img src=\"../../../../thumbs/22/3/ROM.png\"/>&nbsp;%s</td>\n", dispName);
+    if (strlen(rcty[pnum-1])>0) {
+      fprintf(of, "        <td class=\"player large-link\"><img src=\"../../../../thumbs/22/3/%s.png\"/>&nbsp;%s</td>\n", rcty[pnum-1], dispName);
+    } else {
+      fprintf(of, "        <td class=\"player large-link\"><img src=\"../../../../thumbs/22/3/ROM.png\"/>&nbsp;%s</td>\n", dispName);
+    }
     fprintf(of, "        <td class=\"label\"></td>\n");
     fprintf(of, "        <td class=\"season_caps\"></td>\n");
     fprintf(of, "        <td class=\"career_caps\"></td>\n");
@@ -1167,7 +1197,7 @@ void HTMLLineupsBlock(int r, int a, int b) {
   fprintf(of, "  <div class=\"content  \">\n");
   fprintf(of, "    <div class=\"block_match_lineups real-content clearfix \" id=\"l7\">\n\n");
 
-  char spn[32], *spm;
+  char spn[64], *spm;
   char pini[5];
   int m, px;
 
@@ -1191,7 +1221,9 @@ void HTMLLineupsBlock(int r, int a, int b) {
     }
     AddStats(px, i, m);
     if (px>=0) HTMLPlayerTR(i, px, m);
-		else HTMLUnknownPlayerTR(i, spn, m);
+	else {
+      HTMLUnknownPlayerTR(i, spn, m);
+    }
   }
 
   HTMLCoachTR(db[r][DB_COACH1]);
@@ -1240,7 +1272,7 @@ void HTMLSubsBlock(int r, int a, int b) {
   fprintf(of, "  <div class=\"content  \">\n");
   fprintf(of, "    <div class=\"block_match_substitutes real-content clearfix \" id=\"s8\">\n\n");
 
-  char spn[32], *spm;
+  char spn[DB_KCELL+1], *spm;
   char pini[5];
   int m, px;
 
@@ -1277,7 +1309,7 @@ void HTMLSubsBlock(int r, int a, int b) {
 
   for (int i=12; i<=22; i++) {
     strcpy(spn, db[r][DB_T2+i]);
-		if (spn[0]==' ') continue;
+	if (spn[0]==' ') continue;
     strtok(spn, ":");
     px = Pl.FindMnem(spn);
     spm = strtok(NULL, ",");

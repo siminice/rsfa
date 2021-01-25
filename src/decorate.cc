@@ -3,6 +3,7 @@
 #include <string.h>
 #include <dirent.h>
 
+#define MAX_RR 4
 #define MAX_LEVELS 12
 
 int ND;
@@ -13,10 +14,11 @@ int NC;
 char **club;
 char **mnem;
 
-int n, ppv, tbr, pr1, pr2, rel1, rel2;
-int id[64], rank[64], pts[64]; 
+int n, ppv, tbr, numr, pr1, pr2, rel1, rel2;
+int id[64], rank[64], pts[64];
 int win[64], drw[64], los[64], gsc[64], gre[64];
-int pen[64], pdt[64], rnd[64][64], res[64][64], rnd2[64][64], res2[64][64];
+int pen[64], pdt[64];
+int rnd[4][64][64], res[4][64][64];
 int tbwin[64], tbdrw[64], tblos[64], tbgsc[64], tbgre[64], tbrk[64];
 char desc[64][32];
 char **deco;
@@ -237,7 +239,7 @@ int sup(int i, int j, int tbr=0) {
   }
 }
 
-  
+
 void Tiebreak(int h, int k) {
   for (int i=h; i<=k; i++) {
     int j = rank[i];
@@ -248,18 +250,18 @@ void Tiebreak(int h, int k) {
     for (int j=h; j<=k; j++) {
       int t1 = rank[i];
       int t2 = rank[j];
-      if (res[t1][t2] >= 0) {
-        int x = res[t1][t2] / 100;
-        int y = res[t1][t2] % 100;
+      if (res[0][t1][t2] >= 0) {
+        int x = res[0][t1][t2] / 100;
+        int y = res[0][t1][t2] % 100;
         tbgsc[t1] += x; tbgre[t2] += x;
         tbgsc[t2] += y; tbgre[t1] += y;
         if (x>y) {tbwin[t1]++; tblos[t2]++;}
         else if (x==y) {tbdrw[t1]++; tbdrw[t2]++;}
         else {tbwin[t2]++; tblos[t1]++;}
       }
-      if (res2[t1][t2] >= 0) {
-        int x = res2[t1][t2] / 100;
-        int y = res2[t1][t2] % 100;
+      if (res[1][t1][t2] >= 0) {
+        int x = res[1][t1][t2] / 100;
+        int y = res[1][t1][t2] % 100;
         tbgsc[t1] += x; tbgre[t2] += x;
         tbgsc[t2] += y; tbgre[t1] += y;
         if (x>y) {tbwin[t1]++; tblos[t2]++;}
@@ -283,7 +285,7 @@ void Tiebreak(int h, int k) {
   for (int i=h; i<=k; i++)
     rank[i] = tbrk[i];
 }
-    
+
 void Ranking() {
   // BubbleSort
   int i, j;
@@ -294,7 +296,7 @@ void Ranking() {
     for (i=0; i<n-1; i++)
       if (sup(rank[i+1], rank[i], (tbr<2?0:tbr))) {
         sorted = 0;
-        int aux = rank[i];   
+        int aux = rank[i];
         rank[i] = rank[i+1];
         rank[i+1] = aux;
       }
@@ -304,7 +306,7 @@ void Ranking() {
     while (i<n-1) {
       j = i;
       while (j+1<n && (pts[rank[j+1]]-pen[rank[j+1]] == pts[rank[i]]-pen[rank[i]])) j++;
-      if (j>i) Tiebreak(i,j);  
+      if (j>i) Tiebreak(i,j);
       i = j+1;
     }
   }
@@ -313,7 +315,7 @@ void Ranking() {
 void Dump(char *inputfile) {
   char outputfile[100];
   FILE *f;
-  int i, j;
+  int h, i, j;
   strcpy(outputfile, inputfile);
   strcat(outputfile, ".old");
   rename(inputfile, outputfile);
@@ -323,9 +325,9 @@ void Dump(char *inputfile) {
     fprintf(f, "%4d%4d%4d%4d%4d%4d%4d%4d",
       id[i], win[i]+drw[i]+los[i], win[i], drw[i], los[i], gsc[i], gre[i], pts[i]);
     if (pen[i]!=0) fprintf(f, "%4d%4d", pen[i], pdt[i]);
-    if (concat)  
+    if (concat)
       strcat(desc[i], deco[id[i]]);
-    else 
+    else
       strcpy(desc[i], deco[id[i]]);
     if (strlen(desc[i])>0) {
       if (pen[i]==0)  fprintf(f, "%4d%4d", pen[i], pdt[i]);
@@ -333,30 +335,27 @@ void Dump(char *inputfile) {
     }
     fprintf(f, "\n");
   }
-  for (i=0; i<n; i++) {
-    for (j=0; j<n; j++)
-      fprintf(f, "%6d%5d", rnd[i][j], res[i][j]);
-    fprintf(f, "\n");
-  }
-  if (tbr>=10) {
-    for (i=0; i<n; i++) {
-      for (j=0; j<n; j++)
-        fprintf(f, "%6d%5d", rnd2[i][j], res2[i][j]);
-      fprintf(f, "\n");
+  for (h=0; h<numr; h++) {
+   for (i=0; i<n; i++) {
+    for (j=0; j<n; j++) {
+      fprintf(f, "%6d%5d", rnd[h][i][j], res[h][i][j]);
     }
+    fprintf(f, "\n");
+   }
   }
   fclose(f);
 }
 
 void LoadFile(char *filename) {
   FILE *f;
-  int i, j, x, y, r, z;
+  int h, i, j, x, y, r, z;
   f = fopen(filename, "rt");
   // Loading file
   char s[200], *tok[20];
   fscanf(f, "%d %d %d %d %d %d %d\n", &n, &ppv, &tbr, &pr1, &pr2, &rel1, &rel2);
+  numr = tbr/10 + 1;
   for (i=0; i<n; i++) {
-    fgets(s, 200, f);   
+    fgets(s, 200, f);
     tok[0] = strtok(s, " ");
     for (int k=1; k<12; k++) tok[k] = strtok(NULL, " \n");
     id[i] = atoi(tok[0]);
@@ -370,28 +369,16 @@ void LoadFile(char *filename) {
     if (tok[9]) pdt[i] = atoi(tok[9]); else pdt[i] = 0;
     if (tok[10]) strcpy(desc[i], tok[10]); else strcpy(desc[i],"");
   }
-  for (i=0; i<n; i++) {
+  for (h=0; h<numr; h++) {
+   for (i=0; i<n; i++) {
     for (j=0; j<n; j++) {
       fscanf(f, "%d %d", &r, &z);
-      rnd[i][j] = r;
-      res[i][j]   = z;
-      rnd2[i][j] = -1;
-      res2[i][j] = -1;
+      rnd[h][i][j] = r;
+      res[h][i][j] = z;
     }
     fscanf(f, "\n");
+   }
   }
-
-  if (tbr>=10) {
-    for (i=0; i<n; i++) {
-      for (j=0; j<n; j++) {
-        fscanf(f, "%d %d", &r, &z);
-        rnd2[i][j] = r;
-        res2[i][j] = z;
-      }
-      fscanf(f, "\n");
-    }
-  }
-
   fclose(f);
 }
 

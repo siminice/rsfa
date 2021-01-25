@@ -1289,7 +1289,7 @@ int StreakRanking() {
     tawinles[i]->print();
   }
 
-  fprintf(of, "<H3>Œnfr‚ngeri consecutive Ón deplasare</H3>\n");
+  fprintf(of, "<H3>√énfr√¢ngeri consecutive √Æn deplasare</H3>\n");
   for (int i=0; i<max; i++) {
     talos[i]->header(i,17);
     talos[i]->print();

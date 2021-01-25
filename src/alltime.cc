@@ -279,6 +279,7 @@ void Evolution() {
       Ranking();
     }
     if (!quiet || y==LYA || y==ld) {
+      Ranking();
       Listing();
       if (pause) getc(stdin);
     }
