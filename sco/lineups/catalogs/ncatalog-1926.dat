@@ -1,23 +1,70 @@
-baulbo,Bauld,Bobby,1902-03-14,SCO,5, , ,37,37,0,3, 3330,37,0,0,0,0,0,0,0
-campmi,Campbell,Micky,0000-00-00,SCO,5, , ,31,31,0,10, 2790,31,0,0,0,0,0,0,0
-finlan,Finlay,Andrew,0000-00-00,SCO,5, , ,13,13,0,1, 1170,13,0,0,0,0,0,0,0
-gilrto,Gilroy,Tom,0000-00-00,SCO,5, , ,18,18,0,0, 1620,18,0,0,-1,0,0,0,0
-howiji,Howieson,Jimmy,1900-06-07,SCO,5, , ,10,10,0,5,  900,10,0,0,0,0,0,0,0
-kayxjo,Kay,Jock,1899-04-05,SCO,5, , ,38,38,0,0, 3420,38,0,0,0,0,0,0,0
-macdwi,MacDonald,William,0000-00-00,SCO,5, , ,3,3,0,0,  270,3,0,0,0,0,0,0,0
-mcbrhu,McBride,Hugh,0000-00-00,SCO,5, , ,20,20,0,0, 1800,20,0,0,0,0,0,0,0
-mcdojo,McDonald,Jock,0000-00-00,SCO,5, , ,36,36,0,4, 3240,36,0,0,0,0,0,0,0
-mcfabo,McFarlane,Bob,0000-00-00,SCO,5, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-mcgrmi,McGregor,Mickey,0000-00-00,SCO,5, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-mcmipe,McMillan,Peter,0000-00-00,SCO,5, , ,3,3,0,1,  270,3,0,0,0,0,0,0,0
-mcrojo,McRoberts,Johnny,0000-00-00,SCO,5, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-nicoda,Nicoll,Dave,0000-00-00,SCO,5, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-osboja,Osborne,Jacky,0000-00-00,SCO,5, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-oswawi,Oswald,Willie,0000-00-00,SCO,5, , ,19,19,0,5, 1710,19,0,0,0,0,0,0,0
-patebi,Paterson,Bill,0000-00-00,SCO,5, , ,38,38,0,0, 3420,38,0,-1,0,0,0,0,0
-shanjo,Shandley,Joe,0000-00-00,SCO,5, , ,1,1,0,1,   90,1,0,0,0,0,0,0,0
-simpto,Simpson,Tommy,0000-00-00,SCO,5, , ,29,29,0,6, 2610,29,0,0,0,0,0,0,0
-simpji,Simpson,Jimmy,1908-10-24,SCO,5, , ,21,21,0,2, 1890,21,0,0,0,0,0,0,0
-walkda,Walker,Dave,0000-00-00,SCO,5, , ,37,37,0,3, 3330,37,0,0,0,2,0,0,0
-walkji,Walker,Jim,0000-00-00,SCO,5, , ,33,33,0,3, 2970,33,0,0,0,0,0,0,0
-welswi,Welsh,Willie,0000-00-00,SCO,5, , ,23,23,0,7, 2070,23,0,0,0,0,0,0,0
+mcderF,McDermid,Robert Forsyth,1895-01-01,SCO,4, , ,2,2,0,1,  180,2,0,0,0,0,0,0,0
+mclaa2,McLachlan,Albert,1892-02-01,SCO,4, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
+smitj5,Smith,James,1896-01-01,SCO,4, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
+gallhK,Gallacher,Hugh Kilpatrick,1903-02-02,SCO,13, , ,1,1,0,1,   90,1,0,0,0,0,0,0,0
+callhe,Callachan,Henry,1903-04-09,SCO,1, , ,6,6,0,0,  540,6,0,0,0,0,0,0,0
+connp1,Connolly,Patrick,1901-04-14,SCO,1, , ,36,36,0,6, 3240,36,0,0,0,0,0,0,0
+gallp2,Gallacher,Patrick,1891-03-16,IRL,1, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
+gilfed,Gilfeather,Edward,1903-06-02,SCO,1, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
+hillh1,Hilley,Hugh,1899-03-19,SCO,1, , ,37,37,0,0, 3330,37,0,0,0,0,0,0,0
+leitwS,Leitch,William Smith,1901-02-14,SCO,1, , ,3,3,0,1,  270,3,0,0,0,0,0,0,0
+macfjo,MacFarlane,John,1899-11-21,SCO,1, , ,34,34,0,2, 3060,34,0,0,0,0,0,0,0
+mccod1,McColgan,Daniel,1903-02-22,SCO,1, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
+mcgrjE,McGrory,James Edward,1904-04-26,SCO,1, , ,37,37,0,34, 3330,37,0,0,0,0,0,0,0
+mcintB,McInally,Tommy Bruce,1900-04-18,SCO,1, , ,37,37,0,17, 3330,37,0,0,0,0,0,0,0
+mclead,McLean,Adam,1897-04-27,SCO,1, , ,32,32,0,16, 2880,32,0,0,0,0,0,0,0
+mcstjF,McStay,James Frederick,1893-09-12,SCO,1, , ,38,38,0,1, 3420,38,0,0,0,0,0,0,0
+mcstwi,McStay,William,1890-05-15,SCO,1, , ,35,35,0,2, 3150,35,0,0,0,2,0,0,0
+mollwH,Molloy,William Henry B.,1904-01-01,SCO,1, , ,5,5,0,1,  450,5,0,0,0,0,0,0,0
+shevpe,Shevlin,Peter,1905-11-18,SCO,1, , ,38,38,0,0, 3420,38,0,-40,0,0,0,0,0
+thoma4,Thomson,Alexander,1901-06-14,SCO,1, , ,37,37,0,16, 3330,37,0,0,0,0,0,0,0
+wilspe,Wilson,Peter,1905-03-26,SCO,1, , ,38,38,0,0, 3420,38,0,0,0,0,0,0,0
+murpj3,Murphy,James B.,1897-09-20,SCO,18, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
+glanth,Glancy,Thomas,1894-01-01,SCO,40, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
+wilswR,Wilson,William Rose,1891-01-01,SCO,40, , ,2,2,0,1,  180,2,0,0,0,0,0,0,0
+mcledP,McLean,David Prophet,1890-12-13,SCO,6, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
+howija,Howieson,James,1900-06-07,SCO,5, , ,1,1,0,1,   90,1,0,0,0,0,0,0,0
+simpjM,Simpson,James McMillan,1908-10-20,SCO,5, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
+fergth,Ferguson,Thomas, ,SCO,11, , ,2,2,0,0,  180,2,0,-4,0,0,0,0,0
+reidth,Reid,Thomas, ,SCO,2, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
+whitwC,White,Williams Collins,1895-03-05,SCO,2, , ,2,2,0,0,  180,2,0,-5,0,0,0,0,0
+halljo,Halligan,Johnny,1899-01-01,SCO,3, , ,2,2,0,2,  180,2,0,0,0,0,0,0,0
+mccoja,McColl,James,1892-12-14,SCO,3, , ,2,2,0,1,  180,2,0,0,0,0,0,0,0
+mcgiwG,McGinnigle,William George,1892-06-05,SCO,3, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
+shawhu,Shaw,Hugh, ,SCO,3, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
+cunnha,Cunningham,Harry,1898-01-08,SCO,8, , ,2,2,0,1,  180,2,0,0,0,1,0,0,0
+smitm2,Smith,Mathew,1897-12-31,SCO,8, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
+ferrro,Ferrier,Robert,1900-01-01,ENG,7, , ,2,2,0,1,  180,2,0,0,0,0,0,0,0
+littri,Little,Richard,1895-05-30,ENG,7, , ,2,2,0,1,  180,2,0,0,0,0,0,0,0
+macfwi,MacFadyen,William,1904-06-23,SCO,7, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
+nichwG,Nicholson,William G., ,SCO,37, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
+archa1,Archibald,Alexander,1897-09-06,SCO,0, , ,18,18,0,2, 1620,18,0,0,0,0,0,0,0
+cairto,Cairns,Tommy,1890-10-30,SCO,0, , ,17,17,0,4, 1530,17,0,0,0,0,0,0,0
+chalwi,Chalmers,William,1904-07-24,SCO,0, , ,6,6,0,3,  540,6,0,0,0,0,0,0,0
+craith,Craig,Thomas,1895-07-18,SCO,0, , ,31,31,0,2, 2790,31,0,0,0,0,0,0,0
+cunnaN,Cunningham,Andrew Nisbet,1890-01-30,SCO,0, , ,31,31,0,18, 2790,31,0,0,0,4,0,0,0
+dixoa1,Dixon,Arthur,1892-01-01,ENG,0, , ,37,37,0,0, 3330,37,0,0,0,0,0,0,0
+flemja,Fleming,James,1903-05-29,SCO,0, , ,21,21,0,16, 1890,21,0,0,0,0,0,0,0
+graydH,Gray,Douglas Herbert,1905-04-04,SCO,0, , ,21,21,0,0, 1890,21,0,0,0,0,0,0,0
+hamij6,Hamilton,James,1901-06-16,SCO,0, , ,29,29,0,2, 2610,29,0,0,0,2,0,0,0
+hamito,Hamilton,Tom,1903-01-01,SCO,0, , ,15,15,0,0, 1350,15,0,-23,0,0,0,0,0
+hendg1,Henderson,Geordie,1897-04-15,SCO,0, , ,13,13,0,7, 1170,13,0,0,0,0,0,0,0
+hodgwi,Hodge,William,1901-01-01,SCO,0, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
+irelrJ,Ireland,Robert Johnstone,1900-07-22,SCO,0, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
+jamijJ,Jamieson,John J., ,SCO,0, , ,5,5,0,0,  450,5,0,0,0,0,0,0,0
+kirkaR,Kirkwood,Andrew R., ,SCO,0, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
+maloth,Malone,Thomas, ,SCO,0, , ,15,15,0,2, 1350,15,0,0,0,0,0,0,0
+mandbe,Manderson,Bert,1893-05-09,IRL,0, , ,15,15,0,0, 1350,15,0,0,0,0,0,0,0
+marsdJ,Marshall,Dr. James,1908-01-03,SCO,0, , ,4,4,0,7,  360,4,0,0,0,0,0,0,0
+mccaw3,McCandless,William,1892-12-20,IRL,0, , ,7,7,0,1,  630,7,0,0,0,1,0,0,0
+mcgrj6,McGregor,John, ,SCO,0, , ,6,6,0,0,  540,6,0,0,0,0,0,0,0
+mckaro,McKay,Robert,1900-09-02,SCO,0, , ,22,22,0,6, 1980,22,0,0,0,0,0,0,0
+meikdD,Meiklejohn,David Ditchburn,1900-12-12,SCO,0, , ,12,12,0,0, 1080,12,0,0,0,0,0,0,0
+mortaL,Morton,Alan Lauder,1893-04-24,SCO,0, , ,29,29,0,6, 2610,29,0,0,0,0,0,0,0
+muirtA,Muirhead,Tomas Allan,1897-01-31,SCO,0, , ,27,27,0,2, 2430,27,0,0,0,0,0,0,0
+osboj1,Osborne,James, ,SCO,0, , ,9,9,0,1,  810,9,0,0,0,0,0,0,0
+robbwi,Robb,William,1895-06-20,SCO,0, , ,23,23,0,0, 2070,23,0,-32,0,0,0,0,0
+jamijJ,Jamieson,John J., ,SCO,14, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
+kirkaR,Kirkwood,Andrew R., ,SCO,14, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
+kirkd1,Kirkwood,Daniel,1900-12-24,SCO,14, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
+howija,Howieson,James,1900-06-07,SCO,15, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
