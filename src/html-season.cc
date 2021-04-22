@@ -23,7 +23,7 @@
 #define LOSS_BOTH_9	59
 
 #define MAX_NAMES       20000
-#define DB_ROWS         1024
+#define DB_ROWS         2048
 #define DB_COLS         60
 #define DB_CELL         20
 #define EV_COLS         30

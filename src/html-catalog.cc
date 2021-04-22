@@ -232,8 +232,8 @@ int Load() {
   ecc = new int[NC];
   for (int i=0; i<NC; i++) L[i] = new Aliases;
   for (int i=0; i<NC; i++) {
-		ina[i]= new int[300];
-		for (int y=0; y<300; ++y) ina[i][y] = 0;
+	ina[i]= new int[300];
+	for (int y=0; y<300; ++y) ina[i][y] = 0;
     fgets(s, 60, f);
     s[strlen(s)-1] = 0;
     mnem[i] = new char[16];
@@ -319,7 +319,11 @@ int Load() {
       if (feof(f)) continue;
       for (int i=0; i<n; i++) {
         fscanf(f, "%d", &t);
-				if (y>=CFY && t>=0 && t<NC) ina[t][y-CFY] = 1;
+		if (y>=CFY && t>=0 && t<NC) {
+          if (i==0) ina[t][y-CFY] = 1;
+          else if (i==n-1) ina[t][y-CFY] = 3;
+          else ina[t][y-CFY] = 2;
+        }
       }
       fgets(s, 200, f);
   }
@@ -383,8 +387,8 @@ int GetYear(char *sd) {
 
 #define MAX_NAMES	20000
 #define MAX_SEASONS	  200
-#define MAX_CDB      1500
-#define MAX_LDB 	 1500
+#define MAX_CDB      2048
+#define MAX_LDB 	 2048
 #define MAX_CKDB	  750
 #define MAX_LKDB	   50
 #define MAX_CEDB	  200
@@ -1227,7 +1231,7 @@ void HTMLLineupsBox(int year) {
 	int nty = 0;
 	int part[64];
 	for (int t=0; t<NC; ++t) {
-		if (ina[t][year-CFY]) {
+		if (ina[t][year-CFY] > 0) {
 			part[nty++] = t;
 		}
 	}
@@ -1298,7 +1302,7 @@ void HTMLInA(int t, int year) {
 		fprintf(of, "<TD ALIGN=\"center\">");
 		if (y>=CFY && y<=CLY) {
 			SeasonName(y, ssn);
-			if (ina[t][y-CFY]) {
+			if (ina[t][y-CFY] > 0) {
 				fprintf(of, "<A HREF=\"lot-%d-%d.html\">%s%s%s</A>", t, y,
 				(year==y?"<FONT COLOR=\"990000\">":""), ssn, (year==y?"</FONT>":""));
 			}
@@ -1317,7 +1321,7 @@ void HTMLYearlyTeamStats(int t, int year) {
 	if (year<CFY || year>CLY) return;
   int n = year - CFY;
   int i = 0;
-	if (!ina[t][n]) return;
+	if (ina[t][n] == 0) return;
 
 	char filename[128];
 	sprintf(filename, "html/lot-%d-%d.html", t, year);
@@ -1759,10 +1763,11 @@ void PlayerStats(int pl) {
 
   fprintf(of, "<script src=\"../sorttable.js\"></script>\n");
   fprintf(of, "<TABLE CELLSPACING=\"10\" CELLPADDING=\"5\">\n<TR>\n<TD>");
-  fprintf(of, "<H3><IMG SRC=\"../../../thumbs/22/3/%s.png\"></IMG> %s</H3>\n", pcty[pl], sfull);
+  fprintf(of, "<H3><IMG SRC=\"../../../thumbs/22/3/%s.png\"></IMG> %s %s</H3>\n", pcty[pl], ppren[pl], pname[pl]);
   strcpy(sdob, pdob[pl]);
   CanonicDOB(sdob, DOB_FULL);
-  fprintf(of, "<UL><LI>Data naşterii: %s </LI>\n", sdob);
+  fprintf(of, "<UL><LI>Numele oficial: %s </LI>\n", sfull);
+  fprintf(of, "<LI>Data naşterii: %s </LI>\n", sdob);
   fprintf(of, "<LI>Locul naşterii: %s\n", ppob[pl]);
   if (pjud[pl]!=NULL && pjud[pl][0]!=0 && pjud[pl][0]!=' ') {
       fprintf(of, " (%s)", pjud[pl]);
@@ -1899,7 +1904,8 @@ void PlayerStats(int pl) {
       echid[nrow] = xt;
       sezid[nrow] = year;
       strcpy(pdb[nrow][PTD_SEZON], ssn);
-      strcpy(pdb[nrow][PTD_ECHIPA], NickOf(L, xt, year));
+      if (ina[xt][year-CFY]==1) sprintf(pdb[nrow][PTD_ECHIPA], "<B>%s</B>", NickOf(L, xt, year));
+      else strcpy(pdb[nrow][PTD_ECHIPA], NickOf(L, xt, year));
       strcpy(pdb[nrow][PTD_POST], ccdb[n][i][CAT_POST]);
       sprintf(pdb[nrow][PTD_DIVM], "%d", sm);
       sprintf(pdb[nrow][PTD_DIVN], "%d", sn);

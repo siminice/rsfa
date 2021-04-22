@@ -1,0 +1,496 @@
+alvbjo,John,Alvbåge,1982-08-10,SWE,0,1,P,0,0,0,0,john-alvbage
+dahlpo,Pontus,Dahlberg,1999-01-21,SWE,0,12,P,0,0,0,0,pontus-dahlberg
+dahler,Erik,Dahlin,1989-04-28,SWE,0,25,P,0,0,0,0,erik-dahlin
+gustol,Oliver,Gustafsson,1993-05-15,SWE,0,31,P,0,0,0,0,oliver-gustafsson
+aleeha,Haitam,Aleesami,1991-07-31,NOR,0,4,F,0,0,0,0,haitam-aleesami
+bjaema,Mattias,Bjärsmyr,1986-01-03,SWE,0,30,F,0,0,0,0,mattias-bjaersmyr
+hermhj,Hjörtur,Hermannsson,1995-02-08,ISL,0,3,F,0,0,0,0,hjoertur-hermannsson
+johaad,Adam,Johansson,1983-02-21,SWE,0,22,F,0,0,0,0,adam-johansson
+jonshj,Hjálmar,Jónsson,1980-07-29,ISL,0,14,F,0,0,0,0,hjalmar-jonsson
+nordbi,Billy,Nordström,1995-09-18,SWE,0,27,F,0,0,0,0,billy-nordstroem
+rognth,Thomas,Rogne,1990-06-29,NOR,0,28,F,0,0,0,0,thomas-rogne
+saloem,Emil,Salomonsson,1989-04-28,SWE,0,2,F,0,0,0,0,emil-salomonsson
+albama,Mads,Albæk,1990-01-14,DEN,0,7,M,0,0,0,0,mads-albaek
+alboma,Mauricio,Albornoz,1988-03-10,SWE,0,13,M,0,0,0,0,mauricio-albornoz
+ankeja,Jakob,Ankersen,1990-09-22,DEN,0,9,M,0,0,0,0,jakob-ankersen
+erikse,Sebastian,Eriksson,1989-01-31,SWE,0,6,M,0,0,0,0,sebastian-eriksson
+pettto,Tom,Pettersson,1990-03-25,SWE,0,24,M,0,0,0,0,tom-pettersson
+riekso,Søren,Rieks,1987-04-07,DEN,0,8,M,0,0,0,0,soeren-rieks
+sabala,Lawson,Sabah,1997-04-02,GHA,0,18,M,0,0,0,0,lawson-sabah
+dalems,Martin,Smedberg-Dalence,1984-05-10,BOL,0,11,M,0,0,0,0,martin-smedberg-dalence
+bomami,Mikael,Boman,1988-07-14,SWE,0,16,A,0,0,0,0,mikael-boman
+engvgu,Gustav,Engvall,1996-04-29,SWE,0,19,A,0,0,0,0,gustav-engvall
+hyseto,Tobias,Hysén,1982-03-09,SWE,0,10,A,0,0,0,0,tobias-hysen
+lagepk,Patrik,Karlsson-Lagemyr,1996-12-18,SWE,0,26,A,0,0,0,0,patrik-karlsson-lagemyr
+kasipr,Prosper,Kasim,1996-12-15,GHA,0,17,A,0,0,0,0,prosper-kasim
+skoevi,Viktor,Sköld,1989-07-31,SWE,0,20,A,0,0,0,0,viktor-skoeld
+omarem,Elías Már,Ómarsson,1995-01-18,ISL,0, , ,0,0,0,0,elias-mar-omarsson
+jamisc,Scott,Jamieson,1988-10-13,AUS,0, , ,0,0,0,0,scott-jamieson
+leksal,Alexander,Leksell,1997-02-14,SWE,0, , ,0,0,0,0,alexander-leksell
+dahled,Edvin,Dahlqvist,1999-06-14,SWE,0, , ,0,0,0,0,edvin-dahlqvist
+erliau,August,Erlingmark,1998-04-22,SWE,0, , ,0,0,0,0,august-erlingmark
+zaloby,Benjamin Yapi,Zalo,1998-02-19,NOR,0, , ,0,0,0,0,benjamin-yapi-zalo
+oehman,Andreas,Öhman,1998-01-14,SWE,0, , ,0,0,0,0,andreas-oehman
+naurto,Tommy,Naurin,1984-05-17,SWE,15,17,P,0,0,0,0,tommy-naurin
+saxtll,Lloyd,Saxton,1990-04-18,ENG,15,1,P,0,0,0,0,lloyd-saxton
+alanst,Stefan,Ålander,1983-04-25,SWE,15,4,F,0,0,0,0,stefan-alander
+bjoeer,Eric,Björkander,1996-06-11,SWE,15,5,F,0,0,0,0,eric-bjoerkander
+danima,Marcus,Danielsson,1989-04-08,SWE,15,15,F,0,0,0,0,marcus-danielsson
+larser,Eric,Larsson,1991-07-15,SWE,15,21,F,0,0,0,0,eric-larsson
+olssde,Dennis,Olsson,1994-10-03,SWE,15,3,F,0,0,0,0,dennis-olsson_2
+sundns,Noah Sonko,Sundberg,1996-06-06,SWE,15,19,F,0,0,0,0,noah-sonko-sundberg
+gersla,Lars,Gerson,1990-02-05,LUX,15,8,M,0,0,0,0,lars-gerson
+graner,Erik,Granat,1995-08-09,SWE,15,26,M,0,0,0,0,erik-granat
+rajase,Sebastian,Rajalakso,1988-09-23,SWE,15,11,M,0,0,0,0,sebastian-rajalakso
+sellro,Robbin,Sellin,1990-04-12,SWE,15,18,M,0,0,0,0,robbin-sellin
+siguru,Rúnar,Sigurjónsson,1990-06-18,ISL,15,6,M,0,0,0,0,runar-sigurjonsson
+steikr,Kristinn,Steindórsson,1990-04-29,ISL,15,7,M,0,0,0,0,kristinn-steindorsson
+suljsm,Smajl,Suljević,1994-07-15,SWE,15,20,M,0,0,0,0,smajl-suljevic
+taegfi,Filip,Tägtström,1998-06-30,SWE,15,23,M,0,0,0,0,filip-taegtstroem
+tranro,Robin,Tranberg,1993-02-06,SWE,15,16,M,0,0,0,0,robin-tranberg
+dibbpa,Pa,Dibba,1987-10-15,GAM,15,14,A,0,0,0,0,pa-dibba
+eklujo,Johan,Eklund,1984-05-30,SWE,15,9,A,0,0,0,0,johan-eklund
+hasash,Shpëtim,Hasani,1982-08-10,ALB,15,12,A,0,0,0,0,shpetim-hasani
+silvst,Stefan,Silva,1990-03-11,SWE,15,22,A,0,0,0,0,stefan-silva
+wilspe,Peter,Wilson,1996-10-09,SWE,15,30,A,0,0,0,0,peter-wilson_3
+alboma,Mauricio,Albornoz,1988-03-10,SWE,15, , ,0,0,0,0,mauricio-albornoz
+enarjo,Joel,Enarsson,1993-06-27,SWE,15, , ,0,0,0,0,joel-enarsson
+morsjo,Jonathan,Morsay,1997-10-05,SWE,15, , ,0,0,0,0,jonathan-morsay
+bahtam,Amaro,Bahtijar,1998-08-26,SWE,15, , ,0,0,0,0,amaro-bahtijar
+malmjo,Jonathan,Malmberg,1994-02-02,SWE,15, , ,0,0,0,0,jonathan-malmberg
+sahlli,Linus,Sahlin,1997-03-29,SWE,15, , ,0,0,0,0,linus-sahlin
+hassab,Abbas,Hassan,1985-05-10,LEB,16,23,P,0,0,0,0,abbas-hassan
+olssda,David,Olsson,1997-06-27,SWE,16,30,P,0,0,0,0,david-olsson
+roenti,Tim,Rönning,1999-02-15,SWE,16,31,P,0,0,0,0,tim-roenning
+elleks,Kevin,Stuhr-Ellegaard,1983-05-23,DEN,16,1,P,0,0,0,0,kevin-stuhr-ellegaard
+hornjo,Jørgen,Horn,1987-06-07,NOR,16,5,F,0,0,0,0,joergen-horn
+joenjo,Jon,Jönsson,1983-07-08,SWE,16,6,F,0,0,0,0,jon-joensson
+kaibra,Rami,Kaib,1997-05-08,SWE,16,28,F,0,0,0,0,rami-kaib
+lundad,Adam,Lundqvist,1994-03-20,SWE,16,3,F,0,0,0,0,adam-lundqvist
+mannje,Jesper,Manns,1995-08-05,SWE,16,2,F,0,0,0,0,jesper-manns
+nilsjo,Joakim,Nilsson,1994-02-06,SWE,16,12,F,0,0,0,0,joakim-nilsson_3
+nilsv1,Viktor,Nilsson,1996-08-15,SWE,16,18,F,0,0,0,0,viktor-nilsson
+randan,Anders,Randrup,1988-07-16,DEN,16,4,F,0,0,0,0,anders-randrup
+andran,Anton,Andreasson,1993-07-26,SWE,16,14,M,0,0,0,0,anton-andreasson
+bendth,Thomas,Bendiksen,1989-08-08,NOR,16,27,M,0,0,0,0,thomas-bendiksen
+claevi,Victor,Claesson,1992-01-02,SWE,16,16,M,0,0,0,0,victor-claesson
+gashli,Liridon,Gashi,1993-06-19,SWE,16,26,M,0,0,0,0,liridon-gashi
+haughe,Henning,Hauger,1985-07-17,NOR,16,21,M,0,0,0,0,henning-hauger
+lundsi,Simon,Lundevall,1988-09-23,SWE,16,10,M,0,0,0,0,simon-lundevall
+olsssi,Simon,Olsson,1997-09-14,SWE,16,31,M,0,0,0,0,simon-olsson
+rohdma,Marcus,Rohdén,1991-05-11,SWE,16,7,M,0,0,0,0,marcus-rohden
+rosera,Rasmus,Rosenqvist,1996-07-17,SWE,16,25,M,0,0,0,0,rasmus-rosenqvist
+bajrem,Emir,Bajrami,1988-03-07,SWE,16,4,A,0,0,0,0,emir-bajrami
+fricpe,Per,Frick,1992-04-14,SWE,16,17,A,0,0,0,0,per-frick
+goetvi,Viktor,Götesson,1995-07-14,SWE,16,24,A,0,0,0,0,viktor-goetesson
+hedlsi,Simon,Hedlund,1993-03-11,SWE,16,19,A,0,0,0,0,simon-hedlund
+nilsla,Lasse,Nilsson,1982-01-03,SWE,16,9,A,0,0,0,0,lasse-nilsson
+prodvi,Viktor,Prodell,1988-02-29,SWE,16,22,A,0,0,0,0,viktor-prodell
+jebais,Issam,Jebali,1991-12-25,TUN,16, , ,0,0,0,0,issam-jebali
+gustda,Daniel,Gustavsson,1990-08-29,SWE,16, , ,0,0,0,0,daniel-gustavsson_2
+dresib,Ibrahim,Drešević,1997-01-24,KOS,16, , ,0,0,0,0,ibrahim-dresevic
+hakajo,John,Håkansson,1998-03-28,SWE,17,1,P,0,0,0,0,john-hakansson
+johalu,Lucas,Johansson,1994-07-11,SWE,17,32,P,0,0,0,0,lucas-johansson
+soedol,Ole,Söderberg,1990-07-20,SWE,17,1,P,0,0,0,0,ole-soederberg
+agarvi,Viktor,Agardius,1989-10-23,SWE,17,5,F,0,0,0,0,viktor-agardius
+biskma,Marko,Biskupovic,1989-06-30,CHI,17,4,F,0,0,0,0,marko-biskupovic
+hedlse,Sebastian,Hedlund,1995-04-05,SWE,17,3,F,0,0,0,0,sebastian-hedlund
+larsst,Stefan,Larsson,1983-01-21,SWE,17,14,F,0,0,0,0,stefan-larsson
+maikan,Anton,Maikkula,1997-02-03,SWE,17,21,F,0,0,0,0,anton-maikkula
+nourem,Emin,Nouri,1985-07-22,AZE,17,13,F,0,0,0,0,emin-nouri
+thorma,Marcus,Thorbjörnsson,1987-10-01,SWE,17,2,F,0,0,0,0,marcus-thorbjoernsson
+zadeaz,Adel Ziarat,Zadeh,1998-09-15,SWE,17,12,F,0,0,0,0,adel-ziarat-zadeh
+ahmemu,Muktar,Ahmed,1995-03-28,SWE,17,17,M,0,0,0,0,muktar-ahmed
+elmxra,Rasmus,Elm,1988-03-17,SWE,17,6,M,0,0,0,0,rasmus-elm
+elmxvi,Viktor,Elm,1985-11-13,SWE,17,23,M,0,0,0,0,viktor-elm
+erikto,Tobias,Eriksson,1985-03-19,SWE,17,10,M,0,0,0,0,tobias-eriksson
+hallhe,Herman,Hallberg,1997-05-22,SWE,17,34,M,0,0,0,0,herman-hallberg
+ingesv,Svante,Ingelsson,1998-06-14,SWE,17,22,M,0,0,0,0,svante-ingelsson
+ismais, ,Ismael,1994-12-01,BRA,17,7,M,0,0,0,0,ismael_14
+johac1,Carl,Johansson,1998-06-17,SWE,17,20,M,0,0,0,0,carl-johansson_2
+ringjo,Jonathan,Ring,1991-12-05,SWE,17,11,M,0,0,0,0,jonathan-ring
+romaro, ,Romarinho,1985-08-10,BRA,17,29,M,0,0,0,0,romarinho
+sachfi,Filip,Sachpekidis,1997-07-03,SWE,17,24,M,0,0,0,0,filip-sachpekidis
+abdulu,Lumala,Abdu,1997-07-21,SWE,17,12,A,0,0,0,0,lumala-abdu
+antoma,Marcus,Antonsson,1991-05-08,SWE,17,9,A,0,0,0,0,marcus-antonsson
+croned,Edvin,Crona,2000-01-25,SWE,17,37,A,0,0,0,0,edvin-crona
+dioupa,Papa,Diouf,1989-06-22,SEN,17,27,A,0,0,0,0,papa-diouf
+elmxda,David,Elm,1983-01-10,SWE,17,16,A,0,0,0,0,david-elm
+ericpa,Pär,Ericsson,1988-07-21,SWE,17,26,A,0,0,0,0,paer-ericsson
+soedma,Måns,Söderqvist,1993-02-08,SWE,17, , ,0,0,0,0,mans-soederqvist
+eidxma,Mahmoud,Eid,1993-06-26,PAL,17, , ,0,0,0,0,mahmoud-eid
+aniehe,Henri,Anier,1990-12-17,EST,17, , ,0,0,0,0,henri-anier
+abrape,Peter,Abrahamsson,1988-07-18,SWE,18,26,P,0,0,0,0,peter-abrahamsson
+kaelch,Christoffer,Källqvist,1983-08-26,SWE,18,1,P,0,0,0,0,christoffer-kaellqvist
+nadjal,Alexander,Nadj,1986-08-26,SWE,18,29,P,0,0,0,0,alexander-nadj
+andeni,Niclas,Andersén,1992-08-05,SWE,18,20,F,0,0,0,0,niclas-andersen
+andej1,Joel,Andersson,1996-11-11,SWE,18,27,F,0,0,0,0,joel-andersson
+arkika,Kari,Arkivuo,1983-06-23,FIN,18,15,F,0,0,0,0,kari-arkivuo
+binaeg,Egzon,Binaku,1995-08-27,SWE,18,25,F,0,0,0,0,egzon-binaku
+mashte,Tefu,Mashamaite,1984-09-27,RSA,18,4,F,0,0,0,0,tefu-mashamaite
+mensba,Baba,Mensah,1994-08-20,GHA,18,13,F,0,0,0,0,baba-mensah
+sandsi,Simon,Sandberg,1994-03-25,SWE,18,23,F,0,0,0,0,simon-sandberg
+sudija,Jasmin,Sudić,1990-11-24,SWE,18,3,F,0,0,0,0,jasmin-sudic
+wahlem,Emil,Wahlström,1987-03-02,SWE,18,5,F,0,0,0,0,emil-wahlstroem
+abubmo,Mohammed,Abubakari,1986-02-15,GHA,18,12,M,0,0,0,0,mohammed-abubakari
+andead,Adam,Andersson,1996-11-11,SWE,18,28,M,0,0,0,0,adam-andersson
+berggu,Gustav,Berggren,1997-09-07,SWE,18,17,M,0,0,0,0,gustav-berggren
+ericma,Martin,Ericsson,1980-09-04,SWE,18,14,M,0,0,0,0,martin-ericsson
+gustsa,Samuel,Gustafson,1995-01-11,SWE,18,22,M,0,0,0,0,samuel-gustafson
+hedllu,Lucas,Hedlund,1998-08-18,SWE,18,16,M,0,0,0,0,lucas-hedlund
+iranda,Daleho,Irandust,1998-06-04,SWE,18,23,M,0,0,0,0,daleho-irandust
+schura,Rasmus,Schüller,1991-06-18,FIN,18,6,M,0,0,0,0,rasmus-schueller
+vortni,Niels,Vorthoren,1988-02-21,NED,18,7,M,0,0,0,0,niels-vorthoren
+jereal,Alexander,Jeremejeff,1993-10-12,SWE,18,18,A,0,0,0,0,alexander-jeremejeff
+makore,René,Makondele,1982-04-20,DRC,18,24,A,0,0,0,0,rene-makondele
+nasimo,Mohammed,Nasiru,1994-06-06,GHA,18,21,A,0,0,0,0,mohammed-nasiru
+owoejo,John,Owoeri,1987-01-13,NGR,18,19,A,0,0,0,0,john-owoeri
+paulpa, ,Paulinho,1986-04-09,BRA,18,10,A,0,0,0,0,paulinho_12
+rexhda,Dardan,Rexhepi,1992-01-16,SWE,18,9,A,0,0,0,0,dardan-rexhepi
+savade,Demba,Savage,1988-06-17,GAM,18,8,A,0,0,0,0,demba-savage
+skogal,Albin,Skoglund,1997-02-01,SWE,18,16,A,0,0,0,0,albin-skoglund
+kamaal,Alhassan,Kamara,1993-03-16,SLE,18, , ,0,0,0,0,alhassan-kamara
+lindra,Rasmus,Lindgren,1984-11-29,SWE,18, , ,0,0,0,0,rasmus-lindgren
+farnal,Alexander,Farnerud,1984-05-01,SWE,18, , ,0,0,0,0,alexander-farnerud
+carlpa,Patrik,Carlgren,1992-01-08,SWE,1,35,P,0,0,0,0,patrik-carlgren
+linnos,Oscar,Linnér,1997-02-23,SWE,1,34,P,0,0,0,0,oscar-linner
+stamke,Kenny,Stamatopoulos,1979-08-28,CAN,1,13,P,0,0,0,0,kenny-stamatopoulos
+haukha,Haukur,Hauksson,1991-09-01,ISL,1,2,F,0,0,0,0,haukur-hauksson
+hooijo,Jos,Hooiveld,1983-04-22,NED,1,26,F,0,0,0,0,jos-hooiveld
+johane,Nils-Eric,Johansson,1980-01-13,SWE,1,4,F,0,0,0,0,nils-eric-johansson
+karlpe,Per,Karlsson,1986-01-02,SWE,1,3,F,0,0,0,0,per-karlsson
+kpozpa,Patrick,Kpozo,1997-07-15,GHA,1,32,F,0,0,0,0,patrick-kpozo
+vaeisa,Sauli,Väisänen,1994-06-05,FIN,1,15,F,0,0,0,0,sauli-vaeisaenen
+affaam,Amin,Affane,1994-01-21,SWE,1,39,M,0,0,0,0,amin-affane
+blomjo,Johan,Blomberg,1987-06-14,SWE,1,8,M,0,0,0,0,johan-blomberg
+brusfr,Fredrik,Brustad,1989-06-22,NOR,1,7,M,0,0,0,0,fredrik-brustad
+eliani,Niclas,Eliasson,1995-12-07,SWE,1,28,M,0,0,0,0,niclas-eliasson
+etuhdi,Dickson,Etuhu,1982-06-08,NGR,1,20,M,0,0,0,0,dickson-etuhu
+ferrfr,Franco,Ferreyra,1994-02-03,ARG,1,15,M,0,0,0,0,franco-ferreyra
+gravch,Christos,Gravius,1997-10-14,SWE,1,31,M,0,0,0,0,christos-gravius
+ishist,Stefan,Ishizaki,1982-05-15,SWE,1,24,M,0,0,0,0,stefan-ishizaki
+janxwi,William,Jan,1998-10-07,SWE,1,12,M,0,0,0,0,william-jan
+oforeb,Ebenezer,Ofori,1995-07-01,GHA,1,17,M,0,0,0,0,ebenezer-ofori
+salean,Anton,Salétros,1996-04-12,SWE,1,29,M,0,0,0,0,anton-saletros
+sundda,Daniel,Sundgren,1990-11-22,SWE,1,21,M,0,0,0,0,daniel-sundgren
+yaseah,Ahmed,Yaseen,1991-04-22,IRQ,1,19,M,0,0,0,0,ahmed-yaseen
+avdide,Denni,Avdić,1988-09-05,SWE,1,10,A,0,0,0,0,denni-avdic
+isakal,Alexander,Isak,1999-09-21,SWE,1,36,A,0,0,0,0,alexander-isak
+markee,Eero,Markkanen,1991-07-03,FIN,1,11,A,0,0,0,0,eero-markkanen
+straca,Carlos,Strandberg,1996-04-14,SWE,1,22,A,0,0,0,0,carlos-strandberg
+obasch,Chinedu,Obasi,1986-06-01,NGR,1, , ,0,0,0,0,chinedu-obasi
+chibjo,John,Chibuike,1988-10-10,NGR,1, , ,0,0,0,0,john-chibuike
+mansri,Rickson,Mansiamina,1997-07-09,SWE,1, , ,0,0,0,0,rickson-mansiamina
+nikoma,Marko,Nikolić,1997-09-17,SWE,1, , ,0,0,0,0,marko-nikolic_5
+andean,Andreas,Andersson,1991-02-27,SWE,29,25,P,0,0,0,0,andreas-andersson_2
+frodvi,Viktor,Frodig,1997-06-05,SWE,29,22,P,0,0,0,0,viktor-frodig
+hedvem,Emil,Hedvall,1983-06-09,SWE,29,1,P,0,0,0,0,emil-hedvall
+hugoma,Mattias,Hugosson,1974-01-24,SWE,29,30,P,0,0,0,0,mattias-hugosson
+larsos,Oskar,Larsson,1994-10-05,SWE,29,30,P,0,0,0,0,oskar-larsson
+lansan,Anton,Lans,1991-04-17,SWE,29,4,F,0,0,0,0,anton-lans
+nadejo,Joshua,Nadeau,1994-09-12,FRA,29,2,F,0,0,0,0,joshua-nadeau
+portje,Jens,Portin,1984-12-13,FIN,29,14,F,0,0,0,0,jens-portin
+brormr,Martin Rauschenberg,Brorsen,1992-01-15,DEN,29,29,F,0,0,0,0,martin-rauschenberg-brorsen
+sjoeab,Anders,Bååth-Sjöblom,1991-04-13,SWE,29,12,M,0,0,0,0,anders-baath-sjoeblom
+bertjo,Johan,Bertilsson,1988-02-15,SWE,29,13,M,0,0,0,0,johan-bertilsson
+haarab,Adrian Bjelkendal,Haaranen,1998-03-07,SWE,29,24,M,0,0,0,0,adrian-bjelkendal-haaranen
+bonskw,Kwame,Bonsu,1994-09-25,GHA,29,21,M,0,0,0,0,kwame-bonsu
+ericja,Jacob,Ericsson,1993-09-17,SWE,29,5,M,0,0,0,0,jacob-ericsson
+florje,Jesper,Florén,1990-09-11,SWE,29,6,M,0,0,0,0,jesper-floren
+gusssa,Samuel,Gussman,1997-05-20,SWE,29,23,M,0,0,0,0,samuel-gussman
+svenah,Albin Hultin,Svensk,1997-01-20,SWE,29,3,M,0,0,0,0,albin-hultin-svensk
+lantjo,Jonas,Lantto,1987-05-22,SWE,29,17,M,0,0,0,0,jonas-lantto
+lohial,Albin,Lohikangas,1998-08-20,SWE,29,21,M,0,0,0,0,albin-lohikangas
+nilsro,Robin,Nilsson,1988-09-15,SWE,29,7,M,0,0,0,0,robin-nilsson
+olsser,Erik,Olsson,1995-09-22,SWE,29,8,M,0,0,0,0,erik-olsson
+skrasi,Simon,Skrabb,1995-01-19,FIN,29,8,M,0,0,0,0,simon-skrabb
+waxxtt,Tshutshu Tshakasua,Wa,1997-05-15,SWE,29,18,M,0,0,0,0,tshutshu-tshakasua-wa
+adamab,Abdul,Adam,1995-02-13,GHA,29,19,A,0,0,0,0,abdul-adam
+bellem,Emil,Bellander,1994-01-05,SWE,29,20,A,0,0,0,0,emil-bellander
+hjelja,Jacob,Hjelte,1996-08-11,SWE,29,15,A,0,0,0,0,jacob-hjelte
+oremjo,Johan,Oremo,1986-10-24,SWE,29,9,A,0,0,0,0,johan-oremo
+willdi,Dioh,Williams,1984-10-08,LBR,29,10,A,0,0,0,0,dioh-williams
+rafayo,York,Rafael,1999-03-17,SWE,29, , ,0,0,0,0,york-rafael
+perske,Kevin,Persson,1998-09-22,SWE,29, , ,0,0,0,0,kevin-persson
+rafnsi,Simen,Rafn,1992-02-16,NOR,29, , ,0,0,0,0,simen-rafn
+andefr,Fredrik,Andersson,1988-10-25,SWE,2,29,P,0,0,0,0,fredrik-andersson_2
+johama,Marko,Johansson,1998-08-25,SWE,2,30,P,0,0,0,0,marko-johansson
+wilajs,Johan,Sellberg-Wiland,1981-01-24,SWE,2,1,P,0,0,0,0,johan-sellberg-wiland
+arnaka,Kári,Árnason,1982-10-13,ISL,2,21,F,0,0,0,0,kari-arnason
+bengra,Rasmus,Bengtsson,1986-06-26,SWE,2,17,F,0,0,0,0,rasmus-bengtsson
+brorfr,Franz,Brorsson,1996-01-30,SWE,2,31,F,0,0,0,0,franz-brorsson
+carvfe,Felipe,Carvalho,1993-09-18,URU,2,25,F,0,0,0,0,felipe-carvalho
+konapa,Pa,Konaté,1994-04-25,SWE,2,2,F,0,0,0,0,pa-konate
+tinnan,Anton,Tinnerholm,1991-02-26,SWE,2,3,F,0,0,0,0,anton-tinnerholm
+vindan,Andreas,Vindheim,1995-08-04,NOR,2,26,F,0,0,0,0,andreas-vindheim
+aduxen,Enoch,Adu,1990-09-14,GHA,2,8,M,0,0,0,0,enoch-adu
+branjo,Johan,Brannefalk,1997-12-09,SWE,2,8,M,0,0,0,0,johan-brannefalk
+chrian,Anders,Christiansen,1990-06-08,DEN,2,7,M,0,0,0,0,anders-christiansen
+eikrma,Magnus,Eikrem,1990-08-08,NOR,2,10,M,0,0,0,0,magnus-eikrem
+johapi,Piotr,Johansson,1995-02-28,SWE,2,35,M,0,0,0,0,piotr-johansson
+lewios,Oscar,Lewicki,1992-07-14,SWE,2,6,M,0,0,0,0,oscar-lewicki
+rakier,Erdal,Rakip,1996-02-13,SWE,2,5,M,0,0,0,0,erdal-rakip
+rodivl,Vladimir,Rodić,1993-09-07,MNT,2,20,M,0,0,0,0,vladimir-rodic
+sanato,Tobias,Sana,1989-07-11,SWE,2,22,M,0,0,0,0,tobias-sana
+svanma,Mattias,Svanberg,1999-01-05,SWE,2,32,M,0,0,0,0,mattias-svanberg
+yotuyo,Yoshimar,Yotún,1990-04-07,PER,2,13,M,0,0,0,0,yoshimar-yotun
+bergji,Jo Inge,Berget,1990-09-11,NOR,2,23,A,0,0,0,0,jo-inge-berget
+bergte,Teddy,Bergqvist,1999-03-16,SWE,2,33,A,0,0,0,0,teddy-bergqvist
+kjarvi,Viðar,Kjartansson,1990-03-11,ISL,2,24,A,0,0,0,0,vidar-kjartansson
+moligu,Guillermo,Molins,1988-09-26,SWE,2,10,A,0,0,0,0,guillermo-molins
+rosema,Markus,Rosenberg,1982-09-27,SWE,2,9,A,0,0,0,0,markus-rosenberg
+jereal,Alexander,Jeremejeff,1993-10-12,SWE,2, , ,0,0,0,0,alexander-jeremejeff
+safabe,Behrang,Safari,1985-02-09,SWE,2, , ,0,0,0,0,behrang-safari
+hadzde,Dennis,Hadžikadunić,1998-07-09,SWE,2, , ,0,0,0,0,dennis-hadzikadunic
+adrisa,Samuel,Adrian,1998-03-02,SWE,2, , ,0,0,0,0,samuel-adrian
+andem1,Mattias,Andersson,1998-03-13,SWE,2, , ,0,0,0,0,mattias-andersson_2
+vagipa,Pavle,Vagić,2000-01-24,SWE,2, , ,0,0,0,0,pavle-vagic
+bratjo,Johan,Brattberg,1996-12-28,SWE,32,24,P,0,0,0,0,johan-brattberg
+lundal,Alexander,Lundin,1992-10-25,SWE,32,16,P,0,0,0,0,alexander-lundin
+martot,Otto,Martler,1987-02-27,SWE,32,1,P,0,0,0,0,otto-martler
+andeli,Linus,Andersson,1996-06-06,SWE,32,5,F,0,0,0,0,linus-andersson
+johada,Daniel,Johansson,1987-07-28,SWE,32,4,F,0,0,0,0,daniel-johansson_3
+jozati,Tibor,Joza,1986-08-10,SWE,32,33,F,0,0,0,0,tibor-joza
+nieltj,Thomas,Juel-Nielsen,1990-06-18,DEN,32,21,F,0,0,0,0,thomas-juel-nielsen
+karlp1,Per,Karlsson,1989-04-20,SWE,32,14,F,0,0,0,0,per-karlsson_2
+karlto,Tobias,Karlsson,1989-01-14,SWE,32,8,F,0,0,0,0,tobias-karlsson
+sjoera,Rasmus,Sjöstedt,1992-02-28,SWE,32,2,F,0,0,0,0,rasmus-sjoestedt
+carlch,Christoffer,Carlsson,1989-01-15,SWE,32,12,M,0,0,0,0,christoffer-carlsson
+jakoal,Alexander,Jakobsen,1994-03-18,EGY,32,70,M,0,0,0,0,alexander-jakobsen
+karlje,Jesper,Karlsson,1998-07-25,SWE,32,17,M,0,0,0,0,jesper-karlsson_2
+kwaken,Enock,Kwakwa,1994-07-02,GHA,32,23,M,0,0,0,0,enock-kwakwa
+mustka,Kamal,Mustafa,1991-07-22,SWE,32,77,M,0,0,0,0,kamal-mustafa
+nazaam,Amin,Nazari,1993-04-26,PHI,32,10,M,0,0,0,0,amin-nazari
+ofoslo,Lord,Ofosuhene,1994-03-30,GHA,32,70,M,0,0,0,0,lord-ofosuhene
+svenda,David,Svensson,1984-04-09,SWE,32,7,M,0,0,0,0,david-svensson
+svenha,Hampus,Svensson,1994-10-23,SWE,32,3,M,0,0,0,0,hampus-svensson
+zetter,Erik,Zetterberg,1997-02-16,SWE,32,6,M,0,0,0,0,erik-zetterberg
+arabha,Hakeem,Araba,1991-02-12,ENG,32,18,A,0,0,0,0,hakeem-araba
+krizzl,Zlatan,Krizanović,1991-05-17,SWE,32,42,A,0,0,0,0,zlatan-krizanovic
+pelvak,Akseli,Pelvas,1989-02-08,FIN,32,20,A,0,0,0,0,akseli-pelvas
+rodest,Stefan,Rodevåg,1980-06-11,SWE,32,15,A,0,0,0,0,stefan-rodevag
+valljo,Johannes,Vall,1992-10-19,SWE,32,11,A,0,0,0,0,johannes-vall
+carvfe,Felipe,Carvalho,1993-09-18,URU,32, , ,0,0,0,0,felipe-carvalho
+dragth,Thomas,Drage,1992-02-20,NOR,32, , ,0,0,0,0,thomas-drage
+nilsgu,Gustaf,Nilsson,1997-05-23,SWE,32, , ,0,0,0,0,gustaf-nilsson_2
+sylied,Edi,Sylisufaj,1999-03-08,SWE,32, , ,0,0,0,0,edi-sylisufaj
+johal1,Ludvig,Johansson,1998-05-14,SWE,32, , ,0,0,0,0,ludvig-johansson
+lindju,Julius,Lindgren,1997-07-17,SWE,3,31,P,0,0,0,0,julius-lindgren
+nilsda,David,Nilsson,1991-01-12,MAC,3,91,P,0,0,0,0,david-nilsson
+udjuke,Kenneth,Udjus,1983-07-02,NOR,3,31,P,0,0,0,0,kenneth-udjus
+vaikan,Andreas,Vaikla,1997-02-19,CAN,3,1,P,0,0,0,0,andreas-vaikla
+casthe,Henrik,Castegren,1996-03-28,SWE,3,2,F,0,0,0,0,henrik-castegren
+dagefi,Filip,Dagerstål,1997-02-01,SWE,3,25,F,0,0,0,0,filip-dagerstal
+olanmf,Marcus,Falk-Olander,1987-05-21,SWE,3,15,F,0,0,0,0,marcus-falk-olander
+fjoljo,Jón,Fjóluson,1989-04-10,ISL,3,3,F,0,0,0,0,jon-fjoluson
+hadean,Andreas,Hadenius,1991-03-18,SWE,3,21,F,0,0,0,0,andreas-hadenius
+linder,Erik,Lindell,1996-02-14,SWE,3,13,F,0,0,0,0,erik-lindell
+tkalni,Nikola,Tkalčić,1989-12-03,CRO,3,30,F,0,0,0,0,nikola-tkalcic
+wahlli,Linus,Wahlqvist,1996-11-11,SWE,3,6,F,0,0,0,0,linus-wahlqvist
+bloman,Andreas,Blomqvist,1992-05-05,SWE,3,7,M,0,0,0,0,andreas-blomqvist
+johaan,Andreas,Johansson,1982-03-10,SWE,3,4,M,0,0,0,0,andreas-johansson_2
+sjoeda,Daniel,Sjölund,1983-04-22,FIN,3,20,M,0,0,0,0,daniel-sjoelund
+smiter,Eric,Smith,1997-01-08,SWE,3,14,M,0,0,0,0,eric-smith_3
+tekite,Tesfaldet,Tekie,1997-06-04,SWE,3,27,M,0,0,0,0,tesfaldet-tekie
+teloch,Christopher,Telo,1989-11-04,SWE,3,11,M,0,0,0,0,christopher-telo
+trauai,Arnór Ingvi,Traustason,1993-04-30,ISL,3,9,M,0,0,0,0,arnor-ingvi-traustason
+andese,Sebastian,Andersson,1991-07-15,SWE,3,19,A,0,0,0,0,sebastian-andersson
+baerni,Nicklas,Bärkroth,1992-01-19,SWE,3,8,A,0,0,0,0,nicklas-baerkroth
+citage,Gentrit,Citaku,1996-02-25,SWE,3,24,A,0,0,0,0,gentrit-citaku
+enarjo,Joel,Enarsson,1993-06-27,SWE,3,16,A,0,0,0,0,joel-enarsson
+kujoem,Emir,Kujović,1988-06-22,SWE,3,10,A,0,0,0,0,emir-kujovic
+nymach,Christoffer,Nyman,1992-10-05,SWE,3,5,A,0,0,0,0,christoffer-nyman
+karldm,David,Moberg-Karlsson,1994-03-20,SWE,3, , ,0,0,0,0,david-moberg-karlsson
+eliani,Niclas,Eliasson,1995-12-07,SWE,3, , ,0,0,0,0,niclas-eliasson
+langmi,Michael,Langer,1985-01-06,AUT,3, , ,0,0,0,0,michael-langer
+holmka,Karl,Holmberg,1993-03-03,SWE,3, , ,0,0,0,0,karl-holmberg
+bukvad,Adin,Bukva,1998-01-11,SWE,3, , ,0,0,0,0,adin-bukva
+bazema,Marwan,Baze,1998-02-03,SWE,3, , ,0,0,0,0,marwan-baze
+jeahmo,Mohanad,Jeahze,1997-04-10,SWE,3, , ,0,0,0,0,mohanad-jeahze
+hoeike,Kenneth,Høie,1979-09-11,NOR,4,12,P,0,0,0,0,kenneth-hoeie
+nilsha,Hampus,Nilsson,1990-07-17,SWE,4,23,P,0,0,0,0,hampus-nilsson
+augujo,Jonathan,Augustinsson,1996-03-30,SWE,4,16,F,0,0,0,0,jonathan-augustinsson
+bjoeti,Tim,Björkström,1991-01-08,SWE,4,2,F,0,0,0,0,tim-bjoerkstroem
+collom,Omar,Colley,1992-10-24,GAM,4,15,F,0,0,0,0,omar-colley
+enstma,Marcus,Enström,1997-01-07,SWE,4,37,F,0,0,0,0,marcus-enstroem
+kaecel,Elliot,Käck,1989-09-18,SWE,4,3,F,0,0,0,0,elliot-kaeck
+karlst,Stefan,Karlsson,1988-12-15,SWE,4,5,F,0,0,0,0,stefan-karlsson
+larsja,Jacob,Larsson,1994-04-08,SWE,4,4,F,0,0,0,0,jacob-larsson
+loepwi,Wilhelm,Loeper,1998-03-30,SWE,4,38,F,0,0,0,0,wilhelm-loeper
+bernda,Daniel,Berntsen,1993-04-04,NOR,4,10,M,0,0,0,0,daniel-berntsen
+ceesjo,Joseph,Ceesay,1998-06-03,SWE,4,16,M,0,0,0,0,joseph-ceesay
+faltal,Alexander,Faltsetas,1987-07-04,SWE,4,6,M,0,0,0,0,alexander-faltsetas
+hansma,Marcus,Hansson,1990-02-21,SWE,4,19,M,0,0,0,0,marcus-hansson
+karlj1,Jesper,Karlström,1995-06-21,SWE,4,22,M,0,0,0,0,jesper-karlstroem
+mayami,Mihlali,Mayambela,1996-08-25,RSA,4,21,M,0,0,0,0,mihlali-mayambela
+moonsm,Seon-min,Moon,1992-06-09,KOR,4,7,M,0,0,0,0,seon-min-moon
+mrabke,Kerim,Mrabti,1994-05-20,SWE,4,18,M,0,0,0,0,kerim-mrabti
+radeha,Haris,Radetinac,1985-10-28,SRB,4,9,M,0,0,0,0,haris-radetinac
+sabobe,Besard,Šabović,1998-01-05,SWE,4,33,M,0,0,0,0,besard-sabovic
+tasifi,Filip,Tasic,1998-11-12,SWE,4,39,M,0,0,0,0,filip-tasic_2
+walkke,Kevin,Walker,1989-08-03,SWE,4,8,M,0,0,0,0,kevin-walker
+jawoam,Amadou,Jawo,1984-09-26,SWE,4,11,A,0,0,0,0,amadou-jawo
+johnsa,Sam,Johnson,1993-05-06,LBR,4,20,A,0,0,0,0,sam-johnson_2
+kadeti,Tino,Kadewere,1996-01-05,ZIM,4,24,A,0,0,0,0,tino-kadewere
+olunmi,Michael,Olunga,1994-03-26,KEN,4,17,A,0,0,0,0,michael-olunga
+ranema,Mathias,Ranégie,1984-06-14,SWE,4,13,A,0,0,0,0,mathias-ranegie
+erikma,Magnus,Eriksson,1990-04-08,SWE,4, , ,0,0,0,0,magnus-eriksson
+ceeske,Kebba,Ceesay,1987-11-14,SWE,4, , ,0,0,0,0,kebba-ceesay
+kabioe,Othman,El Kabir,1991-07-17,NED,4, , ,0,0,0,0,othman-el-kabir
+gunnni,Niklas,Gunnarsson,1991-04-27,NOR,4, , ,0,0,0,0,niklas-gunnarsson
+isakan,Andreas,Isaksson,1981-10-03,SWE,4, , ,0,0,0,0,andreas-isaksson
+jonsos,Oscar,Jonsson,1997-01-24,SWE,4, , ,0,0,0,0,oscar-jonsson
+cajtan,Anton,Cajtoft,1994-02-13,SWE,64,23,P,0,0,0,0,anton-cajtoft
+mehida,Damir,Mehić,1987-04-18,SWE,64,25,P,0,0,0,0,damir-mehic
+verebe,Bence,Verebelyi,1997-02-19,SWE,64,1,P,0,0,0,0,bence-verebelyi
+portal,Álex,Portillo,1992-11-06,SPA,64,28,F,0,0,0,0,alex-portillo
+calian,André,Calisir,1990-06-13,ARM,64,26,F,0,0,0,0,andre-calisir
+karlj2,Joakim,Karlsson,1989-02-04,SWE,64,8,F,0,0,0,0,joakim-karlsson_2
+siweto,Tom,Siwe,1987-03-02,SWE,64,3,F,0,0,0,0,tom-siwe
+sybejt,Jonathan,Tamimi-Syberg,1994-10-12,JOR,64,2,F,0,0,0,0,jonathan-tamimi-syberg
+watsma,Max,Watson,1996-02-03,SWE,64,4,F,0,0,0,0,max-watson
+aasmst,Stian,Aasmundsen,1989-11-02,NOR,64,15,M,0,0,0,0,stian-aasmundsen
+dimisi,Simon,Dimitrijević,1996-04-18,SWE,64,11,M,0,0,0,0,simon-dimitrijevic
+faegad,Adam,Fägerhag,1998-04-02,SWE,64,7,M,0,0,0,0,adam-faegerhag
+fendfr,Fredric,Fendrich,1988-01-27,SWE,64,5,M,0,0,0,0,fredric-fendrich
+gojaro,Robert,Gojani,1992-10-19,SWE,64,24,M,0,0,0,0,robert-gojani
+holmse,Sebastian,Holmqvist,1993-02-13,SWE,64,21,M,0,0,0,0,sebastian-holmqvist
+jukomi,Midhad,Jukovic,1997-03-28,SWE,64,16,M,0,0,0,0,midhad-jukovic_2
+kozidz,Dženis,Kozica,1993-04-28,SWE,64,7,M,0,0,0,0,dzenis-kozica
+nilsto,Tobias,Nilsson,1986-02-20,SWE,64,14,M,0,0,0,0,tobias-nilsson
+ogbumo,Moses,Ogbu,1991-02-07,NGR,64,10,M,0,0,0,0,moses-ogbu
+roenvi,Viktor,Rönneklev,1982-08-16,SWE,64,16,M,0,0,0,0,viktor-roenneklev
+silkli,Liridon,Silka,1990-07-17,KOS,64,18,M,0,0,0,0,liridon-silka
+smylda,Daryl,Smylie,1985-09-10,ENG,64,17,M,0,0,0,0,daryl-smylie
+soerbe,Benjamin,Sörman,1999-01-19,SWE,64,26,M,0,0,0,0,benjamin-soerman
+svenje,Jesper,Svensson,1990-03-06,SWE,64,12,M,0,0,0,0,jesper-svensson
+cibipa,Paweł,Cibicki,1994-01-09,SWE,64,22,A,0,0,0,0,pawel-cibicki
+tegema,Markus,Tegebäck,1997-03-28,SWE,64,20,A,0,0,0,0,markus-tegebaeck
+thelto,Tommy,Thelin,1983-09-22,SWE,64,9,A,0,0,0,0,tommy-thelin
+ericpa,Pär,Ericsson,1988-07-21,SWE,64, , ,0,0,0,0,paer-ericsson
+calase, ,Cala,1990-03-02,SPA,64, , ,0,0,0,0,cala_2
+franfr, ,Fran,1988-01-19,SPA,64, , ,0,0,0,0,fran_7
+koutda,Daniel,Koutcho,1998-02-24,SWE,64, , ,0,0,0,0,daniel-koutcho
+bjoeha,Haraldur,Björnsson,1989-01-11,ISL,65,77,P,0,0,0,0,haraldur-bjoernsson
+blacja,Jamal,Blackman,1993-10-27,ENG,65,27,P,0,0,0,0,jamal-blackman
+keital,Aly,Keita,1986-12-08,SWE,65,1,P,0,0,0,0,aly-keita
+attawa,Walid,Atta,1986-08-28,ETH,65,5,F,0,0,0,0,walid-atta
+bergdo,Doug,Bergqvist,1993-03-29,SWE,65,6,F,0,0,0,0,doug-bergqvist
+menssl,Samuel Laryeal,Mensah,1989-05-19,GHA,65,25,F,0,0,0,0,samuel-laryeal-mensah
+mukiro,Ronald,Mukiibi,1991-09-16,SWE,65,24,F,0,0,0,0,ronald-mukiibi
+papaso,Sotirios,Papagiannopoulos,1990-09-05,SWE,65,31,F,0,0,0,0,sotirios-papagiannopoulos
+somiga,Gabriel,Somi,1991-08-24,SYR,65,20,F,0,0,0,0,gabriel-somi
+widgde,Dennis,Widgren,1994-03-28,SWE,65,19,F,0,0,0,0,dennis-widgren
+bachfo,Fouad,Bachirou,1990-04-15,COM,65,21,M,0,0,0,0,fouad-bachirou
+dyeral,Alex,Dyer,1990-06-11,MTS,65,23,M,0,0,0,0,alex-dyer
+hopcja,Jamie,Hopcutt,1992-06-23,ENG,65,8,M,0,0,0,0,jamie-hopcutt
+lundse,Sebastian,Lundbäck,1996-05-27,SWE,65,4,M,0,0,0,0,sebastian-lundbaeck
+nourbr,Brwa,Nouri,1987-01-23,IRQ,65,22,M,0,0,0,0,brwa-nouri
+samumo,Monday,Samuel,1993-11-12,NGR,65,30,M,0,0,0,0,monday-samuel
+semake,Ken,Sema,1993-09-30,SWE,65,12,M,0,0,0,0,ken-sema
+sollbo,Bobo,Sollander,1985-06-26,SWE,65,14,M,0,0,0,0,bobo-sollander
+stadan,Andrew,Stadler,1988-05-01,USA,65,11,M,0,0,0,0,andrew-stadler
+geroal,Alhaji,Gero,1993-10-10,NGR,65,18,A,0,0,0,0,alhaji-gero
+ghodsa,Saman,Ghoddos,1993-09-06,IRN,65,93,A,0,0,0,0,saman-ghoddos
+omohmi,Michael,Omoh,1991-08-29,NGR,65,29,A,0,0,0,0,michael-omoh
+smajem,Emir,Smajić,1989-02-03,SWE,65,9,A,0,0,0,0,emir-smajic
+tandgr,Grace,Tanda,1993-11-30,SWE,65,17,A,0,0,0,0,grace-tanda
+aiesho,Hosam,Aiesh,1995-04-14,SWE,65, , ,0,0,0,0,hosam-aiesh
+karlst,Stefan,Karlsson,1988-12-15,SWE,65, , ,0,0,0,0,stefan-karlsson
+edwacu,Curtis,Edwards,1994-01-12,ENG,65, , ,0,0,0,0,curtis-edwards
+johapi,Piotr,Johansson,1995-02-28,SWE,65, , ,0,0,0,0,piotr-johansson
+nilsha,Hampus,Nilsson,1990-07-17,SWE,65, , ,0,0,0,0,hampus-nilsson
+eskewi,William,Eskelinen,1996-09-03,SWE,6,24,P,0,0,0,0,william-eskelinen
+krisoe,Ögmundur,Kristinsson,1989-06-19,ISL,6,1,P,0,0,0,0,oegmundur-kristinsson
+markti,Tim,Markström,1986-10-09,SWE,6,25,P,0,0,0,0,tim-markstroem
+aidojo,Joseph,Aidoo,1995-09-29,GHA,6,6,F,0,0,0,0,joseph-aidoo
+batast,Stefan,Batan,1985-03-20,SWE,6,9,F,0,0,0,0,stefan-batan
+magyri,Richárd,Magyar,1991-05-03,SWE,6,3,F,0,0,0,0,richard-magyar
+saetla,Lars,Sætra,1991-07-24,NOR,6,23,F,0,0,0,0,lars-saetra
+saevbi,Birkir,Sævarsson,1984-11-11,ISL,6,2,F,0,0,0,0,birkir-saevarsson
+solhma,Mats,Solheim,1987-12-03,NOR,6,77,F,0,0,0,0,mats-solheim
+haglph,Philip,Haglund,1987-03-22,SWE,6,5,M,0,0,0,0,philip-haglund
+hallme,Melker,Hallberg,1995-10-20,SWE,6,21,M,0,0,0,0,melker-hallberg
+israer,Erik,Israelsson,1989-02-25,SWE,6,4,M,0,0,0,0,erik-israelsson
+jajidu,Dušan,Jajić,1998-07-04,SWE,6,26,M,0,0,0,0,dusan-jajic
+persj1,Johan,Persson,1984-06-20,SWE,6,8,M,0,0,0,0,johan-persson
+rennam,Amadaiya,Rennie,1990-03-17,LBR,6,20,M,0,0,0,0,amadaiya-rennie
+silvol,Oliver,Silverholt,1994-06-22,SWE,6,18,M,0,0,0,0,oliver-silverholt
+soedma,Måns,Söderqvist,1993-02-08,SWE,6,34,M,0,0,0,0,mans-soederqvist
+torsfr,Fredrik,Torsteinbø,1991-03-13,NOR,6,14,M,0,0,0,0,fredrik-torsteinboe
+wiklda,David,Wiklander,1984-10-03,SWE,6,17,M,0,0,0,0,david-wiklander
+azeral,Alex,Azeredo,1990-08-21,BRA,6,7,A,0,0,0,0,alex-azeredo
+bakike,Kennedy,Bakırcıoğlu,1980-11-02,SWE,6,10,A,0,0,0,0,kennedy-bakircioglu
+khalim,Imad,Khalili,1987-04-03,PAL,6,55,A,0,0,0,0,imad-khalili
+lidbis,Isac,Lidberg,1998-09-08,SWE,6,27,A,0,0,0,0,isac-lidberg
+romuro, ,Romulo,1991-11-02,BRA,6,16,A,0,0,0,0,romulo_15
+smarar,Arnór,Smárason,1988-09-07,ISL,6,11,A,0,0,0,0,arnor-smarason
+dibbpa,Pa,Dibba,1987-10-15,GAM,6, , ,0,0,0,0,pa-dibba
+smitia,Ian,Smith,1998-03-06,CRC,6, , ,0,0,0,0,ian-smith_3
+andeda,Daniel,Andersson,1972-12-18,SWE,8,39,P,0,0,0,0,daniel-andersson_2
+chento,Tomer,Chencinski,1984-12-01,CAN,8,41,P,0,0,0,0,tomer-chencinski
+joelka,Kalle,Joelsson,1998-03-21,SWE,8,30,P,0,0,0,0,kalle-joelsson
+pyzdma,Matthew,Pyzdrowski,1986-08-17,USA,8,1,P,0,0,0,0,matthew-pyzdrowski
+joenaa,Alexander,Achinioti-Jönsson,1996-04-17,SWE,8,13,F,0,0,0,0,alexander-achinioti-joensson
+andech,Christoffer,Andersson,1978-10-22,SWE,8,4,F,0,0,0,0,christoffer-andersson
+bindfe,Felix,Bindelöv,1997-02-23,SWE,8,25,F,0,0,0,0,felix-bindeloev
+bjoeje,Jesper,Björkman,1993-04-29,SWE,8,29,F,0,0,0,0,jesper-bjoerkman
+erikad,Adam,Eriksson,1990-07-13,SWE,8,11,F,0,0,0,0,adam-eriksson_2
+helsfr,Frederik,Helstrup,1993-03-16,DEN,8,3,F,0,0,0,0,frederik-helstrup
+johaca,Carl,Johansson,1994-05-23,SWE,8,2,F,0,0,0,0,carl-johansson
+larspe,Peter,Larsson,1984-04-30,SWE,8,26,F,0,0,0,0,peter-larsson_2
+ljunvi,Viktor,Ljung,1991-04-19,SWE,8,7,F,0,0,0,0,viktor-ljung
+atakla,Lalawélé,Atakora,1990-11-09,TOG,8,14,M,0,0,0,0,lalawele-atakora
+bojada,Darijan,Bojanić,1994-12-28,SWE,8,19,M,0,0,0,0,darijan-bojanic
+chrima,Martin,Christensen,1987-12-23,DEN,8,8,M,0,0,0,0,martin-christensen
+landan,Andreas,Landgren,1989-03-17,SWE,8,6,M,0,0,0,0,andreas-landgren
+larsj2,Jonathan,Larsson,1997-05-11,SWE,8,23,M,0,0,0,0,jonathan-larsson
+martjo,Johan,Mårtensson,1989-02-16,SWE,8,5,M,0,0,0,0,johan-martensson
+wedean,Anton,Wede,1990-04-20,SWE,8,10,M,0,0,0,0,anton-wede
+wedeca,Carl,Wede,1990-04-20,SWE,8,20,M,0,0,0,0,carl-wede
+dahlmi,Mikael,Dahlberg,1985-03-16,SWE,8,16,A,0,0,0,0,mikael-dahlberg
+hallli,Linus,Hallenius,1989-04-01,SWE,8,15,A,0,0,0,0,linus-hallenius
+kinnan,Anton,Kinnander,1996-02-23,SWE,8,24,A,0,0,0,0,anton-kinnander
+larsjo,Jordan,Larsson,1997-06-20,SWE,8,18,A,0,0,0,0,jordan-larsson
+rusima,Matthew,Rusike,1990-06-28,ZIM,8,9,A,0,0,0,0,matthew-rusike
+surpam, ,Surprise,1987-10-04,RSA,8, , ,0,0,0,0,surprise
+samumo,Monday,Samuel,1993-11-12,NGR,8, , ,0,0,0,0,monday-samuel
+langje,Jesper,Lange,1986-01-11,DEN,8, , ,0,0,0,0,jesper-lange
+olssj1,Jonatan,Olsson,1993-02-09,SWE,8, , ,0,0,0,0,jonatan-olsson
+svenma,Max,Svensson,1998-06-19,SWE,8, , ,0,0,0,0,max-svensson
+zeidmo,Moustafa,Zeidan,1998-06-07,SWE,8, , ,0,0,0,0,moustafa-zeidan
+svenni,Niklas,Svensson,1998-07-10,SWE,8, , ,0,0,0,0,niklas-svensson
+bjaedo,Douglas,Bjäresten,1998-06-18,SWE,9,95,P,0,0,0,0,douglas-bjaeresten
+jansos,Oscar,Jansson,1990-12-23,SWE,9,1,P,0,0,0,0,oscar-jansson
+rinnja,Jacob,Rinne,1993-06-20,SWE,9,30,P,0,0,0,0,jacob-rinne
+westka,Karl,Westdahl,1997-03-21,SWE,9,33,P,0,0,0,0,karl-westdahl
+almemi,Michael,Almebäck,1988-04-04,SWE,9,14,F,0,0,0,0,michael-almebaeck
+bjoed1,Daniel,Björnkvist,1989-01-08,SWE,9,12,F,0,0,0,0,daniel-bjoernkvist
+hagipa,Patrik,Haginge,1985-04-02,SWE,9,2,F,0,0,0,0,patrik-haginge
+hamrca,Carl,Hamrén,1996-06-17,SWE,9,45,F,0,0,0,0,carl-hamren
+ikexbh,Brendan,Hines-Ike,1994-04-07,USA,9,3,F,0,0,0,0,brendan-hines-ike
+mobeer,Erik,Moberg,1986-07-05,SWE,9,5,F,0,0,0,0,erik-moberg
+ringse,Sebastian,Ring,1995-04-18,SWE,9,19,F,0,0,0,0,sebastian-ring
+trinma,Martin,Trinh,2000-01-13,SWE,9,19,F,0,0,0,0,martin-trinh
+valghj,Hjörtur,Valgarðsson,1988-09-27,ISL,9,4,F,0,0,0,0,hjoertur-valgardsson
+persra,Robert,Åhman-Persson,1987-03-26,SWE,9,6,M,0,0,0,0,robert-ahman-persson
+ajdaas,Astrit,Ajdarević,1990-04-17,ALB,9,8,M,0,0,0,0,astrit-ajdarevic
+brobma,Martin,Broberg,1990-09-24,SWE,9,9,M,0,0,0,0,martin-broberg
+gerzno,Nordin,Gerzić,1983-11-09,SWE,9,25,M,0,0,0,0,nordin-gerzic
+gustda,Daniel,Gustavsson,1990-08-29,SWE,9,90,M,0,0,0,0,daniel-gustavsson_2
+johake,Kevin,Johansson,1998-03-04,SWE,9,22,M,0,0,0,0,kevin-johansson
+nordda,Daniel,Nordmark,1988-01-04,SWE,9,16,M,0,0,0,0,daniel-nordmark
+semama,Maic,Sema,1988-12-02,SWE,9,23,M,0,0,0,0,maic-sema
+wallvi,Viktor,Walldén,1998-04-04,SWE,9,21,M,0,0,0,0,viktor-wallden
+holmka,Karl,Holmberg,1993-03-03,SWE,9,17,A,0,0,0,0,karl-holmberg
+jaiteb,Ebrima,Jaiteh,1998-11-30,SWE,9,15,A,0,0,0,0,ebrima-jaiteh
+kamaal,Alhassan,Kamara,1993-03-16,SLE,9,10,A,0,0,0,0,alhassan-kamara
+lundjo,Jonathan,Lundberg,1987-10-27,SWE,9,13,A,0,0,0,0,jonathan-lundberg
+omohmi,Michael,Omoh,1991-08-29,NGR,9, , ,0,0,0,0,michael-omoh
+skoevi,Viktor,Sköld,1989-07-31,SWE,9, , ,0,0,0,0,viktor-skoeld
+besana,Nahir,Besara,1991-02-25,SWE,9, , ,0,0,0,0,nahir-besara
+ayazfe,Ferhad,Ayaz,1994-10-10,SWE,9, , ,0,0,0,0,ferhad-ayaz
+lorema,Martin,Lorentzson,1984-07-21,SWE,9, , ,0,0,0,0,martin-lorentzson
+ajdaal,Alfred,Ajdarević,1998-06-20,KOS,9, , ,0,0,0,0,alfred-ajdarevic
+brorar,Arvid,Brorsson,1999-05-08,SWE,9, , ,0,0,0,0,arvid-brorsson
+fagean,Anton,Fagerström,1991-12-06,SWE,9, , ,0,0,0,0,anton-fagerstroem

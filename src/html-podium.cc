@@ -6,18 +6,22 @@
 #define MAX_TEAMS 2000
 #define MAX_MED 20
 
-int MED;
-int FYA, LYA;
+#define MAX_LEVELS 4
+#define MAX_SEASONS 250
 
-int  NC, NE;
+int MED;
+int FY, LY, FYA, LYA, MAXA;
+
+int  NC, NE, ND, NR;
 char **club;
 char **mnem;
-int  **parta;
+int  ***parta;
 //int  **med;
+char ***tab;
+int  *maxc;
 int  *rank;
-char *filename;
+char filename[128];
 int count_last;
-int num_winter;
 int *start_winter, *end_winter;
 int med[MAX_TEAMS][MAX_MED];
 FILE *of;
@@ -46,11 +50,11 @@ struct Aliases {
   char* GetName(int y);
   char* GetNick(int y);
 };
-                 
+
 //-------------------------------------
 
 alias::alias(int y, char *s, char *n) {
-  year = y;  
+  year = y;
   name = (char*) malloc(strlen(s)+1);
   strcpy(name, s);
   if (n != NULL) {
@@ -59,14 +63,14 @@ alias::alias(int y, char *s, char *n) {
   }
   else nick = NULL;
 };
-  
+
 alias::~alias() {
   if (name) delete name;
   if (nick) delete nick;
 };
-  
+
 node::node(alias *a, node *n) {
-  data = a;  
+  data = a;
   next = n;
 };
 
@@ -78,11 +82,11 @@ node::~node() {
 Aliases::Aliases() {
   list = NULL;
 };
-  
+
 Aliases::~Aliases() {
  delete list;
 }
-  
+
 void Aliases::Append(alias *a) {
   node *n = (node*) malloc(sizeof(node));
   n->data = a;
@@ -102,12 +106,12 @@ char* Aliases::GetName(int y) {
   }
   return s;
 }
-  
+
 char* Aliases::GetNick(int y) {
   if (!list) return NULL;
   node *n = list;
   char *s = n->data->nick;
-  int x = n->data->year;  
+  int x = n->data->year;
   while (y < x && n->next != NULL) {
     n = n->next;
     s = n->data->nick;
@@ -115,17 +119,17 @@ char* Aliases::GetNick(int y) {
   }
   return s;
 }
- 
+
 Aliases **L;
 
 //--------------------------------------------------
-  
+
 char *NameOf(Aliases **L, int t, int y) {
-  char *s = L[t]->GetName(y);  
+  char *s = L[t]->GetName(y);
   if (!s) return club[t];
   return s;
 }
-      
+
 char *NickOf(Aliases **L, int t, int y) {
   char *s = L[t]->GetNick(y);
   if (!s) return mnem[t];
@@ -136,20 +140,8 @@ char *NickOf(Aliases **L, int t, int y) {
 void Load() {
   FILE *f;
   char s[2000], *tok[20], *ystr, *name, *nick;
-  int dummy, n, p, t, d, y;
+  int dummy, n, p, t;
   char *dv, *pl, *yr, *suf;
-
-  num_winter = 0;
-  f = fopen("winter.dat", "rt");
-  if (f!=NULL) {
-    fscanf(f, "%d\n", &num_winter);
-    start_winter = new int[num_winter];
-    end_winter = new int[num_winter];
-    for (int i=0; i<num_winter; i++) {
-      fscanf(f, "%d %d\n", start_winter+i, end_winter+i);
-    }
-    fclose(f);
-  }
 
   f = fopen("teams.dat", "rt");
   fscanf(f, "%d\n", &NC);
@@ -176,8 +168,7 @@ void Load() {
     if (!s) continue;
     s[strlen(s)-1] = 0;
     tok[0] = strtok(s, "*");
-    for (int j=1; j<20; j++)
-      tok[j] = strtok(NULL, "*");
+    for (int j=1; j<20; j++) tok[j] = strtok(NULL, "*");
     int k=0;
     while(tok[k]) {
       ystr = strtok(tok[k], " ");
@@ -191,67 +182,130 @@ void Load() {
   }
   fclose(f);
 
-  FYA = 2100; LYA = 1800;
+  MAXA = 1;
+  FYA = 9999;
+  LYA = 1800;
+  ND = 0;
   DIR *dp;
   struct dirent *ep;
-  dp = opendir("./"); 
-  if (dp != NULL) {  
-      while (ep = readdir (dp)) { 
+  dp = opendir("./");
+  if (dp != NULL) {
+      while (ep = readdir (dp)) {
         strcpy(s, ep->d_name);
         dv = strtok(s, ".");
         yr = strtok(NULL, ".");
         suf = strtok(NULL, ".");
         if (dv!=NULL && yr!=NULL && suf==NULL) {
           int l = strlen(dv);
-          if (l==0 || l>3) d=-1;
-          d = ((int) s[0]) - 96; if (d<1 || d>3) d=-1;
+          if (l==0 || l>3) continue;
+          int d = ((int) s[0]) - 97;
+          if (d<0 || d>=MAX_LEVELS) continue;
+          if (d+1>ND) ND = d+1;
           if (l>1) p = atoi(dv+1); else p = 1;
-          y = atoi(yr);
-          if (d==1 && y>1888 && y<2100) {
+          if (p<0 && p>12) continue;
+          int y = atoi(yr);
+          if (d==0 && y>1888 && y<2100) {
             if (y<FYA) FYA = y;
             if (y>LYA) LYA = y;
+            if (p>MAXA) MAXA = p;
           }
         }
       }
       closedir(dp);
   }
   else
-   printf("ERROR: Couldn't open the directory.\n");
+   fprintf(stderr, "ERROR: Couldn't open the directory.\n");
 
-  parta = new int*[1000];
-  for (int i=0; i<1000; i++) {
-    parta[i] = new int[34];
-  }
-
-// quick data
-  f = fopen("part.a", "rt");
-  y = 0;
-  while (!feof(f)) {
-//  for (int y=0; y<=2*((LYA+count_last-1)-FYA); y++) {
-      fscanf(f, "%d %d", &dummy, &n);
-      if (feof(f)) continue;
-      parta[y][0] = dummy;
-      parta[y][1] = n;
-      for (int i=0; i<n; i++) {
-        fscanf(f, "%d", &t); parta[y][i+2] = t;
+  int d=0;
+    if (MAXA>0) {
+      parta = new int**[LYA-FYA+1];
+      for (int i=FYA; i<=LYA; i++) {
+        parta[i-FYA] = new int*[MAXA+1];
+        for (int j=0; j<=MAXA; j++) {
+          parta[i-FYA][j] = new int[64];
+        }
       }
-      fgets(s, 200, f);
-      y++;
-  }
-  if (f) fclose(f);
-  y--;
-  NE = y;
-  while (NE>0 && parta[NE-1] == parta[y]) NE--;
-}
+    }
+
+    sprintf(filename, "part.%c", (char) (d+97));
+    f = fopen(filename, "rt");
+    for (int y=0; y<=LYA-FYA; y++) {
+      if (f==NULL) parta[y][0][1] = 0;
+      else {
+        fscanf(f, "%d %d", &dummy, &n);
+        parta[y][0][0] = dummy;
+        parta[y][0][1] = n;
+        for (int i=0; i<n; i++) {
+          fscanf(f, "%d", &t); parta[y][0][i+2] = t;
+        }
+        fgets(s, 200, f);
+      }
+    }
+    if (f) fclose(f);
 
 
-void SeasonName(int y, char *ss) {
-  int winter = 0;
-  for (int  i=0; i<num_winter; i++) {
-    if (y>=start_winter[i] && y<=end_winter[i]) winter = 1;
+    for (int i=1; i<=MAXA; i++) {
+      sprintf(filename, "part.%c%d", (char) (d+97), i);
+      f = fopen(filename, "rt");
+      for (int y=0; y<=LYA-FYA; y++) {
+        if (f==NULL) parta[y][i][1] = 0;
+        else {
+          fscanf(f, "%d %d", &dummy, &n);
+          parta[y][i][0] = dummy;
+          parta[y][i][1] = n;
+          for (int j=0; j<n; j++) {
+            fscanf(f, "%d", &t);
+            parta[y][i][j+2] = t;
+          }
+          fgets(s, 200, f);
+        }
+      }
+      if (f) fclose(f);
+    }
+
+  tab = new char**[MAX_SEASONS];
+  for (int y=0; y<MAX_SEASONS; y++) { tab[y] = new char*[20]; }
+  maxc = new int[MAX_LEVELS];
+  maxc[0] = 1;
+  for (int d=1; d<MAX_LEVELS; d++) maxc[d] = 0;
+  NR = 0;
+  char *row = new char[1024];
+  char **col = new char*[20];
+  f = fopen("part.tab", "rt");
+  if (!f) return;
+  int y = 0;
+  while (!feof(f)) {
+    fgets(s, 2000, f);
+    if (feof(f)) continue;
+    if (!s) continue;
+    s[strlen(s)-1] = 0;
+    tok[0] = strtok(s, "| ");
+    int lt = strlen(tok[0]);
+    tab[y][0] = new char[lt+1];
+    strncpy(tab[y][0], tok[0], lt+1);
+    for (int j=1; j<5; j++) { tok[j] = strtok(NULL, "| "); }
+    for (int j=1; j<5; j++) {
+      if (tok[j]!=NULL) {
+        lt = strlen(tok[j]);
+        tab[y][j] = new char[lt+1];
+        strncpy(tab[y][j], tok[j], lt+1);
+        strncpy(row, tok[j], lt+1);
+        col[0] = strtok(row, "; ");
+        for (int k=1; k<5; k++) { col[k] = strtok(NULL, "; "); }
+        for (int k=0; k<5; k++) {
+          if (col[k]!=NULL) {
+            if (k>maxc[j]-1) maxc[j] = k+1;
+          }
+        }
+      }
+      else {
+        tab[y][j] = new char[3]; tab[y][j][0] = 0;
+      }
+    }
+    y++;
+    NR++;
   }
-  if (winter) sprintf(ss, "%d", y);   
-  else sprintf(ss, "%d/%02d", y-1, y%100);
+  fclose(f);
 }
 
 
@@ -269,7 +323,7 @@ void Ranking() {
   int sorted = 1;
   do {
     sorted = 1;
-    for (int i=0; i<NC-1; i++) 
+    for (int i=0; i<NC-1; i++)
       if (sup(rank[i+1], rank[i])) {
         sorted = 0;
         int aux = rank[i]; rank[i] = rank[i+1]; rank[i+1] = aux;
@@ -281,7 +335,8 @@ void Listing() {
 
   fprintf(of, "<TABLE BORDER=\"1\" CELLPADDING=\"2\" RULES=\"rows\" FRAME=\"box\" WIDTH=50%%>\n");
   fprintf(of, "<TR BGCOLOR=\"DDDDDD\">");
-  fprintf(of, "<TH ALIGN=\"right\">#</TH>");
+  fprintf(of, "<TH WIDTH=\"5%%\" ALIGN=\"left\">#</TH>");
+  fprintf(of, "<TH WIDTH=\"5%%\" ALIGN=\"right\"></TH>");
   fprintf(of, "<TH ALIGN=\"left\">Echipa</TH>");
   for (int k=1; k<=MED; k++)
     fprintf(of, "<TH WIDTH=\"30\" ALIGN=\"right\">%d</TH>", k);
@@ -295,8 +350,9 @@ void Listing() {
     if (sum) {
       fprintf(of, "<TR BGCOLOR=\"%s\">", (i%2==1?"FFFFFF":"DDDDFF"));
       fprintf(of, "<TD>%d.</TD>", i+1);
+      fprintf(of, "<TD ALIGN=\"right\"><IMG SRC=\"logo/logo-%d.png\" HEIGHT=\"20\"></TD>", x);
       fprintf(of, "<TD><A HREF=\"istoric-%d.html\">%s</A></TD>", x, NameOf(L, x, 3000));
-      for (int j=0; j<MED; j++) 
+      for (int j=0; j<MED; j++)
         fprintf(of, "<TD ALIGN=\"right\">%d</TD>",  med[x][j]);
       fprintf(of, "</TR>");
     }
@@ -330,23 +386,37 @@ int Medals() {
     fprintf(of, "<TH ALIGN=\"center\">%d</TH>", k);
   fprintf(of, "</TR>\n");
 
-  char ssn[64];
-  for (int y=0; y<=NE; y++) {
-    int ss = parta[y][0];
-    SeasonName(ss, ssn);
-    num = parta[y][1];
+  char *row = new char[512];
+  for (int y=0; y<NR; y++) {
+    if (count_last==0 && y==NR-1) continue;
+    strncpy(row, tab[y][1], 512);
+    char *fn = strtok(row, ",");
+    char *champ = strtok(NULL, ",");
+    int camp = atoi(champ);
+    char *snr = strtok(NULL, ",;");
+    int nr = atoi(snr);
+    char *spl = new char[64];
+    strncpy(spl, fn, 64);
+    char *dvn = strtok(spl, ".");
+    char *syr = strtok(NULL, ",; |");
+    int year = atoi(syr);
+    int g = 0;
+    if (strlen(dvn)>1) g = atoi(dvn+1);
+    num = parta[year-FYA][g][1];
 
-    if (num>0) {
+    if (num>0 && camp>=0) {
       fprintf(of, "<TR BGCOLOR=\"%s\">", (y%2==1?"FFFFFF":"DDDDFF"));
+      fprintf(of, "<TD><A HREF=\"%s-r%d.html\">%s </A></TD>", fn, nr, tab[y][0]);
 
-      fprintf(of, "<TD><A HREF=\"a.%d-r%d.html\">%s </A></TD>", ss, 2*(num-1), ssn);
-
+      int delta = 0;
       for (int j=0; j<(MED>num?num:MED); j++)  {
-        fprintf(of, "<TD>%s</TD>", NickOf(L, parta[y][j+2], ss));
-        med[parta[y][j+2]][j]++;
+        int tx = parta[year-FYA][g][j+2-delta];
+        if (j==0 && camp != tx) { delta++; tx = camp; }
+        if (j>0  && camp == tx) { delta--; tx = parta[year-FYA][g][j+2-delta]; }
+        fprintf(of, "<TD>%s</TD>", NickOf(L, tx, year));
+        med[tx][j]++;
       }
-      for (int j=num; j<MED; j++) 
-        fprintf(of, "<TD></TD>");
+      for (int j=num; j<MED; j++) fprintf(of, "<TD></TD>");
       fprintf(of, "</TR>\n");
     }
   }
@@ -364,10 +434,10 @@ int Medals() {
 
 int main(int argc, char* argv[]) {
   int a, b;
-  count_last = 1;
-  MED = 6;
+  count_last = 0;
+  MED = 3;
   for (int i=1; i<argc; i++) {
-    if (strcmp(argv[i], "-")==0) count_last = 0;
+    if (strcmp(argv[i], "+")==0) count_last = 1;
     if (strcmp(argv[i], "-n")==0) {
       if (i+1<argc) MED = atoi(argv[i+1]);
       if (MED<1 || MED>MAX_MED) MED = 6;

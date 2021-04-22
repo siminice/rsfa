@@ -20,7 +20,7 @@
 #define MAX_TEAMS 2000
 
 #define MAX_NAMES     20000
-#define DB_ROWS        1200
+#define DB_ROWS        2048
 #define DB_COLS         60
 #define DB_CELL         20
 #define EV_COLS		30
@@ -1223,11 +1223,11 @@ void HTMLInfoBlock(int r, int a, int b) {
   fprintf(of, "      </a>\n");
   fprintf(of, "    </div>\n");
   fprintf(of, "    <table class=\"seasonform\">\n");
-  fprintf(of, "      <tr><td>All-time (%d)</td><td>loc #%d.</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>-</td><td>%d</td><td>%dp</td></tr>",
+  fprintf(of, "      <tr><td>All-time (%d)</td><td> #%d </td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>-</td><td>%d</td><td>%dp</td></tr>",
                      asez[ia], ar1, awin[ia]+adrw[ia]+alos[ia], awin[ia], adrw[ia], alos[ia], agsc[ia], agre[ia], 2*awin[ia]+adrw[ia]);
-  fprintf(of, "      <tr><td>Sezon</td><td>loc #%d.</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>-</td><td>%d</td><td>%dp</td></tr>",
+  fprintf(of, "      <tr><td>Sezon</td><td> #%d </td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>-</td><td>%d</td><td>%dp</td></tr>",
                      rg1, win[a]+drw[a]+los[a], win[a], drw[a], los[a], gsc[a], gre[a], ppv*win[a]+drw[a]);
-  fprintf(of, "      <tr><td>Acasă</td><td>loc #%d.</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>-</td><td>%d</td><td>%dp</td></tr>",
+  fprintf(of, "      <tr><td>Acasă</td><td> #%d </td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>-</td><td>%d</td><td>%dp</td></tr>",
                      rh, hwin[a]+hdrw[a]+hlos[a], hwin[a], hdrw[a], hlos[a], hgsc[a], hgre[a], ppv*hwin[a]+hdrw[a]);
   fprintf(of, "    </table>\n");
   fprintf(of, "  </div>\n\n");
@@ -1278,11 +1278,11 @@ void HTMLInfoBlock(int r, int a, int b) {
   fprintf(of, "      </a>\n");
   fprintf(of, "    </div>\n");
   fprintf(of, "    <table class=\"seasonform\">\n");
-  fprintf(of, "      <tr><td>All-time (%d) </td><td>loc #%d.</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>-</td><td>%d</td><td>%dp</td></tr>",
+  fprintf(of, "      <tr><td>All-time (%d) </td><td> #%d </td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>-</td><td>%d</td><td>%dp</td></tr>",
                      asez[ib], ar2, awin[ib]+adrw[ib]+alos[ib], awin[ib], adrw[ib], alos[ib], agsc[ib], agre[ib], 2*awin[ib]+adrw[ib]);
-  fprintf(of, "      <tr><td>Sezon</td><td>loc #%d.</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>-</td><td>%d</td><td>%dp</td></tr>",
+  fprintf(of, "      <tr><td>Sezon</td><td> #%d </td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>-</td><td>%d</td><td>%dp</td></tr>",
                      rg2, win[b]+drw[b]+los[b], win[b], drw[b], los[b], gsc[b], gre[b], ppv*win[b]+drw[b]);
-  fprintf(of, "      <tr><td>Deplasare</td><td>loc #%d.</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>-</td><td>%d</td><td>%dp</td></tr>",
+  fprintf(of, "      <tr><td>Deplasare</td><td> #%d </td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>%d</td><td>-</td><td>%d</td><td>%dp</td></tr>",
                      rg, gwin[b]+gdrw[b]+glos[b], gwin[b], gdrw[b], glos[b], ggsc[b], ggre[b], ppv*gwin[b]+gdrw[b]);
   fprintf(of, "    </table>\n");
   fprintf(of, "  </div>\n\n");
