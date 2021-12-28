@@ -1,281 +1,383 @@
-broohu,Broos,Hugo,1952-04-10,BEL,1, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-brylke,Brylle-Larsen,Kenneth,1959-05-22,DEN,1, , ,2,2,0,0,  164,1,0,0,0,0,0,0,0
-cluybe,Cluytens,Bert,1955-11-16,BEL,1, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-coeclu,Coeck,Ludovic,1955-09-25,BEL,1, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-greewd,De Greef,Walter,1957-11-13,BEL,1, , ,1,0,1,0,   16,0,0,0,0,0,0,0,0
-geurwi,Geurts,Willy,1954-01-30,BEL,1, , ,2,1,1,0,  137,1,0,0,0,0,0,0,0
-hofkwi,Hofkens,Wim,1958-03-27,NED,1, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-lozaju,Lozano, ,1955-08-30,SPA,1, , ,2,2,0,0,  180,2,0,0,0,0,0,1,0
-munaja,Munaron,Jacky,1956-09-08,BEL,1, , ,2,2,0,0,  180,2,0,-1,0,0,0,0,0
-olsemp,Olsen,Morten Per,1949-08-14,DEN,1, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-perulu,Peruzovic,Luka,1952-02-26,CRO,1, , ,2,2,0,0,  133,1,0,0,0,0,0,0,0
-vercfr,Vercauteren,Frank,1956-10-28,BEL,1, , ,2,2,0,1,  180,2,0,0,0,0,0,0,0
-groomd,de Groote,Michel,1955-10-18,BEL,1, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-boecmg,Boeckstaens,Marcel Gaston,1955-09-27,BEL,3, , ,33,32,1,0, 2910,32,0,0,0,0,0,2,0
+broohu,Broos,Hugo,1952-04-10,BEL,1, , ,34,34,0,0, 3060,34,0,0,0,0,0,3,0
+brylke,Brylle-Larsen,Kenneth,1959-05-22,DEN,1, , ,30,28,2,10, 2300,15,0,0,0,0,0,1,1
+cluybe,Cluytens,Albert,1955-11-16,BEL,1, , ,32,25,7,2, 2328,21,0,0,0,0,0,0,0
+coeclu,Coeck,Ludo,1955-09-25,BEL,1, , ,19,18,1,2, 1634,17,0,0,0,1,0,0,0
+greewd,De Greef,Walter,1957-11-13,BEL,1, , ,30,26,4,0, 2380,24,0,0,0,0,0,3,0
+dezuej,Dezutter,Emiel,1960-08-12,BEL,1, , ,3,0,3,0,   60,0,0,0,0,0,0,0,0
+elecdi,Electeur,Didier,1960-09-07,BEL,1, , ,2,0,2,0,   27,0,0,0,0,0,0,0,0
+frimpe,Frimann,Per,1962-06-04,DEN,1, , ,11,6,5,3,  667,6,0,0,0,0,0,0,0
+geurwi,Geurts,Willy,1954-01-30,BEL,1, , ,30,24,6,12, 2120,15,0,0,0,0,0,0,0
+hofkwi,Hofkens,Wim,1958-03-27,NED,1, , ,32,31,1,1, 2717,28,0,0,0,0,0,4,0
+jovam2,Jovanić,Mićun,1952-07-29,CRO,1, , ,9,8,1,0,  622,5,0,0,0,0,0,0,0
+lozaju,Lozano,Juan,1955-08-30,SPA,1, , ,31,31,0,11, 2676,28,0,0,0,6,0,1,1
+munaja,Munaron,Jacky,1956-09-08,BEL,1, , ,34,34,0,0, 3060,34,0,-31,0,0,0,1,0
+olsemp,Olsen,Morten,1949-08-14,DEN,1, , ,12,12,0,1,  904,8,0,0,0,0,0,0,0
+peetre,Peeters,René,1961-10-10,BEL,1, , ,1,0,1,0,   34,0,0,0,0,0,0,0,0
+perulu,Peruzović,Luka,1952-02-26,CRO,1, , ,18,18,0,0, 1573,17,0,0,0,0,0,2,0
+pturpt,Pétursson,Pétur,1959-06-27,ISL,1, , ,15,6,9,5,  740,4,0,0,0,2,0,0,0
+renqmi,Renquin,Michel,1955-11-03,BEL,1, , ,16,12,4,0, 1237,10,0,0,0,0,0,2,0
+vercfr,Vercauteren,Franky,1956-10-28,BEL,1, , ,34,34,0,8, 3060,34,0,0,0,1,0,2,0
+groomd,de Groote,Michel,1955-10-18,BEL,1, , ,27,27,0,0, 2396,26,0,0,0,0,0,1,0
+boecmg,Boeckstaens,Marcel,1955-09-27,BEL,3, , ,33,32,1,0, 2910,32,0,0,0,0,0,2,0
 cnopha,Cnops,Harry,1960-03-25,BEL,3, , ,20,10,10,6, 1055,7,0,0,0,0,0,0,0
 czeral,Czerniatynski,Alex,1960-07-28,BEL,3, , ,33,33,0,15, 2963,32,0,0,0,0,0,3,0
-dieldj,Dieltiens,Daniel Jean,1960-05-23,BEL,3, , ,1,0,1,0,    9,0,0,0,0,0,0,0,0
-fazela,Fazekas,László Arpad,1947-10-15,HUN,3, , ,31,31,0,9, 2687,27,0,0,0,5,0,1,0
+dieldj,Dieltjens,Daniel,1960-05-23,BEL,3, , ,1,0,1,0,    9,0,0,0,0,0,0,0,0
+fazela,Fazekas,László,1947-10-15,HUN,3, , ,31,31,0,9, 2687,27,0,0,0,5,0,1,0
 gorifr,Goris,Francis,1960-11-01,BEL,3, , ,13,3,10,1,  493,2,0,0,0,0,0,0,0
 heeran,Heerwegh,André,1955-01-17,BEL,3, , ,34,34,0,1, 2999,32,0,0,-1,0,0,3,0
-iperpa,Ipermans,Patrick,1959-11-20,BEL,3, , ,33,33,0,4, 2806,27,0,0,0,0,0,2,0
-jaspra,Jaspers,Raymond,1954-08-31,BEL,3, , ,18,8,10,0,  867,6,0,0,0,0,0,0,0
-koekdj,Koekelcoren,Daniël Jan Gabriëlle,1954-08-04,BEL,3, , ,32,31,1,0, 2802,31,0,0,0,0,0,1,0
+iperpa,Ipermans,Patrick,1959-11-20,BEL,3, , ,33,33,0,4, 2806,27,0,0,0,0,0,3,0
+jaspra,Jaspers,Raymond,1954-08-31,BEL,3, , ,18,8,10,0,  867,6,0,0,0,0,0,1,0
+koekdj,Koekelcoren,Daniël,1954-08-04,BEL,3, , ,32,31,1,0, 2802,31,0,0,0,0,0,1,0
 kulich,Kulik,Christian,1952-12-06,GER,3, , ,4,4,0,0,  345,3,0,0,0,0,0,0,0
 labach,Labarbe,Christian,1951-10-16,BEL,3, , ,30,30,0,1, 2534,22,0,0,0,0,0,4,0
 marif1,Mariman,Frank,1958-05-01,BEL,3, , ,34,34,0,1, 3009,31,0,0,0,0,0,0,0
 svilra,Svilar,Ratko,1950-05-06,SRB,3, , ,34,34,0,0, 3051,33,0,-23,0,0,0,0,0
-elstlv,Van Der Elst,Leo,1962-01-07,BEL,3, , ,32,32,0,5, 2790,29,0,0,0,0,0,3,0
+elstlv,Van Der Elst,Léo,1962-01-07,BEL,3, , ,32,32,0,5, 2790,29,0,0,0,0,0,3,0
 eyckgv,Van Eyck,Gunter,1960-12-19,BEL,3, , ,15,13,2,1, 1166,10,0,0,0,0,0,0,0
 goolrv,Van Gool,Roger,1950-06-01,BEL,3, , ,20,12,8,0, 1174,7,0,0,0,0,0,1,0
-berred,Berrevoets,Eddy,1957-07-06,BEL,55, , ,1,1,0,0,   31,0,0,0,0,0,0,1,0
-dungcv,Dungen,Chris van den,1959-08-08,NED,55, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
+berred,Berrevoets,Eddy,1957-07-06,BEL,55, , ,8,7,1,1,  572,4,0,0,0,0,0,2,0
 feijhe,Feijt,Henk, ,NED,55, , ,1,1,0,0,   90,1,0,-1,0,0,0,0,0
-geurl1,Geurts,Ludo,1957-02-03,BEL,55, , ,2,1,1,0,  149,1,0,0,0,0,0,0,0
-geypfe,Geypen,Fernand,1947-02-09,BEL,55, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-heylj1,Heyligen,Jozef,1947-06-30,BEL,55, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-janshe,Janssen,Hendrikus,1953-08-08,BEL,55, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-lespur,Lespoix,Urbain,1946-10-30,BEL,55, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-loenlu,Loenders,Luc,1960-06-04,BEL,55, , ,1,1,0,0,   45,0,0,0,0,0,0,0,0
-rogima,Rogiers,Marc,1957-06-02,BEL,55, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-russpa,Russo,Paolo,1955-03-14,BEL,55, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-schugn,Schubert,Günther,1955-01-11,GER,55, , ,1,1,0,0,   90,1,0,-2,0,0,0,0,0
-rethrv,Van Rethy,Ronny,1961-11-21,BEL,55, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
+feythe,Feyt,Hendrik,1959-10-31,NED,55, , ,5,5,0,0,  450,5,0,-9,0,0,0,0,0
+frang1,François,Guy,1957-07-27,BEL,55, , ,21,13,8,4, 1333,10,0,0,0,0,0,3,0
+geurl1,Geurts,Ludo,1957-02-03,BEL,55, , ,33,27,6,3, 2542,21,0,0,0,0,0,2,0
+geypfe,Geypen,Fernand,1947-02-09,BEL,55, , ,17,16,1,1, 1344,13,0,0,0,0,0,2,0
+geypto,Geypen,Tony,1954-10-30,BEL,55, , ,23,19,4,0, 1624,12,0,0,0,0,0,1,0
+heylj1,Heyligen,Jos,1947-06-30,BEL,55, , ,34,34,0,4, 3054,33,0,0,0,1,0,0,0
+janshe,Janssen,Rik,1953-08-08,BEL,55, , ,4,2,2,0,  231,2,0,0,0,0,0,0,0
+kenegu,Kenens,Guy,1958-10-19,BEL,55, , ,1,1,0,0,   90,1,0,-4,0,0,0,0,0
+lespur,Lespoix,Urbain,1946-10-30,BEL,55, , ,30,30,0,0, 2409,23,0,0,-1,0,0,0,0
+loenlu,Loenders,Luc,1960-06-04,BEL,55, , ,7,4,3,2,  419,2,0,0,0,0,0,0,0
+reyner,Reynders,Eric,1965-01-28,BEL,55, , ,3,0,3,0,   98,0,0,0,0,0,0,0,0
+rogima,Rogiers,Marc,1957-06-02,BEL,55, , ,31,31,0,1, 2655,28,0,0,0,0,0,2,0
+russpa,Russo,Paolo,1955-03-14,BEL,55, , ,32,32,0,2, 2880,32,0,0,-2,1,0,3,0
+schojo,Schoofs,Johan,1964-02-14,BEL,55, , ,2,2,0,0,  135,1,0,0,0,0,0,0,0
+schugn,Schubert,Günther,1955-01-11,GER,55, , ,27,27,0,0, 2430,27,0,-36,0,0,0,1,0
+rethrv,Van Rethy,Ronny,1961-11-21,BEL,55, , ,33,33,0,0, 2943,32,0,0,0,0,0,3,0
+vanaj1,Vanarwegen,Johan,1958-05-16,BEL,55, , ,28,23,5,6, 2133,21,0,0,0,0,0,1,0
 vanrjo,Vanrwegen,Johan,1958-05-16,BEL,55, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-vernal,Verniers,Alex,1957-10-29,BEL,55, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-gilswv,van Gils,Waltherus, ,NED,55, , ,2,1,1,0,  135,1,0,0,0,0,0,0,1
-albeer,Albert,Erwin,1954-03-27,GER,9, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-baecma,Baecke,Marc,1956-07-24,BEL,9, , ,2,2,0,1,  180,2,0,0,0,0,0,0,0
-buylal,Buyl,Alfred,1944-10-21,BEL,9, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-crevpe,Crève,Peter,1961-08-17,BEL,9, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-garoph,Garot,Philippe,1948-11-30,BEL,9, , ,2,1,1,0,  135,1,0,0,0,0,0,0,0
-jasped,Jaspers,Eddy,1956-04-15,BEL,9, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-martro,Martens,Ronny,1958-12-22,BEL,9, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-pfafjm,Pfaff,Jean-Marie,1953-12-04,BEL,9, , ,2,2,0,0,  180,2,0,-3,0,0,0,0,0
-pfafda,Pfaff,Danny,1958-12-19,BEL,9, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-schopa,Schoofs,Patrick,1959-03-10,BEL,9, , ,2,1,1,0,   69,0,0,0,0,0,0,0,0
-schnhe,Schönberger,Heinrich,1949-12-30,GER,9, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-theupa,Theunis,Paul,1952-03-16,BEL,9, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-moerwv,Van Moer,Wilfried,1945-03-01,BEL,9, , ,1,1,0,0,   66,0,0,0,0,0,0,0,0
-weihdi,Weihrauch,Dieter,1958-07-02,GER,9, , ,2,2,0,0,  180,2,0,0,0,0,0,1,0
-ceulja,Ceulemans,Jan,1957-02-28,BEL,0, , ,2,2,0,0,  135,1,0,0,0,0,0,0,0
-ceulwa,Ceulemans,Walter,1954-07-01,BEL,0, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-dardgu,Dardenne,Guy,1954-10-19,BEL,0, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-beecpo,De Beeck,Paul Op,1959-06-07,BEL,0, , ,1,1,0,0,   90,1,0,0,0,0,0,0,1
-deboja,Debougnoux,Jacky,1954-10-11,BEL,0, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-hindlu,Hinderyckx,Luc,1961-12-19,BEL,0, , ,1,0,1,0,   30,0,0,0,0,0,0,0,0
-jensbi,Jensen,Birger,1951-03-01,DEN,0, , ,1,1,0,0,   90,1,0,-3,0,0,0,0,0
-maesgi,Maes,Gino,1957-02-07,BEL,0, , ,1,1,0,0,   60,0,0,0,0,0,0,0,0
-nilspe,Nilsson,Peter,1955-08-08,SWE,0, , ,1,1,0,1,   90,1,0,0,0,0,0,0,0
-ondran,Ondrus,Anton,1950-03-27,TCH,0, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-ransdi,Ranson,Dirk,1955-04-06,BEL,0, , ,2,2,0,0,  180,2,0,0,0,0,0,1,0
-sandko,Sanders,Koen,1962-12-17,BEL,0, , ,1,0,1,0,    7,0,0,0,0,0,0,0,0
-szyman,Szymanowski,Antoni,1951-01-13,POL,0, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-srenja,Sörensen,Jan,1955-05-14,DEN,0, , ,2,2,0,1,  180,2,0,0,0,0,0,0,0
-teubtj,Teuben,Tjapko,1963-12-29,NED,0, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-binsgv,Van Binst,Gilbert,1951-07-05,BEL,0, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-wallpv,Vande Walle,Philippe,1961-12-22,BEL,0, , ,1,1,0,0,   90,1,0,-1,0,0,0,0,0
-vanwlu,Vanwalleghem,Luc,1961-03-07,BEL,0, , ,1,0,1,0,   45,0,0,0,0,0,0,0,0
-voldjo,Volders,Jozef,1949-12-30,BEL,0, , ,1,1,0,0,   90,1,0,0,0,0,0,1,0
-wellwi,Wellens,Willy,1954-03-29,BEL,0, , ,2,2,0,0,  173,1,0,0,0,0,0,0,0
-bartle,Barth,Leen,1951-01-11,NED,12, , ,1,1,0,0,   90,1,0,-4,0,0,0,0,0
-behedi,Beheydt,Dirck,1951-10-17,BEL,12, , ,2,2,0,0,  157,1,0,0,0,0,0,0,0
-broege,Broeckaert,Geert,1960-11-15,BEL,12, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-courpa,Courant,Paul,1949-11-01,BEL,12, , ,2,2,0,1,  180,2,0,0,0,0,0,0,0
-cousld,De Coussemaecker,Leopold,1950-02-24,BEL,12, , ,1,1,0,0,   90,1,0,-1,0,0,0,0,0
-dhaefi,D´Haemers,Filip,1963-01-11,BEL,12, , ,1,0,1,0,   21,0,0,0,0,0,0,0,0
-haleru,Haleydt,Rudi,1951-02-15,BEL,12, , ,2,1,1,0,  113,1,0,0,0,0,0,0,0
-jnsssv,Jónsson,Sævar,1958-07-22,ISL,12, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-kooiwi,Kooiman,Willem,1960-09-09,NED,12, , ,1,1,0,0,   45,0,0,0,0,0,0,0,0
-poorru,Poorteman,Rudi,1961-02-15,BEL,12, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-queral,Querter,Alex,1957-12-18,BEL,12, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-scheph,Schepens,Philippe,1954-11-10,BEL,12, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-skovsr,Skov,Søren,1954-02-21,DEN,12, , ,1,1,0,0,   90,1,0,0,0,0,0,1,0
-talari,Talan,Rick,1960-11-03,NED,12, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-vandhu,Vandenheede,Hugo,1963-02-04,BEL,12, , ,1,0,1,0,   45,0,0,0,0,0,0,0,0
-weenjv,Weeën,Jan Van Der,1959-02-06,BEL,12, , ,1,1,0,0,   69,0,0,0,0,0,0,0,0
-kerkmv,van Kerkhof,Marinus,1948-11-01,NED,12, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-bouvje,Bouvy,Jean-Claude,1959-05-19,CGO,6, , ,2,1,1,0,  126,1,0,0,0,0,0,0,0
-braebo,Braem,Boudewijn,1950-10-30,BEL,6, , ,2,2,0,0,  158,0,0,0,0,0,0,0,0
-cordhu,Cordiez,Hubert,1954-12-05,BEL,6, , ,2,1,1,0,   98,1,0,0,0,0,0,0,0
-crielu,Criel,Luc,1958-01-07,BEL,6, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-hansgu,Hanssens,Guy,1953-03-22,BEL,6, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-kiyito,Kiyika,Tokodifuansiuka, ,CGO,6, , ,1,1,0,0,   54,0,0,0,0,0,0,1,0
-koudar,Koudijzer,Arend,1947-12-15,NED,6, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-lauran,Lauryssen,André,1953-10-30,BEL,6, , ,2,2,0,0,  180,2,0,-1,0,0,0,0,0
-mchere,Mücher,René,1950-09-09,NED,6, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-quipwi,Quipor,Willy,1956-02-16,BEL,6, , ,2,1,1,1,  130,1,0,0,0,0,0,0,0
-raesan,Raes,André,1955-10-12,BEL,6, , ,2,2,0,0,  140,1,0,0,0,0,0,0,0
-rombto,Rombouts,Tony,1952-10-14,BEL,6, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-goetrv,Van Goethem,Rudi,1953-05-17,BEL,6, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-vermj2,Vermeersch,Johan,1951-11-10,BEL,6, , ,2,1,1,0,  104,1,0,0,0,0,0,0,0
-bourlu,Bourgeois,Luc,1957-11-06,BEL,22, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-lampad,De Lamper,Albert,1954-05-20,BEL,22, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-devojo,Devolder,Johan,1959-04-02,BEL,22, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-petewj,Peters,Wilhelmus Johannes Hendrikus,1953-07-20,NED,22, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-pomifr,Pomini,Francis,1953-01-17,BEL,22, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-quaidi,Quain,Didier,1960-12-15,BEL,22, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-schwdi,Schwabe,Dieter,1956-09-12,GER,22, , ,2,2,0,1,  180,2,0,0,0,0,0,0,0
-mechhv,Van Mechelen,Henri,1954-12-21,BEL,22, , ,1,1,0,0,   67,0,0,0,0,0,0,0,0
-vandlu,Vanderschommen,Lucas,1954-09-21,BEL,22, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-vannlu,Vanneste,Luc,1964-04-27,BEL,22, , ,1,0,1,0,   23,0,0,0,0,0,0,0,0
-verggh,Vergote,Ghislain,1951-09-23,BEL,22, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-zidadj,Zidane,Djamel,1955-04-28,ALG,22, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-belopb,Beloy,Paul Beloy,1957-04-12,COD,8, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-borgrv,Borght,Romanus Van der,1947-12-04,BEL,8, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-boscbe,Bosch,Berto,1955-03-03,BEL,8, , ,2,2,0,1,  180,2,0,0,0,0,0,1,0
-cornka,Cornelissen,Karel,1958-11-18,BEL,8, , ,1,1,0,0,   90,1,0,0,-1,0,0,0,0
-engecr,Engelen,Charles Roza Emiel,1948-02-04,BEL,8, , ,2,2,0,0,  180,2,0,-4,0,0,0,0,0
-garcja,Garcia,Jan,1956-06-20,BEL,8, , ,1,1,0,0,   90,1,0,0,0,0,0,1,0
-gijsge,Gijsels,Gert,1962-07-01,BEL,8, , ,1,0,1,0,   36,0,0,0,0,0,0,0,0
-hellhe,Helleputte,Herman,1954-03-22,BEL,8, , ,2,2,0,0,  135,1,0,0,0,0,0,0,0
-kocsis,Kocsis,István,1949-10-06,HUN,8, , ,2,2,0,0,  180,2,0,0,0,0,0,1,0
-mertma,Mertens,Marc,1960-09-27,BEL,8, , ,2,0,2,0,   47,0,0,0,0,0,0,0,0
-soonlu,Soons,Luc,1954-08-06,BEL,8, , ,2,2,0,0,  178,1,0,0,0,0,0,0,0
-srenni,Sørensen,Niels,1951-11-12,DEN,8, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-tthxan,Tóth,András,1949-09-05,HUN,8, , ,2,2,0,0,  180,2,0,0,0,0,0,1,0
-baekav,Van Baekel,Alain,1961-06-20,BEL,8, , ,1,1,0,0,   54,0,0,0,0,0,0,0,0
-bergav,Van Den Bergh,Albert,1958-07-28,BEL,8, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-vander,Vandenbergh,Erwin,1959-01-26,BEL,8, , ,1,1,0,1,   90,1,0,0,0,0,0,1,0
-austal,Austen,Alain,1962-10-21,BEL,13, , ,2,1,1,0,   98,0,0,0,0,0,0,0,0
-binean,Binet,André,1958-06-23,BEL,13, , ,2,1,1,0,  135,1,0,0,0,0,0,0,0
-habrbe,Habrant,Bernard,1960-09-23,BEL,13, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-henrro,Henrotay,Roger,1949-05-19,BEL,13, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-hubagu,Hubart,Guy,1960-02-23,BEL,13, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-jrgeel,Jürgens,Elmar,1954-10-13,GER,13, , ,2,2,0,0,  167,1,0,0,0,0,0,0,0
-kojosl,Kojovic,Slobodan,1952-01-01,BOS,13, , ,2,1,1,0,   93,1,0,0,0,0,0,0,0
-kuyppi,Kuypers,Piet,1954-02-03,BEL,13, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-loneal,Loneux,Albert,1954-12-19,BEL,13, , ,2,2,0,0,  135,1,0,0,0,0,0,0,0
-phillo,Phillips,Louis,1950-08-09,BEL,13, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-quarra,Quaranta,Raphaël,1957-12-29,BEL,13, , ,2,2,0,0,  169,1,0,0,0,0,0,0,0
-szijsn,Szijjartó,Sándor,1956-06-10,HUN,13, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-wintmi,Wintacq,Michel,1955-10-02,BEL,13, , ,2,2,0,1,  180,2,0,0,0,0,0,1,0
-wegrbe,Wégria,Bernard,1963-03-07,BEL,13, , ,1,0,1,0,   13,0,0,0,0,0,0,0,0
-toormv,van Toorn,Matthijs,1950-12-29,NED,13, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-dalvro,Dalving,Robert,1950-07-28,BEL,10, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-schrmd,De Schrijver,Maurice,1951-06-26,BEL,10, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-dobika,Dobiás,Karol,1947-12-18,SVK,10, , ,1,0,1,0,    9,0,0,0,0,0,0,0,0
-gudjar,Guðjohnsen,Arnór,1961-07-30,ISL,10, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-hoogro,Hoogenboom,Robertus,1949-05-06,NED,10, , ,2,2,0,0,  180,2,0,-1,0,0,0,1,0
-ingero,Ingels,Roland,1948-10-30,BEL,10, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-larspe,Larsen,Preben Elkjær,1957-09-11,DEN,10, , ,1,1,0,0,   81,0,0,0,0,0,0,0,0
-latogr,Lato,Grzegorz,1950-04-08,POL,10, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-lubawl,Lubanski,Wlodzimierz Leonard,1947-02-28,POL,10, , ,1,1,0,1,   90,1,0,0,0,0,0,0,0
-mommra,Mommens,Raymond,1958-12-27,BEL,10, , ,1,1,0,0,   90,1,0,0,0,0,0,1,0
-sneled,Snelders,Eddy,1959-04-09,BEL,10, , ,2,2,0,0,  180,2,0,0,0,0,0,1,0
-somero,Somers,Ronald,1953-01-03,BEL,10, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-berglv,Van Bergen,Lucien,1961-01-19,BEL,10, , ,1,1,0,0,   66,0,0,0,0,0,0,0,0
-verhr1,Verheyen,René,1952-03-21,BEL,10, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-cauthv,van Cauter,Hendrik,1959-11-20,BEL,10, , ,1,0,1,0,   24,0,0,0,0,0,0,0,0
-assebe,Asselberghs,Benny,1956-11-30,BEL,4, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-bogaj1,Bogaerts,Jozef, ,BEL,4, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-broost,Brookes,Stanley,1953-02-02,ENG,4, , ,2,2,0,1,  180,2,0,0,0,0,0,0,0
-conij1,Coninx,Johan,1952-08-15,BEL,4, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-crabdi,Crabbé,Dirk,1957-08-16,BEL,4, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-costmd,De Coster,Marc,1959-08-31,BEL,4, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-riddrd,De Ridder,René,1955-02-07,BEL,4, , ,1,1,0,0,   77,0,0,0,0,0,0,0,0
-dommwi,Dommicent,Wilfried,1961-02-25,BEL,4, , ,1,1,0,0,   90,1,0,-3,0,0,0,0,0
-jensmi,Jensen,Michael,1960-02-19,DEN,4, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-kesska,Kesselaers,Karel,1959-09-03,BEL,4, , ,2,2,0,0,  180,2,0,0,0,0,0,1,0
-lambro,Lambrechts,Ronny,1955-12-22,BEL,4, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-mertdi,Mertens,Dirk,1960-01-12,BEL,4, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-nauwwi,Nauwelaerts,Willem,1962-12-26,BEL,4, , ,1,0,1,0,   13,0,0,0,0,0,0,0,0
-reiswi,Reisinger,Wilhelm,1958-06-30,GER,4, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-royehe,Royet,Hervé,1955-10-20,BEL,4, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-verbfr,Verbelen,Freddy,1950-08-15,BEL,4, , ,1,1,0,0,   90,1,0,-2,0,0,0,0,0
-vermpa,Vermeiren,Patrick,1962-02-10,BEL,4, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-boskjo,Boskamp,Johan,1948-10-21,NED,16, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-cneual,Cneudt,Alain,1959-08-05,BEL,16, , ,2,2,0,0,  141,1,0,0,0,0,0,0,0
-cossru,Cossey,Rudy,1961-08-02,BEL,16, , ,1,1,0,0,   76,0,0,0,0,0,0,0,0
-mesmpd,De Mesmaeker,Paul,1963-09-08,BEL,16, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-vriedd,De Vriese,Dirk,1958-12-03,BEL,16, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-wolfmd,De Wolf,Michel,1958-01-19,BEL,16, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-desaro,Desaeyere,René Oscar,1947-09-14,BEL,16, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-gollpa,Gollière,Patrick,1960-05-16,BEL,16, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-jansni,Jansen,Nico,1953-01-15,NED,16, , ,2,2,0,3,  180,2,0,0,0,1,0,0,0
-martm2,Martens,Maurice,1947-06-05,BEL,16, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-ruitja,Ruiter,Jan,1946-11-24,NED,16, , ,2,2,0,0,  180,2,0,-3,0,0,0,0,0
-susise,Susic,Sead,1953-01-03,SRB,16, , ,1,0,1,0,   26,0,0,0,0,0,0,0,0
-thaipa,Thairet,Patrick,1960-08-21,BEL,16, , ,2,1,1,0,   78,0,0,0,0,0,0,0,0
-thycst,Thychosen,Steen,1958-09-22,DEN,16, , ,1,1,0,1,   90,1,0,0,0,0,0,0,0
-elstfv,Van Der Elst,Franky,1961-04-30,BEL,16, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-greeyd,de Greef,Yves,1962-01-29,BEL,16, , ,1,0,1,0,   39,0,0,0,0,0,0,0,0
-bottre,Botteron,René,1954-10-17,SUI,2, , ,1,0,1,0,   25,0,0,0,0,0,0,0,0
-daerjo,Daerden,Jos,1954-11-26,BEL,2, , ,2,2,0,1,  180,2,0,0,0,0,0,0,0
-delaet,Delangre,Etienne,1963-02-12,BEL,2, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-dusbjo,Dusbaba,Johnny,1956-03-14,NED,2, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-englto,Englebert,Tony,1961-12-18,BEL,2, , ,1,1,0,0,   65,0,0,0,0,0,0,0,0
-gereem,Gerets,Eric Maria Lambertus,1954-05-18,BEL,2, , ,2,2,0,1,  180,2,0,0,0,0,0,0,0
-haanar,Haan,Arend,1948-11-16,NED,2, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-meeuwa,Meeuws,Walter,1951-07-11,BEL,2, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-plesge,Plessers,Gerard,1959-03-30,BEL,2, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-poelth,Poel,Théophile,1951-04-24,BEL,2, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-preumi,Preud'homme,Michel,1959-01-24,BEL,2, , ,2,2,0,0,  180,2,0,-1,0,0,0,0,0
-tahasi,Tahamata,Simon,1956-05-26,NED,2, , ,2,2,0,0,  164,1,0,0,0,0,0,0,0
-vandgu,Vandersmissen,Guy,1957-12-25,BEL,2, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-voored,Voordeckers,Eddy,1960-02-04,BEL,2, , ,1,0,1,0,   16,0,0,0,0,0,0,0,0
-wendbe,Wendt,Benny,1950-11-04,SWE,2, , ,2,2,0,1,  180,2,0,0,0,0,0,0,0
-bialto,Bialousz,Tony,1961-12-14,BEL,7, , ,1,0,1,0,   18,0,0,0,0,0,0,0,0
-buysru,Buyst,Rudy,1958-08-18,BEL,7, , ,1,0,1,0,   19,0,0,0,0,0,0,0,0
-coenai,Coenen,Aimé,1957-11-23,BEL,7, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-conijo,Conincx,Jos,1962-03-05,BEL,7, , ,2,2,0,0,  135,1,0,0,0,0,0,0,0
-davida,David,Daniël,1952-02-04,BEL,7, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-grndhe,Gründel,Heinz,1957-02-13,GER,7, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-gumulr,Guðmundsson,Lárus Þór,1961-12-12,ISL,7, , ,1,0,1,0,   45,0,0,0,0,0,0,0,0
-houbhe,Houben,Herman,1947-01-12,BEL,7, , ,2,1,1,0,  150,1,0,0,0,0,0,0,0
-jansro,Janssen,Roland,1958-09-30,BEL,7, , ,2,2,0,1,  180,2,0,0,0,0,0,0,0
-janspi,Janssen,Pier,1956-09-09,BEL,7, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-maeser,Maes,Eric,1954-07-21,BEL,7, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-martgy,Martos,Gyozo,1949-12-15,HUN,7, , ,2,2,0,0,  102,1,0,0,0,0,0,0,0
-plespi,Plessers,Piérre,1956-10-06,BEL,7, , ,2,2,0,0,  180,2,0,0,0,0,0,1,0
-pudekl,Pudelko,Klaus,1948-11-26,GER,7, , ,1,1,0,0,   90,1,0,-3,0,0,0,0,0
-saela1,Saelen,Alex,1951-11-13,BEL,7, , ,2,2,0,0,  162,1,0,0,0,0,0,1,0
-thijje,Thijs,Jean,1958-06-15,BEL,7, , ,1,1,0,0,   90,1,0,-2,0,0,0,0,0
-vliewi,Vliegen,Willy,1953-03-31,BEL,7, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-beulno,Beuls,Norbert,1957-01-13,BEL,49, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-beyelu,Beyens,Luc,1959-03-27,BEL,49, , ,1,0,1,0,   45,0,0,0,0,0,0,0,0
-bogam1,Bogaerts,Marc, ,BEL,49, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-clijle,Clijsters,Lei,1956-11-09,BEL,49, , ,2,2,0,0,  180,2,0,0,0,0,0,1,0
-collma,Collas,Marcel,1948-04-05,BEL,49, , ,2,2,0,0,  161,1,0,0,0,0,0,1,0
-cuyxal,Cuyx,Alfred,1959-04-15,BEL,49, , ,2,2,0,0,  135,1,0,0,0,0,0,0,0
-hostiv,Hoste,Ivan,1952-12-08,BEL,49, , ,2,2,0,1,  180,2,0,0,0,0,0,0,0
-kurbzv,Kurbos,Zvonko,1960-10-20,GER,49, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-samppa,Sampermans,Paul,1959-08-22,BEL,49, , ,1,0,1,0,   19,0,0,0,0,0,0,0,0
-schean,Scheen,André,1958-02-10,BEL,49, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-tervro,Tervoort,Robertus,1956-07-19,NED,49, , ,2,2,0,0,  180,2,0,-3,0,0,0,0,0
-horegv,Van Horenbeek,Guy,1958-03-30,BEL,49, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-verhse,Verheyden,Serge,1955-11-13,BEL,49, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-vossru,Vossen,Rudy,1958-08-11,BEL,49, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-coniwd,De Coninck,Wim,1959-06-23,BEL,11, , ,2,2,0,0,  180,2,0,-3,0,0,0,0,0
-conicd,De Coninck,Charles,1958-02-25,BEL,11, , ,2,2,0,1,  180,2,0,0,0,0,0,1,0
-decryv,Decroix,Yvan,1960-09-21,BEL,11, , ,1,0,1,0,   45,0,0,0,0,0,0,0,0
-dekefr,Dekenne,Franky,1960-07-07,BEL,11, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-deleku,Delesie,Kurt,1962-09-09,BEL,11, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-delehe,Delesie,Hervé,1951-01-09,BEL,11, , ,1,1,0,0,   45,0,0,0,0,0,0,0,0
-denoer,Denorme,Erwin,1953-05-28,BEL,11, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-desmph,Desmet,Philippe,1958-11-29,BEL,11, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-hoebja,Hoebeeck,Jan,1958-01-08,BEL,11, , ,1,0,1,0,   45,0,0,0,0,0,0,0,0
-loovha,Loovens,Hans,1959-08-07,NED,11, , ,1,1,0,0,   45,0,0,0,0,0,0,0,0
-michhe,Michielsen,Hendrik,1951-09-27,NED,11, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-milllu,Millecamps,Luc,1951-09-10,BEL,11, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-millma,Millecamps,Marc,1950-10-09,BEL,11, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-muchjz,Mucha,József,1951-10-25,HUN,11, , ,1,1,0,0,   90,1,0,0,0,0,0,1,0
-pypefr,Pype,Francois,1957-07-30,BEL,11, , ,1,0,1,0,    3,0,0,0,0,0,0,0,0
-verdju,Verdugo,Juan,1952-11-24,CHI,11, , ,2,2,0,0,  177,1,0,0,0,0,0,0,0
-veytda,Veyt,Danny,1956-12-09,BEL,11, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-albero,Albertsen,Roger,1957-03-15,NOR,45, , ,2,2,0,0,  180,2,0,0,0,0,0,1,0
-bergka,Berger,Karl,1951-06-13,GER,45, , ,2,2,0,0,  164,1,0,0,0,0,0,0,0
-billma,Billen,Mathieu,1953-04-16,BEL,45, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-bruyjd,De Bruyne,Jean-Paul,1961-10-04,BEL,45, , ,1,1,0,0,   90,1,0,-3,0,0,0,0,1
-zuttrd,De Zutter,Renaat,1958-10-28,BEL,45, , ,2,1,1,0,  106,1,0,0,0,0,0,0,0
-denipi,Denier,Pierre,1956-11-09,BEL,45, , ,1,1,0,0,   90,1,0,0,0,0,0,1,0
-denima,Denier,Matthieu,1952-05-16,BEL,45, , ,2,1,1,0,   93,1,0,0,0,0,0,1,0
-houbpa,Houben,Patrick,1959-07-10,BEL,45, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-lambpa,Lambrichts,Paul,1954-10-16,BEL,45, , ,2,2,0,0,  180,2,0,0,0,0,0,1,0
-thijlu,Thijs,Luc,1962-03-28,BEL,45, , ,2,2,0,0,  177,1,0,0,0,0,0,0,0
-vanler,Vanlessen,Eric,1948-07-24,BEL,45, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-vitawa,Vitali,Walter,1961-11-07,ITA,45, , ,1,1,0,0,   74,0,0,0,0,0,0,0,0
-weisca,Weis,Carlo,1958-12-04,LUX,45, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-raevdd,de Raeve,Daniël,1962-05-31,BEL,45, , ,2,2,0,0,  135,1,0,0,0,0,0,1,0
-becerv,van Becelaere,René,1964-03-11,BEL,45, , ,1,0,1,0,   16,0,0,0,0,0,0,0,0
-woerwv,van Woerkum,Wilhelmus,1951-08-27,NED,45, , ,1,0,1,0,   45,0,0,0,0,0,0,0,0
+vernal,Verniers,Alex,1957-10-29,BEL,55, , ,29,27,2,4, 2441,25,0,0,0,0,0,3,0
+gilswv,van Gils,Willy, ,NED,55, , ,23,15,8,3, 1562,11,0,0,0,0,0,3,1
+dungcv,van den Dungen,Chris,1959-08-08,NED,55, , ,28,23,5,2, 2024,19,0,0,0,0,0,0,0
+albeer,Albert,Erwin,1954-03-27,GER,9, , ,26,25,1,9, 2207,22,0,0,0,0,0,1,0
+alcoda,Alcock,David,1962-11-09,ENG,9, , ,1,1,0,0,   45,0,0,0,0,0,0,0,0
+baecma,Baecke,Marc,1956-07-24,BEL,9, , ,32,32,0,2, 2846,31,0,0,0,0,0,2,0
+buylal,Buyl,Freddy,1944-10-21,BEL,9, , ,30,30,0,0, 2655,29,0,0,0,0,0,2,0
+crevpe,Crève,Peter,1961-08-17,BEL,9, , ,30,23,7,3, 2003,16,0,0,0,0,0,1,0
+wildfd,De Wilde,Filip,1964-07-05,BEL,9, , ,9,9,0,0,  810,9,0,-11,0,0,0,0,0
+fisskr,Fissers,Kris,1962-07-17,BEL,9, , ,1,0,1,0,   58,0,0,-1,0,0,0,0,0
+garoph,Garot,Philippe,1948-11-30,BEL,9, , ,27,24,3,1, 2201,23,0,0,0,0,0,1,0
+janslu,Janssens,Ludo,1962-05-14,BEL,9, , ,6,0,6,0,  102,0,0,0,0,0,0,0,0
+jasped,Jaspers,Eddy,1956-04-15,BEL,9, , ,29,29,0,2, 2574,28,0,0,0,0,0,2,0
+lorrin,Lorré,Ingmar,1962-08-18,BEL,9, , ,1,0,1,0,   15,0,0,0,0,0,0,0,0
+maesed,Maes,Eddy,1962-08-08,BEL,9, , ,2,1,1,0,  135,1,0,0,0,0,0,0,0
+martro,Martens,Ronny,1958-12-22,BEL,9, , ,22,20,2,7, 1826,16,0,0,0,0,0,0,0
+pfafjm,Pfaff,Jean-Marie,1953-12-04,BEL,9, , ,25,25,0,0, 2192,24,0,-21,0,0,0,1,0
+pfafda,Pfaff,Danny,1958-12-19,BEL,9, , ,21,19,2,0, 1773,19,0,0,0,0,0,1,0
+schopa,Schoofs,Patrick,1959-03-10,BEL,9, , ,27,10,17,2, 1204,6,0,0,0,0,0,0,0
+schnhe,Schönberger,Heinz,1949-12-30,GER,9, , ,34,34,0,4, 3041,32,0,0,-1,1,0,0,0
+stevrf,Stevens,Bob,1950-07-06,BEL,9, , ,2,1,1,0,  114,1,0,0,0,0,0,0,0
+theupa,Theunis,Paul,1952-03-16,BEL,9, , ,33,33,0,7, 2970,33,0,0,-1,0,0,1,0
+moerwv,Van Moer,Wilfried,1945-03-01,BEL,9, , ,28,28,0,4, 2132,12,0,0,0,0,0,3,1
+weihdi,Weihrauch,Dieter,1958-07-02,GER,9, , ,33,30,3,2, 2663,25,0,0,0,0,0,1,0
+eyckja,van Eycken,Jan,1959-01-23,BEL,9, , ,1,0,1,0,   36,0,0,0,0,0,0,0,0
+ceulja,Ceulemans,Jan,1957-02-28,BEL,0, , ,29,29,0,11, 2509,26,0,0,0,0,0,2,0
+ceulwa,Ceulemans,Walter,1954-07-01,BEL,0, , ,29,29,0,1, 2449,26,0,0,0,0,0,2,0
+dardgu,Dardenne,Guy,1954-10-19,BEL,0, , ,23,20,3,4, 1637,9,0,0,0,0,0,1,0
+cubbdd,De Cubber,Daniël,1954-04-19,BEL,0, , ,3,3,0,0,  259,2,0,0,0,0,0,0,0
+deboja,Debougnoux,Jacky,1954-10-11,BEL,0, , ,24,23,1,1, 2084,23,0,0,0,0,0,1,0
+hindlu,Hinderyckx,Luc,1961-12-19,BEL,0, , ,7,2,5,0,  260,1,0,0,0,0,0,0,0
+jensbi,Jensen,Birger,1951-03-01,DEN,0, , ,23,23,0,0, 1984,22,0,-26,0,0,0,2,0
+maesgi,Maes,Gino,1957-02-07,BEL,0, , ,6,4,2,0,  388,3,0,0,0,0,0,0,0
+maesba,Maes,Bart,1963-11-28,BEL,0, , ,1,0,1,0,   25,0,0,0,0,0,0,0,0
+magyis,Magyar,Istvan,1955-08-04,HUN,0, , ,7,6,1,1,  557,6,0,0,0,0,0,0,0
+nilspe,Nilsson,Peter,1955-08-08,SWE,0, , ,15,15,0,5, 1333,14,0,0,0,0,0,1,0
+ondran,Ondrus,Anton,1950-03-27,TCH,0, , ,7,7,0,0,  630,7,0,0,0,0,0,2,0
+beecpo,Op de Beeck,Paul,1959-06-07,BEL,0, , ,8,7,1,0,  652,7,0,0,0,0,0,2,1
+ransdi,Ranson,Dirk,1955-04-06,BEL,0, , ,17,14,3,0, 1291,12,0,0,0,0,0,4,0
+renijo,Renier,Johan,1962-01-14,BEL,0, , ,22,21,1,0, 1889,19,0,0,0,0,0,2,0
+sandko,Sanders,Koen,1962-12-17,BEL,0, , ,21,14,7,0, 1394,12,0,0,0,0,0,1,0
+szyman,Szymanowski,Antoni,1951-01-13,POL,0, , ,17,16,1,0, 1411,14,0,0,0,0,0,1,0
+srenja,Sørensen,Jan,1955-05-14,DEN,0, , ,27,27,0,14, 2394,25,0,0,0,3,0,1,0
+teubtj,Teuben,Tjapko,1963-12-29,NED,0, , ,17,13,4,0, 1239,12,0,0,0,0,0,0,0
+binsgv,Van Binst,Gilbert,1951-07-05,BEL,0, , ,30,30,0,2, 2662,28,0,0,0,0,0,4,0
+impedv,Van Impe,Didier,1959-12-14,BEL,0, , ,3,0,3,0,   83,0,0,0,0,0,0,0,0
+wallpv,Vande Walle,Philippe,1961-12-22,BEL,0, , ,12,11,1,0, 1076,11,0,-20,0,0,0,0,0
+vanwlu,Vanwalleghem,Luc,1961-03-07,BEL,0, , ,19,8,11,0,  931,6,0,0,0,0,0,0,0
+voldjo,Volders,Jos,1949-12-30,BEL,0, , ,20,19,1,1, 1610,14,0,0,0,0,0,2,0
+wellwi,Wellens,Willy,1954-03-29,BEL,0, , ,33,33,0,6, 2913,29,0,0,0,0,0,0,0
+bartle,Barth,Leen,1951-01-11,NED,12, , ,29,29,0,0, 2610,29,0,-51,0,0,0,0,0
+behedi,Beheydt,Dirck,1951-10-17,BEL,12, , ,31,30,1,8, 2607,20,0,0,0,0,0,0,0
+broege,Broeckaert,Geert,1960-11-15,BEL,12, , ,32,32,0,5, 2806,25,0,0,0,0,0,2,1
+carlpe,Carly,Peter,1962-05-14,BEL,12, , ,1,1,0,0,   73,0,0,0,0,0,0,0,0
+coenge,Coens,Geert,1959-11-23,BEL,12, , ,3,0,3,0,   40,0,0,0,0,0,0,0,0
+courpa,Courant,Paul,1949-11-01,BEL,12, , ,28,27,1,8, 2384,26,0,0,0,0,0,4,0
+cousld,De Coussemaecker,Pol,1950-02-24,BEL,12, , ,5,5,0,0,  450,5,0,-10,0,0,0,0,0
+poorpr,De Poorter,Peter Roger,1963-02-05,BEL,12, , ,1,0,1,0,   13,0,0,0,0,0,0,0,0
+dhaefi,D´Haemers,Filip,1963-01-11,BEL,12, , ,2,0,2,0,   34,0,0,0,0,0,0,0,0
+haleru,Haleydt,Rudi,1951-02-15,BEL,12, , ,34,14,20,3, 1611,7,0,0,0,0,0,0,0
+harsla,Hársanyi,Lászlo,1951-03-13,HUN,12, , ,14,10,4,0,  811,6,0,0,0,0,0,0,0
+jnsssv,Jónsson,Sævar,1958-07-22,ISL,12, , ,16,16,0,0, 1440,16,0,0,0,0,0,3,0
+kooiwi,Kooiman,Wim,1960-09-09,NED,12, , ,18,11,7,2, 1032,7,0,0,0,0,0,0,0
+maenlu,Maenhout,Luc,1960-08-21,BEL,12, , ,8,7,1,0,  565,4,0,0,0,0,0,1,0
+messfi,Messens,Filip,1960-11-17,BEL,12, , ,4,2,2,0,  225,1,0,0,0,0,0,0,0
+poorru,Poorteman,Rudy,1961-02-15,BEL,12, , ,27,24,3,0, 2072,20,0,0,0,0,0,0,0
+queral,Querter,Alex,1957-12-18,BEL,12, , ,34,34,0,5, 3060,34,0,0,0,0,0,2,0
+scheph,Schepens,Philippe,1954-11-10,BEL,12, , ,29,29,0,1, 2570,28,0,0,-1,0,0,1,0
+skovsr,Skov,Søren,1954-02-21,DEN,12, , ,33,33,0,23, 2926,31,0,0,0,4,0,5,0
+talari,Talan,Rick,1960-11-03,NED,12, , ,13,13,0,2, 1110,9,0,0,0,0,0,0,0
+tallem,Talloen,Emmanuel,1961-01-05,BEL,12, , ,6,3,3,0,  294,3,0,0,0,0,0,0,0
+weenjv,Van Der Weeën,Jan,1959-02-06,BEL,12, , ,1,1,0,0,   69,0,0,0,0,0,0,0,0
+vandhu,Vandenheede,Hugo,1963-02-04,BEL,12, , ,3,0,3,0,   86,0,0,0,0,0,0,0,0
+vandjA,Vanderween,Jan Alfons,1959-02-06,BEL,12, , ,27,20,7,0, 1797,12,0,0,0,0,0,1,0
+kerkmv,van Kerkhof,Bram,1948-11-01,NED,12, , ,33,33,0,0, 2957,32,0,0,-1,0,0,2,0
+benofi,Benoot,Filip,1957-02-03,BEL,6, , ,2,1,1,0,  109,1,0,0,0,0,0,0,0
+bouvje,Bouvy,Jean-Claude,1959-05-19,CGO,6, , ,20,12,8,3, 1070,4,0,0,0,0,0,0,0
+braebo,Braem,Bo,1950-10-30,BEL,6, , ,33,30,3,1, 2389,16,0,0,0,0,0,1,0
+cordhu,Cordiez,Hubert,1954-12-05,BEL,6, , ,32,22,10,4, 2119,19,0,0,0,0,0,1,0
+crielu,Criel,Luc,1958-01-07,BEL,6, , ,32,32,0,0, 2880,32,0,0,0,0,0,0,0
+gillja,Gillespie,James,1957-11-04,SCO,6, , ,1,0,1,0,   11,0,0,0,0,0,0,0,0
+hansgu,Hanssens,Guy,1953-03-22,BEL,6, , ,33,33,0,0, 2944,32,0,0,0,0,0,3,0
+kiyito,Kiyika,Tokodifuansiuka, ,CGO,6, , ,27,19,8,2, 1636,9,0,0,0,0,0,1,0
+koudar,Koudijzer,Aad,1947-12-15,NED,6, , ,31,31,0,8, 2782,29,0,0,0,0,0,3,0
+lauran,Laurijssen,André,1953-10-30,BEL,6, , ,34,34,0,0, 3060,34,0,-20,0,0,0,1,0
+margra,Margeirsson,Ragnar,1962-08-14,ISL,6, , ,1,1,0,0,   79,0,0,0,0,0,0,0,0
+mchere,Mücher,René,1950-09-09,NED,6, , ,27,27,0,6, 2427,26,0,0,0,0,0,1,0
+pirefr,Pirelli,Francesco,1960-04-07,ITA,6, , ,7,1,6,1,  194,1,0,0,0,0,0,0,0
+quipwi,Quipor,Willy,1956-02-16,BEL,6, , ,26,19,7,2, 1891,16,0,0,0,0,0,1,0
+raesan,Raes,André,1955-10-12,BEL,6, , ,29,26,3,3, 2321,22,0,0,0,0,0,0,0
+rombto,Rombouts,Tony,1952-10-14,BEL,6, , ,27,27,0,3, 2299,23,0,0,0,1,0,2,0
+goetrv,Van Goethem,Rudi,1953-05-17,BEL,6, , ,34,34,0,0, 3060,34,0,0,0,0,0,2,0
+haecfv,Van Haecke,Frank,1954-09-04,BEL,6, , ,4,3,1,0,  266,1,0,0,-1,0,0,0,0
+vermj2,Vermeersch,Johan,1951-11-10,BEL,6, , ,31,22,9,1, 2123,19,0,0,0,0,0,0,0
+bauwto,Bauwens,Tony,1960-09-04,BEL,22, , ,2,0,2,0,   56,0,0,0,0,0,0,0,0
+bourlu,Bourgeois,Luc,1957-11-06,BEL,22, , ,16,13,3,0, 1210,12,0,0,0,0,0,0,0
+buller,Bullinck,Eric,1957-04-19,BEL,22, , ,1,1,0,0,   90,1,0,-2,0,0,0,0,0
+carbcl,Carbonelle,Claude,1959-04-20,BEL,22, , ,25,5,20,3,  853,4,0,0,0,0,0,0,0
+collse,Collie,Serge,1963-10-08,BEL,22, , ,10,6,4,0,  552,4,0,0,0,0,0,1,0
+lampad,De Lamper,Albert,1954-05-20,BEL,22, , ,32,32,0,3, 2764,24,0,0,0,0,0,0,0
+devojo,Devolder,Johan,1959-04-02,BEL,22, , ,30,27,3,1, 2367,21,0,0,0,0,0,3,0
+kornge,Körner,Gerd,1956-111-06,BEL,22, , ,7,6,1,3,  554,6,0,0,0,0,0,1,0
+leggal,Legge,Alain,1958-03-04,BEL,22, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
+petewj,Peters,Jan,1953-07-20,NED,22, , ,33,33,0,10, 2881,30,0,0,0,0,0,2,0
+pomifr,Pomini,Francis,1953-01-17,BEL,22, , ,33,33,0,4, 2929,29,0,0,0,0,0,1,0
+quaidi,Quain,Didier,1960-12-15,BEL,22, , ,34,33,1,3, 2989,31,0,0,0,0,0,0,0
+schwdi,Schwabe,Dieter,1956-09-12,GER,22, , ,28,28,0,1, 2504,27,0,0,0,0,0,3,1
+wallgv,Van De Walle,Geert,1961-08-25,BEL,22, , ,6,1,5,0,  149,1,0,0,0,0,0,1,0
+mechhv,Van Mechelen,Rik,1954-12-21,BEL,22, , ,33,32,1,0, 2811,26,0,0,0,0,0,5,0
+vandlu,Vanderschommen,Luc,1954-09-21,BEL,22, , ,32,32,0,7, 2880,32,0,-33,0,7,0,0,0
+vannlu,Vanneste,Luc,1964-04-27,BEL,22, , ,30,27,3,0, 2326,23,0,0,0,0,0,1,0
+verggh,Vergote,Ghislain,1951-09-23,BEL,22, , ,33,33,0,1, 2915,32,0,0,0,0,0,1,0
+verscl,Verspaille,Claude,1964-06-21,BEL,22, , ,3,1,2,0,  119,1,0,0,0,0,0,0,0
+zidadj,Zidane,Djamel,1955-04-28,ALG,22, , ,30,30,0,3, 2605,23,0,0,0,0,0,0,0
+belopb,Beloy,Paul,1957-04-12,COD,8, , ,9,7,2,0,  678,7,0,0,0,0,0,0,0
+boscbe,Bosch,Roberto,1955-03-03,BEL,8, , ,33,33,0,10, 2955,31,0,0,0,0,0,3,0
+cornka,Cornelissen,Karel,1958-11-18,BEL,8, , ,29,24,5,2, 2289,24,0,0,-1,0,0,0,0
+engecr,Engelen,Carl,1948-02-04,BEL,8, , ,22,22,0,0, 1955,21,0,-32,0,0,0,0,0
+garcja,Garcia,Jan,1956-06-20,BEL,8, , ,5,5,0,0,  450,5,0,0,0,0,0,1,0
+gijsge,Gijsels,Gert,1962-07-01,BEL,8, , ,21,10,11,1, 1105,3,0,0,0,0,0,1,0
+hellhe,Helleputte,Herman,1954-03-22,BEL,8, , ,32,32,0,3, 2771,30,0,0,0,0,0,0,0
+kocsis,Kocsis,István,1949-10-06,HUN,8, , ,34,34,0,0, 3003,32,0,0,-2,0,0,2,0
+maribe,Maris,Benny,1964-07-04,BEL,8, , ,2,0,2,0,   37,0,0,0,0,0,0,0,0
+mertma,Mertens,Marc,1960-09-27,BEL,8, , ,25,15,10,0, 1549,14,0,0,0,0,0,0,0
+soonlu,Soons,Luc,1954-08-06,BEL,8, , ,33,33,0,1, 2921,30,0,0,0,0,0,4,0
+srenni,Sørensen,Niels,1951-11-12,DEN,8, , ,24,23,1,1, 1976,20,0,0,0,0,0,1,0
+tthxan,Tóth,András,1949-09-05,HUN,8, , ,29,21,8,1, 1940,15,0,0,0,0,0,2,0
+baekav,Van Baekel,Alain,1961-06-20,BEL,8, , ,18,14,4,1, 1139,3,0,0,0,0,0,1,0
+bergav,Van Den Bergh,Albert,1958-07-28,BEL,8, , ,25,25,0,4, 2104,21,0,0,0,0,0,0,0
+vander,Vandenbergh,Erwin,1959-01-26,BEL,8, , ,30,30,0,25, 2623,28,0,0,0,3,0,1,0
+borgrv,Vanderborght,Raymond,1947-12-04,BEL,8, , ,34,34,0,0, 3060,34,0,0,0,0,0,0,0
+verlda,Verlinden,Dany,1963-08-15,BEL,8, , ,13,12,1,0, 1105,12,0,-19,0,0,0,0,0
+austal,Austen,Alain,1962-10-21,BEL,13, , ,29,17,12,0, 1838,15,0,0,0,0,0,1,0
+binean,Binet,André,1958-06-23,BEL,13, , ,13,9,4,1,  713,2,0,0,0,0,0,1,0
+cadose,Cadorin,Serge,1961-09-07,BEL,13, , ,6,0,6,0,  222,0,0,0,0,0,0,0,0
+gaspje,Gaspard,Jean-Louis,1956-12-13,BEL,13, , ,9,7,2,0,  614,6,0,0,0,0,0,0,0
+habrbe,Habrant,Bernard,1960-09-23,BEL,13, , ,23,21,2,0, 1839,17,0,0,0,0,0,2,0
+henrro,Henrotay,Roger,1949-05-19,BEL,13, , ,27,27,0,4, 2316,24,0,0,0,0,0,2,0
+hubagu,Hubart,Guy,1960-02-23,BEL,13, , ,34,34,0,0, 3060,34,0,-50,0,0,0,0,0
+jrgeel,Jürgens,Elmar,1954-10-13,GER,13, , ,32,32,0,10, 2796,29,0,0,0,0,0,2,0
+kojosl,Kojović,Slobodan,1952-01-01,BOS,13, , ,30,26,4,2, 2371,22,0,0,0,0,0,2,0
+kuyppi,Kuypers,Piet,1954-02-03,BEL,13, , ,33,33,0,5, 2850,29,0,0,0,0,0,4,0
+loneal,Loneux,Albert,1954-12-19,BEL,13, , ,16,16,0,0, 1018,6,0,0,0,0,0,1,0
+phillo,Phillips,Louis,1950-08-09,BEL,13, , ,26,26,0,0, 2270,24,0,0,0,0,0,0,0
+quarra,Quaranta,Raphaël,1957-12-29,BEL,13, , ,34,30,4,2, 2694,22,0,0,0,0,0,1,0
+santjo,Santecchia,Jorge Oscar,1957-08-22,ARG,13, , ,3,2,1,0,  186,1,0,0,0,0,0,0,0
+szijsn,Szijjartó,Sándor,1956-06-10,HUN,13, , ,27,26,1,0, 2286,21,0,0,0,0,0,4,1
+thanbe,Thans,Benoît,1964-08-20,BEL,13, , ,3,0,3,0,   88,0,0,0,0,0,0,0,0
+wintmi,Wintacq,Michel,1955-10-02,BEL,13, , ,31,31,0,6, 2736,30,0,0,0,0,0,5,0
+wegrbe,Wégria,Bernard,1963-03-07,BEL,13, , ,21,4,17,1,  783,3,0,0,0,0,0,1,0
+toormv,van Toorn,Matthijs,1950-12-29,NED,13, , ,33,33,0,4, 2970,33,0,0,0,3,0,3,0
+dalvro,Dalving,Robert,1950-07-28,BEL,10, , ,30,30,0,0, 2690,29,0,0,0,0,0,2,0
+schrmd,De Schrijver,Maurice,1951-06-26,BEL,10, , ,29,29,0,1, 2472,26,0,0,0,0,0,2,0
+wachdd,De Wachter,Dirk,1962-11-01,BEL,10, , ,7,5,2,0,  378,1,0,0,0,0,0,0,0
+dobika,Dobiáš,Karol,1947-12-18,SVK,10, , ,18,13,5,0, 1295,11,0,0,0,0,0,2,0
+larspe,Elkjær-Larsen,Preben,1957-09-11,DEN,10, , ,30,30,0,17, 2691,29,0,0,0,0,0,2,0
+gudjar,Guðjohnsen,Arnór,1961-07-30,ISL,10, , ,30,28,2,4, 2548,26,0,0,0,0,0,0,0
+hoogro,Hoogenboom,Bob,1949-05-06,NED,10, , ,32,32,0,0, 2880,32,0,-31,0,0,0,3,0
+ingero,Ingels,Roland,1948-10-30,BEL,10, , ,15,11,4,0, 1038,10,0,0,0,0,0,0,0
+laroro,Laroy,Ronny,1960-08-04,BEL,10, , ,15,9,6,1,  948,8,0,0,0,0,0,0,0
+latogr,Lato,Grzegorz,1950-04-08,POL,10, , ,31,31,0,6, 2678,27,0,0,0,0,0,0,0
+lubawl,Lubański,Włodzimierz,1947-02-28,POL,10, , ,18,13,5,4, 1203,6,0,0,0,0,0,0,0
+mommra,Mommens,Raymond,1958-12-27,BEL,10, , ,31,31,0,8, 2742,28,0,0,0,0,0,1,0
+sneled,Snelders,Eddy,1959-04-09,BEL,10, , ,23,23,0,3, 2027,22,0,0,0,0,0,4,1
+somero,Somers,Ronald,1953-01-03,BEL,10, , ,31,31,0,2, 2738,29,0,0,0,0,0,1,0
+tolmja,Tolmie,James,1960-11-21,SCO,10, , ,4,1,3,0,  128,0,0,0,0,0,0,0,0
+berglv,Van Bergen,Luc,1961-01-19,BEL,10, , ,17,15,2,1, 1329,12,0,0,0,0,0,3,0
+raemrv,Van Raemdonck,Rudiger,1957-11-28,BEL,10, , ,2,2,0,0,  180,2,0,-1,0,0,0,0,0
+verbma,Verbruggen,Marc,1959-06-22,BEL,10, , ,5,3,2,0,  292,3,0,0,0,0,0,1,0
+verhr1,Verheyen,René,1952-03-21,BEL,10, , ,31,31,0,8, 2720,30,0,0,0,3,0,1,0
+cauthv,van Cauter,Rik,1959-11-20,BEL,10, , ,16,6,10,1,  648,1,0,0,0,0,0,0,0
+assebe,Asselberghs,Benny,1956-11-30,BEL,4, , ,32,32,0,0, 2810,29,0,0,0,0,0,0,0
+benfjo,Benfeld,Joachim,1958-05-28,GER,4, , ,13,13,0,4,  985,8,0,0,0,0,0,1,1
+bogaj1,Bogaerts,Jozef, ,BEL,4, , ,7,5,2,0,  451,2,0,0,0,0,0,2,0
+broost,Brookes,Stan,1953-02-02,ENG,4, , ,32,30,2,1, 2768,30,0,0,0,0,0,1,0
+caluer,Caluwé,Erwin,1958-05-15,BEL,4, , ,1,0,1,0,   26,0,0,0,0,0,0,0,0
+conij1,Coninx,Johan,1952-08-15,BEL,4, , ,5,2,3,0,  211,1,0,0,0,0,0,0,0
+crabdi,Crabbé,Dirk,1957-08-16,BEL,4, , ,34,31,3,2, 2821,30,0,0,0,0,0,0,0
+costmd,De Coster,Marc,1959-08-31,BEL,4, , ,28,25,3,1, 2192,19,0,0,0,0,0,0,0
+riddrd,De Ridder,René,1955-02-07,BEL,4, , ,25,17,8,1, 1662,11,0,0,0,0,0,1,0
+dommwi,Dommicent,Wilfried,1961-02-25,BEL,4, , ,9,9,0,0,  810,9,0,-23,0,0,0,0,0
+janswi,Janssens,William,1961-03-07,BEL,4, , ,8,3,5,0,  343,2,0,0,-1,0,0,0,0
+jensmi,Jensen,Michael,1960-02-19,DEN,4, , ,23,23,0,2, 2041,22,0,0,0,0,0,1,0
+kesska,Kesselaers,Karel,1959-09-03,BEL,4, , ,33,33,0,5, 2935,31,0,0,0,4,0,5,0
+lambro,Lambrechts,Ronny,1955-12-22,BEL,4, , ,28,22,6,0, 2057,21,0,0,0,0,0,0,0
+mertdi,Mertens,Dirk,1960-01-12,BEL,4, , ,20,16,4,3, 1599,15,0,0,0,0,0,0,0
+nauwwi,Nauwelaerts,Wim,1962-12-26,BEL,4, , ,1,0,1,0,   13,0,0,0,0,0,0,0,0
+reiswi,Reisinger,Willi,1958-06-30,GER,4, , ,16,16,0,6, 1341,14,0,0,0,0,0,0,0
+royehe,Royet,Hervé,1955-10-20,BEL,4, , ,16,15,1,0, 1253,12,0,0,0,0,0,4,0
+talbma,Talbut,Mark,1962-07-23,ENG,4, , ,11,10,1,0,  921,10,0,0,0,0,0,2,0
+verbfr,Verbelen,Freddy,1950-08-15,BEL,4, , ,25,25,0,0, 2250,25,0,-42,0,0,0,1,0
+vermpa,Vermeiren,Patrick,1962-02-10,BEL,4, , ,17,17,0,1, 1507,14,0,0,0,0,0,0,0
+rooyhe,van Rooy,Henk,1948-01-10,NED,4, , ,15,13,2,1, 1186,12,0,0,0,0,0,0,0
+broejo,van den Broeck,Johan,1962-04-24,BEL,4, , ,18,17,1,1, 1441,13,0,0,0,0,0,0,0
+boskjo,Boskamp,Jan,1948-10-21,NED,16, , ,29,29,0,3, 2473,25,0,0,0,1,0,1,1
+buylph,Buyle,Philippe,1958-03-13,BEL,16, , ,4,4,0,1,  323,2,0,0,0,0,0,0,0
+cneual,Cneudt,Alain,1959-08-05,BEL,16, , ,20,15,5,2, 1354,11,0,0,0,0,0,0,0
+cossru,Cossey,Rudy,1961-08-02,BEL,16, , ,19,14,5,2, 1308,12,0,0,0,0,0,3,0
+mesmpd,De Mesmaeker,Paul,1963-09-08,BEL,16, , ,2,1,1,0,  135,1,0,0,0,0,0,0,0
+vriedd,De Vriese,Dirk,1958-12-03,BEL,16, , ,31,31,0,4, 2790,31,0,0,-1,0,0,6,0
+wolfmd,De Wolf,Michel,1958-01-19,BEL,16, , ,30,30,0,0, 2631,28,0,0,0,0,0,2,1
+deleer,Deleu,Eric,1960-01-30,BEL,16, , ,4,1,3,0,  188,1,0,-5,0,0,0,0,0
+desaro,Desaeyere,René,1947-09-14,BEL,16, , ,30,29,1,0, 2583,27,0,0,0,0,0,1,0
+dewafi,Dewaele,Filip,1955-10-23,BEL,16, , ,4,4,0,0,  342,3,0,0,0,0,0,1,0
+gollpa,Gollière,Patrick,1960-05-16,BEL,16, , ,22,15,7,0, 1537,15,0,0,0,0,0,4,0
+jansni,Jansen,Nico,1953-01-15,NED,16, , ,34,33,1,10, 2943,29,0,0,0,1,0,2,0
+martm2,Martens,Maurice,1947-06-05,BEL,16, , ,24,24,0,0, 2149,23,0,0,0,0,0,0,0
+ruitja,Ruiter,Jan,1946-11-24,NED,16, , ,33,33,0,0, 2872,30,0,-44,0,0,0,1,0
+susise,Sušić,Sead,1953-01-03,SRB,16, , ,13,9,4,3,  795,6,0,0,0,1,0,1,0
+thaipa,Thairet,Patrick,1960-08-21,BEL,16, , ,27,18,9,1, 1623,7,0,0,0,0,0,1,0
+thycst,Thychosen,Steen,1958-09-22,DEN,16, , ,31,30,1,10, 2675,27,0,0,0,1,0,0,0
+trigma,Trigaux,Marc,1963-05-23,BEL,16, , ,3,1,2,0,   82,0,0,0,0,0,0,0,0
+elstfv,Van Der Elst,Franky,1961-04-30,BEL,16, , ,33,33,0,1, 2939,32,0,0,0,0,0,3,0
+verhb1,Verheecke,Bernard,1957-01-13,BEL,16, , ,12,10,2,3,  832,7,0,0,0,0,0,0,0
+greeyd,de Greef,Yves,1962-01-29,BEL,16, , ,17,10,7,0,  996,7,0,0,0,0,0,0,0
+bodagi,Bodart,Gilbert,1962-09-02,BEL,2, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
+bottre,Botteron,René,1954-10-17,SUI,2, , ,14,12,2,1, 1147,11,0,0,0,0,0,0,0
+daerjo,Daerden,Jos,1954-11-26,BEL,2, , ,19,19,0,4, 1682,18,0,0,0,0,0,1,0
+delaet,Delangre,Etienne,1963-02-12,BEL,2, , ,8,4,4,0,  432,4,0,0,0,0,0,0,0
+delbpa,Delbrouck,Pascal,1962-01-09,BEL,2, , ,3,0,3,0,  122,0,0,0,0,0,0,1,0
+dusbjo,Dusbaba,Johnny,1956-03-14,NED,2, , ,16,16,0,0, 1440,16,0,0,0,0,0,1,0
+englto,Englebert,Tony,1961-12-18,BEL,2, , ,15,14,1,0, 1131,11,0,0,0,0,0,2,0
+gereem,Gerets,Erik,1954-05-18,BEL,2, , ,31,31,0,3, 2719,28,0,0,-1,0,0,1,0
+grafhe,Graf,Helmuth,1946-02-11,GER,2, , ,8,5,3,0,  476,4,0,0,0,0,0,0,0
+haanar,Haan,Arie,1948-11-16,NED,2, , ,34,34,0,6, 3048,33,0,0,0,0,0,1,0
+leclje,Lecloux,Jean-Michel,1958-04-29,BEL,2, , ,13,7,6,1,  733,6,0,0,0,0,0,0,0
+meeuwa,Meeuws,Walter,1951-07-11,BEL,2, , ,31,31,0,4, 2775,30,0,0,0,3,0,3,1
+plesge,Plessers,Gérard,1959-03-30,BEL,2, , ,29,29,0,3, 2610,29,0,0,0,0,0,4,0
+poelth,Poel,Théo,1951-04-24,BEL,2, , ,30,30,0,0, 2643,27,0,0,0,0,0,4,0
+preumi,Preud'homme,Michel,1959-01-24,BEL,2, , ,33,33,0,0, 2970,33,0,-28,0,0,0,0,0
+sciaro,Sciascia,Roberto,1960-02-23,BEL,2, , ,3,2,1,0,  186,2,0,0,0,0,0,0,0
+tahasi,Tahamata,Simon,1956-05-26,NED,2, , ,34,34,0,12, 2995,31,0,0,0,2,0,0,0
+vandgu,Vandersmissen,Guy,1957-12-25,BEL,2, , ,33,32,1,7, 2840,27,0,0,0,0,0,3,1
+voored,Voordeckers,Eddy,1960-02-04,BEL,2, , ,18,14,4,4, 1196,10,0,0,0,0,0,0,0
+wendbe,Wendt,Benny,1950-11-04,SWE,2, , ,29,26,3,13, 2327,22,0,0,0,0,0,0,0
+nalxer,Önal,Erhan,1957-09-03,TUR,2, , ,1,0,1,0,   59,0,0,0,0,0,0,0,0
+beulno,Beuls,Norbert,1957-01-13,BEL,49, , ,34,34,0,2, 3015,33,0,0,0,0,0,2,0
+beyelu,Beyens,Luc,1959-03-27,BEL,49, , ,33,21,12,3, 2155,18,0,0,0,0,0,1,0
+bogam1,Bogaerts,Marc, ,BEL,49, , ,19,13,6,1, 1237,10,0,0,0,0,0,0,0
+clijle,Clijsters,Léo,1956-11-09,BEL,49, , ,33,33,0,4, 2948,31,0,0,0,0,0,1,0
+collma,Collas,Marcel,1948-04-05,BEL,49, , ,30,30,0,0, 2439,22,0,0,0,0,0,1,0
+cuyxal,Cuyx,Freddy,1959-04-15,BEL,49, , ,15,15,0,0, 1228,11,0,0,0,0,0,0,0
+dardcl,Dardenne,Claude,1958-06-06,BEL,49, , ,1,1,0,0,   90,1,0,-4,0,0,0,0,0
+geurjo,Geurts,Jozef,1958-10-01,BEL,49, , ,1,0,1,0,   45,0,0,0,0,0,0,0,0
+hostiv,Hoste,Ivan,1952-12-08,BEL,49, , ,31,27,4,11, 2538,26,0,0,0,1,0,0,0
+kurbzv,Kurbos,Toni,1960-10-20,GER,49, , ,27,22,5,5, 1939,18,0,0,0,0,0,0,0
+leyswi,Leyssens,Willy,1960-02-11,BEL,49, , ,14,13,1,4, 1131,10,0,0,0,0,0,0,0
+menswi,Mense,Wilhelm,1957-09-08,GER,49, , ,15,12,3,3, 1080,6,0,0,0,0,0,1,0
+raeyer,Raeymaekers,Erwin,1955-11-25,BEL,49, , ,1,0,1,0,    6,0,0,0,0,0,0,0,0
+samppa,Sampermans,Paul,1959-08-22,BEL,49, , ,18,11,7,0,  966,3,0,0,0,0,0,0,0
+schean,Scheen,André,1958-02-10,BEL,49, , ,31,26,5,0, 2391,23,0,0,0,0,0,1,0
+schipi,Schiepers,Pierrot,1960-02-12,BEL,49, , ,1,0,1,0,   16,0,0,0,0,0,0,0,0
+smoljp,Smolders,Jean-Pierre,1963-04-01,BEL,49, , ,1,0,1,0,    2,0,0,0,0,0,0,0,0
+tervro,Tervoort,Rob,1956-07-19,NED,49, , ,33,33,0,0, 2970,33,0,-50,0,0,0,0,0
+horegv,Van Horenbeek,Guy,1958-03-30,BEL,49, , ,23,21,2,1, 1903,16,0,0,0,0,0,2,0
+verhse,Verheyden,Serge,1955-11-13,BEL,49, , ,27,22,5,0, 1994,19,0,0,0,0,0,0,0
+vossru,Vossen,Rudy,1958-08-11,BEL,49, , ,33,33,0,1, 2925,32,0,0,0,0,0,2,0
+wernch,Werner,Christian,1958-05-17,GER,49, , ,11,7,4,4,  642,4,0,0,0,0,0,1,0
+coniwd,De Coninck,Wim,1959-06-23,BEL,11, , ,33,33,0,0, 2970,33,0,-33,0,0,0,0,0
+conicd,De Coninck,Carlos,1958-02-25,BEL,11, , ,30,28,2,2, 2519,26,0,-1,0,0,0,2,0
+coniem,De Coninck,Emmanuel,1961-09-26,BEL,11, , ,1,0,1,0,   45,0,0,0,0,0,0,0,0
+decryv,Decroix,Yvan,1960-09-21,BEL,11, , ,29,11,18,1, 1279,5,0,0,0,0,0,2,0
+dekefr,Dekenne,Franky,1960-07-07,BEL,11, , ,28,25,3,0, 2205,22,0,0,0,0,0,0,0
+delehe,Delesie,Hervé,1951-01-09,BEL,11, , ,19,17,2,2, 1478,12,0,0,0,0,0,0,0
+deleku,Delesie,Kurt,1962-09-09,BEL,11, , ,11,10,1,1,  904,8,0,0,0,0,0,1,0
+denoer,Denorme,Erwin,1953-05-28,BEL,11, , ,26,25,1,0, 2275,25,0,0,0,0,0,3,0
+deslyv,Desloover,Yvan,1963-07-29,BEL,11, , ,3,1,2,0,   73,0,0,0,0,0,0,0,0
+desmph,Desmet,Philippe,1958-11-29,BEL,11, , ,30,30,0,4, 2663,23,0,0,0,0,0,7,1
+devoje,Devos,Jean-Pierre,1961-05-28,BEL,11, , ,7,3,4,0,  290,1,0,0,0,0,0,0,0
+hoebja,Hoebeeck,Jan,1958-01-08,BEL,11, , ,5,1,4,0,  184,0,0,0,0,0,0,0,0
+loovha,Loovens,Hans,1959-08-07,NED,11, , ,30,30,0,2, 2622,28,0,0,0,0,0,2,0
+michhe,Michielsen,Hendrik,1951-09-27,NED,11, , ,33,33,0,1, 2970,33,0,0,0,0,0,3,0
+milllu,Millecamps,Luc,1951-09-10,BEL,11, , ,29,29,0,1, 2595,28,0,0,0,0,0,2,0
+millma,Millecamps,Marc,1950-10-09,BEL,11, , ,31,31,0,2, 2751,29,0,0,0,0,0,1,0
+muchjz,Mucha,József,1951-10-25,HUN,11, , ,19,19,0,2, 1543,13,0,0,0,0,0,2,0
+pijpfr,Pijpe,Francis,1957-07-20,BEL,11, , ,8,1,7,1,  212,1,0,0,0,0,0,0,0
+pypefr,Pype,Francis,1957-07-30,BEL,11, , ,1,0,1,0,    3,0,0,0,0,0,0,0,0
+veldrv,Van de Velde,Rik,1963-09-06,BEL,11, , ,1,0,1,0,   18,0,0,0,0,0,0,0,0
+verdju,Verdugo,Juan,1952-11-24,CHI,11, , ,16,13,3,0, 1079,6,0,0,0,0,0,1,0
+veytda,Veyt,Daniël,1956-12-09,BEL,11, , ,34,34,0,10, 2977,30,0,0,0,0,0,0,0
+bialto,Bialousz,Tony,1961-12-14,BEL,7, , ,24,21,3,0, 1868,18,0,0,0,0,0,2,0
+buysru,Buyst,Rudy,1958-08-18,BEL,7, , ,11,4,7,1,  389,1,0,0,0,0,0,1,0
+coenai,Coenen,Aimé,1957-11-23,BEL,7, , ,19,17,2,1, 1471,13,0,0,0,0,0,1,0
+conijo,Conincx,Jos,1962-03-05,BEL,7, , ,15,10,5,1,  904,6,0,0,0,0,0,0,0
+daenan,Daenen,Tony,1958-03-15,BEL,7, , ,8,8,0,0,  720,8,0,-17,0,0,0,0,0
+davida,David,Danny,1952-02-04,BEL,7, , ,18,16,2,0, 1464,14,0,0,0,0,0,1,0
+grndhe,Gründel,Heinz,1957-02-13,GER,7, , ,33,33,0,7, 2949,32,0,0,0,0,0,0,0
+gumulr,Guðmundsson,Lárus,1961-12-12,ISL,7, , ,9,8,1,2,  731,6,0,0,0,0,0,0,0
+houbhe,Houben,Herman,1947-01-12,BEL,7, , ,20,12,8,1, 1331,10,0,0,0,0,0,0,0
+janspi,Janssen,Pier,1956-09-09,BEL,7, , ,33,33,0,6, 2932,32,0,0,0,0,0,1,0
+jansro,Janssen,Roland,1958-09-30,BEL,7, , ,32,30,2,4, 2746,28,0,0,0,0,0,2,0
+kozmmi,Kozma,Mihály,1949-11-01,HUN,7, , ,12,12,0,5,  979,8,0,0,0,0,0,0,0
+maeser,Maes,Eric,1954-07-21,BEL,7, , ,24,20,4,3, 1807,17,0,0,0,0,0,2,0
+martgy,Martos,Gyozo,1949-12-15,HUN,7, , ,31,31,0,1, 2634,29,0,0,0,0,0,1,0
+massje,Massignani,Jean-Paul,1960-09-02,BEL,7, , ,1,0,1,0,   11,0,0,0,0,0,0,0,0
+mbisco,Mbisdikis,Constantinos,1963-10-20,GRE,7, , ,1,0,1,0,   45,0,0,0,0,0,0,0,0
+plespi,Plessers,Piérre,1956-10-06,BEL,7, , ,32,32,0,6, 2880,32,0,0,0,5,0,4,0
+plesil,Plessers,Ivo,1962-05-30,BEL,7, , ,5,2,3,0,  226,1,0,0,0,0,0,0,0
+pudekl,Pudelko,Klaus,1948-11-26,GER,7, , ,13,13,0,0, 1170,13,0,-22,0,0,0,1,0
+saela1,Saelen,Alex,1951-11-13,BEL,7, , ,17,14,3,0, 1196,10,0,0,0,0,0,1,0
+suripa,Surinx,Patrick,1960-02-15,BEL,7, , ,5,1,4,0,  212,1,0,0,0,0,0,0,0
+thijje,Thijs,Jean,1958-06-15,BEL,7, , ,13,13,0,0, 1170,13,0,-16,0,0,0,0,0
+vandd5,Vandereycken,Daniël,1959-11-22,BEL,7, , ,2,1,1,0,   94,0,0,0,0,0,0,0,0
+vanhru,Vanhengel,Rudi,1963-07-17,BEL,7, , ,14,11,3,0,  861,3,0,0,0,0,0,1,0
+vliewi,Vliegen,Willy,1953-03-31,BEL,7, , ,33,32,1,4, 2870,30,0,0,0,0,0,1,0
+albero,Albertsen,Roger,1957-03-15,NOR,45, , ,29,26,3,2, 2291,20,0,0,0,1,0,2,0
+bergka,Berger,Karl,1951-06-13,GER,45, , ,29,26,3,7, 2342,21,0,0,0,2,0,1,0
+billma,Billen,Mathieu,1953-04-16,BEL,45, , ,34,34,0,5, 3026,31,0,0,0,0,0,2,0
+daemlu,Daemen,Luc,1963-07-30,BEL,45, , ,5,1,4,0,  109,0,0,0,0,0,0,0,0
+davigu,Davidts,Guido,1955-04-18,BEL,45, , ,29,22,7,2, 2073,16,0,0,0,0,0,2,0
+bruyjd,De Bruyne,Jean-Paul,1961-10-04,BEL,45, , ,16,16,0,0, 1423,15,0,-21,0,0,0,0,1
+zuttrd,De Zutter,Renaat,1958-10-28,BEL,45, , ,19,18,1,0, 1636,18,0,-27,0,0,0,0,0
+defege,Deferm,Geert,1963-05-06,BEL,45, , ,2,0,2,0,   56,0,0,0,0,0,0,0,0
+denipi,Denier,Pierre,1956-11-09,BEL,45, , ,31,31,0,1, 2578,25,0,0,0,0,0,3,1
+denima,Denier,Matthieu,1952-05-16,BEL,45, , ,33,27,6,2, 2455,21,0,0,0,0,0,2,0
+houbpa,Houben,Patrick,1959-07-10,BEL,45, , ,32,32,0,2, 2808,29,0,0,0,0,0,2,0
+kaesda,Kaes,Danny,1957-01-07,BEL,45, , ,4,2,2,0,  196,2,0,0,0,0,0,0,0
+lambpa,Lambrichts,Paul,1954-10-16,BEL,45, , ,31,31,0,0, 2790,31,0,0,0,0,0,7,0
+thijlu,Thijs,Luc,1962-03-28,BEL,45, , ,34,31,3,2, 2722,27,0,0,0,0,0,2,0
+vanler,Vanlessen,Eric,1948-07-24,BEL,45, , ,33,33,0,1, 2970,33,0,0,0,0,0,1,0
+vitawa,Vitali,Walter,1961-11-07,ITA,45, , ,7,4,3,0,  394,3,0,0,0,0,0,0,0
+vitama,Vitali,Mario,1962-10-04,BEL,45, , ,2,1,1,0,  119,0,0,0,0,0,0,0,0
+weisca,Weis,Carlo,1958-12-04,LUX,45, , ,28,25,3,0, 2222,21,0,0,0,0,0,2,0
+raevdd,de Raeve,Daniël,1962-05-31,BEL,45, , ,16,5,11,0,  541,1,0,0,0,0,0,1,0
+becerv,van Becelaere,René,1964-03-11,BEL,45, , ,7,5,2,0,  416,1,0,0,0,0,0,1,0
+woerwv,van Woerkum,Will,1951-08-27,NED,45, , ,7,4,3,0,  406,3,0,0,0,0,0,0,0

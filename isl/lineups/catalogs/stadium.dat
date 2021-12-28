@@ -1,13 +1,14 @@
-29
+31
 akra00,Norðurálsvöllurinn
 akra01,Akraneshöllin
 akur00,Greifavöllurinni
 akur01,Þórsvöllur
 borg00,Skallagrímsvöllur
+dalv00,Dalvíkurvöllur
 gard00,Samsung völlurinn
 grin00,Grindavíkurvöllur
 hafn00,Kaplakriki
-kefl00,Nettovöllurinn
+kefl00,HS Orku Völlurinn,2554,0,Nettovöllurinn,2020
 kopa00,Kópavogsvöllur
 kopa01,Kórinn
 njar00,Njarðtaksvöllurinn
@@ -25,6 +26,7 @@ reyk08,Leiknisvöllur
 reyk09,Gervigrasvöllur Laugardal
 reyk10,Framvöllur Úlfarsárdal
 reyk11,Hertz Hellirinn
+reyk12,Domusnovavöllurinn
 self00,Jáverk völlurin
 selt00,Vivaldivöllurinn
 vest00,Hasteinsvöllur

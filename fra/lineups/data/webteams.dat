@@ -37,7 +37,7 @@ Laval,stade-laval
 Valence,asoa-valence
 Mulhouse,fc-mulhouse
 Red Star,red-star-fc_2
-Toulon,sporting-toulon-var
+Toulon,sc-toulon
 Amiens,amiens-sc
 Perpignan,fc-perpignan
 Louhans-cuis,fc-louhans-cuiseaux-'71
@@ -68,11 +68,11 @@ Avignon,avignon-foot-84
 Brest,stade-brest
 Tours,tours-fc
 Poitiers,fc-poitiers
-Dunkerque,us-dunkerque
+Dunkerque,usl-dunkerque
 Bourges,fc-bourges
 Roche-sur-Yon,vf-la-roche-sur-yon
 Ancenis,rc-ancenis
-Rodez,sr-rodez
+Rodez,rodez-af
 Annecy,fc-annecy
 Compiegne,afc-compiegne
 St.Quentin,olympique-st-quentin
@@ -82,7 +82,7 @@ Dijon,dijon-fco
 Abbeville,sc-abbeville
 Quimper,stade-quimper
 Montceau,fc-montceau-bourgogne
-Le Puy,co-le-puy
+Le Puy,le-puy-foot-43
 Le Touquet,ac-le-touquet
 Melun,melun-entente-'77
 St.Dizier,co-st-dizier
@@ -90,7 +90,7 @@ Chatelleraut,so-chatellerault
 Thonon,cs-thonon
 Montceau Mines,montceau-les-mines
 Libourne,as-libourne-saint-seurin
-Villefranche,fcvb-villefranche
+Villefranche,fc-villefranche-beaujolais
 Besancon,rcfc-besan�on
 Fontainebleau,rc-fontainebleau
 Blenod,cs-blenod
@@ -122,11 +122,11 @@ Joinville,paris-joinville
 Mouzon,mouzon
 Evreux,ac-evreux
 Creil,as-creil
-Quevilly,quevilly-paris
+Quevilly,us-quevilly-rouen
 Merlebach,us-merlebach
 Neuilly,paris-neuilly
 Forbach,us-forbach
-Marignane,us-marignane
+Marignane,marignane-gignac
 Cherbourg,as-cherbourg-football
 CA Paris,ca-paris-alt
 GSC Marseille,gsc-marseille
@@ -148,9 +148,9 @@ Evry,evry
 Trelissac,fc-tr�lissac
 Romorantin,so-romorantin
 Beaucaire,stade-beaucaire
-Pau,pau-fc-d'orthez
-Bourg-Peronnas,bourg-perronas
-Sannois,entente-sannois-saint-gratien
+Pau,pau-fc
+Bourg-Peronnas,fc-bourg-peronnas
+Sannois,entente-ssg
 Evian,evian-thonon-gaillard
 Roye,us-roye
 Bayonne,aviron-bayonnais
@@ -176,7 +176,7 @@ Gap,gap-fc
 Albi,us-albi
 Marignane,us-marignane
 Luzenac,us-luzenac
-CA-bastia,ca-bastia
+CA-bastia,fc-bastia-borgo
 Balma,balma-sc
 Andrezieux,asf-andrezieux
 Manosque,ep-manosque
@@ -218,7 +218,7 @@ Thaon,es-thaon
 Schitlingheim,sc-schitlingheim
 Vermondans,pont-de-roide-vermondans
 Obernai,fcsr-obernai
-Lyon Duchere,as-lyon-duchere
+Lyon Duchere,sporting-club-lyon
 Echirolles,echirolles-fc
 Corte,usc-corte
 Thiers,sa-thiers
@@ -235,7 +235,7 @@ Menton,rapide-de-manton
 Uzes,es-uzes-pont-du-gard
 Raphael,stade-raphaellois
 Endoume,marseille-endoume-catalans
-Consolat,gs-consolat-marseille
+Consolat,athletico-marseille
 Valette,ua-valettoise
 Monticello,fa-ile-rousse-monticello
 Gardanne,as-gardanne
@@ -245,7 +245,7 @@ Lucon,vendee-lucon-football
 St.Pryve,st-pryve-st-hilaire-fc
 Saumur,olympique-saumur
 Malesherbes,sc-malesherbes
-Les Herbiers,les-herbiers-vf
+Les Herbiers,vendee-les-herbiers
 Armenienne,armenienne-aso-issy
 Sud Nivernais,sud-nivernais-imphy-decize
 La Fleche,rc-la-fleche
@@ -300,7 +300,7 @@ Le Mans-2,uc-le-mans-ii
 Guingamp-2,ea-guingamp-ii
 Valenciennes-2,afc-valenciennes-ii
 Mondeville,uson-mondeville
-Drancy,drancy-jeanne-d'arc
+Drancy,ja-drancy
 Grenoble-2,grenoble-foot-38-ii
 Aubervilliers,cm-aubervilliers
 Azergues,monts-d'or-azergues-foot
@@ -308,7 +308,7 @@ Lorient-2,lorient-bretagne-sud-ii
 Avion,cs-avion
 Calvi,afc-calvi
 Sarre,sarre-union
-Chambly,fc-chambly-thelle
+Chambly,fc-chambly
 St.Malo,us-saint-malo
 Villenave,jeunesse-villenavaise
 Iris,iris-club-de-croix

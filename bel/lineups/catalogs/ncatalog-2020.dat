@@ -13,7 +13,7 @@ hadjaa,El Hadj,Anouar Ait,2002-04-20,BEL,1,46,M,2,0,2,0,   29,0,5,0,0,0,0,0,0
 kabahe,El Kababri,Hotman,2000-01-24,MAR,1, , ,1,1,0,0,   81,0,1,0,0,0,0,0,0
 gerkpi,Gerkens,Pieter,1995-08-13,BEL,1,8,M,7,5,2,0,  361,1,0,0,0,0,0,0,0
 jovede,Joveljić,Dejan,1999-08-07,SRB,1,28,A,5,4,1,0,  344,1,0,0,0,0,0,1,0
-kanama,Kana,Marco,2002-08-08,BEL,1,55,M,15,12,3,1, 1122,11,9,0,0,0,0,3,0
+kanama,Kana,Marco,2002-08-08,BEL,1,55,F,15,12,3,1, 1122,11,9,0,0,0,0,3,0
 kayeed,Kayembe,Edo,1998-06-03,DRC,1,39,M,18,9,9,0,  878,8,7,0,0,0,0,3,0
 kompvi,Kompany,Vincent,1986-04-10,BEL,1,4,F,15,15,0,1, 1313,12,1,0,0,0,0,2,0
 lawrke,Lawrence,Kemar,1992-09-17,JAM,1,92,F,1,0,1,0,    5,0,1,0,0,0,0,0,0
@@ -40,7 +40,7 @@ zuljpe,Žulj,Peter,1993-06-09,AUT,1,23,M,22,16,6,0, 1422,12,3,0,0,0,0,4,0
 arsldi,Arslanagić,Dino,1993-04-24,BEL,3,15,F,21,21,0,0, 1845,20,1,0,-1,0,0,5,0
 babyam,Baby,Amara,1989-02-23,SEN,3,14,A,9,3,6,0,  322,2,5,0,0,0,0,2,0
 batudy,Batubinsika,Dylan,1996-02-15,FRA,3,21,F,4,4,0,0,  360,4,9,0,0,0,0,0,0
-bensma,Benson,Manuel,1997-03-28,BEL,3,28,M,11,6,5,0,  510,0,6,0,0,0,0,0,0
+bensma,Benson,Manuel,1997-03-28,BEL,3,28,A,11,6,5,0,  510,0,6,0,0,0,0,0,0
 bolasi,Bolat,Sinan,1988-09-03,TUR,3,1,P,27,27,0,0, 2430,27,0,-30,0,0,0,3,0
 bolijo,Bolingi,Jonathan,1994-06-30,DRC,3, , ,3,0,3,0,   43,0,0,0,0,0,0,0,0
 butaau,Buta, ,1997-02-10,POR,3,30,F,28,28,0,2, 2497,25,0,0,0,0,0,2,0
@@ -54,7 +54,7 @@ hairge,Hairemans,Geoffry,1991-10-21,BEL,3, , ,4,3,1,0,  230,2,1,0,0,0,0,0,0
 harofa,Haroun,Faris,1985-09-22,BEL,3,38,M,25,24,1,0, 2154,23,1,0,0,0,0,5,0
 hoedwe,Hoedt,Wesley,1994-03-06,NED,3,22,F,21,21,0,0, 1806,20,0,0,0,0,0,5,1
 hongma,Hongla,Martin,1998-03-16,CMR,3,18,M,9,3,6,0,  385,2,6,0,0,0,0,1,0
-juklsi,Juklerød,Simen,1994-05-18,NOR,3,6,M,14,11,3,0, 1012,11,14,0,0,0,0,2,0
+juklsi,Juklerød,Simen,1994-05-18,NOR,3,6,F,14,11,3,0, 1012,11,14,0,0,0,0,2,0
 mathma,Matheus, ,1992-01-22,BRA,3,5,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
 mbokdi,Mbokani,Dieumerci,1985-11-22,DRC,3,70,A,28,28,0,18, 2503,24,0,0,0,5,0,6,0
 mirake,Mirallas,Kevin,1987-10-05,BEL,3,87,A,18,11,7,2, 1058,1,7,0,0,1,0,3,0
@@ -62,14 +62,13 @@ miyoko,Miyoshi,Koji,1997-03-26,JAP,3,19,M,14,4,10,1,  458,0,2,0,0,0,0,1,0
 nazaeg,Nazaryna,Egor,1997-07-10,UKR,3, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
 piusju,Pius,Júnior,1995-12-20,NGR,3,40,F,0,0,0,0,    0,0,2,0,0,0,0,0,0
 quirro,Quirynen,Robbe,2001-11-03,BEL,3,17,F,3,2,1,0,  193,2,1,0,0,0,0,0,0
-refali,Refaelov,Lior,1986-04-26,ISR,3,11,A,24,21,3,11, 1664,5,4,0,0,4,0,2,0
+refali,Refaelov,Lior,1986-04-26,ISR,3,11,M,24,21,3,11, 1664,5,4,0,0,4,0,2,0
 rodriv,Rodrigues,Ivo,1995-03-30,POR,3,8,A,22,17,5,4, 1401,6,2,0,0,0,0,2,1
 seckab,Seck,Abdoulaye,1992-06-04,SEN,3,3,F,13,10,3,0,  949,10,4,0,0,0,0,2,0
 teunje,Teunckens,Jens,1998-01-30,BEL,3,39,P,2,2,0,0,  180,2,26,-2,0,0,0,1,0
 zexxdl,Zé,Didier Lamkel,1996-09-17,CMR,3,7,A,25,21,4,6, 1988,16,0,0,0,0,0,6,0
 amraso,Amrabat,Sofyan,1996-08-21,MAR,0, , ,1,1,0,0,   80,0,3,0,0,0,0,0,0
-balaed,Balanta,Éder,1993-02-28,COL,0,3,F,16,13,3,2, 1223,12,4,0,0,0,0,6,0
-bremiv,Brempt,Ignace Van Der,2002-04-01,BEL,0,92,F,1,0,1,0,   12,0,4,0,0,0,0,0,0
+balaed,Balanta,Éder,1993-02-28,COL,0,3,M,16,13,3,2, 1223,12,4,0,0,0,0,6,0
 clincl,Clinton, ,1992-11-07,ANG,0,77,F,25,24,1,0, 2113,22,1,0,0,0,0,7,0
 cooldi,Cools,Dion,1996-06-04,BEL,0, , ,2,1,1,0,  135,1,8,0,0,0,0,0,0
 danjar,Danjuma,Arnaut,1997-01-31,NED,0, , ,1,1,0,0,   86,0,0,0,0,0,0,0,0
@@ -97,6 +96,7 @@ schrsi,Schrijvers,Siebe,1996-07-18,BEL,0,16,A,22,13,9,4, 1204,4,6,0,0,0,0,1,0
 shinni,Shinton,Nick,2001-05-10,BEL,0,33,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
 soboed,Sobol,Eduard,1995-04-20,UKR,0,2,F,26,23,3,0, 2121,22,2,0,0,0,0,4,0
 tauxpe,Tau,Percy,1994-05-13,RSA,0,35,A,18,12,6,3,  895,1,9,0,0,0,0,0,0
+bremiv,Van Der Brempt,Ignace,2002-04-01,BEL,0,92,F,1,0,1,0,   12,0,4,0,0,0,0,0,0
 vanaha,Vanaken,Hans,1992-08-24,BEL,0,20,M,29,28,1,13, 2525,26,0,0,0,2,0,3,0
 vlieth,Vlietinck,Thibault,1997-08-19,BEL,0,19,A,5,2,3,0,  219,1,13,0,0,0,0,0,0
 vormru,Vormer,Ruud,1988-05-11,NED,0,25,M,27,26,1,1, 2372,24,0,0,0,0,0,4,0
@@ -120,11 +120,11 @@ eppema,Eppel,Márton,1991-10-26,HUN,12,19,A,8,5,3,1,  526,3,0,0,0,0,0,0,0
 fiorco,Fiore,Corentin,1995-03-24,BEL,12, , ,5,3,2,0,  341,3,4,0,0,0,0,1,0
 fostly,Foster,Lyle,2000-09-03,RSA,12,13,A,18,8,10,1,  946,3,2,0,0,0,0,2,0
 goblme,Goblet,Merveille,1994-11-20,BEL,12,25,P,0,0,0,0,    0,0,7,0,0,0,0,0,0
-goryal,Gory,Alimani,1996-08-30,FRA,12,28,A,19,13,6,2, 1152,5,1,0,0,0,0,1,0
+goryal,Gory,Alimani,1996-08-30,FRA,12,28,M,19,13,6,2, 1152,5,1,0,0,0,0,1,0
 hassmo,Hassen,Mouez,1995-03-05,TUN,12,83,P,4,4,0,0,  360,4,0,-6,0,0,0,0,0
-hazaky,Hazard,Kylian,1995-08-05,BEL,12,7,M,27,19,8,1, 1689,12,1,0,0,0,0,2,0
+hazaky,Hazard,Kylian,1995-08-05,BEL,12,7,A,27,19,8,1, 1689,12,1,0,0,0,0,2,0
 hoggke,Hoggas,Kévin,1991-11-16,FRA,12,20,M,18,16,2,6, 1319,8,5,0,0,1,0,2,0
-hotidi,Hotič,Dino,1995-07-26,BOS,12,10,M,7,6,1,1,  508,1,1,0,0,0,0,0,0
+hotidi,Hotič,Dino,1995-07-26,BOS,12,10,A,7,6,1,1,  508,1,1,0,0,0,0,0,0
 hubegu,Hubert,Guillaume,1994-01-11,BEL,12,1,P,8,8,0,0,  720,8,20,-14,0,0,0,0,0
 kantab,Kanté,Aboubakary,1994-08-11,GAM,12, , ,3,0,3,0,   67,0,1,0,0,0,0,0,0
 kouaro,Kouamé,Rominigue,1996-12-17,CIV,12, , ,13,11,2,0, 1038,10,3,0,0,0,0,5,0
@@ -144,7 +144,7 @@ velkdi,Velkovski,Dimitar,1995-01-22,BUL,12,35,F,6,6,0,0,  540,6,0,0,0,0,0,1,0
 vitivi,Vitinho, ,1999-07-23,BRA,12,2,F,0,0,0,0,    0,0,4,0,0,0,0,0,0
 amanjl,Amani,Jean Lazare,1998-03-07,CIV,5,20,M,0,0,0,0,    0,0,5,0,0,0,0,0,0
 bedich,Bedia,Chris,1996-03-05,CIV,5, , ,3,1,2,0,  127,0,0,0,0,0,0,0,0
-brunma,Bruno,Massimo,1993-09-17,BEL,5,77,M,25,25,0,4, 2102,10,0,0,0,0,0,4,0
+brunma,Bruno,Massimo,1993-09-17,BEL,5,77,A,25,25,0,4, 2102,10,0,0,0,0,0,4,0
 busima,Busi,Maxime,1999-10-14,BEL,5,4,F,21,19,2,0, 1697,17,8,0,0,0,0,3,0
 descre,Descamps,Rémy,1996-06-25,FRA,5,40,P,1,0,1,0,   45,0,26,0,0,0,0,1,0
 descan,Descotte,Anthony,2003-08-03,BEL,5,19,A,0,0,0,0,    0,0,7,0,0,0,0,0,0
@@ -184,23 +184,23 @@ ciamfl,Ciampichetti,Flavio,1988-03-07,ARG,30,9,A,14,5,9,0,  409,1,10,0,0,0,0,1,0
 coolje,Cools,Jens,1990-10-16,BEL,30,26,M,26,26,0,1, 2217,19,2,0,0,0,0,3,0
 wolfod,De Wolf,Ortwin,1997-04-23,BEL,30,1,P,28,28,0,0, 2520,28,1,-47,0,0,0,3,0
 ebraom,Ebrahimi,Omid,1987-09-16,IRN,30,16,M,18,18,0,0, 1566,13,1,0,0,0,0,6,0
-embaca,Embalo,Carlos,1994-11-25,GBS,30,17,M,16,2,14,1,  371,0,5,0,0,0,0,3,0
+embaca,Embalo,Carlos,1994-11-25,GBS,30,17,A,16,2,14,1,  371,0,5,0,0,0,0,3,0
 ezatsa,Ezatolahi,Saeid,1996-10-01,IRN,30,66,M,4,2,2,0,  167,0,10,0,0,0,0,0,0
 gnaksi,Gnaka,Silas,1998-12-18,CIV,30,24,F,11,10,1,0,  845,4,5,0,0,0,0,2,0
 keitsi,Keita,Sibiry,2001-01-30,MLI,30,13,M,3,3,0,0,  160,1,1,0,0,0,0,0,0
 kochme,Koch,Menno,1994-07-02,NED,30,3,F,23,14,9,1, 1280,10,6,0,-1,0,0,4,1
-lambbo,Lambert,Boris,2000-04-10,BEL,30,35,F,0,0,0,0,    0,0,8,0,0,0,0,0,0
+lambbo,Lambert,Boris,2000-04-10,BEL,30,35,M,0,0,0,0,    0,0,8,0,0,0,0,0,0
 lapead,Lapeña,Adrián,1996-04-16,SPA,30, , ,2,2,0,0,  163,1,3,0,0,0,0,0,0
 laurme,Laurent,Mégan,1992-03-24,BEL,30,11,M,4,2,2,0,  233,1,8,0,0,0,0,0,0
 magnga,Magnée,Gary,1999-10-12,BEL,30,15,F,0,0,0,0,    0,0,3,0,0,0,0,0,0
 marrsu,Marreh,Sulayman,1996-01-15,GAM,30, , ,11,7,4,0,  675,7,2,0,0,0,0,2,0
 mattro,Matthys,Romain,1998-07-10,BEL,30,30,P,0,0,0,0,    0,0,24,0,0,0,0,0,0
 milida,Miličević,Danijel,1986-01-05,BOS,30,77,M,23,21,2,5, 1871,12,0,0,0,1,0,1,0
-miraro,Miramar,Rocha,1997-05-23,POR,30,97,M,6,1,5,0,  169,1,0,0,0,0,0,2,0
+miraro,Miramar,Rocha,1997-05-23,POR,30,97,A,6,1,5,0,  169,1,0,0,0,0,0,2,0
 molixa,Molina,Xavi,1986-07-19,SPA,30, , ,2,1,1,0,  103,1,4,0,0,0,0,0,0
 musokn,Musona,Knowledge,1990-06-21,ZIM,30,20,A,7,7,0,2,  517,2,0,0,0,0,0,1,0
-ndriko,N'Dri,Konan,2000-10-27,CIV,30,34,M,3,0,3,0,   37,0,0,0,0,0,0,0,0
-nuruam,Nurudeen,Abdul Manaf,1999-02-08,GHA,30,33,P,0,0,0,0,    0,0,4,0,0,0,0,0,0
+ndriko,N'Dri,Konan,2000-10-27,CIV,30,34,A,3,0,3,0,   37,0,0,0,0,0,0,0,0
+nuruab,Nurudeen,Abdul,1999-02-08,GHA,30,33,P,0,0,0,0,    0,0,4,0,0,0,0,0,0
 penaad,Peñaranda,Adalberto,1997-05-31,VEN,30, , ,5,4,1,0,  364,3,0,0,0,0,0,2,0
 prevsm,Prevljak,Smail,1995-05-10,BOS,30,7,A,5,5,0,4,  429,3,0,0,0,0,0,1,0
 schoni,Schouterden,Nils,1988-12-14,BEL,30,18,M,24,17,7,1, 1640,14,3,0,0,0,0,4,0
@@ -215,7 +215,7 @@ bongth,Bongonda,Théo,1995-11-20,BEL,7,27,A,22,15,7,5, 1417,6,0,0,0,0,0,3,0
 borgne,Borges,Neto,1996-09-13,BRA,7,5,F,5,3,2,0,  318,1,4,0,0,0,0,1,0
 coucga,Coucke,Gaëtan,1998-12-03,BEL,7,28,P,18,18,0,0, 1620,18,9,-28,0,0,0,0,0
 cuesca,Cuesta,Carlos,1999-03-09,COL,7,46,F,20,20,0,0, 1711,17,8,0,0,0,0,1,0
-norrcd,De Norre,Casper,1997-02-07,BEL,7,2,M,13,10,3,0,  855,5,14,0,0,0,0,0,0
+norrcd,De Norre,Casper,1997-02-07,BEL,7,2,F,13,10,3,0,  855,5,14,0,0,0,0,0,0
 dewase,Dewaest,Sebastien,1991-05-27,BEL,7,6,F,24,24,0,4, 2101,23,4,0,0,0,0,5,0
 didith,Didillon,Thomas,1995-11-28,FRA,7,30,P,6,6,0,0,  540,6,0,-8,0,0,0,0,0
 daehmm,Dæhli,Mats Møller,1995-03-02,NOR,7,20,M,3,2,1,1,  159,0,0,0,0,0,0,0,0
@@ -233,8 +233,8 @@ ndondi,Ndongala,Dieumerci,1991-06-14,DRC,7, , ,11,5,6,0,  437,1,1,0,0,0,0,1,0
 nygrbe,Nygren,Benjamin,2001-07-08,SWE,7,14,A,2,2,0,1,  118,0,11,0,0,0,0,0,0
 odeyst,Odey,Stephen,1998-01-15,NGR,7,15,A,11,1,10,0,  210,0,13,0,0,0,0,1,0
 onuapa,Onuachu,Paul,1994-05-28,NGR,7,18,A,22,17,5,9, 1536,10,1,0,0,1,0,1,0
-oyenlu,Oyen,Luca,2003-03-14,BEL,7,32,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
-painjo,Paintsil,Joseph,1998-02-01,GHA,7,11,M,18,10,8,1,  884,2,3,0,0,0,0,0,0
+oyenlu,Oyen,Luca,2003-03-14,BEL,7,32,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+painjo,Paintsil,Joseph,1998-02-01,GHA,7,11,A,18,10,8,1,  884,2,3,0,0,0,0,0,0
 piotja,Piotrowski,Jakub,1997-10-04,POL,7, , ,6,4,2,0,  255,0,4,0,0,0,0,1,0
 samamb,Samatta,Mbwana,1992-12-23,TAN,7, , ,20,17,3,7, 1568,13,0,0,0,0,0,1,0
 screvl,Screciu,Vladimir,2000-01-13,ROM,7, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
@@ -243,17 +243,16 @@ thorkr,Thorstvedt,Kristian,1999-03-13,NOR,7,42,M,8,5,3,1,  440,2,0,0,0,0,0,0,0
 uronje,Uronen,Jere,1994-07-13,FIN,7,21,F,17,17,0,0, 1469,13,1,0,0,0,0,0,0
 vandma,Vandevoordt,Maarten,2002-02-26,BEL,7,26,P,4,4,0,0,  360,4,16,-5,0,0,0,0,0
 vukoda,Vuković,Danny,1985-03-27,AUS,7,1,P,1,1,0,0,   90,1,0,-1,0,0,0,0,0
-woutdr,Wouters,Dries,1997-01-28,BEL,7,4,F,13,9,4,1,  808,6,13,0,0,0,0,5,0
+woutdr,Wouters,Dries,1997-01-28,BEL,7,4,M,13,9,4,1,  808,6,13,0,0,0,0,5,0
 asarna,Asare,Nana,1986-07-11,GHA,6,21,F,12,12,0,0, 1080,12,10,0,0,0,0,4,0
 beloni,Beloko,Nicky,2000-02-16,SUI,6, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
-bergjv,Bergh,Jan Van den,1994-10-02,BEL,6, , ,0,0,0,0,    0,0,3,0,0,0,0,0,0
 berigi,Beridze,Giorgi,1997-05-12,GEO,6, , ,1,0,1,0,   14,0,0,0,0,0,0,0,0
 bezuro,Bezus,Roman,1990-09-26,UKR,6,9,M,21,14,7,7, 1142,3,5,0,0,0,0,5,0
 brondy,Bronn,Dylan,1995-06-19,TUN,6, , ,5,2,3,0,  276,2,3,0,0,0,0,0,0
-montac,Castro-Montes,Alessio,1997-05-17,BEL,6,14,M,21,14,7,2, 1389,14,2,0,0,0,0,3,0
+montac,Castro-Montes,Alessio,1997-05-17,BEL,6,14,F,21,14,7,2, 1389,14,2,0,0,0,0,3,0
 chakgi,Chakvetadze,Giorgi,1999-08-29,GEO,6,10,M,9,2,7,0,  274,1,3,0,0,0,0,0,0
 coosco,Coosemans,Colin,1992-08-03,BEL,6,26,P,1,0,1,0,   51,0,27,0,0,0,0,0,0
-davijo,David,Jonathan,2000-01-14,CAN,6,16,A,27,24,3,18, 2096,16,0,0,0,3,0,4,0
+davijo,David,Jonathan,2000-01-14,CAN,6,16,M,27,24,3,18, 2096,16,0,0,0,3,0,4,0
 bussjd,De Busser,Jari,1999-10-21,BEL,6,20,P,0,0,0,0,    0,0,2,0,0,0,0,0,0
 dejabr,Dejaegere,Brecht,1991-05-29,BEL,6,19,M,14,6,8,0,  615,2,8,0,0,0,0,1,0
 depola,Depoitre,Laurent,1988-12-07,BEL,6,29,A,22,19,3,8, 1604,8,1,0,0,0,0,2,0
@@ -276,14 +275,14 @@ owusel,Owusu,Elisha,1997-11-07,FRA,6,6,M,27,27,0,0, 2208,20,0,0,0,0,0,4,0
 plasig,Plastun,Igor,1990-08-20,UKR,6,32,F,28,28,0,1, 2475,27,0,0,0,0,0,3,0
 rostsi,Rosted,Sigurd,1994-07-22,NOR,6, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
 syllma,Sylla,Mamadou,1994-03-20,SEN,6, , ,1,1,0,0,   90,1,2,0,0,0,0,0,0
+bergjv,Van Den Bergh,Jan,1994-10-02,BEL,6, , ,0,0,0,0,    0,0,3,0,0,0,0,0,0
 verslo,Verstraete,Louis,1999-05-04,BEL,6, , ,5,3,2,0,  267,2,3,0,0,0,0,0,0
 yarero,Yaremchuk,Roman,1995-11-27,UKR,6,7,A,18,18,0,10, 1500,8,1,0,0,2,0,4,0
 ajagab,Ajagun,Abdul,1993-02-10,NGR,22,8,M,18,9,9,1,  842,0,5,0,0,0,0,1,0
 azoula,Azouni,Larry,1994-03-23,FRA,22,5,M,17,12,5,0, 1079,8,9,0,0,0,0,5,0
 batsan,Batsula,Andriy,1992-02-06,UKR,22,29,F,8,4,4,0,  277,1,16,0,0,0,0,1,0
-brughv,Bruggen,Hannes Van der,1993-04-01,BEL,22,14,M,25,24,1,3, 2067,17,1,0,0,0,0,5,0
 bruzse,Bruzzese,Sébastien,1989-03-01,BEL,22,1,P,15,15,0,0, 1350,15,8,-28,0,0,0,1,0
-dhaekr,D'Haene,Kristof,1990-06-06,BEL,22,30,M,29,29,0,1, 2605,28,0,0,0,0,0,5,0
+dhaekr,D'Haene,Kristof,1990-06-06,BEL,22,30,F,29,29,0,1, 2605,28,0,0,0,0,0,5,0
 manxmd,De Man,Maxim,2001-10-23,BEL,22,16,P,0,0,0,0,    0,0,16,0,0,0,0,0,0
 sartjd,De Sart,Julien,1994-12-23,BEL,22,23,M,28,27,1,4, 2475,27,0,0,0,0,0,6,0
 smetjd,De Smet,Jarno,1999-02-05,BEL,22, , ,0,0,0,0,    0,0,2,0,0,0,0,0,0
@@ -300,7 +299,7 @@ kagega,Kagelmacher,Gary,1988-04-21,URU,22, , ,19,19,0,2, 1710,19,0,0,0,0,0,2,0
 kovavl,Kovačević,Vladimir,1992-11-11,SRB,22,55,F,5,4,1,0,  368,4,14,0,0,0,0,1,0
 lepoch,Lepoint,Christophe,1984-10-24,BEL,22,15,M,21,13,8,1, 1117,4,0,0,0,0,0,1,0
 mboype,M'Boyo,Pelé,1987-04-22,BEL,22,7,A,27,24,3,8, 2185,20,0,0,0,3,0,3,0
-makaev,Makarenko,Evgen,1991-05-21,UKR,22,25,F,4,4,0,0,  360,4,1,0,0,0,0,0,0
+makaev,Makarenko,Evgen,1991-05-21,UKR,22,25,M,4,4,0,0,  360,4,1,0,0,0,0,0,0
 moffte,Moffi,Terem,1999-05-25,NGR,22,20,A,7,4,3,4,  428,1,0,0,0,0,0,0,0
 mujani,Mujakić,Nihad,1998-04-15,BOS,22, , ,1,1,0,0,   90,1,14,0,0,0,0,0,0
 ocaner,Ocansey,Eric,1997-08-22,GHA,22,51,A,22,17,5,2, 1285,3,4,0,0,0,0,0,0
@@ -310,6 +309,7 @@ selefa,Selemani,Faïz,1993-11-14,COM,22,70,A,7,2,5,1,  356,0,1,0,0,0,0,0,0
 stojjo,Stojanović,Jovan,1992-04-21,SRB,22,11,M,20,7,13,2,  817,2,2,0,0,0,0,0,0
 tutalu,Tuta, ,1999-07-04,BRA,22,35,F,14,14,0,1, 1260,14,6,0,0,0,0,4,0
 oostmv,Van Oost,Marlon,2001-00-00,BEL,22,12,P,0,0,0,0,    0,0,2,0,0,0,0,0,0
+brughv,Van der Bruggen,Hannes,1993-04-01,BEL,22,14,M,25,24,1,3, 2067,17,1,0,0,0,0,5,0
 verkbr,Verkerken,Brice,2001-03-21,BEL,22,98,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
 batesh,Bateau,Sheldon,1991-01-29,TRI,4,4,F,11,6,5,0,  615,6,16,0,0,0,0,2,0
 bijklu,Bijker,Lucas,1993-03-04,NED,4,3,F,18,12,6,0, 1133,10,6,0,0,0,0,2,0
@@ -346,11 +346,11 @@ bataje,Bataille,Jelle,1999-05-20,BEL,19,25,F,24,23,1,2, 2007,19,1,0,0,0,0,5,0
 boonin,Boonen,Indy,1999-01-04,BEL,19,11,M,12,2,10,0,  250,0,14,0,0,0,0,1,0
 canefe,Canesin,Fernando,1992-02-27,BRA,19, , ,16,11,5,1, 1086,9,2,0,0,0,0,1,0
 capobr,Capon,Brecht,1988-04-24,BEL,19,27,F,16,13,3,0, 1224,11,3,0,0,0,0,2,0
-dhaero,D'Haese,Robbie,1999-02-25,BEL,19,29,M,14,9,5,0,  749,1,1,0,0,0,0,0,0
+dhaero,D'Haese,Robbie,1999-02-25,BEL,19,29,A,14,9,5,0,  749,1,1,0,0,0,0,0,0
 dutowi,Dutoit,William,1988-09-18,FRA,19,28,P,24,24,0,0, 2160,24,5,-48,0,0,0,1,0
 faeswo,Faes,Wout,1998-04-03,BEL,19,4,F,28,28,0,0, 2520,28,0,0,0,0,0,2,0
-gurisi,Guri,Sindri,1993-10-23,ALB,19,9,A,15,3,12,2,  422,2,5,0,0,0,0,1,0
-hjulan,Hjulsager,Andrew,1995-01-15,DEN,19,17,M,19,16,3,2, 1273,5,2,0,0,0,0,6,0
+guris1,Guri,Sindrit,1993-10-23,ALB,19,9,A,15,3,12,2,  422,2,5,0,0,0,0,1,0
+hjulan,Hjulsager,Andrew,1995-01-15,DEN,19,17,A,19,16,3,2, 1273,5,2,0,0,0,0,6,0
 joncmi,Jonckheere,Michiel,1990-01-03,BEL,19,20,M,18,10,8,1,  933,4,8,0,0,0,0,2,0
 marqfr,Marquet,François,1995-04-17,BEL,19,8,M,7,3,4,1,  338,0,8,0,0,0,0,1,0
 milogo,Milović,Goran,1989-01-29,CRO,19,5,F,28,28,0,0, 2460,27,0,0,0,0,0,1,0
@@ -367,11 +367,11 @@ saneya,Sané,Yakhya,1989-08-04,SEN,19,19,F,5,4,1,0,  349,3,8,0,0,0,0,1,0
 schejo,Schelfhout,Jordy,2001-01-01,BEL,19,94,P,0,0,0,0,    0,0,2,0,0,0,0,0,0
 skular,Skúlason,Ari,1987-05-14,ISL,19,23,F,22,22,0,3, 1980,22,1,0,0,3,0,3,0
 syllid,Sylla,Idrissa,1990-12-03,GUI,19,24,A,17,11,6,2, 1064,6,4,0,0,0,0,1,0
-tangan,Tanghe,Anton,1999-01-28,BEL,19,33,M,1,0,1,0,   20,0,4,0,0,0,0,0,0
+tangan,Tanghe,Anton,1999-01-28,BEL,19,33,F,1,0,1,0,   20,0,4,0,0,0,0,0,0
 vandke,Vandendriessche,Kévin,1989-08-07,FRA,19,26,M,26,24,2,2, 2158,17,0,0,-1,0,0,4,0
 vargro,Vargas,Ronald,1986-12-02,VEN,19,16,M,18,10,8,3,  766,1,5,0,-1,0,0,1,1
 verslo,Verstraete,Louis,1999-05-04,BEL,19,13,M,4,3,1,0,  221,0,1,0,0,0,0,1,1
-allasa,Allagui,Sami,1986-05-28,TUN,144,9,A,12,10,2,2,  766,2,4,0,0,1,0,2,0
+allasa,Allagui,Sami,1986-05-28,TUN,144, , ,12,10,2,2,  766,2,4,0,0,1,0,2,0
 antone,Antonov,Nemanja,1995-05-06,SRB,144,3,F,17,5,12,2,  722,3,3,0,0,0,0,3,0
 atteza,Atteri,Zakaria,2001-02-15,BEL,144,25,A,1,0,1,0,   45,0,1,0,0,0,0,0,0
 bakima,Bakić,Marko,1993-11-01,MNT,144,10,M,13,8,5,0,  708,3,1,0,0,0,0,3,0
@@ -419,10 +419,11 @@ riddsd,De Ridder,Steve,1987-02-25,BEL,17,16,M,12,8,4,0,  652,2,2,0,0,0,0,3,0
 smettd,De Smet,Thibault,1998-06-05,BEL,17,28,F,12,12,0,0, 1043,10,8,0,0,0,0,4,0
 durkch,Durkin,Chris,2000-02-08,USA,17,32,M,13,10,3,1,  827,5,5,0,0,0,0,1,0
 endowa,Endo,Wataru,1993-02-09,JAP,17, , ,3,1,2,0,  151,1,0,0,0,0,0,0,0
+garcpo,García,Pol,1995-02-18,SPA,17,4,F,21,20,1,1, 1773,18,0,0,0,0,0,4,0
 herbti,Herbots,Tibo,2001-05-07,BEL,17,35,P,0,0,0,0,    0,0,28,0,0,0,0,0,0
 itoxta,Ito,Tatsuya,1997-06-26,JAP,17,23,A,7,0,7,0,  149,0,10,0,0,0,0,0,0
-janswo,Janssens,Wolke,1995-08-01,BEL,17,22,A,18,15,3,0, 1313,13,4,0,0,0,0,7,0
-konamo,Konaté,Mory,1993-01-01,GUI,17,24,F,2,2,0,1,  180,2,8,0,0,0,0,0,0
+janswo,Janssens,Wolke,1995-08-01,BEL,17,22,F,18,15,3,0, 1313,13,4,0,0,0,0,7,0
+konamo,Konaté,Mory,1993-01-01,GUI,17,24,M,2,2,0,1,  180,2,8,0,0,0,0,0,0
 lathsi,Lathouwers,Siebren,2000-08-11,BEL,17,74,F,0,0,0,0,    0,0,2,0,0,0,0,0,0
 leexsw,Lee,Seung-woo,1998-01-06,KOR,17,10,A,4,2,2,0,  223,1,5,0,0,0,0,1,0
 lucajh,Lucas,Jhonny,2000-02-21,BRA,17,33,M,0,0,0,0,    0,0,2,0,0,0,0,0,0
@@ -431,13 +432,12 @@ matsko,Matsubara,Ko,1996-08-30,JAP,17,2,F,1,1,0,0,   70,0,1,0,0,0,0,0,0
 mmaesa,Mmaee,Samy,1996-09-08,BEL,17,20,F,22,21,1,0, 1848,17,4,0,0,0,0,3,0
 nazodu,Nazon,Duckens,1994-04-07,HAI,17,90,A,1,0,1,0,   24,0,0,0,0,0,0,0,0
 nguycp,Nguyễn,Công Phượng,1995-01-21,VIE,17, , ,1,0,1,0,   21,0,3,0,0,0,0,0,0
-sankib,Sankhon,Ibrahima,1996-01-01,GUI,17,8,M,25,25,0,0, 2250,25,0,0,0,0,0,7,0
+sankib,Sankhon,Ibrahima,1996-01-01,GUI,17,8,F,25,25,0,0, 2250,25,0,0,0,0,0,7,0
 schmda,Schmidt,Daniel,1992-02-03,JAP,17,21,P,20,20,0,0, 1800,20,0,-37,0,0,0,3,0
 sousal,Sousa,Allan,1997-01-27,BRA,17,50,M,23,9,14,0,  895,2,4,0,0,0,0,2,0
 stepke,Steppe,Kenny,1988-11-14,BEL,17,1,P,9,9,0,0,  810,9,1,-13,0,0,0,0,0
 suzuyu,Suzuki,Yuma,1996-04-26,JAP,17,9,A,24,20,4,7, 1885,15,1,0,0,0,0,1,0
 teixjo,Teixeira,Jorge,1986-08-27,POR,17,26,F,8,8,0,1,  720,8,3,0,0,0,0,4,0
-tenaga,Tena,García,1995-02-18,SPA,17,4,F,21,20,1,1, 1773,18,0,0,0,0,0,4,0
 trooma,Troonbeeckx,Mathieu,1998-02-16,BEL,17,27,A,3,0,3,0,   36,0,6,0,0,0,0,0,0
 desssv,Van Dessel,Stan,2001-07-24,BEL,17,19,M,5,1,4,0,  121,0,12,0,0,0,0,0,0
 wensma,Wenssens,Maxime,2001-11-17,BEL,17,13,P,0,0,0,0,    0,0,2,0,0,0,0,0,0
@@ -473,7 +473,7 @@ raskni,Raskin,Nicolas,2001-02-23,BEL,2,26,M,2,1,1,0,   88,0,15,0,0,0,0,0,0
 sangha,Sangare,Hady,1998-11-15,MLI,2,37,F,0,0,0,0,    0,0,2,0,0,0,0,0,0
 shamed,Shamir,Eden,1995-06-25,ISR,2,15,M,3,2,1,0,  185,2,3,0,-1,0,0,0,0
 sissmo,Sissako,Moussa,2000-11-10,MLI,2,5,F,0,0,0,0,    0,0,5,0,0,0,0,0,0
-saxxor,Sá,Orlando,1988-05-26,POR,2,22,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
+saxxor,Sá,Orlando,1988-05-26,POR,2, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
 vanhzi,Vanheusden,Zinho,1999-07-29,BEL,2,3,F,20,20,0,1, 1741,18,1,0,0,0,0,3,2
 vojvme,Vojvoda,Mergim,1995-02-01,KOS,2,27,F,25,24,1,1, 2107,20,4,0,0,0,0,3,0
 copxdu,Čop,Duje,1990-02-01,CRO,2,7,A,12,5,7,1,  426,0,9,0,0,0,0,0,0
@@ -522,7 +522,7 @@ descol,Deschacht,Olivier,1981-02-16,BEL,11,45,F,24,24,0,0, 2070,22,0,0,0,0,0,5,1
 dompjl,Dompé,Jean-Luc,1995-08-12,FRA,11,17,A,6,2,4,0,  240,1,0,0,0,0,0,0,0
 goveom,Govea,Omar,1996-01-18,MEX,11,10,M,21,19,2,2, 1583,9,4,0,0,0,0,3,0
 humpca,Humphreys,Cameron,1998-08-22,ENG,11, , ,3,1,2,0,  165,1,8,0,0,0,0,0,0
-kenoni,Kenourgios,Nikolaos,1998-09-08,GRE,11,43,A,3,2,1,0,  153,1,9,0,0,0,0,0,0
+kainni,Kainourgios,Nikolaos,1998-09-08,GRE,11,43,F,3,2,1,0,  153,1,9,0,0,0,0,0,0
 laricy,Larin,Cyle,1995-04-17,CAN,11,9,A,29,28,1,7, 2491,24,0,0,0,0,0,2,0
 marcda,Marcq,Damien,1988-12-08,FRA,11,5,M,16,13,3,1, 1149,8,2,0,0,0,0,4,1
 mensgi,Mensah,Gideon,1998-07-18,GHA,11,4,F,19,19,0,0, 1675,17,1,0,0,0,0,6,0
@@ -532,7 +532,7 @@ seckib,Seck,Ibrahima,1989-08-10,SEN,11,21,M,21,21,0,2, 1841,19,0,0,0,0,0,4,0
 shalvi,Shala,Visar,2000-04-09,BEL,11, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
 sissab,Sissako,Abdoulaye,1998-05-26,FRA,11,6,M,20,14,6,1, 1266,10,3,0,0,0,0,2,0
 soismi,Soisalo,Mikael,1998-04-24,FIN,11, , ,2,0,2,0,   68,0,2,0,0,0,0,1,0
-srarba,Srarfi,Bassem,1997-06-25,TUN,11,11,M,4,0,4,0,   68,0,2,0,0,0,0,0,0
+srarba,Srarfi,Bassem,1997-06-25,TUN,11,11,A,4,0,4,0,   68,0,2,0,0,0,0,0,0
 thiema,Thiel,Maxime,2001-08-06,BEL,11,66,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
 timoge,Timotheou,George,1997-07-29,AUS,11, , ,1,0,1,0,   39,0,1,0,0,0,0,0,0
 heckjv,Van Hecke,Jannes,2002-01-15,BEL,11,67,M,2,1,1,0,   71,0,22,0,0,0,0,0,0

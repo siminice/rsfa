@@ -1,12 +1,13 @@
-25
+27
 akra00,norduralsvoellurinn-akranes
 akra01,akraneshoellin-akranes
 akur00,greifavoellurinn-akureyri
 akur01,thorsvoellur-akureyri
+dalv00,dalvikurvoellur-dalvik
 gard00,samsung-voellurinn-gardabaer
 grin00,mustad-voellurinn-grindavik
 hafn00,kaplakrikavoellur-hafnarfjoerdur
-kefl00,nettovoellurinn-keflavik
+kefl00,hs-orku-voellurinn-keflavik
 kopa00,kopavogsvoellur-kopavogur
 kopa01,korinn-kopavogur
 njar00,njardtaksvoellurinn-njardvik
@@ -21,6 +22,7 @@ reyk06,eimskipsvoellurinn-reykjavik
 reyk07,egilshoell-reykjavik
 reyk08,leiknisvoellur-reykjavik
 reyk09,gervigrasvoellur-laugardal-reykjavik
+reyk12,domusnovavoellurinn-reykjavik
 self00,javerk-voellurinn-selfoss
 selt00,vivaldivoellurinn-seltjarnarnes
 vest00,hasteinsvoellur-vestmannaeyjar

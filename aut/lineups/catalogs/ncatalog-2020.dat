@@ -1,321 +1,379 @@
-aiwuem,Aiwu,Emanuel,2000-12-25,AUT,8,27,F,12,11,1,0,  939,10,0,0,0,0,0,5,0
-bakisi,Bakış,Sinan,1994-04-22,TUR,8,11,A,17,15,2,10, 1266,8,0,0,0,1,0,3,0
-bauese,Bauer,Sebastian,1992-11-07,AUT,8,4,F,8,7,1,0,  614,6,3,0,0,0,0,2,0
-cmilbo,Cmiljanić,Boris,1996-03-17,MNT,8,9,A,8,4,4,1,  408,1,2,0,0,0,0,2,0
-haasch,Haas,Christoph,1992-07-23,AUT,8,30,P,0,0,0,0,    0,0,18,0,0,0,0,0,0
-hjulmo,Hjulmand,Morten,1999-06-25,DEN,8,14,M,17,17,0,1, 1461,15,0,0,0,0,0,8,0
-hoffer,Hoffer,Erwin,1987-04-14,AUT,8,16,A,11,1,10,1,  303,0,3,0,0,0,0,0,0
-kadlma,Kadlec,Marco,2000-02-28,AUT,8,20,M,8,3,5,1,  287,1,5,0,0,0,0,0,0
-kersro,Kerschbaum,Roman,1994-07-19,AUT,8,8,M,17,16,1,0, 1362,10,0,0,0,0,0,4,1
-lackma,Lackner,Markus,1991-04-05,AUT,8,18,M,13,13,0,0, 1144,11,0,0,0,0,0,1,0
-leitan,Leitner,Andreas,1994-03-25,AUT,8,1,P,18,18,0,0, 1620,18,0,-38,0,0,0,1,0
-lukale,Lukačević,Leonardo,1999-01-21,AUT,8,37,F,15,15,0,0, 1334,14,3,0,0,0,0,4,0
-maiem2,Maier,Marcus,1995-12-18,AUT,8,22,M,11,9,2,0,  805,3,5,0,0,0,0,2,0
-menifa,Menig,Fabian,1994-02-26,GER,8,55,F,16,16,0,0, 1440,16,1,0,0,0,0,5,0
-painse,Paintsil,Seth,1996-05-20,GHA,8,21,A,14,5,9,0,  504,2,4,0,0,0,0,1,0
-petlpa,Petlach,Pascal,1999-01-18,AUT,8,23,F,3,0,3,0,   28,0,6,0,0,0,0,0,0
-puscko,Pusch,Kolja,1993-02-12,GER,8,31,M,9,9,0,2,  783,3,0,0,0,0,0,1,0
-saramc,Saracevic,Muhammed-Cham,2000-09-26,AUT,8,29,M,9,6,3,0,  493,1,3,0,0,0,0,0,0
+aiwuem,Aiwu,Emanuel,2000-12-25,AUT,8,27,F,26,25,1,0, 2199,24,0,0,0,0,0,7,0
+babuon,Babuscu,Onurhan,2003-09-05,AUT,8,39,M,2,0,2,0,   58,0,1,0,0,0,0,0,0
+bakisi,Bakış,Sinan,1994-04-22,TUR,8,11,A,25,22,3,12, 1860,12,0,0,0,1,0,5,0
+bauese,Bauer,Sebastian,1992-11-07,AUT,8,4,F,19,18,1,0, 1534,15,4,0,0,0,0,5,0
+cmilbo,Cmiljanić,Boris,1996-03-17,MNT,8, , ,8,4,4,1,  408,1,2,0,0,0,0,2,0
+haasch,Haas,Christoph,1992-07-23,AUT,8,30,P,0,0,0,0,    0,0,32,0,0,0,0,0,0
+hjulmo,Hjulmand,Morten,1999-06-25,DEN,8,14,M,30,27,3,1, 2348,21,0,0,0,0,0,11,0
+hoffer,Hoffer,Erwin,1987-04-14,AUT,8,16,A,25,10,15,2, 1136,2,3,0,0,1,0,1,0
+kadlma,Kadlec,Marco,2000-02-28,AUT,8,20,M,18,8,10,1,  801,3,8,0,0,0,0,2,0
+kersro,Kerschbaum,Roman,1994-07-19,AUT,8,8,M,29,28,1,3, 2323,17,0,0,0,0,0,11,1
+kimxjm,Kim,Jung-min,1999-11-13,KOR,8,17,M,3,1,2,0,  109,0,0,0,0,0,0,0,0
+lackma,Lackner,Markus,1991-04-05,AUT,8,18,M,27,25,2,1, 2249,22,0,0,0,0,0,2,0
+leitan,Leitner,Andreas,1994-03-25,AUT,8,1,P,32,32,0,0, 2880,32,0,-57,0,0,0,2,0
+lukale,Lukačević,Leonardo,1999-01-21,AUT,8,37,F,19,17,2,0, 1583,16,6,0,0,0,0,4,0
+maiem2,Maier,Marcus,1995-12-18,AUT,8,22,M,17,14,3,0, 1258,8,8,0,0,0,0,6,0
+menifa,Menig,Fabian,1994-02-26,GER,8,55,F,16,16,0,0, 1440,16,5,0,0,0,0,5,0
+painse,Paintsil,Seth,1996-05-20,GHA,8,21,A,22,9,13,0,  890,2,4,0,0,0,0,2,0
+pavema,Pavelić,Mario,1993-09-19,AUT,8,25,F,14,11,3,1,  904,5,0,0,0,0,0,1,0
+petlpa,Petlach,Pascal,1999-01-18,AUT,8,23,F,8,3,5,1,  295,2,9,0,0,0,0,1,0
+pinkma,Pink,Markus,1991-02-24,AUT,8,13,A,10,5,5,1,  481,2,2,0,0,0,0,1,0
+puscko,Pusch,Kolja,1993-02-12,GER,8,31,M,17,15,2,3, 1290,3,0,0,-1,1,0,3,0
+saramc,Saracevic,Muhammed-Cham,2000-09-26,AUT,8,29,M,16,7,9,0,  712,1,6,0,0,0,0,0,0
+schejo,Scherzer,Jonathan,1995-07-22,AUT,8,26,M,8,7,1,0,  562,5,0,0,-1,0,0,2,0
 schmpa,Schmidt,Patrick,1998-07-22,AUT,8, , ,2,2,0,0,  180,2,0,0,0,0,0,0,0
-schoc1,Schösswendter,Christoph,1988-07-16,AUT,8,6,F,15,15,0,1, 1344,14,0,0,0,0,0,3,0
+schoc1,Schösswendter,Christoph,1988-07-16,AUT,8,6,F,25,25,0,1, 2244,24,0,0,0,0,0,6,0
 spasmi,Spasić,Miloš,1998-01-29,SRB,8,3,F,4,4,0,0,  341,3,6,0,0,0,0,0,0
-stardo,Starkl,Dominik,1993-11-06,AUT,8,7,A,9,4,5,0,  439,1,3,0,0,0,0,2,0
+stardo,Starkl,Dominik,1993-11-06,AUT,8,7,A,10,5,5,0,  495,1,4,0,0,0,0,2,0
 strafa,Strauss,Fabio,1994-08-06,AUT,8,2,F,4,3,1,0,  271,3,4,0,0,0,0,1,0
-tothda,Toth,Daniel,1987-06-10,AUT,8,10,M,9,4,5,0,  366,2,5,0,0,0,0,2,0
+thoebj,Thoelke,Bjarne,1992-04-11,GER,8,5,F,3,1,2,0,  102,1,2,0,0,0,0,0,0
+tothda,Toth,Daniel,1987-06-10,AUT,8,10,M,16,7,9,1,  639,3,11,0,0,0,0,5,0
 vorswi,Vorsager,Wilhelm,1997-06-29,AUT,8,19,M,2,1,1,0,   53,0,1,0,0,0,0,0,0
 cirkal,Ćirković,Aleksandar,2001-09-21,SRB,8,38,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
-andean,Anderson, ,1998-01-03,BRA,30,28,F,12,11,1,0,  920,7,3,0,0,0,0,4,0
-berime,Berisha,Mërgim,1998-05-11,KOS,30,37,A,17,15,2,7, 1415,15,0,0,0,2,0,4,0
-casaal,Casar,Aljaz,2000-09-17,SLO,30,23,M,3,0,3,0,   44,0,6,0,0,0,0,0,0
+andean,Anderson, ,1998-01-03,BRA,30,28,F,19,17,2,0, 1354,9,8,0,0,0,0,6,0
+berime,Berisha,Mërgim,1998-05-11,KOS,30, , ,17,15,2,7, 1415,15,0,0,0,2,0,4,0
+casaal,Casar,Aljaz,2000-09-17,SLO,30,23,M,3,0,3,0,   44,0,8,0,0,0,0,0,0
+dababe,Dabanlı,Berkay,1990-06-27,GER,30,2,F,12,12,0,0, 1020,10,0,0,0,0,0,5,0
 diakou,Diakité,Ousmane,2000-07-25,MLI,30,12,M,9,9,0,0,  739,8,0,0,0,0,0,2,0
-durare,Durakovic,Reuf,1994-03-21,AUT,30,33,P,2,2,0,0,  180,2,15,-9,0,0,0,0,0
-fiscma,Fischer,Manfred,1995-08-06,AUT,30,30,M,15,14,1,3, 1274,10,0,0,0,0,0,2,0
-gebach,Gebauer,Christian,1993-12-20,AUT,30,7,M,17,15,2,4, 1260,8,0,0,0,0,0,1,0
-gouesa,Gouet,Samuel,1997-12-14,CMR,30,4,M,17,15,2,1, 1224,10,0,0,0,0,0,1,0
-gschbe,Gschweidl,Bernd,1995-09-08,AUT,30,9,A,6,0,6,0,  105,0,7,0,0,0,0,0,0
-jamnfl,Jamnig,Florian,1990-11-03,AUT,30,17,M,11,5,6,1,  486,1,4,0,0,0,0,0,0
-kariem,Karic,Emir,1997-06-09,AUT,30,19,F,15,15,0,1, 1350,15,0,0,0,0,0,2,0
-kobrma,Kobras,Martin,1986-06-19,AUT,30,1,P,16,16,0,0, 1434,15,0,-29,0,0,0,0,1
-maakma,Maak,Matthias,1992-05-12,AUT,30,31,F,11,7,4,1,  624,5,5,0,0,0,0,1,1
-meilma,Meilinger,Marco,1991-08-03,AUT,30,11,M,4,4,0,0,  312,1,0,0,0,0,0,0,0
-maetle,Mätzler,Leo,2002-04-17,AUT,30,21,F,0,0,0,0,    0,0,2,0,0,0,0,0,0
-netzph,Netzer,Philipp,1985-10-02,AUT,30,5,F,2,2,0,0,  180,2,0,0,0,0,0,0,0
-nussla,Nussbaumer,Lars,2001-01-31,AUT,30,13,M,8,5,3,0,  582,5,5,0,0,0,0,2,0
-nussda,Nussbaumer,Daniel,1999-11-29,AUT,30,26,M,3,1,2,0,   73,0,2,0,0,0,0,1,0
-ozegbe,Ožegović,Benjamin,1999-08-09,AUT,30,24,P,0,0,0,0,    0,0,4,0,0,0,0,0,0
-pangfr,Pangop,Frantz,1993-05-18,CMR,30,27,A,5,0,5,1,  107,0,5,0,0,0,0,0,0
-puscma,Puschl,Matthias,1996-06-09,AUT,30,8,M,3,2,1,0,  154,0,4,0,0,0,0,1,0
-samxsi,Sam,Sidney,1988-01-31,GER,30,10,M,7,5,2,2,  496,2,2,0,0,0,0,1,0
-schmph,Schmiedl,Philipp,1997-07-23,AUT,30,6,F,7,6,1,1,  588,6,5,0,0,0,0,3,0
-schrem,Schreiner,Emanuel,1989-02-02,AUT,30,16,F,14,11,3,2, 1005,8,4,0,-1,0,0,3,0
-tartjo,Tartarotti,Johannes,1999-08-02,AUT,30,20,M,12,9,3,1,  738,3,2,0,0,0,0,1,0
-thurma,Thurnwald,Manuel,1998-07-16,AUT,30,34,F,15,14,1,0, 1173,10,2,0,0,0,0,5,0
-zwisja,Zwischenbrugger,Jan,1990-06-16,AUT,30,18,F,15,15,0,3, 1350,15,0,0,0,0,0,4,0
-borkal,Borković,Alexandar,1999-06-11,AUT,0,24,F,7,7,0,0,  630,7,0,0,0,0,0,0,0
-demave,Demaku,Vesel,2000-02-05,AUT,0,5,M,4,2,2,0,  229,2,6,0,0,0,0,0,0
-ebneth,Ebner,Thomas,1992-02-22,AUT,0,27,M,13,10,3,0,  810,7,4,0,-1,0,0,2,0
-edombr,Edomwonyi,Bright,1994-07-24,NGR,0,20,A,14,2,12,0,  270,1,3,0,0,0,0,3,0
-fitzdo,Fitz,Dominik,1999-06-16,AUT,0,36,M,14,12,2,1,  989,5,2,0,0,0,0,3,0
-gruea1,Grünwald,Alexander,1989-05-01,AUT,0,10,M,17,16,1,5, 1479,15,0,0,0,0,0,4,0
+durare,Durakovic,Reuf,1994-03-21,AUT,30,33,P,2,2,0,0,  180,2,18,-9,0,0,0,0,0
+fiscma,Fischer,Manfred,1995-08-06,AUT,30,30,M,26,19,7,3, 1867,14,1,0,0,0,0,3,0
+gebach,Gebauer,Christian,1993-12-20,AUT,30,7,M,31,26,5,5, 2230,14,0,0,0,0,0,1,0
+gouesa,Gouet,Samuel,1997-12-14,CMR,30,4,M,29,23,6,1, 2004,14,0,0,0,0,0,2,0
+gschbe,Gschweidl,Bernd,1995-09-08,AUT,30, , ,6,0,6,0,  105,0,7,0,0,0,0,0,0
+jamnfl,Jamnig,Florian,1990-11-03,AUT,30,17,M,11,5,6,1,  486,1,5,0,0,0,0,0,0
+kariem,Karic,Emir,1997-06-09,AUT,30,19,F,27,27,0,1, 2275,23,0,0,0,0,0,3,0
+kobrma,Kobras,Martin,1986-06-19,AUT,30,1,P,29,29,0,0, 2522,27,0,-41,0,0,0,0,2
+maakma,Maak,Matthias,1992-05-12,AUT,30,31,F,16,8,8,1,  750,6,13,0,0,0,0,1,1
+meilma,Meilinger,Marco,1991-08-03,AUT,30,11,M,13,9,4,0,  754,1,1,0,0,0,0,1,0
+maetle,Mätzler,Leo,2002-04-17,AUT,30,21,F,0,0,0,0,    0,0,3,0,0,0,0,0,0
+netzph,Netzer,Philipp,1985-10-02,AUT,30,5,F,3,3,0,0,  234,2,0,0,0,0,0,0,0
+nussda,Nussbaumer,Daniel,1999-11-29,AUT,30,26,A,17,8,9,4,  828,5,2,0,0,0,0,3,0
+nussla,Nussbaumer,Lars,2001-01-31,AUT,30,13,M,10,6,4,0,  695,6,9,0,0,0,0,2,0
+ozegbe,Ožegović,Benjamin,1999-08-09,AUT,30,24,P,2,1,1,0,  171,1,16,-1,0,0,0,0,0
+pangfr,Pangop,Frantz,1993-05-18,CMR,30,27,A,7,1,6,1,  193,0,6,0,0,0,0,0,0
+puscma,Puschl,Matthias,1996-06-09,AUT,30, , ,3,2,1,0,  154,0,4,0,0,0,0,1,0
+samxsi,Sam,Sidney,1988-01-31,GER,30,10,M,21,16,5,6, 1423,8,2,0,0,0,0,2,0
+schmph,Schmiedl,Philipp,1997-07-23,AUT,30,6,F,21,18,3,1, 1707,17,5,0,0,0,0,4,0
+schrem,Schreiner,Emanuel,1989-02-02,AUT,30,16,F,25,21,4,5, 1696,10,4,0,-1,0,0,7,0
+tartjo,Tartarotti,Johannes,1999-08-02,AUT,30,20,M,26,21,5,2, 1737,9,2,0,0,0,0,4,0
+thurma,Thurnwald,Manuel,1998-07-16,AUT,30,34,F,27,22,5,0, 2004,16,2,0,0,0,0,6,0
+villju,Villalba,Julio,1998-09-17,PAR,30,29,A,8,1,7,0,  202,1,2,0,0,0,0,1,0
+wissal,Wiss,Alain,1990-08-21,SUI,30,15,M,9,7,2,0,  561,5,0,0,0,0,0,3,0
+zwisja,Zwischenbrugger,Jan,1990-06-16,AUT,30,18,F,26,24,2,5, 2241,22,1,0,0,0,0,7,0
+borkal,Borković,Alexandar,1999-06-11,AUT,0,24,F,19,15,4,0, 1409,14,1,0,0,0,0,0,0
+demave,Demaku,Vesel,2000-02-05,AUT,0,5,M,9,5,4,0,  492,3,6,0,0,0,0,1,0
+ebneth,Ebner,Thomas,1992-02-22,AUT,0,27,M,22,16,6,0, 1429,10,7,0,-1,0,0,3,0
+edombr,Edomwonyi,Bright,1994-07-24,NGR,0,20,A,25,4,21,2,  555,1,6,0,0,0,0,3,0
+fitzdo,Fitz,Dominik,1999-06-16,AUT,0,36,M,25,23,2,4, 1849,8,2,0,0,0,0,3,0
+gruea1,Grünwald,Alexander,1989-05-01,AUT,0,10,M,29,26,3,7, 2323,19,0,0,0,0,0,7,0
+hahnni,Hahn,Niels,2001-05-24,AUT,0,6,M,1,0,1,0,   16,0,0,0,0,0,0,0,0
 handjo,Handl,Johannes,1996-05-07,AUT,0,46,F,4,3,1,0,  272,2,0,0,0,0,0,1,0
-jeggja,Jeggo,James,1992-02-12,AUS,0,4,M,15,12,3,0, 1141,8,2,0,-1,0,0,3,0
-kleifl,Klein,Florian,1986-11-17,AUT,0,17,F,17,17,0,0, 1513,15,1,0,-1,0,0,2,0
-lucii1,Lučić,Ivan,1995-03-23,AUT,0,13,P,18,18,0,0, 1620,18,0,-32,0,0,0,1,0
-madlmi,Madl,Michael,1988-03-21,AUT,0,30,F,11,11,0,0,  930,9,0,0,0,0,0,4,0
-martch,Martschinko,Christoph,1994-02-13,AUT,0,28,F,9,9,0,0,  810,9,8,0,0,0,0,2,0
-maudma,Maudo, ,1997-09-30,GBS,0,3,F,3,3,0,0,  218,2,4,0,0,0,0,1,0
-monsch,Monschein,Christoph,1992-10-22,AUT,0,14,A,18,18,0,13, 1571,11,0,0,0,0,0,3,0
-browep,Palmer-Brown,Erik,1997-04-24,USA,0,23,F,11,11,0,0,  919,8,1,0,0,0,0,0,1
-pentpa,Pentz,Patrick,1997-01-02,AUT,0,32,P,0,0,0,0,    0,0,18,0,0,0,0,0,0
-pichbe,Pichler,Benedikt,1997-07-20,AUT,0,11,M,3,2,1,2,  180,0,1,0,0,0,0,0,0
-prokdo,Prokop,Dominik,1997-06-02,AUT,0,16,M,11,5,6,0,  536,2,4,0,0,0,0,2,0
-sarkma,Sarkaria,Manprit,1996-08-26,AUT,0,39,M,8,5,3,1,  493,3,1,0,0,0,0,1,0
-saxxma,Sax,Maximilian,1992-11-22,AUT,0,7,M,11,6,5,0,  518,0,1,0,0,0,0,5,0
-serbta,Serbest,Tarkan,1994-05-02,TUR,0,15,M,15,13,2,0, 1156,10,2,0,-1,0,0,2,0
-turgal,Turgeman,Alon,1991-06-09,ISR,0,26,A,8,3,5,3,  351,0,6,0,0,0,0,1,0
-wimmpa,Wimmer,Patrick,2001-05-30,AUT,0,9,M,2,1,1,0,   70,0,0,0,0,0,0,0,0
-yatest,Yateke,Sterling,1999-09-15,CFA,0,19,A,3,0,3,0,   35,0,0,0,0,0,0,0,0
-zwiest,Zwierschitz,Stephan,1990-09-17,AUT,0,8,F,8,6,2,0,  561,6,4,0,0,0,0,1,0
-cavlca,Çavlan,Caner,1992-02-05,NED,0,22,F,6,6,0,0,  504,5,6,0,0,0,0,1,0
-cancda,Cancola,David,1996-10-23,AUT,54,18,M,16,15,1,1, 1253,9,0,0,0,0,0,6,1
-dantam,Dante,Amadou,2000-10-07,MLI,54,1,F,0,0,0,0,    0,0,2,0,0,0,0,0,0
-dossjo,Dossou,Jodel,1992-03-17,BEN,54,20,M,16,11,5,4,  976,2,0,0,0,0,0,3,0
-faisfl,Faist,Florian,1989-04-10,AUT,54,21,P,1,1,0,0,   90,1,9,-3,0,0,0,0,0
-gabblu,Gabbichler,Lukas,1998-05-12,AUT,54,11,M,3,0,3,0,   47,0,5,0,0,0,0,0,0
+jeggja,Jeggo,James,1992-02-12,AUS,0,4,M,27,21,6,0, 1996,17,3,0,-1,0,0,5,0
+jukial,Jukić,Aleksandar,2000-07-26,AUT,0,77,M,1,1,0,0,   74,0,0,0,0,0,0,0,0
+kleifl,Klein,Florian,1986-11-17,AUT,0,17,F,29,28,1,0, 2544,24,1,0,-1,0,0,2,1
+kosxmi,Kos,Mirko,1997-04-12,AUT,0,99,P,1,1,0,0,   90,1,11,0,0,0,0,0,0
+lucii1,Lučić,Ivan,1995-03-23,AUT,0,13,P,18,18,0,0, 1620,18,2,-32,0,0,0,1,0
+madlmi,Madl,Michael,1988-03-21,AUT,0,30,F,24,23,1,0, 1790,15,0,0,0,0,0,8,0
+martch,Martschinko,Christoph,1994-02-13,AUT,0,28,F,13,13,0,0, 1159,12,13,0,0,0,0,3,0
+maudma,Maudo, ,1997-09-30,GBS,0,3,F,6,4,2,0,  355,3,7,0,0,0,0,1,0
+mestcs,Mester,Csaba,2002-08-12,HUN,0,19,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
+monsch,Monschein,Christoph,1992-10-22,AUT,0,14,A,32,30,2,17, 2552,16,0,0,0,1,0,4,0
+browep,Palmer-Brown,Erik,1997-04-24,USA,0,23,F,22,19,3,2, 1774,16,1,0,-1,0,0,2,1
+pentpa,Pentz,Patrick,1997-01-02,AUT,0,32,P,13,13,0,0, 1170,13,19,-16,0,0,0,1,0
+pichbe,Pichler,Benedikt,1997-07-20,AUT,0,11,A,16,9,7,4,  775,1,1,0,0,0,0,0,0
+poulan,Poulsen,Andreas,1999-10-13,DEN,0,2,F,5,5,0,0,  396,4,0,0,0,0,0,0,0
+prokdo,Prokop,Dominik,1997-06-02,AUT,0,16,M,15,7,8,0,  712,3,7,0,0,0,0,3,0
+sarkma,Sarkaria,Manprit,1996-08-26,AUT,0,39,M,21,18,3,4, 1549,11,1,0,0,0,0,4,0
+saxxma,Sax,Maximilian,1992-11-22,AUT,0,7,M,21,10,11,2,  846,0,3,0,0,0,0,5,1
+serbta,Serbest,Tarkan,1994-05-02,TUR,0, , ,15,13,2,0, 1156,10,2,0,-1,0,0,2,0
+turgal,Turgeman,Alon,1991-06-09,ISR,0, , ,8,3,5,3,  351,0,6,0,0,0,0,1,0
+wimmpa,Wimmer,Patrick,2001-05-30,AUT,0,9,M,16,4,12,0,  581,1,0,0,0,0,0,2,0
+yatest,Yateke,Sterling,1999-09-15,CFA,0, , ,3,0,3,0,   35,0,0,0,0,0,0,0,0
+zwiest,Zwierschitz,Stephan,1990-09-17,AUT,0,8,F,15,13,2,1, 1185,12,8,0,0,0,0,1,0
+cavlca,Çavlan,Caner,1992-02-05,NED,0,22,F,7,7,0,0,  549,5,6,0,0,0,0,1,0
+cancda,Cancola,David,1996-10-23,AUT,54,18,M,28,22,6,1, 1952,13,0,0,0,0,0,8,2
+dantam,Dante,Amadou,2000-10-07,MLI,54,22,F,8,7,1,1,  615,4,2,0,0,0,0,1,0
+dossjo,Dossou,Jodel,1992-03-17,BEN,54,20,M,29,17,12,6, 1720,4,0,0,0,0,0,3,0
+faisfl,Faist,Florian,1989-04-10,AUT,54,21,P,1,1,0,0,   90,1,16,-3,0,0,0,0,0
+gabblu,Gabbichler,Lukas,1998-05-12,AUT,54,11,M,12,5,7,1,  420,2,8,0,0,0,0,1,0
 gabbl1,Gabblicher,Lukas,0000-00-00,AUT,54, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
-gotasa,Gotal,Sandro,1991-09-09,AUT,54,40,A,7,2,5,0,  181,0,3,0,0,0,0,0,0
-heilju,Heil,Jürgen,1997-04-04,AUT,54,28,M,13,6,7,0,  739,4,4,0,0,0,0,4,0
-hubemi,Huber,Michael,1990-01-14,AUT,54,4,F,18,18,0,2, 1620,18,0,0,0,0,0,2,0
-kainto,Kainz,Tobias,1992-10-31,AUT,54,23,F,15,11,4,1, 1131,11,3,0,0,0,0,3,0
-klemch,Klem,Christian,1991-04-21,AUT,54,14,F,17,17,0,0, 1446,16,0,0,-1,0,0,5,0
-kroech,Kröpfl,Christoph,1990-05-04,AUT,54,8,A,1,0,1,0,    1,0,1,0,0,0,0,0,0
-koepni,Köpf,Nino,2000-02-27,AUT,54,16,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
-lienan,Lienhart,Andreas,1986-01-28,AUT,54,6,F,13,13,0,2, 1066,10,0,0,0,0,0,3,0
-luckfe,Luckeneder,Felix,1994-03-21,AUT,54,32,F,16,16,0,1, 1413,15,0,0,0,0,0,1,1
-nimaba,Nimaga,Bakary,1994-12-06,MLI,54,42,M,12,11,1,1,  910,8,0,0,0,0,0,6,0
-oberpa,Obermüller,Patrick,1999-02-17,AUT,54,26,F,4,3,1,0,  354,3,7,0,0,0,0,0,0
-ostrto,Ostrák,Tomáš,2000-02-05,CZE,54,19,M,9,4,5,1,  332,0,7,0,0,0,0,0,0
-rakost,Rakowitz,Stefan,1990-04-03,AUT,54,10,M,12,10,2,2,  704,2,1,0,0,0,0,1,0
-rasssi,Rasswalder,Siegfried,1987-05-13,AUT,54,7,F,3,2,1,0,   93,0,8,0,0,0,0,0,1
-repxra,Rep,Rajko,1990-06-20,SLO,54,9,A,17,17,0,5, 1484,15,0,0,0,0,0,5,0
-riedlu,Ried,Lukas,1995-10-10,AUT,54,27,M,14,7,7,0,  756,2,3,0,0,0,0,2,0
-rottth,Rotter,Thomas,1992-01-27,AUT,54,31,F,8,1,7,1,  173,1,7,0,0,0,0,0,0
-sallra,Sallinger,Raphael,1995-12-08,AUT,54,35,P,0,0,0,0,    0,0,9,0,0,0,0,0,0
-scham2,Schantl,Marcel,2000-08-17,AUT,54,15,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
-susits,Sušić,Tino-Sven,1992-02-13,BOS,54,5,M,2,1,1,0,   86,0,1,0,0,0,0,0,0
-swetre,Swete,Rene,1990-06-01,AUT,54,1,P,17,17,0,0, 1530,17,0,-34,0,0,0,4,0
-tadida,Tadić,Dario,1990-05-11,AUT,54,24,A,17,15,2,11, 1328,8,0,0,0,3,0,0,0
-andran,Andrade,Andrés,1998-10-16,PAN,6,30,F,1,1,0,0,   90,1,0,0,0,0,0,0,0
-celine,Celic,Nemanja,1999-04-26,AUT,6,43,M,1,1,0,0,   90,1,0,0,0,0,0,1,0
-filipe,Filipović,Petar,1990-09-14,GER,6,5,F,9,9,0,2,  721,6,0,0,-1,0,0,0,1
-fried1,Frieser,Dominik,1993-09-09,AUT,6,28,M,18,15,3,3, 1212,6,0,0,0,0,0,2,0
-gebath,Gebauer,Thomas,1982-06-30,AUT,6,36,P,0,0,0,0,    0,0,17,0,0,0,0,0,0
-goigth,Goiginger,Thomas,1993-03-15,AUT,6,27,M,15,12,3,5, 1019,2,0,0,0,0,0,2,1
-haudst,Haudum,Stefan,1994-11-27,AUT,6,23,M,4,2,2,0,  197,1,11,0,0,0,0,0,0
-hollja,Holland,James,1989-05-15,AUS,6,25,M,17,16,1,1, 1401,13,0,0,0,0,0,5,0
-klaujo,Klauss, ,1997-03-01,BRA,6,9,A,14,9,5,4,  875,3,3,0,0,1,0,1,0
+gotasa,Gotal,Sandro,1991-09-09,AUT,54, , ,9,2,7,0,  203,0,5,0,0,0,0,1,0
+heilju,Heil,Jürgen,1997-04-04,AUT,54,28,M,22,13,9,0, 1169,6,4,0,0,0,0,7,0
+hubemi,Huber,Michael,1990-01-14,AUT,54,4,F,31,27,4,2, 2466,27,1,0,0,0,0,4,0
+kainto,Kainz,Tobias,1992-10-31,AUT,54,23,F,28,21,7,2, 2058,15,3,0,0,0,0,4,0
+kirndo,Kirnbauer,Dominik,2002-08-28,AUT,54,43,F,2,0,2,0,   75,0,0,0,0,0,0,0,0
+klemch,Klem,Christian,1991-04-21,AUT,54,14,F,30,30,0,1, 2434,22,0,0,-1,0,0,6,0
+kroech,Kröpfl,Christoph,1990-05-04,AUT,54,8,A,10,3,7,0,  304,1,4,0,0,0,0,0,0
+koepni,Köpf,Nino,2000-02-27,AUT,54, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
+lemamj,Lema,Michael John,1999-09-13,AUT,54,37,M,2,1,1,0,   61,0,0,0,0,0,0,0,0
+lienan,Lienhart,Andreas,1986-01-28,AUT,54,6,F,21,17,4,3, 1544,13,0,0,0,0,0,4,0
+luckfe,Luckeneder,Felix,1994-03-21,AUT,54,32,F,29,29,0,2, 2535,26,0,0,-1,0,0,2,1
+nimaba,Nimaga,Bakary,1994-12-06,MLI,54,42,M,23,22,1,1, 1723,13,0,0,0,0,0,11,0
+oberpa,Obermüller,Patrick,1999-02-17,AUT,54, , ,4,3,1,0,  354,3,7,0,0,0,0,0,0
+ostrto,Ostrák,Tomáš,2000-02-05,CZE,54,19,M,11,4,7,1,  385,0,10,0,0,0,0,0,0
+rakost,Rakowitz,Stefan,1990-04-03,AUT,54,10,M,12,10,2,2,  704,2,2,0,0,0,0,1,0
+rasssi,Rasswalder,Siegfried,1987-05-13,AUT,54,7,F,9,3,6,0,  334,1,10,0,0,0,0,1,1
+repxra,Rep,Rajko,1990-06-20,SLO,54,9,A,31,31,0,8, 2638,25,0,0,0,0,0,8,0
+riedlu,Ried,Lukas,1995-10-10,AUT,54,27,M,25,13,12,1, 1380,3,3,0,0,0,0,5,0
+rottth,Rotter,Thomas,1992-01-27,AUT,54,31,F,18,8,10,1,  876,7,11,0,0,0,0,2,0
+sallra,Sallinger,Raphael,1995-12-08,AUT,54,35,P,1,1,0,0,   90,1,16,-3,0,0,0,0,0
+scham2,Schantl,Marcel,2000-08-17,AUT,54,15,M,2,1,1,0,   92,0,2,0,0,0,0,0,0
+susits,Sušić,Tino-Sven,1992-02-13,BOS,54, , ,2,1,1,0,   86,0,1,0,0,0,0,0,0
+swetre,Swete,Rene,1990-06-01,AUT,54,1,P,30,30,0,0, 2700,30,0,-68,0,0,0,4,0
+tadida,Tadić,Dario,1990-05-11,AUT,54,24,A,30,26,4,17, 2220,12,1,0,0,4,0,1,0
+tschpe,Tschernegg,Peter,1992-07-23,AUT,54,29,M,7,4,3,0,  286,2,0,0,0,0,0,0,0
+andran,Andrade,Andrés,1998-10-16,PAN,6,30,F,10,4,6,0,  467,3,0,0,-1,0,0,3,0
+balihu,Balic,Husein,1996-02-15,BOS,6,14,A,11,8,3,3,  611,2,0,0,0,0,0,2,0
+celine,Celic,Nemanja,1999-04-26,AUT,6,43,M,1,1,0,0,   90,1,3,0,0,0,0,1,0
+filipe,Filipović,Petar,1990-09-14,GER,6,5,F,21,19,2,2, 1444,7,0,0,-1,0,0,5,1
+fried1,Frieser,Dominik,1993-09-09,AUT,6,28,M,30,26,4,8, 2130,9,1,0,0,1,0,2,0
+gebath,Gebauer,Thomas,1982-06-30,AUT,6,36,P,0,0,0,0,    0,0,31,0,0,0,0,0,0
+goigth,Goiginger,Thomas,1993-03-15,AUT,6,27,M,19,14,5,5, 1162,3,0,0,0,0,0,2,1
+haudst,Haudum,Stefan,1994-11-27,AUT,6,23,M,10,5,5,1,  527,4,19,0,0,0,0,1,0
+hollja,Holland,James,1989-05-15,AUS,6,25,M,29,28,1,2, 2466,23,1,0,0,0,0,8,0
+klaujo,Klauss, ,1997-03-01,BRA,6,9,A,28,15,13,12, 1494,5,3,0,0,1,0,1,0
 lawato,Lawal,Tobias,2000-06-07,AUT,6,24,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
-michpe,Michorl,Peter,1995-05-09,AUT,6,8,M,17,16,1,2, 1443,15,0,0,0,0,0,4,0
-muelva,Müller,Valentino,1999-01-19,AUT,6,19,M,4,3,1,1,  280,3,8,0,0,0,0,0,0
-otubyu,Otubanjo,Yusuf,1992-09-12,NGR,6,14,A,2,0,2,0,   51,0,6,0,0,0,0,0,0
-pogaem,Pogatetz,Emanuel,1983-01-16,AUT,6,4,F,5,1,4,0,  193,1,5,0,0,0,0,0,0
-potzma,Potzmann,Marvin,1993-12-07,AUT,6,16,F,13,7,6,1,  745,5,1,0,0,0,0,0,0
-raguma,Raguž,Marko,1998-06-10,AUT,6,29,A,15,9,6,4,  788,5,3,0,0,0,0,0,0
-ramsch,Ramsebner,Christian,1989-03-26,AUT,6,15,F,2,2,0,1,  162,1,0,0,0,0,0,0,0
-ranfre,Ranftl,Reinhold,1992-01-24,AUT,6,26,F,16,16,0,4, 1418,15,1,0,0,0,0,1,0
-reitdo,Reiter,Dominik,1998-01-04,AUT,6,11,A,2,0,2,0,   66,0,0,0,0,0,0,1,0
-rennre,Renner,René,1993-11-29,AUT,6,7,M,14,11,3,0,  911,6,1,0,0,0,0,3,0
-sabith,Sabitzer,Thomas,2000-10-12,AUT,6,33,A,7,3,4,0,  280,2,7,0,0,0,0,0,0
-schlal,Schlager,Alexander,1996-02-01,AUT,6,1,P,18,18,0,0, 1620,18,0,-16,0,0,0,1,0
-schnd1,Schnegg,David,1998-09-29,AUT,6,17,F,1,1,0,0,   51,0,4,0,0,0,0,0,0
-tettsa,Tetteh,Samuel,1996-07-28,GHA,6,20,A,16,7,9,4,  729,3,0,0,0,0,0,1,0
-trauge,Trauner,Gernot,1992-03-25,AUT,6,18,F,17,17,0,2, 1503,16,0,0,0,0,0,4,0
-wiesph,Wiesinger,Philipp,1994-05-23,AUT,6,6,F,16,15,1,1, 1349,14,0,0,0,0,0,4,0
-wostma,Wostry,Markus,1992-07-19,AUT,6,21,F,8,7,1,1,  604,5,4,0,0,0,0,2,0
-behora,Behounek,Raffael,1997-04-16,AUT,19,32,F,6,4,2,0,  361,3,5,0,0,0,0,0,0
-buerpa,Bürger,Patrick,1987-06-27,AUT,19,33,A,15,9,6,2,  747,0,3,0,0,0,0,0,0
-casati,Casali,Tino,1995-11-14,AUT,19,13,P,2,2,0,0,  180,2,16,-6,0,0,0,0,0
-erhaph,Erhardt,Philipp,1993-09-10,AUT,19,6,F,17,17,0,0, 1452,11,0,0,-1,0,0,4,0
-ertlju,Ertlthaler,Julius,1997-04-25,AUT,19,23,M,2,1,1,0,   87,0,6,0,0,0,0,0,0
-gruban,Gruber,Andreas,1995-06-29,AUT,19,11,M,12,10,2,7,  909,8,0,0,0,2,0,3,0
-halpch,Halper,Christoph,1998-05-21,AUT,19,14,M,17,14,3,1, 1041,3,1,0,0,0,0,2,0
-hartfl,Hart,Florian,1990-05-11,AUT,19,12,F,5,3,2,0,  331,3,1,0,0,0,0,1,0
-hoelal,Höller,Alois,1989-03-15,AUT,19,8,F,8,7,1,0,  629,6,1,0,0,0,0,3,0
-janoal,Jano, ,1986-12-23,SPA,19,10,M,15,11,4,0, 1102,11,0,0,0,0,0,0,0
-kuenan,Kuen,Andreas,1995-03-24,AUT,19,30,M,16,13,3,4, 1185,11,1,0,0,0,0,4,0
-kustma,Kuster,Markus,1994-02-22,AUT,19,1,P,16,16,0,0, 1440,16,2,-40,0,0,0,0,0
-kvasma,Kvasina,Marko,1996-12-20,AUT,19,9,A,15,3,12,2,  494,1,1,0,0,1,0,0,0
-lercmi,Lercher,Michael,1996-01-04,AUT,19,5,F,12,12,0,1, 1030,10,5,0,0,0,0,3,0
-mahrth,Mahrer,Thorsten,1990-01-22,AUT,19,31,F,15,14,1,0, 1273,14,0,0,0,0,0,5,0
-maline,Malić,Nedeljko,1988-05-15,BOS,19,4,F,13,13,0,1, 1140,11,5,0,0,0,0,4,0
-miesfa,Miesenböck,Fabian,1993-07-07,AUT,19,7,M,8,5,3,1,  574,4,8,0,0,0,0,4,0
-nemeda,Nemeth,David,2001-03-18,AUT,19,2,F,2,2,0,0,  180,2,2,0,0,0,0,0,0
-olatvi,Olatunji,Victor,1999-09-05,NGR,19,20,A,11,4,7,0,  349,1,0,0,0,0,0,0,0
-pichn1,Pichler,Nico,1998-03-02,AUT,19,15,M,1,0,1,0,   39,0,2,0,0,0,0,0,0
-pusima,Pušić,Martin,1987-10-24,AUT,19,19,A,7,5,2,3,  490,3,1,0,0,3,0,1,0
-rathlu,Rath,Lukas,1992-01-18,AUT,19,18,F,12,11,1,0, 1000,11,5,0,0,0,0,0,0
-salopa,Salomon,Patrick,1988-06-10,AUT,19,21,M,17,17,0,0, 1501,16,0,0,0,0,0,5,0
-schist,Schimandl,Stefan,1999-03-30,AUT,19,24,M,6,5,1,1,  296,0,7,0,0,0,0,1,0
-steim5,Steinwender,Michael,2000-05-04,AUT,19,3,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
-araske,Arase,Kelvin,1999-01-15,AUT,1,36,A,13,5,8,2,  675,5,0,0,0,0,0,2,0
-auers1,Auer,Stephan,1991-01-11,AUT,1,24,F,9,4,5,0,  522,4,5,0,0,0,0,2,0
-badjal,Badji,Aliou,1997-10-10,SEN,1,27,A,16,9,7,3,  765,3,2,0,0,0,0,2,0
-barama,Barać,Mateo,1994-07-20,CRO,1,4,F,14,13,1,3, 1176,12,3,0,0,0,0,1,0
-demiyu,Demir,Yusuf,2003-06-02,AUT,1,48,A,1,0,1,0,    9,0,3,0,0,0,0,0,0
-diboch,Dibon,Christopher,1990-11-02,AUT,1,17,F,17,17,0,2, 1437,15,0,0,0,0,0,2,0
-founta,Fountas,Taxiarchis,1995-09-04,GRE,1,9,M,15,14,1,11, 1129,7,0,0,0,0,0,4,0
-fuchm1,Fuchshofer,Marco,2001-01-22,AUT,1,41,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
-gartpa,Gartler,Paul,1997-03-10,AUT,1,37,P,0,0,0,0,    0,0,3,0,0,0,0,0,0
-grahsr,Grahovac,Srđan,1992-09-19,BOS,1,14,M,8,7,1,0,  516,4,0,0,0,0,0,2,0
-greile,Greiml,Leo,2001-07-03,AUT,1,30,F,1,1,0,0,   74,0,3,0,0,0,0,0,0
-hajdad,Hajdari,Adrian,2000-05-31,MAC,1,38,F,1,0,1,0,   45,0,2,0,0,0,0,0,0
-hofmma,Hofmann,Maximilian,1993-08-07,AUT,1,20,F,10,9,1,0,  816,7,6,0,0,0,0,4,0
-ibrame,Ibrahimoglu,Melih,2000-07-17,AUT,1,40,M,2,0,2,0,   21,0,3,0,0,0,0,0,0
-kitako,Kitagawa,Koya,1996-07-26,JAP,1,32,A,5,2,3,0,  187,0,1,0,0,0,0,1,0
-knasch,Knasmüllner,Christoph,1992-04-30,AUT,1,28,M,16,13,3,3, 1068,4,2,0,0,0,0,0,0
-knofto,Knoflach,Tobias,1993-12-30,AUT,1,21,P,5,3,2,0,  388,3,13,-5,0,0,0,0,0
-ljubde,Ljubicic,Dejan,1997-10-08,AUT,1,39,M,13,12,1,2, 1096,10,0,0,0,0,0,4,0
-martm2,Martic,Manuel,1995-08-15,AUT,1,15,M,1,0,1,0,   24,0,2,0,0,0,0,0,0
-murgth,Murg,Thomas,1994-11-14,AUT,1,10,M,15,11,4,3,  989,6,1,0,0,0,0,1,0
+michpe,Michorl,Peter,1995-05-09,AUT,6,8,M,30,29,1,5, 2594,27,0,0,0,0,0,7,0
+muelva,Müller,Valentino,1999-01-19,AUT,6,19,M,7,3,4,1,  317,3,10,0,0,0,0,0,0
+otubyu,Otubanjo,Yusuf,1992-09-12,NGR,6, , ,2,0,2,0,   51,0,6,0,0,0,0,0,0
+pogaem,Pogatetz,Emanuel,1983-01-16,AUT,6, , ,5,1,4,0,  193,1,5,0,0,0,0,0,0
+potzma,Potzmann,Marvin,1993-12-07,AUT,6,16,F,16,9,7,1,  870,6,1,0,0,0,0,0,0
+raguma,Raguž,Marko,1998-06-10,AUT,6,29,A,27,17,10,7, 1503,7,4,0,0,1,0,2,0
+ramsch,Ramsebner,Christian,1989-03-26,AUT,6,15,F,8,8,0,1,  672,6,8,0,0,0,0,3,0
+ranfre,Ranftl,Reinhold,1992-01-24,AUT,6,26,F,28,28,0,5, 2498,27,2,0,0,0,0,4,0
+reitdo,Reiter,Dominik,1998-01-04,AUT,6,11,A,12,3,9,1,  456,3,3,0,0,0,0,1,0
+rennre,Renner,René,1993-11-29,AUT,6,7,M,26,22,4,0, 1914,16,1,0,0,0,0,3,0
+sabith,Sabitzer,Thomas,2000-10-12,AUT,6,33,A,10,3,7,0,  389,2,7,0,0,0,0,0,0
+schlal,Schlager,Alexander,1996-02-01,AUT,6,1,P,32,32,0,0, 2880,32,0,-37,0,0,0,1,0
+schnd1,Schnegg,David,1998-09-29,AUT,6,17,F,2,1,1,0,   69,0,5,0,0,0,0,0,0
+tettsa,Tetteh,Samuel,1996-07-28,GHA,6,20,A,29,14,15,7, 1406,4,1,0,0,0,0,1,0
+trauge,Trauner,Gernot,1992-03-25,AUT,6,18,F,28,28,0,3, 2441,25,0,0,0,0,0,7,0
+wiesph,Wiesinger,Philipp,1994-05-23,AUT,6,6,F,27,26,1,1, 2313,23,0,0,0,0,0,7,0
+wostma,Wostry,Markus,1992-07-19,AUT,6,21,F,11,8,3,1,  720,5,5,0,0,0,0,2,0
+behora,Behounek,Raffael,1997-04-16,AUT,19, , ,6,4,2,0,  361,3,5,0,0,0,0,0,0
+borsfi,Borsos,Filip,2000-06-22,HUN,19,26,A,2,1,1,0,   63,0,0,0,0,0,0,0,0
+buerpa,Bürger,Patrick,1987-06-27,AUT,19,33,A,26,11,15,4, 1055,0,4,0,0,1,0,2,0
+casati,Casali,Tino,1995-11-14,AUT,19,13,P,4,4,0,0,  360,4,27,-10,0,0,0,0,0
+erhaph,Erhardt,Philipp,1993-09-10,AUT,19,6,F,29,29,0,0, 2524,22,0,0,-1,0,0,6,0
+ertlju,Ertlthaler,Julius,1997-04-25,AUT,19,23,M,6,4,2,0,  369,3,9,0,0,0,0,1,0
+gruban,Gruber,Andreas,1995-06-29,AUT,19,11,M,20,18,2,12, 1564,13,0,0,0,2,0,9,0
+halpch,Halper,Christoph,1998-05-21,AUT,19,14,M,24,17,7,1, 1312,3,4,0,0,0,0,3,0
+hartfl,Hart,Florian,1990-05-11,AUT,19,12,F,13,11,2,1,  913,6,1,0,0,0,0,2,0
+hoelal,Höller,Alois,1989-03-15,AUT,19,8,F,21,15,6,1, 1397,9,2,0,0,0,0,4,0
+janoal,Jano, ,1986-12-23,SPA,19,10,M,27,22,5,3, 2128,21,0,0,0,0,0,3,0
+kuenan,Kuen,Andreas,1995-03-24,AUT,19,30,M,28,25,3,4, 2178,19,1,0,0,0,0,4,0
+kustma,Kuster,Markus,1994-02-22,AUT,19,1,P,27,27,0,0, 2430,27,3,-52,0,0,0,1,0
+kvasma,Kvasina,Marko,1996-12-20,AUT,19,9,A,19,6,13,2,  824,4,1,0,0,1,0,0,0
+lercmi,Lercher,Michael,1996-01-04,AUT,19,5,F,24,20,4,1, 1718,11,5,0,0,0,0,3,0
+mahrth,Mahrer,Thorsten,1990-01-22,AUT,19,31,F,28,27,1,1, 2443,27,0,0,0,0,0,8,0
+majnma,Majnovics,Martin,2000-10-26,HUN,19,25,F,3,1,2,0,   92,0,1,0,0,0,0,0,0
+maline,Malić,Nedeljko,1988-05-15,BOS,19,4,F,15,14,1,1, 1194,11,8,0,0,0,0,4,0
+miesfa,Miesenböck,Fabian,1993-07-07,AUT,19,7,M,16,9,7,1,  904,4,8,0,0,0,0,6,0
+nemeda,Nemeth,David,2001-03-18,AUT,19,2,F,12,12,0,0, 1051,11,3,0,0,0,0,1,0
+olatvi,Olatunji,Victor,1999-09-05,NGR,19,20,A,14,5,9,0,  413,1,0,0,0,0,0,0,0
+pichn1,Pichler,Nico,1998-03-02,AUT,19,15,M,5,1,4,0,  172,0,4,0,0,0,0,1,0
+pichlu,Pichler,Luca,1998-03-02,AUT,19,16,M,2,1,1,0,  116,1,3,0,0,0,0,0,0
+pusima,Pušić,Martin,1987-10-24,AUT,19,19,A,20,13,7,5, 1202,4,2,0,0,4,0,1,0
+rathlu,Rath,Lukas,1992-01-18,AUT,19,18,F,22,19,3,0, 1760,18,7,0,0,0,0,2,0
+salopa,Salomon,Patrick,1988-06-10,AUT,19,21,M,30,29,1,0, 2543,24,0,0,0,0,0,9,0
+schist,Schimandl,Stefan,1999-03-30,AUT,19,24,M,9,5,4,1,  396,0,10,0,0,0,0,1,0
+steim5,Steinwender,Michael,2000-05-04,AUT,19,3,F,4,1,3,0,  118,1,7,0,0,0,0,0,0
+ungebe,Unger,Bernhard,1999-04-23,AUT,19,28,P,1,1,0,0,   90,1,2,-1,0,0,0,0,0
+araske,Arase,Kelvin,1999-01-15,AUT,1,36,A,25,15,10,5, 1465,10,0,0,0,0,0,2,0
+auers1,Auer,Stephan,1991-01-11,AUT,1,24,F,15,7,8,0,  799,6,12,0,0,0,0,2,0
+badjal,Badji,Aliou,1997-10-10,SEN,1, , ,16,9,7,3,  765,3,2,0,0,0,0,2,0
+barama,Barać,Mateo,1994-07-20,CRO,1,4,F,18,17,1,3, 1536,16,3,0,0,0,0,2,0
+bozima,Bozic,Marko,1998-05-14,AUT,1,44,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
+demiyu,Demir,Yusuf,2003-06-02,AUT,1,48,A,6,1,5,0,  188,0,4,0,0,0,0,0,0
+diboch,Dibon,Christopher,1990-11-02,AUT,1,17,F,22,22,0,2, 1708,17,0,0,0,0,0,2,0
+founta,Fountas,Taxiarchis,1995-09-04,GRE,1,9,A,27,23,4,19, 1921,9,0,0,0,0,0,5,0
+fuchm1,Fuchshofer,Marco,2001-01-22,AUT,1, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
+gartpa,Gartler,Paul,1997-03-10,AUT,1,25,P,2,2,0,0,  180,2,10,-3,0,0,0,0,0
+gobapa,Gobara,Paul,2000-03-26,AUT,1,46,F,1,0,1,0,   11,0,1,0,0,0,0,0,0
+grahsr,Grahovac,Srđan,1992-09-19,BOS,1,14,M,19,13,6,0, 1140,8,1,0,0,0,0,4,0
+greile,Greiml,Leo,2001-07-03,AUT,1,30,F,9,9,0,0,  775,7,3,0,0,0,0,3,0
+hajdad,Hajdari,Adrian,2000-05-31,MAC,1,38,F,2,0,2,0,   90,0,4,0,0,0,0,1,0
+hedlni,Hedl,Niklas,2001-03-17,AUT,1,45,P,0,0,0,0,    0,0,2,0,0,0,0,0,0
+hofmma,Hofmann,Maximilian,1993-08-07,AUT,1,20,F,18,16,2,1, 1451,13,9,0,0,0,0,5,0
+ibrame,Ibrahimoglu,Melih,2000-07-17,AUT,1,40,M,4,0,4,0,   58,0,4,0,0,0,0,0,0
+karaer,Kara,Ercan,1996-01-03,AUT,1,29,A,9,5,4,3,  413,1,4,0,0,0,0,1,0
+kitako,Kitagawa,Koya,1996-07-26,JAP,1,32,A,19,6,13,2,  702,0,1,0,0,0,0,2,0
+knasch,Knasmüllner,Christoph,1992-04-30,AUT,1,28,M,28,24,4,4, 1880,7,4,0,0,0,0,0,0
+knofto,Knoflach,Tobias,1993-12-30,AUT,1,21,P,12,10,2,0, 1018,10,18,-17,0,0,0,0,0
+ljubde,Ljubicic,Dejan,1997-10-08,AUT,1,39,M,22,21,1,2, 1906,19,1,0,0,0,0,6,0
+martm2,Martic,Manuel,1995-08-15,AUT,1, , ,1,0,1,0,   24,0,2,0,0,0,0,0,0
+murgth,Murg,Thomas,1994-11-14,AUT,1,10,M,20,15,5,3, 1298,6,1,0,0,0,0,2,0
 muelme,Müldür,Mert,1999-04-03,AUT,1, , ,4,4,0,1,  360,4,0,0,0,0,0,1,0
+petrde,Petrovič,Dejan,1998-01-12,SLO,1,16,M,14,9,5,0,  933,8,0,0,0,0,0,3,0
 potzma,Potzmann,Marvin,1993-12-07,AUT,1, , ,0,0,0,0,    0,0,3,0,0,0,0,0,0
-savid2,Savić,Dragoljub,2001-04-25,SRB,1,43,A,0,0,0,0,    0,0,3,0,0,0,0,0,0
-schith,Schick,Thorsten,1990-05-19,AUT,1,13,M,4,4,0,0,  240,1,0,0,0,0,0,0,0
+savid2,Savić,Dragoljub,2001-04-25,SRB,1,43,A,1,0,1,0,   29,0,4,0,0,0,0,0,0
+schith,Schick,Thorsten,1990-05-19,AUT,1,13,M,17,9,8,0,  864,4,0,0,0,0,0,2,0
 schoph,Schobesberger,Philipp,1993-12-10,AUT,1,7,A,11,7,4,2,  745,6,0,0,0,0,0,0,0
-schuli,Schuster,Lion,2000-08-09,AUT,1,42,M,1,0,1,0,   11,0,3,0,0,0,0,0,0
-schwst,Schwab,Stefan,1990-09-27,AUT,1,8,M,17,17,0,4, 1530,17,0,0,0,1,0,4,0
-sonnma,Sonnleitner,Mario,1986-10-08,AUT,1,6,F,5,4,1,0,  347,3,3,0,0,0,0,1,0
-stojfi,Stojković,Filip,1993-01-22,MNT,1,22,F,7,7,0,0,  558,4,3,0,0,0,0,0,0
-streri,Strebinger,Richard,1993-02-14,AUT,1,1,P,15,15,0,0, 1232,13,0,-16,0,0,0,0,0
-ullmma,Ullmann,Maximilian,1996-06-17,AUT,1,31,F,18,18,0,1, 1620,18,0,0,0,0,0,4,0
-velida,Velimirovic,Dalibor,2001-02-13,AUT,1,47,F,4,2,2,0,  236,2,5,0,0,0,0,0,0
+schuli,Schuster,Lion,2000-08-09,AUT,1, , ,1,0,1,0,   11,0,3,0,0,0,0,0,0
+schwst,Schwab,Stefan,1990-09-27,AUT,1,8,M,30,30,0,8, 2634,27,0,0,0,3,0,6,0
+sonnma,Sonnleitner,Mario,1986-10-08,AUT,1,6,F,7,4,3,0,  476,3,3,0,0,0,0,1,0
+stojfi,Stojković,Filip,1993-01-22,MNT,1,22,F,19,19,0,0, 1605,14,4,0,0,0,0,3,0
+streri,Strebinger,Richard,1993-02-14,AUT,1,1,P,20,20,0,0, 1682,18,0,-23,0,0,0,1,0
+ullmma,Ullmann,Maximilian,1996-06-17,AUT,1,31,F,31,31,0,3, 2747,29,0,0,0,0,0,4,0
+velida,Velimirovic,Dalibor,2001-02-13,AUT,1,47,M,6,4,2,0,  326,2,9,0,0,0,0,1,0
 wunsni,Wunsch,Nicholas,2000-10-05,AUT,1,49,M,1,0,1,0,   20,0,5,0,0,0,0,0,0
-ashima,Ashimeru,Majeed,1997-10-10,GHA,4,4,M,11,8,3,2,  680,5,4,0,0,0,0,0,1
-bernan,Bernède,Antoine,1999-05-26,FRA,4,28,M,8,7,1,0,  627,5,0,0,0,0,0,1,0
-camam1,Camara,Mohamed,2000-01-06,MLI,4,19,M,5,5,0,0,  412,3,4,0,0,0,0,0,0
-coroca,Coronel,Carlos,1996-12-29,BRA,4,31,P,4,4,0,0,  360,4,8,-4,0,0,0,0,0
-dakapa,Daka,Patson,1998-10-09,ZAM,4,20,A,17,10,7,14,  919,5,1,0,0,0,0,0,0
-farkpa,Farkas,Patrick,1992-09-09,AUT,4,25,F,8,8,0,0,  720,8,3,0,0,0,0,2,0
-hwanhc,Hwang,Hee-chan,1996-01-26,KOR,4,9,A,14,8,6,6,  757,4,1,0,0,1,0,0,0
-halaer,Håland,Erling,2000-07-21,NOR,4,30,A,14,11,3,16,  976,5,0,0,0,1,0,2,0
-junuzl,Junuzović,Zlatko,1987-09-26,AUT,4,16,M,14,11,3,2, 1006,9,3,0,0,0,0,1,1
-koitse,Koita,Sékou,1999-11-28,MLI,4,7,A,10,5,5,6,  498,2,1,0,0,1,0,0,0
-krisra,Kristensen,Rasmus,1997-07-11,DEN,4,43,F,9,9,0,0,  810,9,5,0,0,0,0,0,0
+adeyka,Adeyemi,Karim,2002-01-18,GER,4,27,A,9,1,8,1,  264,0,1,0,0,0,0,0,0
+ashima,Ashimeru,Majeed,1997-10-10,GHA,4,4,M,20,15,5,2, 1260,8,5,0,0,0,0,2,1
+berime,Berisha,Mërgim,1998-05-11,KOS,4,8,A,8,3,5,1,  389,1,2,0,0,0,0,0,0
+bernan,Bernède,Antoine,1999-05-26,FRA,4,28,M,10,8,2,0,  686,5,1,0,0,0,0,1,0
+camam1,Camara,Mohamed,2000-01-06,MLI,4,19,M,13,11,2,1,  981,8,7,0,0,1,0,2,0
+coroca,Coronel,Carlos,1996-12-29,BRA,4,31,P,5,5,0,0,  450,5,20,-6,0,0,0,0,0
+dakapa,Daka,Patson,1998-10-09,ZAM,4,20,A,31,21,10,24, 1868,9,1,0,0,0,0,1,0
+farkpa,Farkas,Patrick,1992-09-09,AUT,4,25,F,18,12,6,0, 1126,9,6,0,0,0,0,2,0
+hwanhc,Hwang,Hee-chan,1996-01-26,KOR,4,9,A,27,17,10,11, 1571,6,1,0,0,2,0,1,0
+halaer,Håland,Erling,2000-07-21,NOR,4, , ,14,11,3,16,  976,5,0,0,0,1,0,2,0
+junuzl,Junuzović,Zlatko,1987-09-26,AUT,4,16,M,23,19,4,3, 1730,16,5,0,0,0,0,1,1
+koitse,Koita,Sékou,1999-11-28,MLI,4,7,A,17,8,9,8,  755,3,2,0,0,1,0,0,0
+krisra,Kristensen,Rasmus,1997-07-11,DEN,4,43,F,12,10,2,0,  952,9,5,0,0,0,0,0,0
 koehph,Köhn,Philipp,1998-04-02,SUI,4,23,P,0,0,0,0,    0,0,10,0,0,0,0,0,0
 mensgi,Mensah,Gideon,1998-07-18,GHA,4, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
-minata,Minamino,Takumi,1995-01-16,JAP,4,18,A,14,11,3,5,  903,3,2,0,0,0,0,1,0
-mwepen,Mwepu,Enock,1998-01-01,ZAM,4,45,M,13,6,7,0,  623,5,4,0,0,0,0,4,0
-okugma,Okugawa,Masaya,1996-04-14,JAP,4,37,M,13,9,4,6,  777,5,2,0,0,0,0,0,0
-onguje,Onguéné,Jérôme,1997-12-22,FRA,4,6,F,12,12,0,0, 1008,10,4,0,0,0,0,2,0
-pongma,Pongračić,Marin,1997-09-11,CRO,4,34,F,5,4,1,0,  388,3,2,0,0,0,0,1,0
-prevsm,Prevljak,Smail,1995-05-10,BOS,4,11,A,4,3,1,1,  211,0,4,0,0,0,0,0,0
-ramaan,Ramalho,André,1992-02-16,BRA,4,15,F,16,16,0,3, 1377,14,0,0,0,0,0,4,0
+minata,Minamino,Takumi,1995-01-16,JAP,4, , ,14,11,3,5,  903,3,2,0,0,0,0,1,0
+mwepen,Mwepu,Enock,1998-01-01,ZAM,4,45,M,25,16,9,4, 1567,14,5,0,0,0,0,6,0
+okafno,Okafor,Noah,2000-05-24,SUI,4,77,A,11,5,6,3,  468,2,3,0,0,0,0,0,0
+okugma,Okugawa,Masaya,1996-04-14,JAP,4,37,M,23,17,6,9, 1403,9,2,0,0,0,0,0,0
+onguje,Onguéné,Jérôme,1997-12-22,FRA,4,6,F,23,20,3,1, 1785,16,6,0,0,0,0,2,0
+pongma,Pongračić,Marin,1997-09-11,CRO,4, , ,5,4,1,0,  388,3,2,0,0,0,0,1,0
+prevsm,Prevljak,Smail,1995-05-10,BOS,4, , ,4,3,1,1,  211,0,4,0,0,0,0,0,0
+ramaan,Ramalho,André,1992-02-16,BRA,4,15,F,26,26,0,6, 2228,22,2,0,0,0,0,9,0
 samadi,Samassékou,Diadié,1996-01-11,MLI,4, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-stanci,Stanković,Cican,1992-11-04,AUT,4,1,P,14,14,0,0, 1260,14,0,-14,0,0,0,0,0
-szobdo,Szoboszlai,Dominik,2000-10-25,HUN,4,14,M,13,7,6,2,  691,2,3,0,0,2,0,2,0
-ulmean,Ulmer,Andreas,1985-10-30,AUT,4,17,F,15,14,1,2, 1264,13,0,0,0,0,0,0,0
-vallal,Vallci,Albert,1995-07-02,AUT,4,5,F,6,5,1,0,  464,5,8,0,-1,0,0,1,0
-werfjv,Werff,Jasper van der,1998-12-09,SUI,4,3,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
-woebma,Wöber,Max,1998-02-04,AUT,4,39,F,11,10,1,0,  908,9,0,0,-1,0,0,0,0
-alexth,Alexiev,Thomas,2001-08-19,AUT,12,2,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
-ambimi,Ambichl,Michael,1991-04-26,AUT,12,8,M,17,14,3,1, 1215,9,0,0,0,0,0,3,0
-balihu,Balic,Husein,1996-02-15,BOS,12,14,M,18,18,0,4, 1571,14,0,0,0,0,0,1,0
-davige,Davies,George,1996-11-16,SLE,12,11,M,13,10,3,0,  946,9,2,0,0,0,0,5,0
-dresda,Drescher,Daniel,1989-10-07,AUT,12,29,F,10,10,0,0,  900,10,1,0,0,0,0,3,0
-gartre,Gartler,René,1985-10-21,AUT,12,7,A,14,6,8,2,  624,2,2,0,0,2,0,2,1
+stanci,Stanković,Cican,1992-11-04,AUT,4,1,P,27,27,0,0, 2430,27,1,-28,0,0,0,0,0
+szobdo,Szoboszlai,Dominik,2000-10-25,HUN,4,14,M,27,18,9,9, 1662,8,3,0,0,3,0,3,0
+ulmean,Ulmer,Andreas,1985-10-30,AUT,4,17,F,29,27,2,2, 2317,21,0,0,-1,0,0,0,0
+vallal,Vallci,Albert,1995-07-02,AUT,4,5,F,18,15,3,2, 1268,10,10,0,-1,0,0,4,0
+walkal,Walke,Alexander,1983-06-06,GER,4,33,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
+werfjv,Werff,Jasper van der,1998-12-09,SUI,4, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
+woebma,Wöber,Max,1998-02-04,AUT,4,39,F,24,21,3,0, 1861,18,0,0,-1,0,0,3,0
+alexth,Alexiev,Thomas,2001-08-19,AUT,12, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
+ambimi,Ambichl,Michael,1991-04-26,AUT,12,8,M,22,19,3,1, 1545,11,0,0,0,0,0,6,0
+balihu,Balic,Husein,1996-02-15,BOS,12, , ,18,18,0,4, 1571,14,0,0,0,0,0,1,0
+burkco,Burke,Cory,1991-12-28,JAM,12,9,A,11,9,2,4,  741,2,0,0,0,1,0,3,0
+carial,Carius,Alan Lima,1997-04-04,BRA,12,77,M,13,10,3,2,  854,5,0,0,0,0,0,3,0
+davige,Davies,George,1996-11-16,SLE,12,11,M,23,15,8,2, 1465,13,3,0,0,0,0,8,0
+dresda,Drescher,Daniel,1989-10-07,AUT,12,29,F,17,14,3,0, 1265,13,7,0,0,0,0,4,0
+gartre,Gartler,René,1985-10-21,AUT,12, , ,14,6,8,2,  624,2,2,0,0,2,0,2,1
+gorzni,Gorzel,Nico,1998-07-29,GER,12,31,M,9,5,4,0,  390,1,1,0,0,0,0,0,1
 grablo,Grabovac,Lorenz,1997-07-25,AUT,12,90,A,1,0,1,0,    9,0,2,0,0,0,0,0,0
-haasm1,Haas,Manuel,1996-05-07,AUT,12,23,F,9,4,5,0,  423,1,2,0,0,0,0,2,1
-hofbdo,Hofbauer,Dominik,1990-09-19,AUT,12,4,M,10,9,1,0,  632,3,5,0,0,0,0,3,0
-ingosa,Ingolitsch,Sandro,1997-04-18,AUT,12,22,F,15,13,2,0, 1133,8,1,0,0,0,0,6,0
-leitlu,Leite,Luan,1996-05-31,BRA,12,3,F,14,14,0,1, 1178,11,1,0,-1,0,0,5,1
-ljubro,Ljubicic,Robert,1999-07-14,CRO,12,39,M,18,12,6,1, 1176,7,0,0,0,0,0,2,0
-luxbda,Luxbacher,Daniel,1992-03-13,AUT,12,10,M,17,17,0,3, 1432,13,0,0,0,3,0,5,0
-meislu,Meisl,Luca,1999-03-04,AUT,12,5,F,14,13,1,0, 1239,13,0,0,0,0,0,0,0
-messch,Messerer,Christoph,2001-11-10,AUT,12,38,M,5,0,5,0,   80,0,3,0,0,0,0,0,0
-muhaah,Muhamedbegovic,Ahmet,1998-10-30,AUT,12,17,F,7,6,1,0,  563,6,4,0,0,0,0,1,0
-ouedis,Ouédraogo,Issiaka,1988-08-19,BFS,12,33,A,5,0,5,1,   86,0,7,0,0,0,0,0,0
-pakxkr,Pak,Kwang-ryong,1992-09-27,PRK,12,19,A,8,8,0,4,  712,7,1,0,0,0,0,0,0
-petrda,Petrović,Danijel,1992-11-27,SRB,12,6,F,5,3,2,0,  200,1,6,0,0,0,0,1,0
-rasnma,Rasner,Martin,1995-05-18,AUT,12,18,M,12,9,3,0,  768,5,3,0,0,0,0,5,0
-riegch,Riegler,Christoph,1992-03-30,AUT,12,1,P,16,16,0,0, 1394,15,0,-37,0,0,0,1,0
-riskro,Riski,Roope,1991-08-16,FIN,12,9,A,8,6,2,0,  558,4,5,0,0,0,0,3,0
-schuda,Schütz,Daniel,1991-06-19,AUT,12,20,M,6,3,3,1,  254,0,4,0,0,1,0,0,1
-steino,Steiner,Noah,1999-02-26,AUT,12,25,F,5,3,2,0,  268,1,0,0,0,0,0,1,0
-vollth,Vollnhofer,Thomas,1984-09-02,AUT,12,32,P,3,2,1,0,  226,2,15,-7,0,0,0,0,0
-vuceal,Vucenovic,Aleksandar,1997-10-10,AUT,12,13,A,2,2,0,0,  110,0,4,0,0,0,0,0,0
+haasm1,Haas,Manuel,1996-05-07,AUT,12, , ,9,4,5,0,  423,1,2,0,0,0,0,2,1
+hofbdo,Hofbauer,Dominik,1990-09-19,AUT,12,4,M,19,16,3,1, 1182,6,6,0,0,0,0,6,1
+ingosa,Ingolitsch,Sandro,1997-04-18,AUT,12,22,F,27,22,5,1, 1929,14,1,0,0,0,0,9,0
+klarch,Klarer,Christoph,2000-06-14,AUT,12,14,F,13,12,1,0, 1095,11,0,0,0,0,0,0,1
+kretki,Kretschmer,Kilian,2001-04-10,AUT,12,23,P,0,0,0,0,    0,0,12,0,0,0,0,0,0
+leitlu,Leite,Luan,1996-05-31,BRA,12,3,F,24,24,0,1, 2078,21,1,0,-1,0,0,9,1
+ljubro,Ljubicic,Robert,1999-07-14,CRO,12,39,M,29,23,6,3, 2118,14,2,0,0,0,0,2,1
+luxbda,Luxbacher,Daniel,1992-03-13,AUT,12,10,M,25,24,1,3, 1943,15,0,0,0,3,0,8,0
+meislu,Meisl,Luca,1999-03-04,AUT,12,5,F,17,14,3,0, 1350,14,3,0,0,0,0,0,0
+meisni,Meister,Nicolas,1999-09-28,AUT,12,7,A,10,2,8,0,  338,0,4,0,0,0,0,1,0
+messch,Messerer,Christoph,2001-11-10,AUT,12,38,M,11,3,8,1,  404,2,4,0,0,0,0,1,0
+muhaah,Muhamedbegovic,Ahmet,1998-10-30,AUT,12,17,F,20,18,2,1, 1658,17,4,0,0,0,0,3,0
+ouedis,Ouédraogo,Issiaka,1988-08-19,BFS,12,33,A,13,3,10,3,  388,0,9,0,0,0,0,3,0
+pakxkr,Pak,Kwang-ryong,1992-09-27,PRK,12,19,A,13,12,1,5, 1087,10,1,0,0,0,0,0,0
+petrda,Petrović,Danijel,1992-11-27,SRB,12,6,F,6,4,2,0,  258,1,8,0,0,0,0,2,0
+rasnma,Rasner,Martin,1995-05-18,AUT,12,18,M,20,12,8,0, 1183,6,4,0,0,0,0,7,0
+riegch,Riegler,Christoph,1992-03-30,AUT,12,1,P,26,26,0,0, 2294,25,0,-48,0,0,0,1,0
+riskro,Riski,Roope,1991-08-16,FIN,12, , ,8,6,2,0,  558,4,5,0,0,0,0,3,0
+schimi,Schimpelsberger,Michael,1991-02-12,AUT,12,27,F,2,2,0,0,  118,0,2,0,0,0,0,0,0
+schuko,Schulz,Kofi,1989-07-21,GER,12,21,F,10,10,0,1,  848,6,0,0,0,0,0,1,0
+schuda,Schütz,Daniel,1991-06-19,AUT,12,20,M,14,7,7,4,  652,0,7,0,0,2,0,1,1
+stanst,Stangl,Stefan,1991-10-20,AUT,12, , ,2,1,1,0,  113,1,0,0,0,0,0,1,0
+steino,Steiner,Noah,1999-02-26,AUT,12, , ,5,3,2,0,  268,1,0,0,0,0,0,1,0
+tanzma,Tanzmayr,Marcel,2002-01-13,AUT,12,12,A,1,0,1,0,   13,0,0,0,0,0,0,0,0
+vollth,Vollnhofer,Thomas,1984-09-02,AUT,12,32,P,7,6,1,0,  586,6,16,-17,0,0,0,0,0
+vuceal,Vucenovic,Aleksandar,1997-10-10,AUT,12, , ,2,2,0,0,  110,0,4,0,0,0,0,0,0
 wacklu,Wackerle,Lukas,1995-10-13,AUT,12, , ,0,0,0,0,    0,0,2,0,0,0,0,0,0
-amoawi,Amoah,Winfred,2000-05-18,GHA,3,28,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
-avloan,Avlonitis,Anastasios,1990-01-01,GRE,3,5,F,17,17,0,1, 1530,17,0,0,0,0,0,1,0
-balabe,Balaj,Bekim,1991-01-11,ALB,3,9,A,17,16,1,5, 1397,12,0,0,0,1,0,3,0
-despki,Despodov,Kiril,1996-11-11,BUL,3,11,A,11,9,2,6,  753,3,1,0,0,0,0,3,0
-domiju,Domínguez,Juan,1990-01-08,SPA,3,21,M,16,16,0,2, 1357,12,0,0,0,0,0,5,1
-donkis,Donkor,Isaac,1995-08-15,GHA,3,20,F,6,6,0,0,  495,5,5,0,0,0,0,2,0
+amoawi,Amoah,Winfred,2000-05-18,GHA,3,28,A,1,0,1,0,   12,0,2,0,0,0,0,0,0
+avloan,Avlonitis,Anastasios,1990-01-01,GRE,3,5,F,28,28,0,1, 2509,26,0,0,-1,0,0,2,1
+balabe,Balaj,Bekim,1991-01-11,ALB,3,9,A,28,23,5,6, 1933,13,1,0,0,1,0,5,1
+despki,Despodov,Kiril,1996-11-11,BUL,3,11,A,19,16,3,8, 1292,5,2,0,0,0,0,4,0
+domiju,Domínguez,Juan,1990-01-08,SPA,3,21,M,28,25,3,4, 2078,15,0,0,0,0,0,7,1
+donkis,Donkor,Isaac,1995-08-15,GHA,3,20,F,12,11,1,0,  971,9,7,0,0,0,0,3,1
 eze_em,Eze,Emeka,1996-09-26,NGR,3, , ,1,0,1,0,   18,0,0,0,0,0,0,0,0
-hierst,Hierländer,Stefan,1991-02-03,AUT,3,25,M,14,11,3,2, 1038,6,1,0,0,1,0,3,1
+ferkfl,Ferk,Florian,1999-03-24,AUT,3,34,F,0,0,0,0,    0,0,2,0,0,0,0,0,0
+frieke,Friesenbichler,Kevin,1994-05-06,AUT,3,19,A,12,3,9,0,  374,0,2,0,0,0,0,3,0
+geyrni,Geyrhofer,Niklas,2000-02-11,AUT,3,35,F,6,6,0,0,  477,5,2,0,0,0,0,0,0
+hierst,Hierländer,Stefan,1991-02-03,AUT,3,25,M,26,22,4,4, 1863,12,1,0,0,1,0,4,1
 hosiph,Hosiner,Philipp,1989-05-15,AUT,3, , ,0,0,0,0,    0,0,4,0,0,0,0,0,0
-huspph,Huspek,Philipp,1991-02-05,AUT,3,18,M,11,7,4,3,  547,0,4,0,0,0,0,1,1
-jantja,Jantscher,Jakob,1989-01-08,AUT,3,13,M,12,5,7,3,  475,2,3,0,0,0,0,1,0
-kiteot,Kiteishvili,Otar,1996-03-26,GEO,3,10,M,18,18,0,4, 1586,13,0,0,0,0,0,5,0
-kochfa,Koch,Fabian,1989-06-24,AUT,3,26,F,3,2,1,0,  144,1,13,0,0,0,0,0,0
-kochto,Koch,Tobias,2001-04-06,AUT,3,22,M,1,0,1,0,    5,0,1,0,0,0,0,0,0
+huspph,Huspek,Philipp,1991-02-05,AUT,3,18,M,22,13,9,3, 1025,1,6,0,0,0,0,2,1
+jantja,Jantscher,Jakob,1989-01-08,AUT,3,13,M,22,7,15,5,  828,2,4,0,0,0,0,3,0
+jaeglu,Jäger,Lukas,1994-02-12,AUT,3,17,M,13,10,3,0,  956,7,1,0,0,0,0,3,0
+kiteot,Kiteishvili,Otar,1996-03-26,GEO,3,10,M,31,31,0,6, 2733,23,0,0,0,0,0,5,0
+kochfa,Koch,Fabian,1989-06-24,AUT,3, , ,3,2,1,0,  144,1,13,0,0,0,0,0,0
+kochto,Koch,Tobias,2001-04-06,AUT,3, , ,2,1,1,0,   30,0,1,0,0,0,0,0,0
 lackma,Lackner,Markus,1991-04-05,AUT,3, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
-leitch,Leitgeb,Christoph,1985-04-14,AUT,3,24,M,14,1,13,0,  253,0,4,0,0,0,0,0,0
-lemamj,Lema,Michael John,1999-09-13,AUT,3,38,M,6,3,3,0,  293,0,4,0,0,0,0,0,0
-ljubiv,Ljubić,Ivan,1996-07-07,AUT,3,30,M,17,13,4,1, 1180,8,0,0,-1,0,0,5,0
+leitch,Leitgeb,Christoph,1985-04-14,AUT,3,24,M,23,5,18,0,  703,2,6,0,0,0,0,0,0
+lemamj,Lema,Michael John,1999-09-13,AUT,3, , ,6,3,3,0,  293,0,4,0,0,0,0,0,0
+ljubiv,Ljubić,Ivan,1996-07-07,AUT,3,30,M,29,25,4,1, 2206,16,0,0,-1,0,0,7,1
 mareda,Maresić,Dario,1999-09-29,AUT,3, , ,1,0,1,0,   17,0,3,0,0,0,0,0,0
-pinkma,Pink,Markus,1991-02-24,AUT,3,14,A,9,0,9,0,  109,0,5,0,0,0,0,0,0
-roecth,Röcher,Thorsten,1991-06-11,AUT,3,29,M,11,10,1,4,  803,2,0,0,0,0,0,0,0
-sakiem,Sakic,Emanuel,1991-01-25,AUT,3,8,F,16,16,0,0, 1440,16,0,0,0,0,0,2,0
-schrth,Schrammel,Thomas,1987-09-05,AUT,3,4,F,14,12,2,0, 1095,10,4,0,0,0,0,4,0
-schuto,Schützenauer,Tobias,1997-05-19,AUT,3,32,P,0,0,0,0,    0,0,18,0,0,0,0,0,0
-siebjo,Siebenhandl,Jörg,1990-01-18,AUT,3,27,P,18,18,0,0, 1620,18,0,-23,0,0,0,0,0
-spenlu,Spendlhofer,Lukas,1993-06-02,AUT,3,23,F,18,18,0,0, 1608,17,0,0,-1,0,0,2,0
-trumvi,Trummer,Vincent,2000-05-18,AUT,3,36,F,0,0,0,0,    0,0,1,0,0,0,0,0,0
-baumdo,Baumgartner,Dominik,1996-07-20,AUT,192,22,F,2,2,0,0,  112,0,3,0,0,0,0,1,0
-gollma,Gollner,Manfred,1990-12-22,AUT,192,4,F,3,3,0,2,  270,3,15,0,0,0,0,0,0
-goelst,Gölles,Stefan,1991-10-04,AUT,192,39,F,5,0,5,0,   54,0,6,0,0,0,0,0,0
+pinkma,Pink,Markus,1991-02-24,AUT,3, , ,9,0,9,0,  109,0,5,0,0,0,0,0,0
+roecth,Röcher,Thorsten,1991-06-11,AUT,3,29,M,23,19,4,5, 1574,5,1,0,0,0,0,2,0
+sakiem,Sakic,Emanuel,1991-01-25,AUT,3,8,F,28,26,2,0, 2405,26,1,0,0,0,0,5,0
+schrth,Schrammel,Thomas,1987-09-05,AUT,3,4,F,16,12,4,0, 1167,10,9,0,0,0,0,4,0
+schuto,Schützenauer,Tobias,1997-05-19,AUT,3,32,P,0,0,0,0,    0,0,32,0,0,0,0,1,0
+shabda,Shabanhaxhaj,Dardan,2001-04-23,KOS,3,33,M,2,0,2,0,   34,0,2,0,0,0,0,0,0
+siebjo,Siebenhandl,Jörg,1990-01-18,AUT,3,27,P,32,32,0,0, 2880,32,0,-60,0,0,0,1,0
+spenlu,Spendlhofer,Lukas,1993-06-02,AUT,3,23,F,24,24,0,0, 2081,22,1,0,-1,0,0,3,1
+trumvi,Trummer,Vincent,2000-05-18,AUT,3,36,F,11,8,3,0,  725,5,3,0,0,0,0,1,0
+baumdo,Baumgartner,Dominik,1996-07-20,AUT,192,22,F,12,11,1,0,  926,6,3,0,0,0,0,3,0
+diench,Dieng,Cheikhou,1993-11-23,SEN,192,8,M,12,6,6,1,  530,0,1,0,0,0,0,1,0
+gollma,Gollner,Manfred,1990-12-22,AUT,192,4,F,17,10,7,2,  987,8,15,0,0,0,0,1,0
+goelst,Gölles,Stefan,1991-10-04,AUT,192,39,F,12,1,11,0,  232,1,10,0,0,0,0,0,0
 haimar,Haimburger,Aric,2000-05-27,AUT,192, , ,0,0,0,0,    0,0,2,0,0,0,0,0,0
-hodzam,Hodzic,Amar,1999-07-12,AUT,192,30,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
-holzm1,Holzer,Marcel,1998-10-06,AUT,192,25,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
-koflal,Kofler,Alexander,1986-11-06,AUT,192,31,P,15,15,0,0, 1350,15,3,-19,0,0,0,0,0
-kuttm1,Kuttin,Manuel,1993-12-17,AUT,192,29,P,3,3,0,0,  270,3,13,-4,0,0,0,0,0
-leitm1,Leitgeb,Mario,1988-06-30,AUT,192,16,M,18,17,1,3, 1552,16,0,0,0,0,0,2,0
-lienmi,Liendl,Michael,1985-10-25,AUT,192,10,M,18,18,0,3, 1583,14,0,0,0,1,0,1,0
-nianan,Niangbo,Anderson,1999-10-06,CIV,192,21,M,17,12,5,7, 1109,3,1,0,0,0,0,1,0
-novam2,Novak,Michael,1990-12-30,AUT,192,27,F,18,16,2,2, 1440,13,0,0,0,0,0,2,0
-perist,Perić,Stefan,1997-02-13,AUT,192,5,F,0,0,0,0,    0,0,5,0,0,0,0,0,0
-ritzma,Ritzmaier,Marcel,1993-04-22,AUT,192,8,M,18,18,0,2, 1523,12,0,0,0,0,0,5,0
-rnicne,Rnić,Nemanja,1984-09-30,SRB,192,15,F,15,15,0,0, 1350,15,2,0,0,0,0,7,0
-schmm5,Schmerböck,Marc Andre,1994-04-01,AUT,192,34,M,12,3,9,0,  298,0,3,0,0,0,0,0,0
-schmro,Schmid,Romano,2000-01-27,AUT,192,11,M,17,16,1,1, 1322,7,0,0,0,0,0,6,0
-schma1,Schmidt,Alexander,1998-01-19,AUT,192,13,A,12,3,9,0,  321,1,3,0,0,0,0,0,0
-schmlu,Schmitz,Lukas,1988-10-13,GER,192,7,F,18,18,0,1, 1620,18,0,0,0,0,0,3,0
-scholu,Schöfl,Lukas,2001-02-11,AUT,192,23,M,1,0,1,0,   52,0,3,0,0,0,0,0,0
-sollmi,Sollbauer,Michael,1990-05-15,AUT,192,26,F,18,18,0,0, 1620,18,0,0,-1,0,0,4,0
-sprasv,Sprangler,Sven,1995-03-27,AUT,192,19,M,6,1,5,0,  112,0,11,0,0,0,0,1,0
-weissh,Weissman,Shon,1996-02-14,ISR,192,9,A,17,17,0,17, 1443,10,1,0,0,1,0,1,0
-wernch,Wernitznig,Christopher,1990-02-24,AUT,192,24,M,15,3,12,2,  439,0,3,0,0,0,0,0,0
-adjefe,Adjei,Felix,1990-12-17,GHA,36,17,F,12,8,4,0,  842,8,1,0,0,0,0,0,0
-beccsi,Beccari,Simon,1998-11-18,ITA,36,12,P,0,0,0,0,    0,0,5,0,0,0,0,0,0
-buchfl,Buchacher,Florian,1987-09-28,AUT,36,26,F,9,8,1,1,  589,3,2,0,0,0,0,4,0
-cabrio,Cabrera,Ione,1985-10-13,SPA,36,13,F,9,9,0,0,  687,6,0,0,0,0,0,3,0
-dedizl,Dedič,Zlatko,1984-10-05,SLO,36,22,A,17,16,1,6, 1454,16,0,0,0,2,0,2,0
-grgilu,Grgic,Lukas,1995-08-17,AUT,36,46,M,16,16,0,0, 1410,15,0,0,0,0,0,4,0
-gruepa,Grünwald,Pascal,1982-11-13,AUT,36,1,P,0,0,0,0,    0,0,13,0,0,0,0,0,0
-guggda,Gugganig,David,1997-02-10,AUT,36,4,F,15,14,1,0, 1190,10,2,0,0,0,0,6,0
-goelju,Gölles,Julian,1999-09-22,AUT,36,14,F,10,8,2,0,  581,3,7,0,0,0,0,0,0
-hagest,Hager,Stefan,1995-01-25,AUT,36,34,F,18,18,0,2, 1600,17,0,0,0,0,0,4,0
-jurdmi,Jurdík,Milan,1991-11-08,SVK,36,21,A,9,0,9,0,  132,0,4,0,0,0,0,0,0
-katnlu,Katnik,Lukas,1989-07-31,AUT,36,11,A,2,0,2,0,   77,0,5,0,0,0,0,0,0
-kovadi,Kovacec,Dino,1993-12-27,CRO,36,23,M,2,1,1,0,   90,0,1,0,0,0,0,1,0
-madefl,Mader,Florian,1982-09-14,AUT,36,42,M,9,7,2,0,  562,2,8,0,0,0,0,2,0
-neursa,Neurauter,Sandro,1992-03-21,AUT,36,19,F,10,6,4,0,  634,6,7,0,0,0,0,0,0
-nitzke,Nitzlnader,Kevin,1993-02-03,AUT,36,8,M,3,2,1,0,  215,1,6,0,0,0,0,1,0
-oswafe,Oswald,Ferdinand,1990-10-05,GER,36,25,P,18,18,0,0, 1620,18,0,-47,0,0,0,1,0
-pranbe,Pranter,Benjamin,1989-09-22,AUT,36,7,M,16,16,0,3, 1342,11,0,0,0,0,0,1,0
-riedfl,Rieder,Florian,1996-05-16,AUT,36,16,M,15,9,6,0,  873,5,1,0,0,0,0,4,0
-santse,Santin,Sebastian,1994-06-15,AUT,36,9,M,11,6,5,1,  682,3,3,0,0,0,0,3,0
-svobmi,Svoboda,Michael,1998-10-15,AUT,36,3,F,18,14,4,0, 1363,14,0,0,0,0,0,4,0
-toplfl,Toplitsch,Florian,1991-09-07,AUT,36,10,M,9,7,2,0,  521,1,7,0,-1,0,0,5,0
-walccl,Walch,Clemens,1987-07-10,AUT,36,18,M,11,7,4,2,  527,0,0,0,0,0,0,0,0
-yeboke,Yeboah,Kelvin,0000-00-00,ITA,36,27,A,13,8,5,1,  829,5,0,0,0,0,0,5,0
+hodzam,Hodzic,Amar,1999-07-12,AUT,192, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
+holzm1,Holzer,Marcel,1998-10-06,AUT,192,6,A,6,1,5,0,  141,0,1,0,0,0,0,1,0
+jojimi,Jojić,Miloš,1992-03-19,SRB,192,21,M,14,14,0,1, 1053,4,0,0,0,0,0,1,0
+koflal,Kofler,Alexander,1986-11-06,AUT,192,31,P,28,28,0,0, 2520,28,4,-37,0,0,0,1,0
+kuttm1,Kuttin,Manuel,1993-12-17,AUT,192,29,P,4,4,0,0,  360,4,26,-6,0,0,0,0,0
+leitm1,Leitgeb,Mario,1988-06-30,AUT,192,16,M,30,28,2,3, 2551,25,0,0,0,0,0,8,0
+lienmi,Liendl,Michael,1985-10-25,AUT,192,10,M,32,31,1,8, 2808,25,0,0,0,2,0,2,0
+nianan,Niangbo,Anderson,1999-10-06,CIV,192, , ,17,12,5,7, 1109,3,1,0,0,0,0,1,0
+novam2,Novak,Michael,1990-12-30,AUT,192,27,F,31,29,2,4, 2603,25,0,0,0,0,0,5,0
+perist,Perić,Stefan,1997-02-13,AUT,192,5,F,1,0,1,0,    7,0,9,0,0,0,0,0,0
+ritzma,Ritzmaier,Marcel,1993-04-22,AUT,192, , ,18,18,0,2, 1523,12,0,0,0,0,0,5,0
+rnicne,Rnić,Nemanja,1984-09-30,SRB,192,15,F,25,25,0,0, 2130,22,2,0,0,0,0,8,1
+schmm5,Schmerböck,Marc Andre,1994-04-01,AUT,192,34,M,17,6,11,2,  521,0,7,0,0,0,0,0,0
+schmro,Schmid,Romano,2000-01-27,AUT,192,11,M,25,24,1,2, 2005,10,0,0,0,0,0,6,0
+schma1,Schmidt,Alexander,1998-01-19,AUT,192,13,A,19,7,12,0,  695,1,5,0,0,0,0,1,0
+schmlu,Schmitz,Lukas,1988-10-13,GER,192,7,F,31,29,2,1, 2600,25,0,0,0,0,0,3,0
+scholu,Schöfl,Lukas,2001-02-11,AUT,192,23,M,7,1,6,0,  225,0,5,0,0,0,0,0,0
+sollmi,Sollbauer,Michael,1990-05-15,AUT,192, , ,18,18,0,0, 1620,18,0,0,-1,0,0,4,0
+sprasv,Sprangler,Sven,1995-03-27,AUT,192,19,M,13,3,10,0,  338,1,12,0,0,0,0,1,0
+straka,Stratznig,Kai,2002-04-15,AUT,192,12,M,4,2,2,0,  137,1,4,0,0,0,0,2,0
+vieimi,Vieira,Miguel,1990-10-08,POR,192,28,F,7,5,2,0,  419,2,4,0,0,0,0,0,0
+weissh,Weissman,Shon,1996-02-14,ISR,192,9,A,31,30,1,30, 2654,21,1,0,0,1,0,4,0
+wernch,Wernitznig,Christopher,1990-02-24,AUT,192,24,M,29,9,20,4,  962,1,3,0,0,0,0,0,0
+adjefe,Adjei,Felix,1990-12-17,GHA,36,17,F,21,17,4,0, 1549,14,1,0,0,0,0,3,0
+baueki,Bauernfeind,Kilian,2002-04-23,AUT,36,24,M,0,0,0,0,    0,0,3,0,0,0,0,0,0
+beccsi,Beccari,Simon,1998-11-18,ITA,36,12,P,1,1,0,0,   90,1,8,-2,0,0,0,0,0
+buchfl,Buchacher,Florian,1987-09-28,AUT,36,26,F,17,12,5,1, 1017,5,6,0,0,0,0,5,0
+cabrio,Cabrera,Ione,1985-10-13,SPA,36,13,F,13,12,1,0,  907,8,0,0,0,0,0,4,1
+dedizl,Dedič,Zlatko,1984-10-05,SLO,36,22,A,31,27,4,12, 2458,22,0,0,0,3,0,4,0
+grgilu,Grgic,Lukas,1995-08-17,AUT,36,46,M,19,18,1,0, 1595,16,0,0,0,0,0,5,0
+gruepa,Grünwald,Pascal,1982-11-13,AUT,36,1,P,0,0,0,0,    0,0,23,0,0,0,0,0,0
+guggda,Gugganig,David,1997-02-10,AUT,36,4,F,23,21,2,0, 1739,14,3,0,0,0,0,9,1
+goelju,Gölles,Julian,1999-09-22,AUT,36,14,F,15,8,7,0,  650,3,9,0,0,0,0,0,0
+hagest,Hager,Stefan,1995-01-25,AUT,36,34,F,29,24,5,2, 2181,20,1,0,0,0,0,8,0
+jurdmi,Jurdík,Milan,1991-11-08,SVK,36, , ,9,0,9,0,  132,0,4,0,0,0,0,0,0
+jaurig,Jáuregui,Ignacio,1995-08-02,ARG,36,5,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
+katnlu,Katnik,Lukas,1989-07-31,AUT,36, , ,2,0,2,0,   77,0,5,0,0,0,0,0,0
+kerbfe,Kerber,Felix,2002-10-25,AUT,36,29,A,1,0,1,0,   15,0,1,0,0,0,0,0,0
+kochfa,Koch,Fabian,1989-06-24,AUT,36,24,F,11,11,0,1,  898,9,0,0,0,0,0,2,0
+kovadi,Kovacec,Dino,1993-12-27,CRO,36,23,M,8,6,2,0,  514,1,1,0,0,0,0,2,0
+madefl,Mader,Florian,1982-09-14,AUT,36, , ,9,7,2,0,  562,2,8,0,0,0,0,2,0
+maiest,Maierhofer,Stefan,1982-08-16,AUT,36,20,A,13,12,1,2, 1044,8,0,0,0,0,0,8,0
+neursa,Neurauter,Sandro,1992-03-21,AUT,36,19,F,19,10,9,0,  970,6,11,0,0,0,0,0,0
+nitzke,Nitzlnader,Kevin,1993-02-03,AUT,36,8,M,9,4,5,0,  479,3,9,0,0,0,0,2,0
+oswafe,Oswald,Ferdinand,1990-10-05,GER,36,25,P,31,31,0,0, 2790,31,0,-64,0,0,0,1,0
+petsth,Petsos,Thanos,1991-06-05,GRE,36,6,M,14,14,0,1, 1241,13,0,0,0,0,0,2,0
+pranbe,Pranter,Benjamin,1989-09-22,AUT,36,7,M,22,21,1,3, 1667,11,0,0,0,0,0,1,0
+riedfl,Rieder,Florian,1996-05-16,AUT,36,16,M,28,19,9,0, 1716,6,1,0,0,0,0,5,0
+santse,Santin,Sebastian,1994-06-15,AUT,36,9,M,23,10,13,1, 1103,3,5,0,0,0,0,3,0
+soarbr,Soares,Bruno,1988-08-21,BRA,36,44,F,10,10,0,0,  814,7,0,0,0,0,0,1,1
+svobmi,Svoboda,Michael,1998-10-15,AUT,36,3,F,31,26,5,1, 2454,25,0,0,0,0,0,4,1
+toplfl,Toplitsch,Florian,1991-09-07,AUT,36,10,M,13,7,6,0,  610,1,10,0,-1,0,0,5,0
+walccl,Walch,Clemens,1987-07-10,AUT,36,18,M,17,9,8,2,  776,0,0,0,0,0,0,0,0
+wogrha,Wogrin,Harald,1985-03-26,AUT,36,35,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
+yeboke,Yeboah,Kelvin,0000-00-00,ITA,36,27,A,25,15,10,4, 1514,8,0,0,0,0,0,5,1

@@ -1,4 +1,4 @@
-253
+261
 adrico,Adriaanse,Co,1947-07-21,NED,Amsterdam,NED
 altmse,Altman,Semyonn,1946-04-21,UKR,Chuhuiev,UKR
 arisvi,Aristov,Viktor,1938-08-14,RUS,Михайлов, 
@@ -12,6 +12,7 @@ balxor,Bal,Orest,1960-10-02,UKR, ,UKR
 baraal,Baranov,Aleksandr,1960-04-29,UKR,Киев,UKR
 belymi,Belykh,Mihaylo,1958-12-23,UKR,Красный Луч,UKR
 bernst,Bernikov,Stanislav,1953-10-01,RUS,Липецк,RUS
+bessan,Bessmertniy,Anatoliy,1969-01-21,UKR,Kiev,UKR
 bezsvl,Bezsonov,Vladimir,1958-03-05,UKR,Kharkiv,UKR
 bidaan,Bida,Anatoliy,1950-09-12,UKR, ,UKR
 biskig,Biskup,Igor,1960-08-11,UKR,Монастыриска,UKR
@@ -58,6 +59,7 @@ evtuva,Evtushenko,Vadim,1958-01-01,UKR,Piatyhatki,UKR
 fabrfa,Fabri, ,1955-04-25,SPA,San Pedro de Santa Comba,SPA
 fedoni,Fedorenko,Nikolay,1955-07-31,UKR,п. Рудник им. Орджоникидзе, 
 fedool,Fedorchuk,Oleg,1961-02-10,UKR,Коростень,UKR
+fedyiv,Fedyk,Ivan,1987-07-09,UKR, ,UKR
 ferngo,Fernandez,Gomez,1971-09-08,SPA,Bilbao,SPA
 fomemi,Fomenko,Mikhail,1948-09-19,UKR,Mala Rybytsia,UKR
 fonspa,Fonseca,Paulo,1973-03-05,POR,Maputo,MOZ
@@ -83,6 +85,7 @@ ishcle,Ishchuk,Leonid,1951-01-10,UKR,Староконстантинов,UKR
 ishcol,Ishchenko,Oleksandr,1953-09-03,UKR,Kremenchuk,UKR
 joviig,Jovićević,Igor,1973-11-30,CRO,Zagreb,CRO
 kalimi,Kalita,Mihaylo,1961-09-27,UKR,Львов,UKR
+kaliy1,Kalitvintsev,Yuriy,1968-05-05,UKR,Volgograd,RUS
 kaliyu,Kalitvintsev,Yuriy,1968-05-05,RUS,Волгоград,RUS
 kamavi,Kamarzaev,Viktor,1956-09-21,UKR,Прохладный,RUS
 kasapa,Kasanov,Pasha,1953-01-19,URS,п.г.т. Тавричанка, 
@@ -136,6 +139,7 @@ luzhol,Luzhniy,Oleg,1968-08-05,UKR,Lviv,
 lyseal,Lysenko,Aleksandr,1956-02-11,UKR,Гребёнка,UKR
 maksyu,Maksimov,Yuriy,1968-12-08,UKR,Kherson,UKR
 markmi,Markevich,Miron,1951-02-01,UKR,Vynnyky,UKR
+markos,Markevych,Ostap,1978-04-04,UKR,Ostap Myronovych Markevych,UKR
 maruse,Marusin,Sergey,1958-04-01,UKR,с. Канадей, 
 maslvi,Maslov,Viktor,1949-03-31,RUS,Петропавловск-Камчатский, 
 matune,Matushev,Nedelcho,1962-02-14,BUL,Kardzhali,BUL
@@ -192,6 +196,7 @@ sanzro,Sanzhar,Roman,1979-05-28,UKR,Donetsk,
 scalne,Scala,Nevio,1947-11-22,ITA,Лоццо-Атестино,ITA
 schube,Schuster,Bernhard,1959-12-22,GER,Аугсбург,GER
 semiyu,Semin,Yuriy,1947-05-11,RUS,Orenburg,RUS
+sevevi,Severino,Vítor,1983-08-16,POR,Peniche,POR
 seviol,Sevidov,Oleksandr,1969-07-18,UKR,Donetsk, 
 shakan,Shakun,Anatoliy,1948-01-02,UKR,Констанца, 
 shalvt,Shalychev,Vítaliy,1946-10-30,UKR,Чистяково,UKR
@@ -204,6 +209,7 @@ shkoef,Shkolnikov,Efim,1939-01-31,UKR,Чернигов,UKR
 shteol,Shtelin,Oleksandr,1953-10-01,UKR,Мукачево,UKR
 shudol,Shudrik,Oleksandr,1954-01-31,UKR, ,UKR
 shulyu,Shulyatitskiy,Yuriy,1942-08-04,UKR,Станислав,UKR
+shumvi,Shumsky,Vitaly,1972-05-17,UKR, ,UKR
 shveva,Shvedyuk,Valeriy,1946-04-13,UKR,Бахчисарай, 
 silvgt,da Silva,Gilmar Tadeu,1970-11-18,BRA,Sao Paulo,BRA
 skrejn,Skredelis,Jānis,1939-12-29,LAT,Резекне,LAT
@@ -228,6 +234,8 @@ taraol,Taran,Oleg,1960-01-11,UKR,Ordjonikidze,
 tashse,Tashuev,Sergey,1959-01-01,RUS, ,RUS
 tkacle,Tkachenko,Leonid,1953-10-01,RUS,Старый Крым,RUS
 tomaol,Tomakh,Aleksandr,1948-10-17,BLR, ,BLR
+tsetgi,Tsetsadze,Giorgi,1974-09-03,GEO, ,GEO
+tsymmy,Tsymbal,Mykola,1984-09-07,UKR,Kryvyi Rig,UKR
 tsytvo,Tsytkin,Volodimyr,1966-08-01,UKR,Kiev, 
 tyshva,Tyshchenko,Vadym,1963-03-24,UKR,Horodok,UKR
 udovvi,Udovenko,Viktor,1947-02-08,UKR,Киев,UKR

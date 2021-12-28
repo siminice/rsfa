@@ -3,7 +3,6 @@ vlacod,Odisseas,Vlachodimos,1994-04-26,GRE,0,99,P,0,0,0,0,odisseas-vlachodimos
 zlobiv,Ivan,Zlobin,1997-03-07,RUS,0,72,P,0,0,0,0,ivan-zlobin
 grimal,Álex,Grimaldo,1995-09-20,SPA,0,3,F,0,0,0,0,alex-grimaldo
 almean,André,Almeida,1990-09-10,POR,0,34,F,0,0,0,0,andre-almeida
-contge,Germán,Conti,1994-06-03,ARG,0,2,F,0,0,0,0,german-conti
 ebuety,Tyronne,Ebuehi,1995-12-16,NGR,0,23,F,0,0,0,0,tyronne-ebuehi
 ferrfJ, ,Ferro,1997-03-26,POR,0,97,F,0,0,0,0,ferro
 jardja, ,Jardel,1986-03-29,BRA,0,33,F,0,0,0,0,jardel_3
@@ -14,33 +13,39 @@ alvape,Pedro,Álvaro,2000-03-02,POR,0,89,F,0,0,0,0,pedro-alvaro
 diasru,Rúben,Dias,1997-05-14,POR,0,6,F,0,0,0,0,ruben-dias
 tavato,Tomás,Tavares,2001-03-07,POR,0,84,F,0,0,0,0,tomas-tavares
 chiqfr, ,Chiquinho,1995-07-19,POR,0,19,M,0,0,0,0,chiquinho_8
-fejslj,Ljubomir,Fejsa,1988-08-14,SRB,0,5,M,0,0,0,0,ljubomir-fejsa
 luisfl,Florentino,Luís,1999-08-19,POR,0,61,M,0,0,0,0,florentino-luis
 gabrga, ,Gabriel,1993-09-18,BRA,0,8,M,0,0,0,0,gabriel_21
-fernge,Gedson,Fernandes,1999-01-09,POR,0,83,M,0,0,0,0,gedson-fernandes
 ramogo,Gonçalo,Ramos,2001-06-20,POR,0,88,M,0,0,0,0,goncalo-ramos
 samaan,Andreas,Samaris,1989-06-13,GRE,0,22,M,0,0,0,0,andreas-samaris
 taarad,Adel,Taarabt,1989-05-24,MAR,0,49,M,0,0,0,0,adel-taarabt
 dantti,Tiago,Dantas,2000-12-24,POR,0,86,M,0,0,0,0,tiago-dantas
+weigju,Julian,Weigl,1995-09-08,GER,0,28,M,0,0,0,0,julian-weigl
 zivkan,Andrija,Živković,1996-07-11,SRB,0,17,M,0,0,0,0,andrija-zivkovic
-caiolu, ,Caio,1994-04-19,BRA,0,7,A,0,0,0,0,caio_10
 vinica,Carlos,Vinícius,1995-03-22,BRA,0,95,A,0,0,0,0,carlos-vinicius
 cervfr,Franco,Cervi,1994-05-26,ARG,0,11,A,0,0,0,0,franco-cervi
 tavada,David,Tavares,1999-03-18,POR,0,92,A,0,0,0,0,david-tavares
+sousdy,Dyego,Sousa,1989-09-14,BRA,0,20,A,0,0,0,0,dyego-sousa
 jotaj1, ,Jota,1999-03-30,POR,0,73,A,0,0,0,0,jota_7
 pizzlu, ,Pizzi,1989-10-06,POR,0,21,A,0,0,0,0,pizzi
 silvra,Rafa,Silva,1993-05-17,POR,0,27,A,0,0,0,0,rafa-silva
-tomard,Raúl,de Tomás,1994-10-17,SPA,0,9,A,0,0,0,0,raul-de-tomas
 sefeha,Haris,Seferović,1992-02-22,SUI,0,14,A,0,0,0,0,haris-seferovic
-benios,Óscar,Benítez,1993-01-14,ARG,0, , ,0,0,0,0,oscar-benitez_3
-lopeli,Lisandro,López,1989-09-01,ARG,0, , ,0,0,0,0,lisandro-lopez_2
-parkke,Keaton,Parks,1997-08-06,USA,0, , ,0,0,0,0,keaton-parks
+fernge,Gedson,Fernandes,1999-01-09,POR,0, , ,0,0,0,0,gedson-fernandes
+tomard,Raúl,de Tomás,1994-10-17,SPA,0, , ,0,0,0,0,raul-de-tomas
+caiolu, ,Caio,1994-04-19,BRA,0, , ,0,0,0,0,caio_10
+fejslj,Ljubomir,Fejsa,1988-08-14,SRB,0, , ,0,0,0,0,ljubomir-fejsa
+pintal,Alex,Pinto,1998-07-08,POR,0, , ,0,0,0,0,alex-pinto
+varebr,Bruno,Varela,1994-11-04,POR,0, , ,0,0,0,0,bruno-varela
+cadijh,Jhonder,Cádíz,1995-07-29,VEN,0, , ,0,0,0,0,jhonder-cadiz
+goncdi,Diogo,Gonçalves,1997-02-06,POR,0, , ,0,0,0,0,diogo-goncalves
+ferrfa,Facundo,Ferreyra,1991-03-14,ARG,0, , ,0,0,0,0,facundo-ferreyra
+lemacr,Cristian,Lema,1990-09-12,ARG,0, , ,0,0,0,0,cristian-lema
+pedrpA, ,Pedrinho,1998-04-13,BRA,0, , ,0,0,0,0,pedrinho_14
 gondsh,Shuichi,Gonda,1989-03-03,JAP,14,16,P,0,0,0,0,shuichi-gonda
 ferrri,Ricardo,Ferreira,1989-12-03,POR,14,1,P,0,0,0,0,ricardo-ferreira_5
 samus2, ,Samuel,1994-03-29,BRA,14,26,P,0,0,0,0,samuel_12
 stojne,Nedeljko,Stojišić,1997-09-25,SRB,14,94,P,0,0,0,0,nedeljko-stojisic
 anzako,Koki,Anzai,1995-05-31,JAP,14,22,F,0,0,0,0,koki-anzai
-everve, ,Éverson,1997-07-24,BRA,14,72,F,0,0,0,0,everson_5
+felif8, ,Felipe,1999-05-04,BRA,14,22,F,0,0,0,0,felipe_41
 hackem,Emmanuel,Hackman,1995-05-14,GHA,14,6,F,0,0,0,0,emmanuel-hackman
 gelahe,Henrique,Gelain,1995-01-05,BRA,14,19,F,0,0,0,0,henrique-gelain
 moraja,Jadson,Morais,1991-11-05,BRA,14,4,F,0,0,0,0,jadson-morais
@@ -51,39 +56,43 @@ rochwi,Willyan,Rocha,1995-01-27,BRA,14,28,F,0,0,0,0,willyan-rocha
 oliva7,Anderson,Oliveira,1998-07-16,BRA,14,17,M,0,0,0,0,anderson-oliveira
 reisbr,Bruno,Reis,1999-07-20,POR,14,18,M,0,0,0,0,bruno-reis_2
 tababr,Bruno,Tabata,1997-03-30,POR,14,10,M,0,0,0,0,bruno-tabata
-jrxxjc,José Cevallos,Jr.,1995-01-18,ECU,14,25,M,0,0,0,0,jose-cevallos-jr
 clemde,Dener,Clemente,1992-03-13,BRA,14,7,M,0,0,0,0,dener-clemente
 medefe,Fernando,Medeiros,1996-02-10,BRA,14,96,M,0,0,0,0,fernando-medeiros
 jorgjF, ,Jorge,1996-03-16,POR,14,86,M,0,0,0,0,jorge_16
 fernlu,Lucas,Fernandes,1997-09-20,BRA,14,29,M,0,0,0,0,lucas-fernandes_2
 luqul1, ,Luquinha,2000-10-03,BRA,14,20,M,0,0,0,0,luquinha
-paulp1, ,Paulinho,1994-07-10,BRA,14,8,M,0,0,0,0,paulinho_30
 estrpa,Paulo,Estrela,1999-02-20,POR,14,38,M,0,0,0,0,paulo-estrela
 sa_2pe,Pedro,Sá,1993-12-01,POR,14,21,M,0,0,0,0,pedro-sa_2
 romur2, ,Rômulo,1996-01-10,BRA,14,5,M,0,0,0,0,romulo_16
+shamma,Mohanad,Al Shammari,2000-06-20,IRQ,14,99,A,0,0,0,0,mohanad-al-shammari
 mortab,Aylton Boa,Morte,1993-09-23,POR,14,77,A,0,0,0,0,aylton-boa-morte
 beton1, ,Beto,1998-01-31,POR,14,14,A,0,0,0,0,beto_24
-iuryiu, ,Iury,1995-09-06,BRA,14,95,A,0,0,0,0,iury
+costbr,Bruno,Costa,1997-04-19,POR,14,88,A,0,0,0,0,bruno-costa_4
+candfa,Fali,Candé,1997-01-24,POR,14,36,A,0,0,0,0,fali-cande
 martja,Jackson,Martínez,1986-10-03,COL,14,9,A,0,0,0,0,jackson-martinez
 morem4,Marlos,Moreno,1996-09-20,COL,14,11,A,0,0,0,0,marlos-moreno
+texxrv,Ricardo Vaz,Tê,1986-10-01,POR,14,34,A,0,0,0,0,ricardo-vaz-te
 santsC,Sérgio,Santos,1998-10-02,POR,14,79,A,0,0,0,0,sergio-santos_5
-gomez2,Zé,Gomes,1999-04-08,POR,14,70,A,0,0,0,0,ze-gomes_2
-felif8, ,Felipe,1999-05-04,BRA,14, , ,0,0,0,0,felipe_41
-lazagu,Guilherme,Lazaroni,1992-11-18,BRA,14, , ,0,0,0,0,guilherme-lazaroni
+jrxxjc,José Jr.,Cevallos,1995-01-18,ECU,14, , ,0,0,0,0,jose-cevallos-jr
+iuryiu, ,Iury,1995-09-06,BRA,14, , ,0,0,0,0,iury
+nishta,Takuma,Nishimura,1996-10-22,JAP,14, , ,0,0,0,0,takuma-nishimura
+paulp1, ,Paulinho,1994-07-10,BRA,14, , ,0,0,0,0,paulinho_30
+everve, ,Éverson,1997-07-24,BRA,14, , ,0,0,0,0,everson_5
+gomez2,Zé,Gomes,1999-04-08,POR,14, , ,0,0,0,0,ze-gomes_2
+moregl,Gleison,Moreira,1995-06-23,BRA,14, , ,0,0,0,0,gleison-moreira
+guedma,Matheus,Guedes,1999-12-03,BRA,14, , ,0,0,0,0,matheus-guedes
+rustru, ,Ruster,1996-08-24,BRA,14, , ,0,0,0,0,ruster
 ramocl,Cláudio,Ramos,1991-11-16,POR,164,1,P,0,0,0,0,claudio-ramos
 silvdi,Diogo,Silva,1993-05-13,POR,164,13,P,0,0,0,0,diogo-silva_4
 niasba,Babacar,Niasse,1996-12-20,SEN,164,99,P,0,0,0,0,babacar-niasse
-silvpe,Pedro,Silva,1997-02-13,POR,164,24,P,0,0,0,0,pedro-silva_3
-wilsbr,Bruno,Wilson,1996-12-27,POR,164,3,F,0,0,0,0,bruno-wilson
 ferrfi,Filipe,Ferreira,1990-09-27,POR,164,30,F,0,0,0,0,filipe-ferreira
-vigajo,João,Vigário,1995-11-20,POR,164,20,F,0,0,0,0,joao-vigario
 goncj6,Jota,Gonçalves,2000-06-17,POR,164,4,F,0,0,0,0,jota-goncalves
-sancma,Manuel,Sánchez,1996-03-24,SPA,164,22,F,0,0,0,0,manuel-sanchez_2
 mouffa,Fahd,Moufi,1996-05-05,MAR,164,18,F,0,0,0,0,fahd-moufi
+petkma,Marko,Petković,1992-09-03,SRB,164,2,F,0,0,0,0,marko-petkovic
 sampph,Philipe,Sampaio,1994-11-11,BRA,164,94,F,0,0,0,0,philipe-sampaio
 alveri,Ricardo,Alves,1991-05-09,POR,164,34,F,0,0,0,0,ricardo-alves
+almet2,Tiago,Almeida,2001-08-28,POR,164,19,F,0,0,0,0,tiago-almeida_4
 tavayo,Yohan,Tavares,1988-03-02,POR,164,23,F,0,0,0,0,yohan-tavares
-montbr,Bruno,Monteiro,1984-10-05,POR,164,27,M,0,0,0,0,bruno-monteiro
 jaqujo,João,Jaquité,1996-02-22,GBS,164,5,M,0,0,0,0,joao-jaquite
 pedrj1,João,Pedro,1993-04-03,POR,164,8,M,0,0,0,0,joao-pedro_9
 reisjo,João,Reis,1992-06-24,POR,164,17,M,0,0,0,0,joao-reis
@@ -92,12 +101,20 @@ pepej1, ,Pepelu,1998-08-11,SPA,164,14,M,0,0,0,0,pepelu_3
 pitelu, ,Pité,1994-08-22,POR,164,10,M,0,0,0,0,pite
 richr2, ,Richard,1999-10-11,BRA,164,77,M,0,0,0,0,richard_10
 xavian,António,Xavier,1992-07-06,POR,164,7,A,0,0,0,0,antonio-xavier
-castro,Román,Castillo,1991-11-26,HON,164,11,A,0,0,0,0,roman-castillo
-denid2, ,Denilson,1995-07-18,BRA,164,9,A,0,0,0,0,denilson_7
 murijh,Jhon,Murillo,1995-06-04,VEN,164,15,A,0,0,0,0,jhon-murillo_2
+valeri,Ricardo,Valente,1991-04-03,POR,164,33,A,0,0,0,0,ricardo-valente
+ronaro, ,Ronan,1995-04-22,BRA,164,9,A,0,0,0,0,ronan_3
 fonsru,Rúben,Fonseca,2000-02-24,POR,164,29,A,0,0,0,0,ruben-fonseca
 strkto,Tomislav,Štrkalj,1996-08-02,CRO,164,28,A,0,0,0,0,tomislav-strkalj
 torojo,Jonathan,Toro,1996-10-21,HON,164,70,A,0,0,0,0,jonathan-toro
+wilsbr,Bruno,Wilson,1996-12-27,POR,164, , ,0,0,0,0,bruno-wilson
+denid2, ,Denilson,1995-07-18,BRA,164, , ,0,0,0,0,denilson_7
+montbr,Bruno,Monteiro,1984-10-05,POR,164, , ,0,0,0,0,bruno-monteiro
+castro,Román,Castillo,1991-11-26,HON,164, , ,0,0,0,0,roman-castillo
+vigajo,João,Vigário,1995-11-20,POR,164, , ,0,0,0,0,joao-vigario
+sousj8,Joel,Sousa,2000-03-17,POR,164, , ,0,0,0,0,joel-sousa_2
+sancma,Manuel,Sánchez,1996-03-24,SPA,164, , ,0,0,0,0,manuel-sanchez_2
+arcate,Telmo,Arcanjo,2001-06-21,CVE,164, , ,0,0,0,0,telmo-arcanjo
 costd1,Diogo,Costa,1999-09-19,POR,1,31,P,0,0,0,0,diogo-costa_2
 casiik,Iker,Casillas,1981-05-20,SPA,1,1,P,0,0,0,0,iker-casillas
 marcag,Agustín,Marchesín,1988-03-16,ARG,1,32,P,0,0,0,0,agustin-marchesin
@@ -107,27 +124,31 @@ leitdi,Diogo,Leite,1999-01-23,POR,1,4,F,0,0,0,0,diogo-leite_2
 marciv, ,Marcano,1987-06-23,SPA,1,5,F,0,0,0,0,marcano
 mbemch,Chancel,Mbemba,1994-08-08,DRC,1,19,F,0,0,0,0,chancel-mbemba
 pepekp, ,Pepe,1983-02-26,POR,1,3,F,0,0,0,0,pepe_2
-sarare,Renzo,Saravia,1993-06-16,ARG,1,24,F,0,0,0,0,renzo-saravia
 esteto,Tomás,Esteves,2002-04-03,POR,1,2,F,0,0,0,0,tomas-esteves
 manawi,Wilson,Manafá,1994-07-23,POR,1,18,F,0,0,0,0,wilson-manafa
 danida, ,Danilo,1991-09-09,POR,1,22,M,0,0,0,0,danilo_16
+vieifa,Fábio,Vieira,2000-05-30,POR,1,50,M,0,0,0,0,fabio-vieira_2
 loumma, ,Loum,1996-12-30,SEN,1,15,M,0,0,0,0,loum
 nakash,Shoya,Nakajima,1994-08-23,JAP,1,10,M,0,0,0,0,shoya-nakajima
 otavot, ,Otávio,1995-02-09,BRA,1,25,M,0,0,0,0,otavio_2
 romar3, ,Romário,2000-01-25,POR,1,8,M,0,0,0,0,romario_13
 olivse,Sérgio,Oliveira,1992-06-02,POR,1,27,M,0,0,0,0,sergio-oliveira
 uribma,Mateus,Uribe,1991-03-21,COL,1,16,M,0,0,0,0,mateus-uribe
+ferrvi,Vítor,Ferreira,2000-02-13,POR,1,77,M,0,0,0,0,vitor-ferreira_2
 abouvi,Vincent,Aboubakar,1992-01-22,CMR,1,9,A,0,0,0,0,vincent-aboubakar
-costbr,Bruno,Costa,1997-04-19,POR,1,6,A,0,0,0,0,bruno-costa_4
 coroje,Jesús,Corona,1993-01-06,MEX,1,17,A,0,0,0,0,jesus-corona
 diazlu,Luis,Díaz,1997-01-13,COL,1,7,A,0,0,0,0,luis-diaz_3
 silvf9,Fábio,Silva,2002-07-19,POR,1,49,A,0,0,0,0,fabio-silva_6
+marijC,João,Mário,2000-01-03,POR,1,57,A,0,0,0,0,joao-mario_4
 maremo,Moussa,Marega,1991-04-14,MLI,1,11,A,0,0,0,0,moussa-marega
 soarti,Tiquinho,Soares,1991-01-17,BRA,1,29,A,0,0,0,0,tiquinho-soares
 luisze,Zé,Luís,1991-01-24,CVE,1,20,A,0,0,0,0,ze-luis_3
+costbr,Bruno,Costa,1997-04-19,POR,1, , ,0,0,0,0,bruno-costa_4
+sarare,Renzo,Saravia,1993-06-16,ARG,1, , ,0,0,0,0,renzo-saravia
 vanava, ,Vaná,1991-04-25,BRA,1, , ,0,0,0,0,vana
-pereew,Ewerton,Pereira,1992-12-01,POR,1, , ,0,0,0,0,ewerton-pereira
-pedrjo,João,Pedro,1996-11-15,BRA,1, , ,0,0,0,0,joao-pedro_11
+awazch,Chidozie,Awaziem,1997-01-01,NGR,1, , ,0,0,0,0,chidozie-awaziem
+queidi,Diogo,Queirós,1999-01-05,POR,1, , ,0,0,0,0,diogo-queiros
+meixfr,Francisco,Meixedo,2001-05-19,POR,1, , ,0,0,0,0,francisco-meixedo
 brunb7, ,Bruno,1994-03-16,BRA,20,1,P,0,0,0,0,bruno_36
 denidn, ,Dênis,1987-04-14,BRA,20,33,P,0,0,0,0,denis
 luiswe,Wellington,Luís,1995-01-04,BRA,20,30,P,0,0,0,0,wellington-luis
@@ -139,23 +160,26 @@ gomeh2,Henrique,Gomes,1995-11-30,POR,20,55,F,0,0,0,0,henrique-gomes_2
 noguyg, ,Nogueira,1995-03-27,BRA,20,44,F,0,0,0,0,nogueira_6
 rodrrJ, ,Rodrigão,1995-09-11,BRA,20,5,F,0,0,0,0,rodrigao_8
 fernru,Rúben,Fernandes,1986-05-06,POR,20,26,F,0,0,0,0,ruben-fernandes
-arthja,James,Arthur,1998-03-17,GHA,20,44,M,0,0,0,0,james-arthur
 barayv,Yves,Baraye,1992-06-22,SEN,20,27,M,0,0,0,0,yves-baraye
 gonccl,Claude,Gonçalves,1994-04-09,FRA,20,8,M,0,0,0,0,claude-goncalves
 afonj2,João,Afonso,1995-02-09,BRA,20,6,M,0,0,0,0,joao-afonso_2
 kraebo,Bozhidar,Kraev,1997-06-23,BUL,20,24,M,0,0,0,0,bozhidar-kraev
 silvl8,Leonardo,Silva,1995-09-27,BRA,20,22,M,0,0,0,0,leonardo-silva_2
-mladbo,Bogdan,Mladenović,1996-04-04,SRB,20,19,M,0,0,0,0,bogdan-mladenovic
-ruizju,Juan,Ruiz,1999-10-10,COL,20,16,M,0,0,0,0,juan-ruiz_8
+riberu,Rúben,Ribeiro,1987-08-01,POR,20,70,M,0,0,0,0,ruben-ribeiro
 linosa,Samuel,Lino,1999-12-23,BRA,20,29,M,0,0,0,0,samuel-lino
 soarwi, ,Soares,1988-12-30,BRA,20,3,M,0,0,0,0,soares_3
-ericer, ,Erick,1997-12-10,BRA,20,11,A,0,0,0,0,erick_7
+carvvi,Vitor,Carvalho,1997-05-27,BRA,20,21,M,0,0,0,0,vitor-carvalho_3
+vieihu,Hugo,Vieira,1988-07-25,POR,20,10,A,0,0,0,0,hugo-vieira
 isaiah,Ahmed,Isaiah,1995-10-10,NGR,20,99,A,0,0,0,0,ahmed-isaiah
 lourl8, ,Lourency,1996-01-02,BRA,20,7,A,0,0,0,0,lourency
 naidza,Zakaria,Naidji,1995-01-19,ALG,20,9,A,0,0,0,0,zakaria-naidji
-baldro,Romário,Baldé,1996-12-25,POR,20,14,A,0,0,0,0,romario-balde
 limasa,Sandro,Lima,1990-10-28,POR,20,91,A,0,0,0,0,sandro-lima
+ericer, ,Erick,1997-12-10,BRA,20, , ,0,0,0,0,erick_7
+baldro,Romário,Baldé,1996-12-25,POR,20, , ,0,0,0,0,romario-balde
+ruizju,Juan,Ruiz,1999-10-10,COL,20, , ,0,0,0,0,juan-ruiz_8
 kellke, ,Kellyton,1995-03-08,BRA,20, , ,0,0,0,0,kellyton
+lopem2,Manuel,Lopes,2000-05-29,POR,20, , ,0,0,0,0,manuel-lopes_2
+tigenu, ,Tiger,1998-11-27,POR,20, , ,0,0,0,0,tiger_2
 sousma,Marco,Sousa,1995-01-29,POR,23,23,P,0,0,0,0,marco-sousa_2
 riberi,Ricardo,Ribeiro,1990-01-27,POR,23,87,P,0,0,0,0,ricardo-ribeiro
 bertsi,Simão,Bertelli,1993-07-02,BRA,23,1,P,0,0,0,0,simao-bertelli
@@ -164,25 +188,36 @@ santbr,Bruno,Santos,1993-02-07,BRA,23,13,F,0,0,0,0,bruno-santos_5
 telebr,Bruno,Teles,1986-05-01,BRA,23,6,F,0,0,0,0,bruno-teles
 silv18,Jorge,Silva,1996-03-22,POR,23,21,F,0,0,0,0,jorge-silva_7
 marajb, ,Maracás,1994-04-27,BRA,23,26,F,0,0,0,0,maracas
+marcm1, ,Marcelo,1989-07-27,BRA,23,44,F,0,0,0,0,marcelo_22
 baixma,Marco,Baixinho,1989-07-11,POR,23,2,F,0,0,0,0,marco-baixinho
 reabol,Oleg,Reabciuk,1998-01-16,MOL,23,5,F,0,0,0,0,oleg-reabciuk
-bernb6, ,Bernardo,1997-12-04,POR,23,7,M,0,0,0,0,bernardo_15
-diabmo,Mohamed,Diaby,1996-09-03,FRA,23,24,M,0,0,0,0,mohamed-diaby_4
+antust,Stephen,Antunes,1996-12-21,POR,23,46,M,0,0,0,0,stephen-antunes
+diabm1,Mohamed,Diaby,1996-09-03,FRA,23,24,M,0,0,0,0,mohamed-diaby_3
 carll1,Luíz,Carlos,1985-07-05,BRA,23,22,M,0,0,0,0,luiz-carlos_7
 djalma,Matchoi,Djaló,2003-04-10,POR,23,16,M,0,0,0,0,matchoi-djalo
 pedrp1, ,Pedrinho,1992-12-20,POR,23,10,M,0,0,0,0,pedrinho_8
-gavara,Rafael,Gava,1993-05-20,BRA,23,18,M,0,0,0,0,rafael-gava
 rochva,Vasco,Rocha,1989-01-29,POR,23,29,M,0,0,0,0,vasco-rocha
-almed1,Diogo,Almeida,2000-09-08,POR,23,28,A,0,0,0,0,diogo-almeida_3
-dadare,Renat,Dadashov,1999-05-17,AZE,23,11,A,0,0,0,0,renat-dadashov
+adriaB, ,Adriano,1993-04-07,POR,23,20,A,0,0,0,0,adriano_32
+denid2, ,Denilson,1995-07-18,BRA,23,7,A,0,0,0,0,denilson_7
 tanqdo,Douglas,Tanque,1993-10-27,BRA,23,99,A,0,0,0,0,douglas-tanque
-getug1, ,Getulio,1997-06-10,BRA,23,99,A,0,0,0,0,getulio_6
 ferrhe,Hélder,Ferreira,1997-04-05,POR,23,17,A,0,0,0,0,helder-ferreira
+amarjo,João,Amaral,1991-09-07,POR,23,42,A,0,0,0,0,joao-amaral
 freimu,Murilo,Freitas,1996-05-12,BRA,23,77,A,0,0,0,0,murilo-freitas
 silvui,Uilton,Silva,1992-07-25,BRA,23,9,A,0,0,0,0,uilton-silva
 weltwe, ,Welthon,1992-06-21,BRA,23,8,A,0,0,0,0,welthon
-cesaya,Yago,César,1997-05-26,BRA,23,70,A,0,0,0,0,yago-cesar
+dadare,Renat,Dadashov,1999-05-17,AZE,23, , ,0,0,0,0,renat-dadashov
+almed1,Diogo,Almeida,2000-09-08,POR,23, , ,0,0,0,0,diogo-almeida_3
+bernb6, ,Bernardo,1997-12-04,POR,23, , ,0,0,0,0,bernardo_15
+cesaya,Yago,César,1997-05-26,BRA,23, , ,0,0,0,0,yago-cesar
+gavara,Rafael,Gava,1993-05-20,BRA,23, , ,0,0,0,0,rafael-gava
 leaoan,André,Leão,1985-05-20,POR,23, , ,0,0,0,0,andre-leao
+ayonpa,Paul,Ayongo,1996-11-16,GHA,23, , ,0,0,0,0,paul-ayongo
+fataso,Sodiq,Fatai,1996-06-04,NGR,23, , ,0,0,0,0,sodiq-fatai
+greggo,Gonçalo,Gregório,1995-06-14,POR,23, , ,0,0,0,0,goncalo-gregorio
+olivj8,José,Oliveira,2002-04-06,POR,23, , ,0,0,0,0,jose-oliveira_5
+oseiba,Barnes,Osei,1995-01-08,GHA,23, , ,0,0,0,0,barnes-osei
+rochsi,Simão,Rocha,2000-12-13,POR,23, , ,0,0,0,0,simao-rocha
+diabmo,Mohamed,Diaby,1996-09-03,FRA,23, , ,0,0,0,0,mohamed-diaby_4
 alveca,Carlos,Alves,1998-02-18,POR,25,98,P,0,0,0,0,carlos-alves_4
 kiespa,Paweł,Kieszek,1984-04-16,POL,25,1,P,0,0,0,0,pawel-kieszek
 vitopa,Paulo,Vítor,1988-11-21,BRA,25,88,P,0,0,0,0,paulo-vitor
@@ -195,24 +230,28 @@ messme, ,Messias,1994-11-03,BRA,25,33,F,0,0,0,0,messias_3
 nadjel, ,Nadjack,1994-02-06,GBS,25,22,F,0,0,0,0,nadjack
 montne,Nélson,Monte,1995-07-30,POR,25,4,F,0,0,0,0,nelson-monte
 amarpe,Pedro,Amaral,1997-08-25,POR,25,24,F,0,0,0,0,pedro-amaral
+alixal,Almoatasembellah,Ali,1996-04-06,LYB,25,18,M,0,0,0,0,almoatasembellah-ali
 lopedi,Diego,Lopes,1994-05-03,BRA,25,10,M,0,0,0,0,diego-lopes
 teixdi,Diogo,Teixeira,1999-01-20,POR,25,88,M,0,0,0,0,diogo-teixeira
 augufi,Filipe,Augusto,1993-08-12,BRA,25,5,M,0,0,0,0,filipe-augusto
 jambni,Nikola,Jambor,1995-09-25,CRO,25,23,M,0,0,0,0,nikola-jambor
-jocajo, ,Joca,1996-01-30,POR,25,30,M,0,0,0,0,joca_3
 reisma,Matheus,Reis,1995-02-18,BRA,25,2,M,0,0,0,0,matheus-reis
+goncru,Rúben,Gonçalves,1998-12-23,POR,25,27,M,0,0,0,0,ruben-goncalves
 tarari, ,Tarantini,1983-10-07,POR,25,8,M,0,0,0,0,tarantini
 vitov1, ,Vitó,1997-09-18,POR,25,17,M,0,0,0,0,vito_4
 morebr,Bruno,Moreira,1987-09-06,POR,25,9,A,0,0,0,0,bruno-moreira
 maneca,Carlos,Mané,1994-03-11,POR,25,21,A,0,0,0,0,carlos-mane
-furtda,Damien,Furtado,1997-03-08,FRA,25,91,A,0,0,0,0,damien-furtado
-gabrg1, ,Gabrielzinho,1996-09-29,BRA,25,70,A,0,0,0,0,gabrielzinho
+dalage,Gelson,Dala,1996-07-13,ANG,25,57,A,0,0,0,0,gelson-dala
 silvl9,Leandro,Silva,1999-01-16,BRA,25,45,A,0,0,0,0,leandro-silva_9
 piazlu,Lucas,Piazón,1994-01-20,BRA,25,14,A,0,0,0,0,lucas-piazon
 santnu,Nuno,Santos,1995-02-13,POR,25,11,A,0,0,0,0,nuno-santos_4
-ronaro, ,Ronan,1995-04-22,BRA,25,19,A,0,0,0,0,ronan_3
 schuan, ,Schutte,1998-05-21,POR,25,77,A,0,0,0,0,schutte
 tareme,Mehdi,Taremi,1992-07-18,IRN,25,99,A,0,0,0,0,mehdi-taremi
+ronaro, ,Ronan,1995-04-22,BRA,25, , ,0,0,0,0,ronan_3
+gabrg1, ,Gabrielzinho,1996-09-29,BRA,25, , ,0,0,0,0,gabrielzinho
+jocajo, ,Joca,1996-01-30,POR,25, , ,0,0,0,0,joca_3
+buatjo,Jonathan,Buatu,1993-09-27,ANG,25, , ,0,0,0,0,jonathan-buatu
+martmD, ,Martim,1998-05-24,POR,25, , ,0,0,0,0,martim
 pasima,Mateus,Pasinato,1992-06-28,BRA,26,14,P,0,0,0,0,mateus-pasinato
 macenu,Nuno,Macedo,1999-05-29,POR,26,1,P,0,0,0,0,nuno-macedo
 trigpe,Pedro,Trigueira,1988-01-04,POR,26,88,P,0,0,0,0,pedro-trigueira
@@ -231,82 +270,104 @@ camaib,Ibrahima,Camará,1999-01-25,GUI,26,8,M,0,0,0,0,ibrahima-camara_7
 pachfa,Fábio,Pacheco,1988-05-26,POR,26,6,M,0,0,0,0,fabio-pacheco
 soarfi,Filipe,Soares,1999-05-20,POR,26,21,M,0,0,0,0,filipe-soares
 henrl1,Luiz,Henrique,1997-04-19,BRA,26,97,M,0,0,0,0,luiz-henrique_13
+santn5,Nuno,Santos,1999-03-02,POR,26,77,M,0,0,0,0,nuno-santos_5
 nunope,Pedro,Nuno,1995-01-13,POR,26,27,M,0,0,0,0,pedro-nuno
 aouabi,Bilel,Aouacheria,1994-04-02,FRA,26,10,A,0,0,0,0,bilel-aouacheria
 abrefa,Fábio,Abreu,1993-01-29,POR,26,29,A,0,0,0,0,fabio-abreu
+gabrg1, ,Gabrielzinho,1996-09-29,BRA,26,90,A,0,0,0,0,gabrielzinho
 machlu,Luís,Machado,1992-11-04,POR,26,70,A,0,0,0,0,luis-machado_3
 nenean, ,Nenê,1983-07-28,BRA,26,7,A,0,0,0,0,nene_6
 rodrpa,Patricio,Rodriguez,1990-05-04,ARG,26,11,A,0,0,0,0,patricio-rodriguez
 singlu,Luther,Singh,1997-08-05,RSA,26,22,A,0,0,0,0,luther-singh
 texeda,David,Texeira,1991-02-27,URU,26,9,A,0,0,0,0,david-texeira
+abubma,Malik,Abubakari,2000-05-10,GHA,26, , ,0,0,0,0,malik-abubakari
+elsils, ,Elsinho,1995-10-09,POR,26, , ,0,0,0,0,elsinho_3
+iddrmo,Mohammed,Iddriss,2000-07-26,GHA,26, , ,0,0,0,0,mohammed-iddriss
+rodrlu,Lucas,Rodrigues,1999-08-27,BRA,26, , ,0,0,0,0,lucas-rodrigues
 ferran,André,Ferreira,1996-05-29,POR,27,1,P,0,0,0,0,andre-ferreira_2
-lopejo,João,Lopes,1996-01-16,BRA,27,96,P,0,0,0,0,joao-lopes
 rochma,Marco,Rocha,1987-01-12,POR,27,99,P,0,0,0,0,marco-rocha
+rodor4, ,Rodolfo,1997-10-13,POR,27,97,P,0,0,0,0,rodolfo_12
 cesacs, ,César,1992-12-28,BRA,27,12,F,0,0,0,0,cesar_5
 cardfa,Fábio,Cardoso,1994-04-19,POR,27,4,F,0,0,0,0,fabio-cardoso
 afonjo,João,Afonso,1990-05-28,POR,27,5,F,0,0,0,0,joao-afonso_3
 lucajo,João,Lucas,1996-01-15,POR,27,15,F,0,0,0,0,joao-lucas
 candma,Mamadú,Candé,1991-08-28,GBS,27,24,F,0,0,0,0,mamadu-cande
-patrpa, ,Patrick,1991-01-22,BRA,27,91,F,0,0,0,0,patrick_7
 ramor6,Rafael,Ramos,1995-01-09,POR,27,2,F,0,0,0,0,rafael-ramos
+sagnpi,Pierre,Sagna,1990-08-21,SEN,27,22,F,0,0,0,0,pierre-sagna
 sanuza,Zaidu,Sanusi,1997-06-13,NGR,27,3,F,0,0,0,0,zaidu-sanusi
 carvan,Anderson,Carvalho,1990-05-20,BRA,27,27,M,0,0,0,0,anderson-carvalho
-lamabr,Bruno,Lamas,1994-04-13,BRA,27,10,M,0,0,0,0,bruno-lamas
 ramoch,Chico,Ramos,1995-04-10,POR,27,88,M,0,0,0,0,chico-ramos
+costjo, ,Costinha,1992-08-25,POR,27,20,M,0,0,0,0,costinha_5
 lincli, ,Lincoln,1998-11-07,BRA,27,17,M,0,0,0,0,lincoln_3
-marql1,Lucas,Marques,1995-05-24,BRA,27,33,M,0,0,0,0,lucas-marques
 neneru, ,Nené,1995-06-10,POR,27,21,M,0,0,0,0,nene_19
-pinede,Denis,Pineda,1995-08-10,SAL,27,11,M,0,0,0,0,denis-pineda
 rashos,Osama,Rashid,1992-01-17,IRQ,27,6,M,0,0,0,0,osama-rashid
 carlcK, ,Carlos,1995-08-15,BRA,27,13,A,0,0,0,0,carlos_14
-evouma,Malick,Evouna,1992-11-28,GAB,27,9,A,0,0,0,0,malick-evouna
+cryscr, ,Crysan,1996-07-07,BRA,27,23,A,0,0,0,0,crysan
+salodi,Diogo,Salomão,1988-09-14,POR,27,35,A,0,0,0,0,diogo-salomao
 schegu,Guilherme,Schettine,1995-10-10,BRA,27,95,A,0,0,0,0,guilherme-schettine
-diogpa,Pablo,Diogo,1992-12-18,BRA,27,92,A,0,0,0,0,pablo-diogo
-stepal,Alfredo,Stephens,1994-12-25,PAN,27,18,A,0,0,0,0,alfredo-stephens
 santth,Thiago,Santana,1993-02-04,BRA,27,14,A,0,0,0,0,thiago-santana
 ukraan, ,Ukra,1988-03-16,POR,27,7,A,0,0,0,0,ukra
 manuze,Zé,Manuel,1990-10-23,POR,27,70,A,0,0,0,0,ze-manuel
+patrpa, ,Patrick,1991-01-22,BRA,27, , ,0,0,0,0,patrick_7
+lamabr,Bruno,Lamas,1994-04-13,BRA,27, , ,0,0,0,0,bruno-lamas
+marql1,Lucas,Marques,1995-05-24,BRA,27, , ,0,0,0,0,lucas-marques
+pinede,Denis,Pineda,1995-08-10,SAL,27, , ,0,0,0,0,denis-pineda
+evouma,Malick,Evouna,1992-11-28,GAB,27, , ,0,0,0,0,malick-evouna
+lopejo,João,Lopes,1996-01-16,BRA,27, , ,0,0,0,0,joao-lopes
+stepal,Alfredo,Stephens,1994-12-25,PAN,27, , ,0,0,0,0,alfredo-stephens
+perest,Steven,Pereira,1994-04-13,CVE,27, , ,0,0,0,0,steven-pereira_2
+ricarF, ,Ricardinho,1998-08-06,POR,27, , ,0,0,0,0,ricardinho_26
+simaro,Rodrigo,Simão,2000-10-28,POR,27, , ,0,0,0,0,rodrigo-simao
 sousd1,Diogo,Sousa,1998-09-16,POR,2,99,P,0,0,0,0,diogo-sousa
 maxilu,Luís,Maximiano,1999-01-05,POR,2,81,P,0,0,0,0,luis-maximiano
 ribere,Renan,Ribeiro,1990-03-23,BRA,2,1,P,0,0,0,0,renan-ribeiro
-viviem,Emiliano,Viviano,1985-12-01,ITA,2,90,P,0,0,0,0,emiliano-viviano
-pintan,André,Pinto,1989-10-05,POR,2,6,F,0,0,0,0,andre-pinto_2
 borjcr,Cristian,Borja,1993-02-18,COL,2,26,F,0,0,0,0,cristian-borja
 coatse,Sebastián,Coates,1990-10-07,URU,2,4,F,0,0,0,0,sebastian-coates
+quared,Eduardo,Quaresma,2002-03-02,POR,2,72,F,0,0,0,0,eduardo-quaresma
 mathje,Jérémy,Mathieu,1983-10-29,FRA,2,22,F,0,0,0,0,jeremy-mathieu
 netolu, ,Neto,1988-05-26,POR,2,14,F,0,0,0,0,neto_6
+mendn1,Nuno,Mendes,2002-06-19,POR,2,35,F,0,0,0,0,nuno-mendes_2
 ristst,Stefan,Ristovski,1992-02-12,MAC,2,13,F,0,0,0,0,stefan-ristovski
 rosiva,Valentin,Rosier,1996-08-19,FRA,2,19,F,0,0,0,0,valentin-rosier
 ilorti,Tiago,Ilori,1993-02-26,POR,2,3,F,0,0,0,0,tiago-ilori
 acunma,Marcos,Acuña,1991-10-28,ARG,2,9,M,0,0,0,0,marcos-acuna
 battro,Rodrigo,Battaglia,1991-07-12,ARG,2,16,M,0,0,0,0,rodrigo-battaglia
-bolaya,Yannick,Bolasie,1989-05-24,DRC,2,89,M,0,0,0,0,yannick-bolasie
-fernbr,Bruno,Fernandes,1994-09-08,POR,2,8,M,0,0,0,0,bruno-fernandes_2
+gerach,Chico,Geraldes,1995-04-18,POR,2,17,M,0,0,0,0,chico-geraldes
 doumid,Idrissa,Doumbia,1998-04-14,CIV,2,98,M,0,0,0,0,idrissa-doumbia
 henred,Eduardo,Henrique,1995-05-17,BRA,2,5,M,0,0,0,0,eduardo-henrique
+nunema,Matheus,Nunes,1998-08-27,BRA,2,73,M,0,0,0,0,matheus-nunes_2
 olivma,Mattheus,Oliveira,1994-07-07,BRA,2,94,M,0,0,0,0,mattheus-oliveira
 luismi,Miguel,Luís,1999-02-27,POR,2,27,M,0,0,0,0,miguel-luis
 camar1,Rafael,Camacho,2000-05-22,POR,2,7,M,0,0,0,0,rafael-camacho
 fernro,Rodrigo,Fernandes,2001-03-23,POR,2,93,M,0,0,0,0,rodrigo-fernandes_3
 wendma, ,Wendel,1997-08-28,BRA,2,37,M,0,0,0,0,wendel_9
-fernfO, ,Fernando,1999-03-01,BRA,2,18,A,0,0,0,0,fernando_39
-jeseje, ,Jesé,1993-02-26,SPA,2,21,A,0,0,0,0,jese
+fernj8,Joelson,Fernandes,2003-02-28,POR,2,96,A,0,0,0,0,joelson-fernandes
 cabrjo,Jovane,Cabral,1998-06-14,CVE,2,77,A,0,0,0,0,jovane-cabral
 phellu,Luiz,Phellype,1993-09-27,BRA,2,29,A,0,0,0,0,luiz-phellype
 mendp4,Pedro,Mendes,1999-08-01,POR,2,55,A,0,0,0,0,pedro-mendes_7
 platgo,Gonzalo,Plata,2000-11-01,ECU,2,20,A,0,0,0,0,gonzalo-plata
+sporan,Andraž,Šporar,1994-02-27,SLO,2,90,A,0,0,0,0,andraz-sporar
+tomati,Tiago,Tomás,2002-06-16,POR,2,51,A,0,0,0,0,tiago-tomas
 vietlu,Luciano,Vietto,1993-12-05,ARG,2,10,A,0,0,0,0,luciano-vietto
+fernbr,Bruno,Fernandes,1994-09-08,POR,2, , ,0,0,0,0,bruno-fernandes_2
+bolaya,Yannick,Bolasie,1989-05-24,DRC,2, , ,0,0,0,0,yannick-bolasie
+jeseje, ,Jesé,1993-02-26,SPA,2, , ,0,0,0,0,jese
 raphra, ,Raphinha,1996-02-14,BRA,2, , ,0,0,0,0,raphinha_2
 corrth,Thierry,Correia,1999-03-09,POR,2, , ,0,0,0,0,thierry-correia
 diabab,Abdoulay,Diaby,1991-05-21,MLI,2, , ,0,0,0,0,abdoulay-diaby
 dostba,Bas,Dost,1989-05-31,NED,2, , ,0,0,0,0,bas-dost
-beunqu,Quentin,Beunardeau,1994-02-27,FRA,34,24,P,0,0,0,0,quentin-beunardeau
+agbelu,Lumor,Agbenyenu,1996-08-15,GHA,2, , ,0,0,0,0,lumor-agbenyenu
+paulbr,Bruno,Paulista,1995-08-21,BRA,2, , ,0,0,0,0,bruno-paulista
+inacgo,Gonçalo,Inácio,2001-08-25,POR,2, , ,0,0,0,0,goncalo-inacio
+riquma,Mauro,Riquicho,1995-04-07,POR,2, , ,0,0,0,0,mauro-riquicho
 fabif1, ,Fabio,1990-05-11,BRA,34,12,P,0,0,0,0,fabio_19
 aflara,Raphael,Aflalo,1996-07-08,BRA,34,1,P,0,0,0,0,raphael-aflalo
 figuaf,Afonso,Figueiredo,1993-01-06,POR,34,25,F,0,0,0,0,afonso-figueiredo
 brunb8, ,Bruninho,1993-12-16,BRA,34,6,F,0,0,0,0,bruninho_14
 jesubr,Bruno,Jesus,1997-04-22,BRA,34,97,F,0,0,0,0,bruno-jesus_3
 morab1,Bruno,Morais,1998-04-08,POR,34,44,F,0,0,0,0,bruno-morais_2
+tavac1,Cláudio,Tavares,1997-03-23,POR,34,98,F,0,0,0,0,claudio-tavares
+diakou,Oumar,Diakhité,1993-12-09,SEN,34,15,F,0,0,0,0,oumar-diakhite
 dzwiad,Adam,Dźwigała,1995-09-25,POL,34,4,F,0,0,0,0,adam-dzwigala
 baldhe,Hélder,Baldé,1998-08-03,POR,34,3,F,0,0,0,0,helder-balde
 jailja, ,Jaílson,1991-02-21,BRA,34,13,F,0,0,0,0,jailson_6
@@ -315,26 +376,34 @@ miloma,Mato,Miloš,1993-06-30,CRO,34,77,F,0,0,0,0,mato-milos
 mangri,Ricardo,Mangas,1998-03-19,POR,34,19,F,0,0,0,0,ricardo-mangas
 simuan,Andrej,Šimunec,1995-03-02,CRO,34,2,F,0,0,0,0,andrej-simunec
 lourb1,Bruno,Lourenço,1998-02-02,POR,34,28,M,0,0,0,0,bruno-lourenco_2
-xavib1,Bruno,Xavier,1996-11-27,BRA,34,8,M,0,0,0,0,bruno-xavier_2
+buatjo,Jonathan,Buatu,1993-09-27,ANG,34,32,M,0,0,0,0,jonathan-buatu
 falccl,Claudio,Falcão,1994-07-03,BRA,34,29,M,0,0,0,0,claudio-falcao
 estrva, ,Estrela,1995-09-22,ANG,34,55,M,0,0,0,0,estrela
-fayeab,Ablaye,Faye,1994-04-10,SEN,34,42,M,0,0,0,0,ablaye-faye
 fernl5,Luiz,Fernando,1995-04-08,BRA,34,31,M,0,0,0,0,luiz-fernando_4
+delgpe,Pedro,Delgado,1997-04-07,POR,34,10,M,0,0,0,0,pedro-delgado_2
 silvrE,Reko,Silva,1999-06-21,POR,34,21,M,0,0,0,0,reko-silva
 olivru,Rúben,Oliveira,1994-12-14,POR,34,7,M,0,0,0,0,ruben-oliveira
-zidaen,Enzo,Zidane,1995-03-24,FRA,34,10,M,0,0,0,0,enzo-zidane
+tourmo,Mohamed,Touré,1997-03-30,CIV,34,79,M,0,0,0,0,mohamed-toure_3
+tshiaa,Aaron,Tshibola,1995-01-02,ENG,34,26,M,0,0,0,0,aaron-tshibola
 banjzi,Zidane,Banjaqui,1998-12-15,POR,34,20,M,0,0,0,0,zidane-banjaqui
-dialab,Abdoulaye,Diallo,1996-01-15,SEN,34,15,A,0,0,0,0,abdoulaye-diallo_3
-eriker, ,Erik,1995-02-02,BRA,34,95,A,0,0,0,0,erik_3
-kahrma,Mahmoud,Kahraba,1994-04-13,EGY,34,11,A,0,0,0,0,mahmoud-kahraba
-tavam1,Miguel,Tavares,1998-08-29,POR,34,17,A,0,0,0,0,miguel-tavares
+boatke,Kelvin,Boateng,2000-03-24,GHA,34,18,A,0,0,0,0,kelvin-boateng
+varejo,José,Varela,1997-09-15,CVE,34,45,A,0,0,0,0,jose-varela_3
+marimD, ,Marius,1998-01-22,CHA,34,14,A,0,0,0,0,marius_2
 mohame,Mehrdad,Mohammadi,1993-09-29,IRN,34,23,A,0,0,0,0,mehrdad-mohammadi
+soarpe,Pedro,Soares,1999-03-30,POR,34,90,A,0,0,0,0,pedro-soares_2
 peuxpe, ,Peu,1993-04-24,BRA,34,9,A,0,0,0,0,peu
-rodrri,Ricardo,Rodrigues,1995-06-28,POR,34,88,A,0,0,0,0,ricardo-rodrigues
 maceru,Rúben,Macedo,1996-03-09,POR,34,27,A,0,0,0,0,ruben-macedo
-weliw1, ,Welinton,1993-06-08,BRA,34,71,A,0,0,0,0,welinton
 yamgke,Kevin,Yamga,1996-09-07,FRA,34,96,A,0,0,0,0,kevin-yamga
-dougmi,Michel,Douglas,1992-01-16,BRA,34, , ,0,0,0,0,michel-douglas
+weliw1, ,Welinton,1993-06-08,BRA,34, , ,0,0,0,0,welinton
+beunqu,Quentin,Beunardeau,1994-02-27,FRA,34, , ,0,0,0,0,quentin-beunardeau
+tavam1,Miguel,Tavares,1998-08-29,POR,34, , ,0,0,0,0,miguel-tavares
+zidaen,Enzo,Zidane,1995-03-24,FRA,34, , ,0,0,0,0,enzo-zidane
+xavib1,Bruno,Xavier,1996-11-27,BRA,34, , ,0,0,0,0,bruno-xavier_2
+kahrma,Mahmoud,Kahraba,1994-04-13,EGY,34, , ,0,0,0,0,mahmoud-kahraba
+dialab,Abdoulaye,Diallo,1996-01-15,SEN,34, , ,0,0,0,0,abdoulaye-diallo_3
+rodrri,Ricardo,Rodrigues,1995-06-28,POR,34, , ,0,0,0,0,ricardo-rodrigues
+sheydi,Dimitar,Sheytanov,1999-03-15,BUL,34, , ,0,0,0,0,dimitar-sheytanov
+veiger,Eric,Veiga,1997-02-18,LUX,34, , ,0,0,0,0,eric-veiga
 leithe,Helton,Leite,1990-11-02,BRA,3,90,P,0,0,0,0,helton-leite
 goncj7,João,Gonçalves,2000-11-05,POR,3,99,P,0,0,0,0,joao-goncalves_5
 kaysma,Matheus,Kayser,1994-12-29,BRA,3,94,P,0,0,0,0,matheus-kayser
@@ -342,7 +411,6 @@ bracra,Rafael,Bracalli,1981-05-05,BRA,3,1,P,0,0,0,0,rafael-bracalli
 brenb2, ,Breno,2000-01-01,POR,3,15,F,0,0,0,0,breno_9
 carrru, ,Carraça,1993-03-01,POR,3,17,F,0,0,0,0,carraca
 dulagu,Gustavo,Dulanto,1995-09-05,PER,3,13,F,0,0,0,0,gustavo-dulanto
-mached,Edu,Machado,1990-04-26,POR,3,20,F,0,0,0,0,edu-machado
 fabif9, ,Fabiano,1991-11-18,BRA,3,18,F,0,0,0,0,fabiano_11
 lucalu, ,Lucas,1990-11-05,BRA,3,3,F,0,0,0,0,lucas_10
 marlm3, ,Marlon,1997-05-20,BRA,3,6,F,0,0,0,0,marlon_11
@@ -350,11 +418,9 @@ nerihu, ,Neris,1992-06-17,BRA,3,27,F,0,0,0,0,neris
 costri,Ricardo,Costa,1981-05-16,POR,3,22,F,0,0,0,0,ricardo-costa
 ackaya,Yaw,Ackah,1999-06-01,GHA,3,88,M,0,0,0,0,yaw-ackah
 cardf1,Fernando,Cardozo,2001-02-08,PAR,3,21,M,0,0,0,0,fernando-cardozo_2
-clarwa,Walter,Clar,1994-09-27,PAR,3,37,M,0,0,0,0,walter-clar
 mandid,Idrissa,Mandiang,1984-12-27,SEN,3,42,M,0,0,0,0,idrissa-mandiang
 obionw,Nwankwo,Obiora,1991-07-12,NGR,3,4,M,0,0,0,0,nwankwo-obiora
 paulpO, ,Paulinho,1997-01-08,POR,3,30,M,0,0,0,0,paulinho_44
-costra,Rafael,Costa,1991-01-19,BRA,3,23,M,0,0,0,0,rafael-costa_2
 reism3, ,Reisinho,1999-04-09,POR,3,16,M,0,0,0,0,reisinho_2
 reimto,Tomás,Reimão,1998-07-14,POR,3,24,M,0,0,0,0,tomas-reimao
 buenal, ,Bueno,1988-03-20,SPA,3,14,A,0,0,0,0,bueno
@@ -364,51 +430,65 @@ herih2, ,Heriberto,1997-02-19,POR,3,91,A,0,0,0,0,heriberto_3
 santlu,Luís,Santos,2000-01-20,POR,3,71,A,0,0,0,0,luis-santos_3
 matema, ,Mateus,1984-06-19,ANG,3,9,A,0,0,0,0,mateus_3
 njieyu,Yusupha,Njie,1994-01-03,GAM,3,11,A,0,0,0,0,yusupha-njie
-perdje, ,Perdigão,1991-07-17,BRA,3,7,A,0,0,0,0,perdigao_3
-pedrsa,Samuel,Pedro,2001-04-24,POR,3,77,A,0,0,0,0,samuel-pedro
 stojni,Nikola,Stojiljković,1992-08-17,SRB,3,19,A,0,0,0,0,nikola-stojiljkovic
+costra,Rafael,Costa,1991-01-19,BRA,3, , ,0,0,0,0,rafael-costa_2
+mached,Edu,Machado,1990-04-26,POR,3, , ,0,0,0,0,edu-machado
+pedrsa,Samuel,Pedro,2001-04-24,POR,3, , ,0,0,0,0,samuel-pedro
 espifa,Fábio,Espinho,1985-08-18,POR,3, , ,0,0,0,0,fabio-espinho
+jekaye, ,Jeka,1998-04-24,UKR,3, , ,0,0,0,0,jeka
 souzga,Gabriel,Souza,1997-01-01,BRA,48,64,P,0,0,0,0,gabriel-souza
 defera,Rafael,Defendi,1983-12-22,BRA,48,1,P,0,0,0,0,rafael-defendi
 vanava, ,Vaná,1991-04-25,BRA,48,26,P,0,0,0,0,vana
-caetvi,Vitor,Caetano,1999-07-01,BRA,48,25,P,0,0,0,0,vitor-caetano
 cental,Álex,Centelles,1999-08-30,SPA,48,32,F,0,0,0,0,alex-centelles
-lionjo, ,Lionn,1989-01-29,BRA,48,3,F,0,0,0,0,lionn
+cissib,Ibrahim,Cissé,1999-01-11,CIV,48,24,F,0,0,0,0,ibrahim-cisse_2
+colyra,Racine,Coly,1995-12-08,SEN,48,40,F,0,0,0,0,racine-coly
+pintiv,Ivo,Pinto,1990-01-07,POR,48,2,F,0,0,0,0,ivo-pinto
 willpa,Patrick,Willian,1997-06-03,BRA,48,97,F,0,0,0,0,patrick-willian
 perene,Nehuén,Pérez,2000-06-24,ARG,48,18,F,0,0,0,0,nehuen-perez
-phett1,Thibang,Phete,1994-04-04,RSA,48,22,F,0,0,0,0,thibang-phete
 riccri, ,Riccieli,1998-09-17,BRA,48,15,F,0,0,0,0,riccieli
 miraro,Roderick,Miranda,1991-03-30,POR,48,23,F,0,0,0,0,roderick-miranda
-tymojo,Josh,Tymon,1999-05-22,ENG,48,20,F,0,0,0,0,josh-tymon
 gugago, ,Guga,1997-07-18,POR,48,6,M,0,0,0,0,guga_3
 enrigu,Gustavo,Enrique,2000-03-30,BRA,48,12,M,0,0,0,0,gustavo-enrique
+netojo,João,Neto,2003-05-21,BRA,48,21,M,0,0,0,0,joao-neto_4
 perejD,Jorge,Pereira,1998-03-10,POR,48,51,M,0,0,0,0,jorge-pereira
 oforla,Lawrence,Ofori,1998-06-28,GHA,48,8,M,0,0,0,0,lawrence-ofori
 goncp1,Pedro,Gonçalves,1998-06-28,POR,48,28,M,0,0,0,0,pedro-goncalves
 raciur,Uroš,Račić,1998-03-17,SRB,48,69,M,0,0,0,0,uros-racic
-lameru,Rúben,Lameiras,1994-12-22,POR,48,10,M,0,0,0,0,ruben-lameiras
+teagry,Ryan,Teague,2002-01-24,AUS,48,16,M,0,0,0,0,ryan-teague
 silv19,Anderson,Silva,1997-11-21,BRA,48,33,A,0,0,0,0,anderson-silva
+camprd,Rubén,del Campo,2000-02-22,SUI,48,99,A,0,0,0,0,ruben-del-campo
 goncdi,Diogo,Gonçalves,1997-02-06,POR,48,17,A,0,0,0,0,diogo-goncalves
 martfa,Fábio,Martins,1993-07-24,POR,48,11,A,0,0,0,0,fabio-martins
+lameru,Rúben,Lameiras,1994-12-22,POR,48,10,A,0,0,0,0,ruben-lameiras
 schini,Nicolás,Schiappacasse,1999-01-12,URU,48,9,A,0,0,0,0,nicolas-schiappacasse
 martt1,Toni,Martínez,1997-06-30,SPA,48,19,A,0,0,0,0,toni-martinez
 waltw2, ,Walterson,1994-12-28,BRA,48,7,A,0,0,0,0,walterson
+lionjo, ,Lionn,1989-01-29,BRA,48, , ,0,0,0,0,lionn
+tymojo,Josh,Tymon,1999-05-22,ENG,48, , ,0,0,0,0,josh-tymon
+phett1,Thibang,Phete,1994-04-04,RSA,48, , ,0,0,0,0,thibang-phete
+caetvi,Vitor,Caetano,1999-07-01,BRA,48, , ,0,0,0,0,vitor-caetano
+chicfr, ,Chicão,2000-07-10,BRA,48, , ,0,0,0,0,chicao_7
+silvc8,Cláudio,Silva,2000-06-29,POR,48, , ,0,0,0,0,claudio-silva_2
+gomeh3,Hugo,Gomes,1995-01-04,BRA,48, , ,0,0,0,0,hugo-gomes_2
+caiajo,João,Caiado,1999-04-20,POR,48, , ,0,0,0,0,joao-caiado
+konafo,Fodé,Konaté,2000-12-02,MLI,48, , ,0,0,0,0,fode-konate
+rochlu, ,Rocha,1986-08-13,POR,48, , ,0,0,0,0,rocha_5
+diasti,Tiago,Dias,1998-05-04,POR,48, , ,0,0,0,0,tiago-dias_2
+valec1,Carlos,Valenzuela,1997-04-22,ARG,48, , ,0,0,0,0,carlos-valenzuela_2
 jesudo,Douglas,Jesus,1983-03-09,BRA,4,1,P,0,0,0,0,douglas-jesus
 jhonjh, ,Jhonatan,1991-05-08,BRA,4,19,P,0,0,0,0,jhonatan_2
-olivmi,Miguel,Oliveira,1994-05-25,POR,4,36,P,0,0,0,0,miguel-oliveira_3
 silvmi,Miguel,Silva,1995-04-07,POR,4,56,P,0,0,0,0,miguel-silva_2
-martt2,Tiago,Martins,1998-09-28,POR,4,64,P,0,0,0,0,tiago-martins_6
 bondva,Valeriy,Bondarenko,1994-02-03,UKR,4,4,F,0,0,0,0,valeriy-bondarenko
 venafr,Frederico,Venâncio,1993-02-04,POR,4,3,F,0,0,0,0,frederico-venancio
 garcvi,Victor,García,1994-06-11,VEN,4,15,F,0,0,0,0,victor-garcia_2
 hanifl,Florent,Hanin,1990-02-04,FRA,4,29,F,0,0,0,0,florent-hanin
 soarl2,Lucas,Soares,1998-05-04,BRA,4,42,F,0,0,0,0,lucas-soares
+mascm1, ,Mascarenhas,1998-07-27,BRA,4,54,F,0,0,0,0,mascarenhas
 henrpe,Pedro,Henrique,1992-12-18,BRA,4,2,F,0,0,0,0,pedro-henrique_7
-soarra,Rafa,Soares,1995-05-09,POR,4,5,F,0,0,0,0,rafa-soares
 sackfa,Falaye,Sacko,1995-05-01,MLI,4,17,F,0,0,0,0,falaye-sacko
-tapsed,Edmond,Tapsoba,1996-02-02,BFS,4,6,F,0,0,0,0,edmond-tapsoba
+suliea,Easah,Suliman,1998-01-26,ENG,4,37,F,0,0,0,0,easah-suliman
+abouel,Elias,Abouchabaka,2000-03-31,GER,4,93,M,0,0,0,0,elias-abouchabaka
 aguxmi,Mikel,Agu,1993-05-27,NGR,4,24,M,0,0,0,0,mikel-agu
-alixal,Almoatasembellah,Ali,1996-04-06,LYB,4,18,M,0,0,0,0,almoatasembellah-ali
 amoajo,Joseph,Amoah,1994-06-26,GHA,4,43,M,0,0,0,0,joseph-amoah_2
 almeaE,André,Almeida,2000-05-30,POR,4,70,M,0,0,0,0,andre-almeida_3
 andran, ,André,1989-08-26,POR,4,11,M,0,0,0,0,andre-andre
@@ -418,29 +498,40 @@ evanlu,Lucas,Evangelista,1995-05-06,BRA,4,7,M,0,0,0,0,lucas-evangelista
 pepepe, ,Pêpê,1997-05-20,POR,4,88,M,0,0,0,0,pepe_13
 pohade,Denis,Poha,1997-05-28,FRA,4,28,M,0,0,0,0,denis-poha
 rochdi, ,Rochinha,1995-05-03,POR,4,16,M,0,0,0,0,rochinha
+haento,Tomás,Händel,2000-11-27,POR,4,76,M,0,0,0,0,tomas-haendel
 tourbl,Blati,Touré,1994-08-04,BFS,4,22,M,0,0,0,0,blati-toure
 wakaal,Alhassan,Wakaso,1992-01-07,GHA,4,25,M,0,0,0,0,alhassan-wakaso
-guedal,Alexandre,Guedes,1994-02-11,POR,4,9,A,0,0,0,0,alexandre-guedes
-perean,André,Pereira,1995-05-05,POR,4,21,A,0,0,0,0,andre-pereira_3
 azizab, ,Aziz,1998-11-10,GHA,4,81,A,0,0,0,0,aziz_2
 duarbr,Bruno,Duarte,1996-03-24,BRA,4,96,A,0,0,0,0,bruno-duarte_3
 davida, ,Davidson,1991-03-05,BRA,4,91,A,0,0,0,0,davidson
 edwama,Marcus,Edwards,1998-12-03,ENG,4,23,A,0,0,0,0,marcus-edwards
 encaje,Jefferson,Encada,1998-04-17,GBS,4,79,A,0,0,0,0,jefferson-encada
 pedrjF,João,Pedro,1996-11-13,POR,4,45,A,0,0,0,0,joao-pedro_12
-johnol,Ola,John,1992-05-19,NED,4,30,A,0,0,0,0,ola-john
+johnol,Ola,John,1992-05-19,NED,4,8,A,0,0,0,0,ola-john
 bonale,Léo,Bonatini,1994-03-28,BRA,4,13,A,0,0,0,0,leo-bonatini
 nuninu, ,Nuninho,1998-02-28,POR,4,89,A,0,0,0,0,nuninho
+ouatab,Abou,Ouattara,1999-12-26,BFS,4,27,A,0,0,0,0,abou-ouattara
+tapsed,Edmond,Tapsoba,1996-02-02,BFS,4, , ,0,0,0,0,edmond-tapsoba
+soarra,Rafa,Soares,1995-05-09,POR,4, , ,0,0,0,0,rafa-soares
+perean,André,Pereira,1995-05-05,POR,4, , ,0,0,0,0,andre-pereira_3
+alixal,Almoatasembellah,Ali,1996-04-06,LYB,4, , ,0,0,0,0,almoatasembellah-ali
+guedal,Alexandre,Guedes,1994-02-11,POR,4, , ,0,0,0,0,alexandre-guedes
 corrj6,João,Correia,1996-09-05,POR,4, , ,0,0,0,0,joao-correia_2
+celigu,Guillermo,Celis,1993-05-08,COL,4, , ,0,0,0,0,guillermo-celis
+biaice,Celton,Biai,2000-08-13,POR,4, , ,0,0,0,0,celton-biai
+valema,Marcos,Valente,1994-02-04,POR,4, , ,0,0,0,0,marcos-valente
+olivmi,Miguel,Oliveira,1994-05-25,POR,4, , ,0,0,0,0,miguel-oliveira_3
+rincse,Sebastián,Rincón,1994-01-14,COL,4, , ,0,0,0,0,sebastian-rincon
 valijo,João,Valido,2000-03-03,POR,5,1,P,0,0,0,0,joao-valido
+paeslu,Lucas,Paes,1997-12-07,BRA,5,97,P,0,0,0,0,lucas-paes
 makagi,Giorgi,Makaridze,1990-03-31,GEO,5,90,P,0,0,0,0,giorgi-makaridze_2
-raphmi,Milton,Raphael,1991-05-11,BRA,5,12,P,0,0,0,0,milton-raphael
 sousan,André,Sousa,1998-02-26,POR,5,16,F,0,0,0,0,andre-sousa_3
 jorgar,Artur,Jorge,1994-08-14,POR,5,4,F,0,0,0,0,artur-jorge_4
 fernba,Baba,Fernandes,2000-03-07,POR,5,40,F,0,0,0,0,baba-fernandes
 langbr,Bruno,Langa,1997-10-31,MOZ,5,15,F,0,0,0,0,bruno-langa
 pirebr,Bruno,Pires,1992-05-12,BRA,5,24,F,0,0,0,0,bruno-pires
 meirjo,João,Meira,1987-04-30,POR,5,66,F,0,0,0,0,joao-meira
+serrj5,João,Serrão,2000-02-11,POR,5,19,F,0,0,0,0,joao-serrao
 juniju,Jubal,Júnior,1993-08-29,BRA,5,3,F,0,0,0,0,jubal-junior
 manolu, ,Mano,1987-04-09,POR,5,5,F,0,0,0,0,mano_3
 silvsl, ,Sílvio,1987-09-28,POR,5,17,F,0,0,0,0,silvio_2
@@ -455,62 +546,77 @@ valenu,Nuno,Valente,1991-11-22,POR,5,8,M,0,0,0,0,nuno-valente_2
 mathro,Rodrigo,Mathiola,1997-08-14,BRA,5,20,M,0,0,0,0,rodrigo-mathiola
 semejo, ,Semedo,1985-01-11,POR,5,29,M,0,0,0,0,semedo
 castti,Tiago,Castro,1996-01-31,POR,5,47,M,0,0,0,0,tiago-castro
-alexal, ,Alex,1991-08-27,POR,5,9,A,0,0,0,0,alex_7
-ghilna,Nabil,Ghilas,1990-04-20,ALG,5,99,A,0,0,0,0,nabil-ghilas
+montto,Tòfol,Montiel,2000-04-11,SPA,5,28,M,0,0,0,0,tofol-montiel
+alexal, ,Alex,1991-08-27,POR,5,14,A,0,0,0,0,alex_7
 guedhl, ,Guedes,1987-05-07,POR,5,7,A,0,0,0,0,guedes_2
 hachkh,Khalid,Hachadi,1998-05-03,MAR,5,9,A,0,0,0,0,khalid-hachadi
 hildhi, ,Hildeberto,1996-03-02,POR,5,11,A,0,0,0,0,hildeberto
 chaole,Leonardo,Chão,1999-08-01,POR,5,77,A,0,0,0,0,leonardo-chao
 mansbr,Braian,Mansilla,1997-04-16,ARG,5,22,A,0,0,0,0,braian-mansilla
 mendfr,Frédéric,Mendy,1988-09-18,GBS,5,23,A,0,0,0,0,frederic-mendy_3
-sekgkg,Kgaogelo,Sekgota,1997-06-22,RSA,5,26,A,0,0,0,0,kgaogelo-sekgota
 zequjo, ,Zéquinha,1987-01-07,POR,5,87,A,0,0,0,0,zequinha_2
+ghilna,Nabil,Ghilas,1990-04-20,ALG,5, , ,0,0,0,0,nabil-ghilas
+antomi,Mirko,Antonucci,1999-03-11,ITA,5, , ,0,0,0,0,mirko-antonucci
+raphmi,Milton,Raphael,1991-05-11,BRA,5, , ,0,0,0,0,milton-raphael
+sekgkg,Kgaogelo,Sekgota,1997-06-22,RSA,5, , ,0,0,0,0,kgaogelo-sekgota
 fernva,Vasco,Fernandes,1986-11-12,POR,5, , ,0,0,0,0,vasco-fernandes
+rafisa, ,Rafinha,1992-04-30,POR,5, , ,0,0,0,0,rafinha_8
+texxva,Valdu,Té,1997-08-14,GBS,5, , ,0,0,0,0,valdu-te
 morean,André,Moreira,1995-12-02,POR,6,1,P,0,0,0,0,andre-moreira
+mendfi,Filipe,Mendes,1985-06-17,POR,6,3,P,0,0,0,0,filipe-mendes
 montj6,João,Monteiro,2001-05-07,POR,6,82,P,0,0,0,0,joao-monteiro_2
 koffhe,Hervé,Koffi,1996-10-16,BFS,6,16,P,0,0,0,0,herve-koffi
 akasch,Chima,Akas,1994-05-03,NGR,6,27,F,0,0,0,0,chima-akas
+henrd1,Danny,Henriques,1997-07-29,NED,6,34,F,0,0,0,0,danny-henriques
 calidi,Diogo,Calila,1998-10-10,POR,6,23,F,0,0,0,0,diogo-calila
 kauxed,Eduardo,Kau,1999-01-17,BRA,6,4,F,0,0,0,0,eduardo-kau
 varefr,Fransisco,Varela,1994-10-26,SPA,6,5,F,0,0,0,0,fransisco-varela
 silvgo,Gonçalo,Silva,1991-06-04,POR,6,37,F,0,0,0,0,goncalo-silva
 silvlu,Luís,Silva,1999-02-18,POR,6,33,F,0,0,0,0,luis-silva_6
 vareni,Nilton,Varela,2001-05-25,POR,6,25,F,0,0,0,0,nilton-varela
-samaho,Hakim,Ouro-Sama,1997-12-28,TOG,6,15,F,0,0,0,0,hakim-ouro-sama
-ramisi,Simón,Ramírez,1998-11-03,CHI,6,44,F,0,0,0,0,simon-ramirez_2
+phett1,Thibang,Phete,1994-04-04,RSA,6,21,F,0,0,0,0,thibang-phete
+ferrr1,Ricardo,Ferreira,1992-11-25,POR,6,24,F,0,0,0,0,ricardo-ferreira
+limaru,Rúben,Lima,1989-10-03,POR,6,12,F,0,0,0,0,ruben-lima
 showma, ,Show,1999-03-06,ANG,6,6,F,0,0,0,0,show
 ribeto,Tomás,Ribeiro,1999-04-30,POR,6,28,F,0,0,0,0,tomas-ribeiro
 gaaglv,Luca van der,Gaag,2001-07-19,NED,6,41,F,0,0,0,0,luca-van-der-gaag
 santan,André,Santos,1989-03-02,POR,6,26,M,0,0,0,0,andre-santos_2
-sousa2,André,Sousa,1990-07-09,POR,6,8,M,0,0,0,0,andre-sousa
-bennbe, ,Benny,1997-01-04,POR,6,17,M,0,0,0,0,benny
 boukch,Chano,Boukholda,1996-05-24,ALG,6,10,M,0,0,0,0,chano-boukholda
-luccjo,Jonatan,Lucca,1994-06-02,BRA,6,47,M,0,0,0,0,jonatan-lucca
 coelnu,Nuno,Coelho,1987-11-23,POR,6,66,M,0,0,0,0,nuno-coelho
+henrn1,Nuno,Henrique,1999-03-31,POR,6,31,M,0,0,0,0,nuno-henrique_2
 sithsp,Sphephelo,Sithole,1999-03-03,RSA,6,42,M,0,0,0,0,sphephelo-sithole
 esgati,Tiago,Esgaio,1995-08-01,POR,6,13,M,0,0,0,0,tiago-esgaio
-veleni,Nicolás,Vélez,1990-07-04,ARG,6,19,M,0,0,0,0,nicolas-velez
-brymca,Charles-Andreas,Brym,1998-08-08,FRA,6,57,A,0,0,0,0,charles-andreas-brym
+castto,Tomás,Castro,1999-03-13,POR,6,49,M,0,0,0,0,tomas-castro
 cassma,Mateo,Cassierra,1997-04-13,COL,6,30,A,0,0,0,0,mateo-cassierra
 diegd2, ,Dieguinho,1992-06-07,BRA,6,14,A,0,0,0,0,dieguinho_2
-auredo,Douglas,Aurélio,1999-03-27,BRA,6,80,A,0,0,0,0,douglas-aurelio
 semeed,Edi,Semedo,1999-06-01,POR,6,90,A,0,0,0,0,edi-semedo
-faraim,Imad,Faraj,1999-02-11,FRA,6,59,A,0,0,0,0,imad-faraj
 keital,Alhassane,Keita,1992-04-16,GUI,6,50,A,0,0,0,0,alhassane-keita_2
-kikajo, ,Kikas,1998-09-17,POR,6,9,A,0,0,0,0,kikas_5
 licalu, ,Licá,1988-09-08,POR,6,7,A,0,0,0,0,lica
 matima,Marco,Matias,1989-05-10,POR,6,77,A,0,0,0,0,marco-matias
 robiri, ,Robinho,1997-07-31,POR,6,75,A,0,0,0,0,robinho_12
 salogo, ,Salo,1998-02-18,POR,6,18,A,0,0,0,0,salo_2
 varesi, ,Varela,1985-02-02,POR,6,20,A,0,0,0,0,varela_2
+sousa2,André,Sousa,1990-07-09,POR,6, , ,0,0,0,0,andre-sousa
+kikajo, ,Kikas,1998-09-17,POR,6, , ,0,0,0,0,kikas_5
 ljujma,Matija,Ljujić,1993-10-28,SRB,6, , ,0,0,0,0,matija-ljujic
+bennbe, ,Benny,1997-01-04,POR,6, , ,0,0,0,0,benny
+luccjo,Jonatan,Lucca,1994-06-02,BRA,6, , ,0,0,0,0,jonatan-lucca
+samaho,Hakim,Ouro-Sama,1997-12-28,TOG,6, , ,0,0,0,0,hakim-ouro-sama
+faraim,Imad,Faraj,1999-02-11,FRA,6, , ,0,0,0,0,imad-faraj
+veleni,Nicolás,Vélez,1990-07-04,ARG,6, , ,0,0,0,0,nicolas-velez
+brymca,Charles-Andreas,Brym,1998-08-08,FRA,6, , ,0,0,0,0,charles-andreas-brym
+ramisi,Simón,Ramírez,1998-11-03,CHI,6, , ,0,0,0,0,simon-ramirez_2
 mikami, ,Mika,1991-03-08,SUI,6, , ,0,0,0,0,mika_3
+varead,Adélcio,Varela,1996-04-22,POR,6, , ,0,0,0,0,adelcio-varela
+tavago,Gonçalo,Tavares,1997-05-16,POR,6, , ,0,0,0,0,goncalo-tavares
+olivgu,Guilherme,Oliveira,1995-04-12,POR,6, , ,0,0,0,0,guilherme-oliveira
+diasri,Ricardo,Dias,1991-02-25,POR,6, , ,0,0,0,0,ricardo-dias
+riber1,Rúben,Ribeiro,1995-12-16,POR,6, , ,0,0,0,0,ruben-ribeiro_2
 abedam,Amir,Abedzadeh,1993-04-26,IRN,8,1,P,0,0,0,0,amir-abedzadeh
 anacjo,Joyce,Anacoura,1994-08-01,ITA,8,27,P,0,0,0,0,joyce-anacoura
 charch, ,Charles,1994-02-04,BRA,8,94,P,0,0,0,0,charles_6
 matepe,Pedro,Mateus,1996-09-27,POR,8,99,P,0,0,0,0,pedro-mateus
 bebero, ,Bebeto,1990-01-01,BRA,8,2,F,0,0,0,0,bebeto_7
-groldo,Douglas,Grolli,1989-10-05,BRA,8,3,F,0,0,0,0,douglas-grolli
 chinfa,Fábio,China,1992-07-07,POR,8,45,F,0,0,0,0,fabio-china
 kerkde,Dejan,Kerkez,1996-01-20,SRB,8,15,F,0,0,0,0,dejan-kerkez
 nanueu, ,Nanu,1994-05-17,POR,8,31,F,0,0,0,0,nanu
@@ -519,50 +625,72 @@ ruberb, ,Rúben,1990-02-17,POR,8,17,F,0,0,0,0,ruben_6
 juniza,Zainadine,Júnior,1988-06-24,MOZ,8,5,F,0,0,0,0,zainadine-junior
 telean,André,Teles,1997-04-06,POR,8,16,M,0,0,0,0,andre-teles
 bambfr,Franck,Bambock,1995-04-07,FRA,8,18,M,0,0,0,0,franck-bambock
+xadabr,Bruno,Xadas,1997-12-02,POR,8,7,M,0,0,0,0,bruno-xadas
 corrjo,Jorge,Correa,1993-05-04,ARG,8,8,M,0,0,0,0,jorge-correa
 cleyjh,Jhon,Cley,1994-03-09,BRA,8,29,M,0,0,0,0,jhon-cley
+moredi,Diego,Moreno,1996-02-27,COL,8,96,M,0,0,0,0,diego-moreno_3
+mosqju,Juan,Mosquera,1996-02-10,COL,8,68,M,0,0,0,0,juan-mosquera_3
 pelape,Pedro,Pelágio,2000-04-21,POR,8,60,M,0,0,0,0,pedro-pelagio
 vukojo,Josip,Vuković,1992-05-02,CRO,8,44,M,0,0,0,0,josip-vukovic
-barrle,Leandro,Barrera,1991-02-28,ARG,8,23,A,0,0,0,0,leandro-barrera
+mesqan,André,Mesquita,1997-10-10,POR,8,82,A,0,0,0,0,andre-mesquita
 costed,Edgar,Costa,1987-04-14,POR,8,12,A,0,0,0,0,edgar-costa
 erive1, ,Erivaldo,1994-02-08,POR,8,24,A,0,0,0,0,erivaldo
 gettge, ,Getterson,1991-05-16,BRA,8,10,A,0,0,0,0,getterson
+jeffj4, ,Jefferson,2000-03-13,BRA,8,20,A,0,0,0,0,jefferson_37
+tagujo,Joel,Tagueu,1993-12-06,CMR,8,95,A,0,0,0,0,joel-tagueu
 cardle,Leandro,Cardoso,1999-05-11,POR,8,11,A,0,0,0,0,leandro-cardoso_2
 maedda,Daizen,Maeda,1997-10-20,JAP,8,13,A,0,0,0,0,daizen-maeda
-marcmQ, ,Marcelinho,1996-07-17,BRA,8,80,A,0,0,0,0,marcelinho_21
-nequlu,Luciano,Nequecaur,1992-07-19,ARG,8,21,A,0,0,0,0,luciano-nequecaur
+milsfe, ,Milson,1999-10-12,ANG,8,38,A,0,0,0,0,milson_2
 pinhro,Rodrigo,Pinho,1991-05-30,BRA,8,9,A,0,0,0,0,rodrigo-pinho
-teleru,Ruan,Teles,1997-10-23,BRA,8,7,A,0,0,0,0,ruan-teles
+marcmQ, ,Marcelinho,1996-07-17,BRA,8, , ,0,0,0,0,marcelinho_21
+nequlu,Luciano,Nequecaur,1992-07-19,ARG,8, , ,0,0,0,0,luciano-nequecaur
+groldo,Douglas,Grolli,1989-10-05,BRA,8, , ,0,0,0,0,douglas-grolli
+barrle,Leandro,Barrera,1991-02-28,ARG,8, , ,0,0,0,0,leandro-barrera
 afrilu,Lucas,Áfrico,1995-02-05,BRA,8, , ,0,0,0,0,lucas-africo
-clebje,Jean,Cleber,1990-04-29,BRA,8, , ,0,0,0,0,jean-cleber
+cardan,André,Cardoso,2001-01-16,POR,8, , ,0,0,0,0,andre-cardoso
+tamufx,François-Xavier Fumu,Tamuzo,1995-04-03,FRA,8, , ,0,0,0,0,francois-xavier-fumu-tamuzo
+marcm2, ,Marcão,1995-08-17,BRA,8, , ,0,0,0,0,marcao_18
+teleru,Ruan,Teles,1997-10-23,BRA,8, , ,0,0,0,0,ruan-teles
 eduaed, ,Eduardo,1982-09-19,POR,9,82,P,0,0,0,0,eduardo_4
 magama,Matheus,Magalhães,1992-07-19,BRA,9,1,P,0,0,0,0,matheus-magalhaes
 saxxti,Tiago,Sá,1995-01-11,POR,9,12,P,0,0,0,0,tiago-sa
 vianbr,Bruno,Viana,1995-02-05,BRA,9,36,F,0,0,0,0,bruno-viana
-cajuwa, ,Caju,1995-07-17,BRA,9,95,F,0,0,0,0,caju_3
+wilsbr,Bruno,Wilson,1996-12-27,POR,9,4,F,0,0,0,0,bruno-wilson
 carmda,David,Carmo,1999-07-19,POR,9,92,F,0,0,0,0,david-carmo
-ferrlu,Lucas,Ferrugem,1997-01-23,BRA,9,4,F,0,0,0,0,lucas-ferrugem
 sequnu,Nuno,Sequeira,1990-08-19,POR,9,5,F,0,0,0,0,nuno-sequeira
-santpa,Pablo,Santos,1992-03-18,BRA,9,14,F,0,0,0,0,pablo-santos
+amadpe,Pedro,Amador,1998-12-18,POR,9,81,F,0,0,0,0,pedro-amador
 silvr2,Raul,Silva,1989-11-04,BRA,9,34,F,0,0,0,0,raul-silva
+rolaro, ,Rolando,1985-08-31,POR,9,6,F,0,0,0,0,rolando
 tormvi,Vítor,Tormena,1996-01-04,BRA,9,3,F,0,0,0,0,vitor-tormena
 wallw2, ,Wallace,1994-10-14,BRA,9,13,F,0,0,0,0,wallace_2
-agbouc,Uche,Agbo,1995-12-04,NGR,9,8,M,0,0,0,0,uche-agbo_2
 hortan,André,Horta,1996-11-07,POR,9,15,M,0,0,0,0,andre-horta
-xadabr,Bruno,Xadas,1997-12-02,POR,9,10,M,0,0,0,0,bruno-xadas
-claucl, ,Claudemir,1988-03-27,BRA,9,6,M,0,0,0,0,claudemir_2
+corra6,Anthony,Correia,1999-09-06,POR,9,41,M,0,0,0,0,anthony-correia_2
 franf1, ,Fransérgio,1990-10-18,BRA,9,27,M,0,0,0,0,fransergio
 novajo,João,Novais,1993-07-10,POR,9,17,M,0,0,0,0,joao-novais
 palhjo,João,Palhinha,1995-07-09,POR,9,60,M,0,0,0,0,joao-palhinha
 esgari,Ricardo,Esgaio,1993-05-16,POR,9,47,M,0,0,0,0,ricardo-esgaio
+samus3, ,Samú,2000-11-27,POR,9,85,M,0,0,0,0,samu_5
+ruizab,Abel,Ruiz,2000-01-28,SPA,9,9,A,0,0,0,0,abel-ruiz
+crisc1, ,Crislan,1992-03-13,BRA,9,9,A,0,0,0,0,crislan
 viandi,Diogo,Viana,1990-02-22,POR,9,11,A,0,0,0,0,diogo-viana
 galewe, ,Galeno,1997-10-22,BRA,9,90,A,0,0,0,0,galeno
-koukah, ,Kouka,1993-03-05,EGY,9,9,A,0,0,0,0,kouka
-murimu, ,Murilo,1994-10-31,BRA,9,19,A,0,0,0,0,murilo_8
 pauljo, ,Paulinho,1992-11-09,POR,9,20,A,0,0,0,0,paulinho_6
 hortri,Ricardo,Horta,1994-09-15,POR,9,21,A,0,0,0,0,ricardo-horta
 fontru,Rui,Fonte,1990-04-23,POR,9,18,A,0,0,0,0,rui-fonte
 trinf1, ,Trincão,1999-12-29,POR,9,77,A,0,0,0,0,trincao
 eduawi,Wilson,Eduardo,1990-07-08,POR,9,7,A,0,0,0,0,wilson-eduardo
-crisc1, ,Crislan,1992-03-13,BRA,9, , ,0,0,0,0,crislan
-ryllri,Ricardo,Ryller,1994-02-27,BRA,9, , ,0,0,0,0,ricardo-ryller
+santpa,Pablo,Santos,1992-03-18,BRA,9, , ,0,0,0,0,pablo-santos
+murimu, ,Murilo,1994-10-31,BRA,9, , ,0,0,0,0,murilo_8
+koukah, ,Kouka,1993-03-05,EGY,9, , ,0,0,0,0,kouka
+claucl, ,Claudemir,1988-03-27,BRA,9, , ,0,0,0,0,claudemir_2
+ferrlu,Lucas,Ferrugem,1997-01-23,BRA,9, , ,0,0,0,0,lucas-ferrugem
+agbouc,Uche,Agbo,1995-12-04,NGR,9, , ,0,0,0,0,uche-agbo_2
+xadabr,Bruno,Xadas,1997-12-02,POR,9, , ,0,0,0,0,bruno-xadas
+cajuwa, ,Caju,1995-07-17,BRA,9, , ,0,0,0,0,caju_3
+alefal, ,Alef,1995-01-28,BRA,9, , ,0,0,0,0,alef_2
+fabifA, ,Fabiano,2000-03-14,BRA,9, , ,0,0,0,0,fabiano_20
+mourfr,Francisco,Moura,1999-08-16,POR,9, , ,0,0,0,0,francisco-moura
+hornlu,Lukáš,Horníček,2002-07-13,CZE,9, , ,0,0,0,0,lukas-hornicek
+sancle,Leandro,Sanca,2000-01-04,POR,9, , ,0,0,0,0,leandro-sanca
+assira,Rafael,Assis,1990-08-18,BRA,9, , ,0,0,0,0,rafael-assis
+pereti,Tiago,Pereira,1995-06-20,POR,9, , ,0,0,0,0,tiago-pereira_2

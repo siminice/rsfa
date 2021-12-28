@@ -1,23 +1,30 @@
-58
+72
 anna00,Navy-Marine Corps Memorial Stadium
 atla00,Mercedes Benz Stadium
 atla01,Bobby Dodd Stadium
+aust00,Q2 Stadium
 bost00,Gillette Stadium
 bvie00,Seatgeek Stadium
 cars00,Dignity Health Sports Park
 ches00,Talen Energy Stadium
+ches01,Subaru Park
 chic00,Soldier Field
 cinc00,Nippert Stadium
+cinc01,TQL Stadium
 colu00,Ohio Stadium
 colu01,MAPFRE Stadium
+colu02,Lower.com Stadium
 comc00,Dick's Sporting Goods Park
 dall00,Cotton Bowl
-denv00,Mile High Stadium
+denv00,Sports Authority Field
+denv01,Mile High Stadium
 ehar00,Rentschler Field
 erut00,Giants Stadium
 foxb00,Foxboro Stadium
 fris00,Toyota Stadium
 ftla00,Lockhart Stadium
+ftla01,DRV PNK Stadium
+full00,Titan Stadium
 germ00,Maryland SoccerPlex
 harr00,Red Bull Arena
 hous00,Robertson Stadium
@@ -30,11 +37,13 @@ minn00,TCF Bank Stadium
 mont00,Olympic Stadium
 mont01,Stade Saputo
 nape00,Cardinal Stadium
+nash00,Nissan Stadium
 nyor00,Yankee Stadium
 nyor01,Citi Field
 oakl00,Oakland Alameda
 orla00,Orlando City Stadium
 orla01,Camping World Stadium
+orla02,Exploria Staadium
 palo00,Stanford Stadium
 pasa00,Rose Bowl
 phil00,Lincoln Financial Field
@@ -42,12 +51,16 @@ port00,Providence Park
 salt00,Rice Eccles
 sanj00,Spartan Stadium
 sanj01,Avaya Stadium
+sanj02,Earthquakes Stadium
+sanj03,CEFCU stadium
 sand00,Rio Tinto Stadium
 scla00,Buck Shaw Stadium
 scla01,Levi's Stadium
 seat00,CenturyLink Field
+seat01,Lumen Field
 sfra00,Candlestick Park
 slak00,Dragon Stadium
+stpa00,Allianz Field
 tamp00,Houlihans Stadium
 tamp01,Raymond James Stadium
 toro00,BMO Field
@@ -57,3 +70,4 @@ vanc01,Empire Field
 wash00,RFK Stadium
 wash01,Fedex Field
 wash02,Audi Field
+wash03,Buzzard Point Stadium

@@ -1,4 +1,4 @@
-2091
+2183
 aabcse,El Aabchi,Selim,1993-03-23,MAR,Rabat,MAR
 aallje,Aallikko,Jere,1994-02-28,FIN,Imatra,FIN
 aasmha,Aasma,Hans-Kristjan,1991-08-04,EST,Tallinn,EST
@@ -12,6 +12,7 @@ abdukh,Abdurashidov,Khampash,1987-11-17,RUS,Leningrad,
 abdush,Abdullajev,Sharijar,1987-12-30,EST,Dšebrail,EST
 abraal,Abramenko,Aleksandrs,1985-01-09,LAT, , 
 abrabo,Abramov,Boriss,1965-12-13,RUS, , 
+aderpa,Aderibigbe,Paul,2002-06-23,NGR, ,NGR
 adigra,Adigazalov,Rafig,1966-11-16,EST,Tallinn, 
 adouse,Adou,Seka,1993-07-31,CIV,Abidjan,CIV
 adusma,Adusoo,Marion,1984-10-13,EST,Koeru,EST
@@ -21,12 +22,14 @@ afans1,Afanasjev,Sergey,1965-02-16,RUS, ,
 afanse,Afanasjev,Sergey,1986-03-05,RUS,Leningrad, 
 afiler,Afila,Eric,1985-10-10,CMR,Yaounde,CMR
 agarma,Agarmaa,Marcus,2003-09-19,EST,Tartu,EST
+agyier,Agyiri,Ernest,1998-03-06,GHA,Accra,GHA
 ahjuja,Ahjupera,Jarmo,1984-04-13,EST,Võhma,EST
 ahvepr,Ahven,Priidu,1989-06-20,EST,Karksi-Nuia, 
 aidaka,Aidara,Kassim,1987-05-12,FRA,Hamburg,GER
 ainsmi,Ainsalu,Mihkel,1996-03-08,EST,Tallinn,EST
 akhaer,Akhalbedasvili,Ernest,1991-08-28,GEO, , 
 akimse,Akimov,Sergei,1976-10-22,EST,Tapa, 
+aksam1,Aksalu,Mihkel,1984-11-07,EST,Kuressaarre,EST
 aksami,Aksalu,Mihkel,1984-11-07,EST,Kuressaare, 
 aksjva,Aksjonov,Vadim,1996-11-20,EST,Tallinn,EST
 aksjvi,Aksjonov,Viktor,1990-05-07,EST,Järve,EST
@@ -91,10 +94,12 @@ antoan,Antonov,Andrei,1985-01-27,EST,Tallinn,
 antoil,Antonov,Ilja,1992-12-05,EST,Tallinn,EST
 antoka,Antonov,Kirill Aleksandr,2004-04-11,EST,Burlington,EST
 antoma,Anton,Mait,1987-03-17,EST,Tallinn, 
+antsan,Antsov,Andero,2005-02-23,EST,Tartu,EST
 antskr,Antsmaa,Kris,1997-11-29,EST, ,EST
 apalpa,Apalinski,Pavel,1982-10-28,EST,Tallinn, 
 aparar,Aparins,Armands,2001-03-22,EST,Tallinn,EST
 apetni,Apet,Nikita,1996-10-05,EST, ,EST
+apoval,Šapovalov,Aleksandr,2003-02-28,EST,Tallinn,EST
 appimo,Ofosu-Appiah,Michael,1989-12-29,GHA,Accra,GHA
 arakur,Arak,Urmas,1972-04-02,EST, , 
 arbear,Arbeiter,Argo,1973-12-05,EST,Viljandi, 
@@ -106,6 +111,7 @@ arkage,Arkania,Georgy,1993-04-16,RUS, ,RUS
 armara,Armas,Rasmus,1989-04-27,EST,Tallinn, 
 armeio,Armean,Ionel,1991-10-26,FIN,Espoo,FIN
 arrual,Arruda,Alan,1981-09-12,BRA,Petrópolis,BRA
+arsked,Žarskis,Edgaras,1994-05-04,LIT,Vilnius,LIT
 arstan,Arst,Antti,1984-01-03,EST,Tartu, 
 artaju,Artamonov,Juri,1976-02-28,EST,Narva, 
 artesa,Artemiev,Saveliy,1996-08-10,EST,Tallinn,EST
@@ -127,12 +133,14 @@ avdepa,Avdeev,Pavel,1990-09-26,RUS,Gatchina,RUS
 avilvl,Avilov,Vladimir,1995-03-10,EST,Maardu,EST
 azarta,Azarov,Taavi,1980-04-20,EST,Kuressaare, 
 babari,Babatunde,Ridwan,2001-05-05,NGR,Ijebu Ode,NGR
+babimi,Babichev,Mikhail,1995-02-02,BLR,Postavy,BLR
 babjma,Babjak,Maksim,1993-12-10,EST,Tartu,EST
 bachbr,Bachmann,Brandon,2000-02-28,EST,Tallinn,EST
 badjar,Badjuk,Artjom,1998-02-26,EST,Tallinn,EST
 baeral,Bärengrub,Alo,1984-02-12,EST,Kehtna,EST
 bagumi,Bagužis,Mindaugas,1983-04-11,LIT,Plungė,LIT
 bahmig,Bahmatski,Igor,1965-06-17,EST, , 
+bakidu,Bakić,Dušan,1999-02-23,MNT,Podgorica,MNT
 bakrra,Bakr,Radanfah Abu,1987-02-12,TRI,Port of Spain,TRI
 balbdi,Balbinot,Diego,1984-01-07,BRA,Bento Gonçalves,BRA
 baraje,Baranov,Jevgeni,2000-08-16,EST,Narva,EST
@@ -144,6 +152,8 @@ barnri,Barnwell,Richard,1979-02-12,ENG,Kendal, Lancashire
 barrju,Barrow,Jude,0000-00-00,CAN,London,CAN
 bashar,Basha,Arbër,1998-01-13,ALB,Tiranë,ALB
 bastma,Bastig,Martin,1998-08-25,EST, ,EST
+batuiv,Baturins,Ivans,1997-06-25,LAT, ,LAT
+bayevo,Bayenko,Volodymyr,1990-02-09,UKR,Komsomolske,UKR
 bazjse,Bazjukin,Sergei,1988-12-15,EST, ,EST
 bazyma,Bazyukin,Maksim,1983-06-18,RUS,Kingissepp,RUS
 bebial,Bebikh,Aleksandr,1989-08-29,RUS,Moskau,RUS
@@ -151,6 +161,7 @@ beglza,Beglarishvili,Zakaria,1990-04-30,GEO,Tbilisi,GEO
 beloal,Belov,Aleksei,1992-03-04,EST,Tallinn,EST
 beloan,Belohvostov,Andrei,1964-09-05,EST, , 
 belodm,Belov,Dmitry,1998-01-13,RUS, ,RUS
+belomi,Belov,Mikhail,1992-04-22,RUS,Novaya Usman,RUS
 belose,Belov,Sergei,1966-05-09,EST, , 
 belyse,Belyakov,Semen,1999-01-19,RUS,Vladivostok,RUS
 belyvi,Belyi,Vitali,1971-06-15,RUS, , 
@@ -169,6 +180,7 @@ bobrol,Bobrickis,Olegas,1969-01-24,LIT, ,
 bogdol,Bogdanov,Oleg,1978-10-21,EST,Kohtla-Järve, 
 bogool,Bogomol,Oleg,1976-07-22,UKR,Kherson, 
 bokoal,Bokov,Aleksandr,1992-10-19,EST, , 
+bolaka,Bolaji,Kazeem,2002-12-13,NGR,Oko Ode,NGR
 boldal,Boldorev,Aleksandr,1984-11-30,EST,Tallinn, 
 boldkl,Boldyrev,Klimentii,1992-03-20,UKR,Tallinn,EST
 bolgse,Bolgov,Sergei,1992-05-06,EST,Sillamäe,EST
@@ -200,9 +212,12 @@ buinar,Buinickij,Arsenij,1985-10-10,LIT, ,LIT
 bukama,Bukatkin,Maksim,1985-07-16,RUS,Noginsk,RUS
 bulati,Bulavkin,Timur,1998-03-13,EST,Tallinn,EST
 burise,Burimenko,Sergiy,1970-08-02,UKR,Mykolaiv, 
+buroke,Burov,Kevin,2004-04-27,EST,Tartu,EST
 burose,Burov,Sergei,1983-08-15,EST,Kiviõli, 
+buscca,Buschman-Dormond,Carson,2002-10-27,NED,Vancouver,NED
 butako,Butajev,Konstantin,1978-09-02,EST,Tallinn, 
 butled,Butlers,Edgars,1994-08-27,EST,Maardu,EST
+camask,Camara,Sékou,1997-09-23,GUI,Kamsar,GUI
 caprbr,Caprioli,Bruno,1996-02-21,BRA,Salto,BRA
 carral,Carrillo, ,1992-08-16,SPA, ,SPA
 carvni,Carvalho,Nicolas,1978-09-01,POR, , 
@@ -236,6 +251,7 @@ demije,Demidov,Jevgeni,2000-02-11,EST,Tallinn,EST
 demual,Demutski,Aleksei,1984-10-24,EST,Valga,EST
 denidm,Denissov,Dmitri,1982-04-27,EST,Tallinn, 
 dialab,Diallo,Abdoulaye,1992-10-21,SEN,Cabrousse,SEN
+dikaem,Dikajev,Emir,2005-03-27,EST,Tallinn,EST
 dioril,Diord,Ilya,1981-08-17,RUS,Tallinn, 
 djatal,Djatsenko,Aleksandr,1981-02-03,EST,Tobrouk,LYB
 djerde,Djermanovič,Dejan,1988-06-17,SLO,Ljubljana,SLO
@@ -243,6 +259,7 @@ dmital,Dmitrijev,Aleksandr,1982-02-18,EST,Tallinn,EST
 dmitar,Dmitrijev,Artjom,1988-11-14,EST,Tallinn,EST
 dmitro,Dmitriev,Roman,1993-09-26,RUS,Moskau,RUS
 dmitya,Dmitriev,Yaroslav,1988-06-25,RUS,Tallinn,EST
+dobrda,Dobrovolski,Daniil,2004-01-31,EST,Narva,EST
 dobrdm,Dobrovolskiy,Dmytro,1971-07-26,UKR, , 
 dobrvi,Dobrecovs,Viktors,1977-01-09,LAT,Liepaja, 
 doliva,Dolinin,Vadim,1975-01-04,EST,Pärnu, 
@@ -268,6 +285,9 @@ eessee,Eessaar,Eero,1989-11-27,EST, ,
 eesser,Eessaar,Ergo,1990-10-30,EST, ,EST
 eggeer,Eggert,Erkki,1976-09-15,EST, , 
 eichhe,Eichenbaum,Henry,1999-12-11,EST,Paide,EST
+einema,Einer,Matrix,2003-08-25,EST, ,EST
+einmka,Einmann,Karmo,0000-00-00,EST, ,EST
+einora,Eino,Raimond,2000-02-15,EST,Keilo,EST
 ekobem,Ekobena,Emanuel Mbia,1987-07-21,CMR,Yaoundé,CMR
 elhitr,Elhi,Trevor,1993-04-11,EST,Tallinn,EST
 elhuom,Elhussieny,Omar,1985-11-03,EGY,Giza,EGY
@@ -287,7 +307,9 @@ ernika,Ernis,Kaspars,1976-04-27,EST, ,
 eterte,Eteria,Tengiz,1989-12-11,GEO,Gali,GEO
 evuyda,Evuy,Dani,1985-03-11,EQG,Madrid,SPA
 fabrwa,Fabrice,Watson,2001-07-31,BEN, ,BEN
+fagbto,Fagbongbe,Tomi,1998-07-25,CAN,Burnaby,CAN
 faljal,Faljov,Aleksandr,1983-12-24,EST, , 
+fedoda,Fedotov,Daniel,2001-08-16,EST,Tallinn,EST
 fedopa,Fedorenko,Pavel,1999-06-17,EST, ,EST
 fedose,Fedotov,Semen,1992-03-02,RUS,Vladimir,RUS
 felece,Felek,Cem,1996-05-12,GER,Buchen,GER
@@ -329,12 +351,14 @@ gnedei,Gnedojs,Einars,1966-07-08,LAT, ,
 gnedka,Gnedojus,Kazimieras,1986-02-28,LIT,Kretinga, 
 gnolmi,Gnolou,Michael,1998-01-05,CIV, ,CIV
 godeni,Godenov,Nikita,1991-02-21,RUS,Astrakhan, 
+goidan,Goidin,Andree,2002-12-13,EST,Tartu,EST
 goldst,Goldberg,Stanislav,1992-10-30,EST,Tallinn,EST
 goliko,Golitson,Konstantin,1974-02-11,EST,Sillamäe, 
 goloed,Golovljov,Eduard,1997-01-25,EST,Tallinn,EST
 golual,Golubev,Aleksei,1980-07-26,EST,Petschory, 
 gomebr,Gomes,Bruno,1986-02-06,POR,Igreja Nova,POR
 gomema,Gomes,Marcelo,1977-06-07,BRA,Rio de Janeiro,BRA
+gonsol,Gonsevich,Oleg,2005-05-13,EST,Narva,EST
 goordc,Goore,Da Costa,1984-12-31,CIV, ,CIV
 gorbal,Gorbunov,Aleksandr,1987-02-06,EST, ,EST
 gorbse,Gorbunov,Sergey,1987-04-05,RUS,Bryansk, 
@@ -353,6 +377,7 @@ grigro,Grigorevski,Roman,1997-06-11,RUS,Narva,EST
 grisni,Grishin,Nikolai,1970-07-10,BLR,Yesentuki, 
 gritbo,Gritsjuk,Boriss,1988-07-06,EST, ,EST
 gritva,Gritsjuk,Vadim,1981-09-16,EST, , 
+grnvev,Grünvald,Evert,2001-04-06,EST,Tallinn,EST
 gromal,Gromov,Aleksandr,1962-10-29,EST, , 
 grosmi,Gross,Mihhail,1981-08-03,EST,Tallinn, 
 grospa,Gross,Paul,1980-12-10,EST,Tallinn, 
@@ -427,6 +452,8 @@ hurtma,Hurt,Martin,1984-06-27,EST,Tartu,EST
 husskr,Hussar,Kristo,2002-06-28,EST,Tallinn,EST
 igonma,Igonen,Matvei,1996-10-02,EST,Tallinn,EST
 iguska,Õigus,Karl,1998-11-05,EST,Tartu,EST
+ilixmi,Ilić,Miljan,1993-05-23,SRB,Sombor,SRB
+iljial,Iljin,Aleksander,2002-09-05,EST,Tartu,EST
 ilvean,Ilves,Andre,1990-12-19,EST,Raasiku,EST
 ilvein,Ilves,Indrek,1990-04-27,EST, ,EST
 ilvera,Ilves,Rasmus,1999-03-04,EST,Pärnu,EST
@@ -489,6 +516,8 @@ jegova,Jegorov,Vassili,1974-09-05,EST, ,
 jelian,Jelissejev,Andrei,1971-06-15,EST, , 
 jeliva,Jelissejev,Vadim,1980-02-04,EST, , 
 jenksa,Jenk,Sander,1993-03-22,EST,Tallinn,EST
+jerede,Jeremejev,Dennis,2003-06-25,EST, ,EST
+jermar,Jermatšenko,Artjom,2001-11-14,EST,Tallinn,EST
 jersar,Jeršov,Arthur,2002-06-18,EST,Tallinn,EST
 jersde,Jersov,Deniss,1977-08-18,EST, , 
 jevdan,Jevdokimov,Anton,1988-06-12,EST,Tallinn, 
@@ -502,6 +531,7 @@ johaje,Johansson,Jesper,1979-12-14,FIN,Pargas,FIN
 johajo,Johansson,Jonatan,1975-08-16,FIN,Stockholm,SWE
 joosin,Joost,Indrek,1979-04-20,EST,Pärnu, 
 joosta,Joosep,Tanel,1990-08-08,EST,Põltsamaa,EST
+jrvegV,Järve,Georg Voldemar,2004-04-13,EST,Tartu,EST
 juerke,Jürisson,Karl Erik,2003-05-20,EST,Tartu,EST
 juerma,Jürgenson,Markus,1987-09-09,EST,Tartu,EST
 juhaja,Juhalu,Jaanus,1976-08-30,EST,Kunda,EST
@@ -543,6 +573,7 @@ kaldra,Kald,Rauno,1991-03-11,EST,Särevere,EST
 kaldso,Kaldma,Sören,1996-07-03,EST,Tallinn,EST
 kaldst,Kaldma,Sten,1968-08-02,EST,Tallinn, 
 kaldto,Kalde,Tonis,1976-08-11,EST,Tallinn, 
+kalevi,Kalenkovich,Vitali,1993-03-03,RUS,Kaliningrad,RUS
 kalian,Kalimullin,Andrei,1977-10-06,EST,Kohtla-Järve,EST
 kalidm,Kalininskyy,Dmytro,1995-04-13,UKR, ,UKR
 kalivj,Kalinin,Vjatseslav,1965-03-21,EST, , 
@@ -617,10 +648,12 @@ kazapa,Kazakov,Pavel,1968-12-30,EST,Tallinn,
 kazase,Kazakov,Sergei,1980-01-02,EST,Narva,EST
 kazlsa,Kazlauskas,Sarunas,1990-03-14,LIT, , 
 kazuje,Kazura,Jevgenijs,1988-01-24,LAT,Riga, 
+kblihe,Käblik,Henri,2005-04-19,EST,Tartu,EST
 kekija,Kekisev,Jaan,1989-08-21,EST,Tallinn, 
 kekuge,Kekua,Gegi,1995-12-23,GEO,Tbilissi,GEO
 keldal,Kelder,Algis,1992-07-15,EST,Kärdla,EST
 keldsi,Kelder,Silver,1995-10-22,EST,Tallinn,EST
+kelema,Kelement,Marten,2003-10-24,EST,Tallinn,EST
 kharev,Kharin,Evgeny,1995-06-11,RUS,Maardu,EST
 kharvl,Kharlanov,Vladimir,1992-02-15,BLR,Kopatkevichi,BLR
 khatre,Khaton,Reasat,1989-08-01,BAN,Dhaka,BAN
@@ -650,12 +683,14 @@ kirsur,Kirs,Urmas,1966-11-05,EST,Viljandi,
 kiseil,Kisel,Ilya,1991-01-14,RUS,Tallinn, 
 kissma,Kisseljov,Maksim,1980-04-06,EST,Tallinn, 
 kittst,Kitto,Stanislav,1972-11-30,EST,Narva,EST
+kivia1,Kivi,Andero,2003-11-07,EST, ,EST
 kivian,Kivirand,Andi,1991-04-02,EST, ,EST
 kiviiv,Kiviselg,Ivo,1983-04-18,EST,Pärnu, 
 kivija,Kivisild,Janek,1978-08-26,EST, , 
 kivisa,Kivi,Sami-Sander,1990-05-11,EST,Lahja,FIN
 klasma,Klasen,Martin,1990-03-13,EST,Tallinn, 
 klavdz,Klavan,Dzintar,1961-06-18,EST,Viljandi, 
+klavr1,Klavan,Ragnar,1985-10-30,EST,Viljandi,EST
 klavra,Klavan,Ragnar,1985-10-30,EST,Viljandi, 
 kleiin,Klein,Indrek,1986-04-30,EST,Soe, 
 kleipe,Klein,Peeter,1997-01-28,EST,Tallinn,EST
@@ -673,6 +708,7 @@ koengr,Könninge,Greger,1991-01-23,EST,Pärnu,EST
 koeora,Kööp,Rauno,1989-08-18,EST,Paide,EST
 kogeni,Koger,Nikita,1994-05-06,EST,Tallinn,EST
 kohlka,Kohler,Kaspar,1990-03-17,EST, , 
+koikra,Koikson,Rasmus,2004-01-15,EST,Parnü,EST
 koivan,Koiv,Andres,1975-08-26,EST, , 
 koivmi,Koiv,Mike,1995-09-06,EST,Võru,EST
 koivsi,Koiv,Silver,1983-02-24,EST,Tallinn, 
@@ -696,6 +732,7 @@ komlar,Komlov,Artjom,2002-09-09,EST,Narva,EST
 kommer,Kommussaar,Erki,1973-05-07,EST,Pärnu, 
 kompti,Komper,Tiit,1964-05-03,EST,Tallinn, 
 konase,Konal,Sercan,1988-03-29,GER,Berlin,GER
+kondis,Konda,Ishaku,1999-09-11,GHA, ,GHA
 konds1,Kondratenko,Sergei,1985-10-08,EST,Tallinn, 
 kondse,Kondrattsev,Sergei,2001-09-23,EST,Narva,EST
 konjol,Konjuhhov,Oleg,1964-01-30,EST, , 
@@ -725,6 +762,7 @@ kortch,Kortsmik,Christian,1991-02-07,EST,Tallinn,
 korzdm,Korzinski,Dmitri,1986-06-01,EST,Tallinn, 
 kosein,Koser,Indrek,1986-04-29,EST,Tartu, 
 kosema,Kosemets,Märt,1981-01-25,EST,Tallinn, 
+koshig,Koshman,Igor,1995-03-07,UKR,Kremenchuk,UKR
 kosktr,Koskor,Tristan,1995-11-28,EST,Tartu,EST
 kostan,Kostin,Andrei,1979-11-12,EST,Fergana, 
 kostse,Kostin,Sergei,1984-05-28,EST,Tartu, 
@@ -763,7 +801,9 @@ krolan,Krolov,Andrei,1973-04-19,EST,Tallinn,
 kromto,Krom,Toomas,1971-09-22,EST,Tallinn, 
 kronma,Kronberg,Mark,2000-10-30,EST, ,EST
 krsosi,Kärson,Siim,1981-04-11,EST,Tallinn, 
+krstst,Krstevski,Strahinja,1997-06-08,MAC,Novi Sad,SRB
 krugdm,Kruglov,Dmitri,1984-05-24,EST,Tapa,EST
+krulke,Krull,Kener-Mairon,2004-08-24,EST,Tartu,EST
 krusge,Krusa,Gediminas,1990-10-31,LIT,Klaipeda,LIT
 krutan,Krutogolov,Anton,2001-04-05,EST,Tallinn,EST
 kruuka,Kruusmäe,Kaupo,2004-01-12,EST,Pärsti Vald,EST
@@ -781,6 +821,7 @@ kuetke,Kütt,Kert,1980-10-09,EST,Pärnu,EST
 kuetro,Kütt,Roland,1987-04-22,EST,Kuressaare,RUS
 kuhtju,Kuhta,Juri,1976-02-02,EST, , 
 kukejo,Kukebal,Johannes,1993-07-19,EST,Tallinn,EST
+kukhal,Kukharev,Aleksandr,2002-05-02,EST, ,EST
 kukkke,Kukk,Kennet,1997-10-08,EST, ,EST
 kukuse,Kukushkin,Sergey,1991-03-22,RUS, , 
 kulaal,Kulatšenko,Aleksandr,1987-05-25,EST,Kohtla-Järve,EST
@@ -811,6 +852,7 @@ kurlva,Kurlõtškin,Valeri,1992-09-16,EST, ,EST
 kuroal,Kurotskin,Aleksei,1977-05-24,EST, , 
 kurool,Kurotskin,Oleg,1971-05-11,EST,Narva, 
 kurovl,Kuropjatnik,Vladimir,1976-11-08,EST, , 
+kurvkM,Kurvits,Karl Moorits,2004-07-11,EST,Valga,EST
 kuslal,Kuslap,Aleksandr,1984-03-25,EST,Tallinn, 
 kusnra,Kusnir,Rafael,1980-10-05,EST,Tallinn, 
 kutsal,Kuts,Aleksei,1986-07-27,EST,Tallinn, 
@@ -847,6 +889,7 @@ laksar,Laks,Artur,2000-07-06,EST, ,EST
 lamoal,Lamonov,Aleksandr,1989-07-17,EST, , 
 langma,Lange,Madis,1992-05-22,EST, , 
 langta,Lang,Tanel,1995-08-15,EST,Viljandi,EST
+lanige,Lani,Georg,2004-04-02,EST,Tartu,EST
 lapakr,Lapa,Kristen,2000-02-11,EST,Tallinn,EST
 lapevi,Lapeikis,Vilius,1983-06-30,LIT, , 
 lappma,Lapp,Marko,1977-03-29,EST, , 
@@ -916,6 +959,7 @@ liblfr,Liblikmann,Frank,2001-08-12,EST,Tallinn,EST
 lihhiv,Lihhatšov,Ivan,1991-06-23,EST,Sillamäe,EST
 liivel,Liivamägi,Elvis,1992-01-21,EST,Tallinn,EST
 liivfr,Liivak,Frank,1996-07-07,EST,Rakvere,EST
+liivha,Liiving,Hargo,2003-02-02,EST,Kärdla,EST
 liivur,Liivamaa,Urmas,1968-08-24,EST,Tallinn, 
 lilami,Lilander,Michael,1997-06-10,EST,Tallinn,EST
 liliel,Liliu, ,1990-03-30,BRA,Bauru,BRA
@@ -941,6 +985,7 @@ lisxal,Lis,Aleksandr,1999-12-30,EST, ,EST
 litver,Litvjakov,Erko,1999-07-22,EST,Tartu,EST
 ljahvl,Ljahhovetski,Vladimir,1987-11-11,EST,Tallinn, 
 ljasjo,Ljaš,Joonas,1990-09-03,EST,Rakvere,EST
+lnelka,Läänelaid,Karl,2003-07-07,EST,Tartu,EST
 lobaiv,Lobay,Ivan,1996-05-21,UKR,Chervonohrad,UKR
 loguir,Logua,Irakliy,1991-07-29,RUS,Ochamchira,GEO
 lohmre,Lohmus,Rene,1988-03-28,EST,Tartu, 
@@ -974,8 +1019,10 @@ lukjol,Lukjanov,Oleg,1978-01-01,EST,Kohtla-Järve,
 lukkm1,Lukk,Markus,1984-02-09,EST,Tallinn, 
 lukkm2,Lukk,Marius,1982-05-05,EST, , 
 lukkma,Lukka,Marco,1996-12-04,EST,Pärnu,EST
+lukolu,Luković,Luka,2001-07-16,SRB, ,SRB
 lullsv,Lullu,Sven-Jarno,1983-09-19,EST,Tallinn, 
 lutser,Luts,Ermo,1977-08-02,EST,Tallinn, 
+lutsja,Luts,Jaagup,2002-03-20,EST,Paide,EST
 lutske,Lutsokert,Kevin,1992-04-21,EST,Tallinn,EST
 lutssi,Luts,Siim,1989-03-12,EST,Tallinn,EST
 luttvj,Lütter,Vjatseslav,1978-11-26,EST,Tartu, 
@@ -1006,6 +1053,7 @@ maixka,Mai,Kaarel,1992-06-05,EST, ,
 makadm,Makarevits,Dmitri,1987-05-11,EST, , 
 makase,Makarov,Sergei,1975-03-10,EST,Tallinn, 
 maksde,Maksimenko,Denis,1998-08-12,EST,Tallinn,EST
+maksma,Maksimkin,Mark,2003-03-08,EST,Narva,EST
 maliee,Maling,Eero,1999-05-06,EST,Pärsti vald,EST
 malivi,Malisauskas,Vitas,1985-04-07,LIT,Tallinn, 
 malivl,Malinin,Vladimir,1992-02-12,EST,Orekhovo-Zuyevo,EST
@@ -1027,6 +1075,7 @@ margka,Margusonov,Kaupo,1986-03-19,EST,Valga,
 maripa,Marin,Pavel,1995-06-14,EST,Keila,EST
 marka1,Mark,Andrus,1976-12-21,EST, , 
 markan,Markovych,Andriy,1995-06-25,UKR,Melnych,UKR
+markkr,Marku,Kristi,1995-04-13,ALB,Durrës,ALB
 markma,Markson,Marek,1980-06-05,EST,Pärnu, 
 markre,Mark,Reno,2000-11-16,EST,Haapsalu,EST
 marmkr,Marmor,Kristian,1987-02-27,EST,Türi, 
@@ -1045,6 +1094,7 @@ mathma,Matheus, ,1996-06-17,BRA,Ciudad Del Este,PAR
 matral,Matrossov,Aleksei,1991-04-06,EST,Narva,EST
 matsta,Matsunaga,Takuya,1990-06-10,JAP,Kyoto,JAP
 matvro,Matvienko,Ronald,2002-10-01,EST,Tallinn,EST
+mazua1,Mazur,Anton,2003-02-04,EST, ,EST
 mazuan,Mazurkevits,Andrei,1985-03-07,EST,Pärnu, 
 mbemya,Mbemba,Yannick,1988-09-11,CGO,Oyo, 
 mboupr,Mboungou,Preche,1992-10-14,CGO,Goma Tsétsé,CGO
@@ -1065,10 +1115,12 @@ merire,Merilo,Rene,2001-08-23,EST,Kohtla-Järve,EST
 meshma,Meshcheryakov,Maksim,1992-09-10,RUS,Tallinn,EST
 metsjo,Metsmaa,Johannes,2003-01-24,EST,Pärsti Vald,EST
 metska,Mets,Karol,1993-05-16,EST,Viljandi,EST
+metske,Metso,Kevin,2002-12-18,EST,Paide,EST
 metsma,Metsniit,Marten,1997-08-21,EST,Tallinn,EST
 metsmi,Metsa,Mikk,1993-03-19,EST,Karksi-Nuia,EST
 metsr1,Mets,Raiko,1992-05-07,EST,Väätsa,EST
 metsra,Mets,Raimond,2004-06-11,EST,Pärsti,EST
+mgimcR,Mägimets,Carl Roberts,2002-02-10,EST, ,EST
 miceda,Miceika,Darius,1983-02-22,LIT,Vilnius,LIT
 mideta,Midenbritt,Taavi,1989-10-14,EST,Kabriste, 
 midter,Midtgarden,Erik,1987-11-18,NOR,Skien,NOR
@@ -1092,6 +1144,7 @@ millva,Miller,Vadim,1988-08-22,EST,Kohtla-Järve,
 miloma,Milovidov,Maksim,1981-10-04,EST, , 
 minkva,Minkenen,Valeri,1989-04-09,FIN,Leningrad, 
 minlro,Minlibajev,Roman,1987-03-17,EST,Tallinn, 
+mintar,Mintongo,Arcenciel,2002-04-10,CMR, ,CMR
 miraan,Miranchuk,Anton,1995-10-17,RUS,Slavyansk-na-Kubani,RUS
 miroda,Mironov,Daniil,1996-12-27,EST, ,EST
 mirool,Miroshnychenko,Oleksandr,1986-01-19,UKR,Lugansk, 
@@ -1101,6 +1154,7 @@ mirsro,Mirski,Roman,1981-08-10,EST,Tallinn,
 misini,Misiuk,Nikolaj,1987-01-04,LIT,Vilnius, 
 misise,Mišins,Sergejs,1987-06-04,LAT,Riga,LAT
 mitise,Mitin,Sergiy,1977-07-27,UKR,Zhdanov,UKR
+mitrmi,Mitrović,Milan,1988-07-02,SRB,Prokuplje,SRB
 mitshi,Mitsuyama,Hiroyuki,1984-07-23,JAP,Machida, Tokio
 mittan,Mitt,Andrus,1981-01-19,EST,Pärnu, 
 mittka,Mitt,Kalev,1975-02-07,EST, , 
@@ -1131,6 +1185,7 @@ motter,Mõttus,Erki,1997-01-15,EST,Põlva,EST
 mottla,Mottus,Lauri,1977-04-21,EST,Luunja, 
 mottro,Mõtt,Rocco,2001-04-24,EST,Pärnu,EST
 mottta,Mõttus,Tauno,1995-06-27,EST,Tallinn,EST
+mtaske,Mätas,Kevin,1999-10-26,EST,Tallinn,EST
 muenta,Münter,Taavi,1992-12-22,EST,Kadrina,EST
 muetma,Mütt,Marten,1992-05-25,EST,Tallinn,EST
 mukhde,Mukhametdinov,Denis,1994-01-20,RUS,Naberezhnye Chelny,RUS
@@ -1148,6 +1203,7 @@ mutlra,Mutle,Raiko,1984-07-07,EST,Viljandi,EST
 mutska,Mutso,Kaspar,1998-08-01,EST,Tallinn,EST
 muurar,Müür,Artur,1985-01-19,EST, , 
 muurke,Müür,Ken,1975-09-10,EST,Tapa, 
+muydab,Muydinov,Abubakir,2000-07-07,UZB, ,UZB
 myrnvi,Myrnyi,Vitaliy,1992-04-03,UKR,Poltava,UKR
 naabja,Naaber,Jaak,1986-04-24,EST,Tartu, 
 naabpa,Naaber,Paul,1996-05-05,EST, ,EST
@@ -1160,6 +1216,7 @@ nahkko,Nahk,Konstantin,1975-02-10,EST,Tallinn,EST
 naksha,Näks,Hans,1961-02-22,EST,Viljandi, 
 nalidm,Nalivaiko,Dmitrijs,1977-08-13,LAT,Riga, 
 nariar,Naris,Armand,1988-10-06,EST,Tallinn, 
+narueg,Naruson,Egert,2001-04-26,EST,Põlva,EST
 natkam,Natkho,Amir,1996-07-09,RUS,Maykop,RUS
 naumal,Naumov,Aleksey,1972-02-02,RUS,St. Petersburg, 
 navela,Naveriani,Lasha,1990-04-22,GEO, ,GEO
@@ -1182,6 +1239,7 @@ nikoal,Nikolajev,Aleksandr,2003-06-23,EST, ,EST
 nikual,Nikulin,Aleksandr,1985-01-19,RUS,Leningrad,RUS
 nimoal,Nimo,Alex,1990-03-21,LBR,Monrovia,LBR
 njeugw,Njeukam,Gaél White,1989-07-07,CMR,Douala,CMR
+nmmxot,Nõmm,Ott,2004-10-23,EST, ,EST
 nommkr,Nõmm,Karl-Romet,1998-01-04,EST,Pärsti vald,EST
 nommma,Nõmme,Mait,1983-07-01,EST,Kostivere,EST
 nommra,Nommik,Raivo,1977-02-11,EST,Tallinn, 
@@ -1209,15 +1267,18 @@ odilod,Odilávio, ,1996-07-23,BRA,Recife,BRA
 odintm,Odinayev,Temyr-Malik,1977-08-08,RUS, , 
 oeoera,Ööpik,Rain,1992-07-15,EST,Rakvere,EST
 ogorvl,Ogorodnik,Vladislav,1995-03-18,EST,Tallinn,EST
+ogunga,Ogungbe,Ganiu,1992-12-01,NGR, ,NGR
 oiguka,Oigus,Karl,1998-11-05,EST,Tartu,EST
 oinaja,Oinas,Janne,1973-11-27,FIN,Turku,FIN
 ojamha,Ojamaa,Harri,1988-04-01,EST,Tallinn, 
+ojamhe,Ojamaa,Henrik,1991-05-20,EST,Tallinn,EST
 ojamhi,Ojamaa,Hindrek,1995-06-12,EST,Tallinn,EST
 ojaxjp,Oja,Jaak-Peeter,1995-10-03,EST,Viljandimaa,EST
 ojaxke,Oja,Keio,1988-08-13,EST, , 
 ojaxra,Oja,Rait,1992-01-26,EST,Tusti,EST
 ojaxre,Oja,Reimo,1982-11-23,EST,Tallinn, 
 okoyfr,Okoye,Frankline,1999-05-06,NGR, ,NGR
+olbesi,Olberkis,Sigitas,1997-04-19,LIT, ,LIT
 oleije,Oleinikov,Jevgeni,1975-03-27,EST, , 
 oleral,Olerski,Aleksandr,1973-05-18,EST,Paldiski, 
 olesge,Olesk,Gert,1973-08-08,EST,Pärnu, 
@@ -1273,6 +1334,7 @@ palaka,Palatu,Karl,1982-12-05,EST,Pärnu,EST
 palkmi,Palksaar,Mikk,1990-01-18,EST, , 
 pallma,Pall,Märten,2004-01-15,EST,Tartu,EST
 palmss,Palm,Siim-Sten,1992-08-18,EST,Rapla,EST
+paltma,Palts,Mathias,2001-03-21,EST, ,EST
 paltse,Paltsev,Sergei,1985-02-16,EST,Kohtla-Järve,EST
 paluhu,Palutaja,Hugo,2004-03-02,EST,Tallinn,EST
 paluke,Palumets,Kevor,2002-11-21,EST,Tallinn,EST
@@ -1290,6 +1352,7 @@ papidm,Papichyts,Dmitri,1981-11-19,BLR,Brest,
 paplin,Paplavskis,Ingmar,1999-05-17,EST,Tallinn,EST
 papoma,Paponov,Maksim,1990-06-11,EST,Tallinn,EST
 papudm,Papušin,Dmitri,2000-10-25,EST, ,EST
+pareda,Pareiko,Daniil,2005-03-11,EST, ,EST
 parese,Pareiko,Sergei,1977-01-31,EST,Tallinn,EST
 parima,Pari,Mati,1974-09-04,EST,Viljandi, 
 parner,Pärna,Erkki,1982-08-28,EST,Tallinn, 
@@ -1310,6 +1373,7 @@ pavlmi,Pavlov,Mihhail,2000-10-06,EST,Narva,EST
 pebran,Pebre,Andero,1991-08-07,EST,Paide,EST
 pechiv,Pecha,Ivan,1986-01-23,SVK,Bratislava,SVK
 pechka,Pechter,Karl,1996-03-02,EST,Tartu,EST
+pedmhe,Pedmanson,Herman,2005-08-12,EST,Põlva,EST
 pedoma,Pedok,Maksim,1986-04-30,EST, , 
 pedost,Pedõk,Stanislav,1988-06-06,EST, ,EST
 peedpr,Peedo,Priit,1995-04-18,EST,Tartu,EST
@@ -1337,6 +1401,7 @@ petrev,Petrov,Evgeni,1988-06-18,RUS, ,
 petrko,Petrov,Konstantin,1989-06-30,EST,Tallinn, 
 petrma,Petrov,Mark,2002-04-03,EST,Tallinn,EST
 petrva,Petrenko,Vadimas,1974-05-26,LIT,Klaipeda, 
+pevtgl,Pevtsov,Gleb,2000-10-23,EST, ,EST
 philsi,Philips,Silvio,1994-03-24,CRO,Dortmund,GER
 piheke,Pihelgas,Kermo,1999-11-08,EST,Paide,EST
 pihepe,Pihel,Peeter,1980-02-28,EST,Kaarma, 
@@ -1352,6 +1417,7 @@ pimemc,Pimentel,Marcio Cardoso,1980-11-29,BRA,Porto Alegre,BRA
 pincva,Pinchuk,Vasili,1994-12-08,RUS,St. Petersburg,RUS
 pinkar,Pinka,Artur,1968-11-07,EST,Pärnu, 
 pisnse,Pisnoi,Sergei,1983-02-08,EST, , 
+pjatdm,Pjatajev,Dmitri,2004-01-29,EST, ,EST
 platvi,Platonov,Vitali,1990-12-16,EST, , 
 plotig,Plotnikov,Igor,1992-01-12,EST, , 
 plotvi,Plotnikov,Viktor,1989-07-14,EST,Sillamäe,EST
@@ -1404,6 +1470,7 @@ puriei,Puri,Eino,1988-05-07,EST,Tartu,EST
 purisa,Puri,Sander,1988-05-07,EST,Tartu,EST
 purjat,Purje,Ats,1985-08-03,EST,Tallinn,EST
 pushal,Pushtov,Aleksandr,1964-03-09,EST,Kaliningrad, 
+putima,Putinčanin,Marko,1987-12-16,SRB,Beograd,SRB
 putsre,Pütsepp,Rein,1971-09-19,EST,Tartu, 
 quinda,Quintieri,Damiano,1990-05-04,ITA,Cosenza,ITA
 raalpr,Raal,Priit,1989-02-09,EST,Türi, 
@@ -1417,6 +1484,7 @@ raehta,Rähn,Taavi,1981-05-16,EST,Pärnu,EST
 raetar,Rättel,Artur,1993-02-08,EST,Pärnu,EST
 rafaxx,Rafael, ,1988-10-10,BRA,Sorocaba,BRA
 rahmel,Rahmanov,Elchin,1979-01-18,AZE,Baku, 
+raidmi,Raid,Mikk,2001-02-11,EST,Tartu,EST
 raidst,Raider,Stiven,2001-12-04,EST,Tallinn,EST
 raigma,Raig,Margus,1981-03-24,EST,Paide, 
 raikan,Raik,Andre,2001-05-30,EST,Pärsti,EST
@@ -1479,6 +1547,7 @@ rikbra,Rikberg,Rauno,1988-07-30,EST, ,
 rimato,Rimas,Tomas,1978-05-02,LIT,Taurage Linn, 
 rimmm1,Rimmel,Marten,1995-04-04,EST,Tallinn,EST
 rimmma,Rimmel,Maico,2003-09-23,EST,Talinn,EST
+ristra,Ristikivi,Ranet,2000-11-19,EST, ,EST
 ritsma,Ritson,Marten,1999-05-12,EST,Pärsti,EST
 rodrfe,Rodrigues,Felipe,1983-06-06,BRA,Cabo Frio,BRA
 rodrjo,Rodrigues,Jorge,1982-03-19,POR,Vila Real,POR
@@ -1549,6 +1618,7 @@ sahkju,Sahkur,Jüris,1990-09-12,EST,Rakvere,EST
 sahnje,Sahno,Jevgeni,1984-11-15,EST, , 
 sairak,Sairinen,Akim,1994-05-22,FIN, ,FIN
 saityo,Saito,Yosuke,1988-04-07,JAP,Tokyo,JAP
+sakaar,Sakarias,Artur,2004-07-22,EST,Tallinn,EST
 saksja,Saks,Janno,1991-07-10,EST,Tartu,EST
 saksta,Saks,Tarmo,1975-11-06,EST,Tallinn, 
 salati,Sala,Tiago,1984-10-03,BRA,Veranópolis,BRA
@@ -1603,6 +1673,7 @@ senjla,Senjes,Lauri,1987-01-15,EST,Pärnu,
 sepeil,Šepelev,Ilja,1995-09-28,EST, ,EST
 seppas,Sepp,Alex Sander,1995-04-08,EST,Tallinn,EST
 seppma,Seppik,Markkus,2001-04-16,EST,Pärnu,EST
+seppmi,Sepp,Mihkel,2005-02-17,EST,Tartu,EST
 serafa,Seravalli,Fabio,1985-06-20,BRA,São Paulo,BRA
 serdse,Serdjuk,Sergei,1983-12-27,EST,Valga, 
 serean,Sereda,Anton,1979-09-09,EST,Tallinn, 
@@ -1747,6 +1818,7 @@ taansa,Taan,Sander,1998-03-16,EST, ,EST
 taaral,Taar,Albert,1990-01-15,EST,Sillamäe,EST
 taarar,Taar,Artjom,1990-12-26,EST,Sillamäe,EST
 taarro,Taar,Robert,1994-03-24,EST,Viljandi,EST
+tabrda,Tabrezi,Davlatmir,1998-06-06,TAJ,Duşanbe,TAJ
 tagiza,Tagizade,Zaur,1979-02-21,AZE,Baku, 
 taimka,Taimla,Kaarel,1985-07-26,EST,Tallinn, 
 takehi,Takeda,Hideaki,1985-05-22,JAP,---, Saitama
@@ -1797,6 +1869,7 @@ tekkta,Tekko,Tauno,1994-12-14,EST,Pärnu,EST
 teleko,Televinov,Konstantin,1985-06-26,EST,Tallinn, 
 telero,Teles,Roman,1979-09-11,EST, , 
 televi,Teleš,Vitali,1983-10-17,EST,Tallinn,EST
+tenit1,Teniste,Taijo,1988-01-31,EST,Tartu,EST
 tenita,Teniste,Taijo,1988-01-31,EST,Tartu, 
 teniti,Teniste,Timo,1985-10-27,EST,Tartu,EST
 tenns1,Tenno,Simo,1992-09-05,EST,Tartu,EST
@@ -1807,7 +1880,9 @@ terese,Terehhov,Sergei,1975-04-18,EST,Pärnu,EST
 tibuvi,Tibu,Viljo,1990-05-25,EST, , 
 tihhvl,Tihhon,Vladimir,1977-03-10,EST,Narva, 
 tihoal,Tihonov,Aleksei,1997-05-04,EST, ,EST
+tiidr1,Tiidermann,Raimond,2002-09-30,EST, ,EST
 tiidra,Tiideberg,Ragnar,1985-03-29,EST,Tartu, 
+tiikma,Tiik,Mattias,2004-05-25,EST,Tartu,EST
 tiirda,Tiirats,Danel,1997-02-11,EST, ,EST
 tiirkr,Tiirik,Kristjan,1982-08-25,EST,Tartu,EST
 tiisju,Tiismann,Juri,1980-05-23,EST, , 
@@ -1837,6 +1912,7 @@ tokast,Tokarev,Stanislav,1993-06-10,EST, ,
 tokkro,Tokko,Roland,1984-10-04,EST,Tallinn, 
 tolgta,Tõlgo,Taneli,2001-05-09,EST,Tallinn,EST
 tolkig,Tolkacs,Igors,1986-05-11,LAT,Daugavpils, 
+toloan,Tolordava,Anton,1996-08-02,GEO, ,GEO
 tomaig,Tomasevski,Igor,1980-08-01,EST,Gaz-Sale, 
 tomase,Tomaily,Sergey,1977-11-19,RUS,Tallinn, 
 tomska,Tomson,Kaur,1992-11-28,EST, ,EST
@@ -1859,6 +1935,7 @@ tounsa,Tounkara,Sadio,1992-04-27,MLI,Bamako,MLI
 tovsal,Tovstik,Alar,1984-07-31,EST,Rakvere,EST
 tovsel,Tovstik,Elar,1981-10-31,EST,Rakvere,EST
 trasta,Trasberg,Taavi,1993-07-17,EST,Rakvere,EST
+trawfo,Trawally,Foday,2001-03-28,GAM, ,GAM
 treito,Treiel,Toomas,1980-01-20,EST, , 
 treuka,Treubladt,Kaarel,1994-05-11,EST, , 
 treusi,Treumuth,Siim,1986-02-17,EST,Pärnu, 
@@ -1868,6 +1945,7 @@ trofv1,Trofimov,Vladimir,1959-01-06,EST, ,
 trofvl,Trofimov,Vladislav,1994-05-24,RUS,St. Petersburg,RUS
 trojse,Trojanov,Semjon,1979-10-05,EST, , 
 trubai,Truberg,Aivar,1971-04-09,EST, , 
+trubma,Trubatšov,Mark,2002-11-14,EST,Tartu,EST
 truuta,Truusa,Taavi,1972-07-13,EST,Tallinn, 
 tsegma,Tšegodajev,Martin,1990-11-30,EST,Tallinn,EST
 tselvl,Tselnokov,Vladimir,1980-04-17,EST,Tallinn, 
@@ -1878,6 +1956,7 @@ tserma,Tšerezov,Maksim,2001-03-26,EST,Narva,EST
 tserni,Tsernei,Nikita,1991-12-08,EST,Narva,EST
 tserol,Tsernjajev,Oleg,1968-09-26,EST, , 
 tshier,Tshibangu,Eric,1988-12-04,FRA,Kinshasa, 
+tsivgi,Tsivelekidis,Giannis,1999-06-04,GRE, ,GRE
 tsmiva,Tsmil,Valeri,1966-03-08,EST, , 
 tsomst,Tsõmbaljuk,Stanislav,2002-11-25,EST,Tallinn,EST
 tsuran,Tsurikov,Andrei,1978-10-23,EST, , 
@@ -1888,6 +1967,7 @@ tsvevj,Tsvetkov,Vjatseslav,1967-09-17,EST, ,
 tsvevl,Tšvertko,Vladimir,1996-02-22,EST,Tallinn,EST
 tubaca,Tubarik,Carl,1981-07-31,EST,Paide,EST
 tubias,Tubi,Assi,1972-01-27,ISR,Tel Aviv,ISR
+tugjer,Tõugjas,Erko,2003-07-05,EST,Tallinn,EST
 tuhkda,Tuhkanen,Daniel,2001-02-26,EST,Tallinn,EST
 tukaje,Tukan,Jevgeni,1994-11-24,EST,Tallinn,EST
 tukisa,Tukiainen,Sakari,1991-10-02,FIN,Espoo,FIN
@@ -1901,6 +1981,7 @@ tyukev,Tyukalov,Evgeniy,1992-08-07,RUS,Perm,RUS
 tyunan,Tyunin,Andrey,1979-06-12,EST,Tartu, 
 udalje,Udalov,Jevgeni,1994-07-26,EST,Tallinn,EST
 udexig,Ude,Igor,1968-10-01,EST, , 
+uggegi,Uggeri,Giacomo,2001-04-04,ITA,Rom,ITA
 uggema,Uggè,Maximiliano,1991-09-24,ITA,Treviglio,ITA
 uibocr,Uibo,Clen-Raith,2001-05-06,EST, ,EST
 uibove,Uibo,Verner,1983-09-05,EST,Pärnu, 
@@ -1919,8 +2000,10 @@ ussoge,Ussov,German,1997-08-26,EST, ,EST
 ussose,Ussoltsev,Sergiy,1975-04-02,UKR,Krym, Ukraine
 ustaka,Usta,Kaarel,1999-11-03,EST,Tallinn,EST
 ustama,Ustaal,Martin,1993-02-06,EST,Tallinn,EST
+ustata,Usta,Taaniel,2003-02-17,EST, ,EST
 ustied,Ustinov,Eduard,1976-05-01,EST,Tallinn, 
 ustrdm,Ustritski,Dmitri,1975-05-08,EST,Tallinn, 
+ustrig,Ustritski,Igor,2001-08-27,EST,Viljandi,EST
 utgoer,Utgof,Erik,1999-11-11,EST,Tallinn,EST
 utsxai,Üts,Aigar,1982-11-28,EST,Kaiu, 
 uuskra,Uusküla,Rauno,1977-02-06,EST, ,EST
@@ -1951,6 +2034,7 @@ valiar,Valikaev,Artur,1988-01-08,RUS,Sterlitamak,RUS
 valkka,Valk,Karmo,1997-06-16,EST, ,EST
 vallk1,Vall,Kalle,1977-08-17,EST, , 
 vallka,Vallner,Karl,1998-02-28,EST,Loo,EST
+vallvi,Vallik,Virgo,2003-02-03,EST,Parnü,EST
 vallvl,Vallasoo,Vladlen,1998-03-11,EST, ,EST
 valmel,Valmas,Elari,1988-07-02,EST,Salme,EST
 valool,Valov,Oleg,1992-01-03,RUS,Saransk,RUS
@@ -1974,10 +2058,12 @@ vassni,Vassiljev,Nikolai,2001-08-22,EST,Narva,EST
 vassvl,Vassiljev,Vladimir,1988-02-13,EST,Dukat, 
 vastbo,Vaštšuk,Bogdan,1995-10-04,EST,Tallinn,EST
 vastvi,Vastsenko,Vitali,1977-05-16,EST,Kohtla-Järve, 
+vdovni,Vdovichenko,Nikolay,1989-04-21,RUS,Oktyabrsky,RUS
 vebeje,Veber,Jesper,1984-09-01,EST,Pärnu, 
 vebeju,Veber,Jürgen,1983-02-10,EST,Tallinn, 
 veccal,La Vecchia,Alessandro,1985-01-19,ITA, ,ITA
 vedero,Vedehhov,Roman,1981-07-20,EST,Narva, 
+vedoal,Švedovski,Aleksander,2004-11-26,EST,Tallinn,EST
 veelpa,Veelma,Patrik,2002-04-15,EST,Tartu,EST
 veenen,Veensalu,Enrico,1999-08-19,EST,Pärnu,EST
 veenja,Veensalu,Jaanus,1964-07-29,EST,Tallinn, 
@@ -2009,12 +2095,14 @@ viirka,Viira,Kaspar,1988-01-26,EST, ,
 viirsa,Viira,Sander,1989-08-29,EST,Lümanda,EST
 vikoga,Väiko,Garry,1991-01-05,EST,Tallinn, 
 vildse,Vilderson,Seppo,1963-02-07,EST,Tallinn, 
+villm1,Villota,Mathias,2005-06-28,EST,Parnü,EST
 villma,Villota,Magnus,1998-02-11,EST,Pärnu,EST
 vinkvi,Vink,Vitali,1979-04-09,EST,Viljandi, 
 vinoed,Vinogradov,Eduard,1969-07-31,EST,Tallinn, 
 vinoki,Vinogradov,Kirill,1992-06-05,EST,Tallinn,EST
 vintre,Vinter,Reivo,1997-02-02,EST,Kuressaare,EST
 viruta,Virula,Tarmo,1974-07-20,EST, , 
+vistma,Vister,Marius,2004-04-17,EST,Tartu,EST
 vjalvi,Vjalov,Viktor,1972-09-02,EST, , 
 vladal,Vladimirov,Aleksandr,1997-09-21,EST, ,EST
 vnukde,Vnukov,Denis,1991-11-01,EST,Tallinn,EST
@@ -2056,8 +2144,10 @@ yakova,Yakovlev,Valeri,1969-08-18,GEO,Balkhash, Kasachstan
 yakuko,Yakushev,Konstantin,1969-11-08,RUS,Sillamäe, 
 yaoxym,Yao,Yann Michael,1997-06-20,CIV,Dabou,CIV
 yapise,Yapici,Serhat,1988-07-22,GER,Hamburg,GER
+yuniaA,Yunis,Aamir Abdallah,1999-05-08,AUS, ,AUS
 yusiab,Yusif,Abdul,2001-08-09,GHA, ,GHA
 zabese,Zabelo,Sergei,1992-07-01,EST,Tallinn,EST
+zagrni,Zagrebelny,Nikita,1996-10-02,RUS,Voronezh,RUS
 zahhal,Zahharenkov,Aleksandr,1987-02-09,EST,Kohtla-Järve,EST
 zahhje,Zahharov,Jelissei,2001-05-04,EST, ,EST
 zahovj,Zahovaiko,Vjatšeslav,1981-12-29,EST,Lelle,EST
@@ -2074,9 +2164,11 @@ zdanri,Zdancius,Ricardas,1967-11-17,LIT,Gargzdai,
 zeleil,Zelentsov,Ilja,1992-08-02,EST,Tallinn,EST
 zelema,Zelentsov,Maksim,1995-08-03,EST,Tallinn,EST
 zeliin,Zelinski,Indrek,1974-11-13,EST,Pärnu, 
+zenjs1,Zenjov,Sergei,1989-04-20,EST,Pärnu,EST
 zenjse,Zenjov,Sergei,1989-04-20,EST,Pärnu, 
 zhabse,Zhabyko,Sergey,1973-09-03,RUS, , 
 zhukal,Zhukov,Aleksey,1965-01-11,RUS, , 
+zhureg,Zhuravlev,Egor,2005-07-11,EST,Narva,EST
 zhurig,Zhurakhovskyi,Igor,1994-09-19,UKR,Kyiv,UKR
 zidkdm,Zidkov,Dmitri,1972-09-24,EST,Tallinn, 
 zidkma,Zidkov,Maksim,1975-12-16,EST,Tallinn, 

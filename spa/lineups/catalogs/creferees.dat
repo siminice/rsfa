@@ -1,4 +1,4 @@
-538
+544
 abadjc,Abad,José Manuel Carreira,José Manuel Carreira Abad,13/07/1941,SPA,Arzúa,SPA,jose-carreira-abad
 aguafd,Aguado,Francisco David,Francisco David Aguado, ,SPA,Valencia,SPA,francisco-david-aguado
 aguajc,Aguado,Jesús Cristóbal,Jesús Cristóbal Aguado,24/12/1912,SPA,San Sebastián,SPA,jesus-cristobal-aguado
@@ -127,6 +127,7 @@ elizjs,Elizondo,Juan María Sáiz,Juan María Sáiz Elizondo,24/03/1933,SPA,Bera
 elorfr,Elorza,Francisco,Francisco Elorza, &dagger;,SPA,Bilbao,SPA,francisco-elorza
 elorpu,Elordi,Pedro María Urrestarazu,Pedro María Urrestarazu Elordi,00/00/1929,SPA,Barakaldo,SPA,pedro-urrestarazu-elordi
 escaft,Escabosa,Fernando Tresaco,Fernando Tresaco Escabosa, ,SPA, ,SPA,fernando-tresaco-escabosa
+escuiD,Escuderos,Isidro Díaz de Mera,Isidro Díaz de Mera Escuderos, ,SPA, ,SPA,isidro-diaz-de-mera
 espeab,Espejo,Alfonso Baena,Alfonso Baena Espejo, ,SPA, ,SPA,alfonso-baena-espejo
 espeji,Esperante,José Luis Irles,José Luis Irles Esperante, ,SPA, ,SPA,jose-irles-esperante
 espial,Espinosa,Arturo López,Arturo López Espinosa,00/00/1891,SPA,Madrid,SPA,arturo-lopez-espinosa
@@ -213,6 +214,7 @@ gracft,Gracia,Fernando Tresaco,Fernando Tresaco Gracia,04/07/1955,SPA,Huesca,SPA
 gracli,Gracia,Luis Iglesias,Luis Iglesias Gracia,04/04/1899,SPA,Zaragoza,SPA,luis-iglesias-gracia
 gradcs,Grado,César Soto,César Soto Grado,17/06/1980,SPA, ,SPA,cesar-soto-grado
 grancd,Grande,Carlos Del Cerro,Carlos Del Cerro Grande,13/03/1976,SPA,Madrid,SPA,carlos-del-cerro-grande
+graniM,Granado,Iván Massó,Iván Massó Granado, ,SPA, ,SPA,ivan-masso-granado
 griefe,Grien,Fernandez,Fernandez Grien, ,SPA, ,SPA,fernandez-grien
 grijid,Grijalba,Iker De Francisco,Iker De Francisco Grijalba, ,SPA, ,SPA,iker-de-francisco-grijalba
 grimjb,Grimal,José Ignacio Bueno,José Ignacio Bueno Grimal,10/10/1956,SPA,Terrer,SPA,jose-bueno-grimal
@@ -337,6 +339,7 @@ montpp,Montero,Pedro Jesús Pérez,Pedro Jesús Pérez Montero,03/01/1976,SPA,Li
 moraac,Mora,Ángel Castarlenas,Ángel Castarlenas Mora, ,SPA, ,SPA,angel-castarlenas-mora
 morajm,Mora,José Antonio Marco,José Antonio Marco Mora, ,SPA, ,SPA,jose-marco-mora
 morape,Morán,Pedro Escartín,Pedro Escartín Morán,10/08/1902,SPA,Madrid,SPA,pedro-escartin-moran
+moreaR,Moreno,Antonio Ramón Martínez,Antonio Ramón Martínez Moreno, ,SPA, ,SPA,antonio-martinez-moreno
 morear,Moreno,Alfredo Rodríguez,Alfredo Rodríguez Moreno, ,SPA, ,SPA,alfredo-rodriguez-moreno
 morecm,Moreno,Carmelo Miramón,Carmelo Miramón Moreno, ,SPA, ,SPA,carmelo-miramon-moreno
 morejs,Moreno,Juan Sánchez,Juan Sánchez Moreno,18/10/1945,SPA,Villanueva del Río,SPA,juan-sanchez-moreno
@@ -429,6 +432,7 @@ rayojg,Rayo,Julián González,Julián González Rayo, ,SPA, ,SPA,julian-gonzalez
 redocg,Redondo,Celino Gracia,Celino Gracia Redondo,14/04/1957,SPA,Huesa del Común,SPA,celino-gracia-redondo
 reguab,Regué,Antonio Balcells,Antonio Balcells Regué, ,SPA, ,SPA,antonio-balcells-regue
 rendsd,Rendón,Sebastián Damín,Sebastián Damín Rendón,10/04/1940,SPA,Cádiz,SPA,sebastian-damin-rendon
+ricorP,Rico,Rubén Porras,Rubén Porras Rico, ,SPA, ,SPA,ruben-porras-rico
 rierjd,Riera,José Antonio Doménech,José Antonio Doménech Riera,11/12/1946,SPA,Eivissa,SPA,jose-domenech-riera
 rifafc,Rifà,Francesc Casajuana,Francesc Casajuana Rifà,14/07/1952,SPA,Sant Cugat del Vallès,SPA,francesc-casajuana-rifa
 riosas,Ríos,Antonio Sánchez,Antonio Sánchez Ríos, ,SPA, ,SPA,antonio-sanchez-rios
@@ -443,6 +447,7 @@ rodran,Rodríguez,Ángel Nevado,Ángel Nevado Rodríguez,17/11/1981,SPA, ,SPA,an
 rodrap,Rodríguez,Antonio Pérez,Antonio Pérez Rodríguez, ,SPA,Sevilla,SPA,antonio-perez-rodriguez
 rodrco,Rodríguez,Corredoira,Corredoira Rodríguez, ,SPA, ,SPA,corredoira-rodriguez
 rodrfg,Rodríguez,Francisco González,Francisco González Rodríguez,16/06/1965,SPA, ,SPA,francisco-gonzalez-rodriguez
+rodriB,Rodríguez,Israel Bárcena,Israel  Bárcena Rodríguez, ,SPA, ,SPA,israel-barcena-rodriguez
 rodrj1,Rodríguez,José Alcoba,José Alcoba Rodríguez, ,SPA, ,SPA,jose-alcoba-rodriguez
 rodrja,Rodríguez,Javier Aguilar,Javier Aguilar Rodríguez, ,SPA, ,SPA,javier-aguilar-rodriguez
 rodrje,Rodríguez,Jordi Esquerdo,Jordi Esquerdo Rodríguez, ,SPA, ,SPA,jordi-esquerdo-rodriguez
@@ -531,9 +536,10 @@ villvi,Villena, ,Villena, ,SPA, ,SPA,villena
 vitift,Vitienes,Fernando Teixeira,Fernando Teixeira Vitienes,28/07/1971,SPA, ,SPA,fernando-teixeira-vitienes
 vitijt,Vitienes,José Antonio Teixeira,José Antonio Teixeira Vitienes,18/07/1970,SPA,Santander,SPA,jose-teixeira-vitienes
 viuxgp,Viu,Gaspar Pintado,Gaspar Pintado Viu, ,SPA,Barcelona,SPA,gaspar-pintado-viu
+vzqujF,Vázquez,Jorge Figueroa,Jorge Figueroa Vázquez, ,SPA, ,SPA,jorge-figueroa-vazquez
 zabajl,Zaballa,José Luis López,José Luis López Zaballa,00/00/1922,SPA,Bilbao,SPA,jose-lopez-zaballa
 zabaza,Zabala, ,Zabala, ,SPA, ,SPA,zabala
 zamoap,Zamorano,Alfonso Pino,Alfonso Pino Zamorano,23/06/1972,SPA,Madrid,SPA,alfonso-pino-zamorano
 zangrd,Zanguitu,Rafael De Corpas,Rafael De Corpas Zanguitu, ,SPA,San Sebastián,SPA,rafael-de-corpas-zanguitu
 zarara,Zárate,Rómulo Álvarez,Rómulo Álvarez Zárate, ,SPA, ,SPA,romulo-alvarez-zarate
-zzzzzz,Zzzz,Zz,Zz Zzzz,0000-00-00, , , ,zz-zzzz
+zzzzzz,Zzzz,Zz,Zz Zzzz,9999-12-31,ROM,Malu Spart,ROM,zz-zzzz

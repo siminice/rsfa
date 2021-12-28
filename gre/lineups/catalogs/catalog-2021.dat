@@ -50,7 +50,6 @@ karani,Nikos,Karanikas,1992-03-04,GRE,11,2,F,0,0,0,0,nikos-karanikas
 maidge,Georgios,Maidanos,1998-04-12,GRE,11,23,F,0,0,0,0,georgios-maidanos
 maksma,Maksym,Maksymenko,1990-05-28,UKR,11,27,F,0,0,0,0,maksym-maksymenko
 michal,Alexandros,Michail,1986-08-18,GRE,11,5,F,0,0,0,0,alexandros-michail
-muzema,Mateo,Mužek,1995-04-29,CRO,11,13,F,0,0,0,0,mateo-muzek
 zizini,Nikola,Žižić,1988-01-23,CRO,11,16,F,0,0,0,0,nikola-zizic
 hatiab,Änis,Ben-Hatira,1988-07-18,TUN,11,10,M,0,0,0,0,aenis-ben-hatira
 chalal,Alexandros,Chalatsis,2000-06-16,GRE,11,20,M,0,0,0,0,alexandros-chalatsis
@@ -58,27 +57,29 @@ coload,Adrián,Colombino,1993-10-12,URU,11,30,M,0,0,0,0,adrian-colombino
 daktge,Georgios,Daktylas,2001-09-22,GRE,11,70,M,0,0,0,0,georgios-daktylas
 jakini,Nikola,Jakimovski,1990-02-26,MAC,11,11,M,0,0,0,0,nikola-jakimovski
 milora,Radomir,Milosavljević,1992-07-28,SRB,11,8,M,0,0,0,0,radomir-milosavljevic
+miltdi,Dimitrios,Miltiadis,2002-06-07,GRE,11,8,M,0,0,0,0,dimitrios-miltiadis
 nikoal,Alexandros,Nikolias,1994-07-23,GRE,11,88,M,0,0,0,0,alexandros-nikolias
 sparti,Tim,Sparv,1987-02-20,FIN,11,6,M,0,0,0,0,tim-sparv
 stiema,Manuel,Stiefler,1988-07-25,GER,11,7,M,0,0,0,0,manuel-stiefler
-stoiat,Athanasios,Stoinovic,2003-02-17,SRB,11,28,M,0,0,0,0,athanasios-stoinovic
 acunma,Mathías,Acuña,1992-11-28,URU,11,29,A,0,0,0,0,mathias-acuna
 durmfi,Fiorin,Durmishaj,1996-11-14,ALB,11,9,A,0,0,0,0,fiorin-durmishaj
 glynsp,Spyros,Glynos,1997-12-02,GRE,11,14,A,0,0,0,0,spyros-glynos
 kotsap,Apostolos,Kotsianoulis,2001-01-29,GRE,11,18,A,0,0,0,0,apostolos-kotsianoulis
-loufdi,Dimitrios,Loufakis,2000-04-01,GRE,11,27,A,0,0,0,0,dimitrios-loufakis
 moukbe,Benjamin,Moukandjo,1988-11-12,CMR,11,12,A,0,0,0,0,benjamin-moukandjo
 nunima,Marko,Nunič,1993-03-16,SLO,11,33,A,0,0,0,0,marko-nunic
 pinadi,Dimitrios,Pinakas,2001-09-01,GRE,11,17,A,0,0,0,0,dimitrios-pinakas
-trujni,Nikola,Trujić,1992-04-14,SRB,11,92,A,0,0,0,0,nikola-trujic
-younha,Hamza,Younès,1986-04-16,TUN,11,99,A,0,0,0,0,hamza-younes
 zachge,Georgios,Zacharakis,2001-01-02,GRE,11,21,A,0,0,0,0,georgios-zacharakis
+trujni,Nikola,Trujić,1992-04-14,SRB,11, , ,0,0,0,0,nikola-trujic
 filist,Steliano,Filip,1994-05-15,ROM,11, , ,0,0,0,0,steliano-filip
 platva,Vangelis,Platellas,1988-12-01,GRE,11, , ,0,0,0,0,vangelis-platellas
+muzema,Mateo,Mužek,1995-04-29,CRO,11, , ,0,0,0,0,mateo-muzek
 torjga,Gabriel,Torje,1989-11-22,ROM,11, , ,0,0,0,0,gabriel-torje
+younha,Hamza,Younès,1986-04-16,TUN,11, , ,0,0,0,0,hamza-younes
 secead,Adnan,Šećerović,1991-12-01,BOS,11, , ,0,0,0,0,adnan-secerovic
 ghazal,Aly,Ghazal,1992-02-01,EGY,11, , ,0,0,0,0,aly-ghazal
 kostio,Ioannis,Kosti,2000-03-17,CYP,11, , ,0,0,0,0,ioannis-kosti
+loufdi,Dimitrios,Loufakis,2000-04-01,GRE,11, , ,0,0,0,0,dimitrios-loufakis
+stoiat,Athanasios,Stoinović,2003-02-17,SRB,11, , ,0,0,0,0,athanasios-stoinovic
 saxxjo,José,Sá,1993-01-17,POR,1,1,P,0,0,0,0,jose-sa
 karail,Ilias,Karargyris,2002-06-29,GRE,1,44,P,0,0,0,0,ilias-karargyris
 krisoe,Ögmundur,Kristinsson,1989-06-19,ISL,1,31,P,0,0,0,0,oegmundur-kristinsson
@@ -89,6 +90,7 @@ baxxou,Ousseynou,Ba,1995-11-11,SEN,1,24,F,0,0,0,0,ousseynou-ba
 choljo,José,Cholevas,1984-06-27,GRE,1,25,F,0,0,0,0,jose-cholevas
 chrigi,Giannis,Christofilopoulos,2003-07-17,GRE,1,59,F,0,0,0,0,giannis-christofilopoulos
 draemo,Mohamed,Dräger,1996-06-25,TUN,1,21,F,0,0,0,0,mohamed-draeger
+kaloa1,Alexios,Kalogeropoulos,2004-07-26,GRE,1,61,F,0,0,0,0,alexios-kalogeropoulos
 lalake,Kenny,Lala,1991-10-03,FRA,1,72,F,0,0,0,0,kenny-lala
 papaav,Avraam,Papadopoulos,1984-12-03,GRE,1,34,F,0,0,0,0,avraam-papadopoulos
 papaso,Sokratis,Papastathopoulos,1988-06-09,GRE,1,15,F,0,0,0,0,sokratis-papastathopoulos
@@ -127,7 +129,6 @@ athava,Vasilios,Athanasiou,1999-07-24,GRE,21,99,P,0,0,0,0,vasilios-athanasiou
 chouel,Eleftherios,Choutesiotis,1994-07-20,GRE,21,33,P,0,0,0,0,eleftherios-choutesiotis
 lodyyu,Yuri,Lodygin,1990-05-26,RUS,21,13,P,0,0,0,0,yuri-lodygin
 erraro,Rodrigo,Erramuspe,1990-05-03,ARG,21,15,F,0,0,0,0,rodrigo-erramuspe
-gogoge,Georgios,Gogos,2001-07-11,GRE,21,5,F,0,0,0,0,georgios-gogos
 ikonan,Antonios,Ikonomopoulos,1998-05-09,GRE,21,24,F,0,0,0,0,antonios-ikonomopoulos
 karggi,Giannis,Kargas,1994-12-09,GRE,21,6,F,0,0,0,0,giannis-kargas
 panopa,Pantelis,Panourgias,1998-04-13,GRE,21,25,F,0,0,0,0,pantelis-panourgias
@@ -142,17 +143,18 @@ kartal,Alexandros,Kartalis,1995-01-29,GRE,21,7,M,0,0,0,0,alexandros-kartalis
 liasan,Angelos,Liasos,2000-05-26,GRE,21,80,M,0,0,0,0,angelos-liasos_2
 naumvl,Vladyslav,Naumets,1999-03-07,UKR,21,17,M,0,0,0,0,vladyslav-naumets
 sionst,Stefanos,Siontis,1987-09-04,GRE,21,22,M,0,0,0,0,stefanos-siontis
-triaal,Alexis,Triadis,1997-05-16,GRE,21,22,M,0,0,0,0,alexis-triadis
+triaal,Alexis,Triadis,1997-05-16,GRE,21,30,M,0,0,0,0,alexis-triadis
 brenfa,Fabricio,Brener,1998-05-26,ARG,21,8,A,0,0,0,0,fabricio-brener
 doumge,Georgios,Doumtsis,2000-03-04,GRE,21,11,A,0,0,0,0,georgios-doumtsis
 elefch,Christos,Eleftheriadis,1991-09-30,GRE,21,9,A,0,0,0,0,christos-eleftheriadis
 krizsa,Sandi,Križman,1989-08-17,CRO,21,12,A,0,0,0,0,sandi-krizman
-leoxjb,Jean-Baptiste,Léo,1996-05-03,FRA,21,29,A,0,0,0,0,jean-baptiste-leo
 lolial,Alexandros,Lolis,2002-09-05,GRE,21,19,A,0,0,0,0,alexandros-lolis
 milini,Nicolae,Milinceanu,1992-08-01,MOL,21,20,A,0,0,0,0,nicolae-milinceanu
 pamlgi,Giorgos,Pamlidis,1993-11-13,GRE,21,14,A,0,0,0,0,giorgos-pamlidis
 xydage,Georgios,Xydas,1997-04-14,GRE,21,28,A,0,0,0,0,georgios-xydas
+leoxjb,Jean-Baptiste,Léo,1996-05-03,FRA,21, , ,0,0,0,0,jean-baptiste-leo
 gianma,Makis,Giannikoglou,1993-03-25,GRE,21, , ,0,0,0,0,makis-giannikoglou
+gogoge,Georgios,Gogos,2001-07-11,GRE,21, , ,0,0,0,0,georgios-gogos
 athage,Georgios,Athanasiadis,1993-04-07,GRE,2,30,P,0,0,0,0,georgios-athanasiadis
 chatva,Vasilios,Chatziemmanouil,1999-08-09,GRE,2,16,P,0,0,0,0,vasilios-chatziemmanouil
 theoge,Georgios,Theocharis,2002-06-30,GRE,2,99,P,0,0,0,0,georgios-theocharis
@@ -172,7 +174,6 @@ galako,Konstantinos,Galanopoulos,1997-12-28,GRE,2,25,M,0,0,0,0,konstantinos-gala
 krstne,Nenad,Krstičić,1990-07-03,SRB,2,6,M,0,0,0,0,nenad-krsticic
 mantpe,Petros,Mantalos,1991-08-31,GRE,2,20,M,0,0,0,0,petros-mantalos
 mitama,Mario,Mitaj,2003-08-06,ALB,2,40,M,0,0,0,0,mario-mitaj
-sabaan,Anel,Šabanadžović,1999-05-24,BOS,2,44,M,0,0,0,0,anel-sabanadzovic
 sardgi,Giannis,Sardelis,2000-11-03,GRE,2,51,M,0,0,0,0,giannis-sardelis
 shakye,Yevhen,Shakhov,1990-11-30,UKR,2,28,M,0,0,0,0,yevhen-shakhov
 szymda,Damian,Szymański,1995-06-16,POL,2,4,M,0,0,0,0,damian-szymanski
@@ -187,13 +188,13 @@ tankmu,Muamer,Tanković,1995-02-22,SWE,2,17,A,0,0,0,0,muamer-tankovic
 livama,Marko,Livaja,1993-08-26,CRO,2, , ,0,0,0,0,marko-livaja
 insuem,Emanuel,Insúa,1991-04-10,ARG,2, , ,0,0,0,0,emanuel-insua
 paulpa, ,Paulinho,1991-07-13,POR,2, , ,0,0,0,0,paulinho_13
+sabaan,Anel,Šabanadžović,1999-05-24,BOS,2, , ,0,0,0,0,anel-sabanadzovic
 botogi,Giannis,Botos,2000-12-20,GRE,2, , ,0,0,0,0,giannis-botos
 enobbr,Bright,Enobakhare,1998-02-08,NGR,2, , ,0,0,0,0,bright-enobakhare
 garaat,Athanasios,Garavelis,1992-08-06,GRE,315,1,P,0,0,0,0,athanasios-garavelis
 klaibo,Boris,Klaiman,1990-10-26,ISR,315,55,P,0,0,0,0,boris-klaiman
 kravva,Vasilis,Kravaritis,2002-04-03,GRE,315,71,P,0,0,0,0,vasilis-kravaritis
 papasy,Symeon,Papadopoulos,2000-04-18,GRE,315,30,P,0,0,0,0,symeon-papadopoulos
-coloro,Rodrigo,Colombo,1992-11-19,ARG,315,15,F,0,0,0,0,rodrigo-colombo
 dentan,Antonis,Dentakis,1995-03-13,GRE,315,2,F,0,0,0,0,antonis-dentakis
 ferrfr,Franco,Ferrari,1992-05-09,ARG,315,3,F,0,0,0,0,franco-ferrari_2
 grilfa,Fausto,Grillo,1993-02-20,ARG,315,37,F,0,0,0,0,fausto-grillo
@@ -215,14 +216,16 @@ buenal, ,Bueno,1988-03-20,SPA,315,10,A,0,0,0,0,bueno
 douvan,Anastasios,Douvikas,1999-08-02,GRE,315,9,A,0,0,0,0,anastasios-douvikas
 kritta,Tasos,Kritikos,1995-01-25,GRE,315,7,A,0,0,0,0,tasos-kritikos_2
 perejj,Juan José,Perea,2000-02-23,COL,315,19,A,0,0,0,0,juan-jose-perea
-santre,Renato,Santos,1991-10-05,POR,315,17,A,0,0,0,0,renato-santos_2
-rivajo,José,Rivas,1998-09-01,VEN,315,17,A,0,0,0,0,jose-rivas_4
+rivajo,José,Rivas,1998-09-01,VEN,315,19,A,0,0,0,0,jose-rivas_4
+coloro,Rodrigo,Colombo,1992-11-19,ARG,315, , ,0,0,0,0,rodrigo-colombo
 wardam,Amr,Warda,1993-09-17,EGY,315, , ,0,0,0,0,amr-warda
+santre,Renato,Santos,1991-10-05,POR,315, , ,0,0,0,0,renato-santos_2
 guarik,Iker,Guarrotxena,1992-12-06,SPA,315, , ,0,0,0,0,iker-guarrotxena
 dimost,Stergios,Dimopoulos,1990-05-25,GRE,315, , ,0,0,0,0,stergios-dimopoulos
 jender,Erik,Jendrišek,1986-10-26,SVK,315, , ,0,0,0,0,erik-jendrisek
 gianan,Andreas,Gianniotis,1992-12-18,GRE,37,22,P,0,0,0,0,andreas-gianniotis
 mandch,Christos,Mandas,2001-09-17,GRE,37,35,P,0,0,0,0,christos-mandas
+saltgi,Giannis,Saltas,2002-03-05,GRE,37,43,P,0,0,0,0,giannis-saltas
 theoch,Christos,Theodorakis,1996-09-17,GRE,37,13,P,0,0,0,0,christos-theodorakis
 athani,Nikolaos,Athanasiou,2001-03-16,GRE,37,30,F,0,0,0,0,nikolaos-athanasiou
 goutdi,Dimitrios,Goutas,1994-04-04,GRE,37,4,F,0,0,0,0,dimitrios-goutas
@@ -233,6 +236,7 @@ natssp,Spyros,Natsos,1998-06-09,GRE,37,16,F,0,0,0,0,spyros-natsos
 galoro,Rodrigo,Galo,1986-09-19,BRA,37,12,F,0,0,0,0,rodrigo-galo
 strost,Stefanos,Stroungis,1997-10-09,GRE,37,29,F,0,0,0,0,stefanos-stroungis
 tomajo,Josip,Tomašević,1994-03-04,CRO,37,50,F,0,0,0,0,josip-tomasevic
+zannfo,Fotis,Zannis,2003-01-03,GRE,37,42,F,0,0,0,0,fotis-zannis
 charch,Charilaos,Charisis,1995-01-12,GRE,37,6,M,0,0,0,0,charilaos-charisis
 ikongi,Giannis,Ikonomidis,1998-01-03,GRE,37,18,M,0,0,0,0,giannis-ikonomidis
 muniju,Juan,Muñiz,1992-03-14,SPA,37,14,M,0,0,0,0,juan-muniz
@@ -255,9 +259,7 @@ risvsp,Spyros,Risvanis,1994-01-03,GRE,37, , ,0,0,0,0,spyros-risvanis
 busuaz,Azer,Bušuladžić,1991-11-12,BOS,37, , ,0,0,0,0,azer-busuladzic
 kalach,Christos,Kalantzis,2000-06-19,GRE,38,84,P,0,0,0,0,christos-kalantzis_2
 knetch,Christopher,Knett,1990-08-01,AUT,38,1,P,0,0,0,0,christopher-knett
-kontva,Vangelis,Kontogiannis,2002-01-09,GRE,38,99,P,0,0,0,0,vangelis-kontogiannis
 melini,Nikolaos,Melissas,1993-02-24,GRE,38,22,P,0,0,0,0,nikolaos-melissas
-bakage,Gerasimos,Bakadimas,2000-06-06,GRE,38,22,F,0,0,0,0,gerasimos-bakadimas
 cocaed,Edin,Cocalić,1987-12-05,BOS,38,33,F,0,0,0,0,edin-cocalic
 karaar,Aristotelis,Karasalidis,1991-05-03,GRE,38,4,F,0,0,0,0,aristotelis-karasalidis
 konsap,Apostolos,Konstantopoulos,2002-08-02,GRE,38,66,F,0,0,0,0,apostolos-konstantopoulos
@@ -289,6 +291,7 @@ skonsp,Spyros,Skondras,2001-04-06,GRE,38,77,A,0,0,0,0,spyros-skondras
 vergni,Nikolaos,Vergos,1996-01-13,GRE,38,29,A,0,0,0,0,nikolaos-vergos
 alvaju,Juan,Álvarez,1997-10-27,ARG,38, , ,0,0,0,0,juan-alvarez_5
 mosqal,Alejandro,Mosquera,1999-05-08,COL,38, , ,0,0,0,0,alejandro-mosquera
+bakage,Gerasimos,Bakadimas,2000-06-06,GRE,38, , ,0,0,0,0,gerasimos-bakadimas
 pascal,Alexandros,Paschalakis,1989-07-28,GRE,3,31,P,0,0,0,0,alexandros-paschalakis
 talich,Christos,Talichmanidis,2001-03-16,GRE,3,64,P,0,0,0,0,christos-talichmanidis
 zivkzi,Živko,Živković,1989-04-14,SRB,3,88,P,0,0,0,0,zivko-zivkovic
@@ -303,6 +306,7 @@ peread,Adrian,Pereira,1999-08-31,NOR,3,16,F,0,0,0,0,adrian-pereira_2
 rodrro, ,Rodrigo,1992-12-26,BRA,3,2,F,0,0,0,0,rodrigo_18
 augudo,Douglas,Augusto,1997-01-13,BRA,3,33,M,0,0,0,0,douglas-augusto
 kaddoe,Omar,El Kaddouri,1990-08-21,MAR,3,7,M,0,0,0,0,omar-el-kaddouri
+giaxky,Kyriakos,Giaxis,2001-04-03,GRE,3,46,M,0,0,0,0,kyriakos-giaxis
 kagash,Shinji,Kagawa,1989-03-17,JAP,3,23,M,0,0,0,0,shinji-kagawa
 konsio,Ioannis,Konstantelias,2003-05-10,GRE,3,65,M,0,0,0,0,ioannis-konstantelias
 murgth,Thomas,Murg,1994-11-14,AUT,3,10,M,0,0,0,0,thomas-murg
@@ -311,23 +315,57 @@ schwst,Stefan,Schwab,1990-09-27,AUT,3,22,M,0,0,0,0,stefan-schwab
 tsinth,Theocharis,Tsingaras,2000-08-20,GRE,3,51,M,0,0,0,0,theocharis-tsingaras
 vrakge,Georgios,Vrakas,2001-04-28,GRE,3,29,M,0,0,0,0,georgios-vrakas
 bradvl,Vladimir,Bradonjić,1999-12-11,BOS,3,29,A,0,0,0,0,vladimir-bradonjic
-colaan,Antonio,Čolak,1993-09-17,CRO,3,25,A,0,0,0,0,antonio-colak
 koutge,Georgios,Koutsias,2004-02-08,GRE,3,70,A,0,0,0,0,georgios-koutsias
 krmemi,Michael,Krmenčík,1993-03-15,CZE,3,27,A,0,0,0,0,michael-krmencik
 lampla,Lazaros,Lamprou,1997-12-19,GRE,3,97,A,0,0,0,0,lazaros-lamprou
-jabale,Léo,Jabá,1998-08-02,BRA,3,98,A,0,0,0,0,leo-jaba
 swidka,Karol,Świderski,1997-01-23,POL,3,9,A,0,0,0,0,karol-swiderski
 tzolch,Christos,Tzolis,2002-01-30,GRE,3,11,A,0,0,0,0,christos-tzolis
 vieiad, ,Vieirinha,1986-01-24,POR,3,20,A,0,0,0,0,vieirinha
 wardam,Amr,Warda,1993-09-17,EGY,3,8,A,0,0,0,0,amr-warda
 zivkan,Andrija,Živković,1996-07-11,SRB,3,14,A,0,0,0,0,andrija-zivkovic
 giandi,Dimitris,Giannoulis,1995-10-17,GRE,3, , ,0,0,0,0,dimitris-giannoulis
+colaan,Antonio,Čolak,1993-09-17,CRO,3, , ,0,0,0,0,antonio-colak
 esitan,Anderson,Esiti,1994-05-24,NGR,3, , ,0,0,0,0,anderson-esiti
 wagumo,Moussa,Wagué,1998-10-04,SEN,3, , ,0,0,0,0,moussa-wague
 bisedi,Diego,Biseswar,1988-03-08,SUR,3, , ,0,0,0,0,diego-biseswar
 pelkdi,Dimitrios,Pelkas,1993-10-26,GRE,3, , ,0,0,0,0,dimitrios-pelkas
 matole,Léo,Matos,1986-04-02,BRA,3, , ,0,0,0,0,leo-matos
 akpoch,Chuba,Akpom,1995-10-09,ENG,3, , ,0,0,0,0,chuba-akpom
+jabale,Léo,Jabá,1998-08-02,BRA,3, , ,0,0,0,0,leo-jaba
+gianan,Andreas,Gianniotis,1992-12-18,GRE,42,22,P,0,0,0,0,andreas-gianniotis
+mandch,Christos,Mandas,2001-09-17,GRE,42,35,P,0,0,0,0,christos-mandas
+saltgi,Giannis,Saltas,2002-03-05,GRE,42,43,P,0,0,0,0,giannis-saltas
+theoch,Christos,Theodorakis,1996-09-17,GRE,42,13,P,0,0,0,0,christos-theodorakis
+athani,Nikolaos,Athanasiou,2001-03-16,GRE,42,30,F,0,0,0,0,nikolaos-athanasiou
+goutdi,Dimitrios,Goutas,1994-04-04,GRE,42,4,F,0,0,0,0,dimitrios-goutas
+kivrky,Kyriakos,Kivrakidis,1992-07-21,GRE,42,19,F,0,0,0,0,kyriakos-kivrakidis
+galvlu,Lucas,Galvão,1991-06-22,BRA,42,3,F,0,0,0,0,lucas-galvao
+mavrth,Theofanis,Mavrommatis,1997-01-16,GRE,42,24,F,0,0,0,0,theofanis-mavrommatis
+natssp,Spyros,Natsos,1998-06-09,GRE,42,16,F,0,0,0,0,spyros-natsos
+galoro,Rodrigo,Galo,1986-09-19,BRA,42,12,F,0,0,0,0,rodrigo-galo
+strost,Stefanos,Stroungis,1997-10-09,GRE,42,29,F,0,0,0,0,stefanos-stroungis
+tomajo,Josip,Tomašević,1994-03-04,CRO,42,50,F,0,0,0,0,josip-tomasevic
+zannfo,Fotis,Zannis,2003-01-03,GRE,42,42,F,0,0,0,0,fotis-zannis
+charch,Charilaos,Charisis,1995-01-12,GRE,42,6,M,0,0,0,0,charilaos-charisis
+ikongi,Giannis,Ikonomidis,1998-01-03,GRE,42,18,M,0,0,0,0,giannis-ikonomidis
+muniju,Juan,Muñiz,1992-03-14,SPA,42,14,M,0,0,0,0,juan-muniz
+rabebr,Bryan,Rabello,1994-05-16,CHI,42,10,M,0,0,0,0,bryan-rabello
+salopa,Patrick,Salomon,1988-06-10,AUT,42,21,M,0,0,0,0,patrick-salomon
+umbija,Javier,Umbides,1982-02-09,ARG,42,8,M,0,0,0,0,javier-umbides
+agayam,Amir,Agayev,1992-02-10,ISR,42,11,A,0,0,0,0,amir-agayev
+bullem,Emiliano,Bullari,2001-04-06,ALB,42,11,A,0,0,0,0,emiliano-bullari
+chrila,Lazaros,Christodoulopoulos,1986-12-19,GRE,42,77,A,0,0,0,0,lazaros-christodoulopoulos
+davige,Georgios,Daviotis,1998-06-29,GRE,42,27,A,0,0,0,0,georgios-daviotis
+edombr,Bright,Edomwonyi,1994-07-24,NGR,42,7,A,0,0,0,0,bright-edomwonyi
+giakpe,Petros,Giakoumakis,1992-07-03,GRE,42,20,A,0,0,0,0,petros-giakoumakis
+kotsko,Konstantinos,Kotsopoulos,1997-02-17,GRE,42,23,A,0,0,0,0,konstantinos-kotsopoulos
+manoge,Georgios,Manousos,1987-12-03,GRE,42,9,A,0,0,0,0,georgios-manousos
+matibo,Bojan,Matić,1991-12-22,SRB,42,99,A,0,0,0,0,bojan-matic
+nsikcl,Clarck,N'Sikulu,1992-07-10,DRC,42,59,A,0,0,0,0,clarck-nsikulu
+shanro,Ronaldo,Shani,2002-03-29,GRE,42,40,A,0,0,0,0,ronaldo-shani
+triman,Antonis,Trimmatis,1999-04-29,GRE,42,17,A,0,0,0,0,antonis-trimmatis
+risvsp,Spyros,Risvanis,1994-01-03,GRE,42, , ,0,0,0,0,spyros-risvanis
+busuaz,Azer,Bušuladžić,1991-11-12,BOS,42, , ,0,0,0,0,azer-busuladzic
 boucza,Zacharie,Boucher,1992-03-07,FRA,4,30,P,0,0,0,0,zacharie-boucher
 cuesju,Julián,Cuesta,1991-03-28,SPA,4,23,P,0,0,0,0,julian-cuesta
 siabma,Marios,Siabanis,1999-09-28,GRE,4,99,P,0,0,0,0,marios-siabanis
@@ -340,9 +378,7 @@ marmch,Christos,Marmaridis,2002-05-25,GRE,4,25,F,0,0,0,0,christos-marmaridis
 martai,Apostolos-Ilias,Martinis,2001-01-08,GRE,4,3,F,0,0,0,0,apostolos-ilias-martinis
 roseli,Lindsay,Rose,1992-02-08,MTS,4,92,F,0,0,0,0,lindsay-rose
 sakiem,Emanuel,Sakić,1991-01-25,AUT,4,66,F,0,0,0,0,emanuel-sakic
-sengpa,Panagiotis,Sengergis,2001-06-23,GRE,4,27,F,0,0,0,0,panagiotis-sengergis
 sundda,Daniel,Sundgren,1990-11-22,SWE,4,21,F,0,0,0,0,daniel-sundgren
-tsagpa,Panagiotis,Tsagalidis,2001-03-05,GRE,4,31,F,0,0,0,0,panagiotis-tsagalidis
 bakope,Petros,Bakoutsis,2001-06-29,GRE,4,38,M,0,0,0,0,petros-bakoutsis
 bertfa,Facundo,Bertoglio,1990-06-30,ARG,4,18,M,0,0,0,0,facundo-bertoglio
 duarle,Lerin,Duarte,1990-08-11,NED,4,8,M,0,0,0,0,lerin-duarte
@@ -361,8 +397,10 @@ criscr, ,Cristian,1989-04-27,SPA,4, , ,0,0,0,0,cristian_6
 datkto,Toni,Datković,1993-11-06,CRO,4, , ,0,0,0,0,toni-datkovic
 fetfio,Ioannis,Fetfatzidis,1990-12-21,GRE,4, , ,0,0,0,0,ioannis-fetfatzidis
 chatko,Konstantinos,Chatzipirpiridis,2001-05-01,GRE,4, , ,0,0,0,0,konstantinos-chatzipirpiridis
+tsagpa,Panagiotis,Tsagalidis,2001-03-05,GRE,4, , ,0,0,0,0,panagiotis-tsagalidis
 ademal,Ali,Adem,2000-06-01,MAC,4, , ,0,0,0,0,ali-adem
 ehmafa,Fabian,Ehmann,1998-08-28,AUT,4, , ,0,0,0,0,fabian-ehmann
+sengpa,Panagiotis,Sengergis,2001-06-23,GRE,4, , ,0,0,0,0,panagiotis-sengergis
 sifava,Vasilios,Sifakis,2001-10-27,GRE,6,53,P,0,0,0,0,vasilios-sifakis
 sotidi,Dimitrios,Sotiriou,1987-09-13,GRE,6,32,P,0,0,0,0,dimitrios-sotiriou
 watebo,Boy,Waterman,1984-01-24,NED,6,24,P,0,0,0,0,boy-waterman
@@ -408,7 +446,7 @@ choudi,Diamantis,Chouchoumis,1994-07-17,GRE,7,3,F,0,0,0,0,diamantis-chouchoumis
 domilu, ,Domingues,1988-09-28,BRA,7,5,F,0,0,0,0,domingues_2
 lisgch,Christos,Lisgaras,1986-02-12,GRE,7,4,F,0,0,0,0,christos-lisgaras
 rhaiad,Adil,Rhaili,1991-04-25,MAR,7,15,F,0,0,0,0,adil-rhaili
-rigoan,Antonis,Rigopoulos,2004-06-10,GRE,7,15,F,0,0,0,0,antonis-rigopoulos
+rigoan,Antonis,Rigopoulos,2004-06-10,GRE,7,66,F,0,0,0,0,antonis-rigopoulos
 tsabsa,Savvas,Tsabouris,1986-07-16,GRE,7,20,F,0,0,0,0,savvas-tsabouris
 varkgi,Giannis,Varkas,1998-03-27,GRE,7,11,F,0,0,0,0,giannis-varkas
 vitlva,Vasilios,Vitlis,1993-10-28,GRE,7,31,F,0,0,0,0,vasilios-vitlis

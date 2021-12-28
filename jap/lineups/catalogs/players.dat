@@ -1,4 +1,4 @@
-3622
+3793
 abexbu,Abe,Bunichiro,1985-04-02,JAP,Shizuoka,JAP
 abexh1,Abe,Hiroki,1999-01-28,JAP,Tokio,JAP
 abexhi,Abe,Hiroyuki,1989-07-05,JAP,Nara,JAP
@@ -10,6 +10,7 @@ abexs1,Abe,Shohei,1983-12-01,JAP,Chiba,JAP
 abexs2,Abe,Shu,1984-06-07,JAP,Osaka,JAP
 abexsh,Abe,Shuto,1997-12-05,JAP,Tokyo,JAP
 abext1,Abe,Takumi,1991-05-26,JAP,Tokyo,JAP
+abext2,Abe,Takashi,1997-07-15,JAP,Osaka,JAP
 abexta,Abe,Takuma,1987-12-05,JAP,Kodaira,JAP
 abexto,Abe,Toshiyuki,1974-08-01,JAP, ,JAP
 abexy1,Abe,Yosuke,1990-05-24,JAP,Hokkaido,JAP
@@ -50,6 +51,7 @@ akibta,Akiba,Tadahiro,1975-10-13,JAP,Chiba,JAP
 akibyo,Akiba,Yoichi,1983-11-23,JAP, ,JAP
 akimma,Akimoto,Masahiro,1979-04-15,JAP,Oita,JAP
 akimmi,Akimoto,Michitaka,1982-09-24,JAP,Shizuoka,JAP
+akimta,Akimoto,Takahiro,1998-01-31,JAP,Utsunomiya,JAP
 akimyo,Akimoto,Yota,1987-07-11,JAP,Machida,JAP
 akinhi,Akino,Hiroki,1994-10-08,JAP,Inzai,JAP
 akithi,Akita,Hideyoshi,1974-07-23,JAP,Kyōto,JAP
@@ -99,12 +101,14 @@ andoma,Ando,Masahiro,1972-04-02,JAP,Sakado,JAP
 andomi,Ando,Mizuki,1999-07-19,JAP,Oita,JAP
 andos1,Ando,Shinya,1976-07-07,JAP, ,JAP
 andosh,Ando,Shunsuke,1990-08-10,JAP,Tokyo,JAP
+andot1,Ando,Toshiki,2003-10-14,JAP,Saga,JAP
 andoto,Ando,Tomoyasu,1974-05-23,JAP,Shizuoka,JAP
 andra1,André, ,1986-11-24,BRA,Paraná,BRA
 andra2,Andrey, ,1974-09-23,BRA, ,BRA
 andran,Andrade,Anderson,1981-11-15,BRA,Ibitinga,BRA
 andred,Andradina, ,1974-09-13,BRA,Andradina,BRA
 andrfe,Andrade,Fernando,1993-01-08,BRA,São Caetano do Sul,BRA
+angea1,Angelotti, ,1998-04-27,BRA,São Paulo,BRA
 angean,Angelo, ,1965-08-10,BRA, ,BRA
 antom1,Antonio,Marco,1963-08-20,BRA,Araraquara,BRA
 antoma,Antônio,Maurício,1992-02-06,BRA,São Paulo,BRA
@@ -127,9 +131,11 @@ aoyato,Aoyama,Toshihiro,1986-02-22,JAP,Okayama,JAP
 arabke,Arabori,Kenji,1988-07-31,JAP,Shiga,JAP
 aradcl,Arado,Cléber,1972-10-11,BRA,San José Do Rio Preto,BRA
 arahke,Arahori,Kenji,1988-07-31,JAP, ,JAP
+araiha,Arai,Haruki,1998-04-12,JAP, ,JAP
 araihi,Arai,Hikaru,1999-04-14,JAP,Nagano,JAP
 araiik,Arai,Ikki,1993-11-08,JAP,Ichikawa,JAP
 araimi,Arai,Mizuki,1997-04-14,JAP,Ina,JAP
+araina,Arai,Naoto,1996-10-07,JAP,Tokyo,JAP
 arairy,Arai,Ryohei,1990-11-03,JAP,Fujimino,JAP
 arais1,Arai,Shota,1985-04-07,JAP,Saitama,JAP
 araish,Arai,Shota,1988-11-01,JAP,Chichibu,JAP
@@ -192,6 +198,7 @@ baiaed,Baiano,Edinho,1967-07-27,BRA,Senhor do Bonfim,BRA
 baiane,Baiano,Neto,1982-09-17,BRA,Ituaçú,BRA
 baiase,Baiano,Serginho,1978-05-01,BRA,Rio Real,BRA
 bajami,Bajalica,Milos,1981-12-15,SRB,Beograd,SRB
+bakemu,Bakenga,Mushaga,1992-08-08,NOR,Trondheim,NOR
 baldju,Baldivieso,Julio,1971-12-02,BOL,Cochabamba,BOL
 baljsr,Baljak,Srđjan,1978-11-25,SRB,Belgrad,SRB
 balogu,Balotelli,Gustavo,1996-06-25,BRA,Aracaju,BRA
@@ -207,6 +214,7 @@ basiva,Basílio, ,1972-07-14,BRA,Andradina,BRA
 bastpa,Bastianini,Pablo,1982-11-09,ARG,Zárate,ARG
 bataro,Batata,Rodrigo,1977-09-10,BRA,Curitiba,BRA
 batiad,Batista,Adilson,1968-03-16,BRA,Adrianópolis,BRA
+battcr,Battocchio,Cristian,1992-02-10,ITA,Rosario,ARG
 baurmi,Baur,Michael,1969-04-16,AUT,Innsbruck,AUT
 baxtle,Baxter,Lee,1976-06-17,SWE,Helsingborg,SWE
 bebejo,Bebeto, ,1964-02-16,BRA,Salvador de Bahía,BRA
@@ -229,6 +237,7 @@ biscda,Bisconti,David,1968-09-22,ARG,Rosario,ARG
 bismbi,Bismarck, ,1969-09-17,BRA,São Gonçalo,BRA
 blanro,Blanco,Roberto,1980-04-17,PAR, ,PAR
 bogdra,Bogdanović,Rade,1970-05-21,SRB,Sarajevo,BOS
+bojabo,Bojan, ,1990-08-28,SPA,Linyola,SPA
 boliba,Boli,Basile,1967-01-02,FRA,Adjamé,CIV
 bosned,Bosnar,Eddy,1980-04-29,AUS,Sydney,AUS
 boszpe,Bosz,Peter,1963-11-21,NED,Apeldoorn,NED
@@ -240,6 +249,7 @@ bozaol,Bozanić,Oliver,1989-01-08,AUS,Sydney,AUS
 bozomi,Božović,Miodrag,1968-06-22,MNT,Mojkovac,MNT
 branwe,Branquinho, ,1983-01-02,BRA,São José do Rio Preto,BRA
 britma,Brito,Marco,1977-08-04,BRA,Rio de Janeiro,BRA
+brodsv,Brodersen,Svend,1997-03-22,GER,Hamburg,GER
 brosal,Brosque,Alex,1983-10-12,AUS,Sydney,AUS
 browno,Browne,Noakenshin,2001-05-27,JAP, ,JAP
 brucka,Bručić,Karlo,1992-04-17,CRO,Zagreb,CRO
@@ -256,10 +266,12 @@ burzig,Burzanović,Igor,1985-08-25,MNT,Podgorica,MNT
 byeojb,Byeon,Jun-Byum,1991-02-05,KOR,Jeju,KOR
 caboev,Caboré, ,1980-02-19,BRA,Salvador,BRA
 cacaje,Cacau, ,1981-03-27,GER,Santo André,BRA
+cacxca,Cacá, ,1999-04-25,BRA,Visconde do Rio Branco,BRA
 caicai,Caíco, ,1974-05-15,BRA,Porto Alegre,BRA
 caioca,Caio, ,1994-04-19,BRA,São Paulo,BRA
 caiowo,Caio, ,1968-08-10,BRA,Roca Sales,BRA
 cajare,Cajá,Renato,1984-09-15,BRA,Paraíba,BRA
+cakear,Caíke,Arthur,1992-06-15,BRA,Barbalha,BRA
 calida,Calichman,Dan,1968-02-21,USA,Huntington Station,USA
 cambal,Cambalhota,Alessandro,1973-05-27,BRA,Teixera de Freitas,BRA
 campfl,Campos,Flávio,1965-08-29,BRA,Rio de Janeiro,BRA
@@ -267,6 +279,7 @@ canimi,Canini,Michele,1985-06-05,ITA,Brescia,ITA
 capiol,Capitão, ,1966-09-19,BRA,Conselheiro Pena,BRA
 capoca,Capone, ,1972-05-23,BRA,Campinas,BRA
 carbro,Carbone,Rodrigo,1974-03-17,BRA,Rio de Janeiro,BRA
+cardfe,Cardoso,Fellipe,1998-10-04,BRA,São Paulo,BRA
 carean,Careca, ,1960-10-05,BRA,Araraquara,BRA
 carima,Carioca,Marcelinho,1971-02-01,BRA,Rio de Janeiro,BRA
 carla1,Carlos,Antônio,1969-05-18,BRA,Presidente Prudente,BRA
@@ -287,6 +300,7 @@ castbr,Castanheira,Bruno,1990-05-20,BRA, ,BRA
 cataeb,Catatau, ,1986-03-01,BRA,Fernandopolis,BRA
 caueca,Cauê, ,1989-05-24,BRA,Sao Paulo,BRA
 ceardu,Cearense,Dudu,1983-04-15,BRA,Fortaleza,BRA
+cearlo,Ceará,Léo,1995-02-03,BRA,Fortaleza,BRA
 cecced,Ceccon,Éder,1983-04-13,BRA,Itajaí,BRA
 cecito,Cecílio,Toninho,1967-05-27,BRA,Avaré,BRA
 celebi,Celeski,Billy,1985-07-14,AUS,Ohrid,MAC
@@ -342,8 +356,10 @@ cortbr,Cortêz,Bruno,1987-03-11,BRA,Rio de Janeiro,BRA
 crisc1,Crislan, ,1992-03-13,BRA,Teresina,BRA
 criscr,Cristiano, ,1987-01-12,BRA,Campo Mourão,BRA
 crooia,Crook,Ian,1963-01-18,ENG,Romford,ENG
+croujo,Croux,Jordy,1994-01-15,BEL,Hasselt,BEL
 cuenis,Cuenca,Isaac,1991-04-27,SPA,Reus,SPA
 cullro,Cullen,Robert,1985-06-07,JAP,Tsuchiura,JAP
+cvetdu,Cvetinović,Dušan,1988-12-24,SRB,Šabac,SRB
 cvitig,Cvitanović,Igor,1970-11-01,CRO,Osijek,CRO
 dabada,Dabac,Dario,1978-05-23,CRO,Sinj,CRO
 dambcl,Dambury,Claude,1971-07-30,FRA,Cayenne,FGY
@@ -368,16 +384,19 @@ desale,Desábato,Leandro,1990-03-30,ARG,Murphy,ARG
 despra,Despotović,Ranko,1983-01-21,SRB,Loznica,SRB
 diasca,Dias,Carlos Alberto,1967-05-05,BRA,Brasília,BRA
 diazra,Díaz,Ramón,1959-08-29,ARG,La Rioja,ARG
+diegd1,Diego, ,1995-09-21,BRA,Corumbá,BRA
 diegdi,Diego, ,1984-03-22,BRA,São Paulo,BRA
 dinete,Dinei, ,1983-11-11,BRA,São Domingos,BRA
 dinied,Diniz,Eduardo,1989-04-18,BRA,Guaraí,BRA
 diniir,Dininho, ,1975-07-23,BRA,Itapagipe,BRA
 diogdi,Diogo, ,1986-10-29,BRA,Arapongas,BRA
 diogpa,Diogo,Pablo,1992-12-18,BRA,Campinas,BRA
+disaaS,Disaro,Akira Silvano,1996-04-02,JAP,Tokyo,JAP
 djaldj,Djalminha, ,1970-12-09,BRA,São Paulo,BRA
 djorne,Đorđević,Nenad,1979-08-07,SRB,Paraćin,SRB
 djukdr,Đukanović,Dragan,1969-10-29,SRB,Nikšić, 
 doanri,Doan,Ritsu,1998-06-16,JAP,Amagasaki,JAP
+dodido,Dodi, ,1996-04-17,BRA,São Paulo,BRA
 dododo,Dodô, ,1990-06-28,BRA, ,BRA
 dodori,Dodô, ,1974-05-02,BRA,São Paulo,BRA
 dogary,Dogaki,Ryuichi,1988-01-08,JAP,Osaka,JAP
@@ -405,6 +424,7 @@ dukeca,Duke,Carlos,2000-02-28,JAP,Tokyo,JAP
 dukemi,Duke,Mitchell,1991-01-18,AUS,Liverpool,AUS
 dumara,Dumas,Rafael,1995-03-13,BRA,Rio de Janeiro,BRA
 dungca,Dunga, ,1963-10-31,BRA,Rio Grande do Sol,BRA
+dungis,Dunga,Ismael,1993-02-24,KEN, ,KEN
 durifr,Durix,Franck,1965-10-20,FRA,Belleville-sur-Saône,FRA
 dushdu,Dushan, ,1988-12-24,SRB,Šabac,SRB
 dutran,Dutra, ,1973-08-11,BRA,Duque Bacelar,BRA
@@ -497,10 +517,12 @@ ferrvh,Ferreyra,Victor Hugo,1964-02-24,ARG,Río Tercero,ARG
 ferrwe,Ferrugem, ,1988-03-28,BRA,Pedro Canário,BRA
 figuda,Figueroa,Darío,1978-02-13,ARG,San Rafael,ARG
 fitzmi,Fitzgerald,Michael,1988-09-17,JAP,Auckland,NZL
+fogufo,Foguinho, ,1992-06-15,BRA,São Lourenço do Sul,BRA
 forldi,Forlán,Diego,1979-05-19,URU,Montevideo,URU
 foxeha,Foxe,Hayden,1977-06-23,AUS,Sydney,AUS
 franf1,Francismar, ,1984-04-18,BRA,Ubá,BRA
 franfr,França, ,1976-03-02,BRA,Codó,BRA
+franga,França,Gabriel,1995-03-14,BRA,Pedro Leopoldo,BRA
 franto,Frankowski,Tomasz,1974-08-16,POL,Bialystok,POL
 freile,Freire, ,1989-08-21,BRA,Presidente Prudente (SP),BRA
 fuexma,Fue,Masato,1973-03-22,JAP,Kagoshima,JAP
@@ -511,6 +533,7 @@ fujih1,Fujikawa,Hisataka,1964-05-01,JAP,Kanagawa,JAP
 fujiha,Fujii,Haruya,2000-12-26,JAP,Aichi,JAP
 fujihi,Fujiharu,Hiroki,1988-11-28,JAP,Osaka,JAP
 fujiib,Fujita,Ibuki,1991-01-30,JAP,Nagoya,JAP
+fujijo,Fujita,Joel,2002-02-16,JAP,Tokyo,JAP
 fujiju,Fujimoto,Jungo,1984-03-24,JAP,Yamato,JAP
 fujik1,Fujikawa,Kotaro,1998-07-24,JAP,Fukuoka,JAP
 fujik2,Fujimatsu,Koya,0000-00-00,JAP, ,JAP
@@ -525,6 +548,7 @@ fujino,Fujimoto,Noriaki,1989-08-19,JAP,Osaka,JAP
 fujire,Fujimura,Ren,1999-05-26,JAP,Kuriyama,JAP
 fujiry,Fujiyama,Ryuji,1973-06-09,JAP,Kagoshima,JAP
 fujis1,Fujiyoshi,Shinji,1970-04-03,JAP,Machida,JAP
+fujis2,Fujiwara,Shiryu,2000-09-05,JAP,Kitajima,JAP
 fujisa,Fujimoto,Satoshi,1976-06-19,JAP,Kumamoto,JAP
 fujise,Fujita,Seiya,1987-06-02,JAP,Sapporo,JAP
 fujish,Fujio,Shota,2001-05-02,JAP,Osaka,JAP
@@ -539,6 +563,7 @@ fujits,Fujihara,Tsutomu,1980-10-13,JAP,Mie,JAP
 fujiy1,Fujigaya,Yosuke,1981-02-13,JAP,Shizuoka,JAP
 fujiy2,Fujita,Yoshihito,1983-04-13,JAP,Hyogo,JAP
 fujiy3,Fujisaki,Yoshitaka,1975-05-16,JAP,Kagoshima,JAP
+fujiy4,Fujiwara,Yudai,2002-06-29,JAP,Hirosaki,JAP
 fujiyo,Fujita,Yoshiaki,1983-01-12,JAP,Tochigi,JAP
 fujiyu,Fujii,Yuta,1991-05-25,JAP,Saitama,JAP
 fukaka,Fukai,Kazuki,1995-03-11,JAP,Sapporo,JAP
@@ -549,21 +574,26 @@ fukama,Fukamiya,Masonari,2002-10-18,JAP, ,JAP
 fukash,Fukahori,Shumpei,1998-06-29,JAP,Aichi,JAP
 fukato,Fukagawa,Tomotaka,1972-07-24,JAP,Muroran,JAP
 fukayu,Fukaya,Yuki,1982-08-01,JAP,Aichi,JAP
+fukeno,Fuke,Noriki,1997-07-22,JAP,Aichi,JAP
 fukua1,Fukuta,Akito,1992-05-01,JAP,Mie,JAP
 fukuak,Fukumori,Akito,1992-12-16,JAP,Fujisawa,JAP
 fukuh1,Fukushima,Hayato,2000-04-26,JAP,Kumamoto,JAP
 fukuha,Fukushima,Haruki,1993-04-08,JAP,Seto,JAP
 fukuk1,Fukuda,Kenji,1977-10-21,JAP,Niihama,JAP
+fukuk2,Fukumori,Kenta,1994-07-04,JAP,Tokyo,JAP
 fukuke,Fukuda,Kensuke,1984-07-24,JAP,Shizuoka,JAP
 fukuma,Fukuda,Masahiro,1966-12-27,JAP,Yokohama,JAP
 fukuna,Fukumori,Naoya,1992-08-29,JAP,Osaka,JAP
 fukur1,Fukushige,Ryoichi,1971-01-30,JAP,Wakayama,JAP
+fukur2,Fukushima,Ryuya,2002-06-08,JAP,Miyazaki,JAP
 fukury,Fukui,Ryoji,1987-08-07,JAP,Hyogo,JAP
 fukus1,Fukuda,Shunsuke,1986-04-17,JAP,Saitama,JAP
 fukus2,Fukushima,Shinta,1989-01-28,JAP, ,JAP
+fukus3,Fukuoka,Shota,1995-10-24,JAP,Nishitōkyō,JAP
 fukush,Fukuda,Shinnosuke,2000-09-04,JAP, ,JAP
 fukut1,Fukumura,Takayuki,1991-12-22,JAP,Hirataka,JAP
 fukut2,Fukunishi,Takashi,1976-09-01,JAP,Ehime,JAP
+fukut3,Fukui,Taichi,2004-07-15,JAP,Kanagawa,JAP
 fukuta,Fukumitsu,Takaki,1992-02-22,JAP,Kagoshima,JAP
 fukuya,Fukunaga,Yasushi,1973-03-06,JAP,Machida,JAP
 fukuyo,Fukumoto,Yohei,1987-04-12,JAP,Oita,JAP
@@ -574,6 +604,7 @@ funake,Funatani,Keisuke,1986-01-07,JAP,Mie,JAP
 funata,Funayama,Takayuki,1987-05-06,JAP,Narita,JAP
 funate,Funatsu,Tetsuya,1987-02-09,JAP,Osaka,JAP
 funay1,Funakoshi,Yuzo,1977-06-12,JAP,Hyogo,JAP
+funay2,Funabashi,Yu,2002-07-12,JAP,Ibaraki,JAP
 funayu,Funayama,Yuji,1985-01-19,JAP,Chiba,JAP
 furono,Furo,Nobuyuki,1980-01-01,JAP,Matsuyama,JAP
 furuhi,Furuta,Hiroyuki,1991-05-23,JAP,Hokkaido,JAP
@@ -622,10 +653,12 @@ gonzan,Gonzaga,Anderson,1983-12-29,BRA,Porto Feliz,BRA
 gooddo,Goodman,Don,1966-05-09,ENG,Leeds,ENG
 gorone,Gorosito,Néstor,1964-05-14,ARG,San Fernando,ARG
 goshhi,Goshi,Hirokazu,1966-12-19,JAP,Shizuoka,JAP
+gotohi,Goto,Hibiki,2004-04-06,JAP, ,JAP
 gotoju,Goto,Junji,1971-08-09,JAP,Yamagata,JAP
 gotoka,Goto,Kanta,1993-12-05,JAP,Fukuoka,JAP
 gotoke,Goto,Keita,1986-09-08,JAP,Iwai,JAP
 gotoma,Goto,Masaaki,1994-05-24,JAP,Tokorozawa,JAP
+gotona,Goto,Naoki,2002-04-26,JAP,Anan,JAP
 gotota,Gotō,Tarō,1969-12-24,JAP,Hiroshima,JAP
 gotoy1,Goto,Yuji,1985-08-20,JAP,Gifu,JAP
 gotoyo,Goto,Yoshikazu,1964-02-20,JAP,Shizuoka,JAP
@@ -634,8 +667,10 @@ goulal,Goulart,Alexandre,1976-07-24,BRA, ,BRA
 goxxdm,Go,Dong-Min,1999-01-12,KOR, ,KOR
 goyahi,Goya,Hiroto,1994-01-02,JAP,Hyōgo,JAP
 gralro,Gral, ,1977-02-21,BRA,Caxambú do Sul,BRA
+groldo,Groli,Douglas,1989-10-05,BRA,São Miguel do Oeste,BRA
 guedal,Guedes,Alexandre,1994-02-11,POR,Arcozelo,POR
 gugaal,Guga, ,1964-06-14,BRA,Osacso,BRA
+gutica,Gutiérrez,Carlos,1991-11-04,SPA,San Cristóbal de la Laguna,SPA
 guxxsy,Gu,Sung-yun,1994-06-27,KOR,Pohang,KOR
 haasma,Haas,Mario,1974-09-16,AUT,Graz,AUT
 habako,Habata,Koki,1983-07-22,JAP,Wakayama,JAP
@@ -650,6 +685,7 @@ hagita,Hagihara,Tatsuro,1982-08-06,JAP,Kagoshima,JAP
 hajito,Haji,Toshiaki,1978-08-28,JAP,Sakai,JAP
 hakayu,Hakamata,Yutaro,1996-06-24,JAP,Shizuoka,JAP
 hallbe,Ben Halloran, ,1992-06-14,AUS,Cairns,AUS
+hamaak,Hamashita,Akira,1995-07-05,JAP,Hiroshima,JAP
 hamami,Hamada,Mizuki,1990-05-18,USA,New Jersey,USA
 hamary,Hama,Ryohei,1992-10-24,JAP, ,JAP
 hamat1,Hamasaki,Takuma,1993-02-17,JAP,Settsu,JAP
@@ -662,6 +698,7 @@ hanek1,Haneda,Kenji,1981-12-01,JAP,Chiba,JAP
 haneke,Haneda,Kento,1997-07-07,JAP,Osaka,JAP
 hanseu,Hanssen,Eugène,1959-01-09,NED,Landgraaf,NED
 hanxdw,Han,Dong-won,1986-04-06,KOR, ,KOR
+hanxho,Han,Ho-gang,1993-09-18,KOR,Kyoto,JAP
 hanxky,Han,Kook-young,1990-04-19,KOR,Seoul,KOR
 hanxsw,Han,Sang-woon,1986-05-03,KOR,Taebaek,KOR
 hanyna,Hanyu,Naotake,1979-12-22,JAP,Chiba,JAP
@@ -684,6 +721,7 @@ harate,Hara,Teruki,1998-07-30,JAP,Saitama,JAP
 harayu,Hara,Yutaro,1990-04-23,JAP,Shimane,JAP
 hariha,Harison, ,1980-01-02,BRA,Belém,BRA
 harita,Harigaya,Takeaki,1998-10-15,JAP,Kuki,JAP
+harury,Haruna,Ryusei,2004-05-01,JAP,Hyogo,JAP
 haseaj,Hasegawa,Aria Jasuru,1988-10-29,JAP,Tsurugashima,JAP
 haseay,Hasebe,Ayato,1990-02-06,JAP,Niigata,JAP
 haseiv,Hašek,Ivan,1963-09-06,CZE,Městec Králové,CZE
@@ -745,13 +783,16 @@ hayake,Hayashi,Keisuke,1988-07-25,JAP,Hyogo,JAP
 hayako,Hayashi,Kohei,1978-06-27,JAP,Yamaguchi,JAP
 hayama,Hayashido,Makoto,1989-11-21,JAP, ,JAP
 hayami,Hayashi,Mizuki,1996-09-04,JAP,Osaka,JAP
+hayana,Hayashi,Naoki,1998-06-09,JAP,Osaka,JAP
 hayar1,Hayashi,Ryohei,1986-09-08,JAP,Tokyo,JAP
 hayary,Hayasaka,Ryota,1985-09-19,JAP,Nara,JAP
 hayasa,Hayashi,Satoru,1988-06-13,JAP, ,JAP
 hayat1,Hayashi,Takenori,1980-10-14,JAP,Nara,JAP
 hayat2,Hayama,Takumi,1978-05-20,JAP,Kanagawa,JAP
+hayat3,Hayakawa,Tomoki,1999-03-03,JAP,Kanagawa,JAP
 hayata,Hayashi,Takuto,1982-08-09,JAP,Osaka,JAP
 hayato,Hayakawa,Tomonobu,1977-07-11,JAP,Shimizu,JAP
+hayay1,Hayasaka,Yuki,1999-05-22,JAP,Ota,JAP
 hayayo,Hayashi,Yohei,1989-07-16,JAP,Sayama,JAP
 hayayu,Hayashi,Yusuke,1990-01-23,JAP,Iwate,JAP
 hebehe,Heberty, ,1988-08-29,BRA,São Paulo,BRA
@@ -807,11 +848,13 @@ hirat3,Hirashima,Takashi,1982-02-03,JAP,Osaka,JAP
 hirat4,Hirayama,Tomonori,1978-01-09,JAP, ,JAP
 hirat5,Hirano,Takashi,1974-07-15,JAP,Shizuoka,JAP
 hirat6,Hirama,Tomokazu,1977-06-30,JAP,Shibata,JAP
+hirat7,Hiraoka,Taiyo,2002-09-14,JAP,Takarazuka,JAP
 hirata,Hirato,Taiki,1997-04-18,JAP,Hitachinaka,JAP
 hirato,Hirase,Tomoyuki,1977-05-23,JAP,Kagoshima,JAP
 hiray1,Hiraoka,Yasunari,1972-03-13,JAP,Tochigi,JAP
 hiraya,Hiraoka,Yasuhiro,1986-05-23,JAP,Shizuoka,JAP
 hirayo,Hiraki,Yoshiki,0000-00-00,JAP, ,JAP
+hirayu,Hirano,Yuichi,1996-03-11,JAP,Tokyo,JAP
 hirok1,Hiroya,Kenta,1992-06-26,JAP, ,JAP
 hiroke,Hirose,Kenta,1992-06-26,JAP,Kawaguchi,JAP
 hiroko,Hirono,Koichi,1980-04-16,JAP, ,JAP
@@ -909,12 +952,14 @@ iidama,Iida,Masaki,1985-09-15,JAP,Toride,JAP
 iidata,Iida,Takahiro,1994-08-31,JAP,Sakuragawa,JAP
 iijika,Iijima,Kazuhisa,1970-01-06,JAP,Machida,JAP
 iikuhi,Iikura,Hiroki,1986-06-01,JAP,Aomori,JAP
+iinona,Iino,Nanasei,1996-10-02,JAP,Niigata,JAP
 iioxk1,Iio,Kazuya,1980-04-10,JAP,Tokyo,JAP
 iioxka,Iio,Kazunori,1982-02-23,JAP,Ninohe,JAP
 iioxry,Iio,Ryutaro,1991-01-30,JAP,Hyōgo,JAP
 ikedfu,Ikeda,Futoshi,1970-10-04,JAP,Koganei,JAP
 ikedke,Ikeda,Kei,1986-10-20,JAP,Inzai,JAP
 ikedko,Ikeda,Ko,2001-07-04,JAP, ,JAP
+ikedm1,Ikeda,Masaki,1999-07-08,JAP,Osaka,JAP
 ikedma,Ikeda,Manabu,1980-07-03,JAP,Ibaraki,JAP
 ikedno,Ikeda,Nobuyasu,1970-05-18,JAP,Saitama,JAP
 ikedsh,Ikeda,Shohei,1981-04-27,JAP, ,JAP
@@ -931,6 +976,8 @@ ikomji,Ikoma,Jin,1999-07-01,JAP,Kagoshima,JAP
 ilicbr,Ilič,Branko,1983-02-06,SLO,Ljubljana,SLO
 imaito,Imai,Tomoki,1990-11-29,JAP,Chiba,JAP
 imakhi,Imakura,Hideyuki,1972-06-03,JAP,Saitama,JAP
+imakko,Imakake,Koki,1999-02-17,JAP,Osaka,JAP
+imazyu,Imazu,Yuta,1995-07-08,JAP,Minami-Alps,JAP
 inadko,Inada,Koji,1985-06-19,JAP,Osaka,JAP
 inaghi,Inagaki,Hiroyuki,1970-04-24,JAP,Shizuoka,JAP
 inagsh,Inagaki,Sho,1991-12-25,JAP,Tokyo,JAP
@@ -942,6 +989,7 @@ inohma,Inoha,Masahiko,1985-08-28,JAP,Miyazaki,JAP
 inouat,Inoue,Atsushi,1977-05-28,JAP,Niiza,JAP
 inouke,Inoue,Kenta,1998-07-23,JAP,Kanagawa,JAP
 inouko,Inoue,Kohei,1978-10-05,JAP,Osaka,JAP
+inous1,Inoue,Shion,1997-08-03,JAP,Kanagawa,JAP
 inoush,Inoue,Shota,1989-04-24,JAP,Ehime,JAP
 inouta,Inoue,Taira,1983-04-11,JAP, ,JAP
 inouwa,Inoue,Wataru,1986-08-07,JAP,Shizuoka,JAP
@@ -952,6 +1000,7 @@ inuit1,Inui,Tatsuro,1990-01-30,JAP, ,JAP
 inuita,Inui,Takashi,1988-06-02,JAP,Shiga,JAP
 inukto,Inukai,Tomoya,1993-05-12,JAP,Shizuoka,JAP
 inuzyu,Inuzuka,Yusuke,1983-12-13,JAP,Shizuoka,JAP
+iokaka,Ioka,Kaito,1998-04-27,JAP,Chiba,JAP
 irieto,Irie,Toru,1977-07-08,JAP,Shizuoka,JAP
 irifka,Irifume,Kazuma,1986-11-15,JAP,Miyazaki,JAP
 iriika,Irii,Kazuhisa,1970-10-18,JAP,Ibaraki,JAP
@@ -1106,8 +1155,10 @@ junijo,Júnior, ,1969-07-29,BRA, ,BRA
 junima,Júnior,Marcos,1993-01-19,BRA,Gama,BRA
 junipe,Júnior,Pedro,1987-01-29,BRA,Santana do Araguaia,BRA
 junivi,Júnior,Vitor,1986-09-15,BRA,Porto Alegre,BRA
+junkka,Junker,Kasper,1994-03-05,DEN,Vinding,DEN
 jurigo,Jurić,Goran,1963-02-05,CRO,Mostar,BOS
 jussju,Jussiê, ,1983-09-19,BRA,Nova Venécia,BRA
+juxxse,Ju,Se-jong,1990-10-30,KOR,Anyang,KOR
 jymmjy,Jymmy, ,1984-04-15,BRA,Rio de Janeiro,BRA
 kabary,Kabayama,Ryonosuke,2002-09-17,JAP,Osaka,JAP
 kabime,El Kabir,Mostafa,1988-10-05,MAR,Targuist,MAR
@@ -1132,6 +1183,7 @@ kajiry,Kajikawa,Ryota,1989-04-17,JAP,Takasago,JAP
 kajisa,Kajino,Satoshi,1965-11-09,JAP,Aichi,JAP
 kajito,Kajino,Tomoyuki,1960-07-11,JAP,Aichi,JAP
 kajiy1,Kajiyama,Yoichi,1971-09-08,JAP,Hiroshima,JAP
+kajiy2,Kajiura,Yuki,2004-01-02,JAP,Tokyo,JAP
 kajiyo,Kajiyama,Yohei,1985-09-24,JAP,Tokyo,JAP
 kajiyu,Kajikawa,Yuji,1991-07-26,JAP,Toyota,JAP
 kakema,Kakegawa,Makoto,1973-05-23,JAP,Saitama,JAP
@@ -1196,14 +1248,17 @@ katoch,Kato,Chihiro,1998-12-12,JAP,Tokyo,JAP
 katoda,Kato,Daishi,1983-07-26,JAP,Saitama,JAP
 katoh1,Kato,Hisashi,1956-04-24,JAP,Miyaji,JAP
 katohi,Kato,Hibiki,1987-11-14,JAP,Gifu,JAP
+katois,Kato,Issei,2003-05-28,JAP,Saitama,JAP
 katok1,Kato,Koken,1989-04-03,JAP,Chiba,JAP
 katoko,Katō,Kōhei,1989-06-14,JAP,Shingū,JAP
 katom1,Kato,Masahiro,0000-00-00,JAP, ,JAP
 katoma,Kato,Masaru,1991-05-07,JAP,Fukuoka,JAP
+katomu,Kato,Mutsuki,1997-08-06,JAP,Saitama,JAP
 katon1,Kato,Nozomu,1969-10-07,JAP,Miyagi,JAP
 katono,Kato,Nobuhiro,1984-12-11,JAP,Saitama,JAP
 katory,Kato,Ryuji,1969-12-24,JAP,Tokio,JAP
 katosh,Kato,Shinya,1980-09-19,JAP,Ibaraki,JAP
+katot1,Kato,Taichi,1997-04-14,JAP,Ehime,JAP
 katota,Kato,Takehiro,1974-07-28,JAP,Kyoto,JAP
 katoto,Katō,Toshikazu,1969-04-22,JAP,Hiroshima,JAP
 katoy1,Katō,Yoshio,1957-08-01,JAP,Saitama,JAP
@@ -1218,6 +1273,7 @@ kawaa2,Kawaguchi,Akira,1967-01-24,JAP,Kashiwa,JAP
 kawaak,Kawamoto,Akito,1990-05-01,JAP,Koka,JAP
 kawaat,Kawata,Atsushi,1992-09-18,JAP,Osaka,JAP
 kawaay,Kawai,Ayumu,1999-08-12,JAP,Iwakuni,JAP
+kawacE,Kawakami,Chie Edoojon,1998-04-21,JAP, ,JAP
 kawada,Kawashima,Daichi,1986-11-21,JAP,Ibaraki,JAP
 kawaei,Kawashima,Eiji,1983-03-20,JAP,Saitama,JAP
 kawago,Kawanami,Goro,1991-04-30,JAP,Tsukuba,JAP
@@ -1274,6 +1330,7 @@ khotta,Khotsupho,Tawan,2000-01-23,THA,Ubon Ratchathani,THA
 kibama,Kiba,Masao,1974-09-06,JAP,Minamiawaji,JAP
 kichhi,Kichise,Hiroshi,1983-07-10,JAP,Fukuoka,JAP
 kidahi,Kida,Hinata,2000-07-04,JAP,Osaka,JAP
+kidary,Kida,Ryoma,1997-08-12,JAP,Chiba,JAP
 kidata,Kida,Takuya,1994-08-23,JAP,Kanagawa,JAP
 kideko,Kidera,Koichi,1972-04-04,JAP,Saitama,JAP
 kifuke,Kifuji,Kenta,1981-10-05,JAP,Nagasaki,JAP
@@ -1287,6 +1344,7 @@ kikuna,Kikuchi,Naoya,1984-11-24,JAP,Shizuoka,JAP
 kikury,Kikuchi,Ryuho,1996-12-09,JAP,Kamaishi,JAP
 kikus1,Kikuchi,Shinkichi,1967-04-12,JAP,Iwate,JAP
 kikus2,Kikuhara,Shiro,1969-07-07,JAP,Kanagawa,JAP
+kikus3,Kikuchi,Shota,2003-08-16,JAP, ,JAP
 kikush,Kikuchi,Shunsuke,1991-10-04,JAP,Saitama,JAP
 kikuto,Kikuchi,Toshimi,1973-06-17,JAP,Tono,JAP
 killni,Killoran,Niall,1992-04-07,JAP,Tokyo,JAP
@@ -1348,6 +1406,7 @@ kimxty,Kim,Tae-Yeon,1988-06-27,KOR, ,KOR
 kimxy1,Kim,Yong-Gi,1985-01-24,KOR, ,KOR
 kimxyg,Kim,Young-gwon,1990-02-27,KOR,Jeonju,KOR
 kinate,Kina,Tetsuhiro,1976-12-10,JAP,Naha,JAP
+kinoko,Kinoshita,Kosuke,1994-10-03,JAP,Tokio,JAP
 kinoma,Kinoshita,Masaki,1989-06-22,JAP,Hyogo,JAP
 kinosh,Kinoshita,Shingo,1987-09-25,JAP, ,JAP
 kinota,Kinoshita,Takaaki,1993-06-11,JAP,Shizuoka,JAP
@@ -1377,12 +1436,14 @@ kitata,Kitano,Takashi,1982-10-04,JAP,Hokkaido,JAP
 kitato,Kitamura,Tomotaka,1982-05-27,JAP,Mie,JAP
 kitats,Kitazawa,Tsuyoshi,1968-08-10,JAP,Tokyo,JAP
 kitaya,Kita,Yasushi,1978-04-25,JAP,Takatsuki,JAP
+kitayu,Kitajima,Yuji,2000-08-04,JAP,Ogori,JAP
 kiyako,Kiyama,Kohei,1988-02-22,JAP,Komae,JAP
 kiyata,Kiyama,Takashi,1972-02-18,JAP,Hyogo,JAP
 kiyohi,Kiyotake,Hiroshi,1989-11-12,JAP,Ōita,JAP
 kiyoko,Kiyotake,Koki,1991-03-20,JAP,Oita,JAP
 kiyosh,Kiyohara,Shohei,1987-06-25,JAP,Obihiro,JAP
 kizama,Kizawa,Masanori,1969-06-02,JAP,Koga,JAP
+klbekl,Kléber, ,1990-05-02,BRA,Estância Velha,BRA
 kobada,Kobayashi,Daigo,1983-02-19,JAP,Fuji,JAP
 kobah1,Kobayashi,Hiroki,1977-05-24,JAP,Shizuoka,JAP
 kobah2,Kobayashi,Hirotaka,1981-07-18,JAP,Niigata,JAP
@@ -1432,6 +1493,7 @@ koiky1,Koike,Yuki,1986-04-18,JAP, ,JAP
 koikyu,Koike,Yuta,1996-11-06,JAP,Tochigi,JAP
 koizju,Koizumi,Junji,1968-01-11,JAP,Tochigi,JAP
 koizke,Koizumi,Kei,1995-04-19,JAP,Tokyo,JAP
+koizyo,Koizumi,Yoshio,1996-10-05,JAP,Tokyo,JAP
 koizyu,Koizumi,Yuto,1995-09-14,JAP,Kamisu,JAP
 kojihi,Kojima,Hiromi,1977-12-12,JAP,Fukuoka,JAP
 kojim1,Kojima,Masato,1996-09-17,JAP,Saitama,JAP
@@ -1442,6 +1504,7 @@ kojiry,Kojima,Ryosuke,1997-01-30,JAP,Aichi,JAP
 kojish,Kojima,Shuto,1992-07-30,JAP,Nogi,JAP
 kojita,Kojima,Takashi,1973-08-04,JAP,Shiga,JAP
 koketa,Kokeguchi,Takuya,1985-07-13,JAP,Okayama,JAP
+kolobe,Kololli,Benjamin,1992-05-15,KOS,Aigle,SUI
 komake,Komata,Kenji,1964-07-15,JAP,Niigata,JAP
 komama,Komatsubara,Manabu,1981-04-02,JAP,Gunma,JAP
 komaru,Komatsu,Rui,1983-08-29,JAP,Kochi,JAP
@@ -1457,7 +1520,9 @@ kondko,Kondo,Koji,1972-04-28,JAP,Toyoake,JAP
 kondna,Kondo,Naoya,1983-10-03,JAP,Tochigi,JAP
 kondta,Kondo,Takanobu,1978-09-08,JAP,Fukuoka,JAP
 kondte,Kondo,Tetsushi,1986-11-04,JAP,Fukuoka,JAP
+kondto,Kondo,Tomoki,2001-03-21,JAP,Aichi,JAP
 kondyu,Kondo,Yusuke,1984-12-05,JAP,Tokyo,JAP
+koniyu,Konishi,Yudai,1998-04-18,JAP,Awa,JAP
 konnak,Konno,Akira,1974-09-12,JAP,Ofunato,JAP
 konnka,Konno,Kazuya,1997-07-11,JAP,Saitama,JAP
 konnya,Konno,Yasuyuki,1983-01-25,JAP,Sendai,JAP
@@ -1493,6 +1558,7 @@ kubota,Kubo,Takefusa,2001-06-04,JAP,Kawasaki,JAP
 kuboyo,Kuboyama,Yoshikiyo,1976-07-21,JAP,Shizuoka,JAP
 kudato,Kudaka,Tomoo,1963-03-14,JAP,Osaka,JAP
 kudoao,Kudo,Aoi,2000-05-31,JAP, ,JAP
+kudok1,Kudo,Kota,2003-08-13,JAP,Wakayama,JAP
 kudoki,Kudo,Kiyokazu,1974-06-21,JAP,Hyogo,JAP
 kudoko,Kudo,Kohei,1984-08-28,JAP,Ichihara,JAP
 kudom1,Kudo,Masato,1990-05-06,JAP,Tokyo,JAP
@@ -1527,6 +1593,7 @@ kurita,Kurita,Taijiro,1975-03-03,JAP,Shizuoka,JAP
 kuriy1,Kurihara,Yuki,1990-05-10,JAP,Yamagata,JAP
 kuriyu,Kurihara,Yuzo,1983-09-18,JAP,Yokohama,JAP
 kuroat,Kurokawa,Atsushi,1998-02-04,JAP,Saitama,JAP
+kuroha,Kurosaki,Hayato,1996-09-05,JAP,Utsunomiya,JAP
 kurohi,Kurosaki,Hisashi,1968-05-08,JAP,Kanuma,JAP
 kuroke,Kurokawa,Keisuke,1997-04-13,JAP,Akashi,JAP
 kuroko,Kuroki,Kohei,1989-07-31,JAP,Kikuchi,JAP
@@ -1546,17 +1613,20 @@ kushry,Kushino,Ryo,1979-03-03,JAP,Kumamoto,JAP
 kusuak,Kusunose,Akihito,1986-12-04,JAP,Kochi,JAP
 kusuju,Kusukami,Jumpei,1987-08-27,JAP,Shiga,JAP
 kuwahi,Kuwabara,Hiroyoshi,1971-10-02,JAP,Hiroshima,JAP
+kuwaka,Kuwahara,Kaito,2000-10-05,JAP,Fukuoka,JAP
 kuwash,Kuwada,Shinichiro,1986-12-06,JAP,Hiroshima,JAP
 kwakhj,Kwak,Hee-ju,1981-10-05,KOR, ,KOR
 kwakkk,Kwak,Kyung-keun,1972-10-10,KOR,Bucheon,KOR
 kwakth,Kwak,Tae-hwi,1981-07-08,KOR, ,KOR
 kweohj,Kweon,Han-jin,1988-05-19,KOR,Changwon,KOR
 kwoust,Kwoun,Soon-tae,1984-09-11,KOR,Gangneung,KOR
+kwousu,Kwoun,Sun-tae,1984-09-11,KOR,Gangneung,KOR
 kyoyka,Kyoya,Kazuyuki,1971-08-13,JAP,Muroran,JAP
 langmi,Langerak,Mitchell,1988-08-22,AUS,Emerald,AUS
 laudmi,Laudrup,Michael,1964-06-15,DEN,Kopenhagen,DEN
 lavrkl,Lavrič,Klemen,1981-06-12,SLO,Trbovlje,SLO
 laybst,Laybutt,Stephen,1977-09-03,AUS,Lithgow,AUS
+lberlb,Élber, ,1992-05-27,BRA,Passo de Camaragibe,BRA
 leanl1,Leandro, ,1980-08-13,BRA,Ribeirao Preto,BRA
 leanl2,Leandro, ,1981-08-18,BRA,Cabo Frio,BRA
 leanl3,Leandrão, ,1983-07-18,BRA,Uberlândia,BRA
@@ -1593,6 +1663,7 @@ leonle,Leonardo, ,1997-05-28,BRA,São Paulo,BRA
 limaan,Lima,Anderson,1973-03-18,BRA,São Paulo,BRA
 limaed,Lima,Éder,1986-02-05,BRA,São Vicente,BRA
 limxyh,Lim,You-hwan,1983-12-02,KOR,Yeosu,KOR
+lincli,Lincoln, ,2000-12-16,BRA,Serra,BRA
 linega,Lineker,Gary,1960-11-30,ENG,Leicester,ENG
 linsli,Lins, ,1987-09-11,BRA,Camaçari,BRA
 lipama,Lipatín,Marcelo,1977-01-28,URU,Montevideo,URU
@@ -1638,6 +1709,7 @@ maedr1,Maeda,Ryoichi,1981-10-09,JAP,Hyogo,JAP
 maedry,Maeda,Ryosuke,1994-04-27,JAP,Himeji,JAP
 maedsh,Maeda,Shunsuke,1986-06-09,JAP,Nara,JAP
 maedyu,Maeda,Yusuke,1984-11-23,JAP,Sawara-ku,JAP
+maejyo,Maejima,Yota,1997-08-12,JAP,Yokohama,JAP
 maekda,Maekawa,Daiya,1994-09-08,JAP,Kobe,JAP
 maekka,Maekawa,Kazuya,1968-03-22,JAP,Hirado,JAP
 maekt1,Maekawa,Taiki,1979-07-22,JAP,Shizuoka,JAP
@@ -1681,6 +1753,7 @@ marcm7,Marcelo, ,1977-09-10,BRA, ,BRA
 marcm8,Marcelo, ,1975-08-20,BRA, ,BRA
 marcm9,Marco, ,1972-02-08,BRA, ,BRA
 marcmA,Marcão, ,1969-03-16,BRA,São Oaulo,BRA
+marcmB,Marcinho, ,1995-05-16,BRA,Belford Roxo,BRA
 marcma,Marcio, ,1990-02-02,BRA,Dom Pedrito,BRA
 marcmr,Marcinho, ,1981-03-20,BRA,Campinas,BRA
 marito,Marić,Tomislav,1973-01-28,CRO,Heilbronn,GER
@@ -1698,7 +1771,9 @@ maruta,Marutani,Takuya,1989-05-30,JAP,Tottori,JAP
 maruy1,Maruyama,Yuichi,1989-06-16,JAP,Tokyo,JAP
 maruyo,Maruyama,Yoshiaki,1974-10-12,JAP,Machida,JAP
 maruyu,Maruhashi,Yusuke,1990-09-02,JAP,Osaka,JAP
+maryjo,Mary,John,1993-03-09,CMR,Nnobi,NGR
 maseta,Mase,Takumi,1998-05-03,JAP,Chiba,JAP
+masiay,Masika,Ayub,1992-09-10,KEN,Nairobi,KEN
 maslne,Maslovar,Nenad,1967-02-20,SRB,Kotor,SRB
 massda,Massaro,Daniele,1961-05-23,ITA,Monza,ITA
 masspe,Massacessi,Pedro,1966-01-19,ARG,Ceres,ARG
@@ -1714,11 +1789,13 @@ masuta,Masuda,Takuya,1989-06-29,JAP,Hiroshima,JAP
 masuts,Masuyama,Tsukasa,1990-01-25,JAP,Gifu,JAP
 matedi,Mateus,Diogo,1993-02-13,BRA,São Paulo,BRA
 matema,Mateus, ,1994-09-11,BRA,Itabuna,BRA
+mathwi,Matheus,William,1990-04-02,BRA,Nova Iguaçu,BRA
 matsd1,Matsui,Daisuke,1981-05-11,JAP,Kyoto,JAP
 matsd2,Matsumoto,Daiki,1991-05-29,JAP, ,JAP
 matsd3,Matsushita,Daisuke,1981-10-31,JAP,Shizuoka,JAP
 matsd4,Matsumoto,Daiju,1977-12-09,JAP,Gunma,JAP
 matsd5,Matsuyama,Daichi,1974-01-11,JAP,Sapporo,JAP
+matsd6,Matsumoto,Daisuke,1998-09-10,JAP, ,JAP
 matsda,Matsuoka,Daiki,2001-06-01,JAP,Kumamoto,JAP
 matsei,Matsuda,Eitaro,2001-05-20,JAP,Kamakura,JAP
 matsge,Matsuo,Genta,1986-05-26,JAP,Shiga,JAP
@@ -1761,6 +1838,7 @@ matss1,Matsumoto,Sho,1992-04-04,JAP,Fukuoka,JAP
 matss2,Matsuhashi,Shota,1982-08-03,JAP,Nagasaki,JAP
 matss3,Matsunaga,Shigetatsu,1962-08-12,JAP,Hamamatsu,JAP
 matssh,Matsubara,Shuhei,1992-08-11,JAP,Hakodate,JAP
+matsso,Matsubara,Sota,2002-09-30,JAP,Osaka,JAP
 matst1,Matsuura,Takuya,1988-12-21,JAP,Shizuoka,JAP
 matst2,Matsumoto,Takuya,1989-02-06,JAP, ,JAP
 matst3,Matsugae,Taisuke,1982-12-15,JAP,Kagawa,JAP
@@ -1812,11 +1890,13 @@ mikayu,Mikado,Yuta,1986-12-26,JAP,Fujimi,JAP
 mikimi,Mikić,Mihael,1980-01-06,CRO,Zagreb,CRO
 mikiry,Miki,Ryota,1985-04-12,JAP,Osaka,JAP
 mikita,Miki,Takashi,1978-07-23,JAP,Kanagawa,JAP
+mikuk1,Mikuni,Kennedy,2000-06-23,JAP,Higashimurayama,JAP
 mikuke,Mikuriya,Kei,1977-08-29,JAP,Chiba,JAP
 mikuta,Mikuriya,Takafumi,1984-05-11,JAP, ,JAP
 milize,Milinovič,Željko,1969-10-12,SLO,Ljubljana,SLO
 milone,Milovanović,Neško,1974-12-04,SRB,Čačak,SRB
 minaka,Minamoto,Katsuhiro,1972-07-02,JAP,Hiroshima,JAP
+minat1,Minami,Takuto,2002-05-09,JAP,Nawari,JAP
 minata,Minamino,Takumi,1995-01-16,JAP,Izumisano,JAP
 minay1,Minagawa,Yusuke,1991-10-09,JAP,Tokorosawa,JAP
 minay2,Minami,Yuzo,1983-11-17,JAP,Saitama,JAP
@@ -1846,6 +1926,7 @@ mitsda,Mitsui,Daiki,2001-05-27,JAP,Aichi,JAP
 mitsha,Mitsuda,Haruki,1997-12-22,JAP,Saitama,JAP
 mitshi,Mitsumaru,Hiromu,1993-07-06,JAP,Tochigi,JAP
 mitska,Mitsuhira,Kazushi,1988-01-13,JAP,Hadano,JAP
+mitsma,Mitsuta,Makoto,1999-07-20,JAP,Kumamoto,JAP
 mitss1,Mitsuoka,Shinya,1976-04-22,JAP,Kanagawa,JAP
 mitssh,Mitsuzaki,Shin,1997-08-22,JAP,Kariya,JAP
 miurat,Miura,Atsuhiro,1974-07-24,JAP,Oita,JAP
@@ -1870,6 +1951,7 @@ miyam1,Miyazawa,Masashi,1978-02-24,JAP,Yamanashi,JAP
 miyam2,Miyamura,Masashi,1969-02-18,JAP,Tokyo,JAP
 miyama,Miyasaka,Masaki,1989-07-15,JAP,Tokyo,JAP
 miyami,Miyazawa,Michel,1963-07-14,JAP,Chiba,JAP
+miyar1,Miyaichi,Ryo,1992-12-14,JAP,Okazaki,JAP
 miyary,Miyauchi,Ryuta,1994-03-02,JAP,Chiba,JAP
 miyash,Miyasaka,Sho,1988-06-06,JAP, ,JAP
 miyat1,Miyamoto,Toshiaki,1999-06-04,JAP, ,JAP
@@ -1878,6 +1960,7 @@ miyat3,Miyazaki,Taisuke,1992-05-05,JAP,Saitama,JAP
 miyat4,Miyamoto,Takuya,1983-07-08,JAP,Hiroshima,JAP
 miyat5,Miyamoto,Toru,1982-12-03,JAP,Yamaguchi,JAP
 miyata,Miyashiro,Taisei,2000-05-26,JAP,Tokyo,JAP
+miyate,Miyagi,Ten,2001-06-02,JAP,Kawasaki,JAP
 miyato,Miyazaki,Tomohiko,1986-11-21,JAP,Tokyo,JAP
 miyats,Miyamoto,Tsuneyasu,1977-02-07,JAP,Tondabayashi,JAP
 miyay1,Miyahara,Yuji,1980-07-19,JAP,Fukuoka,JAP
@@ -1929,6 +2012,7 @@ morik3,Morimura,Kota,1988-08-14,JAP,Kodaira,JAP
 morik4,Mori,Kazuhiro,1981-04-17,JAP,Osaka,JAP
 morika,Morisaki,Kazuyuki,1981-05-09,JAP,Hiroshima,JAP
 morike,Moriya,Kentaro,1988-09-21,JAP,Yokohama,JAP
+moriki,Moriyama,Kimiya,2002-04-04,JAP,Fukuoka,JAP
 moriko,Mori,Kota,1997-06-13,JAP,Anjo,JAP
 morima,Morishige,Masato,1987-05-21,JAP,Hiroshima,JAP
 morin1,Mori,Naoki,1972-05-05,JAP,Nagasaki,JAP
@@ -1944,6 +2028,7 @@ moris3,Moriyama,Shingo,0000-00-00,JAP, ,JAP
 moris4,Morita,Shingo,1978-11-02,JAP,Kochi,JAP
 moris5,Morioka,Shigeru,1973-08-12,JAP,Ōzu,JAP
 moris6,Morishita,Shinichi,1960-12-28,JAP,Shizuoka,JAP
+moris7,Morita,Sho,2003-07-06,JAP,Niigata,JAP
 morish,Mori,Shunya,1995-04-10,JAP,Toyama,JAP
 moriso,Morita,So,1986-10-20,JAP,Kumamoto,JAP
 morit1,Morimoto,Takayuki,1988-05-07,JAP,Kawasaki,JAP
@@ -1984,6 +2069,7 @@ murak1,Murakami,Kazuhiro,1981-01-20,JAP,Yokkaichi,JAP
 murak2,Murase,Kazutaka,1985-09-11,JAP,Kusatsu,JAP
 murak3,Murata,Kazuhiro,1969-05-12,JAP,Nagasaki,JAP
 muraka,Murata,Kazuya,1988-10-07,JAP,Moriyama,JAP
+murama,Murakami,Masaaki,1992-08-07,JAP,Shiga,JAP
 murash,Murai,Shinji,1979-12-01,JAP,Chiba,JAP
 murat1,Muraoka,Takuya,1990-07-24,JAP, ,JAP
 murat2,Murata,Tatsuya,1972-08-08,JAP,Tokyo,JAP
@@ -2011,8 +2097,10 @@ nagaak,Nagashima,Akihiro,1964-04-09,JAP,Kōbe,JAP
 nagaat,Nagai,Atsushi,1974-12-23,JAP,Kagoshima,JAP
 nagage,Nagasato,Genki,1985-12-16,JAP, ,JAP
 nagah1,Nagamine,Hironori,1973-05-12,JAP,Miyazaki,JAP
+nagaha,Nagakura,Hayate,1996-04-29,JAP,Yokosuka,JAP
 nagahi,Nagai,Hideki,1971-01-26,JAP,Oita,JAP
 nagak1,Nagasawa,Kazuki,1991-12-16,JAP,Tōgane,JAP
+nagak2,Nagai,Kengo,1994-11-06,JAP,Saitama,JAP
 nagaka,Nagato,Katsuya,1995-01-15,JAP,Sakura,JAP
 nagake,Nagai,Kensuke,1989-03-05,JAP,Fukuyama,JAP
 nagaku,Nagayama,Kunio,1970-09-16,JAP,Kanagawa,JAP
@@ -2046,6 +2134,7 @@ naitno,Naito,Nobuhiro,1978-05-25,JAP,Fujieda,JAP
 naitto,Naito,Tomoyasu,1986-09-11,JAP,Kanagawa,JAP
 nakaat,Nakamura,Atsutaka,1990-09-13,JAP,Sakai,JAP
 nakad1,Nakaharai,Daisuke,1977-05-22,JAP,Shizuoka,JAP
+nakad2,Nakashio,Daiki,1997-06-08,JAP,Saitama,JAP
 nakada,Nakamaki,Daisuke,1986-05-27,JAP,Tokyo,JAP
 nakaei,Nakanishi,Eisuke,1973-06-23,JAP,Suzuka,JAP
 nakage,Nakayama,Genki,1981-09-15,JAP,Yamaguchi,JAP
@@ -2101,6 +2190,7 @@ nakas5,Nakahara,Shuto,1990-10-29,JAP,Kagoshima,JAP
 nakas6,Nakazawa,Sota,1982-10-26,JAP,Tokyo,JAP
 nakas7,Nakajima,Shunichi,1982-06-16,JAP,Gumma,JAP
 nakas8,Nakamura,Shin,1974-05-06,JAP,Osaka,JAP
+nakas9,Nakamura,Shun,1994-02-24,JAP,Chiba,JAP
 nakasa,Nakayama,Satoshi,1981-11-07,JAP,Miyazaki,JAP
 nakase,Nakano,Seiya,1995-07-23,JAP,Shizuoka,JAP
 nakash,Nakahara,Shogo,1994-05-19,JAP,Sapporo,JAP
@@ -2115,6 +2205,7 @@ nakat7,Nakata,Tomohisa,1987-05-11,JAP, ,JAP
 nakat8,Nakamura,Tadashi,1971-06-10,JAP,Mizuho,JAP
 nakat9,Nakanishi,Tetsuo,1969-09-08,JAP,Meitō-ku,JAP
 nakatA,Nakashima,Takeshi,1976-01-15,JAP,Nagasaki,JAP
+nakatB,Nakashima,Taika,2002-06-08,JAP,Osaka,JAP
 nakata,Nakamura,Takumi,2001-03-16,JAP,Oita,JAP
 nakate,Nakagawa,Teruhito,1992-07-27,JAP,Kanagawa,JAP
 nakato,Nakamura,Toya,2000-07-23,JAP,Hokkaido,JAP
@@ -2161,6 +2252,7 @@ nemoyu,Nemoto,Yuichi,1981-07-21,JAP,Kashima,JAP
 nenefb,Nenê, ,1975-06-06,BRA,São Paulo,BRA
 nerema,Neretljak,Mato,1979-06-03,CRO,Orasje,BOS
 netoed,Neto,Eduardo,1988-10-24,BRA,Salvador,BRA
+ngxxvL,Đặng,Văn Lâm,1993-08-13,VIE,Moskva,RUS
 nichmi,Nichols,Mitch,1989-01-05,AUS,Southport,AUS
 niekay,Niekawa,Ayumi,1994-05-12,JAP,Hamamatsu,JAP
 nielbs,Nielsen,Brian Steen,1968-12-28,DEN,Vejle,DEN
@@ -2178,11 +2270,14 @@ nishak,Nishizawa,Akinori,1976-06-18,JAP,Shimizu,JAP
 nishd1,Nishioka,Daiki,1988-08-21,JAP,Miyazaki,JAP
 nishda,Nishi,Daigo,1987-08-28,JAP,Sapporo,JAP
 nishh1,Nishijima,Hiroyuki,1982-04-07,JAP,Nara,JAP
+nishh2,Nishido,Hisatoshi,2001-03-27,JAP, ,JAP
 nishha,Nishimura,Haruki,1987-05-31,JAP, ,JAP
 nishhi,Nishi,Hironori,1987-02-25,JAP,Kumamoto,JAP
 nishj1,Nishizawa,Junji,1974-05-10,JAP,Tokyo,JAP
 nishju,Nishikawa,Jun,2002-02-21,JAP,Kawasaki,JAP
 nishk1,Nishino,Kohei,1982-04-15,JAP, ,JAP
+nishk2,Nishikawa,Konosuke,2002-09-11,JAP,Aichi,JAP
+nishka,Nishiya,Kazuki,1993-10-05,JAP,Mashiko,JAP
 nishke,Nishizawa,Kenta,1996-09-06,JAP,Shizuoka,JAP
 nishko,Nishimura,Koji,1984-07-07,JAP,Kie,JAP
 nishm1,Nishitani,Masaya,1978-09-16,JAP,Tokushima,JAP
@@ -2194,6 +2289,7 @@ nishr2,Nishiwaki,Ryohei,1979-08-01,JAP,Ōgaki,JAP
 nishry,Nishio,Ryuya,2001-05-16,JAP,Osaka,JAP
 nishs1,Nishikawa,Shogo,1983-07-01,JAP,Hiroshima,JAP
 nishs2,Nishikawa,Shinya,1974-06-12,JAP,Fukuoka,JAP
+nishs3,Nishino,Shota,2004-05-28,JAP, ,JAP
 nishsh,Nishikawa,Shusaku,1986-06-18,JAP,Oita,JAP
 nisht1,Nishiyama,Taiga,1999-08-24,JAP,Kanagawa,JAP
 nisht2,Nishino,Takaharu,1993-09-14,JAP,Ibaraki,JAP
@@ -2201,6 +2297,7 @@ nisht3,Nishimura,Takuro,1977-08-15,JAP,Tokyo,JAP
 nisht4,Nishiyama,Takahisa,1985-07-11,JAP,Sendai,JAP
 nisht5,Nishigaya,Takayuki,1973-05-12,JAP,Shizuoka,JAP
 nisht6,Nishimoto,Tatsuhiro,1980-04-29,JAP,Iwakuni,JAP
+nisht7,Nishino,Taiyo,2002-08-10,JAP,Tokushima,JAP
 nishta,Nishimura,Takuma,1996-10-22,JAP,Nagoya,JAP
 nishte,Nishiyama,Teppei,1975-02-22,JAP,Kashiwa,JAP
 nishts,Nishino,Tsutomu,1971-03-13,JAP,Ikoma,JAP
@@ -2212,12 +2309,14 @@ nishya,Nishimura,Yasufumi,1999-11-04,JAP,Osaka,JAP
 nishyo,Nishibe,Yohei,1980-12-01,JAP,Kobe,JAP
 nishyu,Nishiyama,Yusuke,1994-09-18,JAP,Tokio,JAP
 nitahi,Nitao,Hiroyki,1973-11-27,JAP, ,JAP
+nittri,Nitta,Rio,2003-04-10,JAP, ,JAP
 niwada,Niwa,Daiki,1986-01-16,JAP,Osaka,JAP
 niwary,Niwa,Ryuhei,1986-01-13,JAP,Kanagawa,JAP
 noboke,Noborio,Kentoku,1983-11-30,JAP,Kagoshima,JAP
 noboky,Noborizato,Kyohei,1990-11-13,JAP,Osaka,JAP
 nobrme,Nobre,Mert,1980-11-06,BRA,Jatei,BRA
 nodahi,Noda,Hiroki,1997-07-27,JAP,Mashiki,JAP
+nodaju,Nodake,Junya,1994-09-11,JAP,Kagoshima,JAP
 nodako,Noda,Koji,1986-08-17,JAP,Fukuoka,JAP
 nodary,Noda,Ryunosuke,1988-09-28,JAP,Fukuoka,JAP
 nodasa,Noda,Satoru,1969-03-19,JAP,Muroran,JAP
@@ -2244,6 +2343,7 @@ nouila,Nouioui,Lassad,1986-03-08,TUN,Marseille,FRA
 novami,Novakovič,Milivoje,1979-05-18,SLO,Ljubljana,SLO
 nozahi,Nozawa,Hideyuki,1994-08-15,JAP,Wako,JAP
 nozama,Nozaki,Masaya,1993-08-03,JAP,Saitama,JAP
+nozare,Nozawa,Reon,2003-07-21,JAP,Itabashi,JAP
 nozat1,Nozawa,Takuya,1981-08-12,JAP,Kasama,JAP
 nozata,Nozawa,Taishi,2002-12-25,JAP,Okinawa,JAP
 nozayo,Nozawa,Yosuke,1979-11-09,JAP,Shizuoka,JAP
@@ -2256,6 +2356,7 @@ obatyu,Obata,Yuma,2001-11-07,JAP,Miyagi,JAP
 obaxke,Oba,Kenji,1967-08-14,JAP,Kanagawa,JAP
 obikmi,Obiku,Mike,1968-09-24,NGR,Warri,NGR
 obinma,Obina, ,1983-01-31,BRA,Vera Cruz,BRA
+obixp1,Obi,Powell,1997-12-18,JAP,Saitama,JAP
 obixpo,Obi,Powell Obinna,1997-12-18,JAP,Saitama,JAP
 obuxsh,Obu,Shun,1992-11-24,JAP,Chikuzen,JAP
 ochiha,Ochi,Hayato,1982-07-17,JAP,Saitama,JAP
@@ -2266,6 +2367,7 @@ oehmlu,Öhman,Ludvig,1991-10-09,SWE,Umeå,SWE
 oenoka,Oenoki,Katsumi,1965-04-03,JAP,Shizuoka,JAP
 oexxyu,Oe,Yuji,1986-04-20,JAP,Kyoto,JAP
 oezaal,Özalan,Alpay,1973-05-29,TUR,Karisyaled,TUR
+ofoech,Ofoedu,Chikeluba,1992-11-12,NGR,Enugu,NGR
 ogakyu,Ogaki,Yuki,2000-02-28,JAP,Osaka,JAP
 ogamto,Ogami,Tomoaki,1970-06-07,JAP,Hiroshima,JAP
 ogasmi,Ogasawara,Mitsuo,1979-04-05,JAP,Iwate,JAP
@@ -2278,6 +2380,7 @@ ogawna,Ogawa,Naoki,1995-07-03,JAP, ,JAP
 ogawry,Ogawa,Ryoya,1996-11-24,JAP,Tokyo,JAP
 ogawse,Ogawa,Seiichi,1970-07-21,JAP,Chiba,JAP
 ogawyo,Ogawa,Yoshizumi,1984-08-25,JAP,Tokyo,JAP
+ogawyu,Ogawa,Yusuke,2002-04-14,JAP, ,JAP
 ogihta,Ogihara,Takahiro,1991-10-05,JAP,Sakai,JAP
 oginke,Ogino,Kenjiro,1991-09-14,JAP,Kyoto,JAP
 ogiwta,Ogiwara,Takuya,1999-11-23,JAP,Kawagoe,JAP
@@ -2308,6 +2411,7 @@ okadry,Okada,Ryu,1984-04-10,JAP,Shizuoka,JAP
 okadsh,Okada,Shohei,1989-04-29,JAP,Kanagawa,JAP
 okadta,Okada,Takeru,1994-08-31,JAP,Ehime,JAP
 okajki,Okajima,Kiyonobu,1971-06-30,JAP,Mitaka,JAP
+okamda,Okamura,Daihachi,1997-02-15,JAP,Tokyo,JAP
 okamha,Okamoto,Hayato,1974-10-16,JAP,Izumo,JAP
 okamhi,Okamoto,Hideya,1987-05-18,JAP,Osaka,JAP
 okamke,Okamoto,Kenji,1971-05-15,JAP,Kumamoto,JAP
@@ -2323,6 +2427,7 @@ okanju,Okano,Jun,1997-12-09,JAP,Chiba,JAP
 okanko,Okanishi,Kosuke,1990-07-17,JAP,Osaka,JAP
 okanma,Okano,Masayuki,1972-07-25,JAP,Yokohama,JAP
 okanna,Okane,Naoya,1988-04-19,JAP,Osaka,JAP
+okansh,Okaniwa,Shuto,1999-09-16,JAP,Saitama,JAP
 okawry,Okawara,Ryo,1987-10-12,JAP, ,JAP
 okaxhi,Oka,Hiroki,1988-04-18,JAP,Aichi,JAP
 okaxte,Oka,Teppei,2001-09-06,JAP, ,JAP
@@ -2332,6 +2437,7 @@ okazke,Okazaki,Kenya,1990-05-31,JAP,Fukuyama,JAP
 okazma,Okazaki,Makoto,1998-10-10,JAP,Tokyo,JAP
 okazry,Okazaki,Ryohei,1992-04-25,JAP,Atsugi,JAP
 okazsh,Okazaki,Shinji,1986-04-16,JAP,Takarazuka,JAP
+okecga,Okechukwu,Gabriel,1995-08-26,NGR,Abuja,NGR
 okinma,Okino,Masaki,1996-12-13,JAP,Omura,JAP
 okitda,Okitsu,Daizo,1974-06-15,JAP,Hyogo,JAP
 okixsu,Oki,Susumu,1976-02-23,JAP,Ehime,JAP
@@ -2366,6 +2472,7 @@ omaege,Omae,Genki,1989-12-10,JAP,Yokohama,JAP
 omathi,Omata,Hiroyuki,1983-09-01,JAP,Tokyo,JAP
 omichi,Omichi,Hiroyuki,1987-06-25,JAP,Ibaraki,JAP
 ominta,Ominami,Takuma,1997-12-13,JAP,Aichi,JAP
+omorhi,Omori,Hiroshi,2002-08-10,JAP,Tokyo,JAP
 omorke,Omori,Kensaku,1975-11-21,JAP,Seiyo,JAP
 omorko,Omori,Kotaro,1992-04-28,JAP,Osaka,JAP
 omorma,Omori,Masayuki,1976-11-09,JAP,Urawa,JAP
@@ -2386,6 +2493,7 @@ onoxha,Ono,Harutaka,1978-05-12,JAP, ,JAP
 onoxka,Ono,Kazunari,1989-08-04,JAP,Niigata,JAP
 onoxs1,Ono,Shingi,1974-04-09,JAP,Tokyo,JAP
 onoxs2,Ono,Shunzo,1965-03-29,JAP,Funabashi,JAP
+onoxs3,Ono,Shunsuke,2005-06-08,JAP, ,JAP
 onoxsh,Ono,Shinji,1979-09-27,JAP,Numazu,JAP
 onoxto,Ono,Tomoyoshi,1979-08-12,JAP,Yokohama,JAP
 onoxy1,Ono,Yuya,1996-08-17,JAP,Tokyo,JAP
@@ -2417,6 +2525,7 @@ osmaos,Osmar, ,1988-06-05,SPA,Santoña,SPA
 otakka,Otaki,Katsumi,1969-06-09,JAP,Shizuoka,JAP
 otakma,Otake,Masato,1971-08-31,JAP,Shizuoka,JAP
 otakna,Otake,Naoto,1968-10-18,JAP,Shizuoka,JAP
+otakta,Otake,Takuma,2002-08-08,JAP,Ibaraki,JAP
 otakyo,Otake,Yohei,1989-05-02,JAP,Yashio,JAP
 otanhi,Otani,Hidekazu,1984-11-06,JAP,Nagareyama,JAP
 otanko,Otani,Koki,1989-04-08,JAP,Kumamoto,JAP
@@ -2429,6 +2538,7 @@ otaxma,Ota,Masahiro,1970-04-28,JAP,Kyoto,JAP
 otaxta,Ota,Takamitsu,1970-07-19,JAP,Shizuoka,JAP
 otaxte,Ota,Tetsuro,1989-07-02,JAP,Tsuchiura,JAP
 otaxyo,Ota,Yoshiaki,1983-06-11,JAP,Shizuoka,JAP
+otixem,Oti,Emmanuel,1996-09-24,GHA,Akim Oda,GHA
 otomsa,Ōtomo,Satoshi,1981-10-01,PHI,Sakae,JAP
 otsuhi,Otsuki,Hiroshi,1980-04-23,JAP,Nagaokakyo,JAP
 otsuka,Otsuka,Kazuyuki,1982-07-07,JAP,Kumamoto,JAP
@@ -2436,6 +2546,7 @@ otsus1,Otsuka,Shohei,1990-04-11,JAP,Osaka,JAP
 otsus2,Otsuka,Shinji,1975-12-29,JAP,Chiba,JAP
 otsush,Otsuki,Shuhei,1989-05-26,JAP,Fukuchiyama,JAP
 otsuyu,Ōtsu,Yūki,1990-03-24,JAP,Mito,JAP
+ouchis,Ouchi,Issei,2000-09-08,JAP, ,ITA
 oulita,Oulida,Tarik,1974-01-19,NED,Amsterdam,NED
 oumajo,Oumari,Joan,1988-08-19,LEB,Berlin,GER
 oyamke,Oyama,Keisuke,1995-05-07,JAP,Saitama,JAP
@@ -2448,6 +2559,7 @@ ozakyu,Ozaki,Yushi,1969-03-24,JAP,Mie,JAP
 ozawak,Ozawa,Akihito,1992-08-10,JAP,Saitama,JAP
 ozawhi,Ozawa,Hideaki,1974-03-17,JAP,Namegata,JAP
 ozawyu,Ozawa,Yuki,1983-10-04,JAP,Shizuoka,JAP
+pagnti,Pagnussat,Tiago,1990-06-17,BRA,São Jorge D’Oeste,BRA
 palaev,Palacios,Ever,1969-01-18,COL,Apartadó,COL
 panaan,Panadić,Andrej,1969-03-09,CRO,Zagreb,CRO
 papaav,Papadopoulos,Avraam,1984-12-03,GRE,Melbourne,AUS
@@ -2488,6 +2600,7 @@ pensmi,Pensée,Michel,1973-06-16,CMR,Yaoundé,CMR
 pereew,Pereira,Ewerton,1992-12-01,BRA,São Paulo,BRA
 perele,Pereira,Leandro,1991-07-03,BRA,Araçatuba,BRA
 perelu,Pereira, ,1960-03-06,BRA,São Paulo,BRA
+perema,Pereira,Matheus,1997-01-31,BRA,Rio de Janeiro,BRA
 perewa,Pereira,Washington,1975-04-10,BRA,São Paulo,BRA
 peripe,Pericles, ,1975-01-02,BRA, ,BRA
 petkdu,Petković,Dusan,1974-06-13,SRB,Beograd,SRB
@@ -2504,6 +2617,7 @@ pintlu,Pintado, ,1965-09-17,BRA,Bragança Paulista,BRA
 pinxcj,Jong-a-Pin,Calvin,1986-07-18,NED,Amsterdam,NED
 pitaed,Pita, ,1958-08-04,BRA,Nilópolis,BRA
 pitbre,Pitbull,Régis,1976-09-22,BRA,São Paulo,BRA
+pitudi,Pituca,Diego,1992-08-15,BRA,Mogi Guaçu,BRA
 platmo,Platini,Moabe,1987-06-22,BRA,São Paulo,BRA
 podolu,Podolski,Lukas,1985-06-04,GER,Gliwice,POL
 pontro,Ponte,Robson,1976-11-06,BRA,São Paulo,BRA
@@ -2522,6 +2636,7 @@ rafara,Rafaelson, ,1997-03-30,BRA,Pirapemas,BRA
 rafira,Rafinha, ,1987-06-30,BRA, ,BRA
 rahnuw,Rahn,Uwe,1962-05-21,GER,Mannheim,GER
 rakuta,Rakuyama,Takashi,1980-08-11,JAP,Uozo,JAP
+ralxpe,Raúl,Pedro,1996-11-05,BRA,Porto Alegre,BRA
 ramara,Ramazotti, ,1988-09-08,BRA,São Caetano do Sul,BRA
 ramoan,Ramón,Anselmo,1988-06-23,BRA,Camaçari,BRA
 ramoma,Ramos,Marcelo,1973-06-25,BRA,Salvador,BRA
@@ -2574,6 +2689,7 @@ rokuyu,Rokutan,Yuji,1987-04-10,JAP,Kagoshima,JAP
 romaau,Romão,Augusto,1983-11-20,BRA,Oeiras,BRA
 romefr,Romero,Frank,1987-08-19,JAP,Lima,PER
 romiro,Romildo, ,1973-10-25,BRA, ,BRA
+ronar1,Ronaldo, ,1996-10-23,BRA,Sorocaba,BRA
 ronaro,Ronaldão, ,1965-06-19,BRA,São Paulo,BRA
 ronir1,Rôni, ,1977-04-28,BRA,Aurora,BRA
 roniro,Ronieli, ,1991-04-25,BRA,Marília,BRA
@@ -2668,12 +2784,14 @@ sanoyu,Sano,Yuya,1982-04-22,JAP,Shizuoka,JAP
 santad,Santos, ,1968-03-28,BRA,Bahia,BRA
 santca,Santos, ,1960-12-09,BRA,Vianópolis,BRA
 santcl,Santana,Cléber,1981-06-27,BRA,Recife,BRA
+santem,Santos,Emerson,1995-04-05,BRA,Itaboraí,BRA
 santev,Santos,Éverton,1986-10-14,BRA,São José dos Campos,BRA
 santfa,Santos,Fábio,1985-09-16,BRA,São Paulo,BRA
 santgu,Santos,Guilherme,1988-02-05,BRA,Jequié,BRA
 santju,Santos,Junior,1994-10-11,BRA,Conceição do Jacuípe,BRA
 santrh,Santos,Rhayner,1990-09-05,BRA,Serra,BRA
 santri,Santos,Ricardo,1987-02-13,BRA,Volta Redonda,BRA
+santth,Santana,Thiago,1993-02-04,BRA,Serrinha,BRA
 santwi,Santana,Willians,1988-05-22,BRA,Aracaju,BRA
 sartig,Sartori,Igor,1993-01-08,BRA,Río de Janeiro,BRA
 saruha,Saruta,Haruki,1999-04-23,JAP,Tokyo,JAP
@@ -2682,6 +2800,7 @@ sasah1,Sasaki,Hirokazu,1962-02-16,JAP,Osaka,JAP
 sasaha,Sasaki,Hayato,1982-11-29,JAP,Miyagi,JAP
 sasahi,Sasaki,Hitoshi,1973-07-09,JAP,Iwate,JAP
 sasaik,Sasaki,Ikki,1991-02-19,JAP,Tokushima,JAP
+sasam1,Sasaki,Masato,2002-05-01,JAP,Chiba,JAP
 sasama,Sasaki,Masanao,1962-06-19,JAP,Chiba,JAP
 sasary,Sasaki,Ryuta,1988-02-07,JAP,Ibaraki,JAP
 sasas1,Sasaki,Shogo,2000-07-25,JAP,Ibaraki,JAP
@@ -2701,6 +2820,7 @@ satoh1,Sato,Hisayuki,1990-07-05,JAP,Yamagata,JAP
 satoh2,Sato,Hiroshi,1972-03-07,JAP,Kanagawa,JAP
 satohi,Satō,Hisato,1982-03-12,JAP,Kasukabe,JAP
 satoji,Sato,Jin,1974-09-27,JAP,Muroran,JAP
+satojo,Sato,Josei,2004-10-28,JAP, ,JAP
 satok1,Sato,Kanta,1998-07-07,JAP, ,JAP
 satok2,Sato,Kazuki,1993-05-18,JAP,Aichi,JAP
 satok3,Sato,Kentaro,1984-08-14,JAP,Mie,JAP
@@ -2717,10 +2837,12 @@ satoy4,Sato,Yohei,1972-11-22,JAP,Sendai,JAP
 satoy5,Sato,Yukihiko,1976-05-11,JAP,Fuji,JAP
 satoy6,Sato,Yusuke,1977-11-02,JAP,Kitamoto,JAP
 satoy7,Sato,Yoshiaki,1969-06-19,JAP,Osaka,JAP
+satoy8,Sato,Yosei,2003-09-03,JAP,Hokkaido,JAP
 satoya,Sato,Yasuyuki,1966-04-12,JAP,Hiroshima,JAP
 satoyo,Sato,Yota,1998-09-10,JAP,Tokyo,JAP
 satoyu,Sato,Yuito,2001-04-20,JAP, ,JAP
 satsno,Satsukawa,Norihiro,1972-04-18,JAP,Shizuoka,JAP
+saulsa,Saulo, ,1997-06-17,BRA,Uberlândia,BRA
 savima,Sávio,Matheus,1997-04-15,BRA,Brodowski,BRA
 sawahi,Sawada,Hiroyuki,1974-01-29,JAP,Gunma,JAP
 sawake,Sawada,Kentaro,1970-05-15,JAP,Kamakura,JAP
@@ -2734,6 +2856,7 @@ sbutfr,Sbuttoni,Franco,1989-05-06,ARG,Villa Constitución,ARG
 schisa,Schillaci,Salvatore,1964-12-01,ITA,Palermo,ITA
 schmda,Schmidt,Daniel,1992-02-03,JAP,Illinois,USA
 schmjo,Schmidt,João,1993-05-19,BRA,São Paulo,BRA
+schoal,Scholz,Alexander,1992-10-24,DEN,København,DEN
 schoar,Scholten,Arnold,1962-12-05,NED,'s-Hertogenbosch,NED
 segaka,Segawa,Kazuki,1990-04-25,JAP,Miyoshi,JAP
 segayu,Segawa,Yusuke,1994-02-07,JAP,Tokyo,JAP
@@ -2746,6 +2869,7 @@ sekit1,Seki,Takashi,1978-06-05,JAP,Ibaraki,JAP
 sekita,Sekine,Takahiro,1995-04-19,JAP,Tsurugashima,JAP
 sekoay,Seko,Ayumu,2000-06-07,JAP,Osaka,JAP
 sekota,Seko,Tatsuki,1997-12-22,JAP,Tokyo,JAP
+sembta,Semba,Taishi,1999-08-19,JAP,Fuchu,JAP
 sengre,Sengoku,Ren,1990-10-02,JAP,Saitama,JAP
 senona,Seno,Naoya,1996-08-15,JAP,Mie,JAP
 sentke,Sento,Keiya,1994-12-29,JAP,Hirakata,JAP
@@ -2774,6 +2898,7 @@ shibts,Shibuya,Tsubasa,1995-01-27,JAP,Tokyo,JAP
 shibyu,Shibayoka,Yuichi,1983-06-16,JAP,Sendai,JAP
 shicta,Shichi,Takaaki,1993-12-27,JAP,Gifu,JAP
 shigke,Shigematsu,Kentaro,1991-04-15,JAP,Tokyo,JAP
+shigt1,Shigehiro,Takuya,1995-05-05,JAP,Miyoshi,JAP
 shigta,Shigehara,Takehito,1981-10-06,JAP,Gumma,JAP
 shigyu,Shigeta,Yukinori,1976-07-15,JAP,Isehara,JAP
 shiike,Shiihashi,Keiya,1997-06-20,JAP,Funabashi,JAP
@@ -2852,6 +2977,7 @@ silvr1,Silva,Rafael,1982-08-27,BRA,São Paulo,BRA
 silvra,Silva,Rafael,1992-04-04,BRA,São Paulo,BRA
 silvsd,da Silva,Sandro,1974-03-05,BRA,Taubaté,BRA
 silvsi,Silvinho, ,1977-01-17,BRA,São José da Serra,BRA
+silvwe,Silva,Wellington,1993-01-06,BRA,Rio de Janeiro,BRA
 simami,Simão,Miguel,1973-02-26,POR,Massarelos,POR
 simare,Simão, ,1968-10-23,BRA,Barretos,BRA
 simasi,Simão, ,1988-06-23,MOZ,Maputo,MOZ
@@ -2881,6 +3007,7 @@ sonosh,Sonoda,Shuta,1969-02-06,JAP,Nagasaki,JAP
 sonota,Sonoda,Takuya,1984-11-23,JAP,Miyazaki,JAP
 sonxjr,Son,Jeong-Ryun,1981-09-18,KOR, ,KOR
 sonxsh,Son,Se-Hwan,1995-07-29,KOR, ,KOR
+sonxta,Son,Taiga,1999-06-13,KOR,Tokyo,JAP
 soriya,Sorimachi,Yasuharu,1964-03-08,JAP,Saitama,JAP
 soutro,Souto,Rodrigo,1983-02-09,BRA,Rio de Janeiro,BRA
 souzel,Souza, ,1988-03-08,BRA,Posse,BRA
@@ -2890,6 +3017,7 @@ spirma,Špiranović,Matthew,1988-06-27,AUS,Geelong,AUS
 steval,Stevanović,Alen,1991-01-07,SRB,Zürich,SUI
 stoihr,Stoichkov,Hristo,1966-02-08,BUL,Plovdiv,BUL
 stojdr,Stojković,Dragan,1965-03-03,SRB,Niš, 
+stojne,Stojišić,Nedeljko,1997-09-25,SRB,Beograd,SRB
 stoyil,Stoyanov,Ilian,1977-01-20,BUL,Kyustendil,BUL
 sudayo,Suda,Yoshimasa,1967-08-22,JAP,Tokyo,JAP
 sudoda,Sudo,Daisuke,1977-04-25,JAP,Kanagawa,JAP
@@ -2910,6 +3038,7 @@ sugeta,Sugeno,Takanori,1984-05-03,JAP,Saitama,JAP
 sugiar,Sugiyama,Arata,1980-07-25,JAP,Saitama,JAP
 sugid1,Sugimoto,Daichi,1993-07-15,JAP,Shizuoka,JAP
 sugida,Sugioka,Daiki,1998-09-08,JAP,Tokyo,JAP
+sugiha,Sugita,Hayato,2004-01-09,JAP, ,JAP
 sugik1,Sugiyama,Kota,1985-01-24,JAP,Shizuoka,JAP
 sugik2,Sugimoto,Keita,1982-06-13,JAP,Ibaraki,JAP
 sugik3,Sugiyama,Koichi,1971-10-27,JAP,Takatsuki,JAP
@@ -2928,17 +3057,21 @@ sugite,Sugiyama,Tetsu,1981-06-26,JAP,Kumamoto,JAP
 suguhi,Suguri,Hiromasa,1976-07-29,JAP,Fukuroi,JAP
 sukima,Sukigara,Masahiro,1966-04-02,JAP,Tokyo,JAP
 suksna,Suksum,Nattawut,1997-11-06,THA,Tak,THA
+sumije,Sumiyoshi,Jelani,1997-10-05,JAP, ,USA
 sumita,Sumida,Takahiko,1991-03-12,JAP,Tottori,JAP
 sunama,Sunakawa,Makoto,1977-08-10,JAP,Chiba,JAP
 sungjh,Sung,Jong-Hyun,1979-04-02,KOR, ,KOR
 susama,Susaeta,Markel,1987-12-14,SPA,Eibar,SPA
+sutona,Suto,Naoki,2002-10-01,JAP,Saitama,JAP
 suwayu,Suwa,Yudai,1986-05-05,JAP,Chiba,JAP
 suzaky,Suzaki,Kyohei,1989-06-21,JAP,Mie,JAP
 suzuay,Suzuki,Ayaki,1987-04-13,JAP,Aichi,JAP
+suzud1,Suzuki,Daisei,1996-05-28,JAP,Nara,JAP
 suzuda,Suzuki,Daisuke,1990-01-29,JAP,Tokyo,JAP
 suzufu,Suzuki,Fumiya,2002-04-18,JAP,Miyagi,JAP
 suzuha,Suzuki,Hayato,1982-05-13,JAP,Shizuoka,JAP
 suzuhi,Suzuki,Hideto,1974-10-07,JAP,Shizuoka,JAP
+suzuj1,Suzuki,Junya,1996-01-07,JAP,Shizuoka,JAP
 suzuju,Suzuki,Jun,1989-04-22,JAP,Fukuoka,JAP
 suzuk1,Suzuki,Kenji,1986-09-03,JAP, ,JAP
 suzuk2,Suzuki,Kentaro,1980-06-02,JAP,Hokkaido,JAP
@@ -2957,6 +3090,7 @@ suzun1,Suzuki,Nobutaka,1983-09-12,JAP, ,JAP
 suzuna,Suzu,Naoki,2000-04-13,JAP, ,JAP
 suzuno,Suzuki,Norio,1984-02-14,JAP,Chiba,JAP
 suzur1,Suzuki,Ryuga,1994-02-28,JAP,Miyagi,JAP
+suzuri,Suzuki,Rintaro,2003-01-31,JAP,Tokyo,JAP
 suzury,Suzuki,Ryota,1994-02-10,JAP,Aichi,JAP
 suzus1,Suzuki,Shuto,1985-08-31,JAP, ,JAP
 suzus2,Suzuki,Shoto,1984-07-03,JAP,Yokohama,JAP
@@ -2969,6 +3103,7 @@ suzut4,Suzuki,Takayuki,1976-06-05,JAP,Hitachi,JAP
 suzut5,Suzuki,Takehito,1971-06-11,JAP,Machida,JAP
 suzut6,Suzuki,Takayuki,1973-10-04,JAP,Chiba,JAP
 suzut7,Suzumura,Takuya,1978-09-13,JAP,Aichi,JAP
+suzut8,Suzuki,Tokuma,1997-03-12,JAP,Tochigi,JAP
 suzuta,Suzuki,Tatsuya,1982-08-01,JAP,Kanagawa,JAP
 suzuto,Suzuki,Toichi,2000-05-30,JAP,Higashiosaka,JAP
 suzuy1,Suzuki,Yoshinori,1992-09-11,JAP,Miyazaki,JAP
@@ -2985,6 +3120,7 @@ tabije,Tabinas,Jefferson,1998-08-07,PHI,Shinjuku-ku,JAP
 tabita,Tabira,Tatsuya,2001-05-10,JAP,Osaka,JAP
 tabury,Tabuchi,Ryuji,1973-02-16,JAP,Tokushima,JAP
 tachak,Tachibana,Akito,1988-10-13,JAP,Hyogo,JAP
+tachk1,Tachikawa,Kotaro,1997-01-04,JAP,Wakayama,JAP
 tachke,Tachibanada,Kento,1998-05-29,JAP,Kirishima,JAP
 tachko,Tachi,Koki,1997-12-14,JAP,Suzuka,JAP
 tachma,Tachibana,Masato,1980-01-11,JAP,Hyogo,JAP
@@ -2993,6 +3129,7 @@ tadary,Tada,Ryosuke,1992-08-07,JAP,Izumiotsu,JAP
 tagada,Tagami,Daichi,1993-06-16,JAP,Chiba,JAP
 tagaky,Tagawa,Kyosuke,1999-02-11,JAP,Fukuoka,JAP
 tagato,Tagawa,Tomoki,2002-09-18,JAP, ,JAP
+taggad,Taggart,Adam,1993-06-02,AUS,Joondalup,AUS
 taguju,Taguchi,Junto,1996-09-28,JAP,Aichi,JAP
 taguta,Taguchi,Taishi,1991-03-16,JAP,Naha,JAP
 taguyo,Taguchi,Yoshinori,1965-09-14,JAP,Saitama,JAP
@@ -3097,6 +3234,7 @@ tamuma,Tamura,Masataka,1988-01-12,JAP,Fukuoka,JAP
 tamuna,Tamura,Naoya,1984-11-20,JAP,Tokyo,JAP
 tamury,Tamura,Ryosuke,1995-05-08,JAP,Nara,JAP
 tamush,Tamura,Shota,1995-02-04,JAP, ,JAP
+tamuta,Tamukai,Taiki,1992-03-24,JAP,Mito,JAP
 tamuy1,Tamura,Yuzo,1982-12-07,JAP,Gumma,JAP
 tamuy2,Tamura,Yuki,1985-12-31,JAP,Hiroshima,JAP
 tamuyu,Tamura,Yu,1992-11-22,JAP,Fukuoka,JAP
@@ -3104,6 +3242,8 @@ tanaao,Tanaka,Ao,1998-09-10,JAP,Kawasaki,JAP
 tanaat,Tanaka,Atomu,1987-10-04,JAP,Niigata,JAP
 tanah1,Tanaka,Hiroto,1990-04-26,JAP,Osaka,JAP
 tanah2,Tanaka,Hideya,1986-06-25,JAP, ,JAP
+tanah3,Tanaka,Hayato,2003-11-01,JAP,Chiba,JAP
+tanah4,Tanaka,Hiromu,1999-04-15,JAP, ,JAP
 tanaha,Tanaka,Hayuma,1982-07-31,JAP,Matsumoto,JAP
 tanahi,Tanaka,Hideo,1983-03-01,JAP,Uki,JAP
 tanaj1,Tanaka,Junichi,1993-10-23,JAP,Takasago,JAP
@@ -3116,10 +3256,12 @@ tanako,Tanaka,Kohei,1985-12-11,JAP,Hokkaido,JAP
 tanama,Tanaka,Makoto,1975-08-08,JAP,Shizuoka,JAP
 tanamt,Tanaka,Marcus Tulio,1981-04-24,JAP,Sao Paulo,BRA
 tanano,Tanaka,Nobutaka,1971-06-10,JAP,Saitama,JAP
+tanar1,Tanada,Ryo,2003-06-19,JAP,Hiroshima,JAP
 tanari,Tanaka,Riku,1999-05-04,JAP,Chiba,JAP
 tanary,Tanabe,Ryota,1993-04-10,JAP,Tokyo,JAP
 tanas1,Tanada,Shin,1969-07-25,JAP,Hiroshima,JAP
 tanas2,Tanaka,Shinji,1960-09-25,JAP,Saitama,JAP
+tanas3,Tanabe,Shuto,2002-05-05,JAP,Soraku,JAP
 tanasa,Tanaka,Satoshi,2002-08-13,JAP,Nagano,JAP
 tanash,Tanaka,Shunta,1997-05-26,JAP,Osaka,JAP
 tanaso,Tanabe,Sotan,1990-04-06,JAP,Tokyo,JAP
@@ -3149,6 +3291,7 @@ tapsch,Tapsuvanavon,Chayathorn,2000-03-12,THA, ,THA
 tartvi,Tartá, ,1989-04-13,BRA,Rio de Janeiro,BRA
 tasaka,Tasaka,Kazuaki,1971-09-03,JAP,Hiroshima,JAP
 tasayu,Tasaka,Yusuke,1985-07-08,JAP,Hiroshima,JAP
+tashm1,Tashiro,Masaya,1993-05-01,JAP,Saitama,JAP
 tashma,Tashiro,Masakazu,1988-06-26,JAP,Tokyo,JAP
 tashy1,Tashiro,Yūzō,1982-07-22,JAP,Fukuoka,JAP
 tashyu,Tashiro,Yusuke,1995-06-27,JAP,Osaka,JAP
@@ -3161,6 +3304,7 @@ tazayu,Tazawa,Yuki,1979-07-16,JAP,Shizuoka,JAP
 terama,Teraoka,Masahiro,1991-11-13,JAP,Takamatsu,JAP
 teras1,Terada,Shuhei,1975-06-23,JAP,Yokosuka,JAP
 terash,Terada,Shinichi,1985-06-10,JAP,Ibaraki,JAP
+terats,Terayama,Tsubasa,2000-04-10,JAP,Saitama,JAP
 terayo,Terakawa,Yoshito,1974-09-06,JAP,Hyogo,JAP
 teruha,Teruyama,Hayato,2000-08-28,JAP,Chiba,JAP
 teshka,Teshima,Kazuki,1979-06-07,JAP,Iizuka,JAP
@@ -3205,7 +3349,9 @@ tomiya,Tominaga,Yasuhiro,1980-05-22,JAP,Kitakyushu,JAP
 tonery,Tone,Ryosuke,1991-10-29,JAP,Fukuoka,JAP
 tonia1,Toninho, ,1965-03-23,BRA,Campinas,BRA
 tonian,Toninho, ,1977-12-21,BRA,Araraquara,BRA
+tonod1,Tono,Daiya,1999-03-14,JAP,Fujieda,JAP
 tonoda,Tonoike,Daisuke,1975-01-29,JAP,Yokohama,JAP
+toriko,Toriumi,Koji,1995-05-09,JAP,Kisarazu,JAP
 torino,Toriizuka,Nobuhito,1972-08-07,JAP,Maebashi,JAP
 torrau,Torres,Aureliano,1982-06-16,PAR,Luque,PAR
 torrca,Torres, ,1966-08-22,BRA,Rio de Janeiro,BRA
@@ -3215,10 +3361,12 @@ toscma,Toscano,Marcelo,1985-05-12,BRA,Areado,BRA
 toshsa,Toshima,Sachiro,1995-09-26,JAP,Saitama,JAP
 totste,Totsuka,Tetsuya,1961-04-24,JAP,Tokyo,JAP
 toyash,Toyama,Shoji,2002-09-21,JAP,Toyonaka,JAP
+toyoko,Toyoda,Koki,2003-04-11,JAP,Gifu,JAP
 toyota,Toyomitsu,Takayuki,1987-04-02,JAP, ,JAP
 toyoyo,Toyoda,Yōhei,1985-04-11,JAP,Ishikawa,JAP
 toyoyu,Toyokawa,Yuta,1994-09-09,JAP,Kumamoto,JAP
 toziwe,Tozim, ,1984-11-10,BRA, ,BRA
+trevhe,Trevisan,Henrique,1997-01-20,BRA,Umuarama,BRA
 trivma,Trivisonno,Marcelo,1966-06-08,ARG, ,ARG
 trogpe,Troglio,Pedro,1965-07-28,ARG,Luján Poia,ARG
 tsubke,Tsuboi,Keisuke,1979-09-16,JAP,Tokyo,JAP
@@ -3253,6 +3401,7 @@ tsutsh,Tsutsumi,Shunsuke,1987-06-08,JAP,Saitama,JAP
 tsuyka,Tsuyuki,Kazuto,1984-08-14,JAP, ,JAP
 tsuzry,Tsuzuki,Ryota,1978-04-18,JAP,Nara,JAP
 tsveak,Tsveiba,Akhrik,1966-09-10,RUS,Gudauta,GEO
+tuixmi,Tučić,Milan,1996-08-15,SLO,Ljubljana,SLO
 tulitl,Túlio, ,1976-04-25,BRA,Brasília,BRA
 tutoli,Tuto, ,1979-07-02,BRA,Dionísio Cerqueira,BRA
 ubedcl,Úbeda,Claudio,1969-09-17,ARG,Rosario,ARG
@@ -3261,6 +3410,7 @@ uchihi,Uchidate,Hideki,1974-01-15,JAP,Saitama,JAP
 uchiju,Uchida,Jun,1977-10-14,JAP,Hyogo,JAP
 uchik1,Uchiyama,Kei,1993-07-19,JAP,Kamakura,JAP
 uchike,Uchida,Kenta,1989-10-02,JAP,Yokkaichi,JAP
+uchiko,Uchida,Kohei,1993-05-19,JAP,Saitama,JAP
 uchit1,Uchida,Tatsuya,1992-02-08,JAP,Takarazuka,JAP
 uchit2,Uchida,Tomoya,1983-07-10,JAP,Mie,JAP
 uchit3,Uchida,Toshihiro,1972-08-12,JAP,Nagasaki,JAP
@@ -3273,6 +3423,7 @@ uedako,Ueda,Kota,1986-05-09,JAP,Ome,JAP
 uedamo,Ueda,Motoki,1979-05-14,JAP,Kanagawa,JAP
 uedana,Ueda,Naomichi,1994-10-24,JAP,Uto,JAP
 uedary,Ueda,Ryujiro,1988-01-29,JAP,Osaka,JAP
+ueebka,Ueebisu,Katsunori,1996-04-05,JAP,Ichikikushikino,JAP
 uehaed,Uehara,Edwin,1969-07-21,JAP,Lima,JAP
 uehari,Uehara,Rikiya,1996-08-25,JAP,Shizuoka,JAP
 uehash,Uehara,Shinya,1986-09-29,JAP,Nishihara,JAP
@@ -3288,6 +3439,7 @@ uenohi,Ueno,Hideaki,1981-05-31,JAP,Hokkaido,JAP
 uenono,Ueno,Nobuhiro,1965-08-26,JAP,Koga,JAP
 uenoyo,Ueno,Yoshiharu,1973-04-21,JAP,Saitama,JAP
 uenoyu,Ueno,Yusaku,1973-11-01,JAP,Tochigi,JAP
+ueomye,Ueom,Ye-hoon,2002-09-23,KOR, ,KOR
 uesaka,Uesato,Kazumasa,1986-03-13,JAP,Hirara,JAP
 uesata,Uesato,Takumi,1990-04-29,JAP,Okinawa,JAP
 ueslue,Ueslei, ,1972-04-19,BRA,Salvador,BRA
@@ -3324,6 +3476,8 @@ usuike,Usui,Kempei,1987-05-15,JAP,Chiba,JAP
 usuiko,Usui,Kohei,1979-07-16,JAP,Kanagawa,JAP
 usuite,Usui,Teppei,1991-11-03,JAP,Fuchu,JAP
 utakpe,Utaka,Peter,1984-02-12,NGR,Enugu,NGR
+utsush,Utsumoto,Shinya,2000-03-29,JAP,Miyazaki,JAP
+uvinbr,Uvini,Bruno,1991-06-03,BRA,Capivari (SP),BRA
 valbvl,Válber, ,1971-12-06,BRA,São Luís,BRA
 valdan,Valdo, ,1992-02-10,BRA,Lagarto,BRA
 valdjd,Valdés,Jorge Dely,1967-03-12,PAN,Colón,PAN
@@ -3347,6 +3501,7 @@ villda,Villa,David,1981-12-03,SPA,Langreo,SPA
 villju,Villamayor,Juan,1969-03-05,PAR,Caaguazú,PAR
 vinilu,Vinícius, ,1995-01-26,BRA,Alfredo Alves,BRA
 vitare,Vital,Reginaldo,1976-02-29,BRA,Jacarezinho,BRA
+vizefe,Vizeu,Felipe,1997-03-12,BRA,Três Rios,BRA
 volpne,Volpi,Neto,1992-08-01,BRA,Rio do Campo,BRA
 vondjp,Vonderburg,Jean-Paul,1964-07-31,SWE, ,SWE
 vucine,Vučićević,Nemanja,1979-08-11,SRB,Beograd,SRB
@@ -3354,6 +3509,7 @@ vujabu,Vujačić,Budimir,1964-01-04,SRB,Titograd,MNT
 vukoda,Vuković,Danny,1985-03-27,AUS,Sydney,AUS
 wadam1,Wada,Masahiro,1965-01-21,JAP,Kobe,JAP
 wadama,Wada,Masashi,1997-04-11,JAP,Yokohama,JAP
+wadary,Wada,Ryo,1995-07-05,JAP,Tochigi,JAP
 wadash,Wada,Shingo,1987-08-07,JAP,Shizuoka,JAP
 wadat1,Wada,Tatsuya,1994-06-21,JAP,Osaka,JAP
 wadat2,Wada,Takumi,1981-10-20,JAP,Shizuoka,JAP
@@ -3394,8 +3550,10 @@ wataka,Watanabe,Kazuma,1986-08-10,JAP,Kunimi,JAP
 watake,Watanabe,Keiji,1985-01-28,JAP,Shizuoka,JAP
 watako,Watanabe,Kota,1998-10-18,JAP,Kanagawa,JAP
 watam1,Watanabe,Mitsuteru,1974-04-10,JAP,Shizuoka,JAP
+watam2,Watai,Masaki,1999-07-18,JAP,Fujinomiya,JAP
 watama,Watanabe,Masaki,1986-12-02,JAP,Kyoto,JAP
 watami,Watada,Mitsutoshi,1976-03-26,JAP,Kobe,JAP
+watary,Watanabe,Ryoma,1996-10-02,JAP,Higashimatsuyama,JAP
 watash,Watanabe,Shuto,1997-01-28,JAP,Nagoya,JAP
 watasu,Watanabe,Susumu,1973-10-10,JAP,Tokyo,JAP
 watat1,Watanabe,Takeshi,1972-09-10,JAP,Fujieda,JAP
@@ -3405,9 +3563,11 @@ watata,Watanabe,Takumi,1982-03-15,JAP,Fukushima,JAP
 watats,Watanabe,Tsuyoshi,1997-02-05,JAP,Saitama,JAP
 wataya,Watanabe,Yasuhiro,1992-10-04,JAP,Niigata,JAP
 wechja,Wechpirom,Jakkit,1997-01-26,THA,Chantaburi,THA
+weliwe,Welinton, ,1993-06-08,BRA,São José do Rio Preto,BRA
 wellwe,Wellington, ,1988-02-11,BRA,Ourinhos,BRA
 wescwe,Wescley, ,1991-10-11,BRA,Rio de Janeiro,BRA
 weslwe,Weslley, ,1992-04-21,BRA,Uruçuí,BRA
+wierja,Świerczok,Jakub,1992-12-28,POL,Tychy,POL
 willwi,Will, ,1973-12-15,BRA,São Paulo,BRA
 wilswi,Wilson, ,1985-03-21,BRA,Araras,BRA
 witsri,Witschge,Richard,1969-09-20,NED,Amsterdam,NED
@@ -3430,6 +3590,7 @@ yamah3,Yamamoto,Hiroki,1991-11-15,JAP,Kumamoto,JAP
 yamah4,Yamamoto,Hideomi,1980-06-26,JAP,Ichikawa,JAP
 yamah5,Yamamoto,Hiromasa,1979-06-05,JAP,Aichi,JAP
 yamah6,Yamamura,Hiroto,1974-07-12,JAP,Shizuoka,JAP
+yamah7,Yamami,Hiroto,1999-08-16,JAP, ,JAP
 yamahi,Yamauchi,Hirofumi,1995-02-09,JAP,Saitama,JAP
 yamaho,Yamaguchi,Hotaru,1990-10-06,JAP,Nabari,JAP
 yamaiw,Yamane,Iwao,1976-07-31,JAP,Hiroshima,JAP
@@ -3446,6 +3607,7 @@ yamak9,Yamazaki,Kotaro,1978-10-19,JAP,Shizuoka,JAP
 yamakA,Yamagata,Kyohei,1981-09-07,JAP,Fukuoka,JAP
 yamakB,Yamamichi,Kohei,1980-05-11,JAP,Nagoya,JAP
 yamakC,Yamamoto,Kenji,1965-08-28,JAP,Yamanashi,JAP
+yamakD,Yamashita,Keita,1996-03-13,JAP,Tagawa,JAP
 yamaka,Yamamura,Kazuya,1989-12-02,JAP,Nagasaki,JAP
 yamake,Yamaguchi,Kei,1983-06-11,JAP,Kyoto,JAP
 yamako,Yamamoto,Kosuke,1989-10-29,JAP,Hamamatsu,JAP
@@ -3468,6 +3630,7 @@ yamar2,Yamanaka,Ryosuke,1993-04-20,JAP,Kashiwa,JAP
 yamar3,Yamamoto,Ryuhei,2000-07-16,JAP,Mie,JAP
 yamar4,Yamashita,Ryoji,2000-05-11,JAP,Ibaraki,JAP
 yamar5,Yamamoto,Ren,2001-01-15,JAP,Nagasaki,JAP
+yamar6,Yamahara,Reon,1999-06-08,JAP, ,JAP
 yamare,Yamato,Ren,2002-06-25,JAP, ,JAP
 yamari,Yamada,Riku,1998-04-15,JAP,Tokyo,JAP
 yamary,Yamazaki,Ryohei,1989-03-14,JAP,Minamiuonuma,JAP
@@ -3496,18 +3659,21 @@ yamatF,Yamaguchi,Toshihiro,1971-11-19,JAP,Kunamoto,JAP
 yamatG,Yamato,Tetsu,1978-05-30,JAP,Osaka,JAP
 yamatH,Yamaguchi,Tetsuharu,1977-09-08,JAP,Nagasaki,JAP
 yamatI,Yamahashi,Takashi,1972-05-31,JAP,Sapporo,JAP
+yamatJ,Yamanoi,Takumi,1998-10-25,JAP,Mobara,JAP
 yamata,Yamashita,Tatsuya,1987-11-07,JAP,Hyogo,JAP
 yamate,Yamakawa,Tetsushi,1997-10-01,JAP,Amagasaki,JAP
 yamato,Yamane,Towa,1999-02-05,JAP,Hiroshima,JAP
 yamay1,Yamamoto,Yuki,1997-11-06,JAP,Shiga,JAP
 yamay2,Yamaya,Yushi,2000-06-11,JAP, ,JAP
 yamay3,Yamase,Yukihiro,1984-04-22,JAP,Hokkaido,JAP
+yamay4,Yamagishi,Yuya,1993-08-29,JAP,Kashiwa,JAP
 yamaya,Yamada,Yasuhiro,1968-02-13,JAP,Hiroshima,JAP
 yamayo,Yamashita,Yoshiteru,1977-11-21,JAP,Fukuoka,JAP
 yamayu,Yamada,Yuto,2000-05-17,JAP,Chiba,JAP
 yanaat,Yanagisawa,Atsushi,1977-05-27,JAP,Toyama,JAP
 yanahi,Yanagimoto,Hiroshige,1972-10-15,JAP,Higashiosaka,JAP
 yanaju,Yanagisawa,Jun,1987-06-27,JAP,Ibaraki,JAP
+yanako,Yanagisawa,Ko,1996-06-28,JAP,Kashiwa,JAP
 yanam1,Yanagisawa,Masayuki,1979-08-27,JAP,Yokohama,JAP
 yanama,Yanagawa,Masaki,1987-05-01,JAP,Osaka,JAP
 yanata,Yanagi,Takahiro,1997-08-05,JAP,Tokyo,JAP
@@ -3518,6 +3684,8 @@ yanomi,Yano,Michael,1979-01-22,JAP,Accra,JAP
 yashyu,Yashiki,Yusei,2003-10-18,JAP,Oita,JAP
 yasoyu,Yaso,Yuji,1969-10-31,JAP,Osaka,JAP
 yassah,Yasser,Ahmed,1994-05-17,QAT,Doha,QAT
+yasuk1,Yasuda,Kojiro,2003-08-14,JAP,Ishikawa,JAP
+yasuke,Yasuda,Kenshin,2005-03-05,JAP, ,JAP
 yasuko,Yasuda,Kodai,1989-08-08,JAP,Osaka,JAP
 yasumi,Yasuda,Michihiro,1987-12-20,JAP,Kobe,JAP
 yasuna,Yasuhara,Nariyasu,1968-08-09,JAP,Aichi,JAP
@@ -3531,6 +3699,7 @@ yatsko,Yatsuda,Kosuke,1982-03-17,JAP,Fukuoka,JAP
 yazata,Yazawa,Tatsuya,1984-10-03,JAP, ,JAP
 yeoxsh,Yeo,Sung-hye,1987-08-06,KOR, ,KOR
 yodayu,Yoda,Yuichi,1977-06-25,JAP,Hyogo,JAP
+yodose,Yodokawa,Seiju,2003-11-04,JAP,Miyagi,JAP
 yokoak,Yokouchi,Akinobu,1967-11-30,JAP,Fukuoka,JAP
 yokoas,Yokokawa,Asahi,2002-05-26,JAP,Odawara,JAP
 yokohi,Yokoyama,Hirotoshi,1975-05-09,JAP,Kagoshima,JAP
@@ -3561,6 +3730,7 @@ yosha1,Yoshida,Akihiro,1975-05-28,JAP,Takamatsu,JAP
 yosha2,Yoshida,Akiyoshi,1966-09-08,JAP,Nagasaki,JAP
 yoshak,Yoshida,Akira,2001-07-09,JAP,Fukuoka,JAP
 yoshh1,Yoshida,Hiroyuki,1969-11-25,JAP,Nagasaki,JAP
+yoshha,Yoshida,Haruki,2001-04-20,JAP,Suzuka,JAP
 yoshhi,Yoshioka,Hideki,1972-06-06,JAP,Mie,JAP
 yoshk1,Yoshio,Kaina,1998-06-28,JAP,Hyōgo,JAP
 yoshk2,Yoshimura,Keiji,1979-08-08,JAP,Ehime,JAP
@@ -3575,6 +3745,7 @@ yoshky,Yoshino,Kyohei,1994-11-08,JAP,Sendai,JAP
 yoshm1,Yoshihara,Masato,1991-10-27,JAP,Fukuoka,JAP
 yoshm2,Yoshida,Maya,1988-08-24,JAP,Nagasaki,JAP
 yoshm3,Yoshida,Mitsunori,1962-03-08,JAP, ,JAP
+yoshm4,Yoshioka,Masakasu,1995-03-09,JAP,Nagasaki,JAP
 yoshma,Yoshida,Makito,1992-10-20,JAP,Kisarazu,JAP
 yoshme,Yoshida,Megumu,1973-04-13,JAP,Aichi,JAP
 yoshmi,Yoshihiro,Mitsuyuki,1985-05-04,JAP,Yamaguchi,JAP

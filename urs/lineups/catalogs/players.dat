@@ -62,7 +62,7 @@ agaemi,Agaev,Mir-Mehti,0000-00-00,URS, ,URS
 agafni,Agafonov,Nikolay,1944-08-23,URS,п. Юдино, 
 agapvl,Agapov,Vladimir,1933-11-18,RUS,Москва,URS
 agapyu,Agapov,Yuriy,1938-06-04,URS,Воронеж,RUS
-agasse,Agashkov,Sergey,1962-11-06,RUS,Ашхабад,URS
+agasse,Agashkov,Sergey,1962-11-06,TKM,Ашхабад,TKM
 agasvi,Agasyan,Vitali,1962-03-29,ARM, ,URS
 agisra,Agishev,Ravil,1959-03-14,URS,Бухара,UZB
 agulgr,Agulyan,Grachik,0000-00-00,URS, ,URS
@@ -263,7 +263,7 @@ ataure,Ataullin,Renat,1965-05-02,RUS,Москва,RUS
 atelse,Atelkin,Serhiy,1972-01-08,URS,Кировское,UKR
 auliin,Aulis,Indulis,0000-00-00,URS, ,URS
 avagar,Avagyan,Armen,1962-06-07,ARM, ,URS
-avakar,Avakov,Arsen,1971-05-28,RUS,Душанбе,URS
+avakar,Avakov,Arsen,1971-05-28,UZB,Душанбе,UZB
 avaked,Avakov,Eduard,0000-00-00,URS, ,URS
 avalal,Avaliani,Albert,0000-00-00,URS, ,URS
 avanro,Avanesyan,Rodik,0000-00-00,ARM, ,URS
@@ -375,7 +375,7 @@ bataar,Batalov,Arkadiy,1961-09-09,URS,Москва,URS
 batabo,Batanov,Boris,1934-07-15,URS,Москва,URS
 batigr,Batich,Grigoriy,1958-02-08,KAZ,Караганда,KAZ
 batrra,Batraev,Rafik,1945-03-18,URS, ,URS
-batuyu,Baturenko,Yuriy,1964-12-29,RUS,Душанбе,URS
+batuyu,Baturenko,Yuriy,1964-12-29,UZB,Душанбе,UZB
 batydm,Batynkov,Dmitri,1970-05-07,RUS,Москва,URS
 batytu,Batyrbaev,Turlubek,1963-02-17,URS,Кокчетав, 
 bauajo,Bauža,Jonas,1942-02-14,LIT,Таураге,LIT
@@ -1067,7 +1067,7 @@ ermayu,Ermakov,Yuriy,1933-10-31,URS,Омск,RUS
 ermeko,Erëmenko,Konstantin,1970-08-05,RUS,Днепропетровск,UKR
 ermiva,Ermilov,Vasiliy,1914-01-13,URS,Вязники, 
 ermomi,Ermolaev,Mikhail,1935-11-04,URS,Бежица,RUS
-ermovl,Ermolaev,Vladimir,1961-05-30,RUS,Душанбе,URS
+ermovl,Ermolaev,Vladimir,1961-05-30,UZB,Душанбе,UZB
 erokle,Erokhovets,Leonid,1935-05-01,URS,Минск,URS
 erokvi,Erokhin,Viktor,1940-01-15,RUS, ,URS
 erokvl,Erokhin,Vladimir,1930-04-10,URS,Москва, 
@@ -1635,11 +1635,11 @@ ivanv5,Ivanov,Valentin,1934-11-19,RUS,Москва,URS
 ivanv6,Ivanov,Valeriy,0000-00-00,URS, ,URS
 ivanv7,Ivanov,Vasiliy,1935-08-15,URS,Голосновский р-н,URS
 ivanv8,Ivanushkin,Vladimir,1939-10-07,URS, ,URS
-ivanva,Ivanov,Vasiliy,1970-03-21,RUS,Ленинград,URS
 ivanvA,Ivanov,Vladimir,0000-00-00,URS, ,URS
 ivanvB,Ivanov,Vasiliy,0000-00-00,URS, ,URS
 ivanvC,Ivanov,Vasiliy,0000-00-00,URS, ,URS
 ivanvD,Ivanov,Vladimir,0000-00-00,URS, ,URS
+ivanva,Ivanov,Vasiliy,1970-03-21,RUS,Ленинград,URS
 ivanvi,Ivanov,Viktor,0000-00-00,URS, ,URS
 ivanvl,Ivanov,Vladimir,1948-11-25,URS,Ленинград,URS
 ivanvy,Ivanov,Vyacheslav,1938-06-26,URS,Воронеж,RUS
@@ -2103,8 +2103,8 @@ kormvl,Kormiltsev,Vladimir,0000-00-00,URS, ,URS
 kornal,Korneev,Aleksey,1939-02-06,RUS,Москва,URS
 korndm,Korneev,Dmitriy,1934-07-04,URS,Пенза,RUS
 kornge,Kornorukov,Gennadiy,0000-00-00,URS, ,URS
-kornig,Korniets,Igor,1967-07-14,URS,Киев,URS
 korniV,Korneev,Igor Vladimirovich,1967-09-04,RUS,Москва,URS
+kornig,Korniets,Igor,1967-07-14,URS,Киев,URS
 kornko,Kornilov,Konstantin,0000-00-00,URS, ,URS
 kornle,Kornetov,Leonid,0000-00-00,URS, ,URS
 kornpa,Kornilov,Pavel,1912-06-11,URS,п. Амур, 
@@ -2372,9 +2372,9 @@ kuzno1,Kuznetsov,Oleg,1960-06-01,RUS,Ленинград,URS
 kuznol,Kuznetsov,Oleg,1963-03-22,URS,Магдебург, 
 kuzns1,Kuznetsov,Sergey,1960-06-01,RUS,Ленинград,URS
 kuzns2,Kuznetsov,Sergey,1950-11-30,URS,с. Каменоломня, 
+kuznsV,Kuznetsov,Sergey Vasilievich,1963-01-01,RUS,Белгород,RUS
 kuznse,Kuznetsov,Sergey,1966-05-12,RUS,Тамбов,RUS
 kuznst,Kuznetsov,Stanislav,1937-05-06,URS, ,URS
-kuznsV,Kuznetsov,Sergey Vasilievich,1963-01-01,RUS,Белгород,RUS
 kuznv1,Kuznetsov,Viktor,1962-06-03,URS, ,URS
 kuznv2,Kuznetsov,Viktor,1949-02-25,URS,с. Каменоломня, 
 kuznvi,Kuznetsov,Viktor,1961-01-08,URS,Днепродзержинск,UKR
@@ -2635,7 +2635,7 @@ malya1,Malyavkin,Aleksandr,1946-04-27,URS, ,URS
 malya2,Malyavkin,Aleksandr,1918-01-05,URS,Каменской,URS
 malyal,Malyshenko,Aleksandr,1960-06-30,URS,Луганск,UKR
 malyle,Malyi,Leonid,1955-01-28,URS,Николаев,UKR
-malyol,Malyukov,Oleg,1965-01-10,RUS,Душанбе,URS
+malyol,Malyukov,Oleg,1965-01-10,UZB,Душанбе,UZB
 malyse,Malykha,Sergey,1944-04-25,URS, ,URS
 malyv1,Malyavkin,Vladimir,1928-04-25,URS,Москва,RUS
 malyva,Malyshev,Vasiliy,1954-04-11,URS,с. Старая Игнатьевка, 
@@ -2647,7 +2647,7 @@ mamiyu,Maminashvili,Yuriy,1957-05-14,GEO,Тбилиси,URS
 mamoyu,Mamontov,Yuriy,1928-02-04,URS,Ржевский р-н,URS
 mamyal,Mamykin,Aleksey,1936-02-29,URS,с. Веряево,URS
 manaak,Manafov,Akif,0000-00-00,URS, ,URS
-manaan,Manannikov,Andrey,1965-08-05,RUS,Душанбе,URS
+manaan,Manannikov,Andrey,1965-08-05,UZB,Душанбе,UZB
 manama,Managadze,Mamuka,1965-04-28,GEO,Кутаиси,URS
 manava,Manasyan,Vazgen,1958-03-13,RUS,Сталинабад,URS
 mandse,Mandreko,Sergey,1971-08-01,RUS,Курган-Тюбе,URS
@@ -2764,8 +2764,8 @@ meleyu,Meleshko,Yuriy,1946-12-15,URS,Москва,URS
 meliba,Melikyan,Babken,1960-04-03,ARM,Ереван,URS
 melile,Melikia,Levan,1955-04-04,URS,Тбилиси,URS
 melked,Melkonyan,Eduard,0000-00-00,URS, ,URS
-melksa,Melkonyan,Samvel,0000-00-00,URS, ,URS
 melksP,Melkumyan,Sergey,0000-00-00,URS, ,URS
+melksa,Melkonyan,Samvel,0000-00-00,URS, ,URS
 melkyu,Melkumov,Yuriy,0000-00-00,URS, ,URS
 melnbo,Melnikov,Boris,0000-00-00,URS, ,URS
 melnmi,Melnik,Mikhail,0000-00-00,URS, ,URS
@@ -2953,7 +2953,7 @@ mudred,Mudrik,Eduard,1939-07-18,URS,Старобельск,UKR
 mudzda,Mudzhiri,David,1956-04-07,GEO,Махарадзе,GEO
 mukhch,Mukhadov,Charyyar,1969-11-12,URS,Ашхабад,URS
 mukhmi,Mukhortov,Mikhail,1926-11-10,URS,п. Подлипки, 
-mukhmu,Mukhamadiev,Mukhsin,1966-10-21,RUS,Душанбе,URS
+mukhmu,Mukhamadiev,Mukhsin,1966-10-21,UZB,Душанбе,UZB
 mukhsa,Mukhin,Saveliy,1922-03-10,URS, ,URS
 mukhva,Mukhin,Valeriy,1938-07-25,URS, ,URS
 mukhvl,Mukhanov,Vladimir,1954-04-20,RUS,Раменское, 
@@ -3358,7 +3358,7 @@ pisani,Pisarev,Nikolay,1968-11-23,RUS,Москва,URS
 piskal,Piskaryov,Aleksandr,1949-11-18,RUS,Иваново,RUS
 piskan,Piskunov,Anatoliy,1949-01-02,URS,Татищево, 
 piskev,Piskarëv,Evgeniy,0000-00-00,URS,Ногинский р-н,RUS
-piskse,Piskaryov,Sergey,1972-08-31,RUS,Душанбе,URS
+piskse,Piskaryov,Sergey,1972-08-31,UZB,Душанбе,UZB
 piskvi,Piskovatskiy,Viktor,0000-00-00,URS, ,URS
 pismal,Pismennyj,Aleksandr,0000-00-00,URS, ,URS
 piunev,Piunovskiy,Evgeniy,1946-09-23,RUS,Иркутск,RUS
@@ -3980,7 +3980,7 @@ shiran,Shiryaev,Andrey,1957-04-26,RUS,Москва,URS
 shirge,Shirochkin,Gennadiy,1937-04-04,URS,Дмитров, 
 shiriv,Shiryaev,Ivan,1924-01-14,URS,с. Первая Михайловка,URS
 shirka,Shirinyan,Karo,1998-05-04,URS,Армянская ССР,URS
-shirol,Shirinbekov,Oleg,1963-09-11,RUS,п. Шахринав,URS
+shirol,Shirinbekov,Oleg,1963-09-11,TAJ,п. Шахринав,TAJ
 shirvi,Shirov,Viktor,1954-09-20,RUS,п. Юбилейный, 
 shirvy,Shirin,Vyacheslav,1959-10-27,URS, ,URS
 shisbo,Shishkov,Boris,1940-05-24,URS,Чугуев,UKR

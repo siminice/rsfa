@@ -1,26 +1,29 @@
-38
+43
 aals00,Pierre Cornelis
 antw00,Bosuil
-antw01,Olympisch
+antw01,Olympisch Kiel
+berc00,Het Rooi
 beri00,Mijnstadion
 beve00,Freethiel
 boom00,Gemeentelijk Parkstadion
-brug00,Jan Breydel Stadion
-brux00,Constant Vanden Stock
-brux01,Stade Edmond Machtens
-char00,Stade du Pays
+brug00,Jan Breydel Stadion,0,0,Olympiastadion,1999
+brux00,Lotto Park,0,0,Constant Vanden Stock,2019,Émile Versé,1982
+brux01,Stade Edmond Machtens,0,0,Oscar Bossaert,1979
+brux02,Roi Baudouin,0,0,Heysel,1995,Stade du Centenaire,1945
+char00,Stade du Pays,0,0,Mambourg,1999
 dend00,Stade Leburton
 eker00,Veltwijckpark
 eupe00,Kehrwegstadion
 geel00,De Leune
-genk00,Luminus Arena
+genk00,Luminus Arena,0,0,Cristal Arena,2016,Fenixstadion,2007,Thyl Gheyselinckstadion,1999,André Dumont,1988
+genk01,De Nordlaan
 gent00,Ghelamco Arena
 gent01,Jules Otten Stadion
 hare00,Forestiersstadion
 kort00,Guldensporenstadion
 leuv00,Eneco Stadion
-lieg00,Stade Sclessin
-lieg01,Stade Jules Georges
+lieg00,Stade Sclessin,0,0,Maurice Dufrasne,1990
+lieg01,Stade Vélodrome Jules Georges
 lier00,Het Lisp
 loke00,Daknam
 lomm00,Soevereinstadion
@@ -31,8 +34,10 @@ mons00,Charles Tondreau
 mous00,Le Canonnier
 oost00,Versluys Arena
 roes00,Schiervelde
-sera00,Pairaystadion
+sera00,Stade du Pairay
+stni00,Puyenbeke
 sttr00,Staaien
+tong00,De Motten
 tubi00,Van Roy Stadion
 ware00,Regenboogstadion
 west00,Het Kuipje

@@ -19,7 +19,6 @@ antata,Taylan,Antalyalı,1995-01-08,TUR,0,48,M,0,0,0,0,taylan-antalyali
 babaat,Atalay,Babacan,2000-06-28,TUR,0,30,M,0,0,0,0,atalay-babacan
 belhyo,Younès,Belhanda,1990-02-25,MAR,0,10,M,0,0,0,0,younes-belhanda
 donkry,Ryan,Donk,1986-03-30,SUR,0,15,M,0,0,0,0,ryan-donk
-evrefe,Ferhan,Evren,2000-10-01,TUR,0,64,M,0,0,0,0,ferhan-evren
 feghso,Sofiane,Féghouli,1989-12-26,ALG,0,89,M,0,0,0,0,sofiane-feghouli
 guengo,Gökay,Güney,1999-05-19,TUR,0,46,M,0,0,0,0,goekay-gueney
 nanxse,Selçuk,İnan,1985-02-10,TUR,0,8,M,0,0,0,0,selcuk-nan
@@ -39,14 +38,20 @@ nzonst,Steven,N'Zonzi,1988-12-15,FRA,0, , ,0,0,0,0,steven-nzonzi
 tasdem,Emre,Taşdemir,1995-08-08,TUR,0, , ,0,0,0,0,emre-tasdemir
 diagmb,Mbaye,Diagne,1991-10-28,SEN,0, , ,0,0,0,0,mbaye-diagne
 senxba,Batuhan,Şen,1999-02-03,TUR,0, , ,0,0,0,0,batuhan-sen
+davado,Doğan,Davas,1997-08-22,TUR,0, , ,0,0,0,0,dogan-davas
+dogam3,Mutlu,Doğan,2000-03-08,AZE,0, , ,0,0,0,0,mutlu-dogan
+roquma,Maicon,Roque,1988-09-14,BRA,0, , ,0,0,0,0,maicon-roque
+mertm1,Metehan,Mertöz,1999-07-19,TUR,0, , ,0,0,0,0,metehan-mertoez
+sivrah,Ahmet,Sivri,1999-07-06,TUR,0, , ,0,0,0,0,ahmet-sivri
+tekiba,Batuhan,Tekin,1999-01-27,TUR,0, , ,0,0,0,0,batuhan-tekin
 koesra,Ramazan,Köse,1988-05-12,TUR,100,1,P,0,0,0,0,ramazan-koese
 oeztfa,Fatih,Öztürk,1986-12-22,FRA,100,99,P,0,0,0,0,fatih-oeztuerk_2
 sarime,Mehmet,Sarı,2000-06-08,TUR,100,67,P,0,0,0,0,mehmet-sari
-yildmu,Murat,Yildiz,1998-08-03,TUR,100,13,P,0,0,0,0,murat-yildiz_2
+yildmu,Murat,Yıldız,1998-08-03,TUR,100,13,P,0,0,0,0,murat-yildiz_2
 brecto,Tomáš,Břečka,1994-05-12,CZE,100,25,F,0,0,0,0,tomas-brecka
 cetibe,Berk,Çetin,2000-02-02,TUR,100,2,F,0,0,0,0,berk-cetin
 cetifu,Furkan,Çetinkaya,2001-01-21,TUR,100,57,F,0,0,0,0,furkan-cetinkaya
-daleyi,Yilmaz,Daler,1999-05-30,TUR,100,27,F,0,0,0,0,yilmaz-daler
+daleyi,Yılmaz,Daler,1999-05-30,TUR,100,27,F,0,0,0,0,yilmaz-daler
 gueltb,Taha Batuhan,Güleryüz,1999-01-05,TUR,100,58,F,0,0,0,0,taha-batuhan-gueleryuez
 haddou,Oussema,Haddadi,1992-01-28,TUN,100,92,F,0,0,0,0,oussema-haddadi
 hadefl,Florent,Hadergjonaj,1994-07-31,KOS,100,94,F,0,0,0,0,florent-hadergjonaj
@@ -56,7 +61,6 @@ meryya,Yassine,Meryah,1993-07-02,TUN,100,80,F,0,0,0,0,yassine-meryah
 sadilo,Loret,Sadiku,1991-07-28,ALB,100,6,F,0,0,0,0,loret-sadiku
 sarlzv,Zvonimir,Šarlija,1996-08-29,CRO,100,50,F,0,0,0,0,zvonimir-sarlija
 tirpmi,Mickaël,Tirpan,1993-10-23,BEL,100,24,F,0,0,0,0,mickael-tirpan
-veigol,Olivier,Veigneau,1985-07-16,FRA,100,31,F,0,0,0,0,olivier-veigneau
 aydiem,Emirhan,Aydin,1999-06-18,TUR,100,74,M,0,0,0,0,emirhan-aydin
 cetiem,Emre,Çetinkaya,2000-02-28,TUR,100,33,M,0,0,0,0,emre-cetinkaya_2
 colamu,Murat,Çolak,1999-09-21,TUR,100,34,M,0,0,0,0,murat-colak_2
@@ -68,7 +72,6 @@ hajrha,Haris,Hajradinović,1994-02-18,BOS,100,10,M,0,0,0,0,haris-hajradinovic
 haspdo,Doğucan,Haspolat,2000-02-11,NED,100,3,M,0,0,0,0,dogucan-haspolat
 heinto,Tobias,Heintz,1998-07-13,NOR,100,14,M,0,0,0,0,tobias-heintz
 karaay,Aytaç,Kara,1993-03-23,TUR,100,35,M,0,0,0,0,aytac-kara
-kuerar,Arda,Kürşat,1997-11-15,TUR,100,19,M,0,0,0,0,arda-kuersat
 oezcog,Oğuzhan,Özcan,2001-05-18,TUR,100,18,M,0,0,0,0,oguzhan-oezcan
 paveda,David,Pavelka,1991-05-18,CZE,100,8,M,0,0,0,0,david-pavelka
 serbta,Tarkan,Serbest,1994-05-02,TUR,100,15,M,0,0,0,0,tarkan-serbest
@@ -86,13 +89,17 @@ youssb,Syam,Ben Youssef,1989-03-31,TUN,100, , ,0,0,0,0,syam-ben-youssef
 popost,Strahil,Popov,1990-08-31,BUL,100, , ,0,0,0,0,strahil-popov
 hafeka,Karim,Hafez,1996-03-12,EGY,100, , ,0,0,0,0,karim-hafez
 sarive,Veysel,Sarı,1988-07-25,TUR,100, , ,0,0,0,0,veysel-sari
+veigol,Olivier,Veigneau,1985-07-16,FRA,100, , ,0,0,0,0,olivier-veigneau
 cekxoe,Özgür,Çek,1991-01-03,TUR,100, , ,0,0,0,0,oezguer-cek
 yazgug,Uğurcan,Yazğılı,1999-04-09,TUR,100, , ,0,0,0,0,ugurcan-yazgili
 uralon,Onur,Ural,1997-02-22,TUR,100, , ,0,0,0,0,onur-ural
+bilaha,Hasan,Bilal,1998-03-12,TUR,100, , ,0,0,0,0,hasan-bilal
+elmaev,Evren,Elmalı,2000-07-07,TUR,100, , ,0,0,0,0,evren-elmali
+erbomu,Mustafa,Erboğa,1999-01-11,TUR,100, , ,0,0,0,0,mustafa-erboga
+goecal,Ali,Göçmen,2000-03-15,TUR,100, , ,0,0,0,0,ali-goecmen
 boffru,Ruud,Boffin,1987-11-05,BEL,12,25,P,0,0,0,0,ruud-boffin
 cakiya,Yakup,Çakır,1999-07-23,TUR,12,1,P,0,0,0,0,yakup-cakir
 kaplfe,Ferhat,Kaplan,1989-01-07,TUR,12,35,P,0,0,0,0,ferhat-kaplan
-oezdah,Ahmet,Özden,1996-10-11,TUR,12,96,P,0,0,0,0,ahmet-oezden
 sahien,Enes,Şahin,2000-09-28,TUR,12,12,P,0,0,0,0,enes-sahin_2
 albaer,Eren,Albayrak,1991-04-23,TUR,12,6,F,0,0,0,0,eren-albayrak
 celuon,Ondřej,Čelůstka,1989-06-18,CZE,12,28,F,0,0,0,0,ondrej-celustka
@@ -108,7 +115,6 @@ oeztba,Bahadir,Öztürk,1995-01-10,TUR,12,95,F,0,0,0,0,bahadir-oeztuerk
 sangna,Nazim,Sangaré,1994-05-30,GER,12,30,F,0,0,0,0,nazim-sangare
 akyouf,Ufuk,Akyol,1997-08-27,GER,12,19,M,0,0,0,0,ufuk-akyol
 alpsha,Harun,Alpsoy,1997-03-03,SUI,12,22,M,0,0,0,0,harun-alpsoy
-arslba,Batuhan,Arslan,1999-01-09,TUR,12,15,M,0,0,0,0,batuhan-arslan
 balcbu,Bünyamin,Balcı,2000-05-31,TUR,12,99,M,0,0,0,0,buenyamin-balci
 basami,Mikail,Başar,2001-06-20,TUR,12,94,M,0,0,0,0,mikail-basar
 bilseg,Ege,Bilsel,2004-01-04,TUR,12,24,M,0,0,0,0,ege-bilsel
@@ -124,7 +130,6 @@ sinido,Doğukan,Sinik,1999-01-21,TUR,12,7,M,0,0,0,0,dogukan-sinik
 taskse,Sezer,Taşkolu,2000-05-16,TUR,12,92,M,0,0,0,0,sezer-taskolu
 amilam, ,Amilton,1989-08-12,BRA,12,23,A,0,0,0,0,amilton_2
 lescgb,Gustavo Blanco,Leschuk,1991-11-05,ARG,12,9,A,0,0,0,0,gustavo-blanco-leschuk
-buluta,Talha,Bulut,2001-04-28,TUR,12,52,A,0,0,0,0,talha-bulut_2
 fredal, ,Fredy,1990-03-27,ANG,12,16,A,0,0,0,0,fredy
 guemsi,Sinan,Gümüş,1994-01-15,GER,12,77,A,0,0,0,0,sinan-guemues
 jahoad,Adis,Jahović,1987-03-18,MAC,12,81,A,0,0,0,0,adis-jahovic
@@ -137,18 +142,23 @@ angedi,Diego,Ângelo,1986-02-12,BRA,12, , ,0,0,0,0,diego-angelo
 oezkse,Serdar,Özkan,1987-01-01,TUR,12, , ,0,0,0,0,serdar-oezkan
 dalage,Gelson,Dala,1996-07-13,ANG,12, , ,0,0,0,0,gelson-dala
 camdta,Tarık,Çamdal,1991-03-24,TUR,12, , ,0,0,0,0,tarik-camdal
+buluta,Talha,Bulut,2001-04-28,TUR,12, , ,0,0,0,0,talha-bulut_2
 kavaha,Harun,Kavaklıdere,1998-03-16,TUR,12, , ,0,0,0,0,harun-kavaklidere
 senxce,Cenk,Şen,2000-10-02,TUR,12, , ,0,0,0,0,cenk-sen
+acarm1,Mustafa,Acar,2001-02-22,TUR,12, , ,0,0,0,0,mustafa-acar_3
+nanxmu,Mustafa,İnan,2000-01-24,TUR,12, , ,0,0,0,0,mustafa-nan
+poyrse,Serdar,Poyraz,2004-06-17,TUR,12, , ,0,0,0,0,serdar-poyraz
+vainwi,William,Vainqueur,1988-11-19,FRA,12, , ,0,0,0,0,william-vainqueur
+yatase,Sergen,Yatağan,1999-05-17,TUR,12, , ,0,0,0,0,sergen-yatagan
 birner,Eray,Birniçan,1988-07-20,TUR,144,34,P,0,0,0,0,eray-birnican
 goence,Cenk,Gönen,1988-02-21,TUR,144,12,P,0,0,0,0,cenk-goenen
 marajo, ,Marafona,1987-05-28,POR,144,28,P,0,0,0,0,marafona
-uenais,Ismail,Ünal,1997-12-02,TUR,144,97,P,0,0,0,0,ismail-uenal
+uenais,İsmail,Ünal,1997-12-02,TUR,144,97,P,0,0,0,0,ismail-uenal
 baiawa, ,Baiano,1987-02-23,BRA,144,14,F,0,0,0,0,baiano_6
 caulst,Steven,Caulker,1991-12-29,ENG,144,44,F,0,0,0,0,steven-caulker
 goerlo,Lokman,Gör,1990-12-15,TUR,144,53,F,0,0,0,0,lokman-goer
 juanju, ,Juanfran,1988-09-11,SPA,144,24,F,0,0,0,0,juanfran_4
 nsakfa,Fabrice,N'Sakala,1990-07-21,DRC,144,21,F,0,0,0,0,fabrice-nsakala
-oezdha,Hamza,Özdemir,2001-05-15,TUR,144,82,F,0,0,0,0,hamza-oezdemir
 tzavgi,Giorgos,Tzavellas,1987-11-26,GRE,144,31,F,0,0,0,0,giorgos-tzavellas
 souzwe,Welinton,Souza,1989-04-10,BRA,144,23,F,0,0,0,0,welinton-souza
 altiem,Emircan,Altıntaş,1995-07-15,TUR,144,77,M,0,0,0,0,emircan-altintas
@@ -163,23 +173,35 @@ tuerue,Ümit,Türker,1998-03-07,TUR,144,25,M,0,0,0,0,uemit-tuerker
 ucansa,Salih,Uçan,1994-01-06,TUR,144,8,M,0,0,0,0,salih-ucan
 yakmka,Kazim,Yakmaz,2000-10-14,TUR,144,8,M,0,0,0,0,kazim-yakmaz
 bakaan,Anastasios,Bakasetas,1993-06-28,GRE,144,11,A,0,0,0,0,anastasios-bakasetas
-bammya,Yacine,Bammou,1991-09-11,MAR,144,99,A,0,0,0,0,yacine-bammou
 buluon,Onur,Bulut,1994-04-16,TUR,144,25,A,0,0,0,0,onur-bulut_2
 cisspd,Papiss Demba,Cissé,1985-06-03,SEN,144,9,A,0,0,0,0,papiss-demba-cisse
 djaldj, ,Djalma,1987-05-30,ANG,144,30,A,0,0,0,0,djalma
 fernju,Junior,Fernandes,1988-04-10,CHI,144,10,A,0,0,0,0,junior-fernandes
+merger,Erdinç,Mergen,2000-03-05,TUR,144,33,A,0,0,0,0,erdinc-mergen
 pektmu,Mustafa,Pektemek,1988-08-11,TUR,144,19,A,0,0,0,0,mustafa-pektemek
+bammya,Yacine,Bammou,1991-09-11,MAR,144, , ,0,0,0,0,yacine-bammou
 bingta,Tayfur,Bingöl,1993-01-11,TUR,144, , ,0,0,0,0,tayfur-bingoel
 ayarha,Hasan,Ayaroğlu,1995-03-22,TUR,144, , ,0,0,0,0,hasan-ayaroglu
+oezdha,Hamza,Özdemir,2001-05-15,TUR,144, , ,0,0,0,0,hamza-oezdemir
 uenave,Veysel,Ünal,2001-07-03,TUR,144, , ,0,0,0,0,veysel-uenal
 yalcta,Taha,Yalçıner,1987-01-12,TUR,144, , ,0,0,0,0,taha-yalciner
-yilmha,Haydar,Yilmaz,1984-01-19,TUR,144, , ,0,0,0,0,haydar-yilmaz
+yilmha,Haydar,Yılmaz,1984-01-19,TUR,144, , ,0,0,0,0,haydar-yilmaz
+akinre,Reşo,Akın,1996-10-01,TUR,144, , ,0,0,0,0,reso-akin
+bekiem,Emre,Bekir,1998-08-17,TUR,144, , ,0,0,0,0,emre-bekir
+bekief,Efkan,Bekiroglu,1995-09-14,TUR,144, , ,0,0,0,0,efkan-bekiroglu
+bulubu,Buluthan,Bulut,2002-07-21,TUR,144, , ,0,0,0,0,buluthan-bulut
+cakifi,Firat,Cakiroglu,1998-08-10,TUR,144, , ,0,0,0,0,firat-cakiroglu
+karay3,Yusuf,Karagöz,1999-10-05,TUR,144, , ,0,0,0,0,yusuf-karagoez
+oektra,Rauf,Öktem,1997-03-12,TUR,144, , ,0,0,0,0,rauf-oektem
+sevimu,Murat,Sevimler,1998-07-11,TUR,144, , ,0,0,0,0,murat-sevimler
+tursal,Alper,Tursun,1993-01-13,TUR,144, , ,0,0,0,0,alper-tursun
+yalch1,Hasan,Yalcintekin,1998-01-15,TUR,144, , ,0,0,0,0,hasan-yalcintekin
 alemdo,Doğan,Alemdar,2002-10-29,TUR,15,16,P,0,0,0,0,dogan-alemdar
 arikha,Hakan,Arıkan,1982-08-17,TUR,15,1,P,0,0,0,0,hakan-arikan
 cipesm,İsmail,Çipe,1995-01-05,TUR,15,95,P,0,0,0,0,smail-cipe
 scaner,Eray,İşcan,1991-07-19,TUR,15,67,P,0,0,0,0,eray-scan
 kirlnn,Nuh Naci,Kırlankıçoğlu,1997-01-01,TUR,15,67,P,0,0,0,0,nuh-naci-kirlankicoglu
-jrxxsl,Silviu Lung,jr.,1989-06-04,ROM,15,33,P,0,0,0,0,silviu-lung-jr
+jrxxsl,Silviu,Lung,1989-06-04,ROM,15,33,P,0,0,0,0,silviu-lung-jr
 tuncer,Eren,Tunç,2002-04-29,TUR,15,12,P,0,0,0,0,eren-tunc
 abdeay,Aymen,Abdennour,1989-08-06,TUN,15,5,F,0,0,0,0,aymen-abdennour
 ayhasi,Sinan,Ayhan,2002-03-25,TUR,15,55,F,0,0,0,0,sinan-ayhan_2
@@ -189,9 +211,7 @@ civera,Ramazan,Civelek,2000-01-05,TUR,15,2,F,0,0,0,0,ramazan-civelek_2
 coetos,Osman,Cötür,2001-09-13,TUR,15,78,F,0,0,0,0,osman-coetuer
 angedi,Diego,Ângelo,1986-02-12,BRA,15,86,F,0,0,0,0,diego-angelo
 djedbd,Brice Dja,Djedjé,1990-12-23,CIV,15,27,F,0,0,0,0,brice-dja-djedje
-dogaba,Baris,Dogan,2001-01-13,TUR,15,48,F,0,0,0,0,baris-dogan
-guelle,Levent,Gülen,1994-02-24,SUI,15,4,F,0,0,0,0,levent-guelen
-guerab,Abdullah,Gürbüz,2000-03-11,TUR,15,19,F,0,0,0,0,abdullah-guerbuez
+dogaba,Barış,Doğan,2001-01-13,TUR,15,48,F,0,0,0,0,baris-dogan
 kulame,Mert,Kula,1995-01-01,TUR,15,24,F,0,0,0,0,mert-kula
 memioe,Ömer,Memiş,2001-03-29,TUR,15,94,F,0,0,0,0,oemer-memis
 lopemi,Miguel,Lopes,1986-12-19,POR,15,13,F,0,0,0,0,miguel-lopes
@@ -200,7 +220,7 @@ spuncr,Cristian,Săpunaru,1984-04-05,ROM,15,84,F,0,0,0,0,cristian-spunaru
 subaka,Karahan,Subaşı,1996-01-01,TUR,15,32,F,0,0,0,0,karahan-subasi
 tasdem,Emre,Taşdemir,1995-08-08,TUR,15,3,F,0,0,0,0,emre-tasdemir
 acarha,Hasan,Acar,1994-12-16,TUR,15,8,M,0,0,0,0,hasan-acar
-aktaak,Aksel,Aktas,1999-07-15,TUR,15,20,M,0,0,0,0,aksel-aktas
+aktaak,Aksel,Aktaş,1999-07-15,TUR,15,20,M,0,0,0,0,aksel-aktas
 barlbo,Bora,Barlas,1998-03-22,NED,15,40,M,0,0,0,0,bora-barlas
 demiem,Emre,Demir,2004-01-15,TUR,15,14,M,0,0,0,0,emre-demir_5
 guemta,Taner,Gümüş,2001-04-26,TUR,15,45,M,0,0,0,0,taner-guemues
@@ -211,7 +231,7 @@ kiliah,Ahmet,Kılıç,2001-01-01,TUR,15,35,M,0,0,0,0,ahmet-kilic_2
 korknu,Nurettin,Korkmaz,2002-06-27,TUR,15,17,M,0,0,0,0,nurettin-korkmaz
 mensbe,Bernard,Mensah,1994-10-17,GHA,15,43,M,0,0,0,0,bernard-mensah_2
 oezbme,Mehmet,Özbek,2003-01-09,TUR,15,28,M,0,0,0,0,mehmet-oezbek
-rienbe, ,Ben Rienstra,1990-06-05,NED,15,38,M,0,0,0,0,ben-rienstra
+rienbe,Ben,Rienstra,1990-06-05,NED,15,38,M,0,0,0,0,ben-rienstra
 sahice,Cenk,Şahin,1994-09-22,TUR,15,70,M,0,0,0,0,cenk-sahin
 sahifu,Furkan,Şahin,2002-03-01,TUR,15,37,M,0,0,0,0,furkan-sahin
 uzodan,Anthony,Uzodimma,1999-04-17,NGR,15,90,M,0,0,0,0,anthony-uzodimma
@@ -232,13 +252,14 @@ cinasa,Samil,Çinaz,1986-03-08,GER,15, , ,0,0,0,0,samil-cinaz
 nteppg,Paul-Georges,Ntep,1992-07-29,FRA,15, , ,0,0,0,0,paul-georges-ntep
 turaat,Atila,Turan,1992-04-10,TUR,15, , ,0,0,0,0,atila-turan
 adryad, ,Adryan,1994-08-10,BRA,15, , ,0,0,0,0,adryan
+guelle,Levent,Gülen,1994-02-24,SUI,15, , ,0,0,0,0,levent-guelen
 aytasa,Sakıb,Aytaç,1991-11-24,TUR,15, , ,0,0,0,0,sakib-aytac
 cifcer,Ercan,Çifci,2000-09-23,TUR,15, , ,0,0,0,0,ercan-cifci
 dogaad,Adem,Doğan,2001-10-05,TUR,15, , ,0,0,0,0,adem-dogan
 aksimu,Murat,Aksit,2002-01-02,TUR,182,12,P,0,0,0,0,murat-aksit
-ceyluf,Ufuk,Ceylan,1986-06-23,TUR,182,35,P,0,0,0,0,ufuk-ceylan
 damlab,Abdulsamed,Damlu,1999-07-25,TUR,182,22,P,0,0,0,0,abdulsamed-damlu
 farnfa,Fabien,Farnolle,1984-09-21,BEN,182,30,P,0,0,0,0,fabien-farnolle
+salim1,Muhammed,Salik,2001-03-19,TUR,182,90,P,0,0,0,0,muhammed-salik
 akbamu,Mustafa,Akbaş,1990-05-30,TUR,182,15,F,0,0,0,0,mustafa-akbas
 aytasa,Sakıb,Aytaç,1991-11-24,TUR,182,91,F,0,0,0,0,sakib-aytac
 chebis,Issam,Chebake,1989-10-12,MAR,182,29,F,0,0,0,0,issam-chebake
@@ -247,11 +268,8 @@ guevyi,Yiğithan,Güveli,1998-05-16,TUR,182,53,F,0,0,0,0,yigithan-gueveli
 hadete,Teenage,Hadebe,1995-09-17,ZIM,182,16,F,0,0,0,0,teenage-hadebe
 hafeka,Karim,Hafez,1996-03-12,EGY,182,45,F,0,0,0,0,karim-hafez
 minaar,Arturo,Mina,1990-10-08,ECU,182,44,F,0,0,0,0,arturo-mina
-oezdoe,Özer,Özdemir,1998-02-05,TUR,182,76,F,0,0,0,0,oezer-oezdemir
 yasaer,Erşan,Yaşa,2000-10-14,TUR,182,50,F,0,0,0,0,ersan-yasa
 acquaf,Afriyie,Acquah,1992-01-05,GHA,182,19,M,0,0,0,0,afriyie-acquah
-beyase,Semih,Beyaz,1992-08-16,FRA,182,19,M,0,0,0,0,semih-beyaz
-chaagh,Ghaylène,Chaalali,1994-02-28,TUN,182,25,M,0,0,0,0,ghaylene-chaalali
 donami,Mitchell,Donald,1988-12-10,SUR,182,20,M,0,0,0,0,mitchell-donald
 guerfa,Fatih,Gürden,1999-01-20,TUR,182,14,M,0,0,0,0,fatih-guerden
 ildiah,Ahmed,Ildız,1996-11-29,TUR,182,14,M,0,0,0,0,ahmed-ildiz
@@ -262,20 +280,24 @@ kaynde,Dersim,Kaynak,1998-10-03,GER,182,29,M,0,0,0,0,dersim-kaynak
 ndayyo,Youssouf,Ndayishimiye,1998-10-27,BDI,182,55,M,0,0,0,0,youssouf-ndayishimiye
 toergo,Gökhan,Töre,1992-01-20,TUR,182,7,M,0,0,0,0,goekhan-toere
 waltre,Rémi,Walter,1995-04-26,FRA,182,54,M,0,0,0,0,remi-walter
-yalcro,Robin,Yalcin,1994-01-25,GER,182,6,M,0,0,0,0,robin-yalcin
+yalcro,Robin,Yalçın,1994-01-25,GER,182,6,M,0,0,0,0,robin-yalcin
 yigime,Mehmet,Yiğit,2001-04-18,TUR,182,52,M,0,0,0,0,mehmet-yigit_3
 yildm1,Murat,Yıldırım,1987-05-18,TUR,182,8,M,0,0,0,0,murat-yildirim
 alkaya,Yakup,Alkan,1992-03-03,TUR,182,99,A,0,0,0,0,yakup-alkan
 barmmu,Muhammed,Barman,2000-05-25,TUR,182,51,A,0,0,0,0,muhammed-barman
 bifoth,Thievy,Bifouma,1992-05-13,CGO,182,10,A,0,0,0,0,thievy-bifouma
 buluum,Umut,Bulut,1983-03-15,TUR,182,9,A,0,0,0,0,umut-bulut
-diaxis,Issiar,Dia,1987-06-08,FRA,182,87,A,0,0,0,0,issiar-dia
 fofamo,Moryké,Fofana,1991-11-23,CIV,182,21,A,0,0,0,0,moryke-fofana
 kjarvi,Viðar,Kjartansson,1990-03-11,ISL,182,24,A,0,0,0,0,vidar-kjartansson
 tozler,Eren,Tozlu,1990-12-27,TUR,182,11,A,0,0,0,0,eren-tozlu
 guilgu, ,Guilherme,1991-05-21,BRA,182, , ,0,0,0,0,guilherme_6
 jahoad,Adis,Jahović,1987-03-18,MAC,182, , ,0,0,0,0,adis-jahovic
+chaagh,Ghaylène,Chaalali,1994-02-28,TUN,182, , ,0,0,0,0,ghaylene-chaalali
+oezdoe,Özer,Özdemir,1998-02-05,TUR,182, , ,0,0,0,0,oezer-oezdemir
 cagibu,Buğra,Çağıran,1995-01-01,TUR,182, , ,0,0,0,0,bugra-cagiran
+ceyluf,Ufuk,Ceylan,1986-06-23,TUR,182, , ,0,0,0,0,ufuk-ceylan
+aydinu,Nuri,Aydın,1995-01-01,TUR,182, , ,0,0,0,0,nuri-aydin
+seleem,Emre,Selen,1994-08-15,TUR,182, , ,0,0,0,0,emre-selen
 bayial,Altay,Bayındır,1998-04-14,TUR,1,98,P,0,0,0,0,altay-bayindir
 cetios,Osman,Çetin,2003-04-21,TUR,1,70,P,0,0,0,0,osman-cetin
 ersuer,Erten,Ersu,1994-04-21,TUR,1,54,P,0,0,0,0,erten-ersu
@@ -283,6 +305,7 @@ oezda1,Ahmet,Özdoğan,1998-06-16,TUR,1,13,P,0,0,0,0,ahmet-oezdogan
 tekiha,Harun,Tekin,1989-06-17,TUR,1,35,P,0,0,0,0,harun-tekin
 alptce,Cenk,Alptekin,2001-01-12,TUR,1,39,F,0,0,0,0,cenk-alptekin
 azizse,Serdar,Aziz,1990-10-23,TUR,1,15,F,0,0,0,0,serdar-aziz
+baskgu,Gürkan,Başkan,2002-04-01,TUR,1,75,F,0,0,0,0,guerkan-baskan
 cakimu,Muhammet,Çakı,2000-01-14,TUR,1,41,F,0,0,0,0,muhammet-caki
 ciftsa,Sadık,Çiftpinar,1993-01-01,TUR,1,18,F,0,0,0,0,sadik-ciftpinar
 dirana,Nabil,Dirar,1986-02-25,MAR,1,17,F,0,0,0,0,nabil-dirar
@@ -293,7 +316,6 @@ beloem,Emre,Belözoğlu,1980-09-07,TUR,1,5,M,0,0,0,0,emre-beloezoglu
 beyaoe,Ömer,Beyaz,2003-08-29,TUR,1,30,M,0,0,0,0,oemer-beyaz
 cigeto,Tolga,Ciğerci,1992-03-23,TUR,1,14,M,0,0,0,0,tolga-cigerci
 ekicme,Mehmet,Ekici,1990-03-25,TUR,1,8,M,0,0,0,0,mehmet-ekici
-islama,Mauricio,Isla,1988-06-12,CHI,1,4,M,0,0,0,0,mauricio-isla
 jailja, ,Jailson,1995-09-07,BRA,1,25,M,0,0,0,0,jailson_3
 kadife,Ferdi,Kadıoğlu,1999-10-07,NED,1,16,M,0,0,0,0,ferdi-kadioglu
 gustlu,Luiz,Gustavo,1987-07-23,BRA,1,20,M,0,0,0,0,luiz-gustavo
@@ -305,14 +327,22 @@ tuerde,Deniz,Türüç,1993-01-29,TUR,1,23,M,0,0,0,0,deniz-tueruec
 zajcmi,Miha,Zajc,1994-07-01,SLO,1,21,M,0,0,0,0,miha-zajc
 erdime,Mevlüt,Erdinç,1987-02-25,TUR,1,9,A,0,0,0,0,mevluet-erdinc
 guemmu,Muhammed,Gümüşkaya,2001-01-01,TUR,1,52,A,0,0,0,0,muhammed-guemueskaya
-krusma,Max,Kruse,1988-03-19,GER,1,10,A,0,0,0,0,max-kruse
 murive,Vedat,Muriqi,1994-04-24,KOS,1,94,A,0,0,0,0,vedat-muriqi
 sayyal,Allahyar,Sayyadmanesh,2001-06-29,IRN,1,19,A,0,0,0,0,allahyar-sayyadmanesh
+krusma,Max,Kruse,1988-03-19,GER,1, , ,0,0,0,0,max-kruse
+islama,Mauricio,Isla,1988-06-12,CHI,1, , ,0,0,0,0,mauricio-isla
 zankma, ,Zanka,1990-04-23,DEN,1, , ,0,0,0,0,zanka
 mosevi,Victor,Moses,1990-12-12,NGR,1, , ,0,0,0,0,victor-moses
 ramiad,Adil,Rami,1985-12-27,FRA,1, , ,0,0,0,0,adil-rami
 akbuab,Abdulcebrail,Akbulut,2001-10-15,TUR,1, , ,0,0,0,0,abdulcebrail-akbulut
 yigiab,Abdullah,Yiğiter,2000-02-20,TUR,1, , ,0,0,0,0,abdullah-yigiter
+alicba,Barış,Alıcı,1997-06-24,TUR,1, , ,0,0,0,0,baris-alici
+freymi,Michael,Frey,1994-07-19,SUI,1, , ,0,0,0,0,michael-frey
+koekem,Emre,Köksal,2001-10-18,TUR,1, , ,0,0,0,0,emre-koeksal_4
+nasuem,Emre,Nasuh,2001-01-01,TUR,1, , ,0,0,0,0,emre-nasuh
+oezebe,Berke,Özer,2000-05-25,TUR,1, , ,0,0,0,0,berke-oezer
+turpok,Okan,Turp,2000-08-27,GER,1, , ,0,0,0,0,okan-turp
+yilmba,Batuhan,Yılmaz,1999-01-01,TUR,1, , ,0,0,0,0,batuhan-yilmaz
 bakime,Mehmet,Bakırbaş,1996-06-01,TUR,27,1,P,0,0,0,0,mehmet-bakirbas
 betoan, ,Beto,1982-05-01,POR,27,13,P,0,0,0,0,beto_2
 bileer,Eren,Bilen,2000-12-02,TUR,27,24,P,0,0,0,0,eren-bilen
@@ -321,7 +351,6 @@ emirbe,Berkan,Emir,1988-02-06,TUR,27,41,F,0,0,0,0,berkan-emir
 gassla,Lamine,Gassama,1989-10-20,SEN,27,20,F,0,0,0,0,lamine-gassama
 nukaat,Atınç,Nukan,1993-07-20,TUR,27,33,F,0,0,0,0,atinc-nukan
 palumu,Murat,Paluli,1994-08-09,TUR,27,77,F,0,0,0,0,murat-paluli
-schwle,Léo,Schwechlen,1989-06-05,FRA,27,55,F,0,0,0,0,leo-schwechlen
 titicr, ,Titi,1988-03-12,BRA,27,4,F,0,0,0,0,titi
 reiswa,Wallace,Reis,1987-12-26,BRA,27,25,F,0,0,0,0,wallace-reis
 akbuha,Halil,Akbunar,1993-10-09,TUR,27,7,M,0,0,0,0,halil-akbunar
@@ -336,7 +365,7 @@ kesgke,Kerem,Kesgin,2000-11-05,TUR,27,15,M,0,0,0,0,kerem-kesgin
 mossma,Márcio,Mossoró,1983-07-04,BRA,27,10,M,0,0,0,0,marcio-mossoro
 oeztal,Alpaslan,Öztürk,1993-07-16,TUR,27,5,M,0,0,0,0,alpaslan-oeztuerk
 sepier,Erol,Sepil,1999-03-15,TUR,27,99,M,0,0,0,0,erol-sepil
-yildme,Metin,Yildirim,2000-02-25,TUR,27,28,M,0,0,0,0,metin-yildirim
+yildme,Metin,Yıldırım,2000-02-25,TUR,27,28,M,0,0,0,0,metin-yildirim
 buluhu,Hüseyin,Bulut,1999-03-29,TUR,27,19,A,0,0,0,0,hueseyin-bulut_3
 jeroca,Cameron,Jerome,1986-08-14,ENG,27,32,A,0,0,0,0,cameron-jerome
 kadade,Deniz,Kadah,1986-03-02,TUR,27,63,A,0,0,0,0,deniz-kadah
@@ -345,19 +374,21 @@ oezkeg,Ege,Özkayımoğlu,2001-07-18,TUR,27,18,A,0,0,0,0,ege-oezkayimoglu
 tripzl,Zlatko,Tripić,1992-12-02,NOR,27,27,A,0,0,0,0,zlatko-tripic
 wilcka,Kamil,Wilczek,1988-01-14,POL,27,21,A,0,0,0,0,kamil-wilczek
 oeztya,Yasin,Öztekin,1987-03-19,TUR,27, , ,0,0,0,0,yasin-oeztekin
+schwle,Léo,Schwechlen,1989-06-05,FRA,27, , ,0,0,0,0,leo-schwechlen
 derder,Eren,Derdiyok,1988-06-12,SUI,27, , ,0,0,0,0,eren-derdiyok
 sannbu,Bubacarr,Sanneh,1994-11-14,GAM,27, , ,0,0,0,0,bubacarr-sanneh
 kirdba,Batuhan,Kırdaroğlu,2000-09-10,TUR,27, , ,0,0,0,0,batuhan-kirdaroglu
 cetive,Veli,Çetin,1994-11-01,TUR,27, , ,0,0,0,0,veli-cetin
 cineha,Hakan,Çinemre,1994-02-14,TUR,27, , ,0,0,0,0,hakan-cinemre
 taluyu,Yusuf,Talum,2001-12-01,TUR,27, , ,0,0,0,0,yusuf-talum
+binief,Efe,Binici,2001-02-04,TUR,27, , ,0,0,0,0,efe-binici
+esergo,Gökay,Eser,1999-08-01,TUR,27, , ,0,0,0,0,goekay-eser
 akkago,Gökhan,Akkan,1995-01-01,TUR,29,23,P,0,0,0,0,goekhan-akkan
 cetita,Tarik,Çetin,1997-01-08,TUR,29,13,P,0,0,0,0,tarik-cetin
 goerza,Zafer,Görgen,2000-06-21,TUR,29,30,P,0,0,0,0,zafer-goergen
 kazmbo,Boğaçhan,Kazmaz,2001-01-20,TUR,29,95,P,0,0,0,0,bogachan-kazmaz
 abermo,Mohamed,Aberhoune,1989-05-03,MAR,29,3,F,0,0,0,0,mohamed-aberhoune
 albabu,Burak,Albayrak,1998-01-12,TUR,29,28,F,0,0,0,0,burak-albayrak
-dorufa,Faruk,Doruklu,1998-02-11,TUR,29,39,F,0,0,0,0,faruk-doruklu
 ferniv, ,Fernandes,1996-03-26,POR,29,64,F,0,0,0,0,fernandes_7
 kocxal,Alberk,Koç,1997-02-15,TUR,29,35,F,0,0,0,0,alberk-koc
 melnda,Dario,Melnjak,1992-10-31,CRO,29,53,F,0,0,0,0,dario-melnjak
@@ -366,7 +397,6 @@ sandbe,Berkay,Sandikci,2000-08-04,TUR,29,92,F,0,0,0,0,berkay-sandikci
 talbmo,Montassar,Talbi,1998-05-26,TUN,29,4,F,0,0,0,0,montassar-talbi
 akkaat,Atakan,Akkaynak,1999-01-05,GER,29,8,M,0,0,0,0,atakan-akkaynak
 celimu,Muhammet,Çelik,1998-10-04,TUR,29,97,M,0,0,0,0,muhammet-celik
-delibe,Berat,Delihasan,1998-12-12,TUR,29,99,M,0,0,0,0,berat-delihasan
 diomis,Ismaël,Diomandé,1992-08-28,CIV,29,27,M,0,0,0,0,ismael-diomande
 duraab,Abdullah,Durak,1987-04-01,TUR,29,5,M,0,0,0,0,abdullah-durak
 garmde,Denys,Garmash,1990-04-19,UKR,29,20,M,0,0,0,0,denys-garmash
@@ -377,20 +407,26 @@ umaram,Aminu,Umar,1995-03-06,NGR,29,19,M,0,0,0,0,aminu-umar
 vetram,Amedej,Vetrih,1990-09-16,SLO,29,44,M,0,0,0,0,amedej-vetrih
 sassya,Yan,Sasse,1997-06-24,BRA,29,70,M,0,0,0,0,yan-sasse
 boryan,Andriy,Boryachuk,1996-04-23,UKR,29,96,A,0,0,0,0,andriy-boryachuk
-caglog,Oğulcan,Cağlayan,1996-03-22,TUR,29,17,A,0,0,0,0,ogulcan-caglayan
 samubr,Braian,Samudio,1995-12-23,PAR,29,18,A,0,0,0,0,braian-samudio
-scepma,Marko,Šćepović,1991-05-23,SRB,29,9,A,0,0,0,0,marko-scepovic
 skodmi,Milan,Škoda,1986-01-16,CZE,29,21,A,0,0,0,0,milan-skoda
 torutu,Tunay,Torun,1990-04-21,TUR,29,29,A,0,0,0,0,tunay-torun
+caglog,Oğulcan,Cağlayan,1996-03-22,TUR,29, , ,0,0,0,0,ogulcan-caglayan
 attajo,Joseph,Attamah,1994-05-22,GHA,29, , ,0,0,0,0,joseph-attamah
+scepma,Marko,Šćepović,1991-05-23,SRB,29, , ,0,0,0,0,marko-scepovic
 chatdi,Dimitrios,Chatziisaias,1992-09-21,GRE,29, , ,0,0,0,0,dimitrios-chatziisaias
 alicba,Barış,Alıcı,1997-06-24,TUR,29, , ,0,0,0,0,baris-alici
 pauwnd,Nill,De Pauw,1990-01-06,BEL,29, , ,0,0,0,0,nill-de-pauw
 kabime,Mostafa,El Kabir,1988-10-05,MAR,29, , ,0,0,0,0,mostafa-el-kabir
 aceryu,Yusuf,Acer,1997-01-28,TUR,29, , ,0,0,0,0,yusuf-acer
-topcem,Emir,Topçu,2000-10-11,TUR,29, , ,0,0,0,0,emir-topcu
+topce1,Emirhan,Topçu,2000-10-11,TUR,29, , ,0,0,0,0,emirhan-topcu
+capkma,Mahsun,Çapkan,1999-10-08,TUR,29, , ,0,0,0,0,mahsun-capkan
+hervgu,Gürkan,Hervenik,1998-07-14,TUR,29, , ,0,0,0,0,guerkan-hervenik
+karaer,Eren,Karadağ,2000-01-01,TUR,29, , ,0,0,0,0,eren-karadag
+malcog,Oğuzhan,Malcı,1996-04-14,TUR,29, , ,0,0,0,0,oguzhan-malci
+palami,Mithat,Pala,2000-08-15,TUR,29, , ,0,0,0,0,mithat-pala
+tarhci,Çınar,Tarhan,1997-05-20,TUR,29, , ,0,0,0,0,cinar-tarhan
+yazisi,Sinan,Yazıcı,1997-08-14,TUR,29, , ,0,0,0,0,sinan-yazici
 dester,Ersin,Destanoğlu,2001-01-01,TUR,2,30,P,0,0,0,0,ersin-destanoglu
-karilo,Loris,Karius,1993-06-22,GER,2,1,P,0,0,0,0,loris-karius
 oezkdo,Doğukan,Özkan,2000-02-04,TUR,2,53,P,0,0,0,0,dogukan-oezkan
 yuvaut,Utku,Yuvakuran,1997-11-02,TUR,2,97,P,0,0,0,0,utku-yuvakuran
 dougdo, ,Douglas,1990-08-06,BRA,2,5,F,0,0,0,0,douglas_12
@@ -398,7 +434,6 @@ erkica,Caner,Erkin,1988-10-04,TUR,2,88,F,0,0,0,0,caner-erkin
 goengo,Gökhan,Gönül,1985-01-04,TUR,2,77,F,0,0,0,0,goekhan-goenuel
 kalake,Kerem,Kalafat,2001-03-09,TUR,2,34,F,0,0,0,0,kerem-kalafat
 kayaer,Erdoğan,Kaya,2001-03-27,TUR,2,12,F,0,0,0,0,erdogan-kaya
-rebope, ,Rebocho,1995-01-23,POR,2,23,F,0,0,0,0,rebocho
 rocoen,Enzo,Roco,1992-08-16,CHI,2,3,F,0,0,0,0,enzo-roco
 ruizvi,Víctor,Ruiz,1989-01-25,SPA,2,4,F,0,0,0,0,victor-ruiz_2
 vidado,Domagoj,Vida,1989-04-29,CRO,2,24,F,0,0,0,0,domagoj-vida
@@ -407,7 +442,7 @@ acikme,Mertcan,Açıkgöz,1999-11-18,TUR,2,37,M,0,0,0,0,mertcan-acikgoez
 boatkp,Kevin-Prince,Boateng,1987-03-06,GHA,2,99,M,0,0,0,0,kevin-prince-boateng
 elnemo,Mohamed,Elneny,1992-07-11,EGY,2,15,M,0,0,0,0,mohamed-elneny
 hutcat,Atiba,Hutchinson,1983-02-08,CAN,2,13,M,0,0,0,0,atiba-hutchinson
-isleil,Ilkay,Işler,2001-03-23,TUR,2,28,M,0,0,0,0,ilkay-isler
+isleil,Ilkay,İşler,2001-03-23,TUR,2,28,M,0,0,0,0,ilkay-isler
 tokodo,Dorukhan,Toköz,1996-05-21,TUR,2,26,M,0,0,0,0,dorukhan-tokoez
 toruha,Hazar,Torunoğulları,1999-12-02,TUR,2,26,M,0,0,0,0,hazar-torunogullari
 uysane,Necip,Uysal,1991-01-24,TUR,2,20,M,0,0,0,0,necip-uysal
@@ -421,12 +456,17 @@ nkougk,Georges-Kévin,N'Koudou,1995-02-13,FRA,2,19,A,0,0,0,0,georges-kevin-nkoud
 nayime,Mehmet,Nayir,1993-06-28,TUR,2,8,A,0,0,0,0,mehmet-nayir_2
 yalcgu,Güven,Yalçın,1999-01-18,TUR,2,9,A,0,0,0,0,gueven-yalcin
 yilmbu,Burak,Yılmaz,1985-07-15,TUR,2,17,A,0,0,0,0,burak-yilmaz
+karilo,Loris,Karius,1993-06-22,GER,2, , ,0,0,0,0,loris-karius
 oezyog,Oğuzhan,Özyakup,1992-09-23,TUR,2, , ,0,0,0,0,oguzhan-oezyakup
+rebope, ,Rebocho,1995-01-23,POR,2, , ,0,0,0,0,rebocho
 cinaor,Orkan,Çınar,1996-01-29,TUR,2, , ,0,0,0,0,orkan-cinar
 medega,Gary,Medel,1987-08-03,CHI,2, , ,0,0,0,0,gary-medel
 oktamu,Muhayer,Oktay,1999-04-28,TUR,2, , ,0,0,0,0,muhayer-oktay
 quarri,Ricardo,Quaresma,1983-09-26,POR,2, , ,0,0,0,0,ricardo-quaresma
 secger,Erdem,Seçgin,2000-01-05,TUR,2, , ,0,0,0,0,erdem-secgin
+celeal,Alpay,Çelebi,1999-04-04,TUR,2, , ,0,0,0,0,alpay-celebi
+mirini,Nicolas,Isimat-Mirin,1991-11-15,FRA,2, , ,0,0,0,0,nicolas-isimat-mirin
+laricy,Cyle,Larin,1995-04-17,CAN,2, , ,0,0,0,0,cyle-larin
 atalmu,Mücahit,Atalay,1991-10-26,TUR,35,61,P,0,0,0,0,muecahit-atalay
 kirise,Serkan,Kırıntılı,1985-02-15,TUR,35,1,P,0,0,0,0,serkan-kirintili
 orucoz,Ozan,Oruç,2000-05-26,TUR,35,35,P,0,0,0,0,ozan-oruc
@@ -441,8 +481,6 @@ joenje,Jens,Jønsson,1993-01-10,DEN,35,6,F,0,0,0,0,jens-joensson
 oeztfe,Ferhat,Öztorun,1987-05-08,TUR,35,87,F,0,0,0,0,ferhat-oeztorun
 skubne,Nejc,Skubic,1989-06-13,SLO,35,89,F,0,0,0,0,nejc-skubic
 turaal,Ali,Turan,1983-09-06,TUR,35,4,F,0,0,0,0,ali-turan
-yegese,Sertan,Yegenoglu,1995-01-04,TUR,35,23,F,0,0,0,0,sertan-yegenoglu
-zutale,Leonard,Zuta,1992-08-09,MAC,35,23,F,0,0,0,0,leonard-zuta
 hadzam,Amir,Hadžiahmetović,1997-03-08,BOS,35,18,M,0,0,0,0,amir-hadziahmetovic
 jevtma,Marko,Jevtović,1993-07-24,SRB,35,8,M,0,0,0,0,marko-jevtovic
 karaal,Ali,Karakaya,2002-01-01,TUR,35,32,M,0,0,0,0,ali-karakaya_2
@@ -455,14 +493,21 @@ uludal,Alper,Uludağ,1990-12-11,TUR,35,25,M,0,0,0,0,alper-uludag
 bajiri,Rijad,Bajić,1994-05-06,BOS,35,10,A,0,0,0,0,rijad-bajic
 dacier,Erdon,Daci,1998-07-04,MAC,35,88,A,0,0,0,0,erdon-daci
 hurtpa,Paolo,Hurtado,1990-07-27,PER,35,16,A,0,0,0,0,paolo-hurtado
-makxro,Róbert,Mak,1991-03-08,SVK,35,29,A,0,0,0,0,robert-mak
 thurro, ,Thuram,1991-02-01,BRA,35,99,A,0,0,0,0,thuram_2
 akcamu,Mücahit,Akçay,1998-04-13,TUR,35, , ,0,0,0,0,muecahit-akcay
+makxro,Róbert,Mak,1991-03-08,SVK,35, , ,0,0,0,0,robert-mak
 yasaal,Ali,Yaşar,1995-03-08,BEL,35, , ,0,0,0,0,ali-yasar
 camdal,Ali,Çamdalı,1984-02-22,TUR,35, , ,0,0,0,0,ali-camdali
 filipe,Petar,Filipović,1990-09-14,CRO,35, , ,0,0,0,0,petar-filipovic
 opanev,Evgeniy,Opanasenko,1990-08-25,UKR,35, , ,0,0,0,0,evgeniy-opanasenko
 polasa,Savaş,Polat,1997-04-14,TUR,35, , ,0,0,0,0,savas-polat
+zutale,Leonard,Zuta,1992-08-09,MAC,35, , ,0,0,0,0,leonard-zuta
+dikime,Mert,Dikici,2000-11-07,TUR,35, , ,0,0,0,0,mert-dikici
+karas1,Seddar,Karaman,1994-01-03,TUR,35, , ,0,0,0,0,seddar-karaman
+oezdka,Kadir,Özdemir,1998-03-01,TUR,35, , ,0,0,0,0,kadir-oezdemir_2
+taskma,Maksut,Taskiran,1995-02-15,TUR,35, , ,0,0,0,0,maksut-taskiran
+tuefhu,Hüseyin,Tüfekci,2000-01-17,TUR,35, , ,0,0,0,0,hueseyin-tuefekci
+uyanhu,Hüseyin,Uyanıker,2000-05-19,TUR,35, , ,0,0,0,0,hueseyin-uyaniker
 babavo,Volkan,Babacan,1988-08-11,TUR,39,1,P,0,0,0,0,volkan-babacan
 guenme,Mert,Günok,1989-03-01,TUR,39,34,P,0,0,0,0,mert-guenok
 kivaas,Ahmet Said,Kivanç,1998-04-29,TUR,39,13,P,0,0,0,0,ahmet-said-kivanc
@@ -480,7 +525,6 @@ ucarug,Uğur,Uçar,1987-04-05,TUR,39,33,F,0,0,0,0,ugur-ucar
 vurame,Mert,Vurak,1998-07-30,TUR,39,33,F,0,0,0,0,mert-vurak
 azubok,Okechukwu,Azubuike,1997-04-19,NGR,39,44,M,0,0,0,0,okechukwu-azubuike
 celiab,Abdulkadir,Çelik,2001-01-05,TUR,39,63,M,0,0,0,0,abdulkadir-celik
-farssa,Salim,Farsak,1998-06-10,TUR,39,91,M,0,0,0,0,salim-farsak
 inlego,Gökhan,Inler,1984-06-27,SUI,39,88,M,0,0,0,0,goekhan-inler
 kahvrf,İrfan,Kahveci,1995-07-15,TUR,39,17,M,0,0,0,0,rfan-kahveci
 oezcbe,Berkay,Özcan,1998-02-15,TUR,39,41,M,0,0,0,0,berkay-oezcan
@@ -504,6 +548,13 @@ mossma,Márcio,Mossoró,1983-07-04,BRA,39, , ,0,0,0,0,marcio-mossoro
 vieimi,Miguel,Vieira,1990-10-08,POR,39, , ,0,0,0,0,miguel-vieira
 soyafu,Furkan,Soyalp,1995-06-12,TUR,39, , ,0,0,0,0,furkan-soyalp
 demimu,Muhammed,Demir,1992-01-10,TUR,39, , ,0,0,0,0,muhammed-demir
+avciyu,Yusuf,Avcilar,1999-02-21,TUR,39, , ,0,0,0,0,yusuf-avcilar
+ciceat,Atabey,Çiçek,1995-07-24,TUR,39, , ,0,0,0,0,atabey-cicek
+guenon,Onur,Güney,2000-01-01,TUR,39, , ,0,0,0,0,onur-gueney_2
+jojimi,Miloš,Jojić,1992-03-19,SRB,39, , ,0,0,0,0,milos-jojic
+kahrmu,Muzaffer,Kahriman,2000-02-25,TUR,39, , ,0,0,0,0,muzaffer-kahriman
+kilido,Doğanay,Kılıç,1996-06-08,TUR,39, , ,0,0,0,0,doganay-kilic
+nebien,Engin,Nebioğlu,1997-08-10,TUR,39, , ,0,0,0,0,engin-nebioglu
 akbuar,Arda,Akbulut,2001-01-01,TUR,3,13,P,0,0,0,0,arda-akbulut
 cakiug,Uğurcan,Çakir,1996-04-05,TUR,3,1,P,0,0,0,0,ugurcan-cakir
 karder,Erce,Kardeşler,1994-03-14,TUR,3,16,P,0,0,0,0,erce-kardesler
@@ -531,7 +582,7 @@ oemuab,Abdülkadir,Ömür,1999-06-25,TUR,3,10,M,0,0,0,0,abduelkadir-oemuer
 parmab,Abdülkadir,Parmak,1994-12-28,TUR,3,61,M,0,0,0,0,abduelkadir-parmak
 sosajo,José,Sosa,1985-06-19,ARG,3,8,M,0,0,0,0,jose-sosa
 tosuca,Cafer,Tosun,1999-11-20,TUR,3,41,M,0,0,0,0,cafer-tosun
-tuncta,Taha,Tunc,2001-03-20,TUR,3,54,M,0,0,0,0,taha-tunc
+tuncta,Taha,Tunç,2001-03-20,TUR,3,54,M,0,0,0,0,taha-tunc
 akpim1,Muhammet,Akpınar,2002-02-06,TUR,3,99,A,0,0,0,0,muhammet-akpinar
 basabi,Bilal,Başaçıkoğlu,1995-03-26,TUR,3,45,A,0,0,0,0,bilal-basacikoglu
 ekubca,Caleb,Ekuban,1994-03-23,GHA,3,18,A,0,0,0,0,caleb-ekuban
@@ -547,6 +598,16 @@ avdido,Donis,Avdijaj,1996-08-25,KOS,3, , ,0,0,0,0,donis-avdijaj
 ferniv, ,Fernandes,1996-03-26,POR,3, , ,0,0,0,0,fernandes_7
 uezufi,Firatcan,Üzüm,1999-06-04,TUR,3, , ,0,0,0,0,firatcan-uezuem
 onazog,Ogenyi,Onazi,1992-12-25,NGR,3, , ,0,0,0,0,ogenyi-onazi
+bulut1,Talha,Bulut,1999-08-15,TUR,3, , ,0,0,0,0,talha-bulut
+cakiyu,Yunus,Çakır,1997-01-12,TUR,3, , ,0,0,0,0,yunus-cakir
+iexxed,Edgar,Ié,1994-05-01,POR,3, , ,0,0,0,0,edgar-ie
+erenah,Ahmet,Eren,1997-01-13,TUR,3, , ,0,0,0,0,ahmet-eren
+irkise,Sertan,Irkilmez,2000-03-22,TUR,3, , ,0,0,0,0,sertan-irkilmez
+karabe,Berkay,Kara,1999-03-27,TUR,3, , ,0,0,0,0,berkay-kara
+karai1,Ismayil,Karakash,1999-01-08,TUR,3, , ,0,0,0,0,ismayil-karakash
+kurtme,Mert,Kurt,1998-02-12,TUR,3, , ,0,0,0,0,mert-kurt
+oezksa,Sami,Özkan,1999-01-28,TUR,3, , ,0,0,0,0,sami-oezkan
+temibu,Burak,Temir,2000-02-09,TUR,3, , ,0,0,0,0,burak-temir
 samama,Mamadou,Samassa,1990-02-16,MLI,41,30,P,0,0,0,0,mamadou-samassa
 tuncmu,Muhammet,Tuncer,2000-01-16,AZE,41,81,P,0,0,0,0,muhammet-tuncer
 vuraal,Ali,Vural,1990-07-10,TUR,41,29,P,0,0,0,0,ali-vural_2
@@ -570,24 +631,22 @@ kiliem,Emre,Kılınç,1994-08-23,TUR,41,54,M,0,0,0,0,emre-kilinc
 oeztya,Yasin,Öztekin,1987-03-19,TUR,41,19,M,0,0,0,0,yasin-oeztekin
 rybase,Serhiy,Rybalka,1990-04-01,UKR,41,17,M,0,0,0,0,serhiy-rybalka
 sagmfu,Furkan,Sagman,2000-01-07,GER,41,23,M,0,0,0,0,furkan-sagman
-sarise,Serkan,Sarıkaya,1999-08-05,TUR,41,71,M,0,0,0,0,serkan-sarikaya
-yamaos,Osman,Yaman,1999-09-07,TUR,41,71,M,0,0,0,0,osman-yaman_2
+yamaos,Osman,Yaman,1999-09-07,TUR,41,23,M,0,0,0,0,osman-yaman_2
 yandmh,Mert Hakan,Yandaş,1994-08-19,TUR,41,8,M,0,0,0,0,mert-hakan-yandas
 yesier,Erdoğan,Yeşilyurt,1993-11-06,TUR,41,11,M,0,0,0,0,erdogan-yesilyurt
 andrfe,Fernando,Andrade,1993-01-08,BRA,41,7,A,0,0,0,0,fernando-andrade
 konear,Arouna,Koné,1983-11-11,CIV,41,2,A,0,0,0,0,arouna-kone
-oezvmu,Muhammet,Özvardar,1998-06-01,TUR,41,35,A,0,0,0,0,muhammet-oezvardar
 skulpe,Petar,Škuletić,1990-06-29,SRB,41,32,A,0,0,0,0,petar-skuletic
 yatamu,Mustapha,Yatabaré,1986-01-26,MLI,41,9,A,0,0,0,0,mustapha-yatabare
 traoab,Abdou,Traoré,1988-12-28,BFS,41, , ,0,0,0,0,abdou-traore_3
 egrivo,Volkan,Egri,1998-04-02,TUR,41, , ,0,0,0,0,volkan-egri
 vieihu,Hugo,Vieira,1988-07-25,POR,41, , ,0,0,0,0,hugo-vieira
-capkbu,Burak,Capkinoglu,1994-02-25,TUR,4,95,P,0,0,0,0,burak-capkinoglu
+ayinoe,Ömerhan,Ayın,1997-01-03,TUR,41, , ,0,0,0,0,oemerhan-ayin
+capkbu,Burak,Capkinoğlu,1994-02-25,TUR,4,95,P,0,0,0,0,burak-capkinoglu
 dialab,Abdoulaye,Diallo,1992-03-30,SEN,4,27,P,0,0,0,0,abdoulaye-diallo_2
 nordkr,Kristoffer,Nordfeldt,1989-06-23,SWE,4,89,P,0,0,0,0,kristoffer-nordfeldt
 oezber,Ertaç,Özbir,1989-10-25,TUR,4,25,P,0,0,0,0,ertac-oezbir
 varoah,Ahmet,Varol,2001-02-11,TUR,4,12,P,0,0,0,0,ahmet-varol
-bjaema,Mattias,Bjärsmyr,1986-01-03,SWE,4,4,F,0,0,0,0,mattias-bjaersmyr
 flavfl, ,Flávio,1994-05-12,BRA,4,32,F,0,0,0,0,flavio_13
 kiziar,Arda,Kizildag,1998-10-15,TUR,4,24,F,0,0,0,0,arda-kizildag
 oezger,Erdem,Özgenç,1984-08-22,TUR,4,22,F,0,0,0,0,erdem-oezgenc
@@ -606,7 +665,7 @@ oguzah,Ahmet,Oğuz,1993-01-16,TUR,4,2,M,0,0,0,0,ahmet-oguz
 oezdba,Berat Ayberk,Özdemir,1998-05-23,TUR,4,5,M,0,0,0,0,berat-ayberk-oezdemir
 pehlya,Yasin,Pehlivan,1989-01-05,AUT,4,6,M,0,0,0,0,yasin-pehlivan
 sessst,Stéphane,Sessègnon,1984-06-01,BEN,4,10,M,0,0,0,0,stephane-sessegnon
-yilmse,Sefa,Yilmaz,1990-02-14,TUR,4,17,M,0,0,0,0,sefa-yilmaz
+yilmse,Sefa,Yılmaz,1990-02-14,TUR,4,17,M,0,0,0,0,sefa-yilmaz
 ayitfl,Floyd,Ayité,1988-12-15,TOG,4,11,A,0,0,0,0,floyd-ayite
 baskmt,Mehmet Tuğrul,Başkan,1996-01-30,TUR,4,26,A,0,0,0,0,mehmet-tugrul-baskan
 candda, ,Candeias,1988-02-25,POR,4,21,A,0,0,0,0,candeias_2
@@ -615,15 +674,18 @@ karalk,İlker,Karakaş,1999-01-11,TUR,4,99,A,0,0,0,0,lker-karakas
 seunma,Mats,Seuntjens,1992-04-17,NED,4,20,A,0,0,0,0,mats-seuntjens
 sioxgi,Giovanni,Sio,1989-03-31,CIV,4,13,A,0,0,0,0,giovanni-sio
 stanbo,Bogdan,Stancu,1987-06-28,ROM,4,9,A,0,0,0,0,bogdan-stancu
+bjaema,Mattias,Bjärsmyr,1986-01-03,SWE,4, , ,0,0,0,0,mattias-bjaersmyr
 adiyue,Übeyd,Adiyaman,1997-10-02,TUR,4, , ,0,0,0,0,uebeyd-adiyaman
 karara,Rahmi,Karadaş,1995-04-14,TUR,4, , ,0,0,0,0,rahmi-karadas
+eralse,Serdarcan,Eralp,1997-04-03,TUR,4, , ,0,0,0,0,serdarcan-eralp
+goekat,Atalay,Gökçe,2003-06-20,TUR,4, , ,0,0,0,0,atalay-goekce
+kuttil,Ilksen,Kuttekin,1999-09-08,TUR,4, , ,0,0,0,0,ilksen-kuttekin
+poshca,Cayan,Poshoroglu,1999-03-18,TUR,4, , ,0,0,0,0,cayan-poshoroglu
 celiko,Korcan,Çelikay,1987-12-31,TUR,5,1,P,0,0,0,0,korcan-celikay
-hopfjo,Johannes,Hopf,1987-06-16,SWE,5,34,P,0,0,0,0,johannes-hopf
 kafkyi,Yiğit,Kafkasyalı,1998-06-13,TUR,5,98,P,0,0,0,0,yigit-kafkasyali
-ricari, ,Ricardo,1993-02-18,BRA,5,25,P,0,0,0,0,ricardo_8
+ricar2, ,Ricardo,1993-02-18,BRA,5,25,P,0,0,0,0,ricardo_4
 karace,Cebrail,Karayel,1994-08-15,TUR,5,19,F,0,0,0,0,cebrail-karayel
 kitsst,Stelios,Kitsiou,1993-09-28,GRE,5,70,F,0,0,0,0,stelios-kitsiou
-kubaal,Alihan,Kubalas,1991-10-26,TUR,5,5,F,0,0,0,0,alihan-kubalas
 kuluan,Ante,Kulušić,1986-06-06,CRO,5,13,F,0,0,0,0,ante-kulusic
 kuyual,Alperen,Kuyubaşı,2000-05-26,TUR,5,44,F,0,0,0,0,alperen-kuyubasi
 pazdmi,Michał,Pazdan,1987-09-21,POL,5,22,F,0,0,0,0,michal-pazdan
@@ -638,16 +700,14 @@ altima,Mahmut,Altinkaya,2000-07-07,TUR,5,43,M,0,0,0,0,mahmut-altinkaya
 aydeme,Mert,Aydeniz,1998-06-30,TUR,5,74,M,0,0,0,0,mert-aydeniz
 aygoen,Ender,Aygören,2000-06-16,TUR,5,17,M,0,0,0,0,ender-aygoeren
 boztah,Ahmet,Boztepe,1998-04-02,TUR,5,89,M,0,0,0,0,ahmet-boztepe
-canthe,Héctor,Canteros,1989-03-15,ARG,5,10,M,0,0,0,0,hector-canteros
 cinaor,Orkan,Çınar,1996-01-29,TUR,5,15,M,0,0,0,0,orkan-cinar
 fatyri,Ricardo,Faty,1986-08-04,SEN,5,14,M,0,0,0,0,ricardo-faty
 goecke,Kerem,Göcen,1999-03-30,TUR,5,14,M,0,0,0,0,kerem-goecen
 karaa1,Aydin,Karabulut,1988-01-25,TUR,5,20,M,0,0,0,0,aydin-karabulut
 lukada,Daniel,Łukasik,1991-04-28,POL,5,35,M,0,0,0,0,daniel-lukasik
-mokewi,Wilfred,Moke,1988-02-12,DRC,5,21,M,0,0,0,0,wilfred-moke
 orhaog,Oğuzhan,Orhan,1998-09-22,TUR,5,29,M,0,0,0,0,oguzhan-orhan
 ozoknd,Nduka,Ozokwo,1988-12-25,NGR,5,29,M,0,0,0,0,nduka-ozokwo
-pektfu,Furkan,Pektas,1998-03-06,TUR,5,29,M,0,0,0,0,furkan-pektas
+pektfu,Furkan,Pektaş,1998-03-06,TUR,5,29,M,0,0,0,0,furkan-pektas
 sakxme,Mehmet,Sak,1990-04-04,TUR,5,4,M,0,0,0,0,mehmet-sak
 scaros,Óscar,Scarione,1985-07-14,ARG,5,7,M,0,0,0,0,oscar-scarione
 stanmi,Miloš,Stanojević,1993-11-20,SRB,5,55,M,0,0,0,0,milos-stanojevic
@@ -661,24 +721,32 @@ michko,Konrad,Michalak,1997-09-19,POL,5,18,A,0,0,0,0,konrad-michalak
 orgide,Dever,Orgill,1990-03-08,JAM,5,12,A,0,0,0,0,dever-orgill
 parllh,İlhan,Parlak,1987-01-18,TUR,5,23,A,0,0,0,0,lhan-parlak
 rivage,Gelmin,Rivas,1989-03-23,VEN,5,30,A,0,0,0,0,gelmin-rivas
-sadaza,Zaur,Sadaev,1989-11-06,RUS,5,95,A,0,0,0,0,zaur-sadaev
+mokewi,Wilfred,Moke,1988-02-12,DRC,5, , ,0,0,0,0,wilfred-moke
+canthe,Héctor,Canteros,1989-03-15,ARG,5, , ,0,0,0,0,hector-canteros
 kayaha,Hasan,Kaya,1995-11-10,TUR,5, , ,0,0,0,0,hasan-kaya
+kubaal,Alihan,Kubalaş,1991-10-26,TUR,5, , ,0,0,0,0,alihan-kubalas
 oenaal,Alper,Önal,1996-06-06,TUR,5, , ,0,0,0,0,alper-oenal
+sadaza,Zaur,Sadaev,1989-11-06,RUS,5, , ,0,0,0,0,zaur-sadaev
 ayhaya,Yalçın,Ayhan,1982-05-01,TUR,5, , ,0,0,0,0,yalcin-ayhan
 arikac,Ahmet Can,Arik,1997-08-22,TUR,5, , ,0,0,0,0,ahmet-can-arik
 beklfu,Furkan,Bekleviç,1999-01-31,TUR,5, , ,0,0,0,0,furkan-beklevic
+adigem,Emre,Adıgüzel,2001-09-03,TUR,5, , ,0,0,0,0,emre-adiguezel
+kayasu,Suat,Kaya,1999-04-15,TUR,5, , ,0,0,0,0,suat-kaya_2
+kubaen,Enes,Kubat,1994-03-01,TUR,5, , ,0,0,0,0,enes-kubat
+sunxah,Ahmet,Sun,1998-03-15,TUR,5, , ,0,0,0,0,ahmet-sun
+topum1,Mert,Topuz,2001-02-19,TUR,5, , ,0,0,0,0,mert-topuz_2
 bozamu,Mustafa,Bozan,2000-08-23,TUR,80,71,P,0,0,0,0,mustafa-bozan
 guevgu,Günay,Güvenc,1991-07-25,GER,80,1,P,0,0,0,0,guenay-guevenc
-yilmha,Haydar,Yilmaz,1984-01-19,TUR,80,25,P,0,0,0,0,haydar-yilmaz
+yilmha,Haydar,Yılmaz,1984-01-19,TUR,80,25,P,0,0,0,0,haydar-yilmaz
 anuese,Sefa,Anük,1999-09-19,TUR,80,94,F,0,0,0,0,sefa-anuek
 ceylog,Oğuz,Ceylan,1990-12-15,TUR,80,17,F,0,0,0,0,oguz-ceylan
 djilpa,Papy,Djilobodji,1988-12-01,SEN,80,3,F,0,0,0,0,papy-djilobodji
-dogamu,Muhammed,Dogan,2000-05-01,TUR,80,3,F,0,0,0,0,muhammed-dogan_2
+dogamu,Muhammed,Doğan,2000-05-01,TUR,80,3,F,0,0,0,0,muhammed-dogan_2
 moraju,Junior,Morais,1986-07-22,BRA,80,13,F,0,0,0,0,junior-morais
 biyija,Jean-Armel,Kana-Biyik,1989-07-03,CMR,80,76,F,0,0,0,0,jean-armel-kana-biyik
 olkopa,Paweł,Olkowski,1990-02-13,POL,80,16,F,0,0,0,0,pawel-olkowski
 toscal,Alin,Toşca,1992-03-14,ROM,80,6,F,0,0,0,0,alin-tosca
-zengul,Ulas,Zengin,1997-06-25,TUR,80,4,F,0,0,0,0,ulas-zengin
+zengul,Ulaş,Zengin,1997-06-25,TUR,80,4,F,0,0,0,0,ulas-zengin
 aktaku,Kubilay,Aktaş,1995-01-29,TUR,80,5,M,0,0,0,0,kubilay-aktas
 sousan,André,Sousa,1990-07-09,POR,80,28,M,0,0,0,0,andre-sousa
 chibra,Raman,Chibsah,1993-03-10,GHA,80,15,M,0,0,0,0,raman-chibsah
@@ -697,17 +765,19 @@ yilmyu,Yunus,Yılmaz,1998-05-20,TUR,80,70,M,0,0,0,0,yunus-yilmaz_2
 celim1,Muğdat,Çelik,1990-01-03,TUR,80,88,A,0,0,0,0,mugdat-celik
 demimu,Muhammed,Demir,1992-01-10,TUR,80,14,A,0,0,0,0,muhammed-demir
 duenha,Hamza,Dündar,2000-01-29,TUR,80,96,A,0,0,0,0,hamza-duendar
-fisthu,Hüseyin,Fıstıkcı,1998-10-15,TUR,80,98,A,0,0,0,0,hueseyin-fistikci
 kayool,Olarenwaju,Kayode,1993-05-08,NGR,80,10,A,0,0,0,0,olarenwaju-kayode
 pawlba,Bartłomiej,Pawłowski,1992-11-13,POL,80,9,A,0,0,0,0,bartlomiej-pawlowski
-twumpa,Patrick,Twumasi,1994-05-09,GHA,80,24,A,0,0,0,0,patrick-twumasi
+twumpa,Patrick,Twumasi,1994-05-09,GHA,80,27,A,0,0,0,0,patrick-twumasi
 yurtha,Hasan,Yurtseven,2001-03-19,TUR,80,97,A,0,0,0,0,hasan-yurtseven
 lodyyu,Yuri,Lodygin,1990-05-26,RUS,80, , ,0,0,0,0,yuri-lodygin
 alsago,Gökhan,Alsan,1990-04-01,TUR,80, , ,0,0,0,0,goekhan-alsan
 atesal,Ali,Ateş,1999-01-10,TUR,80, , ,0,0,0,0,ali-ates
+bilima,Mahmut,Bilir,1994-08-18,TUR,80, , ,0,0,0,0,mahmut-bilir
+chabse,Seifedin,Chabbi,1993-07-04,AUT,80, , ,0,0,0,0,seifedin-chabbi
+ciloba,Bahadir,Çiloğlu,1997-01-05,TUR,80, , ,0,0,0,0,bahadir-ciloglu
+tueryu,Yusuf,Türk,1998-02-13,TUR,80, , ,0,0,0,0,yusuf-tuerk
 acarto,Tolgahan,Acar,1986-06-04,TUR,8,25,P,0,0,0,0,tolgahan-acar
 altihu,Hüseyin,Altıntaş,1994-09-11,TUR,8,1,P,0,0,0,0,hueseyin-altintas
-stacad,Adam,Stachowiak,1986-12-18,POL,8,33,P,0,0,0,0,adam-stachowiak
 yalcal,Ali,Yalçın,2001-05-30,TUR,8,13,P,0,0,0,0,ali-yalcin_2
 youssb,Syam,Ben Youssef,1989-03-31,TUN,8,55,F,0,0,0,0,syam-ben-youssef
 cekxoe,Özgür,Çek,1991-01-03,TUR,8,60,F,0,0,0,0,oezguer-cek
@@ -715,7 +785,7 @@ oezkmu,Muhammet,Özkal,1999-11-26,TUR,8,3,F,0,0,0,0,muhammet-oezkal
 suetmu,Murathan,Sütcü,2000-02-17,TUR,8,72,F,0,0,0,0,murathan-suetcue
 lopeti,Tiago,Lopes,1989-01-04,POR,8,2,F,0,0,0,0,tiago-lopes_3
 yavrze,Zeki,Yavru,1991-09-05,TUR,8,61,F,0,0,0,0,zeki-yavru
-yilmog,Oğuz,Yilmaz,1993-01-01,TUR,8,15,F,0,0,0,0,oguz-yilmaz_2
+yilmog,Oğuz,Yılmaz,1993-01-01,TUR,8,15,F,0,0,0,0,oguz-yilmaz_2
 yumlmu,Mustafa,Yumlu,1987-09-25,TUR,8,5,F,0,0,0,0,mustafa-yumlu
 aissis,Ismaïl,Aissati,1988-08-16,MAR,8,10,M,0,0,0,0,ismail-aissati
 aksuas,Asim,Aksungur,2000-10-08,TUR,8,16,M,0,0,0,0,asim-aksungur
@@ -725,7 +795,6 @@ mbamma,Marc,Mbamba,1988-10-15,CMR,8,6,M,0,0,0,0,marc-mbamba
 murara,Radosław,Murawski,1994-04-22,POL,8,8,M,0,0,0,0,radoslaw-murawski
 niyare,Recep,Nıyaz,1995-08-02,TUR,8,20,M,0,0,0,0,recep-niyaz
 onazog,Ogenyi,Onazi,1992-12-25,NGR,8,23,M,0,0,0,0,ogenyi-onazi
-oezgmu,Mustafa,Özgür,1997-08-03,TUR,8,88,M,0,0,0,0,mustafa-oezguer
 sackis,Isaac,Sackey,1994-04-04,GHA,8,90,M,0,0,0,0,isaac-sackey
 sahaol,Olcay,Şahan,1987-05-26,TUR,8,70,M,0,0,0,0,olcay-sahan
 sahise,Sedat,Şahintürk,1996-02-07,TUR,8,11,M,0,0,0,0,sedat-sahintuerk
@@ -733,9 +802,11 @@ barrmo,Modou,Barrow,1992-10-13,GAM,8,77,A,0,0,0,0,modou-barrow
 estuos,Oscar,Estupiñán,1996-12-29,COL,8,19,A,0,0,0,0,oscar-estupinan
 rodahu,Hugo,Rodallega,1985-07-25,COL,8,7,A,0,0,0,0,hugo-rodallega
 sackha,Hadi,Sacko,1994-03-24,FRA,8,9,A,0,0,0,0,hadi-sacko
+stacad,Adam,Stachowiak,1986-12-18,POL,8, , ,0,0,0,0,adam-stachowiak
 spuncr,Cristian,Săpunaru,1984-04-05,ROM,8, , ,0,0,0,0,cristian-spunaru
 akyume,Mehmet,Akyüz,1986-01-02,TUR,8, , ,0,0,0,0,mehmet-akyuez
 calibu,Burak,Çalık,1989-02-05,TUR,8, , ,0,0,0,0,burak-calik
 akyuke,Kerem,Akyüz,1989-07-01,TUR,8, , ,0,0,0,0,kerem-akyuez
 kurtka,Kadir,Kurt,1999-01-15,TUR,8, , ,0,0,0,0,kadir-kurt
 saglem,Emre,Sağlık,1997-09-14,TUR,8, , ,0,0,0,0,emre-saglik
+suenab,Abdülkadir,Sünger,2000-05-24,TUR,8, , ,0,0,0,0,abduelkadir-suenger

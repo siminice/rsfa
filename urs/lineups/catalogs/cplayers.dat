@@ -1635,11 +1635,11 @@ ivanv5,Ivanov,Valentin,Валентин Козьмич Иванов,1934-11-19,R
 ivanv6,Ivanov,Valeriy,Валерий Николаевич Иванов,0000-00-00,URS, ,URS,106300-vivanov
 ivanv7,Ivanov,Vasiliy,Василий Петрович Иванов,1935-08-15,URS,Голосновский р-н,URS,106303-vasivanov
 ivanv8,Ivanushkin,Vladimir,Владимир Николаевич Иванушкин,1939-10-07,URS, ,URS,109452-ivanushkin
-ivanva,Ivanov,Vasiliy,Василий Владимирович Иванов,1970-03-21,RUS,Ленинград,URS,18200-vasivanov
 ivanvA,Ivanov,Vladimir,Владимир Васильевич Иванов,0000-00-00,URS, ,URS,109447-ivanov
 ivanvB,Ivanov,Vasiliy,Василий Борисович Иванов,0000-00-00,URS, ,URS,109445-vasivanov
 ivanvC,Ivanov,Vasiliy,Василий Петрович Иванов,0000-00-00,URS, ,URS,106302-vasivanov
 ivanvD,Ivanov,Vladimir,Владимир Иванов,0000-00-00,URS, ,URS,109446-vlivanov
+ivanva,Ivanov,Vasiliy,Василий Владимирович Иванов,1970-03-21,RUS,Ленинград,URS,18200-vasivanov
 ivanvi,Ivanov,Viktor,Виктор Михайлович Иванов,0000-00-00,URS, ,URS,106304-ivanov
 ivanvl,Ivanov,Vladimir,Владимир Григорьевич Иванов,1948-11-25,URS,Ленинград,URS,106305-vlivanov
 ivanvy,Ivanov,Vyacheslav,Вячеслав Александрович Иванов,1938-06-26,URS,Воронеж,RUS,109448-vivanov
@@ -2103,8 +2103,8 @@ kormvl,Kormiltsev,Vladimir,Владимир Петрович Кормильце�
 kornal,Korneev,Aleksey,Алексей Александрович Корнеев,1939-02-06,RUS,Москва,URS,71884-akorneev
 korndm,Korneev,Dmitriy,Дмитрий Николаевич Корнеев,1934-07-04,URS,Пенза,RUS,106587-korneev
 kornge,Kornorukov,Gennadiy,Геннадий Степанович Корноруков,0000-00-00,URS, ,URS,395131-kornorukov
-kornig,Korniets,Igor,Игорь Васильевич Корниец,1967-07-14,URS,Киев,URS,20094-korniec
 korniV,Korneev,Igor Vladimirovich,Игорь Владимирович Корнеев,1967-09-04,RUS,Москва,URS,106588-ikorneev
+kornig,Korniets,Igor,Игорь Васильевич Корниец,1967-07-14,URS,Киев,URS,20094-korniec
 kornko,Kornilov,Konstantin,Константин Фёдорович Корнилов,0000-00-00,URS, ,URS,106591-kornilov
 kornle,Kornetov,Leonid,Леонид / Лев Корнетов,0000-00-00,URS, ,URS,109597-kornetov
 kornpa,Kornilov,Pavel,Павел Денисович Корнилов,1912-06-11,URS,п. Амур, ,106592-kornilov
@@ -2372,9 +2372,9 @@ kuzno1,Kuznetsov,Oleg,Олег Иванович Кузнецов,1960-06-01,RUS,
 kuznol,Kuznetsov,Oleg,Олег Владимирович Кузнецов,1963-03-22,URS,Магдебург, ,106690-okuznecov
 kuzns1,Kuznetsov,Sergey,Сергей Иванович Кузнецов,1960-06-01,RUS,Ленинград,URS,20771-skuznecov
 kuzns2,Kuznetsov,Sergey,Сергей Васильевич Кузнецов,1950-11-30,URS,с. Каменоломня, ,106691-skuznecov
+kuznsV,Kuznetsov,Sergey Vasilievich,Сергей Васильевич Кузнецов,1963-01-01,RUS,Белгород,RUS,20766-skuznecov
 kuznse,Kuznetsov,Sergey,Сергей Алексеевич Кузнецов,1966-05-12,RUS,Тамбов,RUS,20763-skuznecov
 kuznst,Kuznetsov,Stanislav,Станислав Павлович Кузнецов,1937-05-06,URS, ,URS,106692-kuznecov
-kuznsV,Kuznetsov,Sergey Vasilievich,Сергей Васильевич Кузнецов,1963-01-01,RUS,Белгород,RUS,20766-skuznecov
 kuznv1,Kuznetsov,Viktor,Виктор Игоревич Кузнецов,1962-06-03,URS, ,URS,106685-kuznecov
 kuznv2,Kuznetsov,Viktor,Виктор Васильевич Кузнецов,1949-02-25,URS,с. Каменоломня, ,106683-viktor-kuznecov
 kuznvi,Kuznetsov,Viktor,Виктор Михайлович Кузнецов,1961-01-08,URS,Днепродзержинск,UKR,106684-vikkuznecov
@@ -2764,8 +2764,8 @@ meleyu,Meleshko,Yuriy,Юрий Константинович Мелешко,1946-
 meliba,Melikyan,Babken,Бабкен Людвигович Меликян,1960-04-03,ARM,Ереван,URS,106961-melikyan
 melile,Melikia,Levan,Леван Северьянович Меликия,1955-04-04,URS,Тбилиси,URS,109789-melikiya
 melked,Melkonyan,Eduard,Эдуард (Эдик) Ширинович Мелконян,0000-00-00,URS, ,URS,109791-melkonyan
-melksa,Melkonyan,Samvel,Самвел Мелконян,0000-00-00,URS, ,URS,109790-melkonyan
 melksP,Melkumyan,Sergey,Сергей Парсаданович Мелкумов (Мелкумян),0000-00-00,URS, ,URS,109792-smelkumov
+melksa,Melkonyan,Samvel,Самвел Мелконян,0000-00-00,URS, ,URS,109790-melkonyan
 melkyu,Melkumov,Yuriy,Юрий Рубенович Мелкумов,0000-00-00,URS, ,URS,106962-yumelkumov
 melnbo,Melnikov,Boris,Борис Мельников,0000-00-00,URS, ,URS,109794-melnikov
 melnmi,Melnik,Mikhail,Михаил Георгиевич Мельник,0000-00-00,URS, ,URS,106964-melnik

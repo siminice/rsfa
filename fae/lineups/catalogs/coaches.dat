@@ -1,4 +1,4 @@
-258
+270
 agulal,Agulha,Alexandre,1972-04-21,BRA,Duque de Caxias,BRA
 akseti,Akselsen,Tór-Ingar,1981-05-01,FER, ,FER
 andebr,Andersen,Børge,1959-11-25,DEN, ,DEN
@@ -20,6 +20,7 @@ boltbo,Bolton,Bobby, ,ENG, ,ENG
 borgja,Borg,Jákup á,1979-10-26,FER, ,FER
 boxaer,Boxall,Ernie, ,ENG, ,ENG
 brenke,Bærentsen,Ken,1969-12-20,FER, ,FER
+brimda,Brimsvík,Dan,1987-06-30,FER, ,FER
 brimto,Brimsvík,Tonny,1975-11-14,FER, ,FER
 burkja,Burkhardt,Jacek,1960-02-27,POL, ,POL
 chribk,Christensen,Bjørn Krog,1961-02-06,DEN, ,DEN
@@ -33,6 +34,7 @@ clemfr,Clementsen,Fróði,1978-11-03,FER, ,FER
 clemsi,Clementsen,Sigfríður,1973-01-27,FER, ,FER
 corbrk,Corbett,Ronald Kenneth,1939-02-02,ENG, ,ENG
 dalbme,Dalbúð,Meinhardt,1958-10-07,FER, ,FER
+dalxjo,Dal,Jonas,1976-07-07,DEN, ,DEN
 damxjc,Dam,Jan Christian,1968-09-07,FER, ,FER
 daniar,Danielsen,Arnbjørn,1973-10-14,FER, ,FER
 daniat,Danielsen,Atli,1983-08-15,FER, ,FER
@@ -44,10 +46,13 @@ djoral,Đorđević,Aleksandar,1968-07-14,SRB,Beograd,SRB
 djurha,Djurhuus,Hans,1978-11-29,FER, ,FER
 djurmi,Djuran,Mihajlo, ,SRB, ,SRB
 djurtu,Djurhuus,Tummas,1974-09-16,FER, ,FER
+dybcal,Dybczak,Allan,1974-03-03,FER, ,FER
 egebpf,Egebjerg,Per From, ,DEN, ,DEN
+eliaba,Eliasen,Bartal,1976-08-23,FER,Fuglafjørður,FER
 eliasi,Eliasen,Símun,1974-11-24,FER, ,FER
 elleal,Ellefsen,Albert,1959-09-22,FER, ,FER
 eylvrn,Eyólvsson,Örn, ,ISL, ,ISL
+fageke,Fagerberg,Ken,1989-01-09,SWE, ,SWE
 falkke,Falkenvig,Kent, ,DEN, ,DEN
 fernhe,Fernandez,Heine,1966-07-14,DEN, ,DEN
 fredag,Frederiksen,Agnar,1992-10-21,FER, ,FER
@@ -71,6 +76,7 @@ hansol,Hansen,Ole, ,DEN, ,DEN
 hanste,Hansen,Terji,1967-12-28,FER, ,FER
 hansto,Hansen,Torkil,1961-08-11,FER, ,FER
 harrga,Harris,Gary,1959-05-31,ENG, ,ENG
+heilla,Heiliger,Lars,1977-04-04,GER, ,GER
 helmfm,Helmsdal,Finnur Mikkjalsson,1952-04-20,FER, ,FER
 hentel,Hentze,Eli,1969-09-01,FER, ,FER
 hentsa,Hentze,Sámal,1972-01-27,FER, ,FER
@@ -91,6 +97,7 @@ jacosj,Jacobsen,Sjúrður,1976-08-29,FER,Glyvrar,FER
 jacost,Jacobsen,Steinbjørn,1940-07-25,FER, ,FER
 jacosv,Jacobsen,Sverri,1944-09-10,FER, ,FER
 jakojo,Jakobsen,Jóannes,1961-08-25,FER, ,FER
+jakora,Jakobsen,Róaldur,1991-01-23,FER, ,FER
 jankdi,Jankovic,Dimitrije,1975-11-05,SRB, ,SRB
 jarnma,Jarnskor,Magni,1968-11-16,FER, ,FER
 jarnpa,Jarnskor,Pauli,1965-02-04,FER, ,FER
@@ -168,18 +175,21 @@ mohrpe,Mohr,Petur,1958-03-02,FER, ,FER
 mokadu,Mokan,Dusan,0000-00-00,SRB, ,SRB
 mortbo,Mortensen,Bogi,1957-06-08,FER, ,FER
 mortma,Mortensen,Mannbjørn,1925-07-06,FER, ,FER
+mortmi,Mortensen,Mikkel,1995-09-10,DEN, ,DEN
 mortsl,Mortensen,Sólbjørn,1950-12-17,FER, ,FER
 morttr,Mortensen,Trygvi,1967-08-14,FER, ,FER
 nielha,Nielsen,Hans,1962-12-15,FER, ,FER
 nieljo,Nielsen,Jóhan,1940-07-10,FER, ,FER
 nielkr,Nielsen,Kári,1957-07-18,FER, ,FER
 nielly,Nielsen,Lynge,1959-11-14,DEN, ,DEN
+nkwohe,Nkwocha,Helen,1976-08-24,ENG, ,ENG
 nolsra,Nolsøe,Rasmus,1985-01-25,FER, ,FER
 nolsru,Nolsøe,Rúni,1971-05-21,FER, ,FER
 nolssi,Nolsøe,Sigmund,1948-11-07,FER, ,FER
 norbjg,Norðbúð,Jógvan,1947-09-10,FER, ,FER
 nowiwa,Nowicki,Waldemar,1961-01-23,POL, ,POL
 oestka,Øster,Karl,1976-02-18,FER, ,FER
+olsean,Olsen,André,1990-10-23,FER, ,FER
 olseel,Olsen,Eliesar,1989-09-14,FER, ,FER
 olsejm,Olsen,Jógvan Martin,1961-07-30,FER,Toftir,FER
 olsejo,Olsen,Jón,1968-08-17,FER, ,FER
@@ -204,6 +214,8 @@ poulkm,Poulsen,Karl Marius,1968-03-30,FER, ,FER
 poulpa,Poulsen,Pauli,1973-09-21,FER, ,FER
 poulpo,Poulsen,Poul,1986-09-22,FER, ,FER
 poulro,Poulsen,Rógvi,1989-10-31,FER, ,FER
+powema,Powell,Magnus,1974-10-28,SWE,Örnsköldsvik,SWE
+presag,Prestá,Agnar,1992-10-28,FER, ,FER
 prsipr,Prsic,Predrag,0000-00-00,SRB, ,SRB
 radoal,Radosavljević,Aleksandar,1972-02-21,SRB, ,SRB
 rasmar,Rasmussen,Arne, ,DEN, ,DEN

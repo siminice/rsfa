@@ -1,4 +1,4 @@
-176
+186
 adamar,Adamyan,Armen,Armen Adamyan,1967-10-14,ARM,Stepanakert,URS,___
 afanko,Afanasiev,Konstantin,Константин Александрович Афанасьев,0000-00-00,RUS, ,BLR,___
 akshvy,Akshaev,Vyacheslav,Vyacheslav Akshaev,1959-05-06,BLR,Vitebsk, ,___
@@ -25,7 +25,9 @@ bregvl,Bregman,Vladimir,Владимир Григорьевич (Георгие�
 brezvl,Brezhesinskiy,Vladimir,Vladimir Brezhesinskiy,1957-07-18,BLR, , ,___
 bubnal,Bubnov,Aleksandr,Aleksandr Bubnov,1955-10-10,RUS,Lyubertsy -  Moskau Oblast,URS,___
 carpil,Carp,Ilie,Ilie Carp,1960-08-03,MOL,Chișinău, ,___
+chelar,Chelyadinski,Artem, ,1977-12-29,BLR,Minsk,BLR,artem-chelyadinski
 cheran,Chernyshov,Andrey,Andrey Chernyshov,1968-01-07,RUS,Moskau, ,___
+cherev,Chernukhin,Evgeni, ,1984-03-02,BLR,Vitebsk,BLR,evgeni-chernukhin
 chetva,Chetverik,Valeri,Valeri Chetverik,1957-12-29,RUS,Tikhoretsk -  Krasnodar Region,URS,___
 duluol,Dulub,Oleg, ,1965-09-20,BLR,Minsk,BLR,oleg-dulub
 ezhuvl,Ezhurov,Vladimir,Vladimir Raimovich Ezhurov,1960-03-24,RUS, ,RUS,vladimir-ezhurov
@@ -41,6 +43,7 @@ goryni,Goryunov,Nikolai,Nikolai Goryunov,1954-01-29,BLR,Gomel, ,___
 graded,Gradoboev,Eduard, ,1971-09-28,BLR, ,BLR,eduard-gradoboev
 grigvy,Grigorov,Vyacheslav, ,1982-03-08,BLR,Baranovichi,BLR,vyacheslav-grigorov
 gruzyu,Gruznov,Yuriy,Yuriy Gruznov,1947-02-22,URS,Чернигов,URS,___
+grygro,Grygorchuk,Roman,Roman Yosypovych Grygorchuk,1965-03-22,UKR,Kornyche,UKR,roman-grygorchuk
 gurese,Gurenko,Sergei,Sergey Gurenko,1972-09-30,BLR,Grodno,BLR,sergei-gurenko
 gyurge,Gyurov,Georgi,Georgi Gyurov,1942-08-01,BUL,Sofia,BUL,___
 kabese,Kabelski,Sergei, ,1973-04-17,BLR,Minsk,BLR,sergei-kabelski
@@ -52,6 +55,7 @@ khmyva,Khmykin,Valeri,Valeri Khmykin,1951-04-04,RUS, , ,___
 khomva,Khomutovsky,Vasily,Vasily Iosifovich Khomutovsky,1978-08-30,BLR,Minsk,BLR,vasily-khomutovsky
 kireol,Kirenya,Oleg, ,1975-05-02,BLR, ,BLR,oleg-kirenya
 kistal,Kisten,Aleksandr,Aleksandr Kisten,1957-01-17,BLR,Minsk,URS,___
+konca1,Konchits,Aleksandr, ,1965-08-27,BLR, ,BLR,aleksandr-konchits
 koncal,Konchits,Aleksandr,Aleksandr Konchits,1965-08-27,BLR,Osipovichi,BLR,___
 kondge,Kondratiev,Georgiy,Georgi Kondratjev,1960-01-07,BLR,Lyubinichi,BLR,georgiy-kondratiev
 konoyu,Konoplev,Yuri,Yuri Konoplev,1962-02-02,BLR,Vitebsk, ,___
@@ -66,7 +70,7 @@ kriuig,Kriushenko,Igor,Igor Kriushenko,1964-02-10,BLR,Minsk,BLR,igor-kriushenko
 krotyu,Krot,Yuri, ,1968-05-28,BLR, ,BLR,yuri-krot
 kubaol,Kubarev,Oleg,Oleg Kubarev,1966-02-08,BLR,Minsk,BLR,oleg-kubarev
 kuchal,Kuchuk,Aleksey, ,1986-09-09,BLR,Minsk,BLR,aleksey-kuchuk
-kuchle,Kuchuk,Leonid, ,1959-08-27,BLR,Minsk,BLR,leonid-kuchuk
+kuchle,Kuchuk,Leonid,Leonid Kuchuk,1959-08-27,BLR,Minsk,BLR,leonid-kuchuk
 kuchpa,Kucherov,Pavel, ,1964-08-18,RUS,Smolensk,RUS,pavel-kucherov
 kulcal,Kulchiy,Aleksandr, ,1973-11-01,BLR,Gomel,BLR,aleksandr-kulchiy
 kuriva,Kurilov,Vasiliy,Василий Иванович Курилов,1947-11-30,BLR,Брест,URS,___
@@ -79,11 +83,13 @@ lavran,Lavrik,Andrey,Андрей Иванович Лаврик,1974-12-07,BLR,�
 lazabo,Lazarchik,Boris,Boris Lazarchik,1948-01-08,BLR,Mikhanovichi,URS,___
 levcvy,Levchuk,Vyacheslav,Vyacheslav Dmitriyevich Levchuk,1971-05-19,BLR,Gomel,BLR,vyacheslav-levchuk
 lickma,Lička,Marcel, ,1977-07-17,CZE,Praha,CZE,marcel-licka
+lisoa1,Lisovskiy,Alexandr, ,1975-04-29,BLR, ,BLR,alexandr-lisovskiy
 lisoal,Lisovskiy,Aleksandr,Aleksandr Lisovskiy,1975-04-29,BLR,Minsk, ,___
 litose,Litovchenko,Sergiy, ,1979-01-30,UKR,Mykolayiv,UKR,sergiy-litovchenko
 lukayu,Lukashov,Yuriy, ,1974-12-29,BLR,Mozyr,BLR,yuriy-lukashov
 lukhal,Lukhvich,Aleksandr, ,1970-02-21,BLR, ,BLR,aleksandr-lukhvich
 lukiru,Lukin,Ruslan,Ruslan Lukin,1971-11-21,AZE,Baku,URS,___
+lukiyu,Lukin,Yuri,Yuri Lukin,1946-01-01,AZE, , ,___
 maasro,Maaskant,Robert,Robert Patrick Maaskant,1969-01-10,NED,Schiedam,NED,robert-maaskant
 maleyu,Maleev,Yuriy,Yuri Maleev,1968-03-20,BLR,Bychów,BLR,yuriy-maleev
 maloed,Malofeev,Eduard,Eduard Malofeev,1942-06-02,BLR,Krasnoyarsk, ,___
@@ -91,6 +97,7 @@ markmi,Markhel,Mikhail,Mikhail Markhel,1966-07-14,BLR,Minsk, ,___
 martmi,Martinovich,Mikhail, ,1979-09-14,BLR, ,BLR,mikhail-martinovich
 merkal,Merkulov,Aleksey, ,1972-11-17,BLR, ,BLR,aleksey-merkulov
 migadm,Migas,Dmitri, ,1980-02-25,BLR,Bobruisk,BLR,dmitri-migas
+mikhal,Mikhailov,Aleksey, ,1987-03-05,BLR, ,BLR,aleksey-mikhailov_2
 muslsl,Muslin,Slavoljub,Slavoljub Muslin,1953-06-15,SRB,Belgrad, ,___
 naumvi,Naumov,Viktor,Viktor Naumov,1965-08-16,BLR, , ,___
 nefyse,Nefyodov,Sergey,Sergey Nefyodov,1959-12-01,BLR, , ,___
@@ -113,6 +120,7 @@ puntyu,Puntus,Yuri,Yuri Puntus,1960-10-08,BLR,Tivoli,BLR,yuri-puntus
 pyatvo,Pyatenko,Volodymyr,Volodymyr Mykolayovych Pyatenko,1974-09-09,UKR,Kemerovo,RUS,volodymyr-pyatenko
 pylyro,Pylypchuk,Roman, ,1967-07-27,UKR,Snizhne,UKR,roman-pylypchuk
 pyshan,Pyshnik,Andrey, ,1968-02-01,BLR,Minsk,BLR,andrey-pyshnik
+radkar,Radkov,Artem, ,1985-08-26,BLR,Mogilev,BLR,artem-radkov
 raduol,Radushko,Oleg,Oleg Radushko,1967-01-10,BLR,Pinsk,BLR,oleg-radushko
 rasovu,Rašović,Vuk, ,1973-01-03,SRB,Dortmund,GER,vuk-rasovic
 ravkvi,Ravkov,Viktor,Виктор Иванович Равков,1954-05-16,BLR, ,BLR,___
@@ -124,6 +132,7 @@ ryabol,Ryabokon,Oleksandr,Oleksandr Ryabokon,1964-02-21,UKR,Kiew, ,___
 savoiv,Savostikov,Ivan,Ivan Savostikov,1941-08-22,BLR,Minsk,URS,___
 sednal,Sedniov,Aleksandr,Aleksandr Sednev,1973-08-16,BLR,Mogilev,BLR,aleksandr-sedniov
 shapya,Shapiro,Yakov,Yakov Shapiro,1961-11-23,BLR,Minsk,URS,___
+shchfy,Shcherbachenko,Fyodor,Fyodor Anatolyevich Shcherbachenko,1962-08-13,RUS, ,RUS,fyodor-shcherbachenko
 shchiv,Shchokin,Ivan,Ivan Shchekin,1944-07-15,URS,Кахул,URS,___
 shirni,Shirinskiy,Nikolai,Nikolai Shirinskiy,1948-02-23,BLR, , ,___
 shpial,Shpilevski,Aleksey,Aliaksei, Nikolajevich Shpilevski!,1988-02-17,BLR,Minsk,aleksey-shpilevski
@@ -149,6 +158,7 @@ tashse,Tashuev,Sergey, ,1959-01-01,RUS, ,RUS,sergey-tashuev
 traial,Traiduk,Aleksandr,Aleksandr Traiduk,1962-01-07,BLR,Dnipropetrovsk,URS,___
 trotev,Trotsyuk,Evgeni,Evgeni Trotsyuk,1957-06-04,BLR, , ,___
 trubvi,Trubitsyn,Viktor,Viktor Trubitsyn,1945-07-24,BLR,Москва,URS,___
+trukig,Trukhov,Igor,Igor Vladimirovich Trukhov,1976-08-19,BLR,Vitebsk,BLR,igor-trukhov
 tuched,Tuchinskiy,Eduard,Eduard Tuchinskiy,1970-07-04,BLR,Minsk, ,___
 uhridu,Uhrin,Dušan,Dušan Uhrin jr.,1967-10-11,CZE,Praha,CZE,dusan-uhrin_2
 ulasst,Ulasevich,Stanislav,Станислав Иванович Уласевич,1956-03-26,BLR, ,BLR,___

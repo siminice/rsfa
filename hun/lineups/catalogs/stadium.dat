@@ -1,9 +1,10 @@
-90
+102
 akas00,Stadler
 balm00,Városi
 beke00,Kórház utcai
 beke01,Csányi utca
 beke02,Békési Városi Sporttelep
+beke03,Jamina pálya
 buda00,Népstadion
 buda00,Groupama Aréna
 buda01,Hidegkuti Nándor
@@ -38,24 +39,31 @@ buda29,BIK Pálya
 buda30,Zágrábi út
 buda31,Dél-Budai Spartacus-pálya
 buda32,Ganz-MÁVAG pálya
+buda33,Tungsram-pálya
+buda34,Budafoki MTE Sporttelep
+buda35,Promontor utcai
 debr00,Régi Nagyerdei
 debr01,Oláh Gábor utcai
 debr02,Vágóhíd utcai 
 doro00,Buzánszky Jenő
 duna00,Eszperanto úti
 duna01,Kohász
+eger00,Városi
 eszt00,MIM Vasas pálya
 fehe00,MOL Aréna Sóstó
+fehe01,Takarodó úti
 felc00,Pancho Aréna
 felc01,Sporkomplexum
 gyir00,Alcufer
+gyon00,Kömlei Károly Városi Sporttelep
 gyor00,ETO Park
 gyor01,Győri ETO
 gyor02,Vagongyári pálya
 gyor03,Győri Dózsa Sporttelep
+gyor04,Nádorvárosi
 kapo00,Rákóczi
 kapo01,Pécsi utcai
-kecs00,Szektoi
+kecs00,Széktói
 kisk00,Városi Sporttelep
 kisv00,Várkert
 koml00,Bányász
@@ -69,6 +77,7 @@ nkan01,MAORT pálya
 nyir00,Városi
 ozdi00,Kohász
 paks00,Fehérvári úti
+paks01,Paksi FC Stadion
 papa00,Perutz
 pecs00,PMFC
 pecs01,PVSK
@@ -76,6 +85,7 @@ pecs02,Tüzér utca
 pecs03,Várkői Ferenc Diáksport Központ
 salg00,Szojka Ferenc
 salg01,SalBTC Pálya
+salg02,Tatárárok
 siof00,Révész Géza utcai
 sopr00,Városi
 szeg00,Felső Tisza-parti
@@ -86,6 +96,8 @@ szol00,Tiszaligeti
 szol01,Véső utca
 szom00,Haladás Sportkomplexum
 tata00,Grosics Gyula Arena
+tata01,Építők Sportpálya
 tkec00,Városi
 vacx00,Ligeti
+vesz00,Városi
 zala00,ZTE Aréna

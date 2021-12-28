@@ -1,4 +1,4 @@
-285
+293
 adacry,Adachi,Ryo, ,1969-07-02,JAP,Nishinomiya,JAP,ryo-adachi
 akityu,Akita,Yutaka, ,1970-08-06,JAP,Aichi,JAP,yutaka-akita
 antobe,Antoninho, ,Benedicto Antônio Angeli,1939-02-10,BRA,Lindóia,BRA,antoninho_2
@@ -132,6 +132,7 @@ marize,Mario,Zé,José Mário de Almeida Barros,1949-02-01,BRA,Rio de Janeiro,BR
 matsh1,Matsunaga,Hideki, ,1964-06-02,JAP, ,JAP,hideki-matsunaga
 matshi,Matsuda,Hiroshi, ,1960-09-02,JAP,Nagasaki,JAP,hiroshi-matsuda
 matsma,Matsunami,Masanobu, ,1974-11-21,JAP,Gifu,JAP,masanobu-matsunami
+matsna,Matsuyo,Naoki, ,1974-04-09,JAP,Nara,JAP,naoki-matsuyo
 matssh,Matsunaga,Shigetatsu, ,1962-08-12,JAP,Hamamatsu,JAP,shigetatsu-matsunaga
 matsya,Matsuki,Yasutaro,Yasutaro Mitsuki,1957-11-28,JAP,Tokyo,JAP,yasutaro-matsuki
 mazage,Mazarópi, ,Geraldo Pereira de Matos Filho,1953-01-27,BRA,Além Paraíba,BRA,mazaropi
@@ -157,6 +158,8 @@ morita,Mori,Takaji, ,1943-11-24,JAP,Fukuyama,JAP,takaji-mori
 mosxad,de Mos,Aad, ,1947-03-27,NED,Den Haag,NED,aad-de-mos
 mourto,Moura,Toninho,Antonio Moura Sanches,1954-07-22,BRA,Bauru,BRA,toninho-moura
 murata,Murata,Tatsuya, ,1972-08-08,JAP,Tokyo,JAP,tatsuya-murata
+murota,Muro,Takuya, ,1982-11-02,JAP,Osaka,JAP,takuya-muro
+muscke,Muscat,Kevin,Kevin Vincent Muscat,1973-08-07,AUS,Crawley,ENG,kevin-muscat
 muzufu,Muzurović,Fuad, ,1945-11-03,BOS,Bijelo Polje,MNT,fuad-muzurovic
 nadope,Nadoveza,Petar, ,1942-04-09,CRO,Šibenik,CRO,petar-nadoveza
 nagahi,Nagashima,Hiroaki, ,1967-03-22,JAP,Kanagawa,JAP,hiroaki-nagashima
@@ -183,8 +186,10 @@ olivod,de Oliveira,Oswaldo,Oswaldo de Oliveira Filho,1950-12-05,BRA,Rio de Janei
 omixyu,Omi,Yukitaka, ,1952-12-15,JAP,Toyko,JAP,yukitaka-omi
 onikto,Oniki,Toru, ,1974-04-20,JAP,Chiba,JAP,toru-oniki
 onoxta,Ono,Takeshi, ,1962-08-17,JAP,Chiba,JAP,takeshi-ono
+ontosh,Ontong,Shaun,Shaun Paul Ontong,1987-03-25,AUS,Canberra,AUS,shaun-ontong
 ooftha,Ooft,Hans,Marius Johan Ooft,1947-06-27,NED, ,NED,hans-ooft
 oscajo,Oscar, ,Jose Oscar Bernardi,1954-06-20,BRA,Monte Sião,BRA,oscar
+oshihi,Oshima,Hideo, ,1980-03-07,JAP,Isesaki,JAP,hideo-oshima
 osieho,Osieck,Holger, ,1948-08-31,GER,Homberg,GER,holger-osieck
 osimam,Osim,Amar, ,1967-07-18,BOS,Sarajevo,BOS,amar-osim
 osimiv,Osim,Ivica,Ivan Osim,1941-05-06,BOS,Sarajevo,BOS,ivica-osim
@@ -202,11 +207,13 @@ pitaed,Pita, ,Edivaldo de Oliveira Chaves,1958-08-04,BRA,Nilópolis,BRA,pita
 poboal,Pobor,Albert, ,1956-05-29,CRO, ,CRO,albert-pobor
 popora,Popović,Ranko, ,1967-06-26,SRB,Peć,SRB,ranko-popovic
 postan,Postecoglou,Ange,Angelos Postecoglou,1965-08-27,AUS,Nea Filadelfeia,GRE,ange-postecoglou
+poyada,Poyatos,Dani,Daniel Poyatos Algaba,1978-06-23,SPA,Barcelona,SPA,dani-poyatos
 primbo,Primorac,Boro, ,1954-12-05,BOS,Mostar,BOS,boro-primorac
 queica,Queiroz,Carlos,Carlos Manuel Brito Leal Queiroz,1953-03-01,POR,Nampula,MOZ,carlos-queiroz
 rehapa,Řehák,Pavel, ,1963-10-07,CZE,Praha,CZE,pavel-rehak
 rivero,Rivelino, ,Roberto Rivelino,1946-01-01,BRA,São Paulo,BRA,rivelino
 rochpe,Rocha,Pedro,Pedro Virgílio Rocha Franchetti,1942-12-03,URU,Salto,URU,pedro-rocha
+rodrri,Rodríguez,Ricardo,Ricardo Rodríguez Suárez,1974-04-03,SPA,Oviedo,SPA,ricardo-rodriguez_3
 sakusa,Sakuma,Satoru, ,1960-12-12,JAP,Tokyo,JAP,satoru-sakuma
 sancda,Sánchez,Daniel, ,1953-11-21,FRA,Oujda,MAR,daniel-sanchez
 sandlo,Sandri,Lori,Lori Paulo Sandri,1949-01-29,BRA,Encantado,BRA,lori-sandri
@@ -279,6 +286,7 @@ yoshko,Yoshimura,Koji, ,1976-04-13,JAP,Kochi,JAP,koji-yoshimura
 yoshme,Yoshida,Megumu, ,1973-04-13,JAP,Aichi,JAP,megumu-yoshida
 yosht1,Yoshida,Tatsuma, ,1974-06-09,JAP,Misatoshi,JAP,tatsuma-yoshida
 yoshta,Yoshida,Takayuki, ,1977-03-14,JAP,Hyogo,JAP,takayuki-yoshida
+zagoaC,Zago,Antônio Carlos,Antônio Carlos Zago,1969-05-18,BRA,Presidente Prudente,BRA,antonio-carlos-zago
 zamfni,Zamfir,Nicolae, ,1944-12-14,ROM,Craivoa,ROM,nicolae-zamfir_2
 zecajo,Zeca, ,José Luiz Ferreira Rodrigues,1946-07-06,BRA,Porto Alegre,BRA,zeca_6
 zemnzd,Zemnovic,Zdravko, ,1954-03-26,SRB, ,SRB,zdravko-zemnovic

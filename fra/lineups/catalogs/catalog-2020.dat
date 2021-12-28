@@ -8,11 +8,11 @@ diala2,Abdou,Diallo,1996-05-04,FRA,0,22,F,0,0,0,0,abdou-diallo
 bernju,Juan,Bernat,1993-03-01,SPA,0,14,F,0,0,0,0,juan-bernat
 kehrth,Thilo,Kehrer,1996-09-21,GER,0,4,F,0,0,0,0,thilo-kehrer
 kimppr,Presnel,Kimpembe,1995-08-13,FRA,0,3,F,0,0,0,0,presnel-kimpembe
-kouani,Nianzou,Kouassi,2002-06-07,FRA,0,35,F,0,0,0,0,nianzou-kouassi
 kurzla,Layvin,Kurzawa,1992-09-04,FRA,0,20,F,0,0,0,0,layvin-kurzawa
 marqma, ,Marquinhos,1994-05-14,BRA,0,5,F,0,0,0,0,marquinhos_14
 sohxlm,Loïc Mbe,Soh,2001-06-13,FRA,0,36,F,0,0,0,0,loic-mbe-soh
 meunth,Thomas,Meunier,1991-09-12,BEL,0,12,F,0,0,0,0,thomas-meunier
+kouatn,Tanguy Nianzou,Kouassi,2002-06-07,FRA,0,33,F,0,0,0,0,tanguy-nianzou-kouassi
 silvth,Thiago,Silva,1984-09-22,BRA,0,2,F,0,0,0,0,thiago-silva
 herran,Ander,Herrera,1989-08-14,SPA,0,21,M,0,0,0,0,ander-herrera
 aoucad,Adil,Aouchiche,2002-07-15,FRA,0,38,M,0,0,0,0,adil-aouchiche
@@ -25,25 +25,26 @@ motiem,Eric Maxim,Choupo-Moting,1989-03-23,CMR,0,17,A,0,0,0,0,eric-maxim-choupo-
 mariad,Ángel,Di María,1988-02-14,ARG,0,11,A,0,0,0,0,angel-di-maria
 draxju,Julian,Draxler,1993-09-20,GER,0,23,A,0,0,0,0,julian-draxler
 icarma,Mauro,Icardi,1993-02-19,ARG,0,18,A,0,0,0,0,mauro-icardi
+jeseje, ,Jesé,1993-02-26,SPA,0,18,A,0,0,0,0,jese
 mbapky,Kylian,Mbappé,1998-12-20,FRA,0,7,A,0,0,0,0,kylian-mbappe
 muinar,Arnaud,Muinga,2002-01-20,FRA,0,33,A,0,0,0,0,arnaud-muinga
 neymne, ,Neymar,1992-02-05,BRA,0,10,A,0,0,0,0,neymar
 areoal,Alphonse,Aréola,1993-02-27,FRA,0, , ,0,0,0,0,alphonse-areola
-jeseje, ,Jesé,1993-02-26,SPA,0, , ,0,0,0,0,jese
 zagrar,Arthur,Zagre,2001-10-04,FRA,0, , ,0,0,0,0,arthur-zagre
 blocfl,Florentin,Bloch,2000-02-02,FRA,10,16,P,0,0,0,0,florentin-bloch
 goicma,Mauro,Goicoechea,1988-03-27,URU,10,1,P,0,0,0,0,mauro-goicoechea
+kalilo,Lovre,Kalinić,1990-04-03,CRO,10,40,P,0,0,0,0,lovre-kalinic
 reynba,Baptiste,Reynet,1990-10-28,FRA,10,30,P,0,0,0,0,baptiste-reynet
 adouka,Kelvin Amian,Adou,1998-02-08,FRA,10,2,F,0,0,0,0,kelvin-amian-adou
 diakb1,Bafodé,Diakité,2001-01-06,FRA,10,19,F,0,0,0,0,bafode-diakite
 diarmo,Moussa,Diarra,2000-11-10,FRA,10,23,F,0,0,0,0,moussa-diarra_2
+gabrru,Ruben,Gabrielsen,1992-03-10,NOR,10,4,F,0,0,0,0,ruben-gabrielsen
 goncma,Mathieu,Goncalves,2001-06-08,FRA,10,13,F,0,0,0,0,mathieu-goncalves
 mirini,Nicolas,Isimat-Mirin,1991-11-15,FRA,10,15,F,0,0,0,0,nicolas-isimat-mirin
 mores1,Steven,Moreira,1994-08-13,FRA,10,5,F,0,0,0,0,steven-moreira
 rogeag,Agustín,Rogel,1997-10-17,URU,10,18,F,0,0,0,0,agustin-rogel
 rouaan,Anthony,Rouault,2001-05-29,FRA,10,24,F,0,0,0,0,anthony-rouault
 semasa,Sacha,Semaoun,2001-02-07,FRA,10,33,F,0,0,0,0,sacha-semaoun
-shojge,Gen,Shōji,1992-12-11,JAP,10,3,F,0,0,0,0,gen-shoji
 syllis,Issiaga,Sylla,1993-01-01,GUI,10,12,F,0,0,0,0,issiaga-sylla
 adliam,Amine,Adli,2000-05-10,FRA,10,31,M,0,0,0,0,amine-adli
 boisqu,Quentin,Boisgard,1997-03-17,FRA,10,11,M,0,0,0,0,quentin-boisgard
@@ -56,14 +57,16 @@ sannsa,Sam,Sanna,1999-03-08,FRA,10,33,M,0,0,0,0,sam-sanna
 sidika,Kalidou,Sidibé,1999-01-28,FRA,10,6,M,0,0,0,0,kalidou-sidibe
 taouad,Adil,Taoui,2001-08-10,FRA,10,32,M,0,0,0,0,adil-taoui
 vainwi,William,Vainqueur,1988-11-19,FRA,10,21,M,0,0,0,0,william-vainqueur
+antija,Janis,Antiste,2002-08-18,FRA,10,28,A,0,0,0,0,janis-antiste
 gradma,Max,Gradel,1987-11-30,CIV,10,7,A,0,0,0,0,max-gradel
-jeanco,Corentin,Jean,1995-07-15,FRA,10,8,A,0,0,0,0,corentin-jean
 koulef,Efthimios,Koulouris,1996-03-06,GRE,10,20,A,0,0,0,0,efthimios-koulouris
 isekal,Aaron Leya,Iseka,1997-11-15,BEL,10,10,A,0,0,0,0,aaron-leya-iseka
+mubend,Ndombe,Mubele,1994-04-17,DRC,10,10,A,0,0,0,0,ndombe-mubele
 saidwe,Wesley,Saïd,1995-04-19,FRA,10,25,A,0,0,0,0,wesley-said
 sanoya,Yaya,Sanogo,1993-01-27,FRA,10,9,A,0,0,0,0,yaya-sanogo
 zobost,Stéphane,Zobo,2000-08-02,CMR,10,22,A,0,0,0,0,stephane-zobo
-gabrru,Ruben,Gabrielsen,1992-03-10,NOR,10, , ,0,0,0,0,ruben-gabrielsen
+jeanco,Corentin,Jean,1995-07-15,FRA,10, , ,0,0,0,0,corentin-jean
+shojge,Gen,Shōji,1992-12-11,JAP,10, , ,0,0,0,0,gen-shoji
 kamabi,Bingourou,Kamara,1996-10-21,FRA,11,30,P,0,0,0,0,bingourou-kamara
 kawaei,Eiji,Kawashima,1983-03-20,JAP,11,16,P,0,0,0,0,eiji-kawashima
 pelllo,Louis,Pelletier,2000-02-03,FRA,11,40,P,0,0,0,0,louis-pelletier
@@ -77,32 +80,36 @@ lalake,Kenny,Lala,1991-10-03,FRA,11,27,F,0,0,0,0,kenny-lala
 lebead,Adrien,Lebeau,1998-01-26,FRA,11,34,F,0,0,0,0,adrien-lebeau
 mitrst,Stefan,Mitrovič,1990-05-22,SRB,11,13,F,0,0,0,0,stefan-mitrovic
 ndouab,Abdallah,N'Dour,1993-12-20,SEN,11,3,F,0,0,0,0,abdallah-ndour
+ounaaz,Azzedine,Ounahi,2000-04-19,MAR,11,35,F,0,0,0,0,azzedine-ounahi
 simam1,Mohamed,Simakan,0000-00-00,FRA,11,2,F,0,0,0,0,mohamed-simakan
 bellje,Jean,Bellegarde,1998-06-27,FRA,11,17,M,0,0,0,0,jean-bellegarde
 corgbe,Benjamin,Corgnet,1987-04-06,FRA,11,10,M,0,0,0,0,benjamin-corgnet
-fofay1,Youssouf,Fofana,1999-01-10,FRA,11,22,M,0,0,0,0,youssouf-fofana_2
 grimje,Jérémy,Grimm,1987-03-27,FRA,11,6,M,0,0,0,0,jeremy-grimm
 liendi,Dimitri,Liénard,1988-02-13,FRA,11,11,M,0,0,0,0,dimitri-lienard
 prcisa,Sanjin,Prcić,1993-11-20,BOS,11,14,M,0,0,0,0,sanjin-prcic
 sissi1,Ibrahima,Sissoko,1997-10-27,FRA,11,18,M,0,0,0,0,ibrahima-sissoko
 thomad,Adrien,Thomasson,1993-12-10,FRA,11,26,M,0,0,0,0,adrien-thomasson
-zemzmo,Moataz,Zemzemi,1999-08-07,TUN,11,7,M,0,0,0,0,moataz-zemzemi
 ajorlu,Ludovic,Ajorque,1994-02-25,FRA,11,25,A,0,0,0,0,ludovic-ajorque
 boteiv,Ivann,Botella,1999-06-28,FRA,11,33,A,0,0,0,0,ivann-botella
 mothle,Lebo,Mothiba,1996-01-28,RSA,11,12,A,0,0,0,0,lebo-mothiba
-costnd,Nuno,Da Costa,1991-02-10,CVE,11,29,A,0,0,0,0,nuno-da-costa
+warima,Majeed,Waris,1991-09-19,GHA,11,8,A,0,0,0,0,majeed-waris
 zohike,Kévin,Zohi,1996-12-19,CIV,11,20,A,0,0,0,0,kevin-zohi
+costnd,Nuno,Da Costa,1991-02-10,CVE,11, , ,0,0,0,0,nuno-da-costa
+fofay1,Youssouf,Fofana,1999-01-10,FRA,11, , ,0,0,0,0,youssouf-fofana_2
 martj3,Jonas,Martin,1990-04-09,FRA,11, , ,0,0,0,0,jonas-martin
+zemzmo,Moataz,Zemzemi,1999-08-07,TUN,11, , ,0,0,0,0,moataz-zemzemi
 delepa,Paul,Delecroix,1988-10-14,FRA,12,1,P,0,0,0,0,paul-delecroix
 dietgu,Guillaume,Dietsch,2001-04-17,FRA,12,30,P,0,0,0,0,guillaume-dietsch
 oukial,Alexandre,Oukidja,1988-07-19,FRA,12,16,P,0,0,0,0,alexandre-oukidja
 boyejo,John,Boye,1987-04-23,GHA,12,21,F,0,0,0,0,john-boye
+brondy,Dylan,Bronn,1995-06-19,TUN,12,2,F,0,0,0,0,dylan-bronn
 cabima,Manuel,Cabit,1993-06-03,MRQ,12,28,F,0,0,0,0,manuel-cabit
 centfa,Fabien,Centonze,1996-01-16,FRA,12,18,F,0,0,0,0,fabien-centonze
 delath,Thomas,Delaine,1992-03-24,FRA,12,17,F,0,0,0,0,thomas-delaine
 fofama,Mamadou,Fofana,1998-01-21,MLI,12,6,F,0,0,0,0,mamadou-fofana
 lacrl1,Lenny,Lacroix,2003-02-06,FRA,12,33,F,0,0,0,0,lenny-lacroix
-sunzst,Stoppila,Sunzu,1989-06-22,ZAM,12,13,F,0,0,0,0,stoppila-sunzu
+loxxab,Aboubacar,Lô,2000-01-02,SEN,12,15,F,0,0,0,0,aboubacar-lo
+sildki,Kiliann,Sildillia,2002-05-16,FRA,12,15,F,0,0,0,0,kiliann-sildillia
 udolma,Matthieu,Udol,1996-03-20,FRA,12,3,F,0,0,0,0,matthieu-udol
 boulfa,Farid,Boulaya,1993-02-25,ALG,12,27,M,0,0,0,0,farid-boulaya
 cohare,Renaud,Cohade,1984-09-29,FRA,12,24,M,0,0,0,0,renaud-cohade
@@ -110,6 +117,7 @@ gakpma,Marvin,Gakpa,1993-11-01,ALG,12,10,M,0,0,0,0,marvin-gakpa
 lahssa,Sami,Lahssaini,1998-09-18,BEL,12,22,M,0,0,0,0,sami-lahssaini
 maigha,Habib,Maïga,1996-01-01,CIV,12,19,M,0,0,0,0,habib-maiga
 ndorke,Kévin,N'Doram,1996-01-22,FRA,12,4,M,0,0,0,0,kevin-ndoram
+pajovi,Vincent,Pajot,1990-08-19,FRA,12,14,M,0,0,0,0,vincent-pajot
 traobo,Boubacar,Traoré,2001-08-20,MLI,12,8,M,0,0,0,0,boubacar-traore_3
 traoad,Adama,Traoré II,1995-06-28,MLI,12,25,M,0,0,0,0,adama-traore-ii
 yadepa,Papa,Yade,2000-01-05,SEN,12,26,M,0,0,0,0,papa-yade
@@ -117,45 +125,47 @@ ambrth,Thierry,Ambrose,1997-03-28,FRA,12,9,A,0,0,0,0,thierry-ambrose
 angbvi,Victorien,Angban,1996-09-29,CIV,12,5,A,0,0,0,0,victorien-angban
 dialh1,Habib,Diallo,1996-03-29,SEN,12,20,A,0,0,0,0,habib-diallo
 mikage,Georges,Mikautadze,2000-10-31,FRA,12,33,A,0,0,0,0,georges-mikautadze
-ndiaam,Amadou,N'Diaye,2000-01-02,SEN,12,23,A,0,0,0,0,amadou-ndiaye_3
 ngueop,Opa,Nguette,1994-07-08,FRA,12,11,A,0,0,0,0,opa-nguette
 nianib,Ibrahima,Niane,1999-03-11,SEN,12,7,A,0,0,0,0,ibrahima-niane
-ixxxat,Adama,Traoré I,1995-06-05,MLI,12,12,A,0,0,0,0,adama-traore-i
-montj1,Jamiro,Monteiro,1993-11-23,CVE,12, , ,0,0,0,0,jamiro-monteiro
+sunzst,Stoppila,Sunzu,1989-06-22,ZAM,12, , ,0,0,0,0,stoppila-sunzu
+ndiaam,Amadou,N'Diaye,2000-01-02,SEN,12, , ,0,0,0,0,amadou-ndiaye_3
 leo_le, ,Léo,1995-03-20,BRA,14,1,P,0,0,0,0,leo_16
 maigmi,Mike,Maignan,1995-07-03,FRA,14,16,P,0,0,0,0,mike-maignan
 agousa,Saad,Agouzoul,1997-08-10,MAR,14,3,F,0,0,0,0,saad-agouzoul
+bocaer,Eric,Bocat,1999-07-16,FRA,14,5,F,0,0,0,0,eric-bocat
 braddo,Domagoj,Bradarić,1999-12-10,CRO,14,29,F,0,0,0,0,domagoj-bradaric
 celime,Mehmet,Çelik,1997-02-17,TUR,14,17,F,0,0,0,0,mehmet-celik_2
 gabrg1, ,Gabriel,1997-12-19,BRA,14,4,F,0,0,0,0,gabriel_22
 fontjo,José,Fonte,1983-12-22,POR,14,6,F,0,0,0,0,jose-fonte
 piedje,Jérémy,Pied,1989-02-23,FRA,14,26,F,0,0,0,0,jeremy-pied
 reinr1, ,Reinildo,1994-01-21,MOZ,14,28,F,0,0,0,0,reinildo
-souma1,Adama,Soumaoro,1992-06-18,FRA,14,5,F,0,0,0,0,adama-soumaoro
 djalti,Tiago,Djaló,2000-04-09,POR,14,2,F,0,0,0,0,tiago-djalo
 andrbe,Benjamin,André,1990-08-03,FRA,14,21,M,0,0,0,0,benjamin-andre
+gaitni,Nicolás,Gaitán,1988-02-23,ARG,14,20,M,0,0,0,0,nicolas-gaitan
 ikonjo,Jonathan,Ikoné,1998-05-02,FRA,14,10,M,0,0,0,0,jonathan-ikone
 niasch,Cheikh,Niasse,2000-01-19,SEN,14,33,M,0,0,0,0,cheikh-niasse
+onanje,Jean,Onana,2000-01-08,CMR,14,34,M,0,0,0,0,jean-onana
 sancre,Renato,Sanches,1997-08-18,POR,14,18,M,0,0,0,0,renato-sanches
 soumbo,Boubakary,Soumaré,1999-02-27,FRA,14,24,M,0,0,0,0,boubakary-soumare
-maiath,Thiago,Maia,1997-03-23,BRA,14,20,M,0,0,0,0,thiago-maia
 xekami, ,Xeka,1994-11-10,POR,14,8,M,0,0,0,0,xeka
 yaziyu,Yusuf,Yazıcı,1997-01-29,TUR,14,12,M,0,0,0,0,yusuf-yazici
 zekaar,Arton,Zekaj,2000-04-16,SRB,14,21,M,0,0,0,0,arton-zekaj
 bambjo,Jonathan,Bamba,1996-03-26,FRA,14,14,A,0,0,0,0,jonathan-bamba
 araulu,Luiz,Araujo,1996-06-02,BRA,14,11,A,0,0,0,0,luiz-araujo
 osimvi,Victor,Osimhen,1998-12-29,NGR,14,7,A,0,0,0,0,victor-osimhen
-ouatab,Abou,Ouattara,1999-12-26,BFS,14,34,A,0,0,0,0,abou-ouattara
+ouatfa,Fadiga,Ouattara,2001-11-18,FRA,14,33,A,0,0,0,0,fadiga-ouattara
 postvi,Virgiliu,Postolachi,2000-03-17,FRA,14,33,A,0,0,0,0,virgiliu-postolachi
 remylo,Loïc,Rémy,1987-01-02,FRA,14,9,A,0,0,0,0,loic-remy
 weahti,Timothy,Weah,2000-02-22,USA,14,22,A,0,0,0,0,timothy-weah
+souma1,Adama,Soumaoro,1992-06-18,FRA,14, , ,0,0,0,0,adama-soumaoro
+maiath,Thiago,Maia,1997-03-23,BRA,14, , ,0,0,0,0,thiago-maia
+ouatab,Abou,Ouattara,1999-12-26,BFS,14, , ,0,0,0,0,abou-ouattara
 kapapb,Pépé Bonet,Kapambu,2003-02-13,CGO,18,30,P,0,0,0,0,pepe-bonet-kapambu
-dameel,Elias,Damergy,2002-10-17,FRA,18,40,P,0,0,0,0,elias-damergy
+mandri,Riffi,Mandanda,1992-10-11,DRC,18,40,P,0,0,0,0,riffi-mandanda
 mended,Edouard,Mendy,1992-03-01,FRA,18,16,P,0,0,0,0,edouard-mendy
 saliro,Romain,Salin,1984-07-29,FRA,18,1,P,0,0,0,0,romain-salin
 boeysa,Sacha,Boey,2000-09-13,FRA,18,31,F,0,0,0,0,sacha-boey
 silvdd,Damien,Da Silva,1988-05-17,FRA,18,3,F,0,0,0,0,damien-da-silva
-doumso,Souleyman,Doumbia,1996-09-24,CIV,18,5,F,0,0,0,0,souleyman-doumbia
 gelije,Jérémy,Gelin,1997-04-24,FRA,18,26,F,0,0,0,0,jeremy-gelin
 gnagjo,Joris,Gnagnon,1997-01-13,FRA,18,21,F,0,0,0,0,joris-gnagnon
 maoufa,Faitout,Maouassa,1998-07-06,FRA,18,17,F,0,0,0,0,faitout-maouassa
@@ -171,14 +181,16 @@ hunoad,Adrien,Hunou,1994-01-19,FRA,18,23,M,0,0,0,0,adrien-hunou
 johaja,Jakob,Johansson,1990-06-21,SWE,18,6,M,0,0,0,0,jakob-johansson
 silijl,James Lea,Siliki,1996-06-12,FRA,18,12,M,0,0,0,0,james-lea-siliki
 martj3,Jonas,Martin,1990-04-09,FRA,18,28,M,0,0,0,0,jonas-martin
+nzonst,Steven,N'Zonzi,1988-12-15,FRA,18,25,M,0,0,0,0,steven-nzonzi
 taitfl,Flavien,Tait,1993-02-02,FRA,18,20,M,0,0,0,0,flavien-tait
 cunhld,Lucas,Da Cunha,2001-06-09,FRA,18,32,A,0,0,0,0,lucas-da-cunha
 castrd,Romain,Del Castillo,1996-03-29,FRA,18,22,A,0,0,0,0,romain-del-castillo
-guecme,Metehan,Güçlü,1999-04-02,FRA,18,19,A,0,0,0,0,metehan-gueclue
 nianmb,M'Baye,Niang,1994-12-19,FRA,18,11,A,0,0,0,0,mbaye-niang
 raphra, ,Raphinha,1996-12-14,BRA,18,7,A,0,0,0,0,raphinha_2
-sakhdi,Diafra,Sakho,1989-12-24,SEN,18,25,A,0,0,0,0,diafra-sakho
 siebth,Theoson,Siebatcheu,1996-04-26,FRA,18,9,A,0,0,0,0,theoson-siebatcheu
+doumso,Souleyman,Doumbia,1996-09-24,CIV,18, , ,0,0,0,0,souleyman-doumbia
+dameel,Elias,Damergy,2002-10-17,FRA,18, , ,0,0,0,0,elias-damergy
+sakhdi,Diafra,Sakho,1989-12-24,SEN,18, , ,0,0,0,0,diafra-sakho
 diaxah,Ahmadou,Dia,1999-10-13,FRA,1,40,P,0,0,0,0,ahmadou-dia
 mandst,Steve,Mandanda,1985-03-28,FRA,1,30,P,0,0,0,0,steve-mandanda
 ngapsi,Simon,Ngapandouetnbu,2003-12-04,FRA,1,1,P,0,0,0,0,simon-ngapandouetnbu
@@ -206,6 +218,7 @@ beneda,Darío,Benedetto,1990-05-17,ARG,1,9,A,0,0,0,0,dario-benedetto
 germva,Valère,Germain,1990-04-17,FRA,1,28,A,0,0,0,0,valere-germain
 lihais,Isaac,Lihadji,2002-04-10,FRA,1,33,A,0,0,0,0,isaac-lihadji
 radone,Nemanja,Radonjić,1996-02-15,SRB,1,7,A,0,0,0,0,nemanja-radonjic
+rahojo,Jores,Rahou,2003-02-02,FRA,1,7,A,0,0,0,0,jores-rahou
 thaufl,Florian,Thauvin,1993-01-26,FRA,1,26,A,0,0,0,0,florian-thauvin
 gustlu,Luiz,Gustavo,1987-07-23,BRA,1, , ,0,0,0,0,luiz-gustavo
 beniwa,Walter,Benítez,1993-01-19,ARG,20,40,P,0,0,0,0,walter-benitez
@@ -213,39 +226,44 @@ cardyo,Yoan,Cardinale,1994-03-27,FRA,20,30,P,0,0,0,0,yoan-cardinale
 clemya,Yannis,Clementia,1997-07-05,MRQ,20,16,P,0,0,0,0,yannis-clementia
 atalyo,Youcef,Atal,1996-05-17,ALG,20,20,F,0,0,0,0,youcef-atal
 burnpa,Patrick,Burner,1996-04-11,FRA,20,15,F,0,0,0,0,patrick-burner
-cissi1,Ibrahim,Cisse,1999-01-11,CIV,20,34,F,0,0,0,0,ibrahim-cisse_2
-colyra,Racine,Coly,1995-12-08,SEN,20,12,F,0,0,0,0,racine-coly
+cretno,Noah,Crétier,2001-11-14,FRA,20,33,F,0,0,0,0,noah-cretier
 dantbo, ,Dante,1983-10-18,BRA,20,4,F,0,0,0,0,dante
+durmri,Riza,Durmisi,1994-01-08,DEN,20,5,F,0,0,0,0,riza-durmisi
 herech,Christophe,Herelle,1992-08-22,FRA,20,29,F,0,0,0,0,christophe-herelle
 llorga,Gautier,Lloris,1995-07-18,FRA,20,3,F,0,0,0,0,gautier-lloris
 nsokst,Stanley,N'Soki,1999-04-09,FRA,20,2,F,0,0,0,0,stanley-nsoki
 pelman,Andy,Pelmard,2000-03-12,FRA,20,24,F,0,0,0,0,andy-pelmard
 sarrma,Malang,Sarr,1999-01-23,FRA,20,23,F,0,0,0,0,malang-sarr
+wagum1,Moussa,Wagué,1998-10-04,SEN,20,6,F,0,0,0,0,moussa-wague
 boudhi,Hichem,Boudaoui,1999-09-23,ALG,20,28,M,0,0,0,0,hichem-boudaoui
 maurac,Alexis,Claude-Maurice,1998-06-06,FRA,20,18,M,0,0,0,0,alexis-claude-maurice
 cyprwy,Wylan,Cyprien,1995-01-28,FRA,20,25,M,0,0,0,0,wylan-cyprien
 danida, ,Danilo,1996-02-28,BRA,20,21,M,0,0,0,0,danilo_10
 melopl,Pierre,Lees-Melou,1993-05-25,FRA,20,8,M,0,0,0,0,pierre-lees-melou
 lusaar,Arnaud,Lusamba,1997-01-04,FRA,20,22,M,0,0,0,0,arnaud-lusamba
-srarba,Bassem,Srarfi,1997-06-25,TUN,20,11,M,0,0,0,0,bassem-srarfi
-tamead,Adrien,Tameze,1994-02-04,FRA,20,5,M,0,0,0,0,adrien-tameze
+pierba,Balthazar,Pierret,2000-05-20,FRA,20,34,M,0,0,0,0,balthazar-pierret
 thurkh,Khéphren,Thuram,2001-03-26,FRA,20,19,M,0,0,0,0,khephren-thuram
-waltre,Rémi,Walter,1995-04-26,FRA,20,6,M,0,0,0,0,remi-walter
+troual,Alexis,Trouillet,2000-12-23,FRA,20,27,M,0,0,0,0,alexis-trouillet
 dolbka,Kasper,Dolberg,1997-10-06,DEN,20,9,A,0,0,0,0,kasper-dolberg
 gameal,Alexandre,Gameiro,1999-01-18,FRA,20,35,A,0,0,0,0,alexandre-gameiro
 ganaig,Ignatius,Ganago,1999-02-16,CMR,20,14,A,0,0,0,0,ignatius-ganago
 guesev,Evann,Guessand,2001-07-01,FRA,20,35,A,0,0,0,0,evann-guessand
 maolmy,Myziane,Maolida,1999-02-14,FRA,20,7,A,0,0,0,0,myziane-maolida
 ounaad,Adam,Ounas,1996-11-11,FRA,20,10,A,0,0,0,0,adam-ounas
+colyra,Racine,Coly,1995-12-08,SEN,20, , ,0,0,0,0,racine-coly
+tamead,Adrien,Tameze,1994-02-04,FRA,20, , ,0,0,0,0,adrien-tameze
 sackih,Ihsan,Sacko,1997-07-19,FRA,20, , ,0,0,0,0,ihsan-sacko
+srarba,Bassem,Srarfi,1997-06-25,TUN,20, , ,0,0,0,0,bassem-srarfi
+cissi1,Ibrahim,Cisse,1999-01-11,CIV,20, , ,0,0,0,0,ibrahim-cisse_2
 bihaml,Mickaël,Le Bihan,1990-05-16,FRA,20, , ,0,0,0,0,mickael-le-bihan
 sylved,Eddy,Sylvestre,1999-08-29,FRA,20, , ,0,0,0,0,eddy-sylvestre
+waltre,Rémi,Walter,1995-04-26,FRA,20, , ,0,0,0,0,remi-walter
 butelu,Ludovic,Butelle,1983-04-13,FRA,25,16,P,0,0,0,0,ludovic-butelle
 mandan,Anthony,Mandrea,1996-12-25,FRA,25,40,P,0,0,0,0,anthony-mandrea
 petkda,Danijel,Petković,1993-05-25,MNT,25,30,P,0,0,0,0,danijel-petkovic
 nourra,Rayan Aït,Nouri,2001-06-06,FRA,25,2,F,0,0,0,0,rayan-ait-nouri
 bambab,Abdoulaye,Bamba,1990-04-24,CIV,25,25,F,0,0,0,0,abdoulaye-bamba
-cissib,Ibrahim,Cissé,1996-05-02,FRA,25,3,F,0,0,0,0,ibrahim-cisse
+doumso,Souleyman,Doumbia,1996-09-24,CIV,25,3,F,0,0,0,0,souleyman-doumbia
 loucha,Haithem,Loucif,1996-07-08,ALG,25,13,F,0,0,0,0,haithem-loucif
 mancvi,Vincent,Manceau,1989-07-10,FRA,25,29,F,0,0,0,0,vincent-manceau
 pavlma,Mateo,Pavlović,1990-06-09,CRO,25,4,F,0,0,0,0,mateo-pavlovic
@@ -258,7 +276,6 @@ fulgan,Angelo,Fulgini,1996-08-20,FRA,25,10,M,0,0,0,0,angelo-fulgini
 mancag,Anthony Gomez,Mancini,2001-04-06,FRA,25,14,M,0,0,0,0,anthony-gomez-mancini
 mangth,Thomas,Mangani,1987-04-29,FRA,25,5,M,0,0,0,0,thomas-mangani
 khalzo,Zinédine Ould,Khaled,2000-01-14,FRA,25,12,M,0,0,0,0,zinedine-ould-khaled
-pajovi,Vincent,Pajot,1990-08-19,FRA,25,6,M,0,0,0,0,vincent-pajot
 lagemp,Mathias Pereira,Lage,1996-11-30,POR,25,27,M,0,0,0,0,mathias-pereira-lage
 santba,Baptiste,Santamaría,1995-03-09,FRA,25,18,M,0,0,0,0,baptiste-santamaria
 soulma,Mazire,Soula,1998-06-06,FRA,25,34,M,0,0,0,0,mazire-soula
@@ -269,12 +286,13 @@ kangak,Aka,Kanga,1998-02-21,FRA,25,11,A,0,0,0,0,aka-kanga
 mbocja,Jason,Mbock,1999-11-01,FRA,25,32,A,0,0,0,0,jason-mbock
 ningca,Casimir,Ninga,1993-05-17,CHA,25,21,A,0,0,0,0,casimir-ninga
 thiosa,Sada,Thioub,1995-06-01,FRA,25,20,A,0,0,0,0,sada-thioub
+pajovi,Vincent,Pajot,1990-08-19,FRA,25, , ,0,0,0,0,vincent-pajot
+cissib,Ibrahim,Cissé,1996-05-02,FRA,25, , ,0,0,0,0,ibrahim-cisse
 adeljr,Jeff,Reine-Adélaïde,1998-01-17,FRA,25, , ,0,0,0,0,jeff-reine-adelaide
 costbe,Benoît,Costil,1987-07-03,FRA,2,1,P,0,0,0,0,benoit-costil
 pousga,Gaëtan,Poussin,1999-01-13,FRA,2,16,P,0,0,0,0,gaetan-poussin
 rouyda,Davy,Rouyard,1999-08-17,FRA,2,30,P,0,0,0,0,davy-rouyard
 bayspa,Paul,Baysse,1988-05-18,FRA,2,41,F,0,0,0,0,paul-baysse
-bellr1,Raoul,Bellanova,2000-05-17,ITA,2,2,F,0,0,0,0,raoul-bellanova
 benilo,Loris,Benito,1992-01-07,SUI,2,23,F,0,0,0,0,loris-benito
 jovavu,Vukašin,Jovanović,1996-05-17,SRB,2,14,F,0,0,0,0,vukasin-jovanovic
 koscla,Laurent,Koscielny,1985-09-10,FRA,2,6,F,0,0,0,0,laurent-koscielny
@@ -286,52 +304,58 @@ sabayo,Youssouf,Sabaly,1993-03-05,FRA,2,20,F,0,0,0,0,youssouf-sabaly
 adliya,Yacine,Adli,2000-07-29,FRA,2,19,M,0,0,0,0,yacine-adli
 bennya,Youssef Aït,Bennasser,1996-07-07,MAR,2,17,M,0,0,0,0,youssef-ait-bennasser
 basito,Toma,Bašić,1996-11-25,CRO,2,26,M,0,0,0,0,toma-basic
-benrya,Yassine,Benrahou,1999-01-24,FRA,2,22,M,0,0,0,0,yassine-benrahou
 lottal,Albert,Lottin,2001-08-29,FRA,2,24,M,0,0,0,0,albert-lottin
 otavot, ,Otavio,1994-05-04,BRA,2,5,M,0,0,0,0,otavio_6
-sankyo,Younousse,Sankharé,1989-09-10,SEN,2,13,M,0,0,0,0,younousse-sankhare
-tchoau,Aurélien,Tchouaméni,2000-01-27,FRA,2,8,M,0,0,0,0,aurelien-tchouameni
+pardru,Rubén,Pardo,1992-10-22,SPA,2,8,M,0,0,0,0,ruben-pardo
 zerkme,Mehdi,Zerkane,1999-07-15,FRA,2,33,M,0,0,0,0,mehdi-zerkane
+boupaa,Aaron,Boupendza,1996-08-07,GAB,2,33,A,0,0,0,0,aaron-boupendza
 briaji,Jimmy,Briand,1985-08-02,FRA,2,7,A,0,0,0,0,jimmy-briand
 prevnd,Nicolas,de Préville,1991-01-08,FRA,2,12,A,0,0,0,0,nicolas-de-preville
 hwanuj,Ui-jo,Hwang,1992-08-28,KOR,2,18,A,0,0,0,0,ui-jo-hwang
-cafujo,Jonathan,Cafú,1991-07-10,BRA,2,42,A,0,0,0,0,jonathan-cafu
 kalusa,Samuel,Kalu,1997-08-26,NGR,2,10,A,0,0,0,0,samuel-kalu
 kamafr,François,Kamano,1996-05-01,GUI,2,11,A,0,0,0,0,francois-kamano
 majajo,Josh,Maja,1998-12-27,ENG,2,9,A,0,0,0,0,josh-maja
+oudire,Rémi,Oudin,1996-11-18,FRA,2,28,A,0,0,0,0,remi-oudin
+tchoau,Aurélien,Tchouaméni,2000-01-27,FRA,2, , ,0,0,0,0,aurelien-tchouameni
+benrya,Yassine,Benrahou,1999-01-24,FRA,2, , ,0,0,0,0,yassine-benrahou
+cafujo,Jonathan,Cafú,1991-07-10,BRA,2, , ,0,0,0,0,jonathan-cafu
+bellr1,Raoul,Bellanova,2000-05-17,ITA,2, , ,0,0,0,0,raoul-bellanova
+coudgr,Grégoire,Coudert,1999-04-03,FRA,39, ,P,0,0,0,0,gregoire-coudert
 dreyma,Matthieu,Dreyer,1989-03-20,FRA,39,16,P,0,0,0,0,matthieu-dreyer
+essebo,Boris,Essele,2000-01-25,CMR,39,16,P,0,0,0,0,boris-essele
 gurtre,Régis,Gurtner,1986-12-08,FRA,39,1,P,0,0,0,0,regis-gurtner
 aleeha,Haitam,Aleesami,1991-07-31,NOR,39,14,F,0,0,0,0,haitam-aleesami
-bodmma,Mathieu,Bodmer,1982-11-22,FRA,39,24,F,0,0,0,0,mathieu-bodmer
 calaar,Arturo,Calabresi,1996-03-17,ITA,39,3,F,0,0,0,0,arturo-calabresi
 chedau,Aurélien,Chedjou,1985-06-20,CMR,39,27,F,0,0,0,0,aurelien-chedjou
 dibaba,Bakaye,Dibassy,1989-08-11,FRA,39,12,F,0,0,0,0,bakaye-dibassy
 gendva,Valentin,Gendrey,2000-06-21,FRA,39,35,F,0,0,0,0,valentin-gendrey
 gouapr,Prince,Gouano,1993-12-24,FRA,39,2,F,0,0,0,0,prince-gouano
 jallch,Christophe,Jallet,1983-10-31,FRA,39,13,F,0,0,0,0,christophe-jallet
-lefojo,Jordan,Lefort,1993-08-09,FRA,39,25,F,0,0,0,0,jordan-lefort
+opokni,Nicholas,Opoku,1997-11-08,GHA,39,4,F,0,0,0,0,nicholas-opoku
 syxxsa,Sanasi,Sy,1999-04-04,FRA,39,18,F,0,0,0,0,sanasi-sy
 blinal,Alexis,Blin,1996-09-19,FRA,39,17,M,0,0,0,0,alexis-blin
+bodmma,Mathieu,Bodmer,1982-11-22,FRA,39,24,M,0,0,0,0,mathieu-bodmer
 bumbjo,Jonathan,Bumbu,1999-02-11,FRA,39,39,M,0,0,0,0,jonathan-bumbu
-gnahed,Eddy,Gnahoré,1993-11-14,FRA,39,5,M,0,0,0,0,eddy-gnahore
+ellaue,Ulrick Eneme,Ella,2001-05-22,FRA,39,38,M,0,0,0,0,ulrick-eneme-ella
+kakuga,Gaël,Kakuta,1991-06-21,FRA,39,10,M,0,0,0,0,gael-kakuta
 moncth,Thomas,Monconduit,1991-02-10,FRA,39,6,M,0,0,0,0,thomas-monconduit
-papeja,Jayson,Papeau,0000-00-00,FRA,39,36,M,0,0,0,0,jayson-papeau
 talama,Mahdi,Talal,1997-08-17,FRA,39,22,M,0,0,0,0,mahdi-talal
 zungbo,Bongani,Zungu,1992-10-09,RSA,39,8,M,0,0,0,0,bongani-zungu
 akolch,Chadrac,Akolo,1995-04-01,DRC,39,19,A,0,0,0,0,chadrac-akolo
 cornqu,Quentin,Cornette,1994-01-17,FRA,39,29,A,0,0,0,0,quentin-cornette
 diabfo,Fousséni,Diabate,1995-10-18,MLI,39,28,A,0,0,0,0,fousseni-diabate
-ellaue,Ulrick Eneme,Ella,2001-05-22,FRA,39,38,A,0,0,0,0,ulrick-eneme-ella
 ghodsa,Saman,Ghoddos,1993-09-06,IRN,39,7,A,0,0,0,0,saman-ghoddos
 guirs1,Serhou,Guirassy,1996-03-12,FRA,39,9,A,0,0,0,0,serhou-guirassy
-kakuga,Gaël,Kakuta,1991-06-21,FRA,39,10,A,0,0,0,0,gael-kakuta
 khaldr,Driss,Khalid,1999-02-07,FRA,39,34,A,0,0,0,0,driss-khalid
 konamo,Moussa,Konaté,1993-04-03,SEN,39,15,A,0,0,0,0,moussa-konate
-kurzra,Rafał,Kurzawa,1993-01-29,POL,39,21,A,0,0,0,0,rafal-kurzawa
-lahnja,Jack,Lahne,2001-10-24,SWE,39,23,A,0,0,0,0,jack-lahne
+mbenis,Isaac,Mbenza,1996-03-08,BEL,39,21,A,0,0,0,0,isaac-mbenza
 mendj1,John,Mendoza,1992-06-27,COL,39,20,A,0,0,0,0,john-mendoza
 oterju,Juan,Otero,1995-05-26,COL,39,11,A,0,0,0,0,juan-otero
+gnahed,Eddy,Gnahoré,1993-11-14,FRA,39, , ,0,0,0,0,eddy-gnahore
+lefojo,Jordan,Lefort,1993-08-09,FRA,39, , ,0,0,0,0,jordan-lefort
 timich,Cheick,Timite,1997-11-20,CIV,39, , ,0,0,0,0,cheick-timite
+lahnja,Jack,Lahne,2001-10-24,SWE,39, , ,0,0,0,0,jack-lahne
+janxch,Charly,Jan,1999-05-27,FRA,3, ,P,0,0,0,0,charly-jan
 lafoal,Alban,Lafont,1999-01-23,FRA,3,1,P,0,0,0,0,alban-lafont
 ollial,Alexandre,Olliero,1996-02-15,FRA,3,16,P,0,0,0,0,alexandre-olliero
 petrde,Denis,Petrić,1988-05-24,SRB,3,30,P,0,0,0,0,denis-petric
@@ -359,14 +383,17 @@ saxxrp,Roli Pereira,de Sa,1996-12-10,FRA,3,6,M,0,0,0,0,roli-pereira-de-sa
 pradpe,Percy,Prado,1996-01-14,PER,3,33,M,0,0,0,0,percy-prado
 tourab,Abdoulaye,Touré,1994-03-03,FRA,3,19,M,0,0,0,0,abdoulaye-toure
 coulk1,Kalifa,Coulibaly,1991-08-21,MLI,3,7,A,0,0,0,0,kalifa-coulibaly
-kayejo,Joris,Kayembe,1994-08-08,BEL,3,5,A,0,0,0,0,joris-kayembe
+emonre,Renaud,Emond,1991-12-05,BEL,3,28,A,0,0,0,0,renaud-emond
+limban,Anthony,Limbombe,1994-07-15,BEL,3,15,A,0,0,0,0,anthony-limbombe
 ndilbr,Bridge,Ndilu,2000-07-21,FRA,3,22,A,0,0,0,0,bridge-ndilu
 simomo,Moses,Simon,1995-07-12,NGR,3,27,A,0,0,0,0,moses-simon
 youate,Thody Élie,Youan,1999-04-07,FRA,3,24,A,0,0,0,0,thody-elie-youan
 limalu,Lucas,Lima,1991-10-10,BRA,3, , ,0,0,0,0,lucas-lima_3
 rongva,Valentin,Rongier,1994-12-07,FRA,3, , ,0,0,0,0,valentin-rongier
+kayejo,Joris,Kayembe,1994-08-08,BEL,3, , ,0,0,0,0,joris-kayembe
 bernp2,Paul,Bernardoni,1997-04-18,FRA,45,30,P,0,0,0,0,paul-bernardoni
 diasll,Lucas Lionel,Dias,1999-05-22,FRA,45,16,P,0,0,0,0,lucas-lionel-dias
+naziam,Amjhad,Nazih,2002-01-18,FRA,45,16,P,0,0,0,0,amjhad-nazih
 rabova,Valentin,Rabouille,2000-04-15,FRA,45,35,P,0,0,0,0,valentin-rabouille
 alakso,Sofiane,Alakouch,1998-07-29,FRA,45,29,F,0,0,0,0,sofiane-alakouch
 briaan,Anthony,Briançon,1994-11-28,FRA,45,23,F,0,0,0,0,anthony-briancon
@@ -376,15 +403,16 @@ landl1,Loïck,Landré,1992-05-05,FRA,45,5,F,0,0,0,0,loick-landre
 martp1,Pablo,Martinez,1989-02-21,FRA,45,4,F,0,0,0,0,pablo-martinez_4
 migufl,Florian,Miguel,1996-09-01,FRA,45,26,F,0,0,0,0,florian-miguel
 paquga,Gaëtan,Paquiez,1994-02-15,FRA,45,15,F,0,0,0,0,gaetan-paquiez
-lucets,Theo,Sainte-Luce,1998-10-20,FRA,45,3,F,0,0,0,0,theo-sainte-luce
 ahlima,Mattéo,Ahlinvi,1999-07-02,FRA,45,31,M,0,0,0,0,matteo-ahlinvi
+benrya,Yassine,Benrahou,1999-01-24,FRA,45,22,M,0,0,0,0,yassine-benrahou
 deaulu,Lucas,Deaux,1988-12-26,FRA,45,8,M,0,0,0,0,lucas-deaux
 ferhzi,Zinedine,Ferhat,1993-03-01,ALG,45,10,M,0,0,0,0,zinedine-ferhat
 fombla,Lamine,Fomba,1998-01-26,FRA,45,12,M,0,0,0,0,lamine-fomba
+megiju,Julien,Megier,2000-02-16,FRA,45,12,M,0,0,0,0,julien-megier
 philr1,Romain,Philippoteaux,1988-03-02,FRA,45,7,M,0,0,0,0,romain-philippoteaux
 ripare,Renaud,Ripart,1993-03-14,FRA,45,20,M,0,0,0,0,renaud-ripart
 sarrsi,Sidy,Sarr,1996-06-05,SEN,45,6,M,0,0,0,0,sidy-sarr
-valean,Antoine,Valério,1999-12-11,FRA,45,33,M,0,0,0,0,antoine-valerio
+valean,Antoine,Valério,1999-12-11,FRA,45,14,M,0,0,0,0,antoine-valerio
 valllu,Lucas,Valls,1998-09-25,FRA,45,33,M,0,0,0,0,lucas-valls
 vallth,Theo,Valls,1995-12-18,FRA,45,18,M,0,0,0,0,theo-valls
 amarsb,Sami,Ben Amar,1998-03-02,FRA,45,24,A,0,0,0,0,sami-ben-amar
@@ -393,9 +421,13 @@ denkke,Kevin,Denkey,2000-11-30,TOG,45,27,A,0,0,0,0,kevin-denkey
 deprcl,Clement,Depres,1994-11-25,FRA,45,9,A,0,0,0,0,clement-depres
 duljha,Haris,Duljević,1993-11-16,BOS,45,17,A,0,0,0,0,haris-duljevic
 karram,Amine,Karraoui,1999-06-09,FRA,45,33,A,0,0,0,0,amine-karraoui
+konem1,Moussa,Koné,1996-12-30,SEN,45,28,A,0,0,0,0,moussa-kone_2
+rouxno,Nolan,Roux,1988-03-01,FRA,45,25,A,0,0,0,0,nolan-roux
 stojv1,Vlatko,Stojanovski,1997-04-23,MAC,45,11,A,0,0,0,0,vlatko-stojanovski
+lucets,Theo,Sainte-Luce,1998-10-20,FRA,45, , ,0,0,0,0,theo-sainte-luce
 bobian,Antonin,Bobichon,1995-09-14,FRA,45, , ,0,0,0,0,antonin-bobichon
 valdpi,Pierrick,Valdivia,1988-04-18,FRA,45, , ,0,0,0,0,pierrick-valdivia
+badilo,Loïc,Badiashile,1998-02-05,FRA,4,50,P,0,0,0,0,loic-badiashile
 benadi,Diego,Benaglio,1983-09-08,SUI,4,16,P,0,0,0,0,diego-benaglio
 lecobe,Benjamin,Lecomte,1991-04-26,FRA,4,40,P,0,0,0,0,benjamin-lecomte
 subada,Danijel,Subašić,1984-10-27,CRO,4,1,P,0,0,0,0,danijel-subasic
@@ -406,35 +438,37 @@ tourfb,Fodé,Ballo-Touré,1997-01-03,FRA,4,2,F,0,0,0,0,fode-ballo-toure
 glikka,Kamil,Glik,1988-02-03,POL,4,25,F,0,0,0,0,kamil-glik
 henrbe,Benjamin,Henrichs,1997-02-23,GER,4,39,F,0,0,0,0,benjamin-henrichs
 jemeje, ,Jemerson,1992-08-24,BRA,4,5,F,0,0,0,0,jemerson
+jorgj2, ,Jorge,1996-03-28,BRA,4,28,F,0,0,0,0,jorge_7
+marcje,Jean,Marcelin,2000-02-12,FRA,4,15,F,0,0,0,0,jean-marcelin
 marigu,Guillermo,Maripán,1994-05-06,CHI,4,3,F,0,0,0,0,guillermo-maripan
-naldro, ,Naldo,1982-09-10,BRA,4,27,F,0,0,0,0,naldo_2
 ndifpd,Pierre-Daniel Nguinda,Ndiffon,1996-06-18,FRA,4,33,F,0,0,0,0,pierre-daniel-nguinda-ndiffon
 zagrar,Arthur,Zagre,2001-10-04,FRA,4,18,F,0,0,0,0,arthur-zagre
 silvad,Adrien,Silva,1989-03-15,POR,4,8,M,0,0,0,0,adrien-silva
 bakati,Tiemoué,Bakayoko,1994-08-17,FRA,4,6,M,0,0,0,0,tiemoue-bakayoko
-boscga, ,Boschilia,1996-03-05,BRA,4,26,M,0,0,0,0,boschilia
 fabrce,Cesc,Fàbregas,1987-05-04,SPA,4,4,M,0,0,0,0,cesc-fabregas
-diasgi,Gil,Dias,1996-09-28,POR,4,31,M,0,0,0,0,gil-dias_2
+fofay1,Youssouf,Fofana,1999-01-10,FRA,4,22,M,0,0,0,0,youssouf-fofana_2
 goloal,Aleksandr,Golovin,1996-05-30,RUS,4,17,M,0,0,0,0,aleksandr-golovin
-augujk,Jean-Kévin,Augustin,1997-06-16,FRA,4,22,A,0,0,0,0,jean-kevin-augustin
+tchoau,Aurélien,Tchouaméni,2000-01-27,FRA,4,24,M,0,0,0,0,aurelien-tchouameni
 baldke,Keita,Baldé,1995-03-08,SEN,4,14,A,0,0,0,0,keita-balde
 yeddwb,Wissam,Ben Yedder,1990-08-12,FRA,4,9,A,0,0,0,0,wissam-ben-yedder
 martg3,Gelson,Martins,1995-05-11,POR,4,11,A,0,0,0,0,gelson-martins
 geubwi,Willem,Geubbels,2001-08-16,FRA,4,13,A,0,0,0,0,willem-geubbels
 jovest,Stevan,Jovetić,1989-11-02,MNT,4,10,A,0,0,0,0,stevan-jovetic
-onyehe,Henry,Onyekuru,1997-06-05,NGR,4,7,A,0,0,0,0,henry-onyekuru
 pellpi,Pietro,Pellegri,2001-03-17,ITA,4,23,A,0,0,0,0,pietro-pellegri
 slimis,Islam,Slimani,1988-06-18,ALG,4,20,A,0,0,0,0,islam-slimani
 syllm2,Moussa,Sylla,1999-11-25,FRA,4,34,A,0,0,0,0,moussa-sylla_3
+diasgi,Gil,Dias,1996-09-28,POR,4, , ,0,0,0,0,gil-dias_2
+augujk,Jean-Kévin,Augustin,1997-06-16,FRA,4, , ,0,0,0,0,jean-kevin-augustin
+boscga, ,Boschilia,1996-03-05,BRA,4, , ,0,0,0,0,boschilia
+onyehe,Henry,Onyekuru,1997-06-05,NGR,4, , ,0,0,0,0,henry-onyekuru
 fostly,Lyle,Foster,2000-09-03,RSA,4, , ,0,0,0,0,lyle-foster
 panzjo,Jonathan,Panzo,2000-10-25,ENG,4, , ,0,0,0,0,jonathan-panzo
 traoad,Adama,Traoré II,1995-06-28,MLI,4, , ,0,0,0,0,adama-traore-ii
 lopero,Rony,Lopes,1995-12-28,POR,4, , ,0,0,0,0,rony-lopes
 chadna,Nacer,Chadli,1989-09-02,BEL,4, , ,0,0,0,0,nacer-chadli
-jorgj2, ,Jorge,1996-03-28,BRA,4, , ,0,0,0,0,jorge_7
+naldro, ,Naldo,1982-09-10,BRA,4, , ,0,0,0,0,naldo_2
 diouye,Yehvann,Diouf,1999-11-16,FRA,51,30,P,0,0,0,0,yehvann-diouf
 lemani,Nicolas,Lemaître,1997-01-12,FRA,51,16,P,0,0,0,0,nicolas-lemaitre
-ndiadi,Dialy,N'Diaye,1999-07-04,SEN,51,50,P,0,0,0,0,dialy-ndiaye
 rajkpr,Predrag,Rajković,1995-10-31,SRB,51,1,P,0,0,0,0,predrag-rajkovic
 abdeyu,Yunis,Abdelhamid,1987-09-28,FRA,51,5,F,0,0,0,0,yunis-abdelhamid
 costlo,Logan,Costa,2001-04-01,FRA,51,34,F,0,0,0,0,logan-costa
@@ -452,22 +486,27 @@ mbemno,Nolan,Mbemba,1995-02-19,FRA,51,26,M,0,0,0,0,nolan-mbemba
 cassmo,Moreto,Cassamá,1998-02-16,POR,51,23,M,0,0,0,0,moreto-cassama
 munema,Marshall,Munetsi,1996-06-22,ZIM,51,15,M,0,0,0,0,marshall-munetsi
 romaal,Alaixys,Romao,1984-01-18,TOG,51,4,M,0,0,0,0,alaixys-romao
+sakamo,Moïse,Sakava,2000-12-26,CMR,51,33,M,0,0,0,0,moise-sakava
 sisssa,Sambou,Sissoko,1999-04-27,FRA,51,14,M,0,0,0,0,sambou-sissoko
 diaxbo,Boulaye,Dia,1996-11-16,FRA,51,11,A,0,0,0,0,boulaye-dia
 donian,Anastasios,Donis,1996-08-29,GRE,51,9,A,0,0,0,0,anastasios-donis
 mbukna,Nathanaël,Mbuku,2002-03-16,FRA,51,33,A,0,0,0,0,nathanael-mbuku
 nkadti,Timothé,Nkada,1999-07-20,FRA,51,19,A,0,0,0,0,timothe-nkada
-oudire,Rémi,Oudin,1996-11-18,FRA,51,18,A,0,0,0,0,remi-oudin
 pinsvi,Virgile,Pinson,1996-02-22,FRA,51,27,A,0,0,0,0,virgile-pinson
-sukxhj,Hyun-jun,Suk,1991-06-29,KOR,51,10,A,0,0,0,0,hyun-jun-suk
+sierka,Kaj,Sierhuis,1998-04-27,NED,51,10,A,0,0,0,0,kaj-sierhuis
+toureb,El Bilal,Touré,2001-10-03,MLI,51,34,A,0,0,0,0,el-bilal-toure
 zenear,Arber,Zeneli,1995-02-25,KOS,51,17,A,0,0,0,0,arber-zeneli
+oudire,Rémi,Oudin,1996-11-18,FRA,51, , ,0,0,0,0,remi-oudin
+sukxhj,Hyun-jun,Suk,1991-06-29,KOR,51, , ,0,0,0,0,hyun-jun-suk
 lopean,Anthony,Lopes,1990-10-01,POR,5,1,P,0,0,0,0,anthony-lopes
 racian,Anthony,Racioppi,1998-12-31,SUI,5,16,P,0,0,0,0,anthony-racioppi
 ttruci,Ciprian,Tătăruşanu,1986-02-09,ROM,5,30,P,0,0,0,0,ciprian-ttrusanu
 andejo,Joachim,Andersen,1996-05-31,DEN,5,3,F,0,0,0,0,joachim-andersen
 bardme,Melvin,Bard,2000-11-06,FRA,5,31,F,0,0,0,0,melvin-bard
 denaja,Jason,Denayer,1995-06-28,BEL,5,5,F,0,0,0,0,jason-denayer
+diomsi,Sinaly,Diomandé,2001-04-09,CIV,5,33,F,0,0,0,0,sinaly-diomande
 dubole,Léo,Dubois,1994-09-14,FRA,5,14,F,0,0,0,0,leo-dubois
+kalupi,Pierre,Kalulu,2000-06-05,FRA,5,33,F,0,0,0,0,pierre-kalulu
 koneyo,Youssouf,Koné,1995-07-05,MLI,5,28,F,0,0,0,0,youssouf-kone
 marcfe, ,Marçal,1989-02-19,BRA,5,20,F,0,0,0,0,marcal_3
 marcm2, ,Marcelo,1987-05-25,BRA,5,6,F,0,0,0,0,marcelo_9
@@ -476,6 +515,7 @@ soleou,Oumar,Solet,2000-02-07,FRA,5,26,F,0,0,0,0,oumar-solet
 teteke,Kenny,Tete,1995-10-09,NED,5,23,F,0,0,0,0,kenny-tete
 mbiwmy,Mapou,Yanga-Mbiwa,1989-05-15,FRA,5,2,F,0,0,0,0,mapou-yanga-mbiwa
 aouaho,Houssem,Aouar,1998-06-30,FRA,5,8,M,0,0,0,0,houssem-aouar
+guimbr,Bruno,Guimarães,1997-11-16,BRA,5,39,M,0,0,0,0,bruno-guimaraes
 caquma,Maxence,Caqueret,2000-02-15,FRA,5,25,M,0,0,0,0,maxence-caqueret
 lucaje,Jean,Lucas,1998-06-22,BRA,5,22,M,0,0,0,0,jean-lucas_2
 adeljr,Jeff,Reine-Adélaïde,1998-01-17,FRA,5,17,M,0,0,0,0,jeff-reine-adelaide
@@ -489,8 +529,10 @@ depame,Memphis,Depay,1994-02-13,NED,5,11,A,0,0,0,0,memphis-depay
 fofabo,Boubacar,Fofana,1998-09-07,FRA,5,35,A,0,0,0,0,boubacar-fofana_2
 gouiam,Amine,Gouiri,2000-02-16,FRA,5,19,A,0,0,0,0,amine-gouiri
 terrma,Martin,Terrier,1997-03-04,FRA,5,7,A,0,0,0,0,martin-terrier
+ekamkt,Karl Toko,Ekambi,1992-09-14,CMR,5,21,A,0,0,0,0,karl-toko-ekambi
 traobe,Bertrand,Traoré,1995-09-06,BFS,5,10,A,0,0,0,0,bertrand-traore
 diopp2,Pape,Diop,1997-08-08,SPA,5, , ,0,0,0,0,pape-diop_3
+cibose,Sébastien,Cibois,1998-03-02,FRA,66,30,P,0,0,0,0,sebastien-cibois
 larsga,Gautier,Larsonneur,1997-02-23,FRA,66,1,P,0,0,0,0,gautier-larsonneur
 leondo,Donovan,Léon,1992-11-03,FGY,66,16,P,0,0,0,0,donovan-leon
 baallu,Ludovic,Baal,1986-05-24,FGY,66,24,F,0,0,0,0,ludovic-baal
@@ -516,7 +558,6 @@ charga,Gaëtan,Charbonnier,1988-12-27,FRA,66,10,A,0,0,0,0,gaetan-charbonnier
 gransa,Samuel,Grandsir,1996-08-14,FRA,66,25,A,0,0,0,0,samuel-grandsir
 mayike,Kévin,Mayi,1993-01-14,FRA,66,9,A,0,0,0,0,kevin-mayi
 menda1,Alexandre,Mendy,1994-03-20,FRA,66,15,A,0,0,0,0,alexandre-mendy
-yawxdo,Derick Osei,Yaw,1998-09-10,FRA,66,29,A,0,0,0,0,derick-osei-yaw
 fabrju,Julien,Fabri,1994-02-05,FRA,66, , ,0,0,0,0,julien-fabri
 gomial,Alfred,Gomis,1993-09-05,SEN,79,16,P,0,0,0,0,alfred-gomis
 hatfew,Ewan,Hatfout,2000-00-00,FRA,79,40,P,0,0,0,0,ewan-hatfout
@@ -536,19 +577,20 @@ amalro,Romain,Amalfitano,1989-08-27,FRA,79,20,M,0,0,0,0,romain-amalfitano
 baldm1,Mama,Baldé,1995-11-06,GBS,79,17,M,0,0,0,0,mama-balde
 balmfl,Florent,Balmont,1980-02-02,FRA,79,15,M,0,0,0,0,florent-balmont
 choumo,Mounir,Chouiar,1999-01-23,FRA,79,21,M,0,0,0,0,mounir-chouiar
-loioen,Enzo,Loiodice,2000-11-27,FRA,79,12,M,0,0,0,0,enzo-loiodice
 marijo,Jordan,Marié,1991-09-29,FRA,79,14,M,0,0,0,0,jordan-marie
 ndondi,Didier,Ndong,1994-06-17,GAB,79,22,M,0,0,0,0,didier-ndong
 sammfr,Frédéric,Sammaritano,1986-03-23,FRA,79,7,M,0,0,0,0,frederic-sammaritano
 soumbr,Bryan,Soumaré,1999-02-11,FRA,79,8,M,0,0,0,0,bryan-soumare
+benzya,Yassine,Benzia,1994-09-08,ALG,79,10,A,0,0,0,0,yassine-benzia
 cadijh,Jhonder,Cádíz,1995-07-29,VEN,79,19,A,0,0,0,0,jhonder-cadiz
 tavaju,Júlio,Tavares,1988-11-19,CVE,79,11,A,0,0,0,0,julio-tavares
-perema,Matheus,Pereira,1998-02-25,BRA,79,10,A,0,0,0,0,matheus-pereira_2
 mavist,Stephy,Mavididi,1998-05-31,ENG,79,9,A,0,0,0,0,stephy-mavididi
-philra,Rayan,Philippe,2000-10-23,FRA,79,31,A,0,0,0,0,rayan-philippe
+perema,Matheus,Pereira,1998-02-25,BRA,79, , ,0,0,0,0,matheus-pereira_2
+loioen,Enzo,Loiodice,2000-11-27,FRA,79, , ,0,0,0,0,enzo-loiodice
 keitju,Jules,Keita,1998-07-20,GUI,79, , ,0,0,0,0,jules-keita
 jeanb1,Benjamin,Jeannot,1992-01-22,FRA,79, , ,0,0,0,0,benjamin-jeannot
-bajist,Stefan,Bajic,2001-12-23,FRA,7,50,P,0,0,0,0,stefan-bajic_2
+philra,Rayan,Philippe,2000-10-23,FRA,79, , ,0,0,0,0,rayan-philippe
+bajist,Stefan,Bajic,2001-12-23,FRA,7,40,P,0,0,0,0,stefan-bajic_2
 moulje,Jessy,Moulin,1986-01-13,FRA,7,30,P,0,0,0,0,jessy-moulin
 ruffst,Stéphane,Ruffier,1986-09-27,FRA,7,16,P,0,0,0,0,stephane-ruffier
 vermth,Théo,Vermot,1997-01-27,FRA,7,1,P,0,0,0,0,theo-vermot
@@ -558,12 +600,10 @@ silvga,Gabriel,Silva,1991-05-13,BRA,7,11,F,0,0,0,0,gabriel-silva
 koloti,Timothée,Kolodziejczak,1991-10-01,FRA,7,5,F,0,0,0,0,timothee-kolodziejczak
 lacrle,Léo,Lacroix,1992-02-27,SUI,7,40,F,0,0,0,0,leo-lacroix
 llorlu,Lucas,Llort,1999-06-08,FRA,7,35,F,0,0,0,0,lucas-llort
-moukha,Harold,Moukoudi,1997-11-27,FRA,7,2,F,0,0,0,0,harold-moukoudi
 nademi,Mickaël,Nade,1999-03-04,FRA,7,33,F,0,0,0,0,mickael-nade
 perrlo,Loïc,Perrin,1985-08-07,FRA,7,24,F,0,0,0,0,loic-perrin
 saliwi,William,Saliba,2001-03-24,FRA,7,4,F,0,0,0,0,william-saliba
 palese,Sergi,Palencia,1996-03-23,SPA,7,23,F,0,0,0,0,sergi-palencia
-sissal,Alpha,Sissoko,1997-03-07,FRA,7,19,F,0,0,0,0,alpha-sissoko
 traumi,Miguel,Trauco,1992-08-25,PER,7,13,F,0,0,0,0,miguel-trauco
 tshima,Marvin,Tshibuabua,2002-01-08,FRA,7,42,F,0,0,0,0,marvin-tshibuabua
 aholje,Jean-Eudes,Aholou,1994-03-20,CIV,7,17,M,0,0,0,0,jean-eudes-aholou
@@ -573,18 +613,24 @@ boudry,Ryad,Boudebouz,1990-02-19,FRA,7,7,M,0,0,0,0,ryad-boudebouz
 cabayo,Yohan,Cabaye,1986-01-14,FRA,7,29,M,0,0,0,0,yohan-cabaye
 camama,Mahdi,Camara,1998-06-30,FRA,7,8,M,0,0,0,0,mahdi-camara
 diouas,Assane,Dioussé,1997-09-20,SEN,7,25,M,0,0,0,0,assane-diousse
+doualg,Lucas,Gourna-Douath,2003-08-05,FRA,7,33,M,0,0,0,0,lucas-gourna-douath
 correi,Edmilson Indjai,Correia,2000-06-06,CVE,7,33,M,0,0,0,0,edmilson-indjai-correia
 khazwa,Wahbi,Khazri,1991-02-08,TUN,7,10,M,0,0,0,0,wahbi-khazri
 mvilya,Yann,M'Vila,1990-06-29,FRA,7,6,M,0,0,0,0,yann-mvila
+macoyv,Yvann,Macon,1998-10-01,FRA,7,27,M,0,0,0,0,yvann-macon
+moueai,Aimen,Moueffek,2001-04-09,FRA,7,34,M,0,0,0,0,aimen-moueffek
 nordar,Arnaud,Nordin,1998-06-17,FRA,7,18,M,0,0,0,0,arnaud-nordin
 petiv1,Victor,Petit,2001-01-31,FRA,7,38,M,0,0,0,0,victor-petit
 yousza,Zaydou,Youssouf,1999-07-11,FRA,7,28,M,0,0,0,0,zaydou-youssouf
 abixch,Charles,Abi,2000-04-12,FRA,7,31,A,0,0,0,0,charles-abi
-beriro,Robert,Berić,1991-06-17,SLO,7,27,A,0,0,0,0,robert-beric
 dionlo,Loïs,Diony,1992-12-20,FRA,7,9,A,0,0,0,0,lois-diony
 hamoro,Romain,Hamouma,1987-03-29,FRA,7,21,A,0,0,0,0,romain-hamouma
 honofr,Franck,Honorat,1996-08-11,FRA,7,14,A,0,0,0,0,franck-honorat
 paqukm,Kévin,Monnet-Paquet,1988-08-19,FRA,7,22,A,0,0,0,0,kevin-monnet-paquet
+rivema,Maxence,Rivera,2002-05-30,FRA,7,35,A,0,0,0,0,maxence-rivera
+beriro,Robert,Berić,1991-06-17,SLO,7, , ,0,0,0,0,robert-beric
+moukha,Harold,Moukoudi,1997-11-27,FRA,7, , ,0,0,0,0,harold-moukoudi
+sissal,Alpha,Sissoko,1997-03-07,FRA,7, , ,0,0,0,0,alpha-sissoko
 bertdi,Dimitry,Bertaud,1998-06-06,FRA,8,16,P,0,0,0,0,dimitry-bertaud
 carvm2,Mathis,Carvalho,1999-04-28,POR,8,30,P,0,0,0,0,mathis-carvalho
 rullge,Gerónimo,Rulli,1992-05-20,ARG,8,1,P,0,0,0,0,geronimo-rulli
@@ -596,7 +642,6 @@ oyonam,Ambroise,Oyongo,1991-06-22,CMR,8,8,F,0,0,0,0,ambroise-oyongo
 mendpe,Pedro,Mendes,1990-10-01,POR,8,5,F,0,0,0,0,pedro-mendes_2
 ristmi,Mihailo,Ristić,1995-10-31,SRB,8,26,F,0,0,0,0,mihailo-ristic
 souqar,Arnaud,Souquet,1992-02-12,FRA,8,2,F,0,0,0,0,arnaud-souquet
-suarma,Mathias,Suárez,1996-06-24,URU,8,22,F,0,0,0,0,mathias-suarez
 vidacl,Clément,Vidal,2000-06-18,FRA,8,27,F,0,0,0,0,clement-vidal
 adouam,Amir,Adouyev,1999-05-11,FRA,8,29,M,0,0,0,0,amir-adouyev
 boutbi,Bilal,Boutobba,1998-08-29,FRA,8,15,M,0,0,0,0,bilal-boutobba
@@ -607,10 +652,12 @@ kaibky,Kylian,Kaïboué,1998-08-20,FRA,8,21,M,0,0,0,0,kylian-kaiboue
 mollfl,Florent,Mollet,1991-11-19,FRA,8,25,M,0,0,0,0,florent-mollet
 sambju,Junior,Sambia,1996-09-07,FRA,8,6,M,0,0,0,0,junior-sambia
 savate,Téji,Savanier,1991-12-22,FRA,8,11,M,0,0,0,0,teji-savanier
-vargth,Thibaut,Vargas,2000-05-22,FRA,8,33,M,0,0,0,0,thibaut-vargas
-baduba,Bastian,Badu,2000-02-02,FRA,8,28,A,0,0,0,0,bastian-badu
+vargth,Thibaut,Vargas,2000-05-22,FRA,8,23,M,0,0,0,0,thibaut-vargas
 camas1,Souleymane,Camara,1982-12-22,SEN,8,19,A,0,0,0,0,souleymane-camara
 deloan,Andy,Delort,1991-10-09,FRA,8,9,A,0,0,0,0,andy-delort
 laboga,Gaëtan,Laborde,1994-05-03,FRA,8,10,A,0,0,0,0,gaetan-laborde
-skulpe,Petar,Škuletić,1990-06-29,SRB,8,32,A,0,0,0,0,petar-skuletic
+yunxil,Il-lok,Yun,1992-03-07,KOR,8,24,A,0,0,0,0,il-lok-yun
+skulpe,Petar,Škuletić,1990-06-29,SRB,8, , ,0,0,0,0,petar-skuletic
+baduba,Bastian,Badu,2000-02-02,FRA,8, , ,0,0,0,0,bastian-badu
+suarma,Mathias,Suárez,1996-06-24,URU,8, , ,0,0,0,0,mathias-suarez
 pirifa,Facundo,Píriz,1990-03-27,URU,8, , ,0,0,0,0,facundo-piriz

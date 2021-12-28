@@ -6,19 +6,19 @@ Antwerp,100100030
 Mechelen,100100022
 Charleroi,100100002
 Gent,100100006
-Genk,100100248
+Genk-100100248,100100007
 Lierse,100100012
 Beveren,100100009
 Lokeren,100100008
-Waregem,100100034
+Waregem-100100034,100100033
 Cercle,100100001
 Liege,100100048
 Westerlo,100100011
-Lommel,100100024
+Lommel-100100024,100100051
 Molenbeek-100100004,100100036
 St.Truiden,100100014
 Mouscron,100100003
-Oostende-100100010,100100281
+Oostende-100100281,100100010
 Beerschot,100100005
 Aalst,100100021
 Kortrijk,100100027
@@ -38,16 +38,16 @@ Ronse,100100038
 Virton,100100020
 Roeselare,100100040
 Tienen,100100052
-Strombeek,10011000xx
+Strombeek-100100036,100100004
 Patro Eisden,100100041
 Germinal,100100032
 Seraing,100100047
 Turnhout,100100055
 Hekelgem,100100058
-Winterslag,100100007
+Winterslag-100100007,Winterslag
 Cappellen,100100060
-Tielen,100100062
-Overpelt,100100051
+Tielen,100100309
+Overpelt,100100051xx
 Tongeren,100100070
 Diest,100100071
 Ol.Charleroi,100100068
@@ -63,8 +63,8 @@ Racing Jet,100100156
 Montignies,100100853
 KRC Mechelen,100100082
 Leuven,100100260
-Wuustwezel,Wuustwezel FC
-Assent,FC Assent
+Wuustwezel,100100286
+Assent,100100285
 Eeklo,100100073
 Zwarte Leeuw,100100074
 Tubize,100100031
@@ -105,7 +105,7 @@ Hoogstraten,100100102
 Dilsen,KVV Heidebloem Dilsen
 Sottegem,100100079
 Dendermonde,KAV Dendermonde
-FC Roeselare,FC Roeselare
+FC Roeselare,100100288
 Lebbeke,RC Lebbeke
 Rita Berlaar,FC Rita Berlaar
 Aarschot,VO Aarschot
@@ -114,7 +114,7 @@ Mol-Wezel,100100093
 Poederlee,FC Poederlee
 Zele,Eendracht Zele
 Tubantia,Tubantia Borgerhout
-Zultse,100100033
+Zultse-100100033,100100034
 Merchtem,HO Merchtem
 Kermt,100100135
 Izegem,FC Izegem
@@ -125,7 +125,7 @@ Heist,KFC Heist Sportief
 Heultje,KFC Heultje
 Menen,KSC Menen
 Looi,KVV Looi Tessenderlo
-Hoeselt,K Hoeselt VV
+Hoeselt,100100287
 Ninove,VK Ninove
 Aubel,Racing Aubel
 Oostham,Eendracht Gerhees Oostham
@@ -135,11 +135,11 @@ Hannute,FC Hannutois
 Binchois,US Binchoise
 Bilzersee,Bilzersee VV
 RUS Tournai,RUS Tournaisiene
-VG Oostende,VG Oostende
+VG Oostende-100100118,100100010
 La Forestoise,RCS La Forestoise        
 Testelt,FC Testelt
 Dottignies,Dottignies Sport
-FC Dessel,FC Dessel Sport
+Witgoor,100100141
 Waremmien,Stede Waremmien
 Marchienne,Marchienne Sport
 Schaerbeek,100100280
@@ -152,7 +152,7 @@ Wielsbeke,100100097
 URS du Centre,100100101
 Zaventem,100100099
 Daring,100100241
-Merksem,Merksem SC
+Merksem,100100289
 Renais,RFC Renaissiene
 Uccle,Uccle Sport
 SRU Verviers,SRU Verviers

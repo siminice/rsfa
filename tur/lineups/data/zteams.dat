@@ -1,52 +1,52 @@
 256
-Galatasaray,galatasaray-sk/2217
-Fenerbahce,fenerbahce-spor-kulubu/2212
-Besiktas,besiktas-jk/2214
-Trabzonspor,trabzonspor/2213
-Genclerbirligi,genclerbirligi/2219
-Ankaragucu,mke-ankaragucu/2218
-Bursaspor,bursaspor/2227
-Gaziantep,gaziantepspor/2216
-Denizli,denizlispor/2215
-Kocaelispor,kocaelispor/2234
-Altay,altay-sk-izmir/2239
-Samsunspor,samsunspor/2220
-Antalyaspor,antalyaspor/2236
-Vanspor,vanspor/40797
-Demirspor,adana-demirspor/2348
-Kayserispor,kayseri-erciyesspor/2231
-Zeytinburnu,zeytinburnuspor/2345
-Petrol Ofisi,pofisi/2349
-Istanbulspor,istanbulspor-as/2226
-Eskisehir,eskisehirspor/2347
-Karsiyaka,karsiyaka-sk/2241
-Dardanelspor,canakkale-dardanelspor/2242
-Sariyer,sariyer-gk/2344
-Karabukspor,kardemir-dc-karabukspor/2351
-Sekerspor,etimesgut-sekerspor-as/2350
-Erzurumspor,erzurumspor/2352
-Sakaryaspor,sakaryaspor/2230
-Goztepe,goeztepe
-Yozgatspor,yozgatspor
-Rizespor,caykur-rizespor/2224
-Siirtspor,siirtspor
-Adanaspor,adanaspor-fk/2229
-Diyarbakir,diyarbakirspor/2221
-Malatyaspor,malatyaspor/2222
-Elazigspor,elazigspor
-Konyaspor,konyaspor/2223
-Izmirspor,Izmirspor GSKD
-Sebat,akcaabat-sebatspor
-Ankaraspor,osmanlispor-fk
-Basaksehir,stanbul-basaksehir-f-k
-Gumusanespor,Gümüºanespor
-Sivas,sivasspor
-Hatay,Hatayspor Antakya
-Erciyes,kayseri-erciyesspor/2231,kayserispor/2235
-Batman Petrol,Batman Petrolspor
-Aydin,aydnspor/40895
-Manisa,manisaspor
-Mersin,mersin-idmanyurdu
+Galatasaray,1000012
+Fenerbahce,1000001
+Besiktas,1000009
+Trabzonspor,1000007
+Genclerbirligi,1000004
+Ankaragucu,1000017
+Bursaspor,1000021
+Gaziantep,1000014
+Denizli,1000008
+Kocaelispor,1000028
+Altay,1000019
+Samsunspor,1000002
+Antalyaspor,1000020
+Vanspor,1000031
+Adana Demirspor,1000025
+Kayserispor-l000065,1000016
+Zeytinburnu,1000034
+Petrol Ofisi,1000037
+Istanbulspor,1000000
+Eskisehir,1000036
+Karsiyaka,1000035
+Dardanelspor,1000024
+Sariyer,1000033
+Karabukspor,1000027
+Sekerspor,1000029
+Erzurumspor,1000023
+Sakaryaspor,1000015
+Goztepe,1000026
+Yozgatspor,1000032
+Rizespor,1000013
+Siirtspor,1000030
+Adanaspor,1000018
+Diyarbakir,1000011
+Malatyaspor,1000006
+Elazigspor,1000022
+Konyaspor,1000003
+Izmirspor,1000047
+Sebat,1000010
+Ankaraspor,1000005
+Basaksehir,1000061
+Gumusanespor,1000066
+Sivas,1000064
+Hatay,1000068
+Erciyes-l000016,1000065
+Batman Petrol,1000067
+Aydin,1000039
+Manisa,1000062
+Mersin,1000044
 Merinos,Bursa Merinosspor
 Marmaris,Marmaris Belediye GSK
 Bucaspor,bucaspor
@@ -56,18 +56,18 @@ Muglaspor,Muglaspor
 Nazillispor,Nazilli Belediye SK
 Kepezspor,Antalya Kepezspor
 Kucukkoy,Küçükköy Istanbul
-Karagumurk,Karagümrük Kyoto Istanbul
+Karagumurk,1000048
 Gungoren,Güngören Belediye Istanbul
 Mustafa Kemal,Mustafa Kemal Paºa SK
 Usak,Uºakspor
 Gazi Osman,Gazi Osman Paºa SK Istanbul
 Kutahya,Kütahyaspor
-PTT,Türk Telekom GSK Ankara
-Zonguldak,fenerspor/40741
-Ank.Demir,Ankara Demirspor
+PTT,PTT
+Zonguldak,1000043
+Ank.Demir,1000053
 Kartalspor,Kartalspor Istanbul
 Cankiri,Çankiri Belediye SK
-Ordu,orduspor/4677
+Ordu,1000049
 Maltepe,Maltepespor Istanbul
 Anadolu,Anadolu Üºküdar SK Istanbul
 Darica,Gençlerbirligi SK Darica
@@ -75,7 +75,7 @@ Eyupspor,Eyüpspor Istanbul
 Amasya,Amasyaspor
 Cubuk,Çubuk SK
 Bulancak,Bulancakspor
-Kirikkale,MKE Kirikkalespor
+Kirikkale,1000050
 Tokat,Tokatspor
 Sanliurfa BSK,ªanliurfa Belediye SK
 Sanliurfaspor,ªanliurfaspor
@@ -96,23 +96,23 @@ Aksaray,Aksarayspor
 Yalova,Yalovaspor
 Corluspor,Çorluspor
 Bakirkoy,bakrkoyspor/38735
-Bolu,boluspor/8604
-Ferikoy,Feriköy GK Istanbul
-Vefa,Vefa SK Istanbul
-Kasimpasa,kasimpasa-sk
-Beykoz,Beykoz SK Istanbul
-Alibeykoy,Alibeyköy Adalet GK Istanbul
-Keciorengucu,keciorenguecue
-Altinordu,Altinordu SK Izmir
-Telekom,PTT SK Ankara
-Yesilderek,Yeºilderek GK Istanbul
-Beyogluspor,Beyogluspor SK Istanbul
+Bolu,1000040
+Ferikoy,1000058
+Vefa,1000046
+Kasimpasa,1000060
+Beykoz,1000059
+Alibeykoy,1000054
+Keciorengucu,1000057
+Altinordu,1000056
+Telekom,1000055
+Yesilderek,1000052
+Beyogluspor,1000051
 Gunes,Güneºspor Ankara
 Afyon,Afyonspor
 Bandirma,Bandirmaspor
-Giresun,Giresunspor
+Giresun,1000045
 Iskenderunspor,Iskenderunspor
-Balikesir,balikesirspor
+Balikesir,1000041
 Luleburgaz,Lüleburgazspor
 Konya Idman,Idmanyurdu SK Konya
 Tire,Tire Egespor

@@ -5,10 +5,10 @@
 1800 RFC Malines~Malines*1971 KV Mechelen~Mechelen
 1800 Charleroi Sporting Club~Charleroi
 1800 ARA La Gantoise~La Gantoise*1973 KAA Gent~Gent
-1945 SV Thor Waterschei~Thor*1989 KRC Genk~Genk
+1945 SV Thor Waterschei~Waterschei*1989 KRC Genk~Genk
 1800 Lierse SK~Lierse*2019 KSK Lierse Kempenzonen~Lierse*2999 KSK Lierse~Lierse
 1800 SK Beveren~Beveren*1995 SK Beveren Waas~Beveren*2999 KSK Beveren~Beveren
-1945 KSC Lokeren~Lokeren*2000 Sporting Lokeren KNV~Lokeren
+1945 KSC Lokeren~Lokeren*2000 Sporting Lokeren KNV~Lokeren*2021 KSC Lokeren-Temse~Lokeren
 1800 SV Waregem~Waregem*2000 SV Zulte-Waregem~Zulte-Waregem
 1800 RCS Bruges~Cercle*1965 Cercle Bruges KSV~Cercle
 1945 RFC de Liège~Liège*1996 Tilleur FC Liègeois~Liège*2001 RFC de Liège~Liège
@@ -17,16 +17,16 @@
 1800 White Star AC~White Star*1964 Racing White~Racing White*1974 RWD Molenbeek~Molenbeek
 1800 Sint Truidense VV~St.Truiden
 1800 Stade Mouscron~Mouscron*1965 Excelsior Mouscron~Mouscron
-1800 Oostende AC~Oostende*1945 KV Oostende~Oostende
+1800 AS Oostende~Oostende*1981 KV Oostende~Oostende
 1945 Beerschot VAV Antwerpen~Beerschot*1999 KFC Germinal Beerschot~Beerschot*2999 Beerschot VAV Antwerpen~Beerschot
 1800 VC Eendracht Aalst~Aalst
 1800 KV Kortrijk~Kortrijk
 1945 KRC Harelbeke~Harelbeke*2002 KRC Zuid-West Vlaanderen~Harelbeke*2005 SW Harelbeke~Harelbeke
 1800 AA La Louvière~La Louvière
 1800 RAEC Mons~Mons
-1800 KFC Verbroedering Geel~Geel*2011 KFC Geel-Meerhout~Geel-Meerhout*KFC Verbroedering Geel~Geel
+1800 KFC Verbroedering Geel~Geel*2011 KFC Geel-Meerhout~Geel-Meerhout*0 Verbroedering Geel~Geel
 1800 KSV Ingelmunster~Ingelmunster
-1945 Witgoor Dessel Sport~Dessel*1998 Dessel Sport~Dessel
+1945 KFC Dessel Sport~Dessel
 1900 K Heusden Zolder~Heusden Zolder*2006 K Beringen Heusden Zolder~Heusden Zolder
 1800 KAS Eupen~Eupen
 1800 KMSK Deinze~Deinze
@@ -42,8 +42,8 @@
 1945 FC Germinal Ekeren~Germinal*1999 KFC Germinal Beerschot~Germinal*2999 Germinal Ekeren~Ekeren
 1800 RFC Sérésien~Seraing*1970 FC Seraing~Seraing*2006 RFC Sérésien~Seraing*2016 Seraing Union~Seraing*2999 FC Seraing~Seraing
 1800 FC Turnhout~Turnhout
-1945 FC Eendracht Hekelgem*2002 FC Denderleeuw
-1945 SV Winterslag*1989 KRC Genk
+1945 FC Eendracht Hekelgem~Hkelgem*2002 FC Denderleeuw~FC Denderleeuw*2999 FC Eendracht Hekelgem~Hekelgem
+1945 SV Winterslag~Winterslag*1989 KRC Genk~Genk*2999 SV Winterslag~Winterslag
 1800 Cappellen FC~Cappellen
 1800 KFC Tielen~Tielen
 1800 KVV Overpelt Fabriek~Overpelt
@@ -51,7 +51,7 @@
 1800 KFC Diest~Diest
 1800 Olympique de Charleroi~Ol.Charleroi*1974 ROC Montignies~Montignies*1984 Olympique Charleroi~Ol.Charleroi
 1800 Union St.Gilloise~St.Gilloise
-1945 St.Niklase SK*1990 St.Niklas SK Excelsior*2001 FC Niuewkerken~Niuewkerken*2005 FCN Sint Niklas~St.Niklas
+1945 St.Niklase SK~St.Niklas*1990 St.Niklas SK Excelsior~St.Niklas*2001 FC Niuewkerken~Niuewkerken*2005 FCN Sint Niklas~St.Niklas
 1945 FC Herentals*2000 Verbroedering Geel
 1800 Beringen FC~Beringen
 1800 Berchem Sport~Berchem
@@ -64,7 +64,7 @@
 1800 Stade Leuven~Leuven
 1800 Wuustwezel FC~Wuustwezel
 1800 FC Assent~Assent
-1800 FC Eeklo~Eeklo
+1800 FC Eeklo Meetjesland~Eeklo
 1800 FC Zwarte Leeuw Rijkevorsel~Zwarte Leeuw
 1800 AFC Tubize~Tubize
 1900 Red Star Haasdonk~Red Star*2003 KV Red Star Waasland~Red Star*2011 KV Waasland-Beveren~Waasland
@@ -91,7 +91,7 @@
 1800 Wallonia Walhain CG~Walhain
 1800 KRC Waregem~KRC Waregem
 1800 KSK Wevelgem~Wevelgem
-1800 K Lyra~Lyra*1970 Lyra TSV~Lyra
+1800 K Lyra~Lyra*1970 Lyra TSV~Lyra*2021 K Lyra-Lierse Berlaar~Lyra
 1800 KFC Evergem~Evergem
 1800 Excelsior Veldwezelt~Veldwezelt
 1800 Spa FC~Spa
@@ -104,7 +104,7 @@
 1800 KVV Heidebloem Dilsen~Dilsen
 1800 KSV Sottegem~Sottegem
 1800 KAV Dendermonde~Dendermonde
-1800 FC Roeselare~FC Roeselare
+1800 KVC Roeselare~Roeselare
 1800 RC Lebbeke~Lebbeke
 1800 FC Rita Berlaar~Rita Berlaar
 1800 VO Aarschot~Aarschot
@@ -138,7 +138,7 @@
 1800 Excelsior SC Forest~Forest*1920 RCS La Forestoise~La Forest
 1800 FC Testelt~Testelt
 1800 Dottignies Sport~Dottignies
-1800 FC Dessel Sport~FC Dessel
+1800 Witgoor Sport Dessel~Witgoor
 1800 Stade Waremmien~Waremme
 1800 Marchienne Sport~Marchienne
 1800 Crossing Club Ganshoren~Crossing*1960 Crossing Club Molenbeek~Crossing*1970 Crossing Club Schaerbeek~Schaerbeek
@@ -146,11 +146,11 @@
 1800 SK Londerzeel~Londerzeel
 1800 Verbreudigen Meerhout~Meerhout
 1800 RRC Hamoir~Hamoir
-1800 RFC Seresien~Seresien
+1800 RFC Seresien~Seresien*2020 RFC Seraing~Seraing
 1800 SC Wielsbeke~Wielsbeke
 1800 URS du Centre~URS du Centre*2012 URS La Louvière Centre~Louvière Centre
 1800 KV Woluwe-Zaventem~Zaventem
-1800 Daring Club Bruxelles~Daring*1971 Daring Club Molenbeek~Daring*1974 RWD Molenbeek~Molenbeek
+1800 Daring Club Bruxelles~Daring*1971 Daring Club Molenbeek~Daring*1974 RWD Molenbeek~Molenbeek*2999 Daring Club Molenbeek~Daring
 1800 Olse Merksem SC~Merksem*2015 City Pirates Antwerpen~City Pirates
 1800 RFC Renaissiene~Renais
 1800 Uccle Sport~Uccle
@@ -196,7 +196,7 @@
 1800 FC Heur-Tongeren~Heur
 1800 KFC Duffel~Duffel
 1800 KVV Vosselaar~Vosselaar
-1800 KV Spouwen-Mopertingen~Mopertingen
+1800 KV Spouwen-Mopertingen~Mopertingen*2022 Belisia Bilzen SV~Belisia
 1800 RUS Rebecquoise~Rebecq
 1800 RES Couvin-Mariembourg~Mariembourg
 1800 Solières Sport~Solières
@@ -211,3 +211,10 @@
 1800 RCS Verlaine~Verlaine
 1800 KFC Merelbeke~Merelbeke
 1800 KSK Voorwaarts Zwevezele~Zwevezele
+1800 Club Brugge II~Bruges II
+1800 RFC Wetteren~Wetteren
+1800 KVV Zelzate~Zelzate
+1800 KFC Houtvenne~Houtvenne
+1800 RSC Union Dieleghem Jette~Dieleghem
+1800 RFC Warnant~Warnant
+1800 FC Ganshoren~Ganshoren

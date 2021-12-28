@@ -1,4 +1,4 @@
-604
+623
 ______,?, , ,????, ,????
 achtjo,Achterberg,John,1971-07-08,NED,Utrecht,NED
 adamji,Adamson,Jimmy,1929-04-04,ENG,Ashington,ENG
@@ -36,6 +36,7 @@ bailmi,Bailey,Mike,1942-02-27,ENG,Wisbech,ENG
 ballal,Ball,Alan,1945-05-12,ENG,Farnworth,ENG
 ballke,Ball,Kevin,1964-11-12,ENG,Hastings,ENG
 bamlhe,Bamlett,Herbert,1882-03-01,ENG, ,ENG
+barcwE,Barclay,William Edward,1857-06-14,ENG, ,ENG
 barkri,Barker,Richie,1939-11-23,ENG,Loughborough,ENG
 barlfr,Barlow,Frank,1946-10-15,ENG,Sheffield,ENG
 barnjo,Barnwell,John,1938-12-24,ENG,Newcastle,ENG
@@ -51,6 +52,7 @@ benira,Benítez,Rafa,1960-04-16,SPA,Madrid,SPA
 bensjo,Benson,John,1942-12-23,SCO,Arbroath,SCO
 bentjj,Bentley,John James,1860-06-01,ENG, ,ENG
 bibbsa,Bibbo,Salvatore,1974-08-24,ENG,Basingstoke,ENG
+bielma,Bielsa,Marcelo,1955-07-21,ARG,Rosario,ARG
 bilisl,Bilić,Slaven,1968-09-11,CRO,Split,CRO
 bingbi,Bingham,Billy,1931-08-05,NIR,Belfast,NIR
 birrbi,Birrell,Billy,1897-03-13,SCO,Callardyke,SCO
@@ -164,6 +166,7 @@ durbal,Durban,Alan,1941-07-07,WAL,Bridgend,WAL
 dychse,Dyche,Sean,1971-06-28,ENG,Kettering,ENG
 earpfw,Earp,Frederick William,1860-10-01,ENG, ,ENG
 eastge,Eastham,George,1936-09-23,ENG,Blackpool,ENG
+edwajo,Edwards,Joe,1986-09-26,ENG, ,ENG
 edwawi,Edwards,Willis,1903-04-28,ENG,Newton,ENG
 emerun,Emery,Unai,1971-11-03,SPA,Hondarribia,SPA
 eriksg,Eriksson,Sven-Göran,1948-02-05,SWE,Sunne,SWE
@@ -242,6 +245,7 @@ hawojo,Haworth,John,1876-01-01,ENG, ,ENG
 hayejv,Hayes,James Vincent,1879-03-24,ENG, ,ENG
 headbe,Head,Bertram,1916-06-06,ENG,Midsomer Norton,ENG
 heavwf,Heaven,W Frank,1873-01-01,ENG, ,ENG
+heckpa,Heckingbottom,Paul,1977-07-17,ENG,Barnsley,ENG
 hickhn,Hickson,H N, ,ENG, ,ENG
 hiddgu,Hiddink,Guus,1946-11-08,NED,Varsseveld,NED
 hildcg,Hilditch,Clarence George,1894-06-02,ENG, ,ENG
@@ -294,11 +298,13 @@ kersda,Kerslake,David,1966-06-19,ENG,London,ENG
 keyscl,Keys,Clement,1847-01-01,ENG, ,ENG
 kiddbr,Kidd,Brian,1949-05-29,ENG,Collyhurst,ENG
 kinges,King,Ernest Sydney,1873-01-01,ENG, ,ENG
+kingle,King,Ledley,1980-10-12,ENG,London,ENG
 kinnjo,Kinnear,Joe,1946-12-27,IRL,Dublin,IRL
 klopju,Klopp,Jürgen,1967-06-16,GER,Stuttgart,GER
 knigke,Knighton,Ken,1944-02-20,ENG,Mexborough,ENG
 knigle,Knighton,Leslie,1887-03-15,ENG,Church Gresley,ENG
 koemro,Koeman,Ronald,1963-03-21,NED,Zaandam,NED
+krawpe,Krawietz,Peter,1971-12-31,GER,Mainz,GER
 kylerh,Kyle,Robert H,1870-01-01,NIR, ,NIR
 lambbi,Lambton,Bill,1914-12-02,ENG,Nottingham,ENG
 lambpa,Lambert,Paul,1969-08-07,SCO,Glasgow,SCO
@@ -312,7 +318,9 @@ lawsbr,Laws,Brian,1961-10-14,ENG,Wallsend,ENG
 leexgo,Lee,Gordon,1934-07-13,ENG,Cannock,ENG
 leexsa,Lee,Sammy,1959-02-07,ENG,Liverpool,ENG
 leveed,Lever,Eddie,0000-00-00,ENG, ,ENG
+lewira,Lewington,Ray,1956-09-07,ENG,London,ENG
 liddge,Liddell,George,1895-07-14,ENG,Murton,ENG
+lillju,Lillo, ,1965-11-02,SPA,Tolosa,SPA
 lindma,Lindley,Maurice,1915-12-05,ENG,Keighley,ENG
 littbr,Little,Brian,1953-11-25,ENG,Peterlee,ENG
 livedo,Livemore,Douglas,1947-12-21,ENG,Prescot,ENG
@@ -322,6 +330,7 @@ lloyla,Lloyd,Larry,1948-10-06,ENG,Bristol,ENG
 lochaw,Lochhead,Arthur William,1897-12-08,SCO, ,SCO
 lockha,Lockett,Harry,1855-01-01,ENG, ,ENG
 lombat,Lombardo,Attilio,1966-01-06,ITA,Santa Maria la Fossa,ITA
+lougto,Loughlan,Tony,1970-01-19,IRL,London,ENG
 lyaljo,Lyall,John,1940-02-24,ENG,Ilford,ENG
 macaar,Macaulay,Archibald,1915-07-30,SCO,Falkirk,SCO
 macdke,MacDonald,Kevin,1960-11-22,SCO,Inverness,SCO
@@ -339,6 +348,7 @@ mangje,Mangnall,James Ernest,1866-01-13,ENG, ,ENG
 marsja,Marshall,Jack,1917-05-29,ENG,Bolton,ENG
 martge,Martin,George,1899-07-14,SCO,Glasgow,SCO
 martro,Martínez,Roberto,1973-07-13,SPA,Lerida,SPA
+masory,Mason,Ryan,1991-06-13,ENG,London,ENG
 massal,Massie,Alex,1906-03-13,SCO,Possilpark,SCO
 mastro,Masters,Robert, ,ENG, ,ENG
 mathth,Mather,Thomas,1876-01-01,ENG, ,ENG
@@ -377,6 +387,7 @@ mercjo,Mercer,Joe,1914-08-09,ENG,Ellesmere Port,ENG
 mercwi,Mercer,William,1969-05-22,ENG,Liverpool,ENG
 merrda,Merrington,Dave,1945-01-26,ENG,Newcastle-upon-Tyne,ENG
 merrgi,Merrick,Gil,1922-01-26,ENG,Birmingham,ENG
+mertpe,Mertesacker,Per,1984-09-29,GER,Hannover,GER
 methja,Methven,James,1868-12-07,SCO, ,SCO
 meulre,Meulensteen,René,1964-03-25,NED,Beugen,NED
 middro,Middleton,Robert, ,ENG, ,ENG
@@ -394,6 +405,7 @@ moorda,Moore,Darren,1974-04-22,JAM,Birmingham,ENG
 moorjo,Moore,John,1943-12-21,SCO,Harthill,SCO
 moraro,Moran,Ronnie,1934-02-28,ENG,Crosby,ENG
 morrge,Morrell,George, ,SCO, ,SCO
+morrjo,Morris,Jody,1978-12-22,ENG,London,ENG
 morrtr,Morris,Trevor,1920-09-06,WAL,Gorslas,WAL
 mounpa,Mountain,Pat,1976-08-01,WAL,Pontypridd,WAL
 mourjo,Mourinho,José,1963-01-26,POR,Setubal,POR
@@ -461,6 +473,7 @@ rayxri,Ray,Richard,1876-02-04,ENG, ,ENG
 redkha,Redknapp,Harry,1947-03-02,ENG,Poplar,ENG
 reedle,Reed,Les,1952-12-09,ENG,Wapping,ENG
 reevar,Reeves,Arthur,1837-01-01,ENG, ,ENG
+reidbi,Reid,Billy,1963-07-18,SCO,Glasgow,SCO
 reidpe,Reid,Peter,1956-06-20,ENG,Huyton,ENG
 revido,Revie,Don,1927-07-10,ENG,Middlesbrough,ENG
 ricepa,Rice,Pat,1949-03-17,NIR,Belfast,NIR
@@ -481,6 +494,7 @@ rowlws,Rowley,William Spencer,1865-07-01,ENG, ,ENG
 royljo,Royle,Joe,1949-04-08,ENG,Liverpool,ENG
 ruthjo,Rutherford,John,1884-10-12,ENG,Starb 1963 im Alter von 79 Jahren.,ENG
 ryanji,Ryan,Jimmy,1945-05-12,SCO,Stirling,SCO
+sacrjo,Sacramento,João,1989-01-31,POR,Barcelos,POR
 sancla,Sanchez,Lawrie,1959-10-22,NIR,Reading,ENG
 santja,Santini,Jacques,1952-04-25,FRA,Delle,FRA
 sarrma,Sarri,Maurizio,1959-01-10,ITA,Napoli,ITA
@@ -505,6 +519,7 @@ siblfr,Sibley,Frank,1947-12-04,ENG,Uxbridge,ENG
 siewja,Siewert,Jan,1982-08-23,GER,Mayen,GER
 silljo,Sillett,John,1936-07-20,ENG,Southampton,ENG
 silvma,Silva,Marco,1977-07-12,POR,Lisboa,POR
+silvru,Silva,Rui,1977-03-14,SPA, ,SPA
 sirrja,Sirrel,James,1922-02-02,SCO,Glasgow,SCO
 slutle,Slutskiy,Leonid,1971-05-04,RUS,Volgograd,RUS
 smital,Smith,Alan,1946-12-28,ENG, ,ENG
@@ -538,6 +553,7 @@ strago,Strachan,Gordon,1957-02-09,SCO,Edinburgh,SCO
 strida,Stringer,Dave,1944-10-15,ENG,Southtown,ENG
 sturpa,Sturrock,Paul,1956-10-10,SCO,Ellon,SCO
 suarro,Suart,Ron,1920-11-18,ENG,Barrow-in-Furness,ENG
+sudemW,Sudell,Maj. William,1850-07-17,ENG, ,ENG
 suggco,Suggett,Colin,1948-12-30,ENG,Chester,ENG
 sutcaf,Sutcliffe,Arthur F, ,ENG, ,ENG
 swinge,Swindin,George,1914-12-04,ENG,Campsall,ENG
@@ -549,6 +565,7 @@ taylgr,Taylor,Graham,1944-09-15,ENG,Worksop,ENG
 taylja,Taylor,Jack,1914-02-15,ENG,Barnsley,ENG
 taylpe,Taylor,Peter,1953-01-03,ENG,Rochford,ENG
 taylwa,Taylor,Walter,1901-00-00,ENG,Manchester,ENG
+terrjo,Terry,John,1980-12-07,ENG,Barking,ENG
 thiche,Thickett,Henry,1873-03-28,ENG,Starb am 15. November 1920 im Alter von 47 Jahren.,ENG
 thomjh,Thompson,James Hunter, ,ENG, ,ENG
 thomjo,Thomson,Jock,1906-07-06,SCO,Thornton,SCO
@@ -557,7 +574,9 @@ tinnja,Tinn,Jack,1878-01-20,ENG,South Shields,ENG
 toddco,Todd,Colin,1948-12-12,ENG,Chester-le-Street,ENG
 toffpd,De Toffol,Paolo,1961-06-28,ITA,Belluno,ITA
 toshjo,Toshack,John,1949-03-22,WAL,Cardiff,WAL
+tourko,Touré,Kolo,1981-03-19,CIV,Sokuora Bouake,CIV
 trotji,Trotter,Jimmy,1899-11-25,ENG,Easington,ENG
+tuchth,Tuchel,Thomas,1973-08-29,GER,Krumbach,GER
 turna1,Turner,Arthur, ,ENG,Starb 1949.,ENG
 turnar,Turner,Arthur,1909-04-01,ENG,Chesterton,ENG
 turngr,Turner,Graham,1947-10-05,ENG,Ellesmere Port,ENG

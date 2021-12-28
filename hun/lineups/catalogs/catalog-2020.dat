@@ -1,6 +1,6 @@
 dibude,Dénes,Dibusz,1990-11-16,HUN,0,90,P,0,0,0,0,denes-dibusz
 grofda,Dávid,Gróf,1989-04-17,HUN,0,99,P,0,0,0,0,david-grof
-szecge,Gergő,Szécsi,1989-02-07,HUN,0,99,P,0,0,0,0,gergoe-szecsi
+szecge,Gergő,Szécsi,1989-02-07,HUN,0,1,P,0,0,0,0,gergoe-szecsi
 vargad,Ádám,Varga,1999-02-12,HUN,0,42,P,0,0,0,0,adam-varga_2
 blazmi,Miha,Blažič,1993-05-08,SLO,0,25,F,0,0,0,0,miha-blazic
 botken,Endre,Botka,1994-08-25,HUN,0,21,F,0,0,0,0,endre-botka
@@ -9,15 +9,13 @@ dvalla,Lasha,Dvali,1995-05-14,GEO,0,33,F,0,0,0,0,lasha-dvali
 frimab,Abraham,Frimpong,1993-04-06,GHA,0,5,F,0,0,0,0,abraham-frimpong
 heisma,Marcel,Heister,1992-07-29,GER,0,26,F,0,0,0,0,marcel-heister
 otigke,Kenneth,Otigba,1992-08-29,HUN,0,22,F,0,0,0,0,kenneth-otigba
-valeda,Dávid,Valencsik,1996-02-26,HUN,0,22,F,0,0,0,0,david-valencsik
 zoltdo,Dominik,Zoltán,2002-08-11,HUN,0,53,F,0,0,0,0,dominik-zoltan
-cserko,Kornél,Csernik,1998-07-02,HUN,0,53,M,0,0,0,0,kornel-csernik
 csonan,Andras,Csonka,2000-05-01,HUN,0,51,M,0,0,0,0,andras-csonka
 kharig,Igor,Kharatin,1995-02-02,UKR,0,14,M,0,0,0,0,igor-kharatin
 leanle, ,Leandro,1982-03-19,HUN,0,16,M,0,0,0,0,leandro_6
 lodiga,Gastón,Lódico,1998-05-28,ARG,0,27,M,0,0,0,0,gaston-lodico
 ngueto,Tokmac,Nguen,1993-10-20,NOR,0,10,M,0,0,0,0,tokmac-nguen
-ramaam,Ammar,Ramadan,2001-01-05,HUN,0,10,M,0,0,0,0,ammar-ramadan
+ramaam,Ammar,Ramadan,2001-01-05,HUN,0,13,M,0,0,0,0,ammar-ramadan
 sigeda,Dávid,Sigér,1990-11-30,HUN,0,18,M,0,0,0,0,david-siger
 skvami,Michal,Škvarka,1992-08-19,SVK,0,92,M,0,0,0,0,michal-skvarka
 somawe, ,Somália,1988-09-28,BRA,0,7,M,0,0,0,0,somalia_3
@@ -51,7 +49,6 @@ csoeri,Richárd,Csősz,1997-04-22,HUN,12,33,M,0,0,0,0,richard-csoesz
 fereja,János,Ferenczi,1991-04-03,HUN,12,11,M,0,0,0,0,janos-ferenczi
 haboyu,Yurіy,Habovda,1989-05-06,UKR,12,19,M,0,0,0,0,yury-habovda
 hariat,Attila,Haris,1997-01-23,HUN,12,18,M,0,0,0,0,attila-haris
-korona,Nándor,Kóródi,1999-08-15,HUN,12,18,M,0,0,0,0,nandor-korodi
 kusner,Erik,Kusnyír,2000-02-07,HUN,12,29,M,0,0,0,0,erik-kusnyir
 szabbe,Bence,Szabó,1998-01-16,HUN,12,16,M,0,0,0,0,bence-szabo_3
 toezda,Dániel,Tőzsér,1985-05-12,HUN,12,8,M,0,0,0,0,daniel-toezser
@@ -61,7 +58,6 @@ damaal,Alex,Damásdi,1997-03-27,HUN,12,26,A,0,0,0,0,alex-damasdi
 garbha,Haruna,Garba,1994-01-17,NGR,12,99,A,0,0,0,0,haruna-garba
 kundno,Norbert,Kundrák,1999-05-18,HUN,12,65,A,0,0,0,0,norbert-kundrak
 milulu,Luka,Milunović,1992-12-21,SRB,12,10,A,0,0,0,0,luka-milunovic
-nagyke,Kevin,Nagy,1995-09-11,HUN,12,70,A,0,0,0,0,kevin-nagy
 szecma,Márk,Szécsi,1994-05-22,HUN,12,88,A,0,0,0,0,mark-szecsi
 trujni,Nikola,Trujić,1992-04-14,SRB,12,92,A,0,0,0,0,nikola-trujic
 vargke,Kevin,Varga,1996-03-30,HUN,12,21,A,0,0,0,0,kevin-varga
@@ -87,13 +83,13 @@ meskmy,Mykhailo,Meskhi,1997-02-26,UKR,134,97,M,0,0,0,0,mykhailo-meskhi
 nagyda,Dániel,Nagy,1991-03-15,HUN,134,55,M,0,0,0,0,daniel-nagy_2
 pekala,László,Pekár,1993-01-20,HUN,134,9,M,0,0,0,0,laszlo-pekar
 szelta,Tamás,Szeles,1993-12-07,HUN,134,88,M,0,0,0,0,tamas-szeles
+tothdo,Dominik,Tóth,2001-06-17,HUN,134,76,M,0,0,0,0,dominik-toth
 vajdsa,Sándor,Vajda,1991-12-14,HUN,134,77,M,0,0,0,0,sandor-vajda_2
-wieldo,Dominik,Wieland,1999-09-25,HUN,134,77,M,0,0,0,0,dominik-wieland
 cserta,Tamás,Cseri,1988-01-15,HUN,134,24,A,0,0,0,0,tamas-cseri
 dragfi,Filip,Dragóner,1998-03-12,HUN,134,71,A,0,0,0,0,filip-dragoner
 jurima,Marin,Jurina,1993-11-26,BOS,134,99,A,0,0,0,0,marin-jurina
-novacs,Csanád,Novák,1994-09-24,HUN,134,99,A,0,0,0,0,csanad-novak
 takata,Tamás,Takács,1991-02-20,HUN,134,91,A,0,0,0,0,tamas-takacs_2
+torval,Alexander,Torvund,2000-08-01,HUN,134,19,A,0,0,0,0,alexander-torvund
 varjla,László,Varjas,2000-05-17,HUN,134,28,A,0,0,0,0,laszlo-varjas
 zivzbu,Budu,Zivzivadze,1994-03-10,GEO,134,11,A,0,0,0,0,budu-zivzivadze
 katama,Matija,Katanec,1990-05-04,CRO,134, , ,0,0,0,0,matija-katanec
@@ -110,6 +106,7 @@ kovaad,Adam,Kovacsik,1991-04-04,HUN,13,74,P,0,0,0,0,adam-kovacsik
 fiolat,Attila,Fiola,1990-02-17,HUN,13,5,F,0,0,0,0,attila-fiola
 hangsz,Szilveszter,Hangya,1994-01-02,HUN,13,65,F,0,0,0,0,szilveszter-hangya
 juharo,Roland,Juhász,1983-07-01,HUN,13,23,F,0,0,0,0,roland-juhasz
+mocsat,Attila,Mocsi,2000-05-29,HUN,13,20,F,0,0,0,0,attila-mocsi
 muslvi,Visar,Musliu,1994-11-13,MAC,13,16,F,0,0,0,0,visar-musliu
 negolo,Loïc,Négo,1991-01-15,FRA,13,11,F,0,0,0,0,loic-nego
 vinipa,Paulo,Vinícius,1990-02-21,HUN,13,3,F,0,0,0,0,paulo-vinicius
@@ -144,14 +141,12 @@ fodoma,Marcell,Fodor,1987-10-27,HUN,15,2,F,0,0,0,0,marcell-fodor
 nagyja,János,Nagy,1992-08-07,HUN,15,8,F,0,0,0,0,janos-nagy_4
 nagyta,Tamás,Nagy,1988-01-18,HUN,15,14,F,0,0,0,0,tamas-nagy_3
 szabal,Alex,Szabó,1998-08-26,HUN,15,5,F,0,0,0,0,alex-szabo_2
-taraig,Igors,Tarasovs,1988-10-16,LAT,15,32,F,0,0,0,0,igors-tarasovs
 urxxla,László,Ur,1988-03-05,HUN,15,21,F,0,0,0,0,laszlo-ur
 vachcs,Csaba,Vachtler,1993-03-16,HUN,15,6,F,0,0,0,0,csaba-vachtler
 bevazs,Zsombor,Bévárdi,1999-01-30,HUN,15,9,M,0,0,0,0,zsombor-bevardi
 borbak,Ákos,Borbély,2000-06-12,HUN,15,13,M,0,0,0,0,akos-borbely
 csikno,Norbert,Csíki,1991-05-21,HUN,15,7,M,0,0,0,0,norbert-csiki
 farkau,Aurél,Farkas,1994-03-31,HUN,15,23,M,0,0,0,0,aurel-farkas
-telmrg,Rabil,Godzsajev-Telmán,1997-12-06,HUN,15,3,M,0,0,0,0,rabil-godzsajev-telman
 hadava,Valentin,Hadaró,1995-06-08,HUN,15,11,M,0,0,0,0,valentin-hadaro
 hegeda,Dávid,Hegedűs,1985-06-06,HUN,15,22,M,0,0,0,0,david-hegeds
 nagykr,Krisztián,Nagy,1995-07-18,HUN,15,24,M,0,0,0,0,krisztian-nagy_2
@@ -166,12 +161,14 @@ birodo,Dominik,Bíró,1998-06-25,HUN,15,10,A,0,0,0,0,dominik-biro
 kereza,Zalán,Keresztes,2001-06-17,HUN,15,25,A,0,0,0,0,zalan-keresztes
 pintad,Ádám,Pintér,2001-12-25,HUN,15,19,A,0,0,0,0,adam-pinter_2
 belige,Gergő,Beliczky,1990-07-03,HUN,15, , ,0,0,0,0,gergoe-beliczky
+taraig,Igors,Tarasovs,1988-10-16,LAT,15, , ,0,0,0,0,igors-tarasovs
 poplma,Matej,Poplatnik,1992-07-15,SLO,15, , ,0,0,0,0,matej-poplatnik
 zsiger,Ervin,Zsiga,1991-07-11,ROM,15, , ,0,0,0,0,ervin-zsiga
 vojnal,Aljoša,Vojnović,1985-10-24,CRO,15, , ,0,0,0,0,aljosa-vojnovic
 markva,Vanja,Marković,1994-06-20,SRB,15, , ,0,0,0,0,vanja-markovic
 toemba,Bálint,Tömösvári,1998-06-14,HUN,15, , ,0,0,0,0,balint-toemoesvari
 tothge,Gergely,Tóth,1992-05-02,HUN,15, , ,0,0,0,0,gergely-toth
+avetab,Abov,Avetisyan,2001-10-03,UKR,160,36,P,0,0,0,0,abov-avetisyan
 dombda,Dávid,Dombó,1993-02-26,HUN,160,32,P,0,0,0,0,david-dombo
 mincmi,Mihai,Mincă,1984-10-08,ROM,160,1,P,0,0,0,0,mihai-minc
 zoelil,Illés,Zöldesi,1998-02-09,HUN,160,31,P,0,0,0,0,illes-zoeldesi
@@ -180,24 +177,29 @@ berith,Theodoros,Berios,1989-03-21,GRE,160,26,F,0,0,0,0,theodoros-berios
 enexco,Cornel,Ene,1993-07-21,ROM,160,14,F,0,0,0,0,cornel-ene
 protra,Radoš,Protić,1987-01-31,SRB,160,3,F,0,0,0,0,rados-protic
 rubuta,Tamás,Rubus,1989-07-13,HUN,160,33,F,0,0,0,0,tamas-rubus
+zalacz,Czene,Zalán,2002-12-22,HUN,160,2,F,0,0,0,0,czene-zalan
+biroro,Roland,Biró,2003-05-30,HUN,160,13,M,0,0,0,0,roland-biro
 bumbcl,Claudiu,Bumba,1994-01-05,ROM,160,5,M,0,0,0,0,claudiu-bumba
 heixvi,Viktor,Hei,1996-02-02,UKR,160,30,M,0,0,0,0,viktor-hei
 kararo,Roman,Karasyuk,1991-03-27,UKR,160,91,M,0,0,0,0,roman-karasyuk
 kravan,Anton,Kravchenko,1991-03-23,UKR,160,4,M,0,0,0,0,anton-kravchenko
 lucalu, ,Lucas,1989-05-06,BRA,160,11,M,0,0,0,0,lucas_20
 melnbo,Bogdan,Melnyk,1997-01-04,UKR,160,18,M,0,0,0,0,bogdan-melnyk
+riznvi,Viktor,Riznicsenko,2002-06-21,HUN,160,93,M,0,0,0,0,viktor-riznicsenko
 simosl,Slobodan,Simović,1989-05-22,SRB,160,45,M,0,0,0,0,slobodan-simovic
 tsoust,Stavros,Tsoukalas,1988-05-28,GRE,160,8,M,0,0,0,0,stavros-tsoukalas
 vianfe,Fernando,Viana,1992-02-20,BRA,160,19,A,0,0,0,0,fernando-viana
 goszan,András,Gosztonyi,1990-11-07,HUN,160,21,A,0,0,0,0,andras-gosztonyi
 jeleri,Richárd,Jelena,1998-01-08,HUN,160,6,A,0,0,0,0,richard-jelena
+khymva,Vasyl,Khymich,2001-05-17,HUN,160,17,A,0,0,0,0,vasyl-khymich
 kovama,Márk,Kovácsréti,2000-09-01,HUN,160,23,A,0,0,0,0,mark-kovacsreti
 obrane,Nemanja,Obradović,1989-05-29,SRB,160,12,A,0,0,0,0,nemanja-obradovic
 sassje, ,Sassá,1988-01-26,BRA,160,7,A,0,0,0,0,sassa
+szoele,Levente,Szőr,2001-01-14,HUN,160,70,A,0,0,0,0,levente-szoer
 tiscpa,Patrik,Tischler,1991-07-30,HUN,160,9,A,0,0,0,0,patrik-tischler
 grozgh,Gheorghe,Grozav,1990-09-29,ROM,160, , ,0,0,0,0,gheorghe-grozav
 secohu,Hugo,Seco,1988-06-17,POR,160, , ,0,0,0,0,hugo-seco
-felilu, ,Felipe,1984-02-22,BRA,160, , ,0,0,0,0,felipe_14
+felilu,Luiz,Felipe,1984-02-22,BRA,160, , ,0,0,0,0,felipe_14
 picoan,Anderson,Pico,1988-11-04,BRA,160, , ,0,0,0,0,anderson-pico
 negrse,Sergiu,Negruţ,1993-04-01,ROM,160, , ,0,0,0,0,sergiu-negru
 antabo,Botond,Antal,1991-08-22,HUN,18,99,P,0,0,0,0,botond-antal
@@ -217,16 +219,15 @@ adukjo,Joachim,Adukor,1993-05-02,GHA,18,88,M,0,0,0,0,joachim-adukor
 egerta,Tamás,Egerszegi,1991-08-02,HUN,18,22,M,0,0,0,0,tamas-egerszegi
 hasafl,Florent,Hasani,1997-03-30,KOS,18,8,M,0,0,0,0,florent-hasani
 iszlbe,Bence,Iszlai,1990-05-29,HUN,18,90,M,0,0,0,0,bence-iszlai
-korbkr,Kristof,Korbely,2000-05-26,HUN,18,70,M,0,0,0,0,kristof-korbely
 markda,Dávid,Márkvárt,1994-09-20,HUN,18,14,M,0,0,0,0,david-markvart
 shesse,Sergiy,Shestakov,1990-04-12,UKR,18,17,M,0,0,0,0,sergiy-shestakov
-szabba,Balázs,Szábo,1995-10-28,HUN,18,17,M,0,0,0,0,balazs-szabo
 ternpa,Patrik,Ternován,1997-06-10,HUN,18,74,M,0,0,0,0,patrik-ternovan
 tothbo,Borisz,Tóth,2002-07-07,HUN,18,18,M,0,0,0,0,borisz-toth
 boroga,Gábor,Boros,1997-09-26,HUN,18,97,A,0,0,0,0,gabor-boros
 cortjo,José,Córtes,1994-09-08,COL,18,11,A,0,0,0,0,jose-cortes_2
 ivanmi,Mirko,Ivanovski,1989-10-31,MAC,18,12,A,0,0,0,0,mirko-ivanovski
 kissta,Tamás,Kiss,2000-11-24,HUN,18,9,A,0,0,0,0,tamas-kiss_3
+korbkr,Kristof,Korbely,2000-05-26,HUN,18,70,A,0,0,0,0,kristof-korbely
 makrga,Gábor,Makrai,1996-06-26,HUN,18,7,A,0,0,0,0,gabor-makrai
 molnga,Gábor,Molnár,1994-05-16,HUN,18,16,A,0,0,0,0,gabor-molnar
 ovarzs,Zsolt,Óvári,1997-03-29,HUN,18,74,A,0,0,0,0,zsolt-ovari
@@ -271,7 +272,7 @@ sankbo,Bojan,Sanković,1993-11-21,CRO,2, , ,0,0,0,0,bojan-sankovic
 feczro,Róbert,Feczesin,1986-02-22,HUN,2, , ,0,0,0,0,robert-feczesin
 kovalo,Lóránt,Kovács,1993-06-06,ROM,2, , ,0,0,0,0,lorant-kovacs
 meszka,Karol,Mészáros,1993-07-25,SVK,2, , ,0,0,0,0,karol-meszaros
-auerma,Martin,Auerbach,2002-11-03,HUN,35, ,P,0,0,0,0,martin-auerbach
+auerma,Martin,Auerbach,2002-11-03,HUN,35,74,P,0,0,0,0,martin-auerbach
 hegela,Lajos,Hegedüs,1987-12-19,HUN,35,19,P,0,0,0,0,lajos-hegedues
 tothb1,Balázs,Tóth,1997-09-04,HUN,35,1,P,0,0,0,0,balazs-toth_3
 deutla,László,Deutsch,1999-03-09,HUN,35,99,F,0,0,0,0,laszlo-deutsch
@@ -282,10 +283,10 @@ meisth,Thomas,Meißner,1991-03-26,GER,35,5,F,0,0,0,0,thomas-meissner
 nagyzs,Zsolt,Nagy,1993-05-25,HUN,35,25,F,0,0,0,0,zsolt-nagy_3
 nandbo,Botond,Nándori,2000-10-04,HUN,35,80,F,0,0,0,0,botond-nandori
 spancs,Csaba,Spandler,1996-03-07,HUN,35,23,F,0,0,0,0,csaba-spandler
-trajde,Dejan,Trajkovski,1992-04-14,SLO,35,6,F,0,0,0,0,dejan-trajkovski
 bokrsz,Szilárd,Bokros,2000-03-28,HUN,35,4,M,0,0,0,0,szilard-bokros
 favoar,Artem,Favorov,1994-03-19,UKR,35,14,M,0,0,0,0,artem-favorov
 knezjo,Josip,Knežević,1988-10-03,CRO,35,30,M,0,0,0,0,josip-knezevic
+magyzs,Zsolt,Magyar,2001-07-11,HUN,35,52,M,0,0,0,0,zsolt-magyar_2
 plseja,Jakub,Plšek,1993-12-13,CZE,35,15,M,0,0,0,0,jakub-plsek
 radima,Márton,Radics,2001-12-02,HUN,35,20,M,0,0,0,0,marton-radics
 sosxbe,Bence,Sós,1994-05-10,HUN,35,9,M,0,0,0,0,bence-sos
@@ -296,17 +297,14 @@ vargjo,József,Varga,1988-06-06,HUN,35,33,M,0,0,0,0,jozsef-varga_3
 vlasja,Ján,Vlasko,1990-01-11,SVK,35,11,M,0,0,0,0,jan-vlasko
 gyurad,Ádám,Gyurcsó,1991-03-06,HUN,35,77,A,0,0,0,0,adam-gyurcso
 komagy,György,Komáromi,2002-01-19,HUN,35,97,A,0,0,0,0,gyoergy-komaromi
-magyzs,Zsolt,Magyar,2001-07-11,HUN,35,52,A,0,0,0,0,zsolt-magyar_2
 mebrgo,Golgol,Mebrahtu,1990-08-28,AUS,35,7,A,0,0,0,0,golgol-mebrahtu
 slaglu,Luciano,Slagveer,1993-10-05,NED,35,11,A,0,0,0,0,luciano-slagveer
-szecma,Márk,Szécsi,1994-05-22,HUN,35,11,A,0,0,0,0,mark-szecsi
 tamana,Nandor,Támas,2000-10-24,ROM,35,29,A,0,0,0,0,nandor-tamas
 vancda,David,Vaněček,1991-03-09,CZE,35,17,A,0,0,0,0,david-vancek
 hentez,Ezekiel,Henty,1993-05-13,NGR,35, , ,0,0,0,0,ezekiel-henty
 kissta,Tamás,Kiss,2000-11-24,HUN,35, , ,0,0,0,0,tamas-kiss_3
 fuello,Lóránd,Fülöp,1997-07-24,ROM,35, , ,0,0,0,0,lorand-fueloep
 skrial,Alen,Skribek,2001-04-11,HUN,35, , ,0,0,0,0,alen-skribek
-borsvi,Vilmos,Borsos,2000-09-21,HUN,37, ,P,0,0,0,0,vilmos-borsos
 holcad,Ádám,Holczer,1988-03-28,HUN,37,19,P,0,0,0,0,adam-holczer
 raczge,Gergő,Rácz,1995-11-20,HUN,37,31,P,0,0,0,0,gergoe-racz
 balota,Támas,Báló,1984-01-12,HUN,37,7,F,0,0,0,0,tamas-balo
@@ -317,7 +315,6 @@ lenzbe,Bence,Lenzsér,1996-04-09,HUN,37,96,F,0,0,0,0,bence-lenzser
 osvaat,Attila,Osváth,1995-12-10,HUN,37,11,F,0,0,0,0,attila-osvath
 poorpa,Patrik,Poór,1993-11-15,HUN,37,24,F,0,0,0,0,patrik-poor
 szabja,János,Szabó,1989-07-11,HUN,37,30,F,0,0,0,0,janos-szabo
-szalan,András,Szalai,1998-02-03,HUN,37,30,F,0,0,0,0,andras-szalai
 baloba,Balász,Balogh,1990-06-11,HUN,37,18,M,0,0,0,0,balasz-balogh
 bertla,Lajos,Bertus,1990-09-26,HUN,37,26,M,0,0,0,0,lajos-bertus
 kecsta,Tamás,Kecskés,1986-01-15,HUN,37,8,M,0,0,0,0,tamas-kecskes
@@ -336,7 +333,6 @@ koenno,Norbert,Könyves,1989-06-10,HUN,37,42,A,0,0,0,0,norbert-koenyves
 koevro,Róbert,Kővári,1995-11-23,HUN,37,27,A,0,0,0,0,robert-koevari
 sajbma,Máté,Sajbán,1995-12-19,HUN,37,20,A,0,0,0,0,mate-sajban
 simoan,András,Simon,1990-03-30,HUN,37,90,A,0,0,0,0,andras-simon
-simoma,Márk,Simon,1996-06-04,HUN,37,90,A,0,0,0,0,mark-simon
 szenak,Ákos,Szendrei,2003-01-23,HUN,37,23,A,0,0,0,0,akos-szendrei
 remimo,Mohamed,Remili,1985-05-31,HUN,37, , ,0,0,0,0,mohamed-remili
 fejean,András,Fejes,1988-08-26,HUN,37, , ,0,0,0,0,andras-fejes
@@ -366,12 +362,12 @@ irimge,Gergő,Irimiás,2001-09-08,HUN,3,85,M,0,0,0,0,gergoe-irimias
 kambdj,Đorđe,Kamber,1983-11-20,BOS,3,24,M,0,0,0,0,djordje-kamber
 keszba,Barna,Kesztyűs,1993-09-04,HUN,3,31,M,0,0,0,0,barna-kesztys
 nagyge,Gergő,Nagy,1993-01-07,HUN,3,77,M,0,0,0,0,gergoe-nagy
+tothp5,Péter,Tóth,2001-04-10,HUN,3,92,M,0,0,0,0,peter-toth_6
 cipfdo,Dominik,Cipf,2001-01-31,HUN,3,20,A,0,0,0,0,dominik-cipf
 georma,Mayron,George,1993-10-23,CRC,3,11,A,0,0,0,0,mayron-george
-herjkr,Kristóf,Herjeczki,1998-06-29,HUN,3,11,A,0,0,0,0,kristof-herjeczki
 lanzda,Davide,Lanzafame,1987-02-09,ITA,3,9,A,0,0,0,0,davide-lanzafame
 laszda,Dávid,László,2002-04-25,HUN,3,82,A,0,0,0,0,david-laszlo
-szenno,Norbert,Szendrei,2000-03-27,HUN,3,55,A,0,0,0,0,norbert-szendrei
+szenno,Norbert,Szendrei,2000-03-27,HUN,3,27,A,0,0,0,0,norbert-szendrei
 ugraro,Roland,Ugrai,1992-11-13,HUN,3,19,A,0,0,0,0,roland-ugrai
 vadokr,Krisztián,Vadócz,1985-05-03,HUN,3, , ,0,0,0,0,krisztian-vadocz
 hatiab,Änis,Ben-Hatira,1988-07-18,TUN,3, , ,0,0,0,0,aenis-ben-hatira
@@ -383,7 +379,7 @@ morefe,Federico,Moretti,1988-10-28,ITA,3, , ,0,0,0,0,federico-moretti
 hegema,Márk,Hegedűs,1998-01-16,HUN,3, , ,0,0,0,0,mark-hegeds
 lukada,Dániel,Lukàcs,1996-04-03,HUN,3, , ,0,0,0,0,daniel-lukacs
 demjpa,Patrik,Demjén,1998-03-22,HUN,9,1,P,0,0,0,0,patrik-demjen
-kovazo,Zoltán,Kovács,1984-10-29,HUN,9,1,P,0,0,0,0,zoltan-kovacs_2
+koecbe,Bence,Köcse,2002-02-25,HUN,9,46,P,0,0,0,0,bence-koecse
 szemno,Norbert,Szemerédi,1993-12-08,HUN,9,34,P,0,0,0,0,norbert-szemeredi
 bedibe,Bence,Bedi,1996-11-14,HUN,9,27,F,0,0,0,0,bence-bedi
 bobada,Dávid,Bobál,1995-08-31,HUN,9,5,F,0,0,0,0,david-bobal
@@ -391,12 +387,10 @@ bollbe,Bendegúz,Bolla,1999-11-22,HUN,9,77,F,0,0,0,0,bendeguz-bolla
 hegeol,Olivér,Hegedüs,2001-02-12,HUN,9,50,F,0,0,0,0,oliver-hegedues
 katama,Matija,Katanec,1990-05-04,CRO,9,32,F,0,0,0,0,matija-katanec
 kocsge,Gergő,Kocsis,1994-03-07,HUN,9,21,F,0,0,0,0,gergoe-kocsis
-konyko,Kornél,Kónya,1995-03-20,HUN,9,21,F,0,0,0,0,kornel-konya
 lesjzo,Zoran,Lesjak,1988-02-01,CRO,9,4,F,0,0,0,0,zoran-lesjak
 szepja,János,Szépe,1996-03-15,SVK,9,19,F,0,0,0,0,janos-szepe
 tamakr,Krisztián,Tamás,1995-04-18,HUN,9,25,F,0,0,0,0,krisztian-tamas
 barcda,Dávid,Barczi,1989-02-01,HUN,9,31,M,0,0,0,0,david-barczi
-horvkr,Krisztofer,Horváth,2000-01-08,HUN,9,31,M,0,0,0,0,krisztofer-horvath
 katefa,Fanos,Katelaris,1996-08-26,CYP,9,6,M,0,0,0,0,fanos-katelaris
 mitrni,Nikola,Mitrović,1987-01-02,SRB,9,22,M,0,0,0,0,nikola-mitrovic
 ostrst,Stjepan,Ostrek,1996-08-09,CRO,9,30,M,0,0,0,0,stjepan-ostrek
@@ -405,7 +399,6 @@ bababe,Benjamin,Babati,1995-11-29,HUN,9,10,A,0,0,0,0,benjamin-babati
 bobage,Gergely,Bobál,1995-08-31,HUN,9,12,A,0,0,0,0,gergely-bobal
 boellu,Lukács,Bőle,1990-03-27,HUN,9,11,A,0,0,0,0,lukacs-boele
 ikobed,Eduvie,Ikoba,1997-10-26,USA,9,23,A,0,0,0,0,eduvie-ikoba
-kovaa1,Ádám,Kovács,1991-04-14,HUN,9,23,A,0,0,0,0,adam-kovacs_2
 mcwoer,Eric,McWoods,1995-10-21,USA,9,9,A,0,0,0,0,eric-mcwoods
 radoan,András,Radó,1993-09-09,HUN,9,7,A,0,0,0,0,andras-rado
 devesz,Szilárd,Devecseri,1990-02-13,HUN,9, , ,0,0,0,0,szilard-devecseri

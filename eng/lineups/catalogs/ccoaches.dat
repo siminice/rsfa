@@ -1,4 +1,4 @@
-604
+623
 ______,?, , , ,????, ,????,unknown
 achtjo,Achterberg,John, ,1971-07-08,NED,Utrecht,NED,john-achterberg
 adamji,Adamson,Jimmy,James Adamson,1929-04-04,ENG,Ashington,ENG,jimmy-adamson
@@ -36,6 +36,7 @@ bailmi,Bailey,Mike,Michael Alfred Bailey,1942-02-27,ENG,Wisbech,ENG,mike-bailey
 ballal,Ball,Alan,Alan James Ball Jr.,1945-05-12,ENG,Farnworth,ENG,alan-ball
 ballke,Ball,Kevin, ,1964-11-12,ENG,Hastings,ENG,kevin-ball
 bamlhe,Bamlett,Herbert,Herbert Bamlett,1882-03-01,ENG, ,ENG,___
+barcwE,Barclay,William Edward,William Edward Barclay,1857-06-14,ENG, ,ENG,___
 barkri,Barker,Richie,Richie Joseph Barker,1939-11-23,ENG,Loughborough,ENG,richie-barker_2
 barlfr,Barlow,Frank, ,1946-10-15,ENG,Sheffield,ENG,frank-barlow
 barnjo,Barnwell,John, ,1938-12-24,ENG,Newcastle,ENG,john-barnwell
@@ -51,6 +52,7 @@ benira,Benítez,Rafa,Rafael Benítez Maudes,1960-04-16,SPA,Madrid,SPA,rafa-benit
 bensjo,Benson,John,John Harvey Benson,1942-12-23,SCO,Arbroath,SCO,john-benson_2
 bentjj,Bentley,John James,John James Bentley,1860-06-01,ENG, ,ENG,___
 bibbsa,Bibbo,Salvatore, ,1974-08-24,ENG,Basingstoke,ENG,salvatore-bibbo
+bielma,Bielsa,Marcelo,Marcelo Alberto Bielsa,1955-07-21,ARG,Rosario,ARG,marcelo-bielsa
 bilisl,Bilić,Slaven, ,1968-09-11,CRO,Split,CRO,slaven-bilic
 bingbi,Bingham,Billy,William Laurie Bingham,1931-08-05,NIR,Belfast,NIR,billy-bingham
 birrbi,Birrell,Billy,William Birrell,1897-03-13,SCO,Callardyke,SCO,billy-birrell
@@ -164,6 +166,7 @@ durbal,Durban,Alan,William Alan Durban,1941-07-07,WAL,Bridgend,WAL,alan-durban
 dychse,Dyche,Sean,Sean Mark Dyche,1971-06-28,ENG,Kettering,ENG,sean-dyche
 earpfw,Earp,Frederick William,Frederick William Earp,1860-10-01,ENG, ,ENG,___
 eastge,Eastham,George,George Edward Eastham,1936-09-23,ENG,Blackpool,ENG,george-eastham
+edwajo,Edwards,Joe, ,1986-09-26,ENG, ,ENG,joe-edwards_2
 edwawi,Edwards,Willis, ,1903-04-28,ENG,Newton,ENG,willis-edwards
 emerun,Emery,Unai,Unai Emery Etxegoien,1971-11-03,SPA,Hondarribia,SPA,unai-emery
 eriksg,Eriksson,Sven-Göran, ,1948-02-05,SWE,Sunne,SWE,sven-goeran-eriksson
@@ -242,6 +245,7 @@ hawojo,Haworth,John,John Haworth,1876-01-01,ENG, ,ENG,___
 hayejv,Hayes,James Vincent,James Vincent Hayes,1879-03-24,ENG, ,ENG,___
 headbe,Head,Bertram,Bertram James Head,1916-06-06,ENG,Midsomer Norton,ENG,bertram-head
 heavwf,Heaven,W Frank,W Frank Heaven,1873-01-01,ENG, ,ENG,___
+heckpa,Heckingbottom,Paul, ,1977-07-17,ENG,Barnsley,ENG,paul-heckingbottom
 hickhn,Hickson,H N,H N Hickson, ,ENG, ,ENG,___
 hiddgu,Hiddink,Guus, ,1946-11-08,NED,Varsseveld,NED,guus-hiddink
 hildcg,Hilditch,Clarence George,Clarence George Hilditch,1894-06-02,ENG, ,ENG,___
@@ -294,11 +298,13 @@ kersda,Kerslake,David, ,1966-06-19,ENG,London,ENG,david-kerslake
 keyscl,Keys,Clement,Clement Keys,1847-01-01,ENG, ,ENG,___
 kiddbr,Kidd,Brian, ,1949-05-29,ENG,Collyhurst,ENG,brian-kidd
 kinges,King,Ernest Sydney,Ernest Sydney King,1873-01-01,ENG, ,ENG,___
+kingle,King,Ledley,Ledley Brenton King,1980-10-12,ENG,London,ENG,ledley-king
 kinnjo,Kinnear,Joe,Joseph Patrick Kinnear,1946-12-27,IRL,Dublin,IRL,joe-kinnear
 klopju,Klopp,Jürgen,Jürgen Norbert Klopp,1967-06-16,GER,Stuttgart,GER,juergen-klopp
 knigke,Knighton,Ken,Kenneth Knighton,1944-02-20,ENG,Mexborough,ENG,ken-knighton
 knigle,Knighton,Leslie,Albert Leslie Knighton,1887-03-15,ENG,Church Gresley,ENG,leslie-knighton
 koemro,Koeman,Ronald, ,1963-03-21,NED,Zaandam,NED,ronald-koeman
+krawpe,Krawietz,Peter, ,1971-12-31,GER,Mainz,GER,peter-krawietz
 kylerh,Kyle,Robert H,Robert H Kyle,1870-01-01,NIR, ,NIR,___
 lambbi,Lambton,Bill,William Ernest Lambton,1914-12-02,ENG,Nottingham,ENG,bill-lambton
 lambpa,Lambert,Paul, ,1969-08-07,SCO,Glasgow,SCO,paul-lambert
@@ -312,7 +318,9 @@ lawsbr,Laws,Brian, ,1961-10-14,ENG,Wallsend,ENG,brian-laws
 leexgo,Lee,Gordon,Gordon Francis Lee,1934-07-13,ENG,Cannock,ENG,gordon-lee
 leexsa,Lee,Sammy,Samuel Lee,1959-02-07,ENG,Liverpool,ENG,sammy-lee
 leveed,Lever,Eddie, ,0000-00-00,ENG, ,ENG,eddie-lever
+lewira,Lewington,Ray,Raymond Lewington,1956-09-07,ENG,London,ENG,ray-lewington
 liddge,Liddell,George, ,1895-07-14,ENG,Murton,ENG,george-liddell
+lillju,Lillo, ,Juan Manuel Lillo Diez,1965-11-02,SPA,Tolosa,SPA,lillo_2
 lindma,Lindley,Maurice, ,1915-12-05,ENG,Keighley,ENG,maurice-lindley
 littbr,Little,Brian, ,1953-11-25,ENG,Peterlee,ENG,brian-little
 livedo,Livemore,Douglas,Douglas Ernest Livemore,1947-12-21,ENG,Prescot,ENG,douglas-livemore
@@ -322,6 +330,7 @@ lloyla,Lloyd,Larry,Laurence Valentine Lloyd,1948-10-06,ENG,Bristol,ENG,larry-llo
 lochaw,Lochhead,Arthur William,Arthur William Lochhead,1897-12-08,SCO, ,SCO,___
 lockha,Lockett,Harry,Harry Lockett,1855-01-01,ENG, ,ENG,___
 lombat,Lombardo,Attilio, ,1966-01-06,ITA,Santa Maria la Fossa,ITA,attilio-lombardo
+lougto,Loughlan,Tony,Antony John Loughlan,1970-01-19,IRL,London,ENG,tony-loughlan
 lyaljo,Lyall,John,John Angus Lyall,1940-02-24,ENG,Ilford,ENG,john-lyall_2
 macaar,Macaulay,Archibald,Archibald Renwick Macaulay,1915-07-30,SCO,Falkirk,SCO,archibald-macaulay
 macdke,MacDonald,Kevin,Kevin Duncan MacDonald,1960-11-22,SCO,Inverness,SCO,kevin-macdonald
@@ -339,6 +348,7 @@ mangje,Mangnall,James Ernest,James Ernest Mangnall,1866-01-13,ENG, ,ENG,___
 marsja,Marshall,Jack,John Gilmore Marshall,1917-05-29,ENG,Bolton,ENG,jack-marshall
 martge,Martin,George,George Scott Martin,1899-07-14,SCO,Glasgow,SCO,george-martin
 martro,Martínez,Roberto,Roberto Martínez Montoliú,1973-07-13,SPA,Lerida,SPA,roberto-martinez
+masory,Mason,Ryan,Ryan Glen Mason,1991-06-13,ENG,London,ENG,ryan-mason
 massal,Massie,Alex,Alexander C. Massie,1906-03-13,SCO,Possilpark,SCO,alex-massie
 mastro,Masters,Robert,Robert Masters, ,ENG, ,ENG,___
 mathth,Mather,Thomas,Thomas Mather,1876-01-01,ENG, ,ENG,___
@@ -377,6 +387,7 @@ mercjo,Mercer,Joe,Joseph Mercer,1914-08-09,ENG,Ellesmere Port,ENG,joe-mercer
 mercwi,Mercer,William, ,1969-05-22,ENG,Liverpool,ENG,william-mercer
 merrda,Merrington,Dave,David Robert Merrington,1945-01-26,ENG,Newcastle-upon-Tyne,ENG,dave-merrington
 merrgi,Merrick,Gil,Gilbert Harold Merrick,1922-01-26,ENG,Birmingham,ENG,gil-merrick
+mertpe,Mertesacker,Per, ,1984-09-29,GER,Hannover,GER,per-mertesacker
 methja,Methven,James,James Methven,1868-12-07,SCO, ,SCO,___
 meulre,Meulensteen,René,Reinhard Jozef Petrus Meulensteen,1964-03-25,NED,Beugen,NED,rene-meulensteen
 middro,Middleton,Robert,Robert Middleton, ,ENG, ,ENG,___
@@ -394,6 +405,7 @@ moorda,Moore,Darren, ,1974-04-22,JAM,Birmingham,ENG,darren-moore
 moorjo,Moore,John, ,1943-12-21,SCO,Harthill,SCO,john-moore
 moraro,Moran,Ronnie,Ronald Moran,1934-02-28,ENG,Crosby,ENG,ronnie-moran
 morrge,Morrell,George,George Morrell, ,SCO, ,SCO,___
+morrjo,Morris,Jody,Jody Steven Morris,1978-12-22,ENG,London,ENG,jody-morris
 morrtr,Morris,Trevor, ,1920-09-06,WAL,Gorslas,WAL,trevor-morris
 mounpa,Mountain,Pat,Patrick Douglas Mountain,1976-08-01,WAL,Pontypridd,WAL,pat-mountain
 mourjo,Mourinho,José,José Mário Santos Mourinho Félix,1963-01-26,POR,Setubal,POR,jose-mourinho
@@ -461,6 +473,7 @@ rayxri,Ray,Richard,Richard Ray,1876-02-04,ENG, ,ENG,___
 redkha,Redknapp,Harry, ,1947-03-02,ENG,Poplar,ENG,harry-redknapp
 reedle,Reed,Les,Leslie Reed,1952-12-09,ENG,Wapping,ENG,les-reed
 reevar,Reeves,Arthur,Arthur Reeves,1837-01-01,ENG, ,ENG,___
+reidbi,Reid,Billy,William Reid,1963-07-18,SCO,Glasgow,SCO,billy-reid
 reidpe,Reid,Peter, ,1956-06-20,ENG,Huyton,ENG,peter-reid
 revido,Revie,Don,Donald George Revie,1927-07-10,ENG,Middlesbrough,ENG,don-revie
 ricepa,Rice,Pat,Patrick James Rice,1949-03-17,NIR,Belfast,NIR,pat-rice
@@ -481,6 +494,7 @@ rowlws,Rowley,William Spencer,William Spencer Rowley,1865-07-01,ENG, ,ENG,___
 royljo,Royle,Joe,Joseph Royle,1949-04-08,ENG,Liverpool,ENG,joe-royle
 ruthjo,Rutherford,John,John Rutherford,1884-10-12,ENG,Starb 1963 im Alter von 79 Jahren.,ENG,___
 ryanji,Ryan,Jimmy,James Ryan,1945-05-12,SCO,Stirling,SCO,jimmy-ryan_2
+sacrjo,Sacramento,João,João Sacramento,1989-01-31,POR,Barcelos,POR,joao-sacramento
 sancla,Sanchez,Lawrie,Lawrence Philip Sanchez,1959-10-22,NIR,Reading,ENG,lawrie-sanchez
 santja,Santini,Jacques, ,1952-04-25,FRA,Delle,FRA,jacques-santini
 sarrma,Sarri,Maurizio, ,1959-01-10,ITA,Napoli,ITA,maurizio-sarri
@@ -505,6 +519,7 @@ siblfr,Sibley,Frank,Frank Phillip Sibley,1947-12-04,ENG,Uxbridge,ENG,frank-sible
 siewja,Siewert,Jan, ,1982-08-23,GER,Mayen,GER,jan-siewert
 silljo,Sillett,John, ,1936-07-20,ENG,Southampton,ENG,john-sillett
 silvma,Silva,Marco,Marco Alexandre Saraiva Silva,1977-07-12,POR,Lisboa,POR,marco-silva_2
+silvru,Silva,Rui,Rui Silva,1977-03-14,SPA, ,SPA,rui-silva_3
 sirrja,Sirrel,James, ,1922-02-02,SCO,Glasgow,SCO,james-sirrel
 slutle,Slutskiy,Leonid,Leonid Viktorovich Slutskiy,1971-05-04,RUS,Volgograd,RUS,leonid-slutskiy
 smital,Smith,Alan, ,1946-12-28,ENG, ,ENG,alan-smith_4
@@ -538,6 +553,7 @@ strago,Strachan,Gordon,Gordon David Strachan,1957-02-09,SCO,Edinburgh,SCO,gordon
 strida,Stringer,Dave,David Ronald Stringer,1944-10-15,ENG,Southtown,ENG,dave-stringer
 sturpa,Sturrock,Paul,Paul Whitehead Sturrock,1956-10-10,SCO,Ellon,SCO,paul-sturrock
 suarro,Suart,Ron,Ronald Suart,1920-11-18,ENG,Barrow-in-Furness,ENG,ron-suart
+sudemW,Sudell,Maj. William,Maj. William Sudell,1850-07-17,ENG, ,ENG,___
 suggco,Suggett,Colin, ,1948-12-30,ENG,Chester,ENG,colin-suggett
 sutcaf,Sutcliffe,Arthur F,Arthur F Sutcliffe, ,ENG, ,ENG,___
 swinge,Swindin,George,George Hedley Swindin,1914-12-04,ENG,Campsall,ENG,george-swindin
@@ -549,6 +565,7 @@ taylgr,Taylor,Graham, ,1944-09-15,ENG,Worksop,ENG,graham-taylor
 taylja,Taylor,Jack,John Taylor,1914-02-15,ENG,Barnsley,ENG,jack-taylor_2
 taylpe,Taylor,Peter,Peter John Taylor,1953-01-03,ENG,Rochford,ENG,peter-taylor
 taylwa,Taylor,Walter, ,1901-00-00,ENG,Manchester,ENG,walter-taylor
+terrjo,Terry,John,John George Terry,1980-12-07,ENG,Barking,ENG,john-terry
 thiche,Thickett,Henry,Henry Thickett,1873-03-28,ENG,Starb am 15. November 1920 im Alter von 47 Jahren.,ENG,___
 thomjh,Thompson,James Hunter,James Hunter Thompson, ,ENG, ,ENG,___
 thomjo,Thomson,Jock,John Ross Thomson,1906-07-06,SCO,Thornton,SCO,jock-thomson
@@ -557,7 +574,9 @@ tinnja,Tinn,Jack,John William Tinn,1878-01-20,ENG,South Shields,ENG,jack-tinn
 toddco,Todd,Colin, ,1948-12-12,ENG,Chester-le-Street,ENG,colin-todd
 toffpd,De Toffol,Paolo, ,1961-06-28,ITA,Belluno,ITA,paolo-de-toffol
 toshjo,Toshack,John,John Benjamin Toshack,1949-03-22,WAL,Cardiff,WAL,john-toshack
+tourko,Touré,Kolo,Kolo Abib Touré,1981-03-19,CIV,Sokuora Bouake,CIV,kolo-toure
 trotji,Trotter,Jimmy, ,1899-11-25,ENG,Easington,ENG,jimmy-trotter
+tuchth,Tuchel,Thomas, ,1973-08-29,GER,Krumbach,GER,thomas-tuchel
 turna1,Turner,Arthur,Arthur Turner, ,ENG,Starb 1949.,ENG,___
 turnar,Turner,Arthur,Arthur Owen Turner,1909-04-01,ENG,Chesterton,ENG,arthur-turner
 turngr,Turner,Graham,Graham John Turner,1947-10-05,ENG,Ellesmere Port,ENG,graham-turner
