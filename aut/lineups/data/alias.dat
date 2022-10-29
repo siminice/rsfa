@@ -1,4 +1,4 @@
-1800 SV Amateure Wien~Amateure*1927 FK Austria Wien~Austria
+1800 Wiener Amateur SV~Amateure*1927 FK Austria Wien~Austria*1974 FK Austria WAC Wien~Austria*1977 FK Austria Wien~Austria
 1800 SK Rapid Wien~Rapid
 1945 FC Wacker Innsbruck~Innsbruck*1972 SpG Swarovski Innsbruck~Innsburck*1986 FC Swarovski Tirol Innsbruck~Tirol*1993 FC Tirol Innsburck~Tirol*2003 FC Wacker Innsbruck~Innsbruck
 1800 SK Sturm Graz~Sturm
@@ -6,10 +6,10 @@
 1800 Grazer AK~GAK
 1800 Linzer ASK~LASK
 1800 Wiener Sportclub~Sportclub
-1945 Admira Wien~Admira*1960 Admira Energie Wien~Admira*1972 Admira Wacker Wien~Admira Wacker*1998 VfB Admira Wacker Mödling~Admira*2009 FC Trenkwalder Admira Wacker~Admira*2014 FC Admira Wacker Mödling~Admira
+1945 SK Admira Wien~Admira*1960 SK Admira Energie Wien~Admira*1972 FC Admira Wacker Wien~Admira Wacker*1998 VfB Admira Wacker Mödling~Admira*2009 FC Trenkwalder Admira Wacker~Admira*2014 FC Admira Wacker Mödling~Admira*2999 SK Admira Wien~Admira
 1800 First Vienna FC~Vienna
 1800 Favoritner AC~Favorit
-1945 VÖEST Linz~VÖEST*1978 SK VOEST Linz~VOEST*1992 FC Stahl Linz~Stahl Linz*1994 FC Linz~FC Linz*1998 Linzer ASK~LASK
+1945 VÖEST Linz~VÖEST*1978 SK VOEST Linz~VOEST*1992 FC Stahl Linz~Stahl Linz*1994 FC Linz~FC Linz*1998 Linzer ASK~LASK*2999 SK VOEST Linz~VOEST
 1800 BSK Voith St. Pölten~~St.Pölten*1970 VSE Sankt Pölten~St.Pölten*2001 SKN Sankt Pölten~St.Pölten
 1800 SK Vorwärts Steyr~Steyr
 1800 SC Eisenstadt~Eisenstadt
@@ -24,7 +24,7 @@
 1800 SC Austria Lustenau~Lustenau
 1800 Kremser SC~Krems
 1800 SV Ried im Innkreis~Ried
-1800 Simmeringer SC~Simmering
+1800 1. Simmeringer SC~Simmering
 1800 SV Sankt Veit~St.Veit
 1800 SC Neusiedl 1919~Neusiedl
 1900 Welser SC~Wels*1965 Hertha Wels~Wels*1970 Union Wels~Wels*1990 Eintracht Wels~Wels*2000 FC Wels~Wels
@@ -37,20 +37,20 @@
 1800 WSG Wattens~Wattens
 1800 Salzburger AK 1914~Salzburg AK
 1800 Flavia Solva Wagna~Flavia Solva
-1800 Schwechater SC~Schwechat
+1800 1. Schwechater SC~Schwechat
 1800 SK Kufstein~Kufstein*2000 FC Kufstein~Kufstein
 1800 VfB Union Mödling~Mödling*1960 VfB Mödling~Mödling
 1800 Union Vöcklamarkt~Vocklmarkt
 1800 USV Salzburg~USV Salzburg*1961 ASV Salzburg~ASV Salzburg*1971 USV Salzburg~USV Salzburg
 1800 Wolfsberger AC~Wolfsberg*2014 WAC/St.Andrä II~WAC II*2016 Wolfsberger AC II~Wolfsberg II
-1800 FC Dornbirn 1913~FC Dornbirn
+1800 FC Dornbirn 1913~Dornbirn
 1800 LUV Graz~LUV Graz
 1800 ASV Austria Vösendorf~Vösendorf
-1800 SR Donaufeld~Donaufeld
+1800 SC Donaufelder Rasenspieler~Donaufeld*1965 SR Donaufeld~Donaufeld
 1800 Oberwart SV~Oberwart
 1800 FC Puch~Puch
 1800 SV Braunau~Braunau
-1800 Wacker Wiener Neustadt SC~Neustadt*1946 1 Wiener Neustädter SC~Neustadt*2009 SC Magna Wiener Neustadt~Neustadt
+1800 1. Wiener Neustädter SC~Neustadt*2009 SC Magna Wiener Neustadt~Neustadt
 1945 ASK Klingenbach*2000 FC Klingenbach
 1800 TSV Hartberg~Hartberg
 1800 ASK Kottingbrunn~Kottingbrunn
@@ -60,7 +60,7 @@
 1800 FC Vorarlberg~Vorarlberg
 1800 WSG Radenthein~Radenthein
 1800 SK Bischofshofen~Bischofshofen
-1945 SC Wacker Wien~Wacker*1972 Admira/Wacker Wien~Admira/Wacker
+1945 SC Wacker Wien~Wacker*1972 FC Admira/Wacker Wien~Admira/Wacker*2999 SC Wacker Wien~Wacker
 1800 SV Thörl~Thorl
 1800 ASK Voitsberg~Voitsberg
 1800 Badener AC~Baden
@@ -92,7 +92,7 @@
 1800 Dornbirner SV~SV Dornbirn
 1800 SC Kundl~Kundl
 1800 Blau Weiß Feldkirch~Feldkirch
-1800 SC Rasenspieler Hochstädt~Hochstädt*1960 FC Höchst~Hochst
+1800 FC Höchst~Hochst
 1800 SK Hallein~Hallein
 1800 Innsbrucker AC~Innsbruck AC
 1800 ESV Austria Innsbruck~Aus. Innsbruck
@@ -100,24 +100,24 @@
 1800 SV Henndorf~Henndorf
 1800 SC ESV Parndorf 1919~Parndorf
 1800 Wiener AC~WAC
-1800 SVS Linz~SVS Linz
-1800 ÖMV Olympia Stadlau~Olympia*1961 SK Slovan Olympia~Olympia
+1800 ASK Sparta Linz~Sparta Linz*1954 SV Stickstoff Linz~SVS Linz*1974 ASKÖ SV Franckviertel Linz~SVF Linz*2017 SV Chemie Linz~Chemie Linz*2099 SVS Linz~SVS Linz
+1800 SC Olympia 33 Wien~Olympia*1957 ÖMV Olympia Stadlau~Olympia*1961 SK Slovan Olympia~Olympia
 1800 SC Nicholson Wien~Nicholson*1933 FC Wien~FC Wien
-1800 FC Stadlau~Stadlau
+1800 Normania Stadlau~Stadlau*1919 Stadlauer Sportclub~Stadlau*1926 Stadlauer SV~Stadlau*1935 FC Wolfrum~Wolfrum*1946 FC Stadlau~Stadlau*1960 FC ÖMV Stadlau~Stadlau*2006 FC Stadlau~Stadlau
 1800 ESV Austria Graz~Austria Graz
-1800 Floridsdorfer AC~Floridsdorf*2008 FAC Team für Wien~FAC*2010 Columbia Floridsdorf~Floridsdorf
-1800 Grazer SC~Grazer SC
-1800 FS Elektra~Elektra
+1800 Floridsdorfer AC~Floridsdorf*2008 FAC Team für Wien~FAC*2010 Columbia Floridsdorf~Floridsdorf*2999 Floridsdorfer AC~Floridsdorf
+1800 Grazer SC Straßenbahn~Grazer SC
+1800 FS Elektra Wien~Elektra*2022 TWL Elektra~Elektra
 1800 SV Gloggnitz~Gloggnitz
-1800 SK Slovan Wien~Slovan*1960 Slovan Olympia Wien~Slovan
-1800 SC Rapid Oberlaa Wien~Oberlaa
-1800 Post SV Wien~Post Wien
-1800 Helfort Wien~Helfort
+1800 SK Slovan HAC Wien~Slovan*1960 Slovan Olympia Wien~Slovan*2999 SK Slovan Hac Wien~Slovan
+1800 SC Rapid Oberlaa~Oberlaa*1945 KSG Oberlaa/Felten~Oberlaa*1946 SC Rapid Oberlaa~Oberlaa
+1800 Post SG Wien~Post*1941 Post SV Wien~Post
+1800 SC Helfort Wien~Helfort
 1800 SV Admira Wiener Neustadt~Admira WN
 1800 ASV Wienerberg~Wienerberg
 1800 SV Hall~SV Hall
 1800 SV Innsbruck~SV Innsbruck
-1800 SV Semperit Traiskirchen~Traiskirchen
+1800 SV Semperit Traiskirchen~Traiskirchen*2021 SG Traiskirchen/Tribuswinkel~Traiskirchen
 1800 BSV Enzesfeld-Hirtenberg~Enzesfeld
 1800 WSG Ferndorf~Ferndorf
 1800 ASK Sankt Valentin~St.Valentin
@@ -132,9 +132,9 @@
 1800 WSV Rosenthal~Rosenthal
 1800 FC Wolfurt~Wolfurt
 1800 Nußdorfer AC~Nussdorf
-1800 SK Amateure Steyr~Amateure Steyr
+1800 SK Amateure SDP Steyr~Steyr*1940 SK Amateure Steyr~Steyr
 1800 Klagenfurter AC~AC Klagenfurt
-1800 SC Red Star~Red Star
+1800 SC Red Star Wien~Red Star
 1800 SC Pinkafeld~Pinkafeld
 1800 SK Schwaz~Schwaz
 1800 ASK Köflach~Koflach
@@ -167,16 +167,16 @@
 1800 SC Siebenhirten~Siebenhirten
 1800 Westbahn Linz~Westbahn
 1800 Sparta Linz~Sparta Linz
-1800 SC Rasenspieler Hochstädt~Hochstadt
-1800 LSV Markersdorf/Pielach~Makrkersdorf
+1800 SC Rasenspieler Hochstädt~Hochstädt
+1800 LSV Markersdorf an der Pielach~Markersdorf
 1800 SG Reichsbahn~Reichsbahn
-1800 Austro-Fiat~Fiat*1939 SK Amateure Fiat~Fiat
+1800 Austro-Fiat Wien~Fiat*1939 SK Amateure-Fiat Wien~Fiat
 1800 SC Libertas Wien~Libertas
 1800 SC Hakoah Wien~Hakoah
 1800 SV Donau Wien~Donau
-1800 Brigittenauer AC~Brigittenauer
+1800 FC Ostmark Wien~Ostmark*1925 Brigittenauer AC~Brigittenau
 1800 ASV Hertha Wien~Hertha
-1800 SC Rudolfshügel~Rudolfshugel
+1800 SC Rudolfshügel~Rudolfshügel
 1800 FC Ostmark~Ostmark
 1800 Wiener Association FC~WAF
 1800 Vienna Cricket&FC~Cricket
@@ -227,7 +227,7 @@
 1800 Polizei SV Wien~PSV Wien*2003 PSV Team für Wien~Team für Wien*2010 FAC/Team für Wien~Team für Wien*2016 Floridsdorfer AC~Floridsdorf
 1800 SV Gleinstätten~Gleinstätten
 1800 SC Sollenau~Sollenau
-1800 Austria Salzburg~Austria Salzb
+1800 SV Austria Salzburg~Austria Salz
 1800 Union Innsbruck~Union Innsbr
 1800 SC Retz~Retz
 1800 ASC Götzendorf~Gotzendorf
@@ -252,7 +252,7 @@
 1800 ATSV Stadl-Paura~Stadl-Paura
 1800 ASK Ebreichsdorf~Ebreichsdorf
 1800 SC Gleisdorf 1919~Gleisdorf
-1800 SC Mannsdorf~Mannsdorf
+1800 SC Mannsdorf~Mannsdorf*2020 FC Marchfeld Mannsdorf-Großenzersdorf~Mannsdorf
 1800 FC Alberschwende~Alberschwende
 1800 TuS Bad Gleichenberg~Gleichenberg
 1800 ASK-BSC Bruck/Leitha~Bruck
@@ -261,3 +261,25 @@
 1800 FC Langenegg~Langenegg
 1800 SV Leobendorf~Leobendorf
 1800 SC Team Wiener Linien~Wiener Linien
+1800 SV Ried im Innkries II~Ried II
+1800 USV St.Anna am Aigen~St.Anna
+1800 ASV Draßburg~Draßburg
+1800 SV Stripfing~Stripfing
+1800 FC Lauterach~Lauterach
+1800 SC Röthis~Röthis
+1800 SV Kuchl~Kuchl
+1800 SC Imst~Imst
+1800 SV Telfs~Telfs
+1800 FC Zirl~Zirl
+1800 WSG Wattens II~Wattens II
+1800 FC Rotenberg~Rotenberg
+1800 SV Fügen~Fügen
+1800 FC Egg~Egg
+1800 SC Admira Dornbirn~Admira D
+1800 SK Treibach~Treibach
+1800 Favoritner SK Blau-Weiß~Favorit BW*1956 KSV Ankerbrot~Ankerbrot
+1800 Gaswerk VIII Wien~Gaswerk
+1800 Columbia XXI Wien~Columbia
+1800 Heiligenstädter SV~Heiligenst�adt
+1800 Favoritner SC~Favoritner SC
+1800 ESV Wacker Wiener Neustadt~Neustadt
