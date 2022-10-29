@@ -1,15 +1,21 @@
-377
+635
 abraru,Abramczik,Rüdiger,1956-02-18,GER,Gelsenkirchen,GER
 ackerv,Van Acker,Régi,1955-04-25,BEL,Beveren,BEL
+adamka,Adamek,Karl,1911-07-23,AUT,Wien,AUT
 adrico,Adriaanse,Co,1947-07-21,NED,Amsterdam,NED
 almero,Almer,Robert,1984-03-20,AUT,Bruck/Mur,AUT
+altxwa,Alt,Walter,1890-03-23,AUT,Saitz,CZE
+andrjo,Andres,Johann,0000-00-00,AUT, ,AUT
 angemi,Angerschmid,Michael,1974-02-24,AUT,Schärding,AUT
 antomi,Antolković,Milan,1915-09-27,CRO,Zagreb,YUG
 argajo,Argauer,Josef,1910-11-15,AUT,Wien,AUT
+artean,Artes,Anton,1907-12-17,AUT, , 
 assipe,Assion,Peter,1959-08-24,GER, ,GER
 aufhre,Aufhauser,René,1976-06-21,AUT,Voitsberg,AUT
 augekl,Augenthaler,Klaus,1957-09-26,GER,Fürstenzell,GER
+baarar,Baar,Artur,0000-00-00,AUT, ,AUT
 backha,Backe,Hans,1952-02-14,SWE, ,SWE
+balzfr,Balzer,Franz,0000-00-00,AUT, ,AUT
 bariot,Barić,Otto,1933-06-19,CRO,Eisenkappel,AUT
 barizo,Barišić,Zoran,1970-05-22,AUT,Wien,AUT
 barola,Baróti,Lajos,1914-08-19,HUN,Szeged,HUN
@@ -24,33 +30,47 @@ baurmi,Baur,Michael,1969-04-16,AUT,Innsbruck,AUT
 bearvl,Beara,Vladimir,1928-11-02,CRO,Zelovo,CRO
 benbch,Benbennek,Christian,1972-11-09,GER,Soltau,GER
 bendma,Bender,Manfred,1966-05-24,GER, ,GER
+bergma,Bergmann, ,0000-00-00,AUT, ,AUT
+bergot,Berger,Otto,0000-00-00,AUT, ,AUT
 bernma,Bernhard,Martin,1971-10-03,AUT,Feldkirch,AUT
 beseha,Besenlehner,Hans,0000-00-00,AUT, ,AUT
 bichdo,Bichler,Dominik,1990-05-16,AUT, ,AUT
 bindfr,Binder,Franz,1911-12-01,AUT,Sankt Pölten,AUT
 bindhe,Binder,Heinz,1943-01-29,AUT,Wien,AUT
 bjelne,Bjelica,Nenad,1971-08-20,CRO,Osijek,CRO
+blanfr,Blanka,Franz,0000-00-00,AUT, ,AUT
+blasch,Blaschko,F.,0000-00-00,AUT, ,AUT
 bliehe,Bliem,Helmut,0000-00-00,AUT, ,AUT
+blumjo,Blum,Josef,1898-02-04,AUT,Wien,AUT
 blutdo,Blutsch,Dolfi,1940-08-18,AUT,Wien,AUT
+branjo,Brandstetter,Josef,0000-00-00,AUT, ,AUT
+breima,Breitenfelder,Max,1920-05-19,AUT, , 
+brinth,Brinek,Theodor,0000-00-00,AUT, ,AUT
 brogpe,Brogeland,Per,1953-01-27,NOR, ,NOR
 bromco,Brom,Cor,1932-08-27,NED,Amsterdam,NED
+brueno,Brüll,Norbert,0000-00-00,AUT, ,AUT
+brunjo,Brunetzky,Josef,0000-00-00,AUT, ,AUT
 brzean,Brzeżańczyk,Antoni,1919-01-19,POL,Brzeżany,POL
 brziiv,Brzić,Ivan,1941-05-28,SRB,Novi Sad,YUG
 buchlo,Buchmann,Lothar,1936-08-15,GER, ,GER
 buesmi,Büskens,Mike,1968-03-19,GER,Düsseldorf,GER
 bufkfr,Bufka,František,1917-08-27,CZE, ,CZE
 bullan,Bulla,Anton,1901-04-17,SVK, ,SVK
+bunzld,Bunzl,Dr.,0000-00-00,AUT, ,AUT
 burgpe,Burgstaller,Peter,1964-02-13,AUT,Wien,AUT
 burida,Burić,Damir,1964-07-07,CRO,Split,CRO
 cajkts,Čajkovski,Tschik,1923-11-24,CRO,Zagreb,CRO
 canada,Canadi,Damir,1970-05-06,AUT,Wien,AUT
 chabla,Chabbi,Lassaad,1961-08-23,AUT,Tunis,TUN
 cherst,Cherchesov,Stanislav,1963-09-02,RUS,Alagir, 
+chregu,Chrenka,Gustav,0000-00-00,AUT, ,AUT
 ciprfr,Cipro,František,1947-04-13,CZE,Jihlava,CZE
 consdi,Constantini,Dietmar,1955-05-30,AUT,Innsbruck,AUT
 cooreg,Coordes,Egon,1944-07-13,GER,Wesermünde,GER
 crnkto,Crnković,Tomislav,1929-06-17,CRO,Kotor,MNT
+cserpa,Csernai,Pál,1932-10-21,HUN,Pilis,HUN
 cvjevl,Cvjetkovic,Vlado,1962-04-06,AUT, ,AUT
+czerfr,Czernicky,Franz,1902-09-16,AUT, , 
 dallbe,Dallos,Bernd,1966-08-23,AUT, ,AUT
 daumch,Daum,Christoph,1953-10-24,GER,Oelsnitz,GER
 daxbka,Daxbacher,Karl,1953-04-15,AUT,St. Pölten,AUT
@@ -58,127 +78,233 @@ deckka,Decker,Karl,1921-09-05,AUT,Wien,AUT
 dedema,Dedek,Martin,1970-03-29,AUT,Wien,AUT
 deutdo,Deutschl,Dominik,1996-02-11,AUT, ,AUT
 dienro,Dienst,Robert,1928-03-01,AUT,Wien,AUT
+dittvi,Dittrich,Vinzenz,0000-00-00,AUT, ,AUT
+diwiha,Diwisch,Hans,0000-00-00,AUT, , 
 djjumi,Đjuričić,Milan,1945-08-03,CRO,Osijek,YUG
 djulfu,Đulić,Fuad,1950-07-31,BOS,Banja Luka,BOS
 djurgo,Djuricin,Goran,1974-10-16,AUT,Wien,AUT
 dokuer,Dokupil,Ernst,1947-04-24,AUT,Wien,AUT
+donnot,Donnhauser,Otto,1918-11-05,AUT, , 
 dorfad,Dorfer,Adolf,0000-00-00,AUT, ,AUT
+dosejo,Dosedel,Josef,0000-00-00,AUT, ,AUT
 draxjo,Draxler,Josef,1921-02-05,AUT, ,AUT
+durelu,Durek,Ludwig,1921-01-27,AUT,Wien,AUT
 durska,Durspekt,Karl,1913-11-23,AUT,Wien,AUT
+duttro,Dutt,Robin,1965-01-24,GER,Köln-Lindenthal,GER
+dworjo,Dworak,Josef,0000-00-00,AUT, ,AUT
+eckebr,Eckerl,Bruno,0000-00-00,AUT, ,AUT
 eggeru,Eggenberger,Rudolf,1946-03-05,AUT,Wien,AUT
+ehrljo,Ehrlich,Johann,0000-00-00,AUT, ,AUT
+ehrlwi,Ehrlich,Willy,0000-00-00,AUT, ,AUT
 eigeha,Eigenstiller,Hans,1943-06-17,AUT, ,AUT
+eigeku,Eigenstiller,Kurt,0000-00-00,AUT, ,AUT
 eiseal,Eisele,Alfred,1947-04-26,AUT,Siegendorf,AUT
 ekmesa,Ekmečič,Savo,1948-05-09,AUT,Mostar,BOS
 elsnbr,Elsner,Branko,1929-11-23,SLO,Ljubljana,SLO
+eppxjo,Epp,Josef,1920-03-01,AUT, , 
 ertumu,Ertuğral,Muhsin,1959-09-15,TUR,Istanbul,TUR
 falljo,Fallmann,Jochen,1979-02-19,AUT,Sankt Pölten,AUT
+feigfe,Feigl,Ferdinand,0000-00-00,AUT, ,AUT
+feinfr,Feinböck,Franz,0000-00-00,AUT, ,AUT
 feldfe,Feldhofer,Ferdinand,1979-10-23,AUT,Vorau,AUT
 fellge,Fellner,Gerhard,1970-04-24,AUT,Saalfelden,AUT
+femboc,Femböck, ,0000-00-00,AUT, , 
 feurhe,Feurer,Herbert,1954-01-14,AUT,Aspang,AUT
+fialfr,Fiala,Franz,0000-00-00,AUT, ,AUT
+finkka,Fink,Karl,0000-00-00,AUT, ,AUT
 finkth,Fink,Thorsten,1967-10-29,GER,Dortmund,GER
+fiscch,Fischer,Charly,0000-00-00,AUT, ,AUT
+fiscri,Fischer,Richard,1917-01-27,AUT, , 
 floeru,Flögel,Rudi,1939-12-13,AUT,Wien,AUT
 fodafr,Foda,Franco,1966-04-23,GER,Mainz-Weisenau,GER
+forned,Forner,Edwin,0000-00-00,AUT, ,AUT
 franho,Franz,Horst,1940-06-17,GER, ,GER
 franjo,Frank,Johann,1938-05-14,AUT, ,AUT
 franwo,Frank,Wolfgang,1951-02-21,GER,Reichenbach an der Fils,GER
 frayge,Fraydl,Gernot,1939-12-10,AUT,Graz,AUT
+freyal,Frey,Alfred,0000-00-00,AUT, ,AUT
+fritf1,Fridthum,Ferdinand,1891-03-02,AUT,Wien,AUT
+fritfe,Fritsch,Ferdinand,0000-00-00,AUT, , 
+frodl_,Frodl, ,0000-00-00,AUT, ,AUT
 frueed,Frühwirth,Edi,1908-11-17,AUT,Wien,AUT
 fuchfr,Fuchs,Franz,1915-11-25,AUT, ,AUT
 fuchhe,Fuchsbichler,Heinz,1967-11-07,AUT,Voitsberg,AUT
 gagehe,Gager,Herbert,1969-09-18,AUT,Wien,AUT
 galler,Galli,Ernst,1914-06-26,AUT, ,AUT
 gargku,Garger,Kurt,1960-09-15,AUT,Strem,AUT
+gartre,Gartler,René,1985-10-21,AUT,Wien,AUT
+gaskar,Gaskell,Arthur,0000-00-00,ENG, ,ENG
+gauggu,Gauglica,Gustav,0000-00-00,AUT, ,AUT
 gayewo,Gayer,Wolfgang,1943-01-09,GER, ,GER
 gebhro,Gebhardt,Robert,1920-09-20,GER,Nürnberg,GER
+geitru,Geiter,Rudolf,0000-00-00,AUT, , 
 gemasr,Gemaljević,Srđan,1960-07-20,SRB,Sjenica,YUG
+gerdja,Gerdov,Janos,1923-05-13,HUN, , 
+gerhgu,Gerhart,Gustav,1922-02-04,AUT, , 
+gernle,Gernhardt,Leopold,1920-03-16,AUT,Wien,AUT
+geyeka,Geyer,Karl,0000-00-00,AUT, , 
 geyere,Geyer,Reiner,1964-04-20,GER,Röbersdorf,GER
+glasin,Glaser,Ing.,0000-00-00,AUT, ,AUT
 glasol,Glasner,Oliver,1974-08-28,AUT,Salzburg,AUT
 gludpa,Gludovatz,Paul,1946-06-10,AUT,Eberau,AUT
 grabwe,Grabherr,Werner,1985-09-08,AUT, ,AUT
+grafjo,Graf,Josef,0000-00-00,AUT, , 
+gregor,Gregor,Ferry,0000-00-00,AUT, ,AUT
 gregwe,Gregoritsch,Werner,1958-03-22,AUT,Graz,AUT
 gresgi,Gress,Gilbert,1941-12-17,FRA,Strasbourg,FRA
 grubsl,Grubor,Slobodan,1968-09-09,AUT,Rijeka,CRO
+grueru,Grünwald,Rudolf,0000-00-00,AUT, ,AUT
 grumth,Grumser,Thomas,1979-11-06,AUT, ,AUT
+grunge,Grüner,Georg,0000-00-00,AUT, ,AUT
+gschfr,Gschweidl,Fritz,1901-12-13,AUT,Wien,AUT
 gudeiv,Gudelj,Ivan,1960-09-21,CRO,Imotski,YUG
 guenal,Günthner,Alfred,1936-07-18,AUT,Linz,AUT
+gutkfr,Gutkas,Franz,1903-07-02,AUT, , 
 guttbe,Guttmann,Béla,1900-03-13,HUN,Budapest,HUN
 haanar,Haan,Arie,1948-11-16,NED,Finsterwolde,NED
+habier,Habitzl,Erich,0000-00-00,AUT, ,AUT
+hackos,Hackl,Oskar,0000-00-00,AUT, ,AUT
+haftot,Haftl,Otto,1902-11-29,AUT, , 
+hagljo,Hagler,Josef,0000-00-00,AUT, ,AUT
+hahnwi,Hahnemann,Willi,1914-04-14,AUT,Wien,AUT
+haidjo,Haider,Josef,0000-00-00,AUT, ,AUT
+haisjo,Haist,Josef,0000-00-00,AUT, ,AUT
 halava,Halama,Václav,1940-11-04,CZE,Jablonec nad Nisou,CZE
+haldhe,Haldenwang,Hermann,0000-00-00,AUT, ,AUT
 hamama,Hamann,Matthias,1968-02-10,GER,Waldsassen,GER
 hanbru,Hanbauer,Rudolf,1944-03-01,AUT, ,AUT
+hanrfr,Hanreiter,Franz,1913-11-04,AUT, , 
 happer,Happel,Ernst,1925-11-29,AUT,Wien,AUT
+hartka,Hartl,Karl,0000-00-00,AUT, , 
 hasifr,Hasil,Franz,1944-07-28,AUT,Wien,AUT
 haubha,Haubitz,Hannes,1956-09-15,AUT,Klagenfurt,AUT
+hausal,Hauser,Alexander,1984-06-23,AUT,St. Johann in Tirol,AUT
+hausma,Hausstätter,Max,1926-01-01,AUT, , 
+hayevi,Hayes,Vincent,0000-00-00,ENG, ,ENG
 heestv,von Heesen,Thomas,1961-10-01,GER,Höxter,GER
 heidch,Heidenreich,Christian,1981-11-13,AUT, ,AUT
 heinch,Heinle,Christian,1985-03-30,AUT, ,AUT
+heinka,Heinlein,Karl,1892-04-25,AUT,Wien,AUT
+heinle,Heinz,Leopold,0000-00-00,AUT, ,AUT
+heinr_,Heinisch,R.,0000-00-00,AUT, ,AUT
 heldsi,Held,Sigfried,1942-08-07,GER,Freudental,GER
+helleb,Hellebarth, ,0000-00-00,AUT, ,AUT
 helmpa,Helmes,Patrick,1984-03-01,GER,Köln,GER
 heraan,Heraf,Andreas,1967-09-10,AUT,Wien,AUT
 herbhe,Herbert,Helmut,1940-08-21,AUT, ,AUT
+herzan,Herzog,Andreas,1968-09-10,AUT,Wien,AUT
 hickjo,Hickersberger,Josef,1948-04-27,AUT,Amstetten,AUT
 hickth,Hickersberger,Thomas,1973-08-21,AUT,Offenbach am Main,GER
+hierha,Hierath,Hans,0000-00-00,AUT, ,AUT
+hiervi,Hierländer,Viktor,1900-06-07,AUT,Wien,AUT
 hintre,Hintermaier,Reinhold,1956-02-14,AUT,Altheim,AUT
 hlozer,Hložek,Ernst,1929-12-11,SVK,Bratislava,SVK
 hochhe,Hochhauser,Heinz,1947-02-06,AUT,Wels,AUT
+hoelru,Höllerl,Rudolf,0000-00-00,AUT, ,AUT
+hoelzl,Hölzl, ,0000-00-00,AUT, ,AUT
+hoenla,Hönig,Ladislaus,0000-00-00,AUT, ,AUT
+hoenlu,Hönig,Ludwig,0000-00-00,AUT, , 
 hoerjo,Hörmayer,Johann,1942-05-25,AUT, ,AUT
 hoerra,Hörgl,Rainer,1957-03-05,GER,Neukirchen,GER
 hoerwa,Hörmann,Walter,1961-09-13,AUT,Feldbach,AUT
 hoesth,Hösele,Thomas,1969-05-09,AUT, ,AUT
+hoffan,Hoffmann,Anton,0000-00-00,AUT, ,AUT
+hoffco,Hoffmann,Cornelius,0000-00-00,AUT, ,AUT
+hoffle,Hoffmann,Leopold,1905-10-31,AUT,Wien,AUT
+hofmst,Hofmann,Steffen,1980-09-09,GER,Würzburg,GER
+hofsjo,Hofstätter,Johann,1913-01-12,AUT, , 
 hofxer,Hof,Erich,1936-08-03,AUT,Wien,AUT
+hogaji,Hogan,Jimmy,0000-00-00,ENG, ,ENG
 hoheal,Hohenberger,Alfred,1931-12-17,AUT, ,AUT
+horejo,Horejs,Josef,0000-00-00,AUT, ,AUT
 horval,Horvatić,Alfons,1942-07-13,SLO, ,SLO
+horvjo,Horvath,Johann,1903-05-20,AUT, , 
 hrubho,Hrubesch,Horst,1951-04-17,GER,Hamm,GER
 hrusbo,Hruška,Bohumil,1930-08-02,CZE, ,CZE
+hubead,Huber,Adolf,1923-03-05,AUT,Wien,AUT
+hubeau,Huber,August,0000-00-00,AUT, ,AUT
 hubewi,Huberts,Willi,1938-02-22,AUT,Voitsberg,AUT
 huetad,Hütter,Adi,1970-02-11,AUT,Hohenems,AUT
+huetfe,Hüttl,Felix,0000-00-00,AUT, ,AUT
+humefe,Humenberger,Ferdinand,0000-00-00,AUT, ,AUT
+humeka,Humenberger,Karl,1906-10-25,AUT,Wien,AUT
+husslu,Hussak,Ludwig,0000-00-00,AUT, ,AUT
 hybape,Hyballa,Peter,1975-12-05,GER,Bocholt,GER
 iberro,Ibertsberger,Robert,1977-01-20,AUT,Neumarkt,AUT
 illoru,Illovszky,Rudolf,1922-02-21,HUN,Budapest,HUN
 ilsahe,Ilsanker,Herbert,1967-05-24,AUT,Hallein,AUT
 ilzech,Ilzer,Christian,1977-10-21,AUT, ,AUT
 ismava,Ismaël,Valérien,1975-09-28,FRA,Strasbourg,FRA
+jaisma,Jaissle,Matthias,1988-04-05,GER,Nürtingen,GER
+janaus,Janauschek, ,0000-00-00,AUT, ,AUT
 janofe,Janotka,Ferry,1945-10-17,AUT,Wien,AUT
 jaraku,Jara,Kurt,1950-10-14,AUT,Innsbruck,AUT
 jasist,Jasiołek,Stefan,1945-12-04,POL, ,POL
+jechjo,Jech,Josef,0000-00-00,AUT, ,AUT
 jerkdr,Jerković,Drazan,1936-08-06,CRO,Šibenik,CRO
 jochha,Jochum,Hannes,1977-01-08,AUT,Lienz,AUT
+jokssi,Joksch,Siegfried,1917-07-04,AUT,Süßenbrunn,AUT
+jonahe,Jonas,Heribert,0000-00-00,AUT, , 
 jurcni,Jurčević,Nikola,1966-09-14,CRO,Zagreb,CRO
 jurkla,Jurkemik,Ladislav,1953-07-20,SVK,Jacovce,SVK
 kaefwa,Käfer,Walter,1928-01-14,AUT, ,AUT
 kainwi,Kainrath,Wilhelm,1940-05-06,AUT, ,AUT
 kaipwi,Kaipel,Wilhelm,1948-11-20,AUT,Riedlingsdorf,AUT
+kallot,Kaller,Otto,0000-00-00,AUT, ,AUT
+kalmje,Kalmár,Jenő,1908-03-21,HUN,Mocsolad,HUN
 kaltgu,Kaltenbrunner,Günter,1943-07-28,AUT,Znojmo,CZE
+kandfr,Kandler,Friedrich,1926-01-14,AUT, , 
+kary__,Kary, ,0000-00-00,AUT, ,AUT
 keglch,Keglevits,Christian,1961-01-29,AUT,Weiden bei Rechnitz,AUT
+kellja,Kellner,Jacques,0000-00-00,AUT, ,AUT
 kensad,Kensy,Adam,1956-11-18,POL,Bialosliwie,POL
+kerrfr,Kerr,Friedrich,0000-00-00,AUT, ,AUT
 kessge,Keßler,Georg,1932-09-23,GER,Saarbrücken,GER
+kestka,Kestler,Karl,0000-00-00,AUT, ,AUT
+keszte,Kesztele, ,0000-00-00,AUT, ,AUT
 ketema,Ketelaer,Marcel,1977-11-03,GER,Mönchengladbach,GER
 kienwo,Kienast,Wolfgang,1956-08-04,AUT,Wien,AUT
 kieska,Kiesenebner,Karl,1950-12-08,AUT, ,AUT
 kircro,Kirchler,Roland,1970-09-29,AUT,Innsbruck,AUT
+kirpfr,Kirpal,Franz,0000-00-00,AUT, ,AUT
+klacfr,Klacl,Fritz,1919-04-23,AUT,Wien,AUT
 klaufl,Klausner,Florian,1981-08-06,AUT, ,AUT
+klicru,Klicka,Rudolf,0000-00-00,AUT, ,AUT
+kliwjo,Kliwitsch,Johann,1903-06-02,AUT, , 
 kluggu,Klug,Günther,0000-00-00,AUT, ,AUT
 kmenwi,Kment,Willy,1914-10-15,AUT, ,AUT
 knalwa,Knaller,Walter,1957-10-24,AUT,Waiern bei Feldkirchen,AUT
+knobal,Knoblich,Albert,0000-00-00,AUT, ,AUT
 knorer,Knorrek,Ernst,1948-10-22,AUT, ,AUT
+kobefr,Köberl,Franz,0000-00-00,AUT, , 
+kocian,Koci,Anton,0000-00-00,AUT, ,AUT
+koelst,Kölly,Stefan,0000-00-00,AUT, ,AUT
+koepfe,Köppler,Ferry,0000-00-00,AUT, ,AUT
 koepho,Köppel,Horst,1948-05-17,GER,Stuttgart,GER
 koeral,Körner,Alfred,1926-02-14,AUT,Wien,AUT
 koerro,Körner,Robert,1924-08-21,AUT,Wien,AUT
 koglwa,Kogler,Walter,1967-12-12,AUT,Wolfsberg,AUT
+kohn__,Kohn, ,0000-00-00,AUT, ,AUT
 kokomi,Kokotović,Mirko,1913-04-15,CRO,Lukavac,YUG
 kolewa,Koleznik,Walter,1942-10-17,AUT, ,AUT
+kolia_,Kolisch,Artur,0000-00-00,AUT, ,AUT
 koljma,Koljanin,Marinko,1957-11-17,CRO,Rijeka,YUG
 kollka,Koller,Karl,1929-02-09,AUT,Hölles,AUT
 kolvhe,Kolviðsson,Helgi,1971-09-13,ISL,Reykjavík,ISL
 komifr,Kominek,Fritz,1927-01-17,AUT,Wien,AUT
 koncfr,Koncilia,Friedl,1948-02-25,AUT,Klagenfurt,AUT
 kondjo,Kondert,Johann,1944-09-10,AUT,Reghin,ROM
+konrje,Konrad,Jenö,0000-00-00,AUT, ,AUT
+kopppr,Kopp,Prof.,0000-00-00,AUT, ,AUT
 korear,Koreimann,Arnold,1957-02-19,AUT,Sankt Jakob im Rosental,AUT
 kornro,Kornexl,Roland,1969-04-15,AUT, ,AUT
 kovasl,Kovačić,Slavko,1950-05-14,CRO,Đurđevac,CRO
 kowaka,Kowanz,Karl,1926-04-15,AUT, ,AUT
+kozmhu,Kozmuth,Hugo,0000-00-00,AUT, , 
+kozoha,Kozourek,Hans,0000-00-00,AUT, ,AUT
 krafhe,Kraft,Helmut,1958-07-24,AUT,Hall/Tirol,AUT
 kranha,Krankl,Hans,1953-02-14,AUT,Wien,AUT
+kranzi,Kranzinger, ,0000-00-00,AUT, ,AUT
 kranzl,Kranjčar,Zlatko,1956-11-15,CRO,Zagreb,YUG
 kraube,Krauss,Bernd,1957-05-08,AUT,Dortmund,GER
 krejjo,Krejcirik,Johann,1952-02-23,AUT,Laa an der Thaya,AUT
@@ -189,11 +315,19 @@ kriewe,Kriess,Werner,1947-09-06,AUT,Klagenfurt,AUT
 kristh,Kristl,Thomas,1963-04-18,GER,Regensburg,GER
 krongu,Kronsteiner,Günter,1953-09-14,AUT, ,AUT
 kronhe,Kronjäger,Helmut,1953-06-30,AUT,Graz,AUT
+kuceau,Kucera,August,0000-00-00,AUT, , 
 kuehdi,Kühbauer,Dietmar,1971-04-04,AUT,Heiligenkreuz,AUT
+kumhru,Kumhofer,Rudolf,1911-05-02,AUT, , 
 kunala,Kuna,Ladislav,1947-04-03,CZE,Hlohovec,SVK
+kundne,Kundner, ,0000-00-00,AUT, ,AUT
 kupndi,Kupnik,Dietmar,1965-01-18,AUT, ,AUT
 kurune,Kuruzovic,Neno,1960-06-14,AUT, ,BOS
 kurzjo,Kurzeja,Józef,1948-03-13,POL,Dziewiętlice,POL
+kuthri,Kuthan,Richard,0000-00-00,AUT, ,AUT
+langr_,Lang,Robert,0000-00-00,AUT, ,AUT
+lanzfr,Lanzer,Friedrich,0000-00-00,AUT, ,AUT
+lanzgu,Lanzer,Gustav,0000-00-00,AUT, ,AUT
+lassma,Lassnig,Martin,1984-01-09,AUT, ,AUT
 latzfe,Latzke,Felix,1942-02-01,AUT,Wien,AUT
 ledefr,Lederer,Franz,1963-11-25,AUT, ,AUT
 ledeol,Lederer,Oliver,1978-01-02,AUT,Wien,AUT
@@ -203,25 +337,35 @@ lenthe,Lentsch,Heinrich,0000-00-00,AUT, ,AUT
 letsth,Letsch,Thomas,1968-08-26,GER,Esslingen,GER
 librth,Libregts,Thijs,1941-01-04,NED,Rotterdam,NED
 lindkl,Lindenberger,Klaus,1957-05-28,AUT,Linz,AUT
+linhfr,Linhart,Franz,0000-00-00,AUT, ,AUT
+linke_,Linke, ,0000-00-00,AUT, ,AUT
 linzma,Linzmaier,Manfred,1962-08-27,AUT,Kufstein,AUT
 lipolu,Lipošinović,Luka,1933-05-12,CRO,Subotica,SRB
 loewjo,Löw,Joachim,1960-02-03,GER,Schönau,GER
+loidka,Loidolt,Karl,0000-00-00,AUT, , 
 ludewa,Ludescher,Walter,1942-10-05,AUT,Klagenfurt,AUT
 luiswo,Luisser,Wolfgang,1979-08-31,AUT, ,AUT
 lukira,Lukić,Radan,1957-09-21,BOS,Sarajevo,YUG
 maehro,Mählich,Roman,1971-09-17,AUT,Wiener Neustadt,AUT
 maesne,El Maestro,Nestor,1983-03-25,SRB,Beograd,SRB
+magnlu,Magnin,Ludovic,1979-04-20,SUI,Lausanne,SUI
 maholn,N'Gwat-Mahop,Louis,1987-09-16,CMR,Yaoundé,CMR
 malaan,Malatinský,Anton,1920-01-15,SVK,Trnava,SVK
+maly__,Maly, ,0000-00-00,AUT, ,AUT
 mandal,Mandziara,Aleksander,1940-08-16,POL,Gliwice,POL
 marcal,Marchat,Alexander,1993-01-24,AUT, ,AUT
+mariot,Marischka,Otto,1912-05-31,AUT, ,AUT
 markiv,Marković,Ivan,1928-11-06,CRO,Senj,YUG
 markvl,Marković,Vlatko,1937-01-01,CRO,Bugojno,BOS
 marsje,Marsch,Jesse,1973-11-08,USA,Racine,USA
 martle,Martinschitz,Leo,1956-07-18,AUT, ,AUT
+mattau,Mattausch, ,0000-00-00,AUT, ,AUT
 mattlo,Matthäus,Lothar,1961-03-21,GER,Erlangen,GER
 maturu,Matuschka,Rudolf,0000-00-00,AUT, ,AUT
 maurhe,Maurer,Helmut,1945-11-07,AUT,Wien,AUT
+meishu,Meisl,Hugo,0000-00-00,AUT, ,AUT
+melian,Melich,Anton,0000-00-00,AUT, ,AUT
+merkma,Merkel,Max,1918-12-07,AUT,Wien,AUT
 messku,Messner,Kurt,1945-10-28,AUT,Kolbnitz,AUT
 messma,Messner,Mario,1975-06-14,AUT, ,AUT
 miklmi,Miklavić,Milan,1949-03-30,SLO, ,SLO
@@ -229,15 +373,27 @@ miksfr,Mikscha,Franz,1936-06-13,AUT, ,AUT
 milada,Milanič,Darko,1967-12-18,YUG,Izola,SLO
 milafe,Milanovich,Ferdinand,1946-08-05,AUT,Wien,AUT
 mirnhd,Mirnegg,Hans-Dieter,1954-05-24,AUT,Klagenfurt,AUT
+molnig,Molnar,Ignaz,0000-00-00,AUT, ,AUT
+molzjo,Molzer,Josef,1906-02-28,AUT, , 
 moniri,Moniz,Ricardo,1964-06-17,NED,Haarlem,NED
 mrakfr,Mrakowitsch,Franz,1952-11-09,AUT, ,AUT
 muehot,Mühlbauer,Otto,1924-01-21,AUT, ,AUT
 muelhe,Müller,Heinrich,1909-05-13,AUT,Wien,AUT
 muelwa,Müllner,Walter,1956-07-03,AUT,Bruck an der Leitha,AUT
 muftre,Muftić,Refik,1943-08-28,BOS, ,BOS
+mulljo,Müller,Johann,1912-03-22,AUT,Wien,AUT
+mullmu,Müller,?,0000-00-00,AUT, , 
 muslmi,Muslic,Miron,1982-09-14,AUT,Bihac,BOS
+mutska,Mütsch,Karl,1905-12-09,AUT, , 
+nagydr,Nagy,Dr.,0000-00-00,AUT, ,AUT
+nauswa,Nausch,Walter,1907-02-05,AUT,Wien,AUT
+nejeka,Nejeschleba,Karl,0000-00-00,AUT, , 
+netuer,Netuka,Ernst,1927-01-01,DEN, , 
+neuble,Neubauer,Leopold,0000-00-00,AUT, ,AUT
+neufel,Neufeld, ,0000-00-00,AUT, ,AUT
 neukgu,Neukirchner,Günther,1971-12-02,AUT,Grambach,AUT
 nuskru,Nuske,Rudolf,1942-10-08,AUT, ,AUT
+nyirla,Nyírő,Lajos,0000-00-00,HUN, , 
 oberjo,Obert,Jozef,1938-01-04,SVK,Partizánske,SVK
 ocwier,Ocwirk,Ernst,1926-03-07,AUT,Wien,AUT
 ogrian,Ogris,Andreas,1964-10-07,AUT,Wien,AUT
@@ -249,12 +405,16 @@ parith,Parits,Thomas,1946-10-07,AUT,Siegendorf,AUT
 pastal,Pastoor,Alex,1966-10-26,NED,Amsterdam,NED
 patead,Patek,Adolf,1900-04-04,AUT,Wien,AUT
 paulgu,Paulitsch,Günther,1939-11-14,AUT, ,AUT
+pavlro,Pavlicek,Robert,1912-05-31,AUT, , 
 pecajo,Pecanka,Josef,1925-04-07,AUT,Wien,AUT
+peckvi,Pecklinger,Viktor,0000-00-00,AUT, ,AUT
 pelifr,Pelikan,Franz,1925-11-06,AUT, ,AUT
 perspe,Persidis,Peter,1947-03-08,AUT,Wien,AUT
 pessha,Pesser,Hans,1911-11-07,AUT,Wien,AUT
+pestal,Pestitschek,Alfred,1922-10-19,AUT, , 
 petrlj,Petrović,Ljupko,1947-05-15,SRB,Brusnica Velika,BOS
 petrmi,Petrović,Mihailo,1957-10-18,AUT,Loznica,SRB
+pfauha,Pfau,Hans,0000-00-00,AUT, ,AUT
 pfeihe,Pfeifenberger,Heimo,1966-12-29,AUT,Zederhaus,AUT
 pfeimi,Pfeiffer,Michael,1925-07-19,GER,Eschweiler,GER
 pfeiwa,Pfeiffer,Walter,1927-06-12,GER,Auggen,GER
@@ -264,115 +424,213 @@ philka,Philipp,Karl,1950-02-05,AUT, ,AUT
 pichan,Pichler,Anton,1955-10-04,AUT,Weiz,AUT
 pintad,Pinter,Adi,1948-01-19,AUT,Graz,AUT
 plakra,Plakalovic,Rade,1960-05-12,SRB, ,SRB
+plenjo,Plendner,Josef,0000-00-00,AUT, ,AUT
+poelka,Pölz,Karl,0000-00-00,AUT, ,AUT
+poesot,Pöschl,Otto,0000-00-00,AUT, ,AUT
+pojajo,Pojar,Josef,0000-00-00,AUT, , 
 polami,Polak,Miroslav,1958-03-08,SRB,Beograd,YUG
+polsre,Polster,Reinhold,0000-00-00,AUT, ,AUT
 polsto,Polster,Toni,1964-03-10,AUT,Wien,AUT
+polzjo,Pölz,Josef,0000-00-00,AUT, , 
 ponwfr,Ponweiser,Franz,1975-09-15,AUT,Neunkirchen,AUT
 popora,Popović,Ranko,1967-06-26,SRB,Peć,SRB
+prakfr,Prak,Franz,1925-09-13,AUT, , 
 prasgu,Praschak,Günter,1929-09-12,AUT,Heidenreichstein,AUT
+preiad,Preiner,Adolf,0000-00-00,AUT, , 
+preiar,Preiss,Arthur,0000-00-00,AUT, ,AUT
 preljo,Prelogar,Jože,1959-03-05,SLO,Ljubljana,SLO
+prober,Probst,Erich,1927-12-05,AUT,Wien,AUT
+probwa,Probst,Walter,1918-04-17,AUT, , 
 prohhe,Prohaska,Herbert,1955-08-08,AUT,Wien,AUT
+ptzoro,Pätzold,Roberto,1979-07-18,GER, ,GER
+rainka,Rainer,Karl,1901-07-01,AUT,Wien,AUT
 rakhra,Rakhimov,Rashid,1965-03-18,TAJ,Dushanbe,TAJ
 rappka,Rappan,Karl,1905-09-26,AUT,Wien,AUT
 rathwa,Rath,Walter,1923-06-06,AUT, ,AUT
 rausfr,Rausch,Friedel,1940-02-27,GER,Duisburg,GER
+ravnwa,Ravnihar,Walter,0000-00-00,AUT, ,AUT
+reicjo,Reichart,Josef,1919-05-05,AUT, , 
+reicma,Reichsfeld,Max,0000-00-00,AUT, ,AUT
+reite1,Reiterer, ,0000-00-00,AUT, ,AUT
+reiter,Reitermaier,Ernst,1918-12-26,AUT,Wien,AUT
 reitpe,Reiter,Peter,1937-04-05,AUT,Steyr,AUT
 remyad,Remy,Adolf,1935-11-30,GER,Havixbeck,GER
 repihe,Repitsch,Hermann,1942-09-12,AUT, ,AUT
+rescle,Resch,Leopold,0000-00-00,AUT, ,AUT
+riebad,Riebe,Adolf,0000-00-00,AUT, ,AUT
 riedal,Riedl,Alfred,1949-11-02,AUT,Wien,AUT
+riedjo,Rieder,Josef,0000-00-00,AUT, ,AUT
+riedri,Rieder,Richard,0000-00-00,AUT, ,AUT
 rittka,Ritter,Karl,1947-05-14,AUT, ,AUT
+roesfr,Röscher,Franz,0000-00-00,AUT, ,AUT
 roitkl,Roitinger,Klaus,1960-07-06,AUT, ,AUT
 rosema,Rose,Marco,1976-09-11,GER,Leipzig,GER
-rumpau,Rumpf,August,0000-00-00,AUT, ,AUT
+rosner,Rosner, ,0000-00-00,AUT, ,AUT
+rumpau,Rumpf,August,1922-04-01,AUT, ,AUT
 russku,Russ,Kurt,1964-11-23,AUT,Langenwang,AUT
 ruttwi,Ruttensteiner,Willibald,1962-11-12,AUT,Steyr,AUT
+rybifr,Rybicki,Franz,1924-08-12,AUT, , 
+sabeer,Sabeditsch,Ernst,1920-05-06,AUT,Wien,AUT
 saeuju,Säumel,Jürgen,1984-09-08,AUT,Friesach,AUT
 sageth,Sageder,Thomas,1983-09-05,AUT, ,AUT
 sahlmo,Sahli,Mohamed,1978-03-24,AUT, ,AUT
 sararo,Sara,Robert,1946-06-09,AUT,Oberlainsitz,AUT
 sastle,Šťastný,Leopold,1911-05-23,SVK,Rohožník,SVK
 schahp,Schaller,Hans-Peter,1962-09-05,AUT, ,AUT
+schaos,Schachter,Oskar,0000-00-00,AUT, ,AUT
 schawa,Schachner,Walter,1957-02-01,AUT,Leoben,AUT
 schekl,Scheer,Klaus,1950-10-04,GER,Siegen,GER
+schem1,Scheuer,Max,0000-00-00,AUT, ,AUT
 schema,Scherb,Martin,1969-06-23,AUT,Sankt Pölten,AUT
+schenk,Schenkel,Karl,0000-00-00,AUT, ,AUT
+schif1,Schilling,Franz,0000-00-00,AUT, ,AUT
 schifr,Schinkels,Frenkie,1963-01-09,AUT,Rotterdam,NED
+schiko,Schikola, ,0000-00-00,AUT, ,AUT
+schisc,Schick, ,0000-00-00,AUT, , 
+schled,Schlesinger,Eduard,0000-00-00,AUT, ,AUT
 schlka,Schlechta,Karl,1922-01-28,AUT,Wien-Meidling,AUT
 schlwa,Schleger,Walter,1929-09-19,AUT,Prag,CZE
 schmal,Schmidt,Alexander,1968-10-23,GER,Augsburg,GER
 schmk1,Schmidt,Klaus,1967-10-21,AUT,Graz,AUT
 schmkl,Schmidt,Klaus,1967-10-21,AUT,Graz,AUT
+schmm1,Schmid,Manfred,1971-02-20,AUT,Mistelbach,AUT
 schmma,Schmidt,Markus,1977-10-12,AUT,Wiener Neustadt,AUT
 schmro,Schmidt,Roger,1967-03-13,GER,Kierspe,GER
+schmwi,Schmieger,Wilhelm,0000-00-00,AUT, ,AUT
 schnse,Schneider,Sepp,1944-08-15,AUT,Wiener Neustadt,AUT
+schodi,Schönecker,Dionys,1888-04-20,AUT,Wien,AUT
 schoma,Schopp,Markus,1974-02-22,AUT,Graz,AUT
 schope,Schöttel,Peter,1967-03-26,AUT,Wien,AUT
 schour,Schönenberger,Urs,1959-02-21,SUI,Zürich,SUI
 schral,Schrottenbaum,Alfred,1938-04-12,AUT, ,AUT
+schrlu,Schrettl,Luis,0000-00-00,AUT, ,AUT
 schube,Schumm,Bernd,1949-10-21,GER, ,GER
+schwdr,Schwarz,Dr.,0000-00-00,AUT, ,AUT
 schwge,Schweitzer,Gerhard,1963-06-28,AUT, ,AUT
+schwmi,Schwarz,Michael,0000-00-00,AUT, ,AUT
 schwwe,Schwarz,Werner,1952-04-12,AUT,Innsbruck,AUT
 schwwo,Schwarz,Wolfgang,1952-02-12,AUT,Innsbruck,AUT
+sedlfr,Sedlacek,Franz,0000-00-00,AUT, ,AUT
+seemma,Seemann,Max,0000-00-00,AUT, ,AUT
+seidru,Seidl,Rudolf,0000-00-00,AUT, ,AUT
+sekece,Sekerlioglu,Cem,1979-03-02,AUT, ,AUT
 senehe,Senekowitsch,Helmut,1933-10-22,AUT,Graz,AUT
+sestka,Sesta,Karl,1906-03-18,AUT,Wien,AUT
+seufro,Seufert,Robert,0000-00-00,AUT, ,AUT
+sezeal,Sezemsky,Alfred,0000-00-00,AUT, ,AUT
 sikijo,Šikić,Josip,1929-08-04,CRO, ,CRO
 silbth,Silberberger,Thomas,1973-06-03,AUT,Innsbruck,AUT
 simkla,Simko,Laszlo,1925-11-05,HUN,Budapest,HUN
 simuvl,Šimunić,Vladimir,1919-05-19,CRO,Pula,CRO
 skerka,Skerlan,Karl,1940-01-03,AUT, ,AUT
 skocwa,Skocik,Walter,1940-09-06,AUT,Schwechat,AUT
+skoljo,Skolaut,Johann,0000-00-00,AUT, , 
 skyvvo,Skyva,Vojtěch,1925-06-09,SVK,Smižany,SVK
 smetfe,Smetana,Ferdinand,1923-07-07,AUT, ,AUT
+smisjo,Smistik,Josef,1905-11-28,AUT,Wien,AUT
+smuten,Smutny,Engelbert,1917-03-19,AUT, , 
 soehqu,Söhnlein,Quirin,1987-04-11,GER, ,GER
 soenla,Søndergaard,Lars,1959-04-05,DEN,Aalborg,DEN
+sohmbr,Sohm,Bruno,1929-10-19,AUT, ,AUT
 soldzv,Soldo,Zvonimir,1967-11-02,CRO,Zagreb,CRO
+sommwa,Sommer,Walter,0000-00-00,AUT, ,AUT
 sprige,Springer,Gerd,1927-02-06,AUT,Weiern,AUT
 stango,Stanisavljević,Goran,1964-11-03,SRB,Borance,SRB
 starau,Starek,August,1945-02-16,AUT,Wien,AUT
 starro,Stary,Roman,1973-12-18,AUT,Wien,AUT
 steima,Steiner,Manfred,1950-01-03,AUT,Murau,AUT
+steiru,Stein,Rudolf,0000-00-00,AUT, ,AUT
+stepru,Stepan,Rudolf,0000-00-00,AUT, ,AUT
+steris,Sterba,Istvan,0000-00-00,HUN, ,HUN
 steshe,Stessl,Hermann,1940-09-03,AUT,Graz,AUT
 stevhu,Stevens,Huub,1953-11-29,NED,Sittard,NED
 stiejo,Stiel,Jörg,1968-03-03,SUI,Baden,SUI
+stinal,Stiny,Alfred,0000-00-00,AUT, ,AUT
 stoeed,Stöhr,Edi,1956-09-17,GER,Kösching,GER
 stoepe,Stöger,Peter,1966-04-11,AUT,Wien,AUT
 stoewa,Stöffelbauer,Walter,1954-08-22,AUT, ,AUT
+stoika,Stoiber,Karl,0000-00-00,AUT, ,AUT
 stotka,Stotz,Karl,1927-03-27,AUT, ,AUT
 strafr,Straka,František,1958-05-28,CZE,České Budějovice,CZE
 stremi,Streiter,Michael,1966-01-19,AUT,Hall,AUT
-striru,Strittich,Rudolf,1922-03-03,AUT, ,AUT
+striru,Strittich,Rudolf,1922-03-03,AUT,Steyr,AUT
 stroer,Strobl,Erich,1933-05-03,AUT, ,AUT
+strojo,Stroh,Josef,1913-03-05,AUT,Wien,AUT
 strug1,Struber,Gerhard,1977-01-24,AUT,Kuchl,AUT
 struge,Struppert,Gerd,1950-10-21,GER,Jena,GER
+studjo,Studnicka,Johann,0000-00-00,AUT, ,AUT
+stueka,Stürmer,Karl,0000-00-00,AUT, ,AUT
+suchru,Suchanek,Rudolf,0000-00-00,AUT, ,AUT
 sundju,Sundermann,Jürgen,1940-01-25,GER,Mülheim a.d.R.,GER
 svejma,Švejnoha,Martin,1977-11-25,CZE,Plzeň,CZE
+swatja,Swatosch,Jakob,0000-00-00,AUT, ,AUT
+swatwi,Swatosch,Willy,0000-00-00,AUT, ,AUT
 szanru,Szanwald,Rudolf,1931-07-06,AUT,Wien,AUT
 szepja,Szép,János,0000-00-00,HUN, ,HUN
-szomgy,Szomoray,Gyula,0000-00-00,HUN, ,HUN
+szeska,Szestak,Karl,0000-00-00,AUT, ,AUT
+szomgy,Szomoray,Gyula,1915-01-06,HUN, ,HUN
 tataal,Tatar,Alfred,1963-08-08,AUT,Zillingdorf,AUT
+taurjo,Taurer,Josef,0000-00-00,AUT, ,AUT
+teufjo,Teufel,Josef,1897-01-18,AUT, , 
 thaldo,Thalhammer,Dominik,1970-10-02,AUT,Wien,AUT
+thalgu,Thaler,Gustav,0000-00-00,AUT, ,AUT
 thomhu,Thomale,Hans-Ulrich,1944-12-06,GER,Meißen,GER
+tihoun,Tihoun, ,0000-00-00,AUT, ,AUT
+togegu,Tögel,Gustav,1907-10-24,AUT, , 
 trapgi,Trapattoni,Giovanni,1939-03-17,ITA,Cusano Milanino,ITA
+travni,Travnicek, ,0000-00-00,AUT, ,AUT
+tretlu,Tretter,Ludwig,0000-00-00,GER, , 
 trimgu,Trimmel,Günther,1938-07-14,AUT, ,AUT
 ullrle,Ullram,Leopold,1921-01-18,AUT, ,AUT
 ungema,Unger,Manfred,1969-05-10,AUT,Leoben,AUT
+urbajo,Urbanek,Johann,1910-10-10,AUT,Wien,AUT
+urbale,Urban,Leo,0000-00-00,AUT, ,AUT
+uridjo,Uridil,Josef,1895-12-24,AUT,Wien,AUT
 vastiv,Vastić,Ivica,1969-09-29,AUT,Split,CRO
+vavrfr,Vavra,Franz,1915-04-10,AUT, ,AUT
 velhpe,Velhorn,Peter,1932-11-24,GER,München,GER
 verdzd,Verdenik,Zdenko,1949-05-02,SLO,Ptuj,SLO
+vettka,Vetter,Karl,1917-03-18,GER, , 
 viehfr,Viehböck,Franz,1938-10-15,AUT, ,AUT
 vogehe,Vogel,Heiko,1975-11-21,GER,Bad Dürkheim,GER
 voglkl,Vogler,Klaus,1968-08-21,AUT, ,AUT
+voglle,Vogl,Leopold,1910-09-16,AUT, , 
 vorawd,De Vora,Walter,1970-09-17,AUT,Innsbruck,AUT
 vytlru,Vytlačil,Rudolf,1912-02-09,AUT,Schwechat,AUT
+wagnau,Wagner,August,0000-00-00,AUT, ,AUT
+wagner,Wagner, ,0000-00-00,AUT, ,AUT
+wagnfr,Wagner,Franz,1911-09-23,AUT,Wien,AUT
 wagntu,Wagner,Turl,1927-08-06,AUT,Wien,AUT
+walcha,Walch,Hans,0000-00-00,AUT, , 
+wallne,Wallner, ,0000-00-00,AUT, ,AUT
+walzjo,Walzhofer,Johann,1906-03-23,AUT,Wien,AUT
 walzot,Walzhofer,Otto,1926-06-21,AUT, ,AUT
+watzle,Watzinger,Leopold,0000-00-00,AUT, , 
+wawra_,Wawra, ,0000-00-00,AUT, , 
 webeer,Weber,Ernst,1948-10-05,AUT,Krumbach,AUT
 webehe,Weber,Heribert,1955-06-28,AUT,Pöls,AUT
+weiden,Weidenauer, ,0000-00-00,AUT, ,AUT
 weider,Weidenauer,Erich,1959-02-21,AUT,Wien,AUT
+weinis,Weinisch, ,0000-00-00,AUT, ,AUT
+weisjo,Weissenstein,Johann,0000-00-00,AUT, , 
 weisth,Weissenböck,Thomas,1972-03-04,AUT,Grieskirchen,AUT
+wertka,Wertheim,Dr. Karl,0000-00-00,AUT, ,AUT
 wiebku,Wiebach,Kurt,1946-06-06,GER,Berlin,GER
 wieger,Wieger,Erhard,1941-07-30,AUT, ,AUT
+wielan,Wieland,Andreas,1983-08-16,AUT, ,AUT
+wieser,Wieser, ,0000-00-00,AUT, ,AUT
 windjo,Windisch,Johann,1941-01-05,AUT, ,AUT
 winkha,Winklbauer,Hannes,1949-12-25,AUT,Kapfenberg,AUT
 wodafr,Wodal,Franz,0000-00-00,AUT, ,AUT
 wolnfr,Wolny,Franz,1940-04-12,AUT, ,AUT
+wondka,Wondrak,Karl,1895-09-06,AUT, , 
+wondra,Wondrak, ,0000-00-00,AUT, ,AUT
+wottro,Wottitz,Robert,0000-00-00,AUT, ,AUT
 zeidpe,Zeidler,Peter,1962-08-08,GER,Schwäbisch-Gmünd,GER
+zelink,Zelinka, ,0000-00-00,AUT, ,AUT
 zellge,Zellhofer,Georg,1960-08-25,AUT,Waidhofen an der Ybbs,AUT
+ziegri,Ziegler,Richard,0000-00-00,AUT, ,AUT
+zillfr,Zillbauer,Franz,0000-00-00,AUT, ,AUT
+zimmzi,Zimmermann,.,0000-00-00,AUT, , 
+zulecl,Zulehner,Clemens,1991-12-26,AUT,Ried im Innkreis,AUT
 zzzzzz,Zzzz,Zz,0000-00-00, , , 
