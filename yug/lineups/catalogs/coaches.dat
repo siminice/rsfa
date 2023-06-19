@@ -1,8 +1,12 @@
-167
+238
+antibo,Antić,Boško,1944-01-07,BOS,Sarajevo,BOS
 antomi,Antolković,Milan,1915-09-27,CRO, , 
 arapkr,Arapović,Krešimir,1924-11-23,BOS,Čapljina,BOS
 arokfe,Arok,Ferenc,1932-01-20,SRB,Kanjiža,SRB
 atanal,Atanacković,Aleksa,1920-04-29,SRB,Beograd,SRB
+avdifa,Avdičević,Fahrudin,1943-11-11,BOS,Bijelina,BOS
+bajedu,Bajević,Dušan,1948-12-10,BOS,Mostar,BOS
+barbza,Barbarić,Žarko,1932-02-22,BOS,Mostar,BOS
 bazimi,Bazić,Mirko,1938-11-02,CRO,Malo Trojstvo,CRO
 bearvl,Beara,Vladimir,1928-08-26,CRO,Zelovo,CRO
 becera,Bečejac,Radoslav,1941-12-21,SRB,Žitište,SRB
@@ -10,6 +14,8 @@ beliru,Belin,Rudolf,1942-11-04,CRO,Zagreb,CRO
 benclj,Benčić,Ljubomir,1905-01-02,CRO,Stari Grad,CRO
 bevabr,Bevanda,Branimir,0000-00-00,BOS, , 
 biogni,Biogradac,Nikola,0000-00-00,SRB, , 
+bjekne,Bjeković,Nenad,1947-11-05,SRB,Lazarevo,SRB
+blazm1,Blažević,Miroslav,1935-02-10,BOS,Travnik,BOS
 blocha,Bloch,Hans,0000-00-00,AUT, ,AUT
 bobest,Bobek,Stjepan,1923-12-03,CRO,Zagreb,CRO
 bogost,Bogoevski,Stojan,1917-00-00,MCD, , 
@@ -17,23 +23,39 @@ bonami,Bonačić,Mirko,1903-03-09,SRB, ,
 boromo,Borović,Momčilo,1911-03-25,SRB,Kruševac,SRB
 bozica,Božinovski,Časlav,1936-07-30,MCD,Skoplje,MCD
 bozovo,Božović,Vojin,1913-01-20,MNT,Cetinje,MNT
+bracbo,Bračulj,Boris,1939-08-04,CRO,Sinj,CRO
+bratbl,Bratić,Blagoje,1946-03-01,BOS,Fojnica,BOS
+brncma,Brnčić,Marijan,1940-07-23,CRO,Tribalj,CRO
 broclj,Broćić,Ljubiša,1911-10-03,SRB,Guča,SRB
 brozmi,Brozović,Miroslav,1917-07-26,BOS,Mostar,BOS
 brziiv,Brzić,Ivica,1941-05-28,SRB,Novi Sad,SRB
+bukajo,Bukal,Josip,1945-06-15,CRO,Okešinec,CRO
 bukoma,Bukovi,Márton,1903-12-10,HUN,Budapest,HUN
 cabriv,Ćabrinović,Ivan,1939-00-00,SRB,Kragujevac,SRB
 cabrra,Čabrić,Ratomir,1918-09-19,SRB,Varvarin,SRB
 cajkzl,Čajkovski,Zlatko,1923-11-24,CRO,Zagreb,CRO
 celepa,Čelebić,Petar,1922-00-00,MNT,Titograd,MNT
+ceriga,Ćerić,Gano,1943-11-15,MNT,Titograd,MNT
 cirimi,Ćirić,Milovan,1918-02-12,SRB,Beograd,SRB
+colazo,Čolaković,Zoran,1940-11-16,SRB,Niš,SRB
+cordst,Čordaš,Stjepan,1951-09-18,CRO,Osijek,CRO
 cuvabo,Cuvaj,Bogdan,1905-10-21,CRO,Zagreb,CRO
+cvetne,Cvetković,Nenad,1948-12-23,SRB,Niš,SRB
 damjmi,Damjanović,Mirko,1937-00-00,BOS,Bugojno,BOS
 darmva,Darmanović,Vasilije,1927-01-01,MNT,Titograd,MNT
+dimito,Dimitrovski,Tome,1950-02-21,MCD,Bitolj,MCD
+dimoil,Dimoski,Ilija,1939-06-27,MCD,Zabračani,MCD
+djorm2,Đorić,Milovan,1945-08-06,SRB,Titovo Užice,SRB
+djorve,Đorđević,Velimir,0000-00-00,SRB, , 
+djurm1,Đuričić,Milan,1945-08-30,CRO,Osijek,CRO
+dogasl,Dogandžić,Slobodan,1946-09-17,SRB,Titovo Užice,SRB
 doncan,Dončevski,Andon,1936-11-29,MCD,Skoplje,MCD
 dragpr,Dragićević,Prvoslav,1914-03-04,SRB,Kragujevac,SRB
 drasdu,Drašković,Dušan,1939-06-20,BOS,Banja Luka,BOS
+drasra,Drašković,Radivoje,1943-05-06,BOS,Klinje,BOS
 drenbo,Drenovac,Božidar,1922-01-02,SRB,Ćuprija,SRB
 duvajo,Duvančić,Josip,1935-10-01,CRO,Drniš,CRO
+dzidfr,Džidić,Franjo,1939-08-30,BOS,Mostar,BOS
 elsnbr,Elsner,Branko,1929-11-23,SLO,Ljubljana,SLO
 fazlmi,Fazlagić,Mirsad,1943-04-04,BOS,Čapljina,BOS
 fenyla,Fenyvesi,László,1908-08-06,HUN, ,HUN
@@ -46,37 +68,55 @@ giorri,Giorgi,Ricciotti,0000-00-00,ITA, ,
 glasfr,Glaser,Franjo,1913-01-07,BOS,Sarajevo,BOS
 glismi,Glišović,Miroslav,1926-00-00,SRB,Niš,SRB
 glissv,Glišović,Svetislav,1913-03-06,SRB,Beograd,SRB
+grnjiv,Grnja,Ivica,1948-04-26,CRO,Darda,CRO
+gugldr,Gugleta,Dragan,1941-07-04,SRB,Kragujevac,SRB
 gugone,Gugolj,Nedeljko,1933-00-00,MNT, , 
+hadzdj,Hadžijevski,Đoko,0000-00-00,MCD, , 
+halisa,Halilhodžić,Salem,1942-07-05,BOS,Jablanica,BOS
+halisl,Halilović,Slobodan,1951-01-01,BOS,Banovići,BOS
 hirmfr,Hirman,Franja,1922-02-15,SRB,Zrenjanin,SRB
 hoceed,Hočevar,Edvard,1926-05-31,SRB,Paraćin,SRB
 horvbr,Horvatek,Branko,1915-00-00,CRO, , 
 horviv,Horvat,Ivica,1926-07-16,CRO,Sisak,CRO
 hrviha,Hrvić,Haldum,1921-04-06,BOS,Mostar,BOS
 huglbe,Hügl,Bernhardt,1908-03-27,SRB,Srpski Miletić,SRB
+hukimu,Hukić,Mustafa,1951-02-06,BOS,Tuzla,BOS
 ivicto,Ivić,Tomislav,1933-06-30,CRO,Split,CRO
 janeja,Janevski,Jane,1920-00-00,MCD,Skoplje,MCD
+jasesa,Jasenica,Šaban,1939-00-00,BOS,Bosanski Šamac,BOS
 jazbiv,Jazbinšek,Ivan,1914-08-09,CRO,Zagreb,CRO
 jerkdr,Jerković,Dražan,1936-08-06,CRO,Šibenik,CRO
 jovami,Jovanović,Minda,1922-01-17,SRB,Beograd,SRB
+jovira,Jovičić,Radomir,1948-08-01,BOS,Tuzla,BOS
+jusufa,Jusufi,Fahrudin,1939-12-08,KOS,Zli Potok,KOS
 kacudj,Kačunković,Đorđe,1928-04-07,SRB,Paraćin,SRB
 kalilu,Kaliterna,Luka,1893-10-13,CRO,Split,CRO
 kaloge,Kalocsay,Geza,0000-00-00,HUN, ,HUN
 kaloto,Kaloperović,Tomislav,1932-01-31,SRB,Stubline,SRB
 kapedo,Kapetanović,Domagoj,1926-01-30,BOS,Ljubuški,BOS
+karas1,Karasi,Stanislav,1946-11-08,SRB,Beograd,SRB
 knezbr,Knežević,Bruno,0000-00-00,CRO, , 
+kobezd,Kobeščak,Zdenko,1943-12-03,CRO,Zagreb,CRO
 kodrsl,Kodrnja,Slavko,0000-00-00,CRO, , 
 kokomi,Kokotović,Mirko,1913-04-15,CRO,Lukavac,BOS
 konjvl,Konjevod,Vlatko,1923-02-21,BOS,Sarajevo,BOS
 kopist,Kopilović,Stipan,1920-08-06,SRB,Subotica,SRB
 kosxmi,Kos,Miodrag,1925-09-20,SRB,SRB,Beograd
+kovadr,Kovačević,Dragomir,1946-02-14,MNT,Pljevlja,MNT
 kranhe,Kranjc,Hermengildo,1908-04-13,CRO, , 
+kresse,Krešić,Sergije,1946-12-29,CRO,Split,CRO
 krizan,Križević,Andrija,0000-00-00,CRO, , 
+kustsl,Kustudić,Slobodan,1947-12-11,SRB,Lovćenac,SRB
+kuzejo,Kuže,Josip,1952-11-13,CRO,Vranje,SRB
 lechgu,Lechner,Gustav,1913-02-17,CRO,Osijek,CRO
 lemele,Lemešić,Leo,1908-06-08,CRO,Sinj,CRO
 lovrfr,Lovrić,Franjo,1923-04-01,BOS,Sarajevo,BOS
+lukavl,Lukarić,Vladimir,1938-01-21,CRO,Rijeka,CRO
 lustsl,Luštica,Slavko,1923-01-11,MNT,Kumbor,MNT
 lykaan,Lyka,Antal,1908-06-29,HUN,Budapest,HUN
+mandda,Mandić,Danilo,1953-11-03,SRB,Bikovo,SRB
 manoto,Manojlović,Tomislav,0000-00-00,SRB, , 
+marien,Marić,Enver,1948-04-25,BOS,Mostar,BOS
 marjbl,Marjanović,Blagoje,1907-09-09,SRB,Beograd,SRB
 markiv,Marković,Ivan,1928-11-06,CRO,Senj,CRO
 marksr,Markušević,Srboljub,1936-05-05,KOS,Prizren,KOS
@@ -92,53 +132,78 @@ milidr,Milić,Dragiša,0000-00-00,SRB, ,
 miljil,Miljuš,Ilija,0000-00-00,SRB, , 
 miljmi,Miljanić,Miljan,1930-05-04,MCD,Bitolj,MCD
 milodr,Milošević,Dragoljub,1929-11-08,SRB,Valjevo,SRB
+milovl,Milosavljević,Vladislav,0000-00-00,SRB, , 
+milum1,Milutinović,Miloš,1933-02-05,SRB,Bajina Bašta,SRB
 mitrgo,Mitrović,Gojko,0000-00-00,MNT,Titograd,MNT
 mladan,Mladinić,Ante,1929-10-01,CRO,Split,CRO
 momira,Momirski,Radoslav,1919-09-04,SRB,Novi Sad,SRB
 mujimu,Mujić,Muhamed,1933-04-25,BOS,Mostar,BOS
 mujkmu,Mujkić,Mustafa,0000-00-00,BOS, , 
+mulafu,Mulahasanović,Fuad,1952-10-16,BOS,Sarajevo,BOS
+musodz,Mušović,Džemaludin,1944-10-30,BOS,Sarajevo,BOS
 mutska,Mütsch,Karl,1905-12-09,AUT,Wien,AUT
 muzufu,Muzurović,Fuad,1945-11-03,BOS,Bijelo Polje,MNT
+nadope,Nadoveza,Petar,1942-04-09,CRO,Šibenik,CRO
+nedeza,Nedeljković,Žarko,0000-00-00,SRB, , 
 nedooz,Nedoklan,Ozren,1922-10-22,CRO,Split,CRO
 nenkdu,Nenković,Dušan,1929-11-03,SRB,Kragujevac,SRB
+nikoza,Nikolić,Žarko,1936-10-16,SRB,Novi Sad,SRB
+novoma,Novoselac,Martin,1950-11-10,CRO,Komletinci,CRO
 ognjmi,Ognjanov,Milorad,1915-10-19,SRB, , 
 omerke,Omeragić,Kemal,1931-09-16,MCD,Skoplje,MCD
 osimiv,Osim,Ivica,1941-05-06,BOS,Sarajevo,BOS
 osojst,Osojnjak,Stojan,1923-06-11,CRO,Opatija,CRO
+ostost,Ostojić,Stevan,1941-08-20,SRB,Ostojićevo,SRB
 palfbe,Palfi,Bela,1923-02-16,SRB,Perlez,SRB
+pantdr,Pantelić,Dragan,1951-12-09,SRB,Lošnica,SRB
+pasifa,Pašić,Faruk,1943-10-10,BOS,Tuzla,BOS
 pavimi,Pavić,Miša,0000-00-00,SRB, , 
 pavlbl,Pavlovski,Blagoja,0000-00-00,MCD, , 
 pavlzd,Pavlić,Zdravko,1907-11-09,BOS,Sarajevo,BOS
 pazimo,Pažin,Momčilo,1926-12-29,CRO, , 
 pazmfr,Pazmanj,Franjo,0000-00-00,CRO, , 
+pejovl,Pejović,Vladimir,1950-04-06,SRB,Beograd,SRB
+percan,Perčić,Andrija,1942-10-12,SRB,Subotica,SRB
+perulu,Peruzović,Luka,1952-02-26,CRO,Split,CRO
 petara,Petaković,Radoslav,0000-00-00,SRB, , 
+petkil,Petković,Ilija,1945-09-22,CRO,Knin,CRO
 petral,Petrović,Aleksandar,1914-09-08,SRB,Kragujevac,SRB
+petrl1,Petrović,Ljupko,1947-05-12,BOS,Velika Brusnica,BOS
 pilcne,Pilčević,Nedeljko,0000-00-00,SRB, , 
+piride,Pirić,Denijal,1946-09-24,BOS,Živinice,BOS
 pogaan,Pogačnik,Anton,0000-00-00,SRB, , 
+poklst,Poklepović,Stanko,1938-04-19,CRO,Split,CRO
 popevi,Popescu,Virgil,1916-12-01,ROM,Zlatna,ROM
 popovl,Popović,Vladimir,1935-03-17,SRB,Zemun,SRB
 radimi,Radičević,Miladin,1935-02-20,SRB,Beograd,SRB
 radodu,Radoje,Dušan,0000-00-00,SRB, , 
 radoiv,Radovniković,Ivo,1918-02-09,CRO,Split,CRO
+radom2,Radonjić,Mojaš,1949-02-23,MNT,Njeguši,MNT
 radone,Radosavljević,Negoslav,1912-10-29,SRB,Aranđelovac,SRB
 radova,Radović,Vasilije,1938-05-10,MNT,Cetinje,MNT
 rajkil,Rajković,Ilija,1914-05-25,SRB, , 
 rajkzd,Rajkov,Zdravko,1927-12-05,SRB,Čurug,SRB
 ralibo,Ralić,Božidar,1904-11-25,CRO,Plaški,CRO
+rasera,Rašević,Rajko,1946-11-17,BOS,Breza,BOS
 rebasu,Rebac,Sulejman,1929-03-26,BOS,Mostar,BOS
 renial,Renić,Alojz,1942-04-03,BOS,Renići,BOS
 ribami,Ribar,Milan,1930-11-21,BOS,Sarajevo,BOS
 ristzo,Ristić,Zoran,1936-06-26,SRB,Đurđevo,SRB
 saramu,Saračević,Munib,0000-00-00,BOS, , 
 sekubr,Sekulić,Branislav,1906-10-29,SRB,Beograd,SRB
+sekudr,Šekularac,Dragoslav,1937-11-08,MCD,Štip,MCD
 sestke,Šestić,Kemal,1939-01-12,BOS,Mostar,BOS
 sijava,Šijaković,Vasilije,1929-08-02,MNT,Nikšić,MNT
 simios,Simić,Ostoja,1920-05-30,CRO, , 
 simoki,Simonovski,Kiril,1915-10-19,MCD,Skoplje,MCD
 simujo,Šimunić,Josip,0000-00-00,CRO, , 
 simuvl,Šimunić,Vladimir,1919-05-19,CRO,Pula,CRO
+skobjo,Skoblar,Josip,1941-03-12,CRO,Zadar,CRO
+smajdr,Smailović,Drago,1938-10-28,BOS,Sarajevo,BOS
+soskm1,Šoškić,Miloš,1941-10-20,SRB,Kisele Vode,SRB
 soskmi,Šoškić,Milutin,1937-12-31,SRB,Peć,KOS
 spasdr,Spasojević,Dragutin,1934-02-15,MNT,Nikšić,MNT
+spasme,Spasovski,Metodije,1944-02-03,MCD,Skoplje,MCD
 spasmo,Spasojević,Momčilo,1937-08-18,MNT,Berane,MNT
 spitil,Spitz,Illés,1902-02-02,HUN,Budapest,HUN
 stanbr,Stanković,Branko,1921-10-31,BOS,Sarajevo,BOS
@@ -156,12 +221,18 @@ veseto,Veselinović,Todor,1930-10-22,SRB,Novi Sad,SRB
 vilisi,Vilić,Sima,0000-00-00,SRB, , 
 vilost,Vilotić,Stevan,1925-09-15,SRB,Šabac,SRB
 visnvu,Višnjevac,Vukašin,1939-06-15,BOS,Gacko,BOS
+vranml,Vranković,Mladen,1937-02-01,CRO,Split,CRO
 vujadj,Vujadinović,Đorđe,1909-11-29,SRB,Smederevo,SRB
 vukoal,Vukotić,Aleksandar,0000-00-00,SRB, , 
+vukomo,Vukotić,Momčilo,1950-06-02,SRB,Beograd,SRB
+vukuto,Vukušić,Tonko,1934-05-24,CRO,Split,CRO
+vutziv,Vutzov,Ivan,1939-12-14,BUL,Gabrovo,BUL
 zagosl,Zagorac,Slavko,1909-04-30,BOS,Glamoč,BOS
 zebebr,Zebec,Branko,1929-05-17,CRO,Zagreb,CRO
 zecxgo,Zec,Gojko,1935-09-15,CRO,Orahovica,CRO
+zemkjo,Zemko,Josip,1946-03-13,SRB,Subotica,SRB
 zigama,Žigante,Marcel,1929-10-30,CRO,Rijeka,CRO
+zivami,Živadinović,Milan,1944-12-15,SRB,Beograd,SRB
 zivkan,Živković,Anđelo,0000-00-00,CRO, , 
 zivkdr,Živković,Drago,0000-00-00,CRO, , 
 zvekal,Zvekan,Aleksandar,1909-09-01,SRB,Subotica,SRB
