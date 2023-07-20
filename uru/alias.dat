@@ -3,10 +3,10 @@
 1800 Danubio FC Montevideo~Danubio
 1800 CA Defensor Monntevideo~Defensor*1989 Defensor Sporting Club~Defensor
 1800 CA Bella Vista~Bella Vista
-1800 CA River Plate~River Plate
+1800 CA Capurro~Capurro*1932 CA River Plate~River Plate
 1800 Montevideo Wanderers~Wanderers
 1800 Liverpool FC~Liverpool
-1800 Central Montevideo~Central*1971 Central Español FC~Central Esp.
+1800 Central Montevideo~Central*1971 Central Español FC~Central Esp
 1800 Rampla Juniors~Rampla Juniors
 1800 Tacuarembó FC~Tacuarembó
 1800 Rocha FC~Rocha
@@ -23,7 +23,7 @@
 1800 CD Maldonado~Maldonado
 1800 CA Atenas de San Carlos~Atenas
 1800 CA Juventud de Las Piedras~Juventud
-1800 Uruguay Montevideo FC~Uruguay
+1800 Uruguay Club~Uruguay*1932 Uruguay Montevideo FC~Uruguay
 1800 CA Basáñez~Basáñez
 1800 La Luz Tacurú FC~La Luz
 1800 IA Sud América~Sud América
@@ -36,7 +36,7 @@
 1800 Bella Vista Paysandú~Paysandú BV
 1800 Racing Club de Sayago~Sayago
 1800 Frontera Rivera~Frontera
-1800 Salus FC~Salus*2020 Alianza FC Montevideo~Alianza
+1800 Salus FC~Salus*2000 Alianza FC Montevideo~Alianza*2005 Salus FC~Salus
 1800 Colón FC~Colón
 1800 Misiones FC~Misiones
 1800 Wilson FC~Wilson
@@ -48,7 +48,7 @@
 1800 CA Mar de Fondo~Mar de Fondo
 1800 CA Alto Perú~Alto Perú
 1800 CA Villa Teresa~Villa Teresa*2002 Alianza FC Montevideo~Alianza*2012 CA Villa Teresa~Villa Teresa
-1800 CS Italiano~Italiano
+1800 CS Italiano~Italiano*2020 Deportivo Italiano del Uruguay~Italiano
 1800 Club Oriental de Futbol~Oriental
 1800 CA Boston River~Boston River
 1800 Huracán Paso de la Arena~Paso Arena*2002 Alianza FC Montevideo~Alianza*2011 Huracán FC Paso de la Arena~Huracán
@@ -58,9 +58,20 @@
 1800 Alianza FC Montevideo~Alianza
 1800 CA Torque~Torque
 1800 Coraceros Polo Club~Coraceros
-1800 Real Sociedad Livramento~Livramento*2002 Rivera Livramento FC~Livramento
-1800 CA Terremoto~Terremoto
+1800 Real Sociedad Livramento~Livramento*2002 Rivera Livramento FC~Rivera*2021 Rivera Hinterland FC~Rivera
+1800 CA Terremoto Buceo~Terremoto
 1800 Canadian SC~Canadian
 1800 Institución Atlética Potencia~Potencia
 1800 Universidad Mayor~Univ Mayor
 1800 CSyD Los Halcones~Los Halcones
+1800 CA Olimpia~Olimpia
+1800 CA Lito~Lito
+1800 Solferino SC~Solferino
+1800 Rosarino Central~Rosarino
+1800 Belgrano FC~Belgrano
+1800 Universal FC~Universal
+1800 Charley FC~Charley
+1800 CSyD Keguay~Keguay
+1800 CSyD Urupan~Urupan
+1800 CSyD Cooper Montevideo~Cooper
+1800 Sportivo Bella Italia~Bella Italia

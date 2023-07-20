@@ -1,48 +1,48 @@
 1800 HJK Helsinki~HJK
 1800 TPS Turku~TPS Turku
-1900 UponP Lahti~UponP Lahti*1969 Kuusysi Lahti~Kuusysi*1998 FC Lahti~Lahti
+1900 LPM Lathi~LPM*1964 UponP Lahti~UponP Lahti*1969 Lahti-69~Lahti*1974 Kuusysi Lahti~Kuusysi*1998 FC Lahti~Lahti
 1800 Haka Valkeakoski~Haka
 1800 TPV Tampere~TPV Tampere
-1900 Ilves Kissat Tampere~Tampere*1978 Ilves Tampere~Ilves*2000 Tampere United~Tampere
-1800 KuPS Kuopio~Kuopio
+1900 Ilves Viipuri~Ilves*1940 Ilves-Kissat Tampere~I-Kissat*1975 Ilves Tampere~Ilves*2000 Tampere United~Tampere
+1800 KuPS Kuopio~KuPS
 1800 PPT Pori~Pori*1992 Jazz Pori~Jazz*2005 Jazz Juniorit Pori~Jazz*2013 FC Jazz Pori~Jazz
 1800 MyPa Anjalankoski~MyPa
 1800 RoPS Rovaniemi~Rovaniemi
-1800 Drott Pietarsaari~Drott*1966 Jaro Pietarsari~Jaro*2000 FF Jaro~Jaro
+1800 IF Drott Pietarsaari~Drott*1966 FF Jaro Pietarsari~Jaro
 1800 OTP Oulu~OTP Oulu*1992 FC Oulu~FC Oulu*2002 AC Oulu~AC Oulu
 1800 FinnPa Helsinki~FinnPa
 1800 MP Mikkeli~Mikkeli
-1900 PK-35 Helsinki~PK-35*1999 Jokerit Helsinki
+1900 Jokerit Helsinki~Jokerit*2004 Klubi-04 Helsinki~Klubi-04
 1800 VPS Vaasa~Vaasa
 1800 Inter Turku~Inter Turku
 1900 Reipas Viipuri~Reipas*1948 Reipas Lahti~Reipas
 1800 KontU Helsinki~KontU
-1800 RTU Rauma~Rauma*1960 P-Iirot Rauma~Piirot Rauma
-1800 Kemi PS~Kemi*2008 PS Kemi Kings~Kemi
+1800 Iirot Rauma~Iirot*1969 Hakrit Rauma~Hakrit*1982 P-Iirot Rauma~P-Iirot
+1800 Kemi PS~Kemi*2008 PS Kemi Kings~Kemi*2019 Kemi City FC~Kemi
 1800 GBK Kokkola~GBK Kokkola
-1800 KTP Kotka~Kotka*2001 KoTeePee Kotka~Kotka
-1800 VIFK Vaasa~VIFK
+1800 KTP Kotka~KTP Kotka
+1800 Vaasa IFK~VIFK
 1800 PIF Parainen~Parainen
 1800 KajHa Kajaani~Kajaani
 1800 FC Dreeverit Oulu~Dreeverit
-1800 FC Hämeenlinna~Hämeenlinna
+1800 HPK Hämeenlinna~Hämeenlinna*1991 FC Hämeenlinna~Hämeenlinna
 1800 IF Gnistan Helsinki~Gnistan
 1800 PP-70 Tampere~PP-70 Tampere
 1800 Tapion Honka~Honka*1975 FC Honka Espoo~Honka
-1800 HIFK Helsinki~HIFK*2008 HIFK Soccer Helsinki
+1800 Helsingfors IFK~HIFK
 1800 IFK Mariehamn~Mariehamn
 1800 Pyry Nokia~Nokia
 1800 EIF Tammisaari~Tammisaari*2007 EIF Ekenäs~EIF Ekenäs
 1800 EuPa Eura~Eura
 1800 KIF Helsinki~KIF*1977 Kiffen Helsinki~Kiffen
-1800 RiPS Riihimaki~Riihimaki
+1800 RiPS Riihimäki~Riihimäki
 1800 LauTP Lappeenranta~Lappeenranta*1994 Rakuunat Lappeenranta~Rakuunat
 1800 Kings Kuopio~Kings
 1800 FC Korsholm Mustasaari~Korsholm
 1800 OLS Oulu~OLS Oulu*1992 FC 1991 Oulu~1991 Oulu*1995 OLS Oulu~OLS Oulu
 1800 Kraft Närpiö~Narpio*2010 IF Närpes Kraft~Kraft
 1800 Santa Claus Rovaniemi~Santa Claus
-1800 TP-55 Seinäjoki~Seinajoki*1994 TP Seinäjoki~Seinajoki*2008 SJK Seinäjoki~Seinajoki
+1800 TP-55 Seinäjoki~Seinäjoki*1994 TP Seinäjoki~Seinäjoki*2008 SJK Seinäjoki~Seinäjoki
 1800 Ponnistus Helsinki~Ponnistus
 1900 Atlantis Helsinki~Atlantis*2002 Allianssi Vantaa~Vantaa
 1800 TP-47 Tornio~Tornio
@@ -51,7 +51,7 @@
 1800 Kumu Kuusankoski~Kuusankoski*2008 FC Kuusankoski~Kuusankoski
 1800 Atlantis Helsinki~Atlantis
 1800 PK-35 Helsinki~PK-35*2009 PK-35 Vantaa~PK-35
-1800 KPV Kokkola~KPV Kokkola
+1800 KPV Kokkola~KPV
 1800 Karpalo Joensuu~Joensuu*1990 Jippo Joensuu~Jippo
 1800 Klubi-04 Helsinki~Klubi-04
 1800 FC Espoo~Espoo
@@ -63,7 +63,7 @@
 1800 FJK Forssa~Forssa
 1800 KuPS Akatemia Kuopio~KuPS Akatemia
 1800 Warkaus JK~Warkaus
-1800 JyP-77 Jyväskylä~Jyvaskyla*1990 JJK Jyväskylä~Jyvaskyla
+1800 JyP Jyväskylä~Jyväskylä*1977 JyP-77 Jyväskylä~Jyväskylä*1990 JJK Jyväskylä~Jyväskylä
 1800 Huima Äänekoski~Huima
 1800 TKT Tampere~TKT
 1800 FC Vaajakoski~Vaajakoski
@@ -73,7 +73,7 @@
 1800 PoPa Pori~PoPa
 1800 MaPS Masku~Masku
 1800 KaaPo Kaarina~Kaarina
-1800 SePS Seinäjoki~Seinajoki*1978 Sepsi-78 Seinäjoki~Sepsi*2008 SJK Seinäjoki II~Seinajoki
+1800 SePS Seinäjoki~Seinäjoki*1978 Sepsi-78 Seinäjoki~Sepsi*2008 SJK Seinäjoki II~Seinäjoki*2999 SePS Seinäjoki~Seinäjoki
 1800 SoVo Somero~Somero
 1800 Virkiä Lapua~Virkia
 1800 Kaskö IK Kaskinen~Kaskinen
@@ -82,7 +82,7 @@
 1800 TUS Teerijärvi~Teerijarvi
 1800 JBK Pietarsaari~Pietarsaari*2014 Jakobstad Bollklubb~JBK
 1800 YPA Ylivieska~Ylivieska
-1900 FC Dreeverit Oulu~Dreeverit*1976 OPS Oulu~OPS Oulu
+1900 OPS Oulu~OPS Oulu
 1800 Tervarit Oulu~Tervarit Oulu
 1800 FC Pantterit Joutseno~Pantterit
 1800 TiPS Vantaa~TiPS Vantaa
@@ -104,7 +104,7 @@
 1800 Ponnistajat~Ponnistajat
 1800 Boda~Boda
 1800 TPK Turku~TPK
-1800 Aabo IFK Turku~AIFK
+1800 Åbo IFK Turku~ÅIFK
 1800 JoKu Joutseno~Joutseno*1993 Kultsu Joutseno~Joutseno
 1800 VarTP Varkaus~VarTP
 1800 MPS Helsinki~MPS
@@ -118,31 +118,31 @@
 1800 Kipparit Kokkola~Kipparit
 1800 Norrvalla FF Voyri~Norrvalla
 1800 PK Keski Uusimaa Kerava~Kerava
-1800 KTP Kotka~KTP Kotka
+1800 KoTeePee Kotka~Kotka
 1800 Sinimustat Turku~Sinimustat
 1800 FC OPA Oulu~OPA Oulu
 1800 OJT Oulu~OJT Oulu
 1800 VPS Vaasa II~Vaasa II
 1800 KPT Kuopio~KPT Kuopio*1982 Koparit Kuopio~Koparit
-1800 Elo Kuopio~Elo Kuopio
+1800 Männistön Elo~Elo*1949 Elo Kuopio~Elo Kuopio
 1800 MiPK Mikkeli~MiPK
-1800 Pyrkivä Turku~Pyrkiva
-1800 TaPa Tampere~TaPa
+1800 Pyrkivä Turku~Pyrkivä
+1800 TaPa Tampere~TaPa*1975 Ilves Tampere~Ilves*2099 TaPa Tampere~TaPa
 1800 Into Kemi~Into
-1800 RU-38 Pori~Pori*1968 Ässät Pori~Assat Pori
+1800 RU-38 Pori~Pori*1968 Ässät Pori~Ässät Pori
 1800 HPS Helsinki~HPS
 1800 HIK Hanko~HIK
 1800 PPojat Helsinki~PPojat
 1800 TuTo Turku~TuTo
 1800 KoRe Kotka~KoRe
-1800 Jäntevä Kotka~Janteva
+1800 Jäntevä Kotka~Jäntevä
 1800 Sudet Viipuri~Sudet*1946 Sudet Helsinki~Sudet*1962 Sudet Kouvola~Sudet
 1800 TuWe Turku~TuWe
 1800 Kullervo Helsinki~Kullervo
 1800 MKV Turku~MKV*1948 TuKV Turku~TuKV
 1800 Kiri Kotka~Kiri
 1800 VPV Vaasa~VPV
-1800 HT Helsinki~HT
+1800 Toverit Helsinki~HT
 1800 UL Turku~UL Turku
 1800 ViPS Viipuri~Viipuri
 1800 Stjärnan Helsinki~Stjarnan
@@ -174,7 +174,7 @@
 1800 Ekenäs SC Raasepori~ESC Raasepori
 1800 FC Aaland~Aaland
 1800 JS Hercules Oulu~Hercules
-1800 PPT Pori~PPT
+1800 PiTU Pori~PiTU
 1800 FC Legirus Inter~Legirus
 1800 NuPS Nummela~Nummela
 1800 Peimari United~Peimari
@@ -185,3 +185,56 @@
 1800 Espoo Palloseura~EPS
 1800 Ilves Tampere II~Ilves II
 1800 RoPS Rovaniemi II~RoPS II
+1800 KyPa Kotka~KyPa*1958 PeKa Kotka~PeKa
+1800 RTU Rauma~RTU
+1800 LappBK Kristiinankaupunki~LappBK
+1800 RPallo Rauma~RPallo
+1800 Vaasan Sport~Sport
+1800 LaPS Lahti~LaPS
+1800 PoPS Pori~PoPS
+1800 Reima Kokkola~Reima
+1800 PaPe Kuusankoski~PapPe
+1800 Valtti Helsinki~Valtti
+1800 LaPa Lappeenranta~LaPa
+1800 PaSa Imatra~Imatra
+1800 HePa Helsinki~HePa
+1800 KaPS Helsinki~KaPS
+1800 IF Finström Kamraterna~Finström
+1800 Hanko AIK~HAIK
+1800 SaPKo Savonlina~Savonlina
+1800 JIlves Jämsänkoski~Jämsänkoski
+1800 Tenho Kemi~Tenho
+1800 KUV Helsinki~KUV
+1800 Akilles Porvoo~Akilles
+1800 Sisu Seinäjoki~Sisu
+1800 HerU Helsinki~HerU*1968 Herttua Helsinki~Herttua
+1800 JoPS Joensuu~JoPS
+1800 Karhut Pori~Karhut
+1800 OTarmo Oulu~OTarmo
+1800 Urho Suolahti~Urho
+1800 Tor Loviisa~Tor
+1800 WP-35 Warkaus~WP-35
+1800 Kajaani Reipas~KajRe
+1800 Vesa Helsinki~Vesa
+1800 Puhti Kuusankoski~Puhti
+1800 KalPo Tampere~KalPo
+1800 Teräs Turku~Teräs
+1800 MesTo Tampere~MesTo
+1800 KajPS Kajaani~KajPS
+1800 VaPa Vaajakoski~VaPa
+1800 Lukko Rauma~Lukko
+1800 Kärpät Oulu~Kärpät
+1800 PsInto Pietarsaari~PsInto
+1800 LaPT Lappeenranta~LaPT
+1800 Jymy Kokkola~Jymy
+1800 KUP Kouvola~KUP
+1800 Hukat Helsinki~Hukat
+1800 Arsenal Helsinki~Arsenal
+1800 Jyry Helsinki~Jyry
+1800 PoW Porvoo~PoW
+1800 TuKT Turku~TuKT
+1800 VaaTo Vaasa~VaaTo
+1800 YVPS Imatra~YVPS
+1800 FC Komeetat Jyväskylä~Komeetat
+1800 Atlantis Helsinki II~Atlantis II
+1800 SexyPöxyt Laaksolahti~SexyPöxyt

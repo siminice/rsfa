@@ -12,7 +12,7 @@
 1800 Békéscsaba Előre SE~Békéscsaba*1992 Békéscsaba 1912 Előre SE~Békéscsaba
 1800 Debreceni VSC~Debrecen*1950 Debreceni Lokomotív SK~Debrecen*1960 Debreceni VSC~Debrecen
 1900 Székesfehérvári VT SK~Fehérvár*1950 Székesfehérvári VT Vasas~Fehérvár*1968 Videoton Székesfehérvár SC~Videoton*2006 SC Fehérvár~Fehérvár*2010 Videoton FC Székesfehérvár~Videoton*2019 MOL Vidi FC~MOL Vidi*2020 Fehérvár FC~Fehérvár
-1800 MATÁV Sopron~Sopron*2006 FC Sopron~Sopron*2012 Soproni VSE~Sopron
+1800 MATÁV Sopron~Sopron*2006 FC Sopron~Sopron*2012 Soproni VSE~Sopron*2021 SC Sopron~Sopron
 1800 Kaposvári MTE~Kaposvár*1962 Kaposvári Kinizsi~Kaposvár*1964 Kaposvári Honvéd~Kaposvár*1970 Kaposvári Rákóczi FC~Kaposvár
 1800 Tatabányai SC~Tatabánya*1996 Tatabánya FC~Tatabánya*2014 Duna FC Tatabánya~Tatabánya*2999 Tatabánya FC~Tatabánya
 1900 Szegedi EAC~Szeged*1950 Szegedi Honvéd SK~Szeged*1953 Szegedi Haladás SK~Szeged*1957 Szegedi EAC~Szeged*1970 Szegedi EOL~Szeged*1988 Szeged SC~Szeged*1994 Szeged FC~Szeged*1996 Szegedi EAC~Szeged
@@ -33,7 +33,7 @@
 1800 Orosházi Kinizsi SK~Orosháza*1965 Orosházi MTE~Orosháza
 1800 Pápai Textiles~Pápa*1965 Pápai ELC~Pápa*2008 Lombard Pápa TFC~Pápa*2018 Pápai Perutz FC~Pápa*2999 Pápai FC~Pápa
 1800 Mosonmagyaróvári TE~Mosonmagyar
-1800 FC Felcsut~Felcsut*2010 FC Fehervár II~Fehervar II*2012 Videoton II Puskás Akademia~Videoton II*2014 Puskás FC~Puskas
+1800 FC Felcsut~Felcsut*2010 FC Fehervár II~Fehervar II*2012 Videoton II Puskás Akademia~Videoton II*2014 Puskás FC~Puskás
 1800 Soroksári AC~Soroksár*1927 Soroksári FC~Soroksár*1935 Erzsébet-Soroksár FC~Soroksár*1938 Soroksári AC~Soroksár*1946 ErSo MaDISz~ErSo*1949 Soroksári Textil SK~Soroksár*1951 Vörös Lobogó Sortex SK~Soroksár*1958 Soroksári AC~Soroksár
 1800 Paksi SE~Paks
 1800 Balatonlelle SE~Balatonlelle
@@ -114,7 +114,7 @@
 1800 BSzKRT~BSzKRT
 1800 Kinizsi Vasas~Kinizsi V
 1800 Szegedi AK~Szeged*1927 Szegedi FC Bástya~Szeged*1932 Szeged FC~Szeged*1945 Szegedi AK~Szeged AK*1950 Szegedi MTE~Szeged MTE*1950 Szegedi Petőfi SK~Szeged*1958 Szegedi AK~Szeged AK
-1800 Szegedi Vasutas SE~Szeged VSE*1942 Tisza Vasutas Szeged SE~Tisza Szeged*1949 Szegedi Lokomotiv SK~Szeged*1954 Szegedi Törekvés~Szeged*1958 Szegedi Vasutas SE~Szeged VSE
+1800 Szegedi Vasutas SE~Szeged VSE*1942 Tisza Vasutas Szeged SE~Tisza Szeged*1949 Szegedi Lokomotiv SK~Szeged*1954 Szegedi Törekvés~Szeged*1958 Szegedi Vasutas SE~Szegedi VSE
 1800 Lampart FC~Lampart*1944 Fegyvergyári SK~Fegyvergyár*1945 Lampart SE~Lampart*1949 Lampart MSK~Lampart*1958 Lampart SE~Lampart
 1800 Tokodi Üveggyári SC~Tokodi
 1800 Bocskay Debrecen~Bocskay
@@ -146,7 +146,7 @@
 1800 Fóti SE~Fóti
 1800 Dunakeszi Vasutas SE~Dunakeszi*1990 Dunakeszi ADtransz~Dunakeszi
 1800 Komáromi VSE~Komárom
-1800 Kabai Egyetértés SE~Kaba*1994 Kabai Cukor FC~Kaba*1996 Hajdúszoboszló SE~Hajdúszoboszló
+1800 Kabai Egyetértés SE~Kaba*1994 Kabai Cukor FC~Kaba*1996 Hajdúszoboszlói SE~Hajdúszoboszló
 1800 Olefin SC Tiszaújvárosi~Tiszaújváros*1990 Tiszaújvárosi FC~Tiszaújvárosi
 1800 Újpest FC II~Újpest II
 1800 Ferencvárosi TC II~Ferencváros II
@@ -275,3 +275,22 @@
 1800 Diósgyőri Bányász~Diósgyőri 
 1800 Miskolci Munkás TE~Miskolc
 1800 Pécsi Gázmü~Pécsi Gáz
+1800 Kisvárda FC II~Kisvárda II
+1800 Mezőkövesd Zsóry II~Mezőkövesd
+1800 Gárdony Városi SC~Gárdony
+1800 Körösladány MSK~Körösladány
+1800 Majosi SE~Majos
+1800 Hidasnémeti VSC~Hidasnémet
+1800 Törökszentmiklós FC~Törökszentmi
+1800 Gerjeni SK~Gerjen
+1800 Móri SE~Móri
+1800 Technoroll Teskánd KSE~Teskánd
+1800 Zsámbéki SK~Zsámbék
+1800 Bánk SE~Bánk
+1800 Kecskeméti TE II~Kecskemét II
+1800 PTE-PEAC Pécs~PTE-PEAC
+1800 Vasas II Budapest~Vasas II
+1800 Dunaföldvári FC~Dunaföldvár
+1800 Martfűi LSE~Martfűi
+1800 Szeged Csanád Grosics Akadémia~Szeged II
+1800 Haladás VSE~Haladás

@@ -2,7 +2,7 @@
 1800 APOEL Nicosia~APOEL
 1800 Apollon Limassol~Apollon
 1800 Anorthosis Famagusta~Anorthosis
-1900 EPA Larnaca~EPA Larnaca*1995 AEK Larnaca~AEK Larnaca
+1900 EPA Larnaca~EPA Larnaca*1995 AEK Larnaca~AEK Larnaca*2999 EPA Larnaca~EPA
 1800 Nea Salamina Famagusta~Nea Salamina
 1800 AEL Limassol~AEL Limassol
 1800 Olympiakos Nicosia~Olympiakos
@@ -17,7 +17,7 @@
 1800 EN Thoi Lakatamia~Thoi
 1800 AO Agia Napa~Agia Napa
 1800 Anagennisi Derynias~Derynia
-1800 Onisilos Sotiras~Onisilos
+1800 Onisilos Sotiras~Onisilos*2023 PO Achyronas-Onisilos Sotiras~Onisilos
 1800 Doxa Katokopia~Doxa
 1800 Ermis Aradippos~Ermis
 1800 Ethnikos Assias~Assia
@@ -73,7 +73,7 @@
 1800 Spartakos Kitiou~Kitiou
 1800 Kissos Kissonergas~Kissos
 1800 Anagennisi Trahoniou~Trahonios
-1800 AE Kouklion~Kouklion*2015 Pafos FC~Kouklion
+1800 AE Kouklion~Kouklion*2015 Pafos FC~Kouklion*2999 AE Kouklion~Kouklion
 1800 Salamina Dromolaxia~Dromolaxia*2000 Thiella Dromolaxia~Dromolaxias
 1800 Xylotympou FC 2000~Xylotympou*2010 PO Xylotympou~Xylotympou
 1800 Konstantinos & Euripides~K&E Trahoniou
@@ -86,8 +86,8 @@
 1800 PAAOK~PAAOK
 1800 Evagoras KA~Evagoras KA
 1800 AIMA~AIMA
-1800 Çetin Kaya~Çetin Kaya
-1800 Trast AC~Trast
+1800 Çetinkaya SK Lefkoşa~Çetinkaya
+1800 EN Trast Nicosia~Trast
 1800 Karmiotissa Pano Polemidon~Karmiotissa
 1800 PO Ormideias~Ormideias
 1800 Dynamo Pervolion~Pervolion
@@ -111,3 +111,6 @@
 1800 Omonia Psevda~Psevda
 1800 Kormakitis FC~Kormakitis
 1800 APONA Anagias~APONA
+1800 ALS Omonia 29is Maiou~29 Maiou
+1800 Troulloi 2020 FC~Troulloi
+1800 AEP Polemidion~Polemidion

@@ -1,4 +1,4 @@
-972
+1001
 Steaua         Steaua Bucuresti
 Dinamo         Dinamo Bucuresti
 Craiova        Universitatea Craiova
@@ -17,7 +17,7 @@ Astra          Astra Ploiesti
 Onesti         FC Onesti
 Rocar          Rocar Bucuresti
 Electroputere  Electroputere Craiova
-Roman          Laminorul Roman
+Lam Roman      Laminorul Roman
 Dunarea Galati Dunarea Galati
 Mioveni        Dacia Mioveni
 Juventus       Juventus Colentina Buc.
@@ -556,7 +556,7 @@ Constr.Alba    Constructorul Alba Iulia
 Moldovita      Foresta Moldovita
 Murfatlar      Gloria Poarta Alba
 Otelul Targov. Otelul Targoviste
-CSM  Slatina   Alprom Slatina
+CSM Slatina    Alprom Slatina
 Electromotor   Electromotor Timisoara
 Cim.Turda      Cimentul Turda
 Prog.Falticeni Progresul Falticeni
@@ -639,14 +639,14 @@ Sportul II     AFC Sportul Studentesc Buc.
 Leonard        CF Leonard NGM Pascani
 Urziceni II    Unirea Valahorum II Urziceni
 Modelu         Prefabricate 05 Modelu
-Clinceni       AFC Clinceni
+Inter Clinceni Inter Clinceni
 Buftea         Academica Clinceni
 PG Zimnicea    CS Prima Guard Zimnicea
 Gica Popescu   SC Gic„ Popescu
 Gloria ANEFS   Rocar ANEFS Bucuresti
 Giroc          CS Tim Giroc
 Ripensia       Ripensia Timisoara
-FC Ploiesti    Tricolor Ploiesti
+CFR Ploiesti   Tricolor Ploiesti
 Romania Cluj   Romania Cluj
 Crisana        Crisana Oradea
 CAO            CA Oradea
@@ -659,7 +659,7 @@ Cernauti       Dragos Voda Cernauti
 Confectia      Confec˛ia Bucure∫ti
 RGMT           CAM Timisoara
 CFR Tr.Severin CFR Turnu Severin
-Otelul Galati  O˛elul Gala˛i
+Stiinta Galati Otelul Galati
 Ovidiu         CS Ovidiu
 Insuratei      AS Viitorul Insuratei
 Ulmu           CS Phoenix Ulmu
@@ -805,12 +805,12 @@ SC Bacau       Mesagerul Bac„u
 Stoicescu      ABC Stoicescu
 Spic de Grau   Spicul Rompan
 Balotesti      FC Balote∫ti
-Bradu          Atletic Bradu
+Colonesti      Atletic Bradu
 Hunedoara      FC Hunedoara
 Auto CaransebesAutocatania Caransebe∫
 Docuri Galati  SS Docuri Gala˛i
 Vointa II      CSU Voin˛a II Sibiu
-Corona Brasov  SCM Corona Bra∫ov
+Corona         SCM Corona Bra∫ov
 AFC Odorhei    AFC Odorheiu Secuiesc
 Tohan          Metalul Tohan
 Prog.Cluj      Progresul Cluj
@@ -925,10 +925,10 @@ Turceni        CS ™tiin˛a Turceni
 Jucu           CS Unirea Jucu
 Maramures      FC Maramures Baia Mare
 Papauti        FC P„p„u˛i
-CSU Craiova    CSU Craiova
+CSUC           CSU Craiova
 Barsana        CS Av‚ntul B‚rsana
 Sepsi          ACS Sepsi OSK Sf.Gheorghe
-Csikszereda    AFK Csikszereda Miercurea Ciuc
+Borca          Bradu Borca
 Dinicu Golescu CN Dinicu Golescu
 Filiasi        ACSO Filiasi
 Batrana Doamna ACS UTA Batrina Doamna
@@ -966,8 +966,37 @@ Bragadiru      CSO Bragadiru
 Gheorghe Doja  ACS Recolta Gheorghe Doja
 Blejoi         CS Blejoi
 Cetate         ACS Tractorul Cetate
-Colonesti      CS Vedi≈£a Colone≈üti~Colone≈ü
+Albesti        CS Gloria Albe≈üti
 Fortuna Bec    ACS Fortuna Becicherecu Mic
 Pecica         CS Progresul Pecica
 Daesti         CS Viitorul DƒÉe≈üti
 Limanu         CS Poseidon Limanu
+Dante          CS Dante Boto≈üani
+Unused         Viitorul Constan≈£a II
+Sepsi II       OSK Sepsi Sf.Gheorghe II
+Tampa          ACS T√¢mpa Kids~T√¢mpa
+Potcoava       CS Petrolul Potcoava
+Clinceni-2     Academica Clinceni II
+Costesti VL    CS Minerul Coste≈üti
+Periam         CS Av√¢ntul Periam
+Ezeris         CS Progresul Ezeri≈ü
+Somesul Dej    FC Some≈üul Dej
+CSM Satu Mare  CSM Satu Mare
+Steaua Buc     CSA Steaua Bucure≈üti
+Dinamo Bacau   Dinamo BacƒÉu
+Bradu          Real BRadu
+Lupac          Voin≈£a Lupac
+Pitesti-2      FC Arge≈ü Pite≈üti II
+Star Bisnov    Pobeda Star Bi≈ünov
+Sirineasa II   Viitorul Tg. Jiu II
+Viitorul Cluj  AF Viitorul Cluj
+Vointa SM      Voin≈£a Satu Mare
+Filaret        Filaret Bucure≈üti
+Csikszereda-2  AFK Csikszereda Miercurea Ciuc
+Brodoc         FC Rapid Brodoc
+Limpezis       ACS Voin≈£a Limpezi≈ü
+Amara          CS Amara
+Paulesti       CS PƒÉule≈üti
+Buzias         CS Phoenix Buzia≈ü
+Univ AI        CS Universitatea Alba Iulia
+Dinamo Buc     CS Dinamo Bucure≈üti

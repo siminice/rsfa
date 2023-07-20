@@ -5,16 +5,16 @@
 1800 SK Brann Bergen~Brann
 1800 Molde FK~Molde
 1800 Moss FK~Moss
-1800 FK Bodø Glimt~Bodø Glimt
+1800 FK Bodø/Glimt~Bodø
 1800 SFK Lyn Oslo~Lyn
 1800 Skeid Oslo~Skeid
 1800 Bryne FK~Bryne
 1800 IK Start Kristiansand~Start
-1800 Odd Skien~Odd*1946 Odd Grenland~Odd
+1800 IF Odd Skien~Odd*1946 Odd Grenland~Odd*2013 Odds BK Skien~Odd
 1800 Sogndal IL~Sogndal
 1800 Stabæk IF~Stabæk
 1800 Fredrikstad FK~Fredrikstad
-1945 Haugar Haugesund*1994 Haugesund FK
+1945 Haugar Haugesund~Haugar*1994 Haugesund FK~Haugesund
 1800 Strømsgodset IF Drammen~Strømsgodset
 1800 Kongsvinger IL~Kongsvinger
 1800 Fyllingen IL Bergen~Fyllingen*2012 Fyllingsdalen FK~Fyllingsdalen
@@ -55,7 +55,7 @@
 1800 Averøykameratene~Averøy
 1800 Åsane Fotball Bergen~Åsane
 1800 Klepp~Klepp
-1800 Nest Sotra Ågotnes~Nest Sotra
+1800 Nest Sotra Ågotnes~Nest Sotra*2020 Øygarden FK~Øygarden
 1800 Ålgård FK~Ålgård
 1800 Hovding~Hovding
 1800 SK Vard Haugesund~Vard
@@ -83,12 +83,12 @@
 1800 Odd Grenland II~Odd II
 1800 Stabæk IF II~Stabæk II
 1800 Molde FK II~Molde II
-1800 Sarpsborg FK~Sarpsborg*2008 Sarpsborg 08 FF II~Sarpsborg II
+1800 Sarpsborg FK~Sarpsborg*2008 Sarpsborg 08 FF II~Sarpsborg II*2999 Sarpsborg FK~Sarpsborg
 1800 Mjøndalen IF~Mjøndalen
-1800 Lisleby~Lisleby
+1800 Lisleby FK~Lisleby
 1800 FK Mjølner Narvik~Mjølner*1998 Narvik FK~Narvik*2004 FK Mjølner Narvik~Narvik
 1800 Os Turn Fotball~Os
-1800 Eik Tønsberg~Eik*2002 FK Tønsberg~Tønsberg
+1800 Eik Tønsberg~Eik*2002 FK Tønsberg~Tønsberg*2020 FK Eik Tønsberg~Eik Tønsberg
 1800 Strømmen IF~Strømmen
 1800 SK Djerv 1919~Djerv*1994 Haugesund FK~Djerv*2018 SK Djerv 1919~Djerv
 1800 Ullern IF~Ullern
@@ -106,7 +106,7 @@
 1800 Kristiansund BK~Kristiansund
 1800 Råde~Råde
 1800 Østsiden IL Sellebakk~Østsiden
-1800 Greåker~Greåker
+1800 Greåker IF~Greåker
 1800 Kvik Trondheim~Kvik Trondheim
 1800 Ĺrstad~�^�rstad
 1800 Fram Larvik~Fram Larvik*2005 Larvik Fotbal~Larvik*2009 Fram IL Larvik~Fram Larvik
@@ -115,7 +115,7 @@
 1800 Snøgg~Snøgg
 1800 Baune~Baune
 1800 Falken~Falken
-1800 Vigør~Vigor
+1800 FK Vigør Hellemyr~Vigør
 1800 Stag~Stag
 1800 Ulf-Sandnes~Sandnes*1995 Sandnes FK~Sandnes*2002 Sandnes Ulf~Sandnes Ulf
 1800 Drafn~Drafn
@@ -137,12 +137,12 @@
 1800 Alvdal~Alvdal
 1800 Namsos~Namsos
 1800 Stord Moster~Stord*2005 Stord Sunnhordland FK Leirvik~Stord
-1800 Sparta Sarpsborg~Sparta*2009 Sarpsborg '08 FF~Sarpsborg
-1800 Ranheim Trondheim~Ranheim
+1800 Sparta Sarpsborg~Sparta*2009 Sarpsborg '08 FF~Sarpsborg*2999 Sparta Sarpsborg~Sparta
+1800 Ranheim IL Trondheim~Ranheim
 1800 Notodden FK~Notodden
 1800 Vålerenga IF Oslo II~Vålerenga II
 1800 Åmot IF~Åmot
-1800 Årdalstangen~Årdal*1989 Jotun Årdalstangen~Årdal*2005 Årdal~Årdal
+1800 Årdalstangen~Årdal*1989 Jotun Årdalstangen~Årdal*2005 Årdal FK~Årdal
 1800 Groruddalen BK Oslo~Groruddalen
 1800 Korsvoll IL Oslo~Korsvoll
 1800 Kolstad Fotball~Kolstad
@@ -155,13 +155,13 @@
 1800 SK Træff Molde~Træff
 1800 Egersunds IK~Egersund
 1800 Lyngen~Lyngen*1990 Lyngen/Karnes~Lyngen/Karnes
-1800 Innstranden~Innstranden
+1800 Innstranden IL~Innstranden
 1800 Fredrikstad FK II~Fredrikstad II
 1800 Asker Fotball~Asker
 1800 Grane Arendal~Arendal*2000 FK Arendal~Arendal
 1800 Tromsø IL II~Tromsø II
 1800 FK Donn~Donn
-1800 Volda~Volda
+1800 Volda TI Fotball~Volda
 1800 Norheimsund~Norheimsund
 1800 Salangen IF~Salangen
 1800 Grindvoll~Grindvoll
@@ -181,7 +181,7 @@
 1800 SF Grei~Grei
 1800 Rakkestad~Rakkestad
 1800 Eik Tønsberg II~Eik II
-1800 Flekkefjørd~Flekkefjørd
+1800 Flekkefjørd FK~Flekkefjørd
 1800 Randaberg IL~Randaberg
 1800 Hundvåg~Hundvåg
 1800 Fjøra IL~Fjora
@@ -208,7 +208,7 @@
 1800 Kirkenes~Kirkenes
 1800 Sortland IL~Sortland
 1800 Bjerkle~Bjerkle
-1800 Eiger~Eiger
+1800 Eiger FK~Eiger
 1800 Stryn~Stryn
 1800 Vedavåg~Vedavåg
 1800 Ålesund FK II~Ålesund II
@@ -238,7 +238,7 @@
 1800 IL Norild~Norild
 1800 Galterud~Galterud
 1800 Kolbotn~Kolbotn
-1800 Kapp~Kapp
+1800 Kapp IF~Kapp
 1800 Hareid~Hareid
 1800 Vadmyra~Vadmyra
 1800 Fyllingen II~Fyllingen II
@@ -251,7 +251,7 @@
 1800 Skjold~Skjold
 1800 Andenes~Andenes
 1800 Rapid~Rapid
-1800 Brage~Brage
+1800 SK Brage~Brage
 1800 Freidig Trondheim~Freidig
 1800 Nordnes~Nordnes
 1800 Geithus~Geithus
@@ -269,7 +269,7 @@
 1800 Røros~Roros
 1800 Stål Jørpeland~Stål
 1800 Gjerdrum~Gjerdrum
-1800 �^�kra~�^�kra
+1800 Åkra IL~Åkra
 1800 Charlottenlund~Charlottenlund
 1800 Slemmestad~Slemmestad
 1800 Tjølling~Tjolling
@@ -285,7 +285,7 @@
 1800 Buøy~Buoy
 1800 Valder~Valder
 1800 Svolvær~Svolvær
-1800 Sandviken~Sandviken
+1800 Sandviken IL Bergen~Sandviken
 1800 Moelven~Moelven
 1800 Rollon~Rollon
 1800 Tydal~Tydal
@@ -301,9 +301,9 @@
 1800 Valdres FK Fagernes~Valdres
 1800 IF Fløyabanen Tromsø~Fløya
 1800 Oslo City FC~Oslo City
-1800 Hardy~Hardy
-1800 Nydalen~Nydalen
-1800 Neset~Neset
+1800 SK Hardy~Hardy
+1800 Nydalen SK~Nydalen
+1800 Neset FK~Neset
 1800 Nesodden IF~Nesodden
 1800 SK Herd~Herd
 1800 Austevoll IK~Austevoll
@@ -358,3 +358,22 @@
 1800 Leknes FK~Leknes
 1800 Ullensaker Kisa II~Ullensaker II
 1800 Ranheim Trondheim II~Ranheim II
+1800 Grorud IL II~Grorud II
+1800 FK Toten~Toten
+1800 Hinna Fotball~Hinna
+1800 IL Bjarg~Bjarg
+1800 NTNUI Trondheim~NTNUI
+1800 Rana FK~Rana
+1800 Skeid Fotball II~Skeid II
+1800 Skånland IF~Skånland
+1800 Stovner SK~Stovner
+1800 Frøya FK~Frøya
+1800 Kjelsås Fotball II~Kjelsås II
+1800 Bremnes IL Bømlo~Bremnes
+1800 Randesund IL~Randesund
+1800 SK Trygg / Lade~Trygg/Lade
+1800 IL Gneist Bergen~Gneist
+1800 Ullern Fotball II~Ullern II
+1800 Loddefjord IL Godvik~Loddefjord
+1800 Åskollen FK Drammen~Åskollen
+1800 Trønder-Lyn IL Kvål~Trønder-Lyn

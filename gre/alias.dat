@@ -5,10 +5,10 @@
 1800 Aris Saloniki~Aris
 1800 Iraklis Saloniki~Iraklis*2012 AEP Iraklis Saloniki~Iraklis
 1800 OFI Iraklion~OFI
-1800 Apollonas Smyrnis~Apollon
+1800 Apollon Smyrnis~Apollon
 1800 Panionios GS Smyrnis~Panionios
 1800 Panahaiki GS Patras~Panahaiki*2005 Panahaiki GE Patras~Panahaiki
-1800 Athinaikos Vironas~Athinaikos
+1800 Athinaikos Vyronas~Athinaikos
 1800 AE Larissa~Larissa
 1800 Olympiakos Volos~Volos*2004 ASK Olympiakos Volos~Ol Volos*2009 Olympiakos Volos~Volos
 1800 APS Aspida Xanthi~Xanthi*1968 AO Xanthi~Xanthi
@@ -16,37 +16,37 @@
 1800 AE Levadiakos~Levadiakos
 1800 AE Kalamata~Kalamata
 1800 Ethinkos Pireu~Ethnikos
-1800 Ionikos Nikea Pireu~Ionikos
+1800 PAE Ionikos Nikea~Ionikos
 1800 AO Kavala~Kavala
 1800 AO Pierikos Katerini~Pierikos
 1800 PAS Ioannina~Ioannina
 1800 AO Edessaikos~Edessa
-1800 AO Kastoria~Kastoria
+1800 AGS Kastoria~Kastoria
 1800 Panelefsiniakos Elefsina~Elefsina
 1800 Ethnikos Asteras Kaisariani~Asteras
-1800 Proodeftiki Nikeas Pireu~Proodeftiki
+1800 AO Proodeftiki Nikeas~Proodeftiki
 1800 Paniliakos Pyrgos~Paniliakos
 1800 AS Veria~Veria
 1800 Apollon Kalamarias Saloniki~Kalamaria*2018 Apollon Pontou FC~Pontou
 1800 FAS Naoussa~Naoussa
-1800 AE Korinthos~Korinthos*2013 PAS Korinthos~Korinthos
+1800 AE Korinthos~Korinthos*1963 APS Korinthos~Korinthos*1999 PAS Korinthos~Korinthos
 1800 Panserraikos Serres~Serres
-1800 Diagoras GS Rhodos~Diagoras
-1800 Aigaleo Athena~Aigaleo
-1800 Makedonikos Saloniki~Makedonikos
-1800 APS Rodos~Rodos*1990 GAS Ialysos Rhodos~Rhodos
+1800 Diagoras GS Rodos~Diagoras
+1800 AO Aigaleo~Aigaleo
+1800 AS Makedonikos Neapolis~Makedonikos
+1800 AS Rodos~Rodos
 1800 Atromitos FC Peristeri~Atromitos
 1800 Panaitolikos Agrinion~Panaitolikos
 1800 AO Peristeri~Peristeri
 1800 APO Fostiras Tavros Athena~Fostiras
 1800 AO Trikala~Trikala
 1800 AO Halkidona~Halkidona*2006 APS Atromitos Athena~Atromitos
-1800 GS Kallithea Athena~Kallithea
-1800 Athinaikos Veronas~Veronas
-1800 APS Patra~Patra*1990 AO Patraikos~Patraikos*2005 Panahaiki 2005 Patras~Panahaiki
+1800 GS Kallithea~Kallithea
+1800 APS Vironas Kavala~Vironas
+1800 APS Patra~Patra*1990 AO Patraikos~Patraikos*2005 Panahaiki 2005 Patras~Panahaiki*2023 APS Patra~Patra
 1800 Panaegialios Aegion~Aegion
 1800 AO Agios Nikolaos Kriti~Agios Nikolaos
-1800 Akratitos Neon Liosion Athena~Akratitos
+1800 APO Akratitos Ano Liosion~Akratitos
 1800 Anagennisi Karditsas~Karditsas
 1800 AO Doxa Verona~Doxa Verona
 1800 Lykoi Kalohori Saloniki~Lykoi
@@ -112,7 +112,7 @@
 1800 Agrersani Naxos~Naxos
 1800 Ethnikos Katerini~Ethnikos Kat.
 1800 APO Keratsini Pireu~Keratsini
-1800 AO Neapolis Saloniki~Neapolis*2009 Makedonikos Neapolis~Neapolis
+1800 AO Neapolis Saloniki~Neapolis
 1800 PO Atsalenios Iraklio~Atsalenios
 1800 Olympiakos Halkidas~Halkida*1968 AS Halkidas~Halkida
 1800 APS Thyella Patras~Thyella Patras
@@ -159,7 +159,7 @@
 1800 AE Amphiali Athena~Amphiali
 1800 Akrites Sykeon Saloniki~Akrites Sykeon
 1800 Rigas Pheraios Velestino~Velestino
-1800 APO Rouf Athena~Rouf
+1800 PAO Rouf Athena~Rouf
 1800 AO Ikaros Athena~Ikaros
 1800 AO Syros~Syros
 1800 AO Dimitra Trikala~Dimitra Trik.
@@ -191,7 +191,7 @@
 1800 Averof Ioannina~Averof
 1800 Doxa Kranoulas~Kranoulas
 1800 Visaltiakos Nigrita~Visaltiakos
-1800 Platanias FC~Platanias
+1800 PAE Platanias Chanion~Platanias
 1800 Saronikos Aegina~Saronikos
 1800 Iraklis Psachnon~Psachna
 1800 Aetos Skydras~Skydra
@@ -205,7 +205,7 @@
 1800 Ethinkos Gazoros~Gazoros*2015 Serres FC~Serres
 1800 AO Tylikratis Lefkada~Tilikratis
 1800 Oikonomos Tsaritsani~Tsaritsani
-1800 PAE Episkopi Rethimno~Episkopi
+1800 PAE Episkopi Rethymnou~Episkopi
 1800 TAP Platamonas~Platamonas
 1800 AO Kassiopi~Kassiopi
 1800 Aiginiakos FC~Aiginiakos
@@ -244,7 +244,7 @@
 1800 Panarkadikos FC~Panarkadikos
 1800 AO Giouchtas~Giouchtas
 1800 AO Kissamikos Pogos~Kissamikos*2018 AO Chania Kissamikos~Kissamikos
-1800 AO Mykonos~Mykonos
+1800 AO Mykonos~Mykonos*2020 AE Mykonos~Mykonos
 1800 Olympiakos Lavrio~Lavrio
 1800 Pefkis AO~Pefki
 1800 AOT Trachones Alimos~Alimos
@@ -256,7 +256,7 @@
 1800 AO Pannaxiakos~Pannaxiakos
 1800 Peramaikos FC~Peramaikos
 1800 Thyella Diastavroseos~Diastavroseos
-1800 Triglia Rafinas~Triglia
+1800 AO Triglia Rafinas~Rafina
 1800 Apollon Arnaia~Arnaia
 1800 Thyella Filotas~Filotas
 1800 Pyrasos Nea Anchialos~Pyrasos
@@ -302,7 +302,7 @@
 1800 Philippos Alexandreia~Alexandreia
 1800 Asteras Parapotamos~Parapotamos
 1800 Ermis Amyntaio~Amyntaio
-1800 AE Pontion Karagiannion~Karagiannia
+1800 AE Pontion Karagiannion~Karagiannia*2020 AEP Kozani~Kozani
 1800 AE Lefkimmi~Lefkimmi
 1800 Panamvrakakikos Amphilochia-Mpouka~Amphilochia
 1800 Panlefkadios FC~Panlefkadios
@@ -313,7 +313,7 @@
 1800 Digenis Neochori~Neochori
 1800 AO Sellana~Sellana
 1800 APOK Velouchi~Velouchi
-1800 Volos New Football Club~Volos NFC
+1800 PAE Volos NPS~Volos NPS
 1800 Asteras Amaliadas~Amaliada
 1800 Asteras Vlachioti~Vlachioti
 1800 Diagoras Vrachneika Patras~Vrachneika
@@ -337,7 +337,7 @@
 1800 Megas Alexandros Kallithea~MA Kallithea
 1800 Souli Paramythias~Paramythia
 1800 Thriamvos Serviana~Serviana
-1800 Apollon Makrychoriou~Makrychori
+1800 Apollon Makrychoriou~Makrychori*2021 Aetos Makrychoriou~Makrychori
 1800 AE Meteora~Meteora
 1800 AO Stylidas~Stylida
 1800 Theseas Agrias~Agria
@@ -348,13 +348,13 @@
 1800 Thyella Kamari~Kamari
 1800 AO Eikosimias Kefallonias~Eikosimia
 1800 Enosi Lernas~Lerna
-1800 AO Ipatou~Ipato
+1800 AO Ypatou~Ypato
 1800 AO Katastari Zakynthou~Katastari
 1800 AE Pellanas Kastoriou~Pellana
 1800 Niki Traganou~Tragano
 1800 Palliniakos AO~Palliniakos
 1800 Anegennisi Ierapetra~An Ierapetra
-1800 Enosi Antheias-Aristinou~Antheias
+1800 Enosi Antheias-Aristinou~Antheias*2020 Alexandroupoli FC~Alexandroupoli
 1800 Doxa Kato Kamila~Kamila
 1800 Doxa Theologos~Theologos
 1800 Iraklis Zygou~Zygou
@@ -374,7 +374,7 @@
 1800 OF Ermis Korydallos~Korydallos
 1800 PAS Kithairon~Kithairon
 1800 Nea Artaki~Nea Artaki
-1800 AS Rodos~AS Rodos
+1800 GAS Ialysos Rodos~Rodos
 1800 AEK Tripolis~AEK Tripolis
 1800 AO Diavolitsi~Diavolitsi
 1800 Olympiakos Zacharo~Zacharo
@@ -383,3 +383,52 @@
 1800 Panakrotiriakos~Akrotiri
 1800 Poros FC~Poros
 1800 AO Rethymniakos~Rethymniakos
+1800 Ampelokipon Drama~Ampelokipon Dr
+1800 Anagennisi Thalassias~Thalassia
+1800 Elpida Sapes~Sapes
+1800 Ethnikos Sochos~Sochos
+1800 AE Evosmou~Evosmou
+1800 Megas Alexandros Orfanoiu~MA Orfani
+1800 Aetos Varvaras~Varvara
+1800 Anagennisi Plagias~Plagia
+1800 Ethinkos Giannitsa~Ethnikos Gn
+1800 PAOK Alexandreia~PAOK Alex
+1800 Ethnikos Neo Keramidi~Keramidi
+1800 PO Fikis~Fiki
+1800 Dimitra Efxeinoupolis~Efxeinoupolis
+1800 OF Agios Matthaios~Agios Mateos
+1800 Amvrakikos Loutrou~Loutro
+1800 Ktinotrofikos Asteras Kalirachis~Kalirachi
+1800 AS Megas Alexandros Kastoria~MA Kastoria
+1800 Panagriniakos~Panagriniakos
+1800 Thyella Katsikas~Katsika
+1800 Thyella Monastirakiou~Monastiraki
+1800 AS Santorini~Santorini
+1800 Aris Skalas~Skala
+1800 Atromitos Chiliomodi~Chiliomodi
+1800 Ermis Meligous~Meligou
+1800 Foinikas Neas Epidavros~Epidavros
+1800 Kornoida Koiladas~Koilada
+1800 OFM Molaikos~Molaikos
+1800 Aetos Loutron~Loutra
+1800 AO Karavas~Karavas
+1800 Mikrasiatiki Chios~Chios
+1800 AE Pyliou Kos~Kos
+1800 Pythagoras Karlovasi~Karlovasi
+1800 AO Aias Gastounis~Gastouni
+1800 Ethnikos Skoulikadou Machairado~Skoulikadou
+1800 Almyros Gaziou~Gazi
+1800 Aris Rethymnou~Aris Rethymnou
+1800 Aris Soudas~Souda
+1800 AO Damastas~Damasta
+1800 PAE Triglia Nea Halkidiki~Triglia
+1800 Olympiakos Pireu II~Olympiakos II
+1800 Panathinaikos II~Panathinaikos
+1800 AEK Athena II~AEK II
+1800 PAOK Saloniki II~PAOK II
+1800 AO Chaniotis~Chaniotis
+1800 PAO Kristoni~Kristoni
+1800 GAS Svoronos~Svoronos
+1800 Apollon Pargas~Parga
+1800 AO Tympaki Heraklion~Tympaki
+1800 Aris Petroupoli~Petroupoli
