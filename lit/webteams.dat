@@ -1,32 +1,32 @@
-181
-Zalgiris,Zalgiris Vilnius
-Kaunas,FBK Kaunas
-Panevezys,Ekranas Panevezys
-Atlantas,Atlantas Klaipeda
-Siauliai,FK Siauliai
-Suduva,Suduva Marijampole
+193
+Zalgiris,fk-zalgiris
+Kaunas,fbk-kaunas
+Panevezys,fk-panevzys
+Atlantas,fk-atlantas
+Siauliai,fk-siauliai
+Suduva,fk-suduva
 Vetra,Vetra Rudiskes
-Silute,FC Silute
-Nevezis,Nevezis Kedainiai
+Silute,fc-silute
+Nevezis,fk-nevzis
 FC Vilnius,FC Vilnius
 Gelezinis,Gelezinis Vilkas Vilnius
 Inkaras,Inkaras Kaunas
 Alytis,Alytis Alytus
-Banga,Banga Gargzdai
-Utenis,Utenis Utena
+Banga,fk-banga-gargzdai
+Utenis,utenis-utena
 Sakalas,Sakalas Siauliai
 Kauno Jageriai,Kauno Jageriai
 Interas,Interas Visaginas
-Kruoja,Kruoja Pakruojis
+Kruoja,fk-kruoja-pakruojis
 Atletas,Atletas Kaunas
-Jonava,Lietava Jonava
+Jonava,fk-lietava-jonava
 Rodikilis,Rodikilis Kaunas
 Klaipeda,Glestum Klaipeda
 Ukmerge,Vienibe Ukmerge
 Tauras,Tauras Taurage
 Anyksciai,Anyksciai
 Polonija,Polonija Vilnius
-Telsiai,Mastis Telsiai
+Telsiai,fc-dziugas
 Mazeikiai,Romar Mazeikiai
 Panerys,Panerys Vilnius
 Ranga,Ranga Politechnika Kaunas
@@ -35,12 +35,12 @@ Sirijus,FK Klaipeda
 Minija,Minija Kretinga
 Neris,Neris Vilnius
 Vilija,Vilija Kaunas
-Spyris,Spyris Kaunas
+Spyris,kauno-zalgiris
 U-19,Lietuva U-19
 Vidzgiris,Vidzgiris Alytus
 Lifosa,Lifosa Kedainiai
 REO,FK REO LT Vilnius
-Trakai,Trakai FK
+Trakai,fk-riteriai
 Venta,FK Venta Kur¹enai
 LKKA,LKKA Kaunas
 Babrungas,Babrungas Plunge
@@ -75,8 +75,8 @@ Olimpija,Olimpija Paneve¾ys
 Makabi,Makabi Vilnius
 Pasvalys,Melioratus Pasvalys
 Universitetas,Universitetas Vilnius
-Dainava,Dainava Alytus
-Palanga,FK Palanga
+Dainava,dfk-dainava
+Palanga,fk-palanga
 Granitas,Granitas Vilnius
 Prienai,Rudupis Prienai
 Bekentas,Bekentas Vilnius
@@ -163,7 +163,7 @@ Ausra,FK Au¹ra Vlinius
 Kibirkstis,FK Kibirk¹tis Vilnius
 Lok Kybartai,Lokomotyvas Kybartai
 Okeanas,Okeanas Klaipeda
-Granitas Kl,Granitas Klaipeda
+Granitas Kl,fk-klaipdos-granitas
 Jambo,Jambo Klaipeda
 Druskininkai,FK Arnika Druskininkai
 Rotalis,SFK Rotalis
@@ -171,12 +171,24 @@ Granitas-2,FK Granitas Vilnius II
 Titanas,Titanas Alytus
 Baltija,FK Baltija Klaipeda
 MRU,Mykolo Romerio Universitetas
-Stumbras,FC Stumbras Kaunas
+Stumbras,fc-stumbras
 Kruoja-2,Kruoja II Pakruojis
 Trakai-2,FK Trakai II
 Auska,FK Auska Alytus
-Hegelmann,FC Hegelmann Litauen Kaunas
+Hegelmann,hegelmann-litauen
 Vytis,FK Vilniaus Vytis
 Koralas,FK Koralas Klaipeda
 Stumbras-2,FC Stumbras II Kaunas
 Utenis-2,Utenis Utena II
+Kupiskis,FC KupiÅ¡kis
+BFA,Baltijos Futbolo Akademija
+Riteriai-2,FK Riteriai II
+Kauno-2,Kauno Å½algiris II
+Aukstaitija,FK AukÅ¡taitija
+Kareda,FK Kareda Siauliai
+Neptunas,NeptÅ«nas KlaipÄ—da
+Be1,Be1 NFA Kaunas
+Garliava,Garliava Kaunas
+Panevezys,fk-panavezys
+Panevezys-2,FK PanevÄ—Å¾ys II
+Transinvest,FK TransInvest Vilnius

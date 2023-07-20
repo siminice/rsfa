@@ -1,4 +1,4 @@
-325
+424
 Panathinaikos,Panathinaikos
 Olympiakos,Olympiakos Pireu
 AEK,AEK Athena
@@ -35,7 +35,7 @@ Serres,Panserraikos Serres
 Diagoras,Diagoras Rhodos
 Aigaleo,Aigaleo Athena
 Makedonikos,Makedonikos Saloniki
-Rhodos,GAS Ialysos Rhodos
+Ialysos Rhodos,GAS Ialysos Rhodos
 Atromitos,Atromitos Peristeri
 Panaitolikos,Panaitolikos Agrinion
 Peristeri,AO Peristeri
@@ -116,7 +116,7 @@ Keratsini,APO Keratsini Pireu
 Neapolis,AO Neapolis Saloniki
 Atsalenios,PO Atsalenios Iraklio
 Halkida,Halkida
-Thiella,APS Thiella Patras
+Thyella Patras,APS Thyella Patras
 Haidari,AO Haidari Athena
 Lilas,Lilas Vasilikon
 Pano Mallia,Pano Mallia Iraklio
@@ -257,7 +257,7 @@ Mandraikos,Mandraikos
 Pannaxiakos,Pannaxiakos
 Peramaikos,Peramaikos
 Diastavroseos,Thyella Diastavroseos
-Rafina,Trigila Rafinas
+Rafinas,Triglia Rafinas
 Arnaia,Apollon Arnaia
 Filotas,Thyella Filotas
 Pyrasos,Pyrasos Nea Anchialos
@@ -297,7 +297,7 @@ Sidirochori,Doxa Nea Sidirochori
 Skoutari,Elpis Skoutari
 Karperi,Megas Alexandros Karperi
 Xiropotamos,Megas Alexandros Xiropotamos
-Palaiochori,Aris Palaiochori
+Aris Paleohori,Aris Palaiochori
 Karitsa,AE Karitsa
 MA Trikala,Megas Alexandros Trikala
 Alexandreia,Philippos Alexandreia
@@ -324,3 +324,102 @@ Tamyniakos,Tamyniakos FC
 Spata,Aittitos Spata
 Mylopotamos,AE Mylopotamos
 Palaiochora,Palaiochora FC
+Alex Kilkis,Alexandros Kilkis
+Aspida Xanthi,Aspida Xanthi
+Kalampaki,AE Kalampaki
+Perni,Keravnos Pernis
+Meliti,Meliteas Melitis
+Agkathia,Niki Agkathias
+Kymina,Olympiakos Kyminon
+Koufalia,PAO Koufalion
+Floriada,AO Floriadas
+Aerata,Grevena Aerata
+Argyrades,Kronos Argyrades
+MA Kallithea,Megas Alexandros Kallithea
+Paramythia,Souli Paramythias
+Serviana,Thriamvos Serviana
+Makrychori,Apollon Makrychoriou
+Meteora,AE Meteora
+Stylida,AO Stylidas
+Agria,Theseas Agrias
+Neapoli Kriti,AE Neapolis
+Amp Salamina,Ampelakiakos Salaminas
+Anargyroi,PS Agion Anargyron
+Eretria,Apollon Eretrias
+Kamari,Thyella Kamari
+Eikosimia,AO Eikosimias Kefallonias
+Lerna,Enosi Lernas
+Ypato,AO Ypatou
+Katastari,AO Katastari Zakynthou
+Pellana,AE Pellanas Kastoriou
+Tragano,Niki Traganou
+Palliniakos,Palliniakos AO
+An Ierapetra,Anegennisi Ierapetra
+Antheias,Enosi Antheias-Aristinou
+Kamila,Doxa Kato Kamila
+Theologos,Doxa Theologos
+Zygou,Iraklis Zygou
+Mesopotamia,Astrapi Mesopotamia
+Kallikrateia,Nea Kallikrateia FC
+Seirina,AO Seirina Grevena
+Sarakinoi,Thyella Sarakinoi
+Atalanti,Atalanti FC
+Palamas,Atromitos Palamas
+Stefanovik,Diagoras Stefanovik
+Dias Diou,Dias Diou FC
+Iraklis Lar,AE Iraklis Larissa
+Potamia,Potamia FC Megalo Chorio
+Efpaliou,Apollon Efpaliou
+Thinaliakos,Thinaliakos FC Acharavi
+Ano Meras,AS Ano Meras
+Korydallos,OF Ermis Korydallos
+Kithairon,PAS Kithairon
+Artaki,Nea Artaki
+AS Rodos,AS Rodos
+AEK Tripolis,AEK Tripolis
+Diavolitsi,AO Diavolitsi
+Zacharo,Olympiakos Zacharo
+Pangytheatikos,Pangytheatikos Gytheio
+Tsilivi,Tsilivi FC Planos
+Akrotiri,Panakrotiriakos
+Poros,Poros FC
+Rethymniakos,AO Rethymniakos
+Ampelokipon Dr,Ampelokipon Drama
+Thalassia,Anagennisi Thalassias
+Sapes,Elpida Sapes
+Sochos,Ethnikos Sochos
+Evosmou,AE Evosmou
+MA Orfani,Megas Alexandros Orfanoiu
+Varvara,Aetos Varvaras
+Plagia,Anagennisi Plagias
+Ethnikos Gn,Ethinkos Giannitsa
+PAOK Alex,PAOK Alexandreia
+Keramidi,Ethnikos Neo Keramidi
+Fiki,PO Fikis
+Efxeinoupolis,Dimitra Efxeinoupolis
+Agios Mateos,OF Agios Matthaios
+Loutro,Amvrakikos Loutrou
+Kalirachi,Ktinotrofikos Asteras Kalirach
+MA Kastoria,AS Megas Alexandros Kastoria
+Panagriniakos,Panagriniakos
+Katsika,Thyella Katsikas
+Monastiriaki,Thyella Monastiriakou
+Santorini,AS Santorini
+Skala,Aris Skalas
+Chiliomodi,Atromitos Chiliomodi
+Meligou,Ermis Meligous
+Epidavros,Foinikas Neas Epidavros
+Koilada,Kornoida Koiladas
+Molaikos,OFM Molaikos
+Aetos Loutra,Aetos Loutron
+Karavas,AO Karavas
+Chios,Mikrasiatiki Chios
+Pyliou Kos,AE Pyliou Kos
+Karlovasi,Pythagoras Karlovasi
+Gastouni,AO Aias Gastounis
+Skoulikadou,Ethnikos Skoulikadou Machairad
+Gazi,Almyros Gaziou
+Aris Rethymnou,Aris Rethymnou
+Souda,Aris Soudas
+Damasta,AO Damastas
+Triglia,PAE Triglia

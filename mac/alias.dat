@@ -21,14 +21,14 @@
 1800 FK Turnovo~Turnovo*2010 FK Horizont Turnovo~Turnovo
 1800 FK Belasica Strumica~Belasica
 1800 Lozar Demir Kapija~Lozar*2008 FK Vardar Negotino~Negotino
-1800 Karaorman Struga~Karaorman*2010 Vlaznimi Struga~Struga*2018 FK Struga~Struga
+1800 FK Karaorman Struga~Karaorman
 1800 FK Novaci~Novaci
 1800 Mladost Susica~Susica*2008 Nov Milenium Susica~Susica
 1800 FK Rinija Gostivar~Gostivar*2018 FK Gostivar~Gostivar
 1800 Kozuv Gevgelija~Kozuv
 1800 FK Tiverija Strumica~Tiverija
 1800 Bratstvo Resen~Resen*2014 Prespa Rešen~Prespa
-1800 Tikveš Kavadarci~Tikves
+1800 GFK Tikveš Kavadarci~Tikves
 1800 Bregalnica Delčevo~Delcevo
 1800 Škendija Fortuna Skopje~Skendija Sk*2005 Škendija Aracinovo~Aracinovo
 1800 Osogovo Kočani~Osogovo
@@ -84,7 +84,7 @@
 1800 Napredok Radovo~Radovo
 1800 Ovče Pole Sveti Nikole~Sveti Nikole
 1800 Rabotnik Lozovo~Lozovo
-1800 Arsimi Čegrane~Cegrane
+1800 KF Aresimi Çegrane~Çegran
 1800 Bratstvo Lisičani~Lisicani
 1800 Kamjan Kamenjane~Kamenjane
 1800 Liria Zelino~Zelino
@@ -98,9 +98,16 @@
 1800 Liria Zagračani~Zagracani
 1800 Lisolaj Bitola~Lisolaj
 1800 Veleshte Velešta~Velesta
-1800 Vlaznimi Struga~Vlaznimi Struga
+1800 FK Struga~Struga
 1800 Vulkan Kosel~Kosel
-1800 Akademija Pandev~Pandev
+1800 Fudbalska Akademija Pandev~Pandev
 1800 FK Plačkovica~Plačkovica
 1800 FK Kit-Go Pehčevo~Pehčevo
 1800 FK Genç Kalemler~Genç Kalemler
+1800 FK Rosoman~Rosoman
+1800 FK Bratstvo Žitoše~Žitoše
+1800 FK Tim Lokomotiva Gradsko~Gradsko
+1800 FK Besa Dobërdoll~Dobri Dol
+1800 FK Voska Sport Ohrid~Voska
+1800 KF Arsimi Čegrane~Arsimi
+1800 FK Vllaznimi Struga~Vllaznimi

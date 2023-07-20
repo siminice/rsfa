@@ -1,4 +1,4 @@
-945
+993
 Steaua,Steaua Bucuresti
 Dinamo,Dinamo Bucuresti
 Craiova,Universitatea Craiova
@@ -7,7 +7,7 @@ Petrolul,Petrolul Ploiesti
 Progresul,Progresul Bucuresti
 Arges,FC Arges Pitesti
 Bacau,FCM Bacau
-FC Brasov,FC Brasov
+Brasov,FC Brasov
 Farul,FC Farul Constanta
 Otelul,Otelul Galati
 Bistrita,Gloria Bistrita
@@ -17,9 +17,9 @@ Astra,Astra Ploiesti
 Onesti,FC Onesti
 Rocar,Rocar Bucuresti
 Electroputere,Electroputere Craiova
-Lam.Roman,Laminorul Roman
+Roman,Laminorul Roman
 Dunarea Galati,Dunarea Galati
-Dacia,Dacia Mioveni
+Mioveni,Dacia Mioveni
 Juventus,Juventus Colentina Buc.
 Falticeni,Foresta Falticeni
 Fieni,Cimentul Fieni
@@ -102,7 +102,7 @@ CSM Slatina,Oltul Slatina
 Constr TCI,Constructorul TCI Craiova
 Alexandria,Unirea Alexandria
 Rosiori,AS Municipal ROVA Rosiori
-Dun.Giurgiu,Dunarea Giurgiu
+Astra II,Dunarea Giurgiu
 Pantelimon,Turistul Pantelimon
 Atletic,FC Atletic Bucuresti
 Inter-Gaz,Inter-Gaz Bucuresti
@@ -143,7 +143,7 @@ ICIM,ICIM Textila Prejmer
 Rapid Brasov,Rapid Energia Brasov
 Ticleni,Petrolul Ticleni
 Romradioatoare,Romaradiatoare Brasov
-Maramures,FC Maramures Baia Mare
+Baia Mare,FC Baia Mare
 Campia Turzii,Ind. Sârmei Câmpia Turzii
 Gherla,Olimpia Gherla
 Oas,Oasul Negresti
@@ -267,7 +267,7 @@ Sanmartin,Obilici Sanmartin
 Minerul Stei,Minerul Stei
 Letea,FCM II Bacau
 Constr.Const.,Constructorul Constanþa
-Cornesti,Gloria Cornesti
+Popesti Leord,Gloria Cornesti
 Ciocanesti,Ceres Ciocanesti
 SN Constanta,ªN Constanta
 Sadu,Arsenal Sadu
@@ -322,7 +322,7 @@ Rarora,Rarora Râmnicu Vâlcea
 Marghita,Petrom Marghita
 Roman II,Laminorul II Roman
 Munteni,Victoria Muntenii de Jos
-Bosanci,Soimii Bucovina Bosanci
+Darabani,ACS Sanatatea Darabani
 Willy,FC Willy Bacau
 Uztel,Uztel Ploiesti
 Mondial,Mondial Braila
@@ -352,7 +352,7 @@ Sovata,Mobila Sovata
 RATA TgM,Locomotiva Tg.Mures
 UTB,Unirea Tricolor Bucuresti
 DUIG,DUIG Braila
-Metalul Buc,Metalul Bucuresti
+Progresul Sp,Progresul Spartac Bucuresti
 Prog.Sibiu,Progresul Sibiu
 Romanu,Romgal Romanu
 Tepro,TEPRO Iasi
@@ -549,7 +549,7 @@ TAROM,Soimii TAROM Bucuresti
 IOR,IOR Bucuresti
 Bozovici,Nera Bozovici
 Vointa Carei,Vointa Carei
-SSP Cluj,Sanatatea Servicii Publice Cluj
+SSP Cluj,Sanatatea Servicii Publice Clu
 CPL Sf.Gh.,CPL Sf.Gheorghe
 ITA P.Neamt,ITA Piatra Neamt
 Constr.Alba,Constructorul Alba Iulia
@@ -621,12 +621,12 @@ Suciu de Sus,FC Suciu de Sus
 Odoreu,Florenta Model Odoreu
 U Cluj 1919,Stiinta Cluj
 Dacia II,CS Dacia II Mioveni
-Felix,AS Lotus Felix Sânmartin
+Luceafarul Or,AS Lotus Felix Sânmartin
 ASA Timiºoara,ASA Timiºoara
 Muncitorul Res,AS Muncitorul Resita
 Poli Galati,Politehnica Galati
 Sarmas-Toplita,CS Stiinta Sarmas-Toplita
-1 Decembrie,FC 1 Decembrie Ilfov
+Traian,Victoria Traian
 Tg.Mures,FCM Tg.Mures
 Brusturi,Flacara Brusturi
 Matizol,AS Matizol Ploiesti
@@ -640,7 +640,7 @@ Leonard,CF Leonard NGM Pascani
 Urziceni II,Unirea Valahorum II Urziceni
 Modelu,Prefabricate 05 Modelu
 Clinceni,AFC Clinceni
-Buftea,CS Buftea
+Buftea,Academica Clinceni
 PG Zimnicea,CS Prima Guard Zimnicea
 Gica Popescu,SC Gicã Popescu
 Gloria ANEFS,Rocar ANEFS Bucuresti
@@ -676,7 +676,7 @@ Oil Terminal,Oil Terminal Constanta
 Ianca,CSO Ianca
 Onix Rm.Sarat,Onix Ramnicu Sarat
 Micula,AS Turul Micula
-Becicherec,AS Nova Mama Mia Becicherecu Mic
+Becicherec,AS Nova Mama Mia Becicherecu M
 Arges II,FC Arges II
 Tarlungeni,Unirea Tarlungeni
 Bihor II,FC Bihor II Oradea
@@ -710,7 +710,7 @@ Schela Mare,Muncitorul Schela Mare
 Medicina Cluj,Medicina Cluj
 Textila Medias,Textila Mediaº
 Viitorul TgM,Viitorul Târgu Mureº
-Arsenal Sibiu,Arsenal Sibiu
+CNP Timisoara,CNP Timisoara
 Transilvania A,Transilvania Arad
 Muresul TgM,Mureºul Târgu Mureº
 Viitorul Buc,Viitorul Bucureºti
@@ -784,7 +784,7 @@ Turcinesti,Ralbex Turcineºti
 Livezile,Voinþa Livezile
 Recas,AS Recaº
 Vointa Sibiu,Voinþa Sibiu
-Luceafarul Or,Luceafãrul Oradea
+Borcea,Agricola Borcea
 Vaslui II,FC Vaslui II
 Dunarea II,FCM Dunãrea II Galaþi
 Tunari,CS Tunari
@@ -801,7 +801,7 @@ Giarmata,Millenium Giarmata
 SF Radauti,ªcoala de Fotbal Rãdãuþi
 Viitorul Ct,Viitorul Constanþa
 Floresti CJ,Unirea Floreºti
-Mesagerul,Mesagerul Bacãu
+SC Bacau,Mesagerul Bacãu
 Stoicescu,ABC Stoicescu
 Spic de Grau,Spicul Rompan
 Balotesti,FC Baloteºti
@@ -819,7 +819,7 @@ Rucar,CS Rucãr
 Stadiul Bacauan,Stadiul Bãcãuan
 Ciresu,Conpet Cireºu
 Metaloglobus,Metaloglobus Bucureºti
-Fundulea,Progresul Fundulea
+Saelele,Vointa Saelele
 UCRB,UCR Bucureºti
 Turda Buc,Turda Bucureºti
 Victoria Galati,Victoria TCI Galaþi
@@ -840,9 +840,9 @@ Chiajna II,FC Concordia II Chiajna
 U Cluj II,CFM Universitatea Cluj II
 Tg.Mures II,FCM Târgu Mureº II
 Siderurgistul,Siderurgistul Galaþi
-Gara de Nord,Locomotiva Gara de Nord Bucureºti
-Grivita,Griviþa CFR Bucureºti
-Rapid Cluj,Flamura Roºie Cluj
+Gara de Nord,Locomotiva Gara de Nord Bucure
+Ghiroda,ACS Ghiroda
+Milcov,FC Milcov
 Luca Arbore,Hatmanul Luca Arbore Rãdãuþi
 CFR Oradea,CFR Oradea
 Minerul Muscel,Minerul Cîmpulung Muscel
@@ -923,10 +923,10 @@ Podari,CS Podari
 Avrig,FC Avrig
 Turceni,CS ªtiinþa Turceni
 Jucu,CS Unirea Jucu
-FCM Baia Mare,FCM Baia Mare
+Maramures,FC Maramures Baia Mare
 Papauti,FC Pãpãuþi
 CSU Craiova,CSU Craiova
-Barsana,Avântul Bârsana
+Barsana,CS Avântul Bârsana
 Sepsi,ACS Sepsi OSK Sf.Gheorghe
 Csikszereda,AFK Csikszereda Miercurea Ciuc
 Dinicu Golescu,CN Dinicu Golescu
@@ -934,13 +934,61 @@ Filiasi,ACSO Filiasi
 Batrana Doamna,ACS UTA Batrina Doamna
 Galda,ACS Industria Galda
 Atletico Vaslui,CS Atletico Vaslui
-Raucesti,CS Speranþa Rãuceºti
+Balesti,International Balesti
 Inter Dorohoi,ACS Inter Dorohoi
-Viitorul-2,FC Viitorul II Constanþa
+Viitorul II,FC Viitorul II Constanþa
 Sporting Turnu,ACS Sporting Turnu
-Voluntari-2,FC Voluntari II
+Voluntari II,FC Voluntari II
 Harman,AFC Înfrãþirea Hãrman
 Ighiu,ACS Performanþa Ighiu
-CSU Craiova-2,CSU Craiova II
+CSU Craiova II,CSU Craiova II
 Recea,ASF Comuna Recea
-Branceni,Unirea Branceni
+Branceni,Unirea BrÅ“nceni
+Valea Marului,Avântul Valea Mãrului
+Chiscani,Sportul Chiscani
+Rasnov,Olimpic Cetate Râºnov
+Malu,Arsenal Malu
+Sirineasa,ACS ªirineasa
+Mioveni II,CS Mioveni II
+Cermei,Gloria Lunca Teuz Cermei
+Recas II,ACS Poli Timiºoara II
+UTA II,UTA Bãtrâna Doamnã II
+Dorolt,ACS Recolta Dorolþ
+Hermannstadt,AFC Hermannstadt
+FC Bistrita,FC Bistriþa
+Hermannst II,AFC Hermannstadt II
+Dumbravita,ACS DumbrÄƒviÅ£a
+Gauss Bacau,ACS Gauss BacÄƒu
+MSE TgMures,MSE TÃ¢rgu MureÅŸ
+Somuz,ACS Åžomuz FÄƒlticeni
+Dumitra,ACS Unu FC Gloria BistriÅ£a
+Bragadiru,CSO Bragadiru
+Gheorghe Doja,ACS Recolta Gheorghe Doja
+Blejoi,CS Blejoi
+Cetate,ACS Tractorul Cetate
+Colonesti,CS VediÅ£a ColoneÅŸti~ColoneÅŸ
+Fortuna Bec,ACS Fortuna Becicherecu Mic
+Pecica,CS Progresul Pecica
+Daesti,CS Viitorul DÄƒeÅŸti
+Limanu,CS Poseidon Limanu
+Dante,CS Dante BotoÅŸani
+Viitorul II,Viitorul ConstanÅ£a II
+Sepsi II,OSK Sepsi Sf.Gheorghe II
+Tampa,ACS TÃ¢mpa Kids~TÃ¢mpa
+Potcoava,CS Petrolul Potcoava
+Clinceni-2,Academica Clinceni II
+Costesti VL,CS Minerul CosteÅŸti
+Periam,CS AvÃ¢ntul Periam
+Ezeris,CS Progresul EzeriÅŸ
+Somesul Dej,FC SomeÅŸul Dej
+CSM Satu Mare,CSM Satu Mare
+Steaua Buc,CSA Steaua BucureÅŸti
+Dinamo Bacau,Dinamo BacÄƒu
+Bradu,Real BRadu
+Lupac,VoinÅ£a Lupac
+Pitesti-2,FC ArgeÅŸ PiteÅŸti II
+Star Bisnov,Pobeda Star BiÅŸnov
+Sirineasa II,Viitorul Tg. Jiu II
+Viitorul Cluj,AF Viitorul Cluj
+Vointa SM,Vointa SM
+Filaret,Filaret

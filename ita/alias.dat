@@ -6,7 +6,7 @@
 1800 US Alessandria~Alessandria
 1900 Anconitana~Anconitana*1982 AC Ancona~Ancona
 1800 AS Fidelis Andria~Andria*2006 AS Andria BAT~Andria*2013 SS Fidelis Andria~Andria
-1800 AC Arezzo~Arezzo
+1800 AC Arezzo~Arezzo*2023 SS Arezzo~Arezzo
 1800 Ascoli Calcio~Ascoli
 1800 Asti T.S.C.~Asti
 1800 Atalanta Bergamo~Atalanta
@@ -21,10 +21,10 @@
 1800 Bologna FC~Bologna
 1800 FC Bolzano~Bolzano
 1800 Brescia Calcio~Brescia
-1800 FB Brindisi~Brindisi
+1800 FB Brindisi~Brindisi*2023 SSD Brindisi FC~Brindisi
 1800 Cagliari Calcio~Cagliari
 1800 Campania Puteolana~Campania*2000 FC Puteolana~Campania
-1800 SS Campobasso~Campobasso*2004 Nuovo Campobasso Calcio~Campobasso
+1800 SS Campobasso~Campobasso*2004 Nuovo Campobasso Calcio~Campobasso*2022 Città di Campobasso~Campobasso
 1800 Carbonia~Carbonia
 1800 Carbosarda~Carbosarda
 1800 Carpi FC 1909~Carpi
@@ -33,7 +33,7 @@
 1800 Virtus Casarano~Casarano
 1800 Casertana FC~Casertana
 1800 Castel di Sangro Calcio~C.di Sangro
-1800 Calcio Catania~Catania
+1800 Calcio Catania~Catania*Catania FC~Catania
 1800 US Catanzaro~Catanzaro*2006 FC Catanzaro~Catanzaro
 1800 SS Cavese 1919~Cavese
 1800 AC Centese~Centese
@@ -84,7 +84,7 @@
 1800 SS Lazio Roma~Lazio
 1800 US Lecce~Lecce
 1800 Calcio Lecco 1912~Lecco
-1800 AC Legnano~Legnano
+1800 AC Legnano~Legnano*2012 FC Legnano Salus~Legnano
 1800 Licata~Licata
 1800 Livorno Calcio~Livorno
 1800 AS Lucchese Libertas~Lucchese
@@ -162,10 +162,10 @@
 1800 ASD Scafatese Calcio~Scafatese
 1800 Seregno 1913~Seregno
 1800 AS Sestese Calcio~Sestese
-1800 AC Siena~Siena*2016 Robur Siena~Siena
+1800 AC Siena~Siena*2016 Robur Siena~Siena*2021 ACN Siena 1904~Siena
 1800 US Siracusa~Siracusa
 1800 Solbiatese Arno Calcio~Solbiatese
-1800 Sorrento Calcio~Sorrento
+1800 Sorrento Calcio~Sorrento*2023 ASD Sorrento~Sorrento
 1800 SPAL 1907 Ferrara~SPAL*2013 SPAL 2013 Ferrara~SPAL
 1800 Spezia Calcio~Spezia
 1800 Juve Stabia~Stabia
@@ -247,7 +247,7 @@
 1800 US Poggibonsi Valdelsa~Poggibonsi
 1800 AC Boca San Lazaro~San Lazaro
 1800 AC Bellaria Igea Marina~Bellaria
-1800 SS Calcio Giugliano~Giugliano
+1800 SS Calcio Giugliano~Giugliano*2023 ASD Giugliano Calcio~Giugliano
 1800 Vigor Lamezia~Lamezia
 1800 SS Cassino 1927~Cassino
 1800 FC Igea Virtus Barcellona~Igea Virtus
@@ -349,3 +349,12 @@
 1800 US Pianese~Pianese
 1800 USD Arzignano Valchiampo~Arzignano
 1800 Picerno ASD~Picerno
+1800 Matelica Calcio~Matelica*2022 Ancona-Matelica Calcio~Matelica
+1800 Monterosi FCSD~Monterosi
+1800 Sangiuliano City Nova~Sangiuliano
+1800 San Donato Tavarnelle~San Donato
+1800 USD Recanatese~Recanatese
+1800 SSD Audace Cerignola~Cerignola
+1800 ASD Gelbison Vallo della Lucania~Gelbison
+1800 USD Sestri Levante~Sestri Levante
+1800 ASD Pineto Calcio~Pineto

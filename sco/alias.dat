@@ -2,9 +2,9 @@
 1800 Celtic Glasgow~Celtic
 1800 Heart of Midlothian~Hearts
 1800 Hibernian Edinburgh~Hibernian
-1800 FC Aberdeen~Aberdeen
-1800 Dundee Wanderers~Dundee Wan*1896 Dundee Hibernian~Dundee Hib*1924 Dundee United~Dundee Utd
-1800 FC Dundee~FC Dundee
+1800 Aberdeen FC~Aberdeen
+1800 Dundee Hibernian~Dundee Hib*1924 Dundee United~Dundee Utd
+1800 Dundee FC~Dundee
 1800 Motherwell FC~Motherwell
 1800 Kilmarnock FC~Kilmarnock
 1800 Dunfermline Athletic~Dunfermline
@@ -12,8 +12,8 @@
 1800 Falkirk FC~Falkirk
 1800 Raith Rovers~Raith
 1800 Airdrieonians FC~Airdrie*2002 Airdrie United~Airdrie*2016 Airdrieonians FC~Airdrie
-1800 Saint Johnstone Perth~St.Johnstone
-1800 Saint Mirren FC Paisley~St.Mirren
+1800 Saint Johnstone FC~St.Johnstone
+1800 Saint Mirren FC~St.Mirren
 1800 Hamilton Academicals~Hamilton
 1800 Clyde FC~Clyde FC
 1800 Clydebank FC~Clydebank
@@ -37,9 +37,9 @@
 1800 Elgin City~Elgin City
 1800 Queen's Park FC~Queen's Park
 1800 Montrose FC~Montrose
-1800 Albion Rovers Coatbridge~Albion Rovers
+1800 Albion Rovers FC~Albion Rovers
 1800 Cowdenbeath FC~Cowdenbeath
-1800 East Stirlingshire Falkirk~East Stirling
+1800 East Stirlingshire FC~East Stirling
 1800 Meadowbank Thistle~Meadowbank
 1800 Alloa Athletic~Alloa
 1800 Third Lanark A.C.~Third Lanark
@@ -47,13 +47,13 @@
 1800 Bo'ness FC~Bo'ness
 1800 Port Glasgow Athletic~Port Glasgow
 1800 Saint Bernard's Edinburgh~St.Bernard's
-1800 Abercorn~Abercorn
+1800 Abercorn FC~Abercorn
 1800 Renton FC~Renton
 1800 Cambuslang FC~Cambuslang
 1800 Vale of Leven Alexandria~Vale of Leven
 1800 Cowlairs FC Springburn~Cowlairs
 1800 King's Park~King's Park
-1800 Edinburgh City~Edinburgh
+1800 Edinburgh City~Edinburgh*2023 FC Edinburgh~Edinburgh
 1800 Armadale~Armadale
 1800 Arthurlie~Arthurlie
 1800 Bathgate~Bathgate
@@ -83,7 +83,7 @@
 1800 Fort William~Fort William
 1800 Wick Academy~Wick Academy
 1800 Vale of Leithen~Vale of Leithen
-1800 Gala Fairydean~Gala Fairydean
+1800 Gala Fairydean Rovers~Gala Fairydean
 1800 Tarff Rovers~Tarff
 1800 Vale of Atholl~Vale of Atholl
 1800 Newton Stewart Athletic~Newton Stewart
@@ -108,7 +108,7 @@
 1800 Whitehill Welfare~Whitehill
 1800 Whithorn~Whithorn
 1800 Keith~Keith
-1800 Spartans~Spartans
+1800 The Spartans FC Edinburgh~Spartans
 1800 Civil Service Strollers~Civil Service
 1800 St.Cuthberts Wanderers~St.Cuthberts
 1800 Duns~Duns
@@ -154,3 +154,9 @@
 1800 Bonnyrigg Rose Athletic~Bonnyrigg
 1800 Kelty Hearts~Kelty
 1800 Caledonian Braves~Caledonian
+1800 Dundee Wanderers~Dundee W
+1800 Celtic Glasgow II~Celtic II
+1800 Glasgow Rangers II~Rangers II
+1800 Banks O'Dee FC Aberdeen~Banks O'Dee
+1800 Heart of Midlothian II~Hearts II
+1800 Tranent Juniors FC~Tranent

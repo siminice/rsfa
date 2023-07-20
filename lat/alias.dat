@@ -5,11 +5,11 @@
 1800 Celtnieks Daugavpils~Daugavpils*1992 Daugavpils BJSS~Daugavpils*1993 Auseklis Daugavpils~Auseklis*1995 Vilan-D Daugavpils~Vilan-D*1996 Dinaburg Daugavpils~Dinaburg*2009 Dinaburg FC Daugavpils~Dinaburg
 1800 Ditton Daugavpils~Ditton*2007 Daugava Daugavpils~Daugavpils
 1800 FK Jūrmala~FK Jūrmala*2008 FK Jūrmala VV~FK Jūrmala
-1800 FK Riga~FK Riga*2009 RFS/Olimps Riga~RFS/Olimps
+1800 FK Riga~FK Riga*2009 FK Olimps Riga~Olimps
 1800 Strautmala Rēzekne~Rēzekne*1992 Vairogs Rēzekne~Rēzekne*1997 FK Rēzekne~Rēzekne*2002 Dižvanagi Rēzekne~Rēzekne*2007 Blazma Rēzekne~Rēzekne*2010 Rēzekne BJSS~Rēzekne
-1800 JFK Olimps Riga~Olimps*2009 JFK Olimps/RFS Riga~Olimps*2012 RFS Riga~RFS
+1800 JFK Olimps Riga~Olimps
 1800 Venta Ventspils~Venta*2005 Venta Kuldiga~Venta
-1800 Gauja Valmiera~Valmiera*1994 FK Valmiera~Valmiera*2014 FK Valmiera Glass/BSS~Valmiera
+1800 Gauja Valmiera~Valmiera*1994 FK Valmiera~Valmiera*2014 FK Valmiera Glass/BSS~Valmiera*2020 Valmiera FC~Valmiera
 1800 Zibens Ilukste~Zibens*1999 Zibens Daugavpils~Zibens*2003 Zibens Zemessardze/Ilukste~Zibens
 1800 RAF Jelgava~RAF Jelgava*1996 RAF Riga~RAF Riga*1997 Universitate Riga~Universitate*2001 RAF Jelgava~RAF Jelgava*2004 FK Jelgava~Jelgava
 1800 FK Auda Riga~Auda*2009 FK Auda/Alberts Riga~Auda*2012 FK Auda Riga~Auda
@@ -29,13 +29,13 @@
 1800 FK Lode~Lode
 1800 Akora Seda~Akora Seda
 1800 VEF Riga~VEF*1993 VEF Zenta Riga~VEF Zenta*1993 DAG Riga~DAG
-1800 Lokomotive Daugavpils~Lokomotive
-1800 Universitate Riga~Universitate*2007 Latvijas Universitet Riga~Latvijas Univ*2009 FS Metta/LU Riga~Metta/LU
+1800 Lokomotive Daugavpils~Lokomotive*2019 FC Lokomotiv Daugavpils~Lokomotiv*2021 FC Noah Jūrmala~Noah
+1800 Universitāte Riga~Universitāte*2007 Latvijas Universitāte Riga~Latvijas Univ*2009 FS Metta/LU Riga~Metta/LU
 1800 FK Jurnieks Riga~Jurnieks*1992 Decemviri Riga~Decemviri*1994 FK Jurnieks Riga~Jurnieks
 1800 Multibanka Riga~Multibanka*2009 JFC Kauguri/Multibanka~Multibanka
 1800 JFC Skonto Riga~JFC Skonto
 1800 Skonto Riga II~Skonto II
-1800 FK Ventspils II~Ventspils II
+1800 FK Ventspils II~Ventspils II*2022 JFK Ventspils~JFK Ventspils
 1800 FK Liepāja~FK Liepāja*1996 SK Liepāja Metalurgs II~Metalurgs II
 1800 FK Riga II~FK Riga II
 1800 FC Jūrmala~FC Jūrmala
@@ -58,7 +58,7 @@
 1800 Dizelists Riga~Dizelists
 1800 ECK Riga~ECK Riga
 1800 Kompar-Daugava Riga~Daugava*1993 Olimpija Riga~Olimpija
-1800 Ditton Daugavpils II~Ditton II*2010 Daugava Daugavpils II~Daugava II*2014 BFC Daugavpils~BFC
+1800 Ditton Daugavpils II~Ditton II*2010 Daugava Daugavpils II~Daugava II
 1800 Eirobaltija Riga~Eirobaltija
 1800 FK Gulbene~Gulbene*2005 FB Gulbene 2005~Gulbene
 1800 Spartaks Jūrmala~Spartaks*2011 JPFS Spartaks Jūrmala~Spartaks
@@ -88,7 +88,7 @@
 1800 Metta II Salaspils~Salaspils*2014 FK Salaspils~Salaspils
 1800 Spartaks II Jūrmala~Spartaks II
 1800 Daugava II/Šitika FS~Šitika
-1800 AFA Olaine~Olaine*2017 FK Progress/Olaine~Olaine*2018 FC Daugavpils/Progress~Olaine
+1800 AFA Olaine~Olaine*2017 FK Progress/Olaine~Olaine*2018 FC Daugavpils/Progress~Olaine*2020 AFA Olaine~Olaine
 1800 FC Plavinas DM~Plavinas
 1800 IFC Riga United~United
 1800 FC Caramba/Dinamo Riga~Dinamo*2016 Riga FC~Riga
@@ -99,3 +99,14 @@
 1800 SK Super Nova Riga~Super Nova
 1800 Dinamo Rīga~Dinamo
 1800 FC BetLanes Rīga~BetLanes
+1800 Saldus SS/Leevon~Saldus
+1800 Rīgas Futbola skola~RFS
+1800 Albatroz SC Jelgava~Albatroz
+1800 BFC Daugava Daugavpils~BFC Daugavpils*2014 BFC Daugavpils~BFC Daugavpils
+1800 Futbola Skola Jelgava~FS Jelgava
+1800 Skanstes SK~Skanste
+1800 Rīga FC II~Rīga FC II
+1800 Rīgas FS II~Rīgas FS II
+1800 FK Tukums II~Tukums II
+1800 FK Valmiera II~Valmiera II
+1800 FK Beitar Riga~Beitar

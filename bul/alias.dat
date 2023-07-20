@@ -1,4 +1,4 @@
-1800 Botev Sofia~Botev Sofia*1945 Septemvri CDV Sofia~CDV*1949 CDNV Sofia~CDNV*1952 CDNA Sofia~CDNA*1953 Sofyiski Garnizon~Garnizon*1954 CDNA Sofia~CDNA*1964 CSKA Cerveno Zname Sofia~CSKA*1969 CSKA Septemvrisko Zname Sofia~CSKA*1986 Sredeţ Sofia~Sredeţ*1987 CFKA Sredeţ Sofia~Sredeţ*1990 CSKA Sofia~CSKA
+1800 Botev Sofia~Botev Sofia*1945 Septemvri CDV Sofia~CDV*1949 CDNV Sofia~CDNV*1952 CDNA Sofia~CDNA*1953 Sofyiski Garnizon~Garnizon*1954 CDNA Sofia~CDNA*1964 ŢSKA Cerveno Zname Sofia~ŢSKA*1969 ŢSKA Septemvrisko Zname Sofia~ŢSKA*1986 Sredeţ Sofia~Sredeţ*1987 CFKA Sredeţ Sofia~Sredeţ*1990 ŢSKA Sofia~ŢSKA
 1800 Levski Sofia~Levski*1950 Dinamo Sofia~Dinamo*1957 Levski Sofia~Levski*1969 Levski-Spartak Sofia~Levski*1986 Vitoşa Sofia~Vitoşa*1990 Levski Sofia~Levski
 1800 Slavia Sofia~Slavia*1950 Udarnik Sofia~Udarnik*1957 Slavia Sofia~Slavia*1970 JSK Slavia Sofia~JSK Slavia*1972 Slavia Sofia~Slavia
 1800 Botev Blagoevgrad~Blagoevgrad*1970 Pirin Blagoevgrad~Pirin*2012 OFK Pirin Blagoevgrad~Pirin
@@ -50,7 +50,7 @@
 1800 FK Veliki Preslav~Preslav
 1800 Partizan Gradina~Gradina
 1800 Lokomotiv Kaspicean~Kaspicean
-1800 Dulovo '98~Dulovo
+1800 Dulovo '98~Dulovo*2007 Dulovo 2006~Dulovo
 1800 Zdravko Bombov Reka Devnia~Devnia*1970 Himik Devnia~Devnia*1997 OFK Devnia~Devnia*2016 Himik Devnia~Devnia
 1800 Han Omurtag Şumen~Omurtag*1945 Levski Omurtag~Omurtag
 1800 Septemvr. Slava Mihailovgrad~Mihailovgrad*1990 Montana Mihailovgrad~Montana*1994 PFC Montana 1921~Montana
@@ -99,7 +99,7 @@
 1800 ZSK Ruse~ZSK Ruse*1948 Lokomotiv Ruse~Lok.Ruse*1993 Korabostroitel Ruse~Korabostroitel*1997 Lokomotiv Ruse~Lok.Ruse
 1800 Radeţki Kozlodui~Kozlodui*1990 Pârva Atomna Kozlodui~Kozlodui*2006 Botev Kozlodui~Kozlodui*2017 Pârva Atomna Kozlodui~Kozlodui
 1800 Iavorov Cirpan~Cirpan*1983 FK Cirpan~Cirpan*1990 Levski Stara Zagora~Levski SZ*1998 FK Cirpan~Cirpan*2000 Levski Stara Zagora~Levski SZ*2009 FK Cirpan~Cirpan
-1800 Benkovski Isperih~Isperih*1980 Ludogorska Slava Isperih~Isperih*1991 Han Asparuh Isperih~Isperih
+1800 Benkovski Isperih~Isperih*1980 Ludogorska Slava Isperih~Isperih*1991 Han Asparuh Isperih~Isperih*2023 Benkovski Isperih~Isperih
 1800 Arda Kârdjali~Kardjali
 1800 Minior Radnevo~Radnevo*1980 Mariţa Iztok Radnevo~Radnevo*2000 AKB Minior Radnevo~Radnevo
 1800 Zagoreţ Nova Zagora~Nova Zagora
@@ -128,7 +128,7 @@
 1800 Makedonia Bitola~Bitola
 1800 ZSK Skopie~ZSK Skopie
 1800 Pobeda Varna~Pobeda Varna
-1800 Levski Lom~Lom*1970 Dunav Lom~Lom*1980 Levski Lom~Lom*1997 Sikonko Lom~Lom*1998 Sikonko Klimentovo~Klimentovo*2002 Kneaghina Maria Luisa Lom~Lom
+1800 Levski Lom~Lom*1970 Dunav Lom~Lom*1980 Levski Lom~Lom*1997 Sikonko Lom~Lom*1998 Sikonko Klimentovo~Klimentovo*2002 Kneaghina Maria Luisa Lom~Lom*2021 Levski Lom~Lom*2024 Dunav Lom~Lom
 1800 Sokol Plovdiv~Sokol Pl*1935 Sportklub Plovdiv~SK Plovdiv*1997 Sokol Plovdiv~Sokol Plovdiv
 1800 FK 13 Sofia~FK 13
 1800 Petăr Parcevici Plovdiv~PP Plovdiv
@@ -323,3 +323,28 @@
 1800 Nadejda Dobroslavți~Dobroslavți
 1800 Ustrem Doncevo~Doncevo
 1800 FK Drenoveţ~Drenove�ţ
+1800 Levski Cepinţi~Cepinţi
+1800 Granit Vladaia~Vladaia
+1800 Ludogoreţ Razgrad III~Ludogoreţ III
+1800 Botev Vraţa II~Vraţa II
+1800 Etâr Veliko Târnovo II~Etâr II
+1800 Peştera Galata~Galata
+1800 Izvor Gorski Izvor~Izvor
+1800 Botev Plovdiv II~Plovdiv II
+1800 ŢSKA Sofia 1948 II~ŢSKA 1948 II
+1800 FK Rilţi~Rilţi
+1800 FK Spartak Varna II~Varna II
+1800 FK Hebăr Pazardjik II~Hebăr II
+1800 OFK Pirin Blagoevgrad II~Pirin II
+1800 PFK Septemvri Sofia II~Septemvri II
+1800 PFK Beroe Stara Zagora II~Beroe II
+1800 FK Levski 2005 Krumovgrad~Krumovgrad
+1800 PFK Lokomotiv Plovdiv II~Lok Plovdiv II
+1800 FK Saiana Haskovo~Saiana
+1800 Dunav Ruse II~Dunav Ruse II
+1800 Boruna Ţareva Livada~Boruna
+1800 PFC Slavia Sofia II~Slavia II
+1800 ŢSKA 1948 Sofia III~ŢSKA 1948 III
+1800 Levski Rakovski Sofia~Rakovski S
+1800 Levski Sofia II~Levski II
+1800 Fratria Benkovski~Fratria

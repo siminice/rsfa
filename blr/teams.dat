@@ -1,13 +1,13 @@
-147
+227
 Dinamo Minsk   Dinamo Minsk
 BATE           BATE Borisov
-Moghilev       Dnepr Mohilyov
+Mogilev        Dnepr Mogilev
 Soligorsk      Shakhtsyor Soligorsk
 Zhodino        Torpedo Zhodino
 Brest          Dinamo Brest
 Mozyr          Slavia Mozyr
 Belshyna       BelShyna Bobruisk
-Vitebsk        Lokomotiv 96 Vitebsk
+Vitebsk        Lokomotiv Vitebsk
 Partizan       MTZ-RIPO Minsk
 Gomel          FK Gomel
 Naftan         Naftan Novopolotsk
@@ -15,7 +15,7 @@ Daryda         Daryda Minski Rayon
 Neman Grodno   Neman Hrodno
 Lokomotiv      Lokomotiv Mnsk
 Zvezda         Zvezda BDU Minsk
-Rechytsa       Vedrych 97 Rechytsa
+Rechytsa       Vedrych Rechytsa
 Smorgon        FK Smarhon
 Mikashevich    Hranit Mikashevich
 ZLIN           ZLiN Gomel
@@ -35,7 +35,7 @@ Orsha          FK Orsha
 Osipovich      FK Asipovich
 Pinsk          Valna Pinsk
 Shklov         Spartak VAR Shklou
-Livadia        Livadiya Dzerzhynsk
+Dzerzhynsk     Livadiya Dzerzhynsk
 Zhlobin        Komunalnik Zhlobin
 Neman Mosty    Neman Masty
 Gomel-2        FK Gomel-2
@@ -46,14 +46,14 @@ Kozyanki       Palesse Kozyanki
 Transmash      Transmash Mohilyov
 Torpedo MAZ    Torpedo MAZ Minsk
 Ataka          Ataka Aura Minsk
-Dinamo-2       Dinamo-93 Minsk
+Dinamo 93      Dinamo-93 Minsk
 FK Minsk       FK Minsk
 RVAR           RVAR Minsk
 Chysts         Zabudova Chysts
 BNTU           Dinamo BNTU Minsk
 Skvich         Skvich Minsk
 Starye Dorogi  FK Starye Dorogi
-Dvina          Dvina Vitebsk
+Lok Vitebsk    Lok Vitebsk
 Shinnik        Shinnik Bobruisk
 Dinamo Grodno  Dinamo Grodno
 Postavy        PMC Pastavy
@@ -88,7 +88,7 @@ Neman-2        Neman-2 Grodno
 Polesie Lun    Polesie Lunine�
 Ivatsevich     Iva�evicidrev Iva�evici
 Real           Real Minsk
-Brest-2        Dinamo-2 Brest
+Malorita       Dinamo-2 Brest
 Volkovsk       Smena Volkovsk
 Schuchin       Avtoprovod �ciucin
 Druzhnyi       Energhia TEC Drujn�i
@@ -140,9 +140,89 @@ Montazhnik     Montajnik Mozyr
 Energosbyt     Energosb�t Minsk
 Sdyushor-8     SDIU�OR-8 Gomel
 Oktyabrski     SMIavtotrans Oktiabrski
-Sdyushor-3     SDIU�OR-3 Pinsk
+Stenles        SDIU�OR-3 Pinsk
 Skidel         FSK Grodnenski Skidel
 Bumprom        Bumprom Gomel
 Rukh Brest     Ruh Brest
 Arsenal        Arsenal Dzerjinsk
 Belshina-2     Belşina Bobruisk II
+BGU            BGU Minsk
+Zelva          FK Ceaika Zelva
+Ostrovets      FK Ostroveţ
+Koverdiaki     Perşîi Reghion Koverdiaki
+Petrikov       Şahtior Petrikov
+Ivanovo        FC Ivanovo
+Nadezhda       FK Nadejda Baranovici
+Pripyat        FK Novaia Pripiat
+Vysokoe        Euroexport Visokoe
+Krechet        Krecet Bereza
+Brestzhilstroy FK Brestjilstroi
+Drogichin      FK Droghicin
+MNPZ           MNPZ Mozîr
+Leskhoz        Leskhoz Gomel
+Grodnensky     FSK Grodnensky Grodno
+HCS Olympia    JKH Olimpia Grodno
+Cementnik      Ţementnik Krasnoselski
+Lida-2         FK Lida II
+Dyatlovo       Belaia Rus Diatlovo
+Slonim City    Slonim City
+Svisloch       Svisloci Grodno
+Krasnopole     FK Krasnopole
+Kostyukovichi  FK Kostiukovici
+Gazovik Vit    Gazovik Vitebsk
+Gorodok        Gorodskie Lvî
+Tolochin       Niva Tolocin
+Prodcenter     Prodţentr Vitebsk
+Chashniki      FK Ceaşniki
+Senno          FK Senno
+Lepel          FK Lepel
+Glubokoe       FK Glubokoe
+Falko          Falko Cerkassî
+Gaina          Gaina Borisov
+Berezino       FOŢ Lauzurnîi Berezino
+Krupki         Krupki-DRSU-164
+Vilia          FK Vilia Vileika
+Kapyl          Stroitel Kopîl
+Slutsk-2       FK Sluţsk II
+Zhodino 2007   FK Jodino 2007
+Dolbizno       Niva Dolbizno
+Part Soligorsk Partizan Soligorsk
+Aviador Orsha  AviaDor Orşa
+Pogranichnaya  FK Euroeksport Pogranichnaya
+D Rechitsa     DIuSŞ-2 Reciţa
+Iput           Iput DIuSŞ
+Vetka          Vetka DIuSŞ
+Maxline        Maxline Rogaciov
+Novogrudok     Fakel Novogrudok
+Favorit        Favorit Minsk
+Serebryanka    FK Serebrianka
+Uni            FK Uni Minsk
+Urozhaynaya    FK Urojainaia Minskaia Oblast
+Zhodino Yu     FK Jodino Iujnoe
+Bobovnya       FK Bobovnia
+Respect        FS Respect Soligorsk
+Kirovsk        FSK Kirovsk
+Chausy         FK Niva Cheausî
+Cherikov       FOTS Orientir Cerikov
+Krichev        SOJ Kriciov
+Servolyuks     FK Servoliuks Agro Mejisetki
+Krugloe        FK Zaria Krugloe
+D Orsha        DIuSŞ Orşa
+Veles          FK Veles 2000 Vitebsk
+Sdyushor-3     SDIuSŞOR-3 Minsk
+Gantsevichi    FK Ganţevici
+Lyakhavichi    Volat Liahovici
+Pinsk-2        DIuSŞ Pinsk
+Agro-Pelishche Agro-Pelişce Kameneţki Raion
+Port           Port SK Jabinka
+TF Brest       Ţentr Futbola Brest
+Ostrovets-2    FK Ostroveţ II
+Smorgon-2      FK Smorgon II
+Dribin         FK Dribin
+Klimovichy     FK Klimovici
+Slavgorod      FK Slavgorod
+Mstislav       FK Vihra Mstislav
+Drut           FK Drut Belînici
+Bykhov         FK Bîhov
+Klichev        FK Olsa Klicev
+Ptich          FK Ptici
