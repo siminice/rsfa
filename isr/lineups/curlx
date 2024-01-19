@@ -1,0 +1,11 @@
+#!/bin/bash
+
+YEAR=$1
+URL='https://www.transfermarkt.us/spielbericht/index/spielbericht/'
+mid=$2
+
+f="tmp/${YEAR}/r/${mid}.html"
+curl "${URL}${mid}"  -H 'accept-language: en-US' -H 'user-agent: Mozilla/5.0' --compressed > $f
+#nano $f
+jrun XmReport $f | tee $f.dat
+xm-add-lineups ${YEAR} $f.dat
