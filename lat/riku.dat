@@ -1,14 +1,14 @@
-99
+112
 Skonto,Skonto Riga
 Ventspils,FK Ventspils
-Liepājas Metalurgs,Metalurgs Liepaja
+Liepaja,Metalurgs Liepaja
 Daugava Rīga,Rīgas Futbola &hellip;
 Dinaburg Daugavpils,Dinaburg Daugavpils
 Daugava Daugavpils,Daugava Daugavpils
 FK Jūrmala,FK Jurmala
 FK Riga,FK Riga
-Rēzekne / BJSS,Blazma Rezekne
-Rīgas FS,Olimps Riga
+Rēzekne FA,Blazma Rezekne
+JFK Olimps,Olimps Riga
 Kuldīga,Venta Kuldiga
 Valmiera / BSS,FK Valmiera
 Zibens Zemessardze,Zibens Zemessardze
@@ -16,7 +16,7 @@ Jelgava,FK Jelgava
 Auda,Auda Riga
 Arma Riga,Arma Riga
 JDFS Alberts,Alberts Riga
-RFS Flaminko Riga,RFS Flaminko Riga
+RFS Flaminko,RFS Flaminko Riga
 Balvu Vilki,Balvu Vilki
 Gauja Valmiera,Gauja Valmiera
 Ogre,Ogres Sporta Centrs
@@ -26,17 +26,17 @@ Lido Nafta Riga,Lido Nafta Riga
 Robezsardze Ludza,Robezsardze Ludza
 Plicijas/Daugava Riga,Plicijas/Daugava Riga
 Metals Riga,Metals Riga
-Saldus / Brocēnu,FK Saldus
+Saldus SS / Leevon,FK Saldus
 FK Lode,FK Lode
 Akora Seda,Akora Seda
 Ranto Miks Riga,Ranto Miks Riga
-Lokomotive Daugavpils,Lokomotive Daugavpils
+Noah Jūrmala,Lokomotive Daugavpils
 Metta / LU,Latvijas Universitet Riga
 Jurnieks Riga,Jurnieks Riga
 Multibanka Riga,Multibanka Riga
 JFC Skonto Riga,JFC Skonto Riga
 Skonto II,Skonto-2 Riga
-Ventspils II,FK Ventspils-2
+JFK Ventspils,FK Ventspils-2
 Liepājas Metalurgs II,Metalurgs Liepaja II
 FK Riga-2,FK Riga-2
 FC Jūrmala,FK Jurmala-2
@@ -59,7 +59,7 @@ Apgaismes,Apgaismes Tehnika
 Dizelists,Dizelists Riga
 ECK Riga,ECK Riga
 Olimpija,Olimpija Riga
-BFC Daugavpils,Ditton-2 Daugavpils
+Ditton II Daugavpils,Ditton-2 Daugavpils
 Eirobaltija,Eirobaltija Riga
 Gulbene 2005,Gulbene 2005
 Spartaks Jūrmala,Spartaks Jurmala
@@ -89,7 +89,7 @@ FK Jūrmala II,FK Jurmala II
 Salaspils,Metta II Salaspils
 Spartaks II,Spartaks II Jurmala
 Daugava II / Š,Daugava II Sitika FS
-Daugavpils / Progress,AFA Olaine
+AFA Olaine,AFA Olaine
 Pļaviņas / DM,FC Plavinas DM
 SFK United,IFC Riga United
 Riga,FC Caramba/Dinamo Riga
@@ -98,3 +98,16 @@ Babīte,SK Babite
 RTU FC,Rigas Tehniska Universitate
 Grobiņa,Grobinas SC
 Super Nova,SK Super Nova Riga
+Dinamo Rīga / ,Dinamo Rīga
+New Project,FC BetLanes Rīga
+Saldus SS / Leevon,Saldus SS/Leevon
+Rigas FS,Rīgas Futbola skola
+Albatroz,Albatroz SC Jelgava
+BFC Daugavpils,BFC Daugavpils
+FS Jelgava,Futbola Skola Jelgava
+Skanste,Skanstes SK
+Riga FC II,Rīga FC II
+Rīgas FS II,Rīgas FS II
+Tukums II,FK Tukums II
+Valmiera II,FK Valmiera II
+Beitar,FK Beitar Riga
