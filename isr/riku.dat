@@ -1,13 +1,13 @@
-102
+177
 Maccabi Tel Aviv,Maccabi Tel Aviv
 Hapoel Tel Aviv,Hapoel Tel Aviv
 Maccabi Haifa,Maccabi Haifa
 Hapoel Haifa,Hapoel Haifa
-Hapoel Jerusalem,Hapoel Jerusalem
+Jerusalem,Hapoel Jerusalem
 Beitar Jerusalem,Beitar Jerusalem
 Maccabi Petah Tikva,Maccabi Petah Tikva
 Hapoel Petah Tikva,Hapoel Petah Tikva
-Maccabi Be'er &hellip;,Maccabi Beer Sheva
+Maccabi Be'er Sheva,Maccabi Beer Sheva
 Hapoel Be'er Sheva,Hapoel Beer Sheva
 Maccabi Herzliya,Maccabi Hertzliya
 Hapoel Herzliya,Hapoel Hertzliya
@@ -18,39 +18,39 @@ Hapoel Kfar Saba,Hapoel Kfar Saba
 Maccabi Netanya,Maccabi Netanya
 Bnei Yehuda,Bnei Yehuda Tel Aviv
 Hapoel Rishon LeZion,Ironi Rishon Lezion
-Hapoel Nazareth Illit,Hapoel Natzrat Ilit
+Hapoel Nof HaGalil,Hapoel Natzrat Ilit
 Bnei Sakhnin,Hapoel Bnei Sakhnin
 Ironi Kiryat Shmona,Hapoel Kiryat Shmona
 Hapoel Acre,Hapoel Acre
 Hapoel Ashkelon,Hapoel Ashkelon
 Hapoel Ra'anana,Hapoel Raanana
-Hapoel Ramat HaSharon,Ironi Nir Ramat Hasharon
-Hapoel Bnei Lod,Hapoel Bnei Lod
+Hapoel Ramat HaSharon,Ironi Nir Ramat HaSharon
+Hapoel Lod,Hapoel Bnei Lod
 Maccabi Ahi Nazareth,Maccabi Aki Nazareth
-Hapoel Mejdel Krum,Hapoel Mejdel Krum
+Ihud Bnei Mejdel Krum,Hapoel Mejdel Krum
 Hapoel Marmorek,Hapoel Marmurek
-Maccabi Kafar Kana,Maccabi Kfar Kana
-Beitar Tel Aviv Ramla,Beitar Shimshon Tel Aviv
-Maccabi Ironi Tirat Karmel,Maccabi Tirat Haccarmel
-Maccabi HaShikma Ramat Hen,Maccabi Hashikma Ramat Hen
+Maccabi Kfar Kana,Maccabi Kfar Kana
+Shimshon Tel Aviv,Shimshon Tel Aviv
+Maccabi Tirat HaCarmel,Maccabi Tirat Haccarmel
+Maccabi Hashikma Hen,Maccabi Hashikma Ramat Hen
 Maccabi Tzur Shalom,Maccabi Tzur Shalom
 Zafririm Holon,Zafririm Holon
 Hapoel Bnei Tamra,Hapoel Bnei Tamra
 Sektzia Nes Tziona,Sektzia Nes Tziona
-Maccabi Jaffa,Maccabi Jaffa
+Maccabi Kabilio Jaffa,Maccabi Jaffa
 Hapoel Beit Shean,Hapoel Beit Shean
-Beitar Tel Avi&hellip;,Beitar Shimshon Tel Aviv
-Hapoel Kfar Shelem,Hapoel Kfar Shalem
+Beitar Tel Aviv Bat Yam,Beitar Shimshon Tel Aviv
+Hapoel Kfar Shalem,Hapoel Kfar Shalem
 Hapoel Taibe,Hapoel Taibe
 Ironi Bat Yam,Hapoel Bat Yam
-Ironi Kiryat Gat,Maccabi Kiryat Gat
+Maccabi Kiryat Gat,Maccabi Kiryat Gat
 Maccabi Yavne,Maccabi Yavne
 Hapoel Hadera,Hapoel Hadera
 MS Ashdod,MS Ashdod
 Beitar Beer Sheva,Beitar Beer Sheva
-Maccabi Ironi Kiryat Ata,Maccabi Ironi Kiryat Ata
+Maccabi K. Ata Bialik,Maccabi Ironi Kiryat Ata
 Hakoah Ramat Gan,Hakoah Ramat Gan
-Hapoel Tira,Hapoel Tira
+Tira,Hapoel Tira
 Hapoel Kfar Samia,Hapoel Kfar Samia
 Maccabi Shearaim,Maccabi Shearaim
 Maccabi Ashkelon,Maccabi Ashkelon
@@ -59,45 +59,120 @@ Beitar Netanya,Beitar Netanya
 Hapoel Yehud,Hapoel Yehud
 Maxim Lod,Maxim Lod
 Hapoel Bnei Gedaide,Hapoel Bnei Jadida
-Hapoel Om El Fahem,Hapoel Umm al-Fahm
-Mahane Yehuda,Hapoel Mahane Yehuda
+Hapoel Umm al-Fahm,Hapoel Umm al-Fahm
+Hapoel Mahane Yehuda,Hapoel Mahane Yehuda
 Maccabi Rehovot,Maccabi Rehovot
 Hapoel Balfuria,Hapoel Balfuria
 Maccabi Rishon LeZion,Maccabi Rishon Lezion
-Daliyat Carmel,Hapoel Daliyat El Carmel
+Hapoel Daliyat Al Karmel,Hapoel Daliyat El Carmel
 Ahva Arraba,FC Ahva Arabe
-Safed,FC Karmiel Safed
+Karmiel Safed,FC Karmiel Safed
 Hapoel Afula,Hapoel Afula
-Gilboa,Hapoel Asi Gilboa
-Maccabi Umm A&hellip;,Maccabi Umm al-Fahm
+Hapoel Asi Gilboa,Hapoel Asi Gilboa
+Maccabi Umm Al Fahm,Maccabi Umm al-Fahm
 Ironi Umm Fahm,Ironi Sayid Umm al-Fahm
-Hap.Kfar Kana,Hapoel Kfar Kana
-Mac.Tamra,Maccabi Tamra
-Beitar Saba,Beitar Kfar Saba
-Arad,Hapoel Arad
+Hapoel Kafr Kanna,Hapoel Kfar Kana
+Maccabi Ironi Tamra,Maccabi Tamra
+Beitar Kfar Saba,Beitar Kfar Saba
+Hapoel Arad,Hapoel Arad
 Mevasheret,Hapoel Mevasheret Zion
 Nahalat,Nahalat Yehuda Rishon Lezion
-Amishav,Maccabi Ironi Amishav
-Kfar Yona,Maccabi Ironi Kfar Yona
-Malakhi,Maccabi Ironi Kiryat Malakhi
-Netivot,Maccabi Ironi Netivot
+Maccabi Ironi Amishav PT,Maccabi Ironi Amishav
+Maccabi Kfar Yona,Maccabi Ironi Kfar Yona
+Maccabi Kiryat Malachi,Maccabi Ironi Kiryat Malakhi
+Maccabi Ironi Netivot,Maccabi Ironi Netivot
 Shim.Tayibe,Shimshon Bnei Tayibe
 Maccabi Ironi Jatt,Maccabi Ironi Jatt
 Kfar Qara,Maccabi Ironi Kfar Qara
 Menashe,Megiddo Ramat Menashe
 Ahi Acre,Ahi Acre
 Bnei Eilat,Bnei Eilat
-Hapoel Katamon,Hapoel Katamon
+Hapoel Jerusalem,Hapoel Katamon
 Ironi Nesher,Ironi Nesher
-Maccabi Shaarayim,Maccabi Shaarayim
+Maccabi Sha'arayim,Maccabi Shaarayim
 Hapoel Iksal,Hapoel Iksal
-Rubi Shapira,Rubi Shapira
-Hapoel Migdal Haemek,Hapoel Migdal Haemek
+Haifa Robi Shapira,Rubi Shapira
+Hapoel Migdal HaEmek,Hapoel Migdal Haemek
 Ironi Baka El Garbiya,Ironi Baka El Garibiya
-Kfar Hasem,MS Kfar Hasem
-Hapoel Hod Hasharon,Hapoel Hod Hasharon
-MS Dimona,MS Dimona
+Kafr Qasim,MS Kfar Hasem
+Hapoel Hod HaSharon,Hapoel Hod HaSharon
+Dimona,MS Dimona
 Hapoel Azor,Hapoel Azor
 Bnei Jaffa Ortodoxim,Bnei Jaffa Ortodoxim
-Ironi Kiryat Gat,Ironi Kiryat Gat
-Shikun MaMizrah,Shikun HaMizrah
+FC Kiryat Gat,Ironi Kiryat Gat
+Shikun HaMizrah,Shikun HaMizrah
+Hapoel Kaukab,Hapoel Kaukab
+Hapoel Bnei Zalafa,Hapoel Bnei Zalafa
+Hapoel Shfara'am,Hapoel Shfara'am
+Agudat Sport Ashdod,Agudat Sport Ashdod
+Holon Yermiyahu,Holon Yermiyahu
+Nordia Jerusalem,Nordia Jerusalem
+Shimshon Kafr Qasim,Shimshon Kafr Qasim
+Hapoel Bik'at HaYarden,Hapoel Bik'at HaYarden
+Maccabi Daliyat,Maccabi Daliyat Al Karmel
+Tzeirei Kafr Kanna,Tzeirei Kafr Kanna
+Maccabi Ma'alot Tarshiha,Maccabi Ma'alot Tarshiha
+H Morasha Ramat HaSharon,Hapoel Morasha Ramat HaSharon
+Beitar Nahariya,Beitar Nahariya
+Giv'at Olga,MS Givat Olga
+Maccabi Be'er Ya'akov,Maccabi Be'er Ya'akov
+Hapoel Ortodox Lod,Hapoel Ortodoxim Lod
+Hapoel Bnei Ar'ara 'Ara,Hapoel Bnei Ar'ara 'Ara
+Daburiyya Osama,MS Daburiyya Osama
+Ironi Or Yehuda,Ironi Or Yehuda
+Maccabi Ashdod,Maccabi Ashdod
+Hapoel Bnei Fureidis,Hapoel Bnei Fureidis
+Hapoel Bu'eine,Hapoel Bu'eine
+Tzeirey Taibe,MS Tzeirey Taibe
+Ironi Kuseife,Ironi Kuseife
+Maccabi Bnei Raina,Maccabi Bnei Raina
+Hapoel Qalansawe,Hapoel Qalansawe
+Ihud Bnei Shfaram,Ihud Bnei Shfaram
+Maccabi Nujeidat Ahmed,Maccabi Nujeidat Ahmed
+Ironi Modi'in,Ironi Modi'in
+Kiryat Yam SC,Kiryat Yam SC
+Tzeirei Umm al-Fahm,Tzeirei Umm al-Fahm
+Beitar Ramla,Beitar Ramla
+Hapeol Beit Shemesh,Hapoel Beit Shemesh
+Beitar Haifa,Beitar Haifa
+Maccabi Shefa-Amr,Maccabi Shefa-Amr
+Hapoel Tirat Carmel,Hapoel Tirat HaCarmel
+Hapoel Netanya,Hapoel Netanya
+Maccabi Hadera,Maccabi Hadera
+Hapoel Nahliel,Hapoel Nahliel
+Hapeol Safed,Hapoel Safed
+Hapoel Nahariya,Hapoel Nahariya
+Hapoel Kiryat Ata,Hapoel Kiryat Ata
+Beitar Ashdod,Beitar Ashdod
+Hapoel Ramla,Hapoel Ramla
+Beitar Jaffa,Beitar Jaffa
+Hapeol Bnei Nazareth,Hapoel Bnei Nazareth
+Maccabi Holon,Maccabi Holon
+Hapoel Givat Haim,Hapoel Givat Haim
+Hapoel Eliat,Hapoel Eliat
+Hapoel Kiryat Ono,Hapoel Kiryat Ono
+Hapoel Kiryat Haim,Hapoel Kiryat Haim
+Maccabi Bat Yam,Maccabi Bat Yam
+Hapoel Zikhron Ya'akov,Hapoel Zikhron Ya'akov
+Beitar Lod,Beitar Lod
+Beitar Kiryat Tiv'on,Beitar Kiryat Tiv'on
+Hapoel Kfar Blum,Hapoel Kfar Blum
+Hapoel Sderot,Hapoel Sderot
+Beitar Kiryat Ono,Beitar Kiryat Ono
+HaBira Jerusalem,HaBira Jerusalem
+Hapoel Givatayim,Hapoel Givatayim
+Harari Tel Aviv,Harari Tel Aviv
+Maccabi Shmuel Tel Aviv,Maccabi Shmuel Tel Aviv
+Maccabi Ramla,Maccabi Ramla
+Hapoel Rehovot,Hapoel Rehovot
+Hakoah Tel Aviv,Hakoah Tel Aviv
+Maccabi Ramat Gan,Maccabi Ramat Gan
+hapoel Balfouria,Hapoel Balfouria
+Ahva Notzrit Haifa,Ahva Notzrit Haifa
+Hapoel Beit Lid,Hapoel Beit Lid
+Hakoah Haifa,Hakoah Haifa
+Hapoel Atlit,Hapoel Atlit
+Maccabi Jerusalem,Maccabi Jerusalem
+Degel Yehuda Haifa,Degel Yehuda Haifa
+Hapoel Dror Haifa,Hapoel Dror Haifa
+Hapoel Mishmar HaShiv'a,Hapoel Mishmar HaShiv'a

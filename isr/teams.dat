@@ -1,4 +1,4 @@
-131
+177
 Mac.Tel Aviv   Maccabi Tel Aviv
 Hap.Tel Aviv   Hapoel Tel Aviv
 Mac.Haifa      Maccabi Haifa
@@ -11,7 +11,7 @@ Mac.Beer Sheva Maccabi Beer Sheva
 Hap.Beer Sheva Hapoel Beer Sheva
 Mac.Hertzliya  Maccabi Hertzliya
 Hap.Hertzliya  Hapoel Hertzliya
-Hak.Ramat Gan  Hakoah Ramat Gan
+Hakoah RG      Hakoah Ramat Gan
 Hap.Ramat Gan  Hapoel Ramat Gan
 Ashdod         MS Ashdod
 Kfar Saba      Hapoel Kfar Saba
@@ -25,38 +25,38 @@ Hap.Acre       Hapoel Acre
 Hap.Ashkelon   Hapoel Ashkelon
 Raanana        Hapoel Raanana
 Hasharon       Ironi Nir Ramat Hasharon
-Lod            Hapoel Bnei Lod
-Nazareth       Maccabi Aki Nazareth
+Hap.Lod        Hapoel Bnei Lod
+Mac.Nazareth   Maccabi Aki Nazareth
 Mejdel Krum    Hapoel Mejdel Krum
-Marmurek       Hapoel Marmurek
+Marmorek       Hapoel Marmurek
 Mac.Kfar Kana  Maccabi Kfar Kana
 Shimshon TA    Shimshon Tel Aviv
-Tirat Carmel   Maccabi Tirat Carmel
+Mac.Tirat C    Maccabi Tirat Carmel
 Hashikma Hen   Maccabi Hashikma Ramat Hen
 Tzur Shalom    Maccabi Tzur Shalom
-Zafririm Holon Zafririm Holon
+Tzafririm      Hapoel Tzafririm Holon
 Bnei Tamra     Hapoel Bnei Tamra
 Nes Tziona     Sektzia Nes Tziona
-Jaffa          Maccabi Jaffa
+Mac.Jaffa      Maccabi Jaffa
 Beit Shean     Hapoel Beit Shean
 Beitar Tel AvivBeitar Tel Aviv
 Kfar Shalem    Hapoel Kfar Shalem
 Hap.Tayibe     Hapoel Tayibe
-Bat Yam        Hapoel Bat Yam
+Hap.Bat Yam    Hapoel Bat Yam
 Kiryat Gat     Maccabi Kiriat Gat
 Yavne          Maccabi Yavne
-Hadera         Hapoel Hadera
+Hap.Hadera     Hapoel Hadera
 Hap.Ashdod     Hapoel Ashdod
 Beitar Beer S. Beitar Beer Sheva
 Kiryat Ata     Maccabi Kiryat Ata
 Ramat Amidar   Maccabi Ramat Amidar
-Hapoel Tira    Hapoel Tira
+Hap.Tira       Hapoel Tira
 Kfar Samia     Hapoel Kfar Samia
 Shearaim       Maccabi Shearaim
 Mac.Ashkelon   Maccabi Ashkelon
 Tiberias       Hapoel Tiberias
 Beitar Netanya Beitar Netanya
-Hapoel Yehud   Hapoel Yehud
+Hap.Yehud      Hapoel Yehud
 Maxim Lod      Maxim Lod
 Jadida         Hapoel Bnei Jadida
 Hap.Umm Fahm   Hapoel Umm al-Fahm
@@ -113,7 +113,7 @@ Mac.Daliyat    Maccabi Daliyat Al Karmel
 Tzeirei KK     Tzeirei Kafr Kanna
 Maalot         Maccabi Ma'alot Tarshiha
 Morasha        Hapoel Morasha Ramat HaSharon
-Nahariya       Beitar Nahariya
+Beit.Nahariya  Beitar Nahariya
 Givat Olga     MS Givat Olga
 Beer Yaakov    Maccabi Be'er Ya'akov
 Ortodox Lod    Hapoel Ortodoxim Lod
@@ -130,3 +130,49 @@ Qalansawe      Hapoel Qalansawe
 Bnei Shfaram   Ihud Bnei Shfaram
 Nujeidat       Maccabi Nujeidat Ahmed
 Modi'in        Ironi Modi'in
+Kiryat Yam     Kiryat Yam SC
+Tzeirei Umm    Tzeirei Umm al-Fahm
+Beitar Ramla   Beitar Ramla
+Beit Shemesh   Hapoel Beit Shemesh
+Beitar Haifa   Beitar Haifa
+Shefa Amr      Maccabi Shefa-Amr
+Hap.Tirat C    Hapoel Tirat HaCarmel
+Hap.Netanya    Hapoel Netanya
+Mac.Hadera     Maccabi Hadera
+Nahliel        Hapoel Nahliel
+Hap.Safed      Hapoel Safed
+Hap.Nahariya   Hapoel Nahariya
+Hap.Kiryat Ata Hapoel Kiryat Ata
+Beitar Ashdod  Beitar Ashdod
+Hap.Ramla      Hapoel Ramla
+Beitar Jaffa   Beitar Jaffa
+Hap.Nazareth   Hapoel Bnei Nazareth
+Mac.Holon      Maccabi Holon
+Givat Haim     Hapoel Givat Haim
+Hap.Eliat      Hapoel Eliat
+Kiryat Ono     Hapoel Kiryat Ono
+Kiryat Haim    Hapoel Kiryat Haim
+Mac.Bat Yam    Maccabi Bat Yam
+Zikhron Yaakov Hapoel Zikhron Ya'akov
+Beitar Lod     Beitar Lod
+Kiryat Tivon   Beitar Kiryat Tiv'on
+Kfar Blum      Hapoel Kfar Blum
+Sderot         Hapoel Sderot
+Beitar KO      Beitar Kiryat Ono
+YMCA Jerusalem HaBira Jerusalem
+Givatayim      Hapoel Givatayim
+Harari         Harari Tel Aviv
+Shmuel         Maccabi Shmuel Tel Aviv
+Mac.Ramla      Maccabi Ramla
+Hap.Rehovot    Hapoel Rehovot
+Maccabi RG     Maccabi Ramat Gan
+Mac.Ramat Gan  Maccabi Ramat Gan
+Balfouria      Hapoel Balfouria
+Ahva Notzrit   Ahva Notzrit Haifa
+Beit Lid       Hapoel Beit Lid
+Hakoah Haifa   Hakoah Haifa
+Atlit          Hapoel Atlit
+Mac.Jerusalem  Maccabi Jerusalem
+Degel Yehuda   Degel Yehuda Haifa
+Dror           Hapoel Dror Haifa
+Mishmar        Hapoel Mishmar HaShiv'a
