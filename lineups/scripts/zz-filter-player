@@ -1,0 +1,5 @@
+#!/bin/bash
+
+i2u $1 > $1.utf
+grep factsheet $1.utf > p/pl-$2.html
+grep DADOS $1.utf >> p/pl-$2.html

@@ -1,0 +1,24 @@
+#!/bin/bash
+
+rm lineups.$1
+for f in $1/*f.txt
+do
+  cat $f >> lineups.$1
+done
+
+grep "###" lineups.$1 | wc
+
+psort
+
+ls $1/*.dat | wc
+rm catalog-$1.dat
+for f in $1/*.dat
+do
+ cat $f >> catalog-$1.dat
+done
+
+### xl -f lineups.$1
+
+scp catalog-$1.dat radu@71.176.213.222:/var/www/html/rom/
+##scp catalog-$1.html radu@71.176.213.222:/var/www/html/rom/html/
+scp players.dat radu@71.176.213.222:/var/www/html/rom/

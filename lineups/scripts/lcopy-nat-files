@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cp -v db/nat-{lineups,events}-$1.db catalogs/*nat-$1.dat catalogs/players.dat /var/www/html/rom/
+cp -v catalogs/euro[a-z]*.dat /var/www/html/rom/

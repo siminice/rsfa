@@ -1,0 +1,14 @@
+#!/bin/bash
+
+if [ $# -lt 1 ] 
+then
+  echo "Error: no parameter"
+  exit
+fi
+
+touch cup-lineups-$1.db
+touch cup-events-$1.db
+touch euro-lineups-$1.db
+touch euro-events-$1.db
+touch nat-lineups-$1.db
+touch nat-events-$1.db

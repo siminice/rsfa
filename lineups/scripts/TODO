@@ -1,0 +1,12 @@
+Ben
+jr. sr.
+,X,Y den,     => ,den X,Y,
+,X,Y van,     => ,van X,Y,
+,X,Y van't,   => ,van't X,Y,
+,X,Y Van Den, => ,van den X,Y,
+,X,Y van den, => ,van den X,Y,
+,X,Y Van der, => ,van den X,Y,
+,X,Y van der, => ,van den X,Y,
+,X,Y te,      => ,ter X,Y,
+,X,Y ten,     => ,ten X,Y,
+,X,Y ter,     => ,ter X,Y,

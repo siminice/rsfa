@@ -1,0 +1,47 @@
+#!/bin/bash
+
+LID=$1
+SSID=$2
+YEAR=$3
+TID=$4
+
+#  TX=$(dfs-get-team-id ${TID})
+#  TLN=$((${TX}+2))
+#  TN=$(head -n ${TLN} data/webteams.dat | tail -n 1 | cut -d ',' -f 1)
+#  echo '------------------------'
+#  echo "${TN}"
+#  echo '------------------------'
+
+#POL
+#100000048,Olszar,Sebastian,Sebastian Olszar,olszar,1981-12-16 00:00:00.000000,14,Miejsce urodzenia:Cieszyn
+#TUR
+#ID,Name,Vorname,AnzeigeName,SuchName,Geburtsdatum,LandID,Notiz,IsGeburtsdatumUnbekannt,DatumNew,DatumUpdate,UserID,IsNationalspieler,Vorsatzwort,GID,LandID2,ToDo,MasterID
+#1009708,Zerener,Cahit,Cahit Zerener,zerener,1938-01-11,29, ,F,2013-04-20,2013-04-20,1008,F, ,1799569920,0, ,5900
+#ENG SWE
+#ID,Name,Vorname,AnzeigeName,SuchName,Geburtsdatum,LandID
+
+while read line
+do
+#1000,87,100000000,100000048,F,F,T, , , ,
+#SUI
+#LigaID,SaisonLfdNr,MsID,SpielerID,IsTrainer,IsTorwart,IsSpieler,Rueckennummer,SpielerPosition,Notiz,ToDo
+#LIT,MOL
+#LigaID,SaisonLfdNr,MsID,SpielerID,IsTorwart,IsSpieler,IsTrainer,SpielerPosition,Rueckennummer,Notiz,ToDo
+#BEL
+#LigaID,SaisonLfdNr,MsID,SpielerID,IsTrainer,IsTorwart,IsSpieler,SpielerPosition,Rueckennummer,Notiz,ToDo
+#540,2,1600128,1619825,F,T,F, , , ,
+  PID=$(echo "${line}" | cut -d ',' -f 4)
+  COA=$(echo "${line}" | cut -d ',' -f 7)
+  if [ "$COA" = "F" ]; then
+    PL=$(dfs-get-player ${PID})
+    LN=$(echo ${PL} | cut -d ',' -f 2)
+    PN=$(echo ${PL} | cut -d ',' -f 3)
+    FN=$(echo ${PL} | cut -d ',' -f 4 | cut -d '(' -f 1)
+    DB=$(echo ${PL} | cut -d ',' -f 6 | cut -d ' ' -f 1)
+    if [ -z "${DB}" ]; then DB=' '; fi
+    CI=$(echo ${PL} | cut -d ',' -f 7)
+    PB=' '
+    CT=$(dfs-get-ctty "${CI}")
+    echo "${PID},${FN},${FN},${DB},${CT},${PB},${CT}"
+  fi
+done < tmp/${YEAR}/t${TID}.dat

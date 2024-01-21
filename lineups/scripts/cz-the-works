@@ -1,0 +1,41 @@
+#!/bin/bash
+
+SEASON=$1
+NR=$2
+YEAR=$(echo ${SEASON} | cut -d '-' -f 2)
+if [ -z "${YEAR}" ]
+then
+  YEAR=$(echo ${SEASON} | cut -d '-' -f 1)
+fi
+
+mkdir tmp/${YEAR}
+mkdir tmp/${YEAR}/r
+mkdir seasons/${YEAR}
+
+cz-get-teams.sh ${SEASON} ${NR}
+
+cz-get-coaches.sh ${SEASON}
+zz-add-catalog catalogs/zcoaches.dat tmp/${YEAR}/coaches.in
+zz-csort
+
+cz-get-referees.sh ${SEASON}
+zz-add-catalog catalogs/zreferees.dat tmp/${YEAR}/referees.in
+zz-rsort
+
+cz-get-players.sh ${SEASON}
+zz-add-catalog catalogs/zplayers.dat tmp/${YEAR}/players.in
+zz-psort
+cz-extract-all-rosters.sh ${YEAR}
+zz-assemble-catalog ${YEAR}
+
+cz-get-schedule.sh ${SEASON} ${NR}
+
+wf-emptydb.sh ${YEAR}
+cz-process-reports.sh ${SEASON} ${NR}
+cz-extract-all-reports.sh ${YEAR} ${NR}
+new-catalog ${YEAR} 0
+
+correct-dates a.${YEAR}
+cp data/a.${YEAR} ../
+
+wf-lcopy-div-files cze ${YEAR}

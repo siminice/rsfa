@@ -1,0 +1,14 @@
+#!/bin/bash
+
+YEAR=$1
+
+rm -f extra.in
+
+while read p
+do
+  grep "$p," tmp/${YEAR}/coaches.in >> extra.in
+done < missing-pids
+
+zz-add-catalog catalogs/zplayers.dat extra.in $2
+
+zz-psort

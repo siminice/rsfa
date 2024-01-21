@@ -1,0 +1,5 @@
+#!/bin/bash
+
+PATTERN=",$1\$"
+
+grep -e ${PATTERN} catalogs/cplayers.dat | wf-pl2cat.sh $2 $3 $4

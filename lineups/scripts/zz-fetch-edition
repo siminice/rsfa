@@ -1,0 +1,18 @@
+#!/bin/bash
+export LC_ALL=C
+
+HOST="http://www.zerozero.pt"
+ED=$1
+OFILE=ed-${ED}.html
+#COOKIE='"__cfduid=de6384095511e7effcbc50c44552a61451544623038; jcenable=1; _ga=GA1.2.886179554.1544623042; __gfp_64b=m7TM5ZrY61_uSr.s_L5ebsGOil9C4j.BL1oKg4O5_ND.P7; FORCE_SITE_VERSION=desktop; FORCE_MODALIDADE=1; PHPSESSID=8r71ncvsjqdbuldal5elkdlup5; _gid=GA1.2.2045950201.1544849631; _cmpQcif3pcsupported=1; __qca=P0-513120046-1544849680427; __gads=ID=a90487388d8f68b5:T=1544849683:S=ALNI_Mbv3NV0rK-ekTz9onj7giN3XHz7sA; __utma=99603093.886179554.1544623042.1544920585.1544920585.1; __utmc=99603093; __utmz=99603093.1544920585.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); zz_internal_pub=1; hstpconfig=eyJJRCI6IjYyMjc2Mjc0d2FuNWMxNWU5ZDJhMjQyMyIsIkNUUiI6IlVTIiwiUmVnaW9uIjoiVkEiLCJCcm93c2VyIjoiQ2hyb21lIiwiUGxhdGZvcm0iOiJNYWNPU1giLCJNb2JpbGUiOjAsIkJvdCI6MCwicmVtb3RlX2FkZHIiOiIxMjQ4NzU3ODg5IiwiTGFzdFVwZGF0ZSI6MTU0NDkzOTk4NiwiZXJyb3IiOmZhbHNlLCJsYXN0VHJhY2tlciI6MX0%3D; lasttrack21375=1; hstpcount21375=eyJDbGljayI6MCwiQ291bnRlciI6MX0%3D; _gat=1; zzptremember=cfbc9323-e276-41ac-af98-586fb694c9a9; __atuvc=285%7C50%2C262%7C51; __atuvs=5c18782bbd68bae600a"'
+COOKIE=$(zz-get-cookie)
+
+URL="${HOST}/edition.php"
+
+echo "Edition ${ED}"
+curl -s --cookie "${COOKIE}" -d id_edicao=${ED} "${URL}" > ${OFILE}
+grep zztable ${OFILE} > ${OFILE}.tmp
+iconv -f ISO-8859-1 -t UTF-8 ${OFILE}.tmp > ${OFILE}
+wc ${OFILE}
+
+mv ed-${ED}.html tmp/${YEAR}

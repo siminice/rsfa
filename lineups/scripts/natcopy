@@ -1,0 +1,4 @@
+#!/bin/bash
+
+scp nat-*$1.db radu@96.253.70.124:/var/www/html/rom/
+scp europlayers.dat radu@96.253.70.124:/var/www/html/rom/

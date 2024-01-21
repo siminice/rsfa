@@ -1,0 +1,3 @@
+#~/bin/bash
+
+scp html/logo/logo-$1.png radu@71.176.213.222:/var/www/html/rom/html/logo/

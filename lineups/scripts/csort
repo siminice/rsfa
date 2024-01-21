@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd /home/radu/lineups
+LC_ALL=C sort catalogs/coaches.dat > catalogs/coaches.sort
+mv catalogs/coaches.sort catalogs/coaches.dat
+tail catalogs/coaches.dat
+wc catalogs/coaches.dat

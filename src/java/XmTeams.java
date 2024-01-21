@@ -28,13 +28,16 @@ public class XmTeams {
     for (Element row : rows) {
       Elements cols = row.select("td");
       Element ecn = cols.get(1);
-      Element ecr = cols.get(3);
+      Element ecr = cols.get(2);
       Element etlink = ecn.selectFirst("a[href]");
       Element erlink = ecr.selectFirst("a[href]");
       String tid = etlink.attr("id");
-      if (tid==null) tid = "-1";
       String tname = etlink.childNode(0).toString();
       String rlink = erlink.attr("href");
+      if (tid==null || tid.length()==0) {
+        String tlparts[] = rlink.split("/");
+        tid = tlparts[4];
+      }
       System.out.println(tid+","+tname+","+rlink);
     }
   }

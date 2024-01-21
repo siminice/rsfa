@@ -1,0 +1,31 @@
+#!/bin/bash
+
+SEASON=$1
+NR=$2
+YEAR=$(echo ${SEASON} | cut -d '-' -f 2)
+if [ -z "${YEAR}" ]
+then
+  YEAR=$(echo ${SEASON} | cut -d '-' -f 1)
+fi
+
+#fetch season.html
+hu-get-teams.sh ${SEASON}
+
+hu-get-reports.sh ${SEASON}
+hu-fetch-reports.sh ${SEASON}
+hu-extract-reports.sh ${YEAR}
+
+hu-get-players.sh ${SEASON}
+hu-extract-players.sh ${YEAR}
+hu-extract-coaches.sh ${YEAR}
+hu-extract-referees.sh ${YEAR}
+
+hu-extract-all-rosters.sh ${YEAR}
+hu-assemble-catalog.sh ${YEAR}
+
+ss-check-stadiums.sh ${YEAR}
+wf-emptydb.sh ${YEAR}
+hu-add-all-lineups.sh ${YEAR}
+new-catalog ${YEAR}
+
+wf-lcopy-div-files ${CTTY} ${YEAR}

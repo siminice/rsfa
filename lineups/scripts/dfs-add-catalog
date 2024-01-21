@@ -1,0 +1,7 @@
+#!/bin/bash
+
+YEAR=$1
+TID=$2
+CAT=$3
+
+zz-add-catalog ${CAT} tmp/${YEAR}/t${TID}.in

@@ -1,0 +1,54 @@
+#!/bin/bash
+
+LID=$1
+YEAR=$2
+PART1=$3
+PART2=$4
+
+CTTY=$(pwd | cut -d '/' -f 6)
+
+#prep part 1
+cp ../a.${YEAR} ../saved.a.${YEAR}
+if [ "${PART1}" = "a" ]; then
+  # do nothing
+else
+  cp ../${PART1}.${YEAR} ../a.${YEAR}
+fi 
+pico data/dfs-a-seasons.dat
+dfs-the-works ${LID} ${YEAR}
+
+#rotate
+cp db/lineups-${YEAR}.db db/1-lineups-${YEAR}.db
+cp db/events-${YEAR}.db db/1-events-${YEAR}.db
+if [ "${PART1}" = "a" ]; then
+  cp ../a.${YEAR} ../saved.a.${YEAR}
+fi
+
+#prep part 2
+if [ "${PART2}" = "a" ]; then
+  cp ../saved.a.${YEAR} ../a.${YEAR}
+else
+  cp ../${PART2}.${YEAR} ../a.${YEAR}
+fi
+pico data/dfs-a-seasons.dat
+dfs-the-works ${LID} ${YEAR}
+cp db/lineups-${YEAR}.db db/2-lineups-${YEAR}.db
+cp db/events-${YEAR}.db db/2-events-${YEAR}.db
+if [ "${PART2}" = "a" ]; then
+  cp ../a.${YEAR} ../saved.a.${YEAR}
+fi
+
+#assemble
+cat db/1-lineups-${YEAR}.db >  db/lineups-${YEAR}.db
+cat db/2-lineups-${YEAR}.db >> db/lineups-${YEAR}.db
+cat db/1-events-${YEAR}.db >  db/events-${YEAR}.db
+cat db/2-events-${YEAR}.db >> db/events-${YEAR}.db
+
+new-catalog ${YEAR}
+
+cp ../saved.a.${YEAR} ../a.${YEAR}
+cp ../${PART1}.${YEAR} /var/www/html/${CTTY}
+cp ../${PART2}.${YEAR} /var/www/html/${CTTY}
+cp db/lineups-${YEAR}.db /var/www/html/${CTTY}
+cp db/events-${YEAR}.db /var/www/html/${CTTY}
+cp catalogs/*catalog*${YEAR}* /var/www/html/${CTTY}

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "g++ -g -c -o ~/lineups/obj/zz-catalog.o ~/lineups/src/zz-catalog.cc"
+g++ -g -c -o ~/lineups/obj/zz-catalog.o ~/lineups/src/zz-catalog.cc
+
+echo "g++ -g -c -o ~/lineups/obj/$1.o ~/lineups/src/$1.cc"
+g++ -g -c -o ~/lineups/obj/$1.o ~/lineups/src/$1.cc
+
+echo "g++ -g -o ~/lineups/bin/$1 ~/lineups/obj/$1.o ~/lineups/obj/zz-catalog.o -lcurl"
+g++ -g -o ~/lineups/bin/$1 ~/lineups/obj/$1.o ~/lineups/obj/zz-catalog.o -lcurl

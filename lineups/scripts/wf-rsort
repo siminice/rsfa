@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd catalogs
+LC_ALL=C sort creferees.dat > creferees.sort
+mv creferees.sort creferees.dat
+cat creferees.dat | cut -d ',' -f 1-3,5-8 > referees.dat
+wc creferees.dat

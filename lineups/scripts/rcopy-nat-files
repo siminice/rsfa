@@ -1,0 +1,5 @@
+#!/bin/bash
+
+RSFA="192.168.1.156"
+
+scp nat-{lineups,events}-$1.db *nat-$1.dat europlayers.dat eurocoaches.dat euroreferees.dat radu@${RSFA}:/var/www/html/rom/

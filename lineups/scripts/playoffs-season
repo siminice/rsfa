@@ -1,0 +1,28 @@
+#!/bin/bash
+
+YEAR=$1
+RS=$2
+PO=$3
+
+if [ ! -d "backup" ]; then mkdir backup; fi
+
+  cp -f lineups-${YEAR}.db backup/
+  cp -f events-${YEAR}.db backup/
+  cp -f plineups-${YEAR}.db backup/
+  cp -f pevents-${YEAR}.db backup/
+
+  cp backup/plineups-${YEAR}.db lineups-${YEAR}.db
+  cp backup/pevents-${YEAR}.db events-${YEAR}.db
+
+  html-season ${PO}.${YEAR}
+  html-season ${PO}.${YEAR} -c
+  html-reports ${PO}.${YEAR}
+
+  cp backup/lineups-${YEAR}.db lineups-${YEAR}.db
+  cp backup/events-${YEAR}.db events-${YEAR}.db
+
+  html-season ${RS}.${YEAR}
+  html-season ${RS}.${YEAR} -c
+  html-reports ${RS}.${YEAR}
+
+  lineups ${YEAR}

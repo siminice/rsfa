@@ -10,55 +10,71 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class XmRoster {
+  private static Map<String, String> trans = new HashMap();
 
-  private static Map<String,String> trans = new HashMap();
-
-  public static void main(String args[]) {
-    trans.put("Torwart", "P");
-    trans.put("Abwehr", "F");
-    trans.put("Mittelfeld", "M");
-    trans.put("Sturm", "A");
-    File input = new File(args[0]);
-    Document doc = null;
-    try {
-      doc = Jsoup.parse(input, "UTF-8", "https://www.footballatabase.eu");
-    } catch (IOException e) {
-      e.printStackTrace();
-    }
-    extractRoster(doc);
+  public XmRoster() {
   }
 
-  private static void extractRoster(Document doc) {
-    Element table = doc.selectFirst(".responsive-table");
-    Element etbod = table.selectFirst("tbody");
-    Elements rows = etbod.children();
-    for (Element row : rows) {
-      if (row.className().equals("odd") || row.className().equals("even")) {
-        Elements cols = row.select("td");
-        Element epos = cols.get(0);
-        Element epl = cols.get(1);
-        String pos = epos.attr("title");
-        Element tab = epl.selectFirst("tbody");
-        Element tr = tab.selectFirst("tr");
-        Elements tc = tr.select("td");
-        Element tlink = tc.get(1);
-        Element tname = tlink.selectFirst(".hide-for-small");
-        Element plink = tname.selectFirst("a[href]");
-        String pid = plink.attr("id");
-        String pname = plink.childNode(0).toString();
-        String link = plink.attr("href");
-        System.out.println(String.format("%s,%s,%s,%s", pid, pname,
-            trans.getOrDefault(pos, " "), link));
+  public static void main(String[] var0) {
+    trans.put("torwart", "P");
+    trans.put("abwehr", "F");
+    trans.put("mittelfeld", "M");
+    trans.put("sturm", "A");
+    trans.put("goalkeeper", "P");
+    trans.put("defender", "F");
+    trans.put("defence", "F");
+    trans.put("right-back", "F");
+    trans.put("centre-back", "F");
+    trans.put("left-back", "F");
+    trans.put("midfield", "M");
+    trans.put("attacking midfield", "M");
+    trans.put("attack", "A");
+    trans.put("centre-forward", "A");
+    File var1 = new File(var0[0]);
+    Document var2 = null;
+
+    try {
+      var2 = Jsoup.parse(var1, "UTF-8", "https://www.footballatabase.eu");
+    } catch (IOException var4) {
+      var4.printStackTrace();
+    }
+
+    extractRoster(var2);
+  }
+
+  private static void extractRoster(Document var0) {
+    Element var1 = var0.selectFirst(".responsive-table");
+    Element var2 = var1.selectFirst("tbody");
+    for (Element r : var2.children()) {
+      Element p = r.selectFirst(".posrela");
+      Element t = p.selectFirst("tbody");
+      Elements tr = t.select("tr");
+      if (tr.size() > 1) {
+        Element etl = tr.get(0);
+        Element eps = tr.get(1);
+        Element el = etl.selectFirst(".hauptlink");
+        Element ep = eps.selectFirst("td");
+        Element elink = el.selectFirst("a[href]");
+        String link = elink.attr("href");
+        String name = elink.childNode(0).toString().trim();
+        String[] parts = link.split("/");
+        String pid = parts.length > 4 ? parts[4] : "";
+        String mp = ep.childNode(0).toString().trim();
+        String pos = trans.getOrDefault(mp.toLowerCase(), " ");
+        System.out.println(String.format("%s,%s,%s,%s", pid, name, pos, link));
       }
     }
   }
 
-  private static String extractLink(Node n) {
-    if (n==null) return "";
-    String link = n.attr("href");
-    String[] parts = link.split("/");
-    int np = parts.length;
-    return parts[np-1];
+  private static String extractLink(Node var0) {
+    if (var0 == null) {
+      return "";
+    } else {
+      String var1 = var0.attr("href");
+      String[] var2 = var1.split("/");
+      int var3 = var2.length;
+      return var2[var3 - 1];
+    }
   }
 
 }

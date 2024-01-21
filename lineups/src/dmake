@@ -1,0 +1,14 @@
+#!/bin/csh
+set WFLAGS="-Wno-invalid-source-encoding"
+
+echo "g++ -g -c -o catalog.o catalog.cc ..."
+g++ $WFLAGS -g -c -o catalog.o catalog.cc
+
+echo "g++ -g -c -o aliases.o aliases.cc ..."
+g++ $WFLAGS -g -c -o aliases.o aliases.cc
+
+echo "g++ -g -c -o $1.o $1.cc ..."
+g++ $WFLAGS -g -c -o $1.o $1.cc
+
+echo "g++ -g -o $1 $1.o catalog.o  ..."
+g++ -g -o $1 $1.o catalog.o aliases.o

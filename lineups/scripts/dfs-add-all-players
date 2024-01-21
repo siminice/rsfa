@@ -1,0 +1,13 @@
+#!/bin/bash
+
+YEAR=$1
+CHECK=$2
+
+rm -f tmp/${YEAR}/players.in
+
+while read TID
+do
+  cat tmp/${YEAR}/t${TID}.in >> tmp/${YEAR}/players.in
+done < tmp/${YEAR}/teams.in
+
+zz-add-catalog catalogs/zplayers.dat tmp/${YEAR}/players.in ${CHECK}

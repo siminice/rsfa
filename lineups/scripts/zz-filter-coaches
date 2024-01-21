@@ -1,0 +1,10 @@
+#!/bin/bash
+
+YEAR=$1
+
+rm -f tmp/${YEAR}/coaches.links
+
+for f in tmp/${YEAR}/t*.links
+do
+  grep "^C, ," $f >> tmp/${YEAR}/coaches.links
+done

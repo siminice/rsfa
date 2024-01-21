@@ -1,0 +1,40 @@
+#!/bin/bash
+
+declare -A CTTY=( \
+ ["Portugal"]="POR" \
+ ["Brasil"]="BRA" \
+ ["Angola"]="ANG" \
+ ["Inglaterra"]="ENG" \
+ ["Paraguai"]="PAR" \
+ ["Moçambique"]="MOZ" \
+ ["Marrocos"]="MAR" \
+ ["Venezuela"]="VEN" \
+ ["Sérvia"]="SRB" \
+ ["Senegal"]="SEN" \
+ ["Rep.Dem. do Congo"]="DRC" \
+ ["Peru"]="PER" \
+ ["Nova Zelândia"]="NZL" \
+ ["México"]="MEX" \
+ ["Jugoslávia"]="YUG" \
+ ["Hungria"]="HUN" \
+ ["Guiné-Bissau"]="GBS" \
+ ["França"]="FRA" \
+ ["Escócia"]="SCO" \
+ ["Dinamarca"]="DEN" \
+ ["Costa do Marfim"]="CIV" \
+ ["Chile"]="CHI" \
+ ["Cabo Verde"]="CVE" \
+ ["Bulgária"]="BUL" \
+ ["Bélgica"]="BEL" \
+ ["Congo Belga"]="CON" \
+ ["Espanha"]="SPA" \
+ ["Holanda"]="NED" \
+ ["Itália"]="ITA" \
+ ["Uruguai"]="URU" \
+ [""]="" \
+ [""]="" \
+)
+
+
+#echo "${animals[moo]}"
+#for sound in "${!animals[@]}"; do echo "$sound - ${animals[$sound]}"; done

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+LID=$1
+SSID=$2
+YEAR=$3
+TID=$4
+
+#LigaID,SaisonLfdNr,MsID,SpielerID,IsTrainer,IsTorwart,IsSpieler,Rueckennummer,SpielerPosition,Notiz,ToDo
+#1000,1,100000005,100004716,F,F,T, ,4, ,
+
+grep -e "^${LID},${SSID},${TID}," data/dfs-rosters.dat > tmp/${YEAR}/t${TID}.dat

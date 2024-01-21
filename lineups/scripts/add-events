@@ -1,0 +1,5 @@
+#!/bin/bash
+
+Y=${2:-2024}
+
+addevents db/lineups-${Y}.db db/events-${Y}.db $1

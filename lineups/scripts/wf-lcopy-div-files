@@ -1,0 +1,8 @@
+#!/bin/bash
+
+CTTY=${1:-unknown}
+YEAR=$2
+
+cp -v db/{lineups,events}-${YEAR}.db catalogs/*catalog-${YEAR}.dat /var/www/html/${CTTY}/
+cp -v catalogs/*players.dat catalogs/*coaches.dat catalogs/*referees.dat catalogs/city.dat catalogs/*stadium.dat /var/www/html/${CTTY}/
+cp -v data/teams.dat data/alias.dat data/a.${YEAR} /var/www/html/${CTTY}/

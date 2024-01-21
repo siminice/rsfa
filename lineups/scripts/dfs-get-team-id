@@ -1,0 +1,8 @@
+#!/bin/bash
+
+ID=$1
+
+LN=$(grep -n "${ID}" data/zteams.dat | cut -d ':' -f 1)
+TID=$((${LN}-2))
+
+echo "${TID}"

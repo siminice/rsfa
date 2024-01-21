@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cat $1 | cut -d ',' -f 1 > col1
+cat $1 | cut -d ',' -f 2- > col2
+i2u col2 > col2.utf
+paste -d ',' col1 col2.utf > $1.utf
+mv $1 $1.iso
+mv $1.utf $1
+rm -f col1 col2 col2.utf

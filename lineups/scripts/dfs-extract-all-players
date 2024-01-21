@@ -1,0 +1,10 @@
+#!/bin/bash
+
+LID=$1
+SSID=$2
+YEAR=$3
+
+while read TID
+do
+  dfs-extract-players ${LID} ${SSID} ${YEAR} ${TID} | tee tmp/${YEAR}/t${TID}.in
+done < tmp/${YEAR}/teams.in

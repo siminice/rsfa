@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd catalogs
+LC_ALL=C sort ccoaches.dat > ccoaches.sort
+mv ccoaches.sort ccoaches.dat
+cat ccoaches.dat | cut -d ',' -f 1-3,5-8 > coaches.dat
+wc ccoaches.dat

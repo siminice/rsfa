@@ -1,0 +1,6 @@
+#!/bin/bash
+
+YEAR=$1
+CHECK=$2
+
+zz-add-catalog catalogs/zcoaches.dat tmp/${YEAR}/coaches.in ${CHECK}
