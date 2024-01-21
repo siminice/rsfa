@@ -1,0 +1,3 @@
+#!/bin/bash
+
+g++ -g -c -o ~/lineups/obj/$1.o ~/lineups/src/$1.cc

@@ -1,0 +1,39 @@
+#!/bin/bash
+
+SEASON=$1
+NR=$2
+YEAR=$(echo ${SEASON} | cut -d '-' -f 2)
+if [ -z "${YEAR}" ]
+then
+  YEAR=$(echo ${SEASON} | cut -d '-' -f 1)
+fi
+
+mkdir tmp/${YEAR}
+mkdir tmp/${YEAR}/r
+mkdir seasons/${YEAR}
+
+#fetch season.htm
+#fetch rounds.htm
+#fetch rosters.htm
+
+ss-get-teams.sh ${YEAR}
+ss-get-reports.sh ${YEAR} ${NR}
+ss-extract-reports.sh ${YEAR}
+
+ss-get-players.sh ${YEAR}
+ss-extract-players.sh ${YEAR}
+ss-extract-coaches.sh ${YEAR}
+ss-extract-referees.sh ${YEAR}
+
+ss-extract-all-rosters.sh ${YEAR}
+ss-assemble-catalog.sh ${YEAR}
+
+wf-emptydb.sh ${YEAR}
+LC_ALL=C
+ss-add-all-lineups.sh ${YEAR}
+
+new-catalog ${YEAR}
+correct-dates a.${YEAR}
+cp data/a.${YEAR} ../
+
+wf-lcopy-div-files ${CTTY} ${YEAR}

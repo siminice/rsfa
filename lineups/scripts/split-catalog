@@ -1,0 +1,6 @@
+#!/bin/bash
+
+grep "ROM,$2," catalog-$1.dat | wc
+grep "[A-Z][A-Z][A-Z],$2," catalog-$1.dat > $1/$3.dat
+wc $1/$3f.txt
+wc $1/$3.dat

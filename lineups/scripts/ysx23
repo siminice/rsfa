@@ -1,0 +1,14 @@
+#!/bin/bash
+
+readarray -t a
+
+n=${#a[@]}
+
+echo $n
+
+l1=$(echo "${a[0]} ${a[1]}" | sed -e 's/^\(..\) \-/\1 :/')
+l2=$(echo "${a[2]} ${a[3]} ${a[4]}" | sed -e 's/^\(..\) \-/\1 :/')
+
+echo "${l1}| ${l2}" > ll
+
+cat ll

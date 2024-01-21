@@ -1,0 +1,14 @@
+#!/bin/bash
+#set WFLAGS="-Wno-invalid-source-encoding"
+
+echo "g++ -g -c -o obj/catalog.o src/catalog.cc ..."
+g++ -g -c -o obj/catalog.o src/catalog.cc
+
+echo "g++ -g -c -o obj/aliases.o src/aliases.cc ..."
+g++ -g -c -o obj/aliases.o src/aliases.cc
+
+echo "g++ -g -c -o obj/$1.o src/$1.cc ..."
+g++ -g -c -o obj/$1.o src/$1.cc
+
+echo "g++ -g -o bin/$1 obj/$1.o obj/catalog.o  ..."
+g++ -g -o bin/$1 obj/$1.o obj/catalog.o obj/aliases.o

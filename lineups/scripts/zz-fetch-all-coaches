@@ -1,0 +1,13 @@
+#!/bin/bash
+
+YEAR=$1
+COOKIE=$(zz-get-cookie)
+URL="http://www.zerozero.pt/coach.php"
+IFILE="tmp/${YEAR}/coaches.links"
+
+while read link
+do
+  echo "Fetching ${link}..."
+  PID=$(echo ${link} | cut -d ',' -f 3)
+  zz-fetch-coach ${PID}
+done < ${IFILE}

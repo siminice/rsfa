@@ -1,0 +1,20 @@
+#!/bin/bash
+export LC_ALL=C
+
+HOST="http://www.zerozero.pt"
+PL=$1
+OFILE="p/pl-${PL}.html"
+COOKIE=$(zz-get-cookie)
+
+URL="${HOST}/player.php"
+
+echo "Player ${PL}"
+if [ -s ${OFILE} ]; then
+  echo "Exists."
+else
+  curl -s --cookie "${COOKIE}" -d id=${PL} "${URL}" --retry 3 --retry-delay 0 --max-time 10 > ${OFILE}
+  grep factsheet ${OFILE} > ${OFILE}.tmp
+  grep entity_bio ${OFILE} >> ${OFILE}.tmp
+  iconv -f ISO-8859-1 -t UTF-8 ${OFILE}.tmp > ${OFILE}
+  rm -f ${OFILE}.tmp
+fi

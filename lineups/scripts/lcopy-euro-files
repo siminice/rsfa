@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cp -v db/euro-{lineups,events}-$1.db catalogs/*euro-$1.dat catalogs/players.dat catalogs/europlayers.dat catalogs/eurocoaches.dat catalogs/euroreferees.dat catalogs/eurocity.dat catalogs/eurostadium.dat /var/www/html/rom/

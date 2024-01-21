@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "g++ -g -c -o ~/lineups/obj/wf-catalog.o ~/lineups/src/wf-catalog.cc"
+g++ -g -c -o ~/lineups/obj/wf-catalog.o ~/lineups/src/wf-catalog.cc
+echo "g++ -g -c -o ~/lineups/obj/$1.o ~/lineups/src/$1.cc"
+g++ -g -c -o ~/lineups/obj/$1.o ~/lineups/src/$1.cc
+echo "g++ -g -o ~/lineups/bin/$1 ~/lineups/obj/$1.o ~/lineups/obj/wf-catalog.o"
+g++ -g -o ~/lineups/bin/$1 ~/lineups/obj/$1.o ~/lineups/obj/wf-catalog.o

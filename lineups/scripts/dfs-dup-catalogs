@@ -1,0 +1,6 @@
+#!/bin/bash
+
+zz-dup-catalog players > catalogs/zplayers.dat
+zz-dup-catalog coaches > catalogs/zcoaches.dat
+zz-dup-catalog referees > catalogs/zreferees.dat
+zz-dup-catalog stadium > catalogs/zstadium.dat

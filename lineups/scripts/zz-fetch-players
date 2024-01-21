@@ -1,0 +1,19 @@
+#!/bin/bash
+
+YEAR=$1
+TID=$2
+COOKIE=$(zz-get-cookie)
+URL="http://www.zerozero.pt/player.php"
+IFILE="tmp/${YEAR}/t${TID}.links"
+
+while read link
+do
+  echo "Getting ${link}..."
+  POS=$(echo ${link} | cut -d ',' -f 1)
+  if [ "${POS}" == "C" ]; then
+    echo "Coach"
+  else
+    PID=$(echo ${link} | cut -d ',' -f 3)
+    zz-fetch-player ${PID}
+  fi
+done < ${IFILE}

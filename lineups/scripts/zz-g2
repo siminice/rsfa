@@ -1,0 +1,5 @@
+#!/bin/bash
+
+PATTERN=",$1\$"
+
+grep -e ${PATTERN} catalogs/zplayers.dat | zz-pl2cat $1 $2 $3 $4

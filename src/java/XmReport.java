@@ -56,11 +56,13 @@ public class XmReport {
     Element einfo = doc.selectFirst(".sb-spieldaten");
     Element elineups = selectHeader(headers, "Line-Ups");
     Element egoals = selectSection(sections, "sb-tore");
+    Element epens = selectSection(sections, "sb-verschossene");
     Element esubs = selectSection(sections, "sb-wechsel");
     Element ecards = selectSection(sections, "sb-karten");
     extractInfo(einfo);
     extractLineups(elineups);
     extractGoals(egoals);
+    extractPenalties(epens);
     extractSubs(esubs);
     extractCards(ecards);
     print();
@@ -148,13 +150,13 @@ public class XmReport {
   }
 
   private static Element selectHeader(Elements headers, String id) {
-    for (Element e : headers) {
-      Element h = e.selectFirst(".header"); if (h==null) continue;
-      Element h2 = h.selectFirst("h2"); if (h2==null) continue;
-      String title = h2.childNode(0).toString();
-      if (id.equals(title)) return e;
-    }
-    return null;
+        for (Element e : headers) {
+            Element h = e.selectFirst(".content-box-headline"); if (h==null) continue;
+            Element h2 = h.selectFirst("h2"); if (h2==null) continue;
+            String title = h2.childNode(0).toString().trim();
+            if (id.equals(title)) return e;
+        }
+        return null;
   }
 
   private static void extractInfo(Element e) {
@@ -164,8 +166,8 @@ public class XmReport {
     Element data = e.selectFirst(".sb-spieldaten");
     Element ehome = eteams.get(0).selectFirst(".sb-vereinslink");
     Element eaway = eteams.get(1).selectFirst(".sb-vereinslink");
-    home = ehome.attr("id");
-    away = eaway.attr("id");
+    home = getId(ehome);
+    away = getId(eaway);
     Element edate = data.selectFirst(".sb-datum");
     Elements links = edate.select("a[href]");
     String sround = links.get(0).childNode(0).toString();
@@ -333,6 +335,27 @@ public class XmReport {
     }
   }
 
+  private static void extractPenalties(Element e) {
+    if (e==null) return;
+    Elements items = e.select("li");
+    for (Element i : items) {
+      String etype = i.className();
+      Element epl = i.selectFirst(".sb-aktion");
+      if (epl == null) continue;
+      Element emin = epl.selectFirst(".sb-sprite-uhr-klein");
+      int m = 90;
+      if (emin!=null) {
+        String style = emin.attr("style");
+        m = decodeMinute(style);
+      }
+      Element eact = epl.selectFirst(".sb-aktion-aktion");
+      Element eout = eact.selectFirst(".sb-aktion-wechsel-aus");
+      Element elinko = eout.selectFirst("a[href]");
+      String pxo = getMnem(elinko.attr("href"));
+      events.add(String.format("%s|%d", pxo, m));
+    }
+  }
+
   private static void extractSubs(Element e) {
     if (e==null) return;
     Elements items = e.select("li");
@@ -352,14 +375,17 @@ public class XmReport {
       Element elinko = eout.selectFirst("a[href]");
       Element elinki = ein.selectFirst("a[href]");
       String pxo = getMnem(elinko.attr("href"));
-      String pxi = getMnem(elinki.attr("href"));
-      if (etype.equals("sb-aktion-heim")) {
-        if (!hSubs.contains(pxi)) hSubs.add(pxi);
-      } else {
-        if (!aSubs.contains(pxi)) aSubs.add(pxi);
+      String pxi = "-1";
+      if (elinki!=null) {
+        pxi = getMnem(elinki.attr("href"));
+        if (etype.equals("sb-aktion-heim")) {
+          if (!hSubs.contains(pxi)) hSubs.add(pxi);
+        } else {
+          if (!aSubs.contains(pxi)) aSubs.add(pxi);
+        }
+        min.put(pxi, 91 - m);
       }
       deductMin(pxo, m);
-      min.put(pxi, 91 - m);
     }
   }
 
@@ -415,12 +441,28 @@ public class XmReport {
       String tns = ns.replaceAll("&nbsp;", "").replaceAll("\\|", "");
       String parts[] = tns.split(" ");
       String hparts[] = parts[0].split(":");
-      int h = Integer.valueOf(hparts[0]);
+      int h = 0;
+      try {
+        h = Integer.valueOf(hparts[0]);
+      } catch (NumberFormatException ex) { }
       int m = hparts.length>1 ? Integer.valueOf(hparts[1]) : 0;
       if (parts.length > 1 && parts[1].equals("PM")) h += 12;
       t = String.format("%02d:%02d", h, m);
     }
     return t;
+  }
+
+  private static String getId(Element e) {
+    String id = e.attr("id");
+    if (id == null || id.length() == 0) {
+      Element ilink = e.selectFirst("a[href]");
+      if (ilink != null) {
+        String il = ilink.attr("href");
+        String iparts[] = il.split("/");
+        if (iparts.length > 4) id = iparts[4];
+      }
+    }
+    return id;
   }
 
 }

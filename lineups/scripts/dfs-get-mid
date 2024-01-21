@@ -1,0 +1,16 @@
+#!/bin/bash
+
+LID=$1
+SEASON=$2
+HID=$3
+AID=$4
+
+SSID=$(dfs-get-season-id ${SEASON})
+
+HX=$(grep "${HID}" data/zteams.dat | head -n 1 | cut -d ',' -f 2)
+AX=$(grep "${AID}" data/zteams.dat | head -n 1 | cut -d ',' -f 2)
+
+echo "HX: ${HX}"
+echo "AX: ${AX}"
+
+grep "${LID},${SSID}," data/dfs-matches.dat  | grep ${HX} | grep ${AX}

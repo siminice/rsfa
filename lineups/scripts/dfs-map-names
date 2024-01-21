@@ -1,0 +1,27 @@
+#!/bin/bash
+
+while read l
+do
+ mnem=$(echo $l | cut -d ',' -f 1)
+ last=$(echo $l | cut -d ',' -f 2)
+ pren=$(echo $l | cut -d ',' -f 3)
+ full=$(echo $l | cut -d ',' -f 4)
+ dob=$(echo $l | cut -d ',' -f 5)
+ nat=$(echo $l | cut -d ',' -f 6)
+ pob=$(echo $l | cut -d ',' -f 7)
+ cob=$(echo $l | cut -d ',' -f 8)
+ wid=$(echo $l | cut -d ',' -f 9)
+ zid=$(echo $l | cut -d ',' -f 10)
+
+ zl=$(grep -e "^${zid}," data/dfs-players.dat)
+ if [ -z "${zl}" ]
+ then
+  echo "${l}"
+ else
+  zlast=$(echo ${zl} | cut -d ',' -f 2)
+  zpren=$(echo ${zl} | cut -d ',' -f 3)
+#  echo "${l}"
+#  echo "${zl}"
+  echo "${mnem},${last},${zpren},${full},${dob},${nat},${pob},${cob},${wid},${zid}"
+ fi
+done < catalogs/zplayers.dat

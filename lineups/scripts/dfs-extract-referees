@@ -1,0 +1,30 @@
+#!/bin/bash
+
+YEAR=$1
+
+while read line
+do
+#1000,87,100000000,100000048,F,F,T, , , ,
+  PID=${line}
+
+    PL=$(dfs-get-referee ${PID})
+    LN=$(echo ${PL} | cut -d ',' -f 2)
+    PN=$(echo ${PL} | cut -d ',' -f 3)
+    FN=$(echo ${PL} | cut -d ',' -f 4 | cut -d '(' -f 1)
+#POL,ENG
+#    DB=$(echo ${PL} | cut -d ',' -f 6 | cut -d ' ' -f 1)
+#SUI
+    DB=$(echo ${PL} | cut -d ',' -f 5 | cut -d ' ' -f 1)
+    if [ -z "${DB}" ]; then DB=' '; fi
+#POL,ENG
+#    CI=$(echo ${PL} | cut -d ',' -f 7)
+#SUI
+    CI=$(echo ${PL} | cut -d ',' -f 11)
+#    PB=$(echo ${PL} | cut -d ',' -f 8)
+#    if [ -z "${PB}" ]; then PB=' '; fi
+    PB=' '
+    CT=$(dfs-get-ctty "${CI}")
+
+  echo "${PID},${FN},${FN},${DB},${CT},${PB},${CT}"
+#Link,Prenume Nume,Nat,DOB,pob,cob
+done < tmp/${YEAR}/referees.dat

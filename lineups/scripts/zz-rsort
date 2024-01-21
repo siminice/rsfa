@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cd catalogs
+LC_ALL=C sort zreferees.dat > zreferees.sort
+#sort zreferees.dat > zreferees.sort
+mv zreferees.sort zreferees.dat
+cat zreferees.dat | cut -d ',' -f 1-3,5-8 > referees.dat
+cat zreferees.dat | cut -d ',' -f 1-9 > creferees.dat
+wc zreferees.dat

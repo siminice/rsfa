@@ -1,0 +1,10 @@
+#!/bin/bash
+
+YEAR=$1
+
+while read tline
+do
+  TID=$(echo ${tline} | cut -d '=' -f 2 | cut -d '&' -f 1)
+  echo "Roster t${TID} ${YEAR}"
+  zz-get-roster ${YEAR} ${TID}
+done < tmp/${YEAR}/t.links

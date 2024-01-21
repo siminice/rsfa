@@ -1,0 +1,16 @@
+#!/bin/bash
+
+LID=$1
+
+cat data/dfs-lineups.dat | grep "$1," | cut -d ',' -f 1-2 | sort | uniq -c > count-lineups.out
+
+while read l
+do
+  ssx=$(echo "$l" | awk '{$1=$1};1')
+  n=$(echo "$ssx" | cut -d ' ' -f 1)
+  ssid=$(echo "$ssx" | cut -d ' ' -f 2)
+  ssn=$(grep "${ssid}," data/dfs-a-seasons.dat | cut -d ',' -f 3)
+  echo "${ssn} : ${n}"
+done < count-lineups.out
+
+rm -f count-lineups.out

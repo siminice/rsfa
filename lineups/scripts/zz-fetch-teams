@@ -1,0 +1,17 @@
+#!/bin/bash
+
+YEAR=$1
+ED=$2
+FILE="tmp/${YEAR}/ed-${ED}"
+COOKIE=$(zz-get-cookie)
+SITE="http://www.zerozero.pt"
+URL="${SITE}/edition.php"
+
+wget "http://www.zerozero.pt/edition.php?id_edicao=${ED}" -O ${FILE}.iso
+#curl -s --cookie "${COOKIE}" -d id_edicao=${ED} "${URL}" > ${FILE}.iso
+
+i1u ${FILE}.iso > ${FILE}.utf
+grep edition_table ${FILE}.utf > ${FILE}.html
+rm -f ${FILE}.iso ${FILE}.utf
+
+zz-extract-teams ${FILE}.html | tee tmp/${YEAR}/t.links

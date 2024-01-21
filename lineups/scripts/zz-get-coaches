@@ -1,0 +1,11 @@
+#!/bin/bash
+
+YEAR=$1
+
+rm -f tmp/${YEAR}/coaches.in
+
+while read line
+do
+  PID=$(echo ${line} | cut -d "," -f 3)
+  zz-extract-player p/co-${PID}.html >> tmp/${YEAR}/coaches.in
+done < tmp/${YEAR}/coaches.links

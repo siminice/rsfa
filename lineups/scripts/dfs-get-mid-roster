@@ -1,0 +1,17 @@
+#!/bin/bash
+
+LID=$1
+SEASON=$2
+HID=$3
+AID=$4
+
+SSID=$(dfs-get-season-id ${SEASON})
+
+MID=$(dfs-get-mid $1 ${SSID} ${HID} ${AID} | head -n 3 | tail -n 1 | cut -d ',' -f 3)
+
+grep "${LID},${SSID},${MID}," data/dfs-lineups.dat | cut -d ',' -f 5 > missing-pids
+
+while read p
+do
+  cat data/dfs-players.dat | grep "$p," | cut -d ',' -f 1-5
+done < missing-pids

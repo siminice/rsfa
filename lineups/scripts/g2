@@ -1,0 +1,3 @@
+#!/bin/bash
+
+grep $1 catalogs/players.dat | pl2cat.sh $2 $3 $4

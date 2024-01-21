@@ -1,0 +1,3 @@
+#!/bin/bash
+
+grep $1 catalogs/catalog*.dat catalogs/cupa*.dat catalogs/euro*.dat catalogs/nat*.dat

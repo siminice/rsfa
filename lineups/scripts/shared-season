@@ -1,0 +1,15 @@
+#!/bin/bash
+
+YEAR=$1
+PART1=$2
+PART2=$3
+
+  html-season ${PART1}.${YEAR}
+  html-season ${PART1}.${YEAR} -c
+  html-reports ${PART1}.${YEAR}
+
+  html-season ${PART2}.${YEAR}
+  html-season ${PART2}.${YEAR} -c
+  html-reports ${PART2}.${YEAR}
+
+  lineups ${YEAR}

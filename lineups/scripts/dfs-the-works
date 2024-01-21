@@ -1,0 +1,41 @@
+#!/bin/bash
+
+LID=$1
+SEASON=$2
+CHECK=$3
+EMPTY=$4
+
+SSID=$(dfs-get-season-id ${SEASON})
+SYEAR=$(echo ${SEASON} | cut -d '/' -f 1)
+EYEAR=$(echo ${SEASON} | cut -d '/' -f 2)
+if [ "${SYEAR}" = "${EYEAR}" ]; then YEAR=${SYEAR}; else YEAR=$((${SYEAR}+1)); fi
+CTTY=$(pwd | cut -d '/' -f 6)
+
+cp ../alias.dat ../a.${YEAR} data/
+rm -f tmp/${YEAR}/t*
+mkdir -p seasons/${YEAR}
+
+dfs-get-teams ${LID} ${SSID} ${YEAR}
+dfs-get-all-rosters ${LID} ${SSID} ${YEAR}
+dfs-extract-all-players ${LID} ${SSID} ${YEAR}
+dfs-add-all-players ${YEAR} ${CHECK}
+zz-psort
+dfs-extract-all-coaches ${LID} ${SSID} ${YEAR}
+dfs-add-all-coaches ${YEAR} ${CHECK}
+zz-csort
+dfs-filter-matches ${LID} ${SSID} ${YEAR}
+dfs-get-referees ${YEAR}
+dfs-add-all-referees ${YEAR} ${CHECK}
+zz-rsort
+
+if [ -z "${EMPTY}" ]; then wf-emptydb.sh ${YEAR}; fi
+jrun DfsReport ${SSID} ${LID} ${YEAR} 2 2> rep.log
+grep "Error: PID" rep.log | cut -d ' ' -f 3 | sort | uniq > missing-pids
+dfs-add-pids ${YEAR} ${CHECK}
+redo-catalog.sh ${YEAR}
+
+correct-dates a.${YEAR}
+cp data/a.${YEAR} ../
+check-rosters.sh ${YEAR}
+
+wf-lcopy-div-files ${CTTY} ${YEAR}

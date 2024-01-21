@@ -1,0 +1,20 @@
+#!/bin/bash
+
+PATTERN="/$1\$"
+TID=$2
+POS=$3
+
+p=$(grep -e ${PATTERN} catalogs/zplayers.dat)
+
+mnem=$(echo "${p}" | cut -d ',' -f 1)
+firn=$(echo "${p}" | cut -d ',' -f 3)
+lasn=$(echo "${p}" | cut -d ',' -f 2)
+dob=$(echo "${p}" | cut -d ',' -f 5)
+nat=$(echo "${p}" | cut -d ',' -f 6)
+link=$(echo "${p}" | cut -d ',' -f 10)
+
+#kotsst,Stefanos,Kotsolis,1979-06-05,GRE,0,12,P,0,0,0,0,stefanos-kotsolis
+#kotsst,Kotsolis,Stefanos, ,1979-06-05,GRE,Athen,GRE,stefanos-kotsolis,-1
+
+echo "${mnem},${firn},${lasn},${dob},${nat},${TID},${POS},0,0,0,0,${link}"
+

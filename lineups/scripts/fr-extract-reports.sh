@@ -1,0 +1,9 @@
+#!/bin/bash
+
+YEAR=$1
+
+for f in tmp/${YEAR}/r/*.html
+do
+  echo $f
+  jrun FrReport $f | tee $f.dat
+done

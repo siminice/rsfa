@@ -1,0 +1,8 @@
+#!/bin/bash
+
+NP=$1
+
+for ((p=1; p<=${NP}; p++))
+do
+  zz-split-rows tmp/p${p}.line | grep "jogo.php" | cut -d '"' -f 18 | cut -d '=' -f 2
+done

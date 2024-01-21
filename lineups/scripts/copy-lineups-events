@@ -1,0 +1,7 @@
+#!/bin/bash
+
+RSFA="67.182.136.159"
+
+#scp *-$y.db radu@${RSFA}:/var/www/html/rom/
+#scp referees.dat radu@${RSFA}:/var/www/html/rom/
+scp players.dat catalog-$1.dat lineups-$1.db events-$1.db radu@${RSFA}:/var/www/html/rom/

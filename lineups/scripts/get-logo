@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+echo "curl $1 > html/logo/logo-$2.gif"
+curl -s $1 > html/logo/logo-$2.gif
+
+echo "convert html/logo/logo-$2.gif html/logo/logo-$2.png"
+convert html/logo/logo-$2.gif html/logo/logo-$2.png

@@ -1,0 +1,9 @@
+#!/bin/bash
+
+PID=$1
+
+#ID,Name,Vorname,AnzeigeName,Geburtsdatum,IsGeburtsdatumUnbekannt,DatumNew,DatumUpdate,UserID,SuchName,LandID,Notiz,Vorsatzwort,GID,ToDo,MasterID
+#100000000,Granat,Jacek,Jacek Granat,1966-02-22 00:00:00.000000,F,2004-10-31 02:49:20.000000,2017-11-15 11:25:25.000000,0,granat,14, ,,2113916307, ,0
+
+#Link,Prenume Nume,Nat,DOB,pob,cob
+grep -e "^${PID}," data/dfs-referees.dat | cut -d ',' -f 1-12

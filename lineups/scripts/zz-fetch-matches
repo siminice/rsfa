@@ -1,0 +1,25 @@
+#!/bin/bash
+export LC_ALL=C
+
+HOST="http://www.zerozero.pt"
+ID=$1
+NP=$2
+#COOKIE='"__cfduid=de6384095511e7effcbc50c44552a61451544623038; jcenable=1; _ga=GA1.2.886179554.1544623042; __gfp_64b=m7TM5ZrY61_uSr.s_L5ebsGOil9C4j.BL1oKg4O5_ND.P7; FORCE_SITE_VERSION=desktop; FORCE_MODALIDADE=1; PHPSESSID=8r71ncvsjqdbuldal5elkdlup5; _cmpQcif3pcsupported=1; __qca=P0-513120046-1544849680427; __gads=ID=a90487388d8f68b5:T=1544849683:S=ALNI_Mbv3NV0rK-ekTz9onj7giN3XHz7sA; __utma=99603093.886179554.1544623042.1544920585.1544920585.1; __utmc=99603093; __utmz=99603093.1544920585.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); lasttrack21375=1; hstpconfig=eyJJRCI6IjYyMjc2Mjc0d2FuNWMxNWU5ZDJhMjQyMyIsIkNUUiI6IlVTIiwicmVtb3RlX2FkZHIiOiIxMjQ4NzU3ODg5IiwiZXJyb3IiOmZhbHNlLCJMYXN0R3JvdXAiOmZhbHNlLCJSZWdpb24iOiJWQSIsIkJyb3dzZXIiOiJDaHJvbWUiLCJQbGF0Zm9ybSI6Ik1hY09TWCIsIk1vYmlsZSI6MCwiQm90IjowLCJMYXN0VXBkYXRlIjoxNTQ0OTM5OTg2LCJsYXN0VHJhY2tlciI6MX0%3D; zzptremember=bc962969-01e8-49a6-ac79-239017d3fba7; zz_internal_pub=1; _gid=GA1.2.1601478093.1545670585; hstpcount21375=eyJDbGljayI6MCwiQ291bnRlciI6MX0%3D; __atuvc=285%7C50%2C351%7C51%2C2%7C52; __atuvs=5c212307c464cf2f000"'
+COOKIE=$(zz-get-cookie)
+
+URL="${HOST}/edition_matches.php"
+
+echo "Id ${ID}"
+p=1
+curl -s --cookie "${COOKIE}" -d id_edicao=${ID} -d page=${p} "${URL}" > tmp/p1.html
+grep ">Jogos<" tmp/p1.html > tmp/p1.iso
+iconv -f ISO-8859-1 -t UTF-8 tmp/p1.iso > tmp/p1.line
+wc tmp/p1.line
+
+for ((p=2; p<=${NP}; p++))
+do
+  curl -s --cookie "${COOKIE}" -d id_edicao=${ID} -d page=${p} "${URL}" > tmp/p${p}.html
+  grep ">Jogos<" tmp/p${p}.html > tmp/p${p}.iso
+  iconv -f ISO-8859-1 -t UTF-8 tmp/p${p}.iso > tmp/p${p}.line
+  wc tmp/p${p}.line
+done

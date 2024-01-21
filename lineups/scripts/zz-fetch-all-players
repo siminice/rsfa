@@ -1,0 +1,11 @@
+#!/bin/bash
+
+YEAR=$1
+COOKIE=$(zz-get-cookie)
+URL="http://www.zerozero.pt/equipa.php"
+
+while read link
+do
+  TID=$(echo ${link} | cut -d '=' -f 2 | cut -d '&' -f 1)
+  zz-fetch-players ${YEAR} ${TID}
+done < tmp/${YEAR}/t.links

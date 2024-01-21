@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./lin2tab cupa-$1.lin 2> cupa-$1.out
