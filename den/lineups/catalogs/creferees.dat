@@ -1,8 +1,12 @@
-114
+131
+aagesF,Aagerup,Sebastian Friis,Sebastian Friis Aagerup, ,DEN, ,DEN,sebastian-friis-aagerup
 abilbo,Abildgaard,Bo,Bo Abildgaard,20/05/1963,DEN, ,DEN,bo-abildgaard
 andeda,Andersen,David Vang,David Vang Andersen, ,DEN, ,DEN,david-andersen_2
 andepk,Kjærsgaard-Andersen,Peter,Peter Kjærsgaard-Andersen,30/04/1984,DEN, ,DEN,peter-kjaersgaard-andersen
+antome,Antoniou,Menelaos,Menelaos Antoniou, ,CYP, ,CYP,menelaos-antoniou
+bgeljo,Bøgelund,Jonas,Jonas Bøgelund, ,DEN, ,DEN,jonas-boegelund
 billja,Bille,Jakob,Jakob Bille, ,DEN, ,DEN,jakob-bille
+bkxxjo,Bæk,Jonas,Jonas Bæk, ,DEN, ,DEN,jonas-baek
 boegke,Bögelund,Kent,Kent Bögelund, ,DEN, ,DEN,kent-boegelund
 boejrm,Böjer,Rasmus Möller,Rasmus Möller Böjer, ,DEN, ,DEN,rasmus-moeller-boejer
 boriel,Borić,Elvis,Elvis Borić,28/06/1989,DEN, ,DEN,elvis-boric
@@ -15,20 +19,25 @@ chrire,Christensen,René,René Christensen,02/08/1969,DEN, ,DEN,rene-christensen
 chrisv,Christensen,Svend Erik,Svend Erik Christensen,17/03/1949,DEN, ,DEN,svend-christensen_2
 dahlje,Dahl,Jesper,Jesper Dahl,30/07/1982,DEN, ,DEN,jesper-dahl_2
 damgja,Damgaard,Jan,Jan Damgaard,22/04/1953,DEN, ,DEN,jan-damgaard
+deroes,Deronjić,Esad,Esad Deronjić,07/04/1991,DEN, ,DEN,esad-deronjic
 donoda,Donohoe,Daniel,Daniel Donohoe, ,DEN, ,DEN,daniel-donohoe
 feddsu,Feddersen,Sune,Sune Feddersen,26/03/1989,DEN, ,DEN,sune-feddersen
 fiskke,Fisker,Knud Erik,Knud Erik Fisker,17/09/1960,DEN, ,DEN,knud-erik-fisker
+gammpR,Gammelholm,Patrick Remon,Patrick Remon Gammelholm, ,DEN, ,DEN,patrick-remon-gammelholm
 gantjo,Gantfeldt,John,John Gantfeldt, ,DEN, ,DEN,john-gantfeldt
 gernla,Gerner,Lars,Lars Gerner,08/05/1960,DEN, ,DEN,lars-gerner
+graalL,Graagaard,Lasse Læbel,Lasse Læbel Graagaard, ,DEN, ,DEN,lasse-graagaard
 haldja,Hald,Jan,Jan Hald,23/11/1960,DEN, ,DEN,jan-hald
 hansar,Hansen,Arne,Arne Hansen,12/08/1946,DEN, ,DEN,arne-hansen
 hansb1,Hansen,Brian Lindorf,Brian Lindorf Hansen, ,DEN, ,DEN,brian-hansen
 hansbr,Hansen,Bill René,Bill René Hansen,15/03/1963,DEN, ,DEN,bill-rene-hansen
+hanscG,Hansen,Christian Ginderskov,Christian Ginderskov Hansen, ,DEN, ,DEN,christian-hansen_5
 hanshe,Hansen,Henrik,Henrik Hansen,14/06/1986,DEN, ,DEN,henrik-hansen_7
 hansjo,Hansen,Jonas,Jonas Hansen,07/04/1987,DEN, ,DEN,jonas-hansen_2
 hanske,Hansen,Kenn,Kenn Hansen,29/05/1980,DEN, ,DEN,kenn-hansen
 hansol,Hansen,Ole V.,Ole V. Hansen,27/06/1963,DEN, ,DEN,ole-hansen
 harada,Haramija,Darko,Darko Haramija,00/00/1978,DEN, ,CRO,darko-haramija
+heerni,Heer,Nils,Nils Heer, ,DEN, ,DEN,nils-heer
 herman,Clement-Hermansen,Anders,Anders Clement-Hermansen,06/11/1973,DEN, ,DEN,anders-hermansen
 hoegni,Høg,Niels,Niels Høg,26/07/1975,DEN, ,DEN,niels-hoeg
 hummla,Hummelgaard,Lars,Lars Hummelgaard, ,DEN, ,DEN,lars-hummelgaard
@@ -38,9 +47,12 @@ jenshe,Jensen,Henning,Henning Jensen,03/10/1969,DEN, ,DEN,henning-jensen_2
 jensje,Jensen,Jens Jørgen,Jens Jørgen Jensen, ,DEN, ,DEN,jens-jensen
 jensla,Jensen,Lars Skibild,Lars Skibild Jensen, ,DEN, ,DEN,lars-jensen_2
 jensto,Jensen,Torben,Torben Jensen,31/07/1965,DEN, ,DEN,torben-jensen
+johach,Johansen,Chris,Chris Johansen,16/08/1984,DEN, ,DEN,chris-johansen
 johaja,Johansen,Jan,Jan Johansen, ,DEN, ,DEN,jan-johansen_2
 johajo,Johansen,Jørgen,Jørgen Johansen,10/04/1956,DEN, ,DEN,joergen-johansen_2
 johami,Johansen,Michael,Michael Johansen,16/12/1975,DEN, ,DEN,michael-johansen_2
+kaloma,Kalogirou,Marios,Marios Kalogirou,13/08/1983,CYP, ,CYP,marios-kalogirou
+karlja,Karlsen,Jacob,Jacob Karlsen, ,DEN, ,DEN,jacob-karlsen
 kehlja,Kehlet,Jakob,Jakob Kehlet,05/09/1980,DEN, ,DEN,jakob-kehlet
 knudhe,Knudsen,Henning,Henning Knudsen,02/10/1954,DEN, ,DEN,henning-knudsen
 knudpa,Knudsen,Paul,Paul Knudsen, ,DEN, ,DEN,paul-knudsen
@@ -66,11 +78,13 @@ lundhe,Lund-Sørensen,Henning, ,1942-03-20,DEN, ,DEN,henning-lund-soerensen
 maaeje,Maae,Jens Grabski,Jens Grabski Maae,10/03/1982,DEN, ,DEN,jens-maae
 malmhe,Malmberg,Henrik,Henrik Malmberg,09/12/1970,DEN, ,DEN,henrik-malmberg
 marcpe,Marcussen,Peter Theis,Peter Theis Marcussen, ,DEN, ,DEN,peter-marcussen
+markma,Markus,Martin,Martin Markus, ,DEN, ,DEN,martin-markus
 mastja,Mastrup,Jakob Lodal Lynge,Jakob Lodal Lynge Mastrup, ,DEN, ,DEN,jakob-mastrup
 mikkpe,Mikkelsen,Peter,Peter Mikkelsen,01/05/1960,DEN,København,DEN,peter-mikkelsen
 mogede,Mogensen,Dennis,Dennis Mogensen,13/01/1982,DEN, ,DEN,dennis-mogensen
 moseah,Mosegaard,Anders Hessellund,Anders Hessellund Mosegaard,12/07/1957,DEN, ,DEN,anders-hessellund-mosegaard
 muusla,Muusmann,Lars,Lars Muusmann, ,DEN, ,DEN,lars-muusmann
+nielje,Nielsen,Jesper,Jesper Nielsen, ,DEN, ,DEN,jesper-nielsen_5
 nieljo,Nielsen,John P.,John P. Nielsen,23/11/1945,DEN, ,DEN,john-nielsen_3
 nielkm,Nielsen,Kim Milton,Kim Milton Nielsen,03/08/1960,DEN,Kopenhagen,DEN,kim-milton-nielsen
 niella,Nielsen,Lars Winther,Lars Winther Nielsen, ,DEN, ,DEN,lars-nielsen_2
@@ -90,6 +104,7 @@ priehe,Priegel,Henrik,Henrik Priegel,26/03/1974,DEN, ,DEN,henrik-priegel
 putrsa,Putros,Sandi,Sandi Putros, ,DEN, ,DEN,sandi-putros
 qvisbr,Qvist,Brian,Brian Qvist, ,DEN, ,DEN,brian-qvist
 rasmde,Rasmussen,Dennis Wollenberg,Dennis Wollenberg Rasmussen,00/00/1979,DEN, ,DEN,dennis-rasmussen_2
+rasmmi,Rasmussen,Michael,Michael Rasmussen,08/05/1989,DEN, ,DEN,michael-rasmussen_2
 rasmpe,Rasmussen,Peter,Peter Rasmussen,15/10/1975,DEN,Odense,DEN,peter-rasmussen_2
 reddmi,Redder,Mikkel,Mikkel Redder, ,DEN, ,DEN,mikkel-redder
 risure,Risum,René,René Risum, ,DEN, ,DEN,rene-risum
@@ -102,9 +117,11 @@ soerhe,Sørensen,Heine,Heine Sørensen, ,DEN, ,DEN,heine-soerensen
 stadkn,Stadsgaard,Knud,Knud Stadsgaard,28/04/1960,DEN, ,DEN,knud-stadsgaard
 staehj,Stærk,Hans Jørgen,Hans Jørgen Stærk,21/03/1962,DEN, ,DEN,hans-joergen-staerk
 sundja,Sundberg,Jakob Alexander,Jakob Alexander Sundberg,01/10/1989,DEN, ,DEN,jakob-sundberg
+svedbH,Svedborg,Benjamin Helm,Benjamin Helm Svedborg, ,DEN, ,DEN,benjamin-helm-svedborg
 svenbe,Svendborg,Benjamin,Benjamin Svendborg, ,DEN, ,DEN,benjamin-svendborg
 svenmi,Svendsen,Michael,Michael Svendsen,31/05/1967,DEN, ,DEN,michael-svendsen
 tykgmi,Tykgaard,Michael,Michael Tykgaard,07/06/1977,DEN, ,DEN,michael-tykgaard
+tzioom,Tziortzis,Omiros,Omiros Tziortzis, ,CYP, ,CYP,omiros-tziortzis
 udsepa,Udsen,Palle,Palle Udsen,06/10/1965,DEN, ,DEN,palle-udsen
 usluay,Uslu,Aydin,Aydin Uslu,27/09/1987,DEN, ,DEN,aydin-uslu
 vejlth,Vejlgaard,Thomas,Thomas Vejlgaard,18/09/1972,DEN, ,DEN,thomas-vejlgaard

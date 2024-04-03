@@ -69,7 +69,7 @@ mustbe,Benjamin,Mustafik,1998-06-09,MAC,10,2,A,0,0,0,0,benjamin-mustafik
 ondrpa,Patrik,Ondrášek,1999-02-13,CZE,10,26,A,0,0,0,0,patrik-ondrasek
 svejzd,Zdeněk,Švejda,1998-07-09,CZE,10,3,A,0,0,0,0,zdenk-svejda
 kralal,Alex,Král,1998-05-19,CZE,10, , ,0,0,0,0,alex-kral
-vancd1,David,Vaněček,1991-03-09,CZE,10, , ,0,0,0,0,david-vancek
+vaneda,David,Vaněček,1991-03-09,CZE,10, , ,0,0,0,0,david-vancek
 cervma,Marek,Červenka,1992-12-17,CZE,10, , ,0,0,0,0,marek-cervenka
 vosaja,Jan,Vošahlík,1989-03-08,CZE,10, , ,0,0,0,0,jan-vosahlik
 kodala,Ladislav,Kodad,1998-04-23,CZE,10, , ,0,0,0,0,ladislav-kodad
@@ -342,7 +342,7 @@ bartda,David,Bartek,1988-02-13,CZE,2,5,M,0,0,0,0,david-bartek
 hasefi,Filip,Hašek,1997-03-20,CZE,2,12,M,0,0,0,0,filip-hasek
 hlinvo,Vojtech,Hlinak,1999-01-01,CZE,2,6,M,0,0,0,0,vojtech-hlinak
 jindj1,Josef,Jindřišek,1981-02-14,CZE,2,4,M,0,0,0,0,josef-jindrisek
-lyovvl,Vladislav,Lyovin,1995-03-28,RUS,2,6,M,0,0,0,0,vladislav-lyovin
+levivl,Vladislav,Lyovin,1995-03-28,RUS,2,6,M,0,0,0,0,vladislav-lyovin
 marhmo,Mohamed,Marhoon,1998-02-12,BAH,2,18,M,0,0,0,0,mohamed-marhoon
 reitru,Rudolf,Reiter,1994-09-28,CZE,2,7,M,0,0,0,0,rudolf-reiter
 vaceka,Kamil,Vacek,1987-05-18,CZE,2,25,M,0,0,0,0,kamil-vacek
@@ -408,7 +408,7 @@ jugaja,Jakub,Jugas,1992-05-05,CZE,40,3,F,0,0,0,0,jakub-jugas
 klimj2,Jakub,Klíma,1998-08-28,CZE,40,29,F,0,0,0,0,jakub-klima
 krapan,Antonín,Křapka,1994-01-22,CZE,40,34,F,0,0,0,0,antonin-krapka
 kyseja,Jan,Kysela,1985-12-17,CZE,40,20,F,0,0,0,0,jan-kysela
-tulim1,Marco,Tulio,1998-05-31,BRA,40,2,F,0,0,0,0,marco-tulio_5
+tulima,Marco,Tulio,1998-05-31,BRA,40,2,F,0,0,0,0,marco-tulio_5
 marepe,Petr,Mareš,1991-01-17,CZE,40,17,F,0,0,0,0,petr-mares
 tataal,Aleksey,Tataev,1998-10-08,RUS,40,5,F,0,0,0,0,aleksey-tataev
 tvarph,Philipp,Tvaroh,1999-02-24,CZE,40,31,F,0,0,0,0,philipp-tvaroh
@@ -535,7 +535,7 @@ chorto,Tomáš,Chorý,1995-01-26,CZE,6,18,A,0,0,0,0,tomas-chory
 kayajo,Joel,Kayamba,1992-04-17,DRC,6,5,A,0,0,0,0,joel-kayamba
 keplto,Tomáš,Kepl,2000-04-21,CZE,6,35,A,0,0,0,0,tomas-kepl
 krmemi,Michal,Krmenčík,1993-03-15,CZE,6,15,A,0,0,0,0,michal-krmencik
-ekpaum,Ubong Moses,Ekpai,1995-10-17,NGR,6,90,A,0,0,0,0,ubong-moses-ekpai
+ekpaub,Ubong Moses,Ekpai,1995-10-17,NGR,6,90,A,0,0,0,0,ubong-moses-ekpai
 pacier,Erik,Pačinda,1989-05-09,SVK,6,89,A,0,0,0,0,erik-pacinda
 selnja,Jakub,Selnar,2000-04-13,CZE,6,31,A,0,0,0,0,jakub-selnar
 sturon,Ondřej,Štursa,2000-06-17,CZE,6,34,A,0,0,0,0,ondrej-stursa

@@ -1,6 +1,6 @@
 1800 FK Žalgiris Vilnius~Žalgiris
-1800 Žalgiris Kaunas~Kaunas*1959 Banga Kaunas~Kaunas*1993 FBK Kaunas~Kaunas*1999 FK Žalgiris Kaunas~Kaunas*2000 FBK Kaunas~Kaunas*2012 NFA Kaunas~Kaunas*2016 FBK Kaunas~Kaunas*2018 NFA Kaunas~Kaunas*2999 FBK Kaunas~FBK Kaunas
-1800 FK Ekranas Panevėžys~Ekranas*2015 FK Panevėžys~Panevėžys
+1800 Žalgiris Kaunas~Kaunas*1959 Banga Kaunas~Kaunas*1993 FBK Kaunas~Kaunas*1999 FK Žalgiris Kaunas~Kaunas*2000 FBK Kaunas~Kaunas*2012 NFA Kaunas~Kaunas*2016 FBK Kaunas~Kaunas
+1800 FK Ekranas Panevėžys~Ekranas
 1800 FK Atlantas Klaipeda~Atlantas*1991 FK Granitas Klaipeda~Granitas*1993 PSK Aras Klaipeda~Aras*1996 FK Atlantas Klaipeda~Atlantas
 1800 Logika-Klevas Šiauliai~Klevas*1996 FK Klevas Sakalas Šiauliai~Klevas*1997 FK Klevas Šiauliai~Klevas*2001 FK Sakalas Šiauliai~Sakalas*2004 FK Šiauliai~Šiauliai
 1800 FK Sūduva Marijampolė~Sūduva
@@ -13,7 +13,7 @@
 1800 FK Alytis Alytus~Alytis*2002 FK Dvynai Alytus~Dvynai*2003 FK Alytis Alytus~Alytis*2011 FK Dainava Alytus~Dainava*2999 FK Alytis Alytus~Alytis
 1800 Banga Gargždai~Banga*2000 FK Banga Gargždai~Banga
 1800 FK Utenis Utena~Utenis
-1800 Logika-Klevas Šiauliai~Klevas*1996 FK Klevas Sakalas Šiauliai~Klevas*1997 FK Klevas Šiauliai~Klevas*2001 FK Sakalas Šiauliai~Sakalas
+1800 Logika-Klevas Šiauliai II~Klevas II*1996 FK Klevas Sakalas Šiauliai II~Klevas II*1997 FK Klevas Šiauliai II~Klevas II*2001 FK Sakalas Šiauliai II~Sakalas II*2004 FK Šiauliai II~Šiauliai II
 1800 WDB Kaunas~WDB*1996 Kauno Jegeriai~Kauno Jegeriai
 1800 FK Interas Sniečkus~Interas*1993 FK Inter-AE Visaginas~Inter*1999 Interas-AE Visaginas~Interas*2008 FK Evikonas Visaginas~Visaginas*2999 FK Interas Visaginas~Visaginas
 1800 FK Kruoja Pakruojis~Kruoja*2017 FK Pakruojis~Pakruojis
@@ -99,7 +99,7 @@
 1800 Šarunas Skuodas~Skuodas*2006 FK Skuodas~Skuodas
 1800 Širvena Biržai~Birzai*2003 Rinkuskiai Biržai~Birzai
 1800 FK Karmelava~Karmelava*1993 Enlika Karmelava~Karmelava*2003 Neris Karmelava~Karmelava
-1800 Šilas Kazlu Ruda~Kazlu Ruda*1994 Auredi Kazlu Ruda~Kazlu Ruda*1996 SC Šilas Kazlu Ruda~Kazlu Ruda*2006 Kvintencija Šilas Kazlu Ruda~Kazlu Ruda*2008 Aitas MIA Kazlu Ruda~Kazlu Ruda*2009 FK Kazlu Ruda~Kazlu Ruda*2013 Kazlu Rudos FK Šilas~Kazlu Ruda
+1800 Šilas Kazlu Ruda~Kazlu Ruda*1994 Auredi Kazlu Ruda~Kazlu Ruda*1996 SC Šilas Kazlu Ruda~Kazlu Ruda*2006 Kvintencija Šilas Kazlu Ruda~Kazlu Ruda*2008 Aitas MIA Kazlu Ruda~Kazlu Ruda*2009 FK Kazlu Ruda~Kazlu Ruda*2013 Kazlu Rudos FK Šilas~Kazlu Ruda*2022 Marijampolė City~Marijampolė
 1800 GMT-83 Gargždai~GMT
 1800 Babrungas II Plunge~Babrungas II
 1800 FK Šiauliai~FK Šiauliai
@@ -185,3 +185,9 @@
 1800 Kauno Žalgiris II~Kauno II
 1800 FK Aukštaitija~Aukštaitija
 1800 FK Sakalas Šiauliai~Šiauliai*1996 FK Kareda-Sakalas Šiauliai~Šiauliai*1997 FK Kareda Šiauliai~Šiauliai*2000 FK Kareda Kaunas~Kareda*2004 FK Kareda Šiauliai~Kareda
+1800 Neptūnas Klaipėda~Neptūnas
+1800 NFA Kaunas~NFA Kaunas*2019 Be1 NFA Kaunas~Be1 NFA
+1800 Garliava Kaunas~Garliava
+1800 FK Panevėžys~Panevėžys
+1800 FK Panevėžys II~Panevėžys II
+1800 FK TransInvest Vilnius~TransInvest

@@ -1,41 +1,41 @@
 285
-Austria,FK Austria Wien
-Rapid,SK Rapid Wien
+Austria,austria-wien
+Rapid,rapid-wien
 Innsbruck,FC Wacker Innsbruck
-Sturm,SK Sturm Graz
-Salzburg,SV Austria Salzburg
-GAK,Grazer AK
-LASK,Linzer ASK
+Sturm,sturm-graz
+Salzburg,rb-salzburg
+GAK,grazer-ak
+LASK,lask
 Sportclub,Wiener Sport-Club
-Admira,FC Admira
-Vienna,First Vienna FC
+Admira,fc-admira-wacker
+Vienna,first-vienna-fc
 Favorit,Favoritner AC
 VOEST,VOEST Linz
-St.Polten,VSE Sankt Pölten
-Steyr,Vorwärts Steyr
+St.Polten,skn-st-poelten
+Steyr,vorwaerts-steyr
 Eisenstadt,SC Eisenstadt
 Karnten,FC Superfund Pasching
 Bregenz,SW Bregenz
 Leoben,Donawitzer SV Leoben
 Stockerau,SV Stockerau
 Mattersburg,SV Mattersburg
-Kapfenberg,Kapfenberger SV
-Klagenfurt,FC Kärnten Klagenfurt
+Kapfenberg,kapfenberger-sv-1919
+Klagenfurt,sk-austria-klagenfurt
 SAK Klagenfurt,SAK Klagenfurt
-Lustenau,SC Austria Lustenau
+Lustenau,austria-lustenau
 Krems,Kremser SC
-Ried,SV Ried im Innkreis
+Ried,sv-ried
 Simmering,Simmeringer SC
 St.Veit,SV Sankt Veit
 Neusiedl,SC Neusiedl
 Wels,SK Eintracht Wels
-Altach,SC Rheindorf Altach
+Altach,scr-altach
 Gratkorn,FC Gratkorn
 Worgl,SV Obi Wörgl
 Untersieben,SC Untersiebenbrunn
 Villach,BSV Juniors Villach
 Spittal,SV Spittal
-Wattens,WSG Wattens
+Wattens,wsg-tirol
 Salzburg AK,Salzburger AK
 Flavia Solva,Flavia Solva Wagna
 Schwechat,Schwechater SC
@@ -44,7 +44,7 @@ Modling,VfB Mödling
 Vocklamarkt,Union Vöcklamarkt
 USV Salzburg,USV Salzburg
 Wolfsberg,Wolfsberger AC
-FC Dornbirn,FC Dornbirn
+FC Dornbirn,fc-dornbirn
 LUV Graz,LUV Graz
 Vosendorf,ASV Austria Vösendorf
 Donaufeld,SR Donaufeld
@@ -53,7 +53,7 @@ Puch,FC Puch
 Braunau,SV Braunau
 Neustadt,Wiener Neustadt SC
 Klingenbach,FC Klingenbach
-Hartberg,TSV Hartberg
+Hartberg,tsv-hartberg
 Kottingbrunn,ASK Kottingbrunn
 Bleiberg,BSV Bad Bleiberg
 Gerasdorf,SV Gerasdorf
@@ -66,7 +66,7 @@ Thorl,SV Thörl
 Voitsberg,ASK Voitsberg
 Baden,Badener AC
 Schwanenstadt,SC Schwanenstadt
-Austria-A,Austria Wien (Amateure)
+Austria-A,austria-wien-a
 ASK Salzburg,ASK Salzburg
 Zell am See,SK Zell am See
 Purbach,UFC Purbach
@@ -191,15 +191,15 @@ Grodig,SV Grödig
 Bad Aussee,SV Bad Aussee
 Feldkirchen,SV Feldkirchen
 Vocklabruck,1. FC Vöcklabruck
-St.Andrä,SK Sankt Andrä
+St.Andrä,wolfsberger-ac
 Allerheiligen,SV Allerheiligen
 Perg,Union Perg
 St.Florian,Union Sankt Florian
-BW Linz,FC Blau Weiss Linz
-Sturm-A,SK Sturm Graz (Amateure)
+BW Linz,fc-blau-weiss-linz
+Sturm-A,sturm-graz-a
 Welzenegg,FCK Welzenegg
 Schwadorf,ASK Schwadorf
-Rapid-A,SK Rapid Wien (Amateure)
+Rapid-A,rapid-wien-a
 Waidhofen,FC Waidhofen
 Zwettl,SC Zwettl
 Baumgarten,ASK Baumgarten
@@ -216,16 +216,16 @@ Neuberg,SV Neuberg
 Arnfels,TuS FC Arnfels
 Pasching,Austria Karnten (Amateure)
 Gmund,SV Gmunden
-Horn,SV Horn
+Horn,sv-horn
 Mattersburg-A,SV Mattersburg (Amateure)
-Amstetten,SKU Amstetten
+Amstetten,sku-amstetten
 Stegersbach,SV Stegersbach
 Innsbruck-A,Wacker Innsbruck II
 Neumarkt,TSV Neumarkt
 St.Stefan,SC Sankt Stefan 
 Gaflenz,SV Gaflenz
 Altach-A,Rheindorf Altach II
-Team fur Wien,PSV Team für Wien
+Team fur Wien,floridsdorfer-ac
 Gleinstätten,SV Gleinstätten
 Sollenau,SC Sollenau
 Austria Salzb,Austria Salzburg
@@ -239,9 +239,9 @@ Andelsbuch,FC Andelsbuch
 Wallern,SV Wallern
 Wals-Grunau,SV Wals Grünau
 Volkermarkt,VST Völkermarkt
-Liefering,FC Liefering
+Liefering,fc-liefering
 Eugendorf,USC Eugendorf
-Lafnitz,SV Lafnitz
+Lafnitz,sv-lafnitz
 Grafendorf,ATSV Ober-Grafendorf
 Viktoria,Wiener Viktoria
 St.Polten-A,St.Pölten II

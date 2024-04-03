@@ -30,7 +30,7 @@ daniru,Danilyuk,Ruslan,1974-05-12,BLR,5, , ,2,2,0,0,  124,1,1,0,0,0,0,0,0
 demeal,Demeshko,Aleksandr,1986-11-07,BLR,5, , ,8,2,6,0,  158,0,1,0,0,0,0,1,0
 demiva,Demidovich,Vadim,1985-09-20,BLR,5, , ,12,1,11,0,  392,1,0,0,0,0,0,1,0
 demial,Demidovich,Alexander,1989-04-26,BLR,5, , ,4,4,0,0,  227,1,0,0,0,0,0,0,0
-gaydvi,Gayduchik,Vitaly,1989-07-12,BLR,5, , ,27,27,0,0, 2430,27,0,0,0,0,0,6,0
+gaydvi,Gayduchik,Vitaliy,1989-07-12,BLR,5, , ,27,27,0,0, 2430,27,0,0,0,0,0,6,0
 gogiro,Goginashvili,Roman,1984-01-23,GEO,5, , ,4,0,4,0,   76,0,1,0,0,0,0,0,0
 ishmva,Ishmakov,Vadym,1979-08-30,UKR,5, , ,17,17,0,1, 1424,12,1,0,0,0,0,7,1
 khvavl,Khvashchinskiy,Vladimir,1990-05-10,BLR,5, , ,4,0,4,0,   25,0,0,0,0,0,0,0,0
@@ -153,7 +153,7 @@ daniru,Danilyuk,Ruslan,1974-05-12,BLR,13, , ,10,9,1,0,  764,6,0,0,0,0,0,0,0
 dejkvi,Dejkalo,Vitali,1984-04-18,BLR,13, , ,1,0,1,0,    6,0,0,0,0,0,0,0,0
 deniiv,Denisevich,Ivan,1984-11-09,BLR,13, , ,19,18,1,3, 1503,12,0,0,0,1,0,3,0
 dubadm,Dubatovka,Dmitri,1989-07-13,BLR,13, , ,5,1,4,0,  104,0,0,0,0,0,0,0,0
-gorba2,Gorbach,Andrey,1985-05-20,BLR,13, , ,20,20,0,1, 1800,20,0,0,0,0,0,1,0
+gorban,Gorbach,Andrey,1985-05-20,BLR,13, , ,20,20,0,1, 1800,20,0,0,0,0,0,1,0
 gorbma,Gorbach,Maksim,1983-09-14,BLR,13, , ,16,15,1,1, 1206,10,0,0,0,0,0,3,0
 ichiol,Ichim,Oleg,1979-10-27,MOL,13, , ,24,22,2,0, 1990,20,0,0,0,0,0,4,0
 juveju,Juvenal, ,1979-06-05,BRA,13, , ,27,27,0,0, 2343,23,1,0,0,0,0,5,0
@@ -161,7 +161,7 @@ khalse,Khaletskiy,Sergey,1984-04-14,BLR,13, , ,12,10,2,0,  889,8,0,0,0,0,0,3,1
 kireol,Kirenya,Oleg,1975-05-02,BLR,13, , ,10,7,3,0,  551,3,0,0,0,0,0,1,0
 kotimi,Kotin,Mikhail,1985-10-08,BLR,13, , ,10,9,1,0,  711,4,1,0,0,0,0,2,0
 kovadm,Kovalenok,Dmitriy,1977-11-03,BLR,13, , ,28,16,12,10, 1705,10,0,0,0,1,0,2,0
-levis1,Levitskiy,Sergey,1990-03-17,BLR,13, , ,13,1,12,0,  323,0,0,0,0,0,0,0,0
+levide,Levitskiy,Denis,1990-03-17,BLR,13, , ,13,1,12,0,  323,0,0,0,0,0,0,0,0
 lisiig,Lisitsa,Igor,1988-04-10,BLR,13, , ,5,2,3,0,  264,1,0,-1,0,0,0,0,0
 lobase,Lobanov,Sergey,1984-03-01,RUS,13, , ,6,2,4,0,  192,0,0,-1,0,0,0,0,0
 nadivi,Nadievskiy,Vitaliy,1981-10-20,BLR,13, , ,14,14,0,0, 1193,11,0,0,0,0,0,4,0
@@ -235,7 +235,7 @@ gornmi,Gornak,Mikhail,1989-03-09,BLR,9, , ,1,0,1,0,   36,0,2,0,0,0,0,0,0
 hlebvy,Hleb,Vyatcheslav,1983-02-12,BLR,9, , ,20,16,4,5, 1337,6,0,0,0,1,0,2,0
 khateg,Khatkevich,Egor,1988-07-09,BLR,9, , ,1,1,0,0,   90,1,1,-2,0,0,0,0,0
 kheyel,Kheyirov,Elmar,1987-01-14,AZE,9, , ,1,0,1,0,   10,0,0,0,0,0,0,0,0
-kontar,Kontsevoj,Artem,1983-05-20,BLR,9, , ,27,27,0,15, 2420,26,0,0,0,0,0,5,0
+kontar,Kontsevoy,Artem,1983-05-20,BLR,9, , ,27,27,0,15, 2420,26,0,0,0,0,0,5,0
 kurgse,Kurganski,Sergey,1986-05-15,BLR,9, , ,5,5,0,0,  450,5,0,-6,0,0,0,0,0
 kvargi,Kvaratskhelia,Givi,1979-05-11,GEO,9, , ,20,19,1,6, 1620,14,0,0,0,0,0,2,0
 maltig,Maltsev,Igor,1986-03-11,BLR,9, , ,10,5,5,0,  439,1,0,0,0,0,0,0,0

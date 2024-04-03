@@ -1,4 +1,4 @@
-656
+712
 ______,?, ,?, ,???, ,???,___
 _c5_al,Żmudziński,Alfons,Alfons Żmudziński, ,POL, ,POL,___
 _c5_ap,Łapczyński, ,Łapczyński, ,POL, ,POL,___
@@ -9,11 +9,13 @@ adamma,Adamski,Marian,Marian Adamski, ,POL, ,POL,___
 alekgr,Aleksandrowicz,Grzegorz,Grzegorz Aleksandrowicz,1914-07-19,POL, ,POL,___
 alekpi,Aleksandrowicz,Piotr,Piotr Aleksandrowicz, ,POL, ,POL,piotr-aleksandrowicz
 alusar,Aluszyk,Artur,Artur Aluszyk,11/03/1979,POL, ,POL,artur-aluszyk
+alusko,Aluszyk,Konrad,Konrad Aluszyk, ,POL, ,POL,konrad-aluszyk
 andred,Andrzejak,Edmund,Edmund Andrzejak, ,POL,Lodz,POL,___
 aniost,Aniol,Stanislaw,Stanislaw Aniol,1951-01-01,POL,Opole,POL,___
 arakyu,Araki,Yusuke,Yusuke Araki,02/05/1986,JAP, ,JAP,yusuke-araki
 arciar,Arciszewski, ,Arciszewski, ,POL, ,POL,___
 arczfe,Arczyński,Ferdynand,Ferdynand Arczyński,1900-12-08,POL, ,POL,___
+aryska,Arys,Karol,Karol Arys, ,POL, ,POL,karol-arys
 arysma,Arys,Marek,Marek Arys, ,POL, ,POL,marek-arys
 auerzy,Auerbach,Zygmunt,Zygmunt Auerbach, ,POL, ,POL,___
 b_c5j1,Błahut,Józef,Józef Błahut, ,POL, ,POL,___
@@ -40,6 +42,7 @@ berwro,Berwald,Roman,Roman Berwald,1896-03-14,POL, ,POL,___
 beymma,Beym,Marian,Marian Beym, ,POL, ,POL,___
 bia_bi,Białas, ,Białas, ,POL, ,POL,___
 bielbi,Bielecki, ,Bielecki, ,POL, ,POL,___
+bielma,Bielawski,Marcin,Marcin Bielawski, ,POL, ,POL,marcin-bielawski
 bierma,Biernat,Marian,Marian Biernat,0000-00-00,POL, ,POL,___
 bierst,Biernacik,Stanislaw,Stanislaw Biernacik, ,POL, ,POL,___
 bilabr,Bilak,Bronislaw,Bronislaw Bilak,1922-01-01,POL, ,POL,___
@@ -73,6 +76,7 @@ cherma,Cherjan,Marek,Marek Cherjan,1955-04-07,POL, ,POL,___
 chruzy,Chruscinski,Zygmunt,Zygmunt Chruscinski,1899-02-17,POL, ,POL,___
 cichbo,Cichoń,Bogdan,Bogdan Cichoń,0000-00-00,POL, ,POL,___
 ciched,Cichý,Eduard,Eduard Cichý,18/03/1971,SVK, ,SVK,eduard-cichy
+ciepma,Cieply,Marcin,Marcin Cieply, ,POL, ,POL,marcin-cieply
 cobeal,Cober,Alfonsy,Alfonsy Cober,1909-09-03,POL, ,POL,___
 cwalto,Cwalina,Tomasz,Tomasz Cwalina,13/04/1973,POL, ,POL,tomasz-cwalina
 cwieja,Cwiek,Jan,Jan Cwiek,1943-01-01,POL,Katowice,POL,___
@@ -92,6 +96,8 @@ diduhe,Diduch,Henryk,Henryk Diduch, ,POL,Krakow,POL,___
 dlugmi,Dlugosz,Mieczyslaw,Mieczyslaw Dlugosz,1917-09-16,POL, ,POL,___
 dobrem,Dobrzanski,Emil,Emil Dobrzanski, ,POL, ,POL,___
 dobrzb,Dobrynin,Zbigniew,Zbigniew Dobrynin,19/06/1986,POL, ,POL,zbigniew-dobrynin
+dokopa,Dokolnicki,Pawel,Pawel Dokolnicki,07/01/1981,POL, ,POL,pawel-dokolnicki
+domuan,Domuniewski,Andrzej,Andrzej Domuniewski, ,POL, ,POL,andrzej-domuniewski
 drespa,Dreschel,Paweł,Paweł Dreschel, ,POL, ,POL,pawel-dreschel
 drosem,Drosdz,Emanuel,Emanuel Drosdz, ,POL, ,POL,___
 drzero,Drzewiecki,Roman,Roman Drzewiecki,1957-12-20,POL, ,POL,___
@@ -105,6 +111,7 @@ duxxwo,Dux,Wojciech,Wojciech Dux,1930-04-21,POL,Poznan,POL,___
 dyktpa,Dykta,Pawel,Pawel Dykta, ,POL,Katowice,POL,___
 dymean,Dymek,Andrzej,Andrzej Dymek,1959-08-06,POL, ,POL,___
 dymsro,Dymski,Romuald,Romuald Dymski, ,POL, ,POL,___
+dziopa,Dziopak,Pawel,Pawel Dziopak, ,POL, ,POL,pawel-dziopak
 dziuw_,Dziurban,Włodzimierz,Włodzimierz Dziurban, ,POL, ,POL,___
 egiemi,Egierski,Mieczysław,Mieczysław Egierski, ,POL, ,POL,___
 ekszja,Eksztajn,Janusz,Janusz Eksztajn,1948-08-06,POL,Warszawa,POL,___
@@ -133,7 +140,9 @@ gajdmi,Gajda,Michał,Michał Gajda, ,POL, ,POL,michal-gajda
 gajeta,Gajewski,Tadeusz,Tadeusz Gajewski, ,POL,Warszawa,POL,___
 garbto,Garbowski,Tomasz,Tomasz Garbowski, ,POL, ,POL,tomasz-garbowski
 garuje,Garus,Jerzy,Jerzy Garus, ,POL,Czestochowa,POL,___
+gasiko,Gasiorowski,Konrad,Konrad Gasiorowski, ,POL, ,POL,konrad-gasiorowski
 gaudj.,Gauda,J.,J. Gauda, ,POL, ,POL,___
+gawcda,Gawęcki,Damian,Damian Gawęcki, ,POL, ,POL,damian-gawecki
 gawler,Gawlik,Ernest,Ernest Gawlik,1930-01-01,POL,Katowice,POL,___
 gawlja,Gawlik,Jan,Jan Gawlik,1936-01-01,POL,Katowice,POL,___
 gawrle,Gawron,Leszek,Leszek Gawron,02/09/1971,POL, ,POL,leszek-gawron
@@ -145,6 +154,7 @@ gilxpa,Gil,Pawel,Pawel Gil,28/06/1976,POL, ,POL,pawel-gil
 glingr,Glinkin,Grzegorz,Grzegorz Glinkin, ,POL, ,POL,___
 glinst,Glinka,Stefan,Stefan Glinka,1902-04-23,POL, ,POL,___
 gniejo,Gniech,Józef,Józef Gniech, ,POL, ,POL,___
+golidI,Golis,Dawid Igor,Dawid Igor Golis,02/05/1987,POL, ,POL,dawid-golis
 golidi,Golis,Dawid Igor,Dawid Igor Golis,02/05/1987,POL, ,POL,dawid-igor-golis
 goraan,Goraczniak,Antoni,Antoni Goraczniak,1916-12-17,POL, ,POL,___
 gorego,Gorecki, ,Gorecki, ,POL, ,POL,___
@@ -163,6 +173,7 @@ gronja,Gronowski,Jan,Jan Gronowski, ,POL, ,POL,___
 grus_c,Gruszka,Łukasz,Łukasz Gruszka, ,POL, ,POL,___
 grusgr,Gruszczyński, ,Gruszczyński, ,POL, ,POL,___
 grycau,Gryc,Augustyn,Augustyn Gryc, ,POL, ,POL,___
+grycpa,Gryckiewicz,Patryk,Patryk Gryckiewicz,26/06/1995,POL, ,POL,patryk-gryckiewicz
 grynst,Gryniewski,Stanisław,Stanisław Gryniewski, ,POL, ,POL,___
 grzejo,Grzesiuk,Józef,Józef Grzesiuk,1942-01-01,POL, ,POL,___
 grzest,Grzesiczek,Stanislaw,Stanislaw Grzesiczek,1956-12-29,POL, ,POL,___
@@ -192,19 +203,25 @@ hnatmi,Hnatkiewicz,Michał,Michał Hnatkiewicz, ,POL, ,POL,michal-hnatkiewicz
 holibe,Holik,Bernard,Bernard Holik,1964-11-01,POL, ,POL,___
 holuje,Holub,Jerzy,Jerzy Holub,1935-01-01,POL, ,POL,___
 holyfr,Holyst,Franciszek,Franciszek Holyst,1913-01-01,POL, ,POL,___
+horopa,Horożaniecki,Paweł,Paweł Horożaniecki,22/05/1983,POL, ,POL,pawel-horozaniecki
 hrinvl,Hriňák,Vladimir,Vladimir Hriňák,25/02/1965,SVK,Bratislava,SVK,vladimir-hrinak
 hutaan,Hutak,Antal,Antal Hutak,1948-11-02,HUN, ,HUN,___
+idzipi,Idzik,Piotr,Piotr Idzik, ,POL, ,POL,piotr-idzik
 iemoma,Toma,Masaaki Iemoto,Masaaki Iemoto Toma,02/06/1973,JAP,Hiroshima,JAP,masaaki-iemoto_2
+ignada,Ignatowski,Dariusz,Dariusz Ignatowski, ,POL, ,POL,dariusz-ignatowski
 ignaed,Ignaszewski,Edward,Edward Ignaszewski,1922-01-01,POL, ,POL,___
 ignata,Ignatowicz,Tadeusz,Tadeusz Ignatowicz,1949-09-12,POL,Wroclaw,POL,___
 israle,Israel,Leopold,Leopold Israel,1904-03-26,POL, ,POL,___
 ivanzo,Iványi,Zoltán,Zoltán Iványi,03/12/1975,HUN, ,HUN,zoltan-ivanyi
 iwa_ed,Iwański,Edward,Edward Iwański,0000-00-00,POL, ,POL,___
+iwanka,Iwanowicz,Karol,Karol Iwanowicz, ,POL, ,POL,karol-iwanowicz
 j_c4pi,Jędrzejczyk,Piotr,Piotr Jędrzejczyk,1912-06-29,POL, ,POL,___
 jaccad,Jaccottet,Adrien,Adrien Jaccottet,19/07/1983,SUI, ,SUI,adrien-jaccottet
 jaciw_,Jaciów,Włodzimierz,Włodzimierz Jaciów, ,POL, ,POL,___
 jakujo,Jakubiec,Józef,Józef Jakubiec, ,POL, ,POL,___
 jakukr,Jakubik,Krzysztof,Krzysztof Jakubik,20/07/1983,POL, ,POL,krzysztof-jakubik
+janama,Janawa,Marcin,Marcin Janawa, ,POL, ,POL,marcin-janawa
+jankja,Jankowski,Jakub,Jakub Jankowski, ,POL, ,POL,jakub-jankowski
 jankka,Jankowski,Kazimierz,Kazimierz Jankowski,1933-01-01,POL,Gdansk,POL,___
 janust,Januszyk,Stanislaw,Stanislaw Januszyk,1936-01-01,POL,Krakow,POL,___
 jargal,Jarguz,Alojzy,Alojzy Jarguz,1934-03-19,POL, ,POL,___
@@ -212,6 +229,7 @@ jarodi,Jarosz,Dionizy,Dionizy Jarosz,1895-03-29,POL, ,POL,___
 jarzse,Jarzębak,Sebastian,Sebastian Jarzębak,20/09/1974,POL, ,POL,sebastian-jarzebak
 jawoja,Jawoszek,Janusz,Janusz Jawoszek, ,POL, ,POL,___
 jedlan,Jedliński,Antoni,Antoni Jedliński, ,POL, ,POL,___
+jendma,Jenda,Mateusz,Mateusz Jenda, ,POL, ,POL,mateusz-jenda
 jesist,Jesionka,Stanisław,Stanisław Jesionka, ,POL, ,POL,___
 jopomi,Jopowicz,Mieczysław,Mieczysław Jopowicz,1912-01-01,POL, ,POL,___
 kacpje,Kacprzak,Jerzy,Jerzy Kacprzak,1933-11-22,POL,Gdansk,POL,___
@@ -220,6 +238,7 @@ kaczwa,Kaczalko,Waclaw,Waclaw Kaczalko,1944-01-01,POL,Wroclaw,POL,___
 kaflwa,Kafliński,Wacław,Wacław Kafliński, ,POL, ,POL,___
 kajzad,Kajzer,Adam,Adam Kajzer,24/12/1970,POL, ,POL,adam-kajzer
 kalewi,Kaleciok,Wiktor,Wiktor Kaleciok, ,POL, ,POL,___
+kalifi,Kaliszewski,Filip,Filip Kaliszewski, ,POL, ,POL,filip-kaliszewski
 kamiad,Kamiński,Adam,Adam Kamiński, ,POL, ,POL,___
 kamile,Kamiński,Leon,Leon Kamiński,1923-01-01,POL, ,POL,___
 kanige,Kania,Gerard,Gerard Kania,1925-01-01,POL, ,POL,___
@@ -228,12 +247,16 @@ karkma,Karkut,Marek,Marek Karkut,09/02/1975,POL, ,POL,marek-karkut
 karowi,Karolak,Wieslaw,Wieslaw Karolak,1944-08-05,POL,Lodz,POL,___
 karowl,Karolak,Wlodzimierz,Wlodzimierz Karolak,1929-04-14,POL,Lodz,POL,___
 karoze,Karolczak,Zenon,Zenon Karolczak,1931-01-01,POL, ,POL,___
+karsuk,Karski,Łukasz,Łukasz Karski, ,POL, ,POL,lukasz-karski
 kasija,Kasierski,Jacek,Jacek Kasierski,1954-01-01,POL,Lodz / Gorzow Wielkopolski,POL,___
 kaspbo,Kasprzyk,Bogusław,Bogusław Kasprzyk, ,POL, ,POL,___
 kaspgr,Kasperkowicz,Grzegorz,Grzegorz Kasperkowicz,09/08/1960,POL, ,POL,grzegorz-kasperkowicz
 kaspry,Kasprzak,Ryszard,Ryszard Kasprzak,1930-07-03,POL,Warszawa,POL,___
+kaszb1,Kaszyński,Bartosz,Bartosz Kaszyński,29/03/1986,POL, ,POL,bartosz-kaszynski
 kaszba,Kaszyński,Bartosz,Bartosz Kaszyński,29/03/1986,POL, ,POL,bartosz-kaszynski_2
+kawagr,Kawałko,Grzegorz,Grzegorz Kawałko,21/06/1989,POL, ,POL,grzegorz-kawalko
 kedzst,Kedziora,Stanislaw,Stanislaw Kedziora,1931-11-04,POL,Poznan,POL,___
+kiecko,Kiełczewski,Konrad,Konrad Kiełczewski, ,POL, ,POL,konrad-kielczewski
 kimuhi,Kimura,Hiroyuki,Hiroyuki Kimura,30/01/1982,JAP, ,JAP,hiroyuki-kimura
 klepmi,Klepacz,Mikołaj,Mikołaj Klepacz, ,POL, ,POL,___
 klocbo,Klocek,Bolesław,Bolesław Klocek, ,POL, ,POL,___
@@ -245,6 +268,7 @@ ko_ccz,Kołodziejski,Czesław,Czesław Kołodziejski, ,POL, ,POL,___
 ko_cjo,Kołodziej,Józef,Józef Kołodziej, ,POL, ,POL,___
 kobian,Kobierski,Andrzej,Andrzej Kobierski,1952-07-11,POL, ,POL,___
 kocheu,Kochanek,Eugeniusz,Eugeniusz Kochanek, ,POL, ,POL,___
+kochma,Kochanek,Marcin,Marcin Kochanek,10/11/1991,POL,Opole,POL,marcin-kochanek
 koczeu,Koczar,Eugeniusz,Eugeniusz Koczar,1955-08-28,POL, ,POL,___
 koczma,Koczner,Marian,Marian Koczner,1917-01-01,POL, ,POL,___
 koczro,Koczy,Roman,Roman Koczy, ,POL, ,POL,___
@@ -256,9 +280,11 @@ konite,Konieczka,Teofil,Teofil Konieczka, ,POL, ,POL,___
 konkal,Konkiewicz,Alfred,Alfred Konkiewicz, ,POL, ,POL,___
 kornzd,Korngold,Zdzislaw,Zdzislaw Korngold,1899-06-02,POL, ,POL,___
 koryad,Koryzna,Adam,Adam Koryzna,0000-00-00,POL, ,POL,___
+kosama,Kosarzecki,Maciej,Maciej Kosarzecki, ,POL, ,POL,maciej-kosarzecki
 kosepa,Kosek,Paweł,Paweł Kosek, ,POL, ,POL,___
 kosied,Kosicki,Edmund,Edmund Kosicki, ,POL, ,POL,___
 koskfr,Kóska,Franciszek,Franciszek Kóska,1920-01-01,POL, ,POL,___
+kostmi,Kostrzewa,Mikołaj,Mikołaj Kostrzewa, ,SWE, ,SWE,mikolaj-kostrzewa
 kostro,Kostrzewski,Roman,Roman Kostrzewski,1947-04-16,POL, ,POL,___
 kosxda,Kos,Damian,Damian Kos,0000-00-00,POL, ,POL,damian-kos
 kotopi,Kotos,Piotr,Piotr Kotos,22/12/1969,POL, ,POL,piotr-kotos
@@ -266,24 +292,30 @@ kovala,Kovacs,Laszlo,Laszlo Kovacs,1946-05-14,HUN, ,HUN,___
 kowaal,Kowalski,Aleksander,Aleksander Kowalski,1897-01-15,POL, ,POL,___
 kowajo,Kowal,Józef,Józef Kowal,1913-03-20,POL, ,POL,___
 kowama,Kowalczyk,Marek,Marek Kowalczyk,1957-01-02,POL, ,POL,___
+kowasl,Kowalewski,Slawomir,Slawomir Kowalewski, ,POL, ,POL,slawomir-kowalewski
 kowazy,Kowalski,Zygmunt,Zygmunt Kowalski,1903-04-11,POL, ,POL,___
 kozast,Kozak,Stanisław,Stanisław Kozak, ,POL, ,POL,___
+kozial,Kozieł,Aleksander,Aleksander Kozieł,09/01/1998,POL,Kielce,POL,aleksander-koziel
 kozlan,Kozlowski,Andrzej,Andrzej Kozlowski,1959-09-14,POL, ,POL,___
 krasse,Krasny,Sebastian,Sebastian Krasny, ,POL, ,POL,sebastian-krasny
 krawfr,Krawczyk,Franciszek,Franciszek Krawczyk,1935-01-01,POL, ,POL,___
 krawma,Krawczyk,Marian,Marian Krawczyk, ,POL, ,POL,___
 kreisz,Kreicarek,Szczepan,Szczepan Kreicarek, ,POL, ,POL,___
 kropbo,Kropicki,Bolesław,Bolesław Kropicki, ,POL, ,POL,___
+krucda,Kruczyński,Daniel,Daniel Kruczyński, ,POL, ,POL,daniel-kruczynski
 krucwa,Kruczkowski,Waclaw,Waclaw Kruczkowski,1932-09-20,POL,Katowice (Bytom),POL,___
 krukfr,Krukowski,Franciszek,Franciszek Krukowski, ,POL, ,POL,___
+krumda,Krumplewski,Damian,Damian Krumplewski, ,POL, ,POL,damian-krumplewski
 krumja,Krumholz,Jakub,Jakub Krumholz, ,POL, ,POL,___
 krusja,Kruszynski,Janusz,Janusz Kruszynski,1935-01-01,POL,Wroclaw,POL,___
+kryvdm,Kryvushkin,Dmytro,Dmytro Kryvushkin,09/06/1984,UKR, ,UKR,dmytro-kryvushkin
 krzefr,Krzemien,Franciszek,Franciszek Krzemien, ,POL, ,POL,___
 krztwo,Krztoń,Wojciech,Wojciech Krztoń, ,POL, ,POL,wojciech-krzton
 kubakl,Kubanek,Klaus,Klaus Kubanek,1943-01-01,POL, ,POL,___
 kubija,Kubiak,Jacek,Jacek Kubiak,1949-01-01,POL,Szczecin,POL,___
 kuchwa,Kuchar,Waclaw,Waclaw Kuchar,1897-09-16,POL, ,POL,___
 kucxeu,Kuc,Eugeniusz,Eugeniusz Kuc, ,POL, ,POL,___
+kuklpa,Kukla,Pawel,Pawel Kukla, ,POL, ,POL,pawel-kukla
 kukuwi,Kukucki,Witold,Witold Kukucki, ,POL, ,POL,___
 kulata,Kula,Tadeusz,Tadeusz Kula, ,POL, ,POL,___
 kulced,Kulczyk,Edward,Edward Kulczyk, ,POL, ,POL,___
@@ -313,6 +345,7 @@ lazoja,Lazowski,Jan,Jan Lazowski,1925-12-27,POL,Warszawa,POL,___
 lekkba,Lekki,Bartłomiej,Bartłomiej Lekki, ,POL, ,POL,bartlomiej-lekki
 lenist,Leniewicz,Stanislaw,Stanislaw Leniewicz, ,POL,Krakow,POL,___
 lerata,Leracz,Tadeusz,Tadeusz Leracz,1902-01-01,POL, ,POL,___
+lewale,Lewandowski,Leszek,Leszek Lewandowski, ,POL, ,POL,leszek-lewandowski
 lewaz.,Lewandowski,Z.,Z. Lewandowski, ,POL, ,POL,___
 libian,Libich,Andrzej,Andrzej Libich,1942-01-11,POL,Warszawa,POL,___
 lidery,Lider,Ryszard,Ryszard Lider,1934-01-02,POL,Bialystok,POL,___
@@ -324,6 +357,7 @@ lisoma,Lisowski,Marcin,Marcin Lisowski, ,POL, ,POL,marcin-lisowski
 listmi,Listkiewicz,Michal,Michal Listkiewicz,1953-05-20,POL,Warszawa,POL,___
 listto,Listkiewicz,Tomasz,Tomasz Listkiewicz,06/10/1978,POL, ,POL,tomasz-listkiewicz
 liszjo,Liszka,Józef,Józef Liszka, ,POL,Katowice,POL,___
+lizasz,Lizak,Szymon,Szymon Lizak, ,POL, ,POL,szymon-lizak
 losile,Losiak,Leon,Leon Losiak,1900-01-01,POL, ,POL,___
 lothst,Loth,Stefan,Stefan Loth,1896-05-28,POL, ,POL,___
 lozowl,Lozowski,Wlodzimierz,Wlodzimierz Lozowski, ,POL,Warszawa,POL,___
@@ -346,8 +380,10 @@ mandma,Mandl, ,Mandl, ,POL, ,POL,___
 marcar,Marczewski,Artur,Artur Marczewski,1896-06-03,POL, ,POL,___
 marcj1,Marcinkowski,Janusz,Janusz Marcinkowski,1925-05-15,POL, ,POL,___
 marcja,Marchwiński,Jan,Jan Marchwiński,0000-00-00,POL, ,POL,___
+marcro,Marciniak,Robert,Robert Marciniak,23/02/1978,POL,Chełm,POL,robert-marciniak
 marcst,Marciniak,Stanisław,Stanisław Marciniak,1910-03-22,POL, ,POL,___
 marcsz,Marciniak,Szymon,Szymon Marciniak,07/01/1981,POL, ,POL,szymon-marciniak
+marcto,Marciniak,Tomasz,Tomasz Marciniak,18/10/1984,POL, ,POL,tomasz-marciniak
 marczb,Marczyk,Zbigniew,Zbigniew Marczyk,20/06/1958,POL, ,POL,zbigniew-marczyk
 markma,Markiewicz, ,Markiewicz, ,POL, ,POL,___
 markta,Markowicz,Tadeusz,Tadeusz Markowicz,1921-12-23,POL, ,POL,___
@@ -357,6 +393,7 @@ mastst,Mastaj,Stanislaw,Stanislaw Mastaj,1927-08-01,POL,Krakow (Bochnia),POL,___
 matoma,Matonóg,Marcin,Marcin Matonóg,1935-01-01,POL,Warszawa,POL,___
 matust,Matuszewski,Stanisław,Stanisław Matuszewski, ,POL, ,POL,___
 matyal,Matysik,Alfons,Alfons Matysik, ,POL, ,POL,___
+maysja,Małyszek,Jacek,Jacek Małyszek,23/07/1979,POL,Lublin,POL,jacek-malyszek
 mazubo,Mazur,Borys,Borys Mazur, ,POL, ,POL,___
 meisme,Meisner, ,Meisner, ,POL, ,POL,___
 michub,Micheľ,Ľuboš,Ľuboš Micheľ,16/05/1968,SVK,Stropkov,SVK,ubos-miche
@@ -383,6 +420,7 @@ musizy,Musiolik,Zygmunt,Zygmunt Musiolik, ,POL, ,POL,___
 muszja,Muszkat,Jan,Jan Muszkat, ,POL, ,POL,___
 mycxwo,Myć,Wojciech,Wojciech Myć,11/11/1989,POL, ,POL,wojciech-myc
 myrmkr,Myrmus,Krysztof,Krysztof Myrmus,04/06/1974,POL, ,POL,krysztof-myrmus
+myszma,Myszka,Mariusz,Mariusz Myszka,08/02/1989,POL, ,POL,mariusz-myszka
 mytnju,Mytnik,Julian,Julian Mytnik,1911-11-24,POL, ,POL,___
 nagybe,Nagy,Bela,Bela Nagy,1937-02-26,HUN, ,HUN,___
 nalean,Należnik,Andrzej,Andrzej Należnik,1957-10-31,POL, ,POL,___
@@ -402,6 +440,7 @@ nowaan,Nowak,Antoni,Antoni Nowak, ,POL, ,POL,___
 nowami,Nowak,Michal,Michal Nowak,1959-02-20,POL, ,POL,___
 nowata,Nowak,Tadeusz,Tadeusz Nowak, ,POL, ,POL,___
 nowawi,Nowak,Witold,Witold Nowak,1934-01-01,POL, ,POL,___
+nyxxsz,Łężny,Szymon,Szymon Łężny,16/07/1995,POL, ,POL,szymon-lezny
 obruaj,Obrubanski,Adam Jozej,Adam Jozej Obrubanski,1892-12-18,POL, ,POL,___
 obstfr,Obst,Franciszek,Franciszek Obst, ,POL, ,POL,___
 obukmi,Obukowicz,Michał,Michał Obukowicz, ,POL, ,POL,michal-obukowicz
@@ -410,6 +449,7 @@ ogoran,Ogorzewski,Andrzej,Andrzej Ogorzewski,1936-09-01,POL, ,POL,___
 olecma,Olech,Marek,Marek Olech,1958-09-10,POL, ,POL,___
 olewzb,Olewski,Zbigniew,Zbigniew Olewski,1904-07-14,POL, ,POL,___
 olsipa,Olšiak,Pavel,Pavel Olšiak,28/10/1972,SVK, ,SVK,pavel-olsiak
+opalma,Opaliński,Marek,Marek Opaliński, ,POL,Legnica,POL,marek-opalinski
 ordyan,Ordysinski,Andrzej,Andrzej Ordysinski,1942-02-06,POL, ,POL,___
 orlian,Orlicz,Andrzej,Andrzej Orlicz,1942-01-01,POL,Kielce,POL,___
 orlior,Orliński, ,Orliński, ,POL, ,POL,___
@@ -417,6 +457,7 @@ orloka,Orlowski,Kazimierz,Kazimierz Orlowski,1947-01-01,POL,Lublin,POL,___
 osadje,Osada,Jerzy,Jerzy Osada, ,POL,Rzeszow,POL,___
 osiata,Osiadacz,Tadeusz,Tadeusz Osiadacz, ,POL,Gdanak,POL,___
 ostoed,Ostolski,Edward,Edward Ostolski,1946-01-01,POL,Katowice,POL,___
+ostruk,Ostrowski,Łukasz,Łukasz Ostrowski, ,POL, ,POL,lukasz-ostrowski
 ottozy,Otto,Zygmunt,Zygmunt Otto, ,POL, ,POL,___
 p_c4ja,Pągowski,Jan,Jan Pągowski,1949-08-19,POL, ,POL,___
 p_c4pc,Pęcak, ,Pęcak, ,POL, ,POL,___
@@ -429,10 +470,13 @@ paprle,Paprocki,Lech,Lech Paprocki,1939-11-29,POL, ,POL,___
 paseju,Pasek,Julian,Julian Pasek,1953-09-02,POL, ,POL,___
 pasima,Pasierski,Marceli,Marceli Pasierski,1920-01-01,POL, ,POL,___
 paszka,Paszke,Kazimierz,Kazimierz Paszke, ,POL, ,POL,___
+paszko,Paszkiewicz,Kornel,Kornel Paszkiewicz,31/10/1985,POL, ,POL,kornel-paszkiewicz
 paszst,Paszkowski,Stefan,Stefan Paszkowski, ,POL, ,POL,___
 pawihe,Pawiłowski,Henryk,Henryk Pawiłowski,1959-06-03,POL, ,POL,___
 pawlja,Pawlik,Jan,Jan Pawlik, ,POL, ,POL,___
+pazdpi,Pazdecki,Piotr,Piotr Pazdecki,12/07/1996,POL, ,POL,piotr-pazdecki
 pekata,Pekala,Tadeusz,Tadeusz Pekala, ,POL,Katowice,POL,___
+pelkma,Pelka,Maciej,Maciej Pelka,09/08/1989,POL, ,POL,maciej-pelka
 perekr,Perek,Krzysztof,Krzysztof Perek,1946-08-03,POL,Poznan,POL,___
 perzst,Perz,Stanislaw,Stanislaw Perz,1939-01-01,POL,Gdansk,POL,___
 pi_cja,Piłocik,Jan,Jan Piłocik, ,POL, ,POL,___
@@ -444,6 +488,8 @@ pieted,Pietsch,Edmund,Edmund Pietsch, ,POL, ,POL,___
 piotbr,Piotrowicz,Bruno,Bruno Piotrowicz,1930-01-01,POL,Katowice,POL,___
 piotmi,Piotrowski,Mieczyslaw,Mieczyslaw Piotrowski,1953-12-28,POL,Warszawa,POL,___
 piotst,Piotrowski,Stanislaw,Stanislaw Piotrowski,1893-02-02,POL, ,POL,___
+piszma,Piszczelok,Mateusz,Mateusz Piszczelok, ,POL, ,POL,mateusz-piszczelok
+podbpi,Podbielski,Piotr,Piotr Podbielski, ,POL, ,POL,piotr-podbielski
 podgma,Podgorski,Mariusz,Mariusz Podgorski,13/11/1975,POL, ,POL,mariusz-podgorski
 podgst,Podgórski,Stanislaw,Stanislaw Podgórski,1948-01-01,POL,Wroclaw,POL,___
 pogoal,Pogodowski,Aleksander,Aleksander Pogodowski, ,POL, ,POL,___
@@ -469,6 +515,7 @@ radzar,Radziszewski,Artur,Artur Radziszewski,01/11/1972,POL, ,POL,artur-radzisze
 raetal,Raettig,Alfons,Alfons Raettig,1900-10-16,POL, ,POL,___
 rajple,Rajpold,Leonard,Leonard Rajpold,0000-00-00,POL, ,POL,___
 rapama,Rapa,Marian,Marian Rapa,0000-00-00,POL, ,POL,___
+rasmsy,Rasmus,Sylwester,Sylwester Rasmus, ,POL, ,POL,sylwester-rasmus
 rebiry,Rebilas,Ryszard,Ryszard Rebilas,1957-10-13,POL, ,POL,___
 redzsl,Redzinski,Slawomir,Slawomir Redzinski,1956-09-26,POL, ,POL,___
 rekxgr,Rek,Grzegorz,Grzegorz Rek,1950-01-01,POL, ,POL,___
@@ -476,6 +523,7 @@ rewual,Rewucki,Aleksander,Aleksander Rewucki, ,POL, ,POL,___
 richal,Richter,Alfons,Alfons Richter, ,POL, ,POL,___
 richmi,Richtarik,Miroslav,Miroslav Richtarik,27/04/1963,SVK, ,SVK,miroslav-richtarik
 rokoda,Rokosz,Damian,Damian Rokosz, ,POL, ,POL,damian-rokosz
+rokora,Rokosz,Rafał,Rafał Rokosz, ,POL, ,POL,rafal-rokosz
 romabr,Romanowski,Bronisław,Bronisław Romanowski, ,POL, ,POL,___
 rosabo,Rosa,Bolesław,Bolesław Rosa, ,POL, ,POL,boleslaw-rosa
 rosero,Rosenstock, ,Rosenstock, ,POL, ,POL,___
@@ -486,10 +534,12 @@ rudywo,Rudy,Wojciech,Wojciech Rudy,1952-10-24,POL,Katowice,POL,___
 rumpju,Rumpler,Julian,Julian Rumpler, ,POL,Krakow,POL,___
 rutkan,Rutkowski,Andrzej,Andrzej Rutkowski,1894-11-09,POL, ,POL,___
 rutkju,Rutkowski,Julian,Julian Rutkowski, ,POL,Krakow,POL,___
+ryckal,Różycki,Albert,Albert Różycki, ,POL, ,POL,albert-rozycki
 rynkja,Rynkiewicz,Jaroslav,Jaroslav Rynkiewicz, ,POL, ,POL,jaroslav-rynkiewicz
 ryszmi,Ryszka,Miroslaw,Miroslaw Ryszka,26/01/1960,POL, ,POL,miroslaw-ryszka
 ryzema,Ryzek,Marek,Marek Ryzek,07/04/1969,POL, ,POL,marek-ryzek
 rzasrz,Rzasa, ,Rzasa, ,POL, ,POL,___
+rzucpi,Rzucidło,Piotr,Piotr Rzucidło,28/04/1990,POL, ,POL,piotr-rzucidlo_2
 s_c5sa,Sławikowski, ,Sławikowski, ,POL, ,POL,___
 sadoja,Sadowicz,Jan,Jan Sadowicz,1947-01-01,POL,Tarnow,POL,___
 sadosa,Sadowski, ,Sadowski, ,POL, ,POL,___
@@ -561,6 +611,7 @@ swisje,Swistek,Jerzy,Jerzy Swistek,1931-09-20,POL,Przemysl,POL,___
 sylwda,Sylwestrzak,Damian,Damian Sylwestrzak,16/03/1992,POL, ,POL,damian-sylwestrzak
 szczan,Szczelkun,Andrzej,Andrzej Szczelkun,1955-09-24,POL, ,POL,___
 szczlu,Szczech,Łukasz,Łukasz Szczech,11/05/1984,POL,Pisz,POL,lukasz-szczech
+szczma,Szczerbowicz,Marcin,Marcin Szczerbowicz,22/08/1985,POL,Olsztyn,POL,marcin-szczerbowicz
 szczs1,Szczepanski, ,Szczepanski, ,POL, ,POL,___
 szczsz,Szczerzynski, ,Szczerzynski, ,POL,d. Szczur,POL,___
 szlejo,Szlejfer,Józef,Józef Szlejfer,1908-01-01,POL, ,POL,___
@@ -574,10 +625,13 @@ szybwl,Szyba,Wladyslaw,Wladyslaw Szyba,1894-01-26,POL, ,POL,___
 szyced,Szyc,Edmund,Edmund Szyc, ,POL, ,POL,___
 szydar,Szydlowski,Artur,Artur Szydlowski,25/08/1972,POL, ,POL,artur-szydlowski
 szymgr,Szymanski,Grzegorz,Grzegorz Szymanski,1974-07-23,POL, ,POL,___
+szyppi,Szypula,Piotr,Piotr Szypula, ,POL, ,POL,piotr-szypula
 tarcst,Tarczynski,Stefan,Stefan Tarczynski, ,POL, ,POL,___
+tarnse,Tarnowski,Sebastian,Sebastian Tarnowski,16/05/1979,POL, ,POL,sebastian-tarnowski
 terkle,Terk,Leonard,Leonard Terk,1902-01-01,POL, ,POL,___
 terlro,Terlecki,Roman,Roman Terlecki, ,POL, ,POL,___
 tobeze,Tobera,Zenon,Zenon Tobera,1953-12-19,POL, ,POL,___
+torean,Toreniewski,Andrzej,Andrzej Toreniewski, ,POL, ,POL,andrzej-toreniewski
 trocra,Trochimiuk,Radosław,Radosław Trochimiuk,20/03/1982,POL, ,POL,radoslaw-trochimiuk
 trofma,Trofimiec,Mariusz,Mariusz Trofimiec,28/04/1972,POL, ,POL,mariusz-trofimiec
 tryglu,Trygalski,Ludwik,Ludwik Trygalski, ,POL, ,POL,___
@@ -585,6 +639,7 @@ turctu,Turczynski, ,Turczynski, ,POL, ,POL,___
 udvalu,Udvardy,Lubomír,Lubomír Udvardy,30/05/1962,SVK, ,SVK,lubomir-udvardy
 urbaan,Urbaniak,Antoni,Antoni Urbaniak, ,POL, ,POL,___
 urbabe,Urbanski,Bernard,Bernard Urbanski, ,POL, ,POL,___
+urbapi,Urban,Piotr,Piotr Urban,15/02/1987,POL, ,POL,piotr-urban
 urbaur,Urban, ,Urban, ,POL, ,POL,___
 urbawl,Urbanczyk,Wladyslaw,Wladyslaw Urbanczyk,1938-01-01,POL,Bielsko-Biala,POL,___
 urbazb,Urbanczyk,Zbigniew,Zbigniew Urbanczyk,1954-04-19,POL, ,POL,___
@@ -650,6 +705,7 @@ ziemst,Ziemianski,Stanislaw,Stanislaw Ziemianski,1892-04-07,POL, ,POL,___
 ziobzy,Ziober,Zygmunt,Zygmunt Ziober,1956-10-20,POL, ,POL,___
 ziolwo,Ziolo,Wojciech,Wojciech Ziolo, ,POL, ,POL,___
 zlotma,Złotek,Mariusz,Mariusz Złotek,26/04/1970,POL, ,POL,mariusz-zlotek
+zotnma,Złotnicki,Mateusz,Mateusz Złotnicki, ,POL, ,POL,mateusz-zlotnicki
 zubcal,Zubcow,Aleksander,Aleksander Zubcow, ,POL, ,POL,___
 zweiig,Zweig,Ignacy,Ignacy Zweig, ,POL, ,POL,___
 zyjest,Zyjewski,Stanislaw,Stanislaw Zyjewski,1953-09-19,POL, ,POL,___

@@ -7,7 +7,7 @@ batsan,Andriy,Batsula,1992-02-06,UKR,0,29,F,0,0,0,0,andriy-batsula
 dingdo,Dominik,Dinga,1998-04-07,SRB,0,6,F,0,0,0,0,dominik-dinga
 kalivl,Vladislav,Kalinin,2002-01-14,BLR,0,26,F,0,0,0,0,vladislav-kalinin
 khalni,Nikita,Khalimonchik,2000-01-03,BLR,0,20,F,0,0,0,0,nikita-khalimonchik
-liakul,Uladzislau,Liakh,1999-08-13,BLR,0,19,F,0,0,0,0,uladzislau-liakh
+liakvl,Uladzislau,Liakh,1999-08-13,BLR,0,19,F,0,0,0,0,uladzislau-liakh
 matvse,Sergey,Matvejchik,1988-06-05,BLR,0,33,F,0,0,0,0,sergey-matvejchik
 naumni,Nikita,Naumov,1989-11-15,BLR,0,5,F,0,0,0,0,nikita-naumov
 shitig,Igor,Shitov,1986-10-24,BLR,0,4,F,0,0,0,0,igor-shitov
@@ -17,7 +17,7 @@ demcn1,Nikita,Demchenko,2002-09-06,BLR,0,13,M,0,0,0,0,nikita-demchenko_2
 kislse,Sergey,Kislyak,1987-08-06,BLR,0,10,M,0,0,0,0,sergey-kislyak
 kozlmi,Mikhail,Kozlov,1990-02-12,BLR,0,71,M,0,0,0,0,mikhail-kozlov_2
 kuchko,Konstantin,Kuchinski,1998-07-15,BLR,0,22,M,0,0,0,0,konstantin-kuchinski
-putia1,Anton,Putilo,1987-06-10,BLR,0,14,M,0,0,0,0,anton-putilo
+putian,Anton,Putilo,1987-06-10,BLR,0,14,M,0,0,0,0,anton-putilo
 rovdgl,Gleb,Rovdo,2002-06-04,BLR,0,37,M,0,0,0,0,gleb-rovdo
 selyal,Aleksandr,Selyava,1992-05-17,BLR,0,8,M,0,0,0,0,aleksandr-selyava
 sushan,Anton,Susha,2000-01-25,BLR,0,24,M,0,0,0,0,anton-susha
@@ -54,7 +54,7 @@ costig,Igor,Costrov,1987-08-03,MOL,10,8,M,0,0,0,0,igor-costrov
 isahmu,Musa,Isah,2002-01-04,NGR,10,77,M,0,0,0,0,musa-isah
 mileye,Yevgeniy,Milevskiy,1995-01-14,BLR,10,77,M,0,0,0,0,yevgeniy-milevskiy
 okorjo,Joseph,Okoro,2001-02-17,NGR,10,77,M,0,0,0,0,joseph-okoro
-pobuv1,Vadim,Pobudey,1994-12-17,BLR,10,10,M,0,0,0,0,vadim-pobudey
+pobuva,Vadim,Pobudey,1994-12-17,BLR,10,10,M,0,0,0,0,vadim-pobudey
 tsespa,Pavel,Tseslyukevich,1995-05-11,BLR,10,7,M,0,0,0,0,pavel-tseslyukevich
 vaskar,Artiom,Vaskov,1988-10-21,BLR,10,22,M,0,0,0,0,artiom-vaskov
 vasyol,Oleksandr,Vasyliev,1994-04-27,UKR,10,19,M,0,0,0,0,oleksandr-vasyliev
@@ -168,7 +168,7 @@ willjo, ,William,1996-06-11,BRA,144,4,F,0,0,0,0,william_8
 cherki,Kirill,Chernook,2003-01-02,BLR,144,44,M,0,0,0,0,kirill-chernook
 grecde,Denis,Grechikho,1999-05-22,BLR,144,19,M,0,0,0,0,denis-grechikho
 jovifi,Filip,Jović,1997-08-06,SRB,144,25,M,0,0,0,0,filip-jovic
-konta3,Artem,Kontsevoy,1999-08-26,BLR,144,20,M,0,0,0,0,artem-kontsevoy
+konta2,Artem,Kontsevoy,1999-08-26,BLR,144,20,M,0,0,0,0,artem-kontsevoy
 kovad3,Denis,Kovalevich,2003-03-29,BLR,144,14,M,0,0,0,0,denis-kovalevich
 miroar,Artem,Miroevski,1999-05-31,BLR,144,31,M,0,0,0,0,artem-miroevski
 sderha,Hampus,Söderström,2000-11-07,SWE,144,8,M,0,0,0,0,hampus-soederstroem
@@ -205,7 +205,7 @@ bashmi,Mikhail,Bashilov,1993-01-12,RUS,15,8,M,0,0,0,0,mikhail-bashilov
 maliko,Konstantin,Malitskiy,2000-05-20,RUS,15,99,M,0,0,0,0,konstantin-malitskiy
 manibi,Bi,Mani,2001-12-17,CIV,15,25,M,0,0,0,0,bi-mani
 mawaje,Jérémy,Mawatu,1997-08-12,FRA,15,10,M,0,0,0,0,jeremy-mawatu
-omelma,Maxim,Omelyanchuk,2003-09-05,BLR,15,77,M,0,0,0,0,maxim-omelyanchuk
+omelm1,Maxim,Omelyanchuk,2003-09-05,BLR,15,77,M,0,0,0,0,maxim-omelyanchuk
 prokev,Evgeniy,Prokopchik,1993-03-13,BLR,15,14,M,0,0,0,0,evgeniy-prokopchik
 rylaan,Andrey,Rylach,2002-06-05,BLR,15,7,M,0,0,0,0,andrey-rylach
 sovpva,Vasili,Sovpel,1999-03-23,BLR,15,23,M,0,0,0,0,vasili-sovpel
@@ -326,7 +326,7 @@ nekhpa,Pavel,Nekhaychik,1988-05-17,BLR,1,33,M,0,0,0,0,pavel-nekhaychik
 noskal,Aleksey,Nosko,1996-08-15,BLR,1,22,M,0,0,0,0,aleksey-nosko
 volkse,Sergey,Volkov,1999-01-27,BLR,1,6,M,0,0,0,0,sergey-volkov_2
 willwt,Willum Þór,Willumsson,1998-10-23,ISL,1,18,M,0,0,0,0,willum-thor-willumsson
-yable1,Evgeniy,Yablonskiy,1995-05-10,BLR,1,5,M,0,0,0,0,evgeniy-yablonskiy
+yablev,Evgeniy,Yablonskiy,1995-05-10,BLR,1,5,M,0,0,0,0,evgeniy-yablonskiy
 miline,Nemanja,Milić,1990-05-25,SRB,1,26,A,0,0,0,0,nemanja-milic
 saroan,Anton,Saroka,1992-03-05,BLR,1,11,A,0,0,0,0,anton-saroka
 signni,Nikolay,Signevich,1992-02-20,BLR,1,13,A,0,0,0,0,nikolay-signevich
@@ -361,7 +361,7 @@ darbde,Dembo,Darboe,1998-08-17,GAM,3,88,M,0,0,0,0,dembo-darboe
 diasgi,Giorgi,Diasamidze,1992-05-08,GEO,3,11,M,0,0,0,0,giorgi-diasamidze
 djoudi,Didine,Djouhary,1999-02-08,FRA,3,11,M,0,0,0,0,didine-djouhary
 ivanig,Igor,Ivanović,1997-07-28,SRB,3,7,M,0,0,0,0,igor-ivanovic_2
-kendy1,Yuriy,Kendysh,1990-06-10,BLR,3,77,M,0,0,0,0,yuriy-kendysh
+kendyu,Yuriy,Kendysh,1990-06-10,BLR,3,77,M,0,0,0,0,yuriy-kendysh
 korzni,Nikita,Korzun,1995-03-06,BLR,3,18,M,0,0,0,0,nikita-korzun
 sotnvi,Viktor,Sotnikov,2001-07-27,BLR,3,17,M,0,0,0,0,viktor-sotnikov
 stasih,Ihar,Stasevich,1985-10-21,BLR,3,22,M,0,0,0,0,ihar-stasevich
@@ -498,7 +498,7 @@ stepro,Roman,Stepanov,1991-08-06,BLR,5,25,P,0,0,0,0,roman-stepanov_2
 tretgl,Gleb,Tretyak,2003-02-01,BLR,5,16,P,0,0,0,0,gleb-tretyak
 affiya,Yann,Affi,1995-11-11,CIV,5,3,F,0,0,0,0,yann-affi
 bayddm,Dmitri,Bayduk,1996-08-03,BLR,5,19,F,0,0,0,0,dmitri-bayduk
-gaydv1,Vitaliy,Gayduchik,1989-07-12,BLR,5,24,F,0,0,0,0,vitaliy-gayduchik
+gaydvi,Vitaliy,Gayduchik,1989-07-12,BLR,5,24,F,0,0,0,0,vitaliy-gayduchik
 gribni,Nikita,Gribov,2002-05-25,BLR,5,24,F,0,0,0,0,nikita-gribov
 khacye,Yevhen,Khacheridi,1987-07-28,UKR,5,34,F,0,0,0,0,yevhen-khacheridi
 poznal,Alexandr,Poznyak,1994-07-23,BLR,5,72,F,0,0,0,0,alexandr-poznyak

@@ -161,7 +161,7 @@ madias,Madibo,Assim,1996-10-22,QAT,30, , ,0,0,0,0,    0,0,2,0,0,0,0,0,0
 moucda,Mouchamps,Damien,1996-01-10,BEL,30,13,A,1,0,1,0,   13,0,9,0,0,0,0,0,0
 mulure,Mulumba,Rémi,1992-11-02,DRC,30,6,M,7,7,0,0,  619,6,0,0,0,0,0,4,0
 niasba,Niasse,Babacar,1996-12-20,SEN,30,30,P,2,1,1,0,  135,1,25,-4,0,0,0,1,0
-nuruam,Nurudeen,Abdul Manaf,1999-02-08,GHA,30,33,P,0,0,0,0,    0,0,4,0,0,0,0,0,0
+nuruab,Nurudeen,Abdul,1999-02-08,GHA,30,33,P,0,0,0,0,    0,0,4,0,0,0,0,0,0
 ocaner,Ocansey,Eric,1997-08-22,GHA,30,28,A,28,28,0,6, 2337,19,0,0,0,0,0,4,0
 peybma,Peybernes,Mathieu,1990-10-21,FRA,30,3,F,5,5,0,0,  414,3,0,0,0,0,0,2,0
 raspfl,Raspentino,Florian,1989-06-06,ALG,30,19,A,9,5,4,2,  441,0,2,0,0,0,0,0,0
@@ -246,7 +246,6 @@ yarero,Yaremchuk,Roman,1995-11-27,UKR,6,17,A,32,24,8,9, 2014,13,3,0,0,1,0,5,0
 ajagab,Ajagun,Abdul,1993-02-10,NGR,22,8,M,26,24,2,3, 2047,16,3,0,0,0,0,4,0
 atalyo,Atal,Youcef,1996-05-17,ALG,22,24,F,8,4,4,0,  428,4,6,0,0,0,0,2,0
 azoula,Azouni,Larry,1994-03-23,FRA,22,20,M,16,10,6,1,  878,6,8,0,0,0,0,3,1
-brughv,Bruggen,Hannes Van der,1993-04-01,BEL,22,14,M,29,29,0,0, 2554,25,0,0,0,0,0,7,0
 bruzse,Bruzzese,Sébastien,1989-03-01,BEL,22,1,P,0,0,0,0,    0,0,26,0,0,0,0,0,0
 buddde,Budde,Denzel,1997-04-08,NED,22,29,F,1,1,0,0,   90,1,1,0,-1,0,0,1,0
 budkpy,Budkovsky,Pylyp,1992-03-10,UKR,22, , ,12,5,7,1,  522,3,9,0,0,0,0,3,0
@@ -274,9 +273,11 @@ rouglu,Rougeaux,Lucas,1994-03-10,FRA,22,6,F,18,15,3,0, 1349,14,4,0,0,0,0,5,1
 stojjo,Stojanović,Jovan,1992-04-21,SRB,22,11,M,16,7,9,4,  756,1,9,0,0,1,0,4,0
 eenolv,Van Eenoo,Lukas,1991-02-06,BEL,22, , ,3,0,3,0,   22,0,10,0,0,0,0,0,0
 looxav,Van Loo,Anthony,1988-10-05,BEL,22,31,F,7,7,0,0,  603,5,6,0,0,0,0,1,0
+brughv,Van der Bruggen,Hannes,1993-04-01,BEL,22,14,M,29,29,0,0, 2554,25,0,0,0,0,0,7,0
 verbbr,Verboom,Bryan,1992-01-30,BEL,22,23,F,16,10,6,0,  960,8,9,0,0,0,0,3,0
 bencam,Benchaib,Amine,1998-06-18,BEL,10,28,M,19,10,9,2,  961,3,4,0,0,0,0,5,0
 bibutm,Bibuangu,Tracy Mpati,1992-03-21,BEL,10,35,F,19,17,2,0, 1484,14,4,0,0,0,0,1,1
+jrxxjc,Cevallos,José,1995-01-18,ECU,10,10,M,5,5,0,1,  427,3,0,0,0,0,0,1,0
 prycsd,De Prycker,Sander,1998-02-16,BEL,10,5,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
 riddsd,De Ridder,Steve,1987-02-25,BEL,10,22,M,27,26,1,5, 2253,19,0,0,0,0,0,5,0
 sutttd,De Sutter,Tom,1985-07-03,BEL,10,9,A,27,14,13,2, 1232,3,0,0,0,0,0,3,0
@@ -285,7 +286,6 @@ enohle,Enoh,Lewis,1992-10-23,CMR,10,29,A,12,4,8,0,  415,1,1,0,0,0,0,2,0
 filija,Filipović,Jakov,1992-10-17,CRO,10,25,F,26,26,0,1, 2340,26,0,0,-1,0,0,2,0
 geenbo,Geens,Bo,1995-08-10,BEL,10,39,P,0,0,0,0,    0,0,3,0,0,0,0,0,0
 huppgu,Hupperts,Guus,1992-04-25,NED,10,17,A,17,13,4,2, 1091,3,4,0,0,0,0,1,0
-jrxxjc,Jr.,José Cevallos,1995-01-18,ECU,10,10,M,5,5,0,1,  427,3,0,0,0,0,0,1,0
 kehlsa,Kehli,Sami,1991-01-27,FRA,10, , ,16,12,4,1,  991,4,3,0,0,0,0,2,0
 lawayu,Lawal,Yusuf,1998-03-23,NGR,10,24,A,0,0,0,0,    0,0,1,0,0,0,0,0,0
 marelu,Mareček,Lukáš,1990-04-17,CZE,10,23,M,4,4,0,0,  324,2,1,0,0,0,0,0,0
