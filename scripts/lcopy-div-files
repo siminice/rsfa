@@ -1,0 +1,5 @@
+#!/bin/bash
+
+RSFA="67.182.136.159"
+
+cp -v db/{lineups,events}-$1.db catalogs/*catalog-$1.dat catalogs/players.dat /var/www/html/rom/

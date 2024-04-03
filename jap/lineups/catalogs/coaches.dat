@@ -1,6 +1,7 @@
-293
+307
 adacry,Adachi,Ryo,1969-07-02,JAP,Nishinomiya,JAP
 akityu,Akita,Yutaka,1970-08-06,JAP,Aichi,JAP
+ammata,Amma,Takayoshi,1969-05-23,JAP,Hamamatsu,JAP
 antobe,Antoninho, ,1939-02-10,BRA,Lindóia,BRA
 antofr,Antonetti,Frédéric,1961-08-19,FRA,Venzolasca,FRA
 antued,Antunes,Edu,1947-02-05,BRA,Rio de Janeiro,BRA
@@ -24,6 +25,7 @@ carrll,Carreras, ,1972-09-24,SPA,Sant Pol de Mar,SPA
 cereto,Cerezo,Toninho,1955-04-21,BRA,Belo Horizonte,BRA
 champe,Chamusca,Péricles,1965-09-29,BRA,Salvador,BRA
 chanwr,Chang,Woe-ryong,1959-04-05,KOR,Goheung,KOR
+choxgw,Cho,Gwi-jae,1969-01-16,KOR,Kyoto,KOR
 choxkj,Cho,Kwi-Jea,1969-01-16,KOR,Kyoto,JAP
 cklape,Cklamovski,Peter,1978-10-16,AUS,Sydney,AUS
 claran,Clark,Andrew,1974-08-24,AUS,Gosford,AUS
@@ -75,6 +77,7 @@ ishima,Ishii,Masatada,1967-02-01,JAP,Ichihara,JAP
 ishino,Ishizaki,Nobuhiro,1958-03-14,JAP,Hiroshima,JAP
 itoxak,Ito,Akira,1972-09-19,JAP,Saitama,JAP
 ivanra,Ivančević,Radmilo,1950-09-04,SRB, ,SRB
+iwamda,Iwamasa,Daiki,1982-01-30,JAP,Yamaguchi,JAP
 iwaske,Iwase,Ken,1975-07-08,JAP,Gunma,JAP
 janswi,Jansen,Wim,1946-10-28,NED,Rotterdam,NED
 joenja,Jönsson,Jan,1960-05-24,SWE,Halmstad,SWE
@@ -92,6 +95,7 @@ katato,Katanosaka,Tomohiro,1971-04-18,JAP,Kagoshima,JAP
 katoh1,Kato,Hiroshi,1951-01-29,JAP,Kume,JAP
 katohi,Kato,Hisashi,1956-04-24,JAP,Miyaji,JAP
 katono,Kato,Nozomu,1969-10-07,JAP,Miyagi,JAP
+kawake,Kawai,Kenta,1981-06-07,JAP,Ehime,JAP
 kawary,Kawakatsu,Ryoichi,1958-04-05,JAP,Kyoto,JAP
 kazaya,Kazama,Yahiro,1961-10-16,JAP,Shizuoka,JAP
 kerngu,Kern,Günter,1958-08-25,GER,Berchtesgaden,GER
@@ -109,6 +113,7 @@ kiyoei,Kiyokumo,Eijun,1950-09-11,JAP,Koshu,JAP
 kobahi,Kobayashi,Hiroshi,1959-03-17,JAP,Ibaraki,JAP
 kobash,Kobayashi,Shinji,1960-08-24,JAP,Nagasaki,JAP
 kobayo,Kobayashi,Yoshiyuki,1978-01-27,JAP,Yono,JAP
+kodaar,Kodama,Arata,1982-10-08,JAP,Osaka,JAP
 koepho,Köppel,Horst,1948-05-17,GER,Stuttgart,GER
 kogiak,Kogiku,Akio,1975-07-07,JAP,Hyogo,JAP
 komami,Komaeda,Mitsuru,1950-04-14,JAP,Iwate,JAP
@@ -133,6 +138,7 @@ matsh1,Matsunaga,Hideki,1964-06-02,JAP, ,JAP
 matshi,Matsuda,Hiroshi,1960-09-02,JAP,Nagasaki,JAP
 matsma,Matsunami,Masanobu,1974-11-21,JAP,Gifu,JAP
 matsna,Matsuyo,Naoki,1974-04-09,JAP,Nara,JAP
+matsri,Matsuhashi,Rikizo,1968-08-22,JAP,Tokyo,JAP
 matssh,Matsunaga,Shigetatsu,1962-08-12,JAP,Hamamatsu,JAP
 matsya,Matsuki,Yasutaro,1957-11-28,JAP,Tokyo,JAP
 mazage,Mazarópi, ,1953-01-27,BRA,Além Paraíba,BRA
@@ -204,19 +210,23 @@ peytge,Peyton,Gerry,1956-05-20,IRL,Birmingham,ENG
 pezzma,Pezzaiuoli,Marco,1968-11-16,GER,Mannheim,GER
 piccne,Píccoli,Néstor,1965-01-20,ARG,Buenos Aires,ARG
 pitaed,Pita, ,1958-08-04,BRA,Nilópolis,BRA
+planpl,Planagumà, ,1980-10-25,SPA,Barcelona,SPA
 poboal,Pobor,Albert,1956-05-29,CRO, ,CRO
 popora,Popović,Ranko,1967-06-26,SRB,Peć,SRB
 postan,Postecoglou,Ange,1965-08-27,AUS,Nea Filadelfeia,GRE
 poyada,Poyatos,Dani,1978-06-23,SPA,Barcelona,SPA
 primbo,Primorac,Boro,1954-12-05,BOS,Mostar,BOS
+puigal,Puig,Albert,1968-04-15,SPA,Cambrils,SPA
 queica,Queiroz,Carlos,1953-03-01,POR,Nampula,MOZ
 rehapa,Řehák,Pavel,1963-10-07,CZE,Praha,CZE
+ricazx,Ricardo,Zé,1971-03-13,BRA,Rio de Janeiro,BRA
 rivero,Rivelino, ,1946-01-01,BRA,São Paulo,BRA
 rochpe,Rocha,Pedro,1942-12-03,URU,Salto,URU
 rodrri,Rodríguez,Ricardo,1974-04-03,SPA,Oviedo,SPA
 sakusa,Sakuma,Satoru,1960-12-12,JAP,Tokyo,JAP
 sancda,Sánchez,Daniel,1953-11-21,FRA,Oujda,MAR
 sandlo,Sandri,Lori,1949-01-29,BRA,Encantado,BRA
+sansma,Sans,Marcel,1982-02-20,SPA,Sant Andreu de Llavaneres,SPA
 satoyo,Sato,Yohei,1972-11-22,JAP,Sendai,JAP
 satoyu,Sato,Yukihiko,1976-05-11,JAP,Fuji,JAP
 sawake,Sawada,Kentaro,1970-05-15,JAP,Kamakura,JAP
@@ -232,6 +242,8 @@ shimta,Shimotaira,Takahiro,1971-12-18,JAP,Gonohe,JAP
 shimyo,Shimojo,Yoshiaki,1954-05-10,JAP,Matsumoto,JAP
 shinyo,Shinoda,Yoshiyuki,1971-06-18,JAP,Yamanashi,JAP
 silvan,Silva,Antônio,1952-08-24,BRA, ,BRA
+skibmi,Skibbe,Michael,1965-08-04,GER,Gelsenkirchen,GER
+skorma,Skorża,Maciej,1972-01-10,POL,Radom,POL
 soarse,Soares,Sérgio,1967-01-11,BRA,São Paulo,BRA
 soejhi,Soejima,Hiroshi,1959-07-26,JAP,Saga,JAP
 solajo,Solari,Jorge,1941-11-11,ARG,Rosario,ARG
@@ -242,6 +254,7 @@ stojdr,Stojković,Dragan,1965-03-03,SRB,Niš,
 suzuhi,Suzuki,Hideto,1974-10-07,JAP,Shizuoka,JAP
 suzuju,Suzuki,Jun,1961-08-17,JAP,Miyagi,JAP
 suzuma,Suzuki,Masakazu,1955-01-01,JAP,Yamanashi,JAP
+takada,Takahashi,Daisuke,1983-09-18,JAP,Fukuoka,JAP
 takake,Takahashi,Kenji,1970-06-05,JAP,Yamagata,JAP
 takash,Takahashi,Shinichiro,1957-10-27,JAP,Hiroshima,JAP
 takata,Takagi,Takuya,1967-11-12,JAP,Minamishibara,JAP
@@ -271,6 +284,7 @@ versja,Versleijen,Jan,1955-12-29,NED,Venlo,NED
 wadaic,Wada,Ichiro,1974-01-31,JAP,Tokyo,JAP
 wadama,Wada,Masahiro,1965-01-21,JAP,Kobe,JAP
 watasu,Watanabe,Susumu,1973-10-10,JAP,Tokyo,JAP
+weilre,Weiler,René,1973-09-13,SUI,Winterthur,SUI
 weismi,Weiß,Michael,1965-03-11,GER,Dannenfels,GER
 wengar,Wenger,Arsène,1949-10-22,FRA,Strasbourg,FRA
 yamama,Yamamoto,Masakuni,1958-04-04,JAP,Numazu,JAP

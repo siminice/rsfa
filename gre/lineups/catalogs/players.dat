@@ -1,7 +1,8 @@
-6499
+6869
 aarana,Aarab,Naïm,1987-05-15,MAR,Brussels,BEL
 aaroaa,Aarón, ,1989-04-26,SPA,Elche,SPA
 abadca,Abad,Carlos,1995-06-28,SPA,Puerto de la Cruz,SPA
+abanle,Abanda,Leroy,2000-06-07,FRA,Le Blanc-Mesnil,FRA
 abanpa,Abanda,Patrice,1978-08-03,CMR,Yaoundé,CMR
 abarge,Abaris,Georgios,1982-04-23,GRE,Naousa,GRE
 abdesa,Abdelsalam,Saado,1997-11-23,GRE, ,GRE
@@ -44,6 +45,7 @@ adefol,Adefemi,Olubayo,1985-08-13,NGR,Lagos,NGR
 adejda,Adejo,Daniel,1989-08-07,NGR,Kachia Kaduna,NGR
 adelde,Adeleye,Dele,1988-12-25,NGR,Lagos,NGR
 ademal,Adem,Ali,2000-06-01,MAC,Skopje,MAC
+adesmu,Adeshina,Mubaraq,2002-01-30,NGR, ,NGR
 adilad,Adilović,Adi,1983-02-20,BOS,Zenica,BOS
 adilmo,Adilehou,Moïse,1995-11-01,BEN,Colombes,FRA
 adriad,Adrianinho, ,1980-07-11,BRA,Jundiaí,BRA
@@ -57,6 +59,7 @@ aganad,Aganović,Adnan,1987-10-03,CRO,Dubrovnik,CRO
 aganda,Aganzo, ,1981-01-10,SPA,Madrid,SPA
 agatma,Agathocleous,Marios,1974-09-08,CYP,Limassol,CYP
 agayam,Agayev,Amir,1992-02-10,ISR,Rishon LeZion,ISR
+agbelu,Agbenyenu,Lumor,1996-08-15,GHA,Accra,GHA
 aggoth,Aggos,Theodoros,1975-11-25,GRE,München,GRE
 agioak,Agiomamitis,Akis,1953-12-18,CYP,Limassol,CYP
 agorge,Agorogiannis,Georgios,1966-05-03,GRE,Larisa,GRE
@@ -78,6 +81,7 @@ aivadi,Aivazidis,Dimitrios,1961-10-07,GRE,Serres,GRE
 ajagab,Ajagun,Abdul,1993-02-10,NGR,Port Harcourt,NGR
 ajdaas,Ajdarević,Astrit,1990-04-17,ALB,Pristina,KOS
 akalka,Akalé,Kanga,1981-03-07,CIV,Abidjan,CIV
+akovst,Aškovski,Stefan,1992-02-24,MAC,Skopje,MAC
 akpoch,Akpom,Chuba,1995-10-09,ENG,London,ENG
 akrian,Akritidis,Anastasios,1959-01-09,GRE, , 
 akrich,Akrivopoulos,Charalampos,1961-09-04,GRE, , 
@@ -123,12 +127,15 @@ alexso,Alexandropoulos,Sotirios,2001-11-26,GRE,Marousi,GRE
 alexth,Alexis,Theodoros,1975-05-06,GRE, ,GRE
 alextz,Alexiou,Tzimis,1958-01-01,GRE,Galatini,GRE
 alexva,Alexiou,Vasilios,1957-01-12,GRE,Trikala,GRE
+alhoni,Alho,Nikolai,1993-03-12,FIN,Helsinki,FIN
 aliatr,Aliatidis,Triantafyllos,1970-07-23,GRE, , 
+alibde,Alibec,Denis,1991-01-05,ROM,Mangalia,ROM
 alibya,Alibasi,Yasin,1985-02-19,GRE, ,GRE
 alikma,Ľalík,Marián,1972-02-07,SVK,Bratislava,SVK
 aliuma,Aliuţă,Marian,1978-02-04,ROM,Bucuresti,ROM
 aliven,Alivodić,Enver,1984-12-27,SRB,Novi Pazar, 
 alixba,Ali,Bala,1968-08-16,NGR, , 
+alixmo,Ali,Mohanad,2000-06-20,IRQ,Baġdād,IRQ
 alixss,Ali,Sofiane Sidi,1995-07-14,FRA, ,FRA
 alkidi,Alkiviadis,Dimitrios,1980-07-23,GRE,Sarandë,ALB
 allaal,Alla,Albi,1993-02-01,GRE,Pogradec,GRE
@@ -140,6 +147,7 @@ almais,Almanidis,Isaak,1971-01-05,GRE,Athen,GRE
 almedi,Almeida,Dinis,1995-05-28,POR,Esposende,POR
 almehu,Almeida,Hugo,1984-05-23,POR,Figueira da Foz,POR
 almial,Almir, ,1991-03-03,BRA, ,BRA
+almosa,Al-Mohaimeed,Samer,2001-04-01,KSA, ,KSA
 alonal,Alonso,Alejandro,1976-02-13,URU, ,URU
 alonar,Alonso,Armando,1984-03-21,CRC,San José,CRC
 alonst,Aloneftis,Stathis,1983-03-29,CYP,Lakatamia,CYP
@@ -156,6 +164,7 @@ alvean,Alves,André,1983-10-15,BRA,Dourados,BRA
 alvebr,Alves,Bruno,1981-11-27,POR,Póvoa de Varzim,POR
 alvega,Álvez,Gabriel,1974-12-26,URU,Montevideo,URU
 alvege,Alves,Geraldo,1980-11-08,POR,Póvoa de Varzim,POR
+alvelu,Alves,Lucas,1992-07-22,BRA,Osasco,BRA
 alvemi,Alvertis,Michalis,1972-04-05,GRE,Athen,GRE
 amaena,Amaefule,Napoleon,1980-12-26,NGR, ,NGR
 amaeth,Amaefule,Thankgod,1984-12-16,NGR, ,NGR
@@ -173,9 +182,11 @@ amorma,Amoroso, ,1974-07-05,BRA,Brasilia,BRA
 amoxpa,Amo,Pablo,1978-01-15,SPA,Madrid,SPA
 ampoko,Amponsah,Kofi,1978-04-23,GHA,Accra,GHA
 amprla,Amprikidis,Lamprianos,1965-07-17,GRE, , 
+amrano,Amrabat,Nordin,1987-03-31,MAR,Naarden,NED
 anaga1,Anagnostopoulos,Andreas,0000-00-00,GRE, , 
 anagal,Anagnostopoulos,Alexandros,1994-08-18,GRE,Athina,GRE
 anagan,Anagnostou,Andreas,1960-05-02,GRE,Grevena,GRE
+anagpa,Anagnostopoulos,Panagiotis,2003-05-16,GRE, ,GRE
 anakdi,Anakoglou,Dimitrios,1991-09-06,GRE,Serres,GRE
 anange,Ananiadis,Georgios,1974-10-16,GRE, , 
 anangi,Ananiadis,Giannis,1970-02-18,GRE, , 
@@ -195,6 +206,7 @@ anasjo,Anastasiadis,John,1968-08-13,AUS,Melbourne,AUS
 anasn1,Anastasopoulos,Nikolaos,1979-08-05,GRE,Thessaloniki,GRE
 anasn2,Anastopoulos,Nikolaos,1958-01-22,GRE,Dafni,GRE
 anasni,Anastasopoulos,Nikos,1993-02-01,GRE,Sparta,GRE
+anasp1,Anastasopoulos,Panagiotis,2003-10-24,GRE, ,GRE
 anaspa,Anastasiadis,Pavlos,0000-00-00,GRE, , 
 anassa,Anastasiadis,Sakis,1961-07-01,GRE,Lefkonas,GRE
 anasv1,Anastasiadis,Vassilios,1974-07-24,GRE,Drama,GRE
@@ -234,6 +246,7 @@ angeg1,Angelopoulos,Giannis,1967-05-14,GRE,Nikea,GRE
 angeg2,Angelis,Georgios,1975-08-18,GRE, , 
 angege,Angelopoulos,Georgios,1997-02-25,GRE,Patras,GRE
 angegi,Angelopoulos,Giannis,1999-05-14,GRE, ,GRE
+angeio,Angelopoulos,Ioannis,1998-04-03,GRE, ,GRE
 angema,Angelinas,Makis,1967-08-18,GRE,Athen,GRE
 angeni,Angeloudis,Nikos,1991-05-14,GRE,Thessaloniki,GRE
 angese,Angelinas,Serafim,1963-06-30,GRE, , 
@@ -245,6 +258,7 @@ angoko,Angos,Konstantinos,1979-06-22,GRE,München,GER
 anguig,Angulo, ,1984-01-26,SPA,Bilbao,SPA
 ansaka,Ansarifard,Karim,1990-04-03,IRN,Ardabil,IRN
 antche,Antchouet,Henry,1979-08-02,GAB,Libreville,GAB
+anthge,Anthoulakis,Georgios,2002-08-10,GRE, ,GRE
 antidr,Antić,Dragan,1963-09-20,CRO,Jelasnica,CRO
 antoch,Antoniou,Christos,1998-02-14,GRE,Athen,GRE
 antog1,Antonopoulos,Giannis,1964-02-15,GRE, , 
@@ -264,15 +278,19 @@ antote,Antonis,Terry,1993-11-26,AUS,Bankstown,AUS
 antoth,Antonakos,Theodoros,1970-07-23,GRE, , 
 antova,Antoniadis,Vasilios,1960-02-04,GRE,Kilkis,GRE
 antoxx,Antoniadis,.,0000-00-00,GRE, , 
+antufa,Antunes,Fabien,1991-11-19,FRA,Paris,FRA
 antuvi,Antunes, ,1987-04-01,POR,Freamunde,POR
 antzg1,Antzas,Georgios,1970-07-21,GRE, , 
 antzge,Antzoulas,Georgios,2000-02-04,GRE,Tripoli,GRE
 antzpa,Antzas,Paraskevas,1976-08-18,GRE,Drama,GRE
 anyfve,Anyfantakis,Venizelos,1983-10-26,GRE, ,GRE
+aorxju,Añor,Juanpi,1994-01-24,VEN,Caracas,VEN
+aosmai,Aosman,Aias,1994-10-21,SYR,Kamishli,SYR
 aponan,Apoño, ,1984-02-13,SPA,Málaga,SPA
 aposal,Apostolopoulos,Alexandros,1991-11-07,GRE,Pyrgos Trifylias,GRE
 aposap,Apostolopoulos,Apostolos,2002-12-11,GRE, ,GRE
 aposch,Apostolidis,Christos,1952-08-06,GRE, , 
+aposg1,Apostolakis,Giannis,2004-09-24,GRE,Rethymno,GRE
 aposga,Apostolidis,Gavril,1989-01-12,GRE, ,GRE
 aposgi,Apostolou,Giannis,1969-01-10,GRE, , 
 aposil,Apostolidis,Ilias,1967-10-04,GRE,Tsakoni,GRE
@@ -333,6 +351,7 @@ aritch,Aritzis,Christos,1970-01-01,GRE, ,
 aritko,Aritzis,Konstantinos,1956-05-06,GRE, , 
 ariygr,Ariyibi,Gregory,1995-01-18,USA,Arlington,USA
 arkoch,Arkoudas,Christos,1990-06-13,GRE,Athen,GRE
+arlizv,Šarlija,Zvonimir,1996-08-29,CRO,Koprivnica,CRO
 armech,Armenis,Christos,1993-06-22,GRE,Velonades,GRE
 armepa,Armenakas,Panagiotis,1998-08-05,AUS,Newport Beach,USA
 armiar,Armiche, ,1988-06-12,SPA,Las Palmas de Gran Canaria,SPA
@@ -357,6 +376,7 @@ ascuca,Ascues,Carlos,1992-06-19,PER,Caracas,PER
 asigma,Asigba,Mark,1990-07-07,GHA,Accra,GHA
 asimle,Asimakis,Leiteris,1988-05-16,GRE, ,GRE
 asladi,Aslanidis,Dimitris,1989-08-16,GRE,Thessaloniki,GRE
+aslaky,Aslanidis,Kyriakos,2002-03-11,GRE,Serres,GRE
 aslani,Aslanidis,Nikos,1993-06-01,GRE, ,GRE
 assejo,Assen,Jourdain,1997-11-16,CMR,Douala,CMR
 assoje,Assoubre,Jean,1992-08-08,CIV,Lakota,CIV
@@ -384,11 +404,13 @@ athaky,Athanasiou,Kyriakos,1970-08-29,GRE, ,
 athaly,Athanasopoulos,Lykourgos,1959-04-22,GRE, , 
 athan1,Athanasopoulos,Nikos,1983-11-30,GRE, ,GRE
 athan2,Athanasiadis,Nikolaos,1952-08-24,GRE, , 
+athan3,Athanasiou,Nikos,2001-03-16,GRE, ,GRE
 athani,Athanasiou,Nikolaos,2001-03-16,GRE, ,GRE
 athast,Athanasiadis,Stefanos,1988-12-24,GRE,Lakkoma,GRE
 athav1,Athanasiou,Vaios,1964-04-26,GRE, , 
 athav2,Athanasiou,Vasilios,1958-05-02,GRE, , 
 athava,Athanasiou,Vasilios,1999-07-24,GRE, ,GRE
+atieat,Atienza, ,1990-01-18,SPA,Córdoba,SPA
 atmael,Atmatsidis,Elias,1969-04-24,GRE,Kozani,GRE
 atmail,Atmatzidis,Ilias,1963-06-19,GRE, , 
 atsava,Atsalis,Vasilis,1984-09-07,GRE, ,GRE
@@ -396,6 +418,7 @@ augudo,Augusto,Douglas,1997-01-13,BRA,Rio de Janeiro,BRA
 aurema,Aurélio,Marco,1983-03-27,BRA,Rio de Janeiro,BRA
 avenju,Avendaño,Juan,1982-10-05,ARG,Laguna Larga,ARG
 avgemi,Avgenikou,Michalis,1993-01-25,GRE,Pastida,GRE
+avgepa,Avgerinos,Panagiotis,2003-04-11,GRE, ,GRE
 avloan,Avlonitis,Anastasios,1990-01-01,GRE,Chalkida,GRE
 avraa1,Avramidis,Anastasios,1971-02-26,GRE, , 
 avraan,Avraam,Andreas,1987-06-06,CYP,Aradipou,CYP
@@ -431,6 +454,7 @@ bagape,Bagalianis,Petros,2001-02-06,GRE,Kallikratia,GRE
 bahana,Baha,Nabil,1981-08-12,MAR,Remiremont,FRA
 bahapa,Bahanack,Patrick,1997-08-03,CMR,Yaoundé,CMR
 bahted,Bahtić,Edin,1956-05-01,BOS,Sarajevo, 
+bahxal,Bah,Algassime,2002-11-12,GUI, ,GUI
 baiaag,Baiano, ,1983-02-12,BRA, ,BRA
 baiagi,Baiaramoglou,Giorgos,1974-05-28,GRE, ,GRE
 baiaru,Baião,Rui,1980-09-04,POR,Montijo,POR
@@ -440,6 +464,7 @@ bajkal,Bajkusa,Alen,1971-06-26,BOS,Sarajevo,BOS
 bajrad,Bajrović,Admir,1995-08-06,SWE,Alvesta,SWE
 bajrem,Bajrami,Emir,1988-03-07,SWE,Prishtina,KOS
 bakaan,Bakasetas,Anastasios,1993-06-28,GRE,Korinthos,GRE
+bakacd,Bakambu,Cédric,1991-04-11,DRC,Ivry-sur-Seine,FRA
 bakage,Bakadimas,Gerasimos,2000-06-06,GRE, ,GRE
 bakaib,Bakayoko,Ibrahima,1976-12-31,CIV,Seguela,CIV
 bakami,Bakakis,Michalis,1991-03-18,GRE,Agrinio,GRE
@@ -447,6 +472,7 @@ bakath,Bakaris,Theodosis,1958-03-02,GRE, ,
 bakige,Bakirtzidis,Georgios,1977-04-25,GRE,Komotini,GRE
 bakike,Bakırcıoğlu,Kennedy,1980-11-02,SWE,Södertälje,SWE
 bakile,Bakirtzidis,Leonidas,0000-00-00,GRE, , 
+bakima,Bakić,Marko,1993-11-01,MNT,Budva,MNT
 bakiod,Bakitas,Odysseas,1965-10-23,GRE, , 
 bakkla,Bakkerud,Lars,1971-06-01,NOR,Larvik,NOR
 bakoap,Bakolas,Apostolos,1993-10-10,GRE, ,GRE
@@ -472,6 +498,7 @@ ballla,Ballenghien,Laurent,1969-12-15,BEL, ,
 ballpa,Ballas,Panagiotis,1993-09-06,GRE,Karditsa,GRE
 baloan,Balogiannis,Andreas,1973-01-16,GRE, , 
 baloch,Balodimos,Christos,1984-06-05,GRE, ,GRE
+balok1,Balomenos,Konstantinos,2002-03-11,GRE,Kilkis,GRE
 baloko,Balogiannis,Konstantinos,1999-02-08,GRE,Thessaloniki,GRE
 baltfo,Baltidis,Fotis,1970-12-24,GRE, , 
 baltgi,Baltimas,Giannis,1975-06-21,GRE,Neos Erineos,GRE
@@ -484,6 +511,7 @@ bamoha,Bamogo,Habib,1982-05-08,BFS,Paris,FRA
 banape,Banasas,Petros,1953-09-07,GRE,Kavala,GRE
 banaya,Banana,Yaya,1991-07-29,CMR,Maroua,CMR
 bandbo,Bandović,Božidar,1969-08-30,SRB,Nikšić,SRB
+bangal,Bangoura,Alhassane,1992-03-30,GUI,Conakry,GUI
 bangsa,Bangoura,Sambegou,1982-04-03,GUI, ,GUI
 banich,Baniotis,Charis,1960-03-27,GRE, , 
 bannpa,Bannon,Paul,1956-11-15,IRL,Dublin,IRL
@@ -494,6 +522,7 @@ bantge,Bantis,Georgios,1985-04-30,GRE,Ierissos,GRE
 bantko,Bantas,Konstantinos,1976-07-16,GRE,Karditsa,GRE
 barakr,Baran,Krzysztof,1960-07-26,POL,Warszawa,POL
 barbad,Barbullushi,Adrian,1968-12-12,ALB, , 
+barbba,Barbosa, ,1999-03-17,BRA,Anápolis,BRA
 barbch,Barbas,Christos,0000-00-00,GRE, , 
 barbdi,Barbalias,Dimitrios,1961-03-06,GRE,Athen,GRE
 barbhe,Barbosa,Hélder,1987-05-25,POR,Paredes,POR
@@ -526,6 +555,7 @@ basage,Basagiannis,Georgios,1962-08-03,GRE, ,
 basbat,Basbanas,Athanasios,1965-04-16,GRE, , 
 basddi,Basdanis,Dimitrios,1976-07-05,GRE, , 
 bashmi,Basha,Migjen,1987-01-05,ALB,Lausanne,SUI
+bashvu,Basha,Vullnet,1990-07-11,ALB,Lausanne,SUI
 basian,Basinas,Angelos,1976-01-03,GRE,Spata,GRE
 basidi,Basiaridis,Dimitrios,0000-00-00,GRE, , 
 basist,Basinas,Stefanos,1968-10-23,GRE,Pournos Evias,GRE
@@ -546,6 +576,7 @@ batida,Batista,Daniel,1964-09-09,GRE,Praia,CVE
 batrgi,Batris,Giorgos,1980-03-21,GRE, ,GRE
 batsko,Batsinilas,Konstantinos,1963-02-12,GRE,Piräus,GRE
 batsth,Batsoulas,Thomas,1974-01-09,GRE, , 
+battcr,Battocchio,Cristian,1992-02-10,ITA,Rosario,ARG
 battro,Battión,Roberto,1982-03-01,ARG,Santa Fe,ARG
 baumjo,Bauman,Jonathan,1991-03-30,ARG,Sunchales,ARG
 baxedi,Baxevanidis,Dimosthenis,1988-04-14,GRE,Komotini,GRE
@@ -583,6 +614,7 @@ bekipa,Bekiaris,Panagiotis,1980-07-08,GRE,Thessaloniki,GRE
 bekoat,Bekos,Athanasios,1971-12-31,GRE,Kalogriana,GRE
 belast,Belajić,Stojan,1969-04-17,CRO,Rijeka,CRO
 belati,Belaïd,Tijani,1987-09-06,TUN,Paris,FRA
+belech,Belevonis,Christos,2002-07-29,GRE,Heraklion,GRE
 belege,Belevonis,Gerasimos,1975-12-19,GRE, ,GRE
 belero,Belém,Rogério,1975-03-28,BRA,Belém,BRA
 beles1,Beleck,Steve,1993-02-10,CMR,Yaoundé,CMR
@@ -603,10 +635,12 @@ bellfr,Bellocq,Franco,1993-10-15,ARG,General Levalle,ARG
 bellge,Bellis,Georgios,1969-04-18,GRE, , 
 belllo,Bellos,Loukas,1958-02-07,GRE, , 
 bellxx,Bellis,.,0000-00-00,GRE, , 
+belman,Belmonte,Anthony,1995-10-16,FRA,Istres,FRA
 beloda,Belotti,Davide,1972-05-24,ITA,Bollate,ITA
 belsal,Belsué, ,1968-03-02,SPA,Zaragoza,SPA
 benaho,Benali,Houssine,1969-08-15,MAR, ,MAR
 benayo,Benalouane,Yohan,1987-03-28,TUN,Bagnols-sur-Cèze,FRA
+benias,Benito,Asier,1995-02-11,SPA,Amurrio,SPA
 benife,Benítez,Fernando,1978-02-01,ARG, ,ARG
 beniio,Beniskos,Ioakim,1981-09-28,GRE, ,GRE
 benijo,Benítez,Jorge,1992-09-02,PAR,Ñemby,PAR
@@ -614,6 +648,7 @@ benkjo,Benko,Jože,1980-03-23,SLO,Murska Sobota,SLO
 benkka,Benkouar,Karim,1979-11-25,MAR,Fès,MAR
 bentef,Bentas,Efstatios,1994-09-30,GRE, ,GRE
 bentem,Bentil,Emanuel,1978-12-03,GHA,Tema,GHA
+bentol,Benítez,Oliver,1991-06-07,ARG,Puerto Iguazú,ARG
 bentvi,Bento,Vítor,1992-08-09,POR,Galegos Santa Maria,POR
 benxef,Ben Nabouhane,El Fardou,1989-06-10,COM,Passamaïnty,FRA
 benzya,Benzia,Yassine,1994-09-08,ALG,Saint-Aubin-lès-Elbeuf,FRA
@@ -627,6 +662,7 @@ beriil,Berios,Ilias,1959-08-13,GRE,Athen,GRE
 berith,Berios,Theodoros,1989-03-21,GRE,Athina,GRE
 beriva,Berisha,Valmir,1996-06-06,SWE,Deçan,KOS
 bermjo,Bermúdez,Jorge,1971-06-18,COL,Armenia,COL
+bernbe,Bernard, ,1992-09-08,BRA,Belo Horizonte,BRA
 bernmr,Berneanou,Michail-Răzvan,1979-04-14,GRE, ,GRE
 berrhe,Berrian,Herron,1994-12-31,LBR, ,LBR
 berslu,Bershemi,Lulzim,1967-04-24,ALB, , 
@@ -647,6 +683,8 @@ bianmi,Bianconi,Miguel,1992-05-14,BRA,Sao Paulo,BRA
 bibiky,Bibisidis,Kyriakos,1965-06-23,GRE,Thessaloniki,GRE
 bibith,Bibiris,Thomas,1985-03-07,GRE,Kozani,GRE
 bicama,Bica, ,1972-03-12,BRA,São Paulo,BRA
+bielpe,Biel,Pep,1996-09-05,SPA,Sant Joan,SPA
+bifoth,Bifouma,Thievy,1992-05-13,CGO,Saint Denis,FRA
 bifsth,Bifsas,Theodoros,1998-03-30,GRE, ,GRE
 bijijo,Bijimine,Jonathan,1994-07-09,DRC,Amiens,FRA
 bikako,Bikas,Konstantinos,1957-12-13,GRE, , 
@@ -654,6 +692,7 @@ bikean,Bikey,André,1985-01-08,CMR,Douala,CMR
 bikine,Bikić,Nenad,1966-08-16,SRB, ,SRB
 bikini,Bikiaris,Nikolaos,1996-06-19,ENG, ,ENG
 bikogi,Bikoudis,Giannis,1967-07-15,GRE,Kato Agios Ioannis,GRE
+bilbik,Bilbao,Iker,1996-03-20,SPA,Larrabetzu,SPA
 bileal,Biley,Alan,1957-02-26,ENG,Leighton Buzzard,ENG
 bilima,Biliskov,Marino,1976-03-17,CRO,Split,CRO
 billes,Billa,Estref,1980-06-13,ALB,Vlorë,ALB
@@ -673,6 +712,7 @@ bjaema,Bjärsmyr,Mattias,1986-01-03,SWE,Hestra,SWE
 bjarel,Bjarnason,Elmar,1987-03-04,ISL,Reykjavík,ISL
 bjekne,Bjeković,Nenad,1974-11-17,SRB,Beograd,SRB
 blagcv,Blagojevic,Cvijetin,1955-04-10,BOS,Kozjak, 
+blancl,Bălan,Claudiu,1994-06-22,ROM,Craiova,ROM
 blanis,Blanco,Ismael,1983-01-19,ARG,Santa Elena,ARG
 blasjd,De Blasis,Julian,1995-12-07,GRE,La Plata,GRE
 blaspd,de Blasis,Pablo,1988-02-04,ARG,La Plata,ARG
@@ -685,12 +725,14 @@ bletge,Bletsas,Georgios,1995-05-02,GRE, ,GRE
 bletmi,Bletsas,Michalis,1965-11-24,GRE,Giannina,GRE
 bletva,Bletsas,Vasilios,1975-09-03,GRE,Ioannina,GRE
 blocma,Block,Mario,1972-01-07,GER,Würzburg,GER
+boakri,Boakye,Richmond,1993-01-28,GHA,Accra,GHA
 boatde,Boateng,Derek,1983-05-02,GHA,Accra,GHA
 boatge,Boateng,George,1975-09-05,NED,Nkawkaw,GHA
 bobara,Bobadilla,Raúl,1987-06-18,PAR,Buenos Aires,ARG
 bochap,Bochouris,Apostolos,1969-02-03,GRE, , 
 bochni,Bochonis,Nikolaos,1987-01-01,GRE, ,GRE
 bocikr,Bociek,Krzystof,1974-03-30,POL,Mielec,POL
+bocklD,De Bock,Laurens,1992-11-07,BEL,Dendermonde,BEL
 bodaim,Boda,Imre,1961-10-10,HUN,Szolnok,HUN
 bodijo,Bodin,Jonas,1970-01-27,SWE, ,GRE
 boedbo,Bödör,Boldiszar,1982-04-27,HUN,Pecs,HUN
@@ -703,6 +745,7 @@ bolbro,Bolbosian,Roman,1987-05-13,GRE, ,GRE
 bolomi,Bolos,Michalis,1984-09-10,GRE, ,GRE
 bonama,Bonanni,Massimo,1982-06-10,ITA,Roma,ITA
 bonasd,Dalla Bona,Samuele,1981-02-06,ITA,Sandona Di Piave,ITA
+bonebo,Bonetti, ,2002-03-22,BRA,São Paulo,BRA
 bongga,Bong,Gaëtan,1988-04-25,CMR,Sakbayenne,CMR
 bongke,Bong,Keynes,1993-10-10,CMR, ,CMR
 bonima,Bonic,Mario,1952-08-04,CRO,Dubrovnik, 
@@ -716,6 +759,7 @@ bordke,Bordinggaard,Keld,1962-11-22,DEN,Holstebro,DEN
 boribo,Boris, ,1988-06-22,SPA,Barcelona,SPA
 borjfe,Borja,Félix,1983-04-02,ECU,San Lorenzo,ECU
 borrju,Borrelli,Juan,1970-11-08,ARG,San Isidro,ARG
+bortge,Bortagaray,Gerónimo,2000-08-05,URU,Salto,URU
 bosami,Bosanac,Milan,1974-03-05,SRB, ,SRB
 boskgo,Bosković,Goran,1966-07-13,MNT,Pljevlja, 
 bosksp,Boskopsiou,Spyros,1969-11-16,GRE, , 
@@ -732,6 +776,7 @@ bougdi,Bougas,Dimitris,1971-03-13,GRE,Kifisia,GRE
 bougma,Bougaidis,Mavroudis,1993-06-01,GRE,Thessaloniki,GRE
 bougsa,Boughanem,Samir,1975-08-08,MAR,Cluses,FRA
 bougso,Bouglas,Sotiris,1977-05-28,GRE, ,GRE
+bouhra,Bouhenna,Rachid,1991-06-29,ALG,Méru,FRA
 boukmi,Boukouvalas,Michalis,1988-01-14,GRE,Agrinio,GRE
 boulil,Boulios,Ilias,1967-05-24,GRE, , 
 boulki,Boula,Kike,1993-07-17,EQG,Malabo,EQG
@@ -761,18 +806,21 @@ bouzgi,Bouzoukis,Giannis,1998-03-27,GRE,Preveza,GRE
 bouzis,Bouzid,Ismaël,1983-07-21,ALG,Nancy,FRA
 bouzva,Bouzas,Vasilios,1993-06-30,GRE,Athen,GRE
 boviri,Bóvio,Ricardo,1982-01-17,BRA,Campos dos Goytacazes,BRA
+bowljo,Bowler,Josh,1999-03-05,ENG,Chertsey,ENG
 boyelu,Boyé,Lucas,1996-02-28,ARG,San Gregorio,ARG
 boyemi,Boyele,Mistletoe,1979-02-26,CMR, ,CMR
 bozdyo,Bozdanski,Yordan,1964-10-07,BUL,Sandanski,BUL
 boziri,Bozinov,Risto,1969-04-10,MAC, ,MAC
 bozodr,Bozović,Dragomir,1961-01-10,SRB, , 
 bozoml,Božović,Mladen,1984-08-01,MNT,Podgorica,MNT
+brabja,Brabec,Jakub,1992-08-06,CZE,Praha,CZE
 bracra,Bracalli,Rafael,1981-05-05,BRA,Santos,BRA
 bradmi,Bradvić,Mislav,1975-07-15,CRO, ,CRO
 bradvl,Bradonjić,Vladimir,1999-12-11,BOS,Priboj,BOS
 bragba,Bragason,Baldur,1968-05-29,ISL, ,ISL
 brahme,Brahimi,Mërgim,1992-08-08,ALB,Burim,ALB
 bralsl,Bralić,Slavko,1992-12-15,CRO,Split,CRO
+branbr,Brandon, ,1995-02-04,SPA,Santanyí,SPA
 branev,Brandão, ,1980-06-16,BRA,São Paulo,BRA
 branfe,Brandy,Febian,1989-02-04, ,Manchester,ENG
 branse,Branco,Serge,1980-10-11,CMR,Cayenne,CMR
@@ -787,6 +835,7 @@ brcuco,Bărcăuan,Cosmin,1978-08-05,ROM,Oradea,ROM
 brenfa,Brener,Fabricio,1998-05-26,ARG,Córdoba,ARG
 bresma,Breška,Mário,1979-12-27,SVK,Topolcany,SVK
 brewcr,Brewster,Craig,1966-12-13,SCO,Dundee,SCO
+brigal,Brignoli,Alberto,1991-08-19,ITA,Trescore Balneario,ITA
 brigkr,Bright,Kris,1986-09-05,NZL,Auckland,NZL
 brilch,Brilakis,Charalampos,1981-10-28,GRE, ,GRE
 brindi,Brinias,Dimitris,1984-03-02,AUS,Adelaide,AUS
@@ -795,6 +844,7 @@ britar,Brito, ,1987-11-16,CVE,Moita,POR
 brited,Brito,Eduardo,1982-09-21,BRA,Rio de Janeiro,BRA
 britjo,Brítez,Jorge,1981-02-08,PAR,Villarrica,PAR
 brkize,Brkić,Željko,1986-07-09,SRB,Novi Sad,SRB
+brnela,Brănescu,Laurenţiu,1994-03-30,ROM,Râmnicu Vâlcea,ROM
 brouar,Broumas,Aristidis,0000-00-00,GRE, , 
 brucka,Bručić,Karlo,1992-04-17,CRO,Zagreb,CRO
 brumar,Bruma, ,1994-10-24,POR,Bissau,GBS
@@ -826,8 +876,10 @@ buysfa,Buyse,Fangio,1974-09-27,BEL,Deinze,BEL
 bwelg1,Bwelle,Guy,1979-02-26,CMR,Edea,CMR
 bwelgu,Bwele,Guy,1979-12-16,CMR, ,CMR
 bykoma,Bykowski,Maciej,1977-02-22,POL,Elblag,POL
+bytyzy,Bytyqi,Zymer,1996-09-11,KOS,Sint-Truiden,BEL
 cabaca,Caballero,Carlos,1984-10-05,SPA,Alcorcón,SPA
 cabebr,Cabezas,Bryan,1997-03-20,ECU,Quevedo,ECU
+cabrje,Cabral,Jerson,1991-01-03,CVE,Rotterdam,NED
 cacaca,Cacá, ,1979-02-19,BRA,Paraná,BRA
 cacema,Cáceres,Mario,1981-03-17,CHI,Santiago,CHI
 cadali,Cadamuro,Liassine,1988-03-05,FRA,Toulouse,FRA
@@ -844,10 +896,12 @@ calvca,Calvo,Carlos,1985-09-18,SPA,Madrid,SPA
 calvlu,Calvo,Luis,1977-10-10,ARG,San Miguel,ARG
 calvto,Calvo,Toni,1987-03-28,SPA,Barcelona,SPA
 camaab,Camara,Abdoul,1990-02-20,GUI,Mamou,GUI
+camaag,Camara,Aguibou,2001-05-20,GUI, ,GUI
 camahe,Camara,Henri,1977-05-10,SEN,Dakar,SEN
 camakh,Camara,Khassa,1992-10-22,MAU,Châtenay-Malabry,FRA
 camama,Camara,Mady,1997-02-28,GUI,Matam,GUI
 camaou,Camara,Oumar,1992-08-19,FRA,Montivilliers,FRA
+camara,Camacho,Rafael,2000-05-22,POR,Lisboa,POR
 cambes,Cambiasso,Esteban,1980-08-18,ARG,Buenos Aires,ARG
 campcl,Campos,Cláudio,1975-11-06,ARG,Esquel,ARG
 campja,Cámpora,Javier,1980-01-07,ARG,Rosario,ARG
@@ -855,6 +909,7 @@ campjo,Campbell,Joel,1992-06-26,CRC,San José,CRC
 camppa,Camps,Patricio,1972-01-22,ARG,Buenos Aires,ARG
 canajo,Cañas, ,1987-05-27,SPA,Rota,SPA
 canone,Canobbio,Néstor,1980-03-08,URU,Montevideo,URU
+cansse,Canós,Sergi,1997-02-02,SPA,Nules,SPA
 cantpa,Cantero,Pablo,1977-10-31,ARG,Rosario,ARG
 capien,Capilla,Eneko,1995-06-13,SPA,San Sebastián,SPA
 caprwa,Caprile,Walter,1973-07-25,URU,Canelones,URU
@@ -870,12 +925,14 @@ carlc2,Carlinhos, ,1984-08-02,BRA,Taquaritinga,BRA
 carlca,Carlitos, ,1990-06-12,SPA,Alicante,SPA
 carljo,Carlos,José,1987-07-17,SPA,Minas de Riotinto,SPA
 carlxx,Carlau, ,1967-10-16,BRA, , 
+carmda,Carmona,David,1997-01-11,SPA,Palma del Río,SPA
 carnca,Carneiro,Carlos,1974-12-27,POR,Paços de Ferreira,POR
 carral,Carrasco,Alejandro,1978-03-23,CHI,Santiago de Chile,CHI
 carrma,Carrasco,Mauricio,1987-09-24,ARG,Neuquén,ARG
 carrro,Carroll,Roy,1977-09-30,NIR,Enniskillen,NIR
 carrse,Carrera,Sebastián,1978-05-25,ARG,Buenos Aires,ARG
 carvel,Carvalho,Eliomar,1973-03-10,BRA, , 
+carvjo,Carvalho,João,1997-03-09,POR,Castanheira de Pêra,POR
 casaga,Casas,Gastón,1978-01-10,ARG,Avellaneda,ARG
 casajo,Casado,Jorge,1989-06-26,SPA,Madrid,SPA
 casama,Casas,Marcelo,1992-04-14,PAR, ,PAR
@@ -887,6 +944,7 @@ castca,Casteglione,Carlos,1980-05-09,ARG,Avellaneda,ARG
 castcd,De Castro,Carlos,1979-04-19,URU,Montevideo,URU
 castce,Castro,César,1983-04-10,SPA, ,SPA
 castcr,Castells, ,1984-10-19,SPA,Sueca,SPA
+castda,Castellano,Dani,1987-11-02,SPA,Las Palmas de Gran Canaria,SPA
 castfa,Castro,Fabry,1992-02-21,COL,Santa Bárbara,COL
 castfe,Castro,Fernando Eduardo,1969-08-22,ARG, , 
 castfp,Castro,Facundo Pérez,1981-08-07,ARG,San Miguel de Tucumán,ARG
@@ -931,6 +989,7 @@ chalko,Chalkias,Konstantinos,1974-05-30,GRE,Larisa,GRE
 chalmi,Chalkiadakis,Minas,1995-02-05,GRE,Iraklio,GRE
 chalmo,Chalali,Mohamed,1989-04-04,ALG,Montreuil-sous-Bois,FRA
 chaln1,Chalkidis,Nikolaos,1960-03-25,GRE, , 
+chaln2,Chalkiadakis,Nikolaos,2004-02-19,GRE,Heraklion,GRE
 chalni,Chalas,Nikolaos,1964-08-30,GRE, , 
 chamma,Chamouzas,Marios,1968-07-03,GRE, , 
 chanan,Chanti,Angelos,1989-09-07,JOR,Pyrgos,GRE
@@ -974,6 +1033,7 @@ chatat,Chatzoglou,Athanasios,1972-06-03,GRE, ,
 chatc1,Chatzipantelidis,Christos,1981-08-12,CYP, ,CYP
 chatc2,Chatzidakis,Christos,1971-12-18,GRE, , 
 chatc3,Chatziskoulidis,Christos,1952-12-03,GRE, , 
+chatc4,Chatziioannou,Christos,2004-01-10,GRE, ,GRE
 chatch,Chatzigiannakis,Christos,2002-03-09,GRE,Anavyssos,GRE
 chatd1,Chatzis,Dimitrios,1983-04-19,GRE, ,GRE
 chatd2,Chatzikamaris,Dionysis,1970-11-12,GRE, , 
@@ -1025,6 +1085,7 @@ chemjo,Chema, ,1980-04-25,SPA,Orihuela,SPA
 cheran,Chernyshov,Andrey,1968-01-07,RUS,Moskau, 
 cherso,Cherfa,Sofyane,1984-08-13,ALG,Toulouse,FRA
 chevda,Chévez,David,1975-06-23,PER,Callao,PER
+chibra,Chibsah,Raman,1993-03-10,GHA,Accra,GHA
 chibsa,Chiba,Said,1970-09-28,MAR,Casablanca,MAR
 chicse,Chica,Sergio,1996-07-11,SPA,Leganés,SPA
 chigdm,Chigrinskiy,Dmitro,1986-11-07,UKR,Iziaslav,UKR
@@ -1039,6 +1100,7 @@ chiodi,Chiotis,Dionysis,1977-06-04,GRE,Athen,GRE
 chioko,Chiotidis,Konstantinos,1962-01-14,GRE,Kozani,GRE
 chiqf1,Chiquinho, ,1980-03-13,BRA,São Francisco do Conde,BRA
 chiqfr,Chiquinho, ,1980-09-28,POR,Lisboa,POR
+chirmi,Chirinos,Michaell,1995-06-17,HON,Tegucigalpa,HON
 chirth,Chiritrantas,Theodoros,2000-11-10,GRE,Thessaloniki,GRE
 chiuau,Chiţu,Aurelian,1991-03-25,ROM,Ţăndărei,ROM
 chlast,Chlachlas,Stylianos,1987-02-13,GRE, ,GRE
@@ -1074,9 +1136,11 @@ chrig4,Christodoulou,Georgios,1967-05-20,GRE,Athen,GRE
 chrig5,Christofis,Georgios,1959-06-13,GRE,Heraklion,GRE
 chrig6,Christopoulos,George,1960-12-11,AUS, , 
 chrig7,Christou,Giannis,0000-00-00,GRE, , 
+chrig8,Christodoulis,Georgios,2001-01-04,GRE,Katerini,GRE
 chriga,Christopoulos,Georgios-Anastasios,1998-05-27,GRE, ,GRE
 chrige,Christodoulou,Georgios,1965-08-22,CYP,Nikosia,CYP
 chrigi,Christofilopoulos,Giannis,2003-07-17,GRE, ,GRE
+chriil,Christopoulos,Ilias,2003-02-02,GRE, ,GRE
 chriio,Christou,Ioannis,1981-03-05,GRE, ,GRE
 chriip,Christopoulos,Ilias-Panagiotis,2003-02-02,GRE, ,GRE
 chriko,Christou,Konstantinos,1996-03-15,GRE, ,GRE
@@ -1142,6 +1206,8 @@ copema,Copertino,Maurício,1970-04-06,BRA,Santos,BRA
 corama,Coraş,Marcel,1959-05-14,ROM,Arad,ROM
 cordmi,Cordero, ,1987-09-10,SPA,Lebrija,SPA
 cornco,Cornea,Cornel,1981-07-28,ROM,Beclean,ROM
+cornde,Cornelius,Derek,1997-11-25,CAN,Ajax,CAN
+corrjo,Correa,Jorge,1993-04-04,ARG,San Martín,ARG
 corrro,Corrêa,Rogério,1981-03-27,BRA,Rio de Janeiro,BRA
 corswo,Corstjens,Wouter,1987-02-13,BEL,Maastricht,NED
 cosiur,Ćosić,Uroš,1992-10-24,SRB,Beograd,SRB
@@ -1179,7 +1245,9 @@ cuyphu,Cuypers,Hugo,1997-02-07,BEL,Liège,BEL
 czinju,Czinege,Juraj,1977-10-29,SVK, ,SVK
 dabimi,Dabić,Milos,1969-11-14,SRB, , 
 dabini,Dabizas,Nikolaos,1973-08-03,GRE,Amypeo,GRE
+daboab,Dabo,Abdoulaye,2001-03-04,FRA,Nantes,FRA
 daboan,Dabos,Andreas,1990-09-28,GRE,Chalkida,GRE
+dabobr,Dabo,Bryan,1992-02-18,BFS,Marseille,FRA
 dabrja,Dąbrowski,Jacek,1974-02-22,POL,Otwock,POL
 dacoal,D'Acol, ,1986-07-18,BRA,Ribeirao Preto,BRA
 dacrlu,Dacroce, ,1968-03-24,BRA,Palmitos,BRA
@@ -1194,11 +1262,14 @@ dafkko,Dafkos,Konstantinos,1988-06-10,GRE,Drama,GRE
 dagich,Dagioglou,Christos,1960-01-20,GRE, , 
 dagkev,Dagkas,Evaggelos,1974-04-14,GRE, ,GRE
 dagoch,Dagounakis,Christos,1978-10-06,GRE, ,GRE
+dagona,Dago,Nadrey,1997-05-07,CIV,Attécoubé,CIV
 dahlmi,Dahlberg,Mikael,1985-03-16,SWE,Umeå,SWE
 dahlta,Dahlum,Tore André,1968-06-21,NOR,Kristiansand,NOR
+dajkaj,Dajko,Ajdi,2002-10-28,GRE, ,GRE
 daktge,Daktylas,Georgios,2001-09-22,GRE, ,GRE
 dalad1,Dalakas,Dimitrios,1957-11-24,GRE,Agios Spyridon,GRE
 daladi,Dalakouras,Dimitrios,1999-03-31,GRE, ,GRE
+dalapa,Dalamitras,Panagiotis,2003-04-13,GRE, ,GRE
 dalceu,Dálcio, ,1996-05-22,POR,Almada,POR
 dalema,Dalé,Maurice,1985-07-12,FRA,Martigues,FRA
 dalied,Dalipi,Edmond,1972-12-13,ALB, ,ALB
@@ -1227,11 +1298,13 @@ danida,Dani, ,1982-01-30,POR,Felgueiras,POR
 daniet,Daníelsson,Einar Þór,1970-01-19,ISL, ,ISL
 danipe,Dani,Peter,1976-12-25,HUN, ,HUN
 dankjo,Dankowski,Jozef,1960-03-16,POL,Walentynów,POL
+dantti,Dantas,Tiago,2000-12-24,POR,Lisboa,POR
 daouar,Daoutis,Aristidis,1984-05-21,GRE, ,GRE
 daradi,Daras,Dimitrios,1956-04-21,GRE, , 
 darage,Daraklitsas,Georgios,1968-08-01,GRE,Karditsa,GRE
 darbst,Darbion,Stéphane,1984-03-22,FRA,Belley,FRA
 darcjc,Darcheville,Jean-Claude,1975-07-25,FRA,Sinnamary,FGY
+darivl,Darida,Vladimír,1990-08-08,CZE,Plzeň,CZE
 darlfi,Darlas,Filippos,1983-10-23,GRE,Agrinio,GRE
 dasige,Dasios,Georgios,1983-05-12,GRE,Ioannina,GRE
 daskge,Daskalakis,Georgios,1966-09-15,GRE, ,GRE
@@ -1256,6 +1329,7 @@ dejame,Dejanov,Metodi,1975-04-03,BUL, ,BUL
 delemi,Deletić,Miloš,1993-10-14,SRB,Beograd,SRB
 deleni,Delezas,Nikolaos,1973-01-13,GRE, , 
 delgda,Delgado,Dario,1969-12-03,URU,Durazno,URU
+delgdi,Delgado,Didier,1992-07-25,COL,Istmina,COL
 delgju,Delgado,Juanma,1990-11-17,SPA,Valencia,SPA
 delgvc,Delgado,Víctor,1968-03-12,ARG,Buenos Aires,ARG
 delial,Delios,Alexandros,1970-12-15,GRE,Sossandra,GRE
@@ -1281,6 +1355,8 @@ demiio,Demirtsogli,Ioannis,1982-01-28,GRE, ,GRE
 demkge,Demkas,Georgios,1974-02-19,GRE, , 
 demost,Demol,Stéphane,1966-03-11,BEL,Watermael-Boitsfort,BEL
 demosu,Demollari,Sulejman,1964-05-15,ALB,Tiranë,ALB
+demyiv,Demydenko,Ivan,2003-06-11,UKR, ,UKR
+denior,Denić,Đorđe,1996-04-01,SRB,Beograd,SRB
 dentan,Dentakis,Antonis,1995-03-13,GRE,Chania,GRE
 dentta,Dentsas,Tasos,1982-03-19,GRE,Vamvakofyto,GRE
 derbma,Derbyshire,Matt,1986-04-14,ENG,Great Harwood,ENG
@@ -1311,7 +1387,9 @@ diawfo,Diawara,Fousseni,1980-08-28,MLI,Paris,FRA
 diaxye,Dia,Yéro,1982-01-05,FRA,Roubaix,FRA
 diazjo,Díaz,Jorge,1989-06-28,URU,Montevideo,URU
 diazju,Díaz,Juan,1987-10-28,URU,Montevideo,URU
+dibydi,Diby, ,2003-07-08,SPA,Toledo,SPA
 dickfr,Dickoh,Francis,1982-12-13,GHA,Kopenhagen,DEN
+dickno,Dicko,Nouha,1992-05-14,MLI,Saint-Maurice,FRA
 dicxem,Dică,Emil,1982-07-17,ROM,Scorniceşti,ROM
 dicxni,Dică,Nicolae,1980-05-09,ROM,Piteşti,ROM
 dienou,Dieng,Oumar,1972-12-30,SEN,Dakar,SEN
@@ -1371,7 +1449,9 @@ diogdi,Diogo, ,1991-07-01,POR,Castanheira do Ribatejo,POR
 diogjo,Diogo,Jordão,1985-11-12,POR,Lisboa,POR
 diogke,Diogo,Kévin,1991-07-08,FRA,Sens,FRA
 diopou,Diop,Ousmane,1975-12-09,SEN,Dakar,SEN
+dioppC,Diop,Pape Cheikh,1997-08-08,SEN,Guédiawaye,SEN
 dioppb,Diop,Papa Bouba,1978-01-28,SEN,Dakar,SEN
+diouas,Dioussé,Assane,1997-09-20,SEN,Dakar,SEN
 dioueh,Diouf,El-Hadji,1988-08-20,SEN,Dakar,SEN
 diouso,Dioudis,Sokratis,1993-02-03,GRE,Thessaloniki,GRE
 djaldj,Djalma, ,1987-05-30,ANG,Luanda,ANG
@@ -1387,6 +1467,8 @@ djurgo,Djurović,Goran,1970-10-15,SRB, ,
 djurmi,Djurdjević,Milan,1967-11-04,SRB,Belgrad, 
 djurpe,Đuričković,Petar,1991-06-20,SRB,Pristina,KOS
 djurur,Đurđević,Uroš,1994-03-02,SRB,Beograd,SRB
+djxxms,Djú,Mésaque,1999-03-18,POR,Bissau,GBS
+dnisdn,Dênis, ,1987-04-14,BRA,Jaú,BRA
 doboan,Doboș,Anton,1965-10-30,ROM,Sărmaşu,ROM
 dobrda,Dobrik,Daniel,1975-02-02,ARG,Buenos Aires,ARG
 dobrsi,Dobrašinović,Siniša,1977-02-17,CYP,Berane,MNT
@@ -1425,8 +1507,10 @@ douaru,Douala,Rudolphe,1978-09-25,CMR,Douala,CMR
 douavi,Doualla, ,1987-06-14,EQG,Douala,CMR
 dougdo,Douglão, ,1986-05-18,BRA,Dois Vizinhos,BRA
 dougth,Dougeroglou,Theodoros,0000-00-00,GRE, ,GRE
+doukch,Doukouré,Cheick,1992-09-11,CIV,Abidjan,CIV
 doulch,Doulgerakis,Charalampos,1959-12-13,GRE, , 
 doulni,Doulis,Nikolaos,1975-02-05,GRE, , 
+doumal,Doumas,Alexandros,2003-02-03,GRE, ,GRE
 doumfo,Doumanis,Fotis,1993-10-28,GRE,Kavala,GRE
 doumge,Doumtsis,Georgios,2000-03-04,GRE,Florina,GRE
 doumko,Doumtsios,Konstantinos,1997-09-20,GRE,Serres,GRE
@@ -1471,6 +1555,7 @@ duarle,Duarte,Lerin,1990-08-11,NED,Rotterdam,NED
 ducrpi,Ducrocq,Pierre,1976-12-18,FRA,Pontoise,FRA
 dudaxx,Duda, ,1968-09-11,BRA, , 
 dudued,Dudu, ,1989-03-14,BRA,São Caetano do Sul,BRA
+duinmv,van Duinen,Mike,1991-11-06,NED,Den Haag,NED
 dujida,Dujić,David,1996-10-25,SRB, ,SRB
 dumini,Dumitru,Nicolao,1991-10-12,ITA,Nacka,SWE
 dundar,Dundee,Armand,1975-01-18,CIV, ,CIV
@@ -1516,6 +1601,7 @@ elefch,Eleftheriadis,Christos,1991-09-30,GRE,Kavala,GRE
 elefdi,Eleftheropoulos,Dimitrios,1976-08-07,GRE,Piraeus,GRE
 elefil,Eleftheriadis,Ilias,1984-03-31,GRE,Thessaloniki,GRE
 eliako,Elia,Kostas,1976-06-09,CYP,Famagusta,CYP
+eliani,Eliasson,Niclas,1995-12-07,SWE,Varberg,SWE
 eliaze,Elias,Zé,1976-09-25,BRA,São Paulo,BRA
 ellaem,Ellacopulos,Emiliano,1992-01-14,ARG,Munro,ARG
 ellina,Ellington,Nathan,1981-07-02,ENG,Bradford,ENG
@@ -1549,9 +1635,12 @@ ererse,Ereros,Sebastián,1985-04-14,ARG,Caseros,ARG
 ericjo,Erice, ,1986-11-03,SPA,Pamplona,SPA
 erikse,Eriksson,Sebastian,1989-01-31,SWE,Brålanda,SWE
 erikul,Eriksson,Ulf,1958-02-21,SWE, , 
+erinaG,Čerin,Adam Gnezda,1999-07-16,SLO,Postojna,SLO
+erliau,Erlingmark,August,1998-04-22,SWE,Göteborg,SWE
 ermidi,Ermilios,Dimitrios,1978-03-31,GRE, ,GRE
 eroega,Erős,Gábor,1980-07-01,HUN,Várpalota,HUN
 erraro,Erramuspe,Rodrigo,1990-05-03,ARG,Mar del Plata,ARG
+escojo,Escoval,João,1997-05-08,POR,Lisboa,POR
 escuaa,Escudero, ,1984-01-21,SPA, ,SPA
 esitan,Esiti,Anderson,1994-05-24,NGR,Warri,NGR
 esmega,Esmerado,Gastón,1978-02-08,ARG,Lomas de Zamora,ARG
@@ -1563,6 +1652,7 @@ estavi,Estavillo,Vicente,1955-05-17,URU,Melo,URU
 estemr,Esterházy,Márton,1956-04-09,HUN,Budapest,HUN
 esteri,Esteves,Ricardo,1979-09-16,POR,Lisboa,POR
 estofa,Estoyanoff,Fabián,1982-09-27,URU,Montevideo,URU
+etebpe,Etebo,Peter,1995-11-09,NGR,Warri,NGR
 ettoch,Ettori,Christophe,1977-12-14,FRA,Ajaccio,FRA
 ettool,Etto, ,1981-03-08,BRA,Valente,BRA
 evanil,Evangelou,Ilias,1997-05-18,GRE, ,GRE
@@ -1579,9 +1669,11 @@ eyidem,Eyidi,Emile,1973-11-26,CMR, ,CMR
 fabefb,Fabeta, ,1987-04-01,POR,Gondomar,POR
 fabial,Fabiatos,Alexandros,1962-09-20,GRE, , 
 fabif1,Fabinho, ,1984-07-20,BRA, ,BRA
+fabif2,Fabiano, ,1991-11-18,BRA,São José do Oeste,BRA
 fabifa,Fabiano, ,1985-11-24,BRA,Campinas,BRA
 fabiim,Fabianesi,Iván Moreno y,1979-06-04,SPA,Badajoz,SPA
 facidl,Facincani,Denys Luctke,1966-01-06,BRA,São Paulo,BRA
+fadiba,Fadiga,Bandiougou,2001-01-15,FRA,Paris,FRA
 faisva,Faísca,Vasco,1980-08-27,POR,Lisboa,POR
 fajajo,Fajardo, ,1978-10-27,POR,Lisboa,POR
 fakigi,Fakis,Giannis,1971-05-09,GRE, ,GRE
@@ -1590,6 +1682,7 @@ fakiyi,Fakinos,Yiannoulis,1989-07-09,GRE, ,GRE
 falama,Falaggas,Manthos,1992-01-24,GRE,Palamas,GRE
 falemi,Falero,Miguel,1957-05-17,URU,Canelones,URU
 falena,Falemi,Nana,1974-05-05,CMR,Bucuresti,ROM
+fallrE,Fallatah,Rayan Edrees,2003-10-06,KSA, ,KSA
 famege,Famelis,Georgios,1967-08-19,GRE,Athen,GRE
 fanagr,Fanaras,Grigoris,1948-01-30,GRE,Veria,GRE
 fangca,Fangueiro, ,1976-12-19,POR,Matosinhos,POR
@@ -1628,10 +1721,13 @@ fernje,Fernández,Jesús,1988-06-11,SPA,Madrid,SPA
 fernju,Fernández,Juan,1980-03-05,ARG,Gualeguaychú,ARG
 fernl1,Fernández,Luis,1960-01-01,URU, , 
 fernlu,Fernando,Luís,1961-03-01,BRA, , 
+fernm1,Fernandes,Manuel,1986-02-05,POR,Lisboa,POR
 fernma,Fernández,Marc,1990-04-29,SPA,Corbera de Llobregat,SPA
 fernni,Fernández,Nico,1986-11-17,ARG,Buenos Aires,ARG
+fernpa,Fernandes,Paolo,1998-08-09,SPA,Zaragoza,SPA
 fernri,Fernandes,Ricardo,1978-04-21,POR,Moreira de Cónegos,POR
 fernva,Fernandes,Vasco,1986-11-12,POR,Olhão,POR
+fernvc,Fernández,Víctor,1998-05-02,SPA,Barcelona,SPA
 ferrds,Ferreira,da Silva,1967-09-20,BRA, ,BRA
 ferrfr,Ferrari,Franco,1992-05-09,ARG,Rosario,ARG
 ferrma,Ferrari,Mauricio,1985-02-03,ARG,Casilda,ARG
@@ -1675,11 +1771,13 @@ flavfl,Flavinho, ,1981-06-20,BRA, ,BRA
 flegpe,Flegas,Petros,1960-11-13,GRE, , 
 flisko,Fliskas,Konstantinos,1980-12-29,GRE,Karditsa,GRE
 florca,Flores,Carlos,1974-08-04,PER,Callao,PER
+florde,Flores,Deybi,1996-06-16,HON,San Pedro Sula,HON
 florla,Flores,Leonardo Azul,1979-02-05,ARG, ,ARG
 florse,Flores,Sebastián,1983-09-09,URU,Montevideo,URU
 florva,Floros,Vasileios,1980-01-29,GRE, ,GRE
 foerma,Förster,Marco,1976-04-23,GER,Frankfurt/Oder,GER
 fofaab,Fofana,Aboubacar,1982-10-04,FRA, ,FRA
+fofama,Fofana,Manssour,2002-07-10,CIV,Abobo,CIV
 fofoed,Fofonka,Ederson,1974-03-12,BRA,Porto Alegre,BRA
 fogabr,Fogaça,Bruno,1981-11-11,BRA,São Miguel Arcanjo,BRA
 foledo,Foley,Dominic,1976-07-07,IRL,Cork,IRL
@@ -1711,6 +1809,7 @@ fragdi,Fragos,Dimitrios,1969-05-10,GRE, ,
 fragko,Fragioudakis,Konstantinos,1979-09-06,GRE, ,GRE
 fragmi,Fragoulakis,Michalis,1983-07-15,GRE,Heraklion,GRE
 fragni,Fragou,Nikolaos,0000-00-00,GRE, , 
+franal,Fransson,Alexander,1994-04-02,SWE,Norrköping,SWE
 franef,Francou,Emanuel Fernández,1986-01-31,ARG,Villa Sarmiento,ARG
 franko,Frantzeskos,Konstantinos,1969-01-04,GRE,Athina,GRE
 franld,De Francesco,Lucas,1981-09-21,ARG,Pergamino,ARG
@@ -1721,13 +1820,16 @@ freipb,de Freitas,Paulo Batista,1983-07-28,BRA, ,BRA
 freiti,Freitas,Tiago,1980-09-19,BRA,Dourados,BRA
 freivi,Freitas,Vinícius,1993-03-07,BRA,Araruama,BRA
 friegu,Friesenbichler,Günter,1979-03-04,AUT,Weiz,AUT
+frijsa,Friðjónsson,Samúel,1996-02-22,ISL,Reykjanesbær,ISL
 friosa,Frioui,Samy,1991-09-07,ALG,Kouba,ALG
 fritra,Fritea,Răzvan,1983-04-04,ROM, ,ROM
 fronfi,Frontzos,Filippos,1973-12-20,GRE, ,GRE
 frouni,Frousos,Nikos,1974-04-29,GRE,Filiatra,GRE
 froxdi,Froxylias,Dimitrios,1993-06-28,CYP,Larisa,GRE
+frrole,Frroku,Leandro,2003-09-03,ALB,Vari,GRE
 frunvi,Frunză,Viorel,1979-12-06,MOL,Chișinău,MOL
 fuelma,Fülöp,Márton,1983-05-03,HUN,Budapest,HUN
+fuenkd,Fuente,Konrad de la,2001-07-16,USA,Miami,USA
 funejg,Funes,Juan Gilberto,1963-03-08,ARG,San Luis,ARG
 furtjo,Furtado, ,1983-03-14,POR,Praia,CVE
 furtml,Furtula,Mladen,1950-09-17,BOS,Sarajevo, 
@@ -1744,10 +1846,12 @@ gabrto,Gabrić,Tonci,1961-11-11,CRO,Split,
 gacxmu,Gac,Marcelo Urzua,1962-09-09,CHI, , 
 gadzvl,Gadzhev,Vladimir,1987-07-18,BUL,Pazardzhik,BUL
 gagehe,Gager,Herbert,1969-09-18,AUT,Wien,AUT
+gaggen,Gaggi,Enzo,1998-01-14,ARG,Rafaela,ARG
 gaglpa,Gaglianone,Pablo,1976-04-25,URU,Montevideo,URU
 gagusi,Gagula,Siniša,1984-01-03,BOS, ,BOS
 gaiddi,Gaidartzis,Dimitris,1984-02-07,GRE, ,GRE
 gaidni,Gaidatzis,Nikos,1994-02-22,GRE, ,GRE
+gainmi,Gaćinović,Mijat,1995-02-08,SRB,Novi Sad,SRB
 gaitan,Gaitanidis,Antonis,2000-03-18,GRE,Ioannina,GRE
 gakidi,Gakis,Dimitrios,1955-09-15,GRE, , 
 galaan,Galanis,Angelos,1959-04-20,GRE, , 
@@ -1764,6 +1868,7 @@ galefe,Galetto,Fernando,1971-04-13,ARG,Monte Cristo,ARG
 galige,Galitsios,Georgios,1986-07-06,GRE,Larisa,GRE
 galigi,Galitsios,Giannis,1958-05-15,GRE,Sarantaporo,GRE
 galima,Galinović,Mario,1976-11-15,CRO,Zagreb,CRO
+galll1,Gallegos,Luis,1991-12-03,CHI,Copiapó,CHI
 galllu,Galletti,Luciano,1980-04-09,ARG,La Plata,ARG
 gallpa,Gállego,Pablo,1993-10-01,SPA,Huesca,SPA
 galoro,Galo,Rodrigo,1986-09-19,BRA,Rio Branco,BRA
@@ -1781,8 +1886,10 @@ garath,Garaklidis,Thomas,0000-00-00,GRE, ,GRE
 garcal,García,Álvaro,1986-07-07,SPA,Alicante,SPA
 garcfe,García,Félix,1983-12-05,COL,Buenaventura,COL
 garcga,García,Gamadiel,1979-07-20,CHI,Santiago de Chile,CHI
+garcju,García,Judah,2000-10-24,TRI,San Fernando,TRI
 garcle,García,Levi,1997-11-20,TRI,Santa Flora,TRI
 garclu,García,Luis,1978-06-24,SPA,Badalona,SPA
+garcm1,García,Manu,1998-01-02,SPA,Oviedo,SPA
 garcma,García,Mateo,1996-09-10,ARG,Córdoba,ARG
 garcpa,García,Pablo,1977-05-11,URU,Canelones,URU
 garcpi,García,Pitu,1984-07-27,ARG,Santa Fe,ARG
@@ -1790,6 +1897,7 @@ garcro,García,Ronald,1980-12-17,BOL,Santa Cruz de la Sierra,BOL
 garcru,García,Rubén,1998-10-23,SPA,Elche,SPA
 gardle,Gardikiotis,Leon,1964-02-27,AUS,Lindau,GER
 gardma,Garderis,Manolis,1962-05-13,GRE, , 
+gardmi,Gardawski,Michael,1990-09-25,GER,Köln,GER
 gargal,Gargkalatzidis,Alexandros,2000-04-12,GRE,Thessaloniki,GRE
 garggi,Gargaronis,Giorgos,1983-06-10,GRE, ,GRE
 gargro,Gargini,Roberto,1962-04-30,ARG, , 
@@ -1876,7 +1984,9 @@ gerege,Geremi, ,1978-12-20,CMR,Bafoussam,CMR
 gerohi,Gerônimo,Hilton,1973-12-29,BRA,Porto Alegre,BRA
 geroko,Gerontidis,Konstantinos,1985-04-18,GRE, ,GRE
 geromi,Gerothodoros,Michalis,1958-04-09,GRE,Athen,GRE
+gervge,Gervinho, ,1987-05-27,CIV,Anyama,CIV
 gesigi,Gesios,Giannis,1988-08-03,GRE,Arnissa,GRE
+gestru,Gestede,Rudy,1988-10-10,BEN,Essey-lès-Nancy,FRA
 ghazal,Ghazal,Aly,1992-02-01,EGY,Assuan,EGY
 ghazge,Ghazaryan,Gevorg,1988-04-05,ARM,Erewan, 
 ghoman,Ghomsi,Antonio,1986-04-22,CMR,Bandjoun Khoun,CMR
@@ -1939,6 +2049,7 @@ gillgu,Gillet,Guillaume,1984-03-09,BEL,Liège,BEL
 gilvca,Gilvan, ,1981-11-12,BRA, ,BRA
 ginaxa,Ginard,Xavi,1986-10-11,SPA,Artà,SPA
 ginipa,Ginis,Panagiotis,1999-01-23,GRE,Athina,GRE
+ginofe,Gino,Federico,1993-02-26,URU,Melo,URU
 ginokl,Gino,Klodian,1994-02-13,ALB,Berat,ALB
 ginoni,Gino,Nikola,1970-01-30,ALB, ,GRE
 gionan,Giondis,Antonis,1989-02-06,GRE,Edessa,GRE
@@ -1974,6 +2085,7 @@ gkezpo,Gkezos,Polydoros,1994-09-03,GRE,Athen,GRE
 glauan,Glauko,Antonio,1968-05-17,GRE, ,GRE
 glaugl,Gláuber, ,1981-09-02,BRA,Ilha Solteira,BRA
 gleigl,Gleison, ,1981-08-18,BRA,Vitoria,BRA
+glenle,Gülen,Levent,1994-02-24,SUI,Zürich,SUI
 glezky,Glezos,Kyriakos,2000-06-12,GRE, ,GRE
 glogdr,Glogovac,Dragan,1967-10-27,BOS, ,BOS
 glosat,Glossis,Athanasios,1960-09-21,GRE, , 
@@ -1997,6 +2109,7 @@ gojkjo,Gojković,Jovan,1975-01-07,SRB,Čačak,SRB
 golaey,Golasa,Eyal,1991-10-07,ISR,Netanya,ISR
 golagi,Golantas,Giannis,1959-03-12,GRE, , 
 golath,Golas,Theodoros,1960-07-18,GRE, , 
+golevl,Golemić,Vladimir,1991-06-28,SRB,Kruševac,SRB
 golini,Golias,Nikos,1993-07-29,GRE,Karditsa,GRE
 golith,Golias,Theodoros,1966-05-27,GRE, , 
 goliva,Golias,Vasilios,1985-06-04,GRE,Ioannina,GRE
@@ -2011,6 +2124,7 @@ gonita,Gonias,Takis,1971-10-06,GRE,Livadia,GRE
 goniva,Goniotakis,Vasilios,1979-09-29,GRE,Rethhymno,GRE
 gontch,Gontzos,Charalabos,1982-12-15,GRE,Laurio,GRE
 gonzan,Gonzaga,Anderson,1983-12-29,BRA,Porto Feliz,BRA
+gonzed,González,Eder,1997-01-07,SPA,Palma de Mallorca,SPA
 gonzez,González,Ezequiel,1980-07-10,ARG,Rosario,ARG
 gonzga,González,Gastón,1988-02-23,ARG,Buenos Aires,ARG
 gonzgo,González,Gonzalo,1993-10-07,URU,Rocha,URU
@@ -2019,11 +2133,14 @@ gonzma,Gonzalez,Mariano,1980-12-31,ARG,Rosario,ARG
 gonzmc,Carcela-González,Mehdi,1989-07-01,MAR,Liège,BEL
 gonzsn,González,Sergio Nelson,1961-03-12,ARG, , 
 gonzto,González,Toni,1982-01-07,SPA,Albacete,SPA
+goraiv,Goranov,Ivan,1992-06-10,BUL,Velingrad,BUL
 gorama,Goranov,Martin,1973-06-15,BUL, ,BUL
 gorban,Gorbunov,Andrey,1983-05-29,BLR,Mogilev,BLR
+gordva,Gordeziani,Vasileios,2002-01-29,GRE,Thessaloniki,GRE
 gorkka,Gorkšs,Kaspars,1981-11-06,LAT,Riga,LAT
 gosevl,Gosev,Vlatko,1974-09-10,MAC, ,MAC
 gotova,Gotovos,Vangelis,1986-08-13,GRE,Thessaloniki,GRE
+gotsg1,Gotsoulias,Giannis,1990-03-15,GRE,Patras,GRE
 gotsgi,Gotsis,Giannis,1966-01-23,GRE, , 
 gottmi,Gottwald,Michał,1981-04-29,SVK,Čadca,SVK
 gotzge,Gotzamanidis,Georgios,1967-02-07,GRE, , 
@@ -2065,13 +2182,16 @@ gramni,Grammenos,Nikolaos,1963-05-11,GRE, ,
 granar,Graña,Ariel,1976-01-19,ARG,Buenos Aires,ARG
 granfr,Grandel,Franck,1978-03-17,GDL,Pointe-à-Pitre,GDL
 grasda,Grassi,Davide,1986-01-13,ITA,Montecchio,ITA
+gratjo,Graterol,Joel,1997-02-13,VEN,Valencia,VEN
 graudi,Graur,Dinu,1994-12-27,MOL,Chișinău,MOL
 gravgi,Gravanis,Giannis,1958-01-16,GRE,Domokos,GRE
+grayan,Gray,Andre,1991-06-26,JAM,Wolverhampton,ENG
 grazse,Grazzini,Sébastián,1981-01-25,ARG,Santa Fe,ARG
 grbipe,Grbić,Petar,1988-08-07,MNT,Podgorica,MNT
 grecle,Greco,Leandro,1986-07-19,ITA,Roma,ITA
 grekth,Grekos,Thomas,1991-04-18,GRE,Thessaloniki,GRE
 gretar,Grétarsson,Arnar,1972-02-20,ISL,Reykjavík,ISL
+grfxdv,Gróf,Dávid,1989-04-17,HUN,Budapest,HUN
 gribmi,Gribilas,Michalis,1968-08-04,GRE, , 
 grigal,Grigorakis,Alexandros,1995-11-22,GRE, ,GRE
 griggi,Grigoriou,Giannis,1966-01-14,GRE, , 
@@ -2082,6 +2202,7 @@ grilfa,Grillo,Fausto,1993-02-20,ARG,Bariloche,ARG
 grilni,Grillas,Nikolaos,1964-12-08,GRE, , 
 grimar,Grimaj,Armir,1974-06-16,ALB,Shkodër,ALB
 grivfr,Grivas,Frixos,2000-09-23,GRE,Livadia,GRE
+grnnse,Grønning,Sebastian,1997-02-03,DEN,Aalborg,DEN
 gromch,Gromitsaris,Christos,1991-02-10,GRE,Agrinio,GRE
 grondi,Grontis,Dimitrios,1994-08-21,GRE,Distomo,GRE
 grosp1,Grosios,Panagiotis,1997-02-28,GRE,Argos,GRE
@@ -2118,6 +2239,7 @@ habeju,Haber,Justin,1981-06-09,MAL,Floriana,MAL
 hablja,Hable,Jan,1989-01-04,CZE,Karlove,CZE
 hadjya,Hadji,Yacine,1993-03-09,FRA, ,FRA
 hagaeb,Hagan,Ebenezer,1975-10-01,GHA,Kumasi,GHA
+hajriz,Hajrović,Izet,1991-08-04,BOS,Brugg,SUI
 hajseh,Hajsafi,Ehsan,1990-02-25,IRN,Kashan,IRN
 halaae,El Halawany,Amr,1985-03-15,EGY,Monufia,EGY
 haleha,Halent, ,0000-00-00, , , 
@@ -2125,6 +2247,7 @@ halkbr,Halkiadakis,Bruno,0000-00-00,GRE, ,GRE
 hamdah,Hamdi,Ahmed,1986-03-07,EGY,Al-Qusayr,EGY
 hamdra,Hamdani,Rachid,1985-04-08,MAR,Toul,FRA
 hammri,Hammadou,Riad,1976-12-05,ALG,Algier,ALG
+hammst,Hammond,Stephen,1996-08-06,GHA,Accra,GHA
 hamrto,Hamrik,Tomas,1966-09-23,CZE,Brno,CZE
 hamxmv,van Ham,Maurice,1966-04-25,NED,Den Helder,NED
 hanifl,Hanin,Florent,1990-02-04,FRA,Marfleur,FRA
@@ -2182,6 +2305,8 @@ huanhu,Huanderson, ,1983-08-03,BRA,Goiânia,BRA
 hubchr,Hubchev,Hristofor,1995-11-24,BUL, ,BUL
 hultni,Hult,Niklas,1990-02-13,SWE,Värnamo,SWE
 hurtmo,Hurtado,Moisés,1981-02-20,SPA,Manresa,SPA
+hwanin,Hwang,In-beom,1996-09-20,KOR,Daejeon,KOR
+hwanui,Hwang,Ui-jo,1992-08-28,KOR,Seongnam,KOR
 hykaja,Hyka,Jahmir,1988-03-08,ALB,Tiranë,ALB
 hysike,Hysi,Kevi,1995-06-18,ALB, ,ALB
 iachol,Iachtchouk,Oleg,1977-10-26,BEL,Lanivtsi Raion,UKR
@@ -2245,6 +2370,7 @@ insuem,Insúa,Emanuel,1991-04-10,ARG,Buenos Aires,ARG
 intzch,Intzidis,Christos,1993-01-09,GRE,Thessaloniki,GRE
 intzle,Intzoglou,Lefteris,1987-03-03,GRE,Korydallos,GRE
 ioakge,Ioakimidis,Georgios,1953-07-25,GRE,Patras,GRE
+ioanc1,Ioannidis,Christos,2004-07-28,GRE,Katerini,GRE
 ioanch,Ioannou,Christos,1980-06-03,GRE, ,GRE
 ioandi,Ioannou,Dimitrios,1977-03-16,GRE,Athina,GRE
 ioanfo,Ioannidis,Fotis,2000-01-10,GRE,Athen,GRE
@@ -2283,6 +2409,7 @@ issapi,Issa,Pierre,1975-09-11,RSA,Johannesburg,RSA
 itabke,Itabel,Kevin,1993-08-20,ARG,Florida,ARG
 itanch,Itandje,Charles,1982-11-02,CMR,Bobigny,FRA
 itoube,Itoua,Bernard,1988-09-07,FRA,Blois,FRA
+iturju,Iturbe,Juan,1993-06-04,PAR,Buenos Aires,ARG
 ivanan,Ivanschitz,Andreas,1983-10-15,AUT,Eisenstadt,AUT
 ivanga,Ivanov,Galin,1975-04-06,BUL,Dobrich,BUL
 ivaniv,Ivanov,Ivan,1988-02-25,BUL,Zlatitsa,BUL
@@ -2310,6 +2437,7 @@ jakuel,Jakupović,Eldin,1984-10-02,SUI,Kozarac,BOS
 jakufr,Jakubec,Frantisek,1956-04-12,CZE,Cesky Brod,CZE
 jamaar,Jamal,Arago,1993-08-28,GHA,Accra,GHA
 jamema,James,Manjrekar,1993-08-05,CAN,Roseau,DCA
+janade,Janaqi,Deivid,2003-07-21,ALB, ,ALB
 janchr,Jančetić,Hrvoje,1981-02-10,CRO,Zagreb,CRO
 janggh,Jang,Gyeol-Hee,1998-04-04,KOR,Seoul,KOR
 janjra,Janjanin,Rajko,1957-01-18,CRO,Karlovac, 
@@ -2326,13 +2454,16 @@ jeanje,Jean, ,1983-08-12,BRA,Canoinhas,BRA
 jeggja,Jeggo,James,1992-02-12,AUS,Wien,AUT
 jender,Jendrišek,Erik,1986-10-26,SVK,Trstená,SVK
 jensmb,Jensen,Mikkel Bo,1978-01-13,DEN,Herlev,DEN
+jereal,Jeremejeff,Alexander,1993-10-12,SWE,Kungsbacka,SWE
 jerejl,Jerez,José Luis,1978-06-26,CHI,Santiago de Chile,CHI
 jermma,Jermen,Mario,1975-02-02,AUS, ,AUS
 jeroje,Jero, ,1977-09-19,SPA,Lorca,SPA
 jeseve,Ješe,Vedran,1981-02-03,CRO,Banja Luka,BOS
 jesuri,Jesus,Ricardo,1985-05-16,BRA,Campinas,BRA
+jevtda,Jevtić,Darko,1993-02-08,SUI,Basel,SUI
 jevtzo,Jevtović,Zoran,1958-04-20,SRB,Gornji Milanovac, 
 jimeea,Jimenez,Eusebio Alexander Vílchez,1977-10-09,SPA, ,SPA
+jnssje,Jønsson,Jens,1993-01-10,DEN,Aarhus,DEN
 joaofe,Joao,Fernando,1994-05-26,ARG,Caseros,ARG
 jocijo,Jocimar, ,1979-01-18,BRA,Vila Vehla,BRA
 johaja,Johansson,Jakob,1990-06-21,SWE,Trollhättan,SWE
@@ -2390,6 +2521,7 @@ kaffge,Kaffes,Georgios,1973-05-14,GRE, ,
 kafkan,Kafkenaris,Anastasios,1959-08-15,GRE, , 
 kagash,Kagawa,Shinji,1989-03-17,JAP,Kōbe,JAP
 kagich,Kagiouzis,Christos,1981-02-23,GRE, ,GRE
+kahfba,Kahfi,Bagus,2002-01-16,INA,Magelang,INA
 kahrda,Kahriman,Damir,1984-11-19,SRB,Beograd,SRB
 kahrvo,Kahraman,Volkan,1979-10-10,AUT,Wien,AUT
 kaidgi,Kaidatzis,Giorgos,1982-04-18,GRE, ,GRE
@@ -2465,6 +2597,8 @@ kaltni,Kaltsas,Nikolaos,1990-05-03,GRE,Veria,GRE
 kalydi,Kalykas,Dimitrios,1974-05-17,GRE,Piräus,GRE
 kalyge,Kalyvis,Georgios,1972-05-24,GRE, , 
 kalygi,Kalyvopoulos,Giannis,1986-07-17,GRE, ,GRE
+kamaab,Kamara,Aboubakar,1995-03-07,FRA,Gonesse,FRA
+kamabr,Kamau,Bruce,1995-03-28,AUS,Nairobi,KEN
 kamajo,Kamara,John,1988-12-05,SLE,Freetown,SLE
 kamawi,Kamavuaka,Wilson,1990-03-29,DRC,Düren,GER
 kambak,Kambala,Albert Kanta,1958-05-25,DRC, ,DRC
@@ -2485,6 +2619,7 @@ kandma,Kandilakis,Manolis,1990-04-04,GRE,Heraklion,GRE
 kanege,Kanellopoulos,Georgios,2000-01-29,GRE, ,GRE
 kanegi,Kanellakis,Giorgos,2001-02-22,GRE,Volos,GRE
 kaneko,Kanellos,Konstantinos,1957-12-06,GRE, , 
+kanema,Kané,Mamadou,1997-01-22,GUI,Conakry,GUI
 kaneyb,Boé-Kane,Yann,1991-04-05,FRA,Angoulême,FRA
 kanoat,Kanoulas,Athanasios,1992-02-19,GRE,Thessaloniki,GRE
 kanoio,Kanotidis,Ioannis,1979-05-02,GRE,Vasileios,GRE
@@ -2559,6 +2694,7 @@ karagA,Karaberis,Georgios,1969-08-16,GRE, ,
 karagB,Karagiannis,Georgios,1963-05-11,GRE, , 
 karagC,Karamichalos,Georgios,1961-01-14,GRE,Volos,GRE
 karagD,Karaiskos,Georgios,1954-08-10,GRE,Budapest,HUN
+karagE,Karakasidis,Georgios,2005-01-31,GRE, ,GRE
 karage,Karaisaridis,Georgios,1971-04-02,GRE,Brüssel,GRE
 karagi,Karalis,Giannis,1988-11-06,GRE,Athina,GRE
 karai1,Karagiorgos,Ilias,1962-10-30,GRE, , 
@@ -2605,6 +2741,7 @@ karav6,Karagiannis,Vasilis,1969-09-27,GRE, ,GRE
 karav7,Karavelis,Vangelis,1961-08-05,GRE, , 
 karava,Karachalios,Vangelis,2003-02-03,GRE, ,GRE
 karazi,Karachalios,Zisis,1996-01-10,GRE,Karditsa,GRE
+karbmi,Karbownik,Michał,2001-03-13,POL,Radom,POL
 kardal,Kardaris,Alexandros,2001-01-14,GRE, ,GRE
 kardch,Kardaris,Charalampos,1967-09-10,GRE, , 
 kardjz,Kardos,József,1960-03-22,HUN,Nagybátony,HUN
@@ -2715,9 +2852,11 @@ kazavl,Kazakis,Vlasis,1983-06-17,GRE, ,GRE
 kazigi,Kazilidis,Giorgos,1977-09-04,GRE, ,GRE
 kazija,Kazimierski,Jacek,1959-08-17,POL,Warszawa,POL
 kaznko,Kaznaferis,Konstantinos,1987-06-22,GRE,Arta,GRE
+kdzito,Kędziora,Tomasz,1994-06-11,POL,Sulechów,POL
 kebale,Kebadze,Levan,1975-02-21,GEO, ,GEO
 kechma,Kechagioglou,Manolis,0000-00-00,GRE, , 
 kechni,Kechagias,Nikolaos,1969-04-21,GRE,Volos,GRE
+kechwa,Kechrida,Wajdi,1995-11-05,TUN,Nice,FRA
 kefaa1,Kefalas,Anastasios,1980-02-08,GRE, , 
 kefaan,Kefaloukas,Antonis,1975-05-27,GRE, ,GRE
 kefala,Kefaloukos,Labros,1982-03-31,GRE, ,GRE
@@ -2758,6 +2897,7 @@ kilidi,Kiliaras,Dimitris,1986-03-23,GRE,Heraklion,GRE
 kiligi,Kiliaras,Giannis,1988-06-09,GRE,Nea Alikarnasos,GRE
 kinava,Kinalis,Vasilios,1999-04-22,GRE, ,GRE
 kingde,King,Devanir,1970-07-01,POR,São Paulo,BRA
+kinket,Kinkoue,Etienne,2002-01-14,FRA,Lyon,FRA
 kinodj,Kinonda,Djogani,1976-02-06,CGO, ,CGO
 kiorat,Kiorpes,Athanasios,1971-04-13,GRE, , 
 kiosch,Kiosses,Christos,1971-01-03,GRE, , 
@@ -2777,8 +2917,10 @@ kitsev,Kitsas,Evgenios,1982-08-12,GRE,Alexandreia,GRE
 kitsfo,Kitsos,Fotios,2003-03-31,GRE, ,GRE
 kitsst,Kitsiou,Stelios,1993-09-28,GRE,Thessaloniki,GRE
 kivrky,Kivrakidis,Kyriakos,1992-07-21,GRE,Berlin,GER
+kjarvi,Kjartansson,Viðar,1990-03-11,ISL,Selfoss,ISL
 kladji,Kladrubský,Jiří,1985-11-19,CZE,České Budějovice,CZE
 klaibo,Klaiman,Boris,1990-10-26,ISR,Vinnytsia,UKR
+kleils,Kleinheisler,László,1994-04-08,HUN,Kazincbarcika,HUN
 klejig,Klejch,Igor,1964-03-28,SVK, ,SVK
 klepat,Klepousnalis,Athanasios,1963-03-05,GRE, , 
 kliage,Kliafas,Georgios,1986-03-03,GRE, ,GRE
@@ -2798,12 +2940,14 @@ kmieka,Kmiecik,Kazimierz,1951-09-19,POL,Węgrzce Wielkie,POL
 knakma,Knakal,Martin,1984-04-17,CZE, ,CZE
 knetch,Knett,Christopher,1990-08-01,AUT,Wien,AUT
 knigle,Knight,Leon,1982-09-16,ENG,Hackney,ENG
+knocan,Knockaert,Anthony,1991-11-20,FRA,Roubaix,FRA
 knolru,Knol,Ruud,1981-03-13,NED,Zevenaar,NED
 knopri,Knopper,Richard,1977-08-29,NED,Rijswijk,NED
 kobada,Kobayashi,Daigo,1983-02-19,JAP,Fuji,JAP
 kobapa,Kobayashi,Paulo,1970-01-09,BRA,Osasco,BRA
 kocael,Koça,Elton,1973-08-05,ALB, ,ALB
 kocimi,Kocič,Milan,1990-02-16,SLO, ,SLO
+koelal,Koșelev,Alexei,1993-11-19,MOL,Chișinău,MOL
 koenmi,König,Miroslav,1972-06-01,SVK,Nitra,SVK
 koenva,Koentas,Vangelis,1972-06-30,GRE, ,GRE
 koffdi,Koffas,Dimitrios,1971-07-26,GRE, , 
@@ -2819,6 +2963,7 @@ kokese,Koke, ,1983-04-27,SPA,Málaga,SPA
 kokkan,Kokkalas,Antonis,1992-02-16,GRE,Chania,GRE
 kokkko,Kokkinakis,Kostas,1987-05-05,GRE, ,GRE
 kokkni,Kokkalis,Nikos,1995-01-28,GRE, ,GRE
+kokkso,Kokkinis,Sotirios,2000-07-11,GRE,Preveza,GRE
 kokodr,Kokotovic,Dragan,1953-03-01,SRB,Belgrad, 
 kokoge,Kokolakis,Georgios,1960-08-03,GRE,Rethymno,GRE
 kolabl,Kola,Bledar,1972-08-01,ALB,Mirditë,ALB
@@ -2915,6 +3060,7 @@ kontoa,Kontor,Owusu-Ansah,1993-08-24,GHA,Kumasi,GHA
 kontpe,Konteon,Petros,1984-05-09,GRE,Thessaloniki,GRE
 konts1,Kontakis,Spyros,1971-02-04,GRE, , 
 kontsp,Kontopoulos,Spiridon,1985-08-23,GRE, ,GRE
+kontv1,Kontonikos,Vasilios,2005-10-11,GRE, ,GRE
 kontva,Kontogiannis,Vangelis,2002-01-09,GRE, ,GRE
 kopich,Kopitsis,Charis,1969-03-05,GRE,Athen,GRE
 kopsso,Kopsachilis,Sokratis,1972-10-15,GRE,Piräus,GRE
@@ -2944,6 +3090,7 @@ kosogi,Kosoglou,Gioven,1983-01-29,GRE, ,GRE
 kostat,Kostoulas,Athanasios,1976-03-24,GRE,Volos,GRE
 kostc1,Kostis,Christos,1972-01-15,GRE,Thessaloniki,GRE
 kostch,Kostakis,Charis,1990-07-12,GRE,Ioannina,GRE
+kostg1,Kosteas,Georgios,2003-04-16,GRE, ,GRE
 kostge,Kostikos,Georgios,1958-04-26,GRE,Tashkent, 
 kostgi,Kostis,Giorgos,1972-10-07,GRE,Trikala,GRE
 kostio,Kosti,Ioannis,2000-03-17,CYP,Larnaka,CYP
@@ -2959,6 +3106,7 @@ kostv1,Kostis,Vangelis,1979-10-31,GRE,Trikala,GRE
 kostva,Kostikas,Vasilis,1999-09-04,GRE, ,GRE
 kostzl,Kostić,Zlatko,1973-08-09,SRB,Podgorica,SRB
 kosyva,Kosyfologos,Vasilios,1982-01-06,GRE, ,GRE
+kotado,Kotarski,Dominik,2000-02-10,CRO,Zabok,CRO
 kotako,Kotarelas,Konstantinos,1979-01-28,GRE,Larisa,GRE
 kotief,Kotitsas,Efthimios,1986-03-25,GRE, ,GRE
 kotipa,Kotidis,Panagiotis,1959-05-05,GRE,Katerini,GRE
@@ -3005,6 +3153,7 @@ koule1,Kouloucheris,Efthimios,1981-03-10,GRE, ,GRE
 koulef,Koulouris,Efthimios,1996-03-06,GRE,Skydra,GRE
 koulge,Koulakiotis,Georgios,1977-05-05,GRE,Veroia,GRE
 koulil,Koulianopoulos,Ilias,1974-03-03,GRE, , 
+koulko,Koulierakis,Konstantinos,2003-11-28,GRE, ,GRE
 koulmi,Koulouris,Michalis,1961-05-18,GRE, , 
 koulth,Koulouris,Thomas,1991-09-30,GRE, ,GRE
 koulva,Kouloukidis,Vasilis,1983-12-22,GRE, ,GRE
@@ -3121,12 +3270,15 @@ krstra,Krstović,Radovan,1963-09-17,SRB, ,
 krstsa,Krstev,Sašo,1975-11-01,MAC,Negotino,MAC
 krupne,Krupniković,Nebojsa,1973-08-15,SRB,Požega, 
 krusja,Kruse,Jan,1968-08-31,NOR, ,NOR
+krycgr,Krychowiak,Grzegorz,1990-01-29,POL,Gryfice,POL
 kryova,Kryos,Vangelis,1973-09-23,GRE,Mouzaki,GRE
+krypch,Kryparakos,Christos,2003-06-12,GRE,Athen,GRE
 krzier,Kržišnik,Erik,1974-03-08,SLO, ,SLO
 ktisge,Ktistopoulos,Georgios,1996-08-19,GRE,Thessaloniki,GRE
 kuatwa,Kuaté,Wato,1995-09-19,CMR,Douala,CMR
 kubifr,Kubík,František,1989-03-14,SVK,Prievidza,SVK
 kuchce,Kucharski,Cezary,1972-02-17,POL,Lukow,POL
+kuenan,Kuen,Andreas,1995-03-24,AUT,Zams,AUT
 kuipni,Kuiper,Nicky,1989-06-07,NED,Arnhem,NED
 kukeda,Kukec,Davor,1986-03-16,CRO,Zagreb,CRO
 kukima,Kukiełka,Mariusz,1976-11-07,POL,Tarnobrzeg,POL
@@ -3135,18 +3287,22 @@ kuljsa,Kuljić,Sanel,1977-10-10,AUT,Hallein,AUT
 kuloen,Kulovits,Enrico,1974-12-29,AUT,Güttenbach,AUT
 kumaro,Kumadey,Robert,1998-06-01,GHA, ,GHA
 kumobe,Kumordzi,Bennard,1985-03-21,GHA,Accra,GHA
+kundpi,Kunde,Pierre,1995-07-26,CMR,Limbé,CMR
 kunipe,Kunić,Petar,1993-07-15,BOS,Drvar,BOS
 kupcja,Kupcewicz,Janusz,1955-12-09,POL,Gdańsk,POL
 kuqinj,Kuqi,Njazi,1983-03-25,FIN,Vushtrri,KOS
 kurdah,Kurdughli,Ahmed,1974-03-21,SYR, ,SYR
 kurdam,Kurdi,Amiri,1991-09-11,KSA,Al-Riyadh,KSA
 kurero,Kurež,Robert,1991-07-20,SLO,Ptuj,SLO
+kurtja,Kurtić,Jasmin,1989-01-10,SLO,Črnomelj,SLO
 kurzma,Kurzeja,Mariusz,1973-05-31,POL, ,POL
 kushkr,Kushta,Kristian,1997-12-16,ALB,Vlorë,ALB
 kushso,Kushta,Sokol,1964-08-17,ALB, , 
 kuteda,Kutev,Daniel,1991-03-06,BUL,Zlatograd,BUL
 kuzbma,Kuźba,Marcin,1977-04-15,POL,Tomaszów Mazowiecki,POL
+kuzdja,Kuzdra,Jakub,1997-12-08,POL,Tarnów,POL
 kuzyor,Kuzyk,Orest,1995-05-17,UKR,Lviv,UKR
+kvarmi,Škvarka,Michal,1992-08-19,SVK,Martin,SVK
 kvirda,Kvirkvelia,Dato,1980-06-27,GEO,Lanchkhuti,GEO
 kwafma,Kwafo,Marshal,1984-08-26,GHA, ,GHA
 kynipa,Kynigopoulos,Panagiotis,1996-09-24,GRE, ,GRE
@@ -3162,14 +3318,18 @@ kyridi,Kyriakidis,Dimitrios,1986-09-24,GRE,Kavala,GRE
 kyrig1,Kyriakopoulos,Giorgos,1990-08-21,GRE, ,GRE
 kyrig2,Kyriazis,Giorgios,1980-02-28,GRE,Saloniki,GRE
 kyrig3,Kyriakidis,Giannis,0000-00-00,GRE, , 
+kyrig4,Kyriopoulos,Georgios,2004-08-24,GRE, ,GRE
 kyrige,Kyriakopoulos,Georgios,1965-07-27,GRE, ,GRE
 kyrigi,Kyriakopoulos,Giorgos,1996-02-05,GRE,Patras,GRE
+kyriil,Kyritsis,Ilias,1997-10-14,GRE,Frankfurt am Main,GER
 kyriko,Kyriakidis,Kostas,1974-05-24,GRE,Drama,GRE
 kyrila,Kyrillidis,Lazaros,1963-04-09,GRE,Galanovrysi,GRE
 kyrimi,Kyriakidis,Michalis,1966-06-30,GRE, , 
 kyrip1,Kyriakopoulos,Panagiotis,1958-10-23,GRE,Kyparissi,GRE
 kyripa,Kyriakidis,Pavlos,1991-09-03,GRE,Kozani,GRE
+kyripe,Kyritsas,Petros,2003-08-06,GRE, ,GRE
 kyrith,Kyriakoulis,Theodoros,1966-05-02,GRE, , 
+kyrkia,Kyrkos,Iason,2003-03-21,GRE, ,GRE
 kyvele,Kyvelidis,Leonidas,1986-02-08,GRE,Jambyl,KAZ
 kyzadi,Kyzas,Dimitrios,1953-09-06,CYP,Paralimni,CYP
 kyzeni,Kyzeridis,Nikolaos,1971-04-20,GRE,Thessaloniki,GRE
@@ -3215,6 +3375,7 @@ lampdi,Lampidis,Dimitrios,1960-09-13,GRE, ,
 lampg1,Lampropoulos,Georgios,1979-07-27,GRE,Pyrgos,GRE
 lampge,Lampropoulos,Georgios,1999-08-12,GRE, ,GRE
 lampio,Lampropoulos,Iosif,1988-01-18,GRE,Patra,GRE
+lampko,Lampropoulos,Konstantinos,2003-04-21,GRE, ,GRE
 lampla,Lamprou,Lazaros,1997-12-19,GRE,Katerini,GRE
 lamppa,Lamprinos,Panagiotis,1955-09-14,GRE, , 
 lampsp,Lamprou,Spyros,1990-06-24,GRE, ,GRE
@@ -3231,6 +3392,8 @@ lappni,Lappas,Nikolaos,1960-09-01,GRE,Filippiada,GRE
 lapsst,Lapsanis,Stavros,0000-00-00,GRE, , 
 larrma,Larroque,Maxime,1989-02-20,FRA, ,FRA
 larsda,Larsson,Daniel,1987-01-25,SWE,Göteborg,SWE
+larser,Larsson,Eric,1991-07-15,SWE,Gävle,SWE
+larsjU,Larsson,Jacob Une,1994-04-08,SWE,Stockholm,SWE
 larspe,Larsson,Peter,1972-05-02,SWE, , 
 lasnan,Lasnik,Andreas,1983-11-09,AUT,Voitsberg,AUT
 latkma,Latka,Martin,1984-09-28,CZE,Ceske Budejovice,CZE
@@ -3241,6 +3404,7 @@ lazadi,Lazarou,Dimitrios,1970-08-06,GRE, ,
 lazag1,Lazarou,Giannis,1960-02-07,GRE, , 
 lazage,Lazaridis,Georgios,1983-07-23,GRE,Naousa,GRE
 lazagi,Lazaridis,Giorgos,1992-05-09,GRE,Xanthi,GRE
+lazail,Lazaridis,Ilias,2003-09-10,GRE,Kozani,GRE
 lazaio,Lazanas,Ioannis,1980-05-05,GRE,Athen,GRE
 lazak1,Lazaris,Konstantinos,1980-10-30,GRE, ,GRE
 lazako,Lazaridis,Kostas,1989-06-16,GRE,Sokhumi,GEO
@@ -3265,6 +3429,7 @@ lehtto,Lehtinen,Toni,1984-05-05,FIN,Seinäjoki,FIN
 leitbr,Leite,Bruno,1982-01-11,BRA, ,BRA
 leitha,Leitert,Hans,1973-01-15,AUT,Wien,AUT
 leitju,Leitner,Jürgen,1975-10-18,AUT,Wien,AUT
+leitlu,Leite,Luan,1996-05-31,BRA,Campo Grande,BRA
 lekbar,Lekbello,Artur,1966-02-23,ALB,Tirana,ALB
 lekiap,Lekidis,Apostolos,1968-03-01,GRE, , 
 lekoni,Leković,Nikola,1989-12-19,SRB,Beograd,SRB
@@ -3274,6 +3439,7 @@ lemmer,Lemmens,Erwin,1976-05-12,BEL,Wilrijk,BEL
 lemoka,Lemonis,Kaloudis,1995-11-11,GRE,Chalkidiki,GRE
 lemota,Lemonis,Takis,1960-01-13,GRE,Athen,GRE
 lencla,Lencse,László,1988-07-02,HUN,Győr,HUN
+lenire,Lenis,Reinaldo,1992-07-20,COL,Santiago de Cali,COL
 leondi,León,Diego,1984-01-16,SPA,Palencia,SPA
 leongi,Leontsakos,Giannis,2001-03-15,GRE,Stuttgart,GER
 leonjo,Leonardo,João,1985-06-25,BRA,Campinas,BRA
@@ -3347,6 +3513,7 @@ lluybr,Lluy,Brian,1989-04-25,ARG,Pergamino,ARG
 lobacr,Lobato, ,1989-03-07,SPA,Esparreguera,SPA
 lobznu,Lobzhanidze,Nugzar,1971-09-07,GEO, ,GEO
 lodxro,Lod,Robin,1993-04-17,FIN,Helsinki,FIN
+lodyy1,Lodygin,Yuriy,1990-05-26,RUS,Vladimir,RUS
 lodyyu,Lodygin,Yuri,1990-05-26,RUS,Vladimir,RUS
 logap1,Logaras,Panagiotis,1972-11-26,GRE,Stuttgart,GRE
 logapa,Logaras,Pavlos,2002-06-18,GRE, ,GRE
@@ -3354,6 +3521,7 @@ loisgi,Lois,Giannis,1973-05-31,GRE, ,
 loizal,Loizidis,Alexandros,1985-06-23,GRE, ,GRE
 lokemo,Lokenze,Momongo,1973-10-08,CGO, ,CGO
 lolial,Lolis,Alexandros,2002-09-05,GRE,Igoumenitsa,GRE
+lolini,Lolis,Nikolaos,2005-01-20,GRE, ,GRE
 lonczo,Loncar,Zoran,1966-12-13,SRB,Belgrad, 
 londdi,Londo,Dieudonné,1976-06-06,GAB,Libreville,GAB
 lopedi,Lopes,Diego,1994-05-03,BRA,São Paulo,BRA
@@ -3362,6 +3530,7 @@ lopein,López,Íñigo,1982-07-23,SPA,Logroño,SPA
 lopej1,López,Jorge,1978-09-19,SPA,Logroño,SPA
 lopejo,López,Jordi,1981-02-28,SPA,Granollers,SPA
 lopema,Lopes,Manuel,1982-08-19,POR, ,POR
+loper1,Lopes,Rony,1995-12-28,POR,Belém (PA),BRA
 lopero,López,Rodrigo,1978-01-21,URU,Montevideo,URU
 lorefe,Lorefice,Fernando,1983-12-05,ARG,Quilmes,ARG
 lorigi,Loria,Giorgi,1986-01-27,GEO,Tbilisi,GEO
@@ -3381,6 +3550,7 @@ loutti,Loutriotis,Timotheos,1981-07-26,GRE, ,GRE
 louvcy,Louvion,Cyriaque,1987-11-24,FRA,Port-Sauveur,FRA
 lovema,Lovera,Maximiliano,1999-03-09,ARG,Laguna Blanca,ARG
 lovifl,Lovin,Florin,1982-02-11,ROM,Piatra Neamţ,ROM
+lualka,LuaLua,Kazenga,1990-12-10,ENG,Kinshasa,DRC
 luallo,LuaLua,Lomana,1980-12-28,DRC,Kinshasa,DRC
 lucade,de Lucas, ,1986-09-20,SPA,Elche,SPA
 lucead,Lucero,Adrián,1985-08-16,ARG,Las Heras,ARG
@@ -3395,11 +3565,14 @@ lukami,Lukač,Milan,1985-10-04,SRB,Novi Sad,SRB
 lukane,Lukac,Nedeljko,0000-00-00,SRB, , 
 lukian,Lukić,Andrej,1994-04-02,CRO,Nova Gradiška,CRO
 lukivl,Lukić,Vladan,1970-02-16,SRB,Sopot,SRB
+lunaan,Luna,Antonio,1991-03-17,SPA,Son Servera,SPA
 lundch,Lundberg,Christian,1970-08-24,DEN,Skive,DEN
+lundra,Lundqvist,Ramon,1997-05-10,SWE,Algutsrum,SWE
 lupuda,Lupu,Dănuţ,1967-02-27,ROM,Galați,ROM
 lybed1,Lyberidis,Dimitrios,1965-08-02,GRE, , 
 lybedi,Lyberopoulos,Dimitris,1977-12-04,GRE, ,GRE
 lybeko,Lyberopoulos,Konstantinos,1982-05-21,GRE, ,GRE
+lybeod,Lyberakis,Odysseas,1998-06-05,GRE,Kavala,GRE
 lygnmi,Lygnos,Michalis,1974-02-12,GRE,Syros,GRE
 lygoma,Lygos,Manolis,1984-04-16,GRE,Piräus,GRE
 lykoch,Lykogiannis,Charalampos,1993-10-22,GRE,Piräus,GRE
@@ -3423,6 +3596,7 @@ machp1,Machairas,Panagiotis,1976-09-12,GRE,Athen,GRE
 machpa,Machado,Paulo,1986-03-31,POR,Cerco,POR
 machth,Macheras,Theodosis,2000-05-09,GRE, ,GRE
 machtr,Macheridis,Triantafyllos,1973-11-10,GRE,Drama,GRE
+machzi,Machach,Zinédine,1996-01-05,MAR,Marseille,FRA
 macima,Maciel, ,1978-11-29,BRA,Caxias,BRA
 macqla,Macquet,Laurent,1979-08-11,FRA,Lille,FRA
 madile,Madinda,Levy,1992-06-22,GAB,Libreville,GAB
@@ -3436,6 +3610,7 @@ magasa,Magalefa,Sam,1978-04-26,RSA, ,RSA
 magdah,Magdy,Ahmed,1986-05-24,EGY,Zagazeg,EGY
 maggth,Maggos,Thanasis,1990-05-16,GRE, ,GRE
 maghle,Maghradze,Levan,1977-12-05,GEO,Tbilisi,GEO
+magnhr,Magnússon,Hörður,1993-02-11,ISL,Reykjavík,ISL
 mahaaz,Mahamat,Azrack,1988-03-24,CHA,Créteil,FRA
 mahmaj,Mahmutović,Ajdin,1986-04-06,BOS,Doboj,BOS
 maholn,N'Gwat-Mahop,Louis,1987-09-16,CMR,Yaoundé,CMR
@@ -3452,6 +3627,7 @@ majojo,Majoroš,Jozef,1970-03-19,SVK,Geča,SVK
 majsda,Majstorović,Daniel,1977-04-05,SWE,Malmö,SWE
 majsiv,Majstorović,Ivica,1981-09-20,GER,München,GER
 majsmi,Majstorović,Milan,1960-02-28,SRB, , 
+makaan,Makatounakis,Antonis,2003-10-18,GRE,Heraklion,GRE
 makist,Makinwa,Stephen,1983-07-26,NGR,Lagos,NGR
 makogr,Makos,Grigoris,1987-01-18,GRE,Athen,GRE
 makoje,Makoun,Jean,1983-05-29,CMR,Yaoundé,CMR
@@ -3498,11 +3674,13 @@ maloan,Malousis,Anastasios,1967-02-22,GRE, ,
 maloiv,Malón,Iván,1986-08-26,SPA,Gandía,SPA
 maloka,Malouma,Kanieba,1963-07-03,DRC, ,DRC
 maloko,Maloumidis,Konstantinos,1956-03-06,GRE,Kesariana,GRE
+malopi,Malong,Pierre,1995-07-26,CMR,Limbé,CMR
 malsmi,Malsa,Mickaël,1995-10-12,MRQ,Paris,FRA
 mamako,Mamalos,Konstantinos,1990-01-05,GRE, ,GRE
 mamama,Mamakas,Markos,1956-05-19,GRE, , 
 mamost,Mamoulakis,Stavros,1988-02-03,GRE, ,GRE
 mamuyu,Mamute,Yuri,1995-05-07,BRA,Porto Alegre,BRA
+manag1,Manalis,Georgios,1994-12-21,GRE,Athina,GRE
 manage,Manafis,Georgios,1978-03-14,GRE, ,GRE
 manani,Maná,Nicolás,1994-03-25,ARG,Piamonte,ARG
 manaso,Manavis,Sotiris,1969-12-26,GRE, , 
@@ -3534,6 +3712,7 @@ manod1,Manousakis,Dimosthenis,1981-01-19,GRE, ,GRE
 manodi,Manos,Dimitrios,1994-09-16,GRE,Trikala,GRE
 manofi,Manojlović,Filip,1996-04-25,SRB,Belgrado,SRB
 manog1,Manousos,Giannis,1961-07-27,GRE,Mytilini,GRE
+manog2,Manousakis,Georgios,1998-04-10,GRE,Heraklion,GRE
 manoge,Manousos,Georgios,1987-12-03,GRE,Mytilini,GRE
 manogi,Manolakis,Giorgos,1999-05-28,GRE, ,GRE
 manok1,Manolas,Kostas,1991-06-14,GRE,Maxos,GRE
@@ -3572,6 +3751,7 @@ marast,Marangos,Stelios,1989-05-04,GRE,Veria,GRE
 maraza,Marathianos,Zacharias,1994-03-20,GRE, ,GRE
 marcca,Marcora,Carlos,1976-02-01,URU, ,URU
 marciv,Marcano, ,1987-06-23,SPA,Santander,SPA
+marcm1,Marcelo, ,1988-05-12,BRA,Rio de Janeiro,BRA
 marcma,Marcelinho, ,1987-06-22,BRA,Río de Janeiro,BRA
 marcnd,Marcelão, ,1981-01-23,BRA,Caloré,BRA
 marddi,Mardanis,Dimitrios,1979-02-05,GRE, ,GRE
@@ -3588,6 +3768,7 @@ marigi,Marinakis,Giannis,1965-06-26,GRE, ,
 marilu,Marinescu,Lucian,1972-06-24,ROM,București,ROM
 marim1,Marić,Marko,1983-04-25,CRO,Zagreb,CRO
 marim2,Maričić,Milan,1961-10-12,CRO, , 
+marim3,Marić,Marko,1996-01-03,CRO,Wien,AUT
 marima,Marin,Marko,1989-03-13,GER,Gradiska,BOS
 marimi,Marić,Miloš,1982-03-05,SRB,Titovo Užice,SRB
 marin1,Marin,Nicolas,1980-08-29,FRA,Marseille,FRA
@@ -3608,6 +3789,7 @@ markdi,Markos,Dimitrios,1971-01-31,GRE,Kilkis,GRE
 markge,Markou,Georgios,1967-03-01,GRE, , 
 markiv,Marković,Ivan,1994-06-20,SRB,Belgrad,SRB
 markko,Markopoulos,Konstantinos,1992-02-08,GRE,Drama,GRE
+markm1,Marković,Matej,1996-07-22,CRO,Zagreb,CRO
 markma,Markovski,Marko,1986-05-26,SRB,Beograd,SRB
 markmi,Marković,Miroslav,1989-11-04,SRB,Arandjelovac,SRB
 markne,Marković,Neven,1987-02-20,SRB, ,SRB
@@ -3615,6 +3797,7 @@ markni,Markou,Nikolaos,1970-08-11,GRE, ,
 marksv,Marković,Svetozar,2000-03-23,SRB,Bijeljina,BOS
 marlma,Marlon, ,1986-11-21,BRA,Rio de Janeiro,BRA
 marmch,Marmaridis,Christos,2002-05-25,GRE,Thessaloniki,GRE
+marmgu,Marmentini,Gustavo,1994-03-08,BRA,Cascavel,BRA
 marngi,Marnelakis,Giorgos,1975-05-23,GRE, ,GRE
 maroil,Maroulis,Ilias,1989-06-28,GRE, ,GRE
 maroma,Maroukakis,Mattheos,1990-01-04,GRE,Athina,GRE
@@ -3633,6 +3816,7 @@ martm1,Martínez,Manolo,1980-06-15,SPA,Bigastro,SPA
 martm2,Martínez,Mariano,1979-01-29,ARG,Buenos Aires,ARG
 martma,Martens,Maarten,1984-07-02,BEL,Eeklo,BEL
 martni,Martínez,Nicolás,1987-09-25,ARG,Viedma,ARG
+martr1,Martínez,Rubén,1989-12-08,SPA,Mahón,SPA
 martro,Martins,Rogério,1984-11-19,BRA,Uberaba,BRA
 martru,Martoglio,Ruben,1981-01-07,ARG,Almafuerte,ARG
 martst,Martsakis,Stefanos,1990-05-24,GRE,Chania,GRE
@@ -3650,6 +3834,7 @@ mastha,Mastour,Hachim,1998-06-15,MAR,Reggio Emilia,ITA
 masuar,Masuaku,Arthur,1993-11-07,DRC,Lille,FRA
 mateco,Matei,Cosmin,1991-09-30,ROM,Târgoviște,ROM
 mateda,Mateos, ,1987-04-22,SPA,Madrid,SPA
+matefl,Matei,Florentin,1993-04-15,ROM,Bolintin-Vale,ROM
 matesp,Matenzidis,Spyros,1990-07-23,GRE,Kilkis,GRE
 mathcl,Mathis,Clint,1976-11-25,USA,Conyers,USA
 mathkl,Mathiesen,Klaus,1963-07-06,DEN, , 
@@ -3660,6 +3845,7 @@ mativl,Matijašević,Vladimir,1978-05-10,SRB,Čačak,SRB
 matole,Matos,Léo,1986-04-02,BRA,Niterói,BRA
 matrpa,Matricardi,Patricio,1994-01-07,ARG,Florencio Varela,ARG
 matsfo,Matsangos,Fotis,1979-04-21,GRE, ,GRE
+matsl1,Matsoukas,Lefteris,1990-03-07,GRE,Athina,GRE
 matsle,Matsoukas,Leuteris,1986-03-07,GRE, ,GRE
 mattch,Mattheakis,Charis,1983-09-29,GRE, ,GRE
 mattma,Mattos,Marcelo,1984-02-10,BRA,Indiaporá,BRA
@@ -3686,6 +3872,7 @@ mavrm1,Mavromatis,Markos,1958-06-05,GRE,Athen,GRE
 mavrma,Mavroudis,Marios,1988-03-29,GRE, ,GRE
 mavrme,Mavraj,Mërgim,1986-06-09,ALB,Hanau,GER
 mavrni,Mavromatis,Nikolaos,1970-05-05,GRE, , 
+mavrp1,Mavroudis,Pavlos,2001-01-12,GRE,München,GER
 mavrpa,Mavridis,Panagiotis,1959-01-27,GRE,Serres,GRE
 mavrs1,Mavrodimos,Sotiris,1962-07-18,GRE,Eani,GRE
 mavrso,Mavromatis,Sotiris,1966-02-21,GRE,Alexandroupoli,GRE
@@ -3695,15 +3882,21 @@ mavrta,Mavridis,Tasos,1970-02-11,GRE, ,GRE
 mavrth,Mavrommatis,Theofanis,1997-01-16,GRE,Argos,GRE
 maweyo,Mawéné,Youl,1979-07-16,FRA,Caen,FRA
 maxxau,Max,Augusto,1992-08-10,ARG,San Miguel de Tucumán,ARG
+mazhbi,Mazhar,Bilal,2003-11-21,EGY,Châteauroux,FRA
+mazibr,Mazikou,Bradley,1996-06-02,CGO,Orléans,FRA
 mazicl,Mazibuko,Clement,1977-09-16,RSA, ,RSA
 mazngo,Maznov,Goran,1981-04-22,MAC,Strumica,MAC
+mazoky,Mazoulouxis,Kyriakos,1997-05-01,GRE,Thessaloniki,GRE
 mazufr,Mazurek,Franco,1993-09-24,ARG,Posadas,ARG
 mazzni,Mazzola,Nicolás,1990-01-28,ARG,Viedma,ARG
 mazzpa,Mazza,Pablo,1987-12-21,ARG,Pergamino,ARG
+mbakje,Mbakogu,Jerry,1992-10-01,NGR,Lagos,NGR
+mbaksa,M'Bakata,Salem,1998-04-19,FRA,Kinshasa,DRC
 mbowpa,M'Bow,Pape,1988-05-22,SEN,Guédiawaye,SEN
 meboal,Mebounou,Alphonse Luc,1970-10-18,CMR, , 
 mecene,Mece,Neshat,1995-08-11,ALB,Ersekë,ALB
 medihe,Medina,Hernan,1974-09-05,ARG,Córdoba,ARG
+medije,Medina,Jeison,1995-02-27,COL,Itagüí,COL
 medipa,Medina,Paolo,1999-05-28,MEX,Veracruz,MEX
 medjca,Medjani,Carl,1985-05-15,FRA,Lyon,FRA
 megaam,Megahed,Amir,1983-02-14,EGY,Cairo,EGY
@@ -3757,18 +3950,21 @@ messma,Messera,Mariano,1978-02-23,ARG,Posadas,ARG
 mestgi,Mesto,Giandomenico,1982-05-25,ITA,Monopoli,ITA
 mestmi,Mešter,Milan,1975-10-23,SRB, ,SRB
 meszlu,Meszároš,Ĺubomír,1979-03-23,SVK,Bratislava,SVK
+metadi,Metaxas,Dimitrios,2003-12-16,GRE, ,GRE
 metava,Metaxoulis,Vasilis,1995-06-19,GRE,Agrinio,GRE
 metest,Metentzidis,Stauros,0000-00-00,GRE, ,GRE
 metitu,Metin,Tümer,1974-10-14,TUR, ,TUR
 mettlu,Mettomo,Lucien,1977-04-19,CMR,Douala,CMR
 meulda,Meul,David,1981-07-03,BEL,Beveren,BEL
 mezava,Mézague,Valéry,1983-12-08,CMR,Marseille,FRA
+mezqni,Mezquida,Nicolás,1992-01-21,URU,Paysandú,URU
 michal,Michail,Alexandros,1986-08-18,GRE,Ioannina,GRE
 michar,Michalis,Aristidis,1990-09-19,GRE,Arta,GRE
 michat,Michopoulos,Athanasius,2002-01-20,GRE, ,GRE
 michc1,Michos,Charidimos,1981-03-15,GRE, ,GRE
 michc2,Michail,Christos,1962-02-28,GRE,Serres,GRE
 michch,Michailidis,Chrysostomos,1975-01-15,GRE,Ptolemaida,GRE
+michcl,Michelin,Clément,1997-05-11,FRA,Montauban,FRA
 michg1,Michalitsos,Giannis,1957-04-08,GRE,Veria,GRE
 michge,Michailidis,Georgios,0000-00-00,GRE, , 
 michgi,Michailidis,Giannis,2000-02-18,GRE,Giannitsa,GRE
@@ -3784,6 +3980,7 @@ michni,Michopoulos,Nikolaos,1970-02-20,GRE,Karditsa,GRE
 michpa,Michalik,Pavol,1951-11-29,SVK, , 
 michpe,Michos,Petros,1959-02-17,GRE,Agrinio,GRE
 michst,Michelis,Stratos,1982-11-02,GRE, ,GRE
+michth,Michopoulos,Thanasis,2002-01-20,GRE, ,GRE
 michva,Michas,Vasilios,1965-01-01,GRE, , 
 michza,Michailidis,Zacharias,1967-01-30,GRE, , 
 micoan,Mico,Antonio,2000-01-27,GRE,Athina,GRE
@@ -3819,6 +4016,7 @@ miloar,Milori,Arben,1969-11-22,ALB, ,
 milobr,Milovanović,Branko,1973-01-13,SRB,Osecina,SRB
 miloda,Miloc,Dardo,1990-10-16,ARG,La Plata,ARG
 milode,Milovanović,Dejan,1984-01-21,SRB,Sremska Mitrovica,SRB
+milofe,Milo,Federico,1992-01-10,ARG,Quilmes,ARG
 milogi,Milopoulos,Giannis,1965-02-21,GRE, , 
 milolj,Milojević,Ljubisa,1967-04-01,SRB, , 
 milon1,Milosavljević,Nedeljko,1960-12-12,SRB,Arandjelovac, 
@@ -3831,6 +4029,7 @@ milulu,Milunović,Luka,1992-12-21,SRB,Beograd,SRB
 mimiat,Mimito, ,1997-12-12,GBS,Bissau,GBS
 mimpse,Mimpo,Serge,1974-02-06,CMR,Ndom,CMR
 minagi,Minasian,Giannis,0000-00-00,GRE, , 
+minale,Mina,Leonid,2004-03-28,GRE, ,GRE
 minele,Mineiro,Léo,1980-02-03,BRA,Ipatinga,BRA
 mingch,Mingas,Christos,1984-04-15,GRE,Gjirokastër,ALB
 mingth,Mingos,Theodoros,1998-02-06,GRE,Athina,GRE
@@ -3859,6 +4058,7 @@ mitkst,Mitkas,Stavros,1996-00-00,GRE, ,GRE
 mitodi,Mitoglou,Dimitrios,1963-12-11,GRE, , 
 mitodu,Mitosevic,Dusan,1949-12-17,SRB,Zitiste, 
 mitoge,Mitoglou,Gerasimos,1999-10-20,GRE, ,GRE
+mitral,Mitriţă,Alexandru,1995-02-08,ROM,Craiova,ROM
 mitran,Mitropoulos,Anastasios,1957-08-23,GRE,Volos,GRE
 mitrdi,Mitrogiannis,Dimitrios,1979-12-07,GRE,Athen,GRE
 mitrio,Mitropoulos,Ioannis,1985-04-19,GRE, ,GRE
@@ -3879,12 +4079,14 @@ mitsma,Mitsopoulos,Manolas,1969-04-02,GRE,Palefito,GRE
 mituda,Mitu,Dan,1976-09-10,ROM,Bucuresti,ROM
 mitudu,Mitu,Dumitru,1975-02-13,ROM,Bucuresti,ROM
 mladne,Mladenović,Nemanja,1993-03-03,SRB,Valjevo,SRB
+mladse,Mladen,Sebastian,1991-12-11,ROM,Calafat,ROM
 mladsr,Mladenović,Srđan,1966-10-25,SRB,Niš,SRB
 mllear,Möller,Arne,1960-04-06,NOR, , 
 mobaga,Mobati,Gaston,1961-09-04,DRC,Kinshasa,DRC
 mochri,Mochulyak,Rienat,1998-02-15,UKR,Odessa,UKR
 modead,Modesto,Aílton de Oliveria,1980-02-27,BRA, ,BRA
 modefr,Modesto,François,1978-08-19,FRA,Bastia,FRA
+mohami,Mohammadi,Milad,1993-09-29,IRN,Teheran,IRN
 mohllo,Mohlala,Lovers,1976-12-02,RSA, ,RSA
 moisch,Moisiadis,Charalambos,1976-02-28,GRE, ,GRE
 moisla,Moisiadis,Lazaros,1992-07-01,GRE,Thessaloniki,GRE
@@ -3912,6 +4114,7 @@ moraer,Morán,Erik,1991-05-25,SPA,Portugalete,SPA
 morato,Moral,Toni,1981-08-29,SPA,Terrassa,SPA
 morava,Moras,Vangelis,1981-08-26,GRE,Larisa,GRE
 moravl,Morar,Vlad,1993-08-01,ROM,Crişeni,ROM
+moreaM,Moreira,Ahmad Mendes,1995-06-27,GUI,Schiedam,NED
 moreer,Moreno,Érick,1991-11-24,COL,Quibdó,COL
 morega,Moreira,Gabriel Almeida,1969-12-20,BRA, , 
 morema,Moretto, ,1978-05-10,BRA,Eldorado,BRA
@@ -3920,6 +4123,7 @@ morofd,Dal Moro,Filippo,1970-08-11,ITA,Treviso,ITA
 moroxa,Moro,Xavi,1975-05-22,SPA,Paris,FRA
 morrna,Morris,Nassif,1981-04-16,RSA,Cape Town,RSA
 morsba,Morsy,Basem,1992-01-01,EGY,Ṭanṭa,EGY
+morsjo,Morsay,Jonathan,1997-10-05,SWE,Sundsvall,SWE
 morxem,Mor,Emre,1997-07-24,TUR,Brønshøj,DEN
 moscal,Moschou,Alexandros,1971-03-03,GRE, , 
 moscch,Moschopoulos,Christos,1974-12-19,GRE, , 
@@ -3928,6 +4132,7 @@ moscth,Moschonas,Theodoris,1990-12-03,GRE,Athina,GRE
 mosipi,Mosimane,Pitso,1964-07-26,RSA,Kagiso, Gauteng
 moskxe,Moskogiannis,Xenofontas,1977-01-21,GRE,Pyrgos,GRE
 mosqal,Mosquera,Alejandro,1999-05-08,COL,Cimitarra,COL
+mosqsa,Mosquera,Santiago,1995-02-07,COL,Buenaventura,COL
 mostde,Mostahinić,Dean,1961-11-28,CRO, , 
 moucas,Mouchalis,Asterios,1997-02-04,GRE, ,GRE
 moudsa,Moudouroglou,Savvas,1991-12-15,GRE, ,GRE
@@ -3935,12 +4140,14 @@ mougyo,Moughfire,Youssef,1976-12-01,FRA,Lagny-sur-Marne,FRA
 moukan,Moukeas,Angelos,1986-05-01,GRE,Athen,GRE
 moukbe,Moukandjo,Benjamin,1988-11-12,CMR,Douala,CMR
 moukge,Moukeas,Georgios,1956-09-20,GRE,Piräus,GRE
+moukha,Moukoudi,Harold,1997-11-27,CMR,Bondy,FRA
 moukhe,Moukam,Hervaine,1994-05-24,FRA,Manjo,CMR
 moukst,Mouktaris,Stephanos,1994-07-10,CYP, ,CYP
 mouljm,Mouloungui,Jean-Martin,1969-11-30,GAB, ,GAB
 moult1,Moulopoulos,Thanasis,1985-06-09,GRE,Veria,GRE
 moulth,Moulin,Thibault,1990-01-13,FRA,Flers,FRA
 mounan,Mounier,Anthony,1987-09-27,FRA,Aubenas,FRA
+mounma,Mountes,Mattheos,2003-11-17,GRE, ,GRE
 mourch,Mouratidis,Charalampos,1981-04-21,GRE,Drama,GRE
 mourdi,Mourouzis,Dimitrios,1969-06-19,GRE, , 
 mourge,Mouratidis,Georgios,1974-06-08,GRE, , 
@@ -3949,13 +4156,17 @@ mourva,Mouratidis,Vassilis,1967-01-04,GRE,Drama,GRE
 mousba,Moustakidis,Babis,1962-01-18,GRE,Katerini,GRE
 mousch,Moustogiannis,Christos,1983-03-01,GRE, ,GRE
 mousdi,Moustakas,Dimitrios,1968-01-08,GRE, , 
+mousge,Moustakopoulos,Georgios,1998-08-13,GRE, ,GRE
 mousgi,Moustakis,Giorgios,1980-01-22,GRE, ,GRE
 mousis,Moustakidis,Isaak,1968-08-24,GRE,Drama,GRE
 mousko,Mousikakis,Kostas,0000-00-00,GRE, ,GRE
+mousla,Moustakas,Lampros,2003-09-18,GRE, ,GRE
 mousma,Moustakis,Manolis,1964-12-11,GRE, , 
+mousni,Moustakis,Nikos,1990-05-04,GRE,Athina,GRE
 mouspa,Moustafidis,Paulos,1986-06-30,GRE,Kentau,KAZ
 moutat,Moutsios,Athanasios,1978-10-10,GRE,Drama,GRE
 moutdi,Moutas,Dimitrios,1968-04-15,GRE,Stuttgart,GER
+moutmo,Moutinho, ,1991-02-26,POR,Genf,SUI
 mouzal,Mouzakitis,Alexandros,1994-08-04,GRE,Kerkyra,GRE
 mouzge,Mouzos,Georgios,1977-10-07,GRE, ,GRE
 mouzka,Mouzaoui,Karim,1975-11-20,ALG,Bitche,FRA
@@ -3963,6 +4174,7 @@ moyoze,Moyo,Zenzo,1975-12-24,ZIM, ,ZIM
 mpalpa,Mpalas,Panagiotis,1993-09-06,GRE, ,GRE
 mpokpj,Mpoku,Paul-José,1992-04-19,DRC,Kinshasa,DRC
 mrdami,Mrdaković,Milan,1982-05-06,SRB,Niš,SRB
+mrtejo,Mårtensson,Johan,1989-02-16,SWE,Skövde,SWE
 muchda,Muchotrigo,Darío,1970-12-17,PER,Lima,PER
 muelmi,Müller,Milton,1990-05-28,ARG,Rosario,ARG
 muenma,Münch,Markus,1972-09-07,GER,Nußloch,GER
@@ -4017,6 +4229,7 @@ nangle,Nangis,Lenny,1994-03-24,GDL,Basse-Terre,GDL
 nanoma,Nano, ,1984-10-27,SPA,Málaga,SPA
 naouzi,Naoum,Zizis,1994-01-17,GER,Athen,GRE
 napost,Napoleoni,Stefano,1986-06-26,ITA,Roma,ITA
+narekh,Narey,Khaled,1994-07-23,GER,Neuwied,GER
 nasigi,Nasiopoulos,Giorgios,1973-05-25,GRE, ,GRE
 nasipa,Nasis,Panagiotis,1970-02-03,GRE, , 
 nasiva,Nasiakos,Vangelis,1969-04-27,GRE,Trikala,GRE
@@ -4041,8 +4254,10 @@ nazida,Nazim,David,1996-11-07,NGR,Onitsha,NGR
 nazlth,Nazlidis,Thomas,1987-10-23,GRE,Thessaloniki,GRE
 ndawgu,N'Daw,Guirane,1984-04-24,SEN,Rufisque,SEN
 ndawmu,N'Daw,Mustafa,1981-11-15,GAM, ,GAM
+ndiaba,N'Diaye,Badou,1990-10-27,SEN,Dakar,SEN
 ndiase,N'Diaye,Seyni,1973-01-06,SEN,Dakar,SEN
 ndinde,N'Dinga,Delvin,1988-03-14,CGO,Pointe Noire,CGO
+ndojan,Ndoj,Andreas,2003-02-02,ALB,Athen,GRE
 ndoyda,N'Doye,Dame,1985-02-21,SEN,Thiès,SEN
 ndrial,Ndrita,Altin,1973-05-10,ALB, ,ALB
 neageu,Neagoe,Eugen,1967-08-22,ROM,Cornu,ROM
@@ -4070,6 +4285,7 @@ nestda,Nestorović,Darko,1965-04-04,BOS,Kakanj,
 netoda,Neto, ,1981-02-07,BRA,São José do Rio Preto,BRA
 neumhe,Neumann,Herbert,1953-11-14,GER,Köln,GER
 nexxma,Né,Marco,1983-07-17,CIV,Abidjan,CIV
+nezxcr,Núñez,Cristopher,1997-12-08,CRC,Cartago,CRC
 ngamal,N'Gambi,Alexis,1982-01-20,CMR,Esaka,CMR
 ngbaye,N'Gbakoto,Yeni,1992-01-23,FRA,Croix,FRA
 ngogda,N'Gog,David,1989-04-01,FRA,Gennevilliers,FRA
@@ -4107,6 +4323,7 @@ nikod4,Nikolaidis,Dimitrios,1963-06-13,GRE, ,
 nikode,Nikolaidis,Demis,1973-09-17,GRE,Gießen,GER
 nikodi,Nikolaou,Dimitrios,1998-08-13,GRE,Chalkida,GRE
 nikog1,Nikolaidis,Georgios,1984-03-30,GRE, ,GRE
+nikog2,Nikopolidis,Giannis,2000-12-08,GRE,Athen,GRE
 nikoge,Nikoltsis,Georgios,1992-04-06,GRE,Naousa,GRE
 nikogi,Nikolaidis,Giannis,1978-05-24,GRE, , 
 nikogr,Nikoloudis,Grigoris,1958-05-05,GRE, , 
@@ -4120,6 +4337,7 @@ nikomi,Nikolopoulos,Michalis,1980-02-26,GRE,Kalamata,GRE
 nikon1,Nikolaou,Nikos,1988-02-28,GRE, ,GRE
 nikon2,Nikolopoulos,Nikos,1977-08-10,GRE, ,GRE
 nikon3,Nikopoulos,Nikolaos,0000-00-00,GRE, , 
+nikone,Nikolić,Nemanja,2001-02-21,BOS,Zvornik,BOS
 nikoni,Nikolis,Nikitas,2002-06-16,GRE, ,GRE
 nikora,Nikodijević,Radoslav,1964-03-04,SRB, , 
 nikosi,Nikolić,Sinisa,1967-12-02,SRB,Stolac, 
@@ -4127,6 +4345,7 @@ nikosr,Nikolić,Srboljub,1965-04-01,SRB, ,
 nikost,Nikolaidis,Stratos,1969-02-11,GRE, , 
 nikota,Nikoloudis,Takis,1951-08-26,GRE,Thessaloniki,GRE
 nikoth,Nikolaidis,Theofilaktos,1973-07-21,GRE,Drama,GRE
+nikov1,Nikolaou,Vangelis,2004-06-03,GRE, ,GRE
 nikova,Nikokyrakis,Vangelis,2001-10-04,GRE,Heraklion,GRE
 nilifr,Nili, ,1994-02-18,SPA,Las Palmas de Gran Canaria,SPA
 nilsmi,Nilsson,Mikael,1978-06-24,SWE,Ovesholm,SWE
@@ -4139,10 +4358,12 @@ niopzi,Nioplias,Zisis,0000-00-00,GRE, ,
 nioumi,Niouman,Michail,1996-06-20,GRE, ,GRE
 nirava,Niras,Vassilis,1977-11-18,GRE, ,GRE
 nitipe,Nitis,Petros,1973-07-22,GRE, , 
+nkouni,N´Koulou,Nicolas,1990-03-27,CMR,Yaoundé,CMR
 noboch,Noboa,Christian,1985-04-09,ECU,Guayaquil,ECU
 nokakl,Noka,Klinton,1996-02-18,GRE, ,GRE
 nolidi,Nolis,Dimitrios,1967-09-21,GRE,Lechovo,GRE
 noller,Noll,Eric,1975-12-16,GER,Jena,GER
+nosiaf,Nosiru,Afeez,1998-03-01,NGR, ,NGR
 noskal,Nosković,Aleksandar,1988-12-12,SRB, ,SRB
 noukpa,Noukeu,Patrice,1982-11-22,CMR,Douala,CMR
 noulst,Noulis,Stergios,1975-07-19,GRE, ,GRE
@@ -4157,6 +4378,7 @@ novova,Novokhatskiy,Vasyl,1967-05-08,UKR,Kalynivka,UKR
 nowak1,Nowak,Krzysztof,1975-09-27,POL,Warszawa,POL
 nowakr,Nowak,Krystian,1994-04-01,POL,Ełk,POL
 nsalta,Nsaliwa,Tamandani,1982-01-28,CAN, ,MLW
+nsbeiv,Näsberg,Ivan,1996-04-22,NOR,Oslo,NOR
 nsiaol,N'Siabamfumu,Olivier,1986-03-17,FRA,Meaux,FRA
 nsikcl,N'Sikulu,Clarck,1992-07-10,DRC,Lille,FRA
 ntouko,Ntountoukis,Kostas,1990-04-20,GRE,Thessaloniki,GRE
@@ -4177,8 +4399,11 @@ obionw,Obiora,Nwankwo,1991-07-12,NGR,Kaduna,NGR
 obodch,Obodo,Chris,1984-05-11,NGR,Warri,NGR
 obrami,Obradović,Milan,1977-08-03,SRB,Beograd,SRB
 obrane,Obradović,Nemanja,1989-05-29,SRB,Beograd,SRB
+odubmo,Odubajo,Moses,1993-07-28,ENG,Greenwich,ENG
 oechma,Oechler,Marc,1968-02-11,GER,Nürnberg,GER
+oegoog,Ožegović,Ognjen,1994-06-09,SRB,Bosanska Gradiška,BOS
 ofoevo,Odjidja-Ofoe,Vadis,1989-02-21,BEL,Gent,BEL
+ofosre,Ofosu,Reagy,1991-09-20,GER,Hamburg,GER
 ofriso,Ofridopoulos,Sokratis,1973-10-26,GRE,Athina,GRE
 ogbeba,Ogbeche,Bartholomew,1984-10-01,NGR,Ogoja,NGR
 ognesa,Ognenovski,Saša,1979-04-03,AUS,Melbourne,AUS
@@ -4186,6 +4411,7 @@ ognjpe,Ognjenović,Perica,1977-02-24,SRB,Smederevska Palanka,SRB
 ogunpa,Ogunsoto,Patrick,1983-04-19,NGR, ,NGR
 oikoma,Oikonomou,Marios,1992-10-06,GRE,Ioannina,GRE
 okacpr,Okachi,Princewill,1991-06-20,NGR, ,NGR
+okajen,Çokaj,Enis,1999-02-23,ALB,Koplik,ALB
 okando,Okanu,Dominic,1984-11-21,NGR,Lagos,NGR
 okkayi,Okkas,Yiannis,1977-02-11,CYP,Larnaca,CYP
 okonmi,Okonski,Miroslaw,1958-12-08,POL,Koszalin,POL
@@ -4211,6 +4437,7 @@ omarae,El-Omari,Ali,1978-06-27,MAR,Chateau Dun,FRA
 omoxsu,Omo,Suleiman,1985-12-15,NGR,Kwara,NGR
 onwube,Onwuachi,Benjamin,1984-04-09,NGR,Lagos,NGR
 onyech,Onyemah,Chidi,1984-02-20,NGR,Lagos,NGR
+onyehe,Onyekuru,Henry,1997-06-05,NGR,Onitsha,NGR
 onyiif,Onyilo,Ifeanyi,1990-10-31,NGR,Enugu,NGR
 oracda,Orac,Daniel,1983-04-06,ROM,Galati,ROM
 oravto,Oravec,Tomáš,1980-07-03,SVK,Košice,SVK
@@ -4226,6 +4453,7 @@ oriojo,Oriol,Joan,1986-11-05,SPA,Cambrils,SPA
 orioor,Oriol, ,1981-05-23,SPA,Sudanell,SPA
 orosbr,Orosco,Brian,1998-02-28,ARG,Mendoza,ARG
 orozda,Orozco, ,1987-02-01,SPA,Fuengirola,SPA
+orozni,Oroz,Nicolás,1994-04-01,ARG,Villa Mercedes,ARG
 orsale,Orsay,Leonardo,1976-07-16,BRA, ,BRA
 ortice,Ortiz,César,1989-01-30,SPA,Toledo,SPA
 ortira,Ortíz,Ramón,1981-11-06,ARG,Morón,ARG
@@ -4238,6 +4466,7 @@ ottiam,Ottiji,Amaechi,1969-12-28,NGR,Enugu,NGR
 ottool,Otto,Oliver,1972-11-21,GER,Kirchheim/Teck,GER
 ouadab,Ouaddou,Abdeslam,1978-11-01,MAR,Ksar Azekour,MAR
 ouakab,Ouakili,Abderrahim,1970-12-12,MAR,Rabat,MAR
+oudris,Ouédraogo,Ismahila,1999-11-05,BFS,Ouagadougou,BFS
 ouedra,Ouédraogo,Rahim,1980-10-08,BFS,Bobo-Dioulasse,BFS
 oulaju,Oulai,Jules,1986-07-30,CIV, ,CIV
 oungdi,Oungialidis,Dimitros,1994-10-24,GRE,Kozani,GRE
@@ -4273,6 +4502,7 @@ palagu,Palavandishvili,Guga,1993-08-14,GEO, ,GEO
 palajo,Palatsides,Joe,1965-07-02,AUS,Melbourne,AUS
 palako,Palamaras,Konstantinos,1975-05-11,GRE, ,GRE
 palaru,Palazuelos, ,1983-04-11,SPA,Santander,SPA
+palase,Palacios,Sebastián,1992-01-20,ARG,San Miguel de Tucumán,ARG
 palate,Palapanis,Terry,1970-10-14,AUS, ,AUS
 paleva,Paleologos,Vasilios,1964-08-15,GRE, , 
 palich,Paligeorgos,Christos,1988-06-06,GRE,Agrinio,GRE
@@ -4281,6 +4511,7 @@ paliko,Paliouras,Kostas,1988-05-08,GRE, ,GRE
 paliro,Paliska,Roberto,1963-12-14,CRO, , 
 pallan,Pallis,Angelos,0000-00-00,GRE, ,GRE
 pallth,Pallas,Theodoros,1949-02-21,GRE,Thessaloniki,GRE
+palmlu,Palma,Luis,2000-01-17,HON,La Ceiba,HON
 pamlgi,Pamlidis,Giorgos,1993-11-13,GRE,Katerini,GRE
 panaal,Panagiotidis,Alexandros,1968-01-16,GRE, , 
 panaan,Panagiotidis,Anastasios,1974-06-01,GRE, ,GRE
@@ -4294,11 +4525,14 @@ panak1,Panagiotoudis,Konstantinos,1994-12-03,GRE,Lagyna,GRE
 panako,Panagiotou,Konstantinos,1997-02-11,GRE, ,GRE
 panal1,Panagiotakos,Leonidas,1964-01-26,GRE, , 
 panale,Panagopoulos,Leonidas,1987-10-03,GRE,Zacharo,GRE
+panami,Panagidis,Michail,2004-02-11,GRE, ,GRE
 panan1,Panayiotou,Nicos,1970-12-16,CYP, ,CYP
 panan2,Panagiotaras,Nikolaos,1972-07-28,GRE,Athen,GRE
 panan3,Panagiotidis,Nikolaos,1971-12-02,GRE, , 
 panani,Panagiotakos,Nikolaos,1989-05-09,GRE, ,GRE
+panap1,Panagiotou,Panagiotis,2002-01-16,GRE,Ioannina,GRE
 panapa,Panagopoulos,Panagiotis,1975-03-04,GRE, , 
+panast,Panagiotou,Stavros,1993-07-01,GRE,Arta,GRE
 panava,Panagiotis,Vasiliou,1974-04-18,GRE, ,GRE
 pancfa,Pancrate,Fabrice,1980-05-02,FRA,Paris,FRA
 panciv,Panchev,Ivaylo,1967-10-07,BUL, , 
@@ -4343,6 +4577,7 @@ papaa9,Papageorgiou,Alekos,1955-03-20,GRE,Lamia,GRE
 papaaA,Papazoglou,Athanasios,1953-03-15,GRE,Thessaloniki,GRE
 papaaB,Papaikonomou,Athanasios,1962-01-02,GRE, , 
 papaaC,Papadopoulos,Anastasios,1951-03-19,GRE, , 
+papaaD,Papadoudis,Athanasios-Theologos,2003-09-06,GRE, ,GRE
 papaal,Papadakis,Alvertos,1968-08-22,GRE,Piräus,GRE
 papaam,Papadopoulos,Ambrosius,1989-01-10,GRE, ,GRE
 papaan,Papachristos,Anastasios,1993-03-05,GRE,Egio,GRE
@@ -4387,6 +4622,8 @@ papagO,Papadopoulos,Georgios,1956-03-08,GRE, ,
 papagP,Papagiannis,Giannis,1957-09-21,GRE, , 
 papagQ,Papamichail,Georgios,1952-05-31,GRE, , 
 papagR,Papadakos,Georgios,0000-00-00,GRE, , 
+papagS,Papageorgiou,Giorgos,1997-06-07,CYP, ,CYP
+papagT,Papadopoulos,Georgios,2002-10-18,GRE, ,GRE
 papage,Papaioannou,Georgios,1998-06-30,GRE, ,GRE
 papagi,Papanikolaou,Giannis,1998-11-18,GRE,Marousi,GRE
 papagr,Papazacharias,Grigoris,1985-03-20,GRE,Epanomi,GRE
@@ -4416,6 +4653,7 @@ papan6,Papanikolaou,Nikolaos,1968-09-16,GRE, ,
 papan7,Papadopoulos,Nikolaos,1962-06-24,GRE, , 
 papan8,Papagiannopoulos,Nikolaos,1956-01-06,GRE,Patras,GRE
 papan9,Papakostas,Nikolaos,1959-10-17,GRE, , 
+papanA,Papadopoulos,Nikos,1990-04-11,GRE,Attika,GRE
 papani,Papadopoulos,Nikolaos,1990-04-11,GRE,Attika,GRE
 papap1,Papapanagis,Periklis,1967-02-23,GRE, , 
 papap2,Papadopoulos,Panagiotis,1973-04-25,GRE, , 
@@ -4478,6 +4716,7 @@ parami,Paraskevopoulos,Michalis,1960-08-16,GRE, ,
 parata,Parafestas,Takis,1953-12-01,GRE,Falani,GRE
 parava,Paraprastanitis,Vangelis,1954-02-20,GRE,Mouzaki,GRE
 pardfe,Pardo,Felipe,1990-08-17,COL,Quibdó,COL
+pardmi,Pardalos,Michalis,2001-03-02,GRE,Rhodos,GRE
 pareju,Paredes,Juan,1987-07-08,ECU,Esmeraldas,ECU
 parest,Parellis,Stelios,1969-09-15,GRE, , 
 parima,Pařízek,Martin,1974-12-30,CZE, ,CZE
@@ -4486,6 +4725,7 @@ parmtr,Parmaxidis,Triantafyllos,1979-01-02,GRE, ,GRE
 paroma,Parodi,Martín,1974-09-22,URU,Paysandú,URU
 parral,Parras,Alexandros,1998-05-12,GRE, ,GRE
 parrfa,Parra,Facundo,1985-06-15,ARG,Buenos Aires,ARG
+parrrv,La Parra,Rajiv van,1991-06-04,NED,Rotterdam,NED
 parvlu,Pârvu,Lucian,1982-06-14,ROM,Craiova,ROM
 pasaag,Pasas,Agisilaos,1983-03-11,GRE,Agrinio,GRE
 pasagi,Pasas,Giannis,1990-10-07,GRE,Agrinio,GRE
@@ -4523,6 +4763,7 @@ pauwnd,De Pauw,Nill,1990-01-06,BEL,Kinshasa,DRC
 pavija,Paviot,Jacques,1975-12-19,FRA,Fort-de-France,FRA
 pavisa,Pavičević,Savo,1980-12-11,MNT,Kikinda,SRB
 pavisr,Pavicevic,Srdjan,0000-00-00,MNT, , 
+pavlal,Pavlovets,Aleksandr,1996-08-13,BLR,Borisov,BLR
 pavlch,Pavlidis,Charalampos,1991-05-06,GRE,Veria,GRE
 pavlde,Pavlović,Dejan,1971-01-23,SWE,Helsingborg,SWE
 pavlgi,Pavlopoulos,Giannis,1965-05-05,GRE, , 
@@ -4537,10 +4778,12 @@ pavlzo,Pavlović,Zoran,1961-09-04,SRB, ,
 pavoma,Pavoni,Matías,1980-09-25,ARG,Buenos Aires,ARG
 pawefa,Pawela,Fabian,1985-11-30,POL,Swidnica,POL
 pawlra,Pawlak,Rafał,1970-01-16,POL,Lodz,POL
+pazxgo,Paz,Gonzalo,1993-06-06,ARG,Villa Sarmiento,ARG
 pecape,Peçanha, ,1980-01-11,BRA,Sao Gonçalo,BRA
 pecesr,Pecelj,Srđan,1975-03-12,BOS,Mostar,BOS
 pechi1,Pechlivanidis,Iordanis,1986-09-12,GRE,Xanthi,GRE
 pechio,Pechlivanis,Ioannis,1988-05-01,GRE, ,GRE
+pedrj1,Pedro,João,1996-11-13,POR,São Miguel,POR
 pedrjo,Pedro,João,1993-04-03,POR,Vermil,POR
 pedrpe,Pedro, ,1990-09-15,BRA,Jaboticabal,BRA
 peerma,Peersman,Marvin,1991-02-10,BEL,Wilrijk,BEL
@@ -4565,6 +4808,7 @@ pencse,Penco,Sebastián,1983-09-22,ARG,Morón,ARG
 peneiv,Penev,Ivelin,1969-10-14,BUL, , 
 penofo,Penos,Fotis,1958-12-04,GRE, , 
 pentch,Pentsas,Christos,1988-05-31,GRE, ,GRE
+pentve,Pentarakis,Venizelos,2000-07-15,GRE,Chania,GRE
 pepepe,Pêpê, ,1997-05-20,POR,Sátão,POR
 peppge,Peppes,Georgios,1961-10-26,GRE,Eretria,GRE
 peppgi,Peppas,Giorgios,1994-07-20,GRE, ,GRE
@@ -4580,6 +4824,7 @@ pereer,Pérez,Eros,1976-06-03,CHI,Santiago de Chile,CHI
 perefa,Pereyra,Facundo,1987-09-03,ARG,Zárate,ARG
 perehe,Pérez,Hernán,1989-02-25,PAR,Fernando de la Mora,PAR
 perejj,Perea,Juan José,2000-02-23,COL,Bogota,COL
+perel1,Perea,Luis,1997-08-25,SPA,Alcalá de Hernares,SPA
 perelu,Pérez,Lucas,1988-09-10,SPA,La Coruña,SPA
 perepa,Perez,Paulo,1976-11-18,ARG,Rafaela,ARG
 perese,Pereira,Sebastião,1959-08-04,BRA, , 
@@ -4608,6 +4853,7 @@ petkm1,Petković,Miloje,1967-01-31,SRB,Stajićevo,SRB
 petkmi,Petkov,Milen,1974-01-12,BUL,Dobrich,BUL
 petkpl,Petkov,Plamen,1962-03-02,BUL, , 
 petoat,Petouris,Athanasios,1972-12-27,GRE, , 
+petrad,Petre,Adrian,1998-02-11,ROM,Arad,ROM
 petran,Petropoulos,Antonis,1986-01-28,GRE,Gera,GRE
 petrc1,Petriniotis,Christos,1958-04-12,GRE,Athen,GRE
 petrch,Petropoulos,Chrysovalantis,1973-11-21,GRE, , 
@@ -4627,6 +4873,7 @@ petrva,Petratos,Vangelis,0000-00-00,GRE, ,
 petrzo,Petrović,Zoran,1967-05-11,SRB, , 
 pferma,Pfertzel,Marc,1981-05-21,FRA,Mulhouse,FRA
 pflika,Pflipsen,Karlheinz,1970-10-31,GER,Mönchengladbach,GER
+phellu,Phellype,Luiz,1993-09-27,BRA,São Gonçalo do Sapucaí,BRA
 philpe,Philipakos,Peter,1983-01-21,GRE, ,GRE
 phunpa,Phungwayo,Patrick,1988-01-06,RSA, ,RSA
 piagru,Piaggio,Rubén,1970-04-02,ARG,General Villegas,ARG
@@ -4645,6 +4892,7 @@ pilist,Pilios,Stavros,2000-12-10,GRE,Ioannina,GRE
 pilonu,Piloto,Nuno,1982-03-19,POR,Tondela,POR
 pimean,Pimenidis,Angelos,1969-08-07,GRE, , 
 pinadi,Pinakas,Dimitrios,2001-09-01,GRE,Larisa,GRE
+pineor,Pineda,Orbelín,1996-03-24,MEX,Coyuca de Catalán,MEX
 pinian,Piniotis,Angelos,1996-04-22,GRE,Lamia,GRE
 piniev,Piniotis,Evgenios,1967-11-16,GRE, , 
 pinocr,Pino,Cristian,1976-12-24,ARG,Córdoba,ARG
@@ -4653,11 +4901,16 @@ pintad,Pintér,Ádám,1988-06-12,HUN,Balassagyarmat,HUN
 pintan,Pinto,André,1989-10-05,POR,Arcozelo,POR
 pintat,Pinte,Attila,1971-06-06,SVK,Šamorín,SVK
 pintle,Pinto,Leandro,1994-01-24,BRA,São Paulo,BRA
+pipapi,Pipa, ,1998-01-26,SPA,Esparreguera,SPA
 pipich,Pipinis,Christos,1984-11-01,GRE,Athen,GRE
 pipief,Pipilidis,Efthymios,1977-03-29,GRE, ,GRE
+pirefe,Pires,Felipe,1995-04-18,BRA,São Paulo,BRA
+piriju,Pirinen,Juha,1991-10-22,FIN,Valkeakoski,FIN
+pirike,Pirić,Kenan,1994-07-07,BOS,Tuzla,BOS
 pirise,Píriz,Sebastián,1990-03-04,URU,Montevideo,URU
 pirito,Pirija,Tonci,1980-03-13,CRO, ,CRO
 pirsso,Pirson,Sören,1985-08-27,GER,Essen,GER
+pisama,Pisano,Matías,1991-12-13,ARG,Buenos Aires,ARG
 pispso,Pispas,Sotiris,1998-01-08,GRE,Athina,GRE
 pissge,Pissas,Georgios,1956-01-15,GRE, , 
 pistdi,Pistolis,Dimitrios,1963-11-05,GRE, , 
@@ -4695,6 +4948,7 @@ podaja,Podaný,Jakub,1987-06-15,CZE,Přerov,CZE
 podako,Podas,Konstantinos,1973-10-30,GRE, , 
 podeda,Podence,Daniel,1995-10-21,POR,Oeiras,POR
 pogakr,Pogacsics,Krisztián,1985-10-17,HUN,Zalaegerszeg,HUN
+poghva,Poghosyan,Vasilios,1998-05-04,GRE, ,GRE
 pokoos,Pokou,Oscar,1958-07-04,GHA, , 
 polaja,Polak,Jason,1968-01-09,AUS, , 
 polami,Polak,Miroslav,1958-03-08,AUT,Belgrad, 
@@ -4705,6 +4959,7 @@ polimi,Politis,Michalis,1971-05-31,GRE, ,GRE
 polxfr,Pol,Francisco,1987-09-17,VEN,Caracas,VEN
 polych,Polyzos,Christos,1964-05-15,GRE, , 
 polydi,Polyzoidis,Dimitrios,1971-02-06,GRE, , 
+pomoko,Pomonis,Konstantinos,2002-06-05,GRE, ,GRE
 poncez,Ponce,Ezequiel,1997-03-29,ARG,Rosario,ARG
 poncse,Ponce,Sergio,1984-01-09,ARG,San Martín,ARG
 ponoan,Ponomarev,Anatoliy,1982-06-12,AZE, ,AZE
@@ -4720,6 +4975,7 @@ popola,Popović,Lazar,1983-01-10,SRB,Beograd,SRB
 popora,Popović,Ranko,1967-06-26,SRB,Peć, 
 popozd,Popović,Zdravko,1983-01-02,CRO, ,CRO
 poptal,Poptsis,Alexandros,1994-02-11,GRE, ,GRE
+poraan,Šporar,Andraž,1994-02-27,SLO,Ljubljana,SLO
 porfst,Porfyris,Stefanos,1965-09-02,GRE, , 
 portal,Portilla,Álvaro,1986-04-28,SPA,Madrid,SPA
 portcr,Portilla, ,1988-08-28,SPA,Santander,SPA
@@ -4746,6 +5002,7 @@ poyxma,Poy,Mauro,1981-07-02,ARG,Rosario,ARG
 pozako,Pozapalidis,Konstantinos,1966-08-24,GRE,Istiea,GRE
 pozast,Pozatzidis,Stelios,1994-06-24,GRE,Thessaloniki,GRE
 pozipa,Pozidis,Pantelis,1993-08-13,GRE,Thessaloniki,GRE
+poznlo,Poznański,Louis,2001-05-24,GER,Bremen,GER
 pozost,Pozoglou,Stylianos,1996-01-22,GRE,Thessaloniki,GRE
 pramt1,Pramatarov,Todor,1968-08-08,BUL, , 
 pramto,Pramatov,Todor,1968-08-08,BUL,Sofia,BUL
@@ -4756,18 +5013,22 @@ predma,Predatu,Marius,1967-08-15,ROM, ,
 pregan,Préget,Antoine,1972-10-05,FRA,Le Grau-du-Roi,FRA
 prekat,Prekates,Athanasios,1973-08-29,GRE, ,GRE
 premat,Premetis,Athanasios,1960-07-17,GRE, , 
+prezru,Pérez,Rubén,1989-04-26,SPA,Écija,SPA
 prieli,Prieto,Livio,1981-07-31,ARG,Córdoba,ARG
 prifdi,Prifti,Dimitris,1991-05-27,ALB,Larissa,GRE
 prijal,Prijović,Aleksandar,1990-04-21,SRB,St. Gallen,SUI
 prilgi,Prilasnig,Gilbert,1973-04-01,AUT,Klagenfurt,AUT
+priojr,Prior,Jérôme,1995-08-08,FRA,Toulon,FRA
 prisge,Priskas,Georgios,1959-01-04,GRE, , 
 pritat,Prittas,Athanasios,1979-01-09,GRE,Thessaloniki,GRE
+prllar,Përlleshi,Armando,2003-01-29,ALB, ,ALB
 proema,Pröll,Markus,1979-08-28,GER,Rheinbach,GER
 projjo,Projić,Josip,1987-08-23,SRB,Kruševac,SRB
 prokge,Prokovas,Georgios,1954-11-15,GRE, , 
 prokra,Prokop,Rastislav,0000-00-00,SVK, ,SVK
 protol,Protasov,Oleg,1964-02-04,UKR,Dnipropetrovsk,UKR
 protsi,Proto,Silvio,1983-05-23,BEL,Charleroi,BEL
+prougi,Prountzos,Giorgos,2003-08-19,GRE, ,GRE
 provch,Provatidis,Charalabos,1988-08-19,GRE, ,GRE
 provge,Provatas,Georgios,1976-03-23,GRE,Kerkyra,GRE
 provgi,Providas,Giannis,1975-11-19,GRE,Elassona,GRE
@@ -4785,14 +5046,17 @@ psefch,Pseftis,Christos,1959-05-08,GRE,Mesolongi,GRE
 psiast,Psianos,Stergios,1989-09-12,GRE,Kozani,GRE
 psicni,Psichoyos,Nikolaos,1989-02-25,GRE, ,GRE
 psomma,Psomas,Manolis,1978-11-11,GRE,Rethymno,GRE
+puchty,Puchacz,Tymoteusz,1999-01-23,POL,Sulechów,POL
 pudave,Pudar,Velibor,1964-11-22,BOS,Mostar, 
 pugljo,Puglia,Jorge,1972-03-22,URU,Montevideo,URU
 pulial,Pulido,Alan,1991-03-08,MEX,Ciudad Victoria,MEX
 puliru,Pulido, ,1979-02-02,SPA,Madrid,SPA
 pupois,Pupo,Isaac,1985-10-23,LBR,Monrovia,LBR
+puriem,Purita,Emiliano,1997-03-25,ARG,Buenos Aires,ARG
 purisa,Puri,Sander,1988-05-07,EST,Tartu,EST
 purkde,Purković,Denijal,1968-08-03,BOS, ,BOS
 qosekr,Qose,Kristi,1995-06-10,ALB,Korçë,ALB
+quagni,Quagliata,Nicolás,1999-06-05,URU,Montevideo,URU
 quaypo,Ofori-Quaye,Peter,1980-03-21,GHA,Accra,GHA
 quevqu,Queven, ,1998-11-21,BRA, ,BRA
 quindi,Quintana,Diego,1978-04-24,ARG,Rosario,ARG
@@ -4811,10 +5075,12 @@ radodr,Radojičić,Dragan,1970-06-03,MNT,Niksic,
 radoma,Radoišić,Marco,1974-12-10,SRB, ,SRB
 radomo,Radonjic,Mojas,1950-02-23,MNT,Njegusi, 
 radove,Radonja,Vedad,2001-09-06,BOS,Sarajevo,BOS
+raduan,Radu,Andrei,1996-06-21,ROM,București,ROM
 radzto,Radzinski,Tomasz,1973-12-14,CAN,Poznan,POL
 rafaef,Rafailidis,Efthymios,1974-11-13,GRE, ,GRE
 rafaem,Rafael,Emídio,1986-01-24,POR,Lisboa,POR
 rafimr,Rafinha, ,1985-09-07,BRA,Londrina,BRA
+ragiso,Ragias,Sotirios,2003-05-16,GRE, ,GRE
 ragual,Raguel,Alain,1976-09-06,FRA,Lille,FRA
 rajomi,Rajović,Milorad,1955-05-13,SRB, , 
 rambse,Rambert,Sebastián,1974-01-30,ARG,Pas Bernal,ARG
@@ -4823,6 +5089,7 @@ ramijo,Ramírez,José,1977-02-03,ARG,La Esquina,ARG
 rammil,Rammos,Ilias,1963-04-30,GRE,Lamia,GRE
 ramole,Ramos,Leonardo,1989-08-21,ARG,Merlo,ARG
 ramolu,Ramos,Lucas,1995-01-18,BRA,São Paulo,BRA
+ramora,Ramon, ,2001-03-13,BRA,São João de Meriti,BRA
 randbo,Randjelović,Bogoljub,1962-03-08,SRB, , 
 randdu,Randojević,Dusan,1975-11-23,SRB, ,SRB
 randla,Ranđelović,Lazar,1997-08-05,SRB,Leskovac,SRB
@@ -4835,6 +5102,7 @@ raptdi,Raptis,Dimitrios,1970-05-02,GRE,Antikyra,GRE
 raptko,Raptis,Kostas,1972-06-30,GRE, ,GRE
 raptni,Raptopoulos,Nikolaos,1983-08-01,GRE, ,GRE
 raptse,Raptis,Serafim,1972-04-20,GRE, , 
+rarigu,Þórarinsson,Guðmundur,1992-04-15,ISL,Selfoss,ISL
 ratied,Ratinho,Edson,1986-05-31,BRA,Joao Pessoa,BRA
 ratoki,Ratón,Kiko,1976-09-19,SPA,Puerto de la Cruz,SPA
 rattko,Rattas,Konstantinos,1963-06-03,GRE, , 
@@ -4851,6 +5119,7 @@ rebomi,Rebosio,Miguel,1976-10-20,PER,Lima,PER
 recoal,Recoba,Alvaro,1976-03-17,URU,Montevideo,URU
 reedjo,Reed,John,1972-08-27,ENG,Rotherham,ENG
 refest,Refenes,Steve,1970-02-19,AUS, , 
+regaad,Regattin,Adrien,1991-08-22,MAR,Paris,FRA
 reguma,Regueiro,Mario,1978-09-14,URU,Montevideo,URU
 reinan,Reinke,Andreas,1969-01-10,GER,Krakow am See,GER
 reinma,Reina,Manolo,1985-04-01,SPA,Villaneuva del Trabuco,SPA
@@ -4867,7 +5136,9 @@ reyxal,Rey,Álvaro,1989-07-11,SPA,Sevilla,SPA
 reyxro,Rey,Rodrigo,1991-03-08,ARG,Las Parejas,ARG
 reziiv,Režić,Ivan,1979-09-15,CRO,Split,CRO
 rhaiad,Rhaili,Adil,1991-04-25,MAR,Casablanca,MAR
+rhynje,Rhyner,Jean-Pierre,1996-03-15,PER,Zürich,SUI
 ribefl,Ribeiro,Flavio,1978-04-12,BRA,São Paulo,BRA
+ricaan,Ricardo,André,2000-08-23,POR,Lisboa,POR
 richck,Kâzım-Richards,Colin,1986-08-26,TUR,Leytonstone,ENG
 rienda,Rienstra,Daan,1992-10-06,NED,Alkmaar,NED
 rierad,Riera,Adrián,1996-04-19,SPA,Murcia,SPA
@@ -4894,10 +5165,12 @@ rivecl,Rivero,Claudio,1985-04-14,URU,Montevideo,URU
 rivege,Rivero,Germán,1992-03-17,ARG,Garin,ARG
 riznzo,Riznić,Zoran,1968-04-10,SRB, ,SRB
 rizode,Rizos,Demetris,1976-10-07,GRE, ,GRE
+rizogi,Rizos,Giannis,2002-03-19,GRE, ,GRE
 rizoil,Rizos,Ilias,1964-10-03,GRE, , 
 rizomi,Rizopoulos,Michalis,1973-12-28,GRE, , 
 rizopa,Rizogiannis,Pantelis,1988-02-01,GRE,Karditsa,GRE
 rnnbmi,Rönnberg,Mikael,1957-02-06,SWE, , 
+robaga,Robail,Gaëtan,1994-01-09,FRA,Saint-Pol-sur-Ternoise,FRA
 robazb,Robakiewicz,Zbigniew,1966-11-24,POL,Opoczno,POL
 robebe,Robert,Bertrand,1983-11-16,REU,Saint-Benoît,REU
 robega,Roberts,Gareth,1978-02-06,WAL,Wrexham,WAL
@@ -4907,6 +5180,7 @@ rober1,Roberto, ,1978-07-29,BRA,Linhares,BRA
 robero,Roberto, ,1986-02-10,SPA,Madrid,SPA
 robeva,Roberge,Valentin,1987-06-09,FRA,Montreuil,FRA
 robezi,Roberts,Zizi,1979-06-13,LBR,Monrovia,LBR
+robial,Robi,Alexandros,2002-08-20,GRE,Athen,GRE
 robima,Robins,Mark,1969-12-22,ENG,Ashton-under-Lyme,ENG
 robiro,Robinho, ,1977-07-29,BRA, ,BRA
 roblja,Robles,Javier,1985-01-18,ARG,Buenos Aires,ARG
@@ -4917,12 +5191,16 @@ rochan,Rocha,André,1984-08-19,BRA,São Paulo,BRA
 rochjr,Rocha,Juan Ramón,1954-03-08,ARG,Santo Tomé,ARG
 rochlu,Rocha,Luís,1993-06-27,POR,Vila Nova de Famalicão,POR
 rodige,Rodis,Georgios,2001-11-02,GRE, ,GRE
+rodiro,Rodinei, ,1992-01-29,BRA,Tatuí,BRA
 rodrad,Rodrigues,Ademar Dorneles,1969-11-09,BRA,Ponta Porã,BRA
 rodrda,Rodrigues,Dani,1980-03-03,POR,Madeira,POR
+rodrdi,Rodríguez,Diego,1989-06-25,ARG,Buenos Aires,ARG
+rodred,Rodríguez,Edwin,1999-09-25,HON,Quimistán,HON
 rodrf1,Rodrigues,Fillip,1983-11-23,BRA, ,BRA
 rodrfi,Rodrigues, ,1981-11-23,BRA, ,BRA
 rodrg1,Rodríguez,Gabriel,1989-02-05,ARG,Buenos Aires,ARG
 rodrga,Rodrigues,Garry,1990-11-27,CVE,Rotterdam,NED
+rodrja,Rodríguez,James,1991-07-12,COL,Cucuta,COL
 rodrjo,Rodríguez,Jonathan,1994-03-30,ARG,Marcos Juárez,ARG
 rodrma,Rodríguez,Martín,1968-09-24,PER,Lima,PER
 rodrmi,Rodrigues,Miguel,1993-03-16,POR,Fátima,POR
@@ -4930,6 +5208,7 @@ rodrpa,Rodriguez,Patricio,1990-05-04,ARG,Quilmes,ARG
 rodrro,Rodrigo, ,1992-12-26,BRA,Porangatu,BRA
 rogani,Rogas,Nikolaos,1965-07-16,GRE, , 
 rogero,Roger, ,1982-05-25,POL,São Paulo,BRA
+rognth,Rogne,Thomas,1990-06-29,NOR,Bærum,NOR
 rojaan,Rojas,Ángel,1985-04-10,CHI,Santiago de Chile,CHI
 rokaef,Rokas,Efstathios,1984-09-18,GRE,Athen,GRE
 rokima,Rokidis,Manolis,1955-09-07,GRE, , 
@@ -4940,6 +5219,7 @@ romajo,Román,Joan,1993-05-18,SPA,Roses,SPA
 romala,Romanić,Lazar,1998-03-23,SRB,Kragujevac,SRB
 romama,Román,Marcel,1988-02-07,URU,Montevideo,URU
 romeem,Romero,Emiliano,1985-09-11,ARG,Sarandí,ARG
+romefr,Romero,Franco,1995-02-11,URU,Montevideo,URU
 romero,Romeu, ,1985-02-13,BRA,Itamaraju,BRA
 romese,Romero,Sebastián,1978-04-27,ARG,Berisso,ARG
 rommde,Rommedahl,Dennis,1978-07-22,DEN,Kopenhagen,DEN
@@ -4950,13 +5230,16 @@ ropogr,Ropokis,Grigoris,1974-01-20,GRE, ,
 ropplo,Roppas,Loukas,1965-11-04,GRE, , 
 roquro,Roque, ,1973-04-16,BRA,Sao Paulo,BRA
 rosace,Rosales,Cesar,1970-11-09,PER,Lima,PER
+roseke,Rosero,Kevin,1998-12-03,COL, ,COL
 roseli,Rose,Lindsay,1992-02-08,MTS,Rennes,FRA
 rossat,Rossidis,Athanasios,1967-05-10,GRE, , 
 rossle,Rossi,Leonidas,1999-04-19,ALB,Sarandë,ALB
 rosstr,Ross,Trevor,1957-01-16,SCO,Ashton-under-Lyne,ENG
+rotado,Rotariu,Dorin,1995-07-29,ROM,Timişoara,ROM
 rotala,Rota,Lazaros,1997-08-23,GRE,Katerini,GRE
 roubem,Roubakis,Emmanouil,1979-01-06,GRE, ,GRE
 rougko,Rougalas,Kostas,1993-10-13,GRE,Patras,GRE
+roukko,Roukounakis,Konstantinos,2001-07-17,GRE,Athen,GRE
 roumar,Roumeliotis,Aristogiton,1955-05-13,GRE, , 
 roumdi,Roumpas,Dimosthenis,1958-05-20,GRE, , 
 rousal,Roussos,Albertos,1996-02-22,GRE,Rhodos,GRE
@@ -4970,6 +5253,7 @@ routpe,Routzieris,Petros,1973-01-04,GRE,Rhodos,GRE
 rovaio,Rovas,Ioannis,1986-03-12,GRE, ,GRE
 rovava,Rovas,Vasilios,1984-01-06,GRE,Karditsa,GRE
 rovima,Rovithis,Manolis,1992-09-16,GRE,Heraklion,GRE
+rrokkr,Rroku,Kristian,2003-03-29,ALB, ,ALB
 rrumsi,Rrumbullaku,Simon,1991-12-30,ALB,Gjirokastër,ALB
 rubigo,Rubil,Goran,1981-03-09,CRO,Slavonski Brod,CRO
 rudoge,Rudolf,Gergely,1985-03-09,HUN,Nyiregyháza,HUN
@@ -4980,6 +5264,7 @@ ruizfr,Ruíz,Frank,1966-11-30,PER,Ica,PER
 rukaan,Rukavina,Ante,1986-06-18,CRO,Šibenik,CRO
 rumbla,Rumbo,Leonardo Antonio,1956-07-26,URU, , 
 runjzl,Runje,Zlatko,1979-12-09,CRO,Sinj,CRO
+rupplu,Rupp,Lukas,1991-01-08,GER,Heidelberg,GER
 ruscse,Rusculleda,Sebastián,1985-04-28,ARG,Laboulaye,ARG
 ruseiv,Rusev,Ivan,1979-05-10,BUL,Burgas,BUL
 rushya,Rush,Yaw,1983-02-08,GHA, ,GHA
@@ -4993,6 +5278,7 @@ saboer,Sabo,Erik,1991-11-22,SVK,Šúrovce,SVK
 sabras,Sabry,Abdel Sattar,1974-06-19,EGY,Cairo,EGY
 sacced,Sacchetto,Esteban Diego,1979-03-02,ARG, ,ARG
 sachch,Sachinis,Charalampos,1967-04-09,GRE, , 
+sachfi,Sachpekidis,Filip,1997-07-03,SWE,Kalmar,SWE
 sachpa,Sachinidis,Pantelis,1966-01-01,GRE, , 
 sachph,Sachsanidis,Philippos,1989-10-23,GRE, ,GRE
 sachva,Sachinidis,Vasilios,1986-01-20,GRE,Athen,GRE
@@ -5001,6 +5287,7 @@ sagama,Saganowski,Marek,1978-10-31,POL,Lodz,POL
 sagapr,Saganas,Prokopios,1984-02-23,GRE, ,GRE
 sagnpi,Sagna,Pierre,1990-08-21,SEN,Valenciennes,FRA
 sahisu,Sahiti,Suad,1995-02-06,KOS,Beograd,KOS
+sahlwa,Sahli,Wajdi,1997-04-17,TUN,La Seyne-sur-mer,FRA
 saifoa,Al Saify,Odai,1986-04-26,JOR,Kuwait City,JOR
 sainjo,Sainati,Joris,1988-09-25,FRA,Martigues,FRA
 saitge,Saitiotis,Georgios,1981-07-25,GRE, ,GRE
@@ -5011,6 +5298,7 @@ sakele,Sakellariou,Lefteris,1987-02-17,GRE,Athina,GRE
 sakeni,Sakellaridis,Nikos,1970-09-30,GRE,Thessaloniki,GRE
 sakepa,Sakellaropoulos,Panagiotis,1972-09-03,GRE, ,GRE
 sakiem,Sakić,Emanuel,1991-01-25,AUT,Wien,AUT
+sakoba,Sako,Bakary,1988-04-26,MLI,Ivry-sur-Seine,FRA
 sakova,Sakor,Vajebah,1996-04-14,NOR,Monrovia,LBR
 salalu,Salas,Lucas,1994-09-28,ARG,San Juan,ARG
 saleed,Sales,Edu,1977-12-13,BRA,São Paulo,BRA
@@ -5019,6 +5307,7 @@ saliha,Salihi,Hamdi,1984-01-19,ALB, ,ALB
 salile,Salino,Leandro,1985-04-22,BRA,Juiz de Fora,BRA
 salima,Saliakas,Manolis,1996-09-12,GRE,Heraklion,GRE
 saliyo,Salimi,Youssef,1972-08-24,ALG,Arles,FRA
+salizi,Saliaris,Zisis,2003-04-25,GRE, ,GRE
 salmgl,Salmon,Glen,1977-12-24,RSA,Harare,ZIM
 saloan,Salonidis,Anastasios,1979-06-10,GRE, ,GRE
 salopa,Salomon,Patrick,1988-06-10,AUT,Wien,AUT
@@ -5030,6 +5319,7 @@ saltza,Saltsoglidis,Zacharias,1975-07-09,GRE, ,
 samaan,Samaris,Andreas,1989-06-13,GRE,Patras,GRE
 samac1,Samaras,Christos,1971-02-24,GRE, , 
 samach,Samaras,Christos,1973-09-26,GRE, ,GRE
+samad1,Samassékou,Diadié,1996-01-11,MLI,Bamako,MLI
 samadi,Samaras,Dimitrios,1978-06-03,GRE,Thessaloniki,GRE
 samagi,Samaras,Giannis,1961-05-03,GRE,Melbourne,AUS
 samak1,Samaras,Konstantinos,1961-10-24,GRE, , 
@@ -5060,6 +5350,7 @@ sancro,Sánchez,Roberto,1988-04-10,PAR,Asunción,PAR
 sancsa,Sánchez,Salvador,1995-07-31,ARG,Tres Algarrobos,ARG
 sancse,Sánchez,Sergio,1986-04-03,SPA,Mataró,SPA
 sandan,Sandri,Andrea,1974-04-01,ITA, ,ITA
+sandgr,Sandomierski,Grzegorz,1989-09-05,POL,Bialystok,POL
 sandha,Sandberg,Hakan,1958-07-27,SWE, , 
 sandjo,Sandqvist,Jonas,1981-05-06,SWE,Landskrona,SWE
 sandsa,Sandro, ,1967-08-24,BRA,Frederico Westphalen,BRA
@@ -5072,6 +5363,7 @@ sankkh,Sankaré,Khalifa,1984-08-15,SEN,Dakar,SEN
 sankyo,Sankharé,Younousse,1989-09-10,SEN,Sarcelles,FRA
 sanmlu,Sânmărtean,Lucian,1980-03-13,ROM,Bistrita,ROM
 sanoam,Sanokho,Amadou,1979-09-01,FRA, ,FRA
+santda,Santafé,Daniel,1997-07-03,SPA,Valtierra,SPA
 santfe,Santana,Felipe,1986-03-17,BRA,Rio Claro,BRA
 santge,Santexis,Georgios,1965-02-21,GRE, , 
 santmd,Santos,Marko dos,1981-05-18,BRA,Belo Horizonte,BRA
@@ -5079,6 +5371,7 @@ santre,Santos,Renato,1991-10-05,POR,Pardilhó - Estarreja,POR
 sapail,Sapanis,Ilias,1973-12-29,GRE,Thessaloniki,GRE
 sapami,Sapanis,Miltos,1976-01-28,GRE,Pentalofo,GRE
 sapast,Sapalidis,Stamatis,1990-07-05,GRE, ,GRE
+sapoa1,Sapountzis,Anastasios,2002-01-28,GRE,Edessa,GRE
 sapoan,Sapountzis,Antonis,1971-11-19,GRE,Edessa,GRE
 sapoge,Sapounas,Georgios,1985-02-15,GRE, ,GRE
 saraac,Sarakatsanos,Achilleas,1982-11-03,GRE,Trikala,GRE
@@ -5099,6 +5392,7 @@ sarrjo,Sarriegi, ,1979-01-19,SPA,Lazkao,SPA
 sarrmo,Sarr,Mohamed,1983-12-23,SEN,Dakar,SEN
 sashlu,Sasha,Lucas,1990-03-01,BRA,São Paulo,BRA
 sassis,Sassi,Ismaïl,1991-12-24,TUN, ,FRA
+sastjo,Sastre,Joan,1997-04-30,SPA,Porreres,SPA
 saveto,Savevski,Toni,1963-06-14,MAC,Bitola,MAC
 savidu,Savić,Dusko,1968-07-01,SRB, , 
 savija,Saviola,Javier,1981-12-11,ARG,Buenos Aires,ARG
@@ -5131,6 +5425,7 @@ schian,Schizas,Antonios,1986-03-10,GRE, ,GRE
 schigo,Schildenfeld,Gordon,1985-03-18,CRO,Šibenik,CRO
 schise,Schindzielorz,Sebastian,1979-01-21,GER,Krapkowice,POL
 schlla,Schlichting,Lars,1982-09-14,GER,Lübeck,GER
+schnja,Schneider,Jan-Marc,1994-03-25,GER,Hamburg,GER
 schuga,Schürrer,Gabriel,1971-08-16,ARG,Rafaela,ARG
 schuko,Schulz,Kofi,1989-07-21,GER,Berlin,GER
 schuta,Schutz,Tales,1981-08-22,BRA,Porto Alegre,BRA
@@ -5149,6 +5444,7 @@ seidma,Seidan,Mahmut,1993-09-04,GRE, ,GRE
 seitdi,Seitaridis,Dimitrios,1949-10-10,GRE, , 
 seitge,Seitaridis,Georgios,1981-06-04,GRE,Piräus,GRE
 selani,Selalmatzidis,Nikolaos,1960-06-19,GRE, , 
+selier,Selimaj,Ermis,2004-05-25,ALB,Athina,GRE
 seliev,Selin,Evgen,1988-05-09,UKR,Novoaydar,UKR
 selige,Seliniotakis,George,1989-08-18,GRE, ,GRE
 seliil,Selionis,Ilias,1959-01-06,GRE, , 
@@ -5176,6 +5472,7 @@ sergse,Serginho, ,1985-06-16,POR,Porto,POR
 seriad,Serinia,Antonio da Silva,1975-06-01,BRA, ,BRA
 serian,Šeric,Anthony,1979-01-15,CRO,Sydney,AUS
 serpdi,Serpezis,Dimitrios,2001-03-14,GRE,Metamorfosi,GRE
+servge,Servilakis,Georgios,1997-05-18,GRE,Rethymno,GRE
 sesmjo,Sesma,Jonathan,1978-11-14,SPA,Las Palmas de Gran Canaria,SPA
 sestmi,Šestić,Milos,1956-08-08,BOS,Milosavci, 
 setidr,Setinov,Dragi,1961-02-13,MAC,Skopje, 
@@ -5192,6 +5489,7 @@ sfynni,Sfyntilas,Nikolaos,1962-02-27,GRE, ,
 sgoufo,Sgouris,Fotis,2002-04-29,GRE, ,GRE
 sgouge,Sgouros,Georgios,1972-03-23,GRE, , 
 sgouko,Sgouris,Konstantinos,1958-02-16,GRE, , 
+sgoura,Sgouros,Rafail,2004-05-28,GRE, ,GRE
 sgouxx,Sgourakis,.,0000-00-00,GRE, , 
 shabab,Ben Shabat,Asa'el,1988-05-09,ISR, ,ISR
 shaika,Shaid,Kahil,1974-07-26,MAR, ,MAR
@@ -5202,6 +5500,8 @@ shasgi,Shashiashvili,Giorgi,1979-09-01,GEO,Tbilisi,GEO
 shehem,Shehu,Emiljano,1998-06-10,ALB,Chania,ALB
 shehkr,Shehu,Kristo,2000-03-01,GRE,Eretria,GRE
 shehyl,Shehu,Ylli,1966-03-13,ALB,Tiranë,ALB
+shelch,Shelis,Christos,2000-02-02,CYP,Paphos,CYP
+shenle,Shengelia,Levan,1995-10-27,GEO,Samtredia,GEO
 shepdi,Sheppard,Dillon,1979-02-26,RSA,Durban,RSA
 sherla,Shergelashvili,Lasha,1992-01-17,GEO,Tbilisi,GEO
 shetar,Sheta,Arjan,1981-02-13,ALB,Tirana,ALB
@@ -5220,12 +5520,15 @@ siapgi,Siapanidis,Giannis,1956-06-28,GRE, ,
 siarap,Siaravas,Apostolos,1981-07-31,GRE,Ioannina,GRE
 siatsa,Siatravanis,Savvas,1992-11-24,GRE,Larisa,GRE
 sichal,Sichlimiris,Alexandros,1967-06-27,GRE, , 
+sidcsi,Sidcley, ,1993-05-13,BRA,Vila Velha,BRA
 sidea1,Sideris,Antonis,1968-06-02,GRE, , 
 sidean,Sideris,Anastasios,1967-01-20,GRE, , 
 sideg1,Sideris,Giannis,1976-07-22,GRE, ,GRE
 sideg2,Sideris,Giannis,1956-04-01,GRE, , 
+sidege,Sideras,Georgios,2002-05-30,GRE, ,GRE
 sidegi,Siderakis,Giannis,1987-11-16,GRE,Athina,GRE
 sidich,Sidiropoulos,Charalampos,0000-00-00,GRE, , 
+sididj,Sidibé,Djibril,1992-07-29,FRA,Troyes,FRA
 sidief,Sidiropoulos,Efthimios,1986-07-16,GRE, ,GRE
 sidim1,Sidiropoulos,Makis,1971-08-17,GRE, ,GRE
 sidima,Sidibé,Mahamadou,1978-10-08,MLI,Bamako,MLI
@@ -5269,6 +5572,7 @@ simijo,Šimić,Josip,1977-09-16,CRO,Zagreb,CRO
 simima,Simichanidis,Markos,1994-06-28,GRE,Alexandria,GRE
 simini,Simić,Nikola,1981-07-30,SRB,Valjevo,SRB
 simipa,Simitsis,Panagiotis,1993-12-13,GRE, ,GRE
+simnda,Simón,David,1988-12-16,SPA,Las Palmas de Gran Canaria,SPA
 simoal,Simoncić,Aleksandar,1977-01-27,SRB, ,SRB
 simoan,Simões,André,1989-12-16,POR,Matosinhos,POR
 simofa,Simone,Fabricio,1978-06-04,ARG,Mar del Plata,ARG
@@ -5343,6 +5647,10 @@ smojda,Smoje,Dario,1979-09-19,CRO,Rijeka,CRO
 smoleb,Smolarek,Ebi,1981-01-09,POL,Łódź,POL
 smpoma,Smpokos,Manolis,2003-02-19,GRE, ,GRE
 smyral,Smyrlis,Alexandros,1993-02-07,GRE,Patras,GRE
+soaral,Soares,Alex,1991-03-01,POR,Lisboa,POR
+soarfi,Soares,Filipe,1999-05-20,POR,Lisboa,POR
+soarra,Soares,Rafa,1995-05-09,POR,Marco de Canaveses,POR
+soarti,Soares,Tiquinho,1991-01-17,BRA,Sousa,BRA
 socrko,Socratous,Kostakis,1973-05-31,CYP, ,CYP
 soedto,Söderberg,Tom,1987-08-25,SWE,Norrköping,SWE
 sofich,Sofianos,Charilaos,1962-01-25,GRE,Athen,GRE
@@ -5367,7 +5675,10 @@ soltka,Soltani,Karim,1984-08-29,ALG,Brest,FRA
 somoni,Somoglou,Nikolaos,2000-04-08,GRE,Athina,GRE
 songfr,Songo'o,Franck,1987-05-14,CMR,Yaoundé,CMR
 soniio,Sonidis,Ioannis,1971-05-08,GRE, , 
+sonikv,Soni,Kévin,1998-04-17,CMR,Douala,CMR
 sonked,Sonko,Eddy,1980-03-23,GAM,Essau,GAM
+soragr,Sorčan,Grega,1996-03-05,SLO,Kranj,SLO
+sorica,Soria,Carles,1996-10-08,SPA,Calaf,SPA
 sorlol,Sorlin,Olivier,1979-04-09,FRA,Saint-Étienne,FRA
 sorrst,Sorrentino,Stefano,1979-03-28,ITA,Cava Dei Tirreni,ITA
 sosale,Sosa,Leandro,1991-03-18,URU,Montevideo,URU
@@ -5389,11 +5700,13 @@ soulha,Soulé,Halifa,1990-11-12,COM,Gonesse,FRA
 souln1,Soulidis,Nikolaos,1986-10-28,GRE,Thessaloniki,GRE
 soulni,Soultanidis,Nikolaos,1977-01-02,GRE, ,GRE
 soulst,Souloukos,Stefanos,2001-01-04,GRE,Larisa,GRE
+soulva,Soulis,Vasilios,1994-12-07,GRE,Patras,GRE
 soumni,Soumoulidis,Nikos,1983-03-05,GRE, ,GRE
 soundi,Sounas,Dimitrios,1994-08-12,GRE,Chalkidiki,GRE
 sounge,Sountoulidis,Georgios,1969-02-04,GRE, , 
 sourg1,Sourlis,Georgios,1968-03-04,GRE,Athen,GRE
 sourge,Sournakis,Georgios,1999-11-07,GRE,Heraklion,GRE
+sourgi,Sourdis,Giannis,2001-09-29,GRE,Voula,GRE
 sourni,Sourgias,Nikos,1987-05-07,GRE, ,GRE
 sourva,Sourlis,Vasilios,2002-11-16,GRE, ,GRE
 sousao,Sousonis,Aristidis-Orestis,1999-04-24,GRE, ,GRE
@@ -5435,8 +5748,11 @@ stabge,Staboulis,Georgios,1975-02-28,GRE, ,GRE
 stafdi,Stafylidis,Dimitrios,1965-01-01,GRE,Nea Nikomidia,GRE
 stafko,Stafylidis,Kostas,1993-12-02,GRE,Thessaloniki,GRE
 staipa,Staikos,Paschalis,1996-02-08,GRE,Drama,GRE
+stajni,Stajić,Nikola,2001-09-08,SRB,Paraćin,SRB
 stama1,Stamatopoulos,Angelos,1997-04-23,GRE,Athina,GRE
 staman,Stamatis,Andreas,1993-05-12,GRE,Athina,GRE
+stamap,Stamatelopoulos,Apostolos,1999-04-09,AUS,Adelaide,AUS
+stambo,Stamenković,Bogdan,1998-01-19,SRB,Surdulica,SRB
 stamc1,Stampouloglou,Charalampos,1989-07-10,GRE, ,GRE
 stamch,Stamboulidis, ,1996-06-22,GRE,Melbourne,AUS
 stamdi,Stamou,Dimitrios,1991-04-27,GRE,Thessaloniki,GRE
@@ -5454,6 +5770,8 @@ stamro,Stambolziev,Robert,1990-10-26,AUS,Melbourne,AUS
 stamsp,Stamatoukos,Spyros,1971-10-21,GRE, ,GRE
 stamst,Stamatis,Stavros,1966-01-13,GRE,Athen,GRE
 stanal,Stanisavljević,Aleksandar,1989-06-11,SRB,Požarevac,SRB
+stanca,Stanko,Caleb,1993-07-26,USA,Holly,USA
+stanci,Stanković,Cican,1992-11-04,AUT,Bijeljina,BOS
 stanfi,Stanisavljević,Filip,1987-05-20,SRB,Požarevac,SRB
 stanfl,Stângă,Florin,1978-06-22,ROM,Brasov,ROM
 stanma,Stanojević,Marko,1988-06-22,SRB,Pirot,SRB
@@ -5487,6 +5805,7 @@ stehta,Steharnik,Tadej,1980-08-14,SLO, ,SLO
 stelbo,Stelea,Bogdan,1967-12-05,ROM,București,ROM
 stepme,Stepanovski,Mende,1983-05-26,MAC,Bitola,MAC
 stepni,Stepanović,Nikola,2001-05-22,SRB,Šabac,SRB
+steran,Stergiakis,Antonis,1999-03-16,GRE,Thessaloniki,GRE
 sterge,Stergallas,Georgios,1986-10-25,GRE, ,GRE
 stergi,Stergianos,Giannis,1993-05-31,GRE, ,GRE
 sterla,Stergioudas,Lakis,1955-12-10,GRE,Portaria,GRE
@@ -5494,6 +5813,7 @@ stermi,Stergiou,Michalis,1968-06-10,GRE, ,
 sterpa,Stergiatos,Panagiotis,1986-03-03,GRE,Athen,GRE
 stevgo,Stevanović,Goran,1966-11-27,SRB,Sremska Mitrovica,SRB
 stevlj,Stevanović,Ljubomir,1986-08-08,SRB,Zrenjanin,SRB
+stevso,Stevens,Sonny,1992-06-22,NED,Hoorn,NED
 stewjo,Stewart,Jordan,1982-03-03,ENG,Birmingham,ENG
 stiema,Stiefler,Manuel,1988-07-25,GER,Bayreuth,GER
 stocmi,Stoch,Miroslav,1989-10-19,SVK,Nitra,SVK
@@ -5509,6 +5829,7 @@ stojal,Stojanović,Aleksandar,1954-06-19,SRB,Kragujevac,
 stojmi,Stojčev,Miloš,1987-01-19,MNT,Beograd,SRB
 stojne,Stojaković,Nenad,1980-04-04,SRB,Zemun,SRB
 stojni,Stojanović,Nikola,1995-02-17,SRB,Beograd,SRB
+stojs1,Stojanović,Stefan,1997-02-09,SRB,Pertate,SRB
 stojst,Stojanović,Stevan,1964-10-29,SRB,Kosovska Mitrovica,KOS
 stojvl,Stojković,Vladimir,1983-07-28,SRB,Loznica,SRB
 stokan,Stokes,Anthony,1988-07-25,IRL,Dublin,IRL
@@ -5562,7 +5883,9 @@ sylljm,Sylla,Jean-Marie,1983-04-22,GUI, ,GUI
 syllmo,Sylla,Mohamed,1971-02-22,GUI,Conakry,GUI
 syllsa,Sylla,Salimo,1994-01-25,FRA,Châlons-en-Champagne,FRA
 syllya,Sylla,Yacouba,1990-11-29,MLI,Étampes,FRA
+symean,Symeonidis,Anastasios,2004-07-06,GRE, ,GRE
 symegi,Symeonidis,Giannis,1975-05-15,GRE,Katerini,GRE
+symepa,Symelidis,Panagiotis,1992-11-03,GRE,Vatero,GRE
 synaar,Synanis,Argyrios,1988-02-18,GRE,Herakklion,GRE
 synoil,Synodinos,Ilias,1960-11-04,GRE, , 
 synosy,Synodinos,Symeon,1997-05-11,GRE, ,GRE
@@ -5574,6 +5897,7 @@ syriko,Syriopoulos,Konstantinos,1963-08-25,GRE, ,
 syrist,Syrigos,Stamatis,1974-06-21,GRE,Piräus,GRE
 syriva,Syrigos,Vangelis,1949-03-02,GRE, , 
 syroge,Syros,Georgios,1976-02-08,GRE,Athen,GRE
+syxxha,Sy,Harouna,1996-03-30,FRA,Mantes-la-Jolie,FRA
 szabjz,Szabó,József,1956-01-31,HUN,Dorog,HUN
 szamgr,Szamotulski,Grzegorz,1976-05-13,POL,Gdansk,POL
 szczro,Szczot,Robert,1982-01-31,POL, ,POL
@@ -5585,6 +5909,7 @@ tabaal,Tabakis,Alex,1992-12-08,GRE,Athina,GRE
 tabach,Tabasis,Charalabos,1986-05-10,GRE, ,GRE
 tabaio,Tabakis,Ioannis,1987-05-26,GRE, ,GRE
 taccmi,Taccola,Mirko,1970-08-14,ITA,Pisa,ITA
+tachef,Tachatos,Efstathios,2001-08-12,GRE,Thessaloniki,GRE
 tachgi,Tachtsidis,Giannis,1970-05-19,GRE, , 
 tachpa,Tachtsidis,Panagiotis,1991-02-15,GRE,Nafplio,GRE
 tachpl,Tachev,Plamen,1962-08-04,BUL, , 
@@ -5594,16 +5919,19 @@ tadibo,Tadić,Bozidar,1983-07-14,SRB, ,SRB
 tahaay,Tahar,Aymen,1989-10-02,ALG,Sheffield,ENG
 taidna,Taïder,Nabil,1983-05-26,TUN,Lavaur,FRA
 tairdi,Tairis,Dimitrios,1989-12-03,GRE,Thessaloniki,GRE
+taista,Taison, ,1988-01-13,BRA,Pelotas,BRA
 takiio,Takidis,Ioanis,1981-04-17,GRE,Thessaloniki,GRE
 takona,Takos,Naoum,1960-11-03,GRE, , 
 taleda,Taleski,Davor,1995-05-19,MAC,Prilep,MAC
 talich,Talichmanidis,Christos,2001-03-16,GRE,Thessaloniki,GRE
 taliil,Talikriadis,Ilias,1965-07-10,GRE,Xhanthi,GRE
 tallal,Le Tallec,Anthony,1984-10-03,FRA,Hennebont,FRA
+talldL,Le Tallec,Damien,1990-04-19,FRA,Poissy,FRA
 tallib,Tall,Ibrahim,1981-06-23,FRA,Aubervilliers,FRA
 talojo,Talocha,João,1989-08-30,POR,Vila Nova de Famalicao,POR
 tambjo,Tambouras,John,1979-01-30,AUS,Darwin,AUS
 tankmu,Tanković,Muamer,1995-02-22,SWE,Hageby,SWE
+tanoko,Tanoulis,Konstantinos,2005-05-07,GRE, ,GRE
 tantdi,Tantos,Dimitrios,1981-04-09,GRE, ,GRE
 tapoke,Tapoko,Kevin,1994-04-13,FRA,Laval,FRA
 taprgi,Taprantzis,Giannis,1961-11-22,GRE, , 
@@ -5623,9 +5951,11 @@ tatsal,Tatsis,Alexandros,1979-08-28,GRE, ,GRE
 tatsgi,Tatsis,Giannis,1972-08-15,GRE,Ioannina,GRE
 taumga,Taument,Gaston,1970-10-01,NED,Den Haag,NED
 tavafa,Tavares,Fábio,1988-03-26,POR,Almada,POR
+tavami,Tavares,Miguel,1999-01-29,POR,Vila Nova de Gaia,POR
 tavlst,Tavlaridis,Stathis,1980-01-25,GRE,Serres,GRE
 tavost,Tavouktsis,Stefanos,1965-05-08,GRE, , 
 taxiko,Taxiarchis,Konstantinos,1974-04-02,GRE,Larisa,GRE
+tayllu,Taylor,Lucas,1995-04-10,BRA,Guarulhos,BRA
 tchizv,Tchipev,Zvetomir,1977-08-16,BUL, ,BUL
 tekise,Tekio, ,1990-07-30,SPA,Molina de Segura,SPA
 tekisr,Tekijaski,Srdjan,1964-02-03,SRB, , 
@@ -5670,7 +6000,9 @@ theog2,Theodoris,Georgios,1980-07-03,GRE,Frankfurt/Main,GER
 theog3,Theodoridis,Georgios,1973-07-08,GRE,Naousa,GRE
 theog4,Theodoris,Georgios,1972-11-03,GRE, , 
 theoge,Theocharis,Georgios,2002-06-30,GRE, ,GRE
+theogi,Theodosoulakis,Giannis,2004-09-11,GRE,Rethymno,GRE
 theok1,Theodorakos,Konstantinos,1969-06-29,GRE,Athen,GRE
+theok2,Theodoridis,Konstantinos,2003-05-24,GRE,Kilkis,GRE
 theoko,Theodoropoulos,Konstantinos,1990-03-27,GRE,Larisa,GRE
 theola,Theodorelis,Lazaros,1982-01-14,GRE, ,GRE
 theon1,Theodosiadis,Nikolaos,1973-01-14,GRE,Katerini,GRE
@@ -5707,6 +6039,7 @@ todoti,Todorov,Tihomir,1969-12-20,BUL, ,BUL
 toezda,Tőzsér,Dániel,1985-05-12,HUN,Szolnok,HUN
 tofage,Tofas,Georgios,1989-06-17,CYP, ,CYP
 togige,Togias,Georgios,1960-01-12,GRE,Korinthos,GRE
+toixzo,Tošić,Zoran,1987-04-28,SRB,Zrenjanin,SRB
 tojaju,Toja,Juan,1985-05-24,COL,Bogotá,COL
 tokman,Tokmatsis,Angelos,1967-01-15,GRE, , 
 tolbma,Tolba,Magdy,1964-02-24,EGY, , 
@@ -5735,6 +6068,7 @@ topogi,Topouzoglou,Giannis,1971-01-04,GRE, ,
 toponi,Topoliatis,Nikolaos,1981-07-31,GRE, ,GRE
 topope,Topouzis,Petros,1991-07-12,GRE, ,GRE
 topuma,Topuzov,Martin,1973-06-10,BUL, ,BUL
+torajo,Toral,Jon,1995-02-05,SPA,Reus,SPA
 torgsa,Torghelle,Sandor,1982-05-05,HUN,Budapest,HUN
 torjga,Torje,Gabriel,1989-11-22,ROM,Timişoara,ROM
 toroth,Toromanidis,Theodoros,1993-05-06,GRE, ,GRE
@@ -5742,6 +6076,8 @@ torova,Torosidis,Vasilios,1985-06-10,GRE,Xanthi,GRE
 torrda,Torres,David,1986-06-16,SPA,Petrel,SPA
 torrjo,Torres,Joaquín,1997-01-28,ARG,Neuquén,ARG
 torrmi,Torres,Miguel,1986-01-28,SPA,Madrid,SPA
+torxto,Toró, ,1999-05-30,BRA,Belém de São Francisco,BRA
+tosarg,Tosatti,Régis,1998-01-16,BRA,Xanxerê,BRA
 toscal,Toşca,Alin,1992-03-14,ROM,Alexandria,ROM
 tosiar,Tosic,Arsen,1954-02-28,SRB, , 
 tosigo,Tosić,Goran,1968-01-01,SRB, , 
@@ -5777,6 +6113,7 @@ triaa1,Triantafyllopoulos,Alexandros,1997-01-10,GRE,Athina,GRE
 triaa2,Triandafillou,Andreas,0000-00-00,GRE, ,GRE
 triaal,Triadis,Alexis,1997-05-16,GRE,Herdecke,GER
 triaan,Triantafillou,Anastasios,1979-01-11,GRE, ,GRE
+triaat,Triantafyllou,Athanasios,2003-07-22,GRE, ,GRE
 triadi,Triantafyllou,Dionysis,0000-00-00,GRE, , 
 triagi,Triantafyllidis,Giannis,1970-03-09,GRE,Atalanti,GRE
 triail,Triantafyllou,Ilias,1970-08-14,GRE, ,GRE
@@ -5797,8 +6134,11 @@ trimho,Trimhold,Holger,1953-06-13,GER,Wolfhagen,GER
 tripth,Tripotseris,Theodoros,1986-03-04,GRE,Athina,GRE
 troiem,Troise,Emanuele,1979-02-10,ITA,Neapel,ITA
 troini,Troiris,Nikos,1986-12-02,GRE, ,GRE
+tropni,Tropoulos,Nikolaos,2004-05-21,GRE, ,GRE
+troual,Trouillet,Alexis,2000-12-23,FRA,Saint-Priest-en-Jarez,FRA
 trougr,Troupkos,Grigoris,1971-12-11,GRE,Monospita,GRE
 trouth,Troupkos,Thomas,1973-12-02,GRE,Monospita Imathias,GRE
+trouva,Troumpoulos,Vasilios,2003-12-23,GRE, ,GRE
 trpego,Trpevski,Goran,1977-03-02,SWE,Malmö,SWE
 trujni,Trujić,Nikola,1992-04-14,SRB,Bor,SRB
 tsabsa,Tsabouris,Savvas,1986-07-16,GRE,Athen,GRE
@@ -5834,7 +6174,9 @@ tsaoma,Tsaousis,Marios,2000-05-11,GRE,Thessaloniki,GRE
 tsapan,Tsapanidis,Anastasios,1966-09-19,GRE, ,GRE
 tsapdi,Tsapatoris,Dimitrios,1968-06-13,GRE, , 
 tsapko,Tsaprazlis,Konstantinos,1962-01-17,GRE, , 
+tsaptr,Tsapras,Triantafyllos,2001-10-22,GRE,Livadia,GRE
 tsardi,Tsarbopoulos,Dionysis,1964-10-01,GRE, , 
+tsarni,Tsaras,Nikolaos,2006-03-13,GRE, ,GRE
 tsarpa,Tsarouchas,Panagiotis,1976-05-26,GRE, , 
 tsatdi,Tsatsopoulos,Dimitrios,1996-04-12,GRE,Kalamata,GRE
 tsatso,Tsatsos,Sotirios,1978-12-15,GRE, ,GRE
@@ -5848,6 +6190,7 @@ tselch,Tseliopoulos,Christos,1969-04-14,GRE, ,
 tseli1,Tsellos,Ilias,1990-01-22,GRE, ,GRE
 tselil,Tselios,Ilias,1997-10-06,GRE,Athina,GRE
 tselni,Tselios,Nikolaos,1966-12-29,GRE, , 
+tselsa,Tselebakis,Sarantis,2005-11-02,GRE, ,GRE
 tselti,Tselepidis,Timotheus,1996-02-02,GRE,Thessaloniki,GRE
 tsemal,Tsemperidis,Alexandros,1986-07-26,GRE,Kozani,GRE
 tsetni,Tsetines,Nikolaos,1976-07-24,GRE, ,GRE
@@ -5907,11 +6250,14 @@ tsiogi,Tsiolis,Giannis,1998-06-04,GRE,Levidi,GRE
 tsiosa,Tsiolis,Sakis,1959-06-30,GRE,Karditsa,GRE
 tsiova,Tsioukas,Vangelis,1975-08-30,GRE, ,GRE
 tsipgi,Tsiplakis,Giannis,1964-08-24,GRE,Drama,GRE
+tsiran,Tsiris,Angelos,2004-08-18,GRE, ,GRE
 tsirdi,Tsironis,Dimitrios,1959-10-26,GRE,Neapoli,GRE
 tsirge,Tsirogiannis,Georgios,1983-06-02,GRE, ,GRE
 tsirgr,Tsirigotis,Grigoris,1956-09-19,GRE, , 
+tsirk1,Tsirigotis,Konstantinos,2001-03-10,GRE, ,GRE
 tsirko,Tsironis,Konstantinos,1972-05-14,GRE,Athen,GRE
 tsirla,Tsirampidis,Lazaros,0000-00-00,GRE, , 
+tsirt1,Tsirigotis,Theodoros,2000-06-23,GRE,Marousi,GRE
 tsirth,Tsirimokos,Thalis,1959-09-07,GRE,Pagrati,GRE
 tsitat,Tsitsilis,Athanasios,1955-03-12,GRE, , 
 tsitdi,Tsitsomitsos,Dimitrios,1985-05-10,GRE, ,GRE
@@ -5961,6 +6307,7 @@ tsvepl,Tsvetkov,Plamen,1957-08-13,BUL, ,
 tuhaan,Tuhami,Anuar,1995-01-15,MAR,Ceuta,SPA
 turiiv,Turina,Ivan,1980-10-03,CRO,Zagreb,CRO
 tutaad,Tuta, ,1984-03-17,BRA, ,BRA
+tutujo,Tutuarima,Jordy,1993-04-28,NED,Velp,NED
 tweest,Tweed,Steven,1972-08-08,SCO,Edinburgh,SCO
 tyrnla,Tyrnas,Lazaros,1972-02-24,GRE, , 
 tyroty,Tyronne, ,1991-01-27,SPA,Las Palmas de Gran Canaria,SPA
@@ -5978,6 +6325,7 @@ tzanth,Tzandaris,Theofanis,1993-06-13,GRE,Sochos,GRE
 tzatma,Tzatzos,Makis,1967-11-06,GRE,Ptolemaida,GRE
 tzavan,Tzavaras,Anastasios,1965-03-17,GRE, , 
 tzavgi,Tzavellas,Giorgos,1987-11-26,GRE,Athen,GRE
+tzavma,Tzavidas,Marios,2003-10-08,GRE, ,GRE
 tzavsp,Tzavidas,Spyros,2001-08-21,GRE,Lagonisi,GRE
 tzelge,Tzelepis,Georgios,1999-11-12,GRE,Komotini,GRE
 tzepmi,Tzeptimpis,Michalis,1962-04-20,GRE, , 
@@ -5990,6 +6338,7 @@ tzikzi,Tzikas,Zisis,1963-03-12,GRE, ,
 tzimge,Tzimas,Georgios,1968-09-24,GRE, , 
 tzimni,Tzimogiannis,Nikolaos,1987-11-17,GRE,Veria,GRE
 tzimpa,Tzimas,Panagiotis,2001-03-12,GRE,Preveza,GRE
+tzimst,Tzimas,Stefanos,2006-01-06,GRE,Thessaloniki,GRE
 tzimth,Tzimopoulos,Themistoklis,1985-11-20,NZL,Kozani,GRE
 tzinge,Tzintzis,Georgios,1993-07-16,GRE, ,GRE
 tzioal,Tziolis,Alexandros,1985-02-13,GRE,Katerini,GRE
@@ -6027,6 +6376,7 @@ urbama,Urban,Martin,1972-04-21,SVK, ,SVK
 urkora,Urko, ,1983-01-28,SPA,Brussels,BEL
 urribr,Urribarri,Bruno,1986-11-06,ARG,General Campos,ARG
 userfe,Usero, ,1984-03-27,SPA,Puertollano,SPA
+vaclto,Vaclík,Tomáš,1989-03-29,CZE,Ostrava,CZE
 vaeivi,Väisänen,Ville,1977-04-19,FIN,Oulu,FIN
 vafeni,Vafeas,Nikos,1997-02-21,GRE,Thessaloniki,GRE
 vafich,Vafiadis,Charalampos,0000-00-00,GRE, , 
@@ -6052,6 +6402,7 @@ valdva,Valdo, ,1981-04-23,CVE,Villablino,SPA
 valead,Valencia,Adolfo,1968-02-06,COL,Buenaventura,COL
 valege,Valerianos,Georgios,1992-02-13,GRE,Piräus,GRE
 valepa,Valéry,Patrick,1969-07-03,FRA,Brignoles,FRA
+valeri,Valente,Ricardo,1991-04-03,POR,Porto,POR
 valijl,Valiente,José Luis,1991-05-18,SPA,Alzira,SPA
 valist,Valios,Stratis,1989-01-09,GRE,Mytilini,GRE
 valkmi,Valkanis,Michael,1974-08-23,AUS,Melbourne,AUS
@@ -6081,6 +6432,7 @@ vargma,Vargas,Matheus,1996-06-18,BRA,Sinop,BRA
 vargmi,Vargas,Miguel,1969-05-12,GRE, ,GRE
 vargro,Vargas,Ronald,1986-12-02,VEN,Guatire,VEN
 varkgi,Varkas,Giannis,1998-03-27,GRE,Chalkida,GRE
+varoiv,Varone,Ivan,1992-10-11,ITA,Napoli,ITA
 varrce,Varrault,Cédric,1980-01-30,FRA,Blois,FRA
 vartpa,Vartziotis,Paulos,1981-01-27,GRE, ,GRE
 vashir,Vashakidze,Irakli,1976-03-13,GEO, ,GEO
@@ -6142,6 +6494,7 @@ venhol,Venhlinskiy,Oleg,1978-03-21,UKR, ,UKR
 venich,Veniamin,Chrysostomos,1974-03-17,GRE,Athen,GRE
 venogi,Venos,Giannis,1952-05-08,GRE,Giannitsa,GRE
 veraja,Vera,Jaime,1963-03-25,CHI,Santiago de Chile,CHI
+verbbe,Verbič,Benjamin,1993-11-27,SLO,Celje,SLO
 verdda,Verde,Daniele,1996-06-20,ITA,Napoli,ITA
 vereol,Veretennikov,Oleg,1970-01-05,RUS,Revda,RUS
 verese,Veremko,Sergey,1982-10-16,BLR,Minsk,BLR
@@ -6153,6 +6506,7 @@ vermvl,Vermezović,Vladimir,1963-06-30,SRB,Belgrad,
 verogu,Veronesi,Gustavo,1982-05-07,BRA, ,BRA
 verori,Verón,Ricardo,1981-01-22,ARG,Santa Fé,ARG
 verpma,Verpakovskis,Māris,1979-10-15,LAT,Liepāja,LAT
+verrko,Verris,Konstantinos,2006-06-07,GRE, ,GRE
 vertan,Vertzos,Angelos,1983-05-27,GRE,Athina,GRE
 vetoko,Vetoulas,Konstantinos,1985-06-02,GRE,Patras,GRE
 vezypo,Vezyridis,Polychronis,1974-11-30,GRE,Solingen,GER
@@ -6165,8 +6519,10 @@ vichma,Vichos,Marios,2000-01-14,GRE, ,GRE
 victjo,Victor,João,1988-11-07,BRA,Olinda,BRA
 victvc,Víctor, ,1976-02-23,SPA,Madrid,SPA
 vidaal,Vidal,Aleix,1989-08-21,SPA,Valls,SPA
+vidado,Vida,Domagoj,1989-04-29,CRO,Našice,CRO
 vidahi,Vidal,Higor,1996-09-26,BRA,Londrina,BRA
 vidaja,Vidal,Javan,1989-05-10,ENG,Manchester,ENG
+vidmne,Vidmar,Nejc,1989-03-31,SLO,Ljubljana,SLO
 vidodu,Vidojević,Dusan,1979-04-06,SRB, ,SRB
 vieiad,Vieirinha, ,1986-01-24,POR,Guimarães,POR
 vieied,Vieira,Edson,1965-10-09,BRA,São João,BRA
@@ -6182,9 +6538,11 @@ villmi,Villarejo,Miguel,1988-08-24,SPA,Bailén,SPA
 villsa,Villafañe,Santiago,1988-05-19,ARG,Mar del Plata,ARG
 vilmxx,Vilmar, ,1974-06-03,BRA, , 
 vinaru,Vinagre,Rúben,1999-04-09,POR,Charneca da Caparica,POR
+vincpa,Vinícius,Paulo,1990-02-21,HUN,Sao Paulo,BRA
 vinctd,De Vincenti,Tomás,1989-02-09,ARG,Buenos Aires,ARG
 vinivi,Vinícius, ,1993-08-03,BRA,São Paulo,BRA
 vioppe,Viopoulos,Petros,1994-07-09,GRE, ,GRE
+vitama,Vital,Mateus,1998-02-12,BRA,Rio de Janeiro,BRA
 vitamm,Vitali,Miguel Mea,1981-02-19,VEN,Caracas,VEN
 vitegi,Vitevis,Giannis,1974-11-23,GRE, ,GRE
 vitlva,Vitlis,Vasilios,1993-10-28,GRE,Thessaloniki,GRE
@@ -6252,6 +6610,7 @@ vourgi,Vourloumis,Giannis,1982-08-15,GRE, ,GRE
 vouril,Vouras,Ilias,1988-02-20,GRE,Thessaloniki,GRE
 vourpr,Vouros,Praxitelis,1995-05-05,GRE,Mytilini,GRE
 vourva,Vourdogiannis,Vangelis,1970-08-03,GRE, , 
+voutch,Voutsas,Christos,2001-07-31,GRE,Thessaloniki,GRE
 voutpa,Voutsias,Paschalis,1990-03-23,GRE,Thessaloniki,GRE
 voutst,Voutsias,Stathis,1964-03-10,GRE, , 
 voutth,Voutyritsas,Theodoros,1962-07-27,GRE,Larisa,GRE
@@ -6267,8 +6626,10 @@ vranog,Vranješ,Ognjen,1989-10-24,BOS,Banja Luka,BOS
 vranto,Vranjić,Tomislav,1983-02-12,CRO,Vinkovci,CRO
 vredre,Vrede,Regillio,1973-01-18,NED,Paramaribo,SUR
 vretko,Vrettos,Konstantinos,1952-11-30,GRE,Athen,GRE
+vrgobr,Vrgoč,Branko,1989-12-18,CRO,Osijek,CRO
 vronsp,Vrontaras,Spiros,1984-12-11,GRE,Thessaloniki,GRE
 vrouma,Vrousai,Marios,1998-07-02,GRE,Nafpaktos,GRE
+vrsaim,Vrsaljko,Šime,1992-01-10,CRO,Rijeka,CRO
 vrucbo,Vručina,Bojan,1984-11-08,CRO,Varazdin,CRO
 vrynap,Vrynios,Apostolos,1960-11-25,GRE,Tripoli,GRE
 vryzdi,Vryzas,Dimos,1965-10-26,GRE, , 
@@ -6306,6 +6667,7 @@ wassro,Wassberg,Roy,1970-09-28,NOR,Bergen,NOR
 watebo,Waterman,Boy,1984-01-24,NED,Lelystad,NED
 wawrja,Wawrzyniak,Jakub,1983-07-07,POL,Kutno,POL
 webech,Weber,Christian,1983-09-15,GER,Saarbrücken,GER
+weertv,van Weert,Tom,1990-06-07,NED,Sint-Michielsgestel,NED
 weisab,Weiss,Abdul,1998-06-14,GRE,Athína,GRE
 weisgu,Weisheimer, ,1981-10-22,BRA,Porto Alegre,BRA
 weisvl,Weiss,Vladimír,1989-11-30,SVK,Bratislava,SVK
@@ -6328,6 +6690,8 @@ windjo,Windecker,József,1992-12-02,HUN,Szeged,HUN
 wisito,Wisio,Tomasz,1982-01-20,POL,Lubin,POL
 witkno,Witkowski,Norbert,1981-08-05,POL,Olsztyn,POL
 wlodpi,Włodarczyk,Piotr,1977-05-04,POL,Walbrzych,POL
+wojtka,Wojtkowski,Kamil,1998-02-26,POL,Sokołów Podlaski,POL
+woolka,Woolery,Kaiyne,1995-01-11,ENG,London,ENG
 wootno,Wooter,Nordin,1976-08-24,NED,Paramaribo,SUR
 wrehch,Wreh,Christopher,1975-05-14,LBR,Monrovia,LBR
 wrigma,Wright,Mauricio,1970-12-20,CRC,San José,CRC
@@ -6369,6 +6733,7 @@ yfanxx,Yfantis,.,0000-00-00,GRE, ,
 yialan,Yiallouris,Anastasios,1978-09-02,CYP, ,CYP
 yianmi,Yiannitsanakis,Michail,1980-09-05,GRE, ,GRE
 yilmok,Yılmaz,Okan,1978-05-16,TUR,Bursa,TUR
+yohosa,Yohou,Samuel,1991-08-06,FRA,Villepinte,FRA
 yordml,Yordan,Maris Luis,1981-01-14,ARG, ,ARG
 younha,Younès,Hamza,1986-04-16,TUN,Monastir,TUN
 yourmi,Yourassowsky,Mikael,1983-02-26,BEL,Ixelles,BEL
@@ -6456,7 +6821,9 @@ zikoak,Zikos,Akis,1974-06-01,GRE,Athen,GRE
 zikoan,Zikos,Andreas,1961-11-06,GRE,Neochori,GRE
 zikore,Ziko,Renato,1997-11-16,ALB,Chania,GRE
 zimosa,Zimonjić,Saša,1978-04-09,SRB,Čačak,SRB
+zincph,Zinckernagel,Philip,1994-12-16,DEN,København,DEN
 zindge,Zindros,Georgios,1955-05-05,GRE,Oradea,ROM
+zinizi,Zini, ,2002-07-03,ANG,Cazenga,ANG
 ziogmi,Ziogas,Michalis,1962-06-27,GRE,Larisa,GRE
 ziouan,Zioulis,Angelos,1995-02-01,CYP,Athina,CYP
 zirora,Zirojević,Ranko,1967-09-01,MNT, , 
@@ -6486,13 +6853,16 @@ zotage,Zotalis,Georgios,1967-06-10,GRE, ,
 zotopa,Zotos,Pavlos,1997-02-17,GRE, ,GRE
 zouban,Zouboulakis,Angelos,1989-05-23,GRE,Spetses,GRE
 zoubpa,Zouboulis,Paris,1970-08-30,GRE,Exaplatanos,GRE
+zougni,Zouglis,Nikos,2003-11-14,GRE, ,GRE
 zoumfo,Zoumas,Fotis,1956-05-18,GRE, , 
 zoumli,Zouma,Lionel,1993-09-10,FRA,Lyon,FRA
 zounpa,Zoundi,Patrick,1982-07-19,BFS,Ouagadougou,BFS
 zourpe,Zouroudis,Petros,1979-03-06,GRE, ,GRE
+zubest,Zuber,Steven,1991-08-17,SUI,Winterthur,SUI
 zucubr,Zuculini,Bruno,1993-04-02,ARG,Escobar,ARG
 zueljo,Zuela, ,1983-08-03,ANG,Luanda,ANG
 zugoch,Zugouris,Christos,1987-08-17,GRE, ,GRE
+zukaer,Zukanović,Ervin,1987-02-11,BOS,Sarajevo,BOS
 zurama,Żurawski,Maciej,1976-09-12,POL,Poznan,POL
 zutara,Žutautas,Raimondas,1972-09-04,LIT,Klaipeda,LIT
 zvasli,Zvasiya,Lincoln,1991-02-25,ZIM,Harare,ZIM

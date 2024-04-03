@@ -1,0 +1,7 @@
+#!/bin/bash
+
+chtabs.pl $1 $1.1
+chtabs.pl $1.1 $1.2
+sttab $1.2 > $1
+
+rm -f $1.0 $1.1

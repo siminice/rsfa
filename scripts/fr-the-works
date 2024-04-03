@@ -1,0 +1,30 @@
+#!/bin/bash
+
+SEASON=$1
+NR=$2
+YEAR=$(echo ${SEASON} | cut -d '-' -f 2)
+if [ -z "${YEAR}" ]
+then
+  YEAR=$(echo ${SEASON} | cut -d '-' -f 1)
+fi
+
+fr-get-teams.sh ${SEASON} ${SI}
+
+fr-get-reports.sh ${SEASON} ${SI} ${ST} ${NR}
+fr-fetch-reports.sh ${SEASON}
+fr-extract-reports.sh ${YEAR}
+
+fr-get-players.sh ${SEASON}
+fr-extract-players.sh ${YEAR}
+fr-extract-coaches.sh ${YEAR}
+fr-extract-referees.sh ${YEAR}
+
+fr-extract-all-rosters.sh ${YEAR}
+fr-assemble-catalog.sh ${YEAR}
+
+ss-check-stadiums.sh ${YEAR}
+wf-emptydb.sh ${YEAR}
+fr-add-all-lineups.sh ${YEAR}
+new-catalog ${YEAR}
+
+wf-lcopy-div-files ${CTTY} ${YEAR}

@@ -1,6 +1,7 @@
-281
+295
 abusra,Abusuev,Rashid,08/11/1988,RUS, ,RUS
 akhmra,Akhmadullin,Radik Mukhametbakievich,24/07/1972,RUS, ,RUS
+amelal,Amelin,Aleksey,04/05/1984,RUS, ,RUS
 andrse,Andreev,Sergey,09/02/1964,RUS, ,RUS
 anokse,Anokhin,Sergei,10/11/1951,RUS, ,RUS
 antole,Antonov,Lev Pavlovich,10/11/1961,RUS,Gus-Khrustalniy,RUS
@@ -19,6 +20,7 @@ bezbvl,Bezborodov,Vladislav Yuryevich,15/01/1973,RUS,St. Petersburg,RUS
 bezota,Bezoubiak,Taras Mikhaylovich,25/07/1955,RUS, ,RUS
 biglil,Biglov,Ildus Faridovich,02/03/1971,RUS, ,RUS
 bleefd,De Bleeckere,Frank,01/07/1966,BEL,Oudenaarde,BEL
+bobrya,Bobrovskiy,Yan,18/09/1989,RUS,St. Petersburg,RUS
 bobyvl,Bobyk,Vladimir Vasilievich,18/03/1962,RUS, ,RUS
 bochvy,Bochkov,Vyacheslav,13/11/1984,RUS, ,RUS
 bogani,Bogach,Nikolay,22/11/1976,RUS, ,RUS
@@ -33,8 +35,10 @@ budoan,Budogosskiy,Andrey,1950-05-30,RUS, ,URS
 bulyva,Bulygin,Valeriy Gennadievich,23/06/1962,RUS,Volgograd,RUS
 butean,Butenko,Andrey,02/05/1954,RUS, ,RUS
 cantlm,Cantalejo,Luis Medina,01/03/1964,SPA,Sevilla,SPA
+chebsS,Cheban,Sergey Sergeevich,24/01/1990,RUS, ,RUS
 chebyu,Chebotarev,Yuri,21/02/1955,RUS, ,RUS
 chekvl,Chekhoev,Vladimir,1948-09-24,URS,Дзауджикау,RUS
+cheldV,Cheltsov,Dmitriy Vyacheslavovich,06/02/1977,RUS, ,RUS
 cheldm,Cheltsov,Dmitry,06/02/1977,RUS, ,RUS
 chisar,Chistyakov,Artem,11/05/1987,RUS, ,RUS
 dancva,Danchenko,Valeriy Vladimirovich,28/04/1978,RUS, ,RUS
@@ -51,10 +55,12 @@ egorni,Egorov,Nikolay,1954-12-12,RUS,Липецк,RUS
 elefil,Eleferenko,Ilya,05/03/1984,RUS, ,RUS
 enyuvl,Enyutin,Vladimir Leonidovich,05/11/1960,RUS, ,RUS
 eremni,Eremin,Nikolay Sergeevich,22/12/1980,RUS, ,RUS
+ermadm,Ermakov,Dmitriy, ,RUS, ,RUS
 erovmi,Erovenko,Mikhail Pavlovich,07/11/1969,RUS,Krasnodar,RUS
 erzife,Erzimanov,Feyzudin,27/10/1953,RUS, ,RUS
 eskoal,Eskov,Aleksey Igorevich,07/09/1978,RUS, ,RUS
 evstal,Evstigneev,Aleksandr Vasilevich,02/06/1963,RUS,Korolev,RUS
+fedoaN,Fedorov,Artur Nikolaevich,13/09/1990,RUS, ,RUS
 fedoig,Fedotov,Igor,10/06/1976,RUS, ,RUS
 fedoni,Fedorov,Nikolai, ,RUS, ,RUS
 fellan,Fellinger,Andreas,03/08/1971,AUT, ,AUT
@@ -94,6 +100,7 @@ ilyara,Ilyasov,Rafael,01/01/1973,RUS, ,RUS
 iniaad,Inia,Adriaan,27/10/1963,NED, ,NED
 isakse,Isakov,Sergey, ,RUS, ,RUS
 ivalma,Ivaldi,Marco,04/07/1961,ITA, ,ITA
+ivanmi,Ivanov,Mikhail, ,RUS, ,RUS
 ivanni,Ivanov,Nikolay Vladimirovich,24/01/1964,RUS,St. Petersburg,RUS
 ivanse,Ivanov,Sergey,05/06/1984,RUS, ,RUS
 ivanva,Ivanov,Valentin Valentinovich,04/07/1961,RUS,Moskva,RUS
@@ -102,6 +109,7 @@ jaraja,Jára,Jaroslav,21/02/1964,CZE, ,CZE
 kaluti,Kalugin,Tikhon Vladimirovich,03/12/1974,RUS,Moskva,RUS
 kamito,Kamikawa,Toru,08/06/1963,JAP,Kagoshima,JAP
 karase,Karasev,Sergey Gennadyevich,12/06/1979,RUS,Moskva,RUS
+karuse,Karunenko,Sergey,25/10/1986,RUS, ,RUS
 kayual,Kayumov,Almir Izmailovich,30/12/1964,RUS, ,RUS
 kazava,Kazartsev,Vasiliy,04/12/1979,RUS, ,RUS
 kazmvl,Kazmenko,Vladimir Aleksandrovich,27/09/1975,RUS, ,RUS
@@ -135,6 +143,7 @@ kozhal,Kozhukov,Alexander, ,RUS, ,RUS
 kozlev,Kozlov,Evgeny,26/08/1985,RUS, ,RUS
 krasge,Krasyuk,Gennady,01/02/1964,RUS, ,RUS
 kudral,Kudryavtsev,Aleksandr,24/10/1976,RUS, ,RUS
+kukue1,Kukulyak,Evgeniy,22/12/1986,RUS, ,RUS
 kukuev,Kukulyak,Evgeny,22/12/1986,RUS, ,RUS
 kukupa,Kukuyan,Pavel,04/04/1982,RUS, ,RUS
 kulaol,Kulakov,Oleg,1951-10-29,RUS,Москва,URS
@@ -202,6 +211,7 @@ paniig,Panin,Igor,01/07/1985,RUS, ,RUS
 pantse,Panteleev,Sergey Grigoryevich,29/10/1961,RUS, ,RUS
 perelg,Pérez,Luis Alberto Gutiérrez, ,SPA, ,SPA
 petrar,Petrosyan,Aram,15/02/1984,RUS, ,RUS
+petrva,Petrosyan,Varantso, ,RUS, ,RUS
 pettvl,Pettay,Vladimir Leonidovich,08/05/1973,RUS,Petrozavodsk,RUS
 pisaig,Pisanko,Igor Vladimirovich,25/09/1968,RUS, ,RUS
 plakig,Plakhov,Igor Mikhaylovich,05/03/1960,RUS, ,RUS
@@ -216,6 +226,7 @@ rumyal,Rumyantsev,Aleksey,1951-07-02,RUS,Ленинград,URS
 rushvi,Rushakov,Vitaliy,05/06/1983,RUS, ,RUS
 ruzbma,Ružbarský,Marián,30/08/1968,SVK, ,SVK
 safydm,Safyan,Dmitriy,23/12/1986,RUS, ,RUS
+safyrS,Safyan,Roman Sergeevich,17/08/1991,RUS, ,RUS
 saglst,Saglietti,Stefano, ,ITA, ,ITA
 samaom,Samaniego,Oscar David Martínez,27/12/1965,SPA, ,SPA
 samesu,Samedov,Suratulla, ,RUS, ,RUS
@@ -224,11 +235,13 @@ savcyu,Savchenko,Yuriy,1945-11-27,URS,Чита,RUS
 savkal,Savkin,Aleksandr,1945-04-07,RUS,Балашиха,RUS
 schrch,Schräer,Christian,29/01/1965,GER, ,GER
 seldvl,Seldyakov,Vladimir,03/05/1978,RUS, ,RUS
+semedA,Semenov,Dmitriy Andreevich,18/11/1991,RUS, ,RUS
 sememi,Semenov,Mikhail,17/01/1971,RUS, ,RUS
 semevy,Semenov,Vyacheslav Vasilyevich,20/10/1977,RUS,St. Petersburg,RUS
 sergal,Sergeev,Aleksey,00/00/1966,RUS, ,RUS
 seyfna,Seyfetdinov,Nail,12/07/1986,RUS, ,RUS
 shadpa,Shadykhanov,Pavel Andreevich,07/05/1986,RUS, ,RUS
+shafrR,Shafeev,Rafael Rashidovich,29/10/1992,RUS,Volgograd,RUS
 shalko,Shalamberidze,Konstantin Iosifovich,03/03/1987,RUS, ,RUS
 shavva,Shaveyko,Valery, ,RUS, ,RUS
 shimal,Shimarygin,Aleksandr,12/05/1984,RUS, ,RUS
@@ -248,6 +261,7 @@ stipal,Stipidi,Alexey,26/02/1980,RUS, ,RUS
 sukhal,Sukhoy,Aleksey,30/03/1987,RUS, ,RUS
 sukhse,Sukhoverkhov,Sergey Valerievich,03/12/1975,RUS, ,RUS
 sukhst,Sukhina,Stanislav Valeryevich,16/08/1968,RUS,Cherkass,RUS
+talakI,Talaev,Khamid Isaevich,02/08/1990,RUS, ,RUS
 teredm,Terekhov,Dmitry A.,29/04/1968,RUS,Perm,RUS
 texivi,Texier,Vincent,25/11/1962,FRA,Niort,FRA
 tikhyu,Tikhomirov,Yury,30/07/1963,RUS, ,RUS

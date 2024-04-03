@@ -1,4 +1,4 @@
-351
+387
 aandge,Aandewiel,Gert,1969-09-09,NED,Katwijk,NED
 achted,Achterberg,Eddy,1947-02-21,NED,Utrecht,NED
 adamji,Adamson,Jimmy,1929-04-04,ENG,Ashington,ENG
@@ -8,6 +8,7 @@ advodi,Advocaat,Dick,1947-09-27,NED,Den Haag,NED
 alflro,Alflen,Rob,1968-05-07,NED,Utrecht,NED
 anasya,Anastasiou,Yannis,1973-03-05,GRE,Arta,GRE
 appebr,Appel,Bram,1921-11-30,NED,Rotterdam,NED
+artsal,Arts,Alfons,1965-08-29,NED,Zeist,NED
 arumhv,van Arum,Hans,1966-12-23,NED,Amersfoort,NED
 attera,Atteveld,Raymond,1966-09-08,NED,Amsterdam,NED
 baanro,Baan,Rob,1943-04-01,NED,Rotterdam,NED
@@ -17,6 +18,7 @@ beenle,Beenhakker,Leo,1942-08-02,NED,Rotterdam,NED
 beenma,Been,Mario,1963-12-11,NED,Rotterdam,NED
 benggu,Bengtsson,Gunder,1946-02-02,SWE,Torsby,SWE
 bergha,Berger,Han,1950-06-17,NED,Utrecht,NED
+bergtr,Berghuis,Tristan,1996-02-13,NED,Leeuwarden,NED
 bindfr,Binder,Franz,1911-12-01,AUT,Sankt Pölten,AUT
 blinda,Blind,Danny,1961-08-01,NED,Oost-Souburg,NED
 blokge,Blok,Ger,1939-10-16,NED, ,NED
@@ -34,8 +36,10 @@ bonfjo,Bonfrere,Jo,1946-06-15,NED,Eijsden,NED
 bonsot,Bonsema,Otto,1909-11-03,NED,Groningen,NED
 booyfo,Booy,Foeke,1962-04-25,NED,Leeuwarden,NED
 boskvu,Boškov,Vujadin,1931-05-16,SRB,Begeč,SRB
+bosspa,Bosschaart,Pascal,1980-02-28,NED,Rotterdam,NED
 bosxth,Bos,Theo,1965-10-05,NED,Nijmegen,NED
 boszpe,Bosz,Peter,1963-11-21,NED,Apeldoorn,NED
+boukno,Boukhari,Nourdin,1980-06-30,MAR,Rotterdam,NED
 boutjd,de Bouter,Jan,0000-00-00,NED, ,NED
 braner,Brandts,Ernie,1956-02-03,NED,Didam,NED
 branjo,Brand,Joop,1936-06-11,NED,Rotterdam,NED
@@ -69,12 +73,14 @@ demmde,Demmers,Dennis,1975-03-21,NED, ,NED
 dijckv,van Dijcke,Kees,0000-00-00,NED, ,NED
 dijkjv,van Dijk,Jan,1956-12-10,NED,Diepenveen,NED
 dijkma,Dijkhuizen,Marinus,1972-01-04,NED,'s-Gravenzande,NED
+dintiv,van Dinteren,Ivar,1979-05-03,NED,Bussum,NED
 donkit,ten Donkelaar,Issy,1941-10-07,NED,Losser,NED
 donnfr,Donnenfeld,Friedrich,1912-01-17,AUT,Wien,AUT
 doorhv,van Doorneveld,Hans,1940-09-09,NED,Amsterdam,NED
 dorjha,Dorjee,Hans,1941-07-26,NED,Delft,NED
 drieja,Driessen,Jay,1969-08-04,NED,Venlo,NED
 dubbpi,Dubbelman,Piet,0000-00-00,NED, ,NED
+duitsa,Duits,Sander,1983-08-29,NED,Putten,NED
 duuthe,Duut,Henk,1964-01-14,NED,Rotterdam,NED
 eijere,Eijer,René,1963-01-01,NED,Den Helder,NED
 eijkha,Eijkenbroek,Hans,1940-01-05,NED,Schiedam,NED
@@ -86,12 +92,14 @@ fadrfr,Fadrhonc,František,1914-12-18,NED,Nymburk,CZE
 fafiab,Fafié,Ab,1941-03-04,NED,Rotterdam,NED
 ferral,Ferrer,Albert,1970-06-06,SPA,Barcelona,SPA
 feskjo,Feskens,John,1965-11-03,NED,Nijmegen,NED
+fieeja,Fießer,Jan,1987-01-02,GER,Heidelberg,GER
 franro,Franssen,Robert,1986-11-15,NED, ,NED
 frashe,Fraser,Henk,1966-07-07,NED,Paramaribo,SUR
 fuchfr,Fuchs,Franz,1915-11-25,AUT, ,AUT
 gaagmv,van der Gaag,Mitchell,1971-10-22,NED,Zutphen,NED
 gaallv,van Gaal,Louis,1951-08-08,NED,Amsterdam,NED
 gaspol,Gaspar,Oliver,1925-06-15,ROM,Brasov,ROM
+gentma,Gentile,Marco,1968-08-24,NED,Den Haag,NED
 gereer,Gerets,Eric,1954-05-18,BEL,Rekem,BEL
 goedca,Goedkoop,Casper,0000-00-00,NED, ,NED
 gonzgo,Gonzalo, ,1983-10-13,SPA,Montevideo,URU
@@ -122,13 +130,16 @@ hartpi,Hartkoren,Pieter,0000-00-00,NED, ,NED
 havlvi,Havlicek,Viktor,1914-07-16,AUT,Wien,AUT
 heerge,Heerkes,Gert,1965-11-03,NED,Lutten,NED
 heesdi,Heesen,Dirk,1969-09-15,NED, ,NED
+heidsv,Heide,Sandor van der,1978-03-30,NED,IJsbrechtum,NED
 heinro,Heinz,Robert,1918-00-00,GER, ,GER
+heitjo,Heitinga,John,1983-11-15,NED,Alphen aan den Rijn,NED
 heller,Hellemons,Eric,1971-06-02,NED,Kruisland,NED
 heyeni,Heyenrath,Nick,0000-00-00,NED, ,NED
 hiddgu,Hiddink,Guus,1946-11-08,NED,Varsseveld,NED
 hoefno,Höfling,Norberto,1924-06-20,ROM,Cernăuţi,ROM
 hoekan,Hoekstra,André,1962-04-05,NED,Baarn,NED
 hoekfr,Hoek,Frans,1956-10-17,NED,Hoorn,NED
+hoflke,Hofland,Kevin,1979-06-07,NED,Brunssum,NED
 hollhe,Hollink,Hennie,1931-10-01,NED,Glanerbrug,NED
 horejo,Horejs,Josef,0000-00-00,AUT, ,AUT
 houwpv,van Houwelingen,Piet,0000-00-00,NED, ,NED
@@ -160,11 +171,13 @@ jongjp,de Jong,Jean-Paul,1970-10-17,NED,Utrecht,NED
 jongmd,de Jongh,Meg,0000-00-00,NED, ,NED
 jongtd,de Jong,Theo,1947-08-11,NED,Leeuwarden,NED
 jonkan,Jonker,Andries,1962-09-22,NED,Amsterdam,NED
+jonkwi,Jonk,Wim,1966-10-12,NED,Volendam,NED
 jorgar,Jorge,Artur,1946-02-13,POR,Oporto,POR
 jovajo,Jovanović,Jovan,0000-00-00,SRB, ,SRB
 kaleda,Kalezić,Darije,1969-11-01,BOS,Pfäffikon,SUI
 karejo,Karelse,John,1970-05-17,NED,Kapelle,NED
 keizma,Keizer,Marcel,1969-01-15,NED,Badhoevedorp,NED
+kellsa,Keller,Sander,1979-09-18,NED,Amsterdam,NED
 kessge,Keßler,Georg,1932-09-23,GER,Saarbrücken,GER
 kistsi,Kistemaker,Simon,1941-08-29,NED,IJmuiden,NED
 kmenwi,Kment,Willy,1914-10-15,AUT, ,AUT
@@ -173,6 +186,7 @@ koemer,Koeman,Erwin,1961-09-20,NED,Zaandam,NED
 koemro,Koeman,Ronald,1963-03-21,NED,Zaandam,NED
 koerfr,Körver,Frans,1937-07-31,NED,Schinnen,NED
 koevwi,Koevermans,Wim,1960-06-28,NED,Vlaardingen,NED
+kohlma,Kohler,Matthias,1991-06-09,GER, ,GER
 kohnsp,Kohn,Spitz,1933-11-01,LUX,Luxemburg,LUX
 kolmre,Kolmschot,René,1969-01-11,NED,Saasveld,NED
 konihd,de Koning,Hans,1960-04-05,NED,Rotterdam,NED
@@ -186,8 +200,10 @@ kovate,Kovács,Ștefan,1920-10-02,ROM,Timisoara,ROM
 krolru,Krol,Ruud,1949-03-24,NED,Amsterdam,NED
 kruehe,Krüzen,Hendrie,1964-11-24,NED,Almelo,NED
 kruyge,Kruys,Gert,1961-05-08,NED,Utrecht,NED
+kruyri,Kruys,Rick,1985-05-09,NED,Utrecht,NED
 laantv,van der Laan,Thim,0000-00-00,NED, ,NED
 lammjo,Lammers,John,1963-09-11,NED,Tilburg,NED
+landde,Landzaat,Denny,1976-05-06,NED,Amsterdam,NED
 langar,Langeler,Art,1970-08-16,NED,Lochem,NED
 laseth,Laseroms,Theo,1940-03-08,NED,Roosendal,NED
 lattw1,Latten,Wim,0000-00-00,NED, ,NED
@@ -220,6 +236,7 @@ mcclst,McClaren,Steve,1961-05-03,ENG,Fulford,ENG
 mcdoro,McDonald,Rob,1959-01-22,ENG,Hull,ENG
 meenpv,van de Meent,Pim,1937-11-20,NED,Den Haag,NED
 meijge,Meijer,Geert,1951-03-15,NED,Vinkeveen,NED
+meijro,Meijer,Rogier,1981-09-05,NED,Doetinchem,NED
 metged,Metgod,Edward,1959-12-19,NED,Amsterdam,NED
 meyeha,Meyer,Hans,1942-11-03,GER,Brezanky,CZE
 michri,Michels,Rinus,1928-02-09,NED,Amsterdam,NED
@@ -233,9 +250,11 @@ neumhe,Neumann,Herbert,1953-11-14,GER,Köln,GER
 nevide,Neville,Denis,1915-05-06,ENG,London,ENG
 nienhe,Nienhuis,Henk,1941-08-11,NED, ,NED
 nikomi,Nikolić,Milan,1929-06-06,SRB, ,SRB
+nistrv,van Nistelrooy,Ruud,1976-07-01,NED,Oss,NED
 nooigd,de Nooijer,Gérard,1969-04-04,NED,Oost-Souburg,NED
 noteja,Notermans,Jan,1932-07-29,NED,Sittard,NED
 olsemo,Olsen,Morten,1949-08-14,DEN,Vordingborg,DEN
+ooijan,Ooijer,André,1974-07-11,NED,Amsterdam,NED
 oostjo,Oosting,Joseph,1972-01-29,NED,Emmen,NED
 pardal,Pardew,Alan,1961-07-18,ENG,Wimbledon,ENG
 pastal,Pastoor,Alex,1966-10-26,NED,Amsterdam,NED
@@ -254,8 +273,12 @@ poposa,Popovics,Sándor,1939-06-22,HUN,Keszthely,HUN
 preumi,Preud'homme,Michel,1959-01-24,BEL,Ougrée,BEL
 pusima,Pušić,Marino,1971-08-18,CRO,Mostar,YUG
 rabxja,Rab,Jan,1940-11-30,NED, ,NED
+rankal,Ranković,Aleksandar,1978-08-31,SRB,Beograd,SRB
 rausfr,Rausch,Friedel,1940-02-27,GER,Duisburg,GER
 rayehe,Rayer,Henk,1949-10-30,NED,Blerick,NED
+reedma,Reedijk,Marink,1992-08-25,NED, ,NED
+reekpe,Reekers,Peter,1981-06-02,NED,Westerhaar,NED
+reexdv,Ree,Dennis van der,1979-04-19,NED,Rotterdam,NED
 reizmi,Reiziger,Michael,1973-05-03,NED,Amstelveen,NED
 rekeja,Reker,Jan,1948-06-03,NED,Eindhoven,NED
 remmja,Remmers,Jan,1922-09-30,NED, ,NED
@@ -275,15 +298,20 @@ ruijhu,Ruijgrok,Huib,1944-04-26,NED, ,NED
 ruitnd,de Ruiter,Nol,1940-04-06,NED,Utrecht,NED
 ruttfr,Rutten,Fred,1962-12-05,NED,Wijchen,NED
 santmi,Santoni,Michele,1980-01-01,ITA,Riva del Garda,ITA
+scheje,Schepens,Jeroen,1993-05-27,NED, ,NED
+schetw,Scheepers,Twan,1971-11-08,NED,Eindhoven,NED
 schijv,van't Schip,John,1963-12-30,NED,Fort Saint John,CAN
 schisc,Schirsin, ,0000-00-00,NED, ,NED
 schlju,Schlangen,Jung,0000-00-00,NED, ,NED
 schmro,Schmidt,Roger,1967-03-13,GER,Kierspe,GER
 schole,Schoenmaker,Lex,1947-08-23,NED,Den Haag,NED
 schral,Schreuder,Alfred,1972-11-02,NED,Barneveld,NED
+schrdi,Schreuder,Dick,1971-08-02,NED,Barneveld,NED
 schwel,Schwartz,Elek,1908-10-23,ROM,Timisoara,ROM
 siezch,Siezenis,Charles,1915-11-17,NED,Maastrich,NED
+silbmi,Silberbauer,Michael,1981-07-07,DEN,Støvring,DEN
 silzfe,Silz,Ferdi,1915-11-30,GER, ,GER
+simopa,Simonis,Paul,1985-02-14,NED,Leidschendam-Voorburg,NED
 sleeav,van der Sleen,Albert,1963-04-30,NED,Eindhoven,NED
 slotar,Slot,Arne,1978-09-17,NED,Bergentheim,NED
 slutle,Slutskiy,Leonid,1971-05-04,RUS,Volgograd,RUS
@@ -312,17 +340,21 @@ teunev,Teunissen,Evert,0000-00-00,NED,Arnhem,NED
 thijfr,Thijssen,Frans,1952-01-23,NED,Malden,NED
 thombi,Thompson,Bill,1921-08-10,SCO,Glasgow,SCO
 tiggav,van Tiggelen,Adri,1957-06-16,NED,Oud-Beijerland,NED
+tobiol,Tobiasen,Ole,1975-07-08,DEN,Amager,DEN
 tomajd,Tomasson,Jon Dahl,1976-08-29,DEN,København,DEN
 uldean,Ulderink,Andries,1969-07-30,NED,Zwolle,NED
 ultesj,Ultee,Sjors,1987-05-23,NED,Utrecht,NED
 vandre,Vandereycken,René,1953-07-22,BEL,Spalbeek,BEL
 veenlv,van Veen,Leo,1946-06-06,NED,Utrecht,NED
+vegthv,Vegt,Henry van der,1972-02-18,NED,Kampen,NED
 vegxlu,Veg,Ludwig,1922-12-27,AUT, ,AUT
 veldhv,van Veldhoven,Harm,1962-09-28,BEL,Luyksgestel,NED
+velzju,Velázquez,Julio,1981-10-05,SPA,Salamanca,SPA
 velzpv,van Velzen,Peter,1958-10-11,NED,Pijnacker,NED
 verbge,Verbeek,Gertjan,1962-08-01,NED,Deventer,NED
 verbpi,Verbeek,Pim,1956-03-12,NED,Rotterdam,NED
 vereha,Verel,Hans,1953-04-21,NED,Rotterdam,NED
+vergdo,Vergoossen,Dominik,1972-03-20,NED,Echt,NED
 vergse,Vergoossen,Sef,1947-08-05,NED,Echt,NED
 verlth,Verlangen,Theo,1941-06-09,NED, ,NED
 versja,Versleijen,Jan,1955-12-29,NED,Venlo,NED
@@ -339,13 +371,17 @@ westha,Westerhof,Hans,1948-11-24,NED,Terborg,NED
 wetzan,Wetzel,André,1951-11-03,INA,Surabaya,INA
 wijkdv,van Wijk,Dennis,1962-12-16,NED,Oostzaan,NED
 wismhe,Wisman,Henk,1957-05-29,NED,Amsterdam,NED
+witsri,Witschge,Richard,1969-09-20,NED,Amsterdam,NED
+wolfjd,de Wolf,John,1962-12-10,NED,Schiedam,NED
 wolfpd,de Wolf,Piet,1921-00-00,NED, ,NED
+wondkv,van Wonderen,Kees,1969-01-04,NED,Bergen,NED
 wormfr,Wormuth,Frank,1960-09-13,GER,Berlin,GER
 wottma,Wotte,Mark,1960-12-16,NED,Enschede,NED
 woutja,Wouters,Jan,1960-07-17,NED,Utrecht,NED
 wullhe,Wullems,Henk,1936-01-21,NED, ,NED
 zalala,Zalai,László,1929-00-00,HUN, ,HUN
 zeexhv,van der Zee,Hans,1956-01-15,NED,Amsterdam,NED
+zendbo,Zenden,Boudewijn,1976-08-15,NED,Maastricht,NED
 zoghnv,van Zoghel,Nico,1943-05-22,NED, ,NED
 zwamav,van Zwam,Arno,1969-09-16,NED,Beneden-Leeuwen,NED
 zwamke,Zwamborn,Kees,1952-03-28,NED,Alblasserdam,NED

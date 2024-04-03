@@ -62,7 +62,7 @@ zitnpa,Patrik,Žitný,1999-01-21,CZE,10,14,M,0,0,0,0,patrik-zitny
 cervma,Marek,Červenka,1992-12-17,CZE,10,11,A,0,0,0,0,marek-cervenka
 diazyh,Yhojan,Díaz,1998-02-10,URU,10,7,A,0,0,0,0,yhojan-diaz
 haljne,Nermin,Haljeta,1997-06-07,SLO,10,8,A,0,0,0,0,nermin-haljeta
-vancd1,David,Vaněček,1991-03-09,CZE,10,28,A,0,0,0,0,david-vancek
+vaneda,David,Vaněček,1991-03-09,CZE,10,28,A,0,0,0,0,david-vancek
 vosaja,Jan,Vošahlík,1989-03-08,CZE,10,26,A,0,0,0,0,jan-vosahlik
 fillma,Martin,Fillo,1986-02-07,CZE,10, , ,0,0,0,0,martin-fillo
 susnal,Aleksandar,Šušnjar,1995-08-19,AUS,10, , ,0,0,0,0,aleksandar-susnjar
@@ -162,7 +162,7 @@ tkadad,Adam,Tkadlec,1997-10-21,CZE,18,19,M,0,0,0,0,adam-tkadlec
 traoib,Ibrahim,Traoré,1988-09-16,CIV,18,12,M,0,0,0,0,ibrahim-traore
 vukavu,Vukadin,Vukadinovič,1990-12-14,SRB,18,90,M,0,0,0,0,vukadin-vukadinovic
 beaujd,Jean-David,Beauguel,1992-03-21,FRA,18,10,A,0,0,0,0,jean-david-beauguel
-ekpaum,Ubong Moses,Ekpai,1995-10-17,NGR,18,28,A,0,0,0,0,ubong-moses-ekpai
+ekpaub,Ubong Moses,Ekpai,1995-10-17,NGR,18,28,A,0,0,0,0,ubong-moses-ekpai
 slampa,Patrik,Slaměna,2000-07-07,CZE,18,29,A,0,0,0,0,patrik-slamna
 votama,Matěj,Votava,1997-11-21,CZE,18,15,A,0,0,0,0,matj-votava
 vyhnpa,Pavel,Vyhnal,1990-05-25,CZE,18,9,A,0,0,0,0,pavel-vyhnal
@@ -332,7 +332,7 @@ chraja,Jan,Chramosta,1990-10-12,CZE,40, , ,0,0,0,0,jan-chramosta
 mingru,Ruslan,Mingazov,1991-11-23,TKM,40, , ,0,0,0,0,ruslan-mingazov
 agayka,Kamran,Agayev,1986-02-09,AZE,40, , ,0,0,0,0,kamran-agayev
 cmovpa,Pavel,Čmovš,1990-06-29,CZE,40, , ,0,0,0,0,pavel-cmovs
-lyovvl,Vladislav,Lyovin,1995-03-28,RUS,40, , ,0,0,0,0,vladislav-lyovin
+levivl,Vladislav,Lyovin,1995-03-28,RUS,40, , ,0,0,0,0,vladislav-lyovin
 silvdo,Douglas,Silva,1984-03-07,BRA,40, , ,0,0,0,0,douglas-silva_2
 babael,Eli,Babalj,1992-02-21,AUS,40, , ,0,0,0,0,eli-babalj
 klobst,Stanislav,Klobása,1994-03-07,CZE,40, , ,0,0,0,0,stanislav-klobasa
@@ -451,7 +451,7 @@ vcelni,Nikolas,Včelka,1997-03-30,SVK,75,17,F,0,0,0,0,nikolas-vcelka
 vedrfi,Filip,Vedral,1997-04-26,CZE,75,12,F,0,0,0,0,filip-vedral
 danini,Nikolas,Daníček,1991-10-21,CZE,75,16,M,0,0,0,0,nikolas-danicek
 fulnja,Jakub,Fulnek,1994-04-26,CZE,75,22,M,0,0,0,0,jakub-fulnek
-lyovvl,Vladislav,Lyovin,1995-03-28,RUS,75,7,M,0,0,0,0,vladislav-lyovin
+levivl,Vladislav,Lyovin,1995-03-28,RUS,75,7,M,0,0,0,0,vladislav-lyovin
 maraka,Kamso,Mara,1994-12-24,GUI,75,23,M,0,0,0,0,kamso-mara
 nerape,Petr,Nerad,1994-02-06,CZE,75,27,M,0,0,0,0,petr-nerad
 opluma,Marek,Opluštil,1994-01-30,CZE,75,25,M,0,0,0,0,marek-oplustil

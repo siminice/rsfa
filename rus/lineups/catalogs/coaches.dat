@@ -1,16 +1,20 @@
-264
+318
+abasgu,Abascal,Guillermo,1989-04-13,SPA,Sevilla,SPA
 adiema,Adiev,Magomed,1977-06-30,RUS,Grozny,RUS
 advodi,Advocaat,Dick,1947-09-27,NED,Den Haag,NED
 adzhyu,Adzhem,Yuriy,1953-01-14,RUS,Kerch,UKR
 agafni,Agafonov,Nikolay,1947-06-15,URS, ,URS
 agalru,Agalarov,Ruslan,1974-02-21,UZB,Makhachkala,RUS
+aitkil,Aitkulov,Ilshat,1969-02-15,RUS, ,RUS
 alendm,Alenichev,Dmitriy,1972-10-20,RUS,Veliki Luki,RUS
 aleyse,Aleynikov,Sergey,1961-11-07,BLR,Minsk,BLR
+alpapa,Alpatov,Pavel,1990-05-29,RUS, ,RUS
 andrse,Andreyev,Sergey,1956-05-16,UKR,Luhansk,UKR
 antivi,Antikhovich,Viktor,1945-04-05,RUS, ,RUS
 ashwpa,Ashworth,Paul,1969-09-26,ENG, ,ENG
 aslaan,Aslamov,Anatoly,1953-06-01,RUS, ,RUS
 averal,Averyanov,Aleksandr,1948-10-01,RUS,Vladivostok,RUS
+averev,Averyanov,Evgeniy,1979-03-31,RUS, ,RUS
 baitis,Baitiev,Isa,1966-12-02,RUS, ,RUS
 balase,Balakhnin,Sergey,1959-11-26,RUS, ,RUS
 barrma,Barreto,Mariano,1957-01-18,POR,Ribandar,IND
@@ -18,7 +22,9 @@ baskva,Baskakov,Vasili,1962-09-09,RUS,Parabel,RUS
 batuyu,Baturenko,Yuriy,1964-12-29,TAJ,Dushanbe,TAJ
 baydan,Baydachniy,Anatoly,1952-10-01,RUS,Moskva,RUS
 berdku,Berdiyev,Kurban,1952-08-25,TKM,Aşgabat,RUS
+bereal,Berezutskiy,Aleksey,1982-06-20,RUS,Moskva,RUS
 berero,Berezovskiy,Roman,1974-08-05,ARM,Eriwan,ARM
+bereva,Berezutskiy,Vasiliy,1982-06-20,RUS,Moskva,RUS
 berkal,Berketov,Aleksandr,1975-12-24,RUS, ,RUS
 beskko,Beskov,Konstantin,1920-11-18,RUS,Moskva,RUS
 bibivl,Bibikov,Vladimir,1961-02-07,RUS, ,RUS
@@ -29,6 +35,7 @@ blokol,Blokhin,Oleg,1952-11-05,UKR,Kiev,UKR
 boasav,Villas-Boas,André,1977-10-17,POR,Porto,POR
 bogdva,Bogdanov,Valeriy,1952-01-09,RUS,Куйбышев,RUS
 bondvi,Bondarenko,Victor,0000-00-00,RUS, ,RUS
+boroal,Borodyuk,Aleksandr,1962-11-30,RUS,Voronezh,RUS
 borovl,Borovička,Vladimir,1954-03-25,CZE,Decin,CZE
 bozomi,Božović,Miodrag,1968-06-22,MNT,Mojkovac,MNT
 bubnal,Bubnov,Aleksandr,1955-10-10,RUS,Lyubertsy,RUS
@@ -49,14 +56,19 @@ cherst,Cherchesov,Stanislav,1963-09-02,RUS,Alagir,RUS
 chetva,Chetverik,Valeri,1957-12-29,RUS,Tikhoretsk,RUS
 chikal,Chikhradze,Aleksandr,1975-08-17,RUS, ,RUS
 chikse,Chikishev,Sergey,1961-01-31,RUS,Omsk,RUS
+clotpe,Clotet,Pep,1977-04-28,SPA,Barcelona,SPA
+compma,Compper,Marvin,1985-06-14,GER,Tübingen,GER
 coucjo,Couceiro,José,1962-10-04,POR, ,POR
 daniiv,Daniliants,Ivan,1953-02-20,MOL,Aşgabat,TKM
 davyan,Davydov,Anatoliy,1953-11-13,RUS,Tula,RUS
 dimidi,Dimitrov,Dimitar,1959-06-09,BUL,Burgas,BUL
 dinish,Diniyev,Shakhin,1966-07-12,AZE,Beylaqan,AZE
+dmitan,Dmitriev,Andrey,1965-08-06,RUS, ,RUS
 docaed,Docampo,Eduardo,1974-05-26,SPA,Bilbao,SPA
 dolmol,Dolmatov,Oleg,1948-11-29,RUS,Ozyorsk,RUS
+donama,Donadel,Marco,1983-04-21,ITA,Conegliano,ITA
 dyshkh,Dyshekov,Khazret,1965-08-24,RUS, ,RUS
+dzhige,Dzhioev,Georgiy,1986-06-13,RUS,Vladikavkaz,RUS
 dzodre,Dzodzuashvili,Revaz,1945-04-10,GEO,Kutaisi,GEO
 emelko,Emeljanov,Konstantin,1970-03-28,RUS,Vladivostok,RUS
 emerun,Emery,Unai,1971-11-03,SPA,Hondarribia,SPA
@@ -65,21 +77,29 @@ evseva,Evseev,Vadim,1976-01-08,RUS,Mytishchi,RUS
 fayzvl,Fayzulin,Vladimir,1952-11-25,RUS, ,RUS
 fedov1,Fedotov,Vladimir G.,1943-01-18,RUS,Moskva,RUS
 fedovl,Fedotov,Vladimir V.,1966-08-12,RUS,Mikhaylovsk,RUS
+figopa,Figon,Pavel,1990-05-22,RUS, ,RUS
+filisa,Filipović,Saša,1982-02-14,SRB,Novi Sad,SRB
 frolva,Frolov,Valeriy,1949-08-10,URS,Ярославль,RUS
+fyodan,Fyodorov,Andrei,1971-04-10,UZB,Fergana,UZB
 gadzga,Gadzhiev,Gadzhi,1945-10-28,RUS,Dagestan,RUS
 galami,Galaktionov,Mikhail,1984-05-21,RUS,Maskva,RUS
 galspo,Galstyan,Poghos,1961-01-10,ARM,Yerevan,ARM
 gamuig,Gamula,Igor,1960-02-17,UKR,Voroshylovsk,UKR
+garava,Garanin,Vadim,1970-11-29,RUS,Moskva,RUS
 garmal,Garmashov,Aleksandr,1960-02-08,RUS,Грозный,RUS
 gavrbo,Gavrilov,Boris,1952-03-12,RUS, ,RUS
 gazzva,Gazzaev,Valeriy,1954-08-07,RUS,Vladikavkaz,RUS
 gazzvl,Gazzaev,Vladimir,1980-07-01,RUS,Vladikavkaz,RUS
 gazzyu,Gazzaev,Yuri,1960-11-27,RUS,Vladikavkaz,RUS
 gessed,Gess,Edgar,1954-03-14,GER,Taboshar,TAJ
+gisdma,Gisdol,Markus,1969-08-17,GER,Geislingen,GER
+gogisi,Gogić,Siniša,1963-10-20,CYP,Niš,SRB
+gognsp,Gogniev,Spartak,1981-01-19,RUS,Vladikavkaz,RUS
 goload,Golodets,Adamas,1933-08-28,RUS,Moskva,RUS
 goncvi,Goncharenko,Viktor,1977-09-10,BLR,Hoiniki,BLR
 gontni,Gontar,Nikolay,1949-04-29,RUS, ,RUS
 gordan,Gordeev,Andrey,1975-04-01,RUS,Moskva,RUS
+gorlar,Gorlov,Artem,1987-06-23,RUS,Moskva,RUS
 gostal,Gostenin,Aleksandr,1955-04-29,RUS,Moskva,RUS
 gracja,Gracia, ,1970-05-01,SPA,Pamplona,SPA
 grigal,Grigoryan,Aleksandr,1966-09-28,RUS,Yerevan,ARM
@@ -97,15 +117,22 @@ irkhal,Irkhin,Alexandr,1954-01-10,RUS, ,RUS
 ivanev,Ivanov,Evgheni,1966-06-21,MOL, ,MOL
 ivanva,Ivanov,Valentin,1934-11-19,RUS,Moskva,RUS
 ivchal,Ivchenko,Aleksandr,1952-01-06,RUS, ,URS
+ivixvl,Ivić,Vladimir,1977-05-07,SRB,Zrenjanin,SRB
+jokasl,Jokanović,Slaviša,1968-08-16,SRB,Novi Sad,SRB
 jorgar,Jorge,Artur,1946-02-13,POR,Oporto,POR
+kafavi,Kafanov,Vitaliy,1960-05-24,KAZ,Aşgabat,TKM
 kalavl,Kalashnikov,Vladimir,1953-12-17,RUS, ,RUS
 kaleig,Kaleshin,Igor,1952-10-03,RUS,Майкоп, 
 kaliyu,Kalitvintsev,Yuriy,1968-05-05,UKR,Volgograd,RUS
 karpva,Karpin,Valeriy,1969-02-02,RUS,Narva,EST
+kazav1,Kazakov,Vladimir,1970-11-26,RUS,Murom,RUS
 kazavl,Kazachenok,Vladimir,1952-09-06,RUS, ,RUS
+kerzal,Kerzhakov,Aleksandr,1982-11-27,RUS,Kingisepp,RUS
 ketste,Ketsbaia,Temur,1968-03-18,GEO,Gali,GEO
 khalar,Khalimbekov,Arslan,1967-08-21,RUS,Makhachkala,RUS
+khapza,Khapov,Zaur,1964-10-21,RUS,Nalchik,RUS
 khatal,Khatskevich,Aleksandr,1973-10-19,BLR,Minsk, 
+khazan,Khazov,Anton,1979-04-28,RUS,Kaliningrad,RUS
 khokdm,Khokhlov,Dmitriy,1975-12-22,RUS,Krasnodar,RUS
 khudni,Khudiev,Nikolay,1949-05-15,RUS,Дзауджикау,RUS
 khuzru,Khuzin,Rustem,1972-01-30,RUS,Kazan,RUS
@@ -114,20 +141,27 @@ kipida,Kipiani,David,1951-11-18,GEO,Tbilisi,GEO
 kiridm,Kirichenko,Dmitriy,1977-01-17,RUS,Novoalexandrovsk,RUS
 kiryse,Kiryakov,Sergey,1970-01-01,RUS,Orel,RUS
 kleiva,Kleimenov,Valery,1965-09-10,RUS,Shchyokino,RUS
+klimva,Klimov,Valeriy,1974-01-31,RUS,Polevyye Lokosty,RUS
+knyaev,Knyazhev,Evgeniy,1968-01-21,RUS,Novorossiysk,RUS
 kobean,Kobelev,Andrey,1968-10-22,RUS,Moskva,RUS
 kolyig,Kolyvanov,Igor,1968-03-06,RUS,Moskva,RUS
 konool,Kononov,Oleg,1966-03-23,UKR, ,UKR
 kopebo,Kopeykin,Boris,1946-03-27,RUS,Челябинск,RUS
 koreal,Koreshkov,Aleksandr,1952-07-23,RUS, ,RUS
 kostge,Kostylev,Gennadiy,1940-09-27,RUS,Константиновка,UKR
+kovani,Kovardaev,Nikolay,1970-09-24,RUS,Volokolamsk,RUS
+kovtyu,Kovtun,Yuriy,1970-01-05,RUS,Azov,RUS
 krasyu,Krasnozhan,Yuriy,1963-06-07,RUS,Nalchik,RUS
 kriuig,Kriushenko,Igor,1964-02-10,BLR, ,BLR
 kuchev,Kucherevskiy,Evgeniy,1941-08-06,UKR,Kherson,UKR
 kuchle,Kuchuk,Leonid,1959-08-27,BLR, ,BLR
 kukhvl,Kukhlevskiy,Vladimir,1959-01-05,RUS, ,RUS
+kuzmol,Kuzmin,Oleg,1981-05-09,RUS,Moskva,RUS
 kuznse,Kuznetsov,Sergey,1982-08-31,UKR, ,UKR
 laudmi,Laudrup,Michael,1964-06-15,DEN,Kopenhagen,DEN
 ledyig,Ledyakhov,Igor,1968-05-22,RUS,Sochi,RUS
+likama,Lička,Marcel,1977-07-17,CZE,Praha,CZE
+loskdm,Loskov,Dmitriy,1974-02-12,RUS,Kurgan,RUS
 lucemi,Lucescu,Mircea,1945-07-29,ROM,Bucuresti,ROM
 lyutvl,Lyutiy,Vladimir,1962-04-20,UKR,Dnipropetrowsk,UKR
 maloed,Malofeev,Eduard,1942-06-02,RUS,Красноярск,RUS
@@ -148,6 +182,7 @@ musamu,Musaev,Murad,1983-11-10,RUS,Krasnodar,RUS
 muslsl,Muslin,Slavoljub,1953-06-15,SRB,Beograd,SRB
 mustma,Mustafin,Marat,1971-05-25,RUS, ,RUS
 nagayu,Nagaytsev,Yuriy,1973-04-19,LAT, ,LAT
+nagoal,Nagorniy,Aleksandr,1982-10-11,RUS,Komsomolskiy,RUS
 naydar,Naydyonov,Arseniy,1941-08-12,RUS,Alma-Ata,RUS
 nazale,Nazarenko,Leonid,1955-03-21,RUS,Gulkevichi,RUS
 neneva,Nenenko,Valery,1950-03-30,RUS, ,RUS
@@ -160,7 +195,9 @@ noviki,Novikov,Kirill,1981-01-14,RUS,Moskau,RUS
 oborse,Oborin,Sergey,1956-12-12,RUS,Lysva,RUS
 olenar,Olenin,Artur,1970-01-05,RUS, ,RUS
 oliciv,Olić,Ivica,1979-09-14,CRO,Davor,CRO
+orekal,Orekhov,Aleksandr,1983-11-29,RUS,Kropotkin,RUS
 osinig,Osinkin,Igor,1965-06-04,RUS, ,RUS
+osinmi,Osinov,Mikhail,1975-10-08,RUS, ,RUS
 ovchva,Ovchinnikov,Valery,1947-11-26,RUS, ,RUS
 papavi,Papaev,Viktor,1947-03-02,RUS,п.г.т. Базарный Карабулак, 
 parako,Paramonov,Konstantin,1973-11-26,RUS,Perm,RUS
@@ -172,16 +209,22 @@ perese,Perednya,Sergey,1972-04-30,RUS, ,RUS
 pereyu,Pereskokov,Yuri,1963-05-15,RUS,Moskau,RUS
 pervse,Pervushin,Sergey,1970-03-29,RUS, ,RUS
 petral,Petrushin,Aleksei,1952-01-29,RUS,Lyubertsy,RUS
+petrbr,Petrović,Branimir,1982-06-26,SRB,Uzice,SRB
 petrda,Petrescu,Dan,1967-12-22,ROM,Bucuresti,ROM
+petrsa,Petrović,Saša,1966-12-31,MNT, ,MNT
 petrse,Petrenko,Sergey,1955-07-07,RUS, ,RUS
 petrva,Petrakov,Valeriy,1958-05-16,RUS,Bryansk,RUS
 petrvl,Petržela,Vlastimil,1953-07-20,CZE,Prostějov,CZE
+pisani,Pisarev,Nikolay,1968-11-23,RUS,Moskva,RUS
 pobeal,Pobegalov,Aleksandr,1956-04-08,RUS,Yaroslavl,RUS
 poddal,Poddubskiy,Aleksey,1972-06-13,RUS, ,RUS
 podps1,Podpaliy,Sergey,1963-09-13,UKR,Kiev,UKR
 podpse,Podpaly,Sergey,1963-09-13,UKR,Kiev,UKR
+popode,Popov,Denis,1979-02-04,RUS,Novorossiysk,RUS
+poprar,Popravkin,Artem,1990-09-14,RUS, ,RUS
 prokvi,Prokopenko,Viktor,1944-10-24,UKR,Zhdanov,UKR
 protol,Protasov,Oleg,1964-02-04,UKR,Dnipropetrovsk,UKR
+pyatdm,Pyatibratov,Dmitry,1976-05-24,RUS, ,RUS
 rakhra,Rakhimov,Rashid,1965-03-18,TAJ,Dushanbe,TAJ
 ramoju,Ramos,Juande,1954-09-25,SPA,Pedro Muñoz,SPA
 rappbo,Rappoport,Boris,1946-05-01,RUS,St. Petersburg,RUS
@@ -200,6 +243,7 @@ scalne,Scala,Nevio,1947-11-22,ITA,Lozzo Atestino,ITA
 schwsa,Schwarz,Sandro,1978-10-17,GER,Mainz,GER
 sekiyu,Sekinyaev,Yuri,1962-04-17,RUS, ,RUS
 semase,Semak,Sergey,1976-02-27,RUS,Lugansk,UKR
+sememi,Semernya,Mikhail,1970-02-20,RUS, ,RUS
 semiyu,Semin,Yuriy,1947-05-11,RUS,Orenburg,RUS
 shalig,Shalimov,Igor,1969-02-02,RUS,Moskva,RUS
 shatma,Shatskikh,Maksim,1978-08-30,UZB,Tashkent,UZB
@@ -212,15 +256,18 @@ shpian,Shpilev,Andrey,1978-04-03,RUS,Kushva,RUS
 shubpy,Shubin,Pyotr,1944-02-21,RUS,Chelyabinsk,RUS
 shumit,Shum,Itzhak,1948-09-01,ISR,Chişinău,MOL
 silkse,Silkin,Sergey,1961-03-02,RUS,Lyubertsy,RUS
+simuig,Simutenkov,Igor,1973-04-03,RUS,Moskva,RUS
 skomev,Skomorokhov,Evgeniy,1945-07-11,URS, ,URS
 skriva,Skripchenko,Vadim,1975-11-26,BLR,Malorita,BLR
 skryal,Skrynnikov,Aleksandr,1960-01-19,RUS, ,RUS
+slikvl,Slišković,Vladimir,1983-02-20,BOS,Siroki Brijeg,BOS
 slutle,Slutskiy,Leonid,1971-05-04,RUS,Volgograd,RUS
 solomi,Solovyev,Mikhail,1968-12-23,RUS,Moskva,RUS
 sosnan,Sosnitskiy,Andrey,1962-11-08,BLR,Sovetsk,RUS
 spallu,Spalletti,Luciano,1959-03-07,ITA,Certaldo,ITA
 staral,Starkovs,Aleksandrs,1955-07-26,LAT,Madona,LAT
 staugi,Staučė,Gintaras,1969-12-24,RUS,Alytus, 
+storal,Storozhuk,Aleksandr,1981-08-10,RUS,Vyselki,RUS
 stukal,Stukalov,Aleksey,1983-11-24,RUS,Stavropol,RUS
 stukbo,Stukalov,Boris,1953-01-24,RUS, ,RUS
 styoge,Styopushkin,Gennadiy,1964-06-02,RUS,Oryol,RUS
@@ -231,6 +278,8 @@ tarkal,Tarkhanov,Aleksandr,1954-09-06,RUS,Zapadno-Kazakhstanskaya oblast,KAZ
 tashse,Tashuev,Sergey,1959-01-01,RUS, ,RUS
 tedeba,Tedeyev,Bakhva,1969-09-18,RUS,Tskhinvali, 
 tededo,Tedesco,Domenico,1985-09-12,GER,Rossano,ITA
+tedeza,Tedeev,Zaurbek,1981-09-18,RUS, ,RUS
+teixar,Teixeira,Arnaldo,1963-09-19,POR,Abrantes,POR
 tetrom,Tetradze,Omari,1969-10-13,RUS,Velospiri,GEO
 tikhan,Tikhonov,Andrey,1970-10-16,RUS,Korolyov,RUS
 tikhvl,Tikhonov,Vladislav,1971-06-09,RUS,Moskva,RUS
@@ -241,8 +290,10 @@ tomase,Tomarov,Sergei,1982-05-25,RUS, ,RUS
 trubni,Trubachev,Nikolay,1957-05-20,UKR,Perm,RUS
 tsutra,Tsutsulaev,Ramzan,1972-05-27,RUS, ,RUS
 tsygal,Tsygankov,Aleksandr,1968-02-09,RUS,Samara,RUS
+vanopa,Vanoli,Paolo,1972-08-12,ITA,Varese,ITA
 vasiol,Vasilenko,Oleg,1973-10-06,RUS, ,RUS
 vercfr,Vercauteren,Frank,1956-10-28,BEL,Molenbeek-Saint-Jean,BEL
+vitrru,Vitória,Rui,1970-04-16,POR,Alverca do Ribatejo,POR
 vorost,Vorotilin,Stanislav,1938-06-11,RUS,Москва,URS
 voytva,Voytenko,Valeriy,1950-01-07,RUS, ,RUS
 vrbapa,Vrba,Pavel,1963-12-06,CZE,Přerov,CZE
@@ -251,15 +302,18 @@ weisvl,Weiss,Vladimir,1964-09-22,SVK,Bratislava,SVK
 wortiv,Wortmann,Ivo,1949-03-10,BRA,Quaraí,BRA
 yakimu,Yakin,Murat,1974-09-15,SUI,Basel,SUI
 yakopa,Yakovenko,Pavel,1964-12-19,UKR,Nikopol,UKR
+yamlra,Yamlikhanov,Radik,1968-01-30,RUS,Karmakaly,RUS
 yanoal,Yanovskiy,Aleksandr,1952-11-01,RUS, ,RUS
 yartge,Yartsev,Georgiy,1948-04-11,RUS,Nikolskoye,RUS
 yevdro,Yevdokimov,Robert,1970-02-27,RUS,Nizhnekamsk,RUS
 yulgen,Yulgushov,Enver,1938-06-25,RUS,Ростов-на-Дону,RUS
 yulyvl,Yulygin,Vladimir,1936-01-18,RUS,Сталиногорск,URS
 yurase,Yuran,Sergey,1969-06-11,RUS,Lugansk,UKR
+yushig,Yushchenko,Igor,1969-03-09,RUS, ,RUS
 zaytal,Zaytsev,Aleksandr,1958-12-30,RUS,Tashkent,UZB
 zelkbe,Zelkevičius,Benjaminas,1944-02-06,LIT,Kaunas,LIT
 zhidal,Zhidkov,Aleksandr,1965-03-16,AZE,Budyonnovsk,RUS
 zicoar,Zico, ,1953-03-03,BRA,Quintino Bocaiúva,BRA
 zimese,Zimenkov,Sergey,1952-04-20,RUS, ,URS
+zinnjo,Zinnbauer,Joe,1970-05-01,GER,Schwandorf,GER
 zzzzzz,Zzzz,Zz,0000-00-00, , , 

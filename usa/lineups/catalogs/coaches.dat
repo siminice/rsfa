@@ -1,9 +1,11 @@
-193
+222
 abdeza,Abdel,Zak,1961-07-20,EGY,Mehalla,EGY
 alleev,Allen,Evan,0000-00-00,USA, ,USA
 almema,Almeyda,Matías,1973-12-21,ARG,Azul,ARG
 alondi,Alonso,Diego,1975-04-16,URU,Montevideo,URU
+ampakw,Ampadu,Kwame,1970-12-20,IRL,Bradford,ENG
 andrgr,Andrulis,Greg,1958-02-15,USA,Waterbury,USA
+antaan,Antía, ,1973-02-13,SPA,San Sebastián,SPA
 arenbr,Arena,Bruce,1951-09-21,USA,Brooklyn,USA
 armach,Armas,Chris,1972-08-27,USA,Bronx,USA
 arnada,Arnaud,Davy,1980-06-22,USA,Nederland,USA
@@ -12,6 +14,7 @@ ashtch,Ashton,Chad,1967-10-26,USA,Denver,USA
 backha,Backe,Hans,1952-02-14,SWE, ,SWE
 bakksa,Bakkati,Saïd,1982-03-23,NED,Groningen,NED
 barrwa,Barrett,Wade,1976-06-23,USA,Virginia Beach,USA
+bartbe,Ben Bartlett, ,0000-00-00,USA, ,USA
 bazajm,Bazán,José Maria,1971-10-14,ARG,Corral de Bustos,ARG
 bazeda,Bazeley,Darren,1972-10-05,ENG,Northampton,ENG
 bergdv,Bergh,Dave van den,1976-05-07,NED,Amsterdam,NED
@@ -22,24 +25,32 @@ bielma,Biello,Mauro,1972-08-08,CAN,Montréal,CAN
 blisbr,Bliss,Brian,1965-09-28,USA,Webster,USA
 boerfd,de Boer,Frank,1970-05-15,NED,Hoorn,NED
 bradbo,Bradley,Bob,1958-03-03,USA,Montclair,USA
+brilfr,Brillant,Frédéric,1985-06-26,FRA,Sedan,FRA
 browcj,Brown,C.J.,1975-06-15,USA,Eugene,USA
+bundke,Bundy,Kenny,1981-09-03,USA,Tulsa,USA
+byrdda,Byrd,Daniel,0000-00-00,USA, ,USA
 cabrwi,Cabrera,Wilmer,1967-09-15,COL,Cartagena,COL
+caffpa,Caffrey,Paul,0000-00-00,IRL,Dublin,IRL
 calida,Calichman,Dan,1968-02-21,USA,Huntington Station,USA
 callla,Calloway,Laurie,1945-06-17,ENG,Birmingham,ENG
 carnbr,Carnell,Bradley,1977-01-21,RSA,Johannesburg,RSA
 carvjo,Carver,John,1965-01-16,ENG,Newcastle-upon-Tyne,ENG
+carvma,Carvajal,Martha,0000-00-00,USA, ,USA
 cassje,Cassar,Jeff,1974-02-02,USA,Livonia,USA
+cherst,Cherundolo,Steve,1979-02-19,USA,Rockford,USA
 chrike,Christen,Kevin,0000-00-00,USA, ,USA
 clarco,Clarke,Colin,1962-10-30,NIR,Newry,NIR
 clavfe,Clavijo,Fernando,1957-01-23,USA,Maldonado,URU
 cobocd,Cobos,Carlos de los,1958-12-10,MEX,Matamoros,MEX
 cookst,Cooke,Steve,1969-07-19,ENG,Sheffield,ENG
 cordca,Córdoba,Carlos Héctor,1958-11-05,ARG,Moreno,ARG
+coveal,Covelo,Alex,1978-05-19,SPA, ,SPA
 coylow,Coyle,Owen,1966-07-14,IRL,Paisley,SCO
 crosbe,Ben Cross, ,0000-00-00,USA, ,USA
 cummch,Cummins,Chris,1972-02-17,ENG,Watfort,ENG
 curtji,Curtin,Jim,1979-06-23,USA,Oreland,USA
 cushni,Cushing,Nick,1984-11-09,ENG,Chester,ENG
+dahhyo,Dahha,Youssef,1972-07-16,MAR,Bruxelles,BEL
 dalrcr,Dalrymple,Craig,1973-12-30,ENG,Melton Mowbray,ENG
 dameyo,Damet,Yoann,1990-03-19,FRA,Marseille,FRA
 dasoni,Dasovic,Nick,1968-12-05,CAN,Vancouver,CAN
@@ -48,6 +59,7 @@ dintiv,van Dinteren,Ivar,1979-05-03,NED,Bussum,NED
 dirxda,Dir,Dave,1959-06-23,USA, ,USA
 ellijo,Ellinger,John,1951-10-04,USA,Laurel,USA
 emblne,Emblen,Neil,1971-06-19,ENG,Bromley,ENG
+estvni,Estévez,Nico,1980-01-29,SPA,Valencia,SPA
 ferrma,Ferruzzi,Marco,1970-09-15,USA,San Antonio,USA
 firmed,Firmani,Eddie,1933-08-07,RSA,Cape Town,RSA
 fitzto,Fitzgerald,Tom,1951-03-14,USA,Lake Luzerne,USA
@@ -55,8 +67,10 @@ fogake,Fogarty,Ken,1955-01-25,ENG,Manchester,ENG
 frasro,Fraser,Robin,1966-12-17,USA,Kingston,JAM
 friebr,Friedel,Brad,1971-05-18,USA,Lakewood,USA
 fullia,Fuller,Ian,1979-08-31,USA,Portland,USA
+galibe,Galindo,Benjamín,1960-12-11,MEX,Tierra Blanca,MEX
 gansbo,Gansler,Bob,1941-07-01,USA,Mucsi,HUN
 gardre,Garde,Rémi,1966-04-03,FRA,Abresle,FRA
+giveda,Givens,Daniel,0000-00-00,USA, ,USA
 glasst,Glass,Stephen,1976-05-23,SCO,Dundee,SCO
 gonzda,González,Daniel,0000-00-00,ARG, ,ARG
 gonzlu,Gonzalez,Luchi,1980-07-14,USA,Hialeah,USA
@@ -70,7 +84,9 @@ hanlti,Hanley,Tim,1960-03-27,USA,Palo Alto,USA
 heapja,Heaps,Jay,1976-08-02,USA,Nashua,USA
 heatad,Heath,Adrian,1961-01-11,ENG,Newcastle-under-Lyme,ENG
 heinga,Heinze,Gabriel,1978-04-19,ARG,Crespo,ARG
+hendez,Hendrickson,Ezra,1972-01-16, ,Layou, 
 henrth,Henry,Thierry,1977-08-17,FRA,Les Ulis,FRA
+hillca,Hill,Catherine,0000-00-00,USA, ,USA
 hougbo,Houghton,Bob,1947-10-30,ENG, ,ENG
 hudsan,Hudson,Anthony,1981-03-11,ENG,Seattle,USA
 hudsra,Hudson,Ray,1955-03-24,ENG,Gateshead,ENG
@@ -88,7 +104,10 @@ kochal,Koch,Alan,1975-04-30,RSA,Durban,RSA
 kowajo,Kowalski,John,1951-12-22,POL,Miłków,POL
 kreija,Kreis,Jason,1972-12-29,USA,Omaha,USA
 lappmi,Lapper,Mike,1970-08-28,USA,Redondo Beach,USA
+lattch,Lattanzio,Christian,1971-09-10,ITA,Piacenza,ITA
+leicfr,Leicht,Frank,1972-02-18,GER,Geislingen,GER
 leitch,Leitch,Chris,1979-04-01,USA,Columbus,USA
+lesetr,Lesesne,Troy,1983-10-27,USA,West Columbia,USA
 liekti,Liekoski,Timo,1942-06-30,FIN,Helsinki,FIN
 llamca,Llamosa,Carlos,1969-06-30,USA,Palmira,COL
 losahe,Losada,Hernán,1982-05-09,ARG,Buenos Aires,ARG
@@ -105,8 +124,11 @@ mondal,Mondelo,Alfonso,1958-08-13,SPA,Baracaldo,SPA
 morrst,Morrow,Steve,1970-07-02,NIR,Belfast,NIR
 murpbo,Murphy,Bobby,0000-00-00,USA, ,USA
 myergl,Myernick,Glenn,1954-11-29,USA,Trenton,USA
+mysial,Mysiw,Alex,0000-00-00,USA, ,USA
+nagapa,Nagamura,Paulo,1983-03-02,BRA,São Paulo,BRA
 namaom,Namazi,Omid,1965-12-08,USA,Provo,USA
 nancwi,Nancy,Wilfried,1977-04-09,FRA,Le Havre,FRA
+narcan,Narcisi,Anthony,0000-00-00,USA, ,USA
 needti,Needham,Tim,0000-00-00,USA, ,USA
 nelsry,Nelsen,Ryan,1977-10-18,NZL,Christchurch,NZL
 nevema,Neveleff,Marcelo,1963-09-03,ARG, ,ARG
@@ -122,6 +144,7 @@ osialo,Osiander,Lothar,1939-11-08,USA,München,GER
 osorjc,Osorio,Juan Carlos,1961-06-08,COL,Santa Rosa de Cabal,COL
 pareos,Pareja,Oscar,1968-08-10,COL,Medellin,COL
 parrca,Parreira,Carlos Alberto,1943-02-27,BRA,Rio de Janeiro,BRA
+patema,Paterson,Martin,1987-05-10,NIR,Stoke-on-Trent,ENG
 paunve,Paunović,Veljko,1977-08-21,SRB,Strumica,SRB
 pereja,Pérez,Javier,1977-05-16,SPA,Valladolid,SPA
 petkmi,Petke,Mike,1976-01-30,USA,Bohemia,USA
@@ -133,12 +156,15 @@ quinbr,Quinn,Brian,1960-05-24,USA,Belfast,NIR
 radopr,Radosavljevic,Preki,1963-06-24,USA,Beograd,YUG
 ralsst,Ralston,Steve,1974-06-14,USA,St.Louis,USA
 ramota,Ramos,Tab,1966-09-21,USA,Montevideo,URU
+ramrmi,Ramírez,Miguel,1984-10-23,SPA,Las Palmas de Gran Canaria,SPA
 razoan,Razov,Ante,1974-03-02,USA,Whittier,USA
 realjl,Real,José Luis,1952-06-06,MEX,Guadalajara,MEX
 rennma,Rennie,Martin,1975-05-22,SCO,Thurso,SCO
 robica,Robinson,Carl,1976-10-13,WAL,Llandrudod,WAL
 rongth,Rongen,Thomas,1956-10-31,NED,Amsterdam,NED
+roonwa,Rooney,Wayne,1985-10-24,ENG,Liverpool,ENG
 royxre,Roy,Remi,0000-00-00,USA, ,USA
+rumsch,Rumsey,Chris,0000-00-00,USA, ,USA
 sampst,Sampson,Steve,1957-01-19,USA,Salt Lake City,USA
 santmd,Dos Santos,Marc,1977-05-30,CAN,Montréal,CAN
 santpd,Dos Santos,Phillip,1978-08-13,CAN,Montréal,CAN
@@ -156,12 +182,14 @@ shorda,Shore,Daryl,1970-01-06,USA,Peekskill,USA
 smitga,Smith,Gary,1968-03-12,ENG,Harlow,ENG
 soehto,Soehn,Tom,1966-04-15,USA,Chicago,USA
 solajl,Solá,José Luis Sánchez,1959-01-31,MEX,Puebla,MEX
+sorbmi,Sorber,Mike,1971-05-14,USA,Florissant,USA
 spenjo,Spencer,John,1970-09-11,SCO,Glasgow,SCO
 stahmi,Stahre,Mikael,1975-07-05,SWE,Stockholm,SWE
 stamja,Stam,Jaap,1972-07-17,NED,Kampen,NED
 stapfr,Stapleton,Frank,1956-07-10,IRL,Dublin,IRL
 sterja,Stern,Jack,0000-00-00,ENG,London,ENG
 struge,Struber,Gerhard,1977-01-24,AUT,Kuchl,AUT
+taylma,Taylor,Matthew,1981-10-17,USA,Columbus,USA
 thorte,Þórðarson,Teitur,1952-01-14,ISL,Akranes,ISL
 thorza,Thornton,Zach,1973-10-10,USA,Edgewood,USA
 torrdo,Torrent,Domènec,1962-07-14,SPA,Santa Coloma de Farners,SPA
@@ -171,6 +199,7 @@ tritst,Trittschuh,Steve,1965-04-24,USA,Granite City,USA
 trusor,Trustfull,Orlando,1970-08-04,NED,Amsterdam,NED
 valero,Valentino,Rob,1985-12-21,USA,Hoffman Estates,USA
 vanngr,Vanney,Greg,1974-06-11,USA,South Boston,USA
+vartro,Vartughian,Rob,1978-08-09,USA,New York City,USA
 vasqma,Vásquez,Martín,1963-12-24,MEX,Yahualica,MEX
 vbecpe,van der Beck,Perry,1959-11-06,USA,East Saint Louis,USA
 vermpe,Vermes,Peter,1966-11-21,USA,Willingboro,USA

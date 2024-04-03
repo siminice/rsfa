@@ -1,0 +1,3 @@
+#!/bin/bash
+
+grep $1 *lineups*.db *events*.db | cut -f 1 -d ':' | sort | uniq -c | sort -rn

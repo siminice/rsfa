@@ -1,0 +1,5 @@
+#!/bin/bash
+
+Y=2024
+
+dbedit db/lineups-${Y}.db $*

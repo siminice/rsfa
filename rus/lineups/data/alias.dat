@@ -57,7 +57,7 @@
 1800 Metallurg Zaporojie~Zaporojie
 1945 Torpedo ZIL Moskva~Torpedo ZIL*2003 Torpedo Metallurg Moskva~Torpedo Met*2005 FK Moskva~FK Moskva
 1800 Anji Mahacikala~Anji*2020 FK Mahacikala~Mahacikala
-1800 Dinamo Mahacikala~D. Mahacikala*2017 Legion Dinamo Mahacikala~Legion Dinamo
+1800 Dinamo Mahacikala~D. Mahacikala
 1800 Sokol Saratov~Saratov
 1800 Spartak Nalcik~Nalcik*1969 Avtomobilist Nalcik~Nalcik*1970 Spartak Nalcik~Nalcik*1976 Elbrus Nalcik~Nalcik*1977 Spartak Nalcik~Nalcik
 1800 Terek Groznîi~Terek*2018 Akhmat Groznîi~Groznîi
@@ -74,7 +74,7 @@
 1800 Neftekhimik Nijnekamsk~Nijnekamsk
 1800 Torpedo Tomsk~TOmsk*1968 Tom Tomsk~Tomsk
 1945 Dinamo Leningrad~Din.Leningrad*1954 Trudovîe Rezervî Leningrad~TR Leningrad*1959 Dinamo Leningrad~Din.Leningrad*1992 Dinamo St Peterburg~Dinamo StP*2019 FK Soci~Soci
-1945 Kristall Smolensk~Smolensk*2006 FK Smolensk~Smolensk*2009 Dnepr Smolensk~Smolensk*2017 ŢRFSO Smolensk~Smolensk
+1945 Kristall Smolensk~Smolensk*2006 FK Smolensk~Smolensk*2009 Dnepr Smolensk~Smolensk*2017 ŢRFSO Smolensk~Smolensk*2021 FK Smolensk~Smolensk
 1900 Volgar Astrahan~Astrahan*2005 Volgar Gazprom Astrahan~Astrahan*2013 Volgar Astrahan~Astrahan
 1800 Lokomotiv Krasnoiarsk~Krasnoiarsk*1968 Rassvet Krasnoiarsk~Krasnoiarsk*1970 Avtomobilist Krasnoiarsk~Krasnoiarsk*1991 Metallurg Krasnoiarsk~Krasnoiarsk*2010 Metallurg-Ienisei Krasnoiarsk~Krasnoiarsk*2011 Ienisei Krasnoiarsk~Krasnoiarsk
 1800 Metallurg Novotroiţsk~Novotroiţsk*1995 NoSta Novotroiţsk~Novotroiţsk
@@ -97,8 +97,8 @@
 1800 Interros Moskovski~Interros*1994 Tehinvest Moskva~Tehinvest*1995 FK Moskovski Seliatino~Seliatino*1997 Seliatino~Seliatino*1998 FK Krasnoznamensk~Krasnoznamensk
 1800 Erzu Groznîi~Erzu
 1800 Spartak Anapa~Anapa*1995 Ghekris Anapa~Anapa*1996 Spartak UGP Anapa~Anapa
-1800 Torpedo Taganrog~Taganrog*2006 FK Taganrog~Taganrog
-1800 Kolos Krasnodar~Kolos*2008 FK Krasnodar~FK Krasnodar
+1800 Torpedo Taganrog~Taganrog*2006 FK Taganrog~Taganrog*2021 Forte Taganrog~Taganrog
+1800 FK Krasnodar~Krasnodar
 1800 Tekstilşcik Ivanovo~Ivanovo
 1800 Dinamo Vologda~Vologda*2013 FK Vologda~Vologda
 1800 Asmaral Kislovodsk~Kislovodsk*1995 Olimp Kislovodsk~Kislovodsk
@@ -120,7 +120,7 @@
 1800 Temp Barnaul~Barnaul*1969 Dinamo Barnaul~Barnaul
 1800 Selenga Ulan-Ude~Ulan-Ude
 1900 Kotlostroitel Belgorod~Belgorod*1970 EnergoMaş Belgorod~Belgorod*1992 Saliut Belgorod~Belgorod*1995 Saliut YUKOS Belgorod~Belgorod*2000 Saliut Energhia Belgorod~Belgorod*2011 Saliut Belgorod~Belgorod*2016 Energomaş Belgorod~Belgorod*2019 Saliut Belgorod~Belgorod
-1800 MVO Kalinin~Kalinin*1954 Volga Kalinin~Kalinin*1990 Volga Tver~Tver
+1800 MVO Kalinin~Kalinin*1954 Volga Kalinin~Kalinin*1990 Volga Tver~Tver*2021 FK Tver~Tver
 1800 AtomMaş Volgodonsk~Volgodonsk
 1800 Stroitel Ufa~Ufa*1977 Gastello Ufa~Ufa*1993 KDS Samrau Ufa~Ufa*1994 Estel Ufa~Ufa*1998 Voshod Ufa~Ufa*2003 Neftiannik Ufa~Ufa*2009 Dinamo Ufa~Ufa*2011 FK Ufa~Ufa
 1800 Dinamo-Maşinostroitel Kirov~Kirov*1992 Viatka Kirov~Kirov*1994 Dinamo Kirov~Kirov
@@ -159,7 +159,7 @@
 1800 Spartak Tambov~Tambov
 1800 Vitiaz Podolsk~Podolsk
 1800 Zenit Penza~Penza
-1800 Avtomobilist Noghinsk~Noghinsk
+1800 Avtomobilist Noghinsk~Noghinsk*2010 Znamia Noghinsk~Noghinsk
 1800 Lokomotiv Serpuhov~Serpuhov*2006 Zvezda Serpuhov~Serpuhov
 1800 FK Ieleţ~Ieleţ
 1800 Dinamo Kemerovo~Din. Kemerovo
@@ -172,7 +172,7 @@
 1800 Signal Izobilnîi~Signal*1992 Dinamo Izobilnîi~Izobilnîi*1996 Signal Izobilnîi~Izobilnîi*2000 Spartak KTG Izobilnîi~KavkazTransGaz*2004 KavkazTransGaz Izobilnîi~KavkazTransGaz*2005 Kavkaztransgaz 05 Rîzdveanîi~Kavkaztransgaz
 1800 Sibiriak Bratsk~Bratsk
 1800 Elektron Almetievsk~Almetievsk*1995 Devon Almetievsk~Almetievsk*2000 AlNas Almetievsk~Almetievsk
-1800 Progress Orenburg~Orenburg*1992 Gazovik Orenburg~Orenburg
+1800 Progress Orenburg~Orenburg*1992 Gazovik Orenburg~Orenburg*2017 FK Orenburg~Orenburg
 1800 Iskra Engels~Engels*1990 Zavoljie Engels~Engels
 1800 Lokomotiv Celiabinsk~Celiabinsk*1980 Strela Celiabinsk~Strela*1992 Zenit Celiabinsk~Zenit Celiab.*2009 FK Celiabinsk~Celiabinsk
 1800 Spartak Ulianovsk~Ulianovsk*1962 Volga Ulianovsk~Ulianovsk*1986 Start Ulianovsk~Ulianovsk*1996 Volga Ulianovsk~Ulianovsk
@@ -203,7 +203,7 @@
 1800 Avangard Lazarevskoe~Lazarevskoe
 1800 Vitiaz Krîmsk~Krîmsk
 1800 KAŢ Skif Naberejnîe Celni~KAŢ*1993 KamAZavto Naberjenîe Celnî~KAŢ*1995 Torpedo Naberejnîe Celni~Torpedo NC*2000 Saturn Naberejnîe Celni~Saturn NC
-1800 FK Vidnoe~Vidnoe
+1800 FK Vidnoe~Vidnoe*2021 Metallurg Vidnoe~Vidnoe
 1800 Almaz Moskva~Almaz
 1800 Svetogoreţ Svetogorsk~Svetogorsk
 1800 FK Industria Onbinsk~Obninsk*1996 FK Obninsk~Obninsk*1997 Industria Borovsk~Borovsk*1998 FK Obninsk~Obninsk*2019 FK Kvant Obninsk~Obninsk
@@ -344,14 +344,14 @@
 1800 FK Togliatti~FK Togliatti*2010 Akademia Togliatti~Togliatti
 1800 Stavropolie 2009~Stavropol 2009
 1800 FK Abinsk~Abinsk
-1800 FCS 73 Voronej~FCS Voronej*2009 Fakel StroiArt Voronej~FSA Voronej
+1800 FCS 73 Voronej~FCS Voronej*2009 Fakel StroiArt Voronej~FSA Voronej*2021 Fakel II Voronej~Fakel II
 1800 Avangard Podolsk~Avang Podolsk
 1800 Mitos Novocerkassk~Novocherkassk
 1800 Beslan Fayur~Beslan
 1800 Lokomotiv Ussuriisk~Ussuriisk*2000 Mostovik-Primorie Ussuriisk~Ussuriisk
 1800 Radian Baikal Irkuţsk~Baikal Irkutsk*2013 Baikal Irkutsk~Baikal*2017 Zenit Irkutsk~Irkutsk
 1800 Dinamo Kostroma~Din Kostroma
-1800 Kolos Krasnodar~Kolos
+1800 Kooperator Krasnodar~Kooperator*1991 Kolos Krasnodar~Kolos*2009 Tehada Krasnodar~Tehada*2012 Kolos Kranodar~Kolos*2016 Kuban Holding Pavlovskaia~Kuban H
 1800 Astratex Astrahan~Astratex
 1800 Şerstianik Nevinnomîsk~Nevinnomîsk
 1800 Urartu Groznîi~Urartu
@@ -443,7 +443,7 @@
 1800 Uralelektromed Verhneaia Pîşma~Verh Pîşma
 1800 KamAZ II Naberjnîe Celnî~Kamaz II
 1800 Okean II Nahodka~Okean II
-1800 FK Dolgoprudnîi~Dolgoprudîi
+1800 FK Dolgoprudnîi~Dolgoprudîi*2021 Olimp Dolgopridnîi~Dolgoprudnîi
 1800 Piter Sankt Peterburg~Piter
 1800 Rus Sankt Peterburg~Rus
 1800 Volgar Astrahan II~Astrahan II
@@ -494,3 +494,24 @@
 1800 Bolşevik Leningrad~Bolşevik*1938 Zenit Leningrad~Zenit*1940 Bolşevik Leningrad~Bolşevik
 1800 Pişcevik Moskva~Pişcevik
 1800 Sovtorgslujaşcie Moskva~Sovtorg*1931 SKiG Moskva~SKiG*1936 Burevestnik Moskva~Burevestnik
+1800 Volna Nijegorodskaia Oblast~Volna
+1800 FK Essentuki~Essentuki
+1800 FK Tuapse~Tuapse
+1800 Krasnîi Smolensk~Kr Smolensk
+1800 Krasava Odinţovo~Odinţovo
+1800 Kairat Moskva~Kairat
+1800 Ienisei II Krasnoiarsk~Ienisei II
+1800 Olimp Dolgoprudnîi II~Olimp II*2023 Kosmos Dolgoprudnîi~Kosmos
+1800 FK Saransk~Saransk
+1800 SKA Habarovsk II~Habarovsk II
+1800 Peresvet Domodedovo~Peresvet
+1800 Dinamo Vladivostok~Vladivostok
+1800 Spartak Tuimazî~Tiuimazî
+1800 Legion Dinamo Mahacikala~Legion
+1800 FK Elektron Veliki Novgorod~Veliki Novg
+1800 Rodina Moskva II~Rodina II
+1800 Yadro St. Peterburg~Yadro
+1800 Balaşiha FK~Balaşiha
+1800 Khimik Vurnarî~Vurnarî
+1800 Rodina Moskva III~Rodina III
+1800 FK Sahalineţ Moskva~Sahalineţ

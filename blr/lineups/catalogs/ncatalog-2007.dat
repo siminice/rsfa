@@ -27,7 +27,7 @@ demiva,Demidovich,Vadim,1985-09-20,BLR,5, , ,14,9,5,0,  842,4,0,0,0,0,0,0,0
 demial,Demidovich,Alexander,1989-04-26,BLR,5, , ,1,0,1,0,   28,0,0,0,0,0,0,0,0
 dovgpa,Dovgulevets,Pavel,1977-12-26,BLR,5, , ,4,2,2,0,  170,1,0,0,0,0,0,1,0
 dunedm,Dunets,Dmitri,1986-05-07,UKR,5, , ,1,0,1,0,   19,0,0,0,0,0,0,0,0
-gaydvi,Gayduchik,Vitaly,1989-07-12,BLR,5, , ,2,1,1,0,  100,0,0,0,0,0,0,0,0
+gaydvi,Gayduchik,Vitaliy,1989-07-12,BLR,5, , ,2,1,1,0,  100,0,0,0,0,0,0,0,0
 gogiro,Goginashvili,Roman,1984-01-23,GEO,5, , ,17,5,12,1,  692,1,0,0,0,0,0,5,1
 hovaro,Hovavko,Roman,1988-03-02,BLR,5, , ,3,1,2,0,  101,0,0,0,0,0,0,0,0
 ishmva,Ishmakov,Vadym,1979-08-30,UKR,5, , ,12,12,0,0,  930,8,0,0,0,0,0,2,0
@@ -156,7 +156,7 @@ vasiro,Vasilyuk,Roman,1978-11-23,BLR,10, , ,25,25,0,24, 2228,24,0,0,0,3,0,4,0
 zivkmi,Zivkovic,Milos,1984-12-01,SRB,10, , ,13,9,4,0,  824,5,0,0,0,0,0,5,1
 alumal,Alumona,Aleksandr,1983-12-18,RUS,13, , ,24,21,3,9, 1974,20,0,0,0,1,0,4,0
 deniiv,Denisevich,Ivan,1984-11-09,BLR,13, , ,17,10,7,1, 1190,10,0,0,0,0,0,3,1
-gorba2,Gorbach,Andrey,1985-05-20,BLR,13, , ,10,8,2,0,  653,3,0,0,0,0,0,1,0
+gorban,Gorbach,Andrey,1985-05-20,BLR,13, , ,10,8,2,0,  653,3,0,0,0,0,0,1,0
 ichiol,Ichim,Oleg,1979-10-27,MOL,13, , ,26,26,0,1, 2327,25,0,0,0,0,0,2,0
 juveju,Juvenal, ,1979-06-05,BRA,13, , ,21,21,0,3, 1851,19,0,0,0,0,0,8,1
 khalse,Khaletskiy,Sergey,1984-04-14,BLR,13, , ,22,22,0,0, 1962,21,0,0,0,0,0,5,0
@@ -207,8 +207,8 @@ eremmi,Eremchuk,Mikhail,1980-11-14,BLR,9, , ,23,17,6,0, 1681,16,0,0,0,0,0,1,0
 fattil,Fattakhov,Ilgiz,1986-03-07,RUS,9, , ,2,0,2,0,   35,0,0,0,0,0,0,0,0
 fedoar,Fedorchenko,Artem,1980-04-13,UKR,9, , ,8,8,0,0,  720,8,0,0,0,0,0,0,0
 hlebvy,Hleb,Vyatcheslav,1983-02-12,BLR,9, , ,19,19,0,7, 1545,12,0,0,0,1,0,6,0
-japase,Japalau,Sergiu,1984-04-30,MOL,9, , ,7,2,5,0,  170,0,0,0,0,0,0,1,0
-kontar,Kontsevoj,Artem,1983-05-20,BLR,9, , ,16,15,1,5, 1356,13,0,0,0,1,0,6,0
+japase,Jăpălau,Sergiu,1984-04-30,MOL,9, , ,7,2,5,0,  170,0,0,0,0,0,0,1,0
+kontar,Kontsevoy,Artem,1983-05-20,BLR,9, , ,16,15,1,5, 1356,13,0,0,0,1,0,6,0
 maltig,Maltsev,Igor,1986-03-11,BLR,9, , ,24,24,0,0, 2108,21,0,0,0,0,0,5,1
 mamibo,Mamic,Bojan,1981-09-13,SRB,9, , ,14,7,7,1,  658,3,0,0,0,0,0,3,0
 osipni,Osipovich,Nikolay,1986-05-29,BLR,9, , ,19,16,3,0, 1405,14,0,0,0,0,0,3,0
@@ -261,7 +261,7 @@ gorbmi,Gorbachyov,Mikhail,1983-07-29,BLR,11, , ,20,18,2,0, 1758,17,0,0,0,0,0,4,0
 karode,Karolik,Denis,1979-05-07,BLR,11, , ,13,6,7,2,  663,4,0,0,0,0,0,1,0
 karpma,Karpovich,Maksim,1986-02-27,BLR,11, , ,26,23,3,0, 2050,20,0,0,0,0,0,4,0
 komadm,Komarovskiy,Dmitriy,1986-10-10,BLR,11, , ,13,13,0,2, 1168,11,0,0,0,0,0,0,0
-kovaa1,Kovalevski,Anton,1986-02-02,BLR,11, , ,20,20,0,0, 1800,20,0,-16,0,0,0,2,0
+kovaa1,Kovalevski,Anton,1986-02-02,BLR,11, , ,20,20,0,0, 1800,20,0,-17,0,0,0,2,0
 pakuar,Pakulin,Artem,1984-06-11,BLR,11, , ,6,4,2,1,  332,1,0,0,0,0,0,0,0
 polise,Politevich,Sergey,1990-04-09,BLR,11, , ,11,6,5,1,  644,6,0,0,0,0,0,1,0
 radkdm,Radkov,Dmitri,1981-08-12,BLR,11, , ,4,4,0,0,  360,4,0,0,0,0,0,0,0

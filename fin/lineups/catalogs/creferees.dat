@@ -1,4 +1,4 @@
-172
+179
 aaltju,Aaltio,Jukka,Jukka Aaltio,1963-12-15,FIN, ,FIN,___
 aapajo,Aapajärvi,Jouni,Jouni Aapajärvi, ,FIN, ,FIN,jouni-aapajaervi
 ahoxee,Aho,Eero,Eero Aho,1949-09-07,FIN, ,FIN,___
@@ -35,6 +35,7 @@ hirvju,Hirviniemi,Juha,Juha Hirviniemi,1959-06-22,FIN, ,FIN,___
 holohe,Holopainen,Herkko,Herkko Holopainen,1971-04-12,FIN, ,FIN,___
 honkju,Honkanen,Jukka,Jukka Honkanen,00/00/1981,FIN, ,FIN,jukka-honkanen
 hyoeee,Hyöty,Eerik,Eerik Hyöty, ,FIN, ,FIN,eerik-hyoety
+hyvnhe,Hyvönen,Heini,Heini Hyvönen, ,FIN, ,FIN,heini-hyvoenen
 hyytj1,Hyytiä,Jouni,Jouni Hyytiä,24/06/1964,FIN, ,FIN,jouni-hyytiae
 hyytjo,Hyytiä,Joni,Joni Hyytiä,29/08/1988,FIN, ,FIN,joni-hyytiae
 ikonjo,Ikonen,Jouko,Jouko Ikonen,25/10/1967,FIN, ,FIN,jouko-ikonen
@@ -45,6 +46,7 @@ jaervi,Järvenpää,Ville,Ville Järvenpää, ,FIN, ,FIN,ville-jaervenpaeae
 jannma,Janne,Määttänen,Määttänen Janne, ,FIN, ,FIN,maeaettaenen-janne
 jantol,Jantunen,Olli,Olli Jantunen, ,FIN, ,FIN,olli-jantunen
 johama,Johansson,Marco,Marco Johansson, ,FIN, ,FIN,marco-johansson
+joonko,Joona,Kontinen,Kontinen Joona,22/06/1995,FIN, ,FIN,kontinen-joona
 jrviti,Järvio,Timo,Timo Järvio,1947-10-28,FIN, ,FIN,___
 jskeol,Jääskeläinen,Olavi,Olavi Jääskeläinen,1955-05-10,FIN, ,FIN,___
 jussat,Jussila,Atte,Atte Jussila, ,FIN, ,FIN,atte-jussila
@@ -100,18 +102,21 @@ luukol,Luukkanen,Olli,Olli Luukkanen,1952-08-07,FIN, ,FIN,___
 maekka,Mäkinen,Kalle,Kalle Mäkinen, ,FIN, ,FIN,kalle-maekinen_2
 maisja,Maisonlahti,Jari,Jari Maisonlahti,1962-10-07,FIN, ,FIN,___
 malaan,Malaska,Antti,Antti Malaska, ,FIN, ,FIN,antti-malaska
+mannjo,Manninen,Joona,Joona Manninen, ,FIN, ,FIN,joona-manninen
 mantju,Mantere,Juuso,Juuso Mantere, ,FIN, ,FIN,juuso-mantere
 mantvi,Mantere,Ville,Ville Mantere,05/01/1959,FIN, ,FIN,ville-mantere
 mikala,Laurila,Mika,Mika Laurila, ,FIN, ,FIN,laurila-mika
 millma,Millner,Max,Max Millner, ,FIN, ,FIN,max-millner
 moermi,Mörö,Mikko,Mikko Mörö, ,FIN, ,FIN,mikko-moeroe
 monori,Monola,Risto,Risto Monola, ,FIN, ,FIN,risto-monola
+mttnja,Määttänen,Janne,Janne Määttänen, ,FIN, ,FIN,janne-maeaettaenen
 munuan,Munukka,Antti,Antti Munukka,03/03/1982,FIN, ,FIN,antti-munukka
 munura,Munukka,Rauno,Rauno Munukka,1947-08-04,FIN, ,FIN,___
 myntsi,Mynttinen,Simo,Simo Mynttinen, ,FIN, ,FIN,simo-mynttinen
 natrka,Natri,Kaj,Kaj Natri,1947-12-13,FIN, ,FIN,___
 nevaar,Nevala,Arto,Arto Nevala,1958-04-30,FIN, ,FIN,___
 nevavi,Nevalainen,Ville,Ville Nevalainen,20/10/1984,FIN, ,FIN,ville-nevalainen
+niemju,Nieminen,Juho,Juho Nieminen, ,FIN, ,FIN,juho-nieminen
 niemma,Nieminen,Marko,Marko Nieminen, ,FIN, ,FIN,marko-nieminen
 niemte,Nieminen,Tero,Tero Nieminen, ,FIN, ,FIN,tero-nieminen
 niinpi,Niinimäki,Pietu,Pietu Niinimäki, ,FIN, ,FIN,pietu-niinimaeki
@@ -137,6 +142,7 @@ pulkju,Pulkkinen,Juha,Juha Pulkkinen,1966-02-18,FIN, ,FIN,___
 puosju,Puoskari,Juha,Juha Puoskari, ,FIN, ,FIN,juha-puoskari
 raumma,Rauman,Markku,Markku Rauman,1953-02-03,FIN, ,FIN,___
 reitol,Reitala,Oliver,Oliver Reitala, ,FIN, ,FIN,oliver-reitala
+rokkos,Rokka,Oskari,Oskari Rokka, ,FIN, ,FIN,oskari-rokka
 ruoksi,Ruokonen,Simo,Simo Ruokonen,1948-08-08,FIN, ,FIN,___
 ruskul,Rusk,Ulf,Ulf Rusk,1941-07-27,FIN, ,FIN,___
 saares,Saarivainio,Esa,Esa Saarivainio,1955-10-20,FIN, ,FIN,___
@@ -144,6 +150,7 @@ saarve,Saarinen,Vesa,Vesa Saarinen,1959-06-15,FIN, ,FIN,___
 salmki,Salminen,Kimmo,Kimmo Salminen,1963-03-21,FIN, ,FIN,___
 salomi,Salo,Mika,Mika Salo,1968-04-13,FIN, ,FIN,___
 seleto,Selenius,Tom,Tom Selenius,1960-01-27,FIN, ,FIN,___
+silnee,Silén,Eetu,Eetu Silén, ,FIN, ,FIN,eetu-silen
 siltja,Siltala,Jarkko,Jarkko Siltala, ,FIN, ,FIN,jarkko-siltala
 simape,Simani,Peiman,Peiman Simani, ,FIN, ,FIN,peiman-simani
 simoil,Simonen,Ilpo,Ilpo Simonen, ,FIN, ,FIN,ilpo-simonen

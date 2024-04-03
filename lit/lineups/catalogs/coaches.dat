@@ -1,4 +1,4 @@
-156
+172
 afonda,Afonso,David,1990-06-25,POR, ,POR
 aleyse,Aleynikov,Sergey, , , , 
 aliusi,Aliubavicius,Sigatas,1962-01-08,LIT, ,LIT
@@ -33,6 +33,7 @@ dobrvi,Dobrecovs,Viktors,1977-01-09,LAT,Liepaja,LAT
 dubiau,Dubickas,Aurimas,1990-08-20,LIT, ,LIT
 dvaral,Dvareckas,Algimantas,1976-03-03,LIT, ,LIT
 eltema,Eltermanis,Maris,1981-03-16,LAT, ,LAT
+erniei,Černiauskas,Eivinas,1984-09-24,LIT, ,LIT
 ferrla,Ferreira,Luis Antônio, ,BRA, ,BRA
 fyodal,Fyodorov,Aleksandr, ,RUS, ,RUS
 gabral,Gabrys,Algimantas, ,LIT, ,LIT
@@ -52,6 +53,7 @@ iparld,Iparraguirre,Leonardo da Silva,1976-06-04,BRA, ,BRA
 ivanva,Ivanauskas,Valdas,1966-07-31,LIT, ,LIT
 jancvy,Janciauskas,Vytautas,1955-05-14,LIT, ,LIT
 janked,Jankauskas,Edgaras,1975-03-12,LIT,Vilnius,LIT
+jankvl,Janković,Vladimir,1970-08-01,SRB,Smederevo,SRB
 jarmge,Jarmalavičius,Gediminas,1956-03-08,LIT, ,LIT
 jonaed,Jonaitis,Edgaras,1995-04-19,LIT, ,LIT
 jonemi,Jonelys,Mindaugas,1980-07-15,LIT, ,LIT
@@ -69,20 +71,27 @@ koncal,Koncevicius,Alvydas,1963-11-18,LIT, ,LIT
 kosmne,Kosmakovas,Nerijus,1977-06-22,LIT, ,LIT
 kulika,Kulisius,Karolis,1993-10-14,LIT, ,LIT
 kurnvl,Kurnev,Vladimir,1950-09-12,BLR, ,BLR
+kushpe,Kushlyk,Petro,1951-03-22,LIT, ,LIT
+kuznse,Kuznetsov,Sergey,1979-11-03,BLR,Minsk,BLR
+lastdo,Lastauskas,Dovydas,1994-01-13,LIT, ,LIT
 latoke,Latoza,Kestutis,1950-08-02,LIT, ,LIT
 laveri,Lavezzini,Rino,1952-02-20,ITA, ,ITA
 lavrro,Lavrinavicius,Romas,1941-12-31,LIT, ,LIT
 lekeva,Lekevicius,Vaclovas,1963-06-25,LIT, ,LIT
 lemevi,Lemezis,Virmantas, , , , 
+lettgi,Lettieri,Gino,1966-12-23,ITA,Zürich,SUI
 liubvi,Liubsys,Virginijus,1958-05-12,LIT, ,LIT
 lopefa,Lopez,Fabio,1973-06-05,ITA, ,ITA
 luisjo,Luis,Joao, , , , 
 lutama,Šluta,Marius,1984-06-21,LIT,Telsiai,LIT
+lutsev,Lutsenko,Evgeniy,1980-11-10,UKR,Kiev,UKR
 magdda,Magdisauskas,Darius,1969-07-14,LIT, ,LIT
+maiune,Mačiulis,Nerijus,1983-04-01,LIT, ,LIT
 maksan,Makstutis,Antanas,1958-10-03,LIT, ,LIT
 malimi,Malinauskas,Mindaugas,1983-08-11,LIT, ,LIT
 malked,Malkevicius,Edvardas,1957-01-02,LIT, ,LIT
 maloed,Malofeev,Eduard,1942-06-02,BLR, ,BLR
+matum1,Matuzas,Martynas,1989-08-28,LIT,Kaunas,LIT
 matuma,Matuzas,Martynas,1989-08-28,LIT, ,LIT
 mazzfa,Mazzone,Fabio,1989-03-13,ITA,Bari,ITA
 mckijo,McKinstry,Johnny, , , , 
@@ -105,6 +114,7 @@ plukig,Plukas,Ignas,1993-12-08,LIT, ,LIT
 pocipa,Pocius,Paulius,1988-11-09,LIT, ,LIT
 popkju,Popkovs,Jurijs,1962-07-06,LAT, ,LAT
 poskro,Poškus,Robertas,1979-05-05,LIT,Klaipeda,LIT
+pratjo,Prates,João,1973-04-02,LIT, ,LIT
 ragima,Ragini,Marco,1967-11-30,RSM,San Marino,RSM
 ralkva,Ralkevics,Valentins,1991-03-08,LAT, ,LAT
 razato,Ražanauskas,Tomas,1976-01-07,LIT,Vilnius,LIT
@@ -112,17 +122,21 @@ riabeu,Riabovas,Eugenijus,1951-02-03,LIT, ,LIT
 ribefi,Ribeiro,Filipe,1975-05-04,POR,Tete,MOZ
 roquse,Roques,Sebastian,1973-05-15,FRA, ,FRA
 rybaal,Rybak,Albert, , , , 
+sabava,Sabaliauskas,Vaidas,1992-02-21,LIT, ,LIT
 sarsko,Sarsaniya,Konstantin, , , , 
 savcse,Savchenkov,Sergey,1955-01-01,RUS,Lyudinovo,RUS
 scangi,Scanu,Giovanni,1975-05-03,ITA, ,ITA
 silira,Silin,Ramazan,1965-05-01,TUR, ,TUR
+silvma,Silva,Matthew,1992-01-12,POR,Quarteira,POR
 sinkvi,Sinkevicius,Virginijus,1975-07-05,LIT, ,LIT
 sirmsa,Širmelis,Saulius,1956-05-31,LIT,Biržai,LIT
 skarau,Skarbalius,Aurelijus,1973-05-12,LIT,Šiauliai,LIT
 skeran,Skerla,Andrius,1977-04-29,LIT,Vilnius,LIT
 skerri,Skersys,Rimantas,1961-02-24,LIT, ,LIT
 skruar,Skrupskis,Arvydas,1972-09-07,LIT, ,LIT
+stanma,Stankevičius,Marius,1981-07-15,LIT,Kaunas,LIT
 stanvi,Stankevicius,Vitalijus, , , , 
+sthlgL,Ståhl,Glenn Leif,1971-08-25,SWE,Värnamo,SWE
 sukrvi,Sukristovas,Viaceslavas,1961-01-01,LIT, ,LIT
 svabiv,Svabovicius,Ivanas,1969-09-19,LIT, ,LIT
 tamoto,Tamošauskas,Tomas,1983-05-22,LIT,Gargzdai,LIT
@@ -136,6 +150,7 @@ urbeda,Urbelionis,Darius,1978-09-30,LIT, ,LIT
 urbova,Urbonas,Valdas,1967-11-29,LIT,Panevezys,LIT
 ushaal,Ushakhin,Aleksandr, , , , 
 utauva,Žutautas,Vaidas,1971-07-18,LIT,Gargzdai,LIT
+utyrei,Utyra,Eisvinas,1990-09-14,LIT, ,LIT
 vainra,Vainoras,Raimundas,1965-07-16,LIT,Telšiai,LIT
 vasiol,Vasilenko,Oleg, , , , 
 vaskvy,Vaskunas,Vytautas,1971-01-14,LIT, ,LIT
@@ -144,6 +159,7 @@ vertsa,Vertelis,Saulius,1962-08-07,LIT, ,LIT
 veseal,Veselinović,Aleksander,1970-05-23,SRB,Becej,SRB
 vicuki,Vicuña,Kibu,1971-11-20,SPA,San Sebastian,SPA
 viktri,Viktoravicius,Rimantas,1962-01-29,LIT, ,LIT
+villpa,Villar,Pablo,1986-09-04,SPA,Avilés,SPA
 vingan,Vingilys,Antanas,1964-08-29,LIT, ,LIT
 vitkar,Vitkauskas,Armantas,1989-03-23,LIT, ,LIT
 zalyro,Zalys,Robertas,1965-09-25,LIT, ,LIT

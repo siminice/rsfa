@@ -1,0 +1,35 @@
+#!/bin/bash
+
+LID=$1
+SSID=$2
+YEAR=$3
+TID=$4
+
+while read line
+do
+#1000,87,100000000,100000048,F,F,T, , , 
+#ENG
+#LigaID,SaisonLfdNr,SpielLfdNr,MsID,SpielerID,IsTrainer,IsTorwart,IsSpieler,SpielerPosition,EwFuerSpielerID,EwSpielminute,AwFuerSpielerID,AwSpielminute,IsGelbeKarte,PvID,PvSpielminute,CountSpielminuten,IsEwSpielminuteUnbekannt,IsAwSpielminuteUnbekannt,IsPvSpielminuteUnbekannt,IsZeitstrafe,IsEwSpielminuteIV,IsAwSpielminuteIV,IsPvSpielminuteIV,SpielGID,IsTrainerVertreter,IsTrainerInterim,Notiz,ToDo,GID
+#SCO
+#LigaID,SaisonLfdNr,SpielLfdNr,MsID,SpielerID,IsTorwart,IsSpieler,IsTrainer,SpielerPosition,EwFuerSpielerID,EwSpielminute,AwFuerSpielerID,AwSpielminute,PvID,PvSpielminute,CountSpielminuten,IsGelbeKarte,IsEwSpielminuteUnbekannt,IsAwSpielminuteUnbekannt,IsPvSpielminuteUnbekannt,IsZeitstrafe,IsEwSpielminuteIV,IsAwSpielminuteIV,IsPvSpielminuteIV,SpielGID,IsTrainerVertreter,IsTrainerInterim,Notiz,ToDo,GID
+  PID=$(echo "${line}" | cut -d ',' -f 4)
+  COA=$(echo "${line}" | cut -d ',' -f 7)
+  if [ "$COA" = "T" ]; then
+    PL=$(dfs-get-player ${PID})
+    LN=$(echo ${PL} | cut -d ',' -f 2)
+    PN=$(echo ${PL} | cut -d ',' -f 3)
+    FN=$(echo ${PL} | cut -d ',' -f 4 | cut -d '(' -f 1)
+    DB=$(echo ${PL} | cut -d ',' -f 6 | cut -d ' ' -f 1)
+    if [ -z "${DB}" ]; then DB=' '; fi
+#POL,ENG
+#    CI=$(echo ${PL} | cut -d ',' -f 9)
+#SUI
+     CI=$(echo ${PL} | cut -d ',' -f 7)
+#    PB=$(echo ${PL} | cut -d ',' -f 8)
+#    if [ -z "${PB}" ]; then PB=' '; fi
+    PB=' '
+    CT=$(dfs-get-ctty "${CI}")
+  echo "${PID},${FN},${FN},${DB},${CT},${PB},${CT}"
+#Link,Prenume Nume,Nat,DOB,pob,cob
+  fi
+done < tmp/${YEAR}/t${TID}.dat

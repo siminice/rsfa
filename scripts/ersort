@@ -1,0 +1,5 @@
+#!/bin/bash
+
+LC_ALL=C sort catalogs/euroreferees.dat > catalogs/euroreferees.sort
+mv catalogs/euroreferees.sort catalogs/euroreferees.dat
+wc catalogs/euroreferees.dat

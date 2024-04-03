@@ -1,0 +1,6 @@
+#!/bin/bash
+
+nano cupa-$1.lin
+lin2tab cupa-$1.lin > cupa-$1.tab
+sort cupa-$1.tab > cupa-$1.sor
+nano cupa-$1.sor

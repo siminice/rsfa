@@ -1,0 +1,11 @@
+#!/bin/bash
+
+LID=$1
+SSID=$2
+YEAR=$3
+
+grep -e "^${LID},${SSID}," data/dfs-matches.dat   > tmp/${YEAR}/matches.dat
+grep -e "^${LID},${SSID}," data/dfs-lineups.dat   > tmp/${YEAR}/lineups.dat
+grep -e "^${LID},${SSID}," data/dfs-scorers.dat   > tmp/${YEAR}/scorers.dat
+grep -e "^${LID},${SSID}," data/dfs-penalties.dat > tmp/${YEAR}/penalties.dat
+grep -e "^${LID},${SSID}," data/dfs-cards.dat     > tmp/${YEAR}/cards.dat

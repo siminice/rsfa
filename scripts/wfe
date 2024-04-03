@@ -1,0 +1,7 @@
+#!/bin/bash
+
+LG=$1
+YEAR=$2
+NR=$3
+
+wf-extract-results ${LG}.${YEAR} lineups/tmp/${YEAR} ${NR}

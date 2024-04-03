@@ -67,7 +67,7 @@ public class XmPlayer {
             Element ei = info.get(i);
             String si = ei.childNode(0).toString();
             if (si.contains("Name in home country") || si.contains("Full name")) {
-                full = info.get(i+1).childNode(0).toString();
+                full = info.get(i+1).childNode(0).toString().replaceAll(",", "~");
             } else if (si.contains("Date of birth")) {
                 Element edob = info.get(i+1);
                 if (edob.childNodeSize() > 2) {
@@ -90,7 +90,7 @@ public class XmPlayer {
                 Node npob = epob.selectFirst("[title]");
                 if (npob != null) {
                     Node nplace = npob.previousSibling();
-                    pob = nplace.toString().replaceAll("&nbsp;", "").trim();
+                    pob = nplace.toString().replaceAll("&nbsp;", "").replaceAll(",", "-").trim();
                     String scob = npob.attr("title");
                     cob = codes.values().contains(scob) ? scob : codes.getOrDefault(scob, " ");
                 }

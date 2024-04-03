@@ -1,4 +1,4 @@
-52
+53
 Buducnost,fk-buducnost-podgorica
 Sutjeska,fk-sutjeska
 Mogren Budva,fk-mogren-budva
@@ -10,14 +10,14 @@ Decic Tuzi,fk-decic-tuzi
 Petrovac,ofk-petrovac
 Grbalj,fk-grbalj-radanovici
 Bokelj Kotor,fk-bokelj
-Mornar Bar,fk-mornar-bar
+Mornar Bar,fk-mornar
 Mladost,ofk-titograd
 Zora Spuz,Zora Spuz
 Berane,fk-berane
 Zabjelo,Zabjelo Podgorica
-Arsenal Tivat,Arsenal Tivat
+Arsenal Tivat,fk-arsenal-tivat
 Lovcen Cetinje,fk-lovcen
-Jezero Plav,jezero-plav
+Jezero Plav,fk-jezero
 Celik Niksic,Celik Niksic
 Gusinje,FK Gusinje
 Ibar Rozaje,Ibar Rozaje
@@ -27,7 +27,7 @@ Otrant Ulcinj,Otrant Ulcinj
 Tekstilac BP,Tekstilac Bjelo Polje
 OFK Bar,OFK Bar
 Ribnica,Ribnica Konik
-Iskra,iskra-danilovgrad
+Iskra,fk-iskra-danilovgrad
 FK Pljevlja,FK Pljevlja
 Petnjica,FK Petnjica
 Igalo,OFK Igalo
@@ -51,3 +51,4 @@ Radovic,FK Sloga Radoviè
 Zelenika,FK Orjen Zelenika
 OFK Ulcinj,OFK Federal Olcinj
 Ljeskopolje,fk-podgorica
+Mladost,fk-mladost-donja-gorica

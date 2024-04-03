@@ -1,4 +1,5 @@
-298
+321
+aganad,Aganović,Adi,12/12/1989,SWE, ,SWE
 alacjo,Alacam,Josef,00/00/1981,SWE, ,SWE
 amlasi,Amland,Sivert Øksnes,17/01/1993,NOR, ,NOR
 andeal,Andersson,Albert, ,SWE, ,SWE
@@ -20,6 +21,7 @@ berges,Berg,Esmar, ,FER, ,FER
 bergse,Berg,Símun Eiler,1954-04-11,FER, ,FER
 bjarjr,Bjartalíð,John Reid, ,FER, ,FER
 blonsi,Blond,Simon, ,DEN, ,DEN
+boddei,Bodding,Eivind,13/07/1994,NOR, ,NOR
 bratjp,Brattalíð,Jens Petur,26/06/1964,FER, ,FER
 brecjo,Breckmann,Jógvan,17/06/1991,FER, ,FER
 brekhe,Brekkunum,Hans Erland í,1941-03-11,FER, ,FER
@@ -28,9 +30,11 @@ bttghh,Bøttger,Hans Henrik, ,DEN, ,DEN
 chrian,Christiansen,Andrew,18/05/1978,FER, ,FER
 chrika,Christensen,Kurt Abildgaard, ,DEN, ,DEN
 chriol,Christensen,Ole, ,DEN, ,DEN
+chritr,Christensen,Troels,22/07/1994,DEN, ,DEN
 cimbmi,Čimburović,Milan,05/09/1967,SRB, ,SRB
 cisine,Čišić,Nermin,00/00/1983,SWE, ,SWE
 clemri,Clementsen,Róin,1957-11-15,FER, ,FER
+cortda,Cortzen,Daniel,27/07/1995,DEN, ,DEN
 dahlje,Dahl,Jesper,30/07/1982,DEN, ,DEN
 dahls1,Dahl,Sámal Júst, ,FER, ,FER
 dahlsj,Dahl,Sámal J., ,FER, ,FER
@@ -66,6 +70,7 @@ gaarru,Gaardbo,Rúni,27/11/1977,FER, ,FER
 gardja,Gardar,Jan,09/11/1971,FER, ,FER
 gerdjo,Gerðisá,Johnleif,03/01/1981,FER, ,FER
 gjeran,Gjermshus,Anders, ,NOR, ,NOR
+graalL,Graagaard,Lasse Læbel,04/04/1995,DEN, ,DEN
 gregjg,Gregersen,Jógvan, ,FER, ,FER
 gregrn,Gregersen,Árni,1951-12-01,FER, ,FER
 gudmoh,Guðmundsson,Oddur Helgi,00/00/1984,ISL, ,ISL
@@ -82,9 +87,11 @@ hansfr,Hansson,Fredrik,00/00/1989,SWE, ,SWE
 hansh1,Hansen,Holger,1948-07-25,DEN, ,DEN
 hanshf,Hansen,Hans Falkvard,12/08/1958,FER, ,FER
 hansho,Hansen,Høgni,07/08/1982,FER, ,FER
+hanskL,Hansen,Áki Leitisstein,20/01/1983,FER, ,FER
 hansmu,Hansen,Ímundur,1943-06-20,FER, ,FER
 hansst,Hansen,Sverri Trónd, ,FER, ,FER
 hareer,Hareland,Erland, ,NOR, ,NOR
+haugjr,Haugen,Jørgen,16/06/1992,NOR, ,NOR
 heinii,Heino,Iiro, ,FIN, ,FIN
 heinsi,Heinesen,Sigurd, ,FER, ,FER
 hentpe,Hentze,Petur Páll Winther,25/02/1996,FER, ,FER
@@ -101,8 +108,10 @@ holmhp,Holm,Hans Pauli, ,FER, ,FER
 holmjs,Holm,Jens Straagaard,1945-06-28,FER, ,FER
 honkju,Honkanen,Jukka,00/00/1981,FIN, ,FIN
 hoummi,Houmann,Mikkjal, ,FER, ,FER
+hrafey,Hrafnkelsson,Eysteinn,16/09/1998,ISL, ,ISL
 hyytjo,Hyytiä,Joni,29/08/1988,FIN, ,FIN
 isakla,Isaksen,Lassin,1961-01-22,FER, ,FER
+jacodj,Jacobsen,Djóni,29/06/2002,FER, ,FER
 jacojg,Jacobsen,Jógvan, ,FER, ,FER
 jacojo,Jacobsen,Johannes, ,FER, ,FER
 jacoka,Jacobsen,Kaj,1953-06-16,FER, ,FER
@@ -111,6 +120,7 @@ jacost,Jacobsen,Steinbjørn, ,FER, ,FER
 jacosv,Jacobsen,Sverri, ,FER, ,FER
 jacotu,Jacobsen,Tummas, ,FER, ,FER
 jaerja,Järvinen,Jari,15/10/1980,FIN, ,FIN
+jakosE,Jakobsen,Steinar Emilsson,03/10/2002,FER, ,FER
 jantbw,Willaume-Jantzen,Benjamin, ,DEN, ,DEN
 jantol,Jantunen,Olli, ,FIN, ,FIN
 jarndn,Jarnskor,Dánjal,1961-03-11,FER, ,FER
@@ -133,6 +143,7 @@ johaha,Jóhannsson,Halldór Breiðfjörð, ,ISL, ,ISL
 johaje,Johannesen,Jens,1954-01-17,FER, ,FER
 johajm,Johannesen,Jón Marni,27/01/1993,FER, ,FER
 johajx,Johansen,Jógvan á Lað, ,FER, ,FER
+johakS,Johannessen,Kristian Solvang,17/09/1992,NOR, ,NOR
 johake,Johannesen,Kristmar Evaldson,1967-11-11,FER, ,FER
 johami,Johansen,Michael,1975-12-16,DEN, ,DEN
 johasu,Johansen,Sune,1960-07-24,FER, ,FER
@@ -149,6 +160,7 @@ jussat,Jussila,Atte, ,FIN, ,FIN
 justna,Justinussen,Napoleon,1952-07-08,FER, ,FER
 kahrme,Kahrimanović,Mesud,00/00/1984,SWE, ,SWE
 kannju,Kanniainen,Juha Matti, ,FIN, ,FIN
+karsju,Karstila,Juhani,28/03/1994,FIN, ,FIN
 kjelma,Kjelnæs,Magnus, ,FER, ,FER
 kjrbpe,Kjærbo,Petur Erhard,1952-09-20,FER, ,FER
 klakjg,Klakstein,Jógvan,13/05/1994,FER, ,FER
@@ -183,7 +195,9 @@ maekka,Mäkinen,Kalle, ,FIN, ,FIN
 magnbe,Magnussen,Bergur,1966-09-09,FER, ,FER
 magnsj,Magnussen,Sjúrður, ,FER, ,FER
 malaan,Malaska,Antti, ,FIN, ,FIN
+matter,Mattsson,Erik,19/02/1995,SWE, ,SWE
 mcbiro,McBirnie,Robert,1943-11-01,FER, ,FER
+melihe,Melin,Henrik,02/02/1994,SWE, ,SWE
 melipe,Melin,Per,07/01/1988,SWE, ,SWE
 meyekv,Meyer,Kaj Vilhelm, ,FER, ,FER
 michjo,Michelsen,Johan Petur,14/02/1967,FER, ,FER
@@ -194,6 +208,7 @@ midjsv,Midjord,Sverre,1933-04-02,FER, ,FER
 mikkjo,Mikkelsen,Jóannes Magni,05/08/1964,FER, ,FER
 mikkma,Mikkelsen,Magnus, ,FER, ,FER
 mikktr,Mikkelsen,Tórbjørn,1936-06-03,FER, ,FER
+mohrj�,Mohr,Jákup Øssursson,15/04/1989,FER, ,FER
 mohrss,Mohr,Øssur,1961-09-29,FER, ,FER
 mortba,Mortensen,Bárður,25/12/1972,FER, ,FER
 mortbo,Mortensen,Bogi,1957-06-08,FER, ,FER
@@ -205,6 +220,7 @@ mrinmx,Mýrini,Martin á,1946-01-07,FER, ,FER
 mrkrbr,Mørkøre,Børge, ,FER, ,FER
 mrkxmo,Mørk,Mortan, ,FER, ,FER
 muella,Müller,Lars,28/08/1973,FER, ,FER
+nguykM,Nguyễn,Kim Minh, ,NOR, ,NOR
 niclle,Niclasen,Levi,1943-05-01,FER, ,FER
 niclno,Niclasen,Noel, ,FER, ,FER
 niclra,Niclasen,Rasmus,1959-09-25,FER, ,FER
@@ -241,6 +257,7 @@ petekr,Petersen,Kristian Sofus,22/06/1988,FER, ,FER
 petelu,Petersen,Ludvig, ,FER, ,FER
 peteni,Petersen,Niklas,22/08/1996,FER, ,FER
 peteod,Petersen,Oddur, ,FER, ,FER
+peterB,Petersen,Árni Brandsson,29/05/1990,FER, ,FER
 peteth,Petersen,Thorvald J.,17/03/1981,FER, ,FER
 petust,Petursson,Stephan,09/10/1990,FER, ,FER
 planvi,Planck,Viggo, ,FER, ,FER
@@ -252,12 +269,16 @@ rasma1,Rasmussen,Arne, ,DEN, ,DEN
 rasmar,Rasmussen,Arni, ,FER, ,FER
 rasmei,Rasmussen,Eiler,20/05/1977,FER, ,FER
 rasmge,Rasmussen,Georg Nolsøe,02/07/1971,FER, ,FER
+rasmjT,Rasmussen,Jacob Tornbjerg,22/06/1994,DEN, ,DEN
 rasmpa,Rasmussen,Pætur Ellingsgaard,17/12/1989,FER, ,FER
 rasmto,Rasmussen,Torri, ,FER, ,FER
 reinpe,Reinert,Petur,28/02/1978,FER, ,FER
 reitol,Reitala,Oliver, ,FIN, ,FIN
+rothma,Roth,Matti,10/11/1993,FIN, ,FIN
+rovcmi,Rovcanin,Mirza,08/03/1988,SWE, ,SWE
 samuhe,Samuelsen,Heðin,1957-09-30,FER, ,FER
 samusj,Samuelsen,Símun J., ,FER, ,FER
+sigueA,Sigurþórsson,Egill Arnar,21/09/1982,ISL, ,ISL
 simoje,Simonsen,Jens Albert,20/02/1974,FER, ,FER
 simojk,Simonsen,Jákup, ,FER, ,FER
 simope,Simonsen,Petur, ,FER, ,FER
@@ -283,11 +304,13 @@ thorsi,Þórleifsson,Sigurður Óli,18/11/1975,ISL, ,ISL
 thorsr,Thorning,Søren, ,DEN, ,DEN
 thrash,Þrastarson,Sigurður Hjörtur,09/07/1984,ISL, ,ISL
 trolal,Troleis,Alex de Albuquerque,04/06/1980,FER, ,BRA
+troldP,Troleis,Dominick Philbrow,02/09/2004,FER, ,FER
 tykgmi,Tykgaard,Michael,07/06/1977,DEN, ,DEN
 unbeun, , , , , , 
 valgva,Valgeirsson,Valgeir, ,ISL, ,ISL
 vestas,Vest,Áron Sofus,26/09/1994,FER, ,FER
 vintja,Vinther,Jannik Rosenkrands, ,DEN, ,DEN
+vioyhZ,Viðoy,Heini Ziskason,12/01/1997,FER, ,FER
 wangal,Wang,Albin, ,FER, ,FER
 weihei,Weihe,Eilif, ,FER, ,FER
 weihsa,Weihe,Sámal, ,FER, ,FER

@@ -1,4 +1,4 @@
-317
+366
 abdumo,Abdullah,Mohammed Nazri,Mohammed Nazri Abdullah,23/01/1954,MAS, ,MAS,mohammed-abdullah
 abexhi,Abe,Hiroshi,Hiroshi Abe, ,JAP, ,JAP,hiroshi-abe
 abexma,Abe,Masaki,Masaki Abe, ,JAP, ,JAP,masaki-abe
@@ -7,6 +7,7 @@ aikito,Aiki,Toru,Toru Aiki, ,JAP, ,JAP,toru-aiki
 ajikhi,Ajiki,Hiroyuki,Hiroyuki Ajiki, ,JAP, ,JAP,hiroyuki-ajiki
 akasos,Akasaka,Osamu,Osamu Akasaka,26/09/1985,JAP, ,JAP,osamu-akasaka
 akissh,Akisawa,Shoji,Shoji Akisawa, ,JAP, ,JAP,shoji-akisawa
+akizma,Akizawa,Masaharu,Masaharu Akizawa, ,JAP, ,JAP,masaharu-akizawa
 anaiyu,Anai,Yukimasa,Yukimasa Anai,19/05/1980,JAP, ,JAP,yukimasa-anai
 anazts,Anazawa,Tsutomu,Tsutomu Anazawa,16/08/1965,JAP, ,JAP,tsutomu-anazawa
 aokita,Aoki,Takashi,Takashi Aoki, ,JAP, ,JAP,takashi-aoki
@@ -29,6 +30,8 @@ boerbe,Börjesson,Bengt,Bengt Börjesson,22/05/1949,SWE, ,SWE,bengt-boerjesson
 bonima,Boniek,Marcin,Marcin Boniek, ,POL, ,POL,marcin-boniek
 borkma,Borkowski,Marcin,Marcin Borkowski,14/04/1979,POL, ,POL,marcin-borkowski
 borsma,Borski,Marcin,Marcin Borski,13/04/1973,POL,Warszawa,POL,marcin-borski
+bozoma,Bozono,Makoto,Makoto Bozono,05/08/1980,JAP, ,JAP,makoto-bozono
+bramth,Bramall,Thomas,Thomas Bramall,00/00/1990,ENG,Sheffield,ENG,thomas-bramall
 caceca,Zarate,Carlos Santiago Cáceres,Carlos Santiago Cáceres Zarate,26/06/1983,PAR, ,PAR,carlos-caceres
 chonlk,Chong,An Yan Lim Kee,An Yan Lim Kee Chong,15/05/1960,MTS, ,MTS,lim-kee-chong
 cresjc,Crespi,Juan Carlos,Juan Carlos Crespi, ,ARG, ,ARG,juan-carlos-crespi
@@ -45,6 +48,8 @@ fukuhi,Fukuda,Hiroshi,Hiroshi Fukuda, ,JAP, ,JAP,hiroshi-fukuda
 fukuko,Fukushima,Koichiro,Koichiro Fukushima,20/12/1983,JAP, ,JAP,koichiro-fukushima
 fukumi,Fukuoka,Mikio,Mikio Fukuoka, ,JAP, ,JAP,mikio-fukuoka
 fukuya,Fukuoka,Yasuhito,Yasuhito Fukuoka, ,JAP, ,JAP,yasuhito-fukuoka
+funaak,Funabashi,Akitsugu,Akitsugu Funabashi,25/04/1979,JAP, ,JAP,akitsugu-funabashi
+funash,Funabashi,Shoji,Shoji Funabashi, ,JAP, ,JAP,shoji-funabashi
 fusena,Fuse,Naotsugu,Naotsugu Fuse,11/09/1956,JAP, ,JAP,naotsugu-fuse
 futato,Futamata,Toshiaki,Toshiaki Futamata, ,JAP, ,JAP,toshiaki-futamata
 ghanaa,Al Ghandour,Gamal Mahmoud Ahmed,Gamal Mahmoud Ahmed Al Ghandour,12/06/1957,EGY, ,EGY,ahmed-al-ghandour
@@ -57,8 +62,10 @@ hamaka,Hamaguchi,Kazuaki,Kazuaki Hamaguchi, ,JAP, ,JAP,kazuaki-hamaguchi
 hamash,Hamada,Shoji,Shoji Hamada, ,JAP, ,JAP,shoji-hamada
 hamate,Hamana,Tetsuya,Tetsuya Hamana, ,JAP, ,JAP,tetsuya-hamana
 hamayu,Hamamoto,Yusuke,Yusuke Hamamoto,20/09/1988,JAP, ,JAP,yusuke-hamamoto
+haraei,Harao,Eisuke,Eisuke Harao,07/05/1980,JAP, ,JAP,eisuke-harao
 harahi,Harada,Hideaki,Hideaki Harada, ,JAP, ,JAP,hideaki-harada
 harama,Harada,Masahiko,Masahiko Harada,17/06/1966,JAP, ,JAP,masahiko-harada
+hasema,Hasegawa,Masaru,Masaru Hasegawa, ,JAP, ,JAP,masaru-hasegawa
 haseta,Hase,Tadashi,Tadashi Hase, ,JAP, ,JAP,tadashi-hase
 hayaka,Hayakawa,Kazuyuki,Kazuyuki Hayakawa, ,JAP, ,JAP,kazuyuki-hayakawa
 hayayo,Hayashi,Yoshihito,Yoshihito Hayashi,18/08/1976,JAP, ,JAP,yoshihito-hayashi
@@ -72,6 +79,7 @@ hiroyo,Hiroshima,Yoshikazu,Yoshikazu Hiroshima,22/05/1962,JAP, ,JAP,yoshikazu-hi
 horima,Horikoshi,Masahiro,Masahiro Horikoshi,15/10/1979,JAP, ,JAP,masahiro-horikoshi
 iemoma,Toma,Masaaki Iemoto,Masaaki Iemoto Toma,02/06/1973,JAP,Hiroshima,JAP,masaaki-iemoto_2
 igarhi,Igarashi,Hiroyuki,Hiroyuki Igarashi,05/01/1979,JAP, ,JAP,hiroyuki-igarashi
+igarya,Igarashi,Yasuyuki,Yasuyuki Igarashi, ,JAP, ,JAP,yasuyuki-igarashi
 iidaju,Iida,Jumpei,Jumpei Iida,14/08/1981,JAP, ,JAP,jumpei-iida
 ikedna,Ikeda,Naohiro,Naohiro Ikeda,25/09/1964,JAP, ,JAP,naohiro-ikeda
 ikeuak,Ikeuchi,Akihiko,Akihiko Ikeuchi,05/08/1983,JAP,Hiroshima,JAP,akihiko-ikeuchi
@@ -85,6 +93,7 @@ ishihi,Ishida,Hiroyuki,Hiroyuki Ishida, ,JAP, ,JAP,hiroyuki-ishida_2
 ishiky,Ishikawa,Kyoji,Kyoji Ishikawa, ,JAP, ,JAP,kyoji-ishikawa
 ishino,Ishiyama,Noboru,Noboru Ishiyama, ,JAP, ,JAP,noboru-ishiyama
 ishisa,Ishizawa,Satoru,Satoru Ishizawa, ,JAP, ,JAP,satoru-ishizawa
+ishish,Ishimaru,Shuhei,Shuhei Ishimaru, ,JAP, ,JAP,shuhei-ishimaru
 isokka,Isokawa,Kazuya,Kazuya Isokawa,18/12/1965,JAP, ,JAP,kazuya-isokawa
 itoxri,Ito,Rikio,Rikio Ito, ,JAP, ,JAP,rikio-ito
 itoxto,Ito,Tomoya,Tomoya Ito, ,JAP, ,JAP,tomoya-ito
@@ -107,6 +116,7 @@ kanase,Kanai,Seiichi,Seiichi Kanai,19/07/1982,JAP, ,JAP,seiichi-kanai
 kandto,Kanda,Toyohide,Toyohide Kanda, ,JAP, ,JAP,toyohide-kanda
 kaneei,Kaneda,Eiji,Eiji Kaneda, ,JAP, ,JAP,eiji-kaneda
 kaneso,Kaneko,Soichiro,Soichiro Kaneko, ,JAP, ,JAP,soichiro-kaneko
+kaneyu,Kanetsugu,Yunosuke,Yunosuke Kanetsugu,03/12/1986,JAP, ,JAP,yunosuke-kanetsugu
 karasa,Karakami,Satoshi,Satoshi Karakami,28/08/1978,JAP, ,JAP,satoshi-karakami
 karate,Karakida,Tetsu,Tetsu Karakida, ,JAP, ,JAP,tetsu-karakida
 kasahi,Kasahara,Hiroki,Hiroki Kasahara,01/01/1980,JAP, ,JAP,hiroki-kasahara
@@ -119,12 +129,14 @@ katsko,Katsumata,Koji,Koji Katsumata, ,JAP, ,JAP,koji-katsumata
 kawaak,Kawasaki,Akihito,Akihito Kawasaki,18/10/1977,JAP, ,JAP,akihito-kawasaki
 kawaei,Kawai,Eiji,Eiji Kawai,22/09/1969,JAP, ,JAP,eiji-kawai
 kawasa,Kawano,Satoru,Satoru Kawano, ,JAP, ,JAP,satoru-kawano
+kawash,Kawamata,Shu,Shu Kawamata,29/03/1982,JAP, ,JAP,shu-kawamata
 kijisa,Kijima,Sakae,Sakae Kijima, ,JAP, ,JAP,sakae-kijima
 kikahi,Kikawada,Hironobu,Hironobu Kikawada,16/07/1975,JAP, ,JAP,hironobu-kikawada
 kikuhi,Kikuchi,Hideo,Hideo Kikuchi,08/06/1948,JAP, ,JAP,hideo-kikuchi
 kikuko,Kikuchi,Koetsu,Koetsu Kikuchi,29/05/1954,JAP, ,JAP,koetsu-kikuchi
 kimuhi,Kimura,Hiroyuki,Hiroyuki Kimura,30/01/1982,JAP, ,JAP,hiroyuki-kimura
 kimxyj,Kim,Young-Joo,Young-Joo Kim,30/12/1957,KOR, ,KOR,young-joo-kim
+kinjyu,Kinji,Yunosuke,Yunosuke Kinji, ,JAP, ,JAP,yunosuke-kinji
 kishno,Kishiro,Norikazu,Norikazu Kishiro,01/02/1965,JAP, ,JAP,norikazu-kishiro
 kitahi,Kitamura,Hisaharu,Hisaharu Kitamura,14/04/1958,JAP, ,JAP,hisaharu-kitamura
 koshke,Koshiyama,Kenichi,Kenichi Koshiyama, ,JAP, ,JAP,kenichi-koshiyama
@@ -132,10 +144,12 @@ koyako,Koya,Koei,Koei Koya, ,JAP, ,JAP,koei-koya
 kuboyo,Kubota,Yosuke,Yosuke Kubota,08/05/1981,JAP, ,JAP,yosuke-kubota
 kumako,Kumagai,Kogo,Kogo Kumagai, ,JAP, ,JAP,kogo-kumagai
 kumayu,Kumagai,Yukitaka,Yukitaka Kumagai,26/09/1987,JAP, ,JAP,yukitaka-kumagai
+kunish,Kuniyoshi,Shingo,Shingo Kuniyoshi,18/03/1994,JAP, ,JAP,shingo-kuniyoshi
 kunota,Kunori,Takashi,Takashi Kunori, ,JAP, ,JAP,takashi-kunori
 larsru,Larsson,Rune,Rune Larsson,25/06/1952,SWE, ,SWE,rune-larsson_2
 lisxma,Lis,Marcin,Marcin Lis, ,POL, ,POL,marcin-lis
 luxxju,Lu,Jun,Jun Lu,19/03/1959,CHN, ,CHN,jun-lu
+madlan,Madley,Andrew,Andrew Madley,05/09/1983,ENG,Huddersfield,ENG,andy-madley
 madlbo,Madley,Robert,Robert Madley,06/10/1985,ENG,Wakefield,ENG,bobby-madley
 maedat,Maeda,Atsushi,Atsushi Maeda, ,JAP, ,JAP,atsushi-maeda
 maedta,Maeda,Takuya,Takuya Maeda,02/04/1968,JAP,Hiroshima,JAP,takuya-maeda
@@ -144,16 +158,22 @@ maenha,Maenosono,Haruhiro,Haruhiro Maenosono,04/06/1967,JAP, ,JAP,haruhiro-maeno
 maidsh,Maidin,Shamsul,Shamsul Maidin,16/04/1966,SIN,Singapur,SIN,shamsul-maidin
 majish,Majima,Shuichi,Shuichi Majima,13/04/1970,JAP, ,JAP,shuichi-majima
 makiak,Makino,Akihisa,Akihisa Makino,31/10/1959,JAP, ,JAP,akihisa-makino
+manahi,Manabe,Hisao,Hisao Manabe,31/05/1984,JAP, ,JAP,hisao-manabe
 marcsz,Marciniak,Szymon,Szymon Marciniak,07/01/1981,POL, ,POL,szymon-marciniak
 marijf,Marin,Juan Antonio Fernández,Juan Antonio Fernández Marin,03/12/1957,SPA,Madrid,SPA,juan-fernandez-marin
+marrkM,Al Marri,Khamis Mohammed,Khamis Mohammed Al Marri,06/07/1984,QAT, ,QAT,khamis-al-marri
+matsda,Matsumoto,Dai,Dai Matsumoto,01/07/1985,JAP, ,JAP,dai-matsumoto
 matsha,Matsuo,Hajime,Hajime Matsuo,26/09/1972,JAP, ,JAP,hajime-matsuo
 matska,Matsumura,Kazuhiko,Kazuhiko Matsumura,17/07/1963,JAP, ,JAP,kazuhiko-matsumura
 matske,Matsui,Kentaro,Kentaro Matsui,14/03/1983,JAP, ,JAP,kentaro-matsui
 matsya,Matsuzaki,Yasuhiro,Yasuhiro Matsuzaki,20/01/1954,JAP, ,JAP,yasuhiro-matsuzaki
+matsyo,Matsuzawa,Yoshikazu,Yoshikazu Matsuzawa,07/10/1983,JAP, ,JAP,yoshikazu-matsuzawa
 mayuto,Mayuzumi,Toshiyuki,Toshiyuki Mayuzumi,31/08/1955,JAP, ,JAP,toshiyuki-mayuzumi
 mendws,Mendonça,Wilson Souza,Wilson Souza Mendonça,16/08/1964,BRA, ,BRA,wilson-souza-mendonca
+michsa,Michiyama,Satoshi,Satoshi Michiyama,06/07/1994,JAP, ,JAP,satoshi-michiyama
 mihaju,Mihara,Jun,Jun Mihara,16/06/1981,JAP, ,JAP,jun-mihara
 mikash,Mikami,Shoichiro,Shoichiro  Mikami,01/01/1985,JAP,Hokkaido,JAP,shoichiro-mikami
+mikuta,Mikuriya,Takafumi,Takafumi Mikuriya,11/05/1984,JAP, ,JAP,takafumi-mikuriya_2
 mikuto,Mikulski,Tomasz,Tomasz Mikulski,21/06/1968,POL, ,POL,tomasz-mikulski
 minako,Minami,Koji,Koji Minami, ,JAP, ,JAP,koji-minami
 miyaka,Miyajima,Kazushiro,Kazushiro Miyajima,17/12/1967,JAP, ,JAP,kazushiro-miyajima
@@ -169,14 +189,18 @@ murash,Murakami,Shinji,Shinji Murakami, ,JAP, ,JAP,shinji-murakami
 murayu,Murata,Yusuke,Yusuke Murata,29/08/1972,JAP, ,JAP,yusuke-murata
 myrmkr,Myrmus,Krysztof,Krysztof Myrmus,04/06/1974,POL, ,POL,krysztof-myrmus
 nabema,Nabeshima,Masaki,Masaki Nabeshima,19/10/1978,JAP, ,JAP,masaki-nabeshima
+nagako,Nagamine,Koki,Koki Nagamine,01/11/1991,JAP, ,JAP,koki-nagamine
 nagito,Nagi,Toshiyuki,Toshiyuki Nagi,29/11/1971,JAP, ,JAP,toshiyuki-nagi
 nakafu,Nakamura,Futoshi,Futoshi Nakamura,01/11/1978,JAP,Saitama,JAP,futoshi-nakamura
 nakah1,Nakagomi,Hitoshi,Hitoshi Nakagomi, ,JAP, ,JAP,hitoshi-nakagomi
 nakahi,Nakai,Hisashi,Hisashi Nakai,03/12/1968,JAP, ,JAP,hisashi-nakai
 nakam1,Nakaguma,Mitsuyoshi,Mitsuyoshi Nakaguma, ,JAP, ,JAP,mitsuyoshi-nakaguma
 nakami,Nakahara,Michio,Michio Nakahara, ,JAP, ,JAP,michio-nakahara
+nakary,Nakazawa,Ryo,Ryo Nakazawa,28/11/1989,JAP, ,JAP,ryo-nakazawa
 nakata,Nakano,Taku,Taku Nakano,03/06/1974,JAP, ,JAP,taku-nakano
+nakato,Nakai,Toshihiro,Toshihiro Nakai,02/05/1985,JAP, ,JAP,toshihiro-nakai
 nakayu,Nakamura,Yu,Yu Nakamura,21/02/1954,JAP, ,JAP,yu-nakamura
+naokwa,Naoki,Wakatsuki,Wakatsuki Naoki,12/05/1982,JAP, ,JAP,naoki-wakatsuki
 nishhi,Nishio,Hideaki,Hideaki Nishio,04/01/1975,JAP, ,JAP,hideaki-nishio
 nishis,Nishihashi,Isao,Isao Nishihashi,27/08/1986,JAP, ,JAP,isao-nishihashi
 nishmi,Nishimura,Mikiya,Mikiya Nishimura,05/09/1979,JAP, ,JAP,mikiya-nishimura
@@ -189,10 +213,12 @@ nomuos,Nomura,Osamu,Osamu Nomura,26/06/1989,JAP, ,JAP,osamu-nomura
 obatsh,Obata,Shinichiro,Shinichiro Obata, ,JAP, ,JAP,shinichiro-obata
 obukmi,Obukowicz,Michał,Michał Obukowicz, ,POL, ,POL,michal-obukowicz
 ochish,Ochi,Shinji,Shinji Ochi,15/10/1975,JAP, ,JAP,shinji-ochi
+ogatta,Ogata,Takahiro,Takahiro Ogata,19/10/1984,JAP, ,JAP,takahiro-ogata
 ogawna,Ogawa,Naohito,Naohito Ogawa,21/01/1965,JAP, ,JAP,naohito-ogawa
 ogawyo,Ogawa,Yoshimi,Yoshimi Ogawa, ,JAP, ,JAP,yoshimi-ogawa
 ogiyke,Ogiya,Kenji,Kenji Ogiya,03/01/1971,JAP, ,JAP,kenji-ogiya
 ogurts,Ogura,Tsuyoshi,Tsuyoshi Ogura, ,JAP, ,JAP,tsuyoshi-ogura
+ohasyu,Ohashi,Yusuke,Yusuke Ohashi,03/07/1994,JAP, ,JAP,yusuke-ohashi
 oishko,Oishi,Ko,Ko Oishi, ,JAP, ,JAP,ko-oishi
 okabta,Okabe,Takuto,Takuto Okabe,15/10/1981,JAP, ,JAP,takuto-okabe
 okadka,Okada,Kazunori,Kazunori Okada, ,JAP, ,JAP,kazunori-okada
@@ -224,6 +250,8 @@ rodaad,Iniguez,Alfredo de Jesus Rodas,Alfredo de Jesus Rodas Iniguez,01/04/1951,
 rostra,Rostkowski,Rafał,Rafał Rostkowski,06/08/1972,POL, ,POL,rafal-rostkowski
 sadcpi,Sadczuk,Piotr,Piotr Sadczuk,13/06/1973,POL, ,POL,piotr-sadczuk
 sagato,Sagara,Toru,Toru Sagara,25/06/1976,JAP,Tochigi,JAP,toru-sagara
+sakash,Sakamoto,Shingo,Shingo Sakamoto,16/11/1986,JAP, ,JAP,shingo-sakamoto
+sakata,Sakai,Tatsuya,Tatsuya Sakai,09/11/1987,JAP, ,JAP,tatsuya-sakai_2
 sakoki,Sako,Kinji,Kinji Sako, ,JAP, ,JAP,kinji-sako
 sakuda,Sakurai,Daisuke,Daisuke Sakurai,17/07/1980,JAP, ,JAP,daisuke-sakurai
 sakuta,Sakumoto,Takanori,Takanori Sakumoto,10/05/1971,JAP, ,JAP,takanori-sakumoto
@@ -231,6 +259,8 @@ sapeko,Sapela,Konrad,Konrad Sapela,10/07/1971,POL, ,POL,konrad-sapela
 satohi,Sato,Hideaki,Hideaki Sato, ,JAP, ,JAP,hideaki-sato
 satomi,Sato,Mitsuru,Mitsuru Sato, ,JAP, ,JAP,mitsuru-sato
 satory,Sato,Ryuji,Ryuji Sato,16/04/1977,JAP, ,JAP,ryuji-sato
+satota,Sato,Takayuki,Takayuki Sato,14/09/1973,JAP, ,JAP,takayuki-sato
+satoyu,Sato,Yuichi,Yuichi Sato,09/05/1982,JAP, ,JAP,yuichi-sato
 saulbe,Saules,Bernard,Bernard Saules,30/05/1954,FRA, ,FRA,bernard-saules
 sawayo,Sawada,Yoshio,Yoshio Sawada, ,JAP, ,JAP,yoshio-sawada
 seinyu,Seino,Yusuke,Yusuke Seino,14/05/1979,JAP, ,JAP,yusuke-seino
@@ -240,6 +270,7 @@ shimha,Shimizu,Hayato,Hayato Shimizu,13/12/1983,JAP,Chiba,JAP,hayato-shimizu
 shimma,Shimomura,Masaaki,Masaaki Shimomura, ,JAP, ,JAP,masaaki-shimomura
 shimsh,Shimizu,Shuhei,Shuhei Shimizu, ,JAP, ,JAP,shuhei-shimizu
 shimta,Shimizu,Takayuki,Takayuki Shimizu,27/08/1978,JAP, ,JAP,takayuki-shimizu
+shinta,Shinoto,Takumi,Takumi Shinoto,23/07/1979,JAP, ,JAP,takumi-shinoto
 shiofu,Shioyazono,Fumikazu,Fumikazu Shioyazono,05/11/1948,JAP, ,JAP,fumikazu-shioyazono
 shiota,Shiokawa,Takuji,Takuji Shiokawa,24/05/1965,JAP, ,JAP,takuji-shiokawa
 shioyu,Shiotsu,Yusuke,Yusuke Shiotsu,19/11/1978,JAP, ,JAP,yusuke-shiotsu
@@ -251,13 +282,16 @@ stefda,Stefański,Daniel,Daniel Stefański,07/07/1977,POL,Bydgonszcz,POL,daniel-
 suhata,Suhara,Takeshi,Takeshi Suhara,20/09/1977,JAP, ,JAP,takeshi-suhara
 sunake,Sunakawa,Keiichi,Keiichi Sunakawa,01/07/1957,JAP, ,JAP,keiichi-sunakawa
 sundle,Sundell,Leif,Leif Sundell,15/02/1958,SWE, ,SWE,leif-sundell
+sutayu,Sutani,Yuzo,Yuzo Sutani, ,JAP, ,JAP,yuzo-sutani
 suzufu,Suzuki,Fusaya,Fusaya Suzuki, ,JAP, ,JAP,fusaya-suzuki
 suzuno,Suzuki,Noriyuki,Noriyuki Suzuki,29/07/1985,JAP, ,JAP,noriyuki-suzuki
 szymma,Szymanik,Maciej,Maciej Szymanik,15/01/1970,POL, ,POL,maciej-szymanik
 tachki,Tachi,Kiichiro,Kiichiro Tachi,10/11/1949,JAP, ,JAP,kiichiro-tachi
+tajihi,Tajima,Hironori,Hironori Tajima,13/09/1983,JAP, ,JAP,hironori-tajima
 tajisa,Tajiri,Satoshi,Satoshi Tajiri, ,JAP, ,JAP,satoshi-tajiri
 tajito,Tajiri,Tomokazu,Tomokazu Tajiri,21/11/1977,JAP, ,JAP,tomokazu-tajiri
 takahi,Takayama,Hiroyoshi,Hiroyoshi Takayama,18/03/1974,JAP, ,JAP,hiroyoshi-takayama
+takako,Takasaki,Koji,Koji Takasaki,25/10/1992,JAP, ,JAP,koji-takasaki
 takasa,Takahashi,Saori,Saori Takahashi,26/07/1973,JAP, ,JAP,saori-takahashi
 takash,Takada,Shizuo,Shizuo Takada,05/08/1947,JAP, ,JAP,shizuo-takada
 takata,Takagi,Takumi,Takumi Takagi,09/01/1982,JAP, ,JAP,takumi-takagi
@@ -268,15 +302,19 @@ takeka,Takeda,Kazuo,Kazuo Takeda,14/06/1974,JAP, ,JAP,kazuo-takeda
 takemi,Taketa,Mitsuharu,Mitsuharu Taketa,05/09/1974,JAP,Okayama,JAP,mitsuharu-taketa
 takemo,Takeuchi,Motohito,Motohito Takeuchi, ,JAP, ,JAP,motohito-takeuchi
 takesu,Takeda,Susumu,Susumu Takeda, ,JAP, ,JAP,susumu-takeda
+takeya,Takenaga,Yasuhiko,Yasuhiko Takenaga,14/10/1979,JAP, ,JAP,yasuhiko-takenaga
+takeyo,Takebe,Yosuke,Yosuke Takebe,16/03/1986,JAP, ,JAP,yosuke-takebe
 tanaat,Tanaka,Atsushi,Atsushi Tanaka, ,JAP, ,JAP,atsushi-tanaka
 tanahi,Tanabe,Hiroshi,Hiroshi Tanabe,01/05/1959,JAP, ,JAP,hiroshi-tanabe
 tanake,Tanaka,Kenji,Kenji Tanaka, ,JAP, ,JAP,kenji-tanaka
+tanare,Tanaka,Reo,Reo Tanaka,12/04/1986,JAP, ,JAP,reo-tanaka
 tanato,Tanaka,Toshiyuki,Toshiyuki Tanaka,23/11/1984,JAP, ,JAP,toshiyuki-tanaka
 taniko,Taniuchi,Koji,Koji Taniuchi, ,JAP, ,JAP,koji-taniuchi
 taniry,Tanimoto,Ryo,Ryo Tanimoto,05/02/1988,JAP, ,JAP,ryo-tanimoto
 taylan,Taylor,Anthony,Anthony Taylor,20/10/1978,ENG,Wythenshawe,ENG,anthony-taylor_2
 tejaal,Noriega,Alberto Tejada,Alberto Tejada Noriega,11/11/1956,PER, ,PER,alberto-tejada
 terrke,Terry,Kevin,Kevin Terry,03/07/1958,USA, ,USA,kevin-terry
+teshna,Teshirogi,Naomi,Naomi Teshirogi,12/09/1980,JAP, ,JAP,naomi-teshirogi
 tezuhi,Tezuka,Hiroshi,Hiroshi Tezuka,08/06/1965,JAP, ,JAP,hiroshi-tezuka
 todato,Toda,Togo,Togo Toda,10/06/1974,JAP, ,JAP,togo-toda
 tojomi,Tōjō,Minoru,Minoru Tōjō,30/08/1976,JAP,Tokorozawa,JAP,minoru-tojo
@@ -284,10 +322,16 @@ tomamI,Toma,Masaaki Iemoto,Masaaki Iemoto Toma,02/06/1973,JAP,Hiroshima,JAP,masa
 toriak,Torigoe,Akihiro,Akihiro Torigoe, ,JAP, ,JAP,akihiro-torigoe
 trenal,Trentalange,Alfredo,Alfredo Trentalange,19/07/1957,ITA,Torino,ITA,alfredo-trentalange
 tsucya,Tsuchimoto,Yasushi,Yasushi Tsuchimoto, ,JAP, ,JAP,yasushi-tsuchimoto
+tsukto,Tsukada,Tomohiro,Tomohiro Tsukada,10/12/1979,JAP, ,JAP,tomohiro-tsukada
 tsukyu,Tsukakoshi,Yuki,Yuki Tsukakoshi,11/04/1980,JAP, ,JAP,yuki-tsukakoshi
+tsurma,Tsuruoka,Masaki,Masaki Tsuruoka,08/10/1983,JAP, ,JAP,masaki-tsuruoka
+tsurta,Tsuruoka,Taiki,Taiki Tsuruoka,25/01/1981,JAP, ,JAP,taiki-tsuruoka
+uchish,Uchiyama,Shota,Shota Uchiyama,11/10/1989,JAP, ,JAP,shota-uchiyama
 uedabu,Ueda,Bumpei,Bumpei Ueda,10/10/1984,JAP, ,JAP,bumpei-ueda
 uedama,Ueda,Masuya,Masuya Ueda,18/11/1982,JAP,Aichi,JAP,masuya-ueda
+uedata,Ueda,Takao,Takao Ueda,24/09/1983,JAP, ,JAP,takao-ueda
 uemuhi,Uemura,Hisashi,Hisashi Uemura, ,JAP, ,JAP,hisashi-uemura
+umedto,Umeda,Tomoyuki,Tomoyuki Umeda,05/08/1990,JAP, ,JAP,tomoyuki-umeda
 umemhi,Umemoto,Hiroyuki,Hiroyuki Umemoto, ,JAP, ,JAP,hiroyuki-umemoto
 vliejv,van Vliet,Jef L.F.,Jef L.F. van Vliet,25/07/1949,NED, ,NED,jef-van-vliet
 vollni,Vollquartz,Nicolai,Nicolai Vollquartz,07/02/1965,DEN, ,DEN,nicolai-vollquartz
@@ -304,15 +348,20 @@ yamah1,Yamaguchi,Hiroshi,Hiroshi Yamaguchi, ,JAP, ,JAP,hiroshi-yamaguchi
 yamah2,Yamanishi,Hirofumi,Hirofumi Yamanishi,22/06/1963,JAP, ,JAP,hirofumi-yamanishi
 yamah3,Yamaoka,Hiroaki,Hiroaki Yamaoka, ,JAP, ,JAP,hiroaki-yamaoka
 yamah4,Yamada,Hitoshi,Hitoshi Yamada, ,JAP, ,JAP,hitoshi-yamada
+yamah5,Yamauchi,Hiroshi,Hiroshi Yamauchi,05/01/1966,JAP, ,JAP,hiroshi-yamauchi
 yamahi,Yamauchi,Hiroshi,Hiroshi Yamauchi,05/01/1966,JAP, ,JAP,hiroshi-yamauchi_2
+yamam1,Yamamura,Masahiro,Masahiro Yamamura,13/06/1975,JAP, ,JAP,masahiro-yamamura
 yamama,Yamagiwa,Masashi,Masashi Yamagiwa,16/03/1980,JAP, ,JAP,masashi-yamagiwa
 yamamo,Yamaguchi,Morihisa,Morihisa Yamaguchi, ,JAP, ,JAP,morihisa-yamaguchi
 yamary,Yamaoka,Ryosuke,Ryosuke Yamaoka,30/04/1981,JAP, ,JAP,ryosuke-yamaoka
 yamash,Yamaguchi,Shigehisa,Shigehisa Yamaguchi, ,JAP, ,JAP,shigehisa-yamaguchi
 yamato,Yamashiro,Toru,Toru Yamashiro, ,JAP, ,JAP,toru-yamashiro
 yamaya,Yamazaki,Yasuhiko,Yasuhiko Yamazaki,24/06/1964,JAP, ,JAP,yasuhiko-yamazaki
+yamayo,Yamashita,Yoshimi,Yoshimi Yamashita,20/02/1986,JAP,Tokyo,JAP,yoshimi-yamashita
 yamayu,Yamamoto,Yudai,Yudai Yamamoto,04/03/1983,JAP, ,JAP,yudai-yamamoto
 yanaka,Yanagisawa,Kazuya,Kazuya Yanagisawa, ,JAP, ,JAP,kazuya-yanagisawa
+yanoko,Yano,Kohei,Kohei Yano, ,JAP, ,JAP,kohei-yano
 yasuto,Yasumoto,Toshimitsu,Toshimitsu Yasumoto,25/04/1965,JAP, ,JAP,toshimitsu-yasumoto
+yoshte,Yoshida,Tetsuro,Tetsuro Yoshida,25/10/1982,JAP, ,JAP,tetsuro-yoshida
 yoshto,Yoshida,Toshmitsu,Toshmitsu Yoshida,29/08/1963,JAP, ,JAP,toshmitsu-yoshida
 zzzzzz,Zzzz,Zz,Zz Zzzz,9999-12-31,ROM,Malu Spart,ROM,zz-zzzz

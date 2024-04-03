@@ -1,0 +1,12 @@
+#!/bin/bash
+
+readarray -t a
+
+n=${#a[@]}
+
+l1="${a[0]} ${a[1]}"
+l2="${a[2]} ${a[3]}"
+
+echo "${l1}| ${l2}" > ll
+
+cat ll

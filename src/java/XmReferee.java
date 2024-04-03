@@ -68,7 +68,7 @@ public class XmReferee {
       Element ei = info.get(i);
       String si = ei.childNode(0).toString();
       if (si.contains("Name in home country") || si.contains("Full name")) {
-        full = info.get(i+1).childNode(0).toString();
+        full = info.get(i+1).childNode(0).toString().replaceAll(",", "~");
       } else if (si.contains("Date of birth")) {
         Element edob = info.get(i+1);
         if (edob.childNodeSize() > 0) {
@@ -88,7 +88,7 @@ public class XmReferee {
         Element epob = info.get(i+1);
         Node npob = epob.childNode(0);
         if (npob != null) {
-          pob = npob.toString().trim();
+          pob = npob.toString().replaceAll(",", "-").trim();
         }
       }
     }

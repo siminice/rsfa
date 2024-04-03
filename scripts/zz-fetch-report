@@ -1,0 +1,22 @@
+#!/bin/bash
+export LC_ALL=C
+
+HOST="http://www.zerozero.pt"
+YEAR=$1
+REP=$2
+OFILE="tmp/${YEAR}/r/rep-${REP}"
+COOKIE=$(zz-get-cookie)
+
+URL="${HOST}/jogo.php"
+
+echo "Report ${REP}"
+if [ -s "${OFILE}.html" ]; then
+  echo "Exists."
+else
+  curl -s --cookie "${COOKIE}" -d id=${REP} "${URL}" > ${OFILE}.iso
+  grep game_report ${OFILE}.iso > ${OFILE}.tmp
+  iconv -f ISO-8859-1 -t UTF-8 ${OFILE}.tmp > ${OFILE}.html
+  rm -f ${OFILE}.iso
+  rm -f ${OFILE}.tmp
+  wc ${OFILE}.html
+fi

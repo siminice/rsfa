@@ -4,7 +4,7 @@ cherse,Chernik,Sergey,1988-07-20,BLR,1,16,P,24,24,0,0, 2138,23,0,-10,0,0,0,0,0
 chican,Chichkan,Anton,1995-07-10,BLR,1, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
 dubrka,Dubra,Kaspars,1990-12-20,LAT,1,4,F,9,9,0,0,  765,8,12,0,0,0,0,1,0
 dzhial,Dzhigero,Aleksandr,1996-04-15,BLR,1,49,M,1,0,1,0,   14,0,2,0,0,0,0,0,0
-gaydvi,Gayduchik,Vitaly,1989-07-12,BLR,1,3,F,3,3,0,0,  270,3,7,0,0,0,0,2,0
+gaydvi,Gayduchik,Vitaliy,1989-07-12,BLR,1,3,F,3,3,0,0,  270,3,7,0,0,0,0,2,0
 gordmi,Gordeychuk,Mikhail,1989-10-23,BLR,1,62,A,26,18,8,2, 1657,10,0,0,0,0,0,2,0
 hlebal,Hleb,Aliaksandr,1981-05-01,BLR,1, , ,4,3,1,0,  223,0,0,0,0,0,0,0,0
 jevtal,Jevtić,Aleksandar,1985-03-30,SRB,1, , ,7,3,4,1,  325,0,2,0,0,0,0,0,0
@@ -25,7 +25,7 @@ soroar,Soroko,Artem,1992-04-01,BLR,1,34,P,2,2,0,0,  180,2,24,-1,0,0,0,0,0
 stasih,Stasevich,Ihar,1985-10-21,BLR,1,22,M,22,20,2,5, 1716,12,0,0,0,0,0,5,0
 voloal,Volodjko,Aleksandr,1986-06-18,BLR,1,8,M,8,7,1,1,  544,4,2,0,0,0,0,0,0
 voloma,Volodko,Maksim,1992-11-10,BLR,1,42,F,18,13,5,2, 1132,8,6,0,0,0,0,1,0
-yablev,Yablonski,Evgeni,1995-05-10,BLR,1,5,M,20,16,4,0, 1477,13,4,0,0,0,0,3,0
+yablev,Yablonskiy,Evgeniy,1995-05-10,BLR,1,5,M,20,16,4,0, 1477,13,4,0,0,0,0,3,0
 zhavma,Zhavnerchik,Maksim,1985-02-09,BLR,1,15,F,13,13,0,0, 1170,13,1,0,0,0,0,0,0
 batyol,Batyshchev,Oleksandr,1991-09-14,UKR,7,9,M,24,24,0,0, 2154,23,0,0,0,0,0,3,0
 bobuar,Bobukh,Artem,1988-12-04,UKR,7,88,F,16,14,2,0, 1295,14,4,0,0,0,0,4,0
@@ -173,6 +173,33 @@ teslal,Teslyuk,Aleksey,1994-01-10,BLR,10,17,A,25,22,3,5, 1931,12,0,0,0,0,0,1,0
 troyig,Troyakov,Igor,1995-02-24,BLR,10,15,F,12,12,0,1, 1080,12,3,0,0,0,0,0,0
 yakhde,Yakhno,Denis,1992-11-20,BLR,10,17,M,6,1,5,0,  208,1,3,0,0,0,0,2,0
 yancal,Yanchenko,Aleksandr,1995-02-14,BLR,10,77,A,16,11,5,1,  894,0,0,0,0,0,0,3,0
+anyual,Anyukevich,Aleksandr,1992-04-10,BLR,13,14,F,18,18,0,0, 1556,15,1,0,-2,0,0,2,0
+bombar,Bombel,Artur,1992-12-14,BLR,13,29,M,19,14,5,3, 1266,6,7,0,0,2,0,2,0
+deniiv,Denisevich,Ivan,1984-11-09,BLR,13,9,M,4,3,1,0,  291,2,1,0,0,0,0,0,0
+edesal,Edeshko,Alexandr,1993-01-28,BLR,13,13,M,5,0,5,1,  225,0,3,0,0,0,0,2,0
+gorban,Gorbach,Andrey,1985-05-20,BLR,13,32,F,22,16,6,1, 1452,12,3,0,0,0,0,3,0
+khacan,Khachaturyan,Andrey,1987-09-02,BLR,13,7,M,7,6,1,0,  567,5,0,0,0,0,0,1,0
+kingpb,Kingue,Paul Bebey,1986-11-09,CMR,13,8,M,19,16,3,1, 1369,12,3,0,0,0,0,1,0
+kontar,Kontsevoy,Artem,1983-05-20,BLR,13, , ,12,12,0,3, 1040,9,0,0,0,0,0,2,0
+kovadm,Kovalenok,Dmitriy,1977-11-03,BLR,13,10,A,15,2,13,1,  330,1,11,0,0,0,0,0,0
+kovase,Kovalyuk,Sergey,1980-01-07,BLR,13,7,M,11,11,0,0,  757,0,0,0,0,0,0,1,0
+krivig,Krivobok,Igor,1978-07-27,UKR,13,77,A,6,4,2,1,  287,1,2,0,0,1,0,0,0
+kurgse,Kurganski,Sergey,1986-05-15,BLR,13,12,P,16,16,0,0, 1440,16,10,-12,0,0,0,1,0
+legcal,Legchilin,Aleksey,1992-04-11,BLR,13,46,M,26,26,0,2, 2233,20,0,0,0,0,0,0,0
+leshev,Leshko,Evgeni,1996-06-24,BLR,13,3,F,19,17,2,0, 1458,15,2,0,0,0,0,3,0
+lisiig,Lisitsa,Igor,1988-04-10,BLR,13,21,M,20,18,2,0, 1495,8,0,0,0,0,0,2,0
+lukaan,Lukashin,Anton,1995-02-21,BLR,13,15,M,0,0,0,0,    0,0,2,0,0,0,0,0,0
+noskal,Nosko,Aleksey,1996-08-15,BLR,13,23,M,8,5,3,0,  442,4,7,0,0,0,0,0,0
+poznal,Poznyak,Aleksandr,1994-07-23,BLR,13,12,M,23,23,0,0, 2070,23,0,0,0,0,0,8,0
+savipa,Savitskiy,Pavel,1994-07-12,BLR,13, , ,13,13,0,5, 1147,7,0,0,0,1,0,1,0
+savoev,Savostyanov,Evgeniy,1988-01-30,BLR,13, , ,11,11,0,0,  990,11,0,0,0,0,0,1,0
+senkya,Senkevich,Yan,1995-02-18,BLR,13,17,M,4,1,3,0,  107,0,16,0,0,0,0,0,0
+shtyan,Shtygel,Andrey,1994-06-22,BLR,13,18,M,3,0,3,0,   39,0,4,0,0,0,0,0,0
+sorota,Soro,Taïna,1981-12-20,CIV,13,34,M,13,13,0,1,  980,6,1,0,0,0,0,4,0
+sosnse,Sosnovskiy,Sergey,1981-08-14,BLR,13,4,F,25,25,0,0, 2250,25,0,0,0,0,0,4,0
+vasivl,Vasilyuchek,Vladislav,1994-03-28,BLR,13,99,P,10,10,0,0,  900,10,16,-20,0,0,0,0,0
+zabepa,Zabelin,Pavel,1995-06-30,BLR,13,30,M,21,5,16,0,  747,1,3,0,0,0,0,0,0
+zhurva,Zhurnevich,Vasili,1995-02-21,BLR,13,11,A,14,1,13,1,  316,0,11,0,0,0,0,0,0
 abraev,Abramovich,Evgeni,1995-09-17,BLR,4, , ,0,0,0,0,    0,0,2,0,0,0,0,0,0
 burkig,Burko,Igor,1988-09-08,BLR,4,5,F,21,20,1,2, 1766,19,1,0,0,0,0,1,0
 chelar,Chelyadinski,Artem,1977-12-29,BLR,4,2,F,14,14,0,0, 1260,14,10,0,0,0,0,0,0
@@ -184,7 +211,7 @@ hlebvy,Hleb,Vyatcheslav,1983-02-12,BLR,4,99,A,22,16,6,5, 1348,5,3,0,0,2,0,3,0
 kazavi,Kazantsev,Vitaliy,1981-06-04,RUS,4,24,F,9,7,2,0,  621,5,4,0,0,0,0,3,0
 khacan,Khachaturyan,Andrey,1987-09-02,BLR,4, , ,12,12,0,2, 1014,10,0,0,0,0,0,3,0
 kibuvi,Kibuk,Vitaliy,1989-01-07,BLR,4,20,A,15,4,11,2,  493,1,11,0,0,0,0,2,0
-kontar,Kontsevoj,Artem,1983-05-20,BLR,4,7,A,11,7,4,0,  559,0,3,0,0,0,0,1,0
+kontar,Kontsevoy,Artem,1983-05-20,BLR,4,7,A,11,7,4,0,  559,0,3,0,0,0,0,1,0
 krasal,Krasnov,Aleksandr,1998-02-14,BLR,4, , ,0,0,0,0,    0,0,3,0,0,0,0,0,0
 makaan,Makarov,Anatoli,1996-04-10,BLR,4, , ,0,0,0,0,    0,0,2,0,0,0,0,0,0
 maksol,Maksimov,Oleksandr,1985-02-13,UKR,4,17,M,13,11,2,2,  999,9,4,0,0,0,0,0,0
@@ -276,33 +303,6 @@ yakian,Yakimov,Andrey,1989-11-17,BLR,11,71,M,12,3,9,0,  436,2,2,0,0,0,0,2,0
 yurava,Yurasov,Valentin,1994-04-01,BLR,11,7,F,0,0,0,0,    0,0,8,0,0,0,0,0,0
 zhukva,Zhukovskiy,Valeriy,1984-05-21,BLR,11,11,M,24,23,1,4, 1861,9,0,0,0,0,0,3,0
 zyulig,Zyulev,Igor,1984-01-05,BLR,11,33,A,23,23,0,2, 2070,23,1,0,0,0,0,5,0
-anyual,Anyukevich,Aleksandr,1992-04-10,BLR,13,14,F,18,18,0,0, 1556,15,1,0,-2,0,0,2,0
-bombar,Bombel,Artur,1992-12-14,BLR,13,29,M,19,14,5,3, 1266,6,7,0,0,2,0,2,0
-deniiv,Denisevich,Ivan,1984-11-09,BLR,13,9,M,4,3,1,0,  291,2,1,0,0,0,0,0,0
-edesal,Edeshko,Alexandr,1993-01-28,BLR,13,13,M,5,0,5,1,  225,0,3,0,0,0,0,2,0
-gorban,Gorbach,Andrey,1985-05-20,BLR,13,32,F,22,16,6,1, 1452,12,3,0,0,0,0,3,0
-khacan,Khachaturyan,Andrey,1987-09-02,BLR,13,7,M,7,6,1,0,  567,5,0,0,0,0,0,1,0
-kingpb,Kingue,Paul Bebey,1986-11-09,CMR,13,8,M,19,16,3,1, 1369,12,3,0,0,0,0,1,0
-kontar,Kontsevoj,Artem,1983-05-20,BLR,13, , ,12,12,0,3, 1040,9,0,0,0,0,0,2,0
-kovadm,Kovalenok,Dmitriy,1977-11-03,BLR,13,10,A,15,2,13,1,  330,1,11,0,0,0,0,0,0
-kovase,Kovalyuk,Sergey,1980-01-07,BLR,13,7,M,11,11,0,0,  757,0,0,0,0,0,0,1,0
-krivig,Krivobok,Igor,1978-07-27,UKR,13,77,A,6,4,2,1,  287,1,2,0,0,1,0,0,0
-kurgse,Kurganski,Sergey,1986-05-15,BLR,13,12,P,16,16,0,0, 1440,16,10,-12,0,0,0,1,0
-legcal,Legchilin,Aleksey,1992-04-11,BLR,13,46,M,26,26,0,2, 2233,20,0,0,0,0,0,0,0
-leshev,Leshko,Evgeni,1996-06-24,BLR,13,3,F,19,17,2,0, 1458,15,2,0,0,0,0,3,0
-lisiig,Lisitsa,Igor,1988-04-10,BLR,13,21,M,20,18,2,0, 1495,8,0,0,0,0,0,2,0
-lukaan,Lukashin,Anton,1995-02-21,BLR,13,15,M,0,0,0,0,    0,0,2,0,0,0,0,0,0
-noskal,Nosko,Aleksey,1996-08-15,BLR,13,23,M,8,5,3,0,  442,4,7,0,0,0,0,0,0
-poznal,Poznyak,Alexandr,1994-07-23,BLR,13,12,M,23,23,0,0, 2070,23,0,0,0,0,0,8,0
-savipa,Savitskiy,Pavel,1994-07-12,BLR,13, , ,13,13,0,5, 1147,7,0,0,0,1,0,1,0
-savoev,Savostyanov,Evgeniy,1988-01-30,BLR,13, , ,11,11,0,0,  990,11,0,0,0,0,0,1,0
-senkya,Senkevich,Yan,1995-02-18,BLR,13,17,M,4,1,3,0,  107,0,16,0,0,0,0,0,0
-shtyan,Shtygel,Andrey,1994-06-22,BLR,13,18,M,3,0,3,0,   39,0,4,0,0,0,0,0,0
-sorota,Soro,Taïna,1981-12-20,CIV,13,34,M,13,13,0,1,  980,6,1,0,0,0,0,4,0
-sosnse,Sosnovskiy,Sergey,1981-08-14,BLR,13,4,F,25,25,0,0, 2250,25,0,0,0,0,0,4,0
-vasivl,Vasilyuchek,Vladislav,1994-03-28,BLR,13,99,P,10,10,0,0,  900,10,16,-20,0,0,0,0,0
-zabepa,Zabelin,Pavel,1995-06-30,BLR,13,30,M,21,5,16,0,  747,1,3,0,0,0,0,0,0
-zhurva,Zhurnevich,Vasili,1995-02-21,BLR,13,11,A,14,1,13,1,  316,0,11,0,0,0,0,0,0
 alisdm,Aliseyko,Dmitriy,1992-08-28,BLR,58,16,F,26,26,0,1, 2312,25,0,0,0,1,0,3,0
 bambya,Bamba,Yacouba,1991-11-30,CIV,58, , ,12,12,0,4,  990,8,0,0,0,0,0,2,0
 bobkig,Bobko,Igor,1985-09-09,BLR,58,23,M,26,25,1,2, 2141,15,0,0,0,0,0,1,0
@@ -316,7 +316,7 @@ grigvy,Grigorov,Vyacheslav,1982-03-08,BLR,58,29,M,8,6,2,0,  423,1,12,0,0,0,0,0,0
 kouako,Kouadja,Kouassi,1995-06-22,CIV,58, , ,12,12,0,0, 1008,10,0,0,0,0,0,1,0
 kurlva,Kurlovich,Vadim,1992-10-30,BLR,58, , ,9,1,8,0,  255,0,4,0,0,0,0,0,0
 leskar,Lesko,Artur,1984-04-25,BLR,58,27,P,20,20,0,0, 1800,20,1,-24,0,0,0,1,0
-levise,Levitski,Sergey,1990-05-27,BLR,58,6,M,18,3,15,3,  487,0,8,0,0,0,0,0,0
+levise,Levitskiy,Sergey,1990-05-27,BLR,58,6,M,18,3,15,3,  487,0,8,0,0,0,0,0,0
 loshye,Loshankov,Yevgeni,1979-01-02,BLR,58,10,M,19,15,4,0, 1316,10,4,0,0,0,0,1,0
 maravi,Marakhovskiy,Vitaliy,1988-01-14,RUS,58,15,F,8,6,2,1,  505,5,4,0,0,0,0,0,0
 milkva,Milko,Vadim,1986-08-22,UKR,58,4,M,24,23,1,1, 2137,21,1,0,0,0,0,5,0

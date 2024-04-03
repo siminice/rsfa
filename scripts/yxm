@@ -1,0 +1,31 @@
+#!/bin/bash
+
+rm -f tm
+nano tm
+
+cat tm | grep -v '^[–-] ' | grep -v "^\(.*/.*\)" | sed -e "s/ - / – /g" | sed -e 's/^\(.\+\)\. $/\1./g' | sed -e 's/^\(.\+\)\([-–]\)\(.\+\) \(.\+\)\.$/\1\2\3\n\4./g' | sed -e 's/^\([^ ]\+\)\.$/\1, /g' | sed -e 's/^\([^ ]\+ (.\+)\)\.$/\1, /g' | grep "," | grep -v "[0-9]:[0-9]" | grep -v ",[0-9][0-9]"> tm1
+
+joinxm tm1 > tm7
+
+readarray -t a < tm7
+
+n=${#a[@]}
+m=$(( $n/2 ))
+
+echo $m
+
+for ((i=0; i<$m; i++))
+do
+
+n0=$(( 2*$i + 0 ))
+n1=$(( 2*$i + 1 ))
+
+l1=$(echo "${a[${n0}]}" | sed -e 's/^\(..\) \-/\1 :/')
+l2=$(echo "${a[${n1}]}" | sed -e 's/^\(..\) \-/\1 :/')
+
+echo "${l1}| ${l2}" > ll
+
+cat ll
+echo "-------"
+
+done

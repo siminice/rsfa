@@ -1,4 +1,4 @@
-358
+397
 adamfo,Adamsson,Folke, ,SWE, ,SWE
 adamka,Adamek,Karl,1910-07-23,AUT, ,AUT
 ahlbca,Ahlberg,Carl, ,SWE, ,SWE
@@ -24,7 +24,9 @@ arvigu,Arvidsson,Gustav, ,SWE, ,SWE
 arvito,Arvidsson,Torbjörn,1968-05-06,SWE, ,SWE
 asbapo,Asbaghi,Poya,1985-07-17,SWE, ,SWE
 asketh,Askebrand,Thomas,1968-01-23,SWE,Åsa,SWE
+askojB,Askou,Jens Berthel,1982-08-19,DEN,Videbæk,DEN
 astldJ,Astley,David John,1909-10-11,WAL, ,WAL
+aubyje,Aubynn,Jeffrey,1977-05-12,SWE,Göteborg,SWE
 augujr,Augustsson,Jörgen,1952-10-28,SWE, ,SWE
 axbebo,Axberg,Bo,1950-04-25,SWE, ,SWE
 axenal,Axén,Alexander,1971-10-15,SWE,Örebro,SWE
@@ -35,6 +37,8 @@ baxtst,Baxter,Stuart,1953-08-16,SCO,Wolverhampton,ENG
 bcksda,Bäckström,Daniel,1987-12-22,SWE, ,SWE
 benggu,Bengtsson,Gunder,1946-02-02,SWE,Torsby,SWE
 bercri,Bercowics,Richard, ,AUT, ,AUT
+berghe,Berg,Henning,1969-09-01,NOR,Eidsvoll,NOR
+bergjo,Bergström,Johan,1988-03-18,SWE, ,SWE
 bergki,Bergstrand,Kim,1968-04-18,SWE,Täby,SWE
 bergna,Bergstrand,Nanne,1956-04-28,SWE,Markaryd,SWE
 bildpe,Bild,Per-Olof,1949-12-13,SWE, ,SWE
@@ -51,14 +55,18 @@ bollbj,Bolling,Björn, ,SWE, ,SWE
 bondva,Bondarenko,Valeri,1953-04-22,EST,Tallinn,EST
 bostsi,Boström,Sixten,1963-09-15,FIN,Helsingfors,FIN
 brjehe,Börjesson,Helge,1931-05-09,SWE, ,SWE
+brnnan,Brännström,Andreas,1976-05-10,SWE, ,SWE
 brodrY,Brodd,Rolf Yngve,1930-06-09,SWE, ,SWE
 burcia,Burchnall,Ian,1983-02-11,ENG,Leicester,ENG
 burnwF,Burnikell,William Frederick,1910-12-09,ENG, ,ENG
+calmxa,Calm,Xavi,1981-09-03,SPA,Castellar del Vallès,SPA
 carlja,Carlsson,Janne,1964-02-08,SWE, ,SWE
 carlnG,Carlsson,Nils Gustav Henry,1917-10-27,SWE, ,SWE
 cedejo,Cedergren,Joel,1974-07-22,SWE,Västerås,SWE
+cifuma,Cifuentes,Martí,1982-07-07,SPA,Sant Cugat del Vallès,SPA
 cinaot,Cinadler,Otto, ,AUT, ,AUT
 claeth,Claesson,Thure, ,SWE, ,SWE
+clarbr,Clarhaut,Brian,1986-04-11,USA, ,USA
 clotpe,Clotet,Pep,1977-04-28,SPA,Barcelona,SPA
 cratso,Cratz,Sören,1948-09-28,SWE,Finspång,SWE
 craweC,Crawford,Edmund Charles,1906-10-31,ENG, ,ENG
@@ -66,13 +74,16 @@ cronkj,Cronqvist,Kjell,1920-12-20,SWE, ,SWE
 czeila,Czeizler,Lajos,1893-10-05,HUN, ,HUN
 dahlha,Dahl,Harry,1902-06-25,SWE, ,SWE
 dahlsv,Dahlkvist,Sven,1955-05-30,SWE,Mockfjärd,SWE
+danifr,Danielsson,Fredrik,0000-00-00,SWE, ,SWE
 davito,Davidsson,Tommy,1952-09-09,SWE, ,SWE
 dempma,Dempsey,Mark,1964-01-14,ENG,Manchester,ENG
 dombot,Dombos,Otto, ,HUN, ,HUN
 durnaD,Durán,Antonio Durán,1924-08-19,SPA, ,SPA
 eklffr,Eklöf,Fred,1922-06-15,SWE, ,SWE
 ekluha,Eklund,Hans,1969-04-16,SWE,Mönsterås,SWE
+ekstst,Ekstrand,Stefan,1970-07-27,SWE, ,SWE
 ellijE,Elliott,James Edward,1891-01-01,ENG, ,ENG
+engean,Engelmark,Andreas,1984-01-19,SWE, ,SWE
 engeol,Engelbrektsson,Olof,1960-04-26,SWE, ,SWE
 englpa,Englund,Patrick,1965-12-28,SWE,Uppsala,SWE
 ericol,Ericsson,Olle,1928-10-25,SWE, ,SWE
@@ -95,7 +106,9 @@ fredta,Fredheim,Tor-Arne,1962-11-05,SWE,Hallstahammar,SWE
 friskj,Frisk,Kjell,1964-04-27,SWE, ,SWE
 gabrth,Gabrielsson,Thomas,1981-01-09,SWE,Genève,SUI
 gazivt,Gazimba,Vítor,1987-10-01,POR, ,POR
+georan,Georgson,Andreas,1985-09-02,SWE, ,SWE
 gerhpe,Gerhardsson,Peter,1959-08-22,SWE,Uppsala,SWE
+goithe,Goitom,Henok,1984-09-22,ERI,Husby,SWE
 grahkV,Grahn,Karl-Erik Vilhelm,1914-11-05,SWE, ,SWE
 granco,Granqvist,Conny,1947-03-30,SWE, ,SWE
 grenjG,Gren,Johan Gunnar,1920-10-31,SWE, ,SWE
@@ -122,10 +135,14 @@ hanspj,Hansen,Per Joar,1965-08-17,NOR,Namsos,NOR
 hansro,Hansen,Roar,1966-02-28,SWE, ,SWE
 hareag,Hareide,Åge,1953-09-23,NOR,Ulsteinvik,NOR
 hednlA,Hedén,Lars Allan,1934-09-04,SWE, ,SWE
+hellki,Hellberg,Kim,1988-02-01,SWE,Norrköping,SWE
+hellst,Hellberg,Stefan,1955-11-20,SWE, ,SWE
 hjeler,Hjelm,Erik,1893-05-22,SWE, ,SWE
 hlunth,Åhlund,Thom,1953-02-17,SWE, ,SWE
+hnsthe,Åhnstrand,Henrik,1979-07-29,SWE,Nyköping,SWE
 hodgro,Hodgson,Roy,1947-08-09,ENG, ,ENG
 hoegpm,Høgmo,Per-Mathias,1959-12-01,NOR,Gratangen,NOR
+holman,Holmberg,Andreas,1984-08-17,SWE, ,SWE
 holmgl,Holm,Glenn,1955-09-24,SWE,Landskrona,SWE
 holmja,Holmberg,Jan, ,SWE, ,SWE
 holmkn,Holmgren,Knut, ,SWE, ,SWE
@@ -139,6 +156,7 @@ ingekl,Ingesson,Klas,1968-08-20,SWE,Ödeshög,SWE
 jacola,Jacobsson,Lars,1960-12-10,SWE,Jönköping,SWE
 janman,Janmyr,Andreas,1981-12-06,SWE, ,SWE
 jeglan,Jeglertz,Andrée,1973-02-14,SWE,Malmö,SWE
+jenshe,Jensen,Henrik,1985-01-11,DEN, ,DEN
 jensvi,Jensen,Viggo,1947-09-15,DEN, ,DEN
 jingma,Jingblad,Mats,1958-08-09,SWE,Halmstad,SWE
 jnsske,Jönsson,Åke,1925-06-26,SWE, ,SWE
@@ -190,21 +208,26 @@ lindfr,Lindfors,Fritz,1895-04-07,SWE, ,SWE
 lindgs,Lindh,Gösta,1924-02-08,SWE, ,SWE
 lindja,Lindstedt,Jan,1957-04-18,SWE, ,SWE
 lindje,Lindblom,Jens,1935-05-15,SWE, ,SWE
+lindma,Lindström,Mattias,1980-04-18,SWE,Helsingborg,SWE
 lindtG,Lindberg,Torsten Gustav Adolf,1917-04-14,SWE, ,SWE
 lindto,Lindholm,Tommy,1947-02-03,FIN, ,FIN
 lindvi,Lindberg,Vigor,1899-04-26,SWE, ,SWE
 ljunpo,Ljung,Per-Ola,1967-11-07,SWE, ,SWE
+lrinbe,Lőrincz,Ábel,1988-10-04,HUN, ,HUN
 lugevi,Luger,Vilem,1911-06-28, , , 
 lukizo,Lukić,Zoran,1956-11-27,BOS,Kiseljak,BOS
 lundch,Lundström,Christian,1977-03-31,SWE, ,SWE
 lundha,Lundahl,Harry,1905-10-16,SWE, ,SWE
 lundst,Lundin,Stefan,1955-05-07,SWE,Korskrogen,SWE
 lundth,Lundin,Thomas,1961-04-13,SWE, ,SWE
+magyri,Magyar,Richárd,1991-05-03,SWE,Malmö,SWE
 mahojo,Mahon,John,1911-12-08,ENG, ,ENG
 makxja,Mak,Jan,1945-06-21,NED, ,NED
 malble,Malberg,Leif,1945-09-01,SWE, ,SWE
 martgu,Martinsson,Gustaf, ,SWE, ,SWE
 martrj,Martinsson,Örjan,1936-11-01,SWE, ,SWE
+matsbe,Matsson,Benny,1978-08-05,SWE, ,SWE
+mattch,Mattiasson,Christer,1971-07-22,SWE,Borås,SWE
 mattja,Mattsson,Jan,1951-04-17,SWE, ,SWE
 mattlo,Mattsson,Lars-Olof,1954-11-13,SWE,Köla,SWE
 melkoe,Melkemichel,Özcan,1968-02-21,SWE, ,SWE
@@ -222,6 +245,7 @@ molnfr,Molnar,Fritz, ,HUN, ,HUN
 moneri,Money,Richard,1955-10-13,ENG,Lowestoft,ENG
 morajo,Morais,José,1965-07-27,ANG,Golungo Alto,ANG
 morrda,Morris,Dave,1897-11-25,ENG, ,ENG
+mravan,Mravac,Anes,1989-07-17,SWE,Malmö,SWE
 nagyjz,Nagy,József,1892-10-15,HUN, ,HUN
 nejeka,Nejeschleba,Karl, ,AUT, ,AUT
 nichjo,Nicholson,John, ,ENG, ,ENG
@@ -255,8 +279,10 @@ olssmi,Olsson,Mikael,1957-11-22,SWE, ,SWE
 olssoV,Olsson,Olavus Valdemar,1939-04-08,SWE, ,SWE
 olssp1,Olsson,Per,1968-08-25,SWE,Visby,SWE
 olsspe,Olsson,Pelle,1963-08-01,SWE,Skutskär,SWE
+olssth,Olsson,Theodor,1996-09-20,SWE, ,SWE
 oscaur,Oscarsson,Urban,1961-09-29,SWE, ,SWE
 ottole,Ottordal,Lennart,0000-00-00,SWE, ,SWE
+oyarlu,Oyarzo,Luis,0000-00-00,SPA, ,SPA
 pannka,Pannagl,Karl, ,AUT, ,AUT
 pehrma,Pehrsson,Magnus,1976-05-25,SWE, ,SWE
 persbe,Persson,Bengt, ,SWE, ,SWE
@@ -269,6 +295,7 @@ pettjA,Pettersson,John Albin,1896-09-11,SWE, ,SWE
 pettkj,Pettersson,Kjell,1947-07-23,SWE, ,SWE
 peytge,Peyton,Gerry,1956-05-20,IRL,Birmingham,ENG
 pimelu,Pimenta,Luis,1981-09-05,POR,Lisboa,POR
+pioliv,Piñol,Ivan,1982-02-12,SPA,El Vendrell,SPA
 pottgr,Potter,Graham,1975-05-20,ENG,Solihull,ENG
 prahto,Prahl,Tom,1949-01-15,SWE,Smedstorp,SWE
 probwa,Probst,Walter,1918-04-17,AUT, ,AUT
@@ -280,6 +307,7 @@ remnst,Remnér,Stefan,1971-08-01,SWE, ,SWE
 reynre,Reynierse,Remy,1961-06-18,NED,Rhenen,NED
 richgi,Richmond,Gilbert,1909-04-02,ENG, ,ENG
 richri,Richardsson,Richard,1979-04-12,SWE, ,SWE
+riddgl,Riddersholm,Glen,1972-04-24,DEN,Esbjerg,DEN
 roblju,Robledo,Juan,1979-08-21,CHI,Santiago de Chile,CHI
 roesuw,Rösler,Uwe,1968-11-15,GER,Altenburg,GER
 rosnke,Rosén,Kenneth,1949-05-27,SWE, ,SWE
@@ -293,16 +321,20 @@ sandgs,Sandberg,Gösta,1932-08-06,SWE, ,SWE
 sandjo,Sandahl,Johan,1979-02-20,SWE, ,SWE
 sandni,Sandell,Nils-Åke,1927-02-05,SWE, ,SWE
 sandro,Sandberg,Roger,1972-06-12,SWE,Luleå,SWE
+santal,Santos,Alvaro,1980-01-30,BRA,São Paulo,BRA
 sarwax,Sarwe,Axel,1895-03-22,SWE, ,SWE
 schrul,Schramm,Ulf,1936-11-12,SWE, ,SWE
 sderkL,Söderberg,Kurt Lennart,1941-07-07,SWE, ,SWE
 sdertR,Söderberg,Tommy Roland,1948-08-19,SWE, ,SWE
+selida,Selini,David,1994-02-20,SWE, ,SWE
 sibife,Sibila,Ferran,1988-07-13,SPA,Gironella,SPA
 simotK,Simonsson,Tore Klas Agne,1935-10-19,SWE, ,SWE
 simova,Simon,Vaclav,1896-06-30, , , 
 sirmsa,Širmelis,Saulius,1956-05-31,LIT,Biržai,LIT
 skepei,Skeppstedt,Einar, ,SWE, ,SWE
+skogma,Skogman,Martin,1977-05-12,SWE, ,SWE
 skoljo,Skolaut,Johan, ,SWE, ,SWE
+skyljD,Skyllkvist,Jonas De Abreu,0000-00-00,SWE, ,SWE
 sladhC,Slade,Howard Charles,1891-01-29,ENG, ,ENG
 slunsa,Åslund,Sanny,1952-08-29,SWE, ,SWE
 solbto,Solberg,Tobias,1981-05-17,SWE, ,SWE
@@ -310,7 +342,10 @@ sooxfr,Soo,Frank,1914-03-12,ENG, ,ENG
 spurkM,Spurgeon,Keith Matthew,1932-08-29,ENG, ,ENG
 srenfW,Sørensen,Finn Willy,1941-05-09,DEN, ,DEN
 stahmi,Stahre,Mikael,1975-07-05,SWE,Stockholm,SWE
+stamke,Stamatopoulos,Kenny,1979-08-28,CAN,Kalamata,GRE
+stegjo,Steglander,Johan,0000-00-00,SWE, ,SWE
 stilgi,Stille,Giles,1958-11-10,ENG, ,ENG
+stilha,Stiller,Hannes,1978-07-03,SWE,Göteborg,SWE
 stjrle,Stjärnström,Leif, ,SWE, ,SWE
 storto,Storm,Torben,1946-09-13,DEN,Nykøbing Falster,DEN
 stroba,Strömberg,Bengt-Arne,1954-02-13,SWE, ,SWE
@@ -328,18 +363,22 @@ thelji,Thelin,Jimmy,1978-03-14,SWE, ,SWE
 therjo,Thern,Jonas,1967-03-20,SWE,Falköping,SWE
 thijfr,Thijssen,Frans,1952-01-23,NED,Malden,NED
 thoman,Thomsson,Andreas,1971-05-27,SWE,Kalmar,SWE
+thudth,Thudin,Thomas,1973-07-30,SWE, ,SWE
 toalco,Toal,Colin,0000-00-00,SWE, ,SWE
 tomajD,Tomasson,Jon Dahl,1976-08-29,DEN,København,DEN
 torsan,Torstensson,Anders,0000-00-00,SWE, ,SWE
+trajni,Trajković,Nikola,1981-01-05,SRB,Beograd,SRB
 tureto,Turesson,Tom,1942-05-17,SWE, ,SWE
 turnhG,Turner,Herbert Gwyn,1909-06-19,WAL, ,WAL
 uhridu,Uhrin,Dušan,1943-02-05,CZE,Nová Ves nad Žitavou,SVK
 valeaz,Valentić,Azrudin,1970-07-21,BOS,Sarajevo,BOS
 varsvi,Varszegi,Vilmos,1922-05-25,HUN, ,HUN
+vuieve,Vučićević,Vedran,1981-05-11,SWE, ,SWE
 walkpa,Walker,Patrick,1959-12-20,IRL,Dublin,IRL
 wampis,Wampetits,Istvan,1903-05-03,HUN, ,HUN
 wassla,Wass,Lars,1942-02-08,SWE, ,SWE
 wassle,Wass,Lennart,1953-01-04,SWE,Stockholm,SWE
+wennpe,Wennberg,Peter,1975-12-04,SWE, ,SWE
 wessbj,Wesström,Björn,1972-09-11,SWE, ,SWE
 westal,Westerberg,Alf,1960-11-15,SWE, ,SWE
 westbj,Westerberg,Björn,1945-02-10,SWE, ,SWE

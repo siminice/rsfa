@@ -1,0 +1,23 @@
+#!/bin/bash
+
+readarray -t a < swx.in
+
+n=${#a[@]}
+
+echo $n
+
+l1="H: "
+l2="A: "
+
+for ((j=0; j<11; j++))
+do
+  k1=$((j))
+  k2=$((j+12))
+  l1="${l1}${a[${k1}]}, "
+  l2="${l2}${a[${k2}]}, "
+done
+
+echo ${l1} > ll
+echo ${l2} >> ll
+
+cat ll

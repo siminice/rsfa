@@ -1,0 +1,9 @@
+#!/bin/bash
+
+YEAR=$1
+
+for f in tmp/${YEAR}/r/rep-*.html
+do
+  echo $f
+  zz-extract-report ${YEAR} $f > $f.out
+done

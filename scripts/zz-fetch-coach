@@ -1,0 +1,23 @@
+#!/bin/bash
+export LC_ALL=C
+
+HOST="http://www.zerozero.pt"
+PID=$1
+OFILE="p/co-${PID}"
+COOKIE=$(zz-get-cookie)
+
+URL="${HOST}/coach.php"
+
+echo "Coach ${PID}"
+if [ -s "${OFILE}.html" ]; then
+  echo "Exists."
+else
+  echo "Fetching ${URL}?id=${PID}"
+#  curl -s --cookie "${COOKIE}" -d id=${PID} "${URL}" --retry 3 --retry-delay 0 --max-time 15 > ${OFILE}.iso
+  curl -s --cookie "${COOKIE}" "${URL}?id=${PID}" > ${OFILE}.iso
+  iconv -f ISO-8859-1 -t UTF-8 ${OFILE}.iso > ${OFILE}.utf
+  grep factsheet ${OFILE}.utf > ${OFILE}.html
+  grep DADOS ${OFILE}.utf >> ${OFILE}.html
+  rm -f ${OFILE}.iso
+  rm -f ${OFILE}.utf
+fi

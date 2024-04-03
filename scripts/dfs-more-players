@@ -1,0 +1,34 @@
+#!/bin/bash
+
+LID=$1
+SSID=$2
+YEAR=$3
+
+while read line
+do
+#POL
+#1000,87,100000000,100000048,F,F,T, , , ,
+#SUI
+#LigaID,SaisonLfdNr,MsID,SpielerID,IsTrainer,IsTorwart,IsSpieler,Rueckennummer,SpielerPosition,Notiz,ToDo
+#540,2,1600128,1619825,F,T,F, , , ,
+  PID=$(echo "${line}" | cut -d ',' -f 4)
+  COA=$(echo "${line}" | cut -d ',' -f 5)
+  if [ "$COA" = "F" ]; then
+    PL=$(dfs-get-player ${PID})
+    LN=$(echo ${PL} | cut -d ',' -f 2)
+    PN=$(echo ${PL} | cut -d ',' -f 3)
+    FN=$(echo ${PL} | cut -d ',' -f 4 | cut -d '(' -f 1)
+    DB=$(echo ${PL} | cut -d ',' -f 6 | cut -d ' ' -f 1)
+    if [ -z "${DB}" ]; then DB=' '; fi
+#POL,ENG
+#    CI=$(echo ${PL} | cut -d ',' -f 9)
+#SUI
+    CI=$(echo ${PL} | cut -d ',' -f 9)
+#    PB=$(echo ${PL} | cut -d ',' -f 8)
+#    if [ -z "${PB}" ]; then PB=' '; fi
+    PB=' '
+    CT=$(dfs-get-ctty "${CI}")
+    echo "${PID},${FN},${FN},${DB},${CT},${PB},${CT}"
+#4313,Miloslav Kukla,Miloslav Kukla,1946-11-29,CZE, ,CZE
+  fi
+done < missing-pids

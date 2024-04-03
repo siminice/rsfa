@@ -1,0 +1,15 @@
+#!/bin/bash
+
+Y=${1:-2021}
+
+cd /home/radu/lineups
+
+rm -f catalogs/catalog-$Y.dat
+
+for f in seasons/$Y/*.dat
+do
+  cat $f >> catalogs/catalog-$Y.dat
+done
+
+cp catalogs/catalog-$Y.dat catalogs/ncatalog-$Y.dat
+cp catalogs/catalog-$Y.dat catalogs/euro-$Y.dat

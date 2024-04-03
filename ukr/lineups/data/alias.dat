@@ -6,10 +6,10 @@
 1800 Karpatî Lvov~Lvov
 1800 Tavria Simferopol~Tavria
 1800 Krivbas Krivoi Roh~Krivbas
-1800 Metalist Harkov~Harkov
+1800 Metalist Harkov~Harkov*2017 FC Metal Harkov~Metal*2022 FK Metalist Harkov~Metalist
 1800 Prometei Şahtarsk~Şahtarsk*1994 Medita Şahtarsk~Şahtarsk*1996 Şahtar Şahtarsk~Şahtarsk*1996 Metalurg Doneţk~Met. Doneţk
 1800 Niva Ternopol~Niva Ternopol
-1800 Zirka Kirovograd~Zirka*2017 Zirka Kropivniţki~Zirka
+1800 Zirka Kirovograd~Zirka*1994 Zirka-NIBAS Kirovograd~Zirka*1999 Zvezda Kirovograd~Zvezda*1999 Zirka Kirovograd~Zirka*2017 Zirka Kropivniţki~Zirka
 1945 ŢSKA-Borsifen Kiev~ŢSKA Kiev*2002 Arsenal Kiev~Arsenal
 1800 Prikarpatia Ivano-Frankovsk~Prikarpatia*2004 Fakel Ivano-Frankovsk~Fakel*2008 Prikarpatia Ivano-Frankovsk~Prikarpatia
 1800 Torpedo Zaporojie~Torpedo Zap
@@ -39,7 +39,7 @@
 1800 Bucovina Cernăuţi~Bucovina
 1800 FK Kaluş~Kaluş*2002 Lukor Kaluş~Kaluş*2004 Spartak Ivano-Frankovsk~Spartak I-F
 1800 Desna Cernihov~Desna
-1800 Dnipro Cerkassî~Cerkassî*1997 FK Cerkassî~Cerkassî*2005 Dnipro Cerkassî~Cerkassî*2012 Slavutîci Cerkassî~Cerkassî*2015 Cerkasskii Dnipro~Cerkassî*2019 Cerkascina Akademia~Cerkassî
+1800 Dnipro Cerkasî~Cerkasî*1997 FK Cerkasî~Cerkasî*2005 Dnipro Cerkasî~Cerkasî
 1800 Energetik Burştîn~Burştîn
 1800 Avtomobilist Sumî~Sumî*1994 FK Sumî~Sumî*1996 Agrotehservis Sumî~Sumî*2000 Iavor Sumî~Sumî*2002 FK Sumî~Sumî*2003 Spartak Sumî~Sumî*2011 FK Sumî~Sumî
 1800 Skala Strii~Strii*2000 Gazovik Skala Strii~Strii
@@ -59,7 +59,7 @@
 1800 Temp Şepetovka~Şepetovka
 1800 Veres Rovno~Veres Rovno
 1800 SK Odessa~SK Odessa*2013 SKA Odessa~SKA Odessa
-1800 Priborist Mukaciovo~Mukaciovo*1994 Karpatî Mukaciovo~Mukaciovo
+1800 Priborist Mukaciovo~Mukaciovo*1994 Karpatî Mukaciovo~Mukaciovo*2022 MFA Munkács Mukaciovo~Mukaciovo
 1800 Kristal Ceortkov~Ceortkov
 1800 Galiţîna Drogobîci~Drogobîci
 1800 Cernomoreţ II Odessa~Odessa II
@@ -87,7 +87,7 @@
 1800 Iednist Pliski~Pliski
 1800 FK Morşîn~Morshyn*2010 Skala Morşîn~Morşîn*2012 Skala Strii~Skala
 1800 Olimpik Doneţk~Olimpik
-1800 Şahtior Sverdlovsk~Sverdlovsk
+1800 Şahtior Sverdlovsk~Sverdlovsk*2016 Şahtior Dovjansk~Dovjansk
 1800 Torpedo Melitopol~Melitopol*2000 OLKOM Melitopol~Melitopol
 1800 Gornik Krivoi Rog~Gornik KR
 1800 Gornik Sport Komsomolsk~Komsomolsk*2016 FK Gornik-Sport Gorişni Plavni~Gorişni Plavni
@@ -144,7 +144,7 @@
 1800 Maşînobudvinik Drujkivka~Drujkivka
 1800 Prikarpatia Ivano-Frankovsk II~Prikarpatia II
 1800 Gazovik Komarno~Komarno
-1800 FK Cerkassî II~Cerkassî II
+1800 FK Cerkasî II~Cerkasî II
 1800 SDIuŞOR Metalurg Zaporojie~SDIuŞOR
 1800 Niva Vinniţa~Nyva Vinnitsa
 1800 Viktor Zaporojie~Viktor
@@ -156,7 +156,7 @@
 1800 Garai Jovkva~Jovkva
 1800 Fortuna Şargorod~Şargorod
 1800 Dinamo Odessa~Dinamo Odessa*1999 Dinamo SKA Odessa~Dinamo Odessa
-1800 VVS Kramatorsk~Kramatorsk*2012 Avangard Kramatorsk~Kramatorsk
+1800 VVS Kramatorsk~Kramatorsk*2012 Avangard Kramatorsk~Kramatorsk*2022 FK Kramatorsk~Kramatorsk
 1800 Metalurg Novomoskovsk~Novomoskovsk
 1800 Berkut Bedevlia~Bedevlia
 1800 Hutrovik Ţîmeniţia~Ţîmeniţia*2000 FK Ţîmeniţia~Ţîmeniţia
@@ -210,7 +210,7 @@
 1800 Tavria Novotroitske~Novotroitske
 1800 Sula Lubni~Lubni
 1800 Lada Cernăuţi~Lada
-1800 Andezit Khust~Khust*1993 Fetrovik Khust~Khust
+1800 Andezit Khust~Khust*1993 Fetrovik Khust~Khust*2023 FK Khust~Khust
 1800 Dnister Zalişciki~Zalişciki
 1800 Silur Kharţîzk~Kharţîzk*2000 FK Kharţîzk~Kharţîzk
 1800 Promin Volia Baraneţka~Baraneţka*1994 Promin Sambor~Sambor*2000 FK Sambor~Sambor
@@ -220,4 +220,27 @@
 1800 Olimpik Harkov~Olimpik Harkov
 1800 Lîsonia Berejanîi~Berejanîi
 1800 More Feodosia~Feodosia
-1800 Antraţît Kirovske~Kirovske
+1800 Antraţît Kirovske~Kirovske*2016 FK Obuhivka~Obuhivka
+1800 Hodak Cerkasî~Cerkasî*2012 Slavutîci Cerkasî~Cerkasî*2015 Cerkasskii Dnipro~Cerkasî*2019 Cerkaşcina Akademia Biloziria~Cerkasî*2020 FK Cerkaşcina Cerkasî~Cerkaşcina
+1800 FK Epiţentr Dunaivţî~Epiţentr
+1800 FK Karpatî Halîci~Halîci
+1800 FK Cernihov~Cernihov
+1800 FK Rubikon Kiev~Rubikon
+1800 FK Iarud Mariupol~Iarud*2023 FSC Mariupol~Mariupol
+1800 FK Volîn II Luţsk~Volîn II
+1800 FK Peremoga Dnipro~Peremoga
+1800 FK Metalist 1925 Harkov~Harkov
+1800 FK Livîi Bereg Kiev~Livîi Bereg
+1800 AFSK Kiev~AFSK
+1800 FK Liubomir Stavîşce~Stavîşce
+1800 LNZ Cerkasî~LNZ Cerkasî
+1800 FK Vovceansk~Vovceansk
+1800 FK Skoruk Tomakevka~Tomakevka
+1800 FK Trosteianeţ~Trostianeţ
+1800 FK Viktoria Mikolaivka~Mikolaivka
+1800 SK Poltava~SK Poltava
+1800 FK Kremen II Kremenciug~Kremen II
+1800 FK Nyva Buzova~Buzova
+1800 FK Polessia Jîtomir II~Polessia II
+1800 VAST Mykolaiv~VAST
+1800 FK Zviahel Novohrad-Volînski~Zviahel

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+Y=2023
+
+addevents db/cup-lineups-${Y}.db db/cup-events-${Y}.db $1

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+LC_ALL=C sort global-catalog.dat.dat > global-catalog.sort
+mv -f global-catalog.dat global-catalog.old
+mv global-catalog.sort global-catalog.dat
+wc global-catalog.dat

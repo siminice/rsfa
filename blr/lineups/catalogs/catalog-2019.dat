@@ -4,7 +4,7 @@ chyzal,Aleksandr,Chyzh,1997-02-10,BLR,0,2,F,0,0,0,0,aleksandr-chyzh
 dyakvi,Vitaliy,Dyakov,1989-01-31,RUS,0,5,F,0,0,0,0,vitaliy-dyakov
 gavral,Aleksey,Gavrilovich,1990-01-05,BLR,0,25,F,0,0,0,0,aleksey-gavrilovich
 khalni,Nikita,Khalimonchik,2000-01-03,BLR,0,22,F,0,0,0,0,nikita-khalimonchik
-lyakvl,Vladislav,Lyakh,1999-03-18,BLR,0,19,F,0,0,0,0,vladislav-lyakh
+liakvl,Vladislav,Lyakh,1999-03-18,BLR,0,19,F,0,0,0,0,vladislav-lyakh
 shitig,Igor,Shitov,1986-10-24,BLR,0,4,F,0,0,0,0,igor-shitov
 shvema,Maksim,Shvetsov,1998-04-02,BLR,0,3,F,0,0,0,0,maksim-shvetsov
 tigige,Georgi,Tigiev,1995-05-26,RUS,0,15,F,0,0,0,0,georgi-tigiev
@@ -12,7 +12,7 @@ zalean,Andrei,Zaleskiy,1991-01-20,BLR,0,13,F,0,0,0,0,andrei-zaleskiy
 bilodm,Dmytro,Bilonoh,1995-05-26,UKR,0,20,M,0,0,0,0,dmytro-bilonoh
 chocal,Alan,Chochiev,1991-09-07,RUS,0,9,M,0,0,0,0,alan-chochiev
 daniri, ,Danilo,1990-01-13,BEL,0,10,M,0,0,0,0,danilo_11
-demcni,Nikita,Demchenko,2001-09-06,BLR,0,24,M,0,0,0,0,nikita-demchenko
+demcn1,Nikita,Demchenko,2001-09-06,BLR,0,24,M,0,0,0,0,nikita-demchenko
 gavaen,Enis,Gavazaj,1995-03-21,ALB,0,11,M,0,0,0,0,enis-gavazaj
 ivanni,Nikolai,Ivanov,2000-01-02,BLR,0,44,M,0,0,0,0,nikolai-ivanov
 kaplni,Nikita,Kaplenko,1995-09-18,BLR,0,8,M,0,0,0,0,nikita-kaplenko
@@ -153,7 +153,7 @@ sovpva,Vasili,Sovpel,1999-03-23,BLR,15,23,M,0,0,0,0,vasili-sovpel
 sviral,Aliaksandr,Svirepa,1999-08-24,BLR,15,15,M,0,0,0,0,aliaksandr-svirepa
 twehda,David,Tweh,1998-12-25,LBR,15,22,M,0,0,0,0,david-tweh
 vasiv1,Vladislav,Vasiliev,1997-04-10,KAZ,15,10,M,0,0,0,0,vladislav-vasiliev
-diazwi,Wictor,Diaz,2000-08-23,BRA,15,20,M,0,0,0,0,wictor-diaz
+diazvi,Wictor,Diaz,2000-08-23,BRA,15,20,M,0,0,0,0,wictor-diaz
 yaskde,Denis,Yaskovich,1995-08-30,BLR,15,8,M,0,0,0,0,denis-yaskovich
 dzhuat,Atay,Dzhumashev,1998-09-15,KGZ,15,14,A,0,0,0,0,atay-dzhumashev
 khardm,Dmitri,Kharnavtsov,1997-07-12,BLR,15,14,A,0,0,0,0,dmitri-kharnavtsov
@@ -522,7 +522,7 @@ feshma,Maksim,Feshchuk,1985-11-25,UKR,8,18,A,0,0,0,0,maksim-feshchuk
 matvan,Anton,Matveenko,1986-09-03,BLR,8,11,A,0,0,0,0,anton-matveenko
 nuriil,Ilmir,Nurisov,1996-08-05,RUS,8,90,A,0,0,0,0,ilmir-nurisov
 teveru,Ruslan,Teverov,1994-05-01,BLR,8,9,A,0,0,0,0,ruslan-teverov
-caridi, ,Carioca,1998-02-06,BRA,8, , ,0,0,0,0,carioca_4
+carid5, ,Carioca,1998-02-06,BRA,8, , ,0,0,0,0,carioca_4
 gurear,Artem,Gurenko,1994-06-18,BLR,8, , ,0,0,0,0,artem-gurenko
 prudal,Aleksandr,Prudnikov,1989-02-26,RUS,8, , ,0,0,0,0,aleksandr-prudnikov
 basani,Nika,Basariya,1999-09-21,BLR,8, , ,0,0,0,0,nika-basariya

@@ -68,7 +68,7 @@ public class XmCoach {
             Element ed = ei.selectFirst("td");
             String si = eh.childNode(0).toString().trim();
             if (si.contains("Name in Home Country") || si.contains("Full name")) {
-                full = ed.childNode(0).toString().trim();
+                full = ed.childNode(0).toString().trim().replaceAll(",", "~");
             } else if (si.contains("Date of birth")) {
                 if (ed.childNodeSize() > 0) {
                     Node ndob = ed.childNode(0);
@@ -86,7 +86,7 @@ public class XmCoach {
                 Node npob = ed.selectFirst("[title]");
                 if (npob != null) {
                     Node nplace = npob.previousSibling();
-                    pob = nplace.toString().replaceAll("&nbsp;", "").trim();
+                    pob = nplace.toString().replaceAll("&nbsp;", "").replaceAll(",", "-").trim();
                     String scob = npob.attr("title");
                     cob = codes.values().contains(scob) ? scob : codes.getOrDefault(scob, " ");
                 }
