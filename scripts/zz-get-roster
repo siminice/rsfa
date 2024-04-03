@@ -1,0 +1,16 @@
+#!/bin/bash
+
+YEAR=$1
+TID=$2
+
+rm -f tmp/${YEAR}/t${TID}.in
+while read line
+do
+  POS=$(echo ${line} | cut -d ',' -f 1)
+  if [ "${POS}" == "C" ]; then
+    POS="C"
+  else
+    PID=$(echo ${line} | cut -d ',' -f 3)
+    zz-extract-player p/pl-${PID}.html >> tmp/${YEAR}/t${TID}.in
+  fi
+done < tmp/${YEAR}/t${TID}.links

@@ -1,0 +1,12 @@
+#!/bin/bash
+
+YEAR=$1
+
+echo '------------------------'
+echo 'Referees...'
+echo '------------------------'
+
+cat tmp/${YEAR}/matches.dat | cut -d ',' -f 15 | sort | uniq > tmp/${YEAR}/referees.dat
+dfs-extract-referees ${YEAR} | tee tmp/${YEAR}/referees.in
+
+echo '------------------------'

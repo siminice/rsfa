@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd catalogs
+LC_ALL=C sort cplayers.dat > cplayers.sort
+mv cplayers.sort cplayers.dat
+cat cplayers.dat | cut -d ',' -f 1-3,5-8 > players.dat
+wc cplayers.dat

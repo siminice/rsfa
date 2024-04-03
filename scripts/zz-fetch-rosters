@@ -1,0 +1,19 @@
+#!/bin/bash
+
+YEAR=$1
+COOKIE=$(zz-get-cookie)
+URL="http://www.zerozero.pt/equipa.php"
+
+while read link
+do
+  TID=$(echo ${link} | cut -d '=' -f 2 | cut -d '&' -f 1)
+  EPOCA=$(echo ${link} | cut -d '=' -f 3)
+  echo "Fetching TID ${TID} from ${link}..."
+  OFILE="tmp/${YEAR}/t${TID}"
+#  wget --load-cookies cookies.txt "http://www.zerozero.pt${link}" -O ${OFILE}.iso
+  curl -s --cookie "${COOKIE}" -d id=${TID} -d epoca_id=${EPOCA} "${URL}" > ${OFILE}.iso
+  i1u ${OFILE}.iso > ${OFILE}.utf
+  grep "class=\"staff" ${OFILE}.utf > ${OFILE}.html
+  rm -f ${OFILE}.iso ${OFILE}.utf
+  zz-extract-lot ${OFILE}.html > ${OFILE}.links
+done < tmp/${YEAR}/t.links

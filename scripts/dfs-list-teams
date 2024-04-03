@@ -1,0 +1,19 @@
+#!/bin/bash
+
+LID=$1
+#SEASON=$2
+#SSID=$(dfs-get-season-id ${SEASON})
+SSID=$2
+
+SYEAR=$(echo ${SEASON} | cut -d '/' -f 1)
+EYEAR=$(echo ${SEASON} | cut -d '/' -f 2)
+if [ -z "${EYEAR}" ]; then YEAR=${SYEAR}; else YEAR=$((${SYEAR}+1)); fi
+
+dfs-get-teams ${LID} ${SSID} ${YEAR}
+
+while read t
+do
+  tl=$(grep "$t" data/zteams.dat)
+  tn=$(echo "${tl}" | cut -d ',' -f 1)
+  echo "${t} = ${tn}"
+done < tmp/${YEAR}/teams.in

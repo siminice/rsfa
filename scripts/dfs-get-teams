@@ -1,0 +1,7 @@
+#!/bin/bash
+
+LID=$1
+SSID=$2
+YEAR=$3
+
+grep -e "^${LID},${SSID}," data/dfs-part.dat | cut -d ',' -f 3 > tmp/${YEAR}/teams.in

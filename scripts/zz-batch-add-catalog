@@ -1,0 +1,13 @@
+#!/bin/bash
+
+YEAR=$1
+
+for f in tmp/${YEAR}/t[1-9]*.in
+do
+  TID=$(echo $f | cut -d '/' -f 3 | cut -d '.' -f 1 | cut -d 't' -f 2)
+  TN=$(grep ",${TID}$" data/zteams.dat | cut -d ',' -f 1)
+  echo "-------------------"
+  echo "Players ${TN} ${YEAR}"
+  echo "-------------------"
+  zz-add-catalog catalogs/zplayers.dat $f
+done

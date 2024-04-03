@@ -1,0 +1,12 @@
+#!/bin/bash
+
+LID=$1
+SSID=$2
+YEAR=$3
+
+rm -f tmp/${YEAR}/coaches.in
+
+while read TID
+do
+  dfs-extract-coaches ${LID} ${SSID} ${YEAR} ${TID} >> tmp/${YEAR}/coaches.in
+done < tmp/${YEAR}/teams.in

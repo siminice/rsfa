@@ -1,0 +1,12 @@
+#!/bin/bash
+
+echo 'g++ -Wno-write-strings -Wno-parentheses -g -c -o obj/dbedit.o src/dbedit.cc'
+g++ -Wno-write-strings -Wno-parentheses -g -c -o obj/dbedit.o src/dbedit.cc
+echo 'g++ -g -c -o obj/catalog.o src/catalog.cc'
+g++ -g -c -o obj/catalog.o src/catalog.cc
+echo 'g++ -g -c -o obj/aliases.o src/aliases.cc'
+g++ -g -c -o obj/aliases.o src/aliases.cc
+echo 'g++ -g -c -o obj/listbox.o src/listbox.cc'
+g++ -g -c -o obj/listbox.o src/listbox.cc
+echo 'g++ -g -o bin/dbedit obj/dbedit.o obj/catalog.o obj/listbox.o obj/aliases.o -lncursesw'
+g++ -g -o bin/dbedit obj/dbedit.o obj/catalog.o obj/listbox.o obj/aliases.o -lncursesw

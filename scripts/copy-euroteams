@@ -1,0 +1,4 @@
+#!/bin/bash 
+
+echo "scp ../$1/euroteams.dat radu@173.53.23.20:/var/www/html/$1"
+scp ../$1/euroteams.dat radu@173.53.23.20:/var/www/html/$1

@@ -1,0 +1,9 @@
+#!/bin/bash
+
+y=1934
+
+chtabs.pl $y/${1}r.txt $y/${1}r0.txt
+chtabs.pl $y/${1}r0.txt $y/${1}r1.txt
+sttab.pl $y/${1}r1.txt $y/${1}r.txt
+
+#./d2r -y $y -f $y/$1f.txt -s $y/$1r.txt -c $y/$1.dat  -n 16 -m 14  > temp

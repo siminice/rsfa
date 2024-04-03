@@ -1,0 +1,15 @@
+#!/bin/bash
+
+PID=$1
+
+# ENG SWE
+#ID,Name,Vorname,AnzeigeName,SuchName,Geburtsdatum,LandID,Notiz,IsGeb,DatumNew,DatumUpdate,UserID,IsNationalspieler,Vorsatzwort,GID,LandID2,ToDo,MasterID
+#ID,Name,Vorname,AnzeigeName,SuchName,Geburtsdatum,LandID
+#100000048,Olszar,Sebastian,Sebastian Olszar,olszar,1981-12-16 00:00,14,Miejsce urodzenia:Cieszyn,F,2004-10-25,2017-11-02 13:09:57,0,F,,917181978,3, ,0
+
+# SUI
+#ID,Name,Vorname,AnzeigeName,SuchName,Geburtsdatum,IsGeburtsdatumUnbekannt,IsNationalspieler,LandID,Notiz,DatumNew,DatumUpdate,UserID,Vorsatzwort,GID,LandID2,ToDo,MasterID
+#1600253,Wilson,Ruben,Ruben Wilson,wilson,1979-11-09,F,F,7, ,2005-01-09,2005-01-09,1015,,1600253,0, ,5850
+
+#Link,Prenume Nume,Nat,DOB,pob,cob
+grep -e "^${PID}," data/dfs-players.dat | cut -d ',' -f 1-14

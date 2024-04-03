@@ -1,0 +1,5 @@
+#!/bin/bash
+
+xdia $* > tmp
+mv $1 $1.old
+mv tmp $1

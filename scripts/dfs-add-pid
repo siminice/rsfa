@@ -1,0 +1,7 @@
+#!/bin/bash
+
+grep $1 tmp/$2/coaches.in > extra.in
+
+zz-add-catalog catalogs/zplayers.dat extra.in $2
+
+zz-psort

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd /home/radu/lineups/catalogs/
+LC_ALL=C sort players.dat > players.sort
+mv players.sort players.dat
+tail players.dat
+wc players.dat

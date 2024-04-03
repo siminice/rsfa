@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cat catalogs/catalog-2018.dat | grep $1

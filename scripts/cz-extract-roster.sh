@@ -1,0 +1,21 @@
+#!/bin/bash
+
+FILE=$1
+YEAR=$(echo ${FILE} | cut -d '/' -f 2)
+TEAM=$(echo ${FILE} | cut -d '/' -f 3 | cut -d '.' -f 1 | cut -d 't' -f 2)
+
+TG=$(grep -n ",${TEAM}$" data/zteams.dat | head -n 1)
+TT=$(echo "${TG}" | cut -d ':' -f 2 | cut -d ',' -f 1)
+TLN=$(echo "${TG}" | cut -d ':' -f 1)
+TID=$((${TLN}-2))
+
+echo "--------------------------"
+echo " > ${TT} #z${TEAM}: ${TID}"
+echo "--------------------------"
+while read link
+do
+  post=$(echo ${link} | cut -d ',' -f 1)
+  num=' '
+  index=$(echo ${link} | cut -d ',' -f 2)
+  zz-g2 ${index} ${TID} ${post} ${num}
+done <  tmp/${YEAR}/t${TEAM}.links | tee seasons/${YEAR}/t${TID}.dat

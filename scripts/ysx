@@ -1,0 +1,16 @@
+#!/bin/bash
+
+readarray -t a
+
+n=${#a[@]}
+
+echo $n
+
+for ((j=0; j<n; j++))
+do
+  l1="${l1}${a[${j}]} "
+done
+
+echo ${l1} > ll
+
+cat ll | sed -e 's/^\(..\) \-/\1 :/'

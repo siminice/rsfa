@@ -1,0 +1,35 @@
+#!/bin/bash
+
+YEAR=$1
+ED=$2
+NP=$3
+
+mkdir tmp/${YEAR}
+mkdir tmp/${YEAR}/r
+
+zz-fetch-edition ${YEAR} ${ED}
+
+zz-fetch-teams ${YEAR} ${ED}
+zz-fetch-rosters ${YEAR}
+zz-fetch-all-players ${YEAR}
+zz-get-all-rosters ${YEAR}
+zz-batch-add-catalog ${YEAR}
+zz-psort
+
+mkdir seasons/${YEAR}
+zz-extract-all-rosters ${YEAR}
+zz-assemble-catalog ${YEAR}
+
+zz-filter-coaches ${YEAR}
+zz-fetch-all-coaches ${YEAR}
+zz-get-coaches ${YEAR}
+zz-add-catalog catalogs/zcoaches.dat tmp/${YEAR}/coaches.in
+zz-csort
+
+zz-fetch-matches ${ED} ${NP}
+zz-extract-matchids ${NP} | sort -n > tmp/${YEAR}/m.ids
+zz-fetch-all-reports ${YEAR}
+
+zz-emptydb ${YEAR}
+zz-extract-all-reports ${YEAR}
+new-catalog ${YEAR} 0

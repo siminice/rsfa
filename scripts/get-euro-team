@@ -1,0 +1,11 @@
+#!/bin/bash
+
+CTTY=$(echo $1 | cut -d ',' -f 1)
+TEAM=$(echo $1 | cut -d ',' -f 2)
+CL=$(grep -n -a -i ${CTTY} data/country.dat | head -n 1 | cut -d ':' -f 1)
+CN=$((${CL}-2))
+TL=$(cat "/home/radu/rsssf/sat/${CTTY}/teams.dat" | grep -n -a -i "${TEAM}" | head -n 1 | cut -d ':' -f 1)
+TN=$((${TL}-1))
+TID=$((1000*${CN}+${TN}))
+
+echo "${CN},${TN} -> ${TID}"

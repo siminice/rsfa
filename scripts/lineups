@@ -1,0 +1,3 @@
+#!/bin/bash
+
+html-catalog -fy $1 -ly $1

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+YEAR=$1
+COOKIE=$(zz-get-cookie)
+URL="http://www.zerozero.pt"
+
+while read MID
+do
+#  MID=$(echo ${link} | cut -d '=' -f 2 | cut -d '&' -f 1)
+  zz-fetch-report ${YEAR} ${MID}
+done < tmp/${YEAR}/m.ids

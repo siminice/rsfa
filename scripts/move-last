@@ -1,0 +1,41 @@
+#!/bin/bash
+
+s=$1
+t=$1
+l=0
+m=0
+let "t = $s + 1"
+
+echo Moving $2 lines from $s to $t...
+
+wc -l nat-lineups-$s.db | awk '{print $1}' > numlines
+read l < numlines
+wc -l nat-lineups-$t.db | awk '{print $1}' > numlines
+read m < numlines
+
+echo "Number of lines current = "$l
+echo "Number of lines next    = "$m
+
+let "n = $l - $2"
+let "p = $m + $2"
+
+echo "New number of lines current = "$n
+echo "New number of lines next    = "$p
+
+head -n $n nat-lineups-$1.db > currlin
+head -n $n nat-events-$1.db  > currev
+tail -n $2 nat-lineups-$1.db > nextlin
+tail -n $2 nat-events-$1.db  > nextev
+
+cat nat-lineups-$t.db >> nextlin
+cat nat-lineups-$t.db >> nextev
+
+mv nat-lineups-$s.db nat-lineups-$s.db.old
+mv nat-events-$s.db  nat-events-$s.db.old
+mv nat-lineups-$t.db nat-lineups-$t.db.old
+mv nat-events-$t.db  nat-events-$t.db.old
+
+mv currlin nat-lineups-$s.db
+mv currev  nat-events-$s.db
+mv nextlin nat-lineups-$t.db
+mv nextev  nat-events-$t.db

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+Y=2024
+
+cp -v db/lineups-${Y}.db db/events-${Y}.db catalogs/catalog-${Y}.dat catalogs/ncatalog-${Y}.dat catalogs/players.dat /var/www/html/rom/

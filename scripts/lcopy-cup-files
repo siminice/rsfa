@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cp -v db/cup-{lineups,events}-$1.db catalogs/*cupa-$1.dat data/cuparchive.dat catalogs/players.dat /var/www/html/rom/

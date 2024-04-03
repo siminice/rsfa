@@ -1,0 +1,7 @@
+#!/bin/bash
+
+scp catalog*.dat radu@71.176.213.222:/var/www/html/rom/
+scp players.dat radu@71.176.213.222:/var/www/html/rom/
+scp cupa* radu@71.176.213.222:/var/www/html/rom/
+scp euro-*.dat radu@71.176.213.222:/var/www/html/rom/
+scp nat-*.dat radu@71.176.213.222:/var/www/html/rom/

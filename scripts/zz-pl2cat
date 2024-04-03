@@ -1,0 +1,10 @@
+#!/bin/bash
+
+INDEX=${1:-"-1"}
+TEAM=${2:-"t"}
+POS=${3:-" "}
+NO=${4:-" "}
+
+#abalda,Abalo,Dani,Daniel Abalo Paulos,1987-09-29,SPA,Vilagarcía de Arousa,SPA,dani-abalo,-1
+
+sed -e "s|\(.*\),\(.*\),\(.*\),\(.*\),\(.*\),\(.*\),\(.*\),\(.*\),\(.*\),\(.*\)|\1,\3,\2,\5,\6,${TEAM},${NO},${POS},0,0,0,0,${INDEX}|g"

@@ -1,0 +1,29 @@
+#!/bin/bash
+
+rm -f ll
+
+nano ll
+
+cat ll | grep -e "–" -A 1 | grep -v "^\-" > ll2
+
+cat ll2
+
+readarray -t a < ll2
+
+n=${#a[@]}
+
+echo $n
+
+l=$(( ${n} / 4 ))
+
+echo $l
+
+for ((i=0; i<${l}; i++))
+do
+  l1=$(( 4 * ${i} ))
+  l2=$(( 4 * ${i} + 1 ))
+  l3=$(( 4 * ${i} + 2 ))
+  l4=$(( 4 * ${i} + 3 ))
+  echo "${a[${l1}]} ${a[${l2}]}|${a[${l3}]} ${a[${l4}]}"
+  echo ""
+done
