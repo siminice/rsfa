@@ -1,4 +1,4 @@
-11258
+11481
 aaroa1,Aarón, ,1995-09-27,SPA,Carcaixent,SPA
 aaroa2,Aarón, ,1997-04-22,SPA,Montmeló,SPA
 aaroaa,Aarón, ,1989-04-26,SPA,Elche,SPA
@@ -32,6 +32,7 @@ abelfr,Abellán, ,1965-01-19,SPA,Benés,SPA
 abelig,Abeledo,Ignacio,1996-01-05,SPA, ,SPA
 abelng,Abelardo, ,1944-09-03,SPA,Sotrondio,SPA
 abelru,Abellán,Ruiz,1947-01-16,SPA,Murcia,SPA
+aberna,Aberdín,Nabil,2002-08-23,FRA,Paris,FRA
 abeyqo,Owusu-Abeyie,Quincy,1986-04-15,GHA,Amsterdam,NED
 abider,Abidal,Éric,1979-09-11,FRA,Lyon,FRA
 abizab,Abizanda, ,2000-05-01,SPA,Sabiñánigo,SPA
@@ -48,6 +49,7 @@ abrefd,de Abreu,Fernando,1984-10-03,BRA,Sao Paulo,BRA
 abrenu,Abreu,Nuñez,1924-01-18,SPA,Santa Cruz de Tenerife,SPA
 abrese,Abreu,Sebastián,1976-10-17,URU,Minas,URU
 abrijo,Abril, ,1970-12-08,SPA,Valladolid,SPA
+abrivi,Abril,Vicent,2005-02-15,SPA,Valencia,SPA
 abuxmo,Abu,Mohammed,1991-11-14,GHA,Accra,GHA
 acassa,Acasiete,Santiago,1977-11-22,PER,Callao,PER
 accijo,Acciari,José,1978-11-29,ARG,San Miguel,ARG
@@ -109,6 +111,7 @@ agirfr,Agirretxu, ,1968-08-25,SPA,Getxo,SPA
 agirim,Agirretxe, ,1987-02-24,SPA,Ursubil,SPA
 agirju,Agirrezabala,Julen,2000-12-26,SPA,Donostia-San Sebastián,SPA
 agosjo,Agostinho, ,1975-09-15,POR,Paços de Ferreira,POR
+agoulu,Agoumé,Lucien,2002-02-09,FRA,Yaoundé,CMR
 agraag,Agramunt, ,0000-00-00,SPA, ,SPA
 agrasa,Agra,Salvador,1991-11-11,POR,Vila do Conde,POR
 aguaag,Aguado, ,1996-05-01,SPA,Jaén,SPA
@@ -322,20 +325,24 @@ aliahe,Aliaga,Hernández,1944-01-18,SPA,Valencia,SPA
 aliajo,Aliaga, ,1957-04-18,SPA,Bugarra,SPA
 aliasa,Aliaga, ,1934-05-04,SPA,Jérica,SPA
 alixfe,Ali,Fernando,1954-05-10,ARG,Marquesado,ARG
+alkaxe,Alkain,Xeber,1997-06-26,SPA,Hondarribia,SPA
 alkibi,Alkiza, ,1970-10-26,SPA,San Sebastián,SPA
 alkiia,Alkiza, ,1933-07-31,SPA,Herrera,SPA
 alkora,Alkorta, ,1968-09-16,SPA,Bilbao,SPA
 allean,Allende, ,1909-08-16,SPA,Bilbao,SPA
 alleju,Allende, ,1936-02-19,SPA,Las Arenas,SPA
 allepe,Allende,Pérez,1911-06-02,SPA,Santander,SPA
+alleta,Allende,Tadeo,1999-02-20,ARG,Mina Clavero,ARG
 alleti,Aller,Tino,1971-08-13,SPA,León,SPA
 almaed,Almansa, ,1974-11-04,SPA,Alicante,SPA
+almale,Almansa,Álex,2003-11-08,SPA, ,SPA
 almama,Almagro, ,1929-12-13,SPA,Granada,SPA
 almara,Almagro, ,1945-03-29,SPA,Granada,SPA
 almasa,Almandoz, ,1938-08-12,SPA,San Sebastián,SPA
 almean,Almeida,André,2000-05-30,POR,Guimarães,POR
 almefr,Almeida, ,1963-05-11,SPA,Las Palmas,SPA
 almehe,Almeida,Henrique,1991-05-27,BRA,Brasilia,BRA
+almeik,Almena,Iker,2004-05-04,SPA, ,SPA
 almeja,Almerge,Javier,2001-00-00,SPA,Sena,SPA
 almema,Almeyda,Matías,1973-12-21,ARG,Azul,ARG
 almial,Almir, ,1939-09-01,BRA,Niteroi,BRA
@@ -384,9 +391,11 @@ alsura,Alsúa, ,1923-08-18,SPA,Irún,SPA
 altafe,Altabas, ,1940-02-06,SPA,Mazaleón,SPA
 altec1,Altes, ,0000-00-00,SPA, ,SPA
 alteca,Altés, ,0000-00-00,SPA, ,SPA
+altiad,Altimira,Adrià,2001-03-28,SPA,Cardedeu,SPA
 altiha,Altintop,Hamit,1982-12-08,TUR,Gelsenkirchen,GER
 altijo,Altidore,Jozy,1989-11-06,USA,Livingston,USA
 altiro,Altisent, ,1930-10-24,SPA,Torrelameo,SPA
+altise,Altimira,Sergi,2001-08-25,SPA,Cardedeu,SPA
 altudi,Altube, ,2000-02-22,SPA,Madrid,SPA
 altujo,Altuna, ,1910-12-26,SPA,Fuenterrabía,SPA
 alusig,Alustiza, ,1931-07-22,SPA,Barakaldo,SPA
@@ -655,6 +664,7 @@ arambe,Aramburu, ,1949-09-06,SPA,Santurce,SPA
 aramhe,Aramendi,Héctor,1937-03-27,ARG,Buenos Aires,ARG
 aramj1,Arambarri, ,1948-04-20,SPA,Mondragón,SPA
 aramje,Aramburu, ,1941-07-23,SPA,Vitoria,SPA
+aramjo,Aramburu,Jon,2002-07-23,VEN,Caracas,VEN
 aramma,Arambarri,Mauro,1995-09-30,URU,Salto,URU
 arampe,Aramburuzabala, ,1945-05-13,SPA,Mondragón,SPA
 arana1,Aranda,Antonio,2000-10-07,SPA,Huétor Vega,SPA
@@ -668,6 +678,7 @@ araneg,Arana,Egoitz,2002-02-19,SPA,Zarautz,SPA
 arango,Arana, ,1935-07-17,SPA,Lujúa,SPA
 arangu,Arana,Guilherme,1997-04-14,BRA,São Paulo,BRA
 aranj1,Aranda, ,1962-08-22,SPA,Málaga,SPA
+aranj2,Arango,Juan,2006-06-27,VEN,Valencia,VEN
 aranje,Aranguren, ,1944-12-26,SPA,Portugalete,SPA
 aranjo,Arana, ,1912-04-27,SPA,San Sebastián,SPA
 aranju,Arango,Juan,1980-05-17,VEN,Maracay,VEN
@@ -685,6 +696,7 @@ araqjo,Araquistáin, ,1937-03-04,SPA,Azcoitia,SPA
 arasja,Arasa, ,1915-06-22,SPA,Freginals,SPA
 aratjo,Arater, ,0000-00-00,SPA, ,SPA
 arauj1,Araujo, ,1944-09-23,SPA,Sevilla,SPA
+arauj2,Araujo,Julián,2001-08-13,MEX,Lompoc,USA
 araujo,Arauna, ,0000-00-00,SPA, ,SPA
 arauju,Araujo, ,1920-11-24,SPA,La Carolina,SPA
 araune,Araujo,Néstor,1991-08-29,MEX,Guadalajara,MEX
@@ -723,6 +735,7 @@ arenfr,Arencibia, ,1912-12-28,CUB,Alquizar,CUB
 arenje,Arenaza, ,1951-11-24,SPA,Bilbao,SPA
 areoal,Aréola,Alphonse,1993-02-27,FRA,Paris,FRA
 areoca,Areopagita, ,1934-02-23,SPA,Irún,SPA
+aresad,Ares,Adu,2001-10-12,SPA,Bilbao,SPA
 aresar,Areso, ,1999-07-02,SPA,Cascante,SPA
 aresj1,Areso,Jesús,1999-07-02,SPA,Cascante,SPA
 aresje,Ares, ,1933-11-20,SPA,Fox,SPA
@@ -747,6 +760,7 @@ argoes,Argote, ,1956-10-21,SPA,Zarauz,SPA
 argojo,Argoitia, ,1940-01-18,SPA,Galdácano,SPA
 arguem,Arguelles, ,1916-12-04,SPA,Gijón,SPA
 argugo,Arguiñano,Gonzalo,1962-08-12,SPA,Lemona,SPA
+arguii,Arguibide,Iñigo,2005-04-19,SPA,Pamplona,SPA
 arguvc,Arguiñano, ,1923-06-15,SPA,Beasaín,SPA
 ariaan,Arias, ,1933-01-16,SPA,Verín,SPA
 ariajo,Arias, ,1936-09-08,SPA,Santa Cruz de Tenerife,SPA
@@ -813,6 +827,7 @@ arrijo,Arrieta, ,1916-07-18,SPA,Zarauz,SPA
 arrima,Arrieta, ,1917-11-22,SPA,Getxo,SPA
 arrira,Arribas,Raúl,1968-09-11,SPA,Mollet del Vallés,SPA
 arriri,Arrién, ,1960-11-15,SPA,Guernica,SPA
+arris1,Arribas,Sergio,2001-09-30,SPA,Madrid,SPA
 arrise,Arribas,Sergio,1995-07-07,SPA, ,SPA
 arroal,Arroyo,Álvaro,1988-07-22,SPA,Madrid,SPA
 arroca,Arroyo, ,1966-02-16,SPA,Alcorcón,SPA
@@ -1043,6 +1058,7 @@ balbb1,Balboa, ,2001-03-06,EQG,Vitoria,SPA
 balbba,Balbino, ,1955-08-09,SPA,Cabañas Raras,SPA
 balbca,Balboa,Catala,1922-07-13,SPA,Argentona,SPA
 balbja,Balboa, ,1985-05-13,EQG,Madrid,SPA
+baldal,Balde,Alejandro,2003-10-18,SPA,Barcelona,SPA
 baldib,Baldé,Ibrahima,1989-04-04,SEN,Pikine,SEN
 baldle,Baldé,Álex,2003-10-18,SPA,Barcelona,SPA
 baledi,Balerdi,Díez,0000-00-00,SPA,Bilbao,SPA
@@ -1053,6 +1069,7 @@ balicr,Balin, ,1957-11-11,SPA,Palma de Mallorca,SPA
 baliga,Balint,Gavril,1963-01-03,ROM,Sângeorz-Băi,ROM
 baljel,Baljić,Elvir,1974-07-08,BOS,Mostar,BOS
 ballba,Balliu, ,1992-01-01,ALB,Caldes de Malavella,SPA
+ballca,Ballestero,Carlos,2004-04-24,SPA, ,SPA
 ballfr,Ballester, ,1946-09-16,SPA,Jàtiva,SPA
 balljo,Ballina, ,1964-04-29,EQG,Santa Isabel,EQG
 ballsa,Ballesta,Salva,1975-05-22,SPA,Zaragoza,SPA
@@ -1061,6 +1078,7 @@ balmdo,Balmanya, ,1914-12-29,SPA,Girona,SPA
 baltb1,Baltazar, ,1959-07-17,BRA,Goiânia,BRA
 baltba,Balta, ,1962-05-09,SPA,Santander,SPA
 baltda,Baltierra,Danilo,1968-10-04,URU,Montevideo,URU
+bambjo,Bamba,Jonathan,1996-03-26,CIV,Alfortville,FRA
 bamoha,Bamogo,Habib,1982-05-08,BFS,Paris,FRA
 bancca,Bancalero, ,1944-06-16,SPA,El Saucejo,SPA
 baneev,Banega,Éver,1988-06-29,ARG,Rosario,ARG
@@ -1167,6 +1185,7 @@ bartj1,Bartolí, ,1935-10-30,SPA,Molins del Rey,SPA
 bartja,Bartolo, ,1968-10-07,SPA,Bellvi,SPA
 bartjo,Bartual,Jorge,1971-08-18,SPA,Valencia,SPA
 bartju,Bartual, ,0000-00-00,SPA, ,SPA
+bartm1,Bartra,Marc,1991-01-15,SPA,Sant Jaume dels Domenys,SPA
 bartma,Bartra, ,1991-01-15,SPA,Sant Jaume dels Domenys,SPA
 barxma,Baró,Marc,1999-08-23,SPA,Palma de Mallorca,SPA
 basaca,Basabe, ,1924-06-10,SPA,Deusto,SPA
@@ -1179,7 +1198,9 @@ basian,Basinas,Angelos,1976-01-03,GRE,Spata,GRE
 basiba,Basilio, ,1918-08-18,SPA,Valencia,SPA
 basoes,Basora, ,1926-11-18,SPA,Colonia Valls (Barcelona),SPA
 basojo,Basora, ,1933-04-08,SPA,Colonia Valls,SPA
+bassab,Bassinga,Aboubacar,2005-07-13,CIV, ,CIV
 bassch,Bassedas,Christian,1973-02-16,ARG,Buenos Aires,ARG
+bassdo,Bassinga,Déogracias,2005-08-11,CGO, ,CGO
 basssa,Bassir,Salaheddine,1972-09-05,MAR,Casablanca,MAR
 bastad,Bastía,Adrián,1978-12-20,ARG,Gobernador Crespo,ARG
 bastba,Bastida, ,2004-05-12,SPA,Chiclana de la Frontera,SPA
@@ -1193,6 +1214,7 @@ bastvi,Bastos, ,1950-07-04,POR,Lisboa,POR
 basujo,Basualdo,José,1963-06-20,ARG,Campana,ARG
 basuro,Basulto,Rodri,1969-06-11,SPA,Madrid,SPA
 bataag,Bata, ,1908-05-11,SPA,Barakaldo,SPA
+bataau,Batalla,Augusto,1996-04-30,ARG,Hurlingham,ARG
 bataba,Bata, ,0000-00-00,SPA, ,SPA
 batama,Batalla, ,1935-08-31,SPA,Amposta,SPA
 batiba,Batista, ,0000-00-00,SPA, ,SPA
@@ -1222,6 +1244,7 @@ beceia,Beceiro,Iago,1993-03-15,SPA, ,SPA
 becejo,Becerril, ,1926-08-21,SPA,Madrid,SPA
 becian,Beci, ,1943-12-13,SPA,Lugo,SPA
 beckda,Beckham,David,1975-05-02,ENG,Leytonstone,ENG
+becksh,Becker,Sheraldo,1995-02-09,SUR,Amsterdam,NED
 bedied,Bedia,Edu,1989-03-23,SPA,Santander,SPA
 bedoig,Bedoya, ,1930-07-29,SPA,Bilbao,SPA
 bedosa,Bedoya,Santos,1939-11-03,SPA,Madrid,SPA
@@ -1238,6 +1261,7 @@ bejbra,Bejbl,Radek,1972-08-29,CZE,Nymbruck,
 bekeja,Beke,Janos,1936-08-29,HUN,Bucarest,HUN
 belaan,Belauste, ,0000-00-00,SPA,Beasaín,SPA
 belami,Belanches, ,1956-07-26,SPA,Teruel,SPA
+belara,Belaid,Rayane,2005-11-02,ALG,Orihuela,SPA
 beleda,Belenguer, ,1972-12-17,SPA,Villasar del Mar,SPA
 bellan,Bellod, ,1945-12-01,SPA,Orihuela,SPA
 bellca,Bellvís, ,1985-04-24,SPA,Valencia,SPA
@@ -1246,6 +1270,7 @@ bellfr,Belló, ,1923-04-22,SPA,Cieza,SPA
 bellhc,Bellerín,Héctor,1995-03-19,SPA,Badalona,SPA
 bellj1,Belloso, ,1967-04-14,SPA,Pamplona,SPA
 bellj2,Belletti, ,1976-06-20,BRA,Cascavel,BRA
+bellj3,Bellingham,Jude,2003-06-29,ENG,Stourbridge,ENG
 bellja,Bellido,Javier,1966-03-09,SPA,Bilbao,SPA
 belljo,Belles, ,1932-01-24,SPA,Camarle,SPA
 bellju,Bellido, ,1931-07-24,SPA,Sevilla,SPA
@@ -1268,8 +1293,10 @@ beltju,Beltran, ,1929-05-15,SPA,La Laguna,SPA
 beltna,Beltrán,Navarro,1931-04-30,SPA,Vall de Uxó,SPA
 belzed,Belza,Eduardo,1956-09-05,URU,Montevideo,URU
 benab1,Beñat, ,1987-02-19,SPA,Igorre,SPA
+benab2,Benavídez, ,1998-03-30,URU,Montevideo,URU
 benabe,Benavente, ,0000-00-00,SPA, ,SPA
 benaca,Benavente, ,1917-11-02,SPA,Madrid,SPA
+benada,Benavides,Darío,2003-01-12,SPA,El Ejido,SPA
 benajo,Benavent, ,1920-05-15,SPA,Badalona,SPA
 benaju,Benavídez,Juan,1927-10-20,ARG,Tafi Viejo,ARG
 benase,Benachour,Selim,1981-09-08,TUN,Paris,FRA
@@ -1303,6 +1330,7 @@ benigu,Benitez,Gustavo,1953-02-05,PAR,Coronel Oviedo,PAR
 beniig,Benítez, ,1979-12-09,SPA,Huelva,SPA
 beniik,Benito,Iker,2002-08-10,SPA,Miranda de Ebro,SPA
 benij1,Benito, ,1953-08-10,SPA,Sestao,SPA
+benijo,Benito,Jorge,2006-06-06,SPA, ,SPA
 beniju,Benítez,Julio,1940-10-01,URU,Montevideo,URU
 benimi,Benítez,Miguel,1970-05-19,PAR,Santísima Trinidad,PAR
 beninu,Benicio,Nuñez,1966-03-14,SPA,Jerez de la Frontera,SPA
@@ -1481,7 +1509,9 @@ blazal,Blázquez,Albert,1992-01-21,SPA,Besalú,SPA
 blazem,Blazquez, ,1912-08-17,SPA,Girona,SPA
 blesal,Blesa,Álex,2002-01-15,SPA,Valéncia,SPA
 blesto,Blesa, ,1962-02-21,SPA,Ariño,SPA
+blinda,Blind,Daley,1990-03-09,NED,Amsterdam,NED
 boakri,Boakye,Richmond,1993-01-28,GHA,Accra,GHA
+boarja,Boñar,Javier,2005-06-03,SPA,Madrid,SPA
 boatde,Boateng,Derek,1983-05-02,GHA,Accra,GHA
 boatem,Boateng,Emmanuel,1996-05-23,GHA,Accra,GHA
 boatkp,Boateng,Kevin-Prince,1987-03-06,GHA,Berlin,GER
@@ -1502,6 +1532,7 @@ bogdgo,Bogdanović,Goran,1967-04-27,YUG,Smederevo,YUG
 bogdra,Bogdanović,Rade,1970-05-21,YUG,Sarajevo,BOS
 boghal,Boghossian,Alain,1970-10-27,FRA,Digne,FRA
 boheam,Bohem,Amoros,1904-03-18,SPA,Valencia,SPA
+boirad,Boiro,Adama,2002-06-22,SPA,Dakar,SEN
 boixfr,Boixet, ,1938-02-09,SPA,Mataró,SPA
 boixpe,Boixaderas,Pérez,1947-11-02,SPA,Moncada Rexach,SPA
 bojabo,Bojan, ,1990-08-28,SPA,Linyola,SPA
@@ -1567,6 +1598,7 @@ boscan,Bosch, ,0000-00-00,SPA, ,SPA
 bosccr,Bosch, ,1907-12-26,SPA,Barcelona,SPA
 boscjo,Bosca, ,1973-07-01,SPA,Paris,FRA
 boscma,Bosch, ,0000-00-00,SPA, ,SPA
+boscmi,Bosch,Miki,2001-06-09,SPA,Alginet (Valencia),SPA
 boscre,Bosch, ,1926-12-11,SPA,Alginet,SPA
 boscvi,Bosch,Vila,1954-04-02,SPA,Cardedeu,SPA
 bosman,Bosmediano, ,1948-10-20,SPA,Las Palmas,SPA
@@ -1634,6 +1666,7 @@ brecje,Bréchet,Jérémie,1979-08-14,FRA,Lyon,FRA
 brehan,Brehme,Andreas,1960-11-09,GER,Hamburg,GER
 breipa,Breitner,Paul,1951-09-05,GER,Kolbermoor,GER
 breira,Breijo, ,1915-08-15,SPA,Vigo,SPA
+brerbe,Ben Brereton, ,1999-04-18,CHI,Stoke-on-Trent,ENG
 bresjo,Brescia, ,1957-02-10,SPA,Alhaurín el Grande,SPA
 brevjo,Breval, ,1942-02-28,SPA,Sevilla,SPA
 brezra,Brežančić,Rajko,1989-08-21,SRB,Novi Pazar,SRB
@@ -1665,6 +1698,7 @@ buadab,Buades,Abel,1977-07-11,SPA,Benimodo,SPA
 buadmi,Buades, ,1980-03-04,SPA,Sa Pobla,SPA
 buaxra,Búa, ,1947-10-04,SPA,Villajuán de Arosa,SPA
 buckli,Buckley,Liam,1960-04-14,IRL,Dublín,IRL
+budeda,Budesca,Dani,2006-10-11,SPA,Murcia,SPA
 budian,Budimir,Ante,1991-07-22,CRO,Zenica,CRO
 buena1,Bueno, ,1988-03-20,SPA,Madrid,SPA
 buenaa,Bueno,Aarón,1983-08-21,SPA,Sabadell,SPA
@@ -1705,6 +1739,7 @@ busteu,Bustingorri, ,1963-12-28,SPA,Zulueta,SPA
 bustjo,Busto, ,1923-11-12,SPA,Portugalete,SPA
 bustju,Bustillo, ,1948-02-13,SPA,San Martín de Porto,SPA
 bustmi,Bustillo, ,1946-09-09,SPA,Zaragoza,SPA
+bustpa,Busto,Pablo,2005-09-15,SPA,Sevilla,SPA
 bustri,Bustamante, ,1931-04-01,SPA,Laredo,SPA
 bustun,Bustinza, ,1992-02-02,SPA,Bilbao,SPA
 butelu,Butelle,Ludovic,1983-04-13,FRA,Reims,FRA
@@ -1743,6 +1778,7 @@ cabrj2,Cabrillo, ,1961-05-07,SPA,Santander,SPA
 cabrj3,Cabrera, ,1982-05-10,SPA,Madrid,SPA
 cabrja,Cabrera,Jacinto,1962-02-17,URU,Mercedes,URU
 cabrjo,Cabrera, ,1929-10-16,SPA,La Algaba,SPA
+cabrju,Cabrera,Julio,2003-08-14,SPA,Olvera (Cádiz),SPA
 cabrle,Cabrera,Leandro,1991-06-17,URU,Montevideo,URU
 cabrlu,Cabrera, ,1956-07-09,ARG,La Rioja,ARG
 cabrm1,Cabrera,Manolo,1942-08-23,SPA,Las Palmas,SPA
@@ -1776,6 +1812,7 @@ calaj1,Cala, ,1989-11-26,SPA,Lebrija,SPA
 calaj2,Calavera,Jordi,1995-08-02,SPA,Valls,SPA
 calajo,Calado, ,1974-03-01,POR,Lisboa,POR
 calaju,Calatayud, ,1979-12-21,SPA,Antequera,SPA
+calale,Calatrava,Álex,2000-06-22,SPA,Barcelona,SPA
 calapa,Calandria,Pablo,1982-03-15,ARG,Ituzaingó,ARG
 calase,Cala, ,1990-03-02,SPA,Antequera,SPA
 calda1,Calderón, ,1967-06-02,SPA,Cádiz,SPA
@@ -1888,6 +1925,7 @@ campro,Campoy,Rodri,1934-08-20,SPA,Alicante,SPA
 campsa,Campello, ,1958-06-06,SPA,Callosa de Segura,SPA
 campvc,Campuzano, ,1997-05-31,SPA,Barcelona,SPA
 campxi,Campos,Xisco,1982-03-10,SPA,Benissalem,SPA
+camuca,Camus, ,2001-11-16,SPA,Santander,SPA
 camuja,Camuñas, ,1980-07-17,SPA,Madrid,SPA
 camupe,Camus, ,1955-07-13,SPA,Santander,SPA
 camuse,Camus,Sergio,1997-04-19,SPA,Colindres,SPA
@@ -1936,6 +1974,7 @@ canone,Canobbio,Néstor,1980-03-08,URU,Montevideo,URU
 canoni,Cano, ,1918-04-01,SPA,Asturias,SPA
 canoru,Cano,Rubén,1951-02-05,SPA,San Rafaél,ARG
 cansmu,Cansino,Muñoz,1912-01-21,SPA,Posadas,SPA
+cansse,Canós,Sergi,1997-02-02,SPA,Nules,SPA
 canta1,Cantudo, ,1951-08-04,SPA,Santa Cruz de Tenerife,SPA
 canta2,Cantero, ,1995-01-09,SPA,Pamplona,SPA
 cantal,Cantero,Alejandro,2000-06-08,SPA,Madrid,SPA
@@ -1958,6 +1997,7 @@ capien,Capilla,Eneko,1995-06-13,SPA,San Sebastián,SPA
 capije,Capi, ,1977-03-26,SPA,Camas,SPA
 capile,Capillas, ,1911-11-01,SPA,Torrelavega,SPA
 capima,Capi, ,1981-04-02,SPA,Vigo,SPA
+capimi,Capitas,Miguel,2001-03-06,SPA,Mairena del Alcor,SPA
 capisa,Capín, ,1975-09-10,SPA,Gijón,SPA
 capoj1,Capo, ,1954-11-13,SPA,Ciudadela,SPA
 capojo,Capón, ,1948-02-06,SPA,Madrid,SPA
@@ -1977,6 +2017,7 @@ cardj1,Cardús, ,1921-01-21,SPA,Barcelona,SPA
 cardj2,Cardona,José,1939-02-27,HON,Portrerillos,HON
 cardj3,Cárdenas, ,1943-02-10,SPA,Zaragoza,SPA
 cardj4,Cardeñosa, ,1949-10-27,SPA,Valladolid,SPA
+cardj5,Cardoso,Johnny,2001-09-20,USA,Denville,USA
 cardjo,Cardús, ,1917-10-19,SPA,Barcelona,SPA
 cardjp,Cárdenas,Juan Pablo,1978-05-28,ARG,Buenos Aires,ARG
 cardju,Cardenas, ,1920-03-02,SPA,Antequera,SPA
@@ -1985,6 +2026,7 @@ cardm1,Cardetti,Martín,1975-10-22,ARG,Alcira Gigena,ARG
 cardm2,Cardona,Marc,1995-07-08,SPA,Lleida,SPA
 cardma,Cardo, ,1940-06-16,SPA,Coria del Río,SPA
 cardmi,Cardoso,Miguel,1994-06-19,POR,Lisboa,POR
+cardse,Cardona,Sergi,1999-07-08,SPA,Lloret de Mar,SPA
 cardva,Cardoso, ,1961-12-17,SPA,Martos,SPA
 cardvi,Cardoso, ,1933-12-21,SPA,Madrid,SPA
 caredo,Careaga, ,1897-08-03,SPA,Las Arenas,SPA
@@ -2074,6 +2116,7 @@ carrjo,Carretero, ,1925-07-02,SPA,Ciudadela,SPA
 carrju,Carrillo, ,1962-02-03,SPA,Bechi,SPA
 carrki,Carrasco,Kike,1998-03-02,SPA,Almendralejo,SPA
 carrll,Carreras, ,1972-09-24,SPA,Sant Pol de Mar,SPA
+carrlv,Carrillo,Álvaro,2002-04-06,SPA,Murcia,SPA
 carrm1,Carrión, ,1954-12-20,SPA,Fuengirola,SPA
 carrm2,Carro,Mikel,1999-01-25,SPA,Madrid,SPA
 carrma,Carreño, ,1941-07-07,SPA,Jerez de la Frontera,SPA
@@ -2471,6 +2514,7 @@ cobora,Cobo,Ramón,1928-07-05,SPA,Madrid,SPA
 coccma,Cocca,Manuel,2002-11-08,MEX,Buenos Aires,MEX
 cocofr,Coco,Francesco,1977-01-08,ITA,Paterno,ITA
 cocora,Coco, ,1969-07-01,SPA,Albacete,SPA
+cocosa,Coco,Saúl,1999-02-09,EQG,Lanzarote,SPA
 cocuph,Cocu,Phillip,1970-10-29,NED,Eindhoven,NED
 codijo,Codina, ,1982-04-27,SPA,Barcelona,SPA
 coefal,Coeff,Alexandre,1992-02-20,FRA,Brest,FRA
@@ -2482,6 +2526,7 @@ colaem,Çolak,Emre,1991-05-20,TUR,İstanbul,TUR
 colejo,Colen, ,1966-08-18,SPA,Lleida,SPA
 coliju,Colin,Jürgen,1981-01-20,NED,Utrecht,NED
 colivi,Colino, ,1924-02-21,SPA,Vigo,SPA
+colla1,Collado,Alberto,2005-04-16,SPA, ,SPA
 collal,Collado,Álex,1999-04-22,SPA,Sabadell,SPA
 collan,Collar,Antonio,1933-03-07,SPA,S. Juan Aznalfarache,SPA
 collco,Colls, ,0000-00-00,SPA, ,SPA
@@ -2559,6 +2604,7 @@ corbco,Corba, ,0000-00-00,SPA, ,SPA
 corbma,Corbo,Mateo,1976-04-21,URU,Montevideo,URU
 corbng,Corberan, ,1926-04-24,SPA,Valencia,SPA
 corbpe,Corbalan, ,1966-11-15,SPA,Montmeló,SPA
+corbth,Corbeanu,Theo,2002-05-17,CAN,Hamilton,CAN
 corcda,Córcoles, ,1985-05-08,SPA,Alicante,SPA
 corcj1,Corchado, ,1957-11-16,SPA,Toledo,SPA
 corcjo,Corcuera, ,1948-08-24,SPA,Padroluengo,SPA
@@ -2676,6 +2722,7 @@ cresje,Crespo, ,1955-02-19,SPA,Moyuela,SPA
 cresjo,Crespi,José,1966-11-02,FRA,Lyon,FRA
 cresju,Crespín,Juan,1961-07-31,ARG,Avellaneda,ARG
 cresma,Crespí, ,1987-06-15,SPA,Mallorca,SPA
+cresmi,Crespo,Miguel,1996-09-11,POR,Lyon,FRA
 cresol,Crespo,Oliver,1966-12-05,SPA,Tudela - Veguín,SPA
 criabo,Criado,Borja,1982-04-16,SPA,Barcelona,SPA
 crisc1,Cristóbal, ,1965-11-27,SPA,Cehegín,SPA
@@ -2724,6 +2771,7 @@ cuarfr,Cuaresma, ,1967-02-02,SPA,Valladolid,SPA
 cuarlu,Cuartero, ,1975-08-17,SPA,Zaragoza,SPA
 cuatan,Cuatrecases, ,1962-09-24,SPA,Vich,SPA
 cuatpa,Cuñat,Pablo,2002-04-28,SPA,Valencia,SPA
+cubapa,Cubarsí,Pau,2007-01-22,SPA,Estanyol,SPA
 cubese,Cubero,Sergio,1999-09-05,SPA, ,SPA
 cubid1,Cubillas, ,1990-06-19,SPA,Castellón,SPA
 cubida,Cubillo, ,1978-01-06,SPA,Madrid,SPA
@@ -2785,6 +2833,7 @@ dabbmu,Dabbur,Munas,1992-05-14,ISR,Nazareth,ISR
 dabomo,Dabo,Mouhamadou,1986-11-28,FRA,Dakar,SEN
 dacoan,Dacosta, ,1958-10-21,SPA,Ourense,SPA
 dacojo,Dacosta, ,1974-09-21,SPA,Ourense,SPA
+dadial,Dadie,Alberto,2002-07-20,SPA,San Sebastián,SPA
 dadilu,Dadíe, ,1966-05-17,SPA,Pasajes de San Juan,SPA
 dadyed,Dady, ,1981-08-13,CVE,Lissabon,POR
 dajkla,Dajka,László,1959-04-29,HUN,Nyíregyháza,HUN
@@ -2883,8 +2932,10 @@ diakm2,Diakité,Moussa,2003-11-04,MLI, ,MLI
 diakmo,Diakité,Modibo,1987-03-02,FRA,Bourg-en-Bresse,FRA
 diakpa,Diakhaté,Pape,1984-06-21,SEN,Dakar,SEN
 dialib,Diallo,Ibrahim,1996-08-12,MLI, ,MLI
+dialse,Diallo,Selu,2003-10-01,SPA,Huesca,SPA
 diamch,Diamanka,Cheikh,2001-01-20,SEN, ,SEN
 diampa,Diamanka,Pape,1990-01-10,SEN,Dakar,SEN
+diaous,Diao,Usse,2005-09-07,SPA,Ndongane,SEN
 diarca,Diarte,Carlos,1954-01-26,PAR,Asunción,PAR
 diarla,Diarra,Lassana,1985-03-10,FRA,Paris,FRA
 diarm1,Diarra,Mamady,2000-06-26,MLI,Bamako,MLI
@@ -2930,6 +2981,7 @@ diazt1,Díaz,Toño,1953-01-12,SPA,Valladolid,SPA
 diazto,Díaz,Torres,1927-03-19,SPA,Las Palmas,SPA
 diazv1,Díaz,Víctor,1988-06-12,SPA,Sevilla,SPA
 diazvi,Diaz,Vicente,1929-04-17,SPA,Granada,SPA
+didhfa,Diédhiou,Famara,1992-12-15,SEN,Saint-Louis,SEN
 didiwa,Didí, ,1928-10-08,BRA,Campos,BRA
 diedam,Diedhiou,Amath,1996-07-16,SEN,Dakar,SEN
 diegad,Diéguez, ,1996-02-04,SPA,Madrid,SPA
@@ -3023,6 +3075,7 @@ domir1,Domínguez,Rodri,1946-04-02,SPA,La Algaba,SPA
 domira,Domingo, ,1954-09-22,SPA,Cuart de Poblet,SPA
 domiro,Domínguez,Rogelio,1931-03-09,ARG,Buenos Aires,ARG
 domnca,Domínguez,Carlos,2001-02-11,SPA,Vigo,SPA
+domnis,Domínguez,Isra,2003-05-07,SPA,Antequera,SPA
 domnja,Domínguez,Javi,2001-03-26,SPA,Madrid,SPA
 domnma,Domínguez,Mario,2004-02-10,SPA,Granda,SPA
 domocy,Domoraud,Cyril,1971-07-22,CIV,Lakota,CIV
@@ -3054,7 +3107,9 @@ dougdo,Douglas, ,1990-08-06,BRA,Monte Alegre de Goiás,BRA
 doukch,Doukouré,Cheick,1992-09-11,CIV,Abidjan,CIV
 doumid,Doumbia,Idrissa,1998-04-14,CIV,Yamoussoukro,CIV
 doumse,Doumbia,Seydou,1987-12-31,CIV,Yamoussoukro,CIV
+douvan,Douvikas,Anastasios,1999-08-02,GRE,Athen,GRE
 dovajo,Doval,Jorge,1949-02-14,ARG,Buenos Aires,ARG
+dovbar,Dovbyk,Artem,1997-06-21,UKR,Cherkasy,UKR
 dragiv,Dragutinović,Ivica,1975-11-13,YUG,Prijepolje,YUG
 drapma,Draper,Mark,1970-11-11,ENG,Long Eaton,ENG
 drazde,Drazič,Dejan,1995-09-26,YUG,Sombor,YUG
@@ -3160,10 +3215,12 @@ efraef,Efrain, ,0000-00-00,SPA, ,SPA
 eganpe,Egaña, ,1933-04-15,SPA,Pamplona,SPA
 egeajo,Egea, ,1939-08-27,SPA,Cartagena,SPA
 eggeda,Eggen,Dan,1970-01-13,NOR,Oslo,NOR
+eghoeg,Eghosa, ,2004-03-17,BEN,Benín City,BEN
 eguaeg,Eguaras, ,1992-03-07,SPA,Antsoain,SPA
 eguifr,Eguia, ,0000-00-00,SPA,Barakaldo,SPA
 eguipe,Eguiluz, ,1921-06-14,SPA,Madrid,SPA
 eguito,Eguia, ,1911-01-06,SPA,San Sebastián,SPA
+egulun,Eguíluz,Unai,2002-03-19,SPA,Durango,SPA
 egurse,Eguren,Sebastián,1981-01-08,URU,Montevideo,URU
 egusfr,Egusquiaguire, ,1911-08-14,SPA,Las Arenas,SPA
 egusjo,Egusquiza, ,1932-11-24,SPA,Erandio,SPA
@@ -3227,9 +3284,9 @@ emere1,Emerson, ,1976-04-04,BRA,Pelotas,BRA
 emere2,Emerson, ,1999-01-14,BRA,São Paulo,BRA
 emerem,Emerson, ,1972-04-12,BRA,Rio de Janeiro,BRA
 emerun,Emery,Unai,1971-11-03,SPA,Hondarribi,SPA
-emets1,Emeterio,San,1930-03-15,SPA,Santander,SPA
-emets2,Emeterio,San,1936-07-10,SPA,Santander,SPA
-emetsa,Emeterio,San,1909-05-06,SPA,Santander,SPA
+emets1,San Emeterio, ,1930-03-15,SPA,Santander,SPA
+emets2,San Emeterio, ,1936-07-10,SPA,Santander,SPA
+emetsa,San Emeterio, ,1909-05-06,SPA,Santander,SPA
 emile1,Emilio, ,0000-00-00,SPA, ,SPA
 emile2,Emilio, ,1938-08-22,SPA,Gijón,SPA
 emile3,Emilio, ,0000-00-00,SPA, ,SPA
@@ -3322,6 +3379,7 @@ esnaj1,Esnáider,Juan,1973-03-05,ARG,Mar del Plata,ARG
 esnajo,Esnaola, ,1946-06-30,SPA,Andoaín,SPA
 esnaju,Esnaola, ,1954-12-13,SPA,Éibar,SPA
 esnavi,Esnaola, ,1934-04-01,SPA,San Sebastián,SPA
+esnifa,Esnáider,Facu,2001-11-09,SPA,Oporto,POR
 espaib,Espadas, ,1978-08-04,SPA,Tolosa,SPA
 espaj1,Esparza,Jokín,1988-06-15,SPA,Pamplona,SPA
 espajo,Espada, ,1912-06-07,SPA,Palafrugell,SPA
@@ -3335,6 +3393,7 @@ espeju,Espejo, ,1962-07-22,SPA,Avilés,SPA
 espema,Esperanza,Martín,1936-06-05,SPA,Verín,SPA
 espia1,Espino,Alfonso,1992-01-05,URU,San Jacinto,URU
 espial,Espiga, ,1923-10-11,SPA,Badalona,SPA
+espian,Espigares,Antonio,2004-09-05,SPA,Granada,SPA
 espibe,Espinosa,Bernardo,1989-07-11,COL,Cali,COL
 espica,Espinosa,Campos,1950-10-25,SPA,Cantillana,SPA
 espicr,Espinoza,Cristian,1995-04-03,ARG,Buenos Aires,ARG
@@ -3447,6 +3506,7 @@ fabrfa,Fabricio, ,1987-12-31,SPA,Vecindario,SPA
 fabrjo,Fabregat,Jordi,1961-12-04,SPA,Tortosa,SPA
 fabrju,Fabregat, ,1955-01-25,SPA,Castellón de la P.,SPA
 fabrro,Fabri,Rodrigo,1976-01-15,BRA,Santo André/São Paulo,BRA
+fadaal,Fadal,Ali,2004-01-14,GHA,Kumasi,GHA
 fadiha,Fadil,Hassan,1962-02-03,MAR,Fez,MAR
 fagida,Fagiani,Daniel,1974-01-22,ARG,Pujato,ARG
 faizil,Faizulin,Ilshat,1973-03-05,RUS,Kemerovo,RUS
@@ -3483,6 +3543,7 @@ faubju,Faubert,Julien,1983-08-01,MRQ,Le Havre,FRA
 faurag,Faura, ,1927-09-03,SPA,Gavá,SPA
 fausf1,Fausto, ,1990-01-08,SPA,Talavera la Real,SPA
 fausfa,Fausto, ,1905-01-28,BRA,Codó,BRA
+fayemi,Faye,Mikayil,2004-07-14,SEN,Sedhiou,SEN
 fazife,Fazio,Federico,1987-03-17,ARG,Buenos Aires,ARG
 fbrear,Fàbrega,Arnau,2000-06-28,SPA,Llançà,SPA
 febaa1,Febas,Aleix,1996-02-02,SPA,Lleida,SPA
@@ -3513,6 +3574,7 @@ felif9,Felipe, ,1988-01-10,SPA,Madrid,SPA
 felifa,Felício,Fábio,1982-05-02,POR,Faro,POR
 felife,Feliciano, ,1910-12-14,SPA,Culleredo,SPA
 felifl,Félix, ,0000-00-00,SPA,Santiago Compostela,SPA
+feliga,Felipe,Gabriel,2002-01-15,SPA, ,SPA
 felijo,Félix,João,1999-11-10,POR,Viseu,POR
 feliju,Felipe, ,1954-02-04,SPA,La Orotava,SPA
 felilu,Felipe,Luiz,1997-03-22,ITA,Colina,BRA
@@ -3526,6 +3588,7 @@ ferean,Férez,Ángel,1966-01-20,SPA,Sevilla,SPA
 fermf1,Fermín, ,1967-04-10,SPA,Pamplona,SPA
 fermf2,Fermín, ,1963-11-18,SPA,Sevilla,SPA
 fermf3,Fermín, ,1967-07-15,SPA,Grado,SPA
+fermf4,Fermín, ,2003-05-11,SPA,Minas de Riotinto,SPA
 fermfe,Fermin, ,1914-06-26,SPA,Sevilla,SPA
 fermjo,Fermin, ,1948-03-14,SPA,Madrid,SPA
 ferna1,Fernández, ,1916-02-16,SPA,El Arahal,SPA
@@ -3570,6 +3633,7 @@ fernfe,Fernando, ,1906-03-01,BRA,Rio de Janeiro,BRA
 ferng1,Fernández,García,1938-02-15,SPA,Mondoñedo,SPA
 ferng2,Fernández,Gustavo,1952-02-16,URU,Montevideo,URU
 ferng3,Fernández,Gabriel,1994-05-13,URU,Montevideo,URU
+ferng4,Fernandes,Guilherme,2001-03-28,POR,Lisboa,POR
 fernga,Fernández,García,1941-11-16,SPA,Ponferrada,SPA
 ferngo,Fernández,Gonzalez,1928-02-01,SPA,A Coruña,SPA
 ferngu,Fernández,Guerrero,1929-07-26,SPA,Sevilla,SPA
@@ -3586,6 +3650,7 @@ fernjo,Fernandez, ,0000-00-00,SPA,Sevilla,SPA
 fernju,Fernández,Juan,1948-09-16,SPA,El Ferrol,SPA
 fernl1,Fernández, ,1962-04-26,SPA,Tortosa,SPA
 fernl2,Fernández,Luis,1972-09-27,SPA,Argomia de Cayon,SPA
+fernl3,Fernández,Álvaro,2003-03-23,SPA,Ferrol,SPA
 fernlo,Fernández,Lolo,1961-02-22,SPA,Valladolid,SPA
 fernlu,Fernando,Luis,1964-09-03,SPA,Villafafila,SPA
 fernlv,Fernández,Álvaro,2000-04-10,SPA,Madrid,SPA
@@ -3613,6 +3678,7 @@ fernru,Fernández,Rubén,1960-03-30,ARG,Santa Sybrina,ARG
 fernse,Fernández,Sebastián,1985-05-23,URU,Montevideo,URU
 fernte,Fernández,Teodoro,1948-04-26,ARG,San Juan,ARG
 ferra1,Ferrando, ,1943-02-27,SPA,Amposta,SPA
+ferra2,Ferreira,André,1996-05-29,POR,Vila Nova de Gaia,POR
 ferral,Ferrer,Albert,1970-06-06,SPA,Barcelona,SPA
 ferran,Ferrandiz, ,1930-09-26,SPA,Hondón Frailes,SPA
 ferrbu,Ferreira,Buenaventura,1960-07-04,PAR,Dr. Cecilio Báez,PAR
@@ -3635,14 +3701,17 @@ ferrjo,Ferrer, ,1960-02-06,SPA,Bañolas,SPA
 ferrma,Ferron, ,1912-11-15,SPA,Santiago Compostela,SPA
 ferrmi,Ferrer, ,1932-11-28,SPA,Tárrega,SPA
 ferros,Ferrero,Óscar,1955-05-03,ARG,Buenos Aires,ARG
+ferrp1,Ferrer,Pau,2003-10-17,SPA,Benicarló,SPA
 ferrpa,Ferreira,Patxi,1967-05-22,SPA,Saucelle,SPA
 ferrv1,Ferreira,Virgilio,1973-01-28,PAR,Atyra,PAR
 ferrva,Ferreira,Valeriano,1944-12-15,PAR,Asunción,PAR
 ferrvc,Ferreras, ,1972-11-18,SPA,Benavente,SPA
 ferrvi,Ferrusas, ,0000-00-00,SPA, ,SPA
+fettra,Fettal,Rachad,2005-01-16,SPA, ,SPA
 feuifr,Feuillassier,Francisco,1998-05-12,ARG,Mar del Plata,ARG
 feuxan,Feu, ,1962-08-01,SPA,Ronda,SPA
 fexxed,Fe,Éric de la,1994-01-14,SPA,Telde,SPA
+fiabbr,Fiabema,Bryan,2003-02-16,NOR,Tromsø,NOR
 fichjo,Ficha, ,1939-05-15,SPA,Linares,SPA
 fidalv,Fidalgo, ,1997-04-09,SPA,Oviedo,SPA
 fidefi,Fidel, ,1989-10-27,SPA,Dehesa de Riotinto-Minas de Riotinto,SPA
@@ -3662,6 +3731,7 @@ filoma,Filosía,Martí,1945-09-15,SPA,Palafrugell,SPA
 finama,Finarolli,Mario,1953-01-31,ARG,Buenos Aires,ARG
 finihu,Fininho, ,1983-03-20,POR,Lisboa,POR
 finnal,Finnbogason,Alfreð,1989-02-01,ISL,Reykjavík,ISL
+finnjo,Finn,John,2003-09-24,IRL,Madrid,SPA
 finnst,Finnan,Steve,1976-04-24,IRL,Limerick,IRL
 fiorst,Fiore,Stefano,1975-04-17,ITA,Cosenza,ITA
 firpju,Firpo,Junior,1996-08-22,RDO,Santo Domingo,RDO
@@ -3729,7 +3799,9 @@ fornpa,Fornals,Pablo,1996-02-22,SPA,Castellón de la Plana,SPA
 fornqu,Fornos,Quique,1997-01-01,SPA,A Coruña,SPA
 forote,Foro, ,1921-01-09,SPA,Lérez,SPA
 forroc,Forrón,Ochoa,1931-01-23,SPA,Laredo,SPA
+forsle,Forés,Álex,2001-04-12,SPA,Real de Montroi,SPA
 fortel,Fortunato,Elio,1956-10-23,ARG,Mar del Plata,ARG
+forthc,Fort,Héctor,2006-08-02,SPA,Barcelona,SPA
 fortju,Forteza, ,1937-04-11,SPA,Palma de Mallorca,SPA
 fortng,Fortuño,Ángel,2001-10-05,SPA,Barcelona,SPA
 fortpa,Fortes,Paco,1955-01-04,SPA,Barcelona,SPA
@@ -3737,6 +3809,7 @@ fortqu,Fortune,Quinton,1977-05-21,RSA,Capetown,RSA
 fouldi,Foulquier,Dimitri,1993-03-23,FRA,Sarcelles,FRA
 foytju,Foyth,Juan,1998-01-12,ARG,La Plata,ARG
 frades,Fradera, ,1963-05-07,SPA,Santa Coloma Farnera,SPA
+fragai,Fraga,Aitor,2003-03-09,SPA,Hernani,SPA
 fragfr,Fragapane,Franco,1993-02-06,ARG,Mendoza,ARG
 fragra,Fraguas, ,1957-01-02,SPA,Ourense,SPA
 fraiad,Fraile, ,1960-01-15,SPA,Madrid,SPA
@@ -3806,7 +3879,9 @@ fustjo,Fusté, ,1941-04-15,SPA,Liñola,SPA
 fustse,Fustero, ,1924-09-19,SPA,Alagón,SPA
 fustsi,Fuster,Sierra,1950-04-28,SPA,Alcira,SPA
 futrpa,Futre, ,1966-02-28,POR,Montijo,POR
+fuzada,Fuzato,Daniel,1997-07-04,BRA,Santa Bárbara d´Oeste,BRA
 gabafr,Gabari, ,1953-01-15,SPA,Olite,SPA
+gabbma,Gabbia,Matteo,1999-10-21,ITA,Busto Arsizio,ITA
 gabema,Gabella, ,0000-00-00,SPA,Barcelona,SPA
 gabig1,Gabi, ,1965-03-15,SPA,Santander,SPA
 gabig2,Gabi, ,1983-07-10,SPA,Madrid,SPA
@@ -3825,6 +3900,7 @@ gaciru,Gacituaga, ,1904-02-04,SPA,Santander,SPA
 gagofe,Gago,Fernando,1986-04-10,ARG,Ciudadela,ARG
 gagoqu,Gago, ,1928-02-03,SPA,S.Martín Valderaduey,SPA
 gaguge,Gagua,Georgi,2001-10-10,GEO, ,GEO
+gagugi,Gagua,Giorgi,2001-10-10,GEO,Tbilisi,GEO
 gaillu,Gail, ,1961-02-23,SPA,Valladolid,SPA
 gainmi,Gainza, ,1920-07-05,SPA,Basauri,SPA
 gainpi,Gaínza,Piru,1922-05-28,SPA,Basauri,SPA
@@ -3984,6 +4060,8 @@ garcg1,Garcia, ,0000-00-00,SPA, ,SPA
 garcg2,Garcia, ,0000-00-00,SPA, ,SPA
 garcg3,García,García,1921-05-05,SPA,Valencia,SPA
 garcg4,García,Germán,2004-02-01,SPA,Alcalá de Guadaíra,SPA
+garcg5,García,Gonzalo,2004-03-24,SPA,Madrid,SPA
+garcg6,García,Gaizka,2005-02-17,SPA,Vitoria,SPA
 garcga,García,García,1906-04-05,SPA,Murcia,SPA
 garcge,Garcia,Genaro,1944-04-19,PAR,Ypacarai,PAR
 garcgi,García,Gilberto,1987-01-27,COL,Bogotá,COL
@@ -3994,6 +4072,7 @@ garch2,García,Herrero,1961-04-30,SPA,Santander,SPA
 garche,García,Herrera,0000-00-00,SPA, ,SPA
 garcho,García,Horacio,1934-06-01,ARG,Buenos Aires,ARG
 garchu,García,Huguet,1959-08-27,SPA,Moncada y Rexach,SPA
+garci1,García,Imanol,2000-06-08,SPA,Gallarta,SPA
 garcim,García,Imanol,1995-12-26,SPA,Escaroz,SPA
 garcj1,Garcia,Juan,1941-04-22,SPA,Barcelona,SPA
 garcj2,García,Julio,1965-05-02,SPA,Sevilla,SPA
@@ -4005,6 +4084,7 @@ garcj7,García,Javi,1987-02-08,SPA,Murcia,SPA
 garcj8,García,José,1997-01-13,SPA, ,SPA
 garcj9,García,Javier,1996-06-23,SPA, ,SPA
 garcjA,García,Joan,2001-05-04,SPA,Sallent de Llobregat,SPA
+garcjB,García,Jastin,2004-01-15,SPA,Lleida,SPA
 garcja,García,Javi,1956-01-30,SPA,Madrid,SPA
 garcjo,García,Jon,1961-10-16,SPA,Bilbao,SPA
 garcju,García,Julian,1929-02-24,SPA,Madrid,SPA
@@ -4015,8 +4095,10 @@ garcl3,García,Lopo,1980-05-05,SPA,Hospitalet de Llobregat,SPA
 garcl4,García,Luis,1981-02-06,SPA,Oviedo,SPA
 garcl5,García,Luis,1979-04-23,SPA,Toledo,SPA
 garcl6,García,Lucho,1998-03-20,COL,Barranquilla,COL
+garcle,García,Álex,2006-07-06,SPA,Jerez de la Frontera,SPA
 garclo,García,López,1957-09-06,SPA,Madrid,SPA
 garclu,García,Luis,1946-05-13,SPA,Viveiro,SPA
+garclv,García,Álvaro,2005-09-15,SPA,Alicante,SPA
 garcm1,García,Mario,1924-02-15,SPA,Barcelona,SPA
 garcm2,García,Marin,1935-04-29,SPA,Madrid,SPA
 garcm3,García,Martínez,1940-08-18,SPA,Regumiel de la Sierr,SPA
@@ -4075,6 +4157,7 @@ garmjo,Garmendia,Joseba,1985-10-04,SPA,Basauri,SPA
 garmla,Garmendia,Lasa,1931-05-05,SPA,Villafranca de Oria,SPA
 garral,Garrido,Aleix,2004-02-22,SPA,Ripoll,SPA
 garran,Garrido, ,1943-03-20,SPA,Espera,SPA
+garrc1,Garrido,Carles,2004-10-04,SPA,Barcelona,SPA
 garrca,Garrastazu,Campos,1922-08-05,SPA,Getaria,SPA
 garren,Garrido,Enrique,0000-00-00,SPA,Sevilla,SPA
 garrfl,Garrido, ,1952-10-12,SPA,Madrid,SPA
@@ -4094,6 +4177,7 @@ garzjo,Garzón, ,1946-08-04,SPA,Valencia,SPA
 gascj1,Gasca, ,1940-01-05,SPA,Los Arcos,SPA
 gascja,Gasca,Javi,2000-02-24,SPA,Huesca,SPA
 gascjo,Gascon, ,1925-02-25,SPA,Barcelona,SPA
+gasiya,Gasiorowski,Yarek,2005-01-12,SPA,Polinyà del Xúquer,SPA
 gaspg1,Gaspar, ,1979-07-07,SPA,Córdoba,SPA
 gaspga,Gaspar, ,1968-06-09,SPA,Oviedo,SPA
 gaspm1,Gaspar,Mario,1990-11-24,SPA,Novelda,SPA
@@ -4107,6 +4191,7 @@ gasupe,Gasulla,Pérez,1921-06-21,SPA,Barcelona,SPA
 gatege,Gatell, ,1940-09-06,SPA,Torredembarra,SPA
 gatoja,Gato, ,1935-10-29,SPA,Irún,SPA
 gatoma,Gato, ,1984-01-28,SPA,Benidorm,SPA
+gattfe,Gattoni,Federico,1999-02-16,ARG,Buenos Aires,ARG
 gausan,Gausi, ,1927-12-10,SPA,Lleida,SPA
 gaviga,Gavi, ,2004-08-05,SPA,Los Palacios y Villafranca,SPA
 gavija,Gavilán, ,1985-05-12,SPA,Valencia,SPA
@@ -4189,6 +4274,7 @@ gimeen,Gimenez, ,1926-03-11,SPA,Beasaín,SPA
 gimehu,Gimenez,Humberto,1923-12-31,ARG,Rosaria de Santa Fe,ARG
 gimejo,Giménez,José,1995-01-20,URU,Canelones,URU
 gimema,Gimeno, ,1926-05-29,SPA,Barclona,SPA
+gimes1,Gimeno,Sergio,2001-05-25,SPA,Valencia,SPA
 gimesa,Gimeno, ,1930-01-01,SPA,Llinñas del Valles,SPA
 gimese,Giménez,Sebastián,1950-06-20,ARG,Buenos Aires,ARG
 gimnca,Giménez,Carlos,2003-02-18,SPA,Sedaví,SPA
@@ -4216,6 +4302,7 @@ glarja,Glaria, ,1938-11-06,SPA,Villafranca,SPA
 glarje,Glaría, ,1942-01-02,SPA,Villafranca,SPA
 glarjo,Glaria,José,1929-07-21,SPA,Villafranca,SPA
 glaugl,Glaucio, ,1975-11-11,BRA,Sâo Paulo,BRA
+glerar,Güler,Arda,2005-02-25,TUR,Ankara,TUR
 glusig,Gluščević,Igor,1974-03-30,MNT,Budva, 
 glvepa,Gálvez,Pablo,2001-10-30,SPA,Burgos,SPA
 gmezda,Gómez,Dani,1998-07-30,SPA,Alcorcón,SPA
@@ -4225,6 +4312,7 @@ gmezse,Gómez,Sergio,2000-09-04,SPA,Badalona,SPA
 gmezun,Gómez,Unai,2003-05-25,SPA,Bermeo,SPA
 gnagjo,Gnagnon,Joris,1997-01-13,FRA,Bondy,FRA
 gnakcl,Gnakpa,Claude,1983-04-09,FRA,Marseille,FRA
+gndolk,Gündoğan,İlkay,1990-10-24,GER,Gelsenkirchen,GER
 gobeed,Goberna, ,1928-09-21,SPA,San Pelayo,SPA
 godidi,Godín,Diego,1986-02-16,URU,Rosario,URU
 godoal,Godoy,Alan,2003-05-04,SPA,Las Palmas de Gran Canaria,SPA
@@ -4328,6 +4416,7 @@ gonzgi,González,Giovanni,1994-09-20,URU,Montevideo,URU
 gonzgo,Gonzalo, ,0000-00-00,SPA, ,SPA
 gonzhu,González,Hugo,2003-02-07,SPA,Valencia,SPA
 gonzi1,González,Ignacio,1971-12-17,ARG,Sarandi,ARG
+gonzi2,González,Iñaki,2004-07-27,SPA,Badajoz,SPA
 gonzia,González,Ian,1993-02-11,SPA,Madrid,SPA
 gonzig,González,Ignacio,0000-00-00,SPA, ,SPA
 gonziv,González,Iván,1988-02-15,SPA,Torremolinos,SPA
@@ -4343,10 +4432,12 @@ gonzja,González,Javi,1975-11-13,VEN,Caracas,VEN
 gonzjo,González, ,1916-10-08,SPA,Madrid,SPA
 gonzju,Gonzalvo, ,1917-04-11,SPA,Mollet,SPA
 gonzki,González,Kily,1974-08-04,ARG,Rosario,ARG
+gonzle,González,Álex,2002-08-08,SPA,Santa Cruz de Tenerife,SPA
 gonzm1,González,Manuel,1943-05-26,SPA,Granada,SPA
 gonzm2,González,Martín,1964-04-28,SPA,Madrid,SPA
 gonzm3,González,Mark,1984-07-10,CHI,Durban,RSA
 gonzm4,González,Mario,1996-02-25,SPA,Burgos,SPA
+gonzm5,González,Mario,2004-02-05,SPA,Málaga,SPA
 gonzma,Gonzalvo, ,1922-03-22,SPA,Mollet del Vallés,SPA
 gonzmc,Carcela-González,Mehdi,1989-07-01,MAR,Liège,BEL
 gonzna,González,Nacho,1982-05-14,URU,Montevideo,URU
@@ -4420,10 +4511,12 @@ graura,Grau, ,1929-09-24,SPA,La Garriga,SPA
 gravth,Gravesen,Thomas,1976-03-11,DEN,Vejle,DEN
 grbiiv,Grbić,Ivo,1996-01-18,CRO,Split,CRO
 greege,Green,Georges,0000-00-00,ENG, ,ENG
+greema,Greenwood,Mason,2001-10-01,ENG,Wibsey,ENG
 gregmi,Gregori,Miguel,1958-01-22,SPA,La Font d'en Carròs,SPA
 greido,Greif,Dominik,1997-04-06,SVK,Bratislava,SVK
 grencl,Grenier,Clément,1991-01-07,FRA,Annonay,FRA
 greual,Greus, ,1924-11-29,SPA,Alginet,SPA
+grgead,Gríger,Adam,2004-03-16,SVK,Prešov,SVK
 griean,Griezmann,Antoine,1991-03-21,FRA,Mâcon,FRA
 grifjo,Griffa,Jorge,1935-09-07,ARG,Casilda,ARG
 grimas,Grimes,Ashley,1957-08-02,IRL,Dublín,IRL
@@ -4541,6 +4634,7 @@ hadjmu,Hadji,Mustapha,1971-11-16,MAR,Ifrane Atlas-Saghir,MAR
 hadzfa,Hadžibegić,Faruk,1957-10-07,BOS,Sarajevo, 
 hagaji,Hagan,Jim,1956-10-10,IRL,Monkstone,IRL
 hagigh,Hagi,Gheorghe,1965-02-05,ROM,Săcele,ROM
+hagiia,Hagi,Ianis,1998-10-22,ROM,Istanbul,TUR
 hajriz,Hajrović,Izet,1991-08-04,BOS,Brugg,SUI
 hakiac,Hakimi,Achraf,1998-11-04,MAR,Madrid,SPA
 halial,Halilović,Alen,1996-06-18,CRO,Dubrovnik,CRO
@@ -4634,6 +4728,7 @@ hernth,Hernández,Theo,1997-10-06,FRA,Marseille,FRA
 hernun,Hernández,Unai,2004-12-14,SPA,Badalona,SPA
 hernv1,Hernández,Virgilio,1968-09-05,SPA,Chalons,FRA
 hernvi,Hernández, ,1917-12-28,SPA,Valencia,SPA
+herral,Herranz,Alejandro,2004-11-26,SPA,Madrid,SPA
 herran,Herrera,Ander,1989-08-14,SPA,Bilbao,SPA
 herrbo,Herrera,Borja,1993-01-08,SPA,Las Palmas de Gran Canaria,SPA
 herrc1,Herrero,Chus,1984-02-10,SPA,Zaragoza,SPA
@@ -4679,6 +4774,7 @@ herzma,Herzig,Marius,1999-12-17,GER,Waldkirchen,GER
 hespru,Hesp,Ruud,1965-10-31,NED,Bussum,NED
 hevije,Hevia, ,1965-12-24,SPA,Pola de Siero,SPA
 hevimu,Hevia,Muñiz,1932-04-05,SPA,Avilés,SPA
+heydsV,Heyden,Siebe Van Der,1998-05-30,BEL,Denderleeuw,BEL
 hibimi,Hibić,Mirsad,1973-10-11,BOS,Zenica,BOS
 hichhi,Hicham, ,1995-05-07,SPA,San Javier,SPA
 hickra,Hicks,Ramón,1959-05-30,PAR,Asunción,PAR
@@ -4733,6 +4829,7 @@ hoyode,Del Hoyo, ,1923-02-06,SPA,Madrid,SPA
 hualjo,Hualde,José,1998-04-28,SPA,Pamplona,SPA
 huarga,Huard,Gaétan,1962-01-12,FRA,Montargis,FRA
 huarju,Huarte, ,1935-09-17,SPA,Lesaca,SPA
+huarxa,Huarte,Xabi,2001-02-25,SPA,Pamplona,SPA
 huchma,Hucha, ,0000-00-00,SPA,Sevilla,SPA
 huegai,Huegun, ,1972-08-09,SPA,San Sebastián,SPA
 hueral,Huerta,Álvarez,1946-10-22,SPA,Santisteban Puerto,SPA
@@ -4796,6 +4893,7 @@ idiaii,Idiakez, ,1973-11-08,SPA,San Sebastián,SPA
 idigma,Idigoras, ,1940-01-01,SPA,Sevilla,SPA
 idigsa,Idígoras, ,1953-07-24,SPA,Oñate,SPA
 idriou,Idrissi,Oussama,1996-02-26,MAR,Bergen op Zoom,NED
+idumst,Idumbo-Muzambo,Stanis,2005-06-29,BEL,Melun,FRA
 ienaak,Ienaga,Akihiro,1986-06-13,JAP,Nagaokakyō,JAP
 iexxed,Ié,Edgar,1994-05-01,POR,Bissau,GBS
 ifradi,Ifrán,Diego,1987-06-08,URU,Montevideo,URU
@@ -4894,6 +4992,7 @@ irazjo,Irazusta, ,1986-04-30,SPA,Usurbil,SPA
 irazju,Irazusta, ,1948-05-28,SPA,Hernani,SPA
 iriacl,Iriarte, ,1946-07-25,SPA,Pamplona,SPA
 iriasa,Iriarte, ,1952-04-02,SPA,Beasaín,SPA
+iribbr,Iribarne,Bruno,2004-08-18,SPA,Almería,SPA
 iribjo,Iríbar, ,1943-03-01,SPA,Zarautz,SPA
 irigfr,Iriguibel, ,1951-04-28,SPA,Pamplona,SPA
 irinir,Iriney, ,1981-04-23,BRA,Humaitá,BRA
@@ -4992,6 +5091,7 @@ jacoju,Jacob, ,1978-02-08,SPA,Santa Cruz de Tenerife,SPA
 jacqma,Jacquet,Mario,1946-07-29,PAR,Aldebi,PAR
 jacqra,Jacques, ,1971-12-31,BRA,Porto Alegre,BRA
 jaenra,Jaén, ,1949-01-03,SPA,Córdoba,SPA
+jailja,Jailson, ,1995-09-07,BRA,Caçapava do Sul,BRA
 jaimgu,Jaime,Guillem,1999-01-06,SPA,Tarragona,SPA
 jaimj1,Jaime, ,1971-09-21,SPA,Barcelona,SPA
 jaimj2,Jaime, ,1973-03-20,SPA,Madrid,SPA
@@ -5044,6 +5144,7 @@ jaurig,Jáuregui, ,1974-04-29,SPA,Tolosa,SPA
 jaurj1,Jauregi, ,1975-01-29,SPA,Tolosa,SPA
 jaurja,Jauregui, ,0000-00-00,SPA, ,SPA
 jaurjo,Jáuregui, ,1896-03-15,SPA,Las Arenas,SPA
+jaurmi,Jaureguizar,Mikel,2003-11-13,SPA,Bermeo,SPA
 jaurpa,Jáuregui, ,1910-05-04,SPA,Lejona,SPA
 jaursa,Jáuregui, ,1918-01-01,SPA,Bilbao,SPA
 javajp,Javary,Jean-Phillipe,1978-01-10,FRA,Montpellier,FRA
@@ -5099,6 +5200,7 @@ jimepa,Jiménez,Pastor,1922-07-27,SPA,Madrid,SPA
 jimera,Jiménez,Raúl,1991-05-05,MEX,Tepejí del Rio de Campo,MEX
 jimet1,Jiménez,Toni,1970-10-12,SPA,La Garriga,SPA
 jimeto,Jiménez,Tomás,1960-10-07,SPA,Villarrobledo,SPA
+jimnje,Jiménez,Jeremy,2003-02-09,SPA,Las Palmas,SPA
 jimnng,Jiménez,Ángel,2002-06-22,SPA,Granada,SPA
 jnssje,Jønsson,Jens,1993-01-10,DEN,Aarhus,DEN
 joanbe,Joanet, ,1935-09-15,SPA,Espulgues,SPA
@@ -5137,6 +5239,7 @@ jonyjo,Jony, ,1991-07-09,SPA,Cangas de Narcea,SPA
 jordca,Jordao, ,1964-11-06,BRA,Murutinga,BRA
 jordj1,Jordi, ,1974-05-13,SPA,Calahorra,SPA
 jordj2,Jordán,Joan,1994-07-06,SPA,Palamós,SPA
+jordj3,Jordi, ,2001-01-05,SPA,Madrid,SPA
 jordja,Jordá, ,0000-00-00,SPA,Barcelona,SPA
 jordjo,Jordà, ,0000-00-00,SPA,Figueres,SPA
 jordma,Jordão, ,1952-08-09,POR,Benguela,ANG
@@ -5151,14 +5254,14 @@ jorgj4,Jorge, ,1996-11-17,SPA,Santa Cruz de Tenerife,SPA
 jorgjo,Jorge,José,1941-05-07,SPA,Avilés,SPA
 jorqal,Jorquera, ,1979-03-03,SPA,Bescanó,SPA
 josajo,Josan, ,1989-12-03,SPA,Crevillente,SPA
-josee1,José,Emilio,1978-03-11,SPA,Medina del Campo,SPA
-joseem,José,Emilio,1971-01-04,SPA,Avilés,SPA
-josefr,José,Francisco,1965-05-29,SPA,San Fernando,SPA
+josee1,Emilio José, ,1978-03-11,SPA,Medina del Campo,SPA
+joseem,Emilio José, ,1971-01-04,SPA,Avilés,SPA
+josefr,Francisco José, ,1965-05-29,SPA,San Fernando,SPA
 josej1,Joselín, ,1938-02-21,SPA,Huelva,SPA
-josej2,José,Juan,1960-01-13,SPA,Coria del Río,SPA
-josej3,José,Juan,1957-07-29,SPA,Cádiz,SPA
+josej2,Juan José, ,1960-01-13,SPA,Coria del Río,SPA
+josej3,Juan José, ,1957-07-29,SPA,Cádiz,SPA
 josej4,Joseba, ,1964-03-17,SPA,Ortuella,SPA
-josej5,José,Juan,1969-01-17,SPA,La Algaba,SPA
+josej5,Juan José, ,1969-01-17,SPA,La Algaba,SPA
 josej6,Josete, ,1970-03-12,SPA,Huesca,SPA
 josej7,Josemi, ,1974-08-06,SPA,Madrid,SPA
 josej8,Josema, ,1969-01-16,SPA,San Sebastián,SPA
@@ -5172,12 +5275,12 @@ josejF,Josema, ,1996-06-06,SPA,Lorquí,SPA
 josejG,Joseda, ,2001-01-22,SPA,Sant Vicenç dels Horts,SPA
 josejH,Joseda, ,2002-05-01,SPA,Murcia,SPA
 josejo,Joseito, ,1926-12-23,SPA,Zamora,SPA
-joseju,José,Juan,1957-02-22,SPA,Coria del Río,SPA
-josems,José,Mikel San,1989-05-30,SPA,Iruñea,SPA
-josepe,José,Pedro,1967-11-19,SPA,Torremejia,SPA
-josesa,José,San,1989-05-30,SPA,Pamplona,SPA
-josev1,José,Victor,1959-04-22,SPA,Madrid,SPA
-josevi,José,Víctor,1962-01-03,SPA,Zaragoza,SPA
+joseju,Juan José, ,1957-02-22,SPA,Coria del Río,SPA
+josems,San José,Mikel,1989-05-30,SPA,Iruñea,SPA
+josepe,Pedro José, ,1967-11-19,SPA,Torremejia,SPA
+josesa,San José, ,1989-05-30,SPA,Pamplona,SPA
+josev1,Victor José, ,1959-04-22,SPA,Madrid,SPA
+josevi,Victor José, ,1962-01-03,SPA,Zaragoza,SPA
 josewi,José,Willian,1991-11-23,BRA,Porto Calvo (AL),BRA
 joshjo,Joshua, ,1989-01-28,SPA,Madrid,SPA
 josij1,Josico, ,1975-01-06,SPA,Hellín,SPA
@@ -5220,6 +5323,7 @@ juan1M,Juanma, ,1991-10-09,SPA,San José de la Rinconada,SPA
 juan1N,Juanje, ,1995-04-04,SPA,La Línea de la Concepción,SPA
 juan1O,Juanpe, ,1991-04-30,SPA,Las Palmas de Gran Canaria,SPA
 juan1P,Juanlu, ,2003-08-15,SPA,Sevilla,SPA
+juan1Q,Juanma, ,2004-05-13,SPA, ,SPA
 juanfr,Juanco, ,1926-04-09,SPA,Torrelavega,SPA
 juanj1,Juanito, ,0000-00-00,SPA, ,SPA
 juanj2,Juanete, ,1920-11-07,SPA,Madrid,SPA
@@ -5299,7 +5403,9 @@ justju,Justo, ,1938-12-08,SPA,Béjar,SPA
 jusufr,Jusué, ,1979-11-30,SPA,Tudela,SPA
 jutgfe,Jutglà,Ferrán,1999-02-01,SPA,Sant Julià de Vilatorta,SPA
 juvega,Juvé, ,0000-00-00,SPA, ,SPA
+jwiaka,Jóźwiak,Kamil,1998-04-22,POL,Międzyrzecz,POL
 kaakli,Kaak,Lion,1991-06-26,NED,Hengelo,NED
+kabaso,Kaba,Sory,1995-07-28,GUI,Conakry,GUI
 kaboab,Kabous,Abderrahman,1983-04-24,MAR,Meaux,FRA
 kadeab,Kader, ,1991-10-07,TUN,Décines-Charpieu,FRA
 kadeti,Kadewere,Tino,1996-01-05,ZIM,Harare,ZIM
@@ -5379,6 +5485,7 @@ kikeen,Kike, ,1971-01-20,SPA,Barakaldo,SPA
 kiknki,Kikín, ,2003-01-20,SPA,Trebujena (Cádiz),SPA
 kikofr,Kiko, ,1972-04-26,SPA,Jerez de la Frontera,SPA
 kiliki,Kilian, ,1992-09-28,SPA,Las Palmas de Gran Canaria,SPA
+killlv,Killane,Álvaro,2004-12-14,ARG,Gran Canaria,SPA
 killma,Killer,Mario,1951-08-15,ARG,Rosario,ARG
 kimxyg,Kim,Young Gyu,1995-01-05,KOR,Yeong Ju,KOR
 kiriil,Kiriakov,Ilian,1967-08-04,BUL,Pavlikeni,BUL
@@ -5394,6 +5501,7 @@ klimdi,Klimowicz,Diego,1974-07-06,ARG,Buenos Aires,ARG
 kluiju,Kluivert,Justin,1999-05-05,NED,Zaandam,NED
 kluipa,Kluivert,Patrick,1976-07-01,NED,Amsterdam,NED
 kobean,Kobelev,Andrey,1968-10-22,RUS,Moskva,RUS
+kochdi,Kochen,Diego,2006-03-19,USA,Miami,USA
 kochgi,Kochorashvili,Giorgi,1999-06-29,GEO,Tbilissi,GEO
 kocssa,Kocsis,Sándor,1929-09-23,HUN,Budapest,HUN
 kodrke,Kodro,Kenan,1993-08-19,BOS,San Sebastián,SPA
@@ -5418,6 +5526,7 @@ konepa,Kone,Panagiotis,1987-07-26,GRE,Tirana,ALB
 konkab,Konko,Abdoulay,1984-03-09,MAR,Marseille,FRA
 konoye,Konoplyanka,Yevhen,1989-09-29,UKR,Kirovograd,UKR
 konrot,Konrad,Otto,1964-11-01,AUT,Graz,AUT
+konxib,Koné,Ibrahima,1999-06-16,MLI,Bamako,MLI
 konxyo,Koné,Youssouf,1995-07-05,MLI,Bamako,MLI
 konyma,Konyk,Mariano,1998-02-15,ARG,Buenos Aires,ARG
 kopara,Kopa,Raymond,1931-10-13,FRA,Noeux-les-Mines,FRA
@@ -5429,7 +5538,9 @@ kortmi,Kortina, ,1974-03-26,SPA,Bilbao,SPA
 kosero,Kosecki,Roman,1966-02-15,POL,Piaseczno,POL
 kosoal,Kosolapov,Aleksey,1971-03-17,RUS,Pushkino,RUS
 kostem,Kostadinov,Emil,1967-08-12,BUL,Sofia,BUL
+kostil,Kostis,Ilias,2003-02-27,CYP,Salonica,GRE
 kostko,Kostis, ,2003-02-27,CYP,Salónica,GRE
+kouaro,Kouamé,Rominigue,1996-12-17,MLI,Lopou,CIV
 koubpe,Kouba,Petr,1969-01-28,CZE,Praha,CZE
 kounju,Koundé,Jules,1998-11-12,FRA,Paris,FRA
 koutle,Koutris,Leonardo,1995-07-23,GRE,Ribeirão Preto,BRA
@@ -5494,6 +5605,7 @@ lagoca,Lago,Carlos,1953-04-13,SPA,Vigo,SPA
 lagojo,Lago, ,1924-12-16,SPA,Vigo,SPA
 lagopa,Lago,Pablo,1974-08-31,SPA,Vegadeo,SPA
 lagoro,Lago,Roberto,1985-08-30,SPA,Vigo,SPA
+lagoyo,Lago,Yoel,2004-03-25,SPA,Mondariz,SPA
 lagufa,Laguardia,Fausto,1934-08-07,PAR,Villeta,PAR
 lagulu,Laguna, ,1951-02-25,SPA,Toledo,SPA
 lagupe,Laguardia, ,1934-06-27,SPA,San Sebastián,SPA
@@ -5522,6 +5634,7 @@ landje,Landa, ,1944-12-19,SPA,Zarauz,SPA
 landla,Landa, ,0000-00-00,SPA, ,SPA
 landma,Landeira,Marcos,1987-05-02,SPA,Gijón,SPA
 landre,Landa,Rejon,1911-05-04,SPA,Sestao,SPA
+langbr,Langa,Bruno,1997-10-31,MOZ,Maputo,MOZ
 langis,Lángara, ,1912-05-25,SPA,Pasajes de San Juan,SPA
 langmi,Langerak,Mitchell,1988-08-22,AUS,Emerald,AUS
 lannma,Lanna,Marco,1968-07-13,ITA,Genova,ITA
@@ -5633,6 +5746,7 @@ lecuju,Lecube, ,1906-05-12,SPA,Sestao,SPA
 lecung,Lecumberri, ,1970-01-21,SPA,Pamplona,SPA
 lecura,Lecuona, ,1913-03-16,SPA,Fuenterrabía,SPA
 lecusi,Lecue, ,1912-02-11,SPA,Arrigorriaga,SPA
+ledeco,Ledesma,Conan,1993-02-13,ARG,Pergamino,ARG
 ledeje,Ledesma,Jeremías,1993-02-13,ARG,Pergamino,ARG
 ledele,Ledesma, ,0000-00-00,SPA, ,SPA
 ledoce,Ledo, ,1934-11-22,SPA,Cabreiros,SPA
@@ -5653,6 +5767,7 @@ lejefl,Lejeune,Florian,1991-05-20,FRA,Paris,FRA
 lekide,Lekić,Dejan,1985-06-07,YUG,Kraljevo,YUG
 lekodr,Leković,Dragoje,1967-11-21,YUG,Sivac, 
 lekoiv,Leko,Ivan,1978-02-07,CRO,Split,CRO
+lekost,Leković,Stefan,2004-01-09,SRB,Beograd,SRB
 lekui1,Lekue,Iñigo,1993-05-04,SPA,Bilbao,SPA
 lekuii,Lekue, ,1993-05-04,SPA,Bilbao,SPA
 lelero,Lelé, ,1911-04-19,SPA,Marín,SPA
@@ -5668,6 +5783,7 @@ lemolv,Lemos, ,1993-03-30,SPA,La Coruña,SPA
 lemoma,Lemos,Mauricio,1995-12-28,URU,Rivera,URU
 lengcl,Lenglet,Clément,1995-06-17,FRA,Beauvais,FRA
 lenxca,León,Carlos,2002-12-05,SPA,Málaga,SPA
+lenxjd,de León,José,2004-03-02,RDO,Madrid,SPA
 lenxlD,De León,Lautaro,2001-02-09,URU,Montevideo,URU
 leonan,Leoncito, ,1909-08-30,SPA,Sevilla,SPA
 leonhd,De León,Hugo,1958-02-27,URU,Riera,URU
@@ -5694,6 +5810,7 @@ lestm1,Lestienne,Maxime,1992-06-17,BEL,Kortrijk,BEL
 lestma,Leston, ,1926-02-28,SPA,Vigo,SPA
 lewagr,Lewandowski,Grzegorz,1969-09-01,POL,Szczecin,POL
 lewaro,Lewandowski,Robert,1988-08-21,POL,Warszawa,POL
+leyxyu,Ley,Yuzún,2004-01-01,SPA, ,SPA
 lezaju,Lezama, ,1916-05-24,SPA,Bilbao,SPA
 lezapa,Leza,Pascual,1954-06-18,SPA,Tafalla,SPA
 lezara,Lezama, ,1922-11-29,SPA,Barakaldo,SPA
@@ -5799,6 +5916,7 @@ loesga,Loeschbor,Gabriel,1977-06-04,ARG,Santa Fe,ARG
 loexra,Loé,Raoul,1989-01-31,CMR,Courbevote,FRA
 logiri,Logíacono,Ricardo,1957-03-24,ARG,Rosario,ARG
 loinmi,Loinaz, ,1967-03-28,SPA,Andoaín,SPA
+loioen,Loiodice,Enzo,2000-11-27,FRA,Paris,FRA
 loisad,Lois,Adrián,1989-02-12,SPA,Valencia,SPA
 loisjo,Lois, ,1935-01-18,SPA,Santander,SPA
 lolim1,Loli, ,1930-06-14,SPA,Algeciras,SPA
@@ -5907,6 +6025,7 @@ lopeur,López,Urra,1947-03-06,SPA,Santurce,SPA
 lopev1,López,Víctor,1997-05-12,SPA,Logroño,SPA
 lopeva,López,Valle,1960-08-12,SPA,San Braulio,SPA
 lopevi,López,Víctor,1978-12-19,ARG,Córdoba,ARG
+lopydi,Lopy,Dion,2002-02-02,SEN,Dakar,SEN
 loraal,Lora, ,1987-03-25,SPA, ,SPA
 loraen,Lora, ,1945-05-07,SPA,La Puebla del Río,SPA
 loraju,Lorant, ,1953-04-04,URU,Montevideo,URU
@@ -5953,11 +6072,14 @@ lozar1,Lozano, ,1977-01-25,SPA,Salamanca,SPA
 lozara,Lozano, ,0000-00-00,SPA,Madrid,SPA
 lozase,Lozano,Sergio,1999-03-24,SPA,Benimuslem,SPA
 lozawa,Lozano,Walter,1966-01-09,ARG,San Luis,ARG
+lpezad,López,Adri,1999-01-09,SPA,Barcelona,SPA
 lpezd1,López,Diego,2001-10-21,SPA, ,SPA
+lpezda,López,David,2003-02-03,SPA,Palma de Mallorca,SPA
 lpezdi,López,Diego,2002-05-13,SPA,Turón (Asturias),SPA
 lpezfr,López,Fran,2002-01-24,SPA,A Coruña,SPA
 lpezja,López,Javi,2002-03-25,SPA,Santa Cruz de Tenerife,SPA
 lpezje,López,Jesús,2002-00-00,SPA,La Nucía,SPA
+lpezjo,López,Joel,2002-03-31,SPA,Barcelona,SPA
 lpezlv,López,Álvaro,1999-06-07,SPA,Madrid,SPA
 lpezma,López,Marcos,1991-01-09,ARG,Avellaneda,ARG
 lpezse,López,Sergio,1999-04-08,SPA,Remscheid,GER
@@ -6022,10 +6144,12 @@ luizdo,Luiz,Douglas,1998-05-09,BRA,Rio de Janeiro,BRA
 luizlu,Luizão, ,1975-11-14,BRA,Rubinéia,BRA
 lujajo,Lujambio,José,1929-01-09,URU,Montevideo,URU
 lujara,Luján, ,0000-00-00,SPA,Requena,SPA
+lukbdo,Lukébakio,Dodi,1997-09-24,BEL,Brussels,BEL
 lukisa,Lukić,Saša,1996-08-13,YUG,Šabac,YUG
 lukivl,Lukić,Vladan,1970-02-16,YUG,Sopot,YUG
 lumbjo,Lumbreras, ,1961-01-06,SPA,Tudela,SPA
 lunaan,Luna,Antonio,1991-03-17,SPA,Son Servera,SPA
+lunada,Luna,Daniel,2003-05-07,COL,Cali,COL
 lunaed,Luna, ,1936-03-02,SPA,Villa del Río,SPA
 lunaez,Luna,Ezequiel,1986-11-19,ARG,Rosario,ARG
 lunaju,Luna, ,1951-10-28,SPA,Madrid,SPA
@@ -6150,6 +6274,7 @@ mambmi,Mambrilla, ,1933-01-01,SPA,Valladolid,SPA
 mameju,Mameli,Juan,1948-03-05,ARG,Recreao,ARG
 manare,Manaj,Rey,1997-02-24,ALB,Lushnjë,ALB
 manaro,Mañas,Rober,1996-01-03,SPA,Talavera de la Reina,SPA
+manawi,Manafá,Wilson,1994-07-23,POR,Oliveira do Bairro,POR
 manca1,Manchado, ,1965-04-28,SPA,Sabadell,SPA
 mancan,Manceñido, ,1936-07-13,SPA,Ponferrada,SPA
 manced,Manchón, ,1930-07-24,SPA,Barcelona,SPA
@@ -6228,6 +6353,7 @@ manuvi,Manuel,Víctor,1967-06-28,SPA,Ponferrada,SPA
 manzfr,Manzanara,Fran,1996-09-12,SPA,La Solana,SPA
 manzj1,Manzanares, ,1966-02-16,SPA,Murcia,SPA
 manzjo,Manzanedo, ,1956-02-10,SPA,Burgos,SPA
+maoufa,Maouassa,Faitout,1998-07-06,FRA,Villepinte,FRA
 maquju,Maqueda, ,1969-01-23,SPA,Madrid,SPA
 maqupa,Maqueda, ,1971-01-18,SPA,Barcelona,SPA
 maraad,Marañon, ,1935-03-31,SPA,Olite,SPA
@@ -6275,6 +6401,7 @@ marcse,Marcos,Sergio,1992-02-03,SPA,Sacedón,SPA
 mardav,Mardones, ,0000-00-00,SPA,Vitoria,SPA
 mardjo,Mardones, ,1914-02-04,SPA,Vitoria,SPA
 mareen,Maresca,Enzo,1980-02-10,ITA,Pontecagnano,ITA
+marema,Marezi, ,2003-08-04,SRB,Smederevo,SRB
 marfar,Marfil,Arturo,1990-07-18,SPA, ,SPA
 marffr,Marfil, ,1950-02-11,SPA,Campanillas,SPA
 margxa,Margairaz,Xavier,1984-01-07,SUI,Rances,SUI
@@ -6433,6 +6560,9 @@ martjI,Martin,Jonas,1990-04-09,FRA,Besançon,FRA
 martjJ,Martínez,José,1993-02-12,SPA,La Palma del Condado,SPA
 martjK,Martín,Javi,1998-09-16,SPA,Azuqueca de Henares,SPA
 martjL,Martínez,José,1993-02-12,SPA,La Palma del Condado,SPA
+martjM,Martín,Jon,2006-04-23,SPA,San Sebastián,SPA
+martjN,Martínez,Javi,1999-12-22,SPA,Ólvega,SPA
+martjO,Martón,Javi,1999-05-06,SPA,Villafranca,SPA
 martja,Martins, ,1934-12-16,BRA,Carangola,BRA
 martje,Martínez,Jesús,1947-12-07,SPA,Cangas de Foz,SPA
 martjo,Martí, ,1922-01-30,SPA,Mataró,SPA
@@ -6498,6 +6628,7 @@ mas_ig,Mas, ,0000-00-00,SPA, ,SPA
 mascja,Mascherano,Javier,1984-06-08,ARG,Rosario,ARG
 masco1,Mascarell,Omar,1993-02-02,SPA,Santa Cruz de Tenerife,SPA
 mascom,Mascarell, ,1993-02-02,SPA,Santa Cruz de Tenerife,SPA
+mascpa,Mascaró,Pau,2004-10-20,SPA, ,SPA
 mascpe,Mascaro, ,1928-08-12,SPA,La Puebla,SPA
 masijo,Masip,Jordi,1989-01-03,SPA,Sabadell,SPA
 masimo,Maside, ,1918-02-24,SPA,Madrid,SPA
@@ -6587,6 +6718,7 @@ mecade,Mecarle, ,1927-11-11,SPA,Ourense,SPA
 mecafr,Meca, ,1945-12-23,SPA,Cartagena,SPA
 mecajo,Meca, ,1978-01-19,SPA,Águilas,SPA
 mecamo,Meca,Moya,1965-09-17,SPA,Lorca,SPA
+mededj,Medenica,Djordjije,2006-11-17,CZE, ,CZE
 medega,Medel,Gary,1987-08-03,CHI,Santiago de Chile,CHI
 mediac,Medina,Acosta,0000-00-00,SPA,Las Palmas,SPA
 medial,Medina,Alexander,1978-08-08,URU,Salto,URU
@@ -6612,6 +6744,7 @@ meduha,Medunjanin,Haris,1985-03-08,BOS,Sarajevo,
 megial,Megido, ,1952-10-02,SPA,Peñaflor,SPA
 megyba,Megyeri,Balázs,1990-03-31,HUN,Budapest,HUN
 meirfe,Meira,Fernando,1978-06-05,POR,Guimaraes,POR
+mejbha,Mejbri,Hannibal,2003-01-21,TUN,Ivry-sur-Seine,FRA
 mejial,Mejía,Álvaro,1982-01-18,SPA,Madrid,SPA
 mejij1,Mejías,Josua,1997-06-09,VEN,Valencia,VEN
 mejijo,Mejías, ,1959-01-21,SPA,Cádiz,SPA
@@ -6672,6 +6805,7 @@ mendjo,Mendiondo, ,1940-06-28,SPA,Madrid,SPA
 mendm1,Méndez, ,1930-09-17,SPA,Madrid,SPA
 mendm2,Mendoza, ,1949-07-18,SPA,Cartagena,SPA
 mendma,Mendi, ,1915-09-08,SPA,Elche,SPA
+mendno,Mendy,Nobel,2004-08-16,SEN,Guédiawaye,SEN
 mendp1,Mendez,Peter,1964-08-19,URU,Cerro Largo,URU
 mendp2,Mendes,Pedro,1990-10-01,POR,Neuchâtel,SUI
 mendpe,Mendaro, ,1909-02-18,SPA,Torrelavega,SPA
@@ -6782,8 +6916,8 @@ migumA,Miguel, ,1999-09-03,SPA,Tudela de Duero,SPA
 migumB,Miguelito, ,2001-01-01,SPA, ,SPA
 migumC,Miguel, ,1999-09-03,SPA,Tudela de Duero,SPA
 migumi,Miguel, ,0000-00-00,SPA, ,SPA
-migus1,Miguel,San,0000-00-00,SPA, ,SPA
-migusa,Miguel,San,1909-07-13,SPA,Infiesto,SPA
+migus1,San Miguel, ,0000-00-00,SPA, ,SPA
+migusa,San Miguel, ,1909-07-13,SPA,Infiesto,SPA
 mijapr,Mijatović,Predrag,1969-01-19,MNT,Podgorica,MNT
 mijepa,Mije,Paco,1978-03-22,SPA,Sevilla,SPA
 mijidu,Mijić,Dušan,1965-01-23,BOS,Banja Luka,BOS
@@ -6831,6 +6965,7 @@ minglu,Minguela, ,1960-01-05,SPA,Frumales,SPA
 mingri,Mínguez, ,1957-12-24,SPA,Madrid,SPA
 mingsR,Mingo,Santiago Ramos,2001-11-21,ARG,Córdoba,ARG
 mingsc,Mingueza,Óscar,1999-05-13,SPA,Santa Perpètua de Mogoda,SPA
+minimi,Mini, ,1999-04-10,SPA,Alameda,SPA
 minimx,Mini, ,1958-04-13,SPA,Buenavista del Norte,SPA
 minoan,Miñon, ,1941-02-18,SPA,Las Palmas,SPA
 minobe,Mino, ,1963-01-29,SPA,Antromero,SPA
@@ -6847,6 +6982,7 @@ mirajo,Miranda, ,1984-09-07,BRA,Paranavaí,BRA
 miraju,Miranda,Juan,2000-01-19,SPA,Olivares,SPA
 miralu,Miranda, ,1919-05-10,SPA,Las Palmas,SPA
 mirama,Mirandas,Mas,1907-09-27,SPA, ,SPA
+mirami,Miranda, ,2003-04-26,SPA,Olesa de Montserrat,SPA
 miraor,Miralles, ,1965-08-21,SPA,Barcelona,SPA
 mirar1,Miramar,Rocha,1997-05-23,POR, ,POR
 mirara,Miralles, ,1936-12-27,SPA,Játiva,SPA
@@ -6865,6 +7001,7 @@ mistmi,Mista, ,1978-11-12,SPA,Caravaca de la Cruz,SPA
 mitrst,Mitrovič,Stefan,1990-05-22,YUG,Belgrad,YUG
 mjaejo,Mjällby,Johan,1971-02-09,SWE,Järfälla,SWE
 mladdr,Mladenović,Dragan,1976-02-16,YUG,Kraljevo,YUG
+mndebr,Méndez,Bruno,1999-09-10,URU,Montevideo,URU
 mndedi,Méndez,Diego,2003-08-29,SPA, ,SPA
 moacmo,Moacir, ,1970-03-21,BRA,São Paulo,BRA
 mobopa,Mobodji,Pape,1997-09-20,SEN,Rufisque,SEN
@@ -6887,6 +7024,8 @@ mokost,Mokone,Steve,1932-03-23,RSA,Johannesburg,RSA
 molaad,De Mola,Alberto,1931-01-13,PER,Lima,PER
 molara,Molazas, ,1917-04-16,SPA,Langreo,SPA
 molddi,Moldovan,Dinu,1990-05-03,ROM,Alba Iulia,ROM
+moldho,Moldovan,Horaţiu,1998-01-20,ROM,Cluj-Napoca,ROM
+moleal,Moleiro,Alberto,2003-09-30,SPA,Santa Cruz de Tenerife,SPA
 molejo,Moleiro, ,1915-03-30,SPA,Madrid,SPA
 molial,Molina,Álvaro,0000-00-00,SPA, ,SPA
 molian,Molina, ,1940-03-14,SPA,Elche,SPA
@@ -6977,6 +7116,7 @@ montng,Montoro, ,1988-06-25,SPA,Valencia,SPA
 montos,Montalvo,Óscar,1937-03-20,PER,Puerto Pimental,PER
 montpa,Montañés,Paco,1986-10-08,SPA,Castellón,SPA
 montra,Montesinos, ,1943-05-31,SPA,Barcelona,SPA
+montru,Montero,Rubén,2005-08-28,SPA,Albacete,SPA
 montsa,Montejano, ,1936-07-25,SPA,Madrid,SPA
 montsc,Montiel, ,1970-07-06,SPA,Palma de Mallorca,SPA
 monttf,Montiel,Tòfol,2000-04-11,SPA,Palma de Mallorca,SPA
@@ -7108,6 +7248,7 @@ mosqaq,Mosquera,Aquivaldo,1981-06-22,COL,Apartado,COL
 mosqcr,Mosquera,Cristhian,2004-06-27,SPA, ,SPA
 mosqjo,Mosquera, ,1966-06-16,SPA,Noreña,SPA
 mosqpe,Mosquera, ,1988-04-21,SPA,A Coruña,SPA
+mosqye,Mosquera,Yerson,2001-05-02,COL,Apartadó,COL
 mossjo,Mossa, ,1989-01-24,SPA,Valencia,SPA
 mostal,Mostovoy,Aleksandr,1968-08-22,RUS,Bolshiye Izhory,RUS
 motajo,Mota, ,1980-11-21,BRA,Fortaleza,BRA
@@ -7199,6 +7340,7 @@ muntsa,Muntari,Sulley Ali,1984-08-27,GHA,Konongo,GHA
 munugu,Munúa,Gustavo,1978-01-27,URU,Montevideo,URU
 munujo,Munuaga, ,1927-02-27,SPA,Gijón,SPA
 muozcu,Muñoz,Curro,2003-01-07,SPA,Jerez de la Frontera (Cádiz),SPA
+muozeg,Muñoz,Egoitz,2004-04-14,SPA, ,SPA
 muozik,Muñoz,Iker,2002-11-05,SPA,Villafranca,SPA
 muozpa,Muñoz,Pablo,2003-09-04,SPA, ,SPA
 murcga,Murcia,García,1952-02-04,SPA,Cartagena,SPA
@@ -7310,6 +7452,7 @@ navaj5,Navarro,Juan,1957-02-05,SPA,Játiva,SPA
 navaj6,Navas, ,1964-03-12,GER,Mainz,GER
 navaj7,Navas,Javi,1991-06-02,SPA,Las Navas del Marqués,SPA
 navaj8,Navarro,Juanpe,1998-08-21,SPA,Murcia,SPA
+navaj9,Navarro,Javier,2004-02-24,SPA,Elche,SPA
 navaja,Navarro,Javi,1974-02-06,SPA,Valencia,SPA
 navaje,Navas,Jesús,1985-11-21,SPA,Los Palacios,SPA
 navajo,Navarro, ,1921-08-02,SPA,Gavá,SPA
@@ -7421,6 +7564,7 @@ ninof1,Niño,Fer,2000-10-24,SPA,Palma de Mallorca,SPA
 ninofe,Niño,Fernando,1974-09-16,SPA,Rota,SPA
 ninoju,Nino, ,1980-06-10,SPA,Vera,SPA
 ninopa,Niño,Pablo,1978-05-15,SPA,Rota,SPA
+nioxad,Niño,Adrián,2004-06-19,SPA,Rota,SPA
 nishak,Nishizawa,Akinori,1976-06-18,JAP,Shimizu,JAP
 nistrv,van Nistelrooy,Ruud,1976-07-01,NED,Oss,NED
 nitoci,Ñito, ,1939-09-16,SPA,Santa Cruz de Tenerife,SPA
@@ -7428,6 +7572,7 @@ nitoju,Nito, ,1934-07-05,SPA,Caravaca,SPA
 nitola,Nito, ,1947-05-18,SPA,Luarca,SPA
 nivani,Nivaldo, ,1980-06-23,BRA,Feira de Santana,BRA
 nizxdi,Niz, ,1945-12-31,SPA,Las Palmas,SPA
+njalnj,Njalla, ,2003-04-13,CMR, ,CMR
 njegzo,Njeguš,Zoran,1973-06-25,YUG,Užice, 
 nkonth,N'Kono,Thomas,1956-07-20,CMR,Dizangué,CMR
 noblfr,Noblejas, ,1993-03-18,SPA,Madrid,SPA
@@ -7486,6 +7631,7 @@ nunonu,Nuno, ,1974-01-25,POR,São Tomé,
 nwakch,Nwakali,Chidiebere,1996-12-26,NGR,Owerri,NGR
 nwakke,Nwakali,Kelechi,1998-06-05,NGR,Owerri,NGR
 nyatda,Nyathi,David,1969-03-22,RSA,Shatele,RSA
+nylarj,Nyland,Ørjan,1990-09-10,NOR,Volda,NOR
 nyomal,Nyom,Allan,1988-05-10,CMR,Neuilly-sur-Seine,FRA
 nzonst,N'Zonzi,Steven,1988-12-15,FRA,Colombes,FRA
 obamsa,Obama,Salomón,2000-02-04,EQG,Malabo,EQG
@@ -7544,6 +7690,7 @@ ojinfl,Ojinaga, ,1928-08-20,SPA,Munguía,SPA
 okazsh,Okazaki,Shinji,1986-04-16,JAP,Takarazuka,JAP
 okubyo,Okubo,Yoshito,1982-06-09,JAP,Fukuoka,JAP
 okunsa,Okunowo,Samuel,1979-03-01,NGR,Ibadan,NGR
+olabai,Olabarrieta,Aingeru,2005-11-14,SPA,Luiaondo,SPA
 olabr1,Olabe,Roberto,1996-05-05,SPA,Salamanca,SPA
 olabro,Olabe, ,1967-10-20,SPA,Vitoria,SPA
 olaija,Olaizola, ,1969-11-28,SPA,San Sebastián,SPA
@@ -7612,6 +7759,7 @@ olunmi,Olunga,Michael,1994-03-26,KEN,Nairobi,KEN
 omarju,Omar, ,1988-01-26,SPA,Santa Cruz de Tenerife,SPA
 omarom,Omar, ,1988-06-02,SPA,Gijón,SPA
 omerke,Omeruo,Kenneth,1993-10-17,NGR,Kaduna,NGR
+omorsa,Omorodion,Samu,2004-05-05,NGR,Melilla,SPA
 onaejo,Oñaederra, ,1952-02-17,SPA,Santurce,SPA
 onaipe,Onaindia, ,1935-09-07,SPA,Miravalles,SPA
 oneson,Onésimo, ,1968-08-14,SPA,Valladolid,SPA
@@ -7703,6 +7851,7 @@ ortuje,Ortuondo, ,1951-06-11,SPA,Ondárroa,SPA
 oruejo,Orue, ,1931-03-17,SPA,Zorroza,SPA
 oruel1,Oruezabal,Luis,1952-05-13,ARG,Buenos Aires,ARG
 oruelu,Orue, ,1944-09-09,SPA,Ondárroa,SPA
+osamas,Osambela,Asier,2004-02-08,SPA,Pamplona,SPA
 oscalu,Óscar, ,1961-12-27,SPA,Remolinos,SPA
 oscas1,Óscar, ,1973-09-01,SPA,Valladolid,SPA
 oscas2,Óscar, ,1966-01-05,SPA,Kassel,GER
@@ -7717,6 +7866,7 @@ osoral,Osorio,Aldo,1974-06-12,ARG,Buenos Aires,ARG
 osorhu,Osorio,Humberto,1988-06-24,COL,Valledupar,COL
 osorju,Osorio,Juvencio,1950-06-01,PAR,Asunción,PAR
 osorma,Osorio, ,1946-07-31,SPA,Jerez de la Frontera,SPA
+osoxos,Oso, ,2003-07-09,SPA,Torrevieja,SPA
 ostoju,Ostolaza, ,1917-01-09,SPA,Madrid,SPA
 osvapa,Osvaldo,Pablo,1986-01-12,ITA,Buenos Aires,ARG
 otamni,Otamendi,Nicolás,1988-02-12,ARG,Pacheco,ARG
@@ -7730,6 +7880,7 @@ oterjo,Otero, ,1969-01-28,SPA,Nigrán,SPA
 oterju,Otero, ,1928-04-16,SPA,A Coruña,SPA
 oterma,Otero,Marcelo,1971-04-14,URU,Montevideo,URU
 otinlu,Otiñano, ,1943-05-18,SPA,Llodio,SPA
+otorda,Otorbi,David,2007-10-16,SPA,Valencia,SPA
 otxope,Otxotorena, ,1956-04-19,SPA,Hernani,SPA
 otxora,Otxoa,Raúl,1975-08-14,SPA,Vitoria-Gasteiz,SPA
 ouatah,Ouattara,Ahmed,1969-12-15,CIV,Abidjan-Marcony,CIV
@@ -7737,6 +7888,7 @@ oubibo,Oubiña,Borja,1982-05-17,SPA,Vigo,SPA
 ouedni,Ouédec,Nicolas,1971-10-28,FRA,Lorient,FRA
 oulaso,Oulare,Souleymane,1972-10-16,GUI,Conakry,GUI
 oulita,Oulida,Tarik,1974-01-19,NED,Amsterdam,NED
+ousoai,Ousou,Aiham,2000-01-09,SYR,Mölndal,SWE
 outeju,Outerelo,Julio,0000-00-00,URU, ,URU
 ovejis,Ovejero,Iselin,1945-10-16,ARG,Mendoza,ARG
 ovejjx,Ovejero, ,0000-00-00,SPA,El Astillero,SPA
@@ -7856,6 +8008,7 @@ pancsa,Pancsics,Samu,1924-09-23,HUN,Szeged,HUN
 pandwa,Pandiani,Walter,1976-04-27,URU,Montevideo,URU
 panema,Panerta,Mauricio,1975-06-03,BRA,Recife,BRA
 paneri,Panella,Riera,1939-08-11,SPA,Sta.Coloma de Farnés,SPA
+panij1,Panichelli,Joaquín,2002-10-07,ARG,Cordoba,ARG
 panijo,Panizo, ,1922-02-06,SPA,Sestao,SPA
 paniju,Paniagua, ,1966-03-20,SPA,Navalmoral de Mata,SPA
 panira,Paniagua, ,1953-08-07,SPA,Cantillana,SPA
@@ -7866,6 +8019,7 @@ pantmi,Pantić,Milinko,1966-09-05,YUG,Loznica,YUG
 pantpa,Pantaleon, ,1929-07-24,SPA,Las Palmas,SPA
 panuch,Panucci,Christian,1973-04-12,ITA,Savona,ITA
 paolvd,Di Paola,Vicente,1923-08-12,ARG,Buenos Aires,ARG
+papaso,Papastathopoulos,Sokratis,1988-06-09,GRE,Kalamata,GRE
 paquf1,Paquillo, ,1922-07-10,SPA,Sevilla,SPA
 paquf2,Paquito, ,1927-02-27,SPA,Salamanca,SPA
 paquf3,Paquillo, ,1938-03-10,SPA,Las Palmas,SPA
@@ -7883,6 +8037,7 @@ paqujo,Paquito, ,1964-01-04,SPA,Madrid,SPA
 parael,Paramio,Elias,1919-07-08,SPA,Madrid,SPA
 paralu,Parajon, ,1931-03-08,SPA,Oviedo,SPA
 parape,Parada, ,1965-02-04,SPA,Albacete,SPA
+paravi,Parada,Victor,2002-04-04,SPA,Madrid,SPA
 parcju,Parcet, ,1933-12-16,SPA,Roda de Ter,SPA
 pardj1,Pardo, ,1936-06-08,SPA,Santander,SPA
 pardjo,Pardo, ,0000-00-00,SPA,Murcia,SPA
@@ -7929,6 +8084,7 @@ pasced,Pascual, ,0000-00-00,SPA, ,SPA
 pascj1,Pascual,Jorge,2003-04-09,SPA,Almería,SPA
 pascjo,Pascual, ,1970-12-16,SPA,Pamplona,SPA
 pasclu,Pascual,Luis,1968-07-14,SPA,Valencia,SPA
+pascma,Pascual,Martín,1999-08-04,SPA,Madrid,SPA
 pascp1,Pascual, ,1913-10-23,SPA,Deusto,SPA
 pascp2,Pascual, ,1963-07-19,SPA,Puebla Alfindén,SPA
 pascp3,Pascual, ,1968-04-04,SPA,Ontinyent,SPA
@@ -7965,6 +8121,7 @@ paulde,De Paula, ,1975-05-31,SPA,Durango,SPA
 paulga,Paulista,Gabriel,1990-11-26,BRA,Fortaleza,BRA
 pauljo,Paulinho, ,1988-07-25,BRA,São Paulo,BRA
 paulju,Paulista,Juninho,1973-02-22,BRA,São Paulo,BRA
+paulma,Paulo,Marcos,2001-02-01,BRA,São Gonçalo,BRA
 paulme,Paulino,Mendonça,1932-10-15,POR,Luanda,POR
 paulp1,Paulino, ,1973-08-14,SPA,Albacete,SPA
 paulp2,Paulão, ,1982-08-06,BRA,Lagoa Santa,BRA
@@ -8000,6 +8157,7 @@ pazxro,Paz,Romero,1950-05-28,SPA,Madrid,SPA
 pazzgi,Pazzini,Giampaolo,1984-08-02,ITA,Pescia,ITA
 pealju,Peñaloza,Juan,2000-05-03,COL,Quibdó,COL
 peaxma,Peña,Marcos,2005-01-22,SPA,Almería,SPA
+peaxpe,Peña, ,2001-03-08,SPA,Paterna,SPA
 pechvi,Pechuán, ,1920-08-27,SPA,Valencia,SPA
 pedemi,Pedersen,Michael,1963-06-11,DEN,Esbjerg,DEN
 pedra1,Pedraza,Alfredo,2000-12-20,SPA,Madrid,SPA
@@ -8210,12 +8368,13 @@ perodi,Perotti,Diego,1988-07-26,ARG,Moreno,ARG
 perojo,Perona, ,1924-10-06,SPA,Cieza,SPA
 peroma,Perola, ,1964-12-02,SPA,Las Palmas,SPA
 perqda,Perquis,Damien,1984-04-10,POL,Troyes,FRA
+perrmx,Perrone,Máximo,2003-01-07,ARG,Buenos Aires,ARG
 persca,Cano, ,1907-09-07,SPA,Valencia,SPA
 persdc,Del Campo, ,1902-09-30,SPA,San Lorenzo Escorial,SPA
 persma,Martorell, ,1916-03-13,SPA,Madrid,SPA
 persme,Menchaca, ,1909-08-23,SPA,Getxo,SPA
 perspa,Padrón, ,1906-05-05,SPA,Las Palmas,SPA
-perssj,José,San,1955-10-27,SPA,Madrid,SPA
+perssj,San José, ,1955-10-27,SPA,Madrid,SPA
 peruca,Peruena,Carlos,1955-03-13,URU,Florida,URU
 pescjo,Pesca,Jorge,1992-02-24,SPA,Aranda de Duero,SPA
 pestvc,Pestaña, ,1933-01-10,SPA,Lejona,SPA
@@ -8320,6 +8479,7 @@ piquge,Piqué, ,1987-02-02,SPA,Barcelona,SPA
 piqujo,Piquin, ,1928-06-22,SPA,Irún,SPA
 piquvi,Piquer, ,1935-02-24,SPA,Algar de Palancia,SPA
 pireda,Pirelo, ,1910-02-08,MEX,Chihuahua,MEX
+pirelu,Pires,Lucas,2001-03-24,BRA,São Paulo,BRA
 pirero,Pirés,Robert,1973-10-29,FRA,Reims,FRA
 piripe,Piris, ,1964-09-14,SPA,Badajoz,SPA
 pirira,Piris, ,1932-12-18,SPA,Altá,SPA
@@ -8339,6 +8499,7 @@ pitean,Pitero, ,1963-12-16,SPA,Sevilla,SPA
 pitifr,Piti, ,1981-05-26,SPA,Reus,SPA
 pitiju,Piti, ,1969-11-09,SPA,Valladolid,SPA
 piting,Pitilo, ,1921-11-05,SPA,Madrid,SPA
+pitkka,Piątkowski,Kamil,2000-06-21,POL,Jasło,POL
 pitujo,Pitu, ,1983-11-24,SPA,Salt,SPA
 pivaja,Pivarník,Ján,1947-11-13,SVK,Cejkov,SVK
 pixxen,Pi,Enric,1983-05-20,SPA,Granollers,SPA
@@ -8372,6 +8533,7 @@ plazfr,Plaza, ,1944-04-13,SPA,Soria,SPA
 plazga,Plaza,García,1941-09-21,SPA,El Arahal,SPA
 plazma,Plaza,Martín,1944-07-13,SPA,Valencia,SPA
 plazst,Plaza,Stiven,1999-03-11,ECU,Eloy Alfaro,ECU
+plegxa,Pleguezuelo,Xavi,2003-01-14,SPA,Palma de Mallorca,SPA
 pletst,Pletikosa,Stipe,1979-01-08,CRO,Split,CRO
 plomda,Plomer,Dani,1998-11-30,SPA, ,SPA
 plotev,Plotnikov,Evgeni,1972-09-06,RUS,Krasnodar,RUS
@@ -8496,6 +8658,7 @@ prezch,Pérez,Charlie,2002-06-07,SPA,Chiva,SPA
 prezda,Pérez,Dani,2005-07-26,SPA,Sevilla,SPA
 prezfr,Pérez,Fran,2002-09-09,SPA,Valencia,SPA
 prezhu,Pérez,Hugo,2002-12-16,SPA,Barcelona,SPA
+prezjo,Pérez,Joselu,2004-03-12,SPA,Villalbilla,SPA
 prezle,Pérez,Álex,2001-01-07,SPA,El Masnou,SPA
 prezlu,Pérez,Luis,1995-02-04,SPA,Utrera,SPA
 priea1,Prieto,Andrés,1993-10-17,SPA,Alicante,SPA
@@ -8543,6 +8706,7 @@ puigar,Puigmal,Arnau,2001-01-10,SPA,Barcelona,SPA
 puigj1,Puig,Joan,2002-11-16,SPA,Girona,SPA
 puigjo,Puig, ,1958-09-15,SPA,Algemesí,SPA
 puigri,Puig,Riqui,1999-08-13,SPA,Matadepera,SPA
+pujoed,Pujol,Edgar,2004-08-07,SPA,Sabadell,SPA
 pujolu,Pujol, ,1947-05-25,SPA,Castellvell i Vilar,SPA
 pujori,Pujol,Ricard,1998-03-04,SPA,Martorell,SPA
 pukkte,Pukki,Teemu,1990-03-29,FIN,Kotka,FIN
@@ -8574,6 +8738,7 @@ quesma,Quesada, ,1959-11-04,SPA,Crevillente,SPA
 quetfe,Quetglas,Ferran,2005-06-05,SPA,Mallorca,SPA
 quetje,Quetu, ,1935-08-18,SPA,Valladolid,SPA
 quetmi,Quetglas, ,1919-09-23,SPA,Murcia,SPA
+queval,Quevedo,Alex,2004-04-28,SPA,Mahón,SPA
 quevda,Quevedo,Daniel,1947-10-03,ARG,Pozo del Tigre,ARG
 quevjo,Quevedo, ,1969-06-01,SPA,Cádiz,SPA
 quezgu,Quezada,Gustavo,1997-04-06,ECU, ,SPA
@@ -8635,7 +8800,9 @@ racidr,Račić,Dragomir,1947-04-05,YUG,Beograd,YUG
 raciur,Račić,Uroš,1998-03-17,SRB,Kraljevo,SRB
 radcdm,Radchenko,Dmitri,1970-12-02,RUS,St. Petersburg,RUS
 radivl,Radimov,Vladislav,1975-11-26,RUS,St. Petersburg, 
+radoal,Radovanović,Aleksandar,1993-11-11,SRB,Šabac,SRB
 radojo,Radošević,Josip,1994-04-03,CRO,Split,CRO
+radon1,Radonjić,Nemanja,1996-02-15,SRB,Niš,SRB
 radone,Radoja,Nemanja,1993-02-06,YUG,Novi Sad,YUG
 rafacl,Rafael, ,1989-03-17,BRA,Santos,BRA
 rafar1,Rafa, ,1932-10-24,SPA,Granada,SPA
@@ -8681,6 +8848,7 @@ ramios,Ramírez,Óscar,1944-01-31,SPA,Las Palmas,SPA
 ramir1,Ramiro, ,1991-05-09,SPA,Zaragoza,SPA
 ramira,Ramiro, ,1933-02-11,BRA,Sao Paulo,BRA
 ramiru,Ramiro,Rubén,1993-04-16,SPA,Madrid,SPA
+ramnja,Ramón,Jacobo,2005-01-06,SPA,Madrid,SPA
 ramnpa,Ramón,Pablo,2001-06-30,SPA,Calvià,SPA
 ramoad,Ramos,Adrián,1986-01-22,COL,Santander de Quilichao,COL
 ramoai,Ramos,Aitor,1985-06-11,SPA,Bilbao,SPA
@@ -8720,6 +8888,7 @@ ramota,Ramos,Tab,1966-09-21,USA,Montevideo,URU
 ramrpa,Ramírez,Pablo,2003-03-18,SPA, ,SPA
 ramryo,Ramírez,Yoel,2002-02-05,SPA,Mallén,SPA
 rancjo,Rancél, ,1913-09-16,SPA,Santa Cruz de Tenerife,SPA
+randab,Rando,Abraham,2001-07-05,SPA,Martos,SPA
 randje,Randez, ,1959-07-05,SPA,Pamplona,SPA
 rangda,Rangel, ,1979-07-25,SPA,Burjassot,SPA
 rangdi,Rangel,Diego,1978-03-23,SPA,Almendralejo,SPA
@@ -8745,10 +8914,12 @@ raxxrz,Raţ,Răzvan,1981-05-26,ROM,Slatina,ROM
 rayaan,Raya, ,1949-02-10,SPA,Santo Cristo,SPA
 raycra,Rayco, ,1987-03-23,SPA,Las Palmas de Gran Canaria,SPA
 rayora,Rayo, ,0000-00-00,SPA, ,SPA
+rbolfr,Árbol,Fran,2006-06-30,SPA,Granada,SPA
 rbolma,Árbol,Matías,2002-09-12,SPA,Palomares del Río,SPA
 rdigan,Rüdiger,Antonio,1993-03-03,GER,Berlin,GER
 rduccl,Răducanu,Claudiu,1976-12-03,ROM,Craiova,ROM
 rducfl,Răducioiu,Florin,1970-03-17,ROM,Bucuresti,ROM
+rebbab,Rebbach,Abde,1998-08-11,ALG,Blida,ALG
 rebeal,Rebellón, ,1940-01-01,SPA,Miranda de Ebro,SPA
 reboal,Rebollo, ,1983-01-11,SPA,Gijón,SPA
 reboda,Rebollo,Dani,1999-12-10,SPA, ,SPA
@@ -8815,6 +8986,7 @@ rentje,Rentería, ,1934-06-08,SPA,Basauri,SPA
 repuru,Repullés,Rubio,1923-12-15,SPA,Madrona,SPA
 repxjo,Rep,Johnny,1951-11-25,NED,Zaandam,NED
 requau,Requena, ,1935-09-24,SPA,Valencia,SPA
+requre,Reque, ,2004-02-12,SPA,Cenes de la Vega,SPA
 requru,Requejo, ,1949-03-13,SPA,Herrera de Pisuerga,SPA
 rescez,Rescaldani,Ezequiel,1992-06-11,ARG,Tucumán,ARG
 resiab,Resino,Abel,1960-02-02,SPA,Velada,SPA
@@ -8917,6 +9089,7 @@ rikiiv,Riki, ,1980-08-11,SPA,Aranjuez,SPA
 rinajo,Rinaldi,Jorge,1963-03-23,ARG,Buenos Aires,ARG
 rincfr,Rincón,Freddy,1966-08-14,COL,Buenaventura,COL
 rinchi,Rincón, ,1957-04-28,SPA,Madrid,SPA
+rinchu,Rincón,Hugo,2003-01-27,SPA,Valtierra,SPA
 rincjo,Rincón, ,1916-09-15,SPA,Sevilla,SPA
 rinct1,Rincón,Toni,1963-09-09,SPA,Los Morales,SPA
 rincto,Rincón,Toni,1943-02-26,SPA,Los Molares,SPA
@@ -8938,7 +9111,9 @@ ripofr,Rípodas, ,1960-09-13,SPA,Pamplona,SPA
 riqubi,Riquelme, ,1929-03-16,SPA,Orihuela,SPA
 riqur1,Riquelme,Rodrigo,2000-04-02,SPA,Madrid,SPA
 riquro,Riquelme,Román,1978-06-24,ARG,San Fernando,ARG
+riscal,Risco,Alberto,2005-08-30,SPA,Córdoba,SPA
 riscri,Ríscar, ,0000-00-00,SPA, ,SPA
+ristmi,Ristić,Mihailo,1995-10-31,SRB,Bijeljina,BOS
 riusan,Rius, ,1929-09-16,SPA,Alacuás,SPA
 rivaa1,Rivas,Antonio,1965-09-13,SPA,Alcázar de San Juan,SPA
 rivaan,Rivas, ,1944-07-27,SPA,Ceuta,SPA
@@ -9030,6 +9205,7 @@ rodage,Rodax,Gerhard,1965-08-29,AUT,Baden,AUT
 rodahe,Rodas,Héctor,1988-03-07,SPA,Valencia,SPA
 rodari,Roda,Ricart,0000-00-00,SPA, ,SPA
 rodeal,Vrsaljko, , , , , 
+rodese,Rodelas,Sergio,2004-12-01,SPA,Granada,SPA
 rodij1,Rodilla, ,1950-03-03,SPA,Vigo,SPA
 rodijo,Rodilla, ,1940-10-10,SPA,Fuente de Bejar,SPA
 rodor1,Rodolfo, ,1960-05-04,SPA,Outomoro,SPA
@@ -9076,10 +9252,12 @@ rodrj9,Rodríguez,James,1991-07-12,COL,Tolima,COL
 rodrjA,Rodríguez,Jonathan,1993-07-06,URU,Florida,URU
 rodrjB,Rodríguez,Juan,1995-05-08,SPA,Cedeira,SPA
 rodrjC,Rodríguez,José,1998-06-19,PAN,Panamá City,PAN
+rodrjD,Rodríguez,Javi,2003-06-26,SPA,Poio,SPA
 rodrja,Rodríguez,Javi,1962-07-28,SPA,Villaralbo,SPA
 rodrjo,Rodriguez, ,1932-08-18,SPA,Córdoba,SPA
 rodrju,Rodríguez,Juan,1982-04-01,SPA,Málaga,SPA
 rodrke,Rodrigues,Kévin,1994-03-05,POR,Bayonne,FRA
+rodrki,Rodríguez,Kirian,1996-03-05,SPA,Santa Cruz de Tenerife,SPA
 rodrle,Rodríguez,Álex,2002-03-21,SPA,Fuenlabrada,SPA
 rodrlu,Rodríguez, ,1964-01-09,SPA,Elgóibar,SPA
 rodrlv,Rodríguez,Álvaro,2004-07-14,SPA,Palamós,SPA
@@ -9160,7 +9338,7 @@ romams,Román,Miguel San,1997-07-14,SPA,Benidorm,SPA
 romar1,Román, ,1956-08-09,SPA,Tacoronte,SPA
 romar2,Romário, ,1966-01-29,BRA,Rio de Janeiro,BRA
 romaro,Román, ,1922-01-11,SPA,Salamanca,SPA
-romasa,Román,San,1938-04-25,SPA,Mombuey,SPA
+romasa,San Román, ,1938-04-25,SPA,Mombuey,SPA
 romeal,Romero,Alfaro,1910-11-18,SPA,Pasajes de San Pedro,SPA
 romean,Romerito, ,1977-02-20,SPA,Alcalá del Río,SPA
 romebe,Romeo,Bernardo,1977-09-10,ARG,Tandil,ARG
@@ -9170,6 +9348,7 @@ romeen,Romero, ,1971-06-23,SPA,Jerez de la Frontera,SPA
 romef1,Romea, ,1946-02-03,SPA,Monton de Jiloca,SPA
 romefr,Romero,Francisco,1942-12-17,PAR,Cancepción,PAR
 romei1,Romero,Iván,2001-04-10,SPA,La Solana,SPA
+romeis,Romero,Isaac,2000-05-18,SPA,Lebrija,SPA
 romeiv,Romero,Iván,1980-07-21,SPA,Madrid,SPA
 romej1,Romero, ,1945-01-05,SPA,Madrid,SPA
 romej2,Romero, ,1957-09-26,SPA,Peñiscola,SPA
@@ -9204,6 +9383,7 @@ rondsa,Rondón,Salomón,1989-09-16,VEN,Caracas,VEN
 ropeun,Ropero,Unai,0000-00-00,SPA, ,SPA
 roqumi,Roqué,Miki,1988-07-08,SPA,Tremp,SPA
 roquro,Roque, ,1952-11-22,SPA,Las Palmas,SPA
+roquvt,Roque,Vítor,2005-02-28,BRA,Timóteo,BRA
 rosaa1,Rosa,Andrés,1969-08-13,SPA,Turón,SPA
 rosaan,Rosales, ,1917-10-21,SPA,Sevilla,SPA
 rosadl,Rosa,De la,2004-07-28,SPA,Huelva,SPA
@@ -9279,6 +9459,7 @@ rubisc,Rubio, ,1976-05-17,SPA,Madrid,SPA
 rubiwa,Rubio,Waldo,1995-08-17,SPA,Badajoz,SPA
 rudajo,Ruda, ,1961-04-14,SPA,Sevilla,SPA
 ruedcs,Rueda, ,1924-09-04,SPA,Barcelona,SPA
+ruedja,Rueda,Javi,2002-05-08,SPA,Alozaina,SPA
 ruedje,Rueda,Jesús,1987-02-19,SPA,Badajoz,SPA
 ruedjo,Rueda, ,1988-01-30,SPA,Linares,SPA
 ruedlu,Rueda,Luis,1972-01-17,ARG,San Rafael,ARG
@@ -9318,11 +9499,13 @@ ruizra,Ruiz,Raúl,1966-12-20,SPA,Logroño,SPA
 ruizru,Ruiz,Rubén,1974-04-22,SPA,Logroño,SPA
 ruizs1,Ruiz,Salva,1995-05-17,SPA,Albal,SPA
 ruizsa,Ruiz,Salvador,1936-05-16,SPA,Barcelona,SPA
+ruizse,Ruiz,Sergio,1994-12-16,SPA,El Astillero,SPA
 ruizvi,Ruiz,Víctor,1989-01-25,SPA,Esplugues de Llobregat,SPA
 rukaan,Rukavina,Antonio,1984-01-26,YUG,Beograd,YUG
 rullge,Rulli,Gerónimo,1992-05-20,ARG,La Plata,ARG
 rumbna,Rumbau,Navarro,1942-04-15,SPA,Corbera Alcira,SPA
 rupero,Rúper, ,1987-06-04,SPA,Ayegui,SPA
+rupria,Rupérez,Iñaki,2003-01-07,SPA,Ansoáin,SPA
 rusejo,Rusell, ,1925-04-13,SPA,Sama de Langreo,SPA
 rusera,Rusescu,Raul,1988-07-09,ROM,Râmnicu Vâlcea,ROM
 rushsi,Rushfeldt,Sigurd,1972-12-11,NOR,Vadsø,NOR
@@ -9398,6 +9581,7 @@ salcig,Salcedo, ,1947-05-22,SPA,Madrid,SPA
 salcje,Salcedo, ,1955-03-14,SPA,Madrid,SPA
 salefe,Sales,Fernando,1977-09-12,SPA,Sevilla,SPA
 saleol,Salenko,Oleg,1969-10-25,RUS,St. Petersburg,RUS
+salgad,Salguero,Adri,2003-05-20,SPA,El Vendrell,SPA
 salgfe,Salgado,Fernando,1935-01-13,ARG,Buenos Aires,ARG
 salgjo,Salguero, ,1960-01-25,SPA,Fuente la Piedra,SPA
 salgmi,Salgado,Míchel,1975-10-22,SPA,Pontevedra,SPA
@@ -9422,6 +9606,7 @@ salvlu,Salva, ,1968-08-24,SPA,Zaragoza,SPA
 salvs1,Salva, ,1970-09-30,SPA,Tortosa,SPA
 salvs2,Salvi, ,1991-03-30,SPA,Sanlúcar de Barrameda,SPA
 salvsa,Salva, ,1961-03-04,SPA,San Adrián de Besós,SPA
+samadi,Samassékou,Diadié,1996-01-11,MLI,Bamako,MLI
 samban,Samblas, ,1939-05-25,SPA,Santa Cruz de Tenerife,SPA
 samima,Samitier,Martí,1937-12-20,SPA,Lleida,SPA
 sammjo,Sammir, ,1987-04-23,CRO,Itabuna,BRA
@@ -9589,6 +9774,7 @@ santsa,Santamaria, ,0000-00-00,SPA, ,SPA
 santse,Santamaría, ,1980-07-16,SPA,Málaga,SPA
 santur,Santos,Uri,1986-10-29,SPA,Olot,SPA
 santvi,Santos, ,1906-00-00,SPA,Madrid,SPA
+santya,Santana,Yadam,2002-03-14,SPA,Las Palmas de Gran Canaria,SPA
 sanuil,Sañudo, ,1912-01-23,SPA,Torrelavega,SPA
 sanuju,Sañudo, ,1956-06-13,SPA,Serdio,SPA
 sanza1,Sanz, ,1934-11-28,SPA,Barcelona,SPA
@@ -9600,6 +9786,7 @@ sanziv,Sanz,Iván,2002-01-01,SPA, ,SPA
 sanzju,Sanz, ,1924-03-20,SPA,Valladolid,SPA
 sanzlv,Sanz,Álvaro,2001-02-14,SPA,Caspe,SPA
 sanzp1,Sanz,Pablo,1973-08-30,SPA,Barcelona,SPA
+sanzp2,Sanz,Paco,2004-11-15,SPA, ,SPA
 sanzpa,Sanz,Paco,1972-11-29,SPA,Madrid,SPA
 sanzr1,Sanz, ,1966-03-23,SPA,Santander,SPA
 sanzra,Sanz, ,0000-00-00,SPA,Barcelona,SPA
@@ -9741,6 +9928,7 @@ sennma,Senna,Marcos,1976-07-17,SPA,Rio de Janeiro,BRA
 senoju,Señor, ,1958-08-26,SPA,Madrid,SPA
 senrga,Senra,García,1954-04-30,SPA,Vigo,SPA
 senzjo,Sáenz,Jorge,1996-11-17,SPA,Santa Cruz de Tenerife,SPA
+senzpa,Sáenz,Pablo,2001-05-22,SPA, ,SPA
 seoaar,Seoane, ,1929-01-01,SPA,A Coruña,SPA
 seoadi,Seoane,Diego,1988-04-26,SPA,Ourense,SPA
 seoaed,Seoane, ,1948-01-25,SPA,A Coruña,SPA
@@ -9858,6 +10046,7 @@ silvru,Silva,Rui,1994-02-07,POR,Maia,POR
 silvs1,Silvio, ,1946-04-02,SPA,Yecla,SPA
 silvs2,Silvio, ,1976-04-09,SPA,Vigo,SPA
 silvs3,Sílvio, ,1970-03-06,BRA,Niterói,BRA
+silvs4,Silvi, ,2005-01-29,SPA, ,SPA
 silvsa,Silva,Sandro,1984-04-29,BRA,Rio de Janeiro,BRA
 silvsi,Silvestre, ,1936-08-22,SPA,Las Palmas,SPA
 silvsl,Sílvio, ,1987-09-28,POR,Lisboa,POR
@@ -9885,7 +10074,9 @@ simos1,Simo, ,2005-02-03,SPA,Terrassa,SPA
 simosi,Simonet, ,1932-08-28,SPA,Madrid,SPA
 simoun,Simón,Unai,1997-06-11,SPA,Gasteiz,SPA
 simuig,Simutenkov,Igor,1973-04-03,RUS,Moskva,RUS
+sinkda,Sinkgraven,Daley,1995-07-04,NED,Assen,NED
 sintsi,Sintes, ,2001-08-05,SPA,Manorca,SPA
+sintxa,Sintes,Xavi,2001-08-05,SPA,Mahón,SPA
 sinvjo,Sinval, ,1967-04-06,BRA,Bebedeuro,BRA
 sionfl,Sion, ,1905-10-27,SPA,Sama de Langreo,SPA
 sionjo,Sión, ,1907-08-08,SPA,La Felguera,SPA
@@ -9922,9 +10113,11 @@ smeeax,Smeets,Axel,1974-07-12,DRC,Brussels,BEL
 smilmi,Smiljanić,Milan,1986-11-19,YUG,Kalmar,SWE
 smoleb,Smolarek,Ebi,1981-01-09,POL,Łódź,POL
 smolfe,Smolov,Fedor,1990-02-09,RUS,Saratov,RUS
+sncha1,Sánchez,Ander,2004-01-24,SPA, ,SPA
 snchan,Sánchez,Antonio,1997-04-22,SPA,Palma de Mallorca,SPA
 snchch,Sánchez,Christian,1999-07-09,CUB,La Habana,CUB
 snchcu,Sánchez,Curro,1996-01-03,SPA,La Palma del Condado,SPA
+snchju,Sánchez,Juanlu,2003-08-15,SPA,Sevilla,SPA
 snchma,Sánchez,Marcos,2003-10-26,SPA,Villarreal,SPA
 snchru,Sánchez,Rubén,2001-01-09,SPA,Barcelona,SPA
 sneiwe,Sneijder,Wesley,1984-06-09,NED,Utrecht,NED
@@ -9934,6 +10127,7 @@ sobred,Sobrado, ,1926-04-20,SPA,Madrid,SPA
 sobrru,Sobrino,Rubén,1992-02-16,SPA,Daimiel,SPA
 socoju,Socorro,Juan,1972-05-13,VEN,Caracas,VEN
 socrso,Socrates, ,1928-07-15,SPA,Losa del Obispo,SPA
+sogoca,Sogorb,Carles,2005-02-23,SPA,Palma de Mallorca,SPA
 solaa1,Sola,Álex,1999-06-09,SPA,San Sebastián,SPA
 solaal,Solaeta, ,1970-10-14,SPA,Santoña,SPA
 solaan,Solano,Andrés,1998-02-24,COL,Santa Marta,COL
@@ -9951,6 +10145,7 @@ solam1,Sola, ,1957-09-29,SPA,Pamplona,SPA
 solama,Solares,Marino,1966-11-02,SPA,Gijón,SPA
 solami,Solans, ,1921-04-10,SPA,Artesa del Segre,SPA
 solasa,Solari,Santiago,1976-10-07,ARG,Rosario,ARG
+solaso,Sola, ,2003-10-06,SPA, ,SPA
 soldan,Soldevilla, ,1978-09-19,SPA,L'Hospitalet de Llobregat,SPA
 soldro,Soldado, ,1985-05-27,SPA,Valencia,SPA
 soleag,Solé, ,1927-02-04,SPA,Puigvert,SPA
@@ -9974,6 +10169,7 @@ sollal,Solla, ,0000-00-00,SPA, ,SPA
 solobi,Solozábal,Bilbao,1935-01-06,SPA,Getxo,SPA
 soloro,Solozábal, ,1969-09-15,SPA,Madrid,SPA
 solsda,Solsona, ,1952-01-18,SPA,Cornella de Llobregat,SPA
+solsjh,Solís,Jhon,2004-10-03,COL,Guacarí,COL
 solspu,Solsona,Puig,1952-10-31,SPA,Puigvert,SPA
 solvjo,Solves, ,1927-12-17,SPA,La Sueca,SPA
 solxde,Del Sol, ,1935-04-06,SPA,Arcos del Jalón,SPA
@@ -10008,6 +10204,7 @@ soroal,Soro,Alberto,1999-03-09,SPA,Ejea de los Caballeros,SPA
 soroed,Soro, ,1921-12-21,SPA,Villanueva de Castellón,SPA
 soroj1,Soroa, ,1950-03-04,SPA,San Sebastián,SPA
 sorojo,Soroa, ,1939-02-06,SPA,Pamplona,SPA
+sorrgi,Sorroche,Ginés,2004-03-24,SPA,Lorca (Murcia),SPA
 sorrju,Sorrarain, ,1928-04-25,SPA,San Sebastián,SPA
 sorrst,Sorrentino,Stefano,1979-03-28,ITA,Cava Dei Tirreni,ITA
 sosaal,Sosa,Alfredo,1941-12-18,URU,Montevideo,URU
@@ -10032,6 +10229,7 @@ sotoem,Soto, ,1923-12-12,SPA,San Fernando,SPA
 sotojo,Soto, ,1965-03-19,SPA,Madrid,SPA
 sotolu,Soto, ,1920-12-14,SPA,San Fernando,SPA
 sotrda,Sotres,Dani,1993-05-21,SPA,Santiago de Cudeyo,SPA
+soumbo,Soumaré,Boubakary,1999-02-27,FRA,Noisy-le-Sec,FRA
 sousdy,Sousa,Dyego,1989-09-14,POR,São José de Ribamar,BRA
 sousfr,Sousa, ,1980-02-03,SPA,Málaga,SPA
 souspa,Sousa,Paulo,1970-08-30,POR,Viseu,POR
@@ -10039,6 +10237,8 @@ sousrd,De Sousa,Roberto,1985-01-18,BRA,Goiâna,BRA
 soutra,Souto,Rafael,1929-10-24,URU,Montevideo,URU
 souzva,Souza, ,1969-03-15,BRA,Piritiba,BRA
 souzvi,Souza,Vinicius,1999-06-17,BRA,Rio de Janeiro,BRA
+sowxdj,Sow,Djibril,1997-02-06,SUI,Zürich,SUI
+sowxib,Sow,Ibrahima,2007-01-26,SEN,Dakar,SEN
 spahem,Spahić,Emir,1980-08-18,BOS,Dubrovnik,CRO
 spaspr,Spasić,Predrag,1965-05-13,YUG,Kragujevac,YUG
 spatla,Spatz,Lautaro,2001-10-19,ARG,Buenos Aires,ARG
@@ -10048,11 +10248,13 @@ squise,Squillaci,Sébastien,1980-08-11,FRA,Toulon,FRA
 srloal,Sørloth,Alexander,1995-12-05,NOR,Trondheim,NOR
 staafe,Staatsmann,Fernando,1933-01-24,SPA,Foyos,SPA
 stadkr,Stadsgaard,Kris,1985-08-01,DEN,København,DEN
+stamdi,Stamatakis,Dimitrios,2003-04-23,GRE,Athina,GRE
 stanjo,Stanković,Jovan,1971-03-04,YUG,Sokobanja,YUG
 stanm1,Stankevičius,Marius,1981-07-15,LIT,Kaunas,LIT
 stanma,Stanić,Mario,1972-04-10,CRO,Sarajevo,BOS
 stanpe,Stanković,Pedrag,1968-09-17,YUG,Leskovac,YUG
 stanry,Staniek,Ryszard,1971-03-13,POL,Zebrzydowice,POL
+starca,Starfelt,Carl,1995-06-01,SWE,Stockholm,SWE
 stefad,Di Stéfano,Alfredo,1926-07-04,ARG,Buenos Aires,ARG
 stegma,Stegen,Marc-André ter,1992-04-30,GER,Mönchengladbach,GER
 steima,Steinhöfer,Markus,1986-03-07,GER,Weißenburg,GER
@@ -10122,6 +10324,7 @@ sunnst,Sunny, ,1988-09-17,NGR,Lagos,NGR
 supema,Súper, ,1991-11-21,SPA, ,SPA
 suqulu,Suquia, ,1963-09-18,SPA,Legazpia,SPA
 surefr,Sureda, ,1919-03-01,SPA,Manacor,SPA
+surele,Suárez,Álex,1993-03-18,SPA,Las Palmas de Gran Canaria,SPA
 surelu,Suárez,Luis,1997-12-02,COL,Santa Marta,COL
 surifr,Suriol, ,1919-02-02,SPA,La Grananada Panedes,SPA
 surjiv,Šurjak,Ivo,1953-03-23,CRO,Split,CRO
@@ -10134,10 +10337,12 @@ susoje,Suso, ,1947-03-03,SPA,Pontevedra,SPA
 sustle,Sustaeta,Lema,1945-08-23,SPA,Motrico,SPA
 sutifr,Sutil, ,1984-12-21,SPA,Jaén,SPA
 svenma,Svensson,Max,2001-11-08,SPA,Barcelona,SPA
+sviosv,Sávio, ,2004-04-10,BRA,São Mateus,BRA
 swedwi,Swedberg,Williot,2004-02-01,SWE,Stockholm,SWE
 syllma,Sylla,Mamadou,1994-03-20,SEN,Kédougou,SEN
 sylvlu,Sylvestre,Ludovic,1984-02-05,FRA,Blanc-Mesnil,FRA
 sylvsy,Sylvinho, ,1974-04-12,BRA,São Paulo,BRA
+syncal,Söyüncü,Çağlar,1996-05-23,TUR,İzmir,TUR
 szabgy,Szabo,Gyula,1937-12-28,HUN,Budapest,HUN
 szabhr,Szabai,Hrotko,1922-03-30,HUN,Vasmegge,HUN
 szalti,Szalay,Tibor,1938-01-26,HUN,Kobourut,HUN
@@ -10161,6 +10366,7 @@ taisca,Taisma, ,1951-11-07,SPA,Valencia,SPA
 taiswa,Tais,Washington,1972-12-21,URU,Montevideo,URU
 talafa,Taladrid, ,1953-09-10,SPA,Moreda de Aller,SPA
 tallsa,Tallo, ,0000-00-00,SPA, ,SPA
+tallya,Tallal,Yassin,2005-03-03,MAR,Madrid,SPA
 talosa,Talón, ,1945-03-24,SPA,Chella,SPA
 taltga,Taltavull, ,1921-07-10,SPA,Ciudadela,SPA
 talxid,Tal,Idan,1975-09-13,ISR,Petah Tikva,ISR
@@ -10223,6 +10429,7 @@ tejema,Tejera,Marcelo,1973-08-06,URU,Montevideo,URU
 tejes1,Tejera,Sergio,1990-05-28,SPA,Barcelona,SPA
 tejese,Tejero,Sergio,1979-02-03,SPA,Lebrija,SPA
 tejete,Tejero, ,1996-03-05,SPA,Getafe,SPA
+tejnma,Tejón,Martin,2004-04-12,SPA,Villamarchante,SPA
 telean,Telechia, ,1917-01-17,SPA,Sevilla,SPA
 telebe,Telechea, ,1921-10-24,SPA,Santander,SPA
 telecl,Telete, ,1905-08-04,SPA,Deusto,SPA
@@ -10268,6 +10475,7 @@ thurli,Thuram,Lilian,1972-01-01,FRA,Pointe-à-Pitre,GDL
 tiagt1,Tiago, ,1981-05-02,POR,Viana do Castelo,POR
 tiagti,Tiago, ,1986-07-29,POR,Oeiras,POR
 ticovi,Tico, ,1962-12-16,SPA,Castellón de la P.,SPA
+tierki,Tierney,Kieran,1997-06-05,SCO,Douglas,ENG
 tighad,Tighadouini,Adnane,1992-11-30,MAR,Ede,NED
 tikoro,Tiko, ,1976-09-15,SPA,Pamplona,SPA
 tilima,Tilico,Mário,1965-03-23,BRA,Río de Janeiro,BRA
@@ -10437,6 +10645,8 @@ traivi,Train,Vicente,1931-12-19,SPA,Barcelona,SPA
 trajal,Trajkovski,Aleksandar,1992-09-05,MAC,Skopje,MAC
 traler,Trallero, ,1943-12-05,SPA,Huesca,SPA
 traoad,Traoré,Adama,1996-01-25,MLI,L'Hospitalet de Llobregat,SPA
+traobe,Traoré,Bertrand,1995-09-06,BFS,Bobo-Dioulasso,BFS
+traoha,Traoré,Hamari,1992-01-27,MLI,Bamako,MLI
 traola,Traoré,Lacina,1990-08-20,CIV,Abidjan,CIV
 trapjo,Trápaga, ,1998-05-21,SPA,Polanco,SPA
 trasro,Trashorras, ,1981-02-28,SPA,Rábade,SPA
@@ -10460,6 +10670,7 @@ tringa,Trinxant, ,1921-11-01,SPA,Barcelona,SPA
 trinjo,Trino, ,1902-09-01,SPA,San Sebastián,SPA
 tripki,Trippier,Kieran,1990-09-19,ENG,Bury,ENG
 trisdi,Tristán,Diego,1976-01-05,SPA,La Algaba,SPA
+trispo,Tristán,Pol,2002-03-18,SPA,Barcelona,SPA
 trobjo,Trobbiani, ,1960-08-19,SPA,Madrid,SPA
 trobma,Trobbiani,Marcelo,1955-02-17,ARG,Casilda,ARG
 trocpi,Trochowski,Piotr,1984-03-22,GER,Tczew,POL
@@ -10487,6 +10698,7 @@ turaar,Turan,Arda,1987-01-30,TUR,Fatih,TUR
 turdma,Turdó,Mario,1979-01-01,ARG,Rosario,ARG
 turije,Turiel, ,1973-10-06,SPA,Málaga,SPA
 turrag,Turrez, ,1902-01-14,SPA,Las Arenas,SPA
+turrbe,Turrientes,Beñat,2002-01-31,SPA,Beasain,SPA
 turrtu,Turrientes, ,2002-01-31,SPA,Beasain,SPA
 tutojo,Tuto, ,1966-11-19,SPA,Luanco,SPA
 tuzzed,Tuzzio,Eduardo,1974-07-31,ARG,Buenos Aires,ARG
@@ -10676,6 +10888,7 @@ vallju,Vallina, ,1970-09-10,SPA,Badajoz,SPA
 valll1,Valle, ,1927-08-14,SPA,Basauri,SPA
 valllo,Vallejo,López,1975-09-22,SPA,Pamplona,SPA
 valllu,Valle, ,1914-06-18,SPA,Las Palmas,SPA
+valllv,Valles,Álvaro,1997-07-25,SPA,La Rinconada,SPA
 vallma,Vallejo,Manu,1997-02-14,SPA,Chiclana de la Frontera,SPA
 vallna,Valle,Navarro,1934-05-27,SPA,Aranjuez,SPA
 vallng,Valles, ,1924-11-17,SPA,Zaragoza,SPA
@@ -10809,6 +11022,7 @@ verdvi,Verdejo, ,1980-01-19,SPA,Alicante,SPA
 vergju,Vergara, ,1913-09-13,SPA,Olite,SPA
 vergma,Vergés, ,1934-03-08,SPA,Vidreres,SPA
 vergsa,Vergini,Santiago,1988-08-03,ARG,Máximo Paz,ARG
+vermar,Vermeeren,Arthur,2005-02-07,BEL,Lier,BEL
 vermth,Vermaelen,Thomas,1985-11-14,BEL,Kapellen,BEL
 vermvl,Vermezović,Vladimir,1963-06-30,YUG,Beograd,YUG
 verofr,Verona, ,1966-12-02,SPA,El Aaiun, 
@@ -10827,6 +11041,7 @@ vianhu,Viana,Hugo,1983-01-15,POR,Barcelos,POR
 viarma,Viar, ,1921-06-19,SPA,Bilbao,SPA
 viaula,Viaud,Laurent,1969-10-08,FRA,Nantes,FRA
 vibese,Viberti,Sebastián,1944-05-05,ARG,Córdoba,ARG
+viceca,Vicente,Carlos,1999-04-23,SPA,Zaragoza,SPA
 vicede,De Vicente, ,1989-08-23,SPA,Vigo,SPA
 viceen,Vicedo, ,1938-11-06,SPA,Elda,SPA
 vicego,Vicente,Gómez,1910-05-12,SPA,Almería,SPA
@@ -10869,6 +11084,7 @@ vidajo,Vidal, ,1935-05-06,SPA,Madrid,SPA
 vidaju,Vidal, ,1922-03-20,SPA,Granollers,SPA
 vidalu,Vidal, ,1943-07-12,SPA,Barcelona,SPA
 vidam1,Vidal, ,1906-08-24,SPA,Barcelona,SPA
+vidam2,Vidal,Marc,2000-02-14,SPA,Villarreal,SPA
 vidama,Vidal, ,1901-10-15,SPA,Bilbao,SPA
 vidana,Vidal,Nacho,1995-01-24,SPA,Campello,SPA
 vidapa,Vidal,Pablo,1920-07-22,SPA,Palma de Mallorca,SPA
@@ -11023,6 +11239,7 @@ vivid2,Vivian, ,1999-07-05,SPA,Gasteiz,SPA
 vivida,Vivian,Dani,1999-07-05,SPA,Vitoria,SPA
 vizcju,Vizcaíno, ,1966-08-06,SPA,La Pobla de Malfumet,SPA
 vlaogo,Vlaović,Goran,1972-08-07,CRO,Nova Gradiska,CRO
+vlizal,Véliz,Alejo,2003-09-19,ARG,Gálvez,ARG
 vogejo,Vogel,Johann,1977-03-08,SUI,Genf,SUI
 voglju,Voglino,Juan,1947-07-26,ARG,Florida,ARG
 vojimi,Vojinović,Mirko,1952-02-23,YUG,Dufat,YUG
@@ -11038,6 +11255,7 @@ vujani,Vujadinović,Nikola,1986-07-31,MNT,Beograd,YUG
 vukcni,Vukčević,Nikola,1991-12-13,MNT,Podgorica,MNT
 vulizo,Vulić,Zoran,1961-10-04,CRO,Split, 
 vyntlo,Vyntra,Loukas,1981-02-05,GRE,Město Albrechtice,CZE
+vzqubo,Vázquez,Borja,2005-01-18,SPA,Jerez de la Frontera,SPA
 vzquje,Vázquez,Jesús,2003-01-02,SPA,Barcelona,SPA
 vzquke,Vázquez,Kevin,1993-03-23,SPA,Nigrán,SPA
 wagnjo,Wagner,Jorge,1978-11-17,BRA,Feira de Santana,BRA
@@ -11095,6 +11313,8 @@ xiscf1,Xisco, ,1989-07-31,SPA,Palma de Mallorca,SPA
 xiscfr,Xisco, ,1986-06-26,SPA,Palma De Mallorca,SPA
 xumejo,Xumetra, ,1985-10-24,SPA,L'Estartit,SPA
 yaagme,El-Yaagoubi,Mohammed,1977-09-12,MAR,Togurit,MAR
+yaakan,Yaakobishvili,Antal,2004-07-12,HUN, ,HUN
+yaakro,Yaakobishvili,Áron,2006-03-06,HUN,Budapest,HUN
 yagual,Yagüe, ,1985-03-27,SPA,Vilassar de Mar,SPA
 yaguqu,Yagüe,Quique,1959-10-24,SPA,Navalperal de Pinares,SPA
 yakoal,Yakovenko,Aleksandr,1987-06-23,UKR,Kiev,UKR
@@ -11106,6 +11326,7 @@ yanepa,Yañez,Patricio,1961-01-20,CHI,Quillota,CHI
 yaneru,Yáñez,Rubén,1993-10-12,SPA,Blanes,SPA
 yangjo,Yanguas, ,1972-06-20,SPA,Navarra,SPA
 yaoxya,Yao,Yago,1979-08-19,SPA,Abidjan,CIV
+yarero,Yaremchuk,Roman,1995-11-27,UKR,Lviv,UKR
 yarzen,Yarza, ,1930-10-21,SPA,San Sebastián,SPA
 yawxjo,Yaw,Joachim,1973-11-02,GHA,Accra,GHA
 yayoel,Yayo, ,1927-02-05,SPA,Las Palmas,SPA
@@ -11152,6 +11373,7 @@ zafrjo,Zafra, ,1917-12-07,SPA,Sevilla,SPA
 zahijo,Zahínos, ,1977-12-01,SPA,Madrid,SPA
 zahiwi,Zahibo,Wilfried,1993-08-21,FRA,Marseille,FRA
 zahozl,Zahovič,Zlatko,1971-02-01,SLO,Maribor,SLO
+zakhar,Zakharyan,Arsen,2003-05-26,RUS,Samara,RUS
 zakieb,Zaki,Ezaki Badou,1959-04-02,MAR,Sidi Kacem,MAR
 zalajo,Zalazar,José,1963-10-26,URU,Montevideo,URU
 zalama,Zalayeta,Marcelo,1978-12-05,URU,Montevideo,URU
@@ -11205,6 +11427,7 @@ zharne,El Zhar,Nabil,1986-08-27,MAR,Alès,FRA
 zianst,Ziani,Stéphane,1971-12-09,FRA,Nantes,FRA
 zidaen,Zidane,Enzo,1995-03-24,FRA,Bordeaux,FRA
 zidalu,Zidane,Luca,1998-05-13,FRA,Marseille,FRA
+zidath,Zidane,Theo,2002-05-18,FRA,Marseille,FRA
 zidazi,Zidane,Zinédine,1972-06-23,FRA,Marseille,FRA
 zigajo,Ziganda, ,1966-10-01,SPA,Larrainzar,SPA
 zigami,Ziganda,Mikel,1984-08-09,SPA,Pamplona,SPA

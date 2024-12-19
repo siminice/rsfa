@@ -24,16 +24,16 @@
 1800 FB Brindisi~Brindisi*2023 SSD Brindisi FC~Brindisi
 1800 Cagliari Calcio~Cagliari
 1800 Campania Puteolana~Campania*2000 FC Puteolana~Campania
-1800 SS Campobasso~Campobasso*2004 Nuovo Campobasso Calcio~Campobasso*2022 Città di Campobasso~Campobasso
+1800 SS Campobasso~Campobasso*2004 Nuovo Campobasso Calcio~Campobasso*2022 Città di Campobasso~Campobasso*2025 Campobasso FC~Campobasso
 1800 Carbonia~Carbonia
 1800 Carbosarda~Carbosarda
-1800 Carpi FC 1909~Carpi
+1800 AC Carpi~Carpi*2001 Carpi FC 1909~Carpi*2022 AC Carpi~Carpi
 1800 Carrarese Calcio~Carrarese
 1800 Casale Calcio~Casale
 1800 Virtus Casarano~Casarano
 1800 Casertana FC~Casertana
 1800 Castel di Sangro Calcio~C.di Sangro
-1800 Calcio Catania~Catania*Catania FC~Catania
+1800 Calcio Catania~Catania*2023 FC Catania~Catania
 1800 US Catanzaro~Catanzaro*2006 FC Catanzaro~Catanzaro
 1800 SS Cavese 1919~Cavese
 1800 AC Centese~Centese
@@ -153,7 +153,7 @@
 1800 Rovereto~Rovereto
 1800 Salernitana Sport~Salernitana
 1800 SS Sambenedettese Calcio~Sambenedettese
-1900 Andrea Doria Genova~Andrea Doria*1946 Sampdoria Genova~Sampdoria
+1900 Andrea Doria Genova~Andrea Doria*1928 La Dominante Genova~La Dominante*1931 Andrea Doria Genova~Andrea Doria*1947 Sampdoria Genova~Sampdoria
 1800 AC Sangiovannese~Sangiovannese
 1800 Sanremese Calcio~Sanremese
 1800 Sant'Angelo~Sant'Angelo
@@ -177,7 +177,7 @@
 1800 Torino Calcio~Torino
 1800 Sassari Torres 1903~Sassari Torres
 1800 Trani~Trani
-1800 AS Trapani~Trapani
+1800 AS Trapani~Trapani*2022 FC Trapani 1905~Trapani
 1800 Alba Trastevere~Trastevere
 1800 Calcio Trento~Trento
 1800 Trevigliese~Trevigliese
@@ -230,7 +230,7 @@
 1800 Fiumana~Fiumana
 1800 AC Maceratese~Maceratese
 1800 Molinella~Molinella
-1800 Sampierdarenese Genova~Samp Genova*1938 Liguria Genova~Liguria
+1800 Sampierdarenese Genova~Sampier*1928 La Dominante Genova~La Dominante*1931 Sampierdarenese~Sampier*1938 Liguria Genova~Liguria*1946 Sampierdarenese Genova~Sampier
 1800 FC Sudtirol Alto Adige~Alto Adige
 1800 Nuorese Calcio~Nuorese
 1800 Bassano Virtus~Bassano*2019 L.R. Vicenza Virtus~Bassano
@@ -285,7 +285,7 @@
 1800 Astrea~Astrea
 1800 Iperzola Ponteroncariale~Iperzola
 1800 Ponsacco~Ponsacco
-1800 Altamura~Altamura
+1800 US Altamura~Altamura*2016 Team Altamura~Altamura
 1800 Cecina~Cecina
 1800 Valle d'Aosta Calcio~Aosta
 1800 Sangiuseppese~Sangiuseppe
@@ -343,7 +343,7 @@
 1800 ASD Castelli Romani~Castelli Roma*2017 SS Racing Club Roma~Racing Club
 1800 AS Pro Piacenza~Pro Piacenza
 1800 Polisportiva Arzachena~Arzachena
-1800 Juventus U23~Juventus U23
+1800 Juventus Torino U23~Juventus II
 1800 Albissola 2010~Albissola
 1800 AC Gozzano~Gozzano
 1800 US Pianese~Pianese
@@ -358,3 +358,9 @@
 1800 ASD Gelbison Vallo della Lucania~Gelbison
 1800 USD Sestri Levante~Sestri Levante
 1800 ASD Pineto Calcio~Pineto
+1800 Atalanta Bergamo U23~Atalanta II
+1800 Alcione Milano SS~Alcione
+1800 Calcio Caldiero Terme~Caldiero Terme
+1800 Union Clodiense Chioggia FC~Chioggia
+1800 AC Milan Futuro~Milan II
+1800 Grion Pola~Pola

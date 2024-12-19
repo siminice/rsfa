@@ -1,8 +1,12 @@
-297
+328
 adrico,Adriaanse,Co,Jacobus Adriaanse,1947-07-21,NED,Amsterdam,NED,co-adriaanse
 altmse,Altman,Semyonn,Semyon Yosypovych Altman,1946-04-21,UKR,Chuhuiev,UKR,semen-altman
+antoo1,Antonov,Oleksiy, ,1986-05-08,UKR,Pavlograd,UKR,oleksiy-antonov
+antool,Antonenko,Oleksandr, ,1978-12-29,UKR,Korosten,UKR,oleksandr-antonenko
 arisvi,Aristov,Viktor,Виктор Александрович Аристов,1938-08-14,RUS,Михайлов, ,___
+ashuim,Ashur,Imad, ,1988-04-19,UKR,Odessa,UKR,imad-ashur
 atamvo,Atamanyuk,Volodimir,Владимир Михайлович Атаманюк,1955-06-13,UKR,Сталино,UKR,___
+attera,Atteveld,Raymond, ,1966-09-08,NED,Amsterdam,NED,raymond-atteveld
 azaran,Azarenkov,Anatoliy,Анатолий Александрович Азаренков,1938-04-05,BLR,Одесса,UKR,___
 babiol,Babich,Oleksandr, ,1979-02-15,UKR,Alchevsk, ,oleksandr-babich
 bakayu,Bakalov,Yuriy, ,1966-01-16,UKR,Kyiv,UKR,yuriy-bakalov
@@ -35,6 +39,7 @@ buryle,Buryak,Leonid,Leonid Yosipovich Buryak,1953-07-10,UKR,Odessa,UKR,leonid-b
 byshan,Byshovets,Anatoliy,Анатолий Фёдорович Бышовец,1946-04-23,RUS,Киев,UKR,___
 caanto,Caanen,Ton, ,1966-03-18,NED,Geleen,NED,ton-caanen
 caraem,Caras,Emil,Emilian Caras,1967-12-21,MOL,Chișinău,MOL,emil-caras
+carran,Carrasco,Andrés,Andrés Carrasco Carrillo,1978-03-04,SPA,Vilafranca del Penedès,SPA,andres-carrasco_2
 castlu,Castro,Luís,Luís Manuel Ribeiro de Castro,1961-09-03,POR,Vila Real,POR,luis-castro
 cesaju,César,Júlio,Júlio César Santos Correa,1978-11-18,BRA,San Luis da Maranhao,BRA,julio-cesar_3
 chanan,Chantsev,Anatoliy, ,1958-02-20,UKR, ,UKR,anatoliy-chantsev
@@ -42,17 +47,20 @@ chanvi,Chanov,Viktor,Виктор Викторович Чанов,1959-07-21,UKR
 chera1,Cheremisin,Andrey,Андрей Андреевич Черемисин,1947-04-23,UKR,Краснодарский кр.,UKR,___
 cheral,Cherednik,Aleksey,Алексей Валентинович Чередник,1960-09-15,UKR,Сталинабад,UKR,___
 cheran,Chervenkov,Angel, ,1964-06-10,BUL,Bolyarovo,BUL,angel-chervenkov
+chizol,Chizhov,Oleksandr, ,1986-08-10,UKR,Poltava,UKR,oleksandr-chizhov
 chrigi,Christopoulos,Giannis, ,1972-11-12,GRE, ,GRE,giannis-christopoulos
 chyzol,Chyzhevskyi,Oleksandr, ,1971-05-27,UKR,Luzk, ,oleksandr-chyzhevskyi
 demcan,Demchenko,Andriy, ,1976-08-20,UKR,Zaporizhya,UKR,andriy-demchenko
 demyan,Demyanenko,Anatoliy,Anatoliy Vasilyevich Demyanenko,1959-02-19,UKR,Dnipropetrovsk,UKR,anatoliy-demyanenko
 dohavi,Dohadaylo,Victor, ,1960-04-17,UKR, ,UKR,victor-dohadaylo
 dolgyu,Dolgikh,Yuriy,Юрий А. Долгих,0000-00-00,UKR, ,UKR,___
+dolhse,Dolhanskyi,Sergiy, ,1974-09-15,UKR,Zdolbuniv,UKR,sergiy-dolhanskyi
 dolmol,Dolmatov,Oleg,Олег Васильевич Долматов,1948-11-29,RUS,Челябинск-65,RUS,___
 dotsse,Dotsenko,Sergey,Сергей Александрович Доценко,1947-09-07,KAZ,Караганда,KAZ,___
 dovbol,Dovbiy,Oleksandr,Александр Петрович Довбий,1953-09-28,UKR,Харьков,UKR,___
 drozol,Drozdenko,Oleksiy,Алексей Митрофанович Дрозденко,1941-02-28,UKR,Чистяково,UKR,___
 drudda,Drudi,Dario,Dario Hernan Drudi,1987-04-23,ARG, ,ARG,dario-drudi
+dudny1,Dudnyk,Yuriy, ,1968-09-26,UKR,Luhansk,UKR,yuriy-dudnyk
 dudnyu,Dudnik,Yuriy, ,0000-00-00,UKR, ,UKR,yuriy-dudnik
 duluol,Dulub,Oleg, ,1965-09-20,BLR,Minsk,BLR,oleg-dulub
 dunemi,Dunets,Mihaylo,Михаил Михайлович Дунец,1950-11-03,UKR,Проскуров,UKR,___
@@ -73,10 +81,13 @@ frolko,Frolov,Konstiantyn, ,1972-06-20,GEO, ,GEO,konstiantyn-frolov
 gaidle,Gaidarzhi,Leonid,Леонид Васильевич Гайдаржи,1959-05-20,UKR,с. Дмитровка, ,___
 galljo,Gall,Joop, ,1963-12-25,NED,Hoogezand-Sappermeer,NED,joop-gall
 gamuig,Gamula,Igor,Igor Vasilovich Gamula,1960-02-17,UKR,Voroshylovsk,UKR,igor-gamula
+gavrvi,Gavrysh,Vitaliy,Vitaliy Volodymyrovych Gavrysh,1986-03-18,UKR,Chernihiv,UKR,vitaliy-gavrysh
 gavrvo,Gavrilov,Volodimir,Владимир Николаевич Гаврилов,1960-07-16,UKR,Новошахтинск,RUS,___
 gazzva,Gazzaev,Valeriy,Valeriy Georgievich Gazzaev,1954-08-07,RUS,Vladikavkaz,RUS,valeriy-gazzaev
+geraol,Gerasimyuk,Oleg, ,1986-09-25,UKR,Volodymyr-Volynsky,UKR,oleg-gerasimyuk
 glusan,Glushchenko,Andriy, ,1974-03-18,UKR, ,UKR,andriy-glushchenko
 golaiv,Golac,Ivan,Иван Голац,1950-06-15,CRO,Копривница,CRO,___
+goloo1,Golodyuk,Oleg,Oleg Yuriyovych Golodyuk,1988-01-02,UKR,Sobishytsi,UKR,oleg-golodyuk
 golool,Golokolosov,Oleksandr,Александр Николаевич Голоколосов,1955-08-01,UKR,Одесса,UKR,___
 gordan,Gordeev,Andrey, ,1975-04-01,RUS,Moskva,RUS,andrey-gordeev
 gorova,Gorodov,Valeriy,Valeriy Vasylyovich Gorodov,1961-02-14,RUS,Belgorod,RUS,valeriy-gorodov
@@ -89,19 +100,23 @@ gumevl,Gumenyuk,Vladialav, ,1865-01-30,UKR, ,UKR,vladialav-gumenyuk
 gurayu,Gura,Yuriy,Yuriy Volodymyrovych Gura,1976-08-08,UKR, ,UKR,yuriy-gura
 hoduva,Hodukin,Valentin,Валентин Михайлович Ходукин,1939-08-17,UKR,Харьков,UKR,___
 horban,Horban,Andriy, ,1978-03-21,UKR, ,UKR,andriy-horban
+ignjni,Ignjatijević,Nikola, ,1983-12-12,SRB,Požarevac,SRB,nikola-ignjatijevic
 ishcle,Ishchuk,Leonid,Леонид Николаевич Ищук,1951-01-10,UKR,Староконстантинов,UKR,___
 ishcol,Ishchenko,Oleksandr, ,1953-09-03,UKR,Kremenchuk,UKR,oleksandr-ishchenko
 ivanol,Ivanov,Oleksandr,Oleksandr Mykhaylovych Ivanov,1965-11-23,UKR,Kharkiv,UKR,oleksandr-ivanov_2
+ivasva,Ivashchenko,Valeriy, ,1980-11-25,UKR,Kyiv,UKR,valeriy-ivashchenko
 joviig,Jovićević,Igor, ,1973-11-30,CRO,Zagreb,CRO,igor-jovicevic
 kalimi,Kalita,Mihaylo,Михаил Григорьевич Калита,1961-09-27,UKR,Львов,UKR,___
 kaliy1,Kalitvintsev,Yuriy,Yuriy Nikolayevich Kalitvintsev,1968-05-05,UKR,Volgograd,RUS,yuriy-kalitvintsev
 kaliyu,Kalitvintsev,Yuriy,Юрий Николаевич Калитвинцев,1968-05-05,RUS,Волгоград,RUS,___
 kamavi,Kamarzaev,Viktor,Виктор Владимирович Камарзаев,1956-09-21,UKR,Прохладный,RUS,___
+karadm,Kara-Mustafa,Dmytro, ,1972-10-30,UKR,Krasnodon,UKR,dmytro-kara-mustafa
 kasapa,Kasanov,Pasha,Паша Намазович Касанов,1953-01-19,URS,п.г.т. Тавричанка, ,___
 kernvy,Kernozenko,Vyacheslav, ,1976-06-04,UKR,Havana,CUB,vyacheslav-kernozenko
 khatal,Khatskevich,Aleksandr, ,1973-10-19,BLR,Minsk, ,aleksandr-khatskevich
 klimig,Klimovsky,Igor, ,1972-02-17,UKR, ,UKR,igor-klimovsky
 klyule,Klyuchik,Leonid,Леонид Семёнович Ключик,1950-03-20,UKR,Дзержинск,UKR,___
+knysvo,Knysh,Volodymyr, ,1970-12-24,UKR,Dnipropetrovsk,UKR,volodymyr-knysh
 kobiva,Kobin,Vasyl,Vasyl Vasyl'ovych Kobin,1985-05-24,UKR,Strabychovo,UKR,vasyl-kobin
 kobivy,Kobiletskiy,Vyacheslav,Вячеслав Прокофьевич Кобылецкий,1951-04-15,UKR, ,UKR,___
 kobzvo,Kobzaryov,Volodimir,Владимир Александрович Кобзарёв,1957-06-12,UKR, ,UKR,___
@@ -123,17 +138,21 @@ kostru,Kostishin,Ruslan, ,1977-01-08,UKR, ,UKR,ruslan-kostishin
 kovaol,Koval,Olexandr, ,1974-05-03,UKR, ,UKR,olexandr-koval
 kovas1,Kovalyov,Sergiy,Sergiy Mykolayovych Kovalyov,1971-11-21,UKR,Donetsk,UKR,sergiy-kovalyov
 kovase,Kovalets,Serhiy, ,1968-09-05,UKR,Chekhove,UKR,serhiy-kovalets
+kovay1,Koval,Yuriy, ,1958-04-29,UKR,Dilizhan,UKR,yuriy-koval
 kovayu,Koval,Yuriy,Юрий Григорьевич Коваль,1958-04-29,UKR,Дилижан,ARM,___
+kovpol,Kovpak,Oleksandr, ,1983-02-02,UKR,Smila,UKR,oleksandr-kovpak
 kovtan,Kovtun,Andriy, ,1968-02-28,UKR,Nizhyn, ,andriy-kovtun
 kozevo,Kozerenko,Volodimir,Владимир Сергеевич Козеренко,1947-08-05,UKR,Одесса,UKR,___
 krakse,Krakovskiy,Sergey,Сергей Викторович Краковский,1960-08-11,UKR,Николаев,UKR,___
 krasiv,Krasnetskiy,Ivan,Иван Михайлович Краснецкий,1945-05-18,UKR,с. Братковцы,UKR,___
+kravse,Kravchenko,Sergiy,Sergiy Sergiyovych Kravchenko,1983-04-24,UKR,Donetsk,UKR,sergiy-kravchenko
 kryava,Kryachko,Valentin,Валентин Николаевич Крячко,1958-01-27,UKR,п.г.т. Комсомольское, ,___
 kryvva,Kryventsov,Valeriy,Valeriy Sergiyovych Kryventsov,1973-07-30,UKR,Donetsk,UKR,valeriy-kryventsov
 kuchev,Kucherevskiy,Evgeniy,Evgeniy Mefodyevich Kucherevskiy,1941-08-06,UKR,Kherson,UKR,evgeniy-kucherevskiy
 kuchle,Kuchuk,Leonid, ,1959-08-27,BLR, ,BLR,leonid-kuchuk
 kuchol,Kucher,Oleksandr, ,1982-10-22,UKR,Kiev,UKR,oleksandr-kucher
 kuchpa,Kucherov,Pavel, ,1964-08-18,RUS,Smolensk,RUS,pavel-kucherov
+kudyan,Kudymov,Andriy, ,1964-12-22,UKR,Pervomaysk,UKR,andriy-kudymov
 kuksan,Kuksov,Anatoliy,Анатолий Яковлевич Куксов,1949-11-21,UKR,Ворошиловград,UKR,___
 kuptan,Kuptsov,Andriy, ,1971-01-23,UKR, ,UKR,andriy-kuptsov
 kushpy,Kushlyk,Pyotr,Пётр Иванович Кушлык,1951-03-22,UKR,Калуш,UKR,___
@@ -142,12 +161,14 @@ kuznse,Kuznetsov,Sergey,Sergey Vyacheslav Kuznetsov,1979-11-03,BLR,Minsk,BLR,ser
 kuznvi,Kuznetsov,Viktor,Виктор Васильевич Кузнецов,1949-02-25,UKR,с. Каменоломня, ,___
 kvarvi,Kvartsyaniy,Vitaliy,Vitaliy Volodimirovich Kvartsyaniy,1953-07-19,UKR,Lutsk,UKR,vitaliy-kvartsyaniy
 laktva,Laktionov,Valentin,Валентин Савельевич Лактионов,1946-04-21,UKR, ,UKR,___
+lalane,Lalatović,Nenad, ,1977-12-22,SRB,Beograd,SRB,nenad-lalatovic
 lavrse,Lavrynenko,Sergiy, ,1975-02-17,UKR, ,UKR,sergiy-lavrynenko
 leeupv,van Leeuwen,Patrick, ,1969-08-08,NED,Assen,NED,patrick-van-leeuwen
 lemeev,Lemeshko,Evgen,Евгений Филиппович Лемешко,1930-12-11,UKR,Николаев,UKR,___
 leonih,Leonov,Ihor, ,1967-09-14,UKR,Kerch,UKR,ihor-leonov
 leshol,Leshchinskiy,Oleg,Oleh Leshchinskiy,1965-12-31,UKR, ,UKR,oleg-leshchinskiy
 litoge,Litovchenko,Gennadiy,Геннадий Владимирович Литовченко,1963-09-11,UKR,Днепродзержинск,UKR,___
+ljubel,Ljubenović,Željko, ,1981-07-09,SRB,Beograd,SRB,zeljko-ljubenovic
 lobava,Lobanovskiy,Valeriy,Валерий Васильевич Лобановский,1939-01-06,UKR,Киев,UKR,___
 lozivl,Lozinskiy,Vladimir,Владимир Фёдорович Лозинский,1955-01-06,RUS,Брянская обл.,RUS,___
 lucemi,Lucescu,Mircea, ,1945-07-29,ROM,Bucuresti,ROM,mircea-lucescu
@@ -198,12 +219,14 @@ pokoro,Pokora,Roman,Роман Михайлович Покора,1948-02-22,UKR,
 ponovi,Ponomarov,Vitaliy, ,1974-12-07,UKR, ,UKR,vitaliy-ponomarov
 popose,Popov,Sergiy,Sergiy Oleksandrovych Popov,1971-04-22,UKR,Makiyivka,UKR,sergiy-popov
 possda,Possanzini,Davide, ,1976-02-09,ITA,Loreto,ITA,davide-possanzini
+pozdol,Pozdeiev,Oleksandr, ,1986-06-14,UKR,Kyiv,UKR,oleksandr-pozdeiev
 pozhvi,Pozhechevskiy,Viktor,Виктор Александрович Пожечевский,1951-02-04,UKR,Полтава,UKR,___
 prokvi,Prokopenko,Viktor,Виктор Евгеньевич Прокопенко,1944-10-24,UKR,Мариуполь,UKR,___
 protol,Protasov,Oleg,Oleg Valerievich Protasov,1964-02-04,UKR,Dnipropetrovsk,UKR,oleg-protasov
 prykol,Prykhodko,Oleksandr, ,1966-04-11,UKR, ,UKR,oleksandr-prykhodko
 pryzol,Pryzetko,Olexandr, ,1971-01-31,UKR, ,UKR,olexandr-pryzetko
 puchse,Puchkov,Sergiy,Sergiy Valentinovich Puchkov,1962-04-17,UKR,Lutuhyne,UKR,sergiy-puchkov
+puixma,Pušić,Marino, ,1971-08-18,CRO,Mostar,BOS,marino-pusic
 puzaan,Puzach,Anatoliy,Анатолий Кириллович Пузач,1941-06-03,RUS,Красный Кут,RUS,___
 pyatvo,Pyatenko,Volodymyr,Volodymyr Mykolayovych Pyatenko,1974-09-09,UKR,Kemerovo,RUS,volodymyr-pyatenko
 rakhig,Rakhaev,Igor, ,1973-05-26,UKR,Kharkov,UKR,igor-rakhaev
@@ -224,26 +247,32 @@ sachva,Sachko,Vasil, ,1975-05-03,UKR,Staromlynivka, ,vasil-sachko
 salkvl,Salkov,Vladimir,Владимир Максимович Сальков,1937-04-01,UKR,Сталино,UKR,___
 sanzro,Sanzhar,Roman, ,1979-05-28,UKR,Donetsk, ,roman-sanzhar
 scalne,Scala,Nevio,Невио Скала,1947-11-22,ITA,Лоццо-Атестино,ITA,___
+scheje,Schepens,Jeroen, ,1993-05-27,NED, ,NED,jeroen-schepens
 schube,Schuster,Bernhard,Бернхард Шустер,1959-12-22,GER,Аугсбург,GER,___
 semiyu,Semin,Yuriy,Yuriy Pavlovich Semin,1947-05-11,RUS,Orenburg,RUS,yuriy-semin
 sevevi,Severino,Vítor,Vítor José Santos Severino,1983-08-16,POR,Peniche,POR,vitor-severino
 seviol,Sevidov,Oleksandr, ,1969-07-18,UKR,Donetsk, ,oleksandr-sevidov
 shakan,Shakun,Anatoliy,Анатолий Дмитриевич Шакун,1948-01-02,UKR,Констанца, ,___
 shalvt,Shalychev,Vítaliy,Виталий Семёнович Шалычев,1946-10-30,UKR,Чистяково,UKR,___
+shanol,Shandruk,Oleg, ,1983-01-30,UKR,Smiga,UKR,oleg-shandruk
 shapva,Shapovalov,Valeriy, ,1976-08-27,UKR,Odessa,UKR,valeriy-shapovalov
 sharvo,Sharan,Volodymyr, ,1971-09-18, ,Mariupol, ,volodymyr-sharan
 shevs1,Shevchenko,Sergiy,Сергей Яковлевич Шевченко,1960-05-15,UKR,п. Калининское,UKR,___
 shevse,Shevchenko,Sergiy, ,1958-03-06,UKR,Kherson,UKR,sergiy-shevchenko
 shevvi,Shevchenko,Vitaliy,Vitaliy Viktorovich Shevchenko,1951-10-02,UKR,Baku,AZE,vitaliy-shevchenko
 shevvy,Shevchuk,Vyacheslav,Vyacheslav Anatoliyovych Shevchuk,1979-05-13,UKR,Lutsk, ,vyacheslav-shevchuk
+shisse,Shishchenko,Sergiy, ,1976-01-13,UKR,Siryakiy,UKR,sergiy-shishchenko
 shkoef,Shkolnikov,Efim,Ефим Григорьевич Школьников,1939-01-31,UKR,Чернигов,UKR,___
 shmase,Shmatovalenko,Sergiy,Sergiy Sergiyevich Shmatovalenko,1967-01-20,UKR,Odessa,UKR,sergiy-shmatovalenko
+shovol,Shovkovskiy,Oleksandr, ,1975-01-02,UKR,Kiev,UKR,oleksandr-shovkovskiy
 shteol,Shtelin,Oleksandr,Александр Александрович Штелин,1953-10-01,UKR,Мукачево,UKR,___
 shudol,Shudrik,Oleksandr, ,1954-01-31,UKR, ,UKR,oleksandr-shudrik
+shugiv,Shuga,Ivan, ,1977-02-07,UKR,Mukacheve,UKR,ivan-shuga
 shulyu,Shulyatitskiy,Yuriy,Юрий-Иосиф Иосифович Шулятицкий,1942-08-04,UKR,Станислав,UKR,___
 shumvi,Shumsky,Vitaly, ,1972-05-17,UKR, ,UKR,vitaly-shumsky
 shveva,Shvedyuk,Valeriy,Валерий Самойлович Шведюк,1946-04-13,UKR,Бахчисарай, ,___
 silvgt,da Silva,Gilmar Tadeu, ,1970-11-18,BRA,Sao Paulo,BRA,gilmar-tadeu-da-silva
+sitnol,Sitnik,Oleksandr, ,1985-01-02,UKR,Vinnytsya,UKR,oleksandr-sitnik_2
 skrejn,Skredelis,Jānis,Янис Игнатьевич Скределис,1939-12-29,LAT,Резекне,LAT,___
 skriol,Skripnik,Oleksandr,Александр Николаевич Скрипник,1958-11-07,UKR,Одесса,UKR,___
 skrivi,Skripnik,Viktor,Viktor Anatoljewitsch Skripnik,1969-11-19,UKR,Nowomoskowsk,UKR,viktor-skripnik
@@ -252,7 +281,9 @@ skuran,Skurskiy,Anatoliy,Анатолий Борисович Скурский,19
 slobpy,Slobodyan,Pyotr,Пётр Петрович Слободян,1953-07-02,UKR,с. Шепаровцы, ,___
 sobese,Sobetskiy,Sergiy,Сергей Иванович Собецкий,1951-02-28,UKR,Полтава,UKR,___
 sokomy,Sokolovsky,Mykhaylo,Михаил Григорьевич Соколовский,1951-11-15,UKR,Славянск,UKR,___
+srnada,Srna,Darijo, ,1982-05-01,CRO,Metkovic,CRO,darijo-srna
 stanbe,Stange,Bernd,Бернд Штанге,1948-03-14,GER,коммуна Добершау-Гаусиг,GER,___
+stanma,Stanić,Mario, ,1972-04-10,CRO,Sarajevo,BOS,mario-stanic
 stavyd,Dyachuk-Stavitskiy,Yuri, ,1947-01-26,UKR, ,UKR,yuri-dyachuk-stavitskiy
 stelmi,Stelmakh,Mikhail,Mykhailo Andriyovych Stelmakh,1966-04-29,UKR,Zolochiv,UKR,mikhail-stelmakh
 strase,Strashnenko,Sergiy,Сергей Васильевич Страшненко,1953-09-08,UKR,Сумы,UKR,___

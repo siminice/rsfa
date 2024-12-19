@@ -1,5 +1,5 @@
 1900 Olimpija Ljubljana~Olimpija*1997 SCT Olimpija Ljubljana~Olimpija
-1900 Maribor Branik~Maribor*1993 Branik Maribor~Maribor*1998 Maribor Teatanic~Maribor*2001 NK Maribor~Maribor
+1900 NK Maribor Branik~Maribor*1993 NK Branik Maribor~Maribor*1998 NK Maribor Teatanic~Maribor*2001 NK Maribor~Maribor
 1900 SAOP Gorica*1994 HIT Nova Gorica~Gorica*2004 ND Gorica
 1800 NK Mura Murska Sobota~Mura*2005 ND Mura 05 Murska Sobota~Mura
 1800 NK Primorje Ajdovščina~Ajdovščina*2014 ŠD Škou Ajdovščina~Ajdovščina*2018 ND Primorje Ajdovščina~Ajdovščina
@@ -17,25 +17,25 @@
 1900 Eurospekter Ljubljana~Eurospekter*1993 AM Cosmos Ljubljana~Cosmos*1995 Železnicar Ljubljana~Železnicar L*1997 NK Ljubljana~NK Ljubljana*2000 Viator Ljubljana~Viator*2001 Viator&Vektor Ljubljana~V&V*2005 NK Ljubljana~NK Ljubljana*2011 FC Ljubljana~FC Ljubljana
 1800 NK Rudar Trbovlje~Trbovlje
 1800 ND Dravinja Slovenske Konjice~Dravinja
-1800 Livar Ivančna Gorica~Livar*2008 NK Ivančna Gorica~Ivancna Gorica*2011 NK Livar Ivančna Gorica~Livar*2015 NK Ivančna Gorica~Ivančna Gorica
+1800 NK Livar Ivančna Gorica~Livar*2012 NK Ivančna Gorica~Ivančna Gorica
 1800 NK Aluminij Kidričevo~Kidričevo
 1900 Triglav Kranj~Triglav*1999 Zivila Triglav Kranj~Triglav*2005 Supernova Triglav~Triglav*2008 ND Gorenjska Kranj~Kranj*2010 ND Triglav Kranj~Triglav
 1800 Factor Crnuce~Factor*2000 Factor Ljubljana~Factor*2007 NK Interblock Ljubljana~Interblock
-1800 NK Krško~Krsko
+1800 NK Krško~Krsko*2024 NK Krško Posavje~Krško
 1800 NK Šmartno ob Paki~Šmartno/Paki
 1900 NK Potrošnik Beltinci~Beltinci*1996 NK Beltinci~Beltinci
 1900 NK Svoboda Ljubljana~Svoboda*1993 NK Kompas Ljubljana~Kompas*1994 Optimizem Ljubljana~Optimizem*1995 NK Svoboda Ljubljana~Svoboda
 1900 Železnicar Ljubljana~Železnicar L*2011 FC Ljubljana~FC Ljubljana
 1900 Nova Prema KS Prevalje*1997 NK Korotan Prevalje*2017 DNŠ Prevalje~Prevalje
 1800 MND Tabor Sežana~Sežana
-1900 Feroterm Pohorje Ruše~Feroterm*2018 NK Pohorje Ruše~Pohorje
-1800 Avtoblum Kočevje~Kocevje*1994 Gaj Kočevje~Kočevje*2015 NK Kočevje~Kočevje
+1900 NK Feroterm Pohorje Ruše~Pohorje*2018 NK Pohorje Ruše~Pohorje
+1800 NK Avtoblum Kočevje~Kocevje*1994 NK Gaj Kočevje~Kočevje*2015 NK Kočevje~Kočevje
 1900 Jadran Lama Dekani*1994 Istragas Jadran Dekani*1995 NK Jadran Dekani~Dekani
-1800 Slovan Mavrica~Mavrica*1995 Mavrica Črnuče~Mavrica
+1800 Slovan Mavrica~Mavrica*1995 Mavrica Črnuče~Mavrica*2099 ND Slovan Ljubljana~Slovan
 1900 Studio D Novo Mesto~Novo Mesto*1995 Elan Novo Mesto~Novo Mesto*2008 NK Krka Novo Mesto~Novo Mesto
 1800 Steklar Rogaška Slatina~Slatina*2017 NK Rogaška~Rogaška
-1800 Železnicar Ligro Maribor~Železnicar M*2002 Železnicar Maribor~Železnicar M
-1800 Loka Medvode~Medvode*2010 NK Jezero Medvode~Medvode
+1800 NK Železnicar Ligro Maribor~Železnicar M*2002 NK Železnicar Maribor~Železnicar M
+1800 NK Loka Medvode~Medvode*1999 NK Jezero Medvode~Medvode
 1800 Tinex Šentjur~Sentjur*2009 NK Šentjur~NK Sentjur
 1800 Brda Goriska Rence~Rence
 1800 GP Grosuplje~Grosuplje
@@ -80,7 +80,7 @@
 1800 NK Ankaran Hrvatini Mas Tech~Mas Tech
 1800 NK Grad~Grad
 1800 Impol Bistrica~Bistrica*2000 NK Virs Bistrica~Bistrica*2013 NK Bistrica~Bistrica
-1800 Zivila Naklo~Naklo*1998 Triglav Naklo~Naklo*2000 NK Naklo~Naklo
+1800 TVD Partizan Naklo~Naklo*1990 NK Živila Naklo~Naklo*1998 NK Triglav Naklo~Naklo*2000 NK Naklo~Naklo
 1800 NK Paloma~Paloma
 1800 NK Mengeš~Menges
 1800 Papir Radeče~Radece
@@ -99,7 +99,7 @@
 1800 Središče ob Dravi~Sredisce
 1800 NK Rakičan~Rakican
 1800 NK Ilirska Bistrica~Ilirska Bistr
-1800 NK Zarica~Zarica
+1800 NK Bistrc~Bistrc
 1800 NK Ljutomer~Ljutomer
 1800 NK Bled~Bled*2015 NK Bled Hirter~Bled
 1800 NK Britof~Britof
@@ -138,3 +138,4 @@
 1800 NK Dren Vrhnika~Vrhnika
 1800 ŠD Visoko~Visoko
 1800 ŠD Hajdina~Hajdina
+1800 NK Starše~Starše

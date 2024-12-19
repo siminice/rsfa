@@ -1,9 +1,9 @@
-405
+406
 Crvena Zvezda  Crvena Zvezda Beograd
 Partizan       Partizan Beograd
 Vojvodina      Vojvodina Novi Sad
 Dinamo Zagreb  Dinamo Zagreb
-Hajduk Split   Hajduk Split
+Hajduk         Hajduk Split
 NK Zagreb      NK Zagreb
 Zeleznicar     ®eleznicar Sarajevo
 Sarajevo       FK Sarajevo
@@ -13,33 +13,33 @@ Lok.Zagreb     Lokomotiva Zagreb
 OFK            OFK Beograd
 Proleter       Proleter Zrenjanin
 Radnicki B     Radnicki Beograd
-Subotica       Spartak Subotica
+Spartak        Spartak Subotica
 Rijeka         NK Rijeka
 Osijek         FK Osijek
 Olimpija       Olimpija Ljubljana
 Rabotnicki     Rabotnicki Skopje
 Buducnost      Buducnost Podgorica
 NK Split       NK Split
-Tuzla          Sloboda Tuzla
+Sloboda        Sloboda Tuzla
 Novi Sad       Novi Sad
-Banja Luka     Borac Banja Luka
+Borac          Borac Banja Luka
 Tresnjevka     Tresnjevka Zagreb
 Sutjeska       Sutjeska Nik¹ic
 Celik Zenica   Celik Zenica
 Maribor        Maribor
-Bor            FK Bor
-Kragujevac     Radnicki Kragujevac
+FK Bor         FK Bor
+Radnicki Krag  Radnicki Kragujevac
 Crvenka        Crvenka
-Krusevac       Napredak Krusevac
-Trepca Kosovo  Trepca Kosovska Mitrovica
-Tetovo         Teteks Tetovo
+Napredak       Napredak Krusevac
+Trepca         Trepca Kosovska Mitrovica
+Teteks         Teteks Tetovo
 Vinkovci       Dinamo Vinkovci
 Zemun          FK Zemun
 Pristina       FK Pri¹tina
 Radnicki Nis   Radnicki Ni¹
 Rad Beograd    Rad Beograd
 Pelister       Pelister Bitola
-Kula           Hajduk Kula
+Hajduk Kula    Hajduk Kula
 Becej          FK Becej
 Mogren         Mogren Budva
 Kikinda        OFK Kikinda
@@ -49,9 +49,9 @@ Zeleznik       FK ®eleznik Beograd
 Cukaricki      Cukaricki Beograd
 Lucani         Mladost Lucani
 Smederevo      Sartid 1913 Smederevo
-Bugojno        Iskra Bugojno
+Iskra Bugojno  Iskra Bugojno
 Pljevlja       Rudar Pljevlja
-Uzice          Sloboda Uzice
+Sloboda Uzice  Sloboda Uzice
 Milicionar     Milicionar Beograd
 Zeta           Zeta Golubovci
 Zvezdara       Zvezdara Beograd
@@ -61,7 +61,7 @@ Banat          Buducnost Banatski Dvor
 Kom            Kom Podgorica
 Hajduk Beograd Hajduk Beograd
 Obrenovac      Radnicki Obrenovac
-Bijelo Pole    Jedinstvo Bijelo Pole
+Jedinstvo BP   Jedinstvo Bijelo Pole
 Bezanija       Bezanija Novi Beograd
 Ub             Jedinstvo Ub
 Srem           Srem Sremska Mitrovica
@@ -81,7 +81,7 @@ Sevojno        Sevojno
 Celarevo       CSK Pivara Celarevo
 Mladenovac     Mladenovac
 BASK           BASK Beograd
-Pirot          Radnicki Pirot
+Radnicki Pirot Radnicki Pirot
 PSK Pancevo    PSK Pancevo
 Zora Spuz      Zora Spuz
 Indjija        Indjija
@@ -186,7 +186,7 @@ Celik Niksic   Celik Niksic
 Gusinje        Gusinje
 Arsenal Tivat  Arsenal Tivat
 Mojkovac       Brskovo Mojkovac
-Danilovgrad    Iskra Danilovgrad
+Iskra Danilov  Iskra Danilovgrad
 Veternik       Veternik
 Lukicevo       Mladost Lukicevo	
 Cuprija        Morava Cuprija
@@ -211,7 +211,7 @@ Gradjanski Sv  Gradjanski Svilajnac
 Ljubic         Polet Ljubic
 Lisovic        FK Lisoviè
 Srem Beograd   FK Srem Beograd
-Priboj         FAP Priboj
+FAP Priboj     FAP Priboj
 Futog          Metalac Futog
 Sid            Radnièki ©id
 Senta          FK Senta
@@ -227,7 +227,7 @@ Belosevac      Pobeda Belo¹evac
 Kovacevac      Kovaèevac
 Slavija        Slavija Beograd
 Bosnjace       Jedinstvo Bo¹njace
-Arandjelovac   Sumadija Arandjelovac
+Sumadija       Sumadija Arandjelovac
 Pecinci        Donji Srem Peèinèi
 Resnik         FK Resnik
 Dolina Padina  Dolina Padina
@@ -238,91 +238,91 @@ Novi Kozarci   Sloboda Novi Kozarci
 Jasenica       GFK Jasenica
 Pobeda Krag    Pobeda Kragujevac
 Lazarevo       Zadrugar Lazarevo
-Backa Topola   Baèka Topola
+Backa Topola   Backa Topola
 Stari Banovci  Dunav Stari Banovci
 Bivolje        Borac Bivolje
-Jastrebac Nis  FK Jastrebac Ni¹
+Jastrebac Nis  FK Jastrebac Nis
 Balkan Skopje  Balkan Skopje
-Prijedor       Rudar Prijedor
+Rudar          Rudar Prijedor
 Leotar         Leotar Trebinje
-Dubrovnik      GO©K Jug Dubrovnik
-Sibenik        FK ©ibenik
+GOSK Dubrovnik GOSK Jug Dubrovnik
+Sibenik        FK Sibenik
 Liria          Liria Prizren
 Belasica       Belasica Strumica
 Beli Manastir  ©parta Beli Manastir
 Petrinja       Mladost Petrinja
-Hrasnica       Famos Hrasnica
-Brcko          Jedinstvo Brèko
-Travnik        Borac Travnik
-Prilep         Pobeda Prilep
+Famos          Famos Hrasnica
+Jedinstvo BrckoJedinstvo Brcko
+Travnik        Bratstvo Travnik
+Pobeda Prilep  Pobeda Prilep
 Metalurg       Metalurg Skopje
 Gnjilane       Crvena Zvezda Gnjilane
 OFK Titograd   OFK Titograd
-Djakovica      Vlaznimi Djakovica
+Vlaznimi Djak  Vlaznimi Djakovica
 Majdanpek      FK Majdanpek
 Doboj          Sloga Doboj
-Bihac          Jedinstvo Bihaè
+Jedinstvo Bih  Jedinstvo Bihac
 Zadar          NK Zadar
 Koper          NK Koper
-Bregalnica     Bregalnica ©tip
+Bregalnica     Bregalnica Stip
 Bijelina       Radnik Bijelina
-Varazdin       Varteks Vara¾din
+Varteks        Varteks Varazdin
 Slovan         ND Slovan Ljubljana
 Ramiz Sadiku   GIK Ramiz Sadiku Pri¹tina
 Solin          NK Solin
-Kozara         Kozara Gradi¹ka
+Kozara         Kozara Gradiska
 Velenje        Rudar Velenje
 Merkator       Svoboda Ljubljana
-Visoko         Bosna Visoko
+Bosna Visoko   Bosna Visoko
 Istra          Istra Pula
 Trbovlje       Rudar Trbovlje
 Segesta        Segesta Sisak
-Peje           Buduènost Peè
-Tikves         Tikve¹ Kavadarci
-Slavonski Brod BSK Slavonski Brod
+Buducnost Pec  Buducnost Pec
+Tikves         Tikves Kavadarci
+BSK SB         BSK Slavonski Brod
 Karlovac       NK Karlovac
-Kosovo Obilic  Kosovo Obiliè
-Igman          Igman Konjiè
+Kosovo Obilic  Kosovo Obilic
+Igman          Igman Konjic
 Kumanovo       FK Kumanovo
 Mura           Mura Murska Sobota
-Belisce        NK Beli¹èe
+Belisce        NK Belisce
 Borovo         FK Borovo
 Orijent        Orijent Rijeka
-Bosanski Novi  Sloboda Bosanski Novi
-Vogosca        Unis Vogo¹èa
-Kakanj         Rudar Kakanj
-Capljina       Borac Èapljina
-Livno          Troglav Livno
-Hadzici        Radnik Had¾iæi
+Sloboda BN     Sloboda Bosanski Novi
+UNIS Vogosca   UNIS Vogosca
+Rudar Kakanj   Rudar Kakanj
+Borac Capljina Borac Capljina
+Troglav Livno  Troglav Livno
+Radnik Hadzici Radnik Hadzici
 Badnjevac      FK Badnjevac
 Borac Beograd  Borac Beograd
 Metalac Osijek Metalac Osijek
-Zeleznicar M   ®eleznièar Maribor
-Junak          Junak Sinj
+Zeleznicar M   ®eleznicar Maribor
+Junak Sinj     Junak Sinj
 MIK Skopje     MIK Skopje
-Pofalicki      Pofalièki Sarajevo
+Pofalicki      Pofalicki Sarajevo
 Lok Mostar     Lokomotiva Mostar
 NK Ljubljana   NK Ljubljana
-Zagreb Plavi   Zagrebaèki Plavi
-Neretva        Neretva Metkoviè
+Plavi          Zagrebacki Plavi
+Neretva        Neretva Metkovic
 Rovinj         NK Rovinj
 Metalac Zagreb Metalac Zagreb
 Bosna Sarajevo Bosna Sarajevo
 BSK Banja Luka BSK Banja Luka
 Tara           Tara Titograd
-Mladost Nis    Mladost Ni¹
-Smed Palanka   Mladost Smederevska Palanka
-Kidricevo      Aluminij Kidrièevo
+EI Mladost Nis Mladost Nis
+Mladost SP     Mladost Smederevska Palanka
+Aluminij       Aluminij Kidrièevo
 Zmaj           Zmaj Makarska
 ZSK Zenica     ZSK Zenica
 Metalac Sisak  Metalac Sisak
-Celje          Kladivar Celje
-Ilidza         Igman Ilid¾a
+Kladivar       Kladivar Celje
+Ilidza         Igman Ilidza
 Elektrostroj   Elektrostroj Zagreb
 OFK Subotica   OFK Subotica
 Uljanik        Uljanik Pula
 Sucurac        Jadran Ka¹tel ©uèurac
-Nevesinje      Vele¾ Nevesinje
+Nevesinje      Velez Nevesinje
 NK Dubrovnik   NK Dubrovnik
 Herceg Novi    Jedinstvo Herceg Novi
 Melenci        Rusanda Melenci
@@ -336,7 +336,7 @@ Dinamo Skopje  Dinamo Skopje
 Mornar Split   Mornar Split
 Lasta          ®eleznik Lasta
 Vreoci         Turbina Vreoci
-Krusik         FK Kru¹ik Valjevo
+Krusik         FK Krusik Valjevo
 Mihajlovac     FK Seljak Mihajlovac
 Radnicki SM    Radnièki Sremska Mitrovica
 Mrstane        Moravac Mr¹tane
@@ -404,3 +404,4 @@ Elemir         FK Naftagas Elemir
 Podunavac      FK Podunavac BelegiÅ¡
 Stanisic       FK StaniÅ¡iÄ‡ Sombor
 Nasa Krila     NaÅ¡a Krila Zemun
+Mladost Pr     Mladost Prijedor

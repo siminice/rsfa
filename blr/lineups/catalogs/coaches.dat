@@ -1,4 +1,4 @@
-209
+225
 adamar,Adamyan,Armen,1967-10-14,ARM,Stepanakert,URS
 afanko,Afanasiev,Konstantin,0000-00-00,RUS, ,BLR
 akshvy,Akshaev,Vyacheslav,1959-05-06,BLR,Vitebsk, 
@@ -7,6 +7,7 @@ antoyu,Antonovich,Yuri,1967-06-02,BLR,St. Petersburg,
 arusvy,Arushanov,Vyacheslav,1962-10-13,BLR,Baku, 
 arzave,Arzamastsev,Veniamin,1937-08-01,BLR,Kasakevichevo,URS
 astrvl,Astratenko,Vladimir,1951-02-10,BLR, ,BLR
+avraar,Avramenko,Artur,1985-05-13,RUS,Klintsy,RUS
 bagaal,Baga,Aleksei,1981-02-04,BLR,Borisov,BLR
 bashal,Bashmakov,Aleksandr,1950-05-18,BLR,Гомель,URS
 bassmi,Bass,Mikhail,1947-04-03,BLR,Mogilev,BLR
@@ -33,6 +34,7 @@ cheran,Chernyshov,Andrey,1968-01-07,RUS,Moskau,
 cherev,Chernukhin,Evgeni,1984-03-02,BLR,Vitebsk,BLR
 chetva,Chetverik,Valeri,1957-12-29,RUS,Tikhoretsk -  Krasnodar Region,URS
 curcmi,Curcic,Milic,1981-01-26,SRB, ,SRB
+demeal,Demeshko,Aleksandr,1986-11-07,BLR,Brest,BLR
 dmitan,Dmitriev,Andrey,1965-08-06,RUS, ,RUS
 duluol,Dulub,Oleg,1965-09-20,BLR,Minsk,BLR
 ezhuvl,Ezhurov,Vladimir,1960-03-24,RUS, ,RUS
@@ -55,6 +57,7 @@ gurial,Gurinovich,Aleksandr,1985-05-12,BLR, ,BLR
 gyurge,Gyurov,Georgi,1942-08-01,BUL,Sofia,BUL
 kabese,Kabelski,Sergei,1973-04-17,BLR,Minsk,BLR
 kapoev,Kapov,Evgeniy,1977-01-30,BLR,Rahachow,BLR
+kazavi,Kazantsev,Vitaliy,1981-06-04,RUS,Volgodonsk,RUS
 khanan,Khantsev,Anatoliy,1958-02-20,URS,Запорожье,URS
 khatal,Khatskevich,Aleksandr,1973-10-19,BLR,Minsk, 
 khlean,Khlebosolov,Andrey,1965-11-22,BLR,Baranovichi,URS
@@ -70,6 +73,7 @@ koncal,Konchits,Aleksandr,1965-08-27,BLR,Osipovichi,BLR
 kondge,Kondratiev,Georgiy,1960-01-07,BLR,Lyubinichi,BLR
 konoyu,Konoplev,Yuri,1962-02-02,BLR,Vitebsk, 
 koreal,Koreshkov,Aleksandr,1952-07-23,RUS,Saratov,RUS
+koroan,Korotkevich,Andrey,1984-03-10,BLR, ,BLR
 korovi,Korotkevich,Viktor,1938-02-06,BLR, ,BLR
 kosavl,Kosakovskiy,Vladimir,1955-07-13,BLR,Minsk,BLR
 kostni,Kostyukevich,Nikolay,1950-08-25,BLR, ,BLR
@@ -82,6 +86,7 @@ kubaol,Kubarev,Oleg,1966-02-08,BLR,Minsk,BLR
 kuchal,Kuchuk,Aleksey,1986-09-09,BLR,Minsk,BLR
 kuchle,Kuchuk,Leonid,1959-08-27,BLR,Minsk,BLR
 kuchpa,Kucherov,Pavel,1964-08-18,RUS,Smolensk,RUS
+kukhvl,Kukhley,Vladimir,1982-04-24,BLR, ,BLR
 kulcal,Kulchiy,Aleksandr,1973-11-01,BLR,Gomel,BLR
 kuriva,Kurilov,Vasiliy,1947-11-30,BLR,Брест,URS
 kurnvl,Kurnev,Vladimir,1950-09-12,BLR,Minsk,BLR
@@ -108,6 +113,7 @@ markmi,Markhel,Mikhail,1966-07-14,BLR,Minsk,
 martmi,Martinovich,Mikhail,1979-09-14,BLR, ,BLR
 merkal,Merkulov,Aleksey,1972-11-17,BLR, ,BLR
 migadm,Migas,Dmitri,1980-02-25,BLR,Bobruisk,BLR
+migaiv,Migal,Ivan,1985-03-19,BLR,Ukhvala,BLR
 mikha1,Mikhailov,Aleksandr,1984-12-21,BLR,Zhodino,BLR
 mikhal,Mikhailov,Aleksey,1987-03-05,BLR, ,BLR
 molcev,Molchan,Evgeni,1986-07-07,BLR, ,BLR
@@ -120,11 +126,13 @@ nevivl,Nevinski,Vladimir,1973-09-14,BLR, ,BLR
 nikise,Nikiforenko,Sergey,1978-02-18,BLR, ,BLR
 ovchse,Ovchinnikov,Sergei,1970-11-10,RUS,Москва,RUS
 papavi,Papaev,Viktor,1947-03-02,RUS,Bazarny Karabulak,RUS
+pavlal,Pavlov,Aleksandr,1984-08-18,BLR,Belynichi,BLR
 pavlvi,Pavlov,Vitaly,1965-08-21,BLR, ,BLR
 petral,Petrushin,Aleksey,1952-01-29,RUS,Lyubertsy,RUS
 petran,Petrov,Andrey,1962-01-27,BLR,Lida,URS
 petrvl,Petrovic,Vladimir,1955-07-01,SRB,Belgrad, 
 piskal,Piskaryov,Aleksandr,1949-11-18,RUS,Ivanovo,URS
+podps1,Podpaliy,Sergey,1963-09-13,UKR,Kiev,UKR
 podpse,Podpaly,Sergey,1963-09-13,RUS,Kiew,URS
 poznal,Poznyak,Aleksandr,1944-04-17,BLR, ,BLR
 prokan,Prokopyuk,Andrey,1978-10-21,BLR, ,BLR
@@ -148,11 +156,14 @@ rumbli,Rumbutis,Liudas,1955-11-24,LIT,Telšiai,LIT
 ryabol,Ryabokon,Oleksandr,1964-02-21,UKR,Kiew, 
 rybaal,Rybak,Albert,1973-05-16,BLR,Grodno,BLR
 savoiv,Savostikov,Ivan,1941-08-22,BLR,Minsk,URS
+savoki,Savostikov,Kirill,1971-12-05,BLR, ,BLR
 sednal,Sedniov,Aleksandr,1973-08-16,BLR,Mogilev,BLR
 selkvl,Selkin,Vladimir,1972-11-08,BLR,Vitebsk,BLR
+sesaig,Sļesarčuks,Igors,1976-03-31,LAT,Riga,LAT
 shapya,Shapiro,Yakov,1961-11-23,BLR,Minsk,URS
 shchfy,Shcherbachenko,Fyodor,1962-08-13,RUS, ,RUS
 shchiv,Shchokin,Ivan,1944-07-15,URS,Кахул,URS
+shegdm,Shegrikovich,Dmitriy,1983-12-07,BLR,Soligorsk,BLR
 shirni,Shirinskiy,Nikolai,1948-02-23,BLR, , 
 shpial,Shpilevski,Aleksey, Nikolajevich Shpilevski!,1988-02-17,BLR,Minsk
 shubal,Shubenok,Aleksey,1961-09-15,BLR,Minsk,BLR
@@ -171,18 +182,23 @@ sosnan,Sosnitskiy,Andrey,1962-11-02,BLR,Sovetsk,RUS
 statvl,Statsyuk,Vladimir,1940-02-23,BLR, , 
 streva,Streltsov,Valeriy,1948-05-07,BLR,Быхов,URS
 striv1,Stripeikis,Valery,1974-11-13,BLR, ,BLR
+striv2,Stripeikis,Valeriy,1974-11-13,BLR, ,BLR
 striva,Stripejkis,Valeri,1974-11-13,BLR, ,BLR
+sukhma,Sukhoveyev,Maksim,1979-06-23,BLR, ,BLR
+suvost,Suvorov,Stanislav,1993-03-19,BLR,Kopyl,BLR
 syrool,Syrokvashko,Oleg,1961-08-03,BLR, , 
 taravi,Tarakanov,Vitali,1972-03-03,BLR,Minsk,BLR
 tashse,Tashuev,Sergey,1959-01-01,RUS, ,RUS
 traial,Traiduk,Aleksandr,1962-01-07,BLR,Dnipropetrovsk,URS
 trotev,Trotsyuk,Evgeni,1957-06-04,BLR, , 
+trubol,Trubilo,Oleg,1992-06-14,BLR, ,BLR
 trubvi,Trubitsyn,Viktor,1945-07-24,BLR,Москва,URS
 trukig,Trukhov,Igor,1976-08-19,BLR,Vitebsk,BLR
 tuched,Tuchinskiy,Eduard,1970-07-04,BLR,Minsk, 
 turldm,Turlin,Dmitri,1985-09-08,BLR,Bobruisk,BLR
 uhridu,Uhrin,Dušan,1967-10-11,CZE,Praha,CZE
 ulasst,Ulasevich,Stanislav,1956-03-26,BLR, ,BLR
+vashvy,Vashkevich,Vyacheslav,1983-05-09,RUS,Moskva,RUS
 vasiol,Vasilenko,Oleg,1973-10-06,RUS, ,RUS
 vekhse,Vekhtev,Sergey,1971-05-08,BLR, ,BLR
 vergal,Vergeenko,Aleksey,1975-03-30,BLR, , 

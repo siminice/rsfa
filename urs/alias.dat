@@ -23,7 +23,7 @@
 1945 Spartak Ordjonikidze~Ordjonikidze*1990 Spartak Vladikavkaz~Vladikavkaz
 1800 Trud Kaliningrad~Kaliningrad*1962 Vîmpel Kaliningrad~Kaliningrad*1963 Baltika Kaliningrad~Kaliningrad
 1945 Krîlia Sovetov Kuibîşev~Kuibîşev
-1800 Lokomotiv Gorki~Lok Gorki
+1800 Lokomotiv Gorki~Lok Gorki*1990 Lokomotiv Nijni Novgorod~Nijni Novgorod
 1945 RostSelMaş Rostov~Rostov
 1800 Ţement Novorossiisk~Novorossiisk
 1800 KamAZ Naberejnîe Celni~KamAZ
@@ -40,7 +40,7 @@
 1800 Uralan Elista~Elista
 1800 Okean Nahodka~Okean
 1800 SKVO Rostov~Rostov*1960 SKA Rostov~SKA Rostov
-1800 Tekstilşcik Tiraspol~Tiraspol*1990 Tiligul Tiraspol~Tiligul
+1800 Tekstilşcik Tiraspol~Tiraspol*1990 Tiras Tiraspol~Tiraspol*1991 Tiligul Tiraspol~Tiligul
 1800 Bucovina Cernăuţi~Bucovina
 1800 Tavria Simferopol~Tavria
 1800 Spartak Fergana~Fergana*1962 Neftiannik Fergana~Fergana
@@ -53,7 +53,7 @@
 1800 Torpedo Kutaisi~Kutaisi
 1800 Spartak Ordjonikidze~Ordjonikidze*1991 Spartak Vladikavkaz~Vladikavkaz
 1800 Dinamo Batumi~Batumi
-1800 Karpatî Lvov~Lvov
+1800 Karpatî Lvov~Lvov*1982 SKA Karpatî Lvov~Lvov*1990 Karpatî Lvov~Lvov
 1800 Metallurg Zaporojie~Zaporojie
 1945 Torpedo ZIL Moskva~Torpedo ZIL
 1800 Anji Mahacikala~Anji
@@ -126,15 +126,15 @@
 1800 Dinamo-Maşinostroitel Kirov~Kirov*1992 Viatka Kirov~Kirov*1994 Dinamo Kirov~Kirov
 1800 Amur Blagoveşcensk~Amur B.
 1800 Amur Komsomolsk na Amure~Amur K.
-1800 Trudovîe Rezervî Lugansk~Lugansk*1963 Zaria Lugansk~Zaria*1970 Zaria Voroşilovgrad~Zaria
+1800 Trudovîe Rezervî Lugansk~Lugansk*1963 Zaria Lugansk~Zaria*1970 Zaria Voroşilovgrad~Zaria*1990 Zaria Lugansk~Lugansk
 1800 Kolos Nikopol~Nikopol
 1800 Atlantas Klaipeda~Klaipeda
-1945 Buston Djizak~Djizak*1982 Zvezda Djizak~Djizak*1990 Sogdiona Djizak~Djizak
+1945 Buston Djizak~Djizak*1982 Zvezda Djizak~Djizak*1989 Yeşlik Djizak~Djizak*1990 Sogdiona Djizak~Djizak
 1800 Dnepr Moghiliov~Moghiliov
 1800 SKA Odessa~SKA Odessa
 1800 SKA Kiev~SKA Kiev
 1800 Spartak Kostroma~Kostroma
-1945 Spartak Stanislav~Stanislav*1962 Spartak Ivano-Frankovsk*1980 Prikarpatia Ivano-Frankovsk
+1945 Spartak Stanislav~Stanislav*1962 Spartak Ivano-Frankovsk*1981 Prikarpatia Ivano-Frankovsk
 1800 Traktor Pavlodar~Pavlodar
 1945 Kopet-Dag Aşhabad~Aşhabad*1962 Stroitel Aşhabad~Aşhabad*1976 Kolhozţî Aşhabad~Aşhabad*1990 Kopet-Dag Aşhabad~Aşhabad
 1800 Alga Frunze~Frunze
@@ -188,7 +188,7 @@
 1800 Torpedo RG Moskva~Torpedo RG*2009 Torpedo-ZIL Moskva~Torpedo-ZIL
 1800 Volceanin Vîşni Voloceok~Voloceanin*2004 Voloceanin-Ratmir V.Voloceok~Voloceok
 1800 Zavodceanin Saratov~Zav Saratov*1997 Saliut Saratov~Saliut Saratov
-1800 Zaria Kaluga~Kaluga*1960 Lokomotiv Kaluga~Kaluga*1992 Turbostroitel Kaluga~Kaluga*1997 Lokomotiv Kaluga~Kaluga*2010 FK Kaluga~Kaluga
+1800 Zaria Kaluga~Kaluga*1960 Lokomotiv Kaluga~Kaluga*1990 Zaria Kaluga~Kaluga*1992 Turbostroitel Kaluga~Kaluga*1997 Lokomotiv Kaluga~Kaluga*2010 FK Kaluga~Kaluga
 1800 Krasnaia Presnea Moskva~Presnea*1992 Presnea Moskva~Presnea Moskva
 1800 Torpedo Mîtişci~Mîtişci*1995 Fortuna Mîtişci~Fortuna
 1800 Kaspii Kaspiisk~Kaspiisk*2000 Dagdizel Kaspiisk~Kaspiisk
@@ -262,7 +262,7 @@
 1800 Irtîş Tobolsk~Tobolsk
 1800 Reformaţia Abakan~Abakan*1980 Saianî Abakan~Abakan
 1800 Samotlor XXI Nijnevartovsk~Samotlor
-1800 Dinamo Kirovabad~Kirovabad
+1800 Dinamo Kirovabad~Kirovabad*1982 Kapaz Kirovabad~Kirovabad
 1800 Kalev Tallinn~Kalev
 1800 Admiralteeţ Leningrad~Admiralteeţ
 1800 Voljanin Kineşma~Kineşma
@@ -280,7 +280,7 @@
 1800 Vulkan Petropavlovsk Kamceaţki~Petropavlovsk
 1800 Progress Biisk~Biisk
 1800 Arţah Stepanakert~Stepanakert
-1800 Khimik Grodno~Grodno*1950 Neman Grodno~Grodno
+1800 Neman Grodno~Grodno*1973 Khimik Grodno~Grodno*1993 Neman Grodno~Grodno
 1800 Zaria Bălţi~Bălţi
 1800 KIM Vitebsk~Vitebsk
 1800 Lokomotiv Gomel~Gomel*1965 Spartak Gomel~Gomel*1970 GomSelMaş Gomel~Gomel
@@ -381,7 +381,7 @@
 1800 Vostok Ust-Kamenogorsk~Kamenogorsk
 1800 Spartak Brest~Brest*1990 Dinamo Brest~Brest
 1800 Polad Sumgait~Sumgait
-1800 Zarafshan Navoi~Navoi
+1800 Zarafşon Navoi~Zarafşon
 1800 Meshakhte Tkibuli~Tkibuli
 1800 Metallurg Şîmkent~Şîmkent*1990 Meliorator Şîmkent~Şîmkent
 1800 Pamir Leninabad~Leninabad*1992 FC Khujand~Khujand
@@ -395,8 +395,8 @@
 1800 Ararat II Erevan~Ararat II
 1800 Nuravşon Bukhara~Buhara
 1800 Ţelinik Ţelinograd~Ţelinograd*2000 FC Astana~Astana
-1800 Khimik Jambul~Jambul
-1800 Avtomobilist Kokon~Kokon
+1800 Khimik Jambul~Jambul*2000 FK Taraz~Taraz
+1800 Avtomobilist Kokand~Kokand
 1800 Kazansaieţ Kazansai~Kazansai
 1800 Ekibastizeţ Ekibastuz~Ekibastuz
 1800 Surhon Termiz~Termiz
@@ -495,3 +495,5 @@
 1800 Pişcevik Moskva~Pişcevik
 1800 Sovtorgslujaşcie Moskva~Sovtorg*1931 SKiG Moskva~SKiG*1936 Burevestnik Moskva~Burevestnik
 1800 Lokomotiv Harkov~Harkov
+1800 Volna Kîzîl-Orda~Kîzîl-Orda*1969 Avtomobilist Kîzîl-Orda~Kîzîl-Orda*1974 Orbita Kîzîl-Orda~Kîzîl-Orda*1979 Meliorator Kîzîl-Orda~Kîzîl-Orda*1990 Kaisar Kîzîl-Orda~Kaisar
+1800 Spartak Andijan~Andijan

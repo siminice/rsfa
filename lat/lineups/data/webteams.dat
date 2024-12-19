@@ -1,7 +1,7 @@
 112
 Skonto,skonto-fc
 Ventspils,fk-ventspils
-Liepaja,fk-liepajas-metalurgs
+Liepaja,fk-liepaja
 Daugava,old-daugava-riga
 Dinaburg,dinaburg-daugavpils
 Ditton,fc-daugava
@@ -31,7 +31,7 @@ Lode,FK Lode
 Akora Seda,Akora Seda
 VEF,VEF Riga
 Lokomotive,fc-noah-jurmala
-Universitate,fs-metta-lu
+Universitate,fk-metta
 Jurnieks,Jurnieks Riga
 Multibanka,Multibanka Riga
 JFC Skonto,JFC Skonto Riga
@@ -96,12 +96,12 @@ Dinamo,riga-fc
 Staiceles,FK Staiceles Bebri
 Babite,sk-babite
 RTU,Rigas Tehniska Universitate
-Grobina,Grobinas SC
+Grobina,grobinas-sc
 Super Nova,sk-super-nova
 Dinamo,Dinamo Rīga
 BetLanes,FC BetLanes Rīga
 Leevon,Saldus SS/Leevon
-RFS,rigas-futbola-skola
+RFS,fk-rfs
 Albatroz,Albatroz SC Jelgava
 BFC,bfc-daugavpils
 FS Jelgava,fs-jelgava

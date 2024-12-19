@@ -1,4 +1,4 @@
-183
+201
 ahmaja,Åhman,Jari, ,1971-08-14,FIN,Kemi,FIN,jari-ahman
 aholjy,Ahola,Jyrki, ,1971-11-29,FIN, ,FIN,jyrki-ahola
 allejo,Allen,John, ,1964-11-14,WAL,Chester,ENG,john-allen
@@ -7,10 +7,13 @@ anullu,Anula,Luis, , , , , ,luis-anula
 arbear,Arbeiter,Argo, ,1973-12-05,EST,Viljandi,EST,argo-arbeiter
 arceto,Arceusz,Tomasz,Tomasz Arceusz,1959-09-11,POL, ,POL,___
 armske,Armstrong,Keith,Keith Thomas Armstrong,1957-10-11,ENG,Corbridge,ENG,keith-armstrong
+aromar,Aromaa,Arttu, ,1995-01-05,FIN, ,FIN,arttu-aromaa
 askoti,Askolin,Timo,Timo Askolin,1951-10-03,FIN, ,FIN,___
 baruma,Baruffato,Marco, ,1965-02-28,ITA,Varese,ITA,marco-baruffato
+boluda,Bolufer,Daniel, ,1984-03-28,SPA,Valencia,SPA,daniel-bolufer
 bondva,Bondarenko,Valeri, ,1953-04-22,EST,Tallinn,EST,valeri-bondarenko
 bostsi,Boström,Sixten, ,1963-09-15,FIN,Helsingfors,FIN,sixten-bostroem
+bratko,Bratsos,Konstantinos, ,1977-04-26,GRE,Volos,GRE,konstantinos-bratsos
 cratsr,Cratz,Sören,Sören Cratz,1948-09-28,SWE, ,SWE,___
 crawia,Crawford,Ian,Ian Crawford,1934-07-14,SCO, ,SCO,___
 davyan,Davydov,Anatoly,Anatoly Davydov,1953-11-13,RUS, ,RUS,___
@@ -25,7 +28,9 @@ everja,Everse,Jan,Jan Everse,1954-01-05,NED, ,NED,___
 fazade,Fazackerley,Derek,Derek Fazackerley,1951-11-05,ENG, ,ENG,___
 gmezjo,Gómez,Joaquín, ,1986-07-25,SPA, ,SPA,joaquin-gomez_2
 graumi,Grau,Miguel,Miguel Grau Piles,1984-04-22,SPA,Yátoba,SPA,miguel-grau
+griest,Grieve,Stevie, ,1986-12-31,SCO,Perth,SCO,stevie-grieve
 grubti,Gruborovics,Tibor,Tibor Gruborovics,1959-08-09,HUN, ,HUN,___
+guersa,Guerreiro,Sander, ,1988-10-28,POR,Portimão,POR,sander-guerreiro
 hajdbo,Hajdas,Boguslaw,Boguslaw Hajdas,1939-07-21,POL, ,POL,___
 hannda,Hannah,David, ,1973-08-04,SCO, ,SCO,david-hannah
 helijy,Heliskoski,Jyrki,Jyrki Heliskoski,1945-09-28,FIN, ,FIN,___
@@ -48,6 +53,7 @@ johabo,Johansson,Bo,Bo Johansson,1942-11-28,SWE, ,SWE,___
 jussas,Jussila,Asko, ,1963-01-25,FIN,Hämeenlinna,FIN,asko-jussila
 kaerto,Kärkkäinen,Tomi, ,1969-10-22,FIN, ,FIN,tomi-kaerkkaeinen
 kainto,Kainulainen,Tommi, ,1974-01-08,FIN,Iisalmi,FIN,tommi-kainulainen
+kallj1,Kallioinen,Joni, ,1968-09-02,FIN,Lathi,FIN,joni-kallioinen
 kalljo,Kallio,Jorma,Jorma Kallio,1955-11-16,FIN, ,FIN,___
 kallni,Kalliokoski,Niko, ,1982-05-26,FIN,Kokkola,FIN,niko-kalliokoski
 kallto,Kallio,Toni, ,1978-08-09,FIN,Tampere,FIN,toni-kallio
@@ -79,6 +85,7 @@ lindt1,Lindberg,Toni, ,1985-09-23,FIN,Ruotsinpyhtää,FIN,toni-lindberg
 lindto,Lindholm,Tommy,Tommy Lindholm,1947-02-03,FIN, ,FIN,___
 lippki,Lipponen,Kimmo,Kimmo Lipponen,1962-12-09,FIN, ,FIN,___
 liusis,Lius,Ismo,Ismo Lius,1965-11-30,FIN, ,FIN,___
+lufflu,Luffe, ,Luís Fernando Lourenco da Silva,1976-06-06,BRA,Novo Horizonte,BRA,luffe
 lumimi,Lumijärvi,Mika, ,1970-12-06,FIN, ,FIN,mika-lumijaervi
 lundp1,Lundell,Pertti,Pertti Lundell,1952-02-12,FIN, ,FIN,___
 lundpe,Lundberg,Peter, ,1981-04-15,FIN, ,FIN,peter-lundberg
@@ -128,12 +135,15 @@ rajama,Rajamäki,Marko, ,1968-10-03,FIN,Göteborg,SWE,marko-rajamaeki
 rantar,Rantamaa,Ari,Ari Rantamaa,1962-05-28,FIN, ,FIN,___
 rantes,Ranta,Esko,Esko Ranta,1947-01-14,FIN, ,FIN,___
 rantja,Rantanen,Jari,Jari Rantanen,1961-12-31,FIN, ,FIN,___
+rantjo,Rantanen,Joonas, ,1987-07-27,FIN, ,FIN,joonas-rantanen
 rasipa,Rasimus,Pasi,Pasi Rasimus,1962-03-06,FIN, ,FIN,___
 rautpa,Rautiainen,Pasi, ,1961-07-18,FIN,Helsinki,FIN,pasi-rautiainen
 ristju,Ristimäki,Jussi,Jussi Ristimäki,1944-01-30,FIN, ,FIN,___
 ristsa,Ristilä,Sami, ,1974-08-15,FIN,Valkeakoski,FIN,sami-ristilae
 rivejo,Riveiro,Jose, ,1975-09-15,SPA,Vigo,SPA,jose-riveiro
 rocajo,Roca,José,José Manuel Roca Cases,1976-02-28,SPA,Orihuela,SPA,jose-roca
+rodrsc,Rodriguez,Óscar,Óscar García Rodriguez,1988-04-14,SPA, ,SPA,oscar-rodriguez_9
+romobr,Romão,Bruno,Romão Bruno Alexandre Rodrigues,1984-01-07,POR, ,POR,bruno-romao
 rsnema,Räsänen,Martti,Martti Räsänen,1931-11-21,FIN, ,FIN,___
 saerjo,Särkkä,Jori, ,1961-02-13,FIN,Jyväskylä,FIN,jori-saerkkae
 sailze,Saileti,Zeddy, ,1969-01-16,ZAM,Luanshya,ZAM,zeddy-saileti
@@ -141,7 +151,12 @@ sainto,Saintfiet,Tom, ,1973-03-19,BEL,Mol,BEL,tom-saintfiet
 sairse,Sairanen,Seppo,Seppo Sairanen,1952-03-23,FIN, ,FIN,___
 sajwmi,Sajwicz,Miroslaw,Miroslaw Sajwicz,1957-04-24,POL, ,POL,___
 salmti,Salmi,Timo,Timo Salmi,1958-01-03,FIN, ,FIN,___
+salomi,Salonen,Mikke, ,0000-00-00,FIN, ,FIN,mikke-salonen
+santgu,Santesmases,Guillem,Guillem Santesmases,1996-01-21,SPA,Barcelona,SPA,guillem-santesmases
+sibife,Sibila,Ferran,Ferran Sibila Pont,1988-07-13,SPA,Gironella,SPA,ferran-sibila
 sillhe,Sillanpää,Henri, ,1979-06-04,FIN,Tornio,FIN,henri-sillanpaeae
+sjluda,Sjölund,Daniel,Henrik Daniel Sjölund,1983-04-22,FIN,Finström,FIN,daniel-sjoelund
+smitan,Smith,Andy,Andrew William Smith,1980-09-25,NIR,Lisburn,NIR,andy-smith
 suhohe,Suhonen,Heikki,Heikki Suhonen,1951-06-21,FIN, ,FIN,___
 sundch,Sund,Christian, , , , , ,christian-sund
 suniju,Suni,Juha,Juha Suni,1953-09-07,FIN, ,FIN,___
@@ -161,10 +176,12 @@ vakkju,Vakkila,Jukka,Jukka Vakkila,1951-04-02,FIN, ,FIN,___
 valasi,Valakari,Simo,Simo Johannes Valakari,1973-04-28,FIN,Helsinki,FIN,simo-valakari
 vasave,Vasara,Vesa,Vesa-Pekka Vasara,1976-08-16,FIN, ,FIN,vesa-vasara
 vianja,Viander,Jani,Jani Klaus Viander,1975-08-18,FIN,Tuusula,FIN,jani-viander
+viitmi,Viitsalo,Mikko, ,1989-10-12,FIN, ,FIN,mikko-viitsalo
 vikmma,Vikman,Matti,Matti Vikman,1965-10-01,FIN, ,FIN,___
 vilete,Vilen,Teuvo,Teuvo Vilen,1953-11-26,FIN, ,FIN,___
 vilhky,Vilhunen,Kyösti,Kyösti Vilhunen,1948-08-07,FIN, ,FIN,___
 virtka,Virtanen,Kari,Kari Juhani Virtanen,1958-09-15,FIN,Piikkiö,FIN,kari-virtanen
+virtos,Virta,Ossi, ,1988-07-09,FIN,Helsinki,FIN,ossi-virta
 virtri,Virtanen,Risto,Risto Virtanen,1956-05-06,FIN, ,FIN,___
 voutke,Voutilainen,Keijo,Keijo Voutilainen,1936-09-14,FIN, ,FIN,___
 vuorp1,Vuori,Petri,Petri Vuori,1960-02-23,FIN, ,FIN,___
@@ -176,6 +193,7 @@ wardst,Ward,Stephen, ,1960-12-27,ENG, ,ENG,stephen-ward_2
 wargji,Wargh,Jimmy, ,1976-04-09,FIN,Pietarsaari,FIN,jimmy-wargh
 westjl,Westerlund,Jan Lorentz Eskil,Jan Lorentz Eskil Westerlund,1954-08-31,SWE, ,SWE,___
 widjni,Widjeskog,Niklas,Niklas Widjeskog,1969-02-24,FIN, ,FIN,___
+willga,Williams,Gary, ,1977-12-07,ENG, ,ENG,gary-williams_3
 willge,Williams,Graham Evan,Graham Evan Williams,1938-04-02,WAL, ,WAL,___
 wissja,Wiss,Jarkko, ,1972-04-17,FIN, ,FIN,jarkko-wiss
 woodda,Woodfield,Dave,Dave Woodfield,1943-10-11,ENG, ,ENG,___

@@ -29,7 +29,7 @@
 1800 FK Bor~Bor
 1800 Mladi Radnik Kragujevac~Kragujevac*1929 Radnički Kragujevac~Kragujevac*2010 FK Šumadija Radnički 1923~Kragujevac*2017 Radnički 1923 Kragujevac~Kragujevac
 1800 FK Crvenka~Crvenka
-1800 Napredak Kruševac~Napredak
+1800 FK Napredak Kruševac~Napredak
 1800 Trepča Kosovska Mitrovica~Trepča
 1800 Teteks Tetovo~Tetovo
 1800 Dinamo Vinkovci~Vinkovci*1991 Cibalia Vinkovci~Cibalia
@@ -83,7 +83,7 @@
 1800 Radnički Pirot~Pirot
 1800 PSK Pančevo~PSK Pančevo*2007 Dinamo Pančevo~Pančevo
 1800 Zora Spuz~Zora
-1800 Agrounija Indjija~Indjija*2000 FK Indjija~Indjija
+1800 Agrounija Inđija~Inđija*2000 FK Inđija~Inđija
 1800 Dinamo Vranje~Vranje
 1800 BSK Borča~Borca
 1800 FK Jagodina~Jagodina
@@ -91,14 +91,14 @@
 1800 Dorćol Beograd~Dorćol
 1800 FK Beograd~Beograd
 1800 Kolubara Lazarevac~Lazarevac
-1800 Srem Djakovo~Djakovo
+1800 Srem Đakovo~Đakovo
 1800 Palilulac Beograd~Palilulac
 1800 Šumadija Beograd~Sumadija B*1990 Šumadija Jagnjilo~Jagnjilo
 1800 Lokomotiva Beograd~Loko Beograd
 1800 Teleoptik Zemun~Teleoptik
 1800 FK Sopot~Sopot
 1800 FK Železničar Beograd~Železničar B
-1800 Sindjelič Beograd~Sindjelič
+1800 Sinđelič Beograd~Sinđelič
 1800 Posavac Boljevci~Posavac
 1800 Mladi Radnik Požarevac~MR Požarevac
 1800 Inon Požarevac~Inon Požarevac
@@ -115,7 +115,7 @@
 1800 Proleter Novi Sad~Prol Novi Sad*2023 RFK Novi Sad~RFK Novi Sad
 1800 Big Bul Bačinci~Bačinci
 1800 Sloga Temerin~Temerin
-1800 Sloven Ruma~Ruma*2019 1 Maj Ruma~Ruma
+1800 FK Sloven Ruma~Ruma*2019 1 Maj Ruma~Ruma*2024 FK Sloven Ruma~Ruma
 1800 FK Palič~Palič
 1800 Jedinstvo Stara Pazova~Stara Pazova
 1800 Radnički Nova Pazova~Nova Pazova
@@ -124,7 +124,7 @@
 1800 Tekstilac Ites Odžaci~Odžaci
 1800 Jedinstvo Vršac~Vršac*2009 FK Vršac~Vršac*2019 OFK Vršac~Vršac
 1800 Radnički Sombor~Sombor
-1800 Sindjelič Niš~Sindjelič Niš
+1800 Sinđelič Niš~Sinđelič Niš
 1800 14 Oktobar Niš~14 Oktobar*1950 Železničar Niš~Železničar Niš
 1800 FK Svrljig~Svrljig
 1800 Kopaonik Brus~Kopaonik Brus
@@ -155,7 +155,7 @@
 1800 Jedinstvo Paračin~Paračin
 1800 Topličanin Prokuplje~Prokuplje
 1800 Car Konstantin Niš~Car Konstantin
-1800 Djerdap Kladovo~Djerdap
+1800 Đerdap Kladovo~Đerdap
 1800 Dinamo Pančevo~Dinamo Pančevo
 1800 Sloga Petrovac~Sloga Petrovac
 1800 OFK Žarkovo~Žarkovo
@@ -189,7 +189,7 @@
 1800 FK Veternik~Veternik
 1800 Mladost Lukicevo~Lukicevo
 1800 Morava Cuprija~Cuprija
-1800 FK Žitoradja~Žitoradja
+1800 FK Žitorađa~Žitorađa
 1800 Radnicki Stobeks Klupci~Klupci
 1800 Jezero Plav~Jezero Plav
 1800 Zabjelo Podgorica~Zabjelo
@@ -199,14 +199,14 @@
 1800 Zlatibor Uzice~Zlatibor
 1800 Temp Varvarin~Varvarin*2016 Temnić 1924 Varvarin~Varvarin
 1800 Vucje~Vucje
-1800 Radjevac Krupanj~Krupanj
-1800 Trajal Kruševac~Trajal
+1800 Rađevac Krupanj~Krupanj
+1800 FK Trajal Kruševac~Trajal
 1800 IM Rakovica Beograd~Rakovica
 1800 Sloga Lipnicki Sor~Lipnicki Sor
 1800 Napredak Kusiljevo~Kusiljevo
 1800 Zastava Kragujevac~Zastava
-1800 Solunac Karadjordjevo~Solunac
-1800 Gradjanski Svilajnac~Gradjanski Sv
+1800 Solunac Karađorđevo~Solunac
+1800 Građanski Svilajnac~Građanski Sv
 1800 Polet Ljubič~Ljubič
 1800 FK Lisovič~Lisovič
 1800 FK Srem Beograd~Srem Beograd
@@ -226,7 +226,7 @@
 1800 FK Kovačevac~Kovacevac
 1800 Slavija Beograd~Slavija
 1800 Jedinstvo Bošnjace~Bošnjace
-1800 Šumadija Arandjelovac~Arandjelovac
+1800 Šumadija Aranđelovac~Aranđelovac
 1800 Donji Srem Pečinči~Pecinci
 1800 FK Resnik~Resnik
 1800 FK Dolina Padina~Dolina Padina
@@ -257,7 +257,7 @@
 1800 Metalurg Skopje~Metalurg
 1800 Crvena Zvezda Gnjilane~Gnjilane
 1800 Mladost Titograd~Mladost T*1960 OFK Titograd~OFK Titograd*1995 Mladost Podgorica~Mladost Pd
-1800 Vlaznimi Djakovica~Djakovica
+1800 Vlaznimi Đakovica~Đakovica
 1800 FK Majdanpek~Majdanpek
 1800 Sloga Doboj~Doboj
 1800 Jedinstvo Bihač~Bihač
@@ -346,7 +346,7 @@
 1800 FK Timočanin Knjaževac~Timočanin
 1800 PIK Prigrevica~Prigrevica*2016 Bratstvo 1946 Prigrevica~Prigrevica*2021 FK Feniks Stara Pazova~Feniks
 1800 FK Zvižd Kučevo~Zvižd
-1800 FK Karadjordje Topola~Topola
+1800 FK Karađorđe Topola~Topola
 1800 FK Brodarac Novi Beograd~Brodarac
 1800 IMT Novi Beograd~IMT
 1800 GSP Polet Dorćol~Polet Dorćol
@@ -354,7 +354,7 @@
 1800 FK Stepojevac Vaga~Stepojevac*2023 FK Ušće Novi Beograd~Ušće
 1800 Crevna Zvezda Mali Mokri Lug~Mali Mokri Lug
 1800 Borac Sakule~Sakule
-1800 Železnicar Pančevo~Železnicar P
+1800 FK Železničar Pančevo~Železničar P
 1800 OFK Odžaci~OFK Odžaci
 1800 Omladinac Novi Banovci~Novi Banovci
 1800 FK Mokra Gora Zubin Potok~Mokra Gora
@@ -384,7 +384,7 @@
 1800 TEK Sloga Veliki Crljeni~Veliki Crljeni
 1800 FK Kablovi Zaječar~Kablovi
 1800 Mladost Medoševac~Medoševac
-1800 Pčinja Trgovište~Trgovi�šte
+1800 Pčinja Trgovište~Trgovište
 1800 FK Leštane~Leštane
 1800 FK Studentski Grad~Studentski Gr
 1800 Mladost Novi Sad~Mladost NS
@@ -403,3 +403,14 @@
 1800 FK Podunavac Belegiš~Belegiš
 1800 FK Stanišić Sombor~Stanišić
 1800 Naša Krila Zemun~Zemun
+1800 FK Jedinstvo Kruševac 1936~Jedinstvo Kr
+1800 FK Željezničar Inđija~Žel. Inđija
+1800 FK 1. Maj Ruma~1 Maj Ruma
+1800 FK Omladinac Zablaće~Zablaće
+1800 FK Vrelo Sport Ub~Vrelo Sport
+1800 Budućnost Dudovica~Dudovica
+1800 KFK Ravna Gora~Ravna Gora
+1800 Hajduk Divoš~Divoš
+1800 Sloboda Donji Tovarnik~Donji Tovarnik
+1800 FK Lipolist~Lipolist
+1800 Napredak Markovac~Markovac

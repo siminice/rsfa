@@ -1,4 +1,5 @@
-573
+617
+aayeli,Ağayev,Əliyar,17/10/1987,AZE,Baku,AZE
 abarap,Abarkiolis,Apostolos,03/02/1980,GRE, ,GRE
 aemiak,Ämirälı,Akif,00/00/1993,AZE, ,AZE
 agayae,Ağayev,Äliyar,17/10/1987,AZE,Baku,AZE
@@ -12,6 +13,7 @@ ambegi,Ambelakias,Giannis, ,GRE, ,GRE
 anasan,Anastasakis,Antonios, ,GRE, ,GRE
 anasd_,Anastasopoulos,D., ,GRE, ,GRE
 anasdi,Anastopoulos,Dimos, ,GRE, ,GRE
+andrko,Andrianos,Konstantinos, ,GRE, ,GRE
 angean,Angelakis,Angelos,18/01/1983,GRE, ,GRE
 anouni,Anousos,Nikolaos, ,GRE, ,GRE
 aptoio,Aptosoglou,Iordanis,00/00/1983,GRE, ,GRE
@@ -20,11 +22,13 @@ aravjp,Aravirta,Jan-Peter,18/08/1978,FIN, ,FIN
 aretal,Aretopoulos,Alexandros,00/00/1979,GRE, ,GRE
 arguva,Arguropoulos,Vasileios,27/10/1974,GRE, ,GRE
 argyva,Argyrou,Vassos,21/07/1963,CYP, ,CYP
+armais,Armakolas,Isidoros, ,GRE, ,GRE
 aronar,Aronis, , ,GRE, ,GRE
 asimg_,Asimakopoulos,G., ,GRE, ,GRE
 assmfr,Assmuth,Frederick,20/12/1977,GER,Valencia,SPA
 athaat,Athanasopoulos, , ,GRE, ,GRE
 aytede,Aytekin,Deniz,21/07/1978,GER,Nürnberg,GER
+baccgi,Baccini,Giovanni, ,ITA, ,ITA
 balial,Baliakas,Alexandros, ,GRE, ,GRE
 baltch,Baltas,Christos, ,GRE, ,GRE
 bashiE,Bashevkin,Isaak Elias Skjeseth,00/00/1989,NOR, ,NOR
@@ -36,6 +40,7 @@ beited,Beitinger,Eduard,01/11/1983,GER, ,GER
 beljda,Beljo,Davor, ,BOS,Mostar,BOS
 bellmd,Di Bello,Marco,12/07/1981,ITA, ,ITA
 bersdi,Bersis,Dimitrios,17/10/1967,GRE, ,GRE
+bertal,Berti,Alessio, ,ITA, ,ITA
 betsio,Betsoglou,Ioannis, ,GRE, ,GRE
 bikagi,Bikas,Giorgos,15/04/1955,GRE,Chalkidiki,GRE
 bindda,Bindoni,Daniele,12/12/1980,ITA, ,ITA
@@ -44,6 +49,7 @@ bitodE,Biton,David Elias,00/00/1978,ISR, ,ISR
 bitsdi,Bitsidis,Dimitrios, ,GRE, ,GRE
 bitsi_,Bitsidis,I., ,GRE, ,GRE
 blange,Blanas,Georgios, ,GRE, ,GRE
+blosar,Blos,Arno,03/05/1979,GER, ,GER
 bognta,Bognár,Tamás,18/11/1978,HUN,Sárvár,HUN
 bontkl,Bontiotis,Kleomenis, ,GRE, ,GRE
 boroge,Borovilos,Georgios,10/05/1960,GRE, ,GRE
@@ -55,6 +61,7 @@ brsxpR,Brás,Paulo Ricardo Duarte,21/08/1985,POR, ,POR
 brycdf,Brych,Dr. Felix,03/08/1975,GER,München,GER
 buxbre,Buxbaum,Reinhart,00/00/1986,GRE, ,GRE
 buzaba,Buzás,Balázs,29/01/1986,HUN, ,HUN
+camplA,Campos,Luís André Ferreira Pinto,02/03/1978,POR, ,POR
 canaa_,Canasakoudis,A., ,GRE, ,GRE
 charna,Charalabidis,Nathanail, ,GRE, ,GRE
 charni,Charitos,Nikolaos, ,GRE, ,GRE
@@ -81,7 +88,9 @@ daloth,Daloukas,Theodoros, ,GRE, ,GRE
 damief,Damianos,Efthimios, ,GRE, ,GRE
 daskge,Daskalopoulos,Georgios, ,GRE, ,GRE
 datini,Datis,Nikitas,21/12/1972,GRE, ,GRE
+davear,Davelas,Argirios, ,GRE, ,GRE
 delfio,Delfakis,Ioannis, ,GRE, ,GRE
+delith,Delios,Thanasis, ,GRE, ,GRE
 detsdi,Detsis,Dimitrios,22/07/1968,GRE, ,GRE
 detsma,Detsi,Maria, ,GRE, ,GRE
 diamar,Diamantopoulos,Aristotelis,00/00/1983,GRE, ,GRE
@@ -94,6 +103,7 @@ dimila,Dimitriadis,Lazaros, ,GRE, ,GRE
 dimiva,Dimitropoulos,Vaghelis, ,GRE, ,GRE
 dimomi,Dimopoulos,Mihalis, ,GRE, ,GRE
 dimoni,Dimopoulos,Nikolaos, ,GRE, ,GRE
+dingch,Dingert,Christian,14/07/1980,GER,Thallichtenberg,GER
 diplan,Diplaris,Antonios, ,GRE, ,GRE
 ditsge,Ditsos,Gerasimos, ,GRE, ,GRE
 dossmi,Dossis,Michalis, ,GRE, ,GRE
@@ -155,6 +165,7 @@ giang2,Giannopoulos,Georgios, ,GRE, ,GRE
 giange,Giannoulakis,Georgios, ,GRE, ,GRE
 giangi,Giannikos,Giorgos, ,GRE, ,GRE
 gianma,Giannadakis,Manolis, ,GRE, ,GRE
+giovsD,Del Giovane,Stefano, ,ITA, ,ITA
 gittch,Gittelmann,Christian,12/02/1983,GER, ,GER
 godilM,Godinho,Luís Miguel Branco,18/11/1985,POR,Borba,POR
 goldaA,Goldstain,Avi Avraham, ,ISR, ,ISR
@@ -169,9 +180,12 @@ granch,Granas,Christos, ,GRE, ,GRE
 gratev,Gratsanis,Evangelos, ,GRE, ,GRE
 greval,Grevenis,Alexandros, ,GRE, ,GRE
 grinor,Grinfeld,Orel,21/08/1981,ISR, ,ISR
+grnetH,Grønevik,Tom Harald,00/00/1987,NOR, ,NOR
 gudeha,Gudermanis,Haralds,14/10/1979,LAT, ,LAT
 haecma,Häcker,Markus,17/04/1974,GER, ,GER
+hakimA,Al Hakim,Mohammed,15/04/1985,SWE,Najaf,IRQ
 hancbr,Hancko,Branislav,17/09/1987,SVK, ,SVK
+hansmK,Hansen,Morten Krogh, ,DEN, ,DEN
 hansto,Hansen,Tore,06/02/1978,NOR, ,NOR
 hariko,Harisis,Kosmas, ,GRE, ,GRE
 hassro,Hassan,Roy,00/00/1982,ISR, ,ISR
@@ -180,13 +194,16 @@ heinal,Heiniger,Alain,04/04/1986,SUI, ,SUI
 higlde,Higler,Dennis,30/09/1985,NED, ,NED
 hoegni,Høg,Niels,26/07/1975,DEN, ,DEN
 honiro,Honig,Rogier,17/10/1982,NED, ,NED
+hrmoan,Hrmo,Andrej,00/00/1984,SVK, ,SVK
 hummla,Hummelgaard,Lars, ,DEN, ,DEN
 huskai,Huskoglou,Aihan, ,GRE, ,GRE
 ibrise,Ibrišimbegović,Senad,00/00/1981,BOS, ,BOS
+ikonsp,Ikonomou,Spilios, ,GRE, ,GRE
 iliani,Iliadis,Nikos, ,GRE, ,GRE
 ioanko,Ioannidis,Konstantinos, ,GRE, ,GRE
 iosini,Iosifoglou,Nikolaos, ,GRE, ,GRE
 itskdi,Itskos,Dimitris, ,GRE, ,GRE
+jablsv,Jablonski,Sven,13/04/1990,GER, ,GER
 jaccad,Jaccottet,Adrien,19/07/1983,SUI, ,SUI
 jensmo,Jensen,Morten,00/00/1982,NOR, ,NOR
 jesubM,Jesus,Bruno Miguel Alves,10/07/1982,POR, ,POR
@@ -227,6 +244,7 @@ kasnge,Kasnaferis,Georgios,10/02/1967,GRE, ,GRE
 kassp1,Kassavetis,Panagiotis, ,GRE, ,GRE
 kasspa,Kassavetis,Panagiotis, ,GRE, ,GRE
 kastge,Kastanidis,Georgios,12/06/1972,GRE, ,GRE
+katiko,Katikos,Konstantinos, ,GRE, ,GRE
 katoko,Katoikos,Konstantinos,29/01/1992,GRE, ,GRE
 katsal,Katsikogiannis,Alexandros, ,GRE, ,GRE
 katsev,Katsidonis,Evangelos,20/03/1974,GRE, ,GRE
@@ -234,6 +252,9 @@ kechke,Kechagias, , ,GRE, ,GRE
 kehlja,Kehlet,Jakob,05/09/1980,DEN, ,DEN
 kelage,Kelazoglou,Georgios, ,GRE, ,GRE
 kempav,Kemparidis,Avraam, ,GRE, ,GRE
+kempbe,Kempkes,Benedikt,03/08/1985,GER, ,GER
+kempro,Kempter,Robert,22/03/1988,GER, ,GER
+kimmni,Kimmeyer,Nikolai,15/05/1991,GER, ,GER
 kiotev,Kiotzenis,Evangelos, ,GRE, ,GRE
 kitsan,Kitsoukalis,Antonis, ,GRE, ,GRE
 klaast,Klaasen,Sten,09/05/1982,EST, ,EST
@@ -249,6 +270,7 @@ kollan,Kolliakos,Angelos, ,GRE, ,GRE
 kollat,Kollias,Athanasios, ,GRE, ,GRE
 koloat,Kolosionis,Athanasios, ,GRE, ,GRE
 koloth,Kolosionis,Thanasis, ,GRE, ,GRE
+komig1,Komisopoulou,Georgia, ,GRE, ,GRE
 komige,Kominis,Georgios,00/00/1980,GRE, ,GRE
 konsil,Konstantinou,Ilias, ,GRE, ,GRE
 konsko,Konstantios,Konstantinos, ,GRE, ,GRE
@@ -257,6 +279,7 @@ konspa,Konstantopoulos,Panagiotis, ,GRE, ,GRE
 konspe,Konstantineas,Petros,11/02/1978,GRE, ,GRE
 kontro,Kontogiannidis,Romanos,04/02/1970,GRE, ,GRE
 koroch,Koronas,Christos, ,GRE, ,GRE
+koslla,Koslowski,Lasse,14/07/1987,GER,Berlin,GER
 kostpo,Kostaras,Polychronis, ,GRE, ,GRE
 kotoni,Kotoulas,Nikolaos, ,GRE, ,GRE
 kotsko,Kotsanis,Konstantinos, ,GRE, ,GRE
@@ -268,6 +291,7 @@ koukmi,Koukoulakis,Michail,25/06/1975,GRE, ,GRE
 koukpa,Koukoulas,Panagiotis, ,GRE, ,GRE
 koulch,Koula,Chasan, ,GRE, ,GRE
 kouln_,Koulias,N., ,GRE, ,GRE
+koums1,Koumparakis,Stefanos,24/09/1988,GRE, ,GRE
 koumst,Koumbarakis,Stefanos, ,GRE, ,GRE
 kounge,Koundourelis,Georgios, ,GRE, ,GRE
 kourch,Kourompylia,Chrysoula,29/07/1977,GRE, ,GRE
@@ -315,11 +339,14 @@ mansnu,Manso,Nuno Miguel da Silva,11/10/1975,POR, ,POR
 mantst,Mantalos,Stavros,00/00/1980,GRE, ,GRE
 manzjg,Manzano,Jesús Gil,04/02/1984,SPA, ,SPA
 marcsz,Marciniak,Szymon,07/01/1981,POL, ,POL
+marefa,Maresca,Fabio,12/04/1981,ITA,Napoli,ITA
 margma,Margaritov,Martin,00/00/1988,BUL, ,BUL
+marhbo,Marhefka,Boris,27/07/1987,SVK,Sedlcany,SVK
 marima,Mariani,Maurizio,25/02/1982,ITA,Roma,ITA
 martaV,Martínez,Aitor Villate, ,SPA, ,SPA
 martjs,Martínez,José María Sánchez,03/10/1983,SPA, ,SPA
 martrc,Martínez,Raúl Cabañero,29/08/1981,SPA, ,SPA
+martti,Martins,Tiago, ,POR, ,POR
 matsmi,Matsoukas,Michalis,09/11/1992,GRE, ,GRE
 mavrdi,Mavroudis,Dimitrios, ,GRE, ,GRE
 mavrpa,Mavropoulos,Panagiotis,24/03/1966,GRE, ,GRE
@@ -337,6 +364,7 @@ michmi,Michalakis, , ,CYP, ,CYP
 mihami,Mihajlović,Milan,14/08/1978,SRB,Beograd,SRB
 minoio,Minoudis,Ioannis, ,GRE, ,GRE
 mintna,Mintiouris,Naoum, ,GRE, ,GRE
+mirlak,Əmirəli,Akif,00/00/1993,AZE, ,AZE
 mitsch,Mitsios,Christos, ,GRE, ,GRE
 mittmi,Mittas, , ,GRE, ,GRE
 modriv,Modrić,Ivica,00/00/1975,CRO, ,CRO
@@ -403,19 +431,24 @@ polyfo,Polychronis,Fotis, ,GRE, ,GRE
 pontdi,Pontikis,Dimitris, ,GRE, ,GRE
 pontko,Pontikis,Konstantinos, ,GRE, ,GRE
 pougsp,Pougakiotis,Spyros, ,GRE, ,GRE
+poulko,Poulikidis,Konstantinos, ,GRE, ,GRE
 poulni,Poulimas,Nikolaos, ,GRE, ,GRE
 pozapo,Pozatides, , ,GRE, ,GRE
 pozojn,Pozor,Ján, ,SVK, ,SVK
 prendi,Prendzas,Dimitrios, ,GRE, ,GRE
 psarko,Psarris,Konstantinos, ,GRE, ,GRE
 psicge,Psychomanis,Georgios, ,GRE, ,GRE
+psylch,Psyllos,Christos, ,GRE, ,GRE
+putrsa,Putros,Sandi,27/10/1987,DEN, ,DEN
 raczpa,Raczkowski,Paweł,10/05/1983,POL,Warszawa,POL
 radihr,Radić,Hrvoje,00/00/1982,CRO, ,CRO
 rasmde,Rasmussen,Dennis Wollenberg,00/00/1979,DEN, ,DEN
 reinro,Reinshreiber,Roy,28/06/1980,ISR, ,ISR
+ribehA,Ribeiro,Hugo André Pires,15/07/1981,POR, ,POR
 ribepR,Ribeiro,Pedro Ricardo Ferreira,15/05/1981,POR, ,POR
 roomda,Roome,David,00/00/1980,SCO, ,SCO
 rothan,Rothmann,Andreas,27/11/1976,AUT, ,AUT
+saggro,Saggi,Rohit,31/01/1992,NOR, ,NOR
 sakkpa,Sakkas,Panagiotis, ,GRE, ,GRE
 samodi,Samoilis,Dimitrios, ,GRE, ,GRE
 sanxfe,San,Fedayi,11/11/1981,SUI,Müllingen,SUI
@@ -424,6 +457,7 @@ savvni,Savvas,Nikolaos, ,GRE, ,GRE
 sbrima,Sbrissa,Matthias,08/09/1991,SUI, ,SUI
 schach,Schaap,Charles,08/10/1977,NED, ,NED
 schado,Schaal,Dominik,25/07/1985,GER, ,GER
+schlda,Schlager,Daniel,08/12/1989,GER, ,GER
 schnur,Schnyder,Urs,17/04/1986,SUI, ,SUI
 sderan,Söderqvist,Andreas,00/00/1988,SWE, ,SWE
 selisp,Selimos,Spyros, ,GRE, ,GRE
@@ -446,6 +480,7 @@ somafr,Somarakis,Fragiskos, ,GRE, ,GRE
 sotich,Sotiropoulos,Christos, ,GRE, ,GRE
 sotige,Sotiropoulos,Georgios, ,GRE, ,GRE
 sousjd,de Sousa,Manuel Jorge Neves Moreira,18/09/1975,POR,Lordelo do Douro,POR
+sozzsi,Sozza,Simone,19/08/1987,ITA, ,ITA
 spasal,Spasjonnikovs,Aleksejs,00/00/1981,LAT, ,LAT
 spatil,Spathas,Ilias,18/02/1980,GRE, ,GRE
 spirio,Spiropoulos,Ioannis, ,GRE, ,GRE
@@ -483,6 +518,7 @@ thandi,Thanos,Dimitris, ,GRE, ,GRE
 tikatr,Tikas,Triandafillos, ,GRE, ,GRE
 todovl,Todorović,Vladan,03/05/1984,MNT, ,MNT
 topoio,Topouzis,Ioannis, ,GRE, ,GRE
+toroni,Torosiadis,Nikolaos, ,GRE, ,GRE
 toubio,Toubakaris,Ioannis, ,GRE, ,GRE
 toumio,Toumpakaris,Ioannis, ,GRE, ,GRE
 tratl_,Tratos,L., ,GRE, ,GRE
@@ -499,10 +535,12 @@ tsagpe,Tsagarakis,Petros, ,GRE, ,GRE
 tsakal,Tsakalidis,Alexandros, ,GRE, ,GRE
 tsamal,Tsamouris,Alexandros, ,GRE, ,GRE
 tsetko,Tsetsilas,Konstantinos, ,GRE, ,GRE
+tsiapR,Tsiaras,Panagiotis Rafail, ,GRE, ,GRE
 tsigts,Tsigras, , ,GRE, ,GRE
 tsikir,Tsikinis,Iraklis,11/10/1968,GRE, ,GRE
 tsimst,Tsimenteridis,Stavros, ,GRE, ,GRE
 tsinmi,Tsiniaris,Michail, ,GRE, ,GRE
+tsolly,Tsolakidis,Lykourgos, ,GRE, ,GRE
 tsolst,Tsolakis,Stilianos, ,GRE, ,GRE
 tsoupe,Tsouvaras,Petros, ,GRE, ,GRE
 turpcl,Turpin,Clément,16/05/1982,FRA, ,FRA
@@ -527,6 +565,7 @@ vassk_,Vassalos,K., ,GRE, ,GRE
 vassky,Vassaras,Kyros,01/02/1966,GRE,Thessaloniki,GRE
 vasssp,Vassilopoulos,Spyridon, ,GRE, ,GRE
 vatsar,Vatsios,Aristidis, ,GRE, ,GRE
+veccva,Vecchi,Valerio, ,ITA, ,ITA
 vegaaC,Vega,Adrián Cordero, ,SPA, ,SPA
 vellth,Velliodis,Thanassis, ,GRE, ,GRE
 veloa_,Veloudis,A., ,GRE, ,GRE
@@ -548,15 +587,20 @@ voulsp,Voulgaris,Spyros, ,GRE, ,GRE
 voutvo,Voutalas, , ,GRE, ,GRE
 vresge,Vreskas,Georgios, ,GRE, ,GRE
 vriejd,de Vries,Jan,14/07/1982,NED, ,NED
+wascsv,Waschitzki-Günther,Sven,26/02/1987,GER, ,GER
 weinju,Weinberger,Julian,14/02/1985,AUT, ,AUT
 welzto,Welz,Tobias,11/07/1977,GER, ,GER
+wildro,Wilde,Robin,00/00/1987,SWE, ,SWE
 yarkid,Yarkoni,Idan,00/00/1982,ISR, ,ISR
+ytteyS,Ytterland,Øystein Simon,00/00/1989,NOR, ,NOR
+yurdde,Yurdakul,Deniz, ,DEN, ,DEN
 zabasp,Zabalas,Spiridon, ,GRE, ,GRE
 zache_,Zacharopoulos,E., ,GRE, ,GRE
 zachpr,Zachariadis,Prachiteles, ,GRE, ,GRE
 zahapr,Zahariadis,Praxitelis, ,GRE, ,GRE
 zaneko,Zanetidis,Konstantinos,03/11/1971,GRE, ,GRE
 zaraeu,Zarakostinis,Eustadios, ,GRE, ,GRE
+zemkma,Zemko,Matej,00/00/1987,SVK, ,SVK
 zeynze,Zeynalov,Zeynal,25/01/1985,AZE, ,AZE
 zgrare,Zgraggen,Remy,02/12/1980,SUI, ,SUI
 zhukdm,Zhuk,Dmitriy,22/04/1986,BLR, ,BLR

@@ -1,5 +1,6 @@
-536
+560
 abalro,Aballay,Roberto,Roberto Aballay,1922-11-22,ARG,Buenos Aires,ARG,___
+abarja,Abardonado,Jacques, ,1978-05-27,FRA,Marseille,FRA,jacques-abardonado
 adamma,Adamczyk,Marcel, ,1935-01-05,FRA,giraumont,FRA,marcel-adamczyk
 almeru,Almeida,Rui,Rui Almeida,1969-09-29,POR,Lissabon,POR,rui-almeida
 alonpi,Alonzo,Pierre, ,1940-03-23,FRA,Meknès,MAR,pierre-alonzo
@@ -61,6 +62,7 @@ blanla,Blanc,Laurent,Laurent Robert Blanc,1965-11-19,FRA,Alés,FRA,laurent-blanc
 blanro,Blanc,Robert, ,1944-05-08,FRA,Carnoules,FRA,robert-blanc
 blaqbe,Blaquart,Bernard, ,1957-08-16,FRA,Roumazières-Loubert,FRA,bernard-blaquart
 blazmi,Blaževic,Miroslav, ,1935-02-10,CRO,Travnik,BOS,miroslav-blazevic
+blnils,Bölöni,László, ,1953-03-11,ROM,Târgu Mureş,ROM,laszlo-boeloeni
 blonma,Blondel,Maurice,Maurice Blondel,1918-07-13,FRA,Rouen,FRA,___
 boasav,Villas-Boas,André,Luís André de Pina Cabral e Villas Boas,1977-10-17,POR,Porto,POR,andre-villas-boas
 boella,Bölöni,Ladislau,László Bölöni,1953-03-11,ROM,Târgu Mureş,ROM,ladislau-boeloeni
@@ -76,6 +78,7 @@ bracch,Bracconi,Christian, ,1960-11-25,FRA,Constantine,ALG,christian-bracconi
 bradmo,Bradja,Mohamed, ,1969-11-16,ALG,Troyes,FRA,mohamed-bradja
 bragab,Braga,Abel,Abel Carlos da Silva Braga,1952-09-01,BRA,Rio de Janeiro,BRA,abel-braga
 bravru,Bravo,Rubén,Rubén Norberto Bravo,1923-11-16,ARG,Cruzalta,ARG,ruben-bravo
+brchjr,Bréchet,Jérémie, ,1979-08-14,FRA,Lyon,FRA,jeremie-brechet
 brempi,Brembilla,Pierre,Pierre Brembilla,1914-03-24,FRA,Longueville,FRA,___
 briegu,Briet,Guy, ,1936-01-20,FRA,Savigny-lès-Beaune,FRA,guy-briet
 brisfr,Brisson,François, ,1958-04-09,FRA,Saintes,FRA,francois-brisson
@@ -104,6 +107,7 @@ collyv,Colleu,Yves, ,1961-01-29,FRA,Dinard,FRA,yves-colleu
 concse,Conceição,Sérgio,Sérgio Paulo Merceiro Da Conceição,1974-11-15,POR,Coimbra,POR,sergio-conceicao
 cormar,Cormier,Arnaud, ,1975-11-14,FRA,Mans,FRA,arnaud-cormier
 corrpa,Correa,Pablo,Pablo Alejandro Correa Velázquez,1967-03-14,URU,Montevideo,URU,pablo-correa
+costse,Costa,Serge, ,1987-07-21,FRA,Sarrebourg,FRA,serge-costa
 cottca,Cottin,Camille, ,1910-02-10,FRA,Saône-et-Loire,FRA,camille-cottin
 coupgr,Coupet,Grégory, ,1972-12-31,FRA,Puy-en-Velay,FRA,gregory-coupet
 courr1,Courbis,Rolland, ,1953-08-12,FRA,Marseille,FRA,rolland-courbis
@@ -127,6 +131,7 @@ dehoni,Dehon,Nicolas, ,1968-04-02,FRA, ,FRA,nicolas-dehon
 delale,Deladerrière,Léon, ,1927-06-26,FRA,Annoeulin,FRA,leon-deladerriere
 deleja,Delepaut,Jacques,Jacques Delepaut,1926-09-11,FRA,Tourcoing,FRA,___
 delfed,Delfour,Edmond, ,1907-11-01,FRA,Ris-Orangis,FRA,edmond-delfour
+delmch,Delmotte,Christophe, ,1969-06-09,FRA,Comines,FRA,christophe-delmotte
 delmse,Delmas,Serge, ,1947-05-14,FRA,Montpellier,FRA,serge-delmas
 denora,Denoueix,Raynald, ,1948-04-15,FRA,Rouen,FRA,raynald-denoueix
 descdi,Deschamps,Didier, ,1968-10-15,FRA,Bayonne,FRA,didier-deschamps
@@ -162,12 +167,16 @@ elsnlu,Elsner,Luka, ,1982-08-02,SLO,Ljubljana,SLO,luka-elsner
 emerun,Emery,Unai,Unai Emery Etxegoien,1971-11-03,SPA,Hondarribi,SPA,unai-emery
 emonal,Emon,Albert, ,1953-06-24,FRA,Berre-l'Étang (Bouches-du-Rhône),FRA,albert-emon
 eneeed,Enée,Edmond,Edmond Enée,1915-07-09,FRA,Belfort,FRA,___
+enrilu,Enrique,Luis,Luis Enrique Martínez García,1970-05-08,SPA,Gijón,SPA,luis-enrique
 eoxxge,Eo,Georges, ,1948-11-07,FRA,Lorient,FRA,georges-eo
+escoal,Escobar,Alberto,José Alberto Escobar Fornier,1969-11-15,SPA,Alicante,SPA,alberto-escobar_2
+espapi,Espanol,Pierre, ,1963-01-13,FRA,Toulouse,FRA,pierre-espanol
 estemi,Estevan,Michel, ,1961-09-28,FRA,Alger,ALG,michel-estevan
 ettojl,Ettori,Jean-Luc, ,1955-07-29,FRA, ,FRA,jean-luc-ettori
 ettomi,Ettore,Michel, ,1957-10-14,FRA,Amnéville,FRA,michel-ettore
 exbrre,Exbrayat,René, ,1947-10-30,FRA,Arles,FRA,rene-exbrayat
 fabrge,Fabre,Gérard, ,1943-10-19,FRA,Toulon,FRA,gerard-fabre
+farifr,Farioli,Francesco, ,1989-04-10,ITA,Barga,ITA,francesco-farioli
 fauvje,Fauvergue,Jean, ,1940-06-11,FRA,Chinon,FRA,jean-fauvergue
 favrja,Favre,Jacques, ,1921-05-06,FRA,Laon,FRA,jacques-favre
 favrlu,Favre,Lucien, ,1957-11-02,SUI,Saint-Barthélemy,SUI,lucien-favre
@@ -202,7 +211,9 @@ gardre,Gardien,René, ,1928-02-10,FRA,Chambéry,FRA,rene-gardien
 garoyv,Garofalo,Yvan, ,1934-07-24,FRA,Pomerols,FRA,yvan-garofalo
 gassjl,Gasset,Jean-Louis, ,1953-12-09,FRA,Montpellier,FRA,jean-louis-gasset
 gastpa,Gastien,Pascal, ,1963-12-02,FRA,Rochefort sur Mer,FRA,pascal-gastien
+gasxem,Gas,Emmanuel, ,1970-09-11,FRA,Lyon,FRA,emmanuel-gas
 gasxma,Gas,Manolo,Emmanuel Gas,1970-09-11,FRA,Lyon,FRA,manolo-gas
+gattge,Gattuso,Gennaro,Ivan Gennaro Gattuso,1978-01-09,ITA,Corigliano Schiavonea,ITA,gennaro-gattuso
 gauthe,Gauthier,Hervé, ,1949-05-28,FRA,Janzé,FRA,herve-gauthier
 gautor,Gauthier,Orlando, ,1934-04-05,ARG,Bolivas,ARG,orlando-gauthier
 genebr,Génésio,Bruno, ,1966-09-01,FRA,Lyon,FRA,bruno-genesio
@@ -225,6 +236,7 @@ granro,Gransart,Roland, ,1954-01-01,FRA,Marseille,FRA,roland-gransart
 gresgi,Gress,Gilbert, ,1941-12-17,FRA,Strasbourg,FRA,gilbert-gress
 grizan,Grizzetti,Angelo, ,1916-05-14,ITA,Varese,ITA,angelo-grizzetti
 grizge,Grizzetti,Gérard, ,1943-11-20,FRA,Aubervillers,FRA,gerard-grizzetti
+grosfa,Grosso,Fabio, ,1977-11-28,ITA,Chieti,ITA,fabio-grosso
 grosgr,Gros, , Gros,0000-00-00,FRA, , ,___
 groubr,Grougi,Bruno, ,1983-04-26,MRQ,Caen,FRA,bruno-grougi
 guegol,Guégan,Olivier, ,1972-08-20,FRA,Longjumeau,FRA,olivier-guegan
@@ -254,6 +266,7 @@ hognvi,Hognon,Vincent, ,1974-08-16,FRA,Nancy,FRA,vincent-hognon
 hollhe,Hollink,Hennie, ,1931-10-01,NED,Glanerbrug,NED,hennie-hollink
 honxlo,Hon,Louis, ,1924-09-14,FRA,Couches Les Mines,FRA,louis-hon
 houlge,Houllier,Gérard, ,1947-09-03,FRA,Thérouanne,FRA,gerard-houllier
+httead,Hütter,Adi,Adolf Hütter,1970-02-11,AUT,Hohenems,AUT,adi-huetter
 huarge,Huart,Georges, ,1930-01-16,FRA,Quarouble,FRA,georges-huart
 huarla,Huard,Laurent, ,1973-08-26,FRA,Fougères,FRA,laurent-huard
 huckjn,Huck,Jean-Noël, ,1948-12-20,FRA,Mutzig,FRA,jean-noel-huck
@@ -303,6 +316,7 @@ larich,Lariépe,Christian, ,1959-08-02,FRA, ,FRA,christian-lariepe
 larqjm,Larqué,Jean-Michel, ,1947-09-08,FRA,Bizanos,FRA,jean-michel-larque
 laurth,Laurey,Thierry, ,1964-02-14,FRA,Troyes,FRA,thierry-laurey
 lavale,Lavagne,Léonce, ,1940-02-17,FRA,Béziers,FRA,leonce-lavagne
+lealti,Leal,Tiago,Tiago André Rodrigues Leal,1985-03-27,POR,Penafiel,POR,tiago-leal_2
 leblmi,Leblond,Michel,Michel Laurent Leblond,1932-05-10,FRA,Reims,FRA,michel-leblond
 leclda,Leclercq,Daniel, ,1949-09-04,FRA,Trith-Saint-Léger,FRA,daniel-leclercq
 ledulu,Leduc,Lucien, ,1918-12-30,FRA,Le Portel,FRA,lucien-leduc
@@ -322,6 +336,7 @@ mankpi,Mankowski,Pierre, ,1951-11-05,FRA,Amiens,FRA,pierre-mankowski
 maoxph,Mao,Philippe, ,1968-01-16,FRA, ,FRA,philippe-mao
 marcan,Marcos,Ángel,Ángel Alberto Marcos,1943-04-07,ARG,Buenos Aires,ARG,angel-marcos
 marcbe,Marchand,Bertrand, ,1953-04-27,FRA,Dinan,FRA,bertrand-marchand
+marcma,Marcelino, ,Marcelino García Toral,1965-08-14,SPA,Careñes,SPA,marcelino_4
 mareto,Marek,Tony,Tony Marek,1913-02-09,AUT,Vienna,AUT,___
 markvl,Marković,Vlatko,Vladimir Marković,1937-01-01,CRO,Bugojno,BOS,vlatko-markovic
 marrda,Marraud,David, ,1964-08-03,FRA,Jonzac,FRA,david-marraud
@@ -371,9 +386,11 @@ muslsl,Muslin,Slavoljub, ,1953-06-15,SRB,Beograd,SRB,slavoljub-muslin
 musxlo,Mus,Louis, ,1921-10-26,FRA,Grasse,FRA,louis-mus
 nagygy,Nagy,Gyula, ,1924-04-07,HUN,Szob,HUN,gyula-nagy_2
 nagyla,Nagy,Ladislas, ,1931-12-16,FRA,La Tronche,FRA,ladislas-nagy
+nalili,Nalis,Lilian, ,1971-09-29,FRA,Nogent-sur-Marne,FRA,lilian-nalis
 navavi,Navarro,Vincent, ,1942-10-05,FRA,Oran,ALG,vincent-navarro
 ndorja,N'Doram,Japhet, ,1966-02-27,CHA,N'Djaména,CHA,japhet-ndoram
 nenkdu,Nenković,Dušan, ,1929-10-03,SRB,Kragujevac,SRB,dusan-nenkovic
+nevipa,Nevin,Paul,Paul Richard Nevin,1969-06-23,ENG, ,ENG,paul-nevin
 nicoch,Nicolas,Charles,Charles Nicolas,1916-06-05,FRA,Brest,FRA,___
 nicodo,Olle-Nicolle,Didier, ,1961-09-02,FRA,Belley,FRA,didier-olle-nicolle
 nobijm,Nobilo,Jean-Marc, ,1960-07-27,FRA,Cahors,FRA,jean-marc-nobilo
@@ -398,6 +415,7 @@ passfr,Passi,Franck, ,1966-03-28,FRA,Bergerac,FRA,franck-passi
 pavimi,Pavić,Milorad, ,1921-11-11,SRB,Valjevo,SRB,milorad-pavic
 pavomi,Pavon,Michel, ,1968-11-07,FRA,La Ciotat,FRA,michel-pavon
 payner,Payne,Ernest,Ernest Payne,0000-00-00,ENG, , ,___
+peinch,Peintinger,Christian, ,1967-04-14,AUT, ,AUT,christian-peintinger
 pelich,Pelissier,Christophe, ,1965-10-05,FRA,Revel,FRA,christophe-pelissier
 penvar,Penverne,Armand, ,1926-11-26,FRA,Pont-Scorff,FRA,armand-penverne
 perfjc,Perfetti,Jean-Claude, ,1940-06-15,FRA,Toulon,FRA,jean-claude-perfetti
@@ -416,7 +434,9 @@ plaija,Plašil,Jaroslav, ,1982-01-05,CZE,Opocno,CZE,jaroslav-plasil
 planpa,Plancque,Pascal, ,1963-08-20,FRA,Cherbourg,FRA,pascal-plancque
 pleire,Pleimelding,René, ,1925-02-13,FRA,Joudreville,FRA,rene-pleimelding
 pleyfr,Pleyer,Franz,Franz Pleyer,1911-02-23,AUT,Vienna,AUT,___
+pochal,Pochat,Alain, ,1967-08-01,FRA,Annecy,FRA,alain-pochat
 pochma,Pochettino,Mauricio,Mauricio Roberto Pochettino Trossero,1972-03-02,ARG,Murphy,ARG,mauricio-pochettino
+polxra,Pol,Rafel,Rafel Pol Cabanellas,1987-01-13,SPA, ,SPA,rafel-pol
 poulyv,Pouliquen,Yvon, ,1962-10-17,FRA,Morlaix,FRA,yvon-pouliquen
 poyegu,Poyet,Gustavo,Gustavo Augusto Poyet Domínguez,1967-11-15,URU,Montevideo,URU,gustavo-poyet
 preswa,Presch,Walter, ,1910-08-05,AUT,Wien,AUT,walter-presch
@@ -451,6 +471,7 @@ romeda,Romeo,Daniel,Daniel Mario Romeo,1951-02-12,ARG, ,ARG,daniel-romeo
 rossle,Rossi,Léon, ,1923-11-02,FRA,Villefranche-sur-Mer,FRA,leon-rossi
 roubbe,Roubaud,Bernard, ,1936-01-18,FRA,Toulon,FRA,bernard-roubaud
 rousel,Rous,Elie,Elie Rous,1909-09-10,FRA,Sète,FRA,___
+rousgi,Rousset,Gilles, ,1963-08-22,FRA,Hyères,FRA,gilles-rousset
 rousla,Roussey,Laurent, ,1961-12-27,FRA,Lyon,FRA,laurent-roussey
 rouvma,Rouvière,Marcel, ,1921-10-04,FRA,Alès,FRA,marcel-rouviere
 rouxgu,Roux,Guy, ,1938-10-18,FRA,Colmar,FRA,guy-roux
@@ -459,6 +480,7 @@ royxcl,Le Roy,Claude,Claude Marie Francois Le Roy,1948-02-06,FRA,Bois-Normand-pr
 royxer,Roy,Éric,Éric Serge Roy,1967-09-26,FRA,Nice,FRA,eric-roy
 rutyjl,Ruty,Jean-Luc, ,1959-07-05,FRA,Arbois,FRA,jean-luc-ruty
 sablju,Sablé,Julien,Julien Sablé Fourtassou,1980-09-11,FRA,Marseille,FRA,julien-sable
+sagepi,Sage,Pierre, ,1979-05-05,FRA, ,FRA,pierre-sage
 saggsa,Saggiero, , Saggiero,0000-00-00,FRA, , ,___
 sagnwi,Sagnol,Willy, ,1977-03-18,FRA,Saint-Etienne,FRA,willy-sagnol
 samoch,Samoy,Charles, ,1939-04-30,FRA,Escaudain,FRA,charles-samoy
@@ -509,6 +531,7 @@ troulu,Troupel,Lucien,Lucien Troupel,1919-01-11,FRA,Paris,FRA,___
 trouph,Troussier,Philippe,Philippe Omar Troussier,1955-03-21,FRA,Paris,FRA,philippe-troussier
 tuchth,Tuchel,Thomas, ,1973-08-29,GER,Krumbach,GER,thomas-tuchel
 tudoig,Tudor,Igor, ,1978-04-16,CRO,Split,CRO,igor-tudor
+uraxru,Uría,Rubén,Juan Rubén Uría Corral,1968-01-30,SPA,Gijón,SPA,ruben-uria
 ursead,Ursea,Adrian,Adrian Dante Ursea,1967-09-14,ROM,Slobozia,ROM,adrian-ursea
 vailal,Vaillant,Alain, ,0000-00-00,FRA, ,FRA,alain-vaillant
 vandjc,Vandaele,Jean-Claude, ,1942-03-14,FRA,Marcq-en-Baroeul,FRA,jean-claude-vandaele
@@ -520,6 +543,7 @@ vernre,Vernier,René, ,1925-06-09,ALG,Douera,ALG,rene-vernier
 vicoro,Vicot,Robert, ,1931-10-29,FRA,Ivry-sur-Seine,FRA,robert-vicot
 vieipa,Vieira,Patrick, ,1976-06-23,FRA,Dakar,SEN,patrick-vieira
 vincje,Vincent,Jean, ,1930-11-29,FRA,La Beuvrière,FRA,jean-vincent
+vullje,Vulliez,Jean-François, ,1972-11-30,FRA, ,FRA,jean-francois-vulliez
 walljg,Wallemme,Jean-Guy, ,1967-08-10,FRA,Maubeuge,FRA,jean-guy-wallemme
 wartpa,Wartel,Paul,Paul Wartel,1902-04-26,FRA,Puteaux,FRA,___
 webela,Weber,Laurent, ,1972-09-01,FRA,Colmar,FRA,laurent-weber

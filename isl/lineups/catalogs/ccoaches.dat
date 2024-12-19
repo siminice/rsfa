@@ -1,4 +1,4 @@
-129
+134
 albeib,Albertsson,Ingi Björn,Ingi Björn Albertsson,1952-11-03,ISL, , ,___
 arnaas,Arnarsson,Ásmundur,Ásmundur Arnarsson,1972-03-14,ISL, ,ISL,asmundur-arnarsson
 arnatm,Árnason,Thorlákur Már,Thorlákur Már Árnason,1969-09-13,ISL, , ,___
@@ -42,6 +42,7 @@ gudnha,Guðnason,Haukur,Haukur Ingi Guðnason,1978-09-08,ISL,Keflavík,ISL,hauku
 guelpa,Guðlaugsson,Páll,Páll Guðlaugsson,1958-09-09,ISL, , ,___
 gumuha,Guðmundsson,Haraldur,Haraldur Freyr Guðmundsson,1981-12-14,ISL,Keflavík,ISL,haraldur-gudmundsson
 gumumI,Guðmundsson,Ómar Ingi, ,1986-04-24,ISL, ,ISL,omar-ingi-gudmundsson
+gumuma,Guðmundsson,Ómar,Ómar Ingi Guðmundsson,1986-04-24,ISL, ,ISL,omar-gudmundsson
 gunnar,Gunnlaugsson,Arnar,Arnar Gunnlaugsson,1973-03-06,ISL,Akranes,ISL,arnar-gunnlaugsson
 gunnbr,Gunnarsson,Brynjar,Brynjar Björn Gunnarsson,1975-10-16,ISL,Reykjavík,ISL,brynjar-gunnarsson
 gylfag,Gylfason,Ágúst,Ágúst Þór Gylfason,1971-08-01,ISL,Reykjavík,ISL,agust-gylfason
@@ -52,6 +53,7 @@ hardjo,Harðarson,Jóhannes,Jóhannes Þór Harðarson,1976-07-28,ISL,Akranes,IS
 haukjo,Hauksson,Jón,Jón Þór Hauksson,1978-05-02,ISL, ,ISL,jon-hauksson
 helgau,Helgason,Auðun, ,1974-06-18,ISL, ,ISL,audun-helgason
 hinrth,Hinriksson,Þór, ,1964-00-00,ISL, ,ISL,thor-hinriksson
+hinsey,Héðinsson,Eyjólfur, ,1985-01-01,ISL,Reykjavik,ISL,eyjolfur-hedinsson
 hipope,Hipólito,Pedro, ,1978-09-16,POR,São Cristóvão e São Lourenço,POR,pedro-hipolito
 hreigu,Hreiðarsson,Guðmundur,Guðmundur Sævar Hreiðarsson,1960-10-05,ISL, ,ISL,gudmundur-hreidarsson
 hreihe,Hreiðarsson,Hermann, ,1974-07-11,ISL,Reykjavík,ISL,hermann-hreidarsson
@@ -77,6 +79,7 @@ krisbi,Kristinsson,Birkir, ,1964-08-15,ISL,Vestmannaeyjar,ISL,birkir-kristinsson
 krisol,Kristjánsson,Ólafur,Ólafur Helgi Kristjánsson,1968-05-20,ISL,Reykjavík,ISL,olafur-kristjansson
 krisru,Kristinsson,Rúnar, ,1969-09-05,ISL,Reykjavík,ISL,runar-kristinsson
 lafssi,Ólafsson,Sigurvin, ,1976-07-18,ISL,Vestmannaeyjar,ISL,sigurvin-olafsson
+lamudS,Lamude,Davíð Smári, ,1984-04-01,ISL, ,ISL,david-smari-lamude
 larubj,Lárusson,Bjarnólfur, ,1976-03-11,ISL, ,ISL,bjarnolfur-larusson
 larukr,Lárusson,Kristinn,Kristinn Ingi Lárusson,1973-12-19,ISL, ,ISL,kristinn-larusson
 larutg,Lárusson,Thórdur Georg,Thórdur Georg Lárusson,1954-12-29,ISL, , ,___
@@ -93,12 +96,14 @@ olaflo,Ólafsson,Logi,Logi Ólafsson,1954-11-14,ISL,Reykjavík,ISL,logi-olafsson
 ormspe,Ormslev,Pétur,Pétur Ormslev,1958-07-18,ISL, , ,___
 ottesl,Ottesen,Sölvi,Sölvi Geir Ottesen Jónsson,1984-02-18,ISL,Reykjavík,ISL,soelvi-ottesen
 petupe,Pétursson,Pétur,Pétur Pétursson,1959-06-27,ISL,Akranes,ISL,petur-petursson
+plmapl,Pálmason,Pálmi,Pálmi Rafn Pálmason,1984-11-09,ISL, ,ISL,palmi-palmason
 puriej,Purisevic,Ejub,Ejub Purisevic,1968-02-09,BOS, ,BOS,ejub-purisevic
 rnasha,Árnason,Halldór, ,1984-05-16,ISL, ,ISL,halldor-arnason
 rydego,Ryder,Gregg Oliver, ,1988-00-00,ENG, ,ENG,gregg-oliver-ryder
 sankzo,Sankovic,Zeljko Oskar,Zeljko Oskar Sankovic,1954-09-29,SRB,Knin, ,___
 sigmru,Sigmundsson,Rúnar,Rúnar Páll Sigmundsson,1974-05-05,ISL, ,ISL,runar-sigmundsson
 sigugv,Sigurdsson,Gudmundur Valur,Gudmundur Valur Sigurdsson,1961-05-12,ISL, , ,___
+siguha,Sigurðsson,Haukur,Haukur Páll Sigurðsson,1987-08-05,ISL, ,ISL,haukur-sigurdsson
 siguhe,Sigurðsson,Helgi, ,1974-09-17,ISL,Reykjavík,ISL,helgi-sigurdsson
 sigukr,Sigurgeirsson,Kristófer,Kristófer Skúli Sigurgeirsson,1972-01-19,ISL, ,ISL,kristofer-sigurgeirsson
 sigula,Sigurðsson,Lárus,Lárus Orri Sigurðsson,1973-06-04,ISL,Akureyri,ISL,larus-sigurdsson

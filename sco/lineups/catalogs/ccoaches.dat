@@ -1,4 +1,4 @@
-413
+423
 adamde,Adams,Derek,Derek Watt Adams,1975-06-25,SCO,Aberdeen,SCO,derek-adams
 advodi,Advocaat,Dick,Dick Nicolaas Advocaat,1947-09-27,NED,Den Haag,NED,dick-advocaat
 agnest,Agnew,Steve,Stephen Mark Agnew,1965-11-09,ENG,Shipley,ENG,steve-agnew
@@ -9,6 +9,7 @@ alexne,Alexander,Neil, ,1978-03-10,SCO,Edinburgh,SCO,neil-alexander
 ancerF,Ancell,Robert Francis Dudgeon,Robert Francis Dudgeon Ancell,1911-06-16,SCO, ,SCO,___
 andeal,Anderson,Alexander,Alexander Anderson,1939-06-22,SCO, ,SCO,___
 andegR,Anderson,George Russell,George Russell Anderson,1904-10-29,SCO, ,SCO,___
+andral,Andrews,Alun, ,1991-01-05,WAL, ,WAL,alun-andrews
 andriE,Andrews,Ian Edmund,Ian Edmund Andrews,1964-12-01,ENG, ,ENG,___
 archal,Archibald,Alan,Alan Maxweell Archibald,1977-12-13,SCO,Glasgow,SCO,alan-archibald
 auldro,Auld,Robert,Robert Auld,1938-03-23,SCO, ,SCO,___
@@ -18,6 +19,7 @@ banfne,Banfield,Neil, ,1962-01-20,ENG,Poplar,ENG,neil-banfield
 bankst,Banks,Steve, ,1972-02-09,ENG,Hillingdon,ENG,steve-banks
 baraia,Baraclough,Ian, ,1970-12-04,ENG,Leicester,ENG,ian-baraclough
 barnjo,Barnes,John,John Charles Bryan Barnes,1963-11-07,ENG,Kingston,JAM,john-barnes
+barren,Barron,Enda, ,0000-00-00,SCO, ,SCO,enda-barron
 bartma,Bartley,Marvin,Marvin Clement Bartley,1986-07-04,ENG,Reading,ENG,marvin-bartley
 bealmi,Beale,Michael, ,1980-09-04,ENG, ,ENG,michael-beale
 bennal,Bennett,Alexander,Alexander Bennett,1881-10-20,SCO, ,SCO,___
@@ -62,6 +64,7 @@ clarsa,Clark,Sandy,Alexander Clark,1956-10-28,SCO,Airdrie,SCO,sandy-clark
 clarst,Clarke,Steve,Stephen Clarke,1963-08-29,SCO,Saltcoats,SCO,steve-clarke
 clela1,Cleland,Alec,Alexander Cleland,1970-12-10,SCO,Glasgow,SCO,alec-cleland
 clelal,Cleland,Alexander, ,1970-12-10,SCO,Glasgow,SCO,alexander-cleland
+clemph,Clement,Philippe, ,1974-03-22,BEL,Antwerpen,BEL,philippe-clement
 clunjR,Clunie,James Robertson,James Robertson Clunie,1933-09-04,SCO, ,SCO,___
 collge,Collins,Gerard, ,1955-03-12,SCO,Glasgow,SCO,gerard-collins
 colljo,Collins,John,John Angus Paul Collins,1968-01-31,SCO,Galashiels,SCO,john-collins
@@ -110,6 +113,7 @@ fliebr,Flies,Brian,Brian Flies,1969-08-29,DEN, ,DEN,___
 forari,Foran,Richie,Richard Foran,1980-06-16,IRL,Dublin,IRL,richie-foran
 forrgo,Forrest,Gordon,Gordon Ian Forrest,1977-01-14,SCO,Dunfermline,SCO,gordon-forrest
 foxxli,Fox,Liam, ,1984-02-02,SCO,Edinburgh,SCO,liam-fox
+fraist,Frail,Stephen,Stephen Charles Frail,1969-08-10,SCO,Glasgow,SCO,stephen-frail
 fridle,Fridge,Les,Les Fridge,1968-08-27,SCO, ,SCO,___
 galbwM,Galbraith,Walter McMurray,Walter McMurray Galbraith,1918-05-26,SCO, ,SCO,___
 gallja,Gallacher,James,James Gallacher,1951-03-29,SCO, ,SCO,___
@@ -194,6 +198,7 @@ lekodr,Lekovic,Dragoje,Dragoje Lekovic,1967-11-21,SRB, ,SRB,___
 lennda,Lennon,Danny,Daniel Joseph Lennon,1970-04-03,SCO,Whitburn,SCO,danny-lennon
 lennne,Lennon,Neil,Neil Francis Lennon,1971-06-25,NIR,Lurgan,NIR,neil-lennon
 levecr,Levein,Craig, ,1964-10-22,SCO,Dunfermline,SCO,craig-levein
+levepe,Leven,Peter, ,1983-09-27,SCO,Glasgow,SCO,peter-leven
 lockga,Locke,Gary, ,1975-06-16,SCO,Edinburgh,SCO,gary-locke
 lomast,Lomas,Steve,Stephen Martin Lomas,1974-01-18,NIR,Hannover,GER,steve-lomas
 macalu,Macari,Luigi,Luigi Macari,1949-06-07,SCO, ,SCO,___
@@ -277,6 +282,7 @@ millwi,Miller,William,William Miller,1955-05-02,SCO, ,SCO,___
 mimmrA,Mimms,Robert Andrew,Robert Andrew Mimms,1963-10-12,ENG, ,ENG,___
 moncro,Moncur,Robert,Robert Moncur,1945-01-19,SCO, ,SCO,___
 moneca,Money,Campbell,Campbell Money,1960-08-31,SCO, ,SCO,___
+montni,Montgomery,Nick,Nicholas Anthony Montgomery,1981-10-28,SCO,Leeds,ENG,nick-montgomery
 mossfr,Moss,Frank,Frank Moss,1909-11-05,ENG, ,ENG,___
 mowbto,Mowbray,Tony,Anthony Mark Mowbray,1963-11-22,ENG,Saltburn,ENG,tony-mowbray
 muggcD,Muggleton,Carl David,Carl David Muggleton,1968-09-13,ENG, ,ENG,___
@@ -310,6 +316,7 @@ prenjo,Prentice,John,John Prentice,1926-01-01,SCO, ,SCO,___
 presal,Preston,Allan, ,1969-08-16,SCO,Leith,SCO,allan-preston
 procma,Proctor,Marc, ,1961-01-30,ENG,Middlesbrough,ENG,marc-proctor
 quinpa,Quinn,Patrick,Patrick Quinn,1936-04-26,SCO, ,SCO,___
+raexal,Rae,Alex,Alexander Scott Rae,1969-09-30,SCO,Glasgow,SCO,alex-rae
 rankro,Rankin,Robert,Robert Rankin,1905-04-07,SCO, ,SCO,___
 reidbi,Reid,Billy, ,1963-07-18,SCO,Glasgow,SCO,billy-reid
 reidch,Reid,Christopher,Christopher Reid,1971-11-04,SCO, ,SCO,___
@@ -376,8 +383,10 @@ stuaal,Stuart,Alexander,Alexander Stuart,1940-08-08,SCO, ,SCO,___
 stubal,Stubbs,Alan, ,1971-10-06,ENG,Kirkby,ENG,alan-stubbs
 sturpa,Sturrock,Paul,Paul Whitehead Sturrock,1956-10-10,SCO,Ellon,SCO,paul-sturrock
 symosc,Symon,Scot,Scot Symon,1911-05-09,SCO, ,SCO,___
+taylst,Taylor,Stuart, ,1974-11-26,SCO,Glasgow,SCO,stuart-taylor_2
 tealga,Teale,Gary,Gary Stewart Teale,1978-07-21,SCO,Glasgow,SCO,gary-teale
 tempro,Templeton,Robert,Robert Templeton,1894-01-01,SCO, ,SCO,___
+thelji,Thelin,Jimmy, ,1978-03-14,SWE, ,SWE,jimmy-thelin
 thombi,Thomson,Billy,William Marshall Thomson,1958-02-10,SCO,Linwood,SCO,billy-thomson
 thomfW,Thompson,Francis W,Francis W Thompson,1885-10-02,NIR, ,NIR,___
 thomjS,Thomson,James Smith,James Smith Thomson,1937-04-10,SCO, ,SCO,___
@@ -395,6 +404,7 @@ walkth,Walker,Thomas,Thomas Walker,1915-05-26,SCO, ,SCO,___
 wallgG,Wallace,George Gordon,George Gordon Wallace,1943-06-20,SCO, ,SCO,___
 walljM,Wallace,John Martin Bokas,John Martin Bokas Wallace,1935-09-06,SCO, ,SCO,___
 warbma,Warburton,Mark, ,1962-09-06,ENG,London,ENG,mark-warburton
+warnne,Warnock,Neil, ,1948-12-01,ENG,Sheffield,ENG,neil-warnock
 watsge,Watson,George,George Watson,1956-05-01,SCO, ,SCO,___
 watsro,Watson,Robert,Robert Watson,1946-05-15,SCO, ,SCO,___
 wattmi,Watt,Michael,Michael Watt,1970-11-27,SCO, ,SCO,___

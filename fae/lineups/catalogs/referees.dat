@@ -1,4 +1,4 @@
-321
+334
 aganad,Aganović,Adi,12/12/1989,SWE, ,SWE
 alacjo,Alacam,Josef,00/00/1981,SWE, ,SWE
 amlasi,Amland,Sivert Øksnes,17/01/1993,NOR, ,NOR
@@ -73,8 +73,10 @@ gjeran,Gjermshus,Anders, ,NOR, ,NOR
 graalL,Graagaard,Lasse Læbel,04/04/1995,DEN, ,DEN
 gregjg,Gregersen,Jógvan, ,FER, ,FER
 gregrn,Gregersen,Árni,1951-12-01,FER, ,FER
+grnabe,Grønagarð,Benjamin,27/12/2002,FER, ,FER
 gudmoh,Guðmundsson,Oddur Helgi,00/00/1984,ISL, ,ISL
 guttkr,Guttesen,Kriss, ,FER, ,FER
+hafemo,Hafezi,Mohammad,19/04/1994,NOR, ,NOR
 hafsda,Hafsås,Dag Vidar,26/06/1973,NOR, ,NOR
 hamman,Hammer,Annfinn, ,FER, ,FER
 hansan,Hansen,Andreas Petur,20/03/1978,FER, ,FER
@@ -106,9 +108,11 @@ hoevkj,Høvdanum,Kári Jóannesarson á,06/04/1990,FER, ,FER
 holmha,Holm,Hans, ,FER, ,FER
 holmhp,Holm,Hans Pauli, ,FER, ,FER
 holmjs,Holm,Jens Straagaard,1945-06-28,FER, ,FER
+holtaB,Holt,Andreas Bøgebjerg,28/05/1999,DEN, ,DEN
 honkju,Honkanen,Jukka,00/00/1981,FIN, ,FIN
 hoummi,Houmann,Mikkjal, ,FER, ,FER
 hrafey,Hrafnkelsson,Eysteinn,16/09/1998,ISL, ,ISL
+hvdakJ,Høvdanum,Kári Jóannesarson á,06/04/1990,FER, ,FER
 hyytjo,Hyytiä,Joni,29/08/1988,FIN, ,FIN
 isakla,Isaksen,Lassin,1961-01-22,FER, ,FER
 jacodj,Jacobsen,Djóni,29/06/2002,FER, ,FER
@@ -158,6 +162,7 @@ jrgefe,Jørgensen,Feilberg, ,FER, ,FER
 jrgepv,Jørgensen,Poul V., ,DEN, ,DEN
 jussat,Jussila,Atte, ,FIN, ,FIN
 justna,Justinussen,Napoleon,1952-07-08,FER, ,FER
+juvoel,Juvonen,Elias, ,FIN, ,FIN
 kahrme,Kahrimanović,Mesud,00/00/1984,SWE, ,SWE
 kannju,Kanniainen,Juha Matti, ,FIN, ,FIN
 karsju,Karstila,Juhani,28/03/1994,FIN, ,FIN
@@ -170,6 +175,7 @@ krbejr,Kúrberg,Jørleif,1941-09-05,FER, ,FER
 krinsi,Kringstad,Sigurd Smehus,28/12/1987,NOR, ,NOR
 krisca,Kristensen,Casper, ,DEN, ,DEN
 krisio,Kristjánsson,Ívar Orri,00/00/1989,ISL, ,ISL
+krissF,Kristensen,Svend Funder,07/09/1998,DEN, ,DEN
 krogmo,Krogh,Morten, ,DEN, ,DEN
 krokli,Króki,Laurits í,15/05/1980,FER, ,FER
 kuukar,Kuukasjärvi,Arttu, ,FIN, ,FIN
@@ -190,6 +196,7 @@ lidaja,Líðarenda,Jan á,24/04/1986,FER, ,FER
 lindjk,Lindberg,Jákup, ,FER, ,FER
 linkbe,Linklett,Bent Tommy,06/02/1963,FER, ,FER
 ludvjo,Ludvig,John, ,FER, ,FER
+madshg,Madsen,Høgni,04/02/1985,FER, ,FER
 madska,Madsen,Kasper,28/07/1983,DEN, ,DEN
 maekka,Mäkinen,Kalle, ,FIN, ,FIN
 magnbe,Magnussen,Bergur,1966-09-09,FER, ,FER
@@ -216,6 +223,7 @@ mortel,Mortensen,Eli, ,FER, ,FER
 mortma,Mortensen,Mannbjørn,1925-07-06,FER, ,FER
 mortnj,Mortensen,Napoleon J., ,FER, ,FER
 mortsl,Mortensen,Sólbjørn,1950-12-17,FER, ,FER
+mouraS,Mouritsen,Allan Sigfríður Holm,12/07/1995,FER, ,FER
 mrinmx,Mýrini,Martin á,1946-01-07,FER, ,FER
 mrkrbr,Mørkøre,Børge, ,FER, ,FER
 mrkxmo,Mørk,Mortan, ,FER, ,FER
@@ -250,6 +258,7 @@ olsetp,Olsen,Tummas Pauli,30/03/1960,FER, ,FER
 palsva,Pálsson,Valdimar,29/01/1968,ISL,Akureyri,ISL
 persbm,Persson,Børge Marni,1952-03-18,FER, ,FER
 persca,Persson,Carl,1946-01-07,FER, ,FER
+pesomi,Pesonen,Miika, ,FIN, ,FIN
 petegu,Petersen,Gunnar, ,FER, ,FER
 peteja,Petersen,Jacob A., ,FER, ,FER
 peteji,Petersson,Jim, ,SWE, ,SWE
@@ -274,8 +283,10 @@ rasmpa,Rasmussen,Pætur Ellingsgaard,17/12/1989,FER, ,FER
 rasmto,Rasmussen,Torri, ,FER, ,FER
 reinpe,Reinert,Petur,28/02/1978,FER, ,FER
 reitol,Reitala,Oliver, ,FIN, ,FIN
+remyjo,Remøy,Johannes,24/04/1998,NOR, ,NOR
 rothma,Roth,Matti,10/11/1993,FIN, ,FIN
 rovcmi,Rovcanin,Mirza,08/03/1988,SWE, ,SWE
+salehM,Saleh,Hana Mohammad, ,SWE, ,SWE
 samuhe,Samuelsen,Heðin,1957-09-30,FER, ,FER
 samusj,Samuelsen,Símun J., ,FER, ,FER
 sigueA,Sigurþórsson,Egill Arnar,21/09/1982,ISL, ,ISL
@@ -284,6 +295,7 @@ simojk,Simonsen,Jákup, ,FER, ,FER
 simope,Simonsen,Petur, ,FER, ,FER
 sinnsv,Sinnes,Svein Tore, ,NOR, ,NOR
 sjoeka,Sjöberg,Kaspar,16/05/1987,SWE, ,SWE
+skaarA,Skaalum,Rani Andrasson,15/11/1983,FER, ,FER
 skaara,Skaalum,Rani Andrasson,15/11/1983,FER, ,FER
 skarpe,Skarðenni,Petur,1977-12-09,FER, ,FER
 skorja,Skoradal,Jan,08/12/1974,FER, ,FER
@@ -316,6 +328,7 @@ weihei,Weihe,Eilif, ,FER, ,FER
 weihsa,Weihe,Sámal, ,FER, ,FER
 westde,West,Dánjal Eli,29/04/1993,FER, ,FER
 wilhmi,Wilhelm,Michael, ,FER, ,FER
+zachle,Zachariassen,Leivur,07/02/1994,FER, ,FER
 ziskar,Ziskasen,Arnfinn, ,FER, ,FER
 ziskfr,Ziska,Franklin, ,FER, ,FER
 ziskma,Ziska,Marius, ,FER, ,FER

@@ -1,4 +1,4 @@
-237
+256
 aabrha,Aabrekk,Harald, ,1956-02-22,NOR, ,NOR,harald-aabrekk
 aarsbj,Aarsheim,Bjarte,Bjarte Lunde Aarsheim,1975-01-14,NOR,Stavanger,NOR,bjarte-aarsheim
 aasxje,Aas,Jan Einar,Jan Einar Aas,1955-10-12,NOR, ,NOR,___
@@ -8,9 +8,11 @@ almqre,Almqvist,Reine, ,1949-04-12,SWE,Göteborg,SWE,reine-almqvist
 amunar,Amundsen,Arne,Arne Amundsen,1952-08-07,NOR, ,NOR,___
 amuntr,Amundsen,Trond, ,1971-03-30,NOR, ,NOR,trond-amundsen
 andeas,Andersen,Asle, ,1972-02-15,NOR,Stavanger,NOR,asle-andersen
+andrha,Andreassen,Harald, ,1965-07-10,NOR, ,NOR,harald-andreassen
 andrla,Andressen,Lars,Lars Petter Andressen,1986-09-24,NOR, ,NOR,lars-andressen
 andrma,Andresen,Martin, ,1977-02-02,NOR,Kråkstad,NOR,martin-andresen
 andrpe,Andreasen,Poul Erik, ,1949-12-17,DEN,Nørresundby,DEN,poul-erik-andreasen
+astero,Asterhed,Robin,Robin Hans Inge Asterhed,1987-07-29,SWE, ,SWE,robin-asterhed
 augujr,Augustsson,Jörgen,Jörgen Augustsson,1952-10-28,SWE, ,SWE,___
 auneto,Aune,Tom,Tom Freddy Aune,1970-06-03,NOR,Oslo,NOR,tom-aune
 backha,Backe,Hans,Hans Backe,1952-02-14,DEN, ,DEN,___
@@ -29,6 +31,7 @@ bjerje,Bjerk,Jan Erik, ,1965-01-23,NOR, ,NOR,jan-erik-bjerk
 bjerof,Flindt-Bjerg,Ove, ,1948-07-21,DEN,Ålborg,DEN,ove-flindt-bjerg
 bjoeaa,Bjørkan,Aasmund,Aasmund Karl Bjørkan,1973-07-03,NOR,Bodø,NOR,aasmund-bjoerkan
 bjoesi,Bjørnebye,Stig Inge, ,1969-12-11,NOR,Elverum,NOR,stig-inge-bjoernebye
+bjrkjo,Björklund,Joachim, ,1971-03-15,SWE,Vaxjö,SWE,joachim-bjoerklund
 bjrkka,Björklund,Karl-Gunnar,Karl-Gunnar Björklund,1953-12-02,SWE, ,SWE,___
 bohila,Bohinen,Lars,Lars Roar Bohinen,1969-09-08,NOR,Vadsø,NOR,lars-bohinen
 borgba,Borgersen,Bård,Bard Borgersen,1972-05-20,NOR,Kristiansand,NOR,bard-borgersen
@@ -73,12 +76,14 @@ fremoe,Fremo,Ole Erik,Ole Erik Fremo,1954-10-27,NOR, ,NOR,___
 fuglja,Fuglset,Jan,Jan Fuglset,1945-10-01,NOR, ,NOR,___
 garboe,Garborg,Øystein, ,0000-00-00,NOR, ,NOR,oeystein-garborg
 gareoe,Gåre,Øystein, ,1954-06-30,NOR, ,NOR,oeystein-gare
+georan,Georgson,Andreas, ,1982-02-21,SWE, ,SWE,andreas-georgson
 glomto,Glomnes,Torbjørn, ,1953-02-28,NOR, ,NOR,torbjoern-glomnes
 granes,Granli,Espen, ,1965-09-16,NOR, ,NOR,espen-granli
 grinjo,Grindhaug,Jostein, ,1973-02-20,NOR,Åkra,NOR,jostein-grindhaug
 grodfr,Grodås,Frode, ,1964-10-24,NOR,Volda,NOR,frode-grodas
 groean,Grönhagen,Anders, ,1953-05-22,SWE,Gudmundrå,SWE,anders-groenhagen
 gumuaS,Guðmundsson,Arnór Snær, ,1993-04-20,ISL, ,ISL,arnor-snaer-gudmundsson
+hagean,Hagen,Andreas, ,1986-02-16,NOR, ,NOR,andreas-hagen
 haglma,Haglund,Magnus, ,1973-04-15,SWE,Halmstad,SWE,magnus-haglund
 haldol,Haldorsen,Ola, ,1965-04-29,NOR,Kirkenes,NOR,ola-haldorsen
 hallgu,Halle,Gunnar, ,1965-08-11,NOR,Larvik,NOR,gunnar-halle
@@ -93,12 +98,16 @@ hareag,Hareide,Åge,Åge Fridtjof Hareide,1953-09-23,NOR,Ulsteinvik,NOR,age-hare
 haughe,Haugen,Helge, ,1982-02-15,NOR,Bergen,NOR,helge-haugen
 haugro,Hauge,Robert, ,1968-12-10,NOR, ,NOR,robert-hauge
 hegrku,Hegre,Kurt, ,1957-09-11,NOR, ,NOR,kurt-hegre
+helgto,Helgen,Torgeir, ,0000-00-00,NOR, ,NOR,torgeir-helgen
 helsga,Helstrup,Gaute,Gaute Ugelstad Helstrup,1976-05-15,NOR,Tromsö,NOR,gaute-helstrup
 henrtr,Henriksen,Trond,Trond Børge Henriksen,1964-04-28,NOR,Trondheim,NOR,trond-henriksen
 hodgro,Hodgson,Roy, ,1947-08-09,ENG,Croydon,ENG,roy-hodgson
 hoegpm,Høgmo,Per-Mathias, ,1959-12-01,NOR,Gratangen,NOR,per-mathias-hoegmo
 hoffiv,Hoff,Ivar,Ivar Hoff,1948-02-24,NOR, ,NOR,___
+holmda,Holm,Daniel,Daniel Fredheim Holm,1985-07-30,NOR,Oslo,NOR,daniel-holm
+holmga,Holme,Gard,Gard Johan Holme,1984-08-14,NOR, ,NOR,gard-holme
 holmro,Holmedal,Ronny, ,1976-11-13,NOR,Kvinnherad,NOR,ronny-holmedal
+holmth,Holm,Thomas, ,1981-02-19,NOR,Oslo,NOR,thomas-holm
 holtsi,Holtung,Sindre,Sindre Eia Holtung,0000-00-00,NOR, ,NOR,sindre-holtung
 hornei,Horneland,Eirik, ,1975-03-14,NOR,Haugesund,NOR,eirik-horneland
 hosema,Hoseth,Magne, ,1980-10-13,NOR,Averøy,NOR,magne-hoseth
@@ -112,6 +121,7 @@ jamtjo,Jamtfall,Jørn, ,1966-07-24,NOR,Trondheim,NOR,joern-jamtfall
 jensmo,Jensen,Morten, ,1980-03-09,NOR, ,NOR,morten-jensen_5
 jenstr,Jenssen,Truls,Truls Jenssen,1961-06-28,NOR, ,NOR,___
 joenja,Jönsson,Jan,Jan Anders Jönsson,1960-05-24,SWE,Halmstad,SWE,jan-joensson
+johaal,Johansson,Alfred, ,1990-09-13,SWE, ,SWE,alfred-johansson_4
 johabo,Johansson,Bo, ,1942-11-28,SWE,Kristdala,SWE,bo-johansson
 johaka,Johannessen,Karsten,Karsten Johannessen,1925-11-30,NOR, ,NOR,___
 johapA,Johansen,Pål Arne, ,1977-02-16,NOR, ,NOR,pal-arne-johansen
@@ -120,11 +130,13 @@ johatr,Johansen,Trond, ,1962-11-30,NOR,Sørreisa,NOR,trond-johansen
 johnch,Johnsen,Christian, ,1977-06-10,NOR, ,NOR,christian-johnsen
 johnfr,Johnsen,Frode, ,1974-03-17,NOR,Skien,NOR,frode-johnsen
 jonekj,Jonevret,Kjell, ,1962-06-28,SWE,Stockholm,SWE,kjell-jonevret
+jovima,Jovic,Marijo, ,1985-11-17,CRO,Osijek,CRO,marijo-jovic
 kalvmo,Kalvenes,Morten, ,1970-05-14,NOR, ,NOR,morten-kalvenes
 karlco,Karlsson,Conny,Conny Karlsson,1953-11-21,SWE, ,SWE,___
 karlke,Karlsson,Kent,Kent Karlsson,1945-11-25,SWE, ,SWE,___
 kjnxei,Kjønø,Eirik, ,1991-02-27,NOR, ,NOR,eirik-kjoenoe
 klanal,Økland,Arne Larsen,Arne Larsen Økland,1954-05-31,NOR, ,NOR,___
+klbojo,Klæboe,Joakim,Joakim Gunnar Klæboe,1975-12-12,NOR, ,NOR,joakim-klaeboe
 knudkj,Knudsen,Kjetil, ,1968-10-02,NOR,Arna,NOR,kjetil-knudsen
 knutha,Knutsen,Hans,Hans Kristian Knutsen,1955-01-28,NOR, ,NOR,hans-knutsen
 knutkj,Knutsen,Kjetil, ,1968-10-02,NOR,Arna,NOR,kjetil-knutsen
@@ -151,6 +163,7 @@ mjelmi,Mjelde,Mons Ivar, ,1967-11-17,NOR,Haus på Osterøy,NOR,mons-ivar-mjelde
 mlleul,Møller,Ulrich,Ulrich Møller,1962-12-11,NOR, ,NOR,___
 moener,Moen,Erik, ,0000-00-00,NOR, ,NOR,erik-moen
 moente,Moen,Teddy,Teddy Moen, ,NOR, ,NOR,___
+moesjo,Moesgaard,Johannes, ,1984-03-01,NOR, ,NOR,johannes-moesgaard
 moexer,Moe,Erling, ,1970-07-22,NOR,Molde,NOR,erling-moe
 monsgr,Monsen,Gregor, ,0000-00-00,NOR, ,NOR,gregor-monsen
 myhrpe,Myhre,Petter, ,1972-02-21,NOR, ,NOR,petter-myhre
@@ -166,12 +179,14 @@ norlri,Norling,Rikard,Rikard Olof Norling,1971-06-04,SWE,Stockholm,SWE,rikard-no
 normim,Normark,Ivar Morten, ,1963-05-27,NOR, ,NOR,ivar-morten-normark
 nornjf,Nornes,Jan Frode, ,1973-01-08,NOR,Tønsberg,NOR,jan-frode-nornes
 nygape,Nygård,Per Egil, ,1954-06-17,NOR, ,NOR,per-egil-nygard
+nylasa,Nyland,Sander,Sander Håskjold Nyland,1993-12-22,NOR, ,NOR,sander-nyland
 olseeg,Olsen,Egil,Egil Roger Olsen,1942-04-22,NOR,Fredrikstad,NOR,egil-olsen
 olseki,Olsen,Kjell Inge, ,1961-09-26,NOR, ,NOR,kjell-inge-olsen
 olssjo,Olsson,Jonas, ,1970-01-14,SWE,Göteborg,SWE,jonas-olsson_2
 opjoda,Opjordsmoen,Dag, ,1955-08-05,NOR, ,NOR,dag-opjordsmoen
 ordito,Ordinas,Toni,Antonio Ordinas Pou,1974-08-19,SPA,Palma de Mallorca,SPA,toni-ordinas
 ortija,Ortiz,Javier, ,1992-01-19,SPA, ,SPA,javier-ortiz_2
+orvasH,Þorvaldsson,Óskar Hrafn, ,1973-10-25,ISL, ,ISL,oskar-hrafn-thorvaldsson
 osvokj,Osvold,Kjetil,Kjetil Osvold,1961-06-05,NOR, ,NOR,___
 pedeer,Pedersen,Erik Ruthford,Erik Ruthford Pedersen,1946-02-14,NOR, ,NOR,___
 pedehe,Pedersen,Henrik, ,1978-01-02,DEN, ,DEN,henrik-pedersen_3
@@ -190,6 +205,7 @@ rnnikn,Rønningene,Knut, ,1987-01-05,NOR,Porsgrunn,NOR,knut-roenningene
 roesuw,Rösler,Uwe, ,1968-11-15,GER,Altenburg,GER,uwe-roesler
 rosbke,Rosbach,Kenneth, ,0000-00-00,NOR, ,NOR,kenneth-rosbach
 roseke,Rosén,Kenneth, ,1951-09-16,SWE,Sundsvall,SWE,kenneth-rosen
+rykaka,Ryłka,Kamil, ,1986-02-18,POL,Olsztyn,POL,kamil-rylka
 sagsru,Sagstad,Rune,Rune Sagstad,1955-05-17,NOR, ,NOR,___
 sandar,Sandstø,Arne, ,1966-10-21,NOR,Bergen,NOR,arne-sandstoe
 saunha,Saunes,Hallstein,Hallstein Saunes, ,NOR, ,NOR,___
@@ -197,6 +213,7 @@ sigesi,Sigernes,Svein Ivar,Svein Ivar Sigernes,1948-02-04,NOR, ,NOR,___
 sigmei,Sigmundstad,Einar,Einar Sigmundstad,1952-09-06,NOR, ,NOR,___
 skarru,Skarsfjord,Rune, ,1970-05-23,NOR,Narvik,NOR,rune-skarsfjord
 skarte,Skarsfjord,Terje, ,1942-06-28,NOR,Narvik,NOR,terje-skarsfjord
+skiram,Skiri,Amund,Amund Robertsen Skiri,1978-02-25,NOR,Åndalsnes,NOR,amund-skiri
 skisbo,Skistad,Boye,Boye Skistad,1948-03-04,NOR, ,NOR,___
 skisbr,Skistad,Brede,Brede Skistad,1948-03-04,NOR, ,NOR,___
 skulto,Skullerud,Tor,Tor Ole Skullerud,1970-12-10,NOR,Kongsvinger,NOR,tor-skullerud
@@ -219,7 +236,9 @@ svento,Svensson,Tommy,Leif Tommy Svensson,1945-03-04,SWE,Växjö,SWE,tommy-svens
 tandmo,Tandberg,Morten,Morten Tandberg Kallåk,1979-03-11,NOR, ,NOR,morten-tandberg
 tegsan,Tegström,Andreas,Andreas Ulrik Tegström,1979-01-18,SWE,Jönköping,SWE,andreas-tegstroem
 tennkr,Tennfjord,Kjell Roar,Kjell Roar Tennfjord,1953-12-17,NOR, ,NOR,___
+tettal,Tettey,Alexander,Alexander Banor Tettey,1986-04-04,NOR,Accra,GHA,alexander-tettey
 thodto,Thodesen,Tor, ,1966-03-03,NOR, ,NOR,tor-thodesen
+thommi,Thomassen,Mikkjal,Mikkjal Kjartansson Thomassen,1976-01-12,FER,Tórshavn,FER,mikkjal-thomassen
 thorch,Thorbjørnsen,Christian, ,1980-10-04,NOR, ,NOR,christian-thorbjoernsen
 thorgu,Þórðarson,Guðjón, ,1955-09-14,ISL,Akranes,ISL,gudjon-thordarson
 thorha,Thoresen,Hallvar,Hallvar Thoresen,1957-04-12,NOR, ,NOR,___

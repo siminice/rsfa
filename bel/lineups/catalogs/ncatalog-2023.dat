@@ -28,7 +28,7 @@ slimis,Slimani,Islam,1988-06-18,ALG,1,13,A,10,7,3,8,  631,3,0,0,0,2,0,2,0
 staslu,Stassin,Lucas,2004-11-29,BEL,1,76,A,3,2,1,0,  110,0,2,0,0,0,0,0,0
 stroma,Stroeykens,Mario,2004-09-29,BEL,1,29,A,25,11,14,4, 1126,3,6,0,0,0,0,3,0
 trebad,Trebel,Adrien,1991-03-03,FRA,1,25,M,11,6,5,0,  575,3,3,0,0,0,0,3,0
-cromhv,Van Crombrugge,Hendrik,1993-04-30,BEL,1,30,P,17,17,0,0, 1530,17,16,-25,0,0,0,1,0
+cromhv,Van Crombrugge,Hendrik,1993-04-30,BEL,1,30,P,17,17,0,0, 1530,17,16,-23,0,0,0,1,0
 verbba,Verbruggen,Bart,2002-08-18,NED,1,16,P,17,17,0,0, 1530,17,13,-21,0,0,0,0,0
 versya,Verschaeren,Yari,2001-07-12,BEL,1,10,M,28,26,2,2, 2245,16,0,0,0,0,0,2,0
 vertja,Vertonghen,Jan,1987-04-24,BEL,1,14,F,25,24,1,1, 2195,24,0,0,0,0,0,3,0
@@ -55,7 +55,7 @@ miyoko,Miyoshi,Koji,1997-03-26,JAP,3,19,M,10,9,1,1,  639,1,0,0,0,0,0,1,0
 mujaar,Muja,Arbnor,1998-11-29,KOS,3,11,A,27,21,6,3, 1747,8,1,0,0,0,0,4,0
 nainra,Nainggolan,Radja,1988-05-04,BEL,3, , ,12,7,5,1,  667,0,0,0,0,0,0,2,0
 nsimbr,Nsimba,Bruny,2000-04-05,BEL,3, , ,10,0,10,1,  123,0,2,0,0,0,0,0,0
-pachwi,Pacho,William,2001-10-16,ECU,3,51,F,39,39,0,0, 3384,32,1,0,0,0,0,4,0
+pachwi,Pacho,Willian,2001-10-16,ECU,3,51,F,39,39,0,0, 3384,32,1,0,0,0,0,4,0
 scotch,Scott,Christopher,2002-06-07,GER,3,32,M,22,0,22,1,  319,0,6,0,0,0,0,1,0
 smitmi,Smits,Milan,2004-11-13,BEL,3,88,M,1,0,1,0,    4,0,1,0,0,0,0,0,0
 sousab,Soussi,Abderahmane,2003-01-30,BEL,3,17,A,1,1,0,0,   90,1,3,0,0,0,0,0,0
@@ -387,7 +387,6 @@ schejo,Schelfhout,Jordy,2001-01-01,BEL,19,22,P,0,0,0,0,    0,0,2,0,0,0,0,0,0
 tangan,Tanghe,Anton,1999-01-28,BEL,19,33,F,30,29,1,0, 2480,25,2,0,0,0,0,5,1
 urhoos,Urhoghide,Osaze,2000-07-04,ENG,19,2,F,27,24,3,0, 2118,19,1,0,0,0,0,5,2
 wylisi,Wylin,Siebe,2003-05-27,BEL,19,36,F,10,3,7,0,  310,0,5,0,0,0,0,0,0
-tamamA,Al Tamari,Musa,1997-06-10,JOR,71,11,A,34,30,4,6, 2767,20,0,0,0,0,0,4,0
 buksal,Buksa,Aleksander,2003-01-15,POL,71, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
 chakso,Chakla,Soufiane,1993-09-02,MAR,71, , ,0,0,0,0,    0,0,4,0,0,0,0,0,0
 cojova,Cojocaru,Valentin,1995-10-01,ROM,71,12,P,34,34,0,0, 3060,34,0,-48,0,0,0,1,0
@@ -519,7 +518,7 @@ amalse,Amallah,Selim,1996-11-15,BEL,2, , ,9,9,0,4,  796,7,0,0,0,3,0,3,1
 baliwi,Balikwisha,William,1999-05-12,BEL,2,22,M,36,32,4,6, 2536,8,0,0,0,0,0,2,1
 banssa,Banse,Sacha,2001-03-16,BEL,2,31,M,1,0,1,0,   11,0,0,0,0,0,0,0,0
 berbra,Berberi,Rayan,2004-03-18,LUX,2,46,M,0,0,0,0,    0,0,2,0,0,0,0,0,0
-bodaar,Bodart,Arnaud,1998-03-11,BEL,2,16,P,40,40,0,0, 3599,39,0,-59,0,0,0,2,1
+bodaar,Bodart,Arnaud,1998-03-11,BEL,2,16,P,40,40,0,0, 3599,39,0,-60,0,0,0,2,1
 bokame,Bokadi,Merveille,1996-05-21,DRC,2,20,F,37,34,3,1, 3093,32,0,0,-1,0,0,4,0
 boljal,Boljević,Aleksandar,1995-12-12,MNT,2, , ,7,2,5,0,  204,0,0,0,0,0,0,1,0
 buksal,Buksa,Aleksander,2003-01-15,POL,2,44,A,0,0,0,0,    0,0,1,0,0,0,0,0,0

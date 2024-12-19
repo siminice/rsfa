@@ -1,4 +1,4 @@
-1001
+1021
 Steaua         Steaua Bucuresti
 Dinamo         Dinamo Bucuresti
 Craiova        Universitatea Craiova
@@ -6,7 +6,7 @@ Rapid          Rapid Bucuresti
 Petrolul       Petrolul Ploiesti
 Progresul      Progresul Bucuresti
 Arges          FC Arges Pitesti
-Bacau          FCM Bacau
+FCM Bacau      FCM Bacau
 Brasov         FC Brasov
 Farul          FC Farul Constanta
 Otelul         Otelul Galati
@@ -25,7 +25,7 @@ Falticeni      Foresta Falticeni
 Fieni          Cimentul Fieni
 Focsani        Unirea Focsani
 Tractorul      Tractorul Brasov
-Iasi           FC Politehnica Iasi
+Old Iasi       FC Politehnica Iasi
 Metrom         Metrom Brasov
 Sportul Stud.  Sportul Studentesc Buc.
 Buzau          Gloria Buzau
@@ -102,7 +102,7 @@ Oltul Slatina  Oltul Slatina
 Constr TCI     Constructorul TCI Craiova
 Alexandria     Unirea Alexandria
 Rosiori        AS Municipal ROVA Rosiori
-Astra II       Dunarea Giurgiu
+Giurgiu        Dunarea Giurgiu
 Pantelimon     Turistul Pantelimon
 Atletic        FC Atletic Bucuresti
 Inter-Gaz      Inter-Gaz Bucuresti
@@ -290,7 +290,7 @@ Negresti       Unirea Negresti
 Juv.Focsani    Juventus Focsani
 Ambianta       AS Ambianta Valea Ciorii
 Bolintin       Petrolul Bolintin Vale
-Breaza         Tricolorul Breaza
+Iasi           Tricolorul Breaza
 Pet.Targoviste Petrolul Steaua Targoviste
 Armata Craiova CS Armata Craiova
 Novaci         FC Senaco Novaci
@@ -301,7 +301,7 @@ Ineu           Tricotaje Ineu
 Otelu Rosu     Metalul Otelu Rosu
 Voluntari      AS Voluntari
 Zimnicea       Dunarea Zimnicea
-Leordeni       Francesca Popesti-Leordeni
+Francesca      Francesca Popesti-Leordeni
 Filatura       Filatura Falticeni
 Harlau         Viitorul Hârlau
 Otopeni        CS Otopeni
@@ -777,7 +777,7 @@ Olimpia Resita Olimpia Reºiþa
 Hidro Sibiu    Hidrotehnica Sibiu
 Vointa Tecuci  Voinþa Tecuci
 Merei          Partizanul Merei
-Baia TL        Stãruinþa Baia
+Hamangia       Baia Tulcea
 Chindia        Progresul Gorgota
 Albota         AS Albota
 Turcinesti     Ralbex Turcineºti
@@ -925,7 +925,7 @@ Turceni        CS ªtiinþa Turceni
 Jucu           CS Unirea Jucu
 Maramures      FC Maramures Baia Mare
 Papauti        FC Pãpãuþi
-CSUC           CSU Craiova
+CSU Craiova    CSU Craiova
 Barsana        CS Avântul Bârsana
 Sepsi          ACS Sepsi OSK Sf.Gheorghe
 Borca          Bradu Borca
@@ -941,7 +941,7 @@ Sporting Turnu ACS Sporting Turnu
 Voluntari II   FC Voluntari II
 Harman         AFC Înfrãþirea Hãrman
 Ighiu          ACS Performanþa Ighiu
-CSU Craiova II CSU Craiova II
+CSU II         CSU Craiova II
 Recea          ASF Comuna Recea
 Branceni       Unirea BrÅ“nceni
 Valea Marului  Avântul Valea Mãrului
@@ -1000,3 +1000,23 @@ Paulesti       CS PÄƒuleÅŸti
 Buzias         CS Phoenix BuziaÅŸ
 Univ AI        CS Universitatea Alba Iulia
 Dinamo Buc     CS Dinamo BucureÅŸti
+CSM Vaslui     CSM Vaslui
+Curita         CS Viitorul CuriÅ£a
+Sutesti        ACS Viitorul ÅžuÅ£eÅŸti
+Fundulea       ACS Progresul Fundulea
+Breaza         CSO Tricolorul Breaza
+FCU Craiova II FC Universitatea Craiova II
+Peciu Nou      CSC Peciu Nou
+Socodor        CS Socodor
+Santandrei     ACSC CriÅŸul SÃ¢ntandrei
+Curtisoara     ACS Oltul CurtiÅŸoara
+LPS Clinceni   LPS HD Clinceni
+USV Iasi       USV IaÅŸi
+Sport Team     ACS Sport Team BucureÅŸti
+Speed Academy  ACS Speed Academy PiteÅŸti
+Farcasesti     CS Vulturii FÄƒrcÄƒÅŸeÅŸti
+Sparta RmV     ATCS Sparta RÃ¢mnicu VÃ¢lcea
+Sag            CS TimiÅŸul Åžag
+Viitorul Arad  ACS Viitorul Arad
+Mintiu Gherlii ACS Vulturul Mintiu Gherlii
+FC Dinamo      ACS FC Dinamo BucureÅŸti
