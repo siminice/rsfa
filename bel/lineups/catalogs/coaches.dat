@@ -1,6 +1,7 @@
-488
+502
 ackerv,Van Acker,Régi,1955-04-25,BEL,Beveren,BEL
 akpajo,Akpala,Joseph,1986-08-24,NGR,Jos,NGR
+alexfr,Alexandersson,Freyr,1982-11-18,ISL,Reykjavík,ISL
 alisen,Ališić,Enver,1946-11-11,BOS, ,BOS
 anasgi,Anastasiou,Giannis,1973-03-05,GRE,Arta,GRE
 andekr,Andersen,Kristoffer,1985-12-09,DEN,Etterbeek,BEL
@@ -36,7 +37,6 @@ blesal,Blessin,Alexander,1973-05-28,GER,Stuttgart,GER
 boccda,Boccar,Daniel,0000-00-00,BEL, ,BEL
 bodagi,Bodart,Gilbert,1962-09-02,BEL,Ougrée,BEL
 boecgd,De Boeck,Glen,1971-08-22,BEL,Boom,BEL
-boell1,Bölöni,László,1953-03-11,ROM,Târgu Mureş,ROM
 boella,Bölöni,Ladislau,1953-03-11,ROM,Târgu Mureş,ROM
 bollan,Bollen,André,1927-01-01,BEL, ,BEL
 bolled,De Bolle,Edy,1949-09-26,BEL, ,BEL
@@ -65,10 +65,13 @@ brysma,Brys,Marc,1962-05-10,BEL,Antwerpen,BEL
 buffth,Buffel,Thomas,1981-02-19,BEL,Brugge,BEL
 buijda,Buijs,Danny,1982-06-21,NED,Dordrecht,NED
 bulane,Bulatovic,Nedeljko,1938-04-19,SRB, ,SRB
+burcia,Burchnall,Ian,1983-02-11,ENG,Leicester,ENG
 bussro,Busschots,Roger,1938-09-16,BEL, ,BEL
+caapca,Caçapa, ,1976-05-29,BRA,Lavras,BRA
 caengi,Caen,Gino,1965-04-16,BEL, ,BEL
 caerth,Caers,Thomas,1973-01-14,BEL, ,BEL
 caluto,Caluwé,Tom,1978-04-11,BEL,Rumst,BEL
+camaid,de Camargo,Igor,1983-05-12,BEL,Porto Feliz,BRA
 canjle,Canjels,Leonard,1933-04-01,NED, ,NED
 carrla,Carré,Louis Aimé,1925-01-07,BEL, ,BEL
 cartal,Cartier,Albert,1960-11-22,FRA,Verdun,FRA
@@ -81,6 +84,7 @@ claeje,Claes,Jean,1934-08-07,BEL, ,BEL
 clempa,Clement,Paul,1972-01-08,ENG,London,ENG
 clemph,Clement,Philippe,1974-03-22,BEL,Antwerpen,BEL
 clijle,Clijsters,Lei,1956-11-09,BEL,Opitter,BEL
+clmero,Clément,Roel,1974-01-26,BEL, ,BEL
 colaan,Colasse,André,1943-04-29,BEL, ,BEL
 colljo,Collins,John,1968-01-31,SCO,Galashiels,SCO
 coloje,Colonval,Jean-Paul,1940-02-02,BEL, ,BEL
@@ -154,6 +158,7 @@ fernvi,Fernández,Víctor,1960-11-28,SPA,Zaragoza,SPA
 ferrem,Ferrera,Emilio,1967-06-19,BEL,Schaarbeek,BEL
 ferrma,Ferrera,Manu,1958-10-21,BEL, ,BEL
 ferrya,Ferrera,Yannick,1980-09-24,BEL,Uccle,BEL
+finkth,Fink,Thorsten,1967-10-29,GER,Dortmund,GER
 frivta,Frivaldski,Tamas,1940-08-30,HUN, ,HUN
 frutni,Frutos,Nicolás,1981-05-13,ARG,Santa Fe,ARG
 galjha,Galjé,Hans,1957-02-21,NED,Delft,NED
@@ -174,6 +179,7 @@ geyspi,Geys,Pierre,1948-04-29,BEL, ,BEL
 gibbni,Gibbs,Nigel,1965-11-20,ENG,St. Albans,ENG
 goetra,Goethals,Raymond,1921-10-07,BEL,Vorst,BEL
 goetrc,Goethals,Robert,1922-06-16,BEL, ,BEL
+goorba,Goor,Bart,1973-04-09,BEL,Neerpelt,BEL
 grafhe,Graf,Helmuth,1946-02-11,GER, ,GER
 gresgi,Gress,Gilbert,1941-12-14,FRA, ,FRA
 grijha,Grijzenhout,Johan,1932-12-22,NED,Amsterdam,NED
@@ -216,6 +222,7 @@ hulsba,Hulshoff,Barry,1946-09-30,NED,Deventer,NED
 hummka,Hummenberger,Karl,1906-10-27,FRA, ,FRA
 iannmi,Iannacone,Michel,1960-01-25,BEL, ,BEL
 ingeka,Ingebrigtsen,Kåre,1965-11-11,NOR,Trondheim,NOR
+irlebr,Irles,Bruno,1975-08-16,FRA,Rochefort,FRA
 ivenjo,Ivens,Jonas,1984-10-14,BEL,Beveren,BEL
 ivicto,Ivić,Tomislav,1933-06-30,CRO,Split,CRO
 ivosal,Ivos,Aleksandar,1934-06-28,SRB, ,SRB
@@ -229,6 +236,7 @@ jansro,Jans,Ron,1958-09-29,NED,Zwolle,NED
 janswm,Jansen,Wilhelmus Marinus Anthoniu,1946-10-28,NED, ,NED
 jeanps,Saint-Jean,Philippe,1954-05-13,BEL, ,BEL
 jeunjo,Jeunechamps,José,1967-05-02,BEL,Verviers,BEL
+joncmi,Jonckheere,Michiel,1990-01-03,BEL,Oostende,BEL
 jongmd,de Jong,Max,1968-12-11,NED,Den Haag,NED
 jordau,Jordan,August,1909-09-21,BEL, ,BEL
 josebs,José,Beñat San,1979-09-24,SPA,San Sebastián,SPA
@@ -241,6 +249,7 @@ kessge,Keßler,Georg,1932-09-23,GER,Saarbrücken,GER
 ketspv,van Kets,Patrick,1966-12-12,BEL, ,BEL
 knaeju,Knaepen,Jules,1948-10-26,BEL, ,BEL
 knobge,Knobel,George,1922-12-10,NED, ,NED
+kohffl,Kohfeldt,Florian,1982-10-05,GER,Siegen,GER
 kohnan,Kohn,Antoine,1933-11-01,LUX, ,LUX
 kompvi,Kompany,Vincent,1986-04-10,BEL,Ukkel,BEL
 konjvl,Konjevod,Vladko, ,SRB, ,SRB
@@ -299,6 +308,7 @@ mercfa,Mercadal,Fabien,1972-02-29,FRA,Manosque,FRA
 mertra,Mertens,Raymond,1933-07-19,BEL, ,BEL
 meurro,Meuris,Robert,1907-03-14,FRA, ,FRA
 mijaze,Mijač,Željko,1954-01-13,CRO,Split,CRO
+milida,Miličević,Danijel,1986-01-05,BOS,Bellinzona,SUI
 milxrD,De Mil,Rik,1981-09-15,BEL,Eeklo,BEL
 moerwv,Van Moer,Wilfried,1945-03-01,BEL, ,BEL
 mommra,Mommens,Raymond,1958-12-27,BEL,Lebbeke,BEL
@@ -368,6 +378,7 @@ riembr,Riemer,Brian,1978-09-22,DEN, ,DEN
 rigajo,Riga,José,1957-07-30,BEL,Liège,BEL
 rijvcb,Rijvers,Cornelus Bernardus,1926-05-27,NED, ,NED
 riouan,Riou,André,1915-01-01,FRA, ,FRA
+robefr,Robertson,Frazer,0000-00-00,SCO, ,SCO
 robxed,Rob,Eddie,1969-02-05,BEL, ,BEL
 roecjd,De Roeck,Jonas,1979-12-20,BEL,Barcelona,SPA
 roeled,Roelandt,Eddy,1946-11-09,BEL, ,BEL
@@ -377,6 +388,7 @@ rottro,Rotty,Roland,1940-04-25,BEL, ,BEL
 rouvsi,Rouvrois,Sil,1989-12-21,BEL, ,BEL
 rumsjv,Van Rumst,Johan,1977-12-30,BEL,Lier,BEL
 ruttfr,Rutten,Fred,1962-12-05,NED,Wijchen,NED
+scarsc,Óscar, ,1973-04-26,SPA,Sabadell,SPA
 schima,Schirschin,Maksymilian,1921-01-29,GER, ,GER
 schmde,Schmitt,Dennis,1993-05-27,GER,Aschaffenburg,GER
 schofr,Schollmeyer,Fritz,1922-06-19,GER, ,GER
@@ -424,6 +436,7 @@ tilmfr,Tilmant,Frédéric,1969-05-04,BEL, ,BEL
 tipuje,Tipurić,Jerko,1960-06-14,CRO,Konjic,BOS
 tomaja,Tomaszewski,Jan,1948-01-09,POL, ,POL
 torrja,Torrente,Javier,1969-06-08,ARG,Rosario,ARG
+tourya,Touré,Yaya,1983-05-13,CIV,Bouaké,CIV
 trosre,Trost,René,1965-01-31,NED,Kerkrade,NED
 uldean,Ulderink,Andries,1969-07-30,NED,Zwolle,NED
 valege,Valenne,Geoffrey,1977-04-15,BEL, ,BEL
@@ -439,6 +452,7 @@ vandju,Vandooren,Jules,1908-12-30,FRA, ,FRA
 vandlu,Vanderschommen,Lucas,1954-09-21,BEL, ,BEL
 vandre,Vandereycken,René,1953-07-22,BEL,Spalbeek,BEL
 vandyv,Vanderhaeghe,Yves,1970-01-30,BEL,Roeselaere,BEL
+vanhed,Vanhemel,Eddy,1969-09-30,BEL, ,BEL
 vanhhe,Vanhaezebrouck,Hein,1964-02-16,BEL,Kortrijk,BEL
 vanler,Vanlessen,Eric,1948-07-24,BEL, ,BEL
 veldhv,van Veldhoven,Harm,1962-09-28,BEL,Luyksgestel,NED

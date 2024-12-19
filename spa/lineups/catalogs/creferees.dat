@@ -1,4 +1,4 @@
-556
+563
 abadjc,Abad,José Manuel Carreira,José Manuel Carreira Abad,13/07/1941,SPA,Arzúa,SPA,jose-carreira-abad
 aguadS,Aguado,Diego Santaúrsula,Diego Santaúrsula Aguado, ,SPA, ,SPA,diego-santaursula-aguado
 aguafd,Aguado,Francisco David,Francisco David Aguado, ,SPA,Valencia,SPA,francisco-david-aguado
@@ -111,6 +111,7 @@ costro,Costa,Rodriguez,Rodriguez Costa, ,SPA, ,SPA,rodriguez-costa
 creslc,Crespo,Luis María Contador,Luis María Contador Crespo,21/06/1959,SPA,Santurtzi,SPA,luis-contador-crespo
 cruzdl,La Cruz,De,De La Cruz, ,SPA, ,SPA,de-la-cruz
 cuadsl,Cuadrado,Santiago López,Santiago López Cuadrado,03/09/1936,SPA,Almería,SPA,santiago-lopez-cuadrado
+dapaaP,Dapía,Abraham Pérez,Abraham Pérez Dapía, ,SPA, ,SPA,abraham-perez-dapia
 davicm,Dávila,Carlos Megía,Carlos Megía Dávila,07/07/1966,SPA,Madrid,SPA,carlos-megia-davila
 delgag,Delgado,Amador García,Amador García Delgado, ,SPA,Cádiz,SPA,amador-garcia-delgado
 delgjm,Delgado,Javier Moreno,Javier Moreno Delgado,24/03/1968,SPA,Premiá de Mar,SPA,javier-moreno-delgado
@@ -123,6 +124,7 @@ diazmv,Díaz,Manuel Vico,Manuel Vico Díaz,15/04/1951,SPA,Cantillana,SPA,manuel-
 diazpg,Díaz,Plácido González,Plácido González Díaz,04/07/1905,SPA,Bilbao,SPA,placido-gonzalez-diaz
 domija,Domínguez,José Acle,José Acle Domínguez, ,SPA, ,SPA,jose-acle-dominguez
 domirr,Domínguez,Rafael Ramírez,Rafael Ramírez Domínguez,17/09/1965,SPA,Córdoba,SPA,rafael-ramirez-dominguez
+duraaP,De Durana,Asier Pérez De Mendiola González,Asier Pérez De Mendiola González De Durana, ,SPA, ,SPA,asier-perez-de-mendiola
 echejg,Echeverría,José González,José González Echeverría, ,SPA, ,SPA,jose-gonzalez-echeverria
 echeld,Echevarría,Luis Del Campo,Luis Del Campo Echevarría, ,SPA,Vizcaya,SPA,luis-del-campo-echevarria
 eguijg,Eguiluz,José María Gojenuri,José María Gojenuri Eguiluz, ,SPA, ,SPA,jose-gojenuri-eguiluz
@@ -159,6 +161,7 @@ ferran,Ferrer,Ángel,Ángel Ferrer, ,SPA, ,SPA,angel-ferrer
 ferrcd,Ferreiro,Carlos Delgado,Carlos Delgado Ferreiro,04/09/1970,SPA,Portugalete,SPA,carlos-delgado-ferreiro
 ferrer,Ferreiros,Enrique José Ramos,Enrique José Ramos Ferreiros, ,SPA, ,SPA,enrique-ramos-ferreiros
 ferrjr,Ferragut,José Ramón,José Ramón Ferragut, ,SPA, ,SPA,jose-ramon-ferragut
+ferrmB,Ferrer,Mateo Busquets,Mateo Busquets Ferrer,31/10/1993,SPA,Palma de Mallorca,SPA,mateo-busquets-ferrer
 fiolms,Fiol,Mateo Simó,Mateo Simó Fiol,00/00/1917,SPA,Palma de Mallorca,SPA,mateo-simo-fiol
 fontcn,Font,César Manuel Noval,César Manuel Noval Font, ,SPA, ,SPA,cesar-noval-font
 fortjo,Fortuny,Jaime Oliva,Jaime Oliva Fortuny,00/00/1929,SPA,La Secuita,SPA,jaime-oliva-fortuny
@@ -286,11 +289,13 @@ lopeml,López,Miguel López,Miguel López López,09/07/1967,SPA,Guadalajara,SPA,
 lopemm,López,Miguel Ángel Marín,Miguel Ángel Marín López,29/09/1950,SPA,Calahorra,SPA,miguel-marin-lopez
 lopeso,López,Soliva,Soliva López, ,SPA, ,SPA,soliva-lopez
 lozagd,De Loza,Raoul Garcia,Raoul Garcia De Loza,27/07/1946,SPA, ,SPA,garcia-de-loza
+lozajF,Lozano,José Francisco García,José Francisco García Lozano, ,SPA, ,SPA,jose-francisco-garcia-lozano
 lpeziA,López,Ignacio Alonso,Ignacio Alonso López, ,SPA, ,SPA,ignacio-alonso-lopez
 ludejs,Ludeuvik,José María Steimborn,José María Steimborn Ludeuvik, ,SPA,San Sebastián,SPA,jose-steimborn-ludeuvik
 lunajj,Luna,José Jiménez,José Jiménez Luna, ,SPA, ,SPA,jose-jimenez-luna
 macefm,Maceiras,Federico Mosquera,Federico Mosquera Maceiras, ,SPA, ,SPA,federico-mosquera-maceiras
 madrbj,Madrid,Bartolomé Jiménez,Bartolomé Jiménez Madrid,00/00/1937,SPA,Murcia,SPA,bartolome-jimenez-madrid
+maesfJ,Maeso,Francisco José Hernández,Francisco José Hernández Maeso, ,SPA, ,SPA,francisco-hernandez-maeso
 magats,Magán,Teodoro Sobrino,Teodoro Sobrino Magán, ,SPA, ,SPA,teodoro-sobrino-magan
 mallau,Mallenco,Alberto Undiano,Alberto Undiano Mallenco,08/10/1973,SPA,Pamplona,SPA,alberto-undiano-mallenco
 manrjn,Manrique,José Núñez,José Núñez Manrique,01/10/1953,SPA,Aranjuez,SPA,jose-nunez-manrique
@@ -477,6 +482,7 @@ ruizmc,Ruiz,Manuel Cerezuela,Manuel Cerezuela Ruiz,00/00/1930,SPA,Murcia,SPA,man
 ruizru,Ruiz, ,Ruiz, ,SPA, ,SPA,ruiz
 saavfs,Saavedra,Fernando Sosa,Fernando Sosa Saavedra, ,SPA, ,SPA,fernando-sosa-saavedra
 sabufg,Sabuco,Francisco Javier García,Francisco Javier García Sabuco, ,SPA, ,SPA,francisco-garcia-sabuco
+sacrgS,Sacristán,Guillermo Santiago,Guillermo Santiago Sacristán, ,SPA, ,SPA,guillermo-santiago-sacristan
 saezlc,Sáez,Luis Cote,Luis Cote Sáez,01/01/1975,SPA, ,SPA,luis-cote-saez
 saineg,Sáinz,Enrique Gascón,Enrique Gascón Sáinz, ,SPA,Madrid,SPA,enrique-gascon-sainz
 saleje,Sales,José Enguix,José Enguix Sales, ,SPA, ,SPA,jose-enguix-sales
@@ -537,6 +543,7 @@ vegamd,Vega,Manuel Díaz,Manuel Díaz Vega,01/09/1954,SPA, ,SPA,manuel-diaz-vega
 vegarc,Vega,Rafael Clausí De la,Rafael Clausí De la Vega,00/00/1928,SPA,Valencia,SPA,rafael-clausi-de-la-vega
 velaju,Velázquez,Joaquín Urío,Joaquín Urío Velázquez,18/04/1947,SPA,San Sebastián,SPA,joaquin-urio-velazquez
 velath,Velázquez,Teodosio Hernández,Teodosio Hernández Velázquez,00/00/1947,SPA,Valladolid,SPA,teodosio-hernandez-velazquez
+verdvG,Verdura,Víctor García,Víctor García Verdura, ,SPA, ,SPA,victor-garcia-verdura
 vicajd,Vicario,José De Mazagatos,José De Mazagatos Vicario, ,SPA, ,SPA,jose-de-mazagatos-vicario
 vidavi,Vidal, ,Vidal, ,SPA, ,SPA,vidal
 villcl,Villate,Carlos Andrés López,Carlos Andrés López Villate,17/11/1965,SPA, ,SPA,carlos-lopez-villate

@@ -1,9 +1,11 @@
-131
+143
 aagesF,Aagerup,Sebastian Friis, ,DEN, ,DEN
 abilbo,Abildgaard,Bo,20/05/1963,DEN, ,DEN
 andeda,Andersen,David Vang, ,DEN, ,DEN
 andepk,Kjærsgaard-Andersen,Peter,30/04/1984,DEN, ,DEN
 antome,Antoniou,Menelaos, ,CYP, ,CYP
+argyan,Argyrou,Andreas, ,CYP, ,CYP
+athaky,Athanasiou,Kyriakos, ,CYP, ,CYP
 bgeljo,Bøgelund,Jonas, ,DEN, ,DEN
 billja,Bille,Jakob, ,DEN, ,DEN
 bkxxjo,Bæk,Jonas, ,DEN, ,DEN
@@ -13,10 +15,12 @@ boriel,Borić,Elvis,28/06/1989,DEN, ,DEN
 bramst,Bramsen,Steffen Beck,16/01/1990,DEN, ,DEN
 brixch,Brixen,Christian,00/00/1981,DEN, ,DEN
 burcjo,Burchardt,Jørgen Daugbjerg,30/11/1982,DEN,Varde,DEN
+chargi,Charalambous,Giorgos, ,CYP, ,CYP
 chrila,Christoffersen,Lars,14/10/1972,DEN, ,DEN
 chrini,Christensen,Nikolaj,26/05/1990,DEN, ,DEN
 chrire,Christensen,René,02/08/1969,DEN, ,DEN
 chrisv,Christensen,Svend Erik,17/03/1949,DEN, ,DEN
+cortda,Cortzen,Daniel,27/07/1995,DEN, ,DEN
 dahlje,Dahl,Jesper,30/07/1982,DEN, ,DEN
 damgja,Damgaard,Jan,22/04/1953,DEN, ,DEN
 deroes,Deronjić,Esad,07/04/1991,DEN, ,DEN
@@ -25,6 +29,7 @@ feddsu,Feddersen,Sune,26/03/1989,DEN, ,DEN
 fiskke,Fisker,Knud Erik,17/09/1960,DEN, ,DEN
 gammpR,Gammelholm,Patrick Remon, ,DEN, ,DEN
 gantjo,Gantfeldt,John, ,DEN, ,DEN
+georpa,Georgiou,Pavlos,13/07/1984,CYP,Larnaka,CYP
 gernla,Gerner,Lars,08/05/1960,DEN, ,DEN
 graalL,Graagaard,Lasse Læbel, ,DEN, ,DEN
 haldja,Hald,Jan,23/11/1960,DEN, ,DEN
@@ -35,6 +40,7 @@ hanscG,Hansen,Christian Ginderskov, ,DEN, ,DEN
 hanshe,Hansen,Henrik,14/06/1986,DEN, ,DEN
 hansjo,Hansen,Jonas,07/04/1987,DEN, ,DEN
 hanske,Hansen,Kenn,29/05/1980,DEN, ,DEN
+hansmK,Hansen,Morten Krogh, ,DEN, ,DEN
 hansol,Hansen,Ole V.,27/06/1963,DEN, ,DEN
 harada,Haramija,Darko,00/00/1978,DEN, ,CRO
 heerni,Heer,Nils, ,DEN, ,DEN
@@ -58,6 +64,7 @@ knudhe,Knudsen,Henning,02/10/1954,DEN, ,DEN
 knudpa,Knudsen,Paul, ,DEN, ,DEN
 knudst,Knudsen,Steen,01/07/1961,DEN, ,DEN
 koldda,Kolding,Danny, ,DEN, ,DEN
+kontgi,Kontemeniotis,Giorgos, ,CYP, ,CYP
 kraghe,Kragh,Henrik Nystrup,05/04/1973,DEN, ,DEN
 krisca,Kristensen,Casper, ,DEN, ,DEN
 krishe,Kristensen,Henrik Funder, ,DEN, ,DEN
@@ -90,6 +97,7 @@ nielkm,Nielsen,Kim Milton,03/08/1960,DEN,Kopenhagen,DEN
 niella,Nielsen,Lars Winther, ,DEN, ,DEN
 noeran,Nørrestrand,Anders,18/09/1975,DEN, ,DEN
 noerda,Nørgaard,Daniel Richardt Krogstrup,00/00/1984,DEN, ,DEN
+nrgadR,Nørgaard,Daniel Richardt Krogstrup,00/00/1984,DEN, ,DEN
 nybepa,Nyberg,Paul, ,DEN, ,DEN
 oestka,Østergaard,Kaj,03/04/1951,DEN, ,DEN
 oguzde,Oğuz,Derya,00/00/1975,DEN, ,DEN
@@ -97,6 +105,7 @@ overje,Overgaard,Jesper,22/09/1974,DEN, ,DEN
 paltar,Paltoft,Arne,25/09/1948,DEN, ,DEN
 pedebb,Pedersen,Bo Blankholm,04/06/1960,DEN, ,DEN
 pedest,Pedersen,Steen,05/07/1960,DEN, ,DEN
+peteal,Petersen,Alex,25/01/1996,DEN, ,DEN
 poulan,Poulsen,Anders,04/06/1981,DEN, ,DEN
 poulla,Poulsen,Lars Östergaard, ,DEN, ,DEN
 poulto,Poulsen,Tonny Kolbech,02/07/1965,DEN, ,DEN
@@ -106,6 +115,7 @@ qvisbr,Qvist,Brian, ,DEN, ,DEN
 rasmde,Rasmussen,Dennis Wollenberg,00/00/1979,DEN, ,DEN
 rasmmi,Rasmussen,Michael,08/05/1989,DEN, ,DEN
 rasmpe,Rasmussen,Peter,15/10/1975,DEN,Odense,DEN
+rasmsD,Rasmussen,Simon Duerlund,03/02/1986,DEN, ,DEN
 reddmi,Redder,Mikkel, ,DEN, ,DEN
 risure,Risum,René, ,DEN, ,DEN
 rixxla,Rix,Lars,00/00/1972,DEN, ,DEN
@@ -114,6 +124,8 @@ sabiam,Šabić,Amir, ,DEN, ,DEN
 skytvi,Skytte,Victor,12/04/1994,DEN, ,DEN
 soenhe,Sønderby,Henrik,12/12/1972,DEN, ,DEN
 soerhe,Sørensen,Heine, ,DEN, ,DEN
+sokrky,Sokratous,Kyriakos, ,CYP, ,CYP
+sotemi,Soteriou,Mihalis,11/01/1979,CYP, ,CYP
 stadkn,Stadsgaard,Knud,28/04/1960,DEN, ,DEN
 staehj,Stærk,Hans Jørgen,21/03/1962,DEN, ,DEN
 sundja,Sundberg,Jakob Alexander,01/10/1989,DEN, ,DEN

@@ -1,4 +1,4 @@
-254
+264
 abdumi,Abdulgazin,Mikhail,Абдулгазин Михаил Хамзович,1953-09-04,KAZ,Mamlyutka, Kazakh SSR,___
 abduse,Abdualiev,Serik,Абдуалиев Серик Каиркенович,1966-02-17,KAZ,Pavlodar,URS,___
 abilsu,Abildaev,Sultan,Абильдаев Султан Токатаевич,1970-03-21,KAZ,Kyzylorda,KAZ,sultan-abildaev
@@ -38,6 +38,7 @@ boroa1,Borodyuk,Aleksandr,Aleksandr Genrikhovich Borodyuk,1962-11-30,RUS,Voronez
 boroal,Borodkin,Aleksandr,Aleksandr Anatolyevich Borodkin,1971-10-01,RUS,Moskva,RUS,aleksandr-borodkin
 bragma,Bragonje,Marco, ,1973-10-03,NED,Amsterdam,NED,___
 buriab,Buribaev,Abdukhalik, ,1969-03-27,KAZ,Gazli,UZB,abdukhalik-buribaev
+campab,Campomar,Abraham, ,0000-00-00,SPA, ,SPA,abraham-campomar
 carpil,Carp,Ilie, ,1960-08-03,MOL,Chișinău,URS,___
 chebv1,Chebotarev,Vladimir,Чеботарёв Владимир Николаевич,1947-12-26,KAZ,Almaty,URS,___
 chebvl,Cheburin,Vladimir,Чебурин Владимир Николаевич,1965-07-07,KAZ,Karaganda,URS,___
@@ -55,6 +56,7 @@ duluol,Dulub,Oleg, ,1965-09-20,BLR,Minsk,BLR,oleg-dulub
 durdba,Durdyev,Bayram,Durdyev Bayram Ovezovich,1955-05-24,TKM,Ashgabat,URS,___
 dyshkh,Dyshekov,Khazret,Дышеков Хазрет Жангериевич,1965-08-24,RUS,Terek, Kabardino-Balkar Republic,___
 dzodre,Dzodzuashvili,Revaz,რევაზ ძოძუაშვილი,1945-04-10,GEO,Kutaisi,URS,___
+emelko,Emeljanov,Konstantin, ,1970-03-28,RUS,Vladivostok,RUS,konstantin-emeljanov
 eremal,Eremenko,Alexey,Alexey Borisovich Eremenko Sr.,1964-01-17,RUS,Novocherkassk,RUS,alexey-eremenko
 eremvy,Eremeev,Vyacheslav,Еремеев Вячеслав Николаевич,1970-03-29,RUS,Moskau,URS,___
 esatru,Esatov,Ruslan, ,1984-10-31,KAZ,Taraz,KAZ,ruslan-esatov
@@ -103,6 +105,7 @@ katkvi,Katkov,Viktor,Катков Виктор Георгиевич,1952-06-03,K
 kekeki,Keker,Kirill, ,1979-06-22,KAZ, ,KAZ,kirill-keker
 keneme,Kenetaev,Mels,Кенетаев Мельс Оралбекович,1945-09-06,KAZ,Akmolinsk,URS,___
 kenzsh,Kenzhebaev,Shaizidin,Кенжебаев Шайзидин Камалович,1956-01-16,KAZ,Turkestan,URS,___
+kerzal,Kerzhakov,Aleksandr,Aleksandr Anatolyevich Kerzhakov,1982-11-27,RUS,Kingisepp,RUS,aleksandr-kerzhakov
 khafsh,Khafizov,Shamil,Хафизов Шамиль Гельмиртдинович,1951-10-26,KAZ, , ,___
 khakyu,Khakimov,Yuriy, ,1935-02-18,KAZ, , ,___
 khalar,Khalimbekov,Arslan, ,1967-08-21,RUS,Makhachkala,RUS,arslan-khalimbekov
@@ -111,10 +114,12 @@ khvavy,Khvan,Vyacheslav,Хван Вячеслав Львович,1947-04-10,KAZ,
 klimse,Klimov,Sergey,Климов Сергей Александрович,1960-01-16,KAZ,Almaty,KAZ,sergey-klimov
 klisal,Klishin,Aleksey,Клишин Алексей Николаевич,1973-01-01,KAZ,Karaganda,URS,___
 konkyu,Konkov,Yuri,Коньков Юрий Владимирович,1958-07-06,KAZ,Astana,KAZ,yuri-konkov
+korgle,Korghalidze,Levan, ,1980-02-21,GEO,Gori,GEO,levan-korghalidze
 kosoal,Kosolapov,Aleksey,Косолапов Алексей Викторович,1971-03-17,RUS,Pushkino, Moskau Region,___
 kostni,Kostov,Nikolay, ,1963-07-02,BUL,Dobrich,BUL,nikolay-kostov
 kostru,Kostyshyn,Ruslan,Ruslan Volodymyrovych Kostyshyn,1977-01-08,UKR,Khmelnytskyi,UKR,ruslan-kostyshyn
 kostsa,Kostandyan,Samvel,Սամվել Կոստանդյան,1966-09-15,ARM,Erevan,URS,___
+kovtyu,Kovtun,Yuriy,Yuriy Mikhailovich Kovtun,1970-01-05,RUS,Azov,RUS,yuriy-kovtun
 kozhas,Kozhabergenov,Askar,Кожабергенов Аскар Сейдахметович,1965-09-20,KAZ,Amangeldy,KAZ,askar-kozhabergenov
 krcmsl,Krcmarevic,Slobodan,Слободан Крчмаревић,1965-06-12,SRB,Belgrad, ,___
 krmpzl,Krmpotic,Zlatko,Злaткo Kpмпoтић,1958-08-07,SRB,Belgrad, ,___
@@ -128,6 +133,7 @@ kuzndm,Kuznetsov,Dmitriy,Dmitriy Viktorovich Kuznetsov,1965-08-28,RUS,Moskva,RUS
 ledoko,Ledovskikh,Konstantin,Ледовских Константин Вячеславович,1972-07-12,KAZ,Karaganda,URS,___
 ledovy,Ledovskikh,Vyacheslav,Ледовских Вячеслав Михайлович,1948-01-17,KAZ,Karaganda,URS,___
 lemeal,Lemenchuk,Aleksandr,Леменчук Александр Анатольевич,1960-11-20,KAZ,Aktyubinsk,URS,___
+leonih,Leonov,Ihor, ,1967-09-14,UKR,Kerch,UKR,ihor-leonov
 lincvl,Linchevskiy,Vladimir,Линчевский Владимир Викторович,1953-03-03,KAZ,Cheremkhovo, Irkutsk Region,___
 lintal,Linta,Aleksandar, ,1975-10-22,SRB, ,SRB,aleksandar-linta
 liubal,Liubinskas,Algimantas, ,1951-11-04,LIT,Kybartai,URS,___
@@ -163,6 +169,7 @@ olefmy,Olefirenko,Mykhaylo,Олефіренко Михайло Володими�
 ostrle,Ostroushko,Leonid,Остроушко Леонид Константинович,1936-08-10,RUS,Tokmak, Zaporizhia Region,___
 pachvl,Pachko,Vladimir,Пачко Владимир Николаевич,1958-12-28,RUS,Moskau,URS,___
 pakhle,Pakhomov,Leonid,Пахомов Леонид Александрович,1943-02-17,RUS,Baku,URS,___
+parfdm,Parfyonov,Dmytro,Dmytro Volodymyrovych Parfyonov,1974-09-11,UKR,Odessa,UKR,dmytro-parfyonov
 pasuvi,Pasulko,Viktor,Пасулько Віктор Васильович,1961-01-01,UKR,Ilnitsa,UKR,viktor-pasulko
 pavlse,Pavlov,Sergey,Sergey Aleksandrovich Pavlov,1955-09-16,RUS,Kamyshin,RUS,sergey-pavlov
 petral,Petrushin,Aleksei,Петрушин Алексей Алексеевич,1952-01-29,RUS,Lyubertsy,RUS,aleksei-petrushin
@@ -221,6 +228,7 @@ togase,Togay,Sergey,Когай Сергей Владимирович,1966-08-14,
 tskhka,Tskhadadze,Kakhaber,Kakhaber Dzhumberovich Tskhadadze,1968-09-07,GEO,Rustavi,GEO,kakhaber-tskhadadze
 turmte,Turmagambetov,Teleukhan,Турмагамбетов Телеухан Алиакбарович,1965-11-18,KAZ,Kyzylorda,URS,___
 ulyavi,Ulyanitskiy,Viktor, ,1972-08-07,UKR, ,UKR,viktor-ulyanitskiy
+urazra,Urazbakhtin,Rafael, ,1978-11-20,KAZ, ,KAZ,rafael-urazbakhtin
 urazti,Urazov,Timur,Уразов Тимур Шамильевич,1964-09-13,KAZ,Kostanay,URS,___
 urdafa,Urdabaev,Fayzulla,Урдабаев Файзулла Бейсенович,1966-11-10,KAZ,Tashkent Oblast,URS,___
 urixmi,Ćurčić,Milic, ,1981-01-26,SRB, ,SRB,milic-curcic
@@ -228,6 +236,7 @@ ursaig,Ursachi,Igor,Урсаки Игорь Петрович,1962-07-07,MOL,Chi�
 uteual,Uteushov,Alash,Утеушов Алаш Тулепович,1956-03-23,KAZ,Kaska Kulan- Kyzylorda Region,URS,___
 utkuyu,Utkulbaev,Yuri, ,1969-12-16,RUS,Kazan,RUS,yuri-utkulbaev
 vagaan,Vaganov,Andrey,Ваганов Андрей Геннадьевич,1968-10-25,KAZ,Shymkent,URS,___
+vavaak,Vavalis,Akis, ,1985-09-21,GRE,Serres,GRE,akis-vavalis
 verevi,Veretnov,Viktor,Веретнов Виктор Григорьевич,1935-06-15,KAZ, , ,___
 volgse,Volgin,Sergey,Волгин Сергей Васильевич,1960-05-05,KAZ,Almaty,URS,___
 volool,Volokh,Oleg,Волох Олег Антонович,1942-04-08,BLR,Seymchane,URS,___
@@ -247,6 +256,7 @@ zaytig,Zaytsev,Igor,Зайцев Игорь Николаевич,1961-10-03,KAZ,
 zaytse,Zaytsev,Sergiy,Sergiy Ilarionovich Zaytsev,1974-04-13,UKR,Zaporizhya,UKR,sergiy-zaytsev
 zelevl,Zelenovskiy,Vladimir,Vladimir Viktorovich Zelenovskiy,1983-06-20,RUS,Brezhnev,RUS,vladimir-zelenovskiy
 zhukvi,Zhukovski,Vitali, ,1984-05-17,BLR, ,BLR,vitali-zhukovski
+zhumnu,Zhumaskaliev,Nurbol, ,1981-05-11,KAZ,Uralsk,KAZ,nurbol-zhumaskaliev
 zhurbo,Zhuravlev,Boris,Журавлёв Борис Иванович,1946-07-25,RUS,Moskau,URS,___
 zhurva,Zhuravlev,Valeriy,Журавлёв Валерий Геннадьевич,1954-12-20,RUS,Semipalatinsk,URS,___
 zhurvl,Zhuravel,Vladimir,Vladimir Ivanovich Zhuravel,1971-06-09,BLR,Semipalatinsk,BLR,vladimir-zhuravel

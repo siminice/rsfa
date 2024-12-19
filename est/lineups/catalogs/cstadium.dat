@@ -1,4 +1,4 @@
-37
+38
 jarv00,kohtla-jaerve-kunstmuruvaeljak-jaerve
 johv00,johvi-linnastaadion-johvi
 kure00,linnastaadion-kuressaare
@@ -14,7 +14,7 @@ nomm00,Nõmme
 paid00,paide-linnastaadion-paide
 paid01,paide-linnastaadion-kunstmuruvaeljak-paide
 parn00,paernu-rannastaadion-paernu
-parn01,rehepapi-kunstmuruvaeljak-paernu
+parn01,paernu-kunstmurustaadion-paernu
 parn02,paernu-raekuela-staadion-paernu
 rakv00,rakvere-linnastaadion-rakvere
 rakv01,rakvere-kunstmuru-rakvere
@@ -29,7 +29,8 @@ tall05,kalevi-keskstaadioni-kunstmuru-tallinn
 tall06,ejl-jalgpallihall-tallinn
 tall07,lasnamaee-kergejoustikuhalli-kunstmuruvaeljak-tallinn
 tall08,maarjamaee-kompleksi-kunstmuruvaeljak-tallinn
-tall15,ejl-tntk-jalgpallivaeljak-tallinn
+tall15,tntk-staadion-tallinn
+tall16,maenniku-staadion-tallinn
 tart00,tamme-staadion-tartu
 tart01,tartu-sepa-taenava-staadion-tartu
 tart02,annelinna-guemnaasium-staadion-tartu

@@ -1,4 +1,4 @@
-183
+201
 ahmaja,Åhman,Jari,1971-08-14,FIN,Kemi,FIN
 aholjy,Ahola,Jyrki,1971-11-29,FIN, ,FIN
 allejo,Allen,John,1964-11-14,WAL,Chester,ENG
@@ -7,10 +7,13 @@ anullu,Anula,Luis, , , ,
 arbear,Arbeiter,Argo,1973-12-05,EST,Viljandi,EST
 arceto,Arceusz,Tomasz,1959-09-11,POL, ,POL
 armske,Armstrong,Keith,1957-10-11,ENG,Corbridge,ENG
+aromar,Aromaa,Arttu,1995-01-05,FIN, ,FIN
 askoti,Askolin,Timo,1951-10-03,FIN, ,FIN
 baruma,Baruffato,Marco,1965-02-28,ITA,Varese,ITA
+boluda,Bolufer,Daniel,1984-03-28,SPA,Valencia,SPA
 bondva,Bondarenko,Valeri,1953-04-22,EST,Tallinn,EST
 bostsi,Boström,Sixten,1963-09-15,FIN,Helsingfors,FIN
+bratko,Bratsos,Konstantinos,1977-04-26,GRE,Volos,GRE
 cratsr,Cratz,Sören,1948-09-28,SWE, ,SWE
 crawia,Crawford,Ian,1934-07-14,SCO, ,SCO
 davyan,Davydov,Anatoly,1953-11-13,RUS, ,RUS
@@ -25,7 +28,9 @@ everja,Everse,Jan,1954-01-05,NED, ,NED
 fazade,Fazackerley,Derek,1951-11-05,ENG, ,ENG
 gmezjo,Gómez,Joaquín,1986-07-25,SPA, ,SPA
 graumi,Grau,Miguel,1984-04-22,SPA,Yátoba,SPA
+griest,Grieve,Stevie,1986-12-31,SCO,Perth,SCO
 grubti,Gruborovics,Tibor,1959-08-09,HUN, ,HUN
+guersa,Guerreiro,Sander,1988-10-28,POR,Portimão,POR
 hajdbo,Hajdas,Boguslaw,1939-07-21,POL, ,POL
 hannda,Hannah,David,1973-08-04,SCO, ,SCO
 helijy,Heliskoski,Jyrki,1945-09-28,FIN, ,FIN
@@ -48,6 +53,7 @@ johabo,Johansson,Bo,1942-11-28,SWE, ,SWE
 jussas,Jussila,Asko,1963-01-25,FIN,Hämeenlinna,FIN
 kaerto,Kärkkäinen,Tomi,1969-10-22,FIN, ,FIN
 kainto,Kainulainen,Tommi,1974-01-08,FIN,Iisalmi,FIN
+kallj1,Kallioinen,Joni,1968-09-02,FIN,Lathi,FIN
 kalljo,Kallio,Jorma,1955-11-16,FIN, ,FIN
 kallni,Kalliokoski,Niko,1982-05-26,FIN,Kokkola,FIN
 kallto,Kallio,Toni,1978-08-09,FIN,Tampere,FIN
@@ -79,6 +85,7 @@ lindt1,Lindberg,Toni,1985-09-23,FIN,Ruotsinpyhtää,FIN
 lindto,Lindholm,Tommy,1947-02-03,FIN, ,FIN
 lippki,Lipponen,Kimmo,1962-12-09,FIN, ,FIN
 liusis,Lius,Ismo,1965-11-30,FIN, ,FIN
+lufflu,Luffe, ,1976-06-06,BRA,Novo Horizonte,BRA
 lumimi,Lumijärvi,Mika,1970-12-06,FIN, ,FIN
 lundp1,Lundell,Pertti,1952-02-12,FIN, ,FIN
 lundpe,Lundberg,Peter,1981-04-15,FIN, ,FIN
@@ -128,12 +135,15 @@ rajama,Rajamäki,Marko,1968-10-03,FIN,Göteborg,SWE
 rantar,Rantamaa,Ari,1962-05-28,FIN, ,FIN
 rantes,Ranta,Esko,1947-01-14,FIN, ,FIN
 rantja,Rantanen,Jari,1961-12-31,FIN, ,FIN
+rantjo,Rantanen,Joonas,1987-07-27,FIN, ,FIN
 rasipa,Rasimus,Pasi,1962-03-06,FIN, ,FIN
 rautpa,Rautiainen,Pasi,1961-07-18,FIN,Helsinki,FIN
 ristju,Ristimäki,Jussi,1944-01-30,FIN, ,FIN
 ristsa,Ristilä,Sami,1974-08-15,FIN,Valkeakoski,FIN
 rivejo,Riveiro,Jose,1975-09-15,SPA,Vigo,SPA
 rocajo,Roca,José,1976-02-28,SPA,Orihuela,SPA
+rodrsc,Rodriguez,Óscar,1988-04-14,SPA, ,SPA
+romobr,Romão,Bruno,1984-01-07,POR, ,POR
 rsnema,Räsänen,Martti,1931-11-21,FIN, ,FIN
 saerjo,Särkkä,Jori,1961-02-13,FIN,Jyväskylä,FIN
 sailze,Saileti,Zeddy,1969-01-16,ZAM,Luanshya,ZAM
@@ -141,7 +151,12 @@ sainto,Saintfiet,Tom,1973-03-19,BEL,Mol,BEL
 sairse,Sairanen,Seppo,1952-03-23,FIN, ,FIN
 sajwmi,Sajwicz,Miroslaw,1957-04-24,POL, ,POL
 salmti,Salmi,Timo,1958-01-03,FIN, ,FIN
+salomi,Salonen,Mikke,0000-00-00,FIN, ,FIN
+santgu,Santesmases,Guillem,1996-01-21,SPA,Barcelona,SPA
+sibife,Sibila,Ferran,1988-07-13,SPA,Gironella,SPA
 sillhe,Sillanpää,Henri,1979-06-04,FIN,Tornio,FIN
+sjluda,Sjölund,Daniel,1983-04-22,FIN,Finström,FIN
+smitan,Smith,Andy,1980-09-25,NIR,Lisburn,NIR
 suhohe,Suhonen,Heikki,1951-06-21,FIN, ,FIN
 sundch,Sund,Christian, , , , 
 suniju,Suni,Juha,1953-09-07,FIN, ,FIN
@@ -161,10 +176,12 @@ vakkju,Vakkila,Jukka,1951-04-02,FIN, ,FIN
 valasi,Valakari,Simo,1973-04-28,FIN,Helsinki,FIN
 vasave,Vasara,Vesa,1976-08-16,FIN, ,FIN
 vianja,Viander,Jani,1975-08-18,FIN,Tuusula,FIN
+viitmi,Viitsalo,Mikko,1989-10-12,FIN, ,FIN
 vikmma,Vikman,Matti,1965-10-01,FIN, ,FIN
 vilete,Vilen,Teuvo,1953-11-26,FIN, ,FIN
 vilhky,Vilhunen,Kyösti,1948-08-07,FIN, ,FIN
 virtka,Virtanen,Kari,1958-09-15,FIN,Piikkiö,FIN
+virtos,Virta,Ossi,1988-07-09,FIN,Helsinki,FIN
 virtri,Virtanen,Risto,1956-05-06,FIN, ,FIN
 voutke,Voutilainen,Keijo,1936-09-14,FIN, ,FIN
 vuorp1,Vuori,Petri,1960-02-23,FIN, ,FIN
@@ -176,6 +193,7 @@ wardst,Ward,Stephen,1960-12-27,ENG, ,ENG
 wargji,Wargh,Jimmy,1976-04-09,FIN,Pietarsaari,FIN
 westjl,Westerlund,Jan Lorentz Eskil,1954-08-31,SWE, ,SWE
 widjni,Widjeskog,Niklas,1969-02-24,FIN, ,FIN
+willga,Williams,Gary,1977-12-07,ENG, ,ENG
 willge,Williams,Graham Evan,1938-04-02,WAL, ,WAL
 wissja,Wiss,Jarkko,1972-04-17,FIN, ,FIN
 woodda,Woodfield,Dave,1943-10-11,ENG, ,ENG

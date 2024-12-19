@@ -6,7 +6,7 @@
 1800 US Alessandria~Alessandria
 1900 Anconitana~Anconitana*1982 AC Ancona~Ancona
 1800 AS Fidelis Andria~Andria*2006 AS Andria BAT~Andria*2013 SS Fidelis Andria~Andria
-1800 AC Arezzo~Arezzo
+1800 AC Arezzo~Arezzo*2023 SS Arezzo~Arezzo
 1800 Ascoli Calcio~Ascoli
 1800 Asti T.S.C.~Asti
 1800 Atalanta Bergamo~Atalanta
@@ -21,19 +21,19 @@
 1800 Bologna FC~Bologna
 1800 FC Bolzano~Bolzano
 1800 Brescia Calcio~Brescia
-1800 FB Brindisi~Brindisi
+1800 FB Brindisi~Brindisi*2023 SSD Brindisi FC~Brindisi
 1800 Cagliari Calcio~Cagliari
 1800 Campania Puteolana~Campania*2000 FC Puteolana~Campania
-1800 SS Campobasso~Campobasso*2004 Nuovo Campobasso Calcio~Campobasso
+1800 SS Campobasso~Campobasso*2004 Nuovo Campobasso Calcio~Campobasso*2022 Città di Campobasso~Campobasso*2025 Campobasso FC~Campobasso
 1800 Carbonia~Carbonia
 1800 Carbosarda~Carbosarda
-1800 Carpi FC 1909~Carpi
+1800 AC Carpi~Carpi*2001 Carpi FC 1909~Carpi*2022 AC Carpi~Carpi
 1800 Carrarese Calcio~Carrarese
 1800 Casale Calcio~Casale
 1800 Virtus Casarano~Casarano
 1800 Casertana FC~Casertana
 1800 Castel di Sangro Calcio~C.di Sangro
-1800 Calcio Catania~Catania
+1800 Calcio Catania~Catania*2023 FC Catania~Catania
 1800 US Catanzaro~Catanzaro*2006 FC Catanzaro~Catanzaro
 1800 SS Cavese 1919~Cavese
 1800 AC Centese~Centese
@@ -52,7 +52,7 @@
 1800 US Cremonese~Cremonese
 1800 FC Crotone~Crotone
 1800 Cynthia~Cynthia
-1800 Derthona FBC 1908~Derthona
+1800 Derthona~Derthona
 1800 Empoli FC~Empoli
 1800 Enna~Enna
 1800 Entella Chiavi Bacezza~Entella*2011 Virtus Entella~Entella
@@ -68,7 +68,7 @@
 1800 Frosinone Calcio~Frosinone
 1800 Gallaratese~Gallaratese
 1800 Gavinovese~Gavinovese
-1800 Genoa FC~Genoa*1928 Genova 1893 Calcio~Genova*1946 Genoa FC~Genoa
+1800 Genoa FC~Genoa
 1800 Giulianova Calcio~Giulianova
 1800 US Grosseto~Grosseto
 1800 AS Gubbio 1910~Gubbio
@@ -84,7 +84,7 @@
 1800 SS Lazio Roma~Lazio
 1800 US Lecce~Lecce
 1800 Calcio Lecco 1912~Lecco
-1800 AC Legnano~Legnano
+1800 AC Legnano~Legnano*2012 FC Legnano Salus~Legnano
 1800 Licata~Licata
 1800 Livorno Calcio~Livorno
 1800 AS Lucchese Libertas~Lucchese
@@ -99,10 +99,10 @@
 1800 FC Matera~Matera
 1800 Messina PFC~Messina
 1800 Mestrina~Mestrina
-1800 AC Milan~Milan*1939 AC Milano~Milano*1946 AC Milan~Milan
+1800 AC Milan~Milan
 1800 FC Modena~Modena
 1800 Molfetta~Molfetta
-1800 Unione Fincantieri Monfalcone~Monfalcone
+1800 Monfalcone~Monfalcone
 1800 AC Monopoli~Monopoli
 1800 Montevarchi Calcio Aquila~Montevarchi
 1800 AC Monza~Monza*2008 AC Monza Brianza 1912~Monza*2016 SS Monza 1912~Monza
@@ -116,7 +116,7 @@
 1800 Ospitalleto~Ospitaletto
 1800 Calcio Padova~Padova
 1800 Paganese Calcio 1926~Paganese
-1800 US Palermo~Palermo*1987 US Citta di Palermo~Palermo
+1800 US Palermo~Palermo*1987 US Città di Palermo~Palermo
 1800 Parma AC~Parma
 1800 AC Pavia~Pavia
 1800 US Pergocrema 1932~Pergocrema
@@ -153,7 +153,7 @@
 1800 Rovereto~Rovereto
 1800 Salernitana Sport~Salernitana
 1800 SS Sambenedettese Calcio~Sambenedettese
-1900 Andrea Doria Genova~Andrea Doria*1928 La Dominante Genova~La Dominante*1931 Liguria Genova~Liguria*1932 Andrea Doria Genova~Andrea Doria*1946 Sampdoria Genova~Sampdoria
+1900 Andrea Doria Genova~Andrea Doria*1947 Sampdoria Genova~Sampdoria
 1800 AC Sangiovannese~Sangiovannese
 1800 Sanremese Calcio~Sanremese
 1800 Sant'Angelo~Sant'Angelo
@@ -161,12 +161,12 @@
 1800 Savona Calcio~Savona
 1800 ASD Scafatese Calcio~Scafatese
 1800 Seregno 1913~Seregno
-1800 AS Sestrese Calcio~Sestrese
-1800 AC Siena~Siena*2016 Robur Siena~Siena
+1800 AS Sestese Calcio~Sestese
+1800 AC Siena~Siena*2016 Robur Siena~Siena*2021 ACN Siena 1904~Siena
 1800 US Siracusa~Siracusa
 1800 Solbiatese Arno Calcio~Solbiatese
-1800 Sorrento Calcio~Sorrento
-1800 SPAL 1907 Ferrara~Spal*2013 SPAL 2013 Ferrara~SPAL
+1800 Sorrento Calcio~Sorrento*2023 ASD Sorrento~Sorrento
+1800 SPAL 1907 Ferrara~SPAL*2013 SPAL 2013 Ferrara~SPAL
 1800 Spezia Calcio~Spezia
 1800 Juve Stabia~Stabia
 1800 Suzzara~Suzzara
@@ -177,7 +177,7 @@
 1800 Torino Calcio~Torino
 1800 Sassari Torres 1903~Sassari Torres
 1800 Trani~Trani
-1800 AS Trapani~Trapani
+1800 AS Trapani~Trapani*2022 FC Trapani 1905~Trapani
 1800 Alba Trastevere~Trastevere
 1800 Calcio Trento~Trento
 1800 Trevigliese~Trevigliese
@@ -190,8 +190,8 @@
 1800 Venezia AC~Venezia
 1800 Verbania~Verbania
 1800 Hellas Verona~Verona
-1800 FC Esperia Viareggio~Viareggio
-1900 Vicenza Calcio~Vicenza*1955 Lanerossi Vicenza~L.R. Vicenza*1990 AC Vicenza~Vicenza
+1800 Viareggio~Viareggio*2008 FC Esperia Viareggio~Viareggio
+1900 Vicenza Calcio~Vicenza*1955 Lanerossi Vicenza~Vicenza*1990 AC Vicenza~Vicenza*2019 L.R. Vicenza Virtus~Vicenza
 1800 Vigevano Calcio~Vigevano
 1800 Virescit Boccaleone~Virescit
 1800 Vita Nova~Vita Nova
@@ -230,10 +230,10 @@
 1800 Fiumana~Fiumana
 1800 AC Maceratese~Maceratese
 1800 Molinella~Molinella
-1800 Sampierdarenese~Sampierdarenese*1938 Liguria Genova~Liguria
+1800 Sampierdarenese Genova~Sampier*1938 Liguria Genova~Liguria*1946 Sampierdarenese Genova~Sampier
 1800 FC Sudtirol Alto Adige~Alto Adige
 1800 Nuorese Calcio~Nuorese
-1800 Bassano Virtus~Bassano
+1800 Bassano Virtus~Bassano*2019 L.R. Vicenza Virtus~Bassano
 1800 Calcio Portogruaro Summaga~Portogruaro
 1800 AC Carpenedolo~Carpendolo
 1800 AC Cuneo 1905~Cuneo
@@ -247,7 +247,7 @@
 1800 US Poggibonsi Valdelsa~Poggibonsi
 1800 AC Boca San Lazaro~San Lazaro
 1800 AC Bellaria Igea Marina~Bellaria
-1800 SS Calcio Giugliano~Giugliano
+1800 SS Calcio Giugliano~Giugliano*2023 ASD Giugliano Calcio~Giugliano
 1800 Vigor Lamezia~Lamezia
 1800 SS Cassino 1927~Cassino
 1800 FC Igea Virtus Barcellona~Igea Virtus
@@ -285,7 +285,7 @@
 1800 Astrea~Astrea
 1800 Iperzola Ponteroncariale~Iperzola
 1800 Ponsacco~Ponsacco
-1800 Altamura~Altamura
+1800 US Altamura~Altamura*2016 Team Altamura~Altamura
 1800 Cecina~Cecina
 1800 Valle d'Aosta Calcio~Aosta
 1800 Sangiuseppese~Sangiuseppe
@@ -316,7 +316,7 @@
 1800 AS Pro Belvedere Vercelli~Pro Belvedere
 1800 SS Sacilese Calcio~Sacilese
 1800 Vico Equense Calcio~Vico Equense
-1800 AC Salo Valsabbia*2009 AC FeralpiSalo~FeralpiSalo
+1800 AC Salò Valsabbia*2009 AC FeralpiSalò~FeralpiSalò
 1800 SS Tritium 1908~Tritium
 1800 USD Gavorrana~Gavorrana
 1800 AC Renate~Renate
@@ -343,5 +343,23 @@
 1800 ASD Castelli Romani~Castelli Roma*2017 SS Racing Club Roma~Racing Club
 1800 AS Pro Piacenza~Pro Piacenza
 1800 Polisportiva Arzachena~Arzachena
-1800 FC Grion Pola~Pola
-1800 Arsenal Taranto~Arsenal
+1800 Juventus Torino U23~Juventus II
+1800 Albissola 2010~Albissola
+1800 AC Gozzano~Gozzano
+1800 US Pianese~Pianese
+1800 USD Arzignano Valchiampo~Arzignano
+1800 Picerno ASD~Picerno
+1800 Matelica Calcio~Matelica*2022 Ancona-Matelica Calcio~Matelica
+1800 Monterosi FCSD~Monterosi
+1800 Sangiuliano City Nova~Sangiuliano
+1800 San Donato Tavarnelle~San Donato
+1800 USD Recanatese~Recanatese
+1800 SSD Audace Cerignola~Cerignola
+1800 ASD Gelbison Vallo della Lucania~Gelbison
+1800 USD Sestri Levante~Sestri Levante
+1800 ASD Pineto Calcio~Pineto
+1800 Atalanta Bergamo U23~Atalanta II
+1800 Alcione Milano SS~Alcione
+1800 Calcio Caldiero Terme~Caldiero Terme
+1800 Union Clodiense Chioggia FC~Chioggia
+1800 AC Milan Futuro~Milan II

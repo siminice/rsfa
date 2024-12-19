@@ -1,4 +1,4 @@
-585
+610
 abalfl,Abalroado,Francisco,1937-11-20,POR,Évora,POR
 abelev,Viso,Eduardo,1919-12-16,SPA,Melón,SPA
 abrejl,Maló, ,1940-03-29,POR,Moçâmedes,POR
@@ -49,6 +49,7 @@ barbmj,Barbosa,Manuel,1951-02-26,POR,Vila Nova de Gaia,POR
 barola,Baróti,Lajos,1914-08-19,HUN,Szeged,HUN
 barrdc,Barreto,Daniel,1936-06-18,POR,Ponte da Barca,POR
 barrma,Barreto,Mariano,1957-01-18,POR,Ribandar,IND
+barrrd,Barrera,Rubén de la,1985-01-18,SPA,A Coruña,SPA
 barrru,Barros,Rui,1965-11-24,POR,Paredes,POR
 bastjm,Bastos,José,1929-10-17,POR,Albergaria-a-Velha,POR
 bauejc,Bauer,José Carlos,1925-11-21,BRA,São Paulo,BRA
@@ -64,6 +65,7 @@ boasav,Villas-Boas,André,1977-10-17,POR,Porto,POR
 boella,Bölöni,Ladislau,1953-03-11,ROM,Târgu Mureş,ROM
 bogivl,Bogičević,Vladislav,1950-11-07,SRB,Beograd,SRB
 bonapa,Bonamigo,Paulo,1960-09-23,BRA,Ijuí,BRA
+borgru,Borges,Rui,1981-07-07,POR,Mirandela,POR
 bragab,Braga,Abel,1952-09-01,BRA,Rio de Janeiro,BRA
 bragcl,Braga,Cláudio,1974-11-23,POR,Lisboa,POR
 britca,Brito,Carlos,1963-09-21,POR,Porto,POR
@@ -107,6 +109,7 @@ celsma,Marão, ,-,BRA, ,BRA
 cerqgu,Cerqueira, ,1957-08-06,POR,Penafiel,POR
 chalfe,Chalana, ,1959-02-10,POR,Barreiro,POR
 chalfr,Chaló,Francisco,1964-02-10,POR,Santa Maria da Feira,POR
+chavri,Chaves,Ricardo,1977-10-27,POR,Valpaços,POR
 cheuri,Chéu,Ricardo,1981-05-14,POR, ,POR
 cndifi,Cândido,Filipe,1979-09-28,POR,Lisboa,POR
 coelhm,Coelho,Humberto,1950-04-20,POR,Porto,POR
@@ -127,10 +130,12 @@ costja,Costa,José Alberto,1953-10-31,POR,Porto,POR
 costje,Zeca, ,1943-12-03,POR,Torres Vedras,POR
 costjo,Costa,Jorge,1971-10-14,POR,Porto,POR
 coucjo,Couceiro,José,1962-10-04,POR, ,POR
+coutjo,Couto,Jorge,1970-07-01,POR,Santa Maria da Feira,POR
 crisjm,Crispim,José,1942-12-21,POR,Palmela,POR
 cserpa,Csernai,Pál,1932-10-21,HUN,Pilis,HUN
 cunhan,Cunha,André,1978-02-16,POR,Cambeses,POR
 cunhca,Cunha,Carlos,1971-10-17,POR,Ponte de Lima,POR
+cunhru,Cunha,Rui,1992-09-10,POR,Guimarães,POR
 custcu,Custódio, ,1983-05-24,POR,Brito/Guimarães,POR
 custvd,Custódio,Valdemar,-,POR, ,POR
 czeila,Czeizler,Lajos,1893-10-05,HUN,Heres,HUN
@@ -143,6 +148,7 @@ diamma,Diamantino, ,1959-08-03,POR,Sarilhos Pequenos,POR
 diasfp,Polido, ,1930-04-09,POR,Évora,POR
 diasjr,Dias,Rodrigues,1924-10-07,POR,Almada,POR
 diaspr,Dias,Paulo Roberto,1944-02-27,BRA,Rio de Janeiro  RJ,BRA
+diognu,Diogo,Nuno,1981-06-13,POR,Lisboa,POR
 ditoed,Dito, ,1962-01-18,POR,Barcelos,POR
 dochth,Docherty,Tommy,1928-04-24,SCO,Glasgow,SCO
 domian,Dominguez,António,1943-06-29,POR, ,POR
@@ -150,6 +156,7 @@ domijo,Dominguez,José,1974-02-16,POR,Lisboa,POR
 dpirhj,Depireux,Henri,1944-02-01,BEL, ,BEL
 duared,Duarte,Edmundo,1951-11-17,POR, ,POR
 duarpa,Duarte,Paulo,1969-04-06,POR,Massarelos,POR
+duarru,Duarte,Rui,1978-09-16,POR,Lisboa,POR
 edined,Edinho, ,1955-06-05,BRA,Rio de Janeiro,BRA
 eduajo,Eduardinho, ,1951-02-24,POR,Funchal,POR
 efighe,Reina,Henrique,1937-08-30,POR,Olhão,POR
@@ -224,6 +231,7 @@ gonzmi,Ibáñez,Manolo,1912-03-26,SPA,Granada,SPA
 gonzna,González,Natxo,1966-07-29,SPA,Vitoria,SPA
 gouvan,Gouveia, ,1973-05-12,POR,Massarelos,POR
 gouvcp,Gouveia,Cassiano,1940-02-04,POR, ,POR
+guerpe,Guerreiro,Pedro,1987-04-25,POR,Lisboa,POR
 guiojt,Rola, ,1927-05-13,POR,Estarreja,POR
 gusmpa,Gusmão, ,1962-05-19,BRA,Rio de Janeiro,BRA
 gutkfr,Gutkas,François,-,AUT, ,AUT
@@ -244,6 +252,7 @@ ivicto,Ivić,Tomislav,1933-06-30,CRO,Split,CRO
 jardle,Jardim,Leonardo,1974-08-01,POR,Barcelona,VEN
 jennro,Jeney,Rudolf,1901-03-02,HUN,Budapest,HUN
 jesuaf,Jesus,António,1943-01-17,POR,S. Nicolau,POR
+jesudo,Jesus,Douglas,1983-03-09,BRA,Ribeirão Preto,BRA
 jesujo,Jesus,Jorge,1954-07-24,POR,Amadora,POR
 jokapr,Jokanović,Predrag,1968-10-26,SRB,Beograd,SRB
 jordjm,Amaro,João,-,POR, ,POR
@@ -276,6 +285,7 @@ leitfd,Nana, ,1922-10-29,POR,Coimbra,POR
 leitjo,Leitao,Jorge,1974-01-14,POR,Porto,POR
 lemoad,de Lemos,António,-,POR, ,POR
 lemoej,Lemos,Eduardo,1917-06-17,POR,Moncorvo,POR
+lemoru,Lemos,Rui,1992-01-07,POR,Pevidém,POR
 leoxam,Imbelloni,Mário,1924-08-25,ARG,Lanús,ARG
 limacd,Lima,Cristóvão,1910-01-21,POR,Ponta Delgada,POR
 linomg,Lino,Mário,1937-01-09,POR,Horta,POR
@@ -307,6 +317,7 @@ martre,García,Rúben,1939-03-29,ARG, ,ARG
 martvi,Martini,Rino,1912-04-22,ITA,Mazzo di Rho,ITA
 mategi,Materazzi,Giuseppe,1946-01-05,ITA,Arborea,ITA
 matemd,Marinho, ,1943-09-03,POR,Lisboa,POR
+matolu,Matos,Luis,1955-08-31,POR,Lisboa,POR
 matono,Matos,Norton,1953-12-14,POR,Lissabon,POR
 matova,Matos,Vasco,1980-10-10,POR,Lissabon,POR
 medeaj,Medeiros,António,1933-03-10,POR,Leça da Palmeira - Matosinhos,POR
@@ -318,6 +329,7 @@ mendfe,Mendes,Fernando,1937-07-15,POR,Seia,POR
 mendfm,Mendes,Fernando,1937-07-15,POR,Seia,POR
 mendjd,Mendes,José,1947-01-16,POR,Setúbal,POR
 mendjm,Maria,José,1933-11-25,POR,Estoril - Cascais,POR
+mendle,Mendes,Leandro,1982-09-14,POR,Guimarães,POR
 mendmi,Mendes,Milton,1965-04-25,BRA,Içara,BRA
 mendsa,Mendes,Sandro,1977-02-04,CVE,Pinhal Novo-Pal,POR
 mendvm,Virgílio, ,1927-11-17,POR,Entroncamento,POR
@@ -345,6 +357,7 @@ moreaf,Peres, ,1939-02-03,POR,Candal,POR
 moreay,Moreira,Aymoré,1912-04-24,BRA,Miracema (RJ),BRA
 moremo,Moreno, ,1981-08-19,POR,Guimarães,POR
 moreov,Moreira,Orlando,1932-10-22,POR, ,POR
+morepe,Moreira,Pedro,1975-03-22,MOZ,Lourenço Marques,MOZ
 morglu,Morgado,Luís,1974-10-15,POR,Luanda,POR
 mortjo,Mortimore,John,1934-09-23,ENG,Farnborough,ENG
 mosqfr,Reboredo, ,1914-09-03,ARG,Buenos Aires,ARG
@@ -357,6 +370,7 @@ murcal,Murça,Alfredo,1948-01-17,POR, ,POR
 murcam,Murça,Alfredo,1948-01-17,POR,POR,POR
 nascac,Carolino,Álvaro,1951-04-07,POR,Pinhal Novo,POR
 necama,Neca, ,1951-05-29,POR,Galegos,POR
+necane,Neca, ,1979-12-31,POR,Lisboa,POR
 nelsnl,Nélson, ,1975-10-20,POR,Torres Vedras,POR
 nuneaf,Nunes,Vieira,1945-07-01,POR,Águas Santas,POR
 nunecf,Nunes,Carlos,1914-12-20,POR,Porto,POR
@@ -364,6 +378,7 @@ nunehe,Nunes,Henrique,1955-01-21,POR,Santa Maria da Feira,POR
 nunem1,Nunes,Mário,1980-09-02,POR, ,POR
 nunemr,Nunes,Mário,1943-02-27,POR,Porto,POR
 nunene,Núñez,Filpo,1920-08-19,ARG,Buenos Aires,ARG
+nunofb,Nuno,Fábio,1998-11-12,POR,Resende,POR
 nunonu,Nuno, ,1974-01-25,POR,São Tomé, 
 oceaoc,Oceano, ,1962-07-29,POR,São Vicente,CVE
 octvoc,Octávio, ,1972-05-19,POR,Póvoa de Varzim,POR
@@ -381,6 +396,7 @@ pachja,Pacheco,Jaime,1958-07-22,POR,Paredes,POR
 pachlv,Pacheco,Álvaro,1971-06-25,POR,Lixa,POR
 pacido,Paciência,Domingos,1969-01-02,POR,Leça de Palmeira,POR
 padrca,Padrão, ,1959-09-01,POR,Lobito,ANG
+paivri,Paiva,Ricardo,1980-05-24,POR,Matosinhos,POR
 paixjo,Paixão,Jorge,1965-12-19,POR, ,POR
 palaje,Palatsi,Jerome,1969-12-10,FRA,Beziers,FRA
 palmfn,Palmeira,Fernando,1942-11-26,POR, ,POR
@@ -439,6 +455,7 @@ rachjo,Rachão,José,1952-09-15,POR,Peniche,POR
 radisr,Radišić,Srečko,1931-07-26,YUG, ,YUG
 ramalu,Ramalho,Ludgero,-,POR, ,POR
 ramiod,Ramín,Orlando,1933-06-10,POR,Lisboa,POR
+ramiro,Ramirez,Ronald,1989-12-29,VEN,Mérida,VEN
 ramoda,Ramos,Daniel,1970-12-25,POR,Vila do Conde,POR
 rapoja,Raposo,Jair,-,BRA, ,BRA
 redoaz,Zubieta,Ángel,1918-07-17,SPA,Galdakao,SPA
@@ -462,12 +479,15 @@ sampar,Sampaio,Armando,1907-06-27,POR,Beja,POR
 sancer,Sánchez,Erwin,1969-10-19,BOL,Santa Cruz de la Sierra,BOL
 sancrg,García,Ruperto,-,SPA,Palma de Mallorca,SPA
 sandlo,Sandri,Lori,1949-01-29,BRA,Encantado,BRA
+santa1,Santana,Alexandre,1978-05-14,POR, ,POR
 santaa,Espírito Santo,Alfredo,1938-04-18,ANG,Lobito,ANG
 santal,Santos,Artur,1931-03-27,POR,Paço de Arcos  Oeiras,POR
 santfe,Santos,Fernando,1954-10-10,POR,Lisboa,POR
+santgo,Santos,Gonçalo,1986-11-15,POR,Lamego,POR
 santjd,Paulo,Joaquim,1920-08-04,POR,Olhão,POR
 santjf,Santos,Filipe dos,1896-00-00,POR,Setúbal,POR
 santnm,Santos,Nuno Manta,1978-07-25,POR,Santa Maria da Feira,POR
+santnu,Santos,Nuno,1978-07-09,POR,Coimbra,POR
 santpa,Santos,Paulo,1966-02-22,POR,Santa Maria da Feira,POR
 santtd,Santos,Trindade dos,-,POR, ,POR
 sarabr,Saraiva,Bruno,1974-11-01,POR,Nova Lisboa (Huambo),ANG
@@ -506,6 +526,7 @@ smetfe,Smetana,Ferdinand,1923-07-07,AUT, ,AUT
 smitje,Smith,Ted,1914-09-03,ENG,Grays,ENG
 soaras,Soares,Albano,1949-01-23,POR,Fafe,POR
 soarbe,Soares,Bernardo,1909-12-04,POR, ,POR
+soarfl,Soares,Flávio,1989-08-29,POR,Arouca,POR
 soarjm,Soares,José João,1904-00-00,POR,Barreiro,POR
 soarri,Soares,Ricardo,1974-11-11,POR,Felgueiras,POR
 solepa,Soler,Paco,1970-03-05,SPA,Palma de Mallorca,SPA
@@ -538,10 +559,13 @@ tonian,Toni, ,1946-10-14,POR,Anadia,POR
 torrja,Torres,José Alberto,1949-04-19,POR,Guimarães,POR
 torrjo,Torres,José,1938-09-08,POR,Torres Novas,POR
 toshjb,Toshack,John,1949-03-22,WAL,Cardiff,WAL
+tozxto,Tozé, ,1987-07-25,POR,Miranda do Corvo,POR
 trapgi,Trapattoni,Giovanni,1939-03-17,ITA,Cusano Milanino,ITA
 tulima,Tulipa, ,1972-10-06,POR,Vila Nova de Gaia,POR
+turrpa,Turra,Paulo,1973-11-14,BRA,Tuparendi,BRA
 turxla,Ausina,Lorenzo,-,SPA,Utiel,SPA
 urbavi,Urbano,Vitor,1953-11-08,POR, ,POR
+valdpe,Valdemar,Pedro,1989-06-06,POR,Penafiel,POR
 vaquni,Vaqueiro,Nicolau,1950-09-13,POR,Matosinhos,POR
 vascel,Vaschetto,Eladio,-,ARG, ,ARG
 vazxfg,Vaz,Fernando,1918-08-03,POR,Benguela,POR
@@ -564,6 +588,7 @@ vieiot,Vieira,Otto,-,BRA, ,BRA
 vieiru,Vieira,Rui,1962-05-21,POR,Vila Real,POR
 vieise,Vieira,Sérgio,1983-01-15,BRA,Póvoa de Lanhoso,POR
 villlu,Villa,Luís,-,POR, ,POR
+villpa,Villar,Pablo,1986-09-04,SPA,Avilés,SPA
 vingne,Vingada,Nelo,1953-03-30,POR,Serpa,POR
 vinumi,Vinueza,Miguel,1924-10-07,SPA,Granada,SPA
 violef,Fernández,Enrique,1912-06-10,URU,Montevideo,URU

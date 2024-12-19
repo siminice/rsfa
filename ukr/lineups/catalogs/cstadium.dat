@@ -1,9 +1,9 @@
-43
+46
 alch00,stal-alchevsk-stadion
 bori00,kolos-borispol
 cher00,im-yuriya-haharina-chernihiv
 cher01,chernihiv-stadium-chernihiv
-chrk00,tsentralnyi-miskyi-stadion-cherkasy
+chrk00,cherkasy-arena-cherkasy
 dnip00,dnipro-dnipropetrovsk_2
 dnip01,meteor-dnipropetrovsk
 done00,donbass-arena-donezk
@@ -17,6 +17,8 @@ kiev01,valeriya-lobanovskovo-kiev
 kiev02,obolon-kiev
 kiev03,ntk-bannikova-kiev
 kiev04,koncha-zaspa-kiev
+kiev05,cska-kiev
+kive06,stadion-livyy-bereh-kiev
 kova00,stadion-kolos-kovalivka
 kriv00,stadion=metallurg-kryvyi-rih
 kriv02,stadion-shakhty-zhovtneva-kriviy-rig
@@ -42,3 +44,4 @@ sumy00,yuvileiny-sumy
 tern00,stadion-miskyj-ternopil
 uzhg00,avangard-uzhgorod
 zapo00,slavutych-arena-zaporizhya
+zhyt00,tsentralnyi-stadium-zhytomyr

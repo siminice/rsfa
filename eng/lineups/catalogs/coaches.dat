@@ -1,4 +1,4 @@
-682
+697
 ______,?, , ,????, ,????
 achtjo,Achterberg,John,1971-07-08,NED,Utrecht,NED
 adamji,Adamson,Jimmy,1929-04-04,ENG,Ashington,ENG
@@ -49,6 +49,7 @@ batete,Bates,Ted,1918-05-03,ENG,Thetford,ENG
 beaspa,Beasley,Pat,1913-07-16,ENG,Stourbridge,ENG
 beatan,Beattie,Andy,1913-08-11,SCO,Kintore,SCO
 beerwj,Beer,William John,1879-01-04,ENG, ,ENG
+bellcr,Bellamy,Craig,1979-07-13,WAL,Cardiff,WAL
 bellwi,Bell,Willie,1937-09-03,SCO,Johnstone,SCO
 benepa,Benetti,Paolo,1965-04-28,ITA,Cormano,ITA
 benira,Benítez,Rafa,1960-04-16,SPA,Madrid,SPA
@@ -182,6 +183,7 @@ dychse,Dyche,Sean,1971-06-28,ENG,Kettering,ENG
 earpfw,Earp,Frederick William,1860-10-01,ENG, ,ENG
 eastge,Eastham,George,1936-09-23,ENG,Blackpool,ENG
 edwajo,Edwards,Joe,1986-09-26,ENG, ,ENG
+edwaro,Edwards,Rob,1982-12-25,WAL,Telford,ENG
 edwawi,Edwards,Willis,1903-04-28,ENG,Newton,ENG
 elphto,Elphick,Tommy,1987-09-07,ENG,Brighton,ENG
 emerun,Emery,Unai,1971-11-03,SPA,Hondarribia,SPA
@@ -221,6 +223,7 @@ giggry,Giggs,Ryan,1973-11-29,WAL,Cardiff,WAL
 gilejo,Giles,Johnny,1940-11-06,IRL,Dublin,IRL
 gillma,Gillies,Matt,1921-08-12,SCO,West Lothain,SCO
 gillwi,Gillow,Wilf,1892-07-08,ENG,Preston,ENG
+glasol,Glasner,Oliver,1974-08-28,AUT,Salzburg,AUT
 goddpa,Goddard,Paul,1959-10-12,ENG,Harlington,ENG
 goodfr,Goodwin,Freddie,1933-06-28,ENG,Heywood,ENG
 gordja,Gordon,James,1915-10-23,SCO,Fauldhouse,SCO
@@ -293,13 +296,16 @@ hughma,Hughes,Mark,1963-11-01,WAL,Wrexham,WAL
 hughph,Hughes,Phil,1964-11-19,NIR,Belfast,NIR
 hutcch,Hutchings,Chris,1957-07-05,ENG,Winchester,ENG
 incepa,Ince,Paul,1967-10-21,ENG,Ilford,ENG
+iraoan,Iraola,Andoni,1982-06-22,SPA,Usúrbil,SPA
 irvial,Irvine,Alan,1958-07-12,SCO,Glasgow,SCO
 jackbo,Jackson,Bob,0000-00-00,ENG, ,ENG
 jackda,Jack,David,1899-04-03,ENG,Bolton,ENG
 jackhe,Jackson,Henry,1850-01-01,ENG, ,ENG
 jackmi,Jackson,Michael,1973-12-04,ENG,Runcorn,ENG
 jagogo,Jago,Gordon,1932-10-22,ENG,Poplar,ENG
+jedimi,Jedinak,Mile,1984-08-03,AUS,Sydney,AUS
 jeffji,Jefferies,Jim,1950-11-22,SCO,Musselburgh,SCO
+jenkti,Jenkins,Tim,1980-06-14,ENG, ,ENG
 jewepa,Jewell,Paul,1964-09-28,ENG,Liverpool,ENG
 jezzbe,Jezzard,Bedford,1927-10-19,ENG,Clerkenwell,ENG
 jobege,Jobey,George,1885-07-01,ENG,Heddon,ENG
@@ -330,6 +336,7 @@ klopju,Klopp,Jürgen,1967-06-16,GER,Stuttgart,GER
 knigke,Knighton,Ken,1944-02-20,ENG,Mexborough,ENG
 knigle,Knighton,Leslie,1887-03-15,ENG,Church Gresley,ENG
 koemro,Koeman,Ronald,1963-03-21,NED,Zaandam,NED
+kompvi,Kompany,Vincent,1986-04-10,BEL,Ukkel,BEL
 krawpe,Krawietz,Peter,1971-12-31,GER,Mainz,GER
 kylerh,Kyle,Robert H,1870-01-01,NIR, ,NIR
 lagebr,Lage,Bruno,1976-05-12,POR,Setúbal,POR
@@ -370,6 +377,7 @@ mackda,MacKay,Dave,1934-11-14,SCO,Edinburgh,SCO
 mackdo,Mackay,Don,1940-03-19,SCO,Glasgow,SCO
 mackma,Mackay,Malky,1972-02-19,SCO,Bellshill,SCO
 magafe,Magath,Felix,1953-07-26,GER,Aschaffenburg,GER
+maldan,Maldera,Andrea,1971-05-18,ENG,Milano,ENG
 malete,Maley,Thomas Edward,1865-11-08,SCO, ,SCO
 malljo,Mallett,Joe,1916-01-08,ENG,Gateshead,ENG
 mancro,Mancini,Roberto,1964-11-27,ITA,Jesi,ITA
@@ -388,6 +396,7 @@ mazzwa,Mazzarri,Walter,1961-10-01,ITA,San Vincenzo,ITA
 mcalga,McAllister,Gary,1964-12-25,SCO,Motherwell,SCO
 mccami,McCarthy,Mick,1959-02-07,IRL,Barnsley,ENG
 mccapa,McCarthy,Paddy,1983-05-31,IRL,Dublin,IRL
+mccast,McCall,Stuart,1964-06-10,SCO,Leeds,ENG
 mcclst,McClaren,Steve,1961-05-03,ENG,Fulford,ENG
 mccoia,McColl,Ian,1927-06-07,SCO,Alexandria,SCO
 mcdebr,McDermott,Brian,1961-04-08,ENG,Slough,ENG
@@ -460,6 +469,7 @@ newbhj,Newbould,Henry J,1861-01-01,ENG, ,ENG
 nichbi,Nicholson,Bill,1919-01-26,ENG,Scarborough,ENG
 nichch,Nicholl,Chris,1946-10-12,NIR,Wilmslow,ENG
 nichjo,Nicholson,John,1864-01-01,ENG, ,ENG
+nolake,Nolan,Kevin,1982-06-24,ENG,Liverpool,ENG
 notxjo,Not, ,1939-06-23,SPA,Barcelona,SPA
 nunonu,Nuno, ,1974-01-25,POR,São Tomé, 
 o_c2pe,O´Rourke,Peter,1873-06-01,SCO, ,SCO
@@ -492,10 +502,12 @@ pickal,Pickles,Albert,1877-01-01,ENG, ,ENG
 pleada,Pleat,David,1945-01-15,ENG,Nottingham,ENG
 pochma,Pochettino,Mauricio,1972-03-02,ARG,Murphy,ARG
 portia,Porterfield,Ian,1946-02-11,SCO,Dunfermline,SCO
+postan,Postecoglou,Ange,1965-08-27,AUS,Nea Filadelfeia,GRE
 pottcb,Potter,Cecil Bertram,1888-11-14,ENG, ,ENG
 pottgr,Potter,Graham,1975-05-20,ENG,Solihull,ENG
 pottha,Potts,Harry,1920-10-22,ENG,Hetton-le-Hole,ENG
 poyegu,Poyet,Gustavo,1967-11-25,URU,Montevideo,URU
+prezje,Pérez,Jesús,1971-10-05,SPA,Barcelona,SPA
 puelcl,Puel,Claude,1961-09-02,FRA,Castres,FRA
 pulito,Pulis,Tony,1958-01-16,WAL,Newport,WAL
 quirpa,Quiroga,Pablo,1981-10-07,ARG,Buenos Aires,ARG
@@ -570,6 +582,7 @@ silvma,Silva,Marco,1977-07-12,POR,Lisboa,POR
 silvru,Silva,Rui,1977-03-14,SPA, ,SPA
 sirrja,Sirrel,James,1922-02-02,SCO,Glasgow,SCO
 skubmi,Skubala,Michael,1982-10-31,ENG, ,ENG
+slotar,Slot,Arne,1978-09-17,NED,Bergentheim,NED
 slutle,Slutskiy,Leonid,1971-05-04,RUS,Volgograd,RUS
 smital,Smith,Alan,1946-12-28,ENG, ,ENG
 smitd1,Smith,Dean,1971-03-19,ENG,West Bromwich,ENG
@@ -627,6 +640,7 @@ toffpd,De Toffol,Paolo,1961-06-28,ITA,Belluno,ITA
 toshca,Toshack,Cameron,1970-03-07,WAL,Cardiff,WAL
 toshjo,Toshack,John,1949-03-22,WAL,Cardiff,WAL
 tourko,Touré,Kolo,1981-03-19,CIV,Sokuora Bouake,CIV
+trolpa,Trollope,Paul,1972-06-03,WAL,Swindon,ENG
 trotji,Trotter,Jimmy,1899-11-25,ENG,Easington,ENG
 tuchth,Tuchel,Thomas,1973-08-29,GER,Krumbach,GER
 turna1,Turner,Arthur, ,ENG,Starb 1949.,ENG
@@ -637,6 +651,7 @@ valevi,Valero, ,1973-02-28,SPA,Castelló de la Plana,SPA
 venate,Venables,Terry,1943-01-06,ENG,Bethnal Green,ENG
 vengjo,Vengloš,Jozef,1936-02-18,SVK,Ružomberok,SVK
 vialgi,Vialli,Gianluca,1964-07-09,ITA,Cremona,ITA
+viceca,Vicens,Carlos,1983-02-12,SPA,Mallorca,SPA
 vieipa,Vieira,Patrick,1976-06-23,FRA,Dakar,SEN
 villvi,Villa, ,1976-04-12,SPA,Alcorcón,SPA
 vioxgi,Vio,Gianni,1953-04-06,ITA,Venedig,ITA

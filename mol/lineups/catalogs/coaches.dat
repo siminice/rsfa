@@ -1,4 +1,4 @@
-128
+136
 agaxvl,Aga,Vladimir,0000-00-00,MLD, ,MLD
 akersa,Aker,Samet,1985-10-22,TUR, ,TUR
 andrva,Andronic,Valeriu,1982-12-21,MLD,Chişinău,MLD
@@ -27,6 +27,7 @@ cebose,Cebotari,Sergiu,1981-02-21,MLD, ,MLD
 chirs1,Chirilov,Serghei,1973-06-05,MLD,Şoldăneşti,MLD
 chirse,Chirilov,Sergiu,1973-07-05,MLD,Șoldănești,MLD
 clesse,Cleşcenco,Serghei,1972-05-20,MLD,Criuleni,MLD
+cojovi,Cojocaru,Viorel,0000-00-00,MOL, ,MOL
 colcso,Colceag,Sorin,1972-03-11,ROM,Buzău,ROM
 curtal,Curteian,Alexandru, ,MLD, ,MLD
 djgada,Djgarcava,Dazmir,1957-10-10,MLD, ,MLD
@@ -39,6 +40,7 @@ efrope,Efros,Petru,1964-10-23,MLD, ,MLD
 ferrju,Ferrando,Juan,1981-01-02,SPA,Barcelona,SPA
 fistol,Fistican,Oleg,1975-02-01,MLD,Chişinău,MLD
 freisi,Freitas,Simão,1980-12-10,POR,Guimarães,POR
+frunv1,Frunză,Viorel,1979-12-06,MOL,Chișinău,MOL
 frunvi,Frunză,Viorel,1979-12-06,MLD,Chișinău,MLD
 ganeio,Ganea,Ionel,1973-08-10,ROM,Făgăraş,ROM
 goiavl,Goian,Vlad,1970-11-14,MLD,Chisinau,MLD
@@ -46,6 +48,8 @@ golool,Golokolosov,Oleksandr,1955-08-01,UKR,Odessa,UKR
 gospvl,Gosperschi,Vladimir, ,MLD, ,MLD
 grauru,Graur,Ruslan,0000-00-00,MLD, ,MLD
 grosiu,Groşev,Iurie,1976-05-16,UKR, ,UKR
+gudevl,Gudev,Vladimir,1972-12-19,MOL, ,MOL
+gurayu,Gura,Yuriy,1976-08-08,UKR, ,UKR
 hodciu,Hodîchin,Iurii, ,MLD, ,MLD
 iricpa,Iriciuc,Pavel, ,MLD, ,MLD
 irlebr,Irles,Bruno,1975-08-16,FRA,Rochefort,FRA
@@ -75,10 +79,12 @@ opreig,Oprea,Igor,1969-10-05,MLD, ,MLD
 osipiu,Osipenco,Iuri,1974-07-06,MLD, ,MLD
 panuni,Panu,Nicolae,1969-12-18,MLD, ,MLD
 patral,Patraman,Alexandru,0000-00-00,MLD, ,MLD
+picuig,Picuşceac,Igor,1983-03-27,MOL,Tiraspol,MOL
 piliro,Pilipchuk,Roman,1967-04-27,RUS, ,RUS
 pogova,Pogorelov,Valeri,1967-06-25,MLD, ,MLD
 popeli,Popescu,Lilian,1973-11-15,MLD,Făleștii Noi,MLD
 popove,Popov,Velizar,1976-02-07,BUL,Plovdiv,BUL
+pylyro,Pylypchuk,Roman,1967-07-27,UKR,Snizhne,UKR
 rakhig,Rakhaev,Igor,1973-05-26,UKR,Kharkov,UKR
 rashvi,Rashkevich,Vitaliy,1970-10-08,BLR, ,BLR
 resima,Reşiţca,Marcel,1975-11-04,MLD, ,MLD
@@ -108,6 +114,7 @@ tocavi,Tocarciuc,Victor, ,MLD, ,MLD
 tomast,Tomas,Stjepan,1976-06-03,CRO,Bugojno,BOS
 tracal,Tracalov,Alexandru,1979-07-19,MLD, ,MLD
 tudolf,Tudor,Laurențiu Florin,1976-06-17,ROM,Bucureşti,ROM
+urcani,Țurcan,Nikolai,1986-03-11,MOL,Tiraspol,MOL
 ursaig,Ursachi,Igor,1962-07-07,MLD, ,MLD
 vasiva,Vasiliev,Valeri, ,MLD, ,MLD
 veacso,Veaceslav,Sofroni,0000-00-00,MOL, ,MOL
@@ -115,6 +122,7 @@ vebevl,Veber,Vladimir,1941-07-20,MLD,Omsk,MLD
 veriol,Veryovkin,Olexandr, ,UKR, ,UKR
 vernyu,Vernydub,Yuriy,1966-01-22,UKR,Zhytomyr, 
 vieril,Vieri,Ilie,1952-08-04,MLD, ,MLD
+vikoad,Vikolash,Adrian,1982-10-26,MOL, ,MOL
 vukide,Vukićević,Dejan,1968-04-27,MNT,Podgorica,MNT
 vulizo,Vulić,Zoran,1961-10-04,CRO,Split,CRO
 vusavl,Vusatîi,Vladimir,1954-08-21,MLD,Vinnytsia,UKR

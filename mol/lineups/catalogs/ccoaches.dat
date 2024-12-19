@@ -1,4 +1,4 @@
-128
+136
 agaxvl,Aga,Vladimir, ,0000-00-00,MLD, ,MLD,vladimir-aga
 akersa,Aker,Samet,Samet Yilmaz Aker,1985-10-22,TUR, ,TUR,samet-aker
 andrva,Andronic,Valeriu, ,1982-12-21,MLD,Chişinău,MLD,valeriu-andronic
@@ -27,6 +27,7 @@ cebose,Cebotari,Sergiu, ,1981-02-21,MLD, ,MLD,sergiu-cebotari
 chirs1,Chirilov,Serghei, ,1973-06-05,MLD,Şoldăneşti,MLD,serghei-chirilov
 chirse,Chirilov,Sergiu, ,1973-07-05,MLD,Șoldănești,MLD,sergiu-chirilov
 clesse,Cleşcenco,Serghei, ,1972-05-20,MLD,Criuleni,MLD,serghei-clescenco
+cojovi,Cojocaru,Viorel, ,0000-00-00,MOL, ,MOL,viorel-cojocaru
 colcso,Colceag,Sorin,Sorin Dorel Colceag,1972-03-11,ROM,Buzău,ROM,sorin-colceag
 curtal,Curteian,Alexandru,Alexandr Curteian, ,MLD, ,MLD,___
 djgada,Djgarcava,Dazmir, ,1957-10-10,MLD, ,MLD,dazmir-djgarcava
@@ -39,6 +40,7 @@ efrope,Efros,Petru,Petru Efros,1964-10-23,MLD, ,MLD,___
 ferrju,Ferrando,Juan,Juan Ferrando Fenoll,1981-01-02,SPA,Barcelona,SPA,juan-ferrando
 fistol,Fistican,Oleg, ,1975-02-01,MLD,Chişinău,MLD,oleg-fistican
 freisi,Freitas,Simão,Simão Pedro Fernandes de Freitas,1980-12-10,POR,Guimarães,POR,simao-freitas
+frunv1,Frunză,Viorel, ,1979-12-06,MOL,Chișinău,MOL,viorel-frunza
 frunvi,Frunză,Viorel, ,1979-12-06,MLD,Chișinău,MLD,viorel-frunz
 ganeio,Ganea,Ionel,Ioan Viorel Ganea,1973-08-10,ROM,Făgăraş,ROM,ionel-ganea
 goiavl,Goian,Vlad, ,1970-11-14,MLD,Chisinau,MLD,vlad-goian
@@ -46,6 +48,8 @@ golool,Golokolosov,Oleksandr, ,1955-08-01,UKR,Odessa,UKR,oleksandr-golokolosov_2
 gospvl,Gosperschi,Vladimir,Vladimir Gosperschi, ,MLD, ,MLD,___
 grauru,Graur,Ruslan, ,0000-00-00,MLD, ,MLD,ruslan-graur
 grosiu,Groşev,Iurie, ,1976-05-16,UKR, ,UKR,iurie-grosev
+gudevl,Gudev,Vladimir, ,1972-12-19,MOL, ,MOL,vladimir-gudev
+gurayu,Gura,Yuriy,Yuriy Volodymyrovych Gura,1976-08-08,UKR, ,UKR,yuriy-gura
 hodciu,Hodîchin,Iurii,Iurii Hodîchin, ,MLD, ,MLD,___
 iricpa,Iriciuc,Pavel,Pavel Iriciuc, ,MLD, ,MLD,___
 irlebr,Irles,Bruno, ,1975-08-16,FRA,Rochefort,FRA,bruno-irles
@@ -75,10 +79,12 @@ opreig,Oprea,Igor,Igor Oprea,1969-10-05,MLD, ,MLD,___
 osipiu,Osipenco,Iuri, ,1974-07-06,MLD, ,MLD,iuri-osipenco
 panuni,Panu,Nicolae, ,1969-12-18,MLD, ,MLD,nicolae-panu
 patral,Patraman,Alexandru, ,0000-00-00,MLD, ,MLD,alexandru-patraman
+picuig,Picuşceac,Igor, ,1983-03-27,MOL,Tiraspol,MOL,igor-picusceac
 piliro,Pilipchuk,Roman,Roman Pilipchuk,1967-04-27,RUS, ,RUS,___
 pogova,Pogorelov,Valeri,Valeri Pogorelov,1967-06-25,MLD, ,MLD,___
 popeli,Popescu,Lilian, ,1973-11-15,MLD,Făleștii Noi,MLD,lilian-popescu
 popove,Popov,Velizar, ,1976-02-07,BUL,Plovdiv,BUL,velizar-popov
+pylyro,Pylypchuk,Roman, ,1967-07-27,UKR,Snizhne,UKR,roman-pylypchuk
 rakhig,Rakhaev,Igor, ,1973-05-26,UKR,Kharkov,UKR,igor-rakhaev
 rashvi,Rashkevich,Vitaliy, ,1970-10-08,BLR, ,BLR,vitaliy-rashkevich
 resima,Reşiţca,Marcel, ,1975-11-04,MLD, ,MLD,marcel-resitca
@@ -108,6 +114,7 @@ tocavi,Tocarciuc,Victor,Victor Tocarciuc, ,MLD, ,MLD,___
 tomast,Tomas,Stjepan, ,1976-06-03,CRO,Bugojno,BOS,stjepan-tomas
 tracal,Tracalov,Alexandru, ,1979-07-19,MLD, ,MLD,alexandru-tracalov
 tudolf,Tudor,Laurențiu Florin, ,1976-06-17,ROM,Bucureşti,ROM,laureniu-florin-tudor
+urcani,Țurcan,Nikolai, ,1986-03-11,MOL,Tiraspol,MOL,nikolai-turcan
 ursaig,Ursachi,Igor, ,1962-07-07,MLD, ,MLD,igor-ursachi
 vasiva,Vasiliev,Valeri,Valeri Vasiliev, ,MLD, ,MLD,___
 veacso,Veaceslav,Sofroni, ,0000-00-00,MOL, ,MOL,sofroni-veaceslav
@@ -115,6 +122,7 @@ vebevl,Veber,Vladimir, ,1941-07-20,MLD,Omsk,MLD,vladimir-veber
 veriol,Veryovkin,Olexandr,Olexandr Veryovkin, ,UKR, ,UKR,___
 vernyu,Vernydub,Yuriy,Yuriy Mykolayovych Vernydub,1966-01-22,UKR,Zhytomyr, ,yuriy-vernydub
 vieril,Vieri,Ilie,Ilie Vieri,1952-08-04,MLD, ,MLD,___
+vikoad,Vikolash,Adrian, ,1982-10-26,MOL, ,MOL,adrian-vikolash
 vukide,Vukićević,Dejan, ,1968-04-27,MNT,Podgorica,MNT,dejan-vukicevic
 vulizo,Vulić,Zoran, ,1961-10-04,CRO,Split,CRO,zoran-vulic
 vusavl,Vusatîi,Vladimir,Volodymyr Vusatyi,1954-08-21,MLD,Vinnytsia,UKR,vladimir-vusatii

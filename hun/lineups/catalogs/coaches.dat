@@ -1,4 +1,4 @@
-495
+511
 _c5_ti,Őze,Tibor,1951-10-08,HUN,?, 
 aczezo,Aczél,Zoltán,1967-03-13,HUN,Budapest,HUN
 adamjo,Ádám,József,1914-01-25,HUN,Budapest, 
@@ -39,6 +39,7 @@ bodota,Bódog,Tamás,1970-09-27,HUN,Dunaújváros,HUN
 boerga,Boér,Gábor,1982-12-19,HUN,Orosháza,HUN
 bogng1,Bognár,György,1961-11-05,HUN,Baja,HUN
 bogngy,Bognár,György,1961-11-05,HUN,Baja, 
+bonipt,Bonifert,Péter,1985-07-04,HUN, ,HUN
 borbla,Borbély,László,1955-05-14,SVK,?, 
 borgis,Borgulya,István,1971-02-05,HUN, ,HUN
 borhka,Borhy,Károly,1912-06-23,HUN,Budapest, 
@@ -163,6 +164,7 @@ hirega,Híres,Gábor,1958-02-26,HUN,Budapest,HUN
 hlavgy,Hlavay,György,1888-01-04,HUN,Budapest, 
 hornzs,Hornyák,Zsolt,1973-05-01,SVK, ,SVK
 horvde,Horváth,Dezső,0000-00-00,HUN, , 
+horvdv,Horváth,Dávid,1985-02-01,HUN,Budapest,HUN
 horvfe,Horváth,Ferenc,1973-05-06,HUN,Budapest,HUN
 horvja,Horváth,János,0000-00-00,HUN, , 
 horvka,Horváth,Károly,1952-12-19,HUN, ,HUN
@@ -199,6 +201,7 @@ karppa,Kárpáti,Pál,1909-01-31,HUN,Budapest,
 kaszga,Kaszás,Gábor,1947-03-09,HUN,Budapest, 
 keglla,Keglovich,László,1940-02-04,HUN,Sopron, 
 kemeti,Kemény,Tibor,1913-03-05,HUN,Budapest, 
+kereba,Kerekes,Barna,0000-00-00,HUN, ,HUN
 keszfe,Keszei,Ferenc,1950-07-12,HUN,?, 
 keszmi,Keszthelyi,Mihály,1922-12-11,HUN,Budapest, 
 killka,Killermann,Károly,1902-00-00,HUN,?, 
@@ -243,6 +246,7 @@ kulcar,Kulcsár,Árpád,1974-10-07,HUN,Pécs,HUN
 kustsl,Kustudić,Slobodan,1947-11-11,SRB,?, 
 kuttat,Kuttor,Attila,1970-05-29,HUN,Miskolc,HUN
 kuusma,Kuusela,Martti,1945-10-09,FIN,Rovaniemi, 
+kuznse,Kuznetsov,Sergey,1982-08-31,UKR,Kharkiv,UKR
 kvasja,Kvasz,János,1905-06-14,HUN,Békéscsaba, 
 laczis,Laczkó,István,1924-03-05,HUN,Budapest, 
 lakakd,Lakat,Károly,1920-11-27,HUN,Győr, 
@@ -250,6 +254,7 @@ lantba,Lantai,Balázs,1972-10-20,HUN,Veszprém,
 lantmi,Lantos,Mihály,1928-09-29,HUN,Budapest, 
 laszcs,László,Csaba,1964-02-13,HUN,Odorheiu Secuiesc,ROM
 lazagy,Lázár,Gyula,1911-01-24,HUN,Füzesgyarmat, 
+leanle,Leandro, ,1982-03-19,HUN,Cornélio Procópio,BRA
 lehnge,Léhner,Géza,0000-00-00,HUN, , 
 lelima,Leliévre,Marc,1960-01-01,BEL, ,BEL
 lengfe,Lengyel,Ferenc,1966-09-09,HUN,Dunaújváros, 
@@ -260,12 +265,14 @@ lorajo,Lóránt,József,0000-00-00,HUN, ,
 lovajo,Lovászi,József,1918-00-00,HUN,?, 
 lucsta,Lucsánszky,Tamás,1966-05-01,HUN, ,HUN
 lykaan,Lyka,Antal,1908-05-29,HUN,Budapest, 
+macest,Macek,Stanislav,1977-12-15,SVK,Myjava,SVK
 machfe,Machos,Ferenc,1932-06-30,HUN,Tatabánya, 
 macsan,Mácsai,András,1903-00-00,HUN,?, 
 madaga,Madár,Gábor,1938-10-18,HUN,Vác, 
 magyfe,Magyar,Ferenc,1910-04-02,HUN,?, 
 magygy,Magyar,György,1939-00-00,HUN,?, 
 magyka,Magyar,Károly,1912-09-24,HUN,Vecsés, 
+makrzs,Makra,Zsolt,1982-05-24,HUN,Szeged,HUN
 mandgy,Mándi,Gyula,1899-07-14,HUN,Budapest, 
 markim,Markos,Imre,1908-06-09,HUN,Kispest, 
 marobe,Marosvári,Béla,1919-04-07,HUN,Kovászi, 
@@ -288,6 +295,7 @@ mezegy,Mezey,György,1941-09-07,HUN,Bačka Topola,SRB
 mihai1,Mihalecz,István,1947-06-16,HUN,Zalaegerszeg, 
 mihais,Mihalecz,István,1973-09-06,HUN,Budapest,HUN
 miklsi,Miklós,Simon,1980-05-17,HUN, ,HUN
+milami,Milanović,Milan,1963-01-10,SRB,Belgrad,SRB
 minkol,Mink,Olivér,1970-04-11,HUN,Pécs,HUN
 miriva,Miriuţă,Vasile,1968-09-19,HUN,Baia Mare,ROM
 molnba,Molnár,Balász,1977-07-01,HUN,Zalaegerszeg,HUN
@@ -331,6 +339,7 @@ paliti,Palicskó,Tibor,1928-09-28,HUN,Sárospatak,
 pallro,Pallagi,Róbert,1936-11-02,HUN,?, 
 palois,Palotás,István,1907-11-13,HUN,Budapest, 
 pappla,Papp,Lajos,1927-01-17,HUN,Szombathely, 
+parkdm,Parkhomenko,Dmytro,1978-10-24,UKR,Odessa,UKR
 paszjo,Pásztor,József,1954-03-20,HUN,Vencsellő, 
 patata,Pataki,Tamás,1937-06-17,HUN,Budapest, 
 peczka,Pecze,Károly,1946-02-07,SVK,Kassa, 
@@ -359,6 +368,8 @@ puskla,Puskás,Lajos,1944-08-13,HUN,Tetétlen,
 puszl1,Pusztai,László,1946-03-01,HUN,Szentes, 
 puszla,Pusztai,László,1950-06-02,HUN,Balatonlelle, 
 rabala,Rábay,László,1928-10-28,HUN,?, 
+radevl,Radenković,Vladimir,1978-01-22,SRB,Belgrade,SRB
+radevu,Radenkovic,Vujadin,1982-12-22,SRB,Belgrad,SRB
 radoja,Radoki,Janos,1972-03-07,GER, ,GER
 radvmi,Radványi,Mikuláš,1968-11-22,SVK,Dunajská Streda,SVK
 rakogy,Rákosi,Gyula,1938-10-09,HUN,Budapest, 
@@ -375,7 +386,9 @@ rotha1,Róth,Antal,1960-09-14,HUN,Komló,
 rothan,Róth,Antal,1960-09-14,HUN,Komló,HUN
 rozsjo,Rózsa,József,1901-00-00,HUN,?, 
 s_c3is,Süle,István,1943-12-13,HUN,?, 
+sakine,Sakić,Nenad,1971-06-15,SRB,Kruševac,SRB
 sandis,Sándor,István,1944-08-19,HUN,Csepel, 
+sandjo,Sandahl,Johan,1979-02-20,SWE, ,SWE
 sanngi,Sannino,Giuseppe,1957-04-30,ITA,Ottaviano,ITA
 sarlan,Sarlós,András,1953-03-24,HUN,Budapest, 
 sarola,Sárosi,László,1932-02-27,HUN,Budapest, 
@@ -385,6 +398,7 @@ sebegu,Sebes,Gusztáv,1906-01-22,HUN,Budapest,
 selyti,Selymes,Tibor,1970-05-14,ROM,Bălan,ROM
 shorcr,Short,Craig,1968-06-25,ENG,Bridlington,ENG
 simoan,Simon,Antal,1965-09-27,HUN,Hajdúnánás,HUN
+simomi,Simon,Miklós,1980-05-17,HUN, ,HUN
 simoti,Simon,Tibor,1965-09-01,HUN,Budapest, 
 sisati,Sisa,Tibor,1960-12-01,HUN, ,HUN
 sivito,Sivić,Tomislav,1966-08-29,SRB,Subotica,SRB
@@ -393,6 +407,7 @@ sosxka,Sós,Károly,1909-04-05,HUN,Budapest,
 souspa,Sousa,Paulo,1970-08-30,POR,Viseu,POR
 spiszo,Spisljak,Zoran,1965-01-12,SRB,Backa Toppla,SRB
 stahje,Stáhl,Jenő,1909-00-00,HUN,?, 
+stande,Stanković,Dejan,1978-09-11,SRB,Belgrad,SRB
 steija,Steiner,János,1908-04-23,HUN,Budapest, 
 stgepe,Stöger,Peter,1966-04-11,AUT,Wien,AUT
 strala,Strausz,László,1956-09-30,HUN,Vác, 
@@ -426,6 +441,7 @@ szenla,Szentes,Lázár,1955-12-12,HUN,Bonyhád,HUN
 szigla,Szigeti,László,0000-00-00,HUN, , 
 szigos,Szigeti,Oszkár,1933-09-10,HUN,Miskolc, 
 szijis,Szijjártó,István,1958-12-21,HUN,Budapest,HUN
+szilzo,Szilvási,Zoltán,1997-03-10,HUN, ,HUN
 szitla,Szita,László,1933-00-00,HUN,?, 
 szurla,Szurgent,Lajos,1944-10-18,HUN,Körösladány, 
 szusfe,Szusza,Ferenc,1923-12-01,HUN,Újpest, 

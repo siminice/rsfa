@@ -1,4 +1,4 @@
-404
+454
 Flamengo       Flamengo Rio de Janeiro
 Fluminense     Fluminense Rio de Janeiro
 Sao Paulo      Sao Paulo FC
@@ -12,7 +12,7 @@ Vasco da Gama  CR Vasco da Gama
 Gremio         Gremio Porto Alegre
 Internacional  Internacional Porto Alegre
 Goias          Goias EC
-Portuguesa     Portuguesa Sao Paulo
+Portuguesa SP  Portuguesa Sao Paulo
 Atl Paranaense Atletico Paranaense
 Sport Recife   Sport Club do Recife
 Bangu          Bangu AC Rio de Janeiro
@@ -83,7 +83,7 @@ Comercial      EC Comercial Campo Grande
 Goiania        Goiania EC
 Campinense     Campinense Clube
 Fast           Nacional Fast Manaus
-Maringa        Gremio Maringa
+Gremio Maringa Gremio Maringa
 Dom Bosco      CE Dom Bosco
 Volta Redonda  Volta Redonda FC
 Botafogo PB    Botafogo Joao Pessoa
@@ -190,8 +190,8 @@ Ypiranga       CA Ypiranga
 Railway        Sao Paulo Railway AC
 Tremembe       Tremembe FC
 Germania       SC Germania
-Estudantes     SC Internacional Sao Paulo
-Independecia   CA Independencia Sao Paulo
+Inter SP       SC Internacional Sao Paulo
+Independencia  CA Independencia Sao Paulo
 Santista       CA Santista
 Paulistano     CA Paulistano
 Antarctica     Antarctica FC Sao Paulo
@@ -203,7 +203,7 @@ Alumni         SC Alumni Sao Paulo
 Lapa           Uniao Lapa FC
 Mackenzie      AA Mackenzie College
 Americano SP   SC Americano Sao Paulo
-Athletic       Sao Paulo Athletic Club
+SPAC           Sao Paulo Athletic Club
 Corinthians PP Corinthians Ponte Preta
 Comercial SP   Comercial FC Sao Paulo
 Linense        CA Linense
@@ -402,4 +402,54 @@ Coimbra        Coimbra EC Contagem
 Manaus         Manaus FC
 Jacuipense     EC Jacuipense
 Brusque        Brusque FC Santa Catarina
-Athletic Club  Athletic Club São João del-Rei
+Athletic Club  Athletic Club São João del-R
+Altos          AE de Altos
+Floresta       Floresta EC Fortaleza
+Aparecidense   AA Aparecidense
+Atl Cearense   FC Atlético Cearense
+Amazonas       Amazonas FC Manaus
+Sampaio RJ     Sampaio Corrêa FE Saquarema
+Itabirito      Itabirito Futebol Clube
+Nacional RS    EC Nacional de Cruz Alta
+Cruzeiro SG    Cruzeiro São Gabriel
+Veronese       Veronese de Canoas
+Uruguaiana     EC Uruguaiana
+Renner         Grêmio Esportivo Renner
+Guarany Cacho  Guarany Cachoeira do Sul
+Riogrande SM   Riograndense FC Santa Maria
+Bancario       Clube Atlético Bancário de P
+Esperanca NH   Sociedade Esportiva Esperança
+Riogrande PF   Riograndense Passo Fundo
+Inter Santos   CA Internacional de Santos
+Americano Sant CA Américano Santos
+Scottish       Scottish Wanderers São Paulo
+Hydecroft      Hydecroft FC Jundiaí
+Vicentino      Grêmio Atlético Vicentino 
+Maranhao SP    Associação Athlética Maranh
+Italo          Ítalo Foot Ball Club
+Paysandu SP    Paysandu FC de São Paulo
+Ruggerone      Ruggerone FC São Paulo
+Britania       Britânia Athletic Club
+Sant'Anna      Sant'Anna FC
+Humberto I     Humberto I
+Jardim         Jardim América
+Ordem Progreso AA Ordem e Progreso
+Cattete        Cattete FC
+Germania RJ    Germânia Rio de Janeiro
+Paulistano RJ  Paulistano Rio de Janeiro
+Petropolitano  Petropolitano
+Alegrete       Guarani Alegrete
+Ind Livramento Independente Livramento
+Sao Leopoldo   Nacional São Leopoldo
+Americano RS   Americano Porto Alegre
+Rosario        Guarany Rosário do Sul
+Itaqui         14 de Julho Itaqui
+Universal      Universal Uruguaiana
+Riogrande CA   Riograndense Cruz Alta
+Botafogo SG    Botafogo São Gabriel
+Ferroviario RS Ferroviário Bagé
+Marica         Maricá FC
+Monsoon        Monsoon FC Porto Alegre
+Aymores        SC Aymorés Ubá
+Retro          Retrô FC Brasil
+Maringa FC     Maringá FC

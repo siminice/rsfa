@@ -56,7 +56,7 @@ krasla,Krasniqi,Laurit,2001-07-14,BEL,3,50,F,1,0,1,0,    1,0,0,0,0,0,0,0,0
 miyoko,Miyoshi,Koji,1997-03-26,JAP,3,19,M,25,15,10,1, 1360,3,3,0,0,0,0,2,0
 nainra,Nainggolan,Radja,1988-05-04,BEL,3,4,M,32,32,0,2, 2557,19,0,0,0,0,0,5,0
 nsimbr,Nsimba,Bruny,2000-04-05,BEL,3,22,A,1,0,1,0,   10,0,1,0,0,0,0,0,0
-pachwi,Pacho,William,2001-10-16,ECU,3,51,F,3,2,1,0,  188,2,3,0,0,0,0,0,0
+pachwi,Pacho,Willian,2001-10-16,ECU,3,51,F,3,2,1,0,  188,2,3,0,0,0,0,0,0
 quirro,Quirynen,Robbe,2001-11-03,BEL,3, , ,2,2,0,0,  117,0,2,0,0,0,0,0,0
 samamb,Samatta,Mbwana,1992-12-23,TAN,3,70,A,32,13,19,5, 1446,5,0,0,0,0,0,2,1
 seckab,Seck,Abdoulaye,1992-06-04,SEN,3,30,F,24,20,4,2, 1803,17,5,0,0,0,0,4,2
@@ -383,7 +383,6 @@ theaar,Theate,Arthur,2000-05-25,BEL,19, , ,3,3,0,0,  269,2,1,0,0,0,0,1,1
 urhoos,Urhoghide,Osaze,2000-07-04,ENG,19,5,F,7,7,0,0,  585,6,0,0,0,0,0,1,0
 wylisi,Wylin,Siebe,2003-05-27,BEL,19,36,F,8,4,4,0,  355,2,14,0,0,0,0,0,0
 agueya,Aguemon,Yanick,1992-02-11,BEN,71, , ,3,1,2,0,  124,0,6,0,0,0,0,0,0
-tamamA,Al Tamari,Musa,1997-06-10,JOR,71,11,A,31,24,7,3, 2193,8,0,0,0,0,0,4,1
 allear,Allemeersch,Arthur,2001-07-27,BEL,71,39,A,4,2,2,0,  128,0,4,0,0,0,0,0,0
 asanis,Asante,Isaac,2002-08-29,BEL,71,20,M,0,0,0,0,    0,0,1,0,0,0,0,0,0
 beseba,Bese,Barnabás,1994-05-06,HUN,71, , ,5,4,1,0,  256,0,0,0,0,0,0,0,0
@@ -576,7 +575,7 @@ holzra,Holzhauser,Raphael,1993-02-16,AUT,187,8,M,30,24,6,3, 2082,10,2,0,0,1,0,7,
 hostko,Hosten,Kobe,0000-00-00,BEL,187,26,P,0,0,0,0,    0,0,1,0,0,0,0,0,0
 konsap,Konstantopoulos,Apostolos,2002-08-02,GRE,187,66,F,10,4,6,1,  392,2,14,0,0,0,0,1,0
 krekle,Kreković,Leon,2000-05-07,CRO,187,77,A,7,2,5,0,  253,0,9,0,0,0,0,0,0
-lejoan,Lejoly,Antoine,1998-03-26,BEL,187,72,P,4,3,1,0,  271,3,8,-11,0,0,0,0,0
+lejoan,Lejoly,Antoine,1998-03-26,BEL,187,72,P,4,3,1,0,  271,3,8,-6,0,0,0,0,0
 lemom1,Lemos,Mauricio,1995-12-28,URU,187,44,F,15,11,4,1,  997,6,3,0,0,0,0,2,0
 mbokay,Mboko,Ayrton,1997-10-23,BEL,187, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
 troudm,Mukuna-Trouet,David,2001-10-02,BEL,187,38,A,2,0,2,0,   32,0,4,0,0,0,0,0,0

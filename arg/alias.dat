@@ -1,25 +1,25 @@
 1800 CA River Plate~River Plate
 1800 CA Boca Juniors~Boca Juniors
-1800 CA Vélez Sarsfield~Vélez Sarsf
+1800 CA Vélez Sársfield~Vélez
 1800 CA Independiente Avellaneda~Independiente
-1800 Racing Club de Avellaneda~Racing
+1800 Racing Football Club~Racing*1915 Racing Club de Avellaneda~Racing Club
 1800 CA San Lorenzo de Almagro~San Lorenzo
-1800 Newell's Old Boys Rosario~Newell's OB
-1800 Estudiantes de La Plata~Estudiantes LP
-1800 CA Rosario Central~Rosario
+1800 CA Newell's Old Boys Rosario~Newell's OB
+1800 Club Estudiantes de La Plata~Estudiantes LP
+1800 CA Rosario Central~Rosario Central
 1800 CA Lanús~Lanús
-1800 Argentinos Juniors~Argentinos Jrs
-1800 Club Ferro Carril Oeste~Ferrocarril
+1800 AA Argentinos Juniors~Argentinos Jrs
+1800 Club Ferro Carril Oeste~Ferro Carril
 1800 Instituto AC Córdoba~Instituto
-1800 Colón de Santa Fe~Colón
+1800 Colón de Santa Fe~Colón Santa Fe
 1800 CA Talleres de Córdoba~Talleres
 1800 CA Banfield~Banfield
 1800 Gimnasia y Esgrima La Plata~Gimnasia LP
 1800 Quilmes Atlético Club~Quilmes
 1800 CA Belgrano de Córdoba~Belgrano
-1800 CA Platense Vicente Lopez~Platense
+1800 CA Platense~Platense
 1800 Arsenal de Sarandí~Arsenal
-1800 Club Almagro~Almagro
+1800 Sportivo Almagro~Almagro*1927 Club Almagro~Almagro
 1800 Club Olimpo Bahia Blanca~Olimpo
 1800 CA Huracán~Huracán
 1800 Huracán Tres Arroyos~Tres Arroyos
@@ -31,7 +31,7 @@
 1800 CA Los Andes Loma de Zamora~Los Andes
 1800 Gimnasia y Tiro Salta~Gimn y Tiro
 1800 Deportivo Español~Dep Español
-1800 Central Córdoba Rosario~Central Córdoba
+1800 Central Córdoba Rosario SdE~Central Córdoba
 1800 San Martín de San Juan~SM San Juan
 1800 CA San Martín de Tucumán~SM Tucumán
 1800 Almirante Brown de Isidro~Alm Brown
@@ -44,29 +44,29 @@
 1800 San Martín de Mendoza~SM Mendoza
 1800 CA Douglas Haig Pergamino~Douglas Haig
 1800 CA All Boys La Floresta~All Boys
-1800 Estudiantes Buenos Aires~Estudiantes BA
+1800 CA Estudiantes Buenos Aires~Estudiantes BA
 1800 CA San Miguel~San Miguel
 1800 CSD Defensa y Justicia FV~Defensa
 1800 Deportivo Italiano~Dep Italiano*2009 Sportivo Italiano~Italiano
 1800 Deportivo Morón~Dep Morón
 1800 CA Atlanta~Atlanta
-1800 CA Alumni~Alumni
+1800 Buenos Aires English High School~BA English HS*1901 CA Alumni~Alumni
 1800 CA Tigre Victoria~Tigre
-1800 Deportivo Mandiyu Corrientes~Dep Mandiyu
+1800 Deportivo Mandiyu Corrientes~Dep Mandiyú
 1800 Talleres Remedios de Escalada~Talleres RE
 1800 CA Tiro Federal Rosario~Tiro Federal
 1800 CA Racing de Córdoba~Racing Córdoba
 1800 El Porvenir Gerli~El Porvenir
 1800 C.A.I. Comodoro Rivadavia~CAI
-1800 Defensores de Belgrano~Def Belgrano
+1800 CA Defensores de Belgrano~Defensores
 1800 Juventud Antoniana Salta~Juv Antoniana
-1800 CA Sarmiento Junin~Sarmiento
+1800 CA Sarmiento Junín~Sarmiento
 1800 Gimnasia Entre Rios~Entre Rios
 1800 CS Independiente Rivadavia~Rivadavia
 1800 Villa Mitre Bahia Blanca~Villa Mitre
 1800 General Paz Juniors Córdoba~General Paz
 1800 Argentino Rosario~Argentino R
-1800 CA Temperley~Temperley
+1800 CA Temperley~Temperley*1932 Argentino de Temperley~Temperley*1935 CA Temperley~Temperley
 1800 Deportivo Armenio~Dep Armenio
 1800 Ramón Santamarina~Ramón
 1800 Altos Hornos Zapla~Zapla
@@ -81,15 +81,15 @@
 1800 Kimberley Mar del Plata~Kimberley
 1800 CA San Telmo~San Telmo
 1800 CS Ben Hur Rafaela~Ben Hur
-1800 Excursionistas Belgrano~Excursionistas
+1800 CA Excursionistas Belgrano~Excursionistas
 1800 Argentino de Quilmes~Arg Quilmes
-1800 CA Colegiales~Colegiales
+1800 Sportivo del Norte~Sp del Norte*1925 CA Colegiales~Colegiales
 1800 Sportivo Dock Sud~Dock Sud
 1800 Sportivo Buenos Aires~Sportivo BA
 1800 CA Barracas Central~Barracas Centr
-1800 Estudiantil Porteño~Est Porteño
+1800 CA Estudiantil Porteño~Estudiantil
 1800 Sportivo Alsina~Alsina
-1800 Sportivo Barracas~Sp Barracas
+1800 Club Riachuelo~Riachuelo*1914 Club Sportivo Barracas~Sp Barracas
 1800 Sportivo Acassuso~Acassuso
 1800 Boulogne~Boulogne
 1800 Club Villa Dálmine~Villa Dálmine
@@ -117,9 +117,9 @@
 1800 CA Alumni Villa Maria~Villa Maria
 1800 Boca Unidos de Corrientes~Boca Unidos
 1800 GyE Concepción de Uruguay~Concepción Uru
-1800 Gimnasia de Mendoza~Gim Mendoza
+1800 Gimnasia y Esgrima de Mendoza~Gim Mendoza
 1800 Guillermo Brown Puerto Madryn~Puerto Madryn
-1800 Juventud UU de San Luis~San Luis
+1800 Juventud Unida de San Luis~San Luis
 1800 CSyD La Florida Leales~La Florida
 1800 La Plata FC~La Plata FC
 1800 Libertad de Sunchales~Lib Sunchales
@@ -127,14 +127,14 @@
 1800 AA Lujan de Cuyo~Lujan de Cuyo
 1800 Real Arroyo Seco~Arroyo Seco
 1800 Club Rivadavia de Lincoln~Lincoln
-1800 CD Santamarina de Tandil~Tandil
+1800 CD Ramón Santamarina de Tandil~Tandil
 1800 Sportivo Patria~Patria
 1800 Talleres Perico~Perico
 1800 Ferrocaril Oeste General Pico~General Pico
 1800 Unión Villa Krause~Villa Krause
 1800 Deportivo Maipu~Dep Maipu
 1800 Estación Quequen Necochea~Quequen
-1800 Central Córdoba del Estero~CC Estero
+1800 Central Córdoba Santiago del Estero~CC Estero
 1800 CA Ituzaingo~Ituzaingo
 1800 Almirante Brown Arrecifes~Arrecifes
 1800 CA Patronato de Paraná~Patronato
@@ -145,10 +145,80 @@
 1800 Sportivo Estudiantes San Luis~San Luis
 1800 Juventud Unida Gualeguaychu~Gualeguaychu
 1800 Atlético Parana~Atl Parana
-1800 Clud Deportivo Riestra~Riestra
+1800 Club Deportivo Riestra~Riestra
 1800 Club Agropecuario Argentino~Agropecuario
 1800 CA Mitre Santiago del Este~Mitre
 1800 CA Alvarado~Alvarado
 1800 Club Atlético Güemes~Güemes
 1800 Deportivo Madryn~Dep Madryn
 1800 CA Defensores Unidos Zárate~Zárate
+1800 CA Huracán de Ingeniero White~Huracán IW
+1800 Don Orione AC Barranqueras~Don Orione
+1800 Huracán Comodoro Rivadavia~Huracán CR
+1800 CA Bartolomé Mitre Posadas~Bart Mitre
+1800 Independiente de Trelew~Trelew
+1800 Atlético Ledesma~Atl Ledesma
+1800 CA Sarmiento Resistencia~Sarmiento
+1800 Los Andes San Juan~Los Andes SJ*1980 CA Trinidad San Juan~Trinidad
+1800 Deportivo Roca~Roca
+1800 Atlético Concepción~Concepción
+1800 CSyD Loma Negra Olavarría~Loma Negra
+1800 Huracán San Rafael~San Rafael
+1800 Unión San Vicente~San Vicente
+1800 Estudiantes Santiago del Estero~Estudiantes SE
+1800 CA Mariano Moreno Junín~Mariano Moreno
+1800 Club Renato Cesarini Rosario~Cesarini
+1800 Andino Sport Club La Rioja~Andino
+1800 Atlético Santa Rosa~Santa Rosa
+1800 Atlético Uruguay~Atl Uruguay
+1800 Unión General Pinedo~General Pinedo
+1800 CA Argentino de Firmat~Firmat
+1800 Juventud Alianza Santa Lucía~Santa Lucía
+1800 Atlético Regina~Regina
+1800 CF Jorge Newbery Junín~Jorge Newbery
+1800 Puerto Comercial Ingeniero White~Puerto Com
+1800 Sportivo Palermo~Palermo*1933 Club Atlético y Sportivo Palermo~Palermo
+1800 Argentino de Banfield~Arg Banfield
+1800 Club San Fernando~San Fernando
+1800 CA Liberal Argentino~Liberal
+1800 CA General San Martín~San Martín
+1800 Gutemberg La Plata~Gutemberg
+1800 Ramsar SC Ramos Mejia~Ramsar
+1800 CA San Isidro~San Isidro
+1800 Club Honor y Patria Bernal~Honor y Patria
+1800 Argentino del Sud~Arg del Sud
+1800 CA Porteño~Porteño
+1800 Sportivo Balcarce~Balcarce
+1800 Boca Alumni~Boca Alumni
+1800 CA Sportsman Buenos Aires~Sportsman
+1800 CA Alvear Villa Crespo~Alvear
+1800 CA Del Plata~Del Plata
+1800 CSyD Progresista Gerli~Progresista
+1800 CA Platense Retiro~Platense R*1925 CA Universal~Universal
+1800 Club Villa Urquiza~Villa Urquiza
+1800 Club Hispano Argentino~Hispano*1915 Club Columbian~Columbian
+1800 Gimnasia y Esgrima Buenos Aires~Gimnasia BA
+1800 Buenos Aires & Rosario Railway~BA&R Railway*1896 Belgrano Athletic Club~Belgrano
+1800 Kimberley Atlético Club~Kimberley
+1800 CA Comercio FBC~Comercio
+1800 CA Floresta~Floresta
+1800 Lanús Athletic Club~Lanús AC*1910 CA del Ferrocarril Gran Sud~Ferro Sud
+1800 Sociedad Sportiva Argentina~Sportiva
+1800 CA Olivos~Olivos
+1800 Reformer Athletic Club~Reformer
+1800 Lomas Athletic Club~Lomas
+1800 San Martín Athletic Club~San Martín
+1800 Barracas Athletic Club~Barracas
+1800 Belgrano Extra~Belgrano Extra
+1800 Flores Athletic Club~Flores
+1800 Lobos Athletic Club~Lobos
+1800 United Banks~United Banks
+1800 Palermo Athletic Club~Palermo
+1800 Lomas Academy~Lomas Acad
+1800 Retiro Athletic Club~Retiro
+1800 Quilmes Rovers~Quilmes Rov
+1800 Rosario Athletic Club~Rosario
+1800 Saint Andrew's Scots School~St.Andrew's
+1800 Buenos Aires FC~BAFC
+1800 Old Caledonians FC~Caledonians
+1800 AA Eureka~Eureka*1920 CA Palermo~Palermo

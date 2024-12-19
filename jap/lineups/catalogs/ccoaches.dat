@@ -1,4 +1,4 @@
-307
+326
 adacry,Adachi,Ryo, ,1969-07-02,JAP,Nishinomiya,JAP,ryo-adachi
 akityu,Akita,Yutaka, ,1970-08-06,JAP,Aichi,JAP,yutaka-akita
 ammata,Amma,Takayoshi, ,1969-05-23,JAP,Hamamatsu,JAP,takayoshi-amma
@@ -27,6 +27,7 @@ champe,Chamusca,Péricles,Péricles Raimundo Oliveira Chamusca,1965-09-29,BRA,Sa
 chanwr,Chang,Woe-ryong, ,1959-04-05,KOR,Goheung,KOR,woe-ryong-chang
 choxgw,Cho,Gwi-jae, ,1969-01-16,KOR,Kyoto,KOR,gwi-jae-cho
 choxkj,Cho,Kwi-Jea, ,1969-01-16,KOR,Kyoto,JAP,kwi-jea-cho
+chugma,Chugo,Masaki, ,1982-05-16,JAP,Chiba,JAP,masaki-chugo
 cklape,Cklamovski,Peter, ,1978-10-16,AUS,Sydney,AUS,peter-cklamovski
 claran,Clark,Andrew,Andrew Charles Clark,1974-08-24,AUS,Gosford,AUS,andrew-clark
 costja,Costa,José Alberto,José Alberto Barroso Machado e Costa,1953-10-31,POR,Porto,POR,jose-alberto-costa
@@ -62,13 +63,16 @@ hayahi,Hayano,Hiroshi, ,1955-11-14,JAP, ,JAP,hiroshi-hayano
 hayake,Hayashi,Kentaro, ,1972-08-29,JAP,Tokyo,JAP,kentaro-hayashi
 hayato,Hayakawa,Tomonobu, ,1977-07-11,JAP,Shimizu,JAP,tomonobu-hayakawa
 heldsi,Held,Sigfried, ,1942-08-07,GER,Freudental,GER,sigfried-held
+hgmope,Høgmo,Per-Mathias, ,1959-12-01,NOR,Gratangen,NOR,per-mathias-hoegmo
 higuya,Higuchi,Yasuhiro, ,1966-07-01,JAP,Mie,JAP,yasuhiro-higuchi
 hirahi,Hiraoka,Hiroaki, ,1969-09-02,JAP,Shizuoka,JAP,hiroaki-hiraoka
 hirary,Hiraki,Ryuzo, ,1931-10-07,JAP,Osaka,JAP,ryuzo-hiraki
 hirata,Hirakawa,Tadaaki, ,1979-05-01,JAP,Shizuoka,JAP,tadaaki-hirakawa
 horita,Hori,Takafumi, ,1967-09-10,JAP,Atsugi,JAP,takafumi-hori
+hutcjo,Hutchinson,John,John Paul Hutchinson,1979-12-29,MAL,Morwell,AUS,john-hutchinson
 hwankw,Hwangbo,Kwan,Bo-Kwan Hwang,1965-03-01,KOR,Daegu,KOR,kwan-hwangbo
 iharma,Ihara,Masami, ,1967-09-18,JAP,Manikuchi,JAP,masami-ihara
+ikedno,Ikeda,Nobuyasu, ,1970-05-18,JAP,Saitama,JAP,nobuyasu-ikeda
 ikeyto,Ikeya,Tomoyoshi, ,1962-06-17,JAP,Shizuoka,JAP,tomoyoshi-ikeya
 imaito,Imai,Toshiaki, ,1954-12-29,JAP, ,JAP,toshiaki-imai
 ishiha,Ishii,Halime, ,1959-05-26,JAP,Kanagawa,JAP,halime-ishii
@@ -99,7 +103,9 @@ kawake,Kawai,Kenta, ,1981-06-07,JAP,Ehime,JAP,kenta-kawai
 kawary,Kawakatsu,Ryoichi, ,1958-04-05,JAP,Kyoto,JAP,ryoichi-kawakatsu
 kazaya,Kazama,Yahiro, ,1961-10-16,JAP,Shizuoka,JAP,yahiro-kazama
 kerngu,Kern,Günter, ,1958-08-25,GER,Berchtesgaden,GER,guenter-kern
+keweha,Kewell,Harry,Harold Marty Jr. Kewell,1978-09-22,AUS,Smithfield,AUS,harry-kewell
 kikuis,Kikuchi,Isao, ,0000-00-00,JAP, ,JAP,isao-kikuchi
+kikuna,Kikuchi,Naoya, ,1984-11-24,JAP,Shizuoka,JAP,naoya-kikuchi
 kikuyo,Kikugawa,Yoshio, ,1944-09-12,JAP,Shizuoka,JAP,yoshio-kikugawa
 kimubu,Kimura,Bunji, ,1944-07-27,JAP,Kyoto,JAP,bunji-kimura
 kimuka,Kimura,Kazushi, ,1958-07-19,JAP,Hiroshima,JAP,kazushi-kimura
@@ -121,6 +127,8 @@ koncfr,Koncilia,Friedl,Friedrich Koncilia,1948-02-25,AUT,Klagenfurt,AUT,friedl-k
 koriha,Kori,Harumi, ,1953-08-17,JAP, ,JAP,harumi-kori
 kunoto,Kuno,Tomoaki, ,1973-09-25,JAP,Shizuoka,JAP,tomoaki-kuno
 kurahi,Kuramata,Hisao, ,1958-12-01,JAP,Saitama,JAP,hisao-kuramata
+kuriry,Kurisawa,Ryoichi, ,1982-09-05,JAP,Matsudo,JAP,ryoichi-kurisawa
+kurogo,Kuroda,Go, ,1970-05-26,JAP,Sapporo,JAP,go-kuroda
 kurohi,Kurosaki,Hisashi, ,1968-05-08,JAP,Kanuma,JAP,hisashi-kurosaki
 kuwata,Kuwahara,Takashi, ,1948-05-05,JAP,Fujieda,JAP,takashi-kuwahara
 kuzejo,Kuže,Josip, ,1952-11-13,CRO,Vranje,SRB,josip-kuze
@@ -176,12 +184,15 @@ nakahi,Nakata,Hitoshi, ,1962-01-17,JAP,Osaka,JAP,hitoshi-nakata
 nakash,Nakamura,Shin, ,1974-05-06,JAP,Osaka,JAP,shin-nakamura
 nakata,Nakamura,Tadashi, ,1971-06-10,JAP,Mizuho,JAP,tadashi-nakamura
 nanahi,Nanami,Hiroshi, ,1972-11-28,JAP,Fujieda,JAP,hiroshi-nanami
+natsyo,Natsuka,Yoshihiro, ,1969-10-07,JAP,Chiba,JAP,yoshihiro-natsuka
 nepova,Nepomnyashchiy,Valeriy,Valeriy Kuzmich Nepomnyashchiy,1943-08-07,RUS, ,RUS,valeriy-nepomnyashchiy
 nicani,Nicanor, ,Nicanor de Carvalho Júnior,1947-02-09,BRA,Leme,BRA,nicanor
 nisha1,Nishimura,Akihiro, ,1958-08-08,JAP,Osaka,JAP,akihiro-nishimura
 nishak,Nishino,Akira, ,1955-04-07,JAP,Saitama,JAP,akira-nishino
+nishya,Nishino,Yasumasa, ,1982-09-14,JAP,Toyama,JAP,yasumasa-nishino
 oenoka,Oenoki,Katsumi, ,1965-04-03,JAP,Shizuoka,JAP,katsumi-oenoki
 ogurta,Ogura,Takafumi, ,1973-07-06,JAP,Suzuka,JAP,takafumi-ogura
+oguryu,Ogura,Yusuke, ,1979-07-10,JAP, ,JAP,yusuke-ogura
 oiwago,Oiwa,Go, ,1972-06-23,JAP,Shizuoka,JAP,go-oiwa
 okadta,Okada,Takeshi, ,1956-08-25,JAP, ,JAP,takeshi-okada
 okixta,Oki,Takeshi, ,1961-07-16,JAP,Shizuoka,JAP,takeshi-oki
@@ -223,6 +234,7 @@ ricazx,Ricardo,Zé,Jose Ricardo Mannarino,1971-03-13,BRA,Rio de Janeiro,BRA,ze-r
 rivero,Rivelino, ,Roberto Rivelino,1946-01-01,BRA,São Paulo,BRA,rivelino
 rochpe,Rocha,Pedro,Pedro Virgílio Rocha Franchetti,1942-12-03,URU,Salto,URU,pedro-rocha
 rodrri,Rodríguez,Ricardo,Ricardo Rodríguez Suárez,1974-04-03,SPA,Oviedo,SPA,ricardo-rodriguez_3
+sakosh,Sakoi,Shinya, ,1977-05-08,JAP,Hiroshima,JAP,shinya-sakoi
 sakusa,Sakuma,Satoru, ,1960-12-12,JAP,Tokyo,JAP,satoru-sakuma
 sancda,Sánchez,Daniel, ,1953-11-21,FRA,Oujda,MAR,daniel-sanchez
 sandlo,Sandri,Lori,Lori Paulo Sandri,1949-01-29,BRA,Encantado,BRA,lori-sandri
@@ -251,23 +263,30 @@ somana,Soma,Naoki, ,1971-07-19,JAP,Shizuoka,JAP,naoki-soma
 soriya,Sorimachi,Yasuharu, ,1964-03-08,JAP,Saitama,JAP,yasuharu-sorimachi
 sowahi,Sowa,Hiroshi, ,1956-05-01,JAP,Hiroshima,JAP,hiroshi-sowa
 stojdr,Stojković,Dragan, ,1965-03-03,SRB,Niš, ,dragan-stojkovic
+sugato,Sugawara,Tomo, ,1976-06-03,JAP,Muroran,JAP,tomo-sugawara
+sugiko,Sugiyama,Koichi, ,1971-10-27,JAP,Takatsuki,JAP,koichi-sugiyama
+sunama,Sunakawa,Makoto, ,1977-08-10,JAP,Chiba,JAP,makoto-sunakawa
 suzuhi,Suzuki,Hideto, ,1974-10-07,JAP,Shizuoka,JAP,hideto-suzuki
 suzuju,Suzuki,Jun, ,1961-08-17,JAP,Miyagi,JAP,jun-suzuki
 suzuma,Suzuki,Masakazu, ,1955-01-01,JAP,Yamanashi,JAP,masakazu-suzuki
+suzury,Suzuki,Ryuji, ,1979-05-07,JAP, ,JAP,ryuji-suzuki
 takada,Takahashi,Daisuke, ,1983-09-18,JAP,Fukuoka,JAP,daisuke-takahashi
 takake,Takahashi,Kenji, ,1970-06-05,JAP,Yamagata,JAP,kenji-takahashi
 takash,Takahashi,Shinichiro, ,1957-10-27,JAP,Hiroshima,JAP,shinichiro-takahashi
 takata,Takagi,Takuya, ,1967-11-12,JAP,Minamishibara,JAP,takuya-takagi
 takats,Takahata,Tsutomu, ,1968-06-16,JAP,Osaka,JAP,tsutomu-takahata
 takeka,Takemoto,Kazuhiko, ,1955-11-22,JAP,Aichi,JAP,kazuhiko-takemoto
+takeko,Takeya,Kosuke, ,1991-07-04,JAP, ,JAP,kosuke-takeya
 takiyu,Takita,Yuki, ,1967-05-16,JAP,Saitama,JAP,yuki-takita
 tanako,Tanaka,Koji, ,1955-11-02,JAP,Saitama,JAP,koji-tanaka
+tanary,Tanaka,Ryotaro, ,1989-03-13,JAP, ,JAP,ryotaro-tanaka
 tankib,Tanko,Ibrahim, ,1977-07-25,GHA,Kumasi,GHA,ibrahim-tanko
 tasaka,Tasaka,Kazuaki, ,1971-09-03,JAP,Hiroshima,JAP,kazuaki-tasaka
 teguma,Teguramori,Makoto, ,1967-11-14,JAP,Gonohe,JAP,makoto-teguramori
 terash,Terada,Shuhei, ,1975-06-23,JAP,Yokosuka,JAP,shuhei-terada
 thomed,Thomson,Eddie, ,1947-02-25,AUS,Rosewell,SCO,eddie-thomson
 titaml,Tita, ,Mílton Queiroz da Paixão,1958-04-01,BRA,Rio de Janeiro,BRA,tita
+todami,Toda,Mitsuhiro, ,1977-09-10,JAP,Miyazaki,JAP,mitsuhiro-toda
 tsukyu,Tsukada,Yuji, ,1957-12-28,JAP,Yamanashi,JAP,yuji-tsukada
 uchiat,Uchiyama,Atsushi, ,1959-06-29,JAP,Shizuoka,JAP,atsushi-uchiyama
 uedaei,Ueda,Eiji, ,1953-12-22,JAP,Tateyama,JAP,eiji-ueda
