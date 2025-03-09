@@ -1,7 +1,7 @@
 andet2,Andersen,Thomas,1959-04-18,DEN,3, ,F,18,18,0,1, 1620,18,0,0,0,0,0,1,0
 andeso,Andersen,Søren,1970-01-31,DEN,3, ,A,29,29,0,11, 2327,19,0,0,0,0,0,2,0
 chrit6,Christensen,Torben,1963-07-14,DEN,3, ,M,28,24,4,6, 2042,15,0,0,0,0,0,1,0
-chric1,Christiansen,Claus,1972-03-27,DEN,3, ,M,31,28,3,3, 2552,26,0,0,-1,0,0,5,0
+chric1,Christiansen,Claus Friis,1972-03-27,DEN,3, ,M,31,28,3,3, 2552,26,0,0,-1,0,0,5,0
 frisla,Frisch,Lars,1964-03-02,DEN,3, , ,10,10,0,0,  900,10,0,0,0,0,0,1,0
 halvjh,Halvorsen,Jan-Halvor,1963-03-08,NOR,3, ,F,13,13,0,0, 1150,12,0,0,0,0,0,5,0
 hardbo,Harder,Bo,1968-03-05,DEN,3, ,F,29,28,1,2, 2438,22,0,0,0,0,0,4,0
@@ -26,10 +26,10 @@ andeer,Andersen,Erik,1970-11-14,DEN,4, ,A,3,1,2,0,   86,0,0,0,0,0,0,0,0
 boyeto,Boye,Torben,1966-05-02,DEN,4, ,F,30,30,0,2, 2605,26,0,0,0,0,0,3,0
 dissso,Dissing,Søren,1960-10-09,DEN,4, ,A,29,26,3,7, 2306,19,0,0,0,0,0,7,0
 facica,Facius,Calle,1971-01-01,DEN,4, ,M,27,27,0,0, 2401,26,0,0,0,0,0,4,0
-hansh1,Hansen,Henrik,1963-01-01,DEN,4, ,F,1,1,0,0,   56,0,0,0,0,0,0,0,0
+hansh1,Hansen,Henrik Poul,1963-01-01,DEN,4, ,F,1,1,0,0,   56,0,0,0,0,0,0,0,0
 jessje,Jessen,Jens,1967-10-20,DEN,4, ,M,25,10,15,4, 1126,6,0,0,0,0,0,0,0
-joern4,Jørgensen,Niels,1971-01-24,DEN,4, ,P,32,32,0,0, 2880,32,0,-44,0,0,0,0,0
-krisk2,Kristensen,Kim,1972-02-28,DEN,4, ,M,10,4,6,0,  459,3,0,0,0,0,0,1,0
+joern4,Jørgensen,Niels Christian,1971-01-24,DEN,4, ,P,32,32,0,0, 2880,32,0,-44,0,0,0,0,0
+krisk2,Kristensen,Kim Sand,1972-02-28,DEN,4, ,M,10,4,6,0,  459,3,0,0,0,0,0,1,0
 krishe,Kristensen,Henrik,1964-07-24,DEN,4, ,F,13,7,6,0,  704,5,0,0,0,0,0,2,0
 larss2,Larsen,Søren,1962-12-01,DEN,4, ,F,19,17,2,0, 1485,12,0,0,0,0,0,1,0
 larsh1,Larsen,Henrik,1965-10-03,DEN,4, ,F,14,14,0,0, 1231,13,0,0,0,0,0,1,0
@@ -74,7 +74,7 @@ elahfr,Elahor,Friday,1967-11-14,NGR,0,4,A,8,6,2,0,  541,4,0,0,0,0,0,1,0
 hoegje,Høgh,Jes,1966-05-07,DEN,0, ,F,7,7,0,1,  603,5,0,0,0,0,0,1,0
 jensb1,Jensen,Bjarne,1959-04-16,DEN,0, ,F,26,25,1,1, 2231,23,0,0,0,0,0,2,1
 jensbr,Jensen,Brian,1968-04-23,DEN,0, ,F,29,28,1,3, 2526,27,0,0,0,0,0,0,1
-jensfa,Jensen,Faxe,1965-05-03,DEN,0,4,M,27,26,1,2, 2150,19,0,0,0,0,0,8,1
+jensfa,Jensen,John Faxe,1965-05-03,DEN,0,4,M,27,26,1,2, 2150,19,0,0,0,0,0,8,1
 jensh1,Jensen,Henrik,1959-10-25,DEN,0,4,M,18,13,5,3, 1167,8,0,0,0,0,0,5,0
 krisj2,Kristensen,Jesper,1971-10-09,DEN,0,4,M,21,19,2,1, 1772,18,0,0,0,0,0,4,0
 krogmo,Krogh,Mogens,1963-10-31,DEN,0, ,P,32,32,0,0, 2880,32,0,-42,0,0,0,1,0
@@ -104,7 +104,7 @@ folkso,Folkmann,Søren,1967-09-09,DEN,7, ,F,22,19,3,2, 1742,17,0,0,0,0,0,5,0
 franpe,Frank,Peter,1970-05-26,DEN,7, ,F,24,23,1,1, 2062,22,0,0,0,0,0,3,0
 jasamu,Jasar,Mukremin,1967-04-20,DEN,7, ,A,14,11,3,5, 1051,9,0,0,0,0,0,2,0
 jensfi,Jensen,Finn,1964-03-29,DEN,7, ,M,31,27,4,0, 2594,26,0,0,0,0,0,5,0
-jensh2,Jensen,Henrik,1966-01-28,DEN,7, ,F,6,6,0,0,  465,5,0,0,0,0,0,2,0
+jensh2,Jensen,Henrik Imre,1966-01-28,DEN,7, ,F,6,6,0,0,  465,5,0,0,0,0,0,2,0
 larsto,Larsen,Torben,1966-12-06,DEN,7, ,F,8,8,0,0,  720,8,0,0,0,0,0,1,0
 lasspe,Lassen,Peter,1966-10-04,DEN,7, ,A,12,3,9,1,  415,1,0,0,0,0,0,2,0
 lisdpe,Lisdorf,Per,1967-03-31,DEN,7, ,A,18,11,7,1,  989,5,0,0,0,0,0,0,0
@@ -170,7 +170,7 @@ donnmo,Donnerup,Morten,1960-08-26,DEN,2, ,M,15,8,7,2,  815,4,0,0,0,0,0,3,0
 elstla,Elstrup,Lars,1963-03-24,DEN,2, ,A,18,18,0,12, 1586,16,0,0,0,1,0,0,0
 grayge,Gray,Geoffrey,1968-06-05,USA,2, ,F,8,7,1,0,  626,6,0,0,-1,0,0,0,0
 hansle,Hansen,Leon,1959-08-08,DEN,2, ,M,16,15,1,4, 1346,14,0,0,0,0,0,3,0
-hansj5,Hansen,Johny,1966-07-11,DEN,2, , ,1,0,1,0,   45,0,0,0,0,0,0,0,0
+hansj5,Hansen,Johnny,1966-07-11,DEN,2, , ,1,0,1,0,   45,0,0,0,0,0,0,0,0
 hardja,Harder,Jacob,1964-12-05,DEN,2, ,A,8,2,6,2,  243,2,0,0,0,0,0,0,0
 helvth,Helveg,Thomas,1971-06-24,DEN,2, ,F,7,7,0,0,  630,7,0,0,0,0,0,1,0
 hjorpe,Hjorth,Per,1966-11-29,DEN,2, ,F,12,11,1,0,  904,7,0,0,0,0,0,5,0
@@ -206,7 +206,7 @@ larsh1,Larsen,Henrik,1965-10-03,DEN,8, , ,16,16,0,0, 1401,15,0,0,0,0,0,3,0
 larsm3,Larsen,Michael,1969-10-16,DEN,8,5,M,13,13,0,0, 1170,13,0,0,0,0,0,1,0
 melvla,Melvang,Lars,1969-04-03,DEN,8,5,F,30,28,2,0, 2478,22,0,0,0,0,0,3,1
 moelfl,Møldrup,Flemming,1968-09-29,DEN,8,5,F,32,32,0,0, 2859,31,0,0,-1,0,0,2,0
-olseni,Olsen,Niels,1967-01-03,DEN,8,5,F,12,5,7,1,  608,3,0,0,0,0,0,0,0
+olseni,Olsen,Niels Henrik,1967-01-03,DEN,8,5,F,12,5,7,1,  608,3,0,0,0,0,0,0,0
 reesal,Reese,Allan,1967-07-26,DEN,8,5,A,14,13,1,4, 1138,9,0,0,0,0,0,2,0
 skovol,Skov,Ole,1957-05-26,DEN,8,5,A,4,1,3,0,  146,1,0,0,0,0,0,0,0
 sommke,Sommer,Kenni,1974-08-02,DEN,8,5,M,21,14,7,5, 1492,12,0,0,0,0,0,0,0

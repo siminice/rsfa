@@ -1,6 +1,6 @@
 174
 aalato,Aaland,Tore, ,NOR, ,NOR
-aassth,Aass,Thorbjørn, ,NOR, ,NOR
+aassth,Aass,Thorbjørn,1948-04-03,NOR, ,NOR
 alapoe,Alapnes,Øyvind, ,NOR, ,NOR
 alsekj,Alseth,Kjell Gunnar,15/08/1960,NOR, ,NOR
 amlasi,Amland,Sivert Øksnes,17/01/1993,NOR, ,NOR
@@ -44,7 +44,7 @@ hagekr,Hagenes,Kristoffer,00/00/1990,NOR, ,NOR
 hageto,Hagen,Tom Harald,01/04/1978,NOR,Kongsvinger,NOR
 haglki,Haglund,Kim Thomas,27/05/1977,NOR, ,NOR
 haglmo,Haglund,Morten, ,NOR, ,NOR
-hallei,Halle,Einar,29/12/1943,NOR, ,NOR
+hallei,Halle,Einar,29/12/1943,NOR,Molde,NOR
 hansb1,Hansen,Bjarne, ,NOR, ,NOR
 hansbj,Hansen,Bjørn, ,NOR, ,NOR
 hansei,Hansen,Eivin Christofer Møllerud, ,NOR, ,NOR
@@ -100,6 +100,7 @@ larspa,Larsgård,Per Arne,29/03/1946,NOR, ,NOR
 lienma,Lien,Marius, ,NOR, ,NOR
 lienrv,Lien,Roe Vidar,27/01/1960,NOR, ,NOR
 lilloj,Lillebuen,Ole Johan Løvberg, ,NOR, ,NOR
+lindki,Lindboe,Kaare Inge,0000-00-00,NOR, , 
 lkkemB,Løkkeberg,Monica Brun,05/05/1985,NOR, ,NOR
 loefol,Løfald,Ole Johnny, ,NOR, ,NOR
 lukamo,Lukacs,Morten, ,NOR, ,NOR
@@ -117,7 +118,7 @@ nerveg,Nervik,Egil,1957-05-08,NOR, ,NOR
 nilsbj,Nilsen,Bjørn, ,NOR, ,NOR
 nilsja,Nilsen,Jarle, ,NOR, ,NOR
 nilsol,Nilsen,Ola Hobber,20/02/1986,NOR, ,NOR
-nordkj,Nordby,Kjell, ,NOR, ,NOR
+nordkj,Nordby,Kjell,1946-02-01,NOR, ,NOR
 nygale,Nygaard,Leidulv, ,NOR, ,NOR
 nymolC,Nymoen,Line Cathrine,07/05/1989,NOR, ,NOR
 oevrto,Øvrebø,Tom Henning,26/06/1966,NOR,Oslo,NOR
@@ -156,14 +157,13 @@ stfrma,Støfringshaug,Mathias, ,NOR, ,NOR
 storha,Stormoen,Hans Christian,10/10/1974,NOR, ,NOR
 straha,Strand,Harald,02/09/1971,NOR, ,NOR
 sundar,Sundet,Arild,06/03/1962,NOR, ,NOR
-svenhg,Svendsen,Hans Georg, ,NOR, ,NOR
+svenhg,Svendsen,Hans Georg,0000-00-00,NOR, ,NOR
 tariim,Tariq,Imran, ,NOR, ,NOR
 tennjM,Tennøy,Jan Morten, ,NOR, ,NOR
 thorar,Thorp,Arlid,1954-06-23,NOR, ,NOR
 thorel,Thoresen,Elisabeth, ,NOR, ,NOR
 thorsi,Þórleifsson,Sigurður Óli,18/11/1975,ISL, ,ISL
 toesma,Tøsse,Magne,08/09/1961,NOR, ,NOR
-unbexx, , , , , , 
 valsjo,Valstadsve,Jørgen Rønning, ,NOR, ,NOR
 vangod,Vangen,Odd Arne,27/09/1964,NOR, ,NOR
 veloaM,Velo,Anders Michael, ,NOR, ,NOR

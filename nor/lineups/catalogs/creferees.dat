@@ -1,6 +1,6 @@
 174
 aalato,Aaland,Tore,Tore Aaland, ,NOR, ,NOR,tore-aaland
-aassth,Aass,Thorbjørn,Thorbjørn Aass, ,NOR, ,NOR,___
+aassth,Aass,Thorbjørn, Thorbjørn Aass ,1948-04-03,NOR, ,NOR,___
 alapoe,Alapnes,Øyvind,Øyvind Alapnes, ,NOR, ,NOR,oeyvind-alapnes
 alsekj,Alseth,Kjell Gunnar,Kjell Gunnar Alseth,15/08/1960,NOR, ,NOR,kjell-alseth
 amlasi,Amland,Sivert Øksnes,Sivert Øksnes Amland,17/01/1993,NOR, ,NOR,sivert-amland
@@ -44,16 +44,16 @@ hagekr,Hagenes,Kristoffer,Kristoffer Hagenes,00/00/1990,NOR, ,NOR,kristoffer-hag
 hageto,Hagen,Tom Harald,Tom Harald Hagen,01/04/1978,NOR,Kongsvinger,NOR,tom-hagen
 haglki,Haglund,Kim Thomas,Kim Thomas Haglund,27/05/1977,NOR, ,NOR,kim-haglund
 haglmo,Haglund,Morten,Morten Haglund, ,NOR, ,NOR,morten-haglund
-hallei,Halle,Einar,Einar Halle,29/12/1943,NOR, ,NOR,einar-halle
+hallei,Halle,Einar, ,29/12/1943,NOR,Molde,NOR,einar-halle
 hansb1,Hansen,Bjarne,Bjarne Hansen, ,NOR, ,NOR,bjarne-hansen_6
 hansbj,Hansen,Bjørn,Bjørn Hansen, ,NOR, ,NOR,bjoern-hansen_2
 hansei,Hansen,Eivin Christofer Møllerud,Eivin Christofer Møllerud Hansen, ,NOR, ,NOR,eivin-hansen
 hansha,Hansen,Harald,Harald Hansen,1966-04-21,???, ,???,___
 hansto,Hansen,Tore,Tore Hansen,06/02/1978,NOR, ,NOR,tore-hansen
 hareer,Hareland,Erland,Erland Hareland, ,NOR, ,NOR,erland-hareland
-haugar,Haugstad,Arild,Arild Haugstad,1950-03-15,NOR, ,NOR,___
-hauger,Haugen,Erling,Erling Haugen,1946-08-11,NOR, ,NOR,___
-haugro,Haugen,Rolf,Rolf Haugen,04/06/1941,NOR, ,NOR,rolf-haugen
+haugar,Haugstad,Arild, ,1950-03-15,NOR, ,NOR,___
+hauger,Haugen,Erling, ,1946-08-11,NOR, ,NOR,___
+haugro,Haugen,Rolf, ,04/06/1941,NOR, ,NOR,rolf-haugen
 haugst,Hauge,Steinar,Steinar Hauge, ,NOR, ,NOR,steinar-hauge
 haugsv,Haugom,Svein,Svein Haugom, ,NOR, ,NOR,svein-haugom
 haugte,Hauge,Terje,Terje Hauge,05/10/1965,NOR,Bergen,NOR,terje-hauge
@@ -65,7 +65,7 @@ helgkr,Helgerud,Kristoffer,Kristoffer Helgerud,22/11/1965,NOR, ,NOR,kristoffer-h
 hermsg,Hermansen,Svein Gunnar,Svein Gunnar Hermansen,1956-11-24,NOR, ,NOR,___
 higrda,Higraff,Daniel,Daniel Higraff, ,NOR, ,NOR,daniel-higraff
 holega,Holen,Geir Åge Masovn,Geir Åge Masovn Holen,25/08/1967,NOR, ,NOR,geir-age-holen
-hollto,Hollung,Tore,Tore Hollung,1954-05-27,NOR, ,NOR,___
+hollto,Hollung,Tore, ,1954-05-27,NOR, ,NOR,___
 holvst,Holvik,Steinar,Steinar Holvik,21/07/1968,NOR, ,NOR,steinar-holvik
 isakge,Isaksen,Geir Oskar,Geir Oskar Isaksen,00/00/1988,NOR, ,NOR,geir-isaksen
 jahriv,Jahr,Ivar Michael,Ivar Michael Jahr, ,NOR, ,NOR,ivar-jahr
@@ -80,7 +80,7 @@ johnke,Johnsen,Ken Henry,Ken Henry Johnsen,28/07/1975,NOR, ,NOR,ken-johnsen
 kambol,Kamben,Ole,Ole Kamben,20/12/1961,NOR, ,NOR,ole-kamben
 karlja,Karlsen,Jan André,Jan André Karlsen,01/01/1975,NOR, ,NOR,jan-andre-karlsen
 karlol,Karlsen,Ole Herman,Ole Herman Karlsen,17/06/1967,NOR, ,NOR,ole-karlsen
-kjelsv,Kjelbrott,Sven,Sven Kjelbrott,1959-10-02,NOR, ,NOR,___
+kjelsv,Kjelbrott,Sven, ,1959-10-02,NOR, ,NOR,___
 kjentr,Kjensli,Trygve,Trygve Kjensli, ,NOR, ,NOR,trygve-kjensli
 klevan,Kleven,Ann Wenche,Ann Wenche Kleven, ,NOR, ,NOR,ann-kleven
 knapjo,Knapstad,Joakim,Joakim Knapstad, ,NOR, ,NOR,joakim-knapstad
@@ -90,16 +90,17 @@ krinoe,Kringstad,Øyvind,Øyvind Kringstad,26/08/1969,NOR, ,NOR,oeyvind-kringsta
 krinsi,Kringstad,Sigurd Smehus,Sigurd Smehus Kringstad,28/12/1987,NOR, ,NOR,sigurd-kringstad
 krogar,Krogstad,Arne,Arne Krogstad,01/01/1973,NOR, ,NOR,arne-krogstad
 kroksr,Krokdal,Stig-Rune,Stig-Rune Krokdal,11/10/1965,NOR, ,NOR,stig-rune-krokdal
-kronbj,Kronborg,Bjørn,Bjørn Kronborg,1942-09-05,NOR, ,NOR,___
+kronbj,Kronborg,Bjørn, ,1942-09-05,NOR, ,NOR,___
 kvamfr,Kvam,Frode,Frode Kvam,28/07/1952,NOR, ,NOR,frode-kvam
 lafjka,Lafjell,Kai,Kai Lafjell, ,NOR, ,NOR,kai-lafjell
 langru,Langseth,Runar,Runar Langseth, ,NOR, ,NOR,runar-langseth
 larsje,Larsen,Jan Erik,Jan Erik Larsen, ,NOR, ,NOR,jan-erik-larsen
 larsoj,Larsen,Odd-Jarle,Odd-Jarle Larsen,18/06/1969,NOR, ,NOR,odd-jarle-larsen
-larspa,Larsgård,Per Arne,Per Arne Larsgård,29/03/1946,NOR, ,NOR,per-arne-larsgard
+larspa,Larsgård,Per Arne, ,29/03/1946,NOR, ,NOR,per-arne-larsgard
 lienma,Lien,Marius,Marius Lien, ,NOR, ,NOR,marius-lien
 lienrv,Lien,Roe Vidar,Roe Vidar Lien,27/01/1960,NOR, ,NOR,roe-vidar-lien
 lilloj,Lillebuen,Ole Johan Løvberg,Ole Johan Løvberg Lillebuen, ,NOR, ,NOR,ole-johan-lillebuen
+lindki,Lindboe,Kaare Inge, ,0000-00-00,NOR, , ,___
 lkkemB,Løkkeberg,Monica Brun,Monica Brun Løkkeberg,05/05/1985,NOR, ,NOR,monica-loekkeberg
 loefol,Løfald,Ole Johnny,Ole Johnny Løfald, ,NOR, ,NOR,ole-loefald
 lukamo,Lukacs,Morten,Morten Lukacs, ,NOR, ,NOR,morten-lukacs
@@ -113,29 +114,29 @@ moensv,Moen,Svein Oddvar,Svein Oddvar Moen,22/01/1979,NOR,Haugesund,NOR,svein-mo
 murdse,Murdoch,Sean,Sean Murdoch, ,NOR, ,NOR,sean-murdoch_2
 myhrta,Myhren,Tor-Arne,Tor-Arne Myhren,26/11/1964,NOR, ,NOR,tor-arne-myhren
 nebbdr,Nebben,Dag-Roger,Dag-Roger Nebben,05/09/1980,NOR, ,NOR,dag-roger-nebben
-nerveg,Nervik,Egil,Egil Nervik,1957-05-08,NOR, ,NOR,___
+nerveg,Nervik,Egil, ,1957-05-08,NOR, ,NOR,___
 nilsbj,Nilsen,Bjørn,Bjørn Nilsen, ,NOR, ,NOR,bjoern-nilsen
 nilsja,Nilsen,Jarle,Jarle Nilsen, ,NOR, ,NOR,___
 nilsol,Nilsen,Ola Hobber,Ola Hobber Nilsen,20/02/1986,NOR, ,NOR,ola-nilsen
-nordkj,Nordby,Kjell,Kjell Nordby, ,NOR, ,NOR,___
+nordkj,Nordby,Kjell, ,1946-02-01,NOR, ,NOR,___
 nygale,Nygaard,Leidulv,Leidulv Nygaard, ,NOR, ,NOR,leidulv-nygaard
 nymolC,Nymoen,Line Cathrine,Line Cathrine Nymoen,07/05/1989,NOR, ,NOR,line-nymoen
 oevrto,Øvrebø,Tom Henning,Tom Henning Øvrebø,26/06/1966,NOR,Oslo,NOR,tom-oevreboe
 olsefr,Olsen,Frank,Frank Olsen, ,NOR, ,NOR,frank-olsen
-olseje,Olsen,Jan Erik,Jan Erik Olsen,1940-02-14,NOR, ,NOR,___
-olsero,Olsen,Roy Helge,Roy Helge Olsen,19/01/1965,NOR, ,NOR,roy-olsen
+olseje,Olsen,Jan Erik, ,1940-02-14,NOR, ,NOR,___
+olsero,Olsen,Roy Helge, ,19/01/1965,NOR, ,NOR,roy-olsen
 oplale,Opland,Leif Erik,Leif Erik Opland,17/05/1980,NOR, ,NOR,leif-opland
 paulan,Paulsen,André,André Paulsen, ,NOR, ,NOR,andre-paulsen
 paulge,Paulsen,Geir,Geir Paulsen, ,NOR, ,NOR,___
-pederu,Pedersen,Rune,Rune Pedersen,19/05/1963,NOR, ,NOR,rune-pedersen
-presth,Presberg,Thorodd,Thorodd Presberg,1944-01-18,NOR, ,NOR,___
-raabch,Raabe,Christian,Christian Raabe,1955-11-20,NOR, ,NOR,___
+pederu,Pedersen,Rune, ,19/05/1963,NOR, ,NOR,rune-pedersen
+presth,Presberg,Thorodd, ,1944-01-18,NOR, ,NOR,___
+raabch,Raabe,Christian, ,1955-11-20,NOR, ,NOR,___
 raeser,Ræstad,Erik,Erik Ræstad,14/07/1964,NOR, ,NOR,erik-raestad
 rafiom,Rafiq,Omar,Omar Rafiq, ,NOR, ,NOR,omar-rafiq
 randja,Randen,Jan Petter,Jan Petter Randen,20/07/1965,NOR, ,NOR,jan-randen
 roennj,Rönning,Njal,Njal Rönning,04/03/1958,NOR, ,NOR,njal-roenning
 roente,Rönning,Terje,Terje Rönning, ,NOR, ,NOR,terje-roenning
-rognlk,Rogne,Lars Kåre,Lars Kåre Rogne,1956-05-10,NOR, ,NOR,___
+rognlk,Rogne,Lars Kåre, Lars Kåre Rogne ,1956-05-10,NOR, ,NOR,___
 rogslo,Rogstad,Lars Olav,Lars Olav Rogstad,1962-12-26,NOR, ,NOR,___
 rossal,Rossland,Alf Olav,Alf Olav Rossland, ,NOR, ,NOR,alf-rossland
 rypela,Rype,Lars Erik,Lars Erik Rype,19/01/1967,NOR, ,NOR,lars-rype
@@ -144,7 +145,7 @@ saelkj,Sælen,Kjetil,Kjetil Sælen,21/02/1969,NOR, ,NOR,kjetil-saelen
 saggro,Saggi,Rohit,Rohit Saggi,31/01/1992,NOR, ,NOR,rohit-saggi
 sandbr,Sandmoen,Brage,Brage Sandmoen,22/03/1967,NOR, ,NOR,brage-sandmoen
 sigugy,Sigurðsson,Gylfi Már,Gylfi Már Sigurðsson,00/00/1987,ISL, ,ISL,gylfi-sigurdsson_2
-singte,Singsaas,Terje,Terje Singsaas,1947-02-07,NOR, ,NOR,___
+singte,Singsaas,Terje, ,1947-02-07,NOR, ,NOR,___
 sinnsT,Sinnes,Svein Tore,Svein Tore Sinnes,05/04/1990,NOR, ,NOR,svein-sinnes
 skjejo,Skjervold,Jon E.,Jon E. Skjervold,13/09/1957,NOR, ,NOR,jon-skjervold
 skjeto,Skjerven,Tommy,Tommy Skjerven,25/07/1967,NOR, ,NOR,tommy-skjerven
@@ -156,14 +157,13 @@ stfrma,Støfringshaug,Mathias,Mathias Støfringshaug, ,NOR, ,NOR,mathias-stoefri
 storha,Stormoen,Hans Christian,Hans Christian Stormoen,10/10/1974,NOR, ,NOR,hans-stormoen
 straha,Strand,Harald,Harald Strand,02/09/1971,NOR, ,NOR,harald-strand
 sundar,Sundet,Arild,Arild Sundet,06/03/1962,NOR, ,NOR,arild-sundet
-svenhg,Svendsen,Hans Georg,Hans Georg Svendsen, ,NOR, ,NOR,___
+svenhg,Svendsen,Hans Georg, ,0000-00-00,NOR, ,NOR,___
 tariim,Tariq,Imran,Imran Tariq, ,NOR, ,NOR,imran-tariq_2
 tennjM,Tennøy,Jan Morten,Jan Morten Tennøy, ,NOR, ,NOR,jan-tennoey
-thorar,Thorp,Arlid,Arlid Thorp,1954-06-23,NOR, ,NOR,___
+thorar,Thorp,Arlid, ,1954-06-23,NOR, ,NOR,___
 thorel,Thoresen,Elisabeth,Elisabeth Thoresen, ,NOR, ,NOR,elisabeth-thoresen
 thorsi,Þórleifsson,Sigurður Óli,Sigurður Óli Þórleifsson,18/11/1975,ISL, ,ISL,sigurdur-thorleifsson
 toesma,Tøsse,Magne,Magne Tøsse,08/09/1961,NOR, ,NOR,magne-toesse
-unbexx, , , , , , , ,___
 valsjo,Valstadsve,Jørgen Rønning,Jørgen Rønning Valstadsve, ,NOR, ,NOR,joergen-valstadsve
 vangod,Vangen,Odd Arne,Odd Arne Vangen,27/09/1964,NOR, ,NOR,odd-vangen
 veloaM,Velo,Anders Michael,Anders Michael Velo, ,NOR, ,NOR,anders-velo

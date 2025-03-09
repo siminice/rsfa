@@ -1,4 +1,4 @@
-118
+133
 adcoja,Adcock,James,James Adcock, ,ENG, ,ENG,james-adcock
 adolvi,Adolfsson,Vilhelm,Vilhelm Adolfsson, ,ISL, ,ISL,vilhelm-adolfsson
 agusle,Ágústsson,Leiknir,Leiknir Ágústsson, ,ISL, ,ISL,leiknir-agustsson
@@ -9,8 +9,10 @@ arnata,Árnason,Þórður Arnar,Þórður Arnar Árnason, ,ISL, ,ISL,thordur-arn
 arnath,Árnason,Þorvaldur,Þorvaldur Árnason,03/03/1982,ISL, ,ISL,thorvaldur-arnason_2
 asgeat,Ásgeirsson,Ásgeir Þór,Ásgeir Þór Ásgeirsson, ,ISL, ,ISL,asgeir-thor-asgeirsson
 bendrt,Bender,Ragnar Þór,Ragnar Þór Bender,26/11/1996,ISL, ,ISL,ragnar-thor-bender
+bergbr,Bergmann,Bragi, ,1959-10-26,ISL, , ,___
 bjargi,Bjarnason,Guðmundur Ingi,Guðmundur Ingi Bjarnason, ,ISL, ,ISL,gudmundur-ingi-bjarnason
 bjoemj,Björgvinsson,Magnús Jón,Magnús Jón Björgvinsson, ,ISL, ,ISL,magnus-jon-bjoergvinsson
+bjorth,Björnsson,Thorvardur, ,1943-03-05,ISL, , ,___
 cookda,Cook,Daniel Richard,Daniel Richard Cook, ,ENG, ,ENG,daniel-cook
 danieo,Daníelsson,Einar Örn,Einar Örn Daníelsson, ,ISL, ,ISL,einar-oern-danielsson
 davian,Davies,Andy,Andy Davies, ,ENG, ,ENG,andy-davies_3
@@ -33,12 +35,14 @@ gudfol,Guðfinnsson,Ólafur Ingvar,Ólafur Ingvar Guðfinnsson,25/09/1965,ISL, ,
 gudjjm,Guðjónsson,Jón Magnús,Jón Magnús Guðjónsson, ,ISL, ,ISL,jon-magnus-gudjonsson
 gudleg,Guðlaugsson,Egill Guðvarður,Egill Guðvarður Guðlaugsson, ,ISL, ,ISL,egill-gudlaugsson
 gudmga,Guðmundsson,Guðmundur Ársaell,Guðmundur Ársaell Guðmundsson, ,ISL, ,ISL,gudmundur-arsaell-gudmundsson
+gudmgi,Gudmundsson,Gísli, ,0000-00-00,ISL, , ,___
 gudmjo,Guðmundsson,Jóhann Gunnar,Jóhann Gunnar Guðmundsson,08/09/1978,ISL, ,ISL,johann-gudmundsson_3
 gudmoh,Guðmundsson,Oddur Helgi,Oddur Helgi Guðmundsson,00/00/1984,ISL, ,ISL,oddur-helgi-gudmundsson
 gudmpe,Guðmundsson,Pétur,Pétur  Guðmundsson, ,ISL, ,ISL,petur-gudmundsson
 gumupF,Guðmundsson,Patrik Freyr,Patrik Freyr Guðmundsson, ,ISL, ,ISL,patrik-freyr-gudmundsson
 gunnfr,Gunnarsson,Frosti Viðar,Frosti Viðar Gunnarsson, ,ISL, ,ISL,frosti-gunnarsson
 gunngu,Gunnarsson,Gunnar Sverrir,Gunnar Sverrir Gunnarsson,26/05/1974,ISL, ,ISL,gunnar-gunnarsson
+gunnka,Gunnlaugsson,Kári, ,1954-11-17,ISL, , ,___
 haflgO,Hafliðason,Gunnar Oddur,Gunnar Oddur Hafliðason, ,ISL, ,ISL,gunnar-oddur-haflidason
 hallaB,Halldórsson,Antoníus Bjarki,Antoníus Bjarki Halldórsson,25/07/1996,ISL, ,ISL,antonius-bjarki-halldorsson
 hamekr,Hames,Kris,Kris Hames, ,WAL, ,WAL,kris-hames
@@ -54,10 +58,12 @@ huxtbr,Huxtable,Brett,Brett Huxtable, ,ENG, ,ENG,brett-huxtable
 ingool,Ingólfsson,Óli Njáll,Óli Njáll Ingólfsson, ,ISL, ,ISL,oli-ingolfsson
 ingvaI,Ingvarsson,Arnar Ingi,Arnar Ingi Ingvarsson, ,ISL, ,ISL,arnar-ingi-ingvarsson
 ingvgF,Ingvason,Guðni Freyr,Guðni Freyr Ingvason, ,ISL, ,ISL,gudni-freyr-ingvason
-jakokr,Jakobsson,Kristinn,Kristinn Jakobsson,11/06/1969,ISL, ,ISL,kristinn-jakobsson
+ingvgr,Ingvarsson,Gunnar Randver, ,1944-03-31,ISL, , ,___
+jakokr,Jakobsson,Kristinn, ,11/06/1969,ISL, ,ISL,kristinn-jakobsson
 jenkro,Jenkins,Robert Ian,Robert Ian Jenkins,00/00/1989,WAL, ,WAL,rob-jenkins
 jessje,Jessen,Jan Eric,Jan Eric Jessen,30/06/1988,ISL, ,ISL,jan-eric-jessen
 johaei,Jóhannsson,Einar Ingi,Einar Ingi Jóhannsson, ,ISL, ,ISL,einar-ingi-johannsson
+johagh,Jóhannsson,Gísli Hlynur, ,0000-00-00,ISL, , ,___
 johaha,Jóhannsson,Halldór Breiðfjörð,Halldór Breiðfjörð Jóhannsson, ,ISL, ,ISL,halldor-johannsson
 jonahm,Jónasson,Helgi Mikael,Helgi Mikael Jónasson,00/00/1993,ISL, ,ISL,helgi-mikael-jonasson
 jonsgj,Jónsson,Gunnar Jarl,Gunnar Jarl Jónsson,02/09/1983,ISL, ,ISL,gunnar-jarl-jonsson
@@ -69,18 +75,23 @@ krisio,Kristjánsson,Ívar Orri,Ívar Orri Kristjánsson,00/00/1989,ISL, ,ISL,iv
 krissi,Kristinsson,Sindri,Sindri Kristinsson, ,ISL, ,ISL,sindri-kristinsson
 magnhr,Magnússon,Hreinn,Hreinn Magnússon, ,ISL, ,ISL,hreinn-magnusson
 magnsi,Magnússon,Sigurður Ingi,Sigurður Ingi Magnússon, ,ISL, ,ISL,sigurdur-ingi-magnusson
+marigu,Mariasson,Gudmundur, Guðmundur Stefán Maríasson ,1954-10-03,ISL, , ,___
+markem,Markusson,Egill Már, ,1964-10-25,ISL, , ,___
 morgdh,Morgan,David Howard,David Howard Morgan, ,WAL, ,WAL,david-howard-morgan
 muella,Müller,Lars,Lars Müller,28/08/1973,FER, ,FER,lars-mueller_5
 napito,Napierajczyk,Tomasz Jacek,Tomasz Jacek Napierajczyk, ,ISL, ,ISL,tomasz-napierajczyk
 nethan,Nethery,Andrew,Andrew Nethery, ,NIR, ,NIR,andrew-nethery
 nilsol,Nilsen,Ola Hobber,Ola Hobber Nilsen,20/02/1986,NOR, ,NOR,ola-nilsen
+olafey,Ólafsson,Eyjölfur, ,1953-06-27,ISL, , ,___
 olafkm,Ólafs,Kristján Már,Kristján Már Ólafs, ,ISL, ,ISL,kristjan-mar-olafs
+orragt,Orrason,Gylfi Thór, Gylfi Þór Orrason ,1959-12-03,ISL, , ,___
 orstaH,Þorsteinsson,Aðalbjörn Heiðar,Aðalbjörn Heiðar Þorsteinsson,04/02/1980,ISL, ,ISL,adalbjoern-heidar-thorsteinsson
 oskabj,Óskarsson,Bjarki,Bjarki Óskarsson, ,ISL, ,ISL,bjarki-oskarsson
 owento,Owen,Tom,Tom Owen, ,WAL, ,WAL,tom-owen
 palmsv,Pálmason,Sverrir Gunnar,Sverrir Gunnar Pálmason, ,ISL, ,ISL,sverrir-palmason
 palsva,Pálsson,Valdimar,Valdimar Pálsson,29/01/1968,ISL,Akureyri,ISL,valdimar-palsson
 pratni,Pratt,Nick,Nick Pratt, ,WAL, ,WAL,nick-pratt
+ragnol,Ragnarsson,Ólafur, ,0000-00-00,ISL, , ,___
 rarsr�,Þórðarson,Þórður Þorsteinn,Þórður Þorsteinn Þórðarson,22/02/1995,ISL, ,ISL,thordur-thordarson_4
 rasmei,Rasmussen,Eiler,Eiler Rasmussen,20/05/1977,FER, ,FER,eiler-rasmussen
 rbergF,Róbertsson,Gunnar Freyr,Gunnar Freyr Róbertsson, ,ISL, ,ISL,gunnar-freyr-robertsson
@@ -93,6 +104,8 @@ sigubr,Sigurðsson,Breki,Breki Sigurðsson, ,ISL, ,ISL,breki-sigurdsson
 siguea,Sigurþórsson,Egill Arnar,Egill Arnar Sigurþórsson, ,ISL, ,ISL,egill-arnar-sigurthorsson
 siguei,Sigurðsson,Einar,Einar Sigurðsson,07/07/1963,ISL, ,ISL,einar-sigurdsson
 sigugy,Sigurðsson,Gylfi Már,Gylfi Már Sigurðsson,00/00/1987,ISL, ,ISL,gylfi-sigurdsson_2
+sigujo,Sigurjónsson,Jón, ,0000-00-00,ISL, , ,___
+sigupj,Sigurdsson,Pjetur, Pjetur Sigurðsson ,1964-07-02,ISL, , ,___
 siures,Siurans,Estanislao Plantada,Estanislao Plantada Siurans,23/02/1981,ISL, ,ISL,estanislao-siurans
 stefat,Stefánsson,Arnar Þór,Arnar Þór Stefánsson, ,ISL, ,ISL,arnar-thor-stefansson
 stefru,Stefánsdóttir,Rúna,Rúna  Stefánsdóttir,07/04/1988,ISL, ,ISL,runa-stefansdottir
@@ -100,6 +113,7 @@ stefsm,Stefánsson,Smári,Smári Stefánsson, ,ISL, ,ISL,smari-stefansson
 stewry,Stewart,Ryan,Ryan Stewart, ,WAL, ,WAL,ryan-stewart_2
 stocse,Stockbridge,Sebastian,Sebastian Stockbridge, ,ENG, ,ENG,sebastian-stockbridge
 swable,Swabey,Lee,Lee Swabey, ,ENG, ,ENG,lee-swabey
+thorar,Thórdarson,Ari, ,0000-00-00,ISL, , ,___
 thordi,Þórisson,Daníel Ingi,Daníel Ingi Þórisson, ,ISL, ,ISL,daniel-ingi-thorisson
 thorma,Þórisson,Magnús,Magnús Þórisson,04/06/1970,ISL, ,ISL,magnus-thorisson
 thorsi,Þórleifsson,Sigurður Óli,Sigurður Óli Þórleifsson,18/11/1975,ISL, ,ISL,sigurdur-thorleifsson
@@ -114,6 +128,7 @@ valggu,Valgeirsson,Guðmundur,Guðmundur Valgeirsson, ,ISL, ,ISL,gudmundur-valge
 valgjo,Valgeirsson,Jóhannes,Jóhannes Valgeirsson,01/06/1968,ISL, ,ISL,johannes-valgeirsson
 valgva,Valgeirsson,Valgeir,Valgeir Valgeirsson, ,ISL, ,ISL,valgeir-valgeirsson
 vigfan,Vigfússon,Andri,Andri Vigfússon, ,ISL, ,ISL,andri-vigfusson
+viglsa,Víglundsson,Saemundur, ,1957-10-17,ISL, , ,___
 waagsI,Waage,Sveinn Ingi Sigurjónsson,Sveinn Ingi Sigurjónsson Waage, ,ISL, ,ISL,sveinn-ingi-sigurjonsson-waage
 wrigpe,Wright,Peter,Peter Wright, ,ENG, ,ENG,peter-wright
 zzzzzz,Zzzz,Zz,Zz Zzzz,9999-12-31,ROM,Malu Spart,ROM,zz-zzzz

@@ -1,50 +1,50 @@
 352
-Rosenborg,100000008
-Viking,100000013
-Vaalerengen,100000012
-Lillestrom,100000005
-Brann,100000000
-Molde,100000006
-Moss,100000016
-Bodo Glimt,100000002
-Lyn,100000001
-Skeid,100000020
-Bryne,100000015
-Start,100000017
-Odd,100000007
-Sogndal,100000009
-Stabaek,100000010
-Fredrikstad,100000003
-Haugesund,100000019
-Stromsgodset,100000018
-Kongsvinger,100000021
-Fyllingen,100000022
+Rosenborg,rosenborg-bk/195
+Viking,viking-stavanger/239
+Vaalerengen,valerenga-fotball/76
+Lillestrom,lillestrom-sk/353
+Brann,sk-brann/1100
+Molde,molde-fk/687
+Moss,moss-fk/2961
+Bodo Glimt,fk-bodo-glimt/501
+Lyn,lyn-oslo/175
+Skeid,skeid-oslo/6469
+Bryne,bryne-fk/1057
+Start,ik-start/267
+Odd,odds-bk/1058
+Sogndal,sogndal-il/2038
+Stabaek,stabaek-fotball/1274
+Fredrikstad,fredrikstad-fk/3837
+Haugesund,fk-haugesund/2761
+Stromsgodset,stromsgodset-if/2817
+Kongsvinger,kongsvinger-il/421
+Fyllingen,fyllingen-il
 Gjovik,gjoevik-lyn
 Lillehammer,ff-lillehammer
-Raufoss,raufoss
+Raufoss,raufoss-il/3692
 Honefoss,hoenefoss-bk
-Hamar,100000004
-Sandefjord,sandefjord-fotball
+Hamar,hamarkameratene/4309
+Sandefjord,sandefjord-fotball/6399
 Orn Horten,Orn Horten
-Hodd,100000024
+Hodd,il-hodd/8995
 Mandalskam,Mandalskameratene
 Baerum,Baerum
 Alta,Alta
 Manglerud,Oslo Ost
 Kjelsaas,Kjelsaas
 Kvik Halden,Kvik Halden
-Pors,Pors Grenland
+Pors,pors-grenland/6037
 Larvik,Larvik Fotball
 Narvik,Narvik
-Tromso,100000011
-Frigg,Frigg Oslo
+Tromso,tromso-il/1293
+Frigg,frigg-oslo-fk/30831
 Tollnes,Tollnes
 Runar,Runar
 Follo,Follo
 Sprint Jeloy,sprint-jeloey
 Borg,Borg Fotball
-Jerv,Jerv
-Aalesund,100000014
+Jerv,fk-jerv
+Aalesund,aalesunds-fk/5619
 Clausenengen,Clausenengen
 Skjetten,Skjetten
 Lorenskog,Lörenskog
@@ -54,19 +54,19 @@ Ullensaker,Ullensaker Kisa
 Eidsvold,Eidsvold Turn
 Nybergsund,Nybergsund
 Averoy,Averöykameratene
-Aasane,Aasane
+Aasane,asane-fotball/14761
 Klepp,Klepp
 Nest,Nest Sotra
 Aalgaard,Aalgaard
 Hovding,Hovding
-Vard,Vard Haugesund
+Vard,vard-haugesund/6477
 Fana,Fana
 Langevaag,Langevaag
 Lov Ham,Löv-Ham
 Skarbovik,Skarbövik
 Vidar,Vidar
 Levanger,Levanger
-Strindheim,100000025
+Strindheim,strindheim-il/13445
 Vesteraalen,Vesteraalen
 Lofoten,Lofoten
 Nidelv,Nidelv
@@ -76,7 +76,7 @@ Hammerfest,Hammerfest
 Skarp,Skarp Tromso
 Skjervöy,Skjervöy
 Mo_,Mo-il
-Steinkjer,Steinkjer
+Steinkjer,steinkjer-fk/22478
 Rosenborg-2,Rosenborg 2
 Lillestrom-2,Lilleström 2
 Viking-2,Viking 2
@@ -84,14 +84,14 @@ Brann-2,Brann 2
 Odd-2,Odd Grenland 2
 Stabaek-2,Stabaek 2
 Molde-2,Molde 2
-BK Sarpsborg,100000029
-Mjondalen,100000023
+BK Sarpsborg,sarpsborg-fk/14769
+Mjondalen,mjondalen-if/11338
 Lisleby,Lisleby
-Mjolner,100000026
+Mjolner,fk-mjolner/5804
 Os_,Os
-Tonsberg,FK Tönsberg
-Strommen,100000028
-Djerv,Djerv 1919
+Tonsberg,eik-if-tonsberg/40247
+Strommen,strommen-if/17647
+Djerv,sk-djerv-1919/48392
 Ullern,Ullern
 Drobak,Dröbak/Frogn
 Harstad,Harstad
@@ -104,7 +104,7 @@ Stjordals,Stjördals Blink
 Aassiden,Åssiden
 Ski,Ski
 Surnadal,Surnadal
-Kristiansund,kristiansund-bk
+Kristiansund,kristiansund-bk/21101
 Raade,Raade
 Ostsiden,Õstsiden
 Greaaker,Greaaker
@@ -129,7 +129,7 @@ Sunndal,Sunndal
 Stavanger IF,Stavanger-if
 Grue,Grue
 Nessegutten,Nessegutten
-Os Turn,Os Turn
+Os Turn,os-turn-fotball/36238
 Vigrestad,Vigrestad
 Kopervik,Kopervik
 Bergsoy,Bergsöy
@@ -138,8 +138,8 @@ Faaberg,Faaberg
 Alvdal,Alvdal
 Namsos,Namsos
 Stord,Stord Sunnhordland
-Sparta,100000029
-Ranheim,ranheim-il
+Sparta,sarpsborg-08-ff/10217
+Ranheim,ranheim-il/13519
 Notodden,Notodden
 Vaalerenga-2,Vaalerenga Oslo 2
 Aamot,Åmot
@@ -154,7 +154,7 @@ Start-2,IK Start 2
 Steigen,Steigen
 Hamar-2,Hamarkameratene 2
 Traeff,Traeff
-Egersund,Egersund
+Egersund,egersunds-if/2692
 Lyngen/Karnes,Lyngen/Karnes
 Innstranden,Innstranden
 Fredrikstad-2,Fredrikstad FK 2
@@ -280,7 +280,7 @@ Sodal,Södal
 Telavaag,Telavaag
 Bud,Bud
 Ekne,Ekne
-KFUM Oslo,KFUM Oslo
+KFUM Oslo,kfum-kameratene-oslo/23184
 Drammen,Drammens-bk
 Vang,Vang
 Buoy,Buöy
