@@ -1,4 +1,4 @@
-118
+133
 adcoja,Adcock,James, ,ENG, ,ENG
 adolvi,Adolfsson,Vilhelm, ,ISL, ,ISL
 agusle,Ágústsson,Leiknir, ,ISL, ,ISL
@@ -9,8 +9,10 @@ arnata,Árnason,Þórður Arnar, ,ISL, ,ISL
 arnath,Árnason,Þorvaldur,03/03/1982,ISL, ,ISL
 asgeat,Ásgeirsson,Ásgeir Þór, ,ISL, ,ISL
 bendrt,Bender,Ragnar Þór,26/11/1996,ISL, ,ISL
+bergbr,Bergmann,Bragi,1959-10-26,ISL, , 
 bjargi,Bjarnason,Guðmundur Ingi, ,ISL, ,ISL
 bjoemj,Björgvinsson,Magnús Jón, ,ISL, ,ISL
+bjorth,Björnsson,Thorvardur,1943-03-05,ISL, , 
 cookda,Cook,Daniel Richard, ,ENG, ,ENG
 danieo,Daníelsson,Einar Örn, ,ISL, ,ISL
 davian,Davies,Andy, ,ENG, ,ENG
@@ -33,12 +35,14 @@ gudfol,Guðfinnsson,Ólafur Ingvar,25/09/1965,ISL, ,ISL
 gudjjm,Guðjónsson,Jón Magnús, ,ISL, ,ISL
 gudleg,Guðlaugsson,Egill Guðvarður, ,ISL, ,ISL
 gudmga,Guðmundsson,Guðmundur Ársaell, ,ISL, ,ISL
+gudmgi,Gudmundsson,Gísli,0000-00-00,ISL, , 
 gudmjo,Guðmundsson,Jóhann Gunnar,08/09/1978,ISL, ,ISL
 gudmoh,Guðmundsson,Oddur Helgi,00/00/1984,ISL, ,ISL
 gudmpe,Guðmundsson,Pétur, ,ISL, ,ISL
 gumupF,Guðmundsson,Patrik Freyr, ,ISL, ,ISL
 gunnfr,Gunnarsson,Frosti Viðar, ,ISL, ,ISL
 gunngu,Gunnarsson,Gunnar Sverrir,26/05/1974,ISL, ,ISL
+gunnka,Gunnlaugsson,Kári,1954-11-17,ISL, , 
 haflgO,Hafliðason,Gunnar Oddur, ,ISL, ,ISL
 hallaB,Halldórsson,Antoníus Bjarki,25/07/1996,ISL, ,ISL
 hamekr,Hames,Kris, ,WAL, ,WAL
@@ -54,10 +58,12 @@ huxtbr,Huxtable,Brett, ,ENG, ,ENG
 ingool,Ingólfsson,Óli Njáll, ,ISL, ,ISL
 ingvaI,Ingvarsson,Arnar Ingi, ,ISL, ,ISL
 ingvgF,Ingvason,Guðni Freyr, ,ISL, ,ISL
+ingvgr,Ingvarsson,Gunnar Randver,1944-03-31,ISL, , 
 jakokr,Jakobsson,Kristinn,11/06/1969,ISL, ,ISL
 jenkro,Jenkins,Robert Ian,00/00/1989,WAL, ,WAL
 jessje,Jessen,Jan Eric,30/06/1988,ISL, ,ISL
 johaei,Jóhannsson,Einar Ingi, ,ISL, ,ISL
+johagh,Jóhannsson,Gísli Hlynur,0000-00-00,ISL, , 
 johaha,Jóhannsson,Halldór Breiðfjörð, ,ISL, ,ISL
 jonahm,Jónasson,Helgi Mikael,00/00/1993,ISL, ,ISL
 jonsgj,Jónsson,Gunnar Jarl,02/09/1983,ISL, ,ISL
@@ -69,18 +75,23 @@ krisio,Kristjánsson,Ívar Orri,00/00/1989,ISL, ,ISL
 krissi,Kristinsson,Sindri, ,ISL, ,ISL
 magnhr,Magnússon,Hreinn, ,ISL, ,ISL
 magnsi,Magnússon,Sigurður Ingi, ,ISL, ,ISL
+marigu,Mariasson,Gudmundur,1954-10-03,ISL, , 
+markem,Markusson,Egill Már,1964-10-25,ISL, , 
 morgdh,Morgan,David Howard, ,WAL, ,WAL
 muella,Müller,Lars,28/08/1973,FER, ,FER
 napito,Napierajczyk,Tomasz Jacek, ,ISL, ,ISL
 nethan,Nethery,Andrew, ,NIR, ,NIR
 nilsol,Nilsen,Ola Hobber,20/02/1986,NOR, ,NOR
+olafey,Ólafsson,Eyjölfur,1953-06-27,ISL, , 
 olafkm,Ólafs,Kristján Már, ,ISL, ,ISL
+orragt,Orrason,Gylfi Thór,1959-12-03,ISL, , 
 orstaH,Þorsteinsson,Aðalbjörn Heiðar,04/02/1980,ISL, ,ISL
 oskabj,Óskarsson,Bjarki, ,ISL, ,ISL
 owento,Owen,Tom, ,WAL, ,WAL
 palmsv,Pálmason,Sverrir Gunnar, ,ISL, ,ISL
 palsva,Pálsson,Valdimar,29/01/1968,ISL,Akureyri,ISL
 pratni,Pratt,Nick, ,WAL, ,WAL
+ragnol,Ragnarsson,Ólafur,0000-00-00,ISL, , 
 rarsr�,Þórðarson,Þórður Þorsteinn,22/02/1995,ISL, ,ISL
 rasmei,Rasmussen,Eiler,20/05/1977,FER, ,FER
 rbergF,Róbertsson,Gunnar Freyr, ,ISL, ,ISL
@@ -93,6 +104,8 @@ sigubr,Sigurðsson,Breki, ,ISL, ,ISL
 siguea,Sigurþórsson,Egill Arnar, ,ISL, ,ISL
 siguei,Sigurðsson,Einar,07/07/1963,ISL, ,ISL
 sigugy,Sigurðsson,Gylfi Már,00/00/1987,ISL, ,ISL
+sigujo,Sigurjónsson,Jón,0000-00-00,ISL, , 
+sigupj,Sigurdsson,Pjetur,1964-07-02,ISL, , 
 siures,Siurans,Estanislao Plantada,23/02/1981,ISL, ,ISL
 stefat,Stefánsson,Arnar Þór, ,ISL, ,ISL
 stefru,Stefánsdóttir,Rúna,07/04/1988,ISL, ,ISL
@@ -100,6 +113,7 @@ stefsm,Stefánsson,Smári, ,ISL, ,ISL
 stewry,Stewart,Ryan, ,WAL, ,WAL
 stocse,Stockbridge,Sebastian, ,ENG, ,ENG
 swable,Swabey,Lee, ,ENG, ,ENG
+thorar,Thórdarson,Ari,0000-00-00,ISL, , 
 thordi,Þórisson,Daníel Ingi, ,ISL, ,ISL
 thorma,Þórisson,Magnús,04/06/1970,ISL, ,ISL
 thorsi,Þórleifsson,Sigurður Óli,18/11/1975,ISL, ,ISL
@@ -114,6 +128,7 @@ valggu,Valgeirsson,Guðmundur, ,ISL, ,ISL
 valgjo,Valgeirsson,Jóhannes,01/06/1968,ISL, ,ISL
 valgva,Valgeirsson,Valgeir, ,ISL, ,ISL
 vigfan,Vigfússon,Andri, ,ISL, ,ISL
+viglsa,Víglundsson,Saemundur,1957-10-17,ISL, , 
 waagsI,Waage,Sveinn Ingi Sigurjónsson, ,ISL, ,ISL
 wrigpe,Wright,Peter, ,ENG, ,ENG
 zzzzzz,Zzzz,Zz,9999-12-31,ROM,Malu Spart,ROM

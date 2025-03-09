@@ -1,16 +1,17 @@
-201
+221
 abukav,Abukarat,Avraham,אברהם אבוקרט,1960-02-14,ISR,Haifa,ISR,___,avraham-abukarat/90706
-abukyo,Abukasis,Yossi,יוסי אבוקסיס‎,1970-09-10,ISR,Bat Yam,ISR,___,yossi-abukasis/19614
+abukyo,Abukasis,Yossi,יוסי אבוקסיס‎,1970-09-10,ISR,Bat Yam,ISR,yossi-abukasis,-1
 adrash,Adraei,Shlomi,שלומי אדרעי,1944-07-19,ISR, , ,___,shlomi-adraei/34656
 alkosh,Alkolombra,Shlomo, ,1961-06-17,ISR, , ,___,shlomo-alkolombra/98184
 amixtb,Ben Ami,Tamir,תמיר בן עמי,1979-02-28,ISR, , ,___,tamir-ben-ami/63684
+anteyg,Antebi,Ygal, ,1974-08-01,ISR,Rishon LeZion,ISR,ygal-antebi,-1
 ardios,Ardiles,Osvaldo,Osvaldo César Ardiles,1952-08-03,ARG,Córdoba,ARG,___,osvaldo-ardiles/5493
-ariezi,Arie,Ziv,זיו אריה,1971-01-22,ISR, , ,___,ziv-arie/57079
+ariezi,Arie,Ziv,זיו אריה,1971-01-22,ISR, , ,ziv-arie,-1
 arvesh,Arveladze,Shota,შოთა არველაძე,1973-02-22,GEO,Tiflis,URS,___,shota-arveladze/7849
 asayya,Asayag,Yaakov,יעקב אסייג,1959-03-01,ISR,Nazareth Illit,ISR,___,yaakov-asayag/45530
 atarre,Atar,Reuven,ראובן עטר,1969-01-03,ISR,Tirat Karmel,ISR,___,reuven-atar/4996
 attera,Atteveld,Raymond, ,1966-09-08,NED,Amsterdam,NED,___,raymond-atteveld/31717
-avitni,Avitan,Nisso,ניסו אביטן,1971-09-29,ISR,Beer Sheva,ISR,___,nisso-avitan/56436
+avitni,Avitan,Nisso,ניסו אביטן,1971-09-29,ISR,Beer Sheva,ISR,nisso-avitan,-1
 avradu,Avraham,Dudu,דודו אברהם,1980-12-01,ISR, , ,___,dudu-avraham/55800
 awatro,Awat,Ronny,רוני אוואט,1968-08-12,ISR,Ashdod,ISR,___,ronny-awat/49720
 ayespa,Ayestarán,Pako,Francisco Ayestarán Barandiarán,1963-02-05,SPA,Lezo,SPA,___,pako-ayestaran/1698
@@ -20,11 +21,13 @@ azulha,Azulay,Hanan,חנן אזולאי,1958-03-23,ISR,Jerusalem,ISR,___,hanan-a
 badiwa,Badir,Walid,וואליד באדיר‎,1974-03-12,ISR,Kfar Qasem,ISR,___,walid-badir/42859
 bakhba,Bakhar,Barak,ברק בכר,1979-09-21,ISR,Tzrufa,ISR,___,barak-bakhar/26280
 bakhni,Bakhar,Nissim,ניסים בכר,1943-10-13,ISR, , ,___,nissim-bakhar/84357
-balbma,Balbul,Marco,מרקו בלבול,1967-07-13,ISR,Tirat Carmel,ISR,___,marco-balbul/12536
+balbma,Balbul,Marco,מרקו בלבול,1967-07-13,ISR,Tirat Carmel,ISR,marco-balbul,-1
 balxan,Bal,Andriy,Баль Андрій Михайлович,1958-02-16,UKR,Rozdil,UKR,___,andriy-bal/11509
 banita,Banin,Tal,טל בנין,1971-03-07,ISR,Kiryat Haim,ISR,___,tal-banin/22291
-bardel,Barda,Elyaniv,אליניב פליקס ברדה‎,1981-12-15,ISR,Beer Sheva,ISR,___,elyaniv-barda/63359
+bardel,Barda,Elyaniv,אליניב פליקס ברדה‎,1981-12-15,ISR,Beer Sheva,ISR,elyaniv-barda,-1
 bardsh,Barda,Shai,שי ברדה,1968-10-22,ISR, , ,___,shai-barda/45521
+basaeB,Ben Basat,Eden, ,1986-09-08,ISR,Kiryat Haim,ISR,eden-ben-basat,-1
+bejear,Bejerano,Arie, ,1951-01-14,ISR,Ginaton,ISR,___,arie-bejerano/125452
 belfer,Belfer,Erez,ארז בלפר,1972-06-17,ISR, , ,___,erez-belfer/76994
 benaar,Benado,Arik,אריק בנאדו,1973-12-05,ISR,Haifa,ISR,___,arik-benado/26810
 berkni,Berkovich,Nir,ניר ברקוביץ,1983-01-23,ISR,Regba,ISR,___,nir-berkovich/51411
@@ -37,22 +40,25 @@ choksd,De Chokol,Shaul,שאול דה צוקול,1971-06-25,ISR, , ,___,shaul-de-
 coheav,Cohen,Avi,אבי כהן,1956-11-14,ISR,Kairo,EGY,___,avi-cohen/87478
 cohee1,Cohen,Eli,אלי כהן,1961-04-06,ISR, , ,___,eli-cohen/12419
 coheel,Cohen,Eli,אלי כהן,1951-01-03,ISR, , ,___,eli-cohen/23007
-cohega,Cohen,Gal,גל כהן,1982-08-14,ISR,Dor,ISR,___,gal-cohen/77079
-cohera,Cohen,Rafi,רפי כהן,1965-03-02,ISR,Jerusalem,ISR,___,rafi-cohen/22524
+cohega,Cohen,Gal,גל כהן,1982-08-14,ISR,Dor,ISR,gal-cohen,-1
+coheha,Cohen,Haim,חיים כהן,1944-08-10,ISR,Sousse,TUN,___,haim-cohen/135520
+cohera,Cohen,Rafi,רפי כהן,1965-03-02,ISR,Jerusalem,ISR,rafi-cohen_2,-1
 cruyjo,Cruyff,Jordi,Johan Jordi Cruijff,1974-02-09,NED,Amsterdam,NED,___,jordi-cruyff/22087
 dahadu,Dahan,Dudu,דודו דהאן,1971-12-08,ISR,Jerusalem,ISR,___,dudu-dahan/72024
 damtgi,Damti,Gideon,גדעון דמתי,1951-10-31,ISR,Tel Aviv,ISR,___,gideon-damti/83690
 daragi,Daraselia,Giorgi,გიორგი დარასელია,1968-09-16,GEO,Senaki,URS,___,giorgi-daraselia/25819
 daviab,Ben David,Avraham, ,1954-04-20,ISR, , ,___,avraham-ben-david/121131
 davifr,David,Freddy,פרדי דוד‎,1965-01-21,ISR, , ,___,freddy-david/12538
+davini,Davidovitch,Nir, ,1976-12-17,ISR,Haifa,ISR,nir-davidovitch,-1
 dayami,Dayan,Mishele,מישל דיין,1961-10-02,ISR,Jerusalem,ISR,___,mishele-dayan/71807
-degome,Dego,Messay,מסאי דגו,1986-02-15,ISR,Addis Ababa,ETH,___,messay-dego/52766
+degome,Dego,Messay,מסאי דגו,1986-02-15,ISR,Addis Ababa,ETH,mesay-dego,-1
 dekeja,Dekel,Jackie, ,1942-01-01,ISR, , ,___,jackie-dekel/93609
 dombas,Domb,Asi,אסי דומב,1974-02-27,ISR,Netanya,ISR,___,asi-domb/35876
 donige,Donis,Georgios,Γεώργιος Δώνης,1969-10-22,GRE,Frankfurt am Main,GER,___,georgios-donis/2455
 doraro,Dora,Roni,רוני דורה,1954-03-29,ISR,Egypt,EGY,___,roni-dora/93611
 dorash,Dora,Shlomi,שלומי דורה,1973-06-22,ISR,Zikhron Yaakov,ISR,___,shlomi-dora/12542
-drapsl,Drapic,Slobodan,Слободан Драпић,1965-02-28,ISR,Novi Sad, ,___,slobodan-drapic/23004
+dorxab,Ben Dor,Alon,אלון בן דור,1952-03-18,ISR,Dorot,ISR,___,alon-ben-dor/135616
+drapsl,Drapic,Slobodan,Слободан Драпић,1965-02-28,ISR,Novi Sad,SRB,slobodan-drapic,-1
 drikel,Driks,Eli,אלי דריקס,1964-10-13,ISR,Petah Tikva,ISR,___,eli-driks/79733
 edrikf,Edri,Kfir,כפיר אדרי,1976-10-12,ISR,Dimona,ISR,___,kfir-edri/52724
 einsno,Einstein,Noah,נח איינשטיין,1952-11-24,ISR, , ,___,noah-einstein/97792
@@ -62,6 +68,7 @@ feigye,Feigenbaum,Yehoshua,יהושע פייגנבוים,1947-12-05,ISR,Jaffa,IS
 fernlu,Fernandez,Luis,Luis Miguel Fernández Toledo,1959-10-02,FRA,Tarifa,SPA,___,luis-fernandez/2674
 gaonro,Gaon,Roni, ,0000-00-00,ISR, , ,___,roni-gaon/98155
 garcos,García,Óscar,Óscar García Junyent,1973-04-26,SPA,Sabadell,SPA,___,oscar-garcia/16362
+gazaal,Gazal,Albert, ,1949-12-14,ISR,Egypt,EGY,___,albert-gazal/136037
 gazara,Gazal,Ravid,רביד גזל‎,1982-06-09,ISR,Netanya,ISR,___,ravid-gazal/70272
 golada,Golan,Danny,דני גולן,1959-10-14,ISR, , ,___,danny-golan/33755
 granav,Grant,Avram,אברהם גרנט,1955-02-06,ISR,Petah Tikva,ISR,___,avram-grant/5232
@@ -78,57 +85,64 @@ hanish,Hanin,Shmulik,שמואל חנין,1964-02-25,ISR, , ,___,shmulik-hanin/27
 haraal,Harazi,Alon,אלון חרזי‎‎,1971-02-13,ISR,Ramat Gan,ISR,___,alon-harazi/37093
 hasasa,Hasarma,Salah, ,1974-02-24,ISR,Bi'ina,ISR,___,salah-hasarma/40642
 hazaal,Hazan,Alon,אלון חזן,1967-09-14,ISR,Ashdod,ISR,___,alon-hazan/33778
+hermgo,Hermon,Golan, ,1977-09-26,ISR, ,ISR,golan-hermon,-1
 hochya,Hochenboim,Yaron,ירון הוכנבוים,1971-07-24,ISR,Haifa,ISR,___,yaron-hochenboim/12729
 itzhba,Itzhaki,Barak,ברק יצחקי‎,1984-09-25,ISR,Ashkelon,ISR,___,barak-itzhaki/93558
 ivanmo,Ivanir,Motti,מוטי איוניר,1964-03-18,ISR,Tel Aviv,ISR,___,motti-ivanir/11216
 ivicvl,Ivic,Vladimir,Владимир Ивић,1977-05-07,SRB,Zrenjanin, ,___,vladimir-ivic/35944
 jokasl,Jokanovic,Slavisa,Славиша Јокановић,1968-08-16,SRB,Novi Sad, ,___,slavisa-jokanovic/5627
 kadomi,Kadosh,Michael,מיכאל קדוש,1940-04-23,ISR,Alexandria,EGY,___,michael-kadosh/22465
+kakois,Kakon,Israel, ,1984-08-27,ISR, ,ISR,israel-kakon,-1
 karaai,Karanka,Aitor,Aitor Karanka de la Hoz,1973-09-18,SPA,Vitoria-Gasteiz,SPA,___,aitor-karanka/7616
 kashdr,Kashtan,Dror,דרור קשטן‎,1944-10-01,ISR,Petah Tikva,ISR,___,dror-kashtan/3780
 kashto,Kashtan,Tomer,תומר קשטן,1971-12-25,ISR,Kfar Saba,ISR,___,tomer-kashtan/50428
 kataiv,Katalinic,Ivan,Ivan Katalinić,1951-05-17,CRO,Trogir, ,___,ivan-katalinic/6945
+keanro,Keane,Robbie,Robert David Keane,1980-07-08,IRL,Tallaght,IRL,robbie-keane,-1
 kellro,Keller,Ron,רון קלר,1974-01-18,ISR, , ,___,ron-keller/69676
 klinni,Klinger,Nir,ניר קלינגר,1966-05-25,ISR,Haifa,ISR,___,nir-klinger/5511
 koemer,Koeman,Erwin, ,1961-09-20,NED,Zaandam,NED,___,erwin-koeman/1275
 koreme,Koretski,Menahem,מנחם קורצקי,1974-04-04,ISR,Tel Aviv,ISR,___,menahem-koretski/22402
-kozura,Kozuch,Ran,רן קוז'וך,1981-01-12,ISR,Netanya,ISR,___,ran-kozuch/96723
+kozura,Kozuch,Ran,רן קוז'וך,1981-01-12,ISR,Netanya,ISR,ran-kozuch,-1
 krstml,Krstajic,Mladen,Младен Крстајић,1974-03-04,SRB,Zenica, ,___,mladen-krstajic/19459
 kulier,Kulik,Eran,ערן קוליק,1946-01-01,ISR,Herzliya,ISR,___,eran-kulik/12537
 lahmey,Lahman,Eyal,אייל לחמן‎,1965-09-29,ISR,Petah Tikva,ISR,___,eyal-lahman/12619
 lammbe,Lamm,Benyamin, ,1959-04-09,ISR,Netanya,ISR,___,benyamin-lamm/48465
+lamxbe,Lam,Benyamin, ,1959-04-09,ISR,Netanya,ISR,benyamin-lam,-1
 landgi,Landau,Gili,גילי לנדאו,1958-05-07,ISR,Bat Yam,ISR,___,gili-landau/21999
 lazawo,Lazarek,Wojciech,Wojciech Łazarek,1937-10-04,POL,Łódź,POL,___,wojciech-lazarek/25736
 leeupv,van Leeuwen,Patrick, ,1969-08-08,NED,Zoetermeer,NED,___,patrick-van-leeuwen/10027
+lemabo,Lema,Borja, ,1990-11-07,SPA,Madrid,SPA,borja-lema,-1
 levagi,Levanda,Gil,גיל לבנדה,1972-05-29,ISR, , ,___,gil-levanda/49756
-leviel,Levi,Eliyahu, ,1975-05-15,ISR, , ,___,eliyahu-levi/76182
+leviel,Levi,Eliyahu, ,1975-05-15,ISR, ,ISR,eliyahu-levi,-1
 levini,Levine,Nir,ניר לוין,1962-03-04,ISR,Rehovot,ISR,___,nir-levine/12712
 levira,Levi,Rami,רמי לוי,1957-09-18,ISR, , ,___,rami-levi/84358
 levkam,Levkovich,Amatzia,אמציה לבקוביץ',1937-12-27,ISR,Israel,ISR,___,amatzia-levkovich/64268
 levye1,Levy,Elias,אליאס לוי,1954-01-01,ISR, , ,___,elias-levy/87479
 levyel,Levy,Elisha,אלישע לוי‎,1957-11-18,ISR,Jerusalem,ISR,___,elisha-levy/10216
 levygu,Levy,Guy,גיא לוי‎,1966-09-08,ISR,Petah Tikva,ISR,___,guy-levy/21923
-levyro,Levy,Ronny,רוני לוי,1966-11-14,ISR,Netanya,ISR,___,ronny-levy/1561
+levyro,Levy,Ronny,רוני לוי,1966-11-14,ISR,Netanya,ISR,ronny-levy,-1
 luzogu,Luzon,Guy,גיא לוזון,1975-08-07,ISR,Petah Tikva,ISR,___,guy-luzon/10912
 luzona,Luzon,Naor,נאור לוזון,1990-06-10,ISR, , ,___,naor-luzon/73449
 luzoyi,Luzon,Yitav,ייטב לוזון,1980-12-26,ISR, , ,___,yitav-luzon/32940
 maasro,Maas,Rob,Robertus Leonardus Adrianus Maas,1969-12-17,NED,Eindhoven,NED,___,rob-maas/14649
 machod,Machnes,Oded,עודד מכנס,1956-06-08,ISR,Netanya,ISR,___,oded-machnes/101503
-magomu,Magomedov,Murad,Магомедов Мурад,מורד מגמדוב,1973-09-25,RUS,Makhachkala,___,murad-magomedov/49695
+magomu,Magomedov,Murad,Магомедов Мурад,מורד מגמדוב,1973-09-25,RUS,Makhachkala,murad-magomedov,-1
 mahpel,Mahpud,Eli,אלי מחפוד,1961-03-25,ISR,Petah Tikva,ISR,___,eli-mahpud/12539
 malmur,Malmilian,Uri,אורי מלמיליאן,1957-04-24,ISR,Jerusalem,ISR,___,uri-malmilian/14473
 marcav,Marchinski,Avraham, ,1946-11-11,ISR, , ,___,avraham-marchinski/95094
 margmb,Ben Margi,Meir,מאיר בן מרגי,1973-07-15,ISR,Kiryat Motzkin,ISR,___,meir-ben-margi/44608
 martda,Martane,David, ,1988-07-31,ISR,Paris,FRA,___,david-martane/70284
+matodu,Matović,Dušan, ,1983-07-08,SRB, ,SRB,dusan-matovic,-1
 mattlo,Matthäus,Lothar,Lothar Herbert Matthäus,1961-03-21,GER,Erlangen,GER,___,lothar-matthaus/155
 mcclst,McClaren,Steve,Stephen McClaren,1961-05-03,ENG,Fulford, York,___,steve-mcclaren/458
 meirmo,Meiri,Moshe,משה מאירי,1944-08-02,ISR,Petah Tikva,ISR,___,moshe-meiri/104689
 melima,Melikson,Maor,מאור מליקסון,1984-10-30,ISR,Yavne,ISR,___,maor-melikson/89136
 mendce,Mendiondo,César,César González López,1966-06-25,SPA,Madrid,SPA,___,cesar-mendiondo/7254
 meshra,Meshulam,Raz,רז משולם,1985-09-20,ISR, , ,___,raz-meshulam/41907
+messas,Messing,Asher, ,1947-12-03,ISR, , ,___,asher-messing/126964
 meulre,Meulensteen,René,Reinhard Jozef Petrus Meulensteen,1964-03-25,NED,Beugen,NED,___,rene-meulensteen/3427
 milebl,Milevski,Blagoja,Благоја Милевски,1971-03-25,MAC,Skopje, ,___,blagoja-milevski/25235
-mimesh,Mimer,Sharon,שרון מימר,1973-09-06,ISR, , ,___,sharon-mimer/44966
+mimesh,Mimer,Sharon,שרון מימר,1973-09-06,ISR, ,ISR,sharon-mimer,-1
 mizrbh,Mizrahi,Ben Hur, ,1957-12-18,ISR, , ,___,ben-hur-mizrahi/90707
 mizrof,Mizrahi,Ofer,עופר מזרחי‎,1967-03-03,ISR,Haifa,ISR,___,ofer-mizrahi/26559
 mizryo,Mizrahi,Yossi,יוסי מזרחי,1953-04-04,ISR,Jerusalem,ISR,___,yossi-mizrahi/5512
@@ -142,6 +156,7 @@ nimnav,Nimni,Avi,אבי נמני,1972-04-26,ISR,Holon,ISR,___,avi-nimni/12067
 nimnme,Nimni,Meir,מאיר נמני,1948-09-29,ISR,Libya,LYB,___,meir-nimni/95096
 niroda,Niron,Danny,Danny Nir'on,1971-01-24,ISR,Petah Tikva,ISR,___,danny-niron/12718
 nurime,Nuriel,Menashe, ,1957-12-18,ISR, , ,___,menashe-nuriel/93607
+nurxdb,Nur,Dror Bar,דרור בר-נור,1948-01-12,ISR, , ,___,dror-bar-nur/73543
 nusbam,Nusbaum,Amir,עמיר נוסבאום,1980-10-09,ISR,Rishon leZion,ISR,___,amir-nusbaum/49696
 oferel,Ofer,Eliyahu,אליהו עופר,1944-06-01,ISR,Tripoli,LYB,___,eliyahu-ofer/93610
 ohanel,Ohana,Eli,אלי אוחנה‎,1964-02-01,ISR,Jerusalem,ISR,___,eli-ohana/23471
@@ -155,8 +170,10 @@ pivaja,Pivarnik,Jan,Ján Pivarník,1947-11-13,SVK,Cejkov,CZE,___,jan-pivarnik/39
 refuko,Refua,Kobi,קובי רפואה,1974-09-03,ISR,Kfar Yona,ISR,___,kobi-refua/33756
 remldo,Remler,Dov,דב רמלר,1956-08-06,ISR, , ,___,dov-remler/95095
 reviha,Revivo,Haim,חיים רביבו,1972-02-22,ISR,Ashdod,ISR,___,haim-revivo/22913
-rosezv,Rosen,Zvi,צבי רוזן,1947-06-23,ISR,Köln,GER,___,zvi-rosen/91251
+romada,Roman,Dan, ,1982-08-27,ISR, ,ISR,dan-roman_2,-1
+rosezv,Rosen,Zvi,צבי רוזן,1947-06-23,ISR,Köln,GER,___,zvika-rosen/91251
 ruttfr,Rutten,Fred,Fredericus Jacobus Rutten,1962-12-05,NED,Wijchen,NED,___,fred-rutten/1883
+sabakl,Saban,Klemi,Klemi Rahamin Saban,1980-02-17,ISR,Natanya,ISR,klemi-saban,-1
 schash,Scharf,Shlomo, ,1943-01-01,ISR,Biysk, Altai Krai,___,shlomo-scharf/18027
 schnit,Schneor,Itzhak,יצחק שניאור,1925-12-11,ISR,Częstochowa,POL,___,itzhak-schneor/21838
 schral,Schraier,Alon, ,1960-03-01,ISR, , ,___,alon-schraier/111291
@@ -173,7 +190,7 @@ shimmb,Ben Shimon,Miro,מירו בן שמעון,1962-05-07,ISR, , ,___,miro-ben-
 shimrb,Ben Shimon,Ran,רן בן שמעון,1970-11-28,ISR,Petah Tikva,ISR,___,ran-ben-shimon/16078
 shirni,Shirazi,Nitzan,ניצן שירזי,1971-07-21,ISR,Tel Aviv,ISR,___,nitzan-shirazi/16009
 shumit,Shum,Itzhak,יצחק שום,1948-09-01,ISR,Chişinău,URS,___,itzhak-shum/629
-silvha,Silvas,Haim, ,1975-11-21,ISR,Haifa,ISR,___,haim-silvas/38559
+silvha,Silvas,Haim, ,1975-11-21,ISR,Haifa,ISR,haim-silvas,-1
 sinamo,Sinai,Moshe,משה סיני,1961-02-22,ISR,Jaffa,ISR,___,moshe-sinai/20880
 souspa,Sousa,Paulo,Paulo Manuel Carvalho Sousa,1970-08-30,POR,Viseu,POR,___,paulo-sousa/8369
 spiegi,Spiegel,Giora,גיורא שפיגל,1947-07-27,ISR,Petah Tikva,ISR,___,giora-spiegel/44035
@@ -187,9 +204,11 @@ tuamsa,Tuama,Salim,סלים טועמה,1979-08-09,ISR,Lod,ISR,___,salim-tuama/52
 turgam,Turgeman,Amir,עמיר תורג'מן,1972-10-05,ISR,Ashdod,ISR,___,amir-turgeman/49758
 turkri,Turk,Rifaat, ,1954-09-16,ISR,Jaffa,ISR,___,rifaat-turk/71221
 twizit,Twizer,Itzik,איציק טויזר,1970-01-27,ISR, , ,___,itzik-twizer/45531
-tzargu,Tzarfati,Guy,גיא צרפתי,1979-04-28,ISR,Tel Aviv,ISR,___,guy-tzarfati/49212
+tzalof,Tzalpepe,Ofer, ,1971-06-09,ISR, ,ISR,ofer-tzalpepe,-1
+tzargu,Tzarfati,Guy,גיא צרפתי,1979-04-28,ISR,Tel Aviv,ISR,guy-tzarfati,-1
 tzemtz,Tzemah,Tzvika, ,0000-00-00,ISR, , ,___,tzvika-tzemah/22459
 uhridu,Uhrin,Dusan,Dušan Uhrin,1943-02-05,CZE,Nová Ves nad Žitavou,SVK,___,dusan-uhrin/1222
+valkmi,Valkanis,Michael, ,1974-08-23,AUS,Melbourne,AUS,michael-valkanis,-1
 vesemi,Veselinovic,Milos,Милош Веселиновић,1979-11-12,SRB,Obrenovac, ,___,milos-veselinovic/34521
 vidili,Vidigal,Lito,José Carlos Fernandes Vidigal,1969-07-11,ANG,Elvas,POR,___,lito-vidigal/6567
 yaakzi,Yaakov,Zion, ,1953-06-15,ISR, , ,___,zion-yaakov/118002
@@ -198,5 +217,6 @@ younro,Young,Roby,רובי יאנג,1942-05-15,ISR,Haifa,ISR,___,roby-young/1046
 zadali,Zada,Lior,ליאור זאדה,1978-12-26,ISR, , ,___,lior-zada/49759
 zafrmo,Zafran,Momi,מומי זפרן,1956-07-13,ISR, , ,___,momi-zafran/20990
 zakebb,Ben Zaken,Benny,בני בן זקן,1982-10-18,ISR,Kiryat Shmona,ISR,___,benny-ben-zaken/44352
+zanoma,Zanoguera,Mauro, ,1991-11-24,SPA, ,SPA,mauro-zanoguera,-1
 zivlro,Zivlin,Ron, ,1954-06-29,ISR, , ,___,ron-zivlin/97397
 zzzzzz,Zzzz,Zz,Zz Zzzz,9999-12-31,ROM,Malu Spart,ROM,zz-zzzz,-1

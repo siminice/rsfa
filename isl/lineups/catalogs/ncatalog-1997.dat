@@ -1,198 +1,215 @@
-adolsd,Adolfsson,Steinar Dagur,1970-01-25,ISL,1, , ,9,9,0,1,  773,7,0,-3,0,0,0,2,0
-adolla,Adolfsson,Ólafur,1967-10-18,ISL,1, , ,7,7,0,1,  532,4,0,0,0,0,0,1,1
-bragb1,Bragason,Baldur,1972-01-01,ISL,1, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
-gunna1,Gunnlaugsson,Arnar,1973-03-06,ISL,1, , ,1,1,0,1,   90,1,0,0,0,1,0,0,0
-gudjbj,Guðjónsson,Bjarni,1979-02-26,ISL,1, , ,5,5,0,2,  397,3,0,0,0,0,0,1,0
-gislsi,Gíslason,Sigursteinn,1968-06-25,ISL,1, , ,7,7,0,1,  614,6,0,0,0,1,0,0,0
-harast,Haraldsson,Sturlaugur,1973-08-09,ISL,1, , ,7,3,4,0,  355,1,0,0,0,0,0,3,0
-harapa,Haraldsson,Pálmi,1974-08-02,ISL,1, , ,8,6,2,2,  608,6,0,0,0,0,0,0,0
-hardjt,Hardarson,Johannes Thór,1976-07-28,ISL,1, , ,3,2,1,1,  158,0,0,0,0,0,0,0,0
-haukrh,Hauksson,Ragnar Haukur,1976-03-23,ISL,1, , ,1,0,1,3,   25,0,0,0,0,0,0,0,0
-hinrha,Hinriksson,Haraldur,1968-10-09,ISL,1, , ,5,0,5,0,  116,0,0,0,0,0,0,0,0
-hognal,Högnason,Alexander,1968-08-07,ISL,1, , ,9,9,0,2,  777,8,0,0,0,0,0,2,0
-ingoha,Ingólfsson,Haraldur,1970-08-01,ISL,1, , ,7,7,0,2,  630,7,0,0,0,0,0,0,0
-jonsgu,Jónsson,Gunnlaugur,1974-11-29,ISL,1, , ,8,8,0,0,  720,8,0,0,0,0,0,2,0
-lintal,Linta,Aleksandar,1975-10-22,SRB,1, , ,7,3,4,0,  390,3,0,0,0,0,0,2,0
-reynka,Reynisson,Kári,1974-03-12,ISL,1, , ,7,5,2,1,  415,1,0,0,0,0,0,1,0
-ristdr,Ristic,Dragutin,1964-08-05,CRO,1, , ,7,6,1,3,  550,4,0,0,0,0,0,0,0
-thort3,Thórdarson,Thórdur,1972-04-10,ISL,1, , ,9,9,0,0,  810,9,0,-9,0,0,0,1,0
-thorol,Thórdarson,Ólafur,1965-08-22,ISL,1, , ,9,9,0,1,  799,8,0,0,0,0,0,0,0
+adolsd,Adolfsson,Steinar Dagur,1970-01-25,ISL,1, , ,18,18,0,1, 1542,14,0,-3,0,0,0,2,0
+adolla,Adolfsson,Ólafur,1967-10-18,ISL,1, , ,15,15,0,1, 1252,12,0,0,0,0,0,2,1
+bragb1,Bragason,Baldur,1972-01-01,ISL,1, , ,1,0,1,0,   29,0,1,0,0,0,0,0,0
+gunna1,Gunnlaugsson,Arnar,1973-03-06,ISL,1, , ,2,2,0,1,  180,2,0,0,0,1,0,0,0
+gudjbj,Guðjónsson,Bjarni,1979-02-26,ISL,1, , ,6,6,0,2,  400,3,0,0,0,0,0,1,0
+gislsi,Gíslason,Sigursteinn,1968-06-25,ISL,1, , ,10,9,1,1,  811,7,0,0,0,1,0,1,1
+harast,Haraldsson,Sturlaugur,1973-08-09,ISL,1, , ,14,5,9,0,  675,3,0,0,0,0,0,4,0
+harapa,Haraldsson,Pálmi,1974-08-02,ISL,1, , ,17,15,2,3, 1341,12,0,0,0,0,0,0,0
+hardjt,Hardarson,Johannes Thór,1976-07-28,ISL,1, , ,9,7,2,2,  610,4,0,0,0,0,0,0,0
+haukrh,Hauksson,Ragnar Haukur,1976-03-23,ISL,1, , ,6,1,5,4,  190,1,0,0,0,0,0,1,0
+hinrha,Hinriksson,Haraldur,1968-10-09,ISL,1, , ,9,1,8,0,  256,1,0,0,0,0,0,0,0
+hognal,Högnason,Alexander,1968-08-07,ISL,1, , ,17,17,0,4, 1473,15,0,0,0,0,0,3,0
+ingoha,Ingólfsson,Haraldur,1970-08-01,ISL,1, , ,15,15,0,7, 1324,13,0,0,0,0,0,0,0
+jonsgu,Jónsson,Gunnlaugur,1974-11-29,ISL,1, , ,17,17,0,0, 1493,16,0,0,0,0,0,4,0
+lintal,Linta,Aleksandar,1975-10-22,SRB,1, , ,12,8,4,0,  759,5,0,0,0,0,0,4,0
+reynka,Reynisson,Kári,1974-03-12,ISL,1, , ,16,11,5,7, 1103,6,0,0,0,0,0,2,0
+ristdr,Ristic,Dragutin,1964-08-05,CRO,1, , ,10,9,1,4,  773,5,0,0,0,0,0,1,1
+thort3,Thórdarson,Thórdur,1972-04-10,ISL,1, , ,18,18,0,0, 1591,17,0,-21,0,0,0,1,0
+thorol,Thórdarson,Ólafur,1965-08-22,ISL,1, , ,18,18,0,3, 1609,17,0,0,0,0,0,2,0
 tomivl,Tomic,Vladan,1970-12-23,MNT,1, , ,2,2,0,0,   90,0,0,0,0,0,0,0,0
-valgun,Valgeirsson,Unnar,1977-11-16,ISL,1, , ,3,1,2,0,   53,0,0,0,0,0,0,0,0
+valgun,Valgeirsson,Unnar,1977-11-16,ISL,1, , ,7,4,3,0,  286,1,0,0,0,0,0,1,0
 viktvi,Viktorsson,Viktor,1977-01-01,ISL,1, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
-arnaas,Arnarsson,Ásmundur,1972-03-14,ISL,0, , ,11,9,2,4,  884,9,0,0,0,0,0,0,0
-arntpt,Arnthórsson,Pétur,1965-05-08,ISL,0, , ,10,9,1,1,  602,1,0,0,0,0,0,1,0
-gudgst,Gudgeirsson,Steinar Thór,1971-08-19,ISL,0, , ,9,9,0,0,  790,8,0,0,0,0,0,0,0
-gudjsa,Gudjónsson,Saevar,0000-00-00,ISL,0, , ,11,11,0,0,  959,9,0,0,0,0,0,1,0
-hallas,Halldórsson,Ásgeir,1973-01-25,ISL,0, , ,9,9,0,1,  725,6,0,0,0,0,0,4,2
-harase,Haraldsson,Sigurdur Eli,0000-00-00,ISL,0, , ,5,0,5,0,   82,0,0,0,0,0,0,0,0
-jnashl,Jónasson,Hólmsteinn,0000-00-00,ISL,0, , ,8,6,2,0,  528,4,0,0,0,0,0,0,0
-karlfr,Karlsson,Freyr,1979-04-25,ISL,0, , ,2,0,2,0,    8,0,0,0,0,0,0,0,0
-markab,Markússon,Anton Björn,1971-01-06,ISL,0, , ,9,8,1,1,  689,5,0,0,0,0,0,0,0
-pjetai,Pjetursson,Arni Ingi,1979-04-28,ISL,0, , ,3,0,3,0,   50,0,0,0,0,0,0,0,0
-pturla,Pétursson,Ólafur,1972-02-07,ISL,0, , ,11,11,0,0,  990,11,0,-12,0,0,0,0,0
-siguk3,Sigurgeirsson,Kristófer,1972-11-19,ISL,0, , ,10,7,3,0,  638,2,0,0,0,0,0,0,0
+arnaas,Arnarsson,Ásmundur,1972-03-14,ISL,0, , ,17,15,2,6, 1393,12,0,0,0,0,0,1,1
+arntpt,Arnthórsson,Pétur,1965-05-08,ISL,0, , ,15,11,4,1,  838,3,0,0,0,0,0,2,0
+gudgst,Gudgeirsson,Steinar Thór,1971-08-19,ISL,0, , ,16,16,0,1, 1420,15,0,0,0,0,0,1,0
+gudjsa,Gudjónsson,Saevar,0000-00-00,ISL,0, , ,18,18,0,0, 1576,15,0,0,0,0,0,3,0
+gudmda,Guðmundsson,Daði,1981-02-11,ISL,0, , ,1,0,1,0,    4,0,0,0,0,0,0,0,0
+hallas,Halldórsson,Ásgeir,1973-01-25,ISL,0, , ,15,15,0,1, 1265,12,0,0,0,0,0,4,2
+harase,Haraldsson,Sigurdur Eli,0000-00-00,ISL,0, , ,10,0,10,0,  142,0,0,0,0,0,0,0,0
+haukhs,Hauksson,Haukur Snaer,1979-01-10,ISL,0, , ,2,0,2,1,   55,0,0,0,0,0,0,0,0
+jnashl,Jónasson,Hólmsteinn,0000-00-00,ISL,0, , ,9,6,3,0,  534,4,0,0,0,0,0,0,0
+karlfr,Karlsson,Freyr,1979-04-25,ISL,0, , ,6,2,4,0,  183,1,0,0,0,0,0,1,0
+markab,Markússon,Anton Björn,1971-01-06,ISL,0, , ,15,14,1,3, 1199,8,0,0,0,0,0,0,0
+pjetai,Pjetursson,Arni Ingi,1979-04-28,ISL,0, , ,8,5,3,1,  462,3,0,0,0,0,0,1,0
+pturla,Pétursson,Ólafur,1972-02-07,ISL,0, , ,18,18,0,0, 1620,18,0,-23,0,0,0,0,0
+siguk3,Sigurgeirsson,Kristófer,1972-11-19,ISL,0, , ,16,12,4,0, 1075,4,0,0,0,0,0,2,1
 siguhe,Sigurðsson,Helgi,1974-09-17,ISL,0, , ,5,4,1,1,  382,2,0,0,0,0,0,0,0
-sveijn,Sveinsson,Jón,1965-08-05,ISL,0, , ,10,10,0,0,  900,10,0,0,0,0,0,3,0
-sveita,Sveinsson,Thorbjörn Atli,1977-08-30,ISL,0, , ,11,10,1,1,  910,7,0,0,0,0,0,1,0
-sgeith,Ásgeirsson,Thorvaldur,0000-00-00,ISL,0, , ,11,10,1,0,  945,10,0,0,0,0,0,0,0
-asgea4,Ásgeirsson,Ásgeir,1972-03-30,ISL,0, , ,9,5,4,3,  481,3,0,0,0,0,0,2,0
-lafsgs,Ólafsson,Ágúst,1971-05-30,ISL,0, , ,8,3,5,0,  287,1,0,0,0,0,0,0,0
-bjarol,Bjarnason,Ólafur,1975-05-15,ISL,22, , ,10,10,0,0,  900,10,0,0,0,0,0,1,0
-dagbsd,Dagbjartsson,Sigurbjörn Dadi,1975-12-08,ISL,22, , ,2,0,2,0,   22,0,0,0,0,0,0,0,0
-danejb,Daníelsson,Júlíus Bjargthór,1977-06-15,ISL,22, , ,6,5,1,0,  505,5,0,0,0,0,0,2,0
-einatg,Einarsson,Thorsteinn Grétar,1964-10-11,ISL,22, , ,6,2,4,0,  257,2,0,0,0,0,0,1,0
-flovos,Flóventsson,Óli Stefán,1975-12-07,ISL,22, , ,10,8,2,0,  729,6,0,0,0,0,0,2,0
-gudjs1,Gudjónsson,Sveinn Ari,0000-00-00,ISL,22, , ,3,2,1,0,  130,1,0,0,0,0,0,1,0
+sveijn,Sveinsson,Jón,1965-08-05,ISL,0, , ,16,16,0,0, 1440,16,0,0,0,0,0,4,0
+sveita,Sveinsson,Thorbjörn Atli,1977-08-30,ISL,0, , ,18,17,1,6, 1496,11,0,0,0,1,0,2,0
+sgeith,Ásgeirsson,Thorvaldur,0000-00-00,ISL,0, , ,18,17,1,0, 1539,15,0,0,0,0,0,1,0
+asgea4,Ásgeirsson,Ásgeir,1972-03-30,ISL,0, , ,11,7,4,3,  661,5,0,0,0,0,0,2,0
+lafsgs,Ólafsson,Ágúst,1971-05-30,ISL,0, , ,11,5,6,1,  474,3,0,0,0,0,0,0,0
+bjarol,Bjarnason,Ólafur,1975-05-15,ISL,22, , ,18,18,0,1, 1620,18,0,0,0,0,0,1,0
+bjrnrs,Björnsson,Árni Stefán,1979-09-23,ISL,22, , ,2,0,2,2,   31,0,0,0,0,0,0,1,0
+dagbsd,Dagbjartsson,Sigurbjörn Dadi,1975-12-08,ISL,22, , ,8,1,7,0,  156,0,0,0,0,0,0,1,0
+danejb,Daníelsson,Júlíus Bjargthór,1977-06-15,ISL,22, , ,7,6,1,0,  572,5,0,0,0,0,0,2,0
+einatg,Einarsson,Thorsteinn Grétar,1964-10-11,ISL,22, , ,12,4,8,0,  492,2,0,0,-1,0,0,1,0
+flovos,Flóventsson,Óli Stefán,1975-12-07,ISL,22, , ,18,14,4,0, 1245,8,0,0,0,0,0,2,0
+gudjs1,Gudjónsson,Sveinn Ari,0000-00-00,ISL,22, , ,6,4,2,0,  322,3,0,0,0,0,0,1,0
 gunngm,Gunnarsson,Gunnar Már,0000-00-00,ISL,22, , ,1,0,1,0,    5,0,0,0,0,0,0,0,0
-hallhj,Hallgrímsson,Hjálmar,1966-07-02,ISL,22, , ,3,2,1,0,  171,1,0,0,0,0,0,0,0
-helggu,Helgason,Gudmundur,1975-03-06,ISL,22, , ,10,7,3,1,  611,3,0,0,0,0,0,4,0
-inglla,Ingólfsson,Ólafur,1969-03-03,ISL,22, , ,10,8,2,3,  672,4,0,0,0,1,0,0,0
-jankmi,Jankovic,Milan,1960-04-27,ISL,22, , ,10,10,0,0,  900,10,0,0,0,0,0,1,0
-jnssgr,Jónsson,Gudlaugur Örn,1965-12-28,ISL,22, , ,8,7,1,0,  617,6,0,0,0,0,0,0,1
-kekisi,Kekic,Sinisa,1969-11-19,SRB,22, , ,8,7,1,4,  615,6,0,0,0,0,0,2,0
-kristh,Kristjánsson,Thórarinn,0000-00-00,ISL,22, , ,4,4,0,2,  348,2,0,0,0,0,0,0,0
-ljubzo,Ljubicic,Zoran,1967-01-08,ISL,22, , ,10,10,0,1,  890,8,0,0,0,1,0,2,0
-magnjf,Magnússon,Jón Freyr,1978-05-10,ISL,22, , ,1,1,0,0,   68,0,0,0,0,0,0,0,0
-sklabj,Skúlason,Björn,0000-00-00,ISL,22, , ,8,7,1,0,  629,5,0,0,0,0,0,1,0
-saeval,Sævarsson,Albert,1973-10-18,ISL,22, , ,10,10,0,0,  900,10,0,-11,0,0,0,2,0
-asmugu,Ásmundsson,Gudjón,1974-03-22,ISL,22, , ,10,10,0,0,  900,10,0,0,-1,0,0,2,0
-benegu,Benediktsson,Gudmundur,1974-09-03,ISL,2, , ,2,0,2,0,   48,0,0,0,0,0,0,0,0
-bjorhi,Björnsson,Hilmar,1969-05-13,ISL,2, , ,9,9,0,1,  750,5,0,0,0,0,0,0,0
-dadari,Dadason,Ríkhardur,1972-04-26,ISL,2, , ,8,8,0,4,  720,8,0,0,0,0,0,0,0
-daniet,Daníelsson,Einar Thór,1970-01-19,ISL,2, , ,8,8,0,1,  690,6,0,0,0,0,0,2,0
-egilth,Egilsson,Thormódur,1969-08-10,ISL,2, , ,9,8,1,0,  714,6,0,0,0,0,0,1,0
-finnk1,Finnbogason,Kristján,1971-05-08,ISL,2, , ,9,9,0,0,  810,9,0,-8,0,0,0,0,0
-gudjh1,Gudjónsson,Heimir,1969-04-03,ISL,2, , ,6,4,2,0,  373,3,0,0,0,0,0,2,0
-gunnb2,Gunnarsson,Brynjar,1975-10-16,ISL,2, , ,8,8,0,0,  693,7,0,0,0,0,0,4,0
-hreied,Hreinsson,Edilon,1978-12-28,ISL,2, , ,1,0,1,0,   10,0,0,0,0,0,0,0,0
-johath,Jóhannsson,Þórhallur,1972-12-05,ISL,2, , ,6,6,0,0,  450,3,0,0,0,0,0,1,0
-jonsso,Jónsson,Sigurdur Örn,1973-07-30,ISL,2, , ,6,5,1,0,  459,4,0,0,0,0,0,0,0
-jonsth,Jónsson,Thorsteinn,1970-02-01,ISL,2, , ,9,7,2,2,  682,7,0,0,0,0,0,2,0
-julisi,Júlíusson,Sigthór,1975-04-27,ISL,2, , ,6,2,4,0,  243,0,0,0,0,0,0,0,0
-krislh,Kristjánsson,Ólafur Helgi,1968-05-20,ISL,2, , ,7,7,0,0,  522,4,0,0,0,0,0,1,1
-sigtan,Sigthórsson,Andri,1977-03-25,ISL,2, , ,6,4,2,7,  371,2,0,0,0,0,0,0,0
-siguaj,Sigurgeirsson,Arnar Jón,1978-09-14,ISL,2, , ,3,0,3,1,   33,0,0,0,0,0,0,0,0
-thorb1,Thorsteinsson,Bjarni,1976-08-31,ISL,2, , ,7,7,0,1,  603,6,0,0,0,0,0,0,0
-thors5,Thorvaldsson,Óskar Hrafn,1973-10-25,ISL,2, , ,7,6,1,0,  569,5,0,0,0,0,0,1,1
+hallhj,Hallgrímsson,Hjálmar,1966-07-02,ISL,22, , ,11,9,2,0,  824,8,0,0,0,0,0,2,0
+helggu,Helgason,Gudmundur,1975-03-06,ISL,22, , ,17,13,4,1, 1146,7,0,0,0,0,0,5,0
+inglla,Ingólfsson,Ólafur,1969-03-03,ISL,22, , ,18,14,4,4, 1206,8,0,0,0,1,0,1,0
+jankmi,Jankovic,Milan,1960-04-27,ISL,22, , ,18,18,0,0, 1620,18,0,0,0,0,0,2,0
+jnssgr,Jónsson,Gudlaugur Örn,1965-12-28,ISL,22, , ,10,8,2,0,  709,7,0,0,0,0,0,1,1
+kekisi,Kekic,Sinisa,1969-11-19,SRB,22, , ,14,13,1,6, 1083,8,0,0,0,0,0,6,0
+kristh,Kristjánsson,Thórarinn,0000-00-00,ISL,22, , ,8,8,0,2,  637,2,0,0,0,0,0,0,0
+ljubzo,Ljubicic,Zoran,1967-01-08,ISL,22, , ,18,18,0,5, 1596,15,0,0,0,2,0,2,0
+magnjf,Magnússon,Jón Freyr,1978-05-10,ISL,22, , ,4,1,3,0,  139,0,0,0,0,0,0,0,0
+sklabj,Skúlason,Björn,0000-00-00,ISL,22, , ,15,14,1,0, 1236,11,0,0,0,0,0,3,0
+saeval,Sævarsson,Albert,1973-10-18,ISL,22, , ,18,18,0,0, 1620,18,0,-29,0,0,0,2,0
+asmugu,Ásmundsson,Gudjón,1974-03-22,ISL,22, , ,17,17,0,0, 1530,17,0,0,-1,0,0,5,0
+benegu,Benediktsson,Gudmundur,1974-09-03,ISL,2, , ,11,3,8,3,  407,1,0,0,0,0,0,0,0
+bjorhi,Björnsson,Hilmar,1969-05-13,ISL,2, , ,17,17,0,1, 1381,9,0,0,0,0,0,0,0
+dadari,Dadason,Ríkhardur,1972-04-26,ISL,2, , ,16,13,3,7, 1317,13,0,0,0,0,0,0,0
+daniet,Daníelsson,Einar Thór,1970-01-19,ISL,2, , ,16,16,0,7, 1401,13,0,0,0,2,0,4,0
+egilth,Egilsson,Thormódur,1969-08-10,ISL,2, , ,13,12,1,0, 1074,10,0,0,0,0,0,1,0
+finnk1,Finnbogason,Kristján,1971-05-08,ISL,2, , ,18,18,0,0, 1620,18,0,-23,0,0,0,0,0
+gudjh1,Gudjónsson,Heimir,1969-04-03,ISL,2, , ,12,7,5,0,  630,4,0,0,0,0,0,2,0
+gunnb2,Gunnarsson,Brynjar,1975-10-16,ISL,2, , ,16,16,0,0, 1398,13,0,0,0,0,0,6,0
+hreied,Hreinsson,Edilon,1978-12-28,ISL,2, , ,5,3,2,0,  285,3,0,0,0,0,0,1,0
+johath,Jóhannsson,Þórhallur,1972-12-05,ISL,2, , ,8,6,2,0,  495,3,0,0,0,0,0,1,0
+jonsso,Jónsson,Sigurdur Örn,1973-07-30,ISL,2, , ,14,13,1,0, 1179,12,0,0,0,0,0,0,0
+jonsth,Jónsson,Thorsteinn,1970-02-01,ISL,2, , ,18,15,3,3, 1373,14,0,0,0,0,0,2,0
+julisi,Júlíusson,Sigthór,1975-04-27,ISL,2, , ,12,4,8,0,  433,0,0,0,0,0,0,2,0
+krislh,Kristjánsson,Ólafur Helgi,1968-05-20,ISL,2, , ,12,12,0,0,  904,5,0,0,0,0,0,2,1
+sigtan,Sigthórsson,Andri,1977-03-25,ISL,2, , ,14,12,2,14, 1010,7,0,0,0,2,0,2,0
+siguaj,Sigurgeirsson,Arnar Jón,1978-09-14,ISL,2, , ,5,1,4,1,  131,1,0,0,0,0,0,0,0
+thorb1,Thorsteinsson,Bjarni,1976-08-31,ISL,2, , ,15,15,0,2, 1323,14,0,0,0,0,0,1,0
+thors5,Thorvaldsson,Óskar Hrafn,1973-10-25,ISL,2, , ,15,14,1,0, 1289,13,0,0,0,0,0,2,1
 vilhvi,Vilhjálmsson,Vilhjálmur,1977-07-23,ISL,2, , ,3,1,2,0,  126,1,0,0,0,0,0,0,0
 birgge,Birgisson,Georg,1971-06-12,ISL,7, , ,2,0,2,0,   19,0,0,0,0,0,0,0,0
-finnka,Finnbogason,Karl,1970-05-09,ISL,7, , ,11,11,0,0,  976,10,0,0,0,0,0,3,0
-gottol,Gottskálksson,Ólafur,1968-03-12,ISL,7, , ,9,9,0,0,  810,9,0,-9,0,0,0,0,0
-gudbkr,Gudbrandsson,Kristinn,1969-10-07,ISL,7, , ,11,11,0,0,  990,11,0,0,0,0,0,1,0
-gudmbf,Gudmundsson,Bjarki Freyr,1976-07-06,ISL,7, , ,2,2,0,0,  180,2,0,-3,0,0,0,1,0
-gudmjo,Guðmundsson,Jóhann,1977-12-05,ISL,7, , ,11,10,1,2,  945,10,0,0,0,0,0,2,0
-gudnha,Guðnason,Haukur,1978-09-08,ISL,7, , ,11,11,0,5,  918,6,0,0,0,0,0,0,0
-gylfga,Gylfason,Gestur Arnar,1969-01-05,ISL,7, , ,11,10,1,0,  851,6,0,0,0,0,0,2,0
+finnka,Finnbogason,Karl,1970-05-09,ISL,7, , ,17,17,0,0, 1480,14,0,0,0,0,0,4,0
+fjelhj,Fjeldsted,Hjörtur,1980-11-13,ISL,7, , ,1,0,1,0,    8,0,0,0,0,0,0,0,0
+gottol,Gottskálksson,Ólafur,1968-03-12,ISL,7, , ,10,10,0,0,  900,10,0,-10,0,0,0,0,0
+gudbkr,Gudbrandsson,Kristinn,1969-10-07,ISL,7, , ,18,18,0,0, 1620,18,0,0,0,0,0,1,0
+gudmbf,Gudmundsson,Bjarki Freyr,1976-07-06,ISL,7, , ,8,8,0,0,  717,7,0,-18,0,0,0,1,0
+gudmjo,Guðmundsson,Jóhann,1977-12-05,ISL,7, , ,17,16,1,4, 1460,15,0,0,0,0,0,2,0
+gudnha,Guðnason,Haukur,1978-09-08,ISL,7, , ,16,16,0,6, 1353,9,0,0,0,0,0,0,0
+gylfga,Gylfason,Gestur Arnar,1969-01-05,ISL,7, , ,16,15,1,0, 1260,9,0,0,0,0,0,3,0
 gslajh,Gíslason,Jóhannes Hleidar,1979-01-16,ISL,7, , ,1,0,1,0,   11,0,0,0,0,0,0,0,0
-haukey,Hauksson,Eysteinn,1974-08-12,ISL,7, , ,11,11,0,1,  946,7,0,0,0,1,0,1,0
-jonhjm,Jónhardsson,Jakob Már,1971-04-24,ISL,7, , ,7,3,4,0,  372,3,0,0,0,0,0,1,0
-jonssn,Jónsson,Snorri,1975-05-28,ISL,7, , ,11,9,2,0,  705,4,0,0,0,0,0,0,0
-jnsssm,Jónsson,Ásmundur,0000-00-00,ISL,7, , ,1,0,1,0,    4,0,0,0,0,0,0,0,0
-kristb,Kristjansson,Thórarinn Brynjar,1980-12-30,ISL,7, , ,4,0,4,0,   66,0,0,0,0,0,0,0,0
-oddsgu,Oddsson,Gunnar,1965-03-27,ISL,7, , ,11,11,0,1,  990,11,0,0,0,0,0,1,0
-oddsg1,Oddsson,Gudmundur,1975-05-01,ISL,7, , ,11,11,0,1,  972,10,0,0,0,0,0,3,0
-steira,Steinarsson,Ragnar,1971-06-07,ISL,7, , ,11,10,1,2,  852,7,0,0,0,0,0,1,0
-steig1,Steinarsson,Guðmundur,1979-10-20,ISL,7, , ,7,1,6,0,  214,1,0,0,0,0,0,1,0
-sveiad,Sveinsson,Adolf,1975-11-18,ISL,7, , ,3,1,2,0,   69,0,0,0,0,0,0,0,0
-arasah,Arason,Albert Högni,1977-12-02,ISL,20, , ,1,0,1,0,    8,0,0,0,0,0,0,0,0
-bjarb2,Bjarnason,Bjarni Sindri,1970-01-01,ISL,20, , ,5,2,3,0,  221,2,0,0,0,0,0,0,0
-bragb2,Bragason,Baldur,1968-05-29,ISL,20, , ,5,4,1,1,  367,1,0,0,0,0,0,1,0
-cardha,Cardaklija,Hajrudin,1965-03-27,BOS,20, , ,2,2,0,0,  141,1,0,-3,0,0,0,0,1
-derviz,Dervić,Izudin,1963-02-22,ISL,20, , ,7,7,0,0,  630,7,0,0,0,0,0,1,0
-gardda,Gardarsson,Davíd,1969-08-19,ISL,20, , ,7,7,0,0,  568,4,0,0,0,0,0,2,0
-gretar,Grétarsson,Arnar,1972-02-20,ISL,20, , ,4,4,0,0,  360,4,0,0,0,0,0,1,0
-gslara,Gíslason,Ragnar,1967-06-28,ISL,20, , ,3,2,1,0,  176,0,0,0,0,0,0,0,0
-helgau,Helgason,Auðun,1974-06-18,ISL,20, , ,4,4,0,0,  360,4,0,0,0,0,0,1,0
-jonspb,Jónsson,Pétur Björn,1971-10-29,ISL,20, , ,7,4,3,0,  439,2,0,0,0,0,0,0,0
-jnssth,Jónsson,Thorvaldur,1964-05-17,ISL,20, , ,5,5,0,0,  450,5,0,-1,0,0,0,0,0
+hartas,Hartmannsson,Anton Sigurjón,1960-04-09,ISL,7, , ,1,0,1,0,    3,0,0,0,0,0,0,0,0
+haukey,Hauksson,Eysteinn,1974-08-12,ISL,7, , ,18,17,1,5, 1554,13,0,0,0,2,0,1,0
+jonhjm,Jónhardsson,Jakob Már,1971-04-24,ISL,7, , ,12,7,5,0,  719,6,0,0,0,0,0,3,0
+jonssn,Jónsson,Snorri,1975-05-28,ISL,7, , ,17,13,4,0, 1103,7,0,0,0,0,0,0,0
+jnsssm,Jónsson,Ásmundur,0000-00-00,ISL,7, , ,3,1,2,0,   92,0,0,0,0,0,0,0,0
+kristb,Kristjansson,Thórarinn Brynjar,1980-12-30,ISL,7, , ,9,3,6,1,  341,1,0,0,0,0,0,1,0
+oddsgu,Oddsson,Gunnar,1965-03-27,ISL,7, , ,18,18,0,1, 1620,18,0,0,0,0,0,1,0
+oddsg1,Oddsson,Gudmundur,1975-05-01,ISL,7, , ,17,17,0,1, 1502,15,0,0,0,0,0,3,0
+steig1,Steinarsson,Guðmundur,1979-10-20,ISL,7, , ,14,7,7,0,  759,7,0,0,0,0,0,3,0
+steira,Steinarsson,Ragnar,1971-06-07,ISL,7, , ,13,12,1,2,  964,8,0,0,0,0,0,1,0
+sveiad,Sveinsson,Adolf,1975-11-18,ISL,7, , ,8,2,6,0,  214,0,0,0,0,0,0,0,0
+sveig1,Sveinsson,Gunnar,0000-00-00,ISL,7, , ,2,0,2,0,   66,0,0,0,0,0,0,0,0
+thorit,Thórisson,Ingi Thór,0000-00-00,ISL,7, , ,1,0,1,0,   10,0,0,0,0,0,0,0,0
+rnasbm,Árnason,Bjarki Már,1978-10-13,ISL,7, , ,1,1,0,0,   45,0,0,0,0,0,0,1,0
+arasah,Arason,Albert Högni,1977-12-02,ISL,20, , ,4,0,4,0,   29,0,0,0,0,0,0,0,0
+bjarb2,Bjarnason,Bjarni Sindri,1970-01-01,ISL,20, , ,15,7,8,0,  712,6,0,0,0,0,0,0,0
+bragb2,Bragason,Baldur,1968-05-29,ISL,20, , ,15,14,1,2, 1250,9,0,0,0,0,0,3,1
+cardha,Cardaklija,Hajrudin,1965-03-27,BOS,20, , ,5,5,0,0,  411,4,0,-6,0,0,0,0,1
+derviz,Dervić,Izudin,1963-02-22,ISL,20, , ,17,17,0,2, 1530,17,0,0,0,0,0,5,0
+gardda,Gardarsson,Davíd,1969-08-19,ISL,20, , ,14,12,2,1, 1073,8,0,0,0,0,0,3,0
+gretar,Grétarsson,Arnar,1972-02-20,ISL,20, , ,6,6,0,0,  540,6,0,0,0,0,0,2,0
+gslara,Gíslason,Ragnar,1967-06-28,ISL,20, , ,14,11,3,0,  992,5,0,0,0,0,0,1,0
+helgau,Helgason,Auðun,1974-06-18,ISL,20, , ,8,8,0,0,  720,8,0,0,-1,0,0,2,0
+jonspb,Jónsson,Pétur Björn,1971-10-29,ISL,20, , ,17,12,5,2, 1130,6,0,0,0,0,0,3,0
+jnssth,Jónsson,Thorvaldur,1964-05-17,ISL,20, , ,13,13,0,0, 1170,13,0,-8,0,0,0,0,0
 kolbfi,Kolbeinsson,Finnur,1972-03-21,ISL,20, , ,2,2,0,0,  159,1,0,0,0,0,0,0,0
-lazora,Lazorik,Rastislav,1973-04-16,SVK,20, , ,5,5,0,3,  435,4,0,0,0,0,0,2,0
-magnhm,Magnússon,Hördur Már,1971-10-30,ISL,20, , ,7,6,1,1,  532,5,0,0,0,0,0,2,0
-martan,Marteinsson,Andri,1965-08-08,ISL,20, , ,7,6,1,0,  497,5,0,0,0,0,0,1,0
-milisl,Milisic,Slobodan,1966-09-29,SRB,20, , ,6,6,0,0,  540,6,0,0,0,0,0,2,0
-mssogm,Másson,Gunnar Már,1971-03-15,ISL,20, , ,6,5,1,0,  377,3,0,0,0,0,0,0,0
-sigbtm,Sigbjörnsson,Thorvaldur Makan,1974-11-26,ISL,20, , ,6,4,2,3,  360,2,0,0,0,0,0,2,0
-sigvma,Sigvaldason,Matthías,1970-01-01,ISL,20, , ,1,0,1,0,   11,0,0,0,0,0,0,0,0
+lazora,Lazorik,Rastislav,1973-04-16,SVK,20, , ,12,10,2,4,  954,8,0,0,0,0,0,2,0
+magnhm,Magnússon,Hördur Már,1971-10-30,ISL,20, , ,15,12,3,2, 1053,7,0,0,0,0,0,5,0
+martan,Marteinsson,Andri,1965-08-08,ISL,20, , ,18,17,1,0, 1384,13,0,0,0,0,0,2,0
+milisl,Milisic,Slobodan,1966-09-29,SRB,20, , ,15,15,0,0, 1350,15,0,0,0,0,0,5,0
+mssogm,Másson,Gunnar Már,1971-03-15,ISL,20, , ,15,13,2,5, 1114,10,0,0,0,0,0,1,0
+sigbtm,Sigbjörnsson,Thorvaldur Makan,1974-11-26,ISL,20, , ,14,10,4,8,  895,7,0,0,0,0,0,3,0
+sigvma,Sigvaldason,Matthías,1970-01-01,ISL,20, , ,4,1,3,1,  126,0,0,0,0,0,0,0,0
 thort4,Thorsteinsson,Thorvaldur,0000-00-00,ISL,20, , ,1,0,1,0,   39,0,0,-3,0,0,0,0,0
-trygju,Tryggvason,Júlíus,1966-10-22,ISL,20, , ,4,2,2,0,  221,2,0,0,0,0,0,0,0
-axelbs,Axelsson,Björn Svavar,0000-00-00,ISL,16, , ,8,3,5,0,  324,2,0,0,0,0,0,0,0
-georkr,Georgsson,Kristján,1975-10-05,ISL,16, , ,3,0,3,0,   52,0,0,0,0,0,0,0,0
-grtapr,Grétarsson,Pétur Rúnar,1972-01-26,ISL,16, , ,9,9,0,0,  810,9,0,0,0,0,0,1,0
-grtasi,Grétarsson,Sindri,1970-04-28,ISL,16, , ,8,8,0,2,  689,6,0,0,0,0,0,0,0
-hallja,Hallgeirsson,Jakob,0000-00-00,ISL,16, , ,8,8,0,0,  681,6,0,0,0,0,0,3,0
-hjarhj,Hjartarson,Hjörtur Júlíus,1974-10-31,ISL,16, , ,4,3,1,0,  273,2,0,0,0,0,0,0,0
-hkonht,Hákonarson,Hilmar Thór,1969-12-03,ISL,16, , ,7,7,0,1,  488,1,0,0,0,0,0,0,1
+trygju,Tryggvason,Júlíus,1966-10-22,ISL,20, , ,15,13,2,0, 1144,12,0,0,0,0,0,2,0
+axelbs,Axelsson,Björn Svavar,0000-00-00,ISL,16, , ,15,10,5,0,  943,8,0,0,-1,0,0,1,0
+georkr,Georgsson,Kristján,1975-10-05,ISL,16, , ,9,3,6,0,  358,3,0,0,0,0,0,0,0
+grtapr,Grétarsson,Pétur Rúnar,1972-01-26,ISL,16, , ,17,17,0,0, 1530,17,0,0,0,0,0,3,0
+grtasi,Grétarsson,Sindri,1970-04-28,ISL,16, , ,15,14,1,4, 1160,8,0,0,0,0,0,0,0
+hallja,Hallgeirsson,Jakob,0000-00-00,ISL,16, , ,15,15,0,0, 1294,11,0,0,0,0,0,6,1
+hjarhj,Hjartarson,Hjörtur Júlíus,1974-10-31,ISL,16, , ,13,11,2,5, 1030,10,0,0,0,0,0,2,0
+hkonht,Hákonarson,Hilmar Thór,1969-12-03,ISL,16, , ,15,15,0,1, 1147,6,0,0,0,0,0,1,1
 joenal,Joensen,Allan,1974-01-03,FER,16, , ,1,1,0,0,   90,1,0,0,0,0,0,1,0
-jnssgm,Jónsson,Gunnar Magnús,0000-00-00,ISL,16, , ,7,7,0,0,  630,7,0,0,0,0,0,1,0
-jnsstr,Jónsson,Thórhallur Rafn,1969-08-21,ISL,16, , ,7,6,1,0,  500,3,0,0,0,0,0,0,0
-jnssgu,Jónsson,Gunnar,1960-05-02,ISL,16, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-newmgm,Newman,Gardar Már,1973-10-08,ISL,16, , ,8,8,0,0,  720,8,0,0,-1,0,0,3,0
-siguvk,Sigurdsson,Valdimar Kristmunds,1968-07-04,ISL,16, , ,9,8,1,4,  698,5,0,0,0,3,0,0,0
-sigus4,Sigursteinsson,Sigurður,1971-10-01,ISL,16, , ,7,7,0,0,  630,7,0,0,0,0,0,3,0
-sveits,Sveinsson,Thorsteinn Sveinlaugur,1972-02-03,ISL,16, , ,4,4,0,0,  360,4,0,0,0,0,0,2,0
-thorfi,Thorsteinsson,Fridrik Ingi,1973-12-05,ISL,16, , ,9,9,0,0,  810,9,0,-19,0,0,0,0,0
+jnssgm,Jónsson,Gunnar Magnús,0000-00-00,ISL,16, , ,13,13,0,0, 1170,13,0,0,-1,0,0,3,0
+jnsstr,Jónsson,Thórhallur Rafn,1969-08-21,ISL,16, , ,14,11,3,0,  950,6,0,0,0,0,0,1,0
+jnssgu,Jónsson,Gunnar,1960-05-02,ISL,16, , ,4,4,0,0,  356,3,0,0,0,0,0,1,0
+karlaf,Karlsson,Alfred Freyr,0000-00-00,ISL,16, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
+newmgm,Newman,Gardar Már,1973-10-08,ISL,16, , ,12,12,0,0, 1006,11,0,0,-1,0,0,4,0
+siguvk,Sigurdsson,Valdimar Kristmunds,1968-07-04,ISL,16, , ,17,12,5,5, 1101,7,0,0,0,3,0,0,0
+sigus4,Sigursteinsson,Sigurður,1971-10-01,ISL,16, , ,15,15,0,1, 1327,14,0,0,0,0,0,6,0
+sveits,Sveinsson,Thorsteinn Sveinlaugur,1972-02-03,ISL,16, , ,10,8,2,1,  798,8,0,0,0,0,0,3,0
+thorfi,Thorsteinsson,Fridrik Ingi,1973-12-05,ISL,16, , ,18,18,0,0, 1620,18,0,-40,0,0,0,0,0
 tomivl,Tomic,Vladan,1970-12-23,MNT,16, , ,4,4,0,0,  334,2,0,0,0,0,0,2,0
-sgrmsj,Ásgrímsson,Sveinbjörn Jón,1968-10-20,ISL,16, , ,7,5,2,0,  458,3,0,0,0,0,0,1,1
-lafssb,Ólafsson,Stefán Bjarki,1973-06-20,ISL,16, , ,8,1,7,1,  224,1,0,0,0,0,0,2,0
-arasrn,Arason,Árni,1975-05-07,ISL,12, , ,12,12,0,0, 1080,12,0,-27,0,0,0,0,0
-arashe,Arason,Hermann,0000-00-00,ISL,12, , ,6,6,0,0,  491,5,0,0,0,0,0,1,0
-bibemi,Bibercic,Mihajlo,1968-09-23,ISL,12, , ,6,6,0,3,  520,5,0,0,0,0,0,0,0
-bjrghm,Björgvinsson,Helgi Már,0000-00-00,ISL,12, , ,12,12,0,0, 1050,10,0,0,0,0,0,3,0
-bjrnrb,Björnsson,Reynir Björn,1967-12-17,ISL,12, , ,8,6,2,0,  604,6,0,0,0,0,0,1,0
+sgrmsj,Ásgrímsson,Sveinbjörn Jón,1968-10-20,ISL,16, , ,14,7,7,1,  688,3,0,0,0,0,0,1,1
+lafssb,Ólafsson,Stefán Bjarki,1973-06-20,ISL,16, , ,16,7,9,1,  773,5,0,0,0,0,0,4,0
+arasrn,Arason,Árni,1975-05-07,ISL,12, , ,18,18,0,0, 1620,18,0,-39,0,0,0,0,0
+arashe,Arason,Hermann,0000-00-00,ISL,12, , ,11,11,0,0,  941,10,0,0,0,0,0,2,0
+bibemi,Bibercic,Mihajlo,1968-09-23,ISL,12, , ,9,9,0,4,  790,8,0,0,0,0,0,1,0
+bjrghm,Björgvinsson,Helgi Már,0000-00-00,ISL,12, , ,15,15,0,1, 1320,13,0,0,0,0,0,3,0
+bjrnrb,Björnsson,Reynir Björn,1967-12-17,ISL,12, , ,13,11,2,0, 1045,10,0,0,0,0,0,1,0
 erlihe,Erlingsson,Heimir,1969-03-23,ISL,12, , ,1,0,1,0,    3,0,0,0,0,0,0,0,0
-fridsa,Fridjónsson,Saemundur,1979-04-19,ISL,12, , ,2,0,2,0,   56,0,0,0,0,0,0,1,0
+fridsa,Fridjónsson,Saemundur,1979-04-19,ISL,12, , ,4,0,4,0,  127,0,0,0,0,0,0,1,0
 gunnnk,Gunnarsson,Nökkvi,1976-08-01,ISL,12, , ,2,0,2,0,   40,0,0,0,0,0,0,0,0
-gunnve,Gunnarsson,Veigar,1980-03-21,ISL,12, , ,5,1,4,0,  153,0,0,0,0,0,0,0,0
-gunnla,Gunnarsson,Ólafur,1980-11-21,ISL,12, , ,2,0,2,0,   86,0,0,0,0,0,0,0,0
-inglin,Ingólfsson,Ingólfur,1970-10-28,ISL,12, , ,9,9,0,1,  726,7,0,0,0,0,0,0,0
-jnasld,Jónasson,Lúdvík,1974-10-03,ISL,12, , ,4,4,0,0,  335,3,0,0,0,0,0,2,1
-krisvt,Kristóffersson,Valdimar Tryggvi,1970-03-22,ISL,12, , ,9,9,0,0,  768,7,0,0,0,0,0,4,1
-laxdga,Laxdal,Gauti,1966-05-03,ISL,12, , ,12,10,2,1,  906,7,0,0,0,0,0,1,0
-larukr,Lárusson,Kristinn,1973-12-19,ISL,12, , ,11,11,0,0,  922,8,0,0,0,0,0,0,1
-micigk,Micic,Goran Kristófer,1962-03-07,SRB,12, , ,7,7,0,0,  453,4,0,0,0,0,0,3,0
-sigfbi,Sigfússon,Birgir,0000-00-00,ISL,12, , ,12,12,0,0, 1053,11,0,0,0,0,0,1,0
+gunnve,Gunnarsson,Veigar,1980-03-21,ISL,12, , ,10,3,7,0,  386,2,0,0,0,0,0,0,0
+gunnla,Gunnarsson,Ólafur,1980-11-21,ISL,12, , ,6,2,4,0,  293,2,0,0,0,0,0,0,0
+inglin,Ingólfsson,Ingólfur,1970-10-28,ISL,12, , ,12,10,2,1,  960,8,0,0,0,0,0,0,0
+jnasld,Jónasson,Lúdvík,1974-10-03,ISL,12, , ,5,5,0,0,  425,4,0,0,0,0,0,3,1
+krisvt,Kristóffersson,Valdimar Tryggvi,1970-03-22,ISL,12, , ,14,14,0,1, 1156,11,0,0,0,0,0,6,1
+laxdga,Laxdal,Gauti,1966-05-03,ISL,12, , ,18,16,2,1, 1397,10,0,0,0,0,0,2,0
+larukr,Lárusson,Kristinn,1973-12-19,ISL,12, , ,17,17,0,1, 1425,13,0,0,0,0,0,1,2
+micigk,Micic,Goran Kristófer,1962-03-07,SRB,12, , ,10,10,0,1,  682,6,0,0,0,0,0,4,0
+mssobj,Másson,Björn,1979-12-27,ISL,12, , ,2,0,2,0,   42,0,0,0,0,0,0,0,0
+sigfbi,Sigfússon,Birgir,0000-00-00,ISL,12, , ,17,17,0,0, 1503,16,0,0,0,0,0,1,0
 sigfsi,Sigfússon,Sigurhjörtur,1973-10-05,ISL,12, , ,8,5,3,0,  492,5,0,0,0,0,0,0,0
 sigmrp,Sigmundsson,Rúnar Páll,1974-05-05,ISL,12, , ,1,1,0,0,   62,0,0,0,0,0,0,0,0
-sigtma,Sigtryggsson,Ómar,1973-01-28,ISL,12, , ,9,5,4,0,  442,2,0,0,-1,0,0,1,0
-arnara,Árnason,Ragnar,1976-01-20,ISL,12, , ,12,11,1,0,  995,8,0,0,0,0,0,2,0
-rnassu,Árnason,Sumarlidi,1972-01-01,ISL,12, , ,4,3,1,0,  263,2,0,0,0,0,0,1,0
-asgea2,Ásgeirsson,Ásgeir,1980-06-03,ISL,12, , ,5,2,3,0,  320,2,0,0,0,0,0,1,0
-bryngg,Brynjólfsson,Gudmundur Gardar,0000-00-00,ISL,3, , ,8,8,0,0,  603,5,0,0,0,0,0,2,1
-brynlt,Brynjólfsson,Ólafur Tryggvi,0000-00-00,ISL,3, , ,3,1,2,0,   87,0,0,0,0,0,0,0,0
-gregak,Gregory,Anthony Karl,1966-07-06,ISL,3, , ,2,2,0,2,  157,1,0,0,0,0,0,0,0
-gudmg4,Gudmundsson,Gunnar,1969-08-04,ISL,3, , ,4,1,3,0,  129,0,0,0,0,0,0,0,0
-helgat,Helgason,Atli,1967-03-07,ISL,3, , ,8,8,0,0,  678,6,0,0,0,0,0,3,0
-helgjs,Helgason,Jón Sigurdur,1969-02-05,ISL,3, , ,5,1,4,0,  158,1,0,0,0,0,0,1,0
-hreisi,Hreiðarsson,Sigurbjörn,1975-11-25,ISL,3, , ,8,7,1,1,  621,5,0,0,0,0,0,0,0
-ingiva,Ingimarsson,Ívar,1977-08-20,ISL,3, , ,8,8,0,2,  679,6,0,0,0,0,0,1,0
-ingiji,Ingimarsson,Jón Ingi,0000-00-00,ISL,3, , ,6,2,4,0,  304,1,0,0,0,0,0,2,0
-jhanah,Jóhannsson,Arnar Hrafn,0000-00-00,ISL,3, , ,8,6,2,0,  531,4,0,0,0,0,0,2,0
-jnssjg,Jónsson,Jón Gretar,1966-02-25,ISL,3, , ,8,8,0,0,  720,8,0,0,0,0,0,1,0
-magnh2,Magnusson,Hördur,1966-02-19,ISL,3, , ,8,5,3,1,  486,3,0,0,0,0,0,1,1
-porcsa,Porca,Salih,1965-11-30,ISL,3, , ,7,7,0,2,  570,4,0,0,0,0,0,1,0
-sigulr,Sigurdsson,Lárus,0000-00-00,ISL,3, , ,8,8,0,0,  720,8,0,-16,0,0,0,0,0
+sigtma,Sigtryggsson,Ómar,1973-01-28,ISL,12, , ,10,6,4,0,  505,2,0,0,-1,0,0,2,0
+arnara,Árnason,Ragnar,1976-01-20,ISL,12, , ,17,16,1,0, 1439,12,0,0,-1,0,0,3,0
+rnassu,Árnason,Sumarlidi,1972-01-01,ISL,12, , ,9,7,2,0,  472,2,0,0,0,0,0,1,0
+asgea2,Ásgeirsson,Ásgeir,1980-06-03,ISL,12, , ,9,5,4,1,  598,4,0,0,0,0,0,1,0
+brynlt,Brynjólfsson,Ólafur Tryggvi,0000-00-00,ISL,3, , ,11,6,5,0,  565,3,0,0,0,0,0,1,0
+bryngg,Brynjólfsson,Gudmundur Gardar,0000-00-00,ISL,3, , ,15,13,2,0, 1009,6,0,0,0,0,0,3,1
+flossg,Flosason,Sigurdur Gardar,1978-06-28,ISL,3, , ,2,0,2,0,   24,0,0,0,0,0,0,0,0
+gardga,Gardarsson,Grímur Alfred,1979-01-03,ISL,3, , ,2,0,2,0,   48,0,0,0,0,0,0,0,0
+gregak,Gregory,Anthony Karl,1966-07-06,ISL,3, , ,6,2,4,2,  208,1,0,0,0,0,0,0,0
+gudmg4,Gudmundsson,Gunnar,1969-08-04,ISL,3, , ,8,2,6,0,  213,0,0,0,0,0,0,1,0
+gunna2,Gunnarsson,Arnór,1978-07-15,ISL,3, , ,1,1,0,0,   64,0,0,0,0,0,0,1,0
+helgat,Helgason,Atli,1967-03-07,ISL,3, , ,15,15,0,0, 1269,10,0,0,0,0,0,3,0
+helgjs,Helgason,Jón Sigurdur,1969-02-05,ISL,3, , ,14,10,4,0,  968,10,0,0,-1,0,0,2,0
+hreijh,Hreidarsson,Jóhann Hilmar,1979-11-21,ISL,3, , ,1,0,1,0,   21,0,0,0,0,0,0,0,0
+hreisi,Hreiðarsson,Sigurbjörn,1975-11-25,ISL,3, , ,18,17,1,2, 1511,14,0,0,0,0,0,2,0
+ingiva,Ingimarsson,Ívar,1977-08-20,ISL,3, , ,16,16,0,3, 1385,13,0,0,0,0,0,5,0
+ingiji,Ingimarsson,Jón Ingi,0000-00-00,ISL,3, , ,10,3,7,0,  450,1,0,0,0,0,0,2,0
+jhanah,Jóhannsson,Arnar Hrafn,0000-00-00,ISL,3, , ,17,12,5,3, 1086,8,0,0,0,0,0,2,0
+jnashl,Jónasson,Hólmsteinn,0000-00-00,ISL,3, , ,6,6,0,0,  528,5,0,0,0,0,0,0,0
+jnssjg,Jónsson,Jón Gretar,1966-02-25,ISL,3, , ,17,17,0,3, 1506,15,0,0,0,1,0,2,0
+jonssh,Jónsson,Stefán Helgi,1980-03-31,ISL,3, , ,1,0,1,0,   26,0,0,0,0,0,0,0,0
+magnh2,Magnusson,Hördur,1966-02-19,ISL,3, , ,15,11,4,3, 1007,6,0,0,0,0,0,2,1
+porcsa,Porca,Salih,1965-11-30,ISL,3, , ,16,16,0,4, 1324,11,0,0,0,0,0,2,0
+sigulr,Sigurdsson,Lárus,0000-00-00,ISL,3, , ,18,18,0,0, 1620,18,0,-36,0,0,0,0,0
 siguma,Sigurdsson,Magnús,1974-10-06,ISL,3, , ,1,1,0,0,   45,0,0,0,0,0,0,0,0
-stefb1,Stefánsson,Bjarki,1975-08-20,ISL,3, , ,8,8,0,1,  720,8,0,0,0,0,0,0,0
-marssm,Ómarsson,Stéfan Metúsalem,0000-00-00,ISL,3, , ,7,7,0,0,  630,7,0,0,0,0,0,3,0
-bjariv,Bjarklind,Ívar,1974-12-17,ISL,5, , ,12,12,0,0, 1034,10,0,-1,0,0,0,0,0
-gudmtr,Guðmundsson,Tryggvi,1974-07-30,ISL,5, , ,12,12,0,8, 1075,11,0,0,0,0,0,2,0
-haflkr,Haflidason,Kristinn,1975-06-03,ISL,5, , ,4,1,3,0,  144,0,1,0,0,0,0,0,0
-hafsle,Hafsteinsson,Leifur,1970-03-09,ISL,5, , ,3,0,3,0,   53,0,1,0,0,0,0,0,0
-helggr,Helgason,Gudni Rúnar,1976-07-16,ISL,5, , ,11,8,3,1,  836,8,0,0,0,0,0,1,0
+stefb1,Stefánsson,Bjarki,1975-08-20,ISL,3, , ,18,18,0,1, 1606,17,0,0,0,0,0,0,0
+arnad1,Árnason,Dadi,1977-02-09,ISL,3, , ,1,0,1,0,   20,0,0,0,0,0,0,0,0
+marssm,Ómarsson,Stéfan Metúsalem,0000-00-00,ISL,3, , ,15,14,1,0, 1219,11,0,0,0,0,0,8,1
+bjariv,Bjarklind,Ívar,1974-12-17,ISL,5, , ,18,18,0,0, 1563,15,0,-1,0,0,0,0,0
+gudmtr,Guðmundsson,Tryggvi,1974-07-30,ISL,5, , ,18,18,0,19, 1615,17,0,0,0,0,0,3,0
+haflkr,Haflidason,Kristinn,1975-06-03,ISL,5, , ,10,7,3,0,  632,4,1,0,0,0,0,0,0
+hafsle,Hafsteinsson,Leifur,1970-03-09,ISL,5, , ,8,2,6,0,  284,1,1,0,0,0,0,0,0
+helggr,Helgason,Gudni Rúnar,1976-07-16,ISL,5, , ,17,14,3,1, 1338,12,0,0,0,0,0,1,0
 hreih1,Hreidarsson,Hermann,1974-07-11,ISL,5, , ,11,11,0,0,  990,11,0,0,0,0,0,1,0
-jakobj,Jakobsson,Björn,1978-09-03,ISL,5, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
-johahj,Jóhannesson,Hjalti,1974-09-06,ISL,5, , ,11,11,0,0,  976,10,0,0,0,0,0,0,0
-johast,Jóhannesson,Steingrímur,1973-06-14,ISL,5, , ,12,12,0,6, 1023,8,0,0,0,0,0,0,0
+jakobj,Jakobsson,Björn,1978-09-03,ISL,5, , ,2,0,2,0,   16,0,1,0,0,0,0,0,0
+johahj,Jóhannesson,Hjalti,1974-09-06,ISL,5, , ,17,16,1,0, 1424,13,0,0,0,0,0,0,0
+johast,Jóhannesson,Steingrímur,1973-06-14,ISL,5, , ,18,18,0,8, 1520,12,0,0,0,0,0,0,0
 jonshj,Jónsson,Hjalti,1979-03-08,ISL,5, , ,1,0,1,0,   22,0,0,0,0,0,0,0,0
-larubj,Lárusson,Bjarnólfur,1976-03-11,ISL,5, , ,8,4,4,2,  344,1,0,0,0,1,0,2,0
-miljzo,Miljkovic,Zoran,1965-09-17,SRB,5, , ,1,1,0,0,   90,1,0,0,0,0,0,0,0
-sigui3,Sigurdsson,Ingi,1968-12-08,ISL,5, , ,12,10,2,2,  876,6,0,0,0,0,0,1,0
+larubj,Lárusson,Bjarnólfur,1976-03-11,ISL,5, , ,13,5,8,2,  485,1,0,0,0,1,0,3,0
+miljzo,Miljkovic,Zoran,1965-09-17,SRB,5, , ,6,6,0,0,  534,5,0,0,0,0,0,1,0
+sigui3,Sigurdsson,Ingi,1968-12-08,ISL,5, , ,16,11,5,2, 1015,7,0,0,0,0,0,1,0
 siguma,Sigurdsson,Magnús,1974-10-06,ISL,5, , ,2,0,2,0,   25,0,0,0,0,0,0,0,0
-sigug2,Sigurðsson,Gunnar,1975-08-14,ISL,5, , ,12,12,0,0, 1080,12,0,-9,0,0,0,0,0
+sigug2,Sigurðsson,Gunnar,1975-08-14,ISL,5, , ,18,18,0,0, 1620,18,0,-16,0,0,0,1,0
 snorr1,Snorrason,Rútur,1974-03-28,ISL,5, , ,4,3,1,0,  205,0,0,0,0,0,0,0,0
-stefhl,Stefánsson,Hlynur,1964-10-08,ISL,5, , ,12,12,0,0, 1080,12,0,0,0,0,0,1,0
+stefhl,Stefánsson,Hlynur,1964-10-08,ISL,5, , ,18,18,0,0, 1620,18,0,0,0,0,0,2,0
 sveige,Sveinsson,Gísli Eyland,1973-08-02,ISL,5, , ,0,0,0,0,    0,0,1,0,0,0,0,0,0
-sversv,Sverrisson,Sverrir,1969-12-31,ISL,5, , ,12,12,0,5, 1008,10,0,0,0,1,0,1,1
+sversv,Sverrisson,Sverrir,1969-12-31,ISL,5, , ,18,18,0,7, 1548,16,0,0,0,1,0,2,1
 rnassu,Árnason,Sumarlidi,1972-01-01,ISL,5, , ,4,2,2,0,  175,1,0,0,0,0,0,0,0
-olafsi,Ólafsson,Sigurvin,1976-07-18,ISL,5, , ,10,9,1,3,  827,8,0,0,-1,0,0,2,0
+olafsi,Ólafsson,Sigurvin,1976-07-18,ISL,5, , ,14,13,1,5, 1172,11,0,0,-1,0,0,3,0

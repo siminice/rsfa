@@ -1,4 +1,4 @@
-189
+200
 agenja,Agenjo,Javier,1988-01-23,SPA,Madrid,SPA
 akebso,Åkeby,Sören,1952-02-23,SWE, ,SWE
 alexfr,Alexandersson,Freyr,1982-11-18,ISL,Reykjavík,ISL
@@ -13,6 +13,7 @@ backha,Backe,Hans,1952-02-14,SWE,Luleå,SWE
 bakxkb,Bak,Kristian Bach,1982-10-20,DEN,Aaskov,DEN
 bastla,Bastrup,Lars,1955-07-31,DEN, ,DEN
 baxtle,Baxter,Lee,1976-06-17,SWE,Helsingborg,SWE
+bechpe,Bech,Poul Erik,1938-03-15,DEN, ,DEN
 bechtr,Bech,Troels,1966-07-29,DEN,Svendborg,DEN
 beckmi,Beckmann,Mikkel,1983-10-24,DEN,Lundtoft,DEN
 bertra,Bertelsen,Rasmus,0000-00-00,DEN, ,DEN
@@ -22,9 +23,11 @@ bondpe,Bonde,Peter,1958-02-14,DEN,Næstved,DEN
 bordke,Bordinggaard,Keld,1962-11-23,DEN,Holstebro,DEN
 borimi,Boris,Michael,1975-06-03,GER,Bottrop-Kirchhellen,GER
 boyeer,Boye,Erik,1964-01-07,DEN,Kolding,DEN
+branol,Brandenborg,Ole,1951-07-07,DEN, ,DEN
 breuja,Breuning,Jannick,1981-03-05,DEN, ,DEN
 brinki,Brink,Kim,1958-11-19,DEN, ,DEN
 broeca,Broe,Carsten,1962-08-20,DEN, ,DEN
+brunha,Brun Larsen,Hans,1943-01-30,DEN, ,DEN
 bruumo,Bruun,Morten,1965-06-28,DEN,Nr. Søby,DEN
 buuspo,Buus,Poul,1963-06-22,DEN,Hadsund,DEN
 capeal,Capellas,Albert,1967-10-01,SPA,Avinyó,SPA
@@ -34,6 +37,7 @@ chriov,Christensen,Ove,1950-03-26,DEN, ,DEN
 cifuma,Cifuentes,Martí,1982-07-07,SPA,Sant Cugat del Vallès,SPA
 clarch,Clarup,Christian,1982-10-14,DEN, ,DEN
 clauhe,Clausen,Henrik,1971-05-03,DEN, ,DEN
+dahlpe,Dahl,Peter,1948-02-14,DEN,Copenhagen,DEN
 dalxjo,Dal,Jonas,1976-07-07,DEN, ,DEN
 danepe,Danefeld,Peer,1959-12-23,DEN, ,DEN
 dokkke,Dokken,Kenneth,1978-10-10,NOR,Lørenskog,NOR
@@ -58,6 +62,7 @@ hanshe,Hansen,Henrik,1979-07-28,DEN, ,DEN
 hansmi,Hansen,Michael,1971-09-22,DEN,Nykøbing,DEN
 hanspo,Hansen,Poul,1953-12-04,DEN, ,DEN
 hareag,Hareide,Åge,1953-09-23,NOR,Ulsteinvik,NOR
+hartfi,Hartmann,Finn,0000-00-00,DEN, ,DEN
 heilol,Heil,Oliver,1988-06-19,GER,Darmstadt,GER
 heinla,Heinze,Lasse,1986-04-03,DEN,Ringkøbing,DEN
 hemmmi,Hemmingsen,Michael,1967-10-02,DEN,Odense,DEN
@@ -71,8 +76,10 @@ holmnc,Holmstrøm,Niels-Christian,1947-02-23,DEN,København,DEN
 hvidjo,Hvidemose,Jørgen,1940-05-12,DEN, ,DEN
 hyldmo,Hyldgaard,Morten,1978-01-26,DEN,Herning,DEN
 jacoar,Jacobs,Ariël,1953-07-25,BEL,Vilvorde,BEL
+jensbe,Jensen,Benny,0000-00-00,DEN, ,DEN
 jensca,Jensen,Carsten,1963-02-28,DEN, ,DEN
 jensfa,Jensen,Faxe,1965-05-03,DEN,København,DEN
+jensfi,Jensen,Finn,1952-11-15,DEN, ,DEN
 jensh1,Jensen,Henrik,1985-01-11,DEN, ,DEN
 jenshe,Jensen,Henrik,1959-10-25,DEN,København,DEN
 jensvi,Jensen,Viggo,1947-09-15,DEN,Esbjerg,DEN
@@ -105,6 +112,7 @@ lundla,Lundkvist,Lars,1957-06-14,DEN,Aarhus,DEN
 lundni,Lund,Nickolai,1988-05-28,DEN, ,DEN
 lundpr,Lundbye,Preben,1950-04-01,DEN, ,DEN
 lyngma,Lyng,Mads,1983-04-23,DEN, ,DEN
+lyshki,Lyshøj-Sørensen,Kim Jørgen,1955-05-09,DEN,Lyngby,DEN
 meulre,Meulensteen,René,1964-03-25,NED,Beugen,NED
 michal,Michaelsen,Allan,1947-11-02,DEN,Kopenhagen,DEN
 michja,Michelsen,Jakob,1980-09-30,DEN,Tønder,DEN
@@ -147,9 +155,11 @@ prisbr,Priske,Brian,1977-05-14,DEN,Horsens,DEN
 rasmer,Rasmussen,Erik,1960-12-24,DEN,Bröndbyvester,DEN
 reddda,Reddington,Dave,0000-00-00,ENG, ,ENG
 retoma,Retov,Martin,1980-05-05,DEN,Rødovre,DEN
+richwa,Richter,Walther,1944-09-25,DEN, ,DEN
 riddgl,Riddersholm,Glen,1972-04-24,DEN,Esbjerg,DEN
 riocbr,Rioch,Bruce,1947-09-06,SCO,Aldershot,ENG
 rjkjca,Røjkjær,Casper,1992-01-01,DEN,Silkeborg,DEN
+robehu,Robertson,Hugh,1939-11-29,SCO,Auchinleck,SCO
 rsleuw,Rösler,Uwe,1968-11-15,GER,Altenburg,GER
 rudbpe,Rudbæk,Peter,1955-02-05,DEN, ,DEN
 schami,Schäfer,Michael,1959-01-25,DEN,Rødovre,DEN
@@ -169,6 +179,7 @@ soerla,Sørensen,Lars,1969-05-04,DEN, ,DEN
 soerpe,Sørensen,Peter,1973-03-24,DEN,Silkeborg,DEN
 solbst,Solbakken,Ståle,1968-02-27,NOR,Kongsvinger,NOR
 sormad,Sormani,Adolfo,1965-08-11,ITA,Genova,ITA
+spilki,Spildbsboel,Kim,1955-11-25,DEN,Copenhagen,DEN
 stamjo,Stampe,John,1957-02-16,DEN,Aabyhøj,DEN
 stefka,Stefansen,Kaj,1968-04-24,DEN, ,DEN
 sterto,Sterobo,Tom,1967-04-10,DEN,Odense,DEN

@@ -1,4 +1,4 @@
-4301
+4439
 aakran,Aakre,Andreas,1989-04-27,NOR, ,NOR
 aakrst,Aakre,Sturla,1982-03-03,NOR, ,NOR
 aalato,Aaland,Torjus,1981-06-04,NOR, ,NOR
@@ -67,7 +67,7 @@ agyier,Agyiri,Ernest,1998-03-06,GHA,Accra,GHA
 ahamal,Ahamada,Ali,1991-08-19,COM,Martigues,FRA
 ahammo,Ahamed,Mohammed,1985-08-05,NOR,Burao,SOM
 ahlakn,Ahlander,Knut,1998-09-16,NOR, ,NOR
-ahlspe,Ahlsen,Per Egil,1958-03-04,NOR, ,NOR
+ahlspe,Ahlsen,Per Egil,1958-03-04,NOR,Fredrikstad,NOR
 ahmadi,Ahmadzay,Dilawar,2004-04-04,AFG, ,AFG
 ahmaiz,Ahmadzai,Izantullah,1996-02-08,NOR, ,NOR
 ahmash,Ahmadi,Sharesh,1994-05-01,NOR, ,NOR
@@ -118,6 +118,7 @@ aminsi,Amin,Simon,1997-11-13,SYR,Örebro,SWE
 ammial,Ammitzbøll,Alexander,1999-02-17,DEN,Skanderborg,DEN
 amosbe,Amos,Ben,1990-04-10,ENG,Macclesfield,ENG
 amraae,El Amrani,Ahmed,1992-02-16,NOR, ,NOR
+amunar,Amundsen,Arne,1952-08-07,NOR, , 
 amunis,Amundsen,Isak,1999-10-14,NOR,Brønnøysund,NOR
 amunj1,Amundsen,Jan Tore,1968-08-30,NOR, ,NOR
 amunjt,Amundsen,Jan Tore,1983-04-12,NOR,Kongsvinger,NOR
@@ -147,6 +148,7 @@ andejS,Andersen,Joakim Samuel,2003-05-27,NOR, ,NOR
 andeje,Andersen,Jeppe,1992-12-06,DEN, ,DEN
 andejo,Andersson,Johan,1983-08-22,SWE,Landskrona,SWE
 andekb,Bye-Andersen,Kristian,1975-09-26,NOR, ,NOR
+andeke,Andersen,Ken,0000-00-00,NOR, , 
 andele,Andersen,Leif,1971-04-19,NOR,Fredrikstad,NOR
 andem1,Andersen,Marcus,2001-05-29,NOR, ,NOR
 andem2,Andersen,Martin,1995-12-04,NOR,Halden,NOR
@@ -163,14 +165,17 @@ andes1,Andersen,Ståle,1970-03-07,NOR,Oslo,NOR
 andest,Andersrød,Stian,1989-04-07,NOR, ,NOR
 andeto,Andersen,Torstein,1991-10-24,NOR, ,NOR
 andetr,Andersen,Trond,1975-01-06,NOR,Kristiansund,NOR
+andost,Andorsen,Steinar,1961-03-07,NOR, , 
 andral,Andresen,Aleksander,2005-04-06,NOR,Moss,NOR
 andrax,Andrésson,Axel,1998-01-27,ISL,Mosfellsbær,ISL
 andrca,Andreassen,Carl Axel,1977-09-08,NOR, ,NOR
+andrei,Andreassen,Eivind,1962-01-16,NOR, , 
 andrfr,Andresen,Frode, ,NOR, ,NOR
 andrke,Andreassen,Kenneth,1985-05-22,NOR, ,NOR
 andrla,Andreassen,Lars,1991-05-14,NOR,Tromsø,NOR
 andrm1,Andreasson,Marcus,1978-07-13,SWE,Buchanan,LBR
 andrma,Andresen,Martin,1977-02-02,NOR,Kråkstad,NOR
+andrp1,Andreassen,Peer,1965-08-31,NOR, , 
 andrpa,Andresen,Pål,1982-05-19,NOR,Lillestrøm,NOR
 andrpe,Andreassen,Petter,1978-02-26,NOR, ,NOR
 andrsa,Andreassen,Svein Are,1968-07-03,NOR, ,NOR
@@ -215,7 +220,8 @@ arneda,Arnefjord,Daniel,1979-03-21,SWE,Stockholm,SWE
 arneei,Arnevåg,Eivind,1961-07-31,NOR, ,NOR
 arneej,Arnebrott,Erik-Johannes,1999-04-28,NOR, ,NOR
 arnejo,Arneng,Johan,1979-06-14,SWE,Uddevalla,SWE
-arnema,Arnesen,Marvin,1963-03-06,NOR, ,NOR
+arnema,Arnesen,Marvin,1963-03-06,NOR,Bergsøya,NOR
+arneto,Arnevag,Tore,1960-05-23,NOR, , 
 arneul,Arneberg,Ulrik,1987-07-22,NOR,Asker,NOR
 arroda,Arrocha,Daniel,1995-01-09,DEN, ,DEN
 arstom,Årst,Ole Martin,1974-07-19,NOR,Bergen,NOR
@@ -274,7 +280,7 @@ bakkbj,Bakken,Bjørn,1977-01-20,NOR, ,NOR
 bakkei,Bakke,Eirik,1977-09-13,NOR,Sogndal,NOR
 bakkfr,Bakkelund,Frederik,1996-01-30,NOR, ,NOR
 bakkgb,Bakke,Geir Bjarne,1967-03-28,NOR, ,NOR
-bakkge,Bakke,Geir,1969-10-23,NOR, ,NOR
+bakkge,Bakke,Geir,1969-10-23,NOR,Hamar,NOR
 bakkhe,Bakken,Henning,1967-12-09,NOR, ,NOR
 bakkjo,Bakke,Johan,2004-04-01,NOR,Sogndal,NOR
 bakkla,Bakkerud,Lars,1971-06-01,NOR, ,NOR
@@ -283,6 +289,7 @@ bakkma,Bakken,Martin,1995-09-18,NOR, ,NOR
 bakkmo,Bakke,Morten,1968-12-16,NOR,Hedalen,NOR
 bakkpe,Bakke,Petter,1975-11-23,NOR, ,NOR
 bakkru,Bakke,Ruben,1972-03-13,NOR, ,NOR
+bakksv,Bakke,Svein,1953-06-23,NOR, , 
 bakkve,Bakker,Vegard,1996-05-10,NOR, ,NOR
 balaez,Bala,Ezekiel,1987-04-08,NGR,Jos,NGR
 balama,Balatoni,Maximilian,2005-03-16,NOR, ,NOR
@@ -350,9 +357,9 @@ bergfr,Berglund,Fredrik,1979-03-21,SWE,Borås,SWE
 bergfs,Berge,Fredrik Semb,1990-02-06,NOR,Skien,NOR
 bergha,Berggren,Hans,1973-02-18,SWE, ,SWE
 berghe,Berger,Henrik,1969-05-16,SWE, ,SWE
-berghs,Berg,Henning Stille,1969-09-01,NOR, ,NOR
+berghs,Berg,Henning Stille,1969-09-01,NOR,Eidsvoll,NOR
 bergis,Berge,Isak,2001-11-06,NOR, ,NOR
-bergj1,Berg,Jan,1965-05-14,NOR, ,NOR
+bergj1,Berg,Jan,1965-05-14,NOR,Molde,NOR
 bergjN,Berg,Jone Nygård,2005-04-09,NOR, ,NOR
 bergja,Bergström,Jacob,1995-04-26,SWE, ,SWE
 bergji,Berget,Jo Inge,1990-09-11,NOR,Gran,NOR
@@ -389,6 +396,7 @@ berkcv,van Berkel,Crescendo,1992-04-06,NED,Den Haag,NED
 berlbj,Berland,Bjørn,1977-04-14,NOR,Stavanger,NOR
 bernda,Berntsen,Daniel,1993-04-04,NOR,Bodø,NOR
 berndt,Berntsen,Dag Trygve,1967-03-18,NOR, ,NOR
+bernel,Berntsen,Elling,0000-00-00,NOR, , 
 berngj,Berntsen,Gjert,1970-07-04,NOR, ,NOR
 bernpa,Bernier,Patrice,1979-09-23,CAN,Brossard,CAN
 bernr1,Berntsen,Robin,1970-07-16,NOR,Tromsø,NOR
@@ -458,7 +466,7 @@ bjrkjo,Björklund,Joachim,1971-03-15,SWE, ,SWE
 bjrkti,Björkström,Tim,1991-01-08,SWE,Raksta,SWE
 bjrlmr,Bjørlo,Mørten,1995-10-04,NOR, ,NOR
 bjrnhe,Bjørnstad,Henrik,1967-03-23,NOR, ,NOR
-bjrnsi,Bjørnebye,Stig Inge,1969-12-11,NOR, ,NOR
+bjrnsi,Bjørnebye,Stig Inge,1969-12-11,NOR,Elverum,NOR
 bjrnst,Bjørnø,Stig,1968-04-01,NOR, ,NOR
 bjrnto,Bjørnstad,Tobias,2002-04-20,NOR, ,NOR
 bjrntr,Bjørndal,Trond,1969-10-09,NOR, ,NOR
@@ -483,7 +491,7 @@ boedjo,Böðvarsson,Jón,1992-05-25,ISL,Selfoss,ISL
 boeres,Børufsen,Espen,1988-03-04,NOR,Kristiansand,NOR
 boert1,Børkeeiet,Tobias,1999-04-18,NOR,Oslo,NOR
 boerto,Børven,Torgeir,1991-12-03,NOR,Øystese,NOR
-boexlg,Bø,Lars Gaute,1963-11-20,NOR, ,NOR
+boexlg,Bø,Lars Gaute,1963-11-20,NOR,Varhaug,NOR
 boexsv,Bø,Svein,1971-08-24,NOR, ,NOR
 boeyga,Bøyum,Geir Andre,1982-03-16,NOR, ,NOR
 bohiem,Bohinen,Emil,1999-03-12,NOR, ,NOR
@@ -518,13 +526,14 @@ boujbe,Boujar,Benjamin,1993-11-30,NOR, ,NOR
 boyakA,Boya,Keanin Ayer,2000-04-21,RSA,Eldorado Park,RSA
 boyeou,Boye,Ousseynou,1992-09-07,SEN, ,SEN
 braada,Braaten,Daniel,1982-05-25,NOR,Oslo,NOR
+braaka,Braathen,Kai,1963-10-10,NOR,Langesund,NOR
 braath,Braaten,Thomas,1987-06-30,NOR,Nordreisa,NOR
 braave,Braaten,Vegard,1987-06-30,NOR,Tromsø,NOR
 braema,Brændsrød,Markus,1995-09-06,NOR, ,NOR
 bragbo,Bragstad,Bjørn Otto,1971-01-05,NOR,Trondheim,NOR
 branhj,Brandal,Hans Jørgen,1974-03-22,NOR, ,NOR
 branhm,Brandtun,Hans Martin,1963-08-16,NOR, ,NOR
-brans1,Brandhaug,Sverre,1959-06-22,NOR, ,NOR
+brans1,Brandhaug,Sverre,1959-06-22,NOR,Trondheim,NOR
 bransv,Brandshaug,Svein,1979-05-11,NOR,Molde,NOR
 branth,Brandsdal,Thomas,1977-11-25,NOR, ,NOR
 brater,Bråthen,Erik,1987-09-16,NOR,Sarpsborg,NOR
@@ -629,6 +638,7 @@ chaplr,Chapman,Lee Roy,1959-12-05,ENG, ,ENG
 charub,Charles,Uba,2002-10-10,SWE,Owerri,NGR
 chatdo,Chatto,Dominic,1985-12-07,NGR,Kaduna,NGR
 chaxjh,Cha,Ji-Ho,1983-03-23,KOR, ,KOR
+cheeto,Cheek,Tony,0000-00-00,ENG, , 
 chench,Cheng,Christoper,2001-10-27,NOR, ,NOR
 chibjo,Chibuike,John,1988-10-10,NGR,Enugu,NGR
 chigsh,Chigozie,Shaloze,1986-07-16,NGR,Lagos,NGR
@@ -636,7 +646,7 @@ chikos,Chikere,Osita,1991-02-03,NGR, ,NGR
 chivga,Chivers,Gary,1960-05-15,ENG, ,ENG
 chriar,Christensen,Are,1969-11-10,NOR, ,NOR
 chrifr,Christensen,Frederik,2001-01-18,DEN, ,DEN
-chrike,Christiansen,Kent,1964-02-09,NOR, ,NOR
+chrike,Christiansen,Kent,1964-02-09,NOR,Stavanger,NOR
 chrikn,Christiansen,Knut,1955-02-16,NOR, ,NOR
 chrim1,Christensen,Martin,1987-12-23,DEN,Ishøj,DEN
 chrim2,Christensen,Magnus,1997-08-20,DEN,Frederikshavn,DEN
@@ -748,6 +758,8 @@ denidj,Denić,Đorđe,1996-04-01,SRB,Beograd,SRB
 dervem,Derviškadić,Emir,2004-06-07,NOR, ,NOR
 deslmi,Desler,Mikkel,1995-02-19,DEN, ,DEN
 deumjo,Deumeland,Jonas,1988-02-09,GER,Wolfsburg,GER
+deunha,Deunk,Hans,1962-09-27,NOR, , 
+devitr,Devik,Trond,1967-09-28,NOR, , 
 diagou,Diagne,Ousseynou,1999-06-05,SEN,Dakar,SEN
 dialaa,Dialo,Aagano,2000-04-30,NOR, ,NOR
 dialam,Diallo,Amadou,1994-06-21,GUI,Paris,FRA
@@ -795,8 +807,9 @@ dragve,Dragsnes,Vetle,1994-02-06,NOR, ,NOR
 dramib,Dramé,Ibrahima,1995-09-25,SEN,Ziguinchor,SEN
 dramom,Drammeh,Omar,2002-11-21,NOR,Oslo,NOR
 dresda,Dreshaj,Dardan,1992-08-04,NOR, ,NOR
+dreved,Drevdal,Edgar,0000-00-00,NOR, , 
 dreyca,Dreyer,Cassander,2006-08-06,NOR, ,NOR
-dricre,Drici,Redouane,1959-03-07,ALG, ,ALG
+dricre,Drici,Redouane,1959-03-07,ALG,Algier,ALG
 drilys,Drillestad,Øystein,1970-01-22,NOR, ,NOR
 drisda,Driscoll,David,1987-05-18,NOR, ,NOR
 dueses,Duesund,Eskil,2006-08-20,NOR,Grimstad,NOR
@@ -815,7 +828,7 @@ dyngma,Dyngeland,Mathias,1995-10-07,NOR,Fana,NOR
 dyngst,Dyngeland,Stian,1991-02-13,NOR,Totland,NOR
 dyrdro,Dyrdal,Roy,1993-03-13,NOR, ,NOR
 dyremi,Dyrestam,Mikael,1991-12-10,GUI,Växjö,SWE
-dyrsol,Dyrstad,Ole,1956-03-13,NOR, ,NOR
+dyrsol,Dyrstad,Ole,1956-03-13,NOR,Honningsvåg,NOR
 dystsi,Dystland,Sigurd,2006-09-28,NOR, ,NOR
 ebiymo,Ebiye,Moses,1997-04-28,NGR,Warri,NGR
 eckhru,Eckhoff,Rune,1975-07-18,NOR, ,NOR
@@ -832,7 +845,7 @@ edvato,Edvardsen,Tommy,1984-12-26,NOR,Oslo,NOR
 edvaul,Edvardsen,Ulrik,1998-03-10,NOR, ,NOR
 edwacu,Edwards,Curtis,1994-01-12,ENG,Middlesbrough,ENG
 eekxka,Eek,Karl,1988-06-25,NOR,Steinkjer,NOR
-eftecl,Eftevåg,Claus,1969-12-20,NOR, ,NOR
+eftecl,Eftevåg,Claus,1969-12-20,NOR,Kristiansand,NOR
 eftejo,Eftevaag,Johannes,2001-08-13,NOR, ,NOR
 eftesj,Eftevåg,Sjur,1968-05-20,NOR, ,NOR
 efteth,Eftedal,Thomas,1978-04-05,NOR, ,NOR
@@ -848,6 +861,7 @@ eidsda,Eidsvik,Dag,1971-09-18,NOR, ,NOR
 eidxda,Eid,Daniel,1998-10-14,NOR,Ulsteinvik,NOR
 eidxsi,Eid,Sindre,1974-09-29,NOR, ,NOR
 eikeer,Eikeng,Erik,1996-08-03,NOR, ,NOR
+eikejo,Eikemo,Johnny,0000-00-00,NOR, , 
 eikema,Eikenes,Mathias,1985-02-13,NOR, ,NOR
 eikest,Eike,Sten,1981-10-08,NOR,Skudenes,NOR
 eikrje,Eikrem,Jesper,2007-07-02,NOR, ,NOR
@@ -863,6 +877,7 @@ ekblem,Ekblom,Emil,1994-01-29,NOR, ,NOR
 ekebhe,Ekeberg,Herman,1972-03-14,NOR,Ringerike,NOR
 ekeljo,Ekeland,Jostein,1997-07-24,NOR, ,NOR
 ekeran,Ekeroth,Anton,2001-09-16,SWE, ,SWE
+ekkeko,Ekker,Kolbjørn,1960-01-21,NOR, , 
 ekonwt,Troost-Ekong,William,1993-09-01,NGR,Haarlem,NED
 ekorsi,Ekornes,Sigurd,2006-04-02,NOR, ,NOR
 ekpeth,Ekpe,Thompson,1996-12-14,NGR, ,NGR
@@ -911,11 +926,12 @@ engvgu,Engvall,Gustav,1996-04-29,SWE,Kalmar,SWE
 engxja,Eng,Jacob,2004-09-14,NOR, ,NOR
 enkejo,Enkerud,Jonas,1990-04-25,NOR,Åsnes,NOR
 enlisa,Enlind,Stig Are,1970-09-01,NOR, ,NOR
-ensrgu,Ensrud,Gudbrand,1977-06-21,NOR,Lörenskog,NOR
+ensrgu,Ensrud,Gudbrand,1977-06-21,NOR,Lørenskog,NOR
 erikbe,Eriksen,Bengt,1965-03-13,NOR, ,NOR
 erikca,Eriksson,Carljohan,1995-04-25,FIN,Helsinki,FIN
 erikei,Eriksen,Eivind,1973-02-28,NOR,Mehamn,NOR
 erikjo,Eriksen,Joachim,1996-03-27,NOR, ,NOR
+erikk1,Eriksen,Kenneth,0000-00-00,NOR, , 
 erikke,Eriksen,Kent,1991-05-29,NOR, ,NOR
 erikkr,Eriksen,Kristian,1995-07-18,NOR,Hamar,NOR
 erikla,Eriksen,Lasse,1959-02-19,NOR, ,NOR
@@ -923,8 +939,10 @@ eriklk,Eriksen,Lars-Kristian,1983-06-28,NOR,Ålesund,NOR
 erikm1,Eriksen,Morten, ,NOR, ,NOR
 erikmo,Eriksen,Morten,1983-04-26,NOR, ,NOR
 eriksy,Eriksen,Syver,2001-04-29,NOR, ,NOR
+erikti,Eriksen,Tom Ivar,0000-00-00,NOR, , 
 eriktr,Eriksen,Trond,1961-10-25,NOR, ,NOR
-erlaar,Erlandsen,Arne,1959-12-20,NOR, ,NOR
+erlaar,Erlandsen,Arne,1959-12-20,NOR,Kløfta,NOR
+erlabj,Erlandsen,Bjørnar,1965-06-03,NOR, , 
 erlive,Erlien,Vegard,1998-06-24,NOR, ,NOR
 erlyaG,Erlykke,Albert Grønbæk,2001-05-23,DEN,Risskov,DEN
 ernest,Ernemann,Steffen,1982-04-26,DEN,Odder,DEN
@@ -937,7 +955,7 @@ escomy,Escoe,Mynor,1991-04-06,CRC,San José,CRC
 eskeju,Eskesen,Julius,1999-03-16,DEN,Odense,DEN
 eskeka,Eskelinen,Kaj,1969-02-21,SWE, ,SWE
 eskero,Eskeland,Roger,1977-11-11,NOR,Stavanger,NOR
-espelc,Espejord,Lars Christian,1963-05-18,NOR, ,NOR
+espelc,Espejord,Lars Christian,1963-05-18,NOR,Tromsø,NOR
 espeod,Espevoll,Odd,1976-06-05,NOR,Vindafjord,NOR
 espero,Espedal,Ronny,1975-05-09,NOR,Randaberg,NOR
 esperu,Espejord,Runar,1996-02-26,NOR,Tromsø,NOR
@@ -947,9 +965,11 @@ esteve,Estensen,Vetle,1993-10-13,NOR, ,NOR
 etukje,Etukebe,James Essien,1966-02-19,GHA, ,GHA
 evenei,Evensen,Eivind,1976-08-29,NOR, ,NOR
 evenro,Evensen,Robert,1982-08-28,NOR, ,NOR
+evento,Evensen,Torbjørn,1964-01-19,NOR, , 
 evenvi,Evensen,Vidar,1971-07-13,NOR,Trondheim,NOR
 evjean,Evjen,Andreas,1969-05-25,NOR,Narvik,NOR
 evjeha,Evjen,Håkon,2000-02-14,NOR,Narvik,NOR
+evjeth,Evjen,Thomas,0000-00-00,NOR, , 
 eydejo,Eyde,Joakim,1991-12-12,NOR, ,NOR
 eyjoho,Eyjólfsson,Hólmar,1990-08-06,ISL,Saudarkrókur,ISL
 ezehch,Ezeh,Charles,1997-11-18,NGR,Jos,NGR
@@ -969,6 +989,7 @@ falldj,Fall,Djiby,1985-04-20,SEN,Thiès,SEN
 fallfa,Fall,Fallou,2004-04-15,SEN,Rufisque,SEN
 fantan,Fantoft,Andreas,1999-06-30,NOR, ,NOR
 farabT,Faraas,Benjamin Thoresen,2005-09-08,NOR,Flisa,NOR
+fardhe,Fardal,Helge,0000-00-00,NOR, , 
 farjma,Farji,Marko,2004-03-16,NOR, ,NOR
 farnpo,Farnerud,Pontus,1980-06-04,SWE,Helsingborg,SWE
 farsol,Farstad,Ole,1963-07-06,NOR, ,NOR
@@ -1008,9 +1029,11 @@ fiskve,Fiskerstrand,Vetle,2000-03-14,NOR, ,NOR
 fjelan,Fjeldstad,Andreas,1992-06-08,NOR, ,NOR
 fjelja,Fjeller,Jan,1966-04-14,NOR, ,NOR
 fjeljo,Fjeldskår,Jørgen,2002-12-28,NOR, ,NOR
+fjelp1,Fjeldstad,Paal,1962-02-11,NOR, , 
 fjelpa,Fjelde,Pål,1994-07-26,NOR, ,NOR
 fjelsv,Fjeldstad,Sveinung,1978-08-26,NOR,Gjøvik,NOR
-fjeteg,Fjetland,Egil,1962-08-12,NOR, ,NOR
+fjeteg,Fjetland,Egil,1962-08-12,NOR,Stavangar,NOR
+fjetja,Fjetland,Jan,1962-08-12,NOR,Stavangar,NOR
 fjlbsv,Fjælberg,Svein,1959-01-12,NOR, ,NOR
 fjoeja,Fjørtoft,Jan Åge,1967-01-10,NOR,Gurskøy,NOR
 fjoeko,Fjørtoft,Karl Oskar,1975-07-26,NOR,Ålesund,NOR
@@ -1039,11 +1062,14 @@ fofam1,Fofana,Moryké,1991-11-23,CIV,Bassam,CIV
 fofamo,Fofana,Mohamed,1998-04-08,GUI, ,GUI
 fofamu,Fofana,Mustapha,2001-05-10,SLE,Bo,SLE
 fojuja,Fojut,Jarosław,1987-10-17,POL,Legionowo,POL
+folero,Føleide,Roger,1959-11-22,NOR, , 
+folkpa,Folkvord,Paul,1961-12-13,NOR, , 
 follch,Follerås,Christian,1991-10-03,NOR, ,NOR
 follke,Folland,Knut Erik,1972-03-05,NOR, ,NOR
 fontpa,Fontanello,Pablo,1984-09-26,ARG,Lincoln,ARG
 foosal,Foosnæs,Aleksander,1994-06-05,NOR,Trondheim,NOR
 fordga,Ford,Gary,1961-02-08,ENG, ,ENG
+forfsi,Forfang,Sigmund,1961-05-05,NOR, , 
 forgpe,Forgaard,Per Eik,1993-03-21,NOR, ,NOR
 forkwi,Forko,Willis,1983-11-12,LBR,Monrovia,LBR
 forniv,Forn,Ivar,1983-06-24,NOR,Kvæfjord,NOR
@@ -1053,8 +1079,10 @@ fosshe,Fossdal,Herman,1998-11-18,NOR,Stord,NOR
 fossiv,Fossum,Iver,1996-07-15,NOR,Drammen,NOR
 fosslb,Bergan-Foss,Lasse,1988-12-21,NOR,Lillestrøm,NOR
 fossma,Fossedal,Martin,1991-03-25,NOR, ,NOR
+fossoe,Fossum,Odd Einar,0000-00-00,NOR, , 
 fosssa,Foss,Sander,1998-12-31,NOR,Barkåker,NOR
 fosssm,Foss,Sander Moen,1998-12-31,NOR,Barkåker,NOR
+fossto,Fosse,Tor,1966-02-08,NOR, , 
 fostkn,Fostervold,Knut,1971-10-04,NOR,Tønsberg,NOR
 franal,Fransson,Alexander,1994-04-02,SWE,Norrköping,SWE
 franca,Francis,Caleb,1968-02-08,MTS, ,MTS
@@ -1070,7 +1098,9 @@ fredja,Fredriksen,Jon-André,1982-04-05,NOR,Moss,NOR
 fredjo,Fredriksen,Jonas,2000-11-14,NOR, ,NOR
 fredma,Fredriksen,Mathias,1994-04-28,NOR,Porsgrunn,NOR
 fredot,Fredrikson,Otto,1981-11-30,FIN,Valkeakoski,FIN
+fredpa,Fredheim,Paal,1963-10-16,NOR, , 
 fredro,Fredriksen,Roar,1970-11-30,NOR, ,NOR
+fredto,Fredriksson,Tom,0000-00-00,SWE, , 
 fredtr,Fredriksen,Trond,1977-05-21,NOR,Aalesund,NOR
 fredul,Fredriksen,Ulrik,1999-06-17,NOR,Bergen,NOR
 freehu,Freeman,Hunter,1985-01-08,USA,Tyler,USA
@@ -1144,12 +1174,14 @@ giaemo,Giæver,Morten,1982-05-20,NOR,Alta,NOR
 giamre,Giampaoli,Renzo,2000-01-07,ARG,Bombal,ARG
 gibsch,Gibson,Chad,1976-05-19,AUS,Sydney,AUS
 gibsge,Gibson,George,2000-08-29,NOR, ,NOR
+giljge,Giljarhus,Geir,1961-04-04,NOR, , 
 giljmo,Gilje,Morten,1978-03-02,NOR, ,NOR
-gillth,Gill,Thomas,1965-05-16,NOR, ,NOR
+gillth,Gill,Thomas,1965-05-16,NOR,Grimstad,NOR
 gimrro,Gimre,Roger,1984-10-12,NOR, ,NOR
 giskan,Giske,Anders,1959-11-22,NOR, ,NOR
 giskke,Giske,Kenneth,1976-01-06,NOR, ,NOR
 giskol,Giskegjerde,Oliver,2004-07-12,NOR, ,NOR
+gislgu,Gíslason,Gunnar,1961-01-04,ISL,Akureyri,ISL
 gislst,Gíslason,Stefán,1980-03-15,ISL,Fjarðabyggð,ISL
 gislva,Gíslason,Valur,1977-09-08,ISL, ,ISL
 gjelpa,Gjelten,Per Arne,1965-12-11,NOR, ,NOR
@@ -1160,6 +1192,7 @@ gjeroe,Gjerde,Øyvind,1977-03-18,NOR,Åndalsnes,NOR
 gjeroh,Gjerskaug,Ole Herman,1976-08-19,NOR, ,NOR
 gjerpe,Gjerdalen,Per-Arne,1972-01-03,NOR, ,NOR
 gjerr1,Gjerde,Rune,1968-07-15,NOR, ,NOR
+gjerro,Gjertvik,Roy,0000-00-00,NOR, , 
 gjerru,Gjertsen,Rune,1969-11-19,NOR, ,NOR
 gjerto,Gjertsen,Torgil,1992-03-12,NOR,Melhus,NOR
 gjerve,Gjermundstad,Vegard,1990-03-14,NOR,Vadheim,NOR
@@ -1198,7 +1231,7 @@ gregje,Gregersen,Jesper,2004-08-21,NOR, ,NOR
 gregpa,Gregor,Pascal,1994-02-18,DEN, ,DEN
 gregsi,Gregov,Šime,1989-07-08,CRO,Zadar,CRO
 gregst,Gregersen,Stian,1995-05-17,NOR,Kristiansund,NOR
-grenta,Grenersen,Tor André,1969-11-11,NOR, ,NOR
+grenta,Grenersen,Tor André,1969-11-11,NOR,Narvik,NOR
 gretda,Grétarsson,Daníel,1995-10-02,ISL,Reykjanesbær,ISL
 grevla,Grevskott,Lars,1969-09-12,NOR, ,NOR
 grewka,Grewal,Karanveer,1993-04-23,NOR,Lambha,IND
@@ -1247,7 +1280,7 @@ gueypa,Gueye,Pape,1999-09-20,SEN,Ziguinchor,SEN
 gujosv,Guðjohnsen,Sveinn,1998-05-12,ISL,Reykjavík,ISL
 gulbfr,Gulbrandsen,Fredrik,1992-09-10,NOR,Oslo,NOR
 gulbru,Gulbrandsen,Rune,1971-05-16,NOR, ,NOR
-gulbto,Gulbrandsen,Tom,1964-05-05,NOR, ,NOR
+gulbto,Gulbrandsen,Tom,1964-05-05,NOR,Geithus,NOR
 guldhe,Gulden,Henrik,1995-12-29,NOR,Drammen,NOR
 gullm1,Gullerud,Marius,1977-02-20,NOR,Skjetten,NOR
 gullma,Gulliksen,Mathias,2000-10-09,NOR, ,NOR
@@ -1263,6 +1296,7 @@ gundma,Gundersen,Mads,1993-03-13,NOR,Drammen,NOR
 gundpr,Gundersen,Preben,1977-04-30,NOR, ,NOR
 gundsi,Gundersen,Sindre,1975-07-25,NOR, ,NOR
 gundst,Gundrosen,Stale,1968-04-30,NOR, ,NOR
+gundt1,Gundersen,Trond Ove,0000-00-00,NOR, , 
 gundto,Gundersen,Tore,1986-02-04,NOR,Kongsvinger,NOR
 gunnb1,Gunnarsson,Brynjar Bjørn,1975-10-16,ISL, ,ISL
 gunnbb,Gunnlaugsson,Bjarki Bergmann,1973-03-06,ISL, ,ISL
@@ -1302,7 +1336,7 @@ habsaa,Al Habsi,Ali,1981-12-30,OMA,Muscat,OMA
 hadael,Hadaya,Elias,1998-08-31,SWE,Eskilstuna,SWE
 haddan,Haddad,Andreas,1982-05-05,SWE,Stockholm,SWE
 haddta,Haddal,Tor Arild,1972-04-16,NOR, ,NOR
-hadlto,Hadler-Olsen,Tore,1965-03-07,NOR, ,NOR
+hadlto,Hadler-Olsen,Tore,1965-03-07,NOR,Bergen,NOR
 hadzad,Hadžić,Adnan,1999-03-08,NOR,Horten,NOR
 hadzel,Hadžimehmedović,Eldar,1984-09-10,BOS, ,BOS
 haegki,Haegeland,Kim,1977-06-17,NOR, ,NOR
@@ -1312,6 +1346,7 @@ hafsdi,Hafstad,Didrik,2003-12-26,NOR, ,NOR
 hafsth,Hafstad,Thomas,1974-03-13,NOR,Narvik,NOR
 hafsto,Hafstad,Tobias,2002-06-01,NOR, ,NOR
 haftpe,Haftorsen,Per,1970-06-29,NOR, ,NOR
+hagaga,Hagaløkken,Geir Arne,1961-04-05,NOR, , 
 hagajo,Hagabakken,Joachim,1978-12-15,NOR, ,NOR
 hagbsi,Hagbø,Simen,1999-05-05,NOR, ,NOR
 hagbtg,Hagbø,Tor Gunnar,1960-01-13,NOR, ,NOR
@@ -1345,6 +1380,7 @@ hakaju,Hakala,Jukka,1977-11-07,FIN,Kokkola,FIN
 hakoyn,Håkonsen,Yngvar,1978-01-29,NOR,Kristiansand,NOR
 halaar,Håland,Atle Roar,1977-07-26,NOR,Kvinesdal,NOR
 halaer,Håland,Erling,2000-07-21,NOR,Leeds,ENG
+halasi,Haland,Sigmunn,0000-00-00,NOR, , 
 haldol,Haldorsen,Ola,1965-04-29,NOR, ,NOR
 haldpm,Haldorsen,Per Mikkel,1982-04-05,NOR, ,NOR
 halico,Halit,Colo,1986-01-01,SWE, ,SWE
@@ -1356,7 +1392,7 @@ hallth,Hallstensen,Thomas,2002-06-12,NOR, ,NOR
 halsma,Halsøy,Mads,2002-03-28,NOR,Rana,NOR
 haltte,Haltvik,Teodor,2000-04-09,NOR, ,NOR
 halvha,Halvorsen,Håvard,1973-05-20,NOR, ,NOR
-halvjh,Halvorsen,Jan Halvor,1963-03-08,NOR, ,NOR
+halvjh,Halvorsen,Jan Halvor,1963-03-08,NOR,Bamble,NOR
 halvol,Halvorsen,Ole,1987-10-02,NOR,Sarpsborg,NOR
 halvpe,Halvorsen,Petter,1973-10-09,NOR, ,NOR
 halvsl,Halvorsen,Stian Lind,1975-03-04,NOR, ,NOR
@@ -1396,9 +1432,10 @@ hansf1,Hansen,Fredrik, ,NOR, ,NOR
 hansf2,Hansen,Fredrik,2000-08-14,NOR, ,NOR
 hansfr,Hansen,Frode,1972-09-04,NOR,Stavanger,NOR
 hansgl,Hansen,Glenn,1972-09-20,NOR, ,NOR
-hansha,Hansen,Hugo Andre,1967-08-01,NOR, ,NOR
+hansha,Hansen,Hugo Andre,1967-08-01,NOR,Vega,NOR
 hansj1,Hansen,Jonny,1981-01-12,NOR,Kristiansund,NOR
 hansja,Hansen,Jakob,2005-06-16,NOR, ,NOR
+hansje,Hansen,Jan Egil,1955-02-14,NOR,Trondheim,NOR
 hansjo,Hanssen,Jonny,1972-12-13,NOR,Narvik,NOR
 hansjs,Hansen,Johan Sverre,1971-05-07,NOR, ,NOR
 hansko,Hansen,Kornelius,2001-05-06,NOR,Larvik,NOR
@@ -1411,7 +1448,7 @@ hansoe,Hansen,Ørjan,1984-04-29,NOR, ,NOR
 hansol,Hansen,Ole,1987-02-26,NOR,Fredrikstad,NOR
 hanspa,Hansson,Patrik,1969-09-23,SWE, ,SWE
 hanspe,Hanssen,Petter,1986-01-08,NOR, ,NOR
-hanspj,Hansen,Per Joar,1965-08-17,NOR, ,NOR
+hanspj,Hansen,Per Joar,1965-08-17,NOR,Namsos,NOR
 hansra,Hansen,Rino André,1970-03-14,NOR, ,NOR
 hansru,Hansen,Rune,1985-04-06,DEN,Hinnerup,DEN
 hanss1,Hansen,Sebastian,2006-10-06,NOR, ,NOR
@@ -1456,12 +1493,16 @@ haugbe,Haugen,Bernt,1965-12-18,NOR, ,NOR
 haugbj,Haugsdal,Bjarte,1990-03-09,NOR,Bergen,NOR
 hauge1,Haugan,Eirik,1997-08-27,NOR,Aalesund,NOR
 hauge2,Haug,Espen,1975-07-16,NOR,Gjøvik,NOR
+hauge3,Haugen,Einar,1969-01-30,NOR, , 
 haugeK,Haug,Elias Kringberg,2006-02-18,NOR, ,NOR
 haugei,Haugstad,Eirik,1994-01-17,NOR, ,NOR
 haugel,Haug,Elias,2006-02-18,NOR, ,NOR
 hauges,Haug,Espen,1970-01-30,NOR,Oslo,NOR
 haugf1,Hauge,Frank,1980-12-10,NOR, ,NOR
+haugf2,Hauge,Fredrik,1967-03-03,NOR, , 
 haugfr,Haugen,Fredrik,1992-06-13,NOR,Bergen,NOR
+hauggi,Hauge,Geir Ivar,1964-08-27,NOR, , 
+hauggj,Haugeneset,Gjermund,1964-02-20,NOR, , 
 haugh1,Haugen,Helge,1982-02-15,NOR,Bergen,NOR
 haugh2,Haugland,Harald,1984-03-13,NOR, ,NOR
 haugh3,Haugen,Helge,1957-02-25,NOR, ,NOR
@@ -1483,6 +1524,7 @@ haugsi,Haugen,Sigurd,1997-07-17,NOR,Haugesund,NOR
 haugsj,Hauge,Sjur Jarle,1971-12-18,NOR, ,NOR
 haugst,Haugland,Steffen,1987-11-08,NOR,Randaberg,NOR
 haugti,Haugland,Trond Inge,1976-03-23,NOR, ,NOR
+haugto,Haugvaldstad,Tore,1960-02-15,NOR, , 
 haugtr,Haugstad,Trond,1986-01-29,NOR,Fåberg,NOR
 haukmi,Haukås,Michael,1986-11-21,NOR,Haugesund,NOR
 haukos,Hauksson,Óskar,1984-08-22,ISL, ,ISL
@@ -1527,6 +1569,7 @@ helgei,Helgesen,Eivind,2001-06-30,NOR,Sogndal,NOR
 helgel,Helgason,Elfar,1989-07-27,ISL,Reykjavík,ISL
 helggu,Helgason,Guðni,1976-07-16,ISL, ,ISL
 helghe,Helguson,Heiðar,1977-08-22,ISL,Akureyri,ISL
+helgku,Helgesen,Kurt,0000-00-00,NOR, , 
 helgtm,Helgesen,Trond Marius,1967-12-28,NOR, ,NOR
 hella1,Hella,Anders,1991-10-14,NOR, ,NOR
 hellan,Hellum,Andreas,1997-11-19,NOR, ,NOR
@@ -1536,6 +1579,7 @@ hellgu,Helling,Gustav,2001-08-16,NOR, ,NOR
 hellkr,Hellesund,Kim-Rune,1980-08-15,NOR, ,NOR
 hellm1,Hellan,Martin,2003-08-17,NOR, ,NOR
 hellma,Helle,Marius,1983-08-11,NOR,Stavanger,NOR
+hellno,Hellvik,Nils Ove,1962-07-25,NOR,Stavanger,NOR
 hellpa,Helland,Pål André,1990-01-04,NOR,Orkanger,NOR
 hellro,Helland,Roger,1973-09-26,NOR, ,NOR
 helman,Helmersen,Andreas,1998-03-15,NOR,Trondheim,NOR
@@ -1543,17 +1587,21 @@ helmhe,Helmke,Hendrik,1987-07-13,GER,Winsen/Luhe,GER
 helmyn,Helmersen,Yngve,1964-07-04,NOR, ,NOR
 helsga,Helstrup,Gaute,1976-05-15,NOR,Tromsø,NOR
 helsth,Helstad,Thorstein,1977-04-28,NOR,Hamar,NOR
+henage,Henaes,Geir,1955-09-03,NOR, , 
 henato,Henanger,Tobias,1992-12-03,NOR, ,NOR
 hendbr,Hendriksson,Brandur,1995-12-19,FER,Skálavík,FER
 hendcr,Henderson,Craig,1987-06-24,NZL,Lower Hutt,NZL
 hendli,Henderson,Liam,1996-04-25,SCO,Livingston,SCO
 henrko,Henriksen,Kjell Ove,1971-07-17,NOR, ,NOR
 henrma,Henriksen,Markus,1992-07-25,NOR,Trondheim,NOR
+henroj,Henriksen,Ole Johnny,1955-05-29,NOR, , 
 henrol,Henriksrud,Oliver,2005-08-08,NOR, ,NOR
 henrs1,Henriksen,Sebastian,2002-05-31,NOR, ,NOR
+henrsa,Henriksen,Svein Arne,0000-00-00,NOR, , 
 henrse,Henriksson,Sebastian,1974-10-12,SWE, ,SWE
 henrsi,Henriksen,Simen,2002-03-04,NOR, ,NOR
 henrtb,Henriksen,Trond Børge,1964-04-28,NOR, ,NOR
+henrts,Henrichsen,Tom Schou,1960-08-21,NOR, , 
 henrvi,Henriksen,Vidar,1989-01-31,NOR, ,NOR
 herean,Heredia-Randen,Andreas,2006-02-22,NOR, ,MEX
 hereme,Herequi,Mergim,1992-11-12,NOR, ,NOR
@@ -1573,11 +1621,13 @@ hestda,Hestad,Daniel,1975-07-30,NOR,Molde,NOR
 hestei,Hestad,Eirik,1995-06-26,NOR,Molde,NOR
 hestpb,Hestad,Peter Berg,1987-09-07,NOR, ,NOR
 hestsi,Hestnes,Simen,1996-02-05,NOR,Ski,NOR
+hestso,Hestad,Stein Olav,1952-06-30,NOR,Molde,NOR
 hghxka,Høgh,Kasper,2000-12-06,DEN,Randers,DEN
 hickda,Hickson,David,1997-07-09,NOR, ,NOR
 hienle,Hien,Leon,2001-07-31,SWE, ,SWE
 hietja,Hietanen,Janne,1978-06-02,FIN,Oulu,FIN
 hiiman,Hiim,Anders,2002-09-13,NOR, ,NOR
+hiimsa,Hiim,Svein Arne,0000-00-00,NOR, , 
 hillas,Hillestad,Asle,1968-03-04,NOR, ,NOR
 hillei,Hillestad,Eirik,1977-09-15,NOR, ,NOR
 hinnha,Hinna,Hallgeir,1970-12-08,NOR, ,NOR
@@ -1596,7 +1646,7 @@ hjorjo,Hjorth,Jonas,2001-01-30,NOR,Ski,NOR
 hjorma,Hjorth,Marco,1995-04-25,NOR,Sandvika,NOR
 hjulma,Hjulstad,Magnus,1984-03-15,NOR, ,NOR
 hkanda,Håkans,Daniel,2000-10-26,FIN,Vaasa,FIN
-hlanat,Håland,Atle, ,NOR, ,NOR
+hlanat,Håland,Atle,0000-00-00,NOR, ,NOR
 hlanka,Håland,Kjell Arve,1972-06-07,NOR, ,NOR
 hoasoe,Hoås,Øyvind,1983-10-28,NOR,Molde,NOR
 hoddkj,Hoddø,Kjetil,1971-10-22,NOR, ,NOR
@@ -1608,13 +1658,16 @@ hoeike,Høie,Kenneth,1979-09-11,NOR,Haugesund,NOR
 hoeima,Høibråten,Marius,1995-01-23,NOR,Oslo,NOR
 hoeito,Høiland,Tommy,1989-04-11,NOR,Bryne,NOR
 hoelfr,Hoel,Frederik,2005-05-17,NOR, ,NOR
+hoelkp,Hoel,Kjell Petter,0000-00-00,NOR, , 
 hoeste,Høsøien,Terje,1974-08-16,NOR, ,NOR
 hoeyma,Høyem,Martin,1982-01-16,NOR,Trondheim,NOR
+hoffe1,Hoff,Espen,0000-00-00,NOR, , 
 hoffes,Hoff,Espen,1981-11-20,NOR,Larvik,NOR
 hoffve,Hoff,Vebjørn,1996-02-13,NOR,Ålesund,NOR
 hofsra,Hofstædter,Raymond,1979-12-24,NOR, ,NOR
 hofter,Hoftun,Erik,1969-03-03,NOR,Kyrksæterøra,NOR
 hogaga,Hogan,Gary,1983-01-05,IRL, ,IRL
+hogmpm,Høgmo,Per-Mathias,1959-12-01,NOR,Gratangen,NOR
 holdoK,Holden,Oliver Kvendbø,2005-03-24,NOR, ,NOR
 hollan,Hollingen,Andreas,1994-10-02,NOR,Molde,NOR
 hollma,Hollund,Martin,1974-08-10,NOR, ,NOR
@@ -1622,12 +1675,15 @@ holmbj,Holmvik,Bjørnar,1985-06-02,NOR,Oslo,NOR
 holmda,Holm,Daniel,1985-07-30,NOR,Oslo,NOR
 holmer,Holm,Erlend,1983-05-17,NOR,Ålesund,NOR
 holmfr,Holmé,Fredrik,2001-07-23,NOR,Oslo,NOR
+holmgl,Holm,Glenn,1969-03-09,NOR, , 
 holmis,Holmen,Isak,2007-06-09,NOR,Steinkjer,NOR
 holmj1,Holmen,Jørn Ove,1972-05-17,NOR, ,NOR
 holmjo,Holmedal,Joakim,1995-04-16,NOR, ,NOR
 holmki,Holmen,Kim,1982-07-14,NOR,Oslo,NOR
 holmno,Holm,Noah,2001-05-23,NOR, ,DEN
 holmod,Holm,Odin,2003-01-18,NOR, ,NOR
+holmpe,Holmberg,Per,1959-04-29,SWE, , 
+holmrh,Holm,Roy Harald,0000-00-00,NOR, , 
 holmro,Holmen,Robert,1974-05-18,NOR, ,NOR
 holmth,Holm,Thomas,1981-02-19,NOR,Oslo,NOR
 holmto,Holm,Tore,1977-10-31,NOR, ,NOR
@@ -1654,6 +1710,7 @@ holvkj,Holvik,Kjetil,1981-01-23,NOR, ,NOR
 hopemi,Hope,Mikkel,2006-08-08,NOR, ,NOR
 hopeoe,Hopen,Ørjan,1992-03-19,NOR,Sogndal,NOR
 hopest,Hopen,Steinar,1965-11-29,NOR, ,NOR
+hopeto,Hopen,Torbjørn,0000-00-00,NOR, , 
 hoplni,Hopland,Nikolai,2004-07-24,NOR, ,NOR
 hopman,Hopmark,Andreas,1991-07-06,NOR,Kristiansund,NOR
 hornda,Hornseth,Dag,1982-02-01,NOR,Koppang,NOR
@@ -1759,6 +1816,7 @@ isidjo,Isidoro, ,1986-08-01,SPA,Pedrera,SPA
 isladi,Islamović,Dino,1994-01-17,MNT,Hudiksvall,SWE
 ismata,Ismaheel,Taofeek,2000-07-16,NGR, ,NGR
 isnejo,Isnes,Jørgen,1979-08-30,NOR, ,NOR
+isoaol,Isoaho,Olli,1956-03-02,FIN,Kerava,FIN
 israer,Israelsson,Erik,1989-02-25,SWE,Kalmar,SWE
 issaka,Issah,Kamal,1992-08-30,GHA,Kumasi,GHA
 issamo,Issah,Mohammed,1986-04-04,GHA,Accra,GHA
@@ -1772,11 +1830,13 @@ ivkogo,Ivkovic,Gojko,1990-05-20,SRB,Kragujevac,SRB
 jabash,Jabari,Shahram,2003-02-02,NOR, ,NOR
 jabbkh,Jabbie,Khalifa,1993-01-20,SLE,Freetown,SLE
 jablke,Jablinski,Kevin,1996-03-26,NOR, ,NOR
-jacoa1,Jacobsen,Anders,1968-04-18,NOR, ,NOR
+jacoa1,Jacobsen,Anders,1968-04-18,NOR,Oslo,NOR
 jacoan,Jacobson,Andrew,1985-09-25,USA,Fort Meyers,USA
+jacobj,Jacobsen,Bent Johan,0000-00-00,NOR, , 
 jacoer,Jacobsen,Erlend,1999-06-25,NOR, ,NOR
 jacofr,Jacobsen,Fredrik,1983-01-09,NOR, ,NOR
 jacoje,Jacobsson,Jens,1990-03-20,SWE, ,SWE
+jacomo,Jacobsen,Morten,0000-00-00,NOR, , 
 jacot1,Jacobsen,Tom Helge,1971-09-01,NOR, ,NOR
 jacoth,Jacobsen,Thomas,1983-09-16,NOR,Bodø,NOR
 jacotn,Jacobsen,Tarje Nordstrand,1974-05-05,NOR, ,NOR
@@ -1859,7 +1919,7 @@ joerm1,Jørgensen,Mads,1979-02-10,DEN,Ørsted,DEN
 joerma,Jørgensen,Marco,1991-06-02,DEN, ,DEN
 johaaj,Johansen,Anders Johan,1999-04-11,NOR, ,NOR
 johaan,Jóhannesson,Andrés,1988-12-21,ISL,Reykjavík,ISL
-johab1,Johansen,Bjørn,1969-09-07,NOR, ,NOR
+johab1,Johansen,Bjørn,1969-09-07,NOR,Tromsø,NOR
 johabj,Johannessen,Bjørnar,1977-09-23,NOR, ,NOR
 johaca,Johansen,Carsten,1969-10-11,NOR, ,NOR
 johacg,Johansen,Christian Grave,1981-04-06,NOR, ,NOR
@@ -1872,11 +1932,13 @@ johaem,Johansson,Emil,1986-08-11,SWE,Karlskoga,SWE
 johaer,Johansen,Erlend,1986-01-13,NOR,Bergen,NOR
 johafr,Johannessen,Frode,1967-04-15,NOR, ,NOR
 johag1,Johannessen,Gaute,1967-08-19,NOR, ,NOR
+johag2,Johansen,Geir,1960-07-07,NOR, , 
 johaga,Jóhannsson,Garðar,1980-04-01,ISL,Garðabær,ISL
 johage,Johansen,Geir,1968-04-20,NOR, ,NOR
 johahe,Johansen,Henrik,1993-03-22,NOR,Gjøvik,NOR
 johahj,Johansen,Hjalmar,1971-08-20,NOR, ,NOR
 johaih,Johansen,Inge Hunstad,1963-06-05,NOR, ,NOR
+johaj1,Johansen,Jon-Ove,0000-00-00,NOR, , 
 johajW,Johansen,Jesper Wichstrøm,2003-01-27,NOR, ,NOR
 johaji,Johansen,Jim,1987-02-06,NOR,Harstad,NOR
 johajo,Johansen,Jonas,1985-03-22,NOR,Tromsø,NOR
@@ -1897,11 +1959,11 @@ joharu,Johansen,Runar,2000-05-09,NOR, ,NOR
 johas1,Johansen,Stian,1989-03-14,NOR, ,NOR
 johas2,Johansen,Stig,1972-06-13,NOR,Kabelvåg,NOR
 johas3,Johansen,Ståle,1971-02-20,NOR, ,NOR
-johasb,Johansen,Stein Berg,1969-06-10,NOR, ,NOR
+johasb,Johansen,Stein Berg,1969-06-10,NOR,Svolvær,NOR
 johaso,Johansen,Sondre,1995-07-07,NOR,Borgen,NOR
 johast,Johansen,Stefan,1991-01-08,NOR,Vardø,NOR
 johasv,Johansen,Svein,1971-05-29,NOR,Tromsø,NOR
-johat1,Johansen,Trond,1962-11-30,NOR, ,NOR
+johat1,Johansen,Trond,1962-11-30,NOR,Skøelv,NOR
 johath,Johansson,Thomas,1969-01-13,NOR, ,NOR
 johati,Johansen,Timmi,1987-05-08,DEN,Rødovre,DEN
 johato,Johansen,Tobias,1990-08-29,NOR, ,NOR
@@ -2006,6 +2068,7 @@ karlhv,Karlsen,Håvard,1977-03-14,NOR, ,NOR
 karlja,Karlstrøm,Jacob,1997-01-09,NOR, ,NOR
 karljo,Karlsrud,Jørn,1965-12-10,NOR, ,NOR
 karlk1,Karlsen,Kent,1973-02-17,NOR,Oslo,NOR
+karlk2,Karlsen,Karl Erik,1962-08-07,NOR, , 
 karlke,Karlsen,Kenneth,1973-06-29,NOR,Drammen,NOR
 karlm1,Karlsson,Markus,1972-08-30,SWE, ,SWE
 karlma,Karlsbakk,Markus,2000-05-07,NOR,Ålesund,NOR
@@ -2155,6 +2218,7 @@ korczs,Korcsmár,Zsolt,1989-01-09,HUN,Komló,HUN
 korero,Koren,Robert,1980-09-20,SLO,Radlje ob Dravi,SLO
 kornem,Kornvig,Emil,2000-04-28,DEN,Søborg,DEN
 kornpa,Korneliussen,Paal,1980-07-16,NOR, ,NOR
+korsru,Korslund,Rune,0000-00-00,NOR, , 
 koskmi,Koskela,Miika,2003-07-12,FIN,Oulu,FIN
 kosksa,Koskinen,Sampo,1979-03-01,FIN,Kirkkonummi,FIN
 koskte,Koskela,Tero,1976-10-13,FIN,Kokkola,FIN
@@ -2190,6 +2254,7 @@ krisjo,Kristiansen,Johnny,1992-10-14,NOR, ,NOR
 kriska,Kristiansen,Kai,1967-11-21,NOR, ,NOR
 kriske,Kristensen,Kenneth,1979-08-27,NOR, ,NOR
 kriski,Kristiansen,Kim,0000-00-00,NOR, ,NOR
+krislr,Kristiansen,Lars Ragnar,1963-09-13,NOR, , 
 krism1,Kristiansen,Morten,1971-06-08,NOR, ,NOR
 krisma,Kristensen,Magnus,1993-03-06,NOR,Stavanger,NOR
 krismo,Kristiansen,Morten,1963-07-11,NOR, ,NOR
@@ -2225,6 +2290,7 @@ kurtwi,Kurtović,William,1996-06-22,SWE,Karlskrona,SWE
 kuruha,Kuruçay,Hasan,1997-08-31,TUR,Odense,DEN
 kuviju,Kuvicek,Juro,1967-12-15,NOR,Povàska Bystrica,SVK
 kvalwi,Kvale,William,2006-05-18,NOR, ,NOR
+kvamei,Kvam,Einar,0000-00-00,NOR, , 
 kvanda,Kvande,Daniel,1995-04-08,NOR, ,NOR
 kvarbj,Kvarme,Bjørn,1972-06-17,NOR,Trondheim,NOR
 kvarjs,Kvarven,Jacob Steinsland,2001-12-16,NOR, ,NOR
@@ -2244,6 +2310,7 @@ lacety,Lacey,Tyrel,1986-02-08,USA,Jenks,USA
 laffky,Lafferty,Kyle,1987-09-16,NIR,Enniskillen,NIR
 laftfr,Lafton,Frode,1976-03-03,NOR,Hønefoss,NOR
 laftla,Lafton,Lars,1980-03-01,NOR,Jevnaker,NOR
+lageka,Lagesen,Kai,1965-02-26,NOR, , 
 lageth,Lagerlöf,Thomas,1971-11-15,SWE, ,SWE
 lagoal,Lago,Alejandro,1979-06-28,URU,Montevideo,URU
 lallga,Lally,Gagandeep,1995-07-08,NOR, ,NOR
@@ -2257,6 +2324,7 @@ landv1,Landro,Vegar,1983-02-21,NOR,Bergen,NOR
 landve,Landaas,Vegard,1990-01-28,NOR, ,NOR
 langel,Langmo,Elias,2005-04-06,NOR, ,NOR
 langha,Langdalen,Håkon,1992-04-06,NOR,Ringerike,NOR
+langka,Langesæter,Kåre,1962-12-18,NOR, , 
 langmi,Langer,Michael,1985-01-06,AUT,Bregenz,AUT
 lango1,Langnes,Ole,1971-07-16,NOR,Bodø,NOR
 lango2,Langbråten,Ole,2003-07-07,NOR, ,NOR
@@ -2270,6 +2338,7 @@ lansmi,Lansing,Michael,1994-06-13,USA,Randolph,USA
 lappti,Lappas,Tinos,1969-05-10,SWE, ,SWE
 larser,Larsson,Eric,1991-07-15,SWE,Gävle,SWE
 larsfh,Holst-Larsen,Fabian,2004-12-30,NOR, ,NOR
+larsfi,Larsen,Finn,1965-05-02,NOR, , 
 larsfr,Larsen,Frode,1988-07-09,NOR, ,NOR
 larsga,Larsen,Glen Atle,1982-08-24,NOR,Stord,NOR
 larshe,Larsen,Heine,2002-07-09,NOR, ,NOR
@@ -2286,6 +2355,7 @@ larsma,Larsen,Marius,2000-05-14,NOR, ,NOR
 larsmo,Larsen,Morten,1979-01-21,DEN, ,DEN
 larspe,Larsen,Peter,1989-02-25,NOR,Aveiro,POR
 larsri,Larsen,Rino,1996-02-14,NOR, ,NOR
+larsru,Larsen,Rune,1955-08-22,NOR, , 
 larssh,Larsen,Stig Hammer,1976-03-23,NOR, ,NOR
 larssi,Larsen,Simon,1988-06-01,NOR,Kristiansand,NOR
 larsst,Larsen,Stian,1972-08-11,NOR, ,NOR
@@ -2342,8 +2412,11 @@ liexjo,Lie,John,1980-12-10,NOR, ,NOR
 liexod,Lie,Oddbjørn,1987-08-31,NOR,Ålesund,NOR
 liexpl,Lie,Pål,2007-03-20,NOR, ,NOR
 liexve,Lie,Vegard,1984-02-22,NOR, ,NOR
+liffag,Liff,Age Gustav,1956-09-02,NOR, , 
+lihebj,Liheim,Bjørn,1966-04-23,NOR, , 
 lillkn,Lillebakk,Knut,1978-04-27,NOR, ,NOR
 lillma,Lillebo,Mats,1994-07-29,NOR, ,NOR
+lillto,Lillenes,Tore,1964-08-18,NOR, , 
 linda1,Lindegaard,Anders,1984-04-13,DEN,Dyrup,DEN
 linda2,Lindbæk,André,1977-11-01,NOR,Oslo,NOR
 lindal,Lind,Alexander,1989-03-23,NOR, ,NOR
@@ -2359,14 +2432,17 @@ lindra,Lindkvist,Rasmus,1990-05-16,SWE,Botkyrka,SWE
 lindst,Lindqvist,Stefan,1967-03-18,SWE, ,SWE
 lindto,Linderoth,Tobias,1979-04-21,SWE,Marseille,FRA
 lindvi,Lind,Victor,2003-07-12,DEN,Løgumkloster,DEN
+linnar,Linn,Arne,1968-09-04,NOR, , 
 linnma,Linnes,Martin,1991-09-20,NOR,Kongsvinger,NOR
 linofr,Lino,Franco,2005-08-26,AUS, ,AUS
 lipoqe,Lipoveci,Qendrim,1991-04-09,NOR, ,NOR
+lippfr,Lippestad,Frode,0000-00-00,NOR, , 
 liseso,Liseth,Sondre,1997-09-30,NOR,Bergen,NOR
 ljunda,Ljung,David,1975-09-27,SWE,Skellefteå,SWE
 lkenkp,Løken,Karl Petter,1966-08-14,NOR, ,NOR
 lkkeki,Løkke,Kim, ,NOR, ,NOR
 lnnian,Lønning,André,2004-01-02,NOR, ,NOR
+loddbj,Lodden,Bjarne,1966-09-30,NOR, , 
 lodema,Lode,Marius,1993-03-11,NOR,Kvernaland,NOR
 loedha,Lødemel,Harald,1974-12-01,NOR, ,NOR
 loefje,Löfgren,Jesper,1997-05-03,SWE,Kalmar,SWE
@@ -2430,6 +2506,7 @@ macady,Macallister,Dylan,1982-05-17,AUS,Manly,AUS
 maccda,Macciochi,David,1972-01-14,NOR, ,NOR
 maccma,Maccallun-Coffiny,Martin,2003-06-04,NOR, ,NOR
 madsbi,Madsen,Birger,1982-04-23,NOR,Oslo,NOR
+madsja,Madsen,Jan,1965-01-09,NOR,Lillehammer,NOR
 madska,Madsen,Kim André,1989-03-12,NOR,Oslo,NOR
 madsma,Madsen,Mathias,1999-09-01,NOR, ,NOR
 madujo,Maduka,John,1970-09-27,MLW, ,MLW
@@ -2452,6 +2529,7 @@ malats,Mala,Thomas Schjelderup,1971-12-11,NOR, ,NOR
 malema,Maleš,Mate,1989-03-11,CRO,Šibenik, 
 maleto,Malec,Tomáš,1993-01-05,SVK,Trenčín,SVK
 malida,Malik,Danilo,2004-06-17,NOR, , 
+malmge,Malmedal,Geir,1964-03-29,NOR, , 
 malmha,Malmström,Håkan,1977-07-16,SWE, ,SWE
 malmro,Malmkvist,Robin,1987-11-13,SWE, ,SWE
 mandst,Mandić,Staniša,1995-01-27,MNT,Herceg Novi,MNT
@@ -2466,12 +2544,13 @@ marcma,Marciano, ,1980-07-12,BRA,Chapadinha,BRA
 marel1,Mares,Luc,1996-10-03,NED,Maastricht,NED
 marelu,Marengo,Ludcinio,1991-09-14,NED,Amsterdam,NED
 margfi,Margeirsson,Finnur,1991-03-08,ISL, ,ISL
-marige,Maridal,Åge,1965-04-11,NOR, ,NOR
+marige,Maridal,Åge,1965-04-11,NOR,Brattvåg,NOR
 marima,Marić,Marko,1996-01-03,CRO,Wien,AUT
 markad,Marković,Adi,1996-12-19,NOR,Flekkfjord,NOR
 markem,Marković,Eman,1999-05-08,NOR,Kvinesdal,NOR
 marker,Markegård,Erik,1984-02-13,NOR,Hemsedal,NOR
 markla,Markmanrud,Lars,2001-03-01,NOR, ,NOR
+markno,Markussen,Nils-Olav,1955-12-21,NOR, , 
 markom,Marković,Omar,1994-04-06,BOS, ,BOS
 markpe,Markstedt,Peter,1972-01-11,SWE,Vasteras,SWE
 markpt,Markussen,Per Terje,1959-04-01,NOR, ,NOR
@@ -2505,6 +2584,7 @@ mathif,Mathew,Ifeanyi,1997-01-20,NGR,Kaduna,NGR
 mathje,Mathisen,Jesper,1987-03-17,NOR,Kristiansand,NOR
 mathma,Mathisen,Martin,1991-02-19,NOR,Sarpsborg,NOR
 mathse,Mathisen,Sebastian,2005-06-30,NOR, ,NOR
+mathsv,Mathisen,Svein,1952-09-30,NOR,Sauda,NOR
 mathul,Mathisen,Ulrik,1999-01-18,NOR, ,NOR
 matljo,Matland,Jo,1987-04-21,NOR,Tromsø,NOR
 mattch,Mattiasson,Christer,1971-07-22,SWE,Borås,SWE
@@ -2522,7 +2602,7 @@ mbaymo,Mbaye,Mor,1996-01-03,SEN,Bargny,SEN
 mbedam,Mbedule,Amani,1996-09-19,NOR, ,NOR
 mbodse,Mbodj,Serigne,1989-11-11,SEN,Diasse,SEN
 mboudy,Mboumbouni,Dylan,1996-02-20,CFA,Lyon,FRA
-mccami,McCabe,Mike,1964-08-21,IRL, ,IRL
+mccami,McCabe,Mike,1964-08-21,IRL,Waterford,IRL
 mcdese,McDermott,Sean,1993-05-30,IRL,Kristiansand,NOR
 mcdogh,McDonald,Gherland,1986-09-06,CRC,San Jose,CRC
 mcmast,McManus,Stuart,1965-03-19,SCO, ,SCO
@@ -2533,7 +2613,8 @@ mehmda,Mehmeti,Dardan,1989-06-19,ALB, ,ALB
 mehnma,Mehnert,Marcus,1997-10-28,NOR, ,NOR
 mehuhe,Mehus,Helge,1970-07-09,NOR, ,NOR
 meidja,Meidell,Jakob,1990-10-11,NOR, ,NOR
-meinbr,Meinseth,Børre,1965-11-24,NOR, ,NOR
+meinbr,Meinseth,Børre,1965-11-24,NOR,Ulsteinvik,NOR
+meinkn,Meiningen,Knut,1966-02-07,NOR, , 
 meirjo,Meira,João,1987-04-30,POR,Setúbal,POR
 meishe,Meister,Henrik,2003-11-17,DEN, ,DEN
 melbjo,Melbye,Johnny,1964-08-13,NOR, ,NOR
@@ -2542,6 +2623,7 @@ melgal,Melgalvis,Aleksander,1989-08-10,NOR,Hamar,NOR
 melhsi,Melhus,Simen,1990-06-01,NOR, ,NOR
 melibi,Meling,Birger,1994-12-17,NOR,Stavanger,NOR
 melkel,Melkersen,Elias,2002-12-31,NOR, ,NOR
+melkjh,Melkevik,Jon Hakon,0000-00-00,NOR, , 
 melkle,Melkadze,Levan,1979-12-12,GEO,Tbilisi,GEO
 mellbe,Melland,Bjørn Erik,1974-09-29,NOR,Sprova,NOR
 mellhe,Melland,Henrik,2005-03-29,NOR,Ålesund,NOR
@@ -2568,6 +2650,7 @@ michch,Michelsen,Christian,1976-03-14,NOR,Kristiansund,NOR
 michfe,Michel,Felix,1994-07-23,LEB,Södertälje,SWE
 michfr,Michalsen,Fredrik,1996-09-15,NOR,Tromsø,NOR
 michja,Michaelsen,Jan,1970-11-28,DEN,Nantes,FRA
+michlr,Michalsen,Lasse Roar,0000-00-00,NOR, , 
 michpe,Michael,Peter,1998-05-10,NGR, ,NGR
 michst,Michalsen,Stian,1997-03-28,NOR,Stavanger,NOR
 michth,Michelsen,Thomas,1970-09-27,NOR, ,NOR
@@ -2608,7 +2691,7 @@ mjoean,Mjøs,Andreas,2000-02-08,NOR, ,NOR
 mjsxke,Mjøs,Kjell Erik,1971-01-24,NOR, ,NOR
 mladst,Mladenović,Stefan,1994-04-03,NOR,Vukovar,CRO
 mlleni,Möller,Nikolaj,2002-07-20,SWE,Helsingborg,SWE
-mlleul,Møller,Ulrich,1962-12-11,NOR, ,NOR
+mlleul,Møller,Ulrich,1962-12-11,NOR,Molde,NOR
 mobeve,Moberg,Vegard,1991-01-23,NOR,Åsane,NOR
 mocksa,Mockenhaupt,Sascha,1991-09-10,GER,Kirchen,GER
 moelad,Møller,Adrian,1996-08-05,NOR, ,NOR
@@ -2644,6 +2727,7 @@ moldmo,Moldskred,Morten,1980-06-13,NOR,Ulsteinvik,NOR
 moldst,Molde,Stian,1996-12-19,NOR, ,NOR
 molebe,Molenaar,Beau,1985-03-10,NED,Alkmaar,NED
 moligu,Molins,Guillermo,1988-09-26,SWE,Montevideo,URU
+mollar,Møller,Arne,1960-04-06,NOR, , 
 mondar,Mondou,Archange,2004-12-26,CIV, ,CIV
 monkar,Monkam,Arnaud,1986-02-10,CMR, ,CMR
 monsha,Monsen,Håvard,1979-08-21,NOR, ,NOR
@@ -2743,6 +2827,7 @@ nemkto,Nemčík,Tomáš,2001-04-19,SVK,Žilina,SVK
 nenaer,Nenass, ,1995-07-05,CVE, ,CVE
 nerlol,Nerland,Olav,1998-02-15,NOR, ,NOR
 nesest,Neset,Stian,1974-04-14,NOR, ,NOR
+neshha,Nesheim,Harald,1964-12-03,NOR, , 
 neslja,Nesland,Jarl-Emil,2005-06-28,NOR, ,NOR
 nesshe,Nesse,Henning,1994-06-02,NOR,Haugesund,NOR
 nesst1,Ness,Thormod Edward,1972-11-27,NOR,Skånevik i Sunnhordland,NOR
@@ -2767,6 +2852,7 @@ niasou,Niasse,Oumar,1990-04-18,SEN,Ouakam,SEN
 nichkr,Nicht,Kristian,1982-04-03,GER,Jena,GER
 nichry,Nicholls,Ryan,1973-03-10,WAL, ,WAL
 nicofr,Nicolaisen,Frode,1970-01-13,NOR, ,NOR
+nicorh,Nicolaisen,Roger Halfdan,0000-00-00,NOR, , 
 nielda,Nielsen,David,1976-12-01,DEN,Sønderborg,DEN
 nielem,Nielsen,Emil,1993-11-08,DEN, ,DEN
 nielha,Nielsen,Håvard,1993-07-15,NOR,Oslo,NOR
@@ -2786,10 +2872,14 @@ nilsbj,Nilsen,Bjørn,1965-06-10,NOR, ,NOR
 nilsca,Nilsen,Cato,1970-12-27,NOR, ,NOR
 nilsdm,Nilsson,David Mitov,1991-01-12,MAC,Norrköping,SWE
 nilsh1,Nilsen,Henrik,1992-03-24,NOR, ,NOR
+nilsh2,Nilsen,Helge,0000-00-00,NOR, , 
+nilsha,Nilssen,Halvard,1966-08-09,NOR, , 
 nilshe,Nilsen,Herman,1999-04-30,NOR, ,NOR
 nilsjo,Nilsen,Joakim,1991-04-24,NOR,Bømlo,NOR
+nilsjv,Nilsen,Jan Viktor,1966-02-24,NOR, , 
 nilskj,Nilsen,Kjetil,1975-02-19,NOR,Oslo,NOR
 nilsky,Nilsen,Kyrre,1970-01-22,NOR, ,NOR
+nilsl1,Nilsen,Lars Arne,1964-04-06,NOR,Sotra,NOR
 nilsla,Nilsen,Lasse,1995-02-21,NOR,Bleik,NOR
 nilsma,Nilsson,Marcus,1988-02-26,SWE, ,SWE
 nilsoa,Nilsen,Ole Andreas,1976-03-15,NOR,Tromsø,NOR
@@ -2803,7 +2893,7 @@ nilsse,Nilsen-Modebe,Sean,2007-07-21,NOR, ,NOR
 nilssi,Nilsen,Sivert,1991-10-02,NOR,Volda,NOR
 nilssn,Nilsen,Snorre,1997-01-14,NOR,Gjøvik,NOR
 nilsst,Nilsen,Steinar,1972-05-01,NOR,Tromsø,NOR
-nilst1,Nilsen,Tore,1960-05-10,NOR, ,NOR
+nilst1,Nilsen,Tore,1960-05-10,NOR,Tromsø,NOR
 nilstc,Nilsen,Thor Christian,1970-03-30,NOR, ,NOR
 nilsti,Nilsen,Tim,1992-10-07,NOR,Bergen,NOR
 nilsto,Nilsen,Tommy,1976-05-28,NOR, ,NOR
@@ -2817,6 +2907,7 @@ njiemo,Njie,Moussa,1995-10-02,NOR,Oslo,NOR
 njiewa,Njie,Wally,2002-12-20,NOR, ,NOR
 nkeeco,N'Kee,Colin,1991-01-14,NOR, ,NOR
 nogvvi,Nogva,Vidar,1985-03-29,NOR,Alesund,NOR
+noklal,Nøkling,Alf,0000-00-00,NOR, , 
 nomejg,Nomerstad,Jan Geir,1966-04-05,NOR, ,NOR
 nometr,Nomerstad,Truls,1982-03-05,NOR, ,NOR
 noonpa,Noonan,Pat,1980-08-02,USA,Ballwin,USA
@@ -2829,6 +2920,7 @@ nordar,Nordfjaern,Arild,1965-11-25,NOR, ,NOR
 nordfr,Nordkvelle,Fredrik,1985-09-13,NOR,Porsgrunn,NOR
 nordha,Nordtveit,Håvard,1990-06-21,NOR,Vats,NOR
 nordhe,Nordnes,Henrik,1980-08-27,NOR,Oslo,NOR
+nordkn,Nordnes,Knut,1957-04-10,NOR, , 
 nordko,Nordmo,Kornelius,2005-01-12,NOR, ,NOR
 nordla,Nordås,Lasse,2002-02-10,NOR,Lillestrøm,NOR
 nordlj,Nordli,Leif Jostein,1966-10-23,NOR, ,NOR
@@ -2845,8 +2937,9 @@ nordtr,Nordseth,Trond,1974-01-05,NOR, ,NOR
 noregu,Norebø,Gunnar,1976-01-28,NOR, ,NOR
 norhjo,Norheim,John,1995-04-05,NOR, ,NOR
 norhru,Norheim,Runar,2005-02-14,NOR, ,NOR
+norhst,Norheim,Stig,1966-01-15,NOR, , 
 norlkj,Norland,Kjetil,1978-04-20,NOR, ,NOR
-normim,Normark,Ivar Morten,1963-05-27,NOR, ,NOR
+normim,Normark,Ivar Morten,1963-05-27,NOR,Narvik,NOR
 normma,Normann,Mathias,1996-05-28,NOR,Svolvær,NOR
 normru,Normann,Runar,1978-03-01,NOR,Harstad,NOR
 nornjf,Nornes,Jan Frode,1973-01-08,NOR,Tønsberg,NOR
@@ -2876,9 +2969,10 @@ nyhatr,Nyhammer,Troy,2006-08-19,NOR, ,NOR
 nyhegu,Nyheim,Gustav,2006-02-13,NOR, ,NOR
 nylaoe,Nyland,Ørjan,1990-09-10,NOR,Volda,NOR
 nyluma,Nylund,Mattias,1980-09-23,SWE,Sundsvall,SWE
+nyluol,Nylund,Olav,1964-02-06,NOR, , 
 nypasv,Nypan,Sverre,2006-12-19,NOR, ,NOR
 nyrend,Demba-Nyren,Njogu,1979-06-26,GAM,Bacau,GAM
-nysake,Nysæther,Kenneth,1970-02-17,NOR, ,NOR
+nysake,Nysæther,Kenneth,1970-02-17,NOR,Drammen,NOR
 nystes,Nystuen,Espen,1981-12-19,NOR,Kongsvinger,NOR
 nystst,Nystrøm,Steffen,1984-07-01,NOR,Vadsø,NOR
 obasch,Obasi,Chinedu,1986-06-01,NGR,Enugu,NGR
@@ -2936,6 +3030,7 @@ olafdk,Ólafsson,Davíð Kristján,1995-05-15,ISL,Kópavogur,ISL
 olafsi,Olafsen,Simen,1996-05-26,NOR, ,NOR
 olanaa,Olanare,Aaron,1994-06-04,NGR,Port Harcourt,NGR
 olanjo,Oland,Jørgen,1997-03-25,NOR,Drammen,NOR
+olaves,Olavsen,Espen,1965-01-27,NOR, , 
 oldese,Olderheim,Sebastian,2007-07-08,NOR, ,NOR
 oldest,Oldeide,Ståle,1966-12-25,NOR, ,NOR
 olesal,Olesen,Allan,1982-05-20,DEN,København,DEN
@@ -2950,6 +3045,7 @@ olseb1,Olsen,Bård Erik,1973-01-25,NOR, ,NOR
 olseb2,Olsen,Benny,1974-03-09,NOR, ,NOR
 olsebe,Olsen,Benny,1976-02-18,NOR,Molde,NOR
 olsebh,Olsen,Bjørn Helge,1965-04-10,NOR, ,NOR
+olsebm,Olsen,Bjørn Martin,1962-04-18,NOR, , 
 olseda,Olsen,Dag Alexander,1989-09-09,NOR,Oslo,NOR
 olsees,Olsen,Espen,1979-03-13,NOR,Oslo,NOR
 olsefr,Olsen,Frode,1967-10-12,NOR,Stavanger,NOR
@@ -2958,7 +3054,9 @@ olsehe,Olset,Henrik,2004-03-16,NOR, ,NOR
 olseia,Olsen,Inge André,1978-01-21,NOR,Arendal,NOR
 olsejp,Olsen,Jan Petter,1965-02-19,NOR, ,NOR
 olsekb,Olsen,Ken Bjørntvedt,1967-10-01,NOR, ,NOR
+olseke,Olsen,Kjetil Emil,1968-08-02,NOR, , 
 olsekj,Olsen,Kjell,1969-01-10,NOR, ,NOR
+olsel1,Olsen,Lasse,0000-00-00,NOR, , 
 olsela,Olsen,Lasse,1973-11-18,NOR,Oslo,NOR
 olsele,Olsen,Leo,1981-09-25,NOR, ,COL
 olsem1,Olsen,Magnus,1983-07-02,NOR,Kongsberg,NOR
@@ -2998,6 +3096,7 @@ ophetm,Opheim,Tor Magne,1979-02-11,NOR, ,NOR
 opsahR,Opsahl,Halvor Rødølen,2002-10-08,NOR,Lillehammer,NOR
 opsaos,Opsahl,Oskar,2001-08-25,NOR, ,NOR
 opsasa,Opsahl,Sakarias,1999-07-17,NOR, ,NOR
+opseer,Opseth,Erik,0000-00-00,NOR, , 
 opsekr,Opseth,Kristian,1990-01-06,NOR,Kaupanger,NOR
 opsela,Opseth,Lasse,1956-01-27,NOR, ,NOR
 ordaam,Ordagić,Amer,1993-05-05,BOS,Tuzla,BOS
@@ -3012,6 +3111,7 @@ orvasa,Þorvaldsson,Ísak,2001-05-01,ISL, ,ISL
 osmaam,Osmanagić,Amer,1989-05-07,BOS,Janja,BOS
 osmucp,Osmundsen,Christian Per,1975-03-12,NOR, ,NOR
 osnewi,Osnes-Ringen,William,2006-11-13,NOR, ,NOR
+ostest,Østerud,Stig,1966-08-03,NOR, , 
 osvojo,Osvold,Joakim,1994-09-23,NOR,Lørenskog,NOR
 osvokj,Osvold,Kjetil,1961-06-05,NOR, ,NOR
 otooma,Otoo,Mahatma,1992-02-06,GHA,Accra,GHA
@@ -3024,12 +3124,14 @@ otusol,Otusanya,Oluwasegun,2004-06-27,NGR, ,NGR
 ousemo,Ouseb,Mohammed,1974-07-17,NAM,Tsumeb,NAM
 ousssi,Oussou,Sidouine,1992-11-14,BEN,Cotonou,BEN
 ovenma,Ovenstad,Martin,1994-04-18,NOR,Drammen,NOR
+ovesto,Ovesen,Tom,1967-09-11,NOR, , 
 oviaos,Oviasu,Osei,1990-09-02,NOR, ,GHA
 owelso,Owello,Solomon,1988-12-25,NGR, ,NGR
 owolga,Owolabi,Ganiyu,1973-05-10,NGR, ,NGR
 owused,Owusu,Edmund,2004-09-27,NOR, ,NOR
 owusle,Owusu,Leonard,1997-06-03,GHA,Accra,GHA
 owussa,Owusu,Salomon,1995-10-28,GHA,Accra,GHA
+oyenoe,Øyen,Ola Einar,0000-00-00,NOR, , 
 pachle,Pachajyan,Levon,1983-09-23,ARM,Yerevan,ARM
 pachto,Pachonik,Tobias,1995-01-04,GER,Marktoberdorf,GER
 painya,Paintsil,Yaw,1999-08-19,NOR, ,NOR
@@ -3075,11 +3177,12 @@ pedemg,Pedersen,Morten Gamst,1981-09-08,NOR,Vadsø,NOR
 pedemo,Pedersen,Morten,1972-04-12,NOR,Tromsø,NOR
 pedepa,Pedersen,Patrick,1991-11-25,DEN, ,DEN
 peder1,Pedersen,Robert,1966-08-12,NOR, ,NOR
+peder2,Pedersen,Roar,1964-03-19,NOR, , 
 pederc,Pedersen,Roar Charles,1961-04-26,NOR, ,NOR
 pedero,Pedersen,Ronny,1971-08-04,NOR, ,NOR
 pedese,Pedersen,Sebastian,1999-06-08,NOR,Elverum,NOR
 pedest,Pedersen,Steinar,1975-06-06,NOR,Kristiansand,NOR
-pedet1,Pedersen,Tore,1969-09-29,NOR, ,NOR
+pedet1,Pedersen,Tore,1969-09-29,NOR,Fredrikstad,NOR
 pedet2,Pedersen,Tor Herold,1964-02-14,NOR, ,NOR
 pedet3,Pedersen,Thore,1996-08-11,NOR, ,NOR
 pedetb,Pedersen,Thore Baardsen,1996-08-11,NOR, ,NOR
@@ -3103,6 +3206,7 @@ persjo,Persson,Joakim,1975-04-03,SWE,Helsingborg,SWE
 petech,Petersen,Christian,1978-05-25,NOR,Ski,NOR
 peteol,Petersen,Oliver,2001-09-26,NOR, ,NOR
 peterm,Petersen,Rasmus Minor,1988-09-13,DEN,Svendborg,DEN
+pettbe,Pettersen,Bjørn Eldar,0000-00-00,NOR, , 
 petteS,Pettersen,Edvard Sundbø,2006-07-07,NOR, ,NOR
 petteb,Pettersen,Espen Bugge,1980-05-10,NOR,Tønsberg,NOR
 pettis,Pettersson,Isak,1997-06-06,SWE,Laholm,SWE
@@ -3110,6 +3214,7 @@ pettjo,Pettersen,Jørgen,1981-12-24,NOR, ,NOR
 pettma,Pettersen,Markus,1999-02-12,NOR,Askøy,NOR
 pettmr,Pettersen,Morten Ørum,1970-02-25,NOR, ,NOR
 pettpc,Pettersen,Per Christian,1972-02-17,NOR, ,NOR
+pettru,Pettersen,Rune,0000-00-00,NOR, , 
 pettsa,Pettersen,Sander,1997-11-22,NOR, ,NOR
 pettse,Pettersen,Svein Erik,1966-06-26,NOR, ,NOR
 pettst,Pettersen,Storm,2006-04-11,NOR, ,NOR
@@ -3124,6 +3229,7 @@ piirra,Piiroja,Raio,1979-07-11,EST,Pärnu,EST
 pimpra,Pimpong,Razak,1982-12-30,GHA, ,GHA
 pinher,Pinheiro,Erin,1997-07-15,CVE,São Vicente,CVE
 piriju,Pirinen,Juha,1991-10-22,FIN,Valkeakoski,FIN
+piriti,Pirilä,Timo,1967-04-17,FIN, , 
 plakse,Plaku,Sebino,1985-05-20,ALB,Pukë,ALB
 podsto,Podstawski,Tomás,1995-01-30,POR,Porto,POR
 pogose,Pogoriliy,Sergiy,1986-07-28,UKR, ,UKR
@@ -3203,16 +3309,18 @@ reitcl,Reitmaier,Claus,1964-03-17,GER,Würzburg,GER
 reiter,Reitan,Erlend,1997-09-11,NOR, ,NOR
 reitje,Reitan-Sunde,Jesper,2006-01-31,NOR, ,NOR
 rekdkj,Rekdal,Kjetil,1968-11-06,NOR,Molde,NOR
-rekdsi,Rekdal,Sindre,1970-07-16,NOR, ,NOR
+rekdsi,Rekdal,Sindre,1970-07-16,NOR,Molde,NOR
 rekdth,Rekdal,Thomas,2001-03-16,NOR,Wetteren,BEL
 rekdyn,Rekdal,Yngve,1973-05-31,NOR, ,NOR
 remmch,Remmer,Christoffer,1993-01-16,DEN,Hvidovre,DEN
 remmla,Remmem,Lars,2006-02-18,NOR, ,NOR
+rennfi,Renna,Finn,1964-12-20,NOR, , 
 rexhlu,Rexhepi,Lum,1992-08-03,KOS,Turku,FIN
 rhodhe,Rhoden,Hermann,1993-04-22,NOR, ,NOR
 ricari,Ricardo, ,1993-02-18,BRA,Candelaria,BRA
 richda,Richards,Dane,1983-12-14,JAM,Montego Bay,JAM
 richpa,Richardsen,Paul,1961-08-29,NOR, ,NOR
+richru,Richardsen,Rune,1962-09-21,NOR,Lillestrøm,NOR
 rickto,Ricketts,Tosaint,1987-08-06,CAN,Edmonton,CAN
 riddjo,Riddez,Joel,1980-05-21,SWE,Stockholm,SWE
 riihak,Riihilahti,Aki,1976-09-09,FIN,Helsinki,FIN
@@ -3240,7 +3348,7 @@ rinnro,Rinnan,Roy Ove,1975-10-01,NOR, ,NOR
 risabi,Risa,Birk,1998-02-13,NOR,Stavanger,NOR
 risasv,Risa,Sveinung,1981-01-14,NOR, ,NOR
 riseja,Rise,John Anders,1988-03-24,NOR,Hamar,NOR
-riseob,Rise,Ola By,1960-11-14,NOR, ,NOR
+riseob,Rise,Ola By,1960-11-14,NOR,Trondheim,NOR
 risevi,Riseth,Vidar,1972-04-21,NOR,Frosta,NOR
 rishjo,Rishovd,Joachim,1994-04-20,NOR,Noresund,NOR
 rishka,Risholt,Kai,1979-04-10,NOR,Arendal,NOR
@@ -3248,7 +3356,7 @@ rishro,Risholt,Roger,1979-04-10,NOR,Arendal,NOR
 riskri,Riski,Riku,1989-08-16,FIN,Askainen,FIN
 riskro,Riski,Roope,1991-08-16,FIN,Askainen,FIN
 rismch,Rismark,Christian,1991-08-01,NOR,Trondheim,NOR
-rismto,Rismo,Tore,1961-01-29,NOR, ,NOR
+rismto,Rismo,Tore,1961-01-29,NOR,Sørreisa,NOR
 rispfr,Risp,Fredrik,1980-12-15,SWE,Lysekil,SWE
 rissol,Risser,Oliver,1980-09-17,NAM,Windhoek,NAM
 ritzpa,Øritzland,Per Andre,1971-01-06,NOR, ,NOR
@@ -3297,6 +3405,7 @@ rogusz,Roguski,Szymon,2007-12-15,NOR, ,NOR
 rojabr,Rojas,Brayan,1997-11-30,CRC,Naranjo,CRC
 rolada,Roland,Dan,1992-08-01,NOR, ,NOR
 rolagi,Rólantsson,Gilli,1992-08-11,FER,Tvøroyri,FER
+rolato,Rolandsen,Torfinn,0000-00-00,NOR, , 
 romano,Roman,Normann,1999-05-27,NOR, ,NOR
 romsja,Romsaas,Jakob,2004-05-16,NOR, ,NOR
 rosehe,Rosenvold,Helge,1993-07-29,NOR, ,NOR
@@ -3315,24 +3424,28 @@ rssial,Røssing-Lelesiit,Alexander,2007-01-20,NOR, ,NOR
 rstehk,Røsten,Håkon,2005-02-21,NOR, ,NOR
 rtunas,Årtun,Asle, ,NOR, ,NOR
 rubidi,Rubio,Diego,1993-05-15,CHI,Santiago de Chile,CHI
+rudgda,Rudge,Dale,1963-09-09,ENG, , 
 rudier,Rudi,Erik,1975-01-07,NOR, ,NOR
 rudipe,Rudi,Petter,1973-09-17,NOR,Kristiansund,NOR
 rudojo,Rudolfsen,Joakim,1988-08-25,NOR,Mo I Rana,NOR
 ruforu,Rufo, ,1993-01-13,SPA,Barcelona,SPA
 rugtto,Rugtvedt,Torgeir,1972-09-19,NOR, ,NOR
 runato,Runar,Tommy,1982-04-25,NOR,Grimstad,NOR
+rundom,Rundtom,Ole Martin,0000-00-00,NOR, , 
 runsbj,Runström,Björn,1984-03-01,SWE,Stockholm,SWE
 rushsi,Rushfeldt,Sigurd,1972-12-11,NOR,Vadsø,NOR
 rusima,Rusike,Matthew,1990-06-28,ZIM,Harare,ZIM
 russro,Russell,Robbie,1979-07-16,USA,Amherst,USA
+rustla,Rustad,Lars André,0000-00-00,NOR, , 
 rustpa,Rustadstuen,Pal,1982-10-01,NOR,Lillehammer,NOR
 rutlkr,Rutlin,Kristian,1999-06-14,NOR,Sogndal,NOR
 ruudes,Ruud,Espen,1984-02-26,NOR,Porsgrunn,NOR
 ryenka,Ryen,Kai,1978-09-10,NOR,Tynset,NOR
+ryenkj,Ryen,Kjetil,0000-00-00,NOR, , 
 ryenle,Ryen,Lars Erik,1979-02-23,NOR, ,NOR
 ryerju,Ryerson,Julian,1997-11-17,NOR,Lyngdal,NOR
 ryggjo,Rygg,Jonas,1987-11-25,NOR,Oslo,NOR
-ryggpa,Rygge,Per Arne, ,NOR, ,NOR
+ryggpa,Rygge,Per Arne,0000-00-00,NOR, ,NOR
 ryghma,Ryghseter,Mads,1991-08-17,NOR, ,NOR
 rylakr,Ryland,Kristoffer,1995-12-05,NOR,Florø,NOR
 rysige,Røysi,Geir-Erik,1982-10-12,NOR, ,NOR
@@ -3350,6 +3463,7 @@ saetme,Sæthre,Marius Enger,1996-02-19,NOR, ,NOR
 saetmo,Sætra,Morten,1997-06-18,NOR,Drammen,NOR
 saetse,Sætre,Sven Erik,1968-05-03,NOR, ,NOR
 saetst,Sæthre,Ståle,1993-04-02,NOR,Bergen,NOR
+saette,Saetre,Terje,1952-08-30,NOR, , 
 saetth,Sæther,Thomas Husby,1984-09-25,NOR,Oslo,NOR
 saetve,Sætre,Vegard,1996-01-16,NOR, ,NOR
 saevbi,Sævarsson,Birkir,1984-11-11,ISL,Reykjavík,ISL
@@ -3361,6 +3475,7 @@ sahlma,Sahlman,Marcus,1985-01-02,SWE,Umeå,SWE
 sahros,Sahraoui,Osame,2001-06-11,NOR, ,NOR
 sahsno,Sahsah,Noah,2005-07-08,DEN,København,DEN
 saidke,Saidi,Kerim, ,TUN, ,TUN
+saidmo,Saidi,Monir,0000-00-00,NOR, , 
 sakaha,Sakariassen,Håvard,1976-08-28,NOR,Bodø,NOR
 sakova,Sakor,Vajebah,1996-04-14,NOR,Monrovia,LBR
 salcfe,Salčinović,Fenan,1987-06-26,BOS,Zenica,BOS
@@ -3380,6 +3495,7 @@ samujo,Samuelsen,Jone,1984-07-06,NOR,Sunde,NOR
 samum1,Samuelsson,Magnus,1972-04-15,SWE, ,SWE
 samuma,Samuelsen,Martin,1997-04-17,NOR,Haugesund,NOR
 samusv,Samuelsson,Svante,1972-09-04,SWE,Kungälv,SWE
+sanda1,Sandvoll,Arild,0000-00-00,NOR, , 
 sandar,Sandstø,Arne,1966-10-21,NOR,Bergen,NOR
 sandbe,Sandaker,Bengt,1971-04-23,NOR, ,NOR
 sandbr,Sandmoen,Brede,2000-01-31,NOR, ,NOR
@@ -3416,6 +3532,7 @@ santri,Santos,Ricardo,1987-02-13,BRA,Volta Redonda,BRA
 sanxya,Sané,Yaya,1989-08-04,SEN,Dakar,SEN
 sanyal,Sanyang,Alagie,1996-09-11,SWE, ,SWE
 sapama,Sapara,Marek,1982-07-31,SVK,Košice,SVK
+sarato,Sara,Tor,1964-08-05,NOR, , 
 sareba,Saré,Bakary,1990-04-05,BFS,Abidjan,CIV
 sarisa,Saric,Samir,1984-05-27,BOS,Blizanac,BOS
 sarrba,Sarr,Babacar,1991-02-15,SEN,Dakar,SEN
@@ -3427,7 +3544,7 @@ sbxxth,Sæbø,Thomas,1976-06-16,NOR, ,NOR
 sbyest,Søbye,Stale,1971-06-30,NOR, ,NOR
 schapa,Scharner,Paul,1980-03-11,AUT,Scheibbs,AUT
 scheis,Scheel,Isak,1990-06-19,NOR, ,NOR
-schide,Schiller,Dennis,1965-05-18,SWE, ,SWE
+schide,Schiller,Dennis,1965-05-18,SWE,Göteborg,SWE
 schiph,Schie,Philip,2004-02-01,NOR, ,NOR
 schise,Schindzielorz,Sebastian,1979-01-21,GER,Krapkowice,POL
 schjdy,Schjerve,Dyre,1990-01-10,NOR, ,NOR
@@ -3449,7 +3566,7 @@ segepo,Segerström,Pontus,1981-02-17,SWE,Stockholm,SWE
 seimma,Seim-Monsen,Markus,2007-01-09,NOR,Bjørnegård,NOR
 sekkma,Sekkingstad,Matias,2007-11-07,NOR, ,NOR
 sekoyo,Sekour,Youssef,1988-02-27,MAR,Istres,FRA
-selaar,Seland,Arve,1963-12-12,NOR, ,NOR
+selaar,Seland,Arve,1963-12-12,NOR,Arendal,NOR
 selide,Selimović,Denis,1979-06-22,SLO, ,SLO
 sellad,Sellami,Adam,1994-09-22,NOR, ,NOR
 sellkj,Sellin,Kjell,1989-06-01,NOR,Namsos,NOR
@@ -3486,6 +3603,7 @@ siguha,Sigurðsson,Hannes,1983-04-10,ISL,Reykjavík,ISL
 siguhe,Sigurðsson,Helgi,1974-09-17,ISL,Reykjavík,ISL
 siguin,Sigurðsson,Indriði,1981-10-12,ISL,Reykjavík,ISL
 siguiv,Sigurdsen,Ivar,1970-02-18,NOR, ,NOR
+sigukj,Sigurdsen,Kjetil,1970-02-19,NOR, , 
 sigukr,Sigurðsson,Kristján,1980-10-07,ISL,Akureyri,ISL
 sigula,Sigurdsen,Lasse,1997-06-01,NOR, ,NOR
 siguol,Sigurjónsson,Oliver,1995-03-03,ISL, ,ISL
@@ -3537,7 +3655,8 @@ skambe,Skammelsrud,Bent,1966-05-18,NOR,Rakkestad,NOR
 skanjm,Skanke,Jan Magne,1977-01-31,NOR, ,NOR
 skarbr,Skaret,Brage,2002-04-28,NOR, ,NOR
 skarda,Skare,Daniel,2003-09-30,NOR, ,NOR
-skarfv,Skardal,Frank Vage,1970-07-30,NOR, ,NOR
+skarfv,Skardal,Frank Vage,1970-07-30,NOR,Lyngdal,NOR
+skarje,Skartun,Jermund,0000-00-00,NOR, , 
 skarob,Skar,Ola Bagge,1979-08-15,NOR, ,NOR
 skarod,Skartun,Oddbjørn,1989-01-28,NOR,Sogndal,NOR
 skarol,Skarsem,Olaus,1998-07-02,NOR, ,NOR
@@ -3661,6 +3780,7 @@ solbol,Solbakken,Ola,1998-09-07,NOR,Melhus,NOR
 solbsa,Solberg,Sander,1972-05-12,NOR,Fredrikstad,NOR
 solbst,Solbakken,Ståle,1968-02-27,NOR, ,NOR
 solbth,Solberg,Thomas,1970-01-25,NOR,Oslo,NOR
+solege,Soleim,Geir,1964-01-01,NOR, , 
 solej1,Solem,Joakim,1991-03-15,NOR, ,NOR
 solejo,Solem,Joachim,2000-06-13,NOR, ,NOR
 solema,Solevåg,Magnus,1992-05-11,NOR, ,NOR
@@ -3677,7 +3797,7 @@ sollal,Solli,Aleksander,1990-03-16,NOR,Førde,NOR
 solljg,Solli,Jan Gunnar,1981-04-19,NOR,Arendal,NOR
 sollpr,Solli,Petter Rikard,1966-04-22,NOR, ,NOR
 sollsi,Solli,Sivert,1997-07-25,NOR,Brekstad,NOR
-solltr,Sollied,Trond,1959-04-29,NOR, ,NOR
+solltr,Sollied,Trond,1959-04-29,NOR,Mo i Rana,NOR
 solnem,Solnørdal,Emil,1999-10-02,NOR,Ålesund,NOR
 solnos,Solnørdal,Oscar,2002-10-23,NOR, ,NOR
 solref,Solér,Erik Francisco,1960-08-06,NOR, ,NOR
@@ -3690,6 +3810,10 @@ soltte,Soltvedt,Trond Egil,1967-02-15,NOR, ,NOR
 solvth,Solvoll,Thomas,1980-11-22,NOR,Krokstadelva,NOR
 somara,Soma,Ragnvald,1979-11-10,NOR,Kvernaland,NOR
 songfr,Songo,Francis,1968-10-12,MLW, ,MLW
+soraes,Søraa,Espen,0000-00-00,NOR, , 
+sorema,Sørensen,Mads,0000-00-00,NOR, , 
+sorhja,Sørhaug,Jacob,1970-11-19,NOR, , 
+sorlot,Sørlie,Ottar,0000-00-00,NOR, , 
 sortst,Sortevik,Stian,1988-07-17,NOR,Oslo,NOR
 sossal,Sosseh,Alagie,1986-07-21,GAM,Stockholm,SWE
 sototn,Soto,Tom Nilsen,1970-06-22,NOR, ,NOR
@@ -3707,7 +3831,7 @@ srenad,Sørensen,Adam,2000-11-11,DEN,Herlev,DEN
 srenol,Sørensen,Oliver,2002-03-10,DEN,Nørre Aaby,DEN
 srligi,Sørlie,Gisle,1970-11-04,NOR, ,NOR
 srlihe,Sørlie,Henri,2007-04-04,NOR, ,NOR
-srlogr,Sørloth,Gøran,1962-07-16,NOR, ,NOR
+srlogr,Sørloth,Gøran,1962-07-16,NOR,Kristiansund,NOR
 srumru,Sørum,Rune, ,NOR, ,NOR
 ssewis,Ssewankambo,Isak,1996-02-27,SWE,Angered,SWE
 stabto,Stabell,Tomas,2002-01-30,NOR, ,NOR
@@ -3731,6 +3855,7 @@ stawla,Staw,Lasse,1988-01-01,NOR,Skiptvedt,NOR
 stbaro,Støbakk,Ronny,1973-03-11,NOR, ,NOR
 stbysi,Østby,Simon,2005-02-10,NOR, ,NOR
 stedha,Stedje,Harald,1970-01-23,NOR, ,NOR
+steeag,Steen,Åge,1960-02-11,NOR, , 
 steebo,Steenslid,Børre,1985-06-25,NOR,Deknepollen,NOR
 steech,Steen,Christian,1977-07-02,NOR,Trondheim,NOR
 steeei,Steen,Eirik,1993-10-03,NOR,Bergen,NOR
@@ -3789,13 +3914,14 @@ storh2,Storskogen,Halvor,1961-04-23,NOR, ,NOR
 storha,Storbæk,Håvard,1986-05-25,NOR,Elverum,NOR
 storj1,Storbæk,Jarl André,1978-09-21,NOR,Elverum,NOR
 storja,Storevik,Jacob,1996-07-29,NOR, ,NOR
+storje,Storvik,Jan Erik,1964-10-06,NOR, , 
 storke,Storvik,Kenneth,1972-02-27,NOR,Bergen,NOR
 storoe,Storflor,Øyvind,1979-12-18,NOR,Trondheim,NOR
 storol,Storberg,Ola,1973-04-25,NOR, ,NOR
 storve,Storsve,Vegard,2002-01-25,NOR, ,NOR
 straan,Strand,Andreas,1978-06-10,NOR, ,NOR
 straba,Straalman,Bart,1996-08-22,NED,Winterswijk,NED
-strafr,Strandli,Frank,1972-05-16,NOR, ,NOR
+strafr,Strandli,Frank,1972-05-16,NOR,Kristiansand,NOR
 strak1,Strandhagen,Kristian,1989-07-26,NOR, ,NOR
 strakr,Strande,Kristian,1997-10-03,NOR,Molde,NOR
 stral1,Strand,Lasse,1974-04-03,NOR,Trondheim,NOR
@@ -3817,6 +3943,7 @@ strofr,Strømstad,Fredrik,1982-01-20,NOR,Kristiansand,NOR
 strool,Strømsborg,Ole,1993-08-22,NOR,Fredrikstad,NOR
 strost,Strømnes,Steinar,1987-03-19,NOR,Gjøvik,NOR
 strove,Strøm,Vegard,1972-08-30,NOR, ,NOR
+stryhe,Strypet,Helge,1961-01-18,NOR, , 
 stubla,Stubhaug,Lars,1990-04-18,NOR,Haugesund,NOR
 stubpa,Stubsveen,Pål Anders,1981-05-08,NOR, ,NOR
 sturma,Sturød,Magne,1979-10-19,NOR,Elverum,NOR
@@ -3872,6 +3999,7 @@ svrear,Sværen,Arild,1968-07-04,NOR, ,NOR
 swalke,Swaleh,Kent,2003-03-29,NOR, ,NOR
 swifpe,Swift,Per Egil,1972-01-22,NOR, ,NOR
 syllya,Sylla,Yacouba,1990-11-29,MLI,Étampes,FRA
+syltan,Sylte,Andre,0000-00-00,NOR, , 
 syltto,Sylte,Tommy,1971-10-27,NOR, ,NOR
 syveul,Syversen,Ulrik,2003-03-22,NOR, ,NOR
 szekta,Szekeres,Tamás,1972-09-18,HUN,Budapest,HUN
@@ -3890,7 +4018,7 @@ tanama,Tanasic,Marko,1964-12-02,BDI, ,BDI
 tangen,Tangen,Endre,1969-08-17,NOR, ,NOR
 tangha,Tangen,Harald,2001-01-03,NOR,Stavanger,NOR
 tangki,Tangedal,Kim,1983-12-04,NOR, ,NOR
-tangru,Tangen,Rune,1964-12-16,NOR, ,NOR
+tangru,Tangen,Rune,1964-12-16,NOR,Moss,NOR
 tangsa,Tangvik,Sander,2002-11-29,NOR, ,NOR
 tanuch,Tanum,Christian,1986-11-09,NOR, ,NOR
 taoxho,Tao,Hongliang,1997-02-17,CHN,Ningyang,CHN
@@ -3959,6 +4087,7 @@ thorst,Þorsteinsson,Steinþór,1985-07-29,ISL,Kópavogur,ISL
 thraar,Þrándarson,Aron,1994-11-10,ISL,Reykjavik,ISL
 thulkj,Thulin,Kjetil,1977-08-30,NOR, ,NOR
 thulsa,Thulin,Sander,1999-06-16,NOR, ,NOR
+thunst,Thunberg,Stein,1954-05-12,NOR,Notodden,NOR
 thuxka,Thu,Kjell André,1984-07-08,NOR, ,NOR
 thwami,Thwaite,Michael,1983-05-02,AUS,Brisbane,AUS
 tibbsi,Tibbling,Simon,1994-09-07,SWE,Stockholm,SWE
@@ -3994,6 +4123,7 @@ tolljo,Tollås,Jonatan,1990-07-01,NOR,Ålesund,NOR
 tollma,Tollefsen,Marius,2000-03-31,NOR,Tromsø,NOR
 tomadi,Tomas,Diogo,1997-07-31,FIN,Oulu,FIN
 tomimi,Tomič,Michal,1999-03-30,SVK,Myjava,SVK
+tomtoi,Tomteberget,Øivind,1953-08-04,NOR,Kongsvinger,NOR
 tomufi,Tomulevski,Finn-Georg,1975-01-24,NOR, ,NOR
 tongap,Tongnoy,Apipon,2002-04-07,NOR, ,NOR
 toppma,Toppel,Mads,1982-01-30,DEN,Odense,DEN
@@ -4048,7 +4178,7 @@ tufeda,Tufekcic,David,2004-01-22,NOR, ,NOR
 tuomja,Tuominen,Jasse,1995-11-12,FIN,Lahti,FIN
 tuomma,Tuomela,Marko,1972-03-03,FIN,Järfalla,SWE
 tvedhk,Tvedte,Hans Kristian,1965-06-23,NOR, ,NOR
-tveiak,Tveit,Alf Kåre,1967-04-26,NOR, ,NOR
+tveiak,Tveit,Alf Kåre,1967-04-26,NOR,Farsund,NOR
 tveian,Tveiten,Andreas,2005-05-19,NOR, ,NOR
 tveich,Tveit,Christian,1992-01-10,NOR, ,NOR
 tveija,Tveit,Jakob,2005-06-17,NOR, ,NOR
@@ -4074,7 +4204,9 @@ ullama,Ulla,Marius,2002-06-10,NOR, ,NOR
 ulvedp,Ulvestad,Dan Peter,1989-04-04,NOR,Ålesund,NOR
 ulvefr,Ulvestad,Fredrik,1992-06-17,NOR,Ålesund,NOR
 ulvepe,Ulvestad,Pål Erik,1990-09-08,NOR,Ålesund,NOR
+undher,Undheim,Erling,1967-03-17,NOR, , 
 undhga,Undheim,Geir Atle,1973-12-28,NOR, ,NOR
+undhge,Undheim,Georg,1969-04-20,NOR, , 
 undhto,Undheim,Tom,1995-09-11,NOR, ,NOR
 unglja,Ungland,Jakob,2002-05-14,NOR, ,NOR
 urbajo,Urbančič,Jošt,2001-04-12,SLO,Ljubljana,SLO
@@ -4086,6 +4218,7 @@ utaxle,Žuta,Leonard,1992-08-09,MAC,Göteborg,SWE
 utkile,Utkilen,Leo,2005-04-02,NOR, ,NOR
 utvibj,Utvik,Bjørn,1996-02-28,NOR,Avaldsnes,NOR
 uzociz,Uzochukwu,Izunna,1990-04-11,NGR, ,NGR
+vaadjo,Vaadal,Joar,1960-08-02,NOR,Steinkjer,NOR
 vaagyv,Vaage,Yves,2004-02-20,NOR, ,NOR
 vaalro,Vaaler,Roger,1971-01-23,NOR, ,NOR
 vadsmi,Vadseth,Michael,1974-03-14,NOR, ,NOR
@@ -4130,6 +4263,7 @@ vendmi,Vendelbo,Mikkel,1987-08-15,DEN, ,DEN
 verbsi,Øverby,Sivert,1999-06-10,NOR, ,NOR
 verbth,Øverby,Thomas,1976-04-28,NOR, ,NOR
 versba,Øverseth,Bjørn Amund,1975-10-02,NOR, ,NOR
+vestah,Vestreng,Arne Henrik,0000-00-00,NOR, , 
 vestni,Vesterlund,Niklas,1999-06-06,DEN,København,DEN
 vetlhu,Vetlesen,Hugo,2000-02-29,NOR,Waterloo,BEL
 vettga,Vetti,Gaute,1998-09-02,NOR,Bergen,NOR
@@ -4189,6 +4323,7 @@ walmsi,Walmann,Simen,1990-04-22,NOR, ,NOR
 walsni,Walstad,Nikolas,1997-02-14,NOR, ,NOR
 walsov,Walseth,Ole Viggo,1957-07-27,NOR, ,NOR
 waltbr,Waltrip,Brian,1978-01-12,USA,Pensacola,USA
+wangpb,Wangberg,Pål Børre,0000-00-00,NOR, , 
 wangsi,Wangberg,Simen,1991-05-06,NOR,Trondheim,NOR
 warmma,Warming,Magnus,2000-06-08,DEN,Nykøbing Falster,DEN
 wassda,Wass,Daniel,1989-05-31,DEN,Gladsaxe,DEN
@@ -4220,6 +4355,7 @@ westqu,Westberg,Quentin,1986-04-25,USA,Suresnes,FRA
 westr1,Westad,Rhonny,1972-02-12,NOR, ,NOR
 westrh,Weston,Rhys,1980-10-27,WAL,Kingston upon Thames,ENG
 westsi,Westerlund,Sivert,1999-06-12,NOR,Skedsmokorset,NOR
+westti,Westerlund,Tor Inge,1963-02-04,NOR, , 
 whitge,White,George,1993-01-13,NGR,Irebsisi,NGR
 whlemE,Wæhler,Markus Edner,2007-09-19,NOR, ,NOR
 wicham,Wichne,Amund,1997-05-12,NOR,Mandal,NOR
@@ -4233,7 +4369,9 @@ wiigma,Wiig,Martin,1983-08-22,NOR,Bodø,NOR
 wikeru,Wiken,Rune,1980-10-29,NOR,Haugesund,NOR
 wikhgu,Wikheim,Gustav,1993-03-18,NOR,Drammen,NOR
 wilbaa,Wilbraham,Aaron,1979-10-21,ENG,Knutsford,ENG
+wilbfr,Wilborn,Frithjof,1961-11-12,NOR, , 
 wilhch,Wilhelmsson,Christian,1979-12-08,SWE,Malmö,SWE
+wilktr,Wilkinson,Trevor,0000-00-00,ENG, , 
 willbr,Willumsson,Brynjólfur,2000-08-12,ISL, ,ISL
 willer,Willke,Erik,2006-10-06,NOR, ,NOR
 willjo,Williams,John,1961-10-03,ENG, ,ENG

@@ -1,4 +1,4 @@
-4217
+4384
 aaltmi,Aaltonen,Mika,1965-11-16,FIN,Turku,FIN
 ababya,Ababa,Yakov,1992-01-20,ISR,Hadera,ISR
 abadas,Abado,Assaf,1976-04-01,ISR, , 
@@ -78,7 +78,9 @@ adjesa,Adjei,Sammy,1980-09-01,GHA,Accra,GHA
 adlaro,Adlan,Ronen,1977-11-25,ISR, , 
 adleta,Adler,Tal,1998-01-02,ISR, , 
 admoid,Admon,Ido,1971-11-08,ISR, , 
+admotz,Admoni,Tzahal,1967-06-07,ISR, , 
 adoral,Adorno,Aldo,1982-04-08,PAR,Borja,PAR
+adzhgu,Adzhoev,Guram,1961-10-18,RUS,Tiflis,URS
 adzize,Adžić,Željko,1965-08-28,CRO,Pozega, 
 afekom,Afek,Omri,1979-03-31,ISR,Kiryat Ono,ISR
 affldu,Afflalo,Dudu,1992-01-02,ISR, , 
@@ -170,6 +172,7 @@ almoey,Almoshnino,Eyal,1976-04-10,ISR,Ashdod,ISR
 almogu,Almog,Guy,1979-09-22,ISR, , 
 alonda,Alon,David,1997-01-30,ISR, , 
 alonjo,Alonso,Jorge,1985-01-05,SPA,Salamanca,SPA
+alonni,Alon,Nir,1963-08-06,ISR, , 
 alonom,Alon,Omri,1983-08-29,ISR, , 
 alonto,Alon,Tomer,2003-09-24,ISR, , 
 aloumo,Aloush,Mohamad,1983-09-01,ISR, , 
@@ -177,6 +180,7 @@ alphmi,Alphonse,Mickaël,1989-07-12,GDL,Champigny-sur-Marne,FRA
 alshia,Abu Alshech,Ihab,2000-03-06,ISR, , 
 altear,Alter,Arie,1961-06-04,ISR,Herzliya,ISR
 altial,Altit, ,0000-00-00,ISR, , 
+altitz,Altit,Tzahi,1970-09-19,ISR, , 
 altmom,Altman,Omri,1994-03-23,ISR,Ramat Gan,ISR
 altmto,Altman,Tomer,1998-02-08,ISR, ,ISR
 altoam,Altoury,Amir,2003-09-02,ISR,Kfar Qasem,ISR
@@ -184,6 +188,7 @@ altoav,Alton,Avi,1963-07-15,ISR, ,
 altrdu,Altrovich,Dudu,1999-07-12,ISR, , 
 alufre,Alufer,Regev,2003-08-24,ISR, , 
 alusen,Alushi,Enis,1985-12-22,KOS, , 
+alusye,Alush,Yehuda,1968-08-09,ISR, , 
 aluxmo,Alu,Moshe,1964-12-03,ISR, , 
 alvacr,Álvarez,Cristián,1980-01-20,CHI,Curicó,CHI
 alvari,Alvarez,Richard,0000-00-00,URU, , 
@@ -277,6 +282,7 @@ araraa,Abu Arar,Amir,1985-04-23,ISR,Arara BaNegev,ISR
 arasja,Araszkiewicz,Jaroslaw,1965-02-01,POL,Duszniki,POL
 arbeei,Arbel,Eitan,1980-03-13,ISR, , 
 arbesh,Arbeitman,Shlomi,1985-05-14,ISR,Netanya,ISR
+arbief,Arbiv,Efraim,1959-07-18,ISR, , 
 arbini,Arbiv,Nir,1975-10-04,ISR, , 
 archta,Archel,Tal,2003-06-10,ISR, ,ISR
 arcosa,Arčon,Sandi,1991-01-06,SLO, , 
@@ -311,6 +317,8 @@ asayya,Asayag,Yaakov,1959-03-01,ISR,Nazareth Illit,ISR
 asayyo,Asayag,Yossi,1988-08-22,ISR, , 
 asefaw,Asefa,Awajo,1999-03-16,ISR, , 
 asefyi,Asefa,Yitzhak,1998-11-19,ISR,Ethiopia,ETH
+ashaud,Ashash,Udi,1963-03-22,ISR,Jerusalem,ISR
+ashkda,Ashkenazi,Danny,1962-08-23,ISR, , 
 ashkmo,Ashkar,Moataz,1974-06-30,ISR, , 
 ashkro,Ashkenazi,Ron,1998-08-20,ISR, , 
 ashkyu,Ashkenazi,Yuval,1992-02-13,ISR,Givatayim,ISR
@@ -324,6 +332,7 @@ asprda,Asprilla,Danilo,1989-01-12,COL,Chigorodó,COL
 asralo,Asras,Lotem,2007-01-15,ISR,Jerusalem,ISR
 asrami,Asrat,Milyardo,2005-11-01,ISR, ,ISR
 asraro,Asraf,Rotem,1978-03-22,ISR, , 
+asras1,Asraf,Shalom,0000-00-00,ISR, , 
 asrash,Asraf,Shay,1974-12-08,ISR, , 
 assara,Assayeg,Ravve,2001-05-01,ISR,Rishon leZion,ISR
 assojo,Assous,Jonathan,1983-09-02,FRA, , 
@@ -361,11 +370,13 @@ avissh,Avisidris,Shlomi,1989-05-14,ISR,Kiryat Shmona,ISR
 aviszo,Avisror,Zohar,1998-03-16,ISR, , 
 avitba,Avitan,Bar,1993-01-28,ISR,Nahariya,ISR
 avitda,Avital,Daniel,1997-01-01,ISR, , 
+avitna,Avital,Nadav,1970-08-27,ISR, , 
 avitni,Avitan,Nisso,1971-09-29,ISR,Beer Sheva,ISR
 avitof,Avital,Ofer,1966-02-18,ISR, , 
 avitro,Avitan,Roei,2000-09-29,ISR, , 
 avitsh,Avitan,Sharon,1973-11-05,ISR, , 
 avitti,Avitan,Timor,1991-11-27,ISR,Dimona,ISR
+avityo,Avitan,Yossi,1969-03-21,ISR, , 
 avivga,Aviv,Gal,1998-08-22,ISR, , 
 avixhb,Ben Avi,Harel,2001-02-06,ISR, , 
 avnail,Avnaim,Ilan,1966-06-25,ISR, , 
@@ -426,6 +437,7 @@ azuld1,Azulay,Dolev,1997-10-09,ISR,Tzipori,ISR
 azuldo,Azulay,Dor,1994-09-12,ISR, , 
 azuler,Azulay,Erez,1973-01-16,ISR, , 
 azulga,Azulay,Gal,1998-08-12,ISR, , 
+azulha,Azulay,Hanan,1958-03-23,ISR,Jerusalem,ISR
 azulro,Azulay,Ronen,1970-05-18,ISR, , 
 azuls1,Azulay,Yosef Shlomi,1990-03-30,ISR,Hadera,ISR
 azulsh,Azulay,Shlomi,1989-10-18,ISR,Tiberias,ISR
@@ -496,6 +508,7 @@ bangte,Bangura,Teteh,1989-12-27,SLE,Freetown,SLE
 banial,Baning,Albert,1985-03-19,CMR,Douala,CMR
 banita,Banin,Tal,1971-03-07,ISR,Kiryat Haim,ISR
 barada,Barak,Daniel,1987-01-10,ISR, , 
+barael,Baranes,Elior,1967-12-02,ISR, , 
 baraha,Barad,Hadar,1995-11-20,ISR,Meitar,ISR
 barama,Barashi,Matan,1988-05-06,ISR,Jerusalem,ISR
 baramo,Barami,Mor,2003-04-25,ISR, ,ISR
@@ -503,10 +516,12 @@ baraom,Barami,Omer,2000-05-13,ISR,Israel,ISR
 barara,Baransi,Ragid,1979-01-07,ISR,Nazareth,ISR
 bararo,Baranes,Roy,2001-12-07,ISR, ,ISR
 barasa,Barac,Savo,1970-11-28,MNT, , 
+barast,Baranauskas,Stasys,1962-05-07,LIT,Kaunas,URS
 bardar,Bardugo,Ariel,2002-01-28,ISR, , 
 bardce,Bardon,Cédric,1976-10-15,FRA,Lyon,FRA
 bardel,Barda,Elyaniv,1981-12-15,ISR,Beer Sheva,ISR
 bardgi,Barda,Gil,2001-12-30,ISR, , 
+bardn1,Barda,Nissim,1956-04-24,ISR, , 
 bardni,Bardea,Nir,1996-01-25,ISR,Rishon LeZion,ISR
 bardyi,Barda,Yinon,1984-10-02,ISR,Beer Sheva,ISR
 barega,Barel,Gal,1990-06-15,ISR, , 
@@ -526,6 +541,7 @@ barrch,Barrera,Christian,1981-01-01,ARG, ,
 barrh1,Barry,Hadji,1992-12-08,GUI,Conakry,GUI
 barrha,Barry,Hamza,1994-10-15,GAM,Banjul,GAM
 barrte,Barret,Teva,1999-06-24,ISR,Yehud,ISR
+barsav,Barshazky,Avi,1964-06-10,ISR, , 
 barsmo,Barshazky,Moti,1996-09-06,ISR,Givatayim,ISR
 barsro,Barsky,Roslan,1992-01-03,ISR,Holon,ISR
 bartdz,Bartkus,Dziugas,1989-11-07,LIT,Kaunas,URS
@@ -568,6 +584,7 @@ begley,Beglaubter,Eyal,1963-12-05,ISR, ,
 begone,Begović,Nenad,1980-01-06,SRB,Belgrad, 
 begube,Begula, ,0000-00-00,ISR, , 
 beigro,Beigel,Roy,1999-07-05,ISR, , 
+beitmo,Beitner,Mordechai,1960-08-21,ISR, , 
 belada,Bela,David,1977-02-14,ISR, , 
 belana,Belay,Naftali,1997-03-28,ISR,Netanya,ISR
 belaye,Belay,Yehoda,2006-03-01,ISR,Ashkelon,ISR
@@ -609,6 +626,7 @@ berkni,Berkovich,Nir,1983-01-23,ISR,Regba,ISR
 berkto,Berkovich,Tom,2002-01-07,ISR, , 
 bezayo,Bezalel,Yosef,1974-10-08,ISR, , 
 bezikr,Bezinski,Krasimir,1961-06-29,BUL,Blagoevgrad,BUL
+bezsvo,Bezsonov,Volodymyr,1958-03-05,UKR,Kharkiv,URS
 bialer,Biala,Erez,1979-07-22,ISR, , 
 bibikr,Bibishkov,Krum,1982-09-02,BUL,Marikostinovo,BUL
 bibior,Bibi,Ori,1991-07-24,ISR, , 
@@ -629,6 +647,7 @@ binyra,Binyamin,Ran,2004-02-06,ISR, ,ISR
 birush,Biruk,Shay,1984-06-15,ISR,Ethiopia,ETH
 bisano,Bisan,Noor,1995-01-17,ISR,Julis,ISR
 bissja,Bissue,James,1991-06-15,GHA,Sekondi-Takoradi,GHA
+bitann,Bitan,N. N.,0000-00-00,ISR, , 
 bitod1,Biton,Dudu,1988-03-01,ISR,Netanya,ISR
 bitoda,Biton,Dan,1995-07-20,ISR,Beer Sheva,ISR
 bitodu,Biton,Dudu,1982-10-23,ISR,Ashdod,ISR
@@ -637,6 +656,7 @@ bitoer,Biton,Eran,1996-01-16,ISR, ,
 bitoid,Biton,Idan,1985-04-08,ISR, , 
 bitoli,Biton,Liel,1998-03-19,ISR,Ramat Gan,ISR
 bitomo,Biton,Moshe,1982-11-18,ISR,Bat Yam,ISR
+bitoni,Biton,Nimrod,0000-00-00,ISR, , 
 bitoof,Biton,Ofek,1999-09-27,ISR, ,ISR
 bitoor,Biton,Oren,1994-06-16,ISR,Atlit,ISR
 bitos1,Biton,Shai,1987-05-21,ISR, , 
@@ -645,14 +665,18 @@ bitoy1,Biton,Yaniv,1977-04-29,ISR, ,
 bitoy2,Biton,Yagil,1992-03-16,ISR, , 
 bitoya,Biton,Yaron,1974-05-05,ISR, , 
 bitoyo,Biton,Yossi,1983-04-01,ISR,Jerusalem,ISR
+bitoyu,Biton,Yuval,1971-07-03,ISR, , 
 bitrdu,Bitran,Dudi,1977-08-26,ISR, , 
+bitrya,Bitran,Yaakov,1964-02-20,ISR, , 
 bittam,Bitton,Amit,1996-07-24,ISR,Beer Sheva,ISR
 bittbe,Bitton,Ben,1991-01-03,ISR,Bat Yam,ISR
+bittdo,Bitton,Doron,1968-01-03,ISR, , 
 bittni,Bitton,Nir,1991-10-30,ISR,Ashdod,ISR
 bittsh,Bitton,Shimon,1967-06-27,ISR,Be'er Sheva,ISR
 bizejo,Bizera,Joe,1980-05-17,URU,Artigas,URU
 blacni,Blackman,Nick,1989-11-11,BAR,Bury,ENG
 blanal,Blanco,Alberto,1978-01-08,PAN,Panama City,PAN
+blanyo,Blander,Yoav,0000-00-00,ISR, , 
 bloror,Blorian,Or,2000-03-07,ISR,Petah Tikva,ISR
 blumgi,Blumenshtein,Gil,1990-05-21,ISR,Kfar Yona,ISR
 blumya,Blumberg,Yariv,0000-00-00,ISR, , 
@@ -667,6 +691,7 @@ boccgu,Boccoli,Gustavo,1978-02-16,BRA,São Paulo,BRA
 bochma,Bochnovič,Marián,1970-03-03,SVK,Nitra,CZE
 bochsh,Bochnik,Sharon,1974-04-22,ISR, , 
 bockom,Bocksboim,Omri,1987-01-23,ISR, , 
+bodeei,Bodenyuk,Eitan,1958-01-10,ISR,Petah Tikva,ISR
 boerga,Boér,Gábor,1982-12-19,HUN,Orosháza,HUN
 bogaal,Bogajchuk,Aleksandr,1973-02-03,BLR, , 
 bogdda,Bogdan,Danijel,1973-04-07,CRO, , 
@@ -761,6 +786,7 @@ cabama,Cabaj,Marcin,1980-05-23,POL,Kraków,POL
 cabeda,Cabeda,David,1979-07-31,ISR, , 
 cabeya,Cabeda,Yasmao,2001-06-01,ISR, ,ISR
 cabezi,Cabeda,Ziv,1978-12-10,ISR,Ethiopia,ETH
+cachri,Cachioni,Ricardo,1958-08-16,ARG, , 
 caduca,Cadu, ,1982-04-23,BRA,Santo Augusto,BRA
 caimcl,Caimi,Claudio,1967-08-07,ARG,Buenos Aires,ARG
 caingi,Cain,Gil,1988-03-05,ISR,Brazil,BRA
@@ -770,8 +796,10 @@ caldca,Caldeira, ,1980-05-16,BRA, ,
 camade,Camara,Demba,1994-11-07,GUI,Conakry,GUI
 camake,Camara,Kemoko,1975-04-05,GUI,Conakry,GUI
 camamo,Camara,Mohamed,1997-08-28,GUI,Kerouane,GUI
+camiju,Camino,Julián,1961-05-02,ARG,Maipu,ARG
 camppe,Campos,Pedro,2000-06-02,CHI, , 
 campzo,Campara,Zoran,1972-02-16,SRB,Mostar, 
+caneda,Canelo,Daniel,1968-07-19,ARG,Rosario,ARG
 cantbr,Cantanhede,Bruno,1993-07-22,BRA, , 
 canuig,Canuto,Ignacio,1986-02-20,ARG,Santa Fé,ARG
 capica,Capita, ,2002-01-10,ANG,Luanda,ANG
@@ -834,12 +862,14 @@ cohea1,Cohen,Avi,1956-11-14,ISR,Kairo,EGY
 cohea2,Cohen,Alon,1979-10-10,ISR, , 
 cohea3,Cohen,Almog,1988-09-01,ISR,Beer Sheva,ISR
 cohea4,Cohen,Avishay,1995-06-19,ISR,Jerusalem,ISR
+cohea5,Cohen,Amir,1969-01-08,ISR, , 
 coheal,Cohen,Alon,1973-08-23,ISR, , 
 coheam,Cohen,Amit,1998-11-21,ISR, , 
 cohear,Cohen,Ariel,2003-08-12,ISR, ,ISR
 coheas,Cohen,Asaf,1990-08-25,ISR, , 
 coheav,Cohen,Avi,1962-06-12,ISR,Jerusalem,ISR
 coheba,Cohen,Bar,2001-03-10,ISR,Lod,ISR
+cohebe,Cohen,Benny,1962-05-17,ISR, , 
 cohee1,Cohen,Eli,1961-04-06,ISR, , 
 cohee2,Cohen,Eli,1979-02-13,ISR, , 
 cohee3,Cohen,Eran,1981-04-09,ISR, , 
@@ -860,6 +890,7 @@ cohei2,Cohen,Itzik,1990-01-01,ISR,Jerusalem,ISR
 cohei3,Cohen,Ido,2002-07-01,ISR, ,ISR
 cohei4,Cohen,Ido,2005-02-17,ISR, ,ISR
 coheid,Cohen,Idan,1996-01-06,ISR, , 
+coheil,Cohen,Ilan,0000-00-00,ISR, , 
 coheis,Cohen,Israel,1971-12-16,ISR,Lod,ISR
 coheit,Cohen,Itzik,1983-04-22,ISR,Akko,ISR
 cohejo,Cohen,Josh,1992-08-18,USA,Mountain View, California
@@ -870,6 +901,8 @@ cohele,Cohen,Lev,1996-06-20,ISR, ,
 coheli,Cohen,Liran,1983-02-14,ISR,Rishon leZion,ISR
 cohem1,Cohen,Meir,1972-06-08,ISR,Beit Shean,ISR
 cohem2,Cohen,Meidan,2001-10-12,ISR,Ma'ale Adumim,ISR
+cohem3,Cohen,Miki,1964-03-19,ISR, , 
+cohem4,Cohen,Moshe,1971-02-15,ISR, , 
 coheme,Cohen,Meir,1975-05-07,ISR, , 
 cohemi,Cohen,Miro,1974-05-30,ISR, , 
 cohemo,Cohen,Moshe,1984-08-24,ISR, , 
@@ -966,6 +999,7 @@ dahala,Dahan,Lahav,2000-09-19,ISR, ,
 dahami,Dahan,Miki,1970-02-03,ISR, , 
 dahamo,Dahan,Mor,1989-03-19,ISR, , 
 dahaom,Dahan,Omer,2005-05-26,ISR, ,ISR
+dahaon,Dahari,On,1963-04-20,ISR, , 
 dahaor,Dahan,Ori,1999-12-07,ISR,Hatzor HaGlilit,ISR
 dahara,Dahan,Rafi,1989-09-28,ISR,Or Akiva,ISR
 daharo,Dahan,Ronen,1979-04-09,ISR,Hadera,ISR
@@ -1028,6 +1062,7 @@ davini,Davidovitch,Nir,1976-12-17,ISR,Haifa,ISR
 daviof,Davidzada,Ofir,1991-05-05,ISR,Be'er Sheva,ISR
 davioh,David,Ohad,1988-08-22,ISR, , 
 davios,Davida,Osher,2001-02-18,ISR,Ashdod,ISR
+davipa,Davis,Paul,1962-07-13,JAM,Montego Bay,JAM
 davirb,Ben David,Roee,2002-02-01,ISR, , 
 davis1,David,Shay,1985-11-15,ISR, , 
 davisb,Ben David,Shay,1997-07-19,ISR,Tel Aviv,ISR
@@ -1041,6 +1076,7 @@ dayanb,Ben Dayan,Natan,1967-12-27,ISR, ,
 dayaor,Dayan,Oren,1977-04-24,ISR, , 
 dayar1,Dayan,Roy,1997-05-14,ISR, , 
 dayaro,Dayan,Roei,1984-09-19,ISR,Tel Aviv,ISR
+dayazi,Dayan,Zion,0000-00-00,ISR, , 
 dayepr,Daye,Prince,1978-04-11,LBR,Monrovia,LBR
 deakst,Deák,Stefan,1991-03-23,SRB,Ruma,SRB
 degoba,Dego,Baruch,1981-03-26,ISR,Adis Ababa,ETH
@@ -1077,6 +1113,7 @@ diazbl,Díaz,Bladimir,1992-07-10,COL,Buenaventura,COL
 dibage,Diba,George,1998-07-01,ISR,Marjayoun,LEB
 dibxsa,Abu Dib,Shadi,1975-11-04,ISR,Jaljulia,ISR
 didagi,Didava,Givi,1976-03-21,GEO, , 
+didodi,Dido, ,1962-06-27,BRA, , 
 dighda,Dighmelashvili,Davit,1980-01-18,GEO,Tiflis,URS
 digmof,Digmi,Ofer,1967-03-28,ISR, , 
 dikajd,Dika Dika,Jean,1979-06-04,CMR,Douala,CMR
@@ -1151,8 +1188,10 @@ edrior,Edri,Orel,1988-01-14,ISR, ,
 edris1,Edri,Shimi,1986-03-10,ISR, , 
 edris2,Edri,Shalom,1994-04-07,ISR,Netanya,ISR
 edris3,Edri,Shon,2003-10-24,ISR,Gedera,ISR
+edris4,Edri,Shlomo,1964-04-30,ISR,Netanya,ISR
 edrish,Edri,Shlomi,1982-05-29,ISR,Mazkeret Batya,ISR
 edriud,Edri,Udi,1978-02-01,ISR, , 
+edriyo,Edri,Yossi,1961-03-20,ISR,Tangier,MAR
 edusma,Edusei,Mark,1976-09-29,GHA,Kumasi,GHA
 eferan,Şefer,Antonio,2000-04-22,ROM,Galați,ROM
 efimvl,Efimov,Vladislav,1977-10-08,RUS,Vyshniy Volochek,RUS
@@ -1257,6 +1296,7 @@ eszede,Eszenyi,Dénes,1968-01-09,HUN,Nyíregyháza,HUN
 etcheo,Oben-Etchi,Ernest,1975-06-04,CMR, , 
 etocga,Etock,Gael,1993-07-05,CMR,Douala,CMR
 etoura,Etou,Ramaric,1995-01-25,CGO, , 
+etzida,Etzioni,Danny,1959-04-01,ISR,Herzliya,ISR
 eudieu,Eudis, ,1983-08-05,BRA,Paraiso do Norte,BRA
 evseva,Evseev,Vasyl,1962-08-30,UKR,Lugansk,URS
 exbaid,Exbard,Ido,1988-12-16,ISR,Tel Aviv,ISR
@@ -1344,7 +1384,9 @@ fucsro,Fucs,Royie,1998-12-14,ISR, ,ISR
 fuengu,Fuentes,Gustavo,1973-04-08,ARG,Buenos Aires,ARG
 fukrmo,Fukra,Mohamad,2002-06-01,ISR, ,ISR
 fuksad,Fuks,Adi,1973-07-25, , , 
+fulbga,Fulber,Gadi,1965-03-23,ISR,Ra'anana,ISR
 fulozo,Fülöp,Zoltán,1976-07-26,HUN,Orosháza,HUN
+fundsh,Fundaki,Shmuel,1964-04-06,ISR, , 
 fuscem,Fusco,Emiliano,1986-03-02,ARG,Caseros, Buenos Aires
 gabade,Gabay,Dean,1992-09-19,ISR, , 
 gabado,Gabay,Dovev,1987-04-01,ISR,Hadera,ISR
@@ -1402,6 +1444,7 @@ garcgo,García,Gonzalo,1983-10-13,SPA,Montevideo,URU
 garcle,García,Levi,1997-11-20,TRI,Santa Flora,TRI
 garefa,Gareca,Facundo,1973-10-05,ARG, , 
 garriv,Garrido,Iván,1981-06-02,COL,Bucaramanga,COL
+garros,Garré,Oscar,1956-12-09,ARG,Buenos Aires,ARG
 gatetr,Gateon,Triko,1995-01-01,ISR,Adis Abeba,ETH
 gatxgu,Gat,Guy,1970-09-24,ISR,Petah Tikva,ISR
 gauclu,Gaúcho,Lucas,1991-06-13,BRA,Rio Grande do Sul,BRA
@@ -1449,6 +1492,7 @@ gilash,Gilardi,Shuli,1964-08-24,ISR, ,
 gilbam,Gilbert,Ami,1986-02-27,ISR, , 
 gilkgi,Gilkarov,Gil,1992-07-08,ISR, , 
 gilmsa,Gilmore,Samuel,1996-07-20,NGR, , 
+gilrar,Gilrovich,Arik,1960-02-12,ISR,Givatayim,ISR
 ginaal,Ginat,Alon,2002-04-26,ISR, , 
 ginsra,Gînsari,Radu,1991-12-10,MOL,Chișinău,MOL
 ginzbo,Ginzburg,Bonni,1964-12-12,ISR,Tel Aviv,ISR
@@ -1501,12 +1545,15 @@ gombda,Gomberg,Dani,1966-09-14,ISR, ,
 gombgu,Gomberg,Guy,1990-09-24,ISR,Netanya,ISR
 gomeda,Gomez,David,1988-09-05,ISR,São Paulo,BRA
 gometo,Gomes,Toni,1998-11-16,POR,Bissau,GBS
+goneor,Gonen,Oron,1966-08-31,ISR, , 
 gonesa,Gonen,Sagi,0000-00-00,ISR, , 
 gonzbi,González,Bill,1978-11-18,CRC,San José,CRC
 gonzcr,González,Cristian,1976-12-19,URU,Montevideo,URU
+gonzge,González,Gerardo,1959-08-17,ARG,Rosario,ARG
 gonzja,González,Javi,1974-03-22,SPA,Barakaldo,SPA
 gonzpa,González,Pablo,1993-05-12,SPA,Almuñécar,SPA
 gordbe,Gordin,Ben,2003-01-12,ISR, , 
+gordda,Gordana,David,1967-01-17,ISR,Tel Aviv,ISR
 gordro,Gordana,Roei,1990-07-06,ISR,Tel Aviv,ISR
 gordyo,Gordana,Yossi,1972-05-17,ISR, , 
 goreda,Goresh,David,1980-02-01,ISR,Akko,ISR
@@ -1532,17 +1579,21 @@ grgima,Grgić,Martin,1971-12-06,CRO, ,
 grieda,Grieves,Danny,1978-09-21,ENG,Watford,ENG
 griegu,Grief,Guy,1975-11-20,ISR, , 
 griemo,Grief,Moshe,1980-04-01,ISR, , 
+grimfa,Grimberg,Fabián,1962-02-06,ARG,Buenos Aires,ARG
 grinit,Grinfeld,Itzik,0000-00-00,ISR, , 
 grisge,Grishin,Gennadiy,1964-11-25,RUS,Dankov,RUS
 grncbo,Grnčarov,Boban,1982-08-12,MAC,Skopje, 
+groeer,Groeleken,Eric,1966-03-03,NED,Enschede,NED
 gropde,Gropper,Denny,1999-03-16,ISR,Haifa,ISR
 gropur,Gropper,Uri,1971-05-18,ISR, , 
 grubni,Grubješić,Nikola,1984-06-29,SRB,Šabac, 
 gruppe,Gruper,Perry,1966-08-13,ISR, , 
 gryaal,Gryazin,Aleksandr,1974-08-23,RUS,Lyubertsy,RUS
+guaicr,Guaita,Cristian,1960-09-03,ARG,Paraná,ARG
 gueltc,Guel,Tchiressoua,1975-12-27,CIV,Sikensi,CIV
 guered,Guerrero,Eduardo,2000-02-21,PAN,Panama City,PAN
 gueros,Guerrero,Óscar,1985-03-01,COL,Bogotá,COL
+guetda,Gueta,Danny,1966-10-23,ISR, , 
 guetit,Gueta,Itzhak,1971-03-22,ISR, , 
 guetsh,Gueta,Shlomi,1979-10-27,ISR, , 
 guetsn,Gueta,Snir,1988-01-07,ISR,Eilat,ISR
@@ -1555,6 +1606,7 @@ gureli,Gurevich,Lior,0000-00-00,ISR, ,
 gurfya,Gurfinkel,Yahav,1998-06-27,ISR,Haifa,ISR
 gurmdm,Gurman,Dmitriy,1973-09-13,ISR, , 
 gurmma,Gurman,Mark,1989-02-09,KAZ,Almaty,URS
+gurxei,Gur,Eitan,1970-11-05,ISR, , 
 gusese,Gusev,Sergiy,1967-07-01,UKR,Odessa,URS
 gutida,Gutierrez,Daniel,1975-12-03,URU,Montevideo,URU
 gutigu,Guti, ,1991-06-29,BRA, , 
@@ -1573,6 +1625,7 @@ habiha,Habibou,Habib,1987-04-16,CAF,Bria,CAF
 habiwa,Habiballah,Waheb,1998-04-06,ISR, , 
 habrro,Habran,Romain,1994-06-14,FRA,Villeneuve-la-Garenne,FRA
 habsay,Habshi,Ayid,1995-05-10,ISR,Iksal,ISR
+hadaa1,Hadad,Avi,1963-06-20,ISR, , 
 hadaav,Hadad,Aviv,1984-02-04,ISR,Beit Aryeh-Ofarim,ISR
 hadako,Hadadi,Kobi,1973-12-26,ISR, , 
 hadana,Hadad,Naor,1982-11-22,ISR, , 
@@ -1614,6 +1667,7 @@ hajaor,Hajaj,Oren,1975-07-31,ISR, ,
 hajxiy,Haj,Iyad,1999-07-31,ISR, ,ISR
 hakaas,Hakak,Assaf,1989-05-16,ISR, , 
 hakigu,Hakim,Guy,2001-01-30,ISR, , 
+hakiil,Hakim,Ilan,1970-01-10,ISR, , 
 hakmsh,Hakmon,Shaked,2002-06-15,ISR, ,ISR
 halaam,Halabi,Amir,1986-08-19,ISR, , 
 halalo,Halaf,Loai,2000-08-08,ISR, ,ISR
@@ -1622,10 +1676,14 @@ halama,Halabi,Maor,1990-05-30,ISR,Rishon LeZion,ISR
 halamu,Halaili,Muayan,1991-08-03,ISR, , 
 halata,Halabi,Tamir,1968-11-01,ISR, , 
 haledo,Halevi,Dor,1986-02-05,ISR, , 
+haleyi,Halevi,Yiftah,1963-02-21,ISR, , 
 halfal,Halfon,Alon,1973-07-02,ISR, , 
 halfas,Halfon,Asher,1961-07-22,ISR, , 
+halfdu,Halfon,Dudi,0000-00-00,ISR, , 
 halffe,Halfon,Felix,1972-04-07,ISR,Bat Yam,ISR
+halfm1,Halfon,Mordechai,1957-03-09,ISR,Netanya,ISR
 halfmo,Halfon,Moshe,1986-11-24,ISR, , 
+halfni,Halfon,Nissim,1964-08-01,ISR, , 
 halira,Halis,Rahamim,1982-06-21,ISR,Ashkelon,ISR
 halise,Halilović,Sejad,1969-03-16,BOS,Klokotnica, 
 halito,Haliva,Tomer,1979-09-27,ISR,Beer Sheva,ISR
@@ -1663,6 +1721,7 @@ hartfl,Hartherz,Florian,1993-05-29,GER,Offenbach am Main,GER
 haruar,Harush,Ariel,1988-02-08,ISR,Jerusalem,ISR
 haruel,Harush,Eli,1995-08-29,ISR, , 
 haruit,Harush,Itzik,1983-06-20,ISR, , 
+harum1,Ben Harush,Moshe,1969-09-15,ISR, , 
 harumb,Ben Harush,Moshe,1962-03-22,ISR,Jerusalem,ISR
 harunb,Ben Harush,Noam,2005-05-13,ISR,Megadim,ISR
 haruob,Ben Harush,Omri,1990-03-07,ISR,Netanya,ISR
@@ -1677,6 +1736,7 @@ hasasa,Hasarma,Salah,1974-02-24,ISR,Bi'ina,ISR
 hashha,Hashan,Hail,1989-03-13,ISR, , 
 hasior,Hasin,Or,2002-03-09,ISR, , 
 haspra,Haspia,Ran,2003-04-18,ISR, ,ISR
+hassba,Hassan,Baruch,1959-01-22,ISR, , 
 hassel,Hasson,Eliran,1982-01-02,ISR, , 
 hassko,Hassan,Kobi,1978-09-26,ISR, , 
 hassma,Hassan,Manor,1976-08-22,ISR,Kiryat Ono,ISR
@@ -1691,15 +1751,18 @@ hatutz,Hatuka,Tzlil,1989-02-06,ISR, ,
 hatuy1,Hatukai,Yarin,2000-11-11,ISR, , 
 hatuya,Hatuka,Yarden,1991-12-18,ISR, , 
 hausro,Haustov,Roman,1985-09-26,ISR, , 
+haviar,Haviv,Arie,1956-06-09,ISR, , 
 havior,Havivyan,Or,1994-12-27,ISR,Zrehia,ISR
 havsro,Havshush,Roei,1978-04-11,ISR, , 
 havssh,Havshush,Shay,1980-09-01,ISR, , 
 haydda,Haydman,Daniel,1982-11-10,ISR, , 
 hayeph,Hayek,Philip,1994-01-10,ISR,Jaffa,ISR
+haymda,Hayman,Dani,1973-09-01,ISR, , 
 hayuav,Hayun,Avi,1967-11-02,ISR, , 
 hayube,Hayun,Ben,2000-11-08,ISR, , 
 hayule,Hayun,Levi,1965-09-25,ISR, , 
 hayuta,Hayun,Tal,1987-11-02,ISR, , 
+hayxae,El Hay,Avi,0000-00-00,ISR, , 
 hazaa1,Hazan,Almog,1974-02-06,ISR,Beit Shean,ISR
 hazaal,Hazan,Alon,1967-09-14,ISR,Ashdod,ISR
 hazaas,Hazan,Assi,1970-07-24,ISR, , 
@@ -1725,6 +1788,7 @@ hemokb,Ben Hemo,Kobi,1989-04-09,ISR, ,
 hemomb,Ben Hemo,Moti,1975-03-16,ISR, , 
 hemoob,Ben Hemo,Or,1990-05-22,ISR, , 
 hemoof,Hemo,Ofir,1987-12-10,ISR,Rishon leZion,ISR
+hemorb,Ben Hemo,Rafi,1960-01-09,ISR,Be'er Sheva,ISR
 hemos1,Ben Hemo,Shlomi,1978-12-05,ISR,Rishon LeZion,ISR
 hemosb,Ben Hemo,Shlomi,1974-03-12,ISR, , 
 henros,Henríquez,Oswaldo,1989-03-10,COL,Santa Marta,COL
@@ -1756,8 +1820,10 @@ higgsc,Higgins,Scott,1976-06-09,AUS,Cairns, Queensland
 hijama,Abu El Hija,Mustaffa,2002-09-11,ISR, , 
 hileid,Hilel,Idan,1980-01-26,ISR, , 
 hillba,Hillel,Bar,1996-05-05,ISR,Kiryat Shmona,ISR
+hillr1,Hillel,Ronen,1961-10-20,ISR,Petah Tikva,ISR
 hillro,Hillel,Ronen,1983-08-26,ISR, , 
 hillya,Hillel,Yaacov,1966-08-27,ISR,Lod,ISR
+hillyi,Hillel,Yigal,1959-09-24,ISR, , 
 hiloha,Hilo,Hassan,1999-11-25,ISR, ,ISR
 hindmo,Hindi,Mohammed,1995-10-29,ISR,Akko,ISR
 hirssh,Hirsh,Shahar,1993-02-13,ISR,Haifa,ISR
@@ -1788,6 +1854,7 @@ hudedu,Hudeda,Dudi,1979-11-01,ISR, ,
 hudeel,Hudeda,Eliran,1981-10-03,ISR,Haifa,ISR
 hugido,Hugi,Dor,1995-07-10,ISR,Bnei Brak,ISR
 hujeni,Hujeirat,Nidal,1981-10-28,ISR, , 
+hukagi,Hukaima,Gil,1969-08-26,ISR, , 
 humbds,Humberto,Daniel Soares Martelo,1978-10-31,BRA,Campinas,BRA
 hurihu,Huri, ,0000-00-00,ISR, , 
 hutaey,Hutava,Eyad,1987-11-20,ISR,Reineh,ISR
@@ -1890,6 +1957,7 @@ jangra,Janga,Rangelo,1992-04-16,CUR,Rotterdam,NED
 jankma,Janković,Marko,1995-07-09,MNT, , 
 janoav,Jano,Avishai,1970-07-19,ISR,Nazareth Illit,ISR
 janoli,Jano,Lior,0000-00-00,ISR, , 
+janomo,Jano,Moris,1958-05-08,ISR,Morocco,MAR
 janxdo,Jan,Dor,1994-12-16,ISR, ,ISR
 janxel,Jan,Elad,1984-05-06,ISR, , 
 janxl1,Jan,Liran,1993-03-11,ISR, , 
@@ -1904,6 +1972,7 @@ jegopi,Jegor,Piotr,1968-06-13,POL,Zbrosławice,POL
 jehesa,Yehezkel,Sagiv,1995-03-21,ISR,Rishon Lezion,ISR
 jelial,Jelisejevs,Aleksandrs,1971-08-11,LAT,Rīga,URS
 jerbam,Jerbi,Ami,1977-10-10,ISR, , 
+jerbni,Jerbi,Nissim,1958-12-07,ISR, , 
 jerbro,Jerbi,Ronny,1965-03-25,ISR,Bnei Brak,ISR
 jeseve,Jese,Vedran,1981-02-03,CRO,Banja Luka, 
 jesumd,de Jesús,Marlon,1991-09-04,ECU,Ibarra,ECU
@@ -1983,6 +2052,7 @@ kannma,Kannadil,Mahmoud,1988-08-11,ISR, ,
 kanygi,Kanuk,Gidi,1993-02-11,ISR,Ramat Gan,ISR
 kapeni,Kapeta,Nissan,1972-11-27,ISR, , 
 kapiad,Kapič,Adem,1975-04-16,SLO,Ljubljana, 
+kapije,Kapias,Jerzy,1957-11-26,POL, , 
 kapini,Kapiloto,Nisso,1989-10-01,ISR,Bat Yam,ISR
 kaplal,Kaplan,Alon,1978-09-12,ISR, , 
 karaur,Karagula,Uri,1978-12-18,ISR,Ramat Gan,ISR
@@ -2019,6 +2089,7 @@ kayalu,Kayal,Luhab,1988-05-03,ISR,Jadeidi,ISR
 kayamu,Kayal,Muhammad,1978-02-03,ISR, , 
 kayoaz,Kayondo,Azizi,2002-10-06,UGA,Kalungu,UGA
 kayool,Kayode,Olarenwaju,1993-05-08,NGR,Ibadan,NGR
+kazayo,Kazaz,Yossi,1971-01-14,ISR, , 
 keenja,Keene,James,1985-12-26,ENG,Wells,ENG
 keharo,Kehat,Roi,1992-05-12,ISR,Rehovot,ISR
 kehila,Kehinde,Lanre,1994-05-07,NGR,Lagos,NGR
@@ -2029,12 +2100,14 @@ keisno,Keisi,Noam,1965-01-06,ISR, ,
 keitab,Keita,Aboubakar,1997-11-05,CIV,Abidjan,CIV
 keital,Keita,Alhassane,1992-04-16,GUI,Conakry,GUI
 kelhde,Kelhar,Dejan,1984-04-05,SLO,Brezice, 
+kelld1,Kelly,Darren,0000-00-00,RSA, , 
 kellda,Kelly,Dane,1991-02-09,JAM, Saint Catherine Parish,JAM
 kellro,Keller,Rotem,2002-11-09,ISR,Hadera,ISR
 keltda,Keltjens,David,1995-06-11,ISR,Mevaseret Zion,ISR
 kendam,Kende,Amit,1975-10-01,ISR, , 
 kendom,Kende,Omri,1986-07-06,ISR, , 
 kenezo,Kenesei,Zoltán,1972-09-16,HUN,Budapest,HUN
+kenial,Kenig,Alejandro,1969-01-31,ARG,Mar del Plata,ARG
 kennjo,Kennet,Josh,1987-09-27,ENG,Camden,ENG
 kentja,Kentoš,Jaroslav,1974-05-14,SVK,Vranov nad Topľou,CZE
 keream,Keren,Amit,1998-01-17,ISR, , 
@@ -2099,6 +2172,7 @@ kobaer,Kobani,Erez,1996-03-21,ISR, ,
 kochdo,Kochav,Dor,1993-05-06,ISR, , 
 kochor,Kochavi,Oren,1973-02-07,ISR, , 
 kodrme,Kodro,Meho,1967-01-12,BOS,Mostar, 
+koevkr,Koev,Krasimir,1963-08-27,BUL,Sofia,BUL
 koffge,Koffie,Gershon,1991-08-25,GHA,Koforidua,GHA
 koitba,Koita,Bachibou,1994-04-15,NIG,Niamey,NIG
 kokogo,Kokoshvili,Gocha,1969-03-25,GEO, , 
@@ -2125,6 +2199,7 @@ koomgi,Koomson,Gilbert,1994-09-09,GHA,Accra,GHA
 kopeof,Kopel,Ofir,1975-04-25,ISR,Petah Tikva,ISR
 kopibo,Kopitović,Boris,1994-09-17,MNT,Podgorica, 
 koraza,Korac,Zarko,1987-06-11,MNT,Bijelo Polje, 
+korbog,Korbi,Ogen,1967-11-20,ISR, , 
 koreel,Koren,Elad,1968-07-03,ISR,Netanya,ISR
 koreer,Koren,Erez,1979-10-20,ISR, , 
 korei1,Koren,Itay,1978-03-27,ISR, , 
@@ -2161,6 +2236,7 @@ kralma,Kralj,Mario,1977-07-17,CRO,Zagreb,
 krammi,Kramer,Michiel,1988-12-03,NED,Rotterdam,NED
 krauav,Krauza,Avi,1979-01-19,ISR, , 
 kreiha,Kreis,Hay,1967-01-08,ISR, , 
+kremyo,Kremer,Yossi,1957-04-09,ISR, , 
 kriaof,Kriaf,Ofir,1991-03-17,ISR,Jerusalem,ISR
 krimbo,Krimus,Boris,1969-01-20,MOL, , 
 krisil,Krispi,Ilay,2002-05-28,ISR, , 
@@ -2190,11 +2266,14 @@ labeya,Abu Laben,Yosef,1992-05-26,ISR,Beer Sheva,ISR
 lachda,Lachman,Darryl,1989-11-11,CUR,Amsterdam,NED
 lacima,Lačić,Mate,1980-09-12,CRO,Split, 
 lagror,Lagrisi,Or,1992-07-12,ISR, , 
+lahero,Lahem,Ronen,1967-07-30,ISR, , 
 laisyo,Laish,Yonatan,2004-01-27,ISR,Ra'anana,ISR
 lakaom,Lakao,Omer,1998-02-07,ISR,Yavne,ISR
 lalama,Al-Lala,Maharan,1982-03-07,ISR,Isfiya,ISR
 lalota,Lalou,Tamir,1997-06-09,ISR,Rishon LeZion,ISR
+lalovl,Lalov,Vladimir,1958-04-14,BUL, , 
 laluer,Laluz,Erez,1982-06-27,ISR, , 
+lammbe,Lamm,Benny,1959-04-09,ISR,Netanya,ISR
 landel,Landau,Elay,2000-09-11,ISR, , 
 langid,Langer,Ido,1981-05-10,ISR, , 
 lankma,Lankri,Maor,1989-01-10,ISR, , 
@@ -2231,11 +2310,13 @@ lesjda,Lesjak,Damir,1967-03-31,CRO,Cakovec,
 leskva,Leskiv,Vasyl,1963-12-20,UKR,Stare Selo,UKR
 lesoda,Lesovoy,Daniil,1998-01-12,RUS,Moskva,RUS
 lesuge,Lesun,Gennadiy,1966-09-05,BLR, , 
+levagu,Levav,Guy,1971-06-13,ISR, , 
 leviad,Levi,Adir,2002-01-06,ISR, ,ISR
 levial,Levit,Alex,1982-02-11,ISR, , 
 leviam,Levi,Amit,1971-04-14,ISR, , 
 levias,Levi,Assaf,1997-04-09,ISR, , 
 leviba,Levi,Barak,1993-01-07,ISR,Rishon LeZion,ISR
+levid1,Levi,David,1963-06-25,ISR, , 
 levida,Levi,Dan,1976-12-07,ISR, , 
 levie1,Levi,Eran,1979-01-07,ISR, , 
 levie2,Levi,Eran,1985-08-04,ISR,Or Akiva,ISR
@@ -2280,6 +2361,7 @@ levkru,Levkovich,Rubi,1988-08-31,ISR,Ramat Gan,ISR
 levybe,Levy,Ben,1996-01-08,ISR,Israel,ISR
 levyd1,Levy,Daniel,1993-03-24,ISR, , 
 levyda,Levy,David,1963-01-26,ISR, , 
+levyei,Levy,Eitan,1966-06-09,ISR, , 
 levygu,Levy,Guy,1966-09-08,ISR,Petah Tikva,ISR
 levyid,Levy,Ido,1990-07-31,ISR,Hadera,ISR
 levyli,Levy,Lior,1987-10-26,ISR,Kfar Saba,ISR
@@ -2291,6 +2373,8 @@ levyro,Levy,Ronny,1966-11-14,ISR,Netanya,ISR
 levysa,Levy,Sahar,1985-10-26,ISR, , 
 levyye,Levy,Yehonatan,1999-08-25,ISR, , 
 lianda,Liani,David,1978-10-12,ISR, , 
+libaav,Libarti,Avi,1965-01-08,ISR, , 
+libeav,Liberman,Avi,1955-05-15,ISR,Ness Ziona,ISR
 libedu,Liberman,Dudi,1976-12-08,ISR, , 
 libele,Liberman,Leonel,1972-05-26,ARG,Buenos Aires,ARG
 lichli,Lichterman,Liron,1972-11-02,ISR, , 
@@ -2341,6 +2425,7 @@ lukada,Łukasik,Damian,1964-02-26,POL,Poniec,POL
 lukmab,Lukman,Abdulkarim,1990-09-06,NGR,Jos,NGR
 lukmim,Lukman,Imoro,1984-10-04,GHA, , 
 lukxha,Luk,Hagay,1976-08-03,ISR, , 
+luluer,Lulu,Erez,1966-07-23,ISR, , 
 lulugb,Ben Lulu,Guy,2000-05-19,ISR, , 
 luluhb,Ben Lulu,Hay,1982-01-28,ISR, , 
 lulumb,Ben Lulu,Moshe,1988-04-13,ISR,Ashdod,ISR
@@ -2391,6 +2476,8 @@ mahpel,Mahpud,Eli,1961-03-25,ISR,Petah Tikva,ISR
 mahpni,Mahpud,Nirel,1993-12-01,ISR,Rosh haAyin,ISR
 maimde,Maimoni,Dean,1990-05-04,ISR,Mevo Hama,ISR
 maimdo,Maimoni,Dor,1995-11-04,ISR, , 
+maimeb,Maimon,Eyal Bar,1972-11-09,ISR, , 
+maimit,Maimoni,Itzhak,1955-11-07,ISR, , 
 maimli,Maimon,Lidor,2002-03-02,ISR, , 
 maimra,Maimon,Rami,1976-12-19,ISR, , 
 maims1,Maimon,Shai,1986-03-18,ISR,Netanya,ISR
@@ -2404,6 +2491,7 @@ makoig,Makovey,Igor,1976-09-04,UKR,Dubovaya,UKR
 makrdi,Makriev,Dimitar,1984-01-07,BUL,Gotse Delchev,BUL
 malaro,Malahov,Roman,1991-05-23,ISR, , 
 maleyo,Malede,Yonas,1999-11-14,ISR,Kiryat Bialik,ISR
+malhyi,Malhi,Yigal,1966-12-25,ISR, , 
 malido,Malichi,Dor,1991-08-28,ISR, , 
 maliid,Malichi,Idan,1979-06-11,ISR,Petah Tikva,ISR
 maliyo,Maliach,Yorai,1998-03-26,ISR,Jerusalem,ISR
@@ -2415,7 +2503,10 @@ malkga,Malka,Gal,1995-04-12,ISR,Haifa,ISR
 malkha,Malka,Haim,1980-02-18,ISR,Ashkelon,ISR
 malkmo,Malka,Moti,1990-12-13,ISR, , 
 malkro,Malka,Roni,1964-08-02,ISR, , 
+malksa,Malka,Sammy,1963-06-04,ISR,Jerusalem,ISR
 malkse,Malka,Sean,1993-04-27,ISR,Bat Yam,ISR
+malksh,Malka,Shlomi,1959-11-27,ISR,Hatzor HaGlilit,ISR
+malktz,Malka,Tzadok,1964-08-26,ISR,Haifa,ISR
 malkyo,Malka,Yossi,1974-09-05,ISR, , 
 malmur,Malmilian,Uri,1957-04-24,ISR,Jerusalem,ISR
 maloka,Malouma,Kanieba,1963-07-03,DRC, , 
@@ -2454,6 +2545,7 @@ marcda,Marciano,David,1968-09-01,ISR, ,
 marcge,Marcus,Geva,1965-03-10,ISR, , 
 marcio,Marcu,Ioan,1963-05-21,ROM,Oțelu-Roșu,ROM
 marcma,Marciano,Maor,1987-03-15,ISR, , 
+marcmo,Marcus,Moshe,1961-07-22,ISR,Tel Aviv,ISR
 marcof,Marciano,Ofir,1989-10-07,ISR,Ashdod,ISR
 marcra,Marciano,Rafi,1970-03-31,ISR, , 
 marcsh,Marciano,Sharon,1972-12-29,ISR, , 
@@ -2467,6 +2559,7 @@ marilu,Marín,Luis,1974-08-10,CRC,San José,CRC
 marin1,Marinković,Nenad,1988-09-28,SRB,Knjaževac, 
 marine,Marinković,Nebojša,1986-06-19,SRB,Knjaževac, 
 marist,Marinovic,Stefan,1991-10-07,NZL,Auckland,NZL
+marizi,Marili,Zion,1957-02-11,ISR,Jerusalem,ISR
 markbo,Marković,Bojan,1985-11-12,BOS, , 
 markiv,Markov,Ivaylo,1997-06-05,BUL,Sofia,BUL
 markma,Markovski,Marko,1986-05-26,SRB,Belgrade, 
@@ -2475,6 +2568,7 @@ marlma,Marlon, ,1995-04-29,BRA,Rio de Janeiro,BRA
 marmgu,Marmentini,Gustavo,1994-03-08,BRA,Cascavel,BRA
 maroiv,Maroslavac,Ivan,1976-06-24,CRO,Vinkovci, 
 marqed,Marques,Eduardo,1976-06-26,BRA,Osasco,BRA
+marrro,Marra,Roberto,1965-05-11,ARG, , 
 marsmi,Marsiglia,Mickaël,1975-12-25,FRA,La Ciotat,FRA
 marsod,Marshal,Odah,1992-04-14,NGR, , 
 martal,Martinović,Alexandre,1985-05-31,FRA,Montbéliard,FRA
@@ -2532,6 +2626,7 @@ mbodma,Mbodj,Mamadou,1993-03-12,SEN, ,SEN
 mbolem,Mbola,Emmanuel,1993-05-10,ZAM,Kabwe,ZAM
 mbonjo,Mbong,Joseph,1997-07-15,MAL,Lagos,NGR
 mbuydi,M'Buyu,Dimitri,1964-10-31,BEL,Antwerpen,BEL
+medizo,Medina,Zohar,0000-00-00,ISR, , 
 medome,Medo, ,1987-11-16,SLE,Port Loko,SLE
 meduha,Medunjanin,Haris,1985-03-08,BOS,Sarajevo, 
 megeas,Megersa,Asrat,1987-06-20,ETH,Addis Abeba,ETH
@@ -2557,6 +2652,7 @@ melima,Melikson,Maor,1984-10-30,ISR,Yavne,ISR
 melime,Melika,Meir,1969-08-01,ISR, , 
 meliya,Melika,Yaron,1972-04-04,ISR, , 
 melnvy,Melnikov,Vyacheslav,1975-03-12,RUS, , 
+melome,Melo, ,1968-02-28,BRA, , 
 menaav,Menashe,Avi,1980-11-01,ISR, , 
 menamo,Menahem,Moti,1976-02-19,ISR, , 
 menani,Menachem,Nir,1969-01-22,ISR, , 
@@ -2641,12 +2737,15 @@ mizrlo,Mizrahi,Lion,2002-10-24,ISR, ,ISR
 mizrmo,Mizrahi,Moti,1975-04-14,ISR, , 
 mizrne,Mizrahi,Nevo,1987-07-26,ISR,Yavne,ISR
 mizro1,Mizrahi,Ofir,1993-12-04,ISR,Kiryat Motzkin,ISR
+mizro2,Mizrahi,Ofer,1971-08-24,ISR, , 
 mizrof,Mizrahi,Ofer,1967-03-03,ISR,Haifa,ISR
 mizrs1,Mizrahi,Sagi,1985-03-24,ISR, , 
 mizrsa,Mizrahi,Sahar,1971-07-07,ISR, , 
+mizrsh,Mizrahi,Shlomo,1956-07-25,ISR, , 
 mizry1,Mizrahi,Yaakov,1998-03-14,ISR, , 
 mizry2,Mizrahi,Yaniv,1995-08-30,ISR,Ramat Gan,ISR
 mizrya,Mizrahi,Yaniv,1978-02-11,ISR, , 
+mizryo,Mizrahi,Yossi,1953-04-04,ISR,Jerusalem,ISR
 mkhiha,Mkhitaryan,Hamlet,1973-11-24,ARM,Erewan,URS
 mladsr,Mladinić,Srđan,1969-08-26,CRO, , 
 moadab,Moad,Abed,1977-10-16,ISR, , 
@@ -2663,9 +2762,11 @@ molddi,Moldovan,Dinu,1961-02-20,ROM, ,
 mondto,Mond,Tom,1991-07-06,ISR, , 
 monrai,Monroy,Aitor,1987-10-18,SPA,Madrid,SPA
 montro,Montesanto,Rodrigo,1982-08-28,BRA, , 
+morajo,Mora,Jorge,1960-09-11,ARG, , 
 morcjo,Morcillo,Jorge,1986-03-11,SPA,Valencia,SPA
 mordit,Mordechai,Itay,1967-11-12,ISR,Haifa,ISR
 mordta,Mordechai,Tom Ahi,2001-05-09,ISR, , 
+mordto,Mordechai,Tony,1972-01-06,ISR, , 
 mordya,Mordechai,Yair,2003-09-01,ISR, , 
 moreda,Moreira,Danilo,1980-08-19,BRA,São José do Rio Preto,BRA
 moreit,Moreno,Itay,1998-07-10,ISR, , 
@@ -2682,6 +2783,7 @@ morxil,Mor,Ilay,0000-00-00,ISR, ,ISR
 morxit,Mor,Itay,1972-09-25,ISR, , 
 morxko,Mor,Kobi,1993-01-07,ISR,Or Yehuda,ISR
 morxra,Mor,Rami,1974-10-01,ISR, , 
+mosain,Mosafi,Inbar,1969-02-07,ISR, , 
 moshba,Moshe,Barak,1991-03-19,ISR,Jerusalem,ISR
 moshbe,Moshel,Benzi,1993-07-31,ISR,Ashdod,ISR
 moshs1,Moshel,Shmuel,1996-08-28,ISR, , 
@@ -2692,6 +2794,7 @@ mosqor,Mosquera,Orlando,1994-12-25,PAN,San Miguelito,PAN
 mostig,Mostarlić,Igor,1983-03-31,CRO,Osijek, 
 motash,Motai,Shay,1991-08-26,ISR,Netanya,ISR
 motpni,Moţpan,Nichita,2001-07-17,MOL,Bălţi,MOL
+motsnn,Motsanashvili,N.N.,0000-00-00,ISR, , 
 moural,De Moura,Andre Luiz,1984-11-19,BRA, , 
 mourar,Moura,Ari,1996-07-31,BRA,Quaraí,BRA
 moushi,Mousa,Hilal,1990-05-31,PAL,Kafr Manda,ISR
@@ -2756,6 +2859,7 @@ naheaa,Abu Naheya,Ahmed,1991-07-07,PAL,Umm al-Fahm,ISR
 nahfom,Nahfaoui,Omar,1998-09-12,PAL, ,PAL
 nahmed,Nahmani,Eden,1990-10-31,ISR, , 
 nahmkf,Nahmani,Kfir,1982-10-08,ISR, , 
+nahmme,Nahmias,Meir,1959-01-09,ISR,Bat Yam,ISR
 nahmra,Nahmias,Raz,1996-05-06,ISR,Ashkelon,ISR
 nahukf,Nahum,Kfir,0000-00-00,ISR, , 
 nahuni,Nahum,Nir,1983-09-09,ISR,Ashdod,ISR
@@ -2773,10 +2877,12 @@ nasaad,Nasa,Adi,1999-02-05,ISR, ,
 nashiz,Nash,Izhak,1989-06-23,ISR,Kfar Kama,ISR
 nasram,Nasraldin,Amir,1993-03-05,ISR, , 
 nasran,Nasraldin,Anan,1988-11-20,ISR, , 
+nasrsh,Nasri,Shimi,1973-04-04,ISR, , 
 nassam,Nassar,Amir,1996-11-24,ISR,Arraba,ISR
 nassha,Nassar,Hana,1991-03-27,ISR, , 
 nasssi,Nassar,Siraj,1990-09-02,ISR,Turan,ISR
 nassya,Nassar,Yazan,1997-05-06,ISR, ,ISR
+nataal,Natan,Alon,1967-01-26,ISR,Tel Aviv,ISR
 natabe,Natan,Benny,1998-05-14,ISR,Beer Sheva,ISR
 natcbi,Natcho,Bibras,1988-02-18,ISR,Kfar Kama,ISR
 natomo,Natour,Mohammad,1991-09-09,PAL, , 
@@ -2801,11 +2907,13 @@ netzta,Netzer,Tamir,1974-05-19,ISR, ,
 nevivl,Nevinskiy,Vladimir,1973-09-14,BLR,Minsk,URS
 neymse,Neyman,Sergey,1967-09-23,RUS,St. Petersburg,URS
 nguear,Ngueukam,Ariel,1988-11-15,CMR,Yaoundé,CMR
+nichga,Nichko,Gabi,0000-00-00,ISR, , 
 nicogh,Nicolae,Gheorghe,1976-04-26,ROM,Bukarest,ROM
 nicoio,Nicolaescu,Ion,1998-09-07,MOL,Cahul,MOL
 niddna,Nidam,Nadav,2001-04-11,ISR,Modi'in,ISR
 niedvl,Niederhaus,Vladimir,1967-08-13,RUS,Kokshetau, Kazakh SSR
 niejaa,Niejo,Ari Alexander,2002-12-01,ISR, , 
+niewma,Niewiadomski,Mariusz,1959-04-26,POL,Nosówko,POL
 nigmru,Nigmatullin,Ruslan,1974-10-07,RUS,Kazan,URS
 nikoda,Nikolić,Danilo,1983-07-29,SRB, , 
 nikone,Nikolić,Nemanja,1988-01-01,MNT,Valjevo, 
@@ -2834,6 +2942,7 @@ nkossi,Nkosi,Siyabonga,1981-08-22,RSA,Newcastle, KwaZulu-Natal
 nogehe,Nogen,Hen,1995-01-09,ISR, , 
 nombcl,Nombil,Cletus,2000-08-23,GHA,Bolgatanga,GHA
 nortis,Nortey,Isaac,2000-04-13,GHA, , 
+nosoof,Nosovski,Ofer,1963-02-13,ISR, , 
 noviar,Novikovas,Arvydas,1990-12-18,LIT,Vilnius,LIT
 novose,Novoa,Sergio,1981-06-10,COL,Bucaramanga,COL
 novova,Novokhatskiy,Vasyl,1974-09-24,UKR,Kalynivka,UKR
@@ -2883,6 +2992,7 @@ ohansh,Ohana,Shiran,1984-09-08,ISR, ,
 ohanto,Ohana,Tomer,1995-08-15,ISR, , 
 ohanya,Ohana,Yagil,1999-07-11,ISR, , 
 ohanyu,Ohana,Yuval,1965-03-22,ISR, , 
+ohanzi,Ohana,Zion,1965-06-01,ISR,Jerusalem,ISR
 ohayal,Ohayon,Almog,1994-08-05,ISR,Kiryat Ata,ISR
 ohayel,Ohayon,Eliran,1981-08-12,ISR, , 
 ohayha,Ohayon,Haviv,1998-08-17,ISR,Rishon leZion,ISR
@@ -2913,6 +3023,7 @@ onugge,Onugkha,German,1996-07-06,RUS,Moskau,RUS
 onyepe,Onyekachi,Peter,1994-05-06,NGR,Aba,NGR
 onysde,Onyshchenko,Denys,1978-09-15,UKR,Poltava,URS
 opabfe,Opabunmi,Femi,1985-03-03,NGR,Lagos,NGR
+oppeti,Oppenheim,Tiran,1967-04-14,ISR, , 
 oremmi,Oremus,Mirko,1988-09-06,CRO,Trogir, 
 orenit,Oren,Itay,1992-03-31,ISR, , 
 orlape,Orlandić,Petar,1990-08-06,MNT, , 
@@ -2938,6 +3049,7 @@ ottmmu,Ottman,Muhammad,2000-09-23,ISR, ,
 ouamna,Ouammou,Nassim,1993-04-27,FRA,Saint-Etienne,FRA
 ouazam,Ouazana,Ami,0000-00-00,ISR, , 
 ouedpa,Ouedraogo,Pascal,1983-05-17,BFS, , 
+ovadav,Ovadia,Avinoam,1960-02-27,ISR,Nahariya,ISR
 ovadof,Ovadia,Ofek,2001-01-30,ISR, ,ISR
 ovedav,Oved,Avi,1976-03-08,ISR, , 
 ovedli,Oved,Liad,1990-12-06,ISR, , 
@@ -2971,8 +3083,10 @@ parduz,Parado,Uziel,1999-06-16,ISR,Jerusalem,ISR
 pariei,Pariente,Eitan,1981-08-19,ISR, , 
 parike,Parienté,Kévin,1987-01-19,FRA,Paris,FRA
 parpbe,Parparov,Ben,1976-08-13,ISR, , 
+parsya,Parselani,Yaron,1959-03-24,ISR,Haifa,ISR
 partkf,Partieli,Kfir,1979-02-01,ISR, , 
 pascpa,Pascal, ,1980-12-26,NGR,Lagos,NGR
+pashat,Pashev,Atanas,1963-11-21,BUL,Pazardzhik,BUL
 passav,Pass,Avi,1970-01-20,ISR, , 
 passbr,Passi,Bryan,1997-08-05,FRA,Marseille,FRA
 patlsh,Patlak,Shay,1986-08-25,ISR, , 
@@ -2988,7 +3102,9 @@ peerma,Peersman,Marvin,1991-02-10,BEL,Wilrijk,BEL
 pejimi,Pejić,Miroslav,1986-02-16,BOS,Zagreb, 
 pekhto,Pekhart,Tomáš,1989-05-26,CZE,Sušice,CZE
 pelema,Peleg,Matan,1993-11-11,GUA,Guatemala,GUA
+peleya,Peled,Yaakov,1970-10-23,ISR,Mevo Beitar,ISR
 pelezi,Peled,Ziv,0000-00-00,ISR, , 
+pensle,Penso,Leon,1964-05-03,ISR, , 
 pensyo,Penso,Yotam,1989-06-24,ISR, , 
 perea1,Peretz,Avi,1966-02-19,ISR, , 
 perea2,Peretz,Avi,1971-09-02,ISR,Bat Yam,ISR
@@ -3021,6 +3137,7 @@ perist,Perica,Stipe,1995-07-07,CRO,Zadar,CRO
 perjda,Perjă,Dănuț,1974-11-14,ROM,Verești,ROM
 perkbo,Perković,Borimir,1967-09-25,CRO,Livno, 
 perrjb,Perrin,Jean-Bapiste,1980-01-30,FRA, , 
+perrro,Perry,Ronny,1962-06-11,ISR, , 
 perrur,Perry,Uri,1984-04-02,ISR, , 
 pesena,Peser,Naor,1985-10-18,ISR,Petah Tikva,ISR
 pesial,Pešić,Aleksandar,1992-05-21,SRB,Niš, 
@@ -3045,6 +3162,7 @@ pilogu,Pilosof,Guy,1989-02-18,ISR, ,
 pilois,Pilosof,Israel,1981-05-25,ISR, , 
 pinato,Pinas,Touvarno,1985-11-25,SUR,Wanica,SUR
 pinhbr,Pinheiro,Bruno,1987-08-21,POR,Paranhos,POR
+pinhob,Ben Pinhas,Ohad,1971-03-15,ISR, , 
 pinhsa,Pinhas,Sagi,2001-07-01,ISR, , 
 piniur,Pinia,Uriel,1998-07-06,ISR, , 
 pintal,Pintos,Álvaro,1977-10-24,URU,Montevideo,URU
@@ -3060,6 +3178,7 @@ pivaro,Pivarník,Roman,1967-02-17,SVK,Košice,CZE
 pives1,Piven-Bachtiar,Shahar,1995-09-21,ISR,Birobidzhan,RUS
 pivesh,Piven,Shahar,1995-09-21,ISR,Birobidzhan,RUS
 pizada,Pizanti,David,1962-05-27,ISR,Pardes Hanna,ISR
+plairu,Plaino,Ruben,1964-05-11,ARG,Rosario,ARG
 plakma,Plakushchenko,Maxim,1996-01-04,ISR,Vinnytsia,UKR
 planbo,Planić,Bogdan,1992-01-19,SRB,Užice, 
 pletgl,Plet,Glynor,1987-01-30,NED,Amsterdam,NED
@@ -3073,6 +3192,7 @@ pogose,Pogodin,Sergiy,1968-04-29,UKR,Rubizhne,UKR
 pokoaB,Poko,André Biyogo,1993-01-01,GAB,Bitam,GAB
 pokoja,Pokorn,Jalen,1979-06-07,SLO,Kranj, 
 polaha,Polak,Harel,1992-02-01,ISR, , 
+poligi,Polichuk,Gideon,1972-01-23,ISR, , 
 poltud,Poltiger,Udi,1984-01-25,ISR, , 
 polual,Polukarov,Aleksandr,1959-11-27,RUS,Lugansk,UKR
 polyde,Palyakow,Dzyanis,1991-04-17,BLR,Minsk,BLR
@@ -3148,6 +3268,7 @@ rataid,Rata,Idan,1999-08-13,ISR, ,
 ratzda,Ratzabi,David,1982-09-10,ISR, , 
 ratzei,Ratzon,Eitan,1998-04-01,ISR, , 
 ratzid,Ratzon,Ido,1976-09-07,ISR, , 
+ravini,Ravi,Nissim,1967-01-25,ISR, , 
 rayais,Rayan,Ismaeel,1994-04-24,ISR,Kabul,ISR
 rayaoa,Rayan,Oani,1978-04-21,ISR, , 
 raynma,Raynov,Martin,1992-04-25,BUL,Gabrovo,BUL
@@ -3276,6 +3397,7 @@ sabash,Sabag,Shay,1981-06-22,ISR, ,
 sabeam,Sabeg,Amir,0000-00-00,ISR, ,ISR
 saboen,Saborit, ,1992-04-27,SPA,Mataró,SPA
 saboer,Sabo,Erik,1991-11-22,SVK,Šúrovce,CZE
+sabogi,Sabo,Gil,1964-01-23,ISR, , 
 sacrli,Sacripanti,Lisandro,1982-01-07,ARG,Rosario,ARG
 sadaza,Sadaev,Zaur,1989-11-06,RUS,Shali,RUS
 sadeid,Sade,Idan,1988-05-08,ISR,Ashdod,ISR
@@ -3292,6 +3414,7 @@ sahara,Sahar,Ran,1969-04-11,ISR, ,
 sahfid,Sahfsha,Idan,1992-01-07,ISR, , 
 saidoh,Saidof,Ohad,1987-10-01,ISR, , 
 saieke,Saief,Kenny,1993-12-17,USA,Panama City,USA
+saimgi,Saimon,Gideon,1960-01-11,ISR,Ramle,ISR
 saintr,Sainsbury,Trent,1992-01-05,AUS,Perth,AUS
 sairsa,Sairo, ,1974-10-22,BRA,Tarauacá,BRA
 sakuav,Sakuri,Avi,1963-06-13,ISR, , 
@@ -3314,10 +3437,12 @@ sallsi,Sallalich,Sintayehu,1991-06-20,ISR,Kwara,ETH
 sallti,Sallai,Tibor,1969-03-21,HUN,Debrecen,HUN
 salmah,Salman,Ahmad,2004-03-21,ISR,Jerusalem,ISR
 salmam,Salman,Amer,1976-06-10,PAL,Jerusalem,ISR
+salmda,Salman,David,1958-10-02,ISR,Tel Aviv,ISR
 salmma,Salman,Mahmud,1979-07-26,ISR, , 
 salmmo,Salmi,Moshe,1971-08-21,ISR, , 
 saloib,Ben Salomon,Itzhak,1985-10-03,ISR, , 
 salssa,Salsao, ,1976-05-24,BRA, , 
+sambjo,Sambal,Jorge,1965-12-26,ISR, , 
 sambsa,Sambinha, ,1992-09-23,POR,Cascais,POR
 samima,Samia,Maoz,1987-12-14,ISR,Ramla,ISR
 samxel,Sam,Elisha,1997-03-31,BEL,Antwerpen,BEL
@@ -3373,6 +3498,7 @@ sawasz,Sawala,Szymon,1982-09-25,POL,Sieraków,POL
 saxxjo,Sá,Josué,1992-06-17,POR,Lisboa,POR
 saxxor,Sá,Orlando,1988-05-26,POR, , 
 sayaer,Sayag,Eran,1980-11-01,ISR, , 
+sayash,Sayag,Shlomo,1971-04-01,ISR, , 
 sayepa,Sayegh,Patricio,1967-12-28,ISR,Buenos Aires,ARG
 scaros,Scarione,Óscar,1985-07-14,ARG,José Carlos Paz,ARG
 scekal,Ščekić,Aleksandar,1991-12-12,MNT,Berane, 
@@ -3401,6 +3527,7 @@ segeya,Segev,Yaniv,1996-06-20,ISR, ,
 sehozl,Šehović,Zlatan,2000-08-08,SRB,Belgrade, 
 seidel,Seider,Elior,1991-11-17,ISR,Israel,ISR
 selait,Sela,Itay,1982-07-21,ISR, , 
+selemo,Selecter,Moshe,1961-12-03,ISR,Haifa,ISR
 selmas,Selmani,Astrit,1997-05-13,KOS,Malmö,SWE
 semami,Semama,Michael,1994-02-13,ISR, , 
 semedo,Semeghin,Dorin,1979-03-29,ROM,Gura Humorului,ROM
@@ -3417,6 +3544,7 @@ shaagb,Ben Shaanan,Galil,1982-06-27,ISR,Holon,ISR
 shaaos,Shaaban,Osama,1992-02-10,PAL, , 
 shaba1,Ben Shabat,Assaf,1999-02-08,ISR, , 
 shabab,Ben Shabat,Asael,1988-05-09,ISR,Beer Tuvia,ISR
+shabel,Shabo,Eli,0000-00-00,ISR, , 
 shabha,Shabo,Haim,1973-04-01,ISR,Ramat haSharon,ISR
 shabib,Ben Shabat,Itay,2000-07-09,ISR, ,ISR
 shabmb,Ben Shabat,Miki,1979-01-25,ISR, , 
@@ -3448,12 +3576,15 @@ shalko,Shalo,Kobi,1979-05-04,ISR,Bat Yam,ISR
 shalmu,Shalaata,Muhammad,1989-04-07,ISR,Sakhnin,ISR
 shalni,Shalaata,Nidal,1974-12-08,ISR,Sakhnin,ISR
 shalod,Shalata,Odai,1998-07-15,ISR, , 
+shalof,Shalom,Ofer,0000-00-00,ISR, , 
 shalsa,Shalev,Sapir,1992-09-01,ISR,Ashdod,ISR
 shalza,Shalata,Zen Aldin,2003-07-28,ISR, , 
+shamad,Shamir,Adir,1956-08-17,ISR, , 
 shamed,Shamir,Eden,1995-06-25,ISR,Kiryat Motzkin,ISR
 shamgu,Shamir,Guy,1978-01-09,ISR, , 
 shamih,Shami,Ihab,1993-09-18,ISR, , 
 shanjo,Shani,Jonathan,2006-06-16,ISR, ,ISR
+shapar,Shapira,Arie,1959-03-09,ISR, , 
 shapmo,Shapira,Moshe,1980-08-10,ISR, , 
 shapr1,Shapira,Ronen,1969-06-01,ISR, , 
 shapro,Shapira,Ronen,1967-03-28,ISR,Hadera,ISR
@@ -3508,8 +3639,12 @@ shima1,Ben Shimon,Amir,1993-12-14,ISR,Ashdod,ISR
 shimab,Ben Shimon,Assi,1969-01-02,ISR, , 
 shimad,Shimon,Adir,1985-08-10,ISR, , 
 shimbe,Shimoni,Ben,1996-07-03,ISR, , 
+shimeb,Ben Shimol,Eyal,1972-08-27,ISR, , 
+shimef,Shimonov,Efraim,1963-04-03,ISR, , 
+shimey,Shimon,Eyal,1968-09-07,ISR, , 
 shimmb,Ben Shimon,Meir,1962-05-07,ISR,Ashdod,ISR
 shimme,Shimonov,Menashe,1963-04-03,ISR,Tel Aviv,ISR
+shimmo,Shimonov,Moshe,1971-10-03,ISR, , 
 shimr1,Ben Shimon,Ran,1990-05-23,ISR,Ashdod,ISR
 shimr2,Ben Shimon,Roei,2000-12-04,ISR,Beit Ezra,ISR
 shimrb,Ben Shimon,Ran,1970-11-28,ISR,Petah Tikva,ISR
@@ -3518,11 +3653,14 @@ shimyo,Shimon,Yogev,1976-01-21,ISR, ,
 shimzb,Ben Shimol,Ziv,2004-01-27,ISR,Ma'ale Adumim,ISR
 shinya,Shina,Yakir,1985-09-25,ISR,Rishon leZion,ISR
 shirhe,Shirazi,Hezi,1969-02-07,ISR,Tel Aviv,ISR
+shirsh,Shirazi,Shlomo,1960-06-20,ISR,Netanya,ISR
 shisga,Shish,Gal,1989-01-28,ISR,Bat Yam,ISR
+shitmb,Ben Shitrit,Miki,1958-11-04,ISR, , 
 shitni,Shitrit,Nir,1969-08-10,ISR, , 
 shitof,Shitrit,Ofer,1970-07-12,ISR,Lod,ISR
 shitor,Shitrit,Ori,1986-01-21,ISR, , 
 shitta,Shitrit,Tal,1998-04-17,ISR,Ashdod,ISR
+shityi,Shitrit,Yigal,0000-00-00,ISR, , 
 shivyo,Shivhon,Yossi,1982-03-22,ISR,Petah Tikva,ISR
 shkaam,Shkalim,Amiran,1988-03-23,ISR, , 
 shkiev,Shkilov,Evgeni,1965-02-02,RUS,Blagoveshchensk,URS
@@ -3537,9 +3675,11 @@ shmuar,Shmueli,Arik,1977-12-14,ISR, ,
 shmuof,Shmueli,Ofir,1966-07-28,ISR,Jerusalem,ISR
 shmura,Shmuel,Rafi,1963-11-19,ISR, , 
 shmush,Shmueli,Shay,0000-00-00,ISR, , 
+shmuuz,Shmueli,Uzi,1969-11-14,ISR, , 
 shnoeh,Shnorman,Ehud,1975-08-07,ISR, , 
 shohno,Shoham,Noam,1970-04-04,ISR, , 
 shohro,Shohat,Roy,1999-02-10,ISR,Binyamina,ISR
+shokan,Shokh,Anton,1960-01-07,KAZ,Taraz,URS
 shoksn,Shoker,Snir,1989-05-08,ISR, , 
 sholha,Sholaja,Hamed,2000-01-29,NGR,Lagos, Nigeria
 sholit,Sholmyster,Itzik,1997-10-31,ISR, ,ISR
@@ -3589,6 +3729,8 @@ silvdo,Silva,Douglas,1984-03-07,BRA,Florianópolis,BRA
 silvha,Silvas,Haim,1975-11-21,ISR,Haifa,ISR
 silvle,Silva,Leandro,1994-05-04,POR, , 
 silvmi,Silva,Miguel,1995-04-07,POR, ,POR
+silvsi,Silvinho, ,1958-08-01,BRA,Itaperuna,BRA
+silvwa,Silva,Walkir,1959-12-06,URU,Montevideo,URU
 simada,Simão,David,1990-05-15,POR,Versailles,FRA
 simana,Simantov,Nadiv,1980-03-22,ISR,Tirat Carmel,ISR
 simash,Simantov,Shahar,1979-04-18,ISR, , 
@@ -3769,9 +3911,12 @@ tapiyo,Tapiro,Yoni,1985-01-01,ISR, ,
 tapoke,Tapoko,Kevin,1994-04-13,FRA,Laval,FRA
 taraba,Tarachulski,Bartosz,1975-05-14,POL,Gliwice,POL
 taramu,Tarabin,Musa,1997-08-16,ISR,Segev Shalom,ISR
+taraol,Taran,Oleg,1960-01-11,UKR,Ordzhonikidze- Dnipropetrovsk Oblast,URS
 tarash,Taragan,Shmuel,1972-01-13,ISR,Haifa,ISR
+tarayu,Tarasov,Yuriy,1960-04-05,UKR,Borshchova- Kharkow Region,URS
 tartey,Tartatzky,Eyal,1977-09-13,ISR,Haifa,ISR
 taseda,Tasevski,Darko,1984-05-20,MAC,Skopje, 
+tashyo,Tashma,Yossi,1960-03-10,ISR, , 
 tassor,Tassa,Oren,1969-10-08,ISR, , 
 taubni,Tauber,Nicolás,1980-08-20,ARG,La Plata,ARG
 tawata,Tawatha,Taleb,1992-06-21,ISR,Dschisr az-Zarqa,ISR
@@ -3790,6 +3935,7 @@ tekhna,Tekhauko,Nati,1974-11-01,ISR, ,
 telean,Telesnenko,Andriy,1966-04-12,UKR,Odessa,URS
 telkdi,Telkiyski,Dimitar,1977-05-05,BUL,Plovdiv,BUL
 tembfw,Tembo,Fwayo,1989-05-02,ZAM,Lusaka,ZAM
+tempgu,Tempone,Gustavo,1971-04-14,PER,Mar del Plata,ARG
 teneda,Tenenbaum,Daniel,1995-04-19,BRA,Rio de Janeiro,BRA
 tenejo,Tenenbaum,Jonathan,1979-09-01,ISR, , 
 teodva,Teodorică,Valentin,1981-01-26,ISR,Romania,ROM
@@ -3823,6 +3969,7 @@ tomeyo,Tomer,Yoav,1998-01-17,ISR,Kadima-Zoran,ISR
 tomkja,Tomka,János,1967-01-31,HUN,Pécs,HUN
 topuel,Topuzakov,Elin,1977-02-05,BUL,Dimitrovgrad,BUL
 torrlu,Torres,Luís,1979-10-15,POR, , 
+torrsh,Torres,Shabtai,1963-01-11,ISR, , 
 torxlu,Štor,Luka,1998-07-05,SLO,Šempeter pri Gorici,SLO
 toursa,Touray,Saikou,2000-06-06,GAM,Tujereng,GAM
 tovxts,Tov,Tomer Shem,1978-04-17,ISR, , 
@@ -3847,6 +3994,7 @@ tuavyo,Tuava,Yossef,1998-11-30,ISR, ,
 tubias,Tubi,Assi,1972-01-27,ISR,Tel Aviv,ISR
 tubitz,Tubi,Tzahi,1981-12-07,ISR, , 
 tubuad,Tubul,Adir,1979-06-30,ISR,Ashdod,ISR
+tubuav,Tubul,Avi,1971-09-02,ISR, , 
 tubuko,Tubul,Kobi,1971-01-26,ISR, , 
 tubuni,Tubul,Niv,2004-04-01,ISR, ,ISR
 tuefid,Tuef,Idan,1991-01-04,ISR, , 
@@ -3874,6 +4022,7 @@ twitdu,Twitto,Dudu,1994-02-06,ISR,Be'er Sheva,ISR
 twizda,Twizer,Daniel,1996-06-21,ISR, , 
 twizra,Twizer,Raz,1999-04-09,ISR, ,ISR
 twumpa,Twumasi,Patrick,1994-05-09,GHA,Obuasi, Ashanti Region
+tyomel,Tyomkin,Eli,1969-04-01,ISR, , 
 tyshva,Tyshchenko,Vadym,1963-03-24,UKR,Gorodok,UKR
 tzaaor,Tzaadon,Ori,1994-05-17,ISR,Nahariya,ISR
 tzadda,Tzadik,Daniel,2004-01-22,ISR, ,ISR
@@ -3886,7 +4035,10 @@ tzaili,Tzairi,Liroy,1989-03-02,ISR,Magshimim,ISR
 tzalam,Tzalah,Amit,1982-07-08,ISR, , 
 tzargu,Tzarfati,Guy,1979-04-28,ISR,Tel Aviv,ISR
 tzaril,Tzarfati,Ilan,1975-10-26,ISR, , 
+tzarja,Tzarfati,Jackie,1969-01-14,ISR, , 
+tzarme,Tzarfati,Meir,1966-08-07,ISR,Be'er Sheva,ISR
 tzarto,Zarfati,Tomer,2003-10-16,ISR,Pardes Hanna-Karkur,ISR
+tzdauz,Tzdaka,Uzi,1964-04-23,ISR, , 
 tzedsh,Tzedek,Shir,1989-08-22,ISR,Beit Alfa,ISR
 tzedyc,Tzedek,Yair Cohen,1984-07-21,ISR, , 
 tzemof,Tzemah,Ofer,1972-07-14,ISR, , 
@@ -3897,6 +4049,7 @@ tzufmi,Tzufin,Micha,1969-01-06,ISR, ,
 tzufsh,Tzufin,Sharon,1970-06-22,ISR, , 
 tzuras,Tzur,Assaf,1998-08-28,ISR,Petah Tikva,ISR
 tzuror,Tzur,Ori,0000-00-00,ISR, , 
+tzurye,Tzur,Yehiel Even,1962-02-05,ISR,Meknes,MAR
 tzvini,Tzvieli,Nir,1983-09-28,ISR, , 
 ubraae,El Ubra,Ali,1999-12-06,ISR,Ramla,ISR
 uddaba,Udda,Bahajat,1974-09-07,ISR, , 
@@ -3930,16 +4083,19 @@ vajaal,Vajaji,Alfred,1969-09-27,SVK,Slavičín,CZE
 vajsmi,Vajs,Miroslav,1979-07-27,MAC,Skopje, 
 vaknam,Vaknin,Ami,1979-10-24,ISR, , 
 vaknax,Vaknin,A.,0000-00-00,ISR, , 
+vaknda,Vaknin,David,1964-11-29,ISR, , 
 vaknil,Vaknin,Ilan,1968-08-28,ISR, , 
 vaknit,Vaknin,Itzhak,1992-06-07,ISR,Beer Sheva,ISR
 vaknko,Vaknin,Kobi,1980-01-28,ISR, , 
+vaknmo,Vaknin,Mordechai,1968-08-28,ISR, , 
 vaknor,Vaknin,Or,1995-09-21,ISR, , 
 vakns1,Vaknin,Shlomi,1978-04-01,ISR, , 
 vaknsh,Vaknin,Shlomi,1972-08-07,ISR, , 
 vaknto,Vaknin,Tomer,1973-04-30,ISR, , 
 valajo,Valachovič,Jozef,1975-07-12,SVK,Bratislava,CZE
-valdad,Valdés,Armando Dely,1964-01-05,PAN,Colón,PAN
+valdad,Dely Valdés,Armando,1964-01-05,PAN,Colón,PAN
 valdgi,Valdiero,Giovani,1975-06-17,BRA, , 
+valeda,Valency,Dan,0000-00-00,ISR, , 
 valeni,Valentić,Nikola,1983-09-06,SRB,Capljina, 
 valesa,Valentinčič,Sandi,1967-08-25,SLO, , 
 valima,Valiente,Marc,1987-03-29,SPA,Granollers,SPA
@@ -4017,6 +4173,7 @@ wedzgr,Wędzyński,Grzegorz,1970-06-04,POL,Przasnysz,POL
 weisal,Weisberg,Alon,1989-04-26,ISR, , 
 weishe,Weisheim,Héctor,1981-01-15,ARG,Piedras Blancas,ARG
 weissh,Weissman,Shon,1996-02-14,ISR,Haifa,ISR
+weitel,Weitzman,Eli,1962-12-03,ISR, , 
 weitid,Weitzman,Idan,1985-04-20,ISR,Nesher,ISR
 weitsh,Weitzman,Sharon,1975-09-01,ISR, , 
 welbrb,Welbeck,Richard Boateng,1992-07-10,GHA,Accra,GHA
@@ -4025,6 +4182,7 @@ welsem,Welshman,Emery,1991-11-09,GUY,Mississauga, Ontario
 weltwe,Welton, ,1978-07-11,BRA,Coronel Fabriciano,BRA
 wescwe,Wescley, ,1984-07-15,BRA,Vila Velha,BRA
 wigowi,Wigor, ,1995-01-07,BRA, , 
+wijaje,Wijas,Jerzy,1959-02-15,POL,Katowice,POL
 wildya,Wildschut,Yanic,1991-11-01,SUR,Amsterdam,NED
 willw1,Willie, ,1993-05-15,BRA,Caravelas,BRA
 willwi,William, ,1985-02-07,BRA,Acopora,BRA
@@ -4051,6 +4209,7 @@ yairbb,Ben Yair,Ben,1992-12-23,ISR,Beit Shemesh,ISR
 yairro,Yair,Roei,1995-03-03,ISR, , 
 yakasb,Ben Yakar,Shahar,2001-01-31,ISR, , 
 yampde,Yampolski,Dela,1988-07-28,ISR, , 
+yaniel,Yani,Eli,1959-07-21,ISR,Kfar Saba,ISR
 yankar,Yanko,Arik,1991-12-21,ISR,Rishon Lezion,ISR
 yanoga,Yanov,Gavriel,2000-09-16,ISR, , 
 yaoxel,Yao,Eloge,1996-01-20,CIV,Akrroukro,CIV
@@ -4060,11 +4219,15 @@ yasial,Yasin,Alaa,0000-00-00,ISR, ,
 yasimo,Yasin,Mohamad,1978-08-07,ISR, , 
 yassab,Yassin,Abed,2004-05-09,PAL,Shfar'am,ISR
 yatzro,Yatzkar,Rotem,2002-08-14,ISR, , 
+yavnro,Yavnai,Roei,0000-00-00,ISR, , 
 yavrye,Yavruyan,Yeghia,1981-10-18,ARM,Chaltyr,RUS
 yazama,Yazao,Makonant,1991-01-01,ISR, , 
 yebosa,Yeboah,Samuel,1986-06-25,GHA,Accra,GHA
+yechmo,Yechayes,Molya,1973-01-29,ISR, , 
+yeheof,Yehezkeli,Ofer,1967-04-12,ISR, , 
 yehesh,Yehezkel,Shauli,0000-00-00,ISR, , 
 yehiav,Yehiel,Avi,1979-09-26,ISR,Jaffa,ISR
+yehoib,Ben Yehonatan,Ilan,1973-03-05,ISR, , 
 yehoni,Yehoshua,Niv,2005-01-01,ISR, ,ISR
 yehub1,Yehuda,Barak,0000-00-00,ISR, , 
 yehuba,Yehuda,Barak,0000-00-00,ISR, , 
@@ -4124,6 +4287,7 @@ zaidkh,Zaid,Khaled,2004-12-05,ISR, ,
 zairbe,Zairi,Ben,1992-05-17,ISR,Magshimim,ISR
 zakebb,Ben Zaken,Benny,1982-10-18,ISR,Kiryat Shmona,ISR
 zakeib,Ben Zaken,Idan,1976-03-15,ISR, , 
+zakeod,Zaken,Oded,0000-00-00,ISR, , 
 zaketb,Ben Zaken,Tom,1994-10-29,ISR,Ashdod,ISR
 zakha1,Zakharov,Aleksandr,1969-08-11,RUS,Kursk,URS
 zakhal,Zakharov,Aleksey,1974-04-27,RUS, , 
@@ -4157,6 +4321,7 @@ zbedob,Zbedat,Obaida,1990-07-30,ISR,Sakhnin,ISR
 zbedsh,Zbedat,Shadi,1979-01-27,ISR, , 
 zbidkh,Zbidat,Khaled,1985-11-16,ISR, , 
 zeibar,Zeiberlins,Armands,1965-08-13,LAT, , 
+zeitgi,Zeitouni,Gil,1960-02-22,ISR, , 
 zeitor,Zeitouni,Oren,1976-02-18,ISR,Holon,ISR
 zeitsh,Zeitun,Shahar,1978-05-30,ISR, , 
 zekizo,Zekić,Zoran,1974-04-29,CRO,Osijek, 
@@ -4201,8 +4366,10 @@ zohaav,Zohar,Avivi,1972-12-04,ISR,Bat Yam,ISR
 zohait,Zohar,Itzik,1970-10-31,ISR,Bat Yam,ISR
 zohama,Zohar,Maor,1985-06-09,ISR,Ashdod,ISR
 zohaor,Zohar,Ori,1999-01-28,ISR,Ashdod,ISR
+zohayo,Zohar,Yoav,0000-00-00,ISR, , 
 zoidir,Zoidze,Irakli,1969-03-21,GEO, , 
 zomelr,Zome,Louis Rene,1988-04-06,CMR,Douala,CMR
+zosini,Zosim,Nimrod,1968-04-22,ISR, , 
 zrihni,Zrihan,Niv,1994-05-24,ISR,Ashdod,ISR
 zrihyi,Zrihan,Yigal,1968-06-22,ISR,Ashdod,ISR
 zsivgy,Zsivóczky,Gyula,1966-04-21,HUN,Budapest,HUN

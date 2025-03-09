@@ -1,14 +1,17 @@
-134
+156
 albeib,Albertsson,Ingi Björn,1952-11-03,ISL, , 
 arnaas,Arnarsson,Ásmundur,1972-03-14,ISL, ,ISL
 arnatm,Árnason,Thorlákur Már,1969-09-13,ISL, , 
 arnavi,Arnarsson,Viktor,1983-01-22,ISL,Reykjavík,ISL
+atlajo,Atlason,Jóhannes,1944-09-07,ISL, , 
 baldgu,Baldursson,Guðlaugur,1972-07-08,ISL, ,ISL
+baldvi,Baldursson,Vignir,1956-09-26,ISL, , 
 benegu,Benediktsson,Guðmundur,1974-09-03,ISL, ,ISL
 bettji,Bett,Jim,1959-11-25,SCO,Hamilton,SCO
 bjarol,Bjarnason,Ólafur,1975-05-15,ISL,Grindavík,ISL
 bjorga,Björnsson,Gústaf Adolf,1957-06-29,ISL, , 
 bjorkr,Björnsson,Kristinn,1955-09-13,ISL, , 
+bjorno,Björnsson,Nói,1960-05-24,ISL, , 
 bjorsi,Björgvinsson,Sigurdur,1959-03-22,ISL, , 
 boedhe,Bødker,Henrik,1981-06-23,DEN, ,DEN
 bogahe,Bogason,Helgi,1964-02-07,ISL,Keflavík,ISL
@@ -22,7 +25,9 @@ elsajk,Elísabetarson,Jökull,1984-04-26,ISL, ,ISL
 eyjosi,Eyjólfsson,Sigurður,1973-12-01,ISL,Reykjavík,ISL
 flovos,Flóventsson,Óli Stefán,1975-12-07,ISL, ,ISL
 gardle,Gardarsson,Leifur,1968-02-23,ISL, , 
+geirma,Geirsson,Marteinn,1951-02-11,ISL, , 
 geolio,Geolgau,Ion,1961-02-20,ROM,Pielești,ROM
+gislgu,Gíslason,Gunnar,1961-01-04,ISL,Akureyri,ISL
 gislpv,Gíslason,Páll Viðar,1970-04-17,ISL, ,ISL
 gislsi,Gíslason,Sigursteinn,1968-06-25,ISL,Akranes,ISL
 golaiv,Golac,Ivan,1951-06-15,SRB,Koprivnica, 
@@ -34,9 +39,11 @@ gudjbj,Guðjónsson,Bjarni,1979-02-26,ISL,Akranes,ISL
 gudjei,Guðjohnsen,Eiður,1978-09-15,ISL,Reykjavík,ISL
 gudjhe,Guðjónsson,Heimir,1969-04-03,ISL, ,ISL
 gudjjo,Guðjónsson,Jóhannes,1980-05-25,ISL,Akranes,ISL
+gudlja,Gudlaugsson,Janus,1955-10-07,ISL, , 
 gudmgu,Guðmundsson,Gunnar,1969-08-04,ISL, ,ISL
 gudmjo,Guðmundsson,Jóhann,1977-12-05,ISL,Reykjavík,ISL
 gudmkr,Guðmundsson,Kristján,1965-02-03,ISL, ,ISL
+gudmla,Gudmundsson,Lárus,1961-12-12,ISL,Reykjavík,ISL
 gudnei,Guðnason,Einar,1984-09-13,ISL, ,ISL
 gudnha,Guðnason,Haukur,1978-09-08,ISL,Keflavík,ISL
 guelpa,Guðlaugsson,Páll,1958-09-09,ISL, , 
@@ -48,10 +55,13 @@ gunnbr,Gunnarsson,Brynjar,1975-10-16,ISL,Reykjavík,ISL
 gylfag,Gylfason,Ágúst,1971-08-01,ISL,Reykjavík,ISL
 gylfma,Gylfason,Magnús,1967-07-20,ISL,Ólafsvík,ISL
 hallhe,Hallgrímsson,Heimir,1967-06-10,ISL,Vestmannaeyjar,ISL
+hallsi,Halldórsson,Sigurdur,1957-04-24,ISL, , 
 haraha,Haraldsson,Haraldur,0000-00-00,ISL, , 
 hardjo,Harðarson,Jóhannes,1976-07-28,ISL,Akranes,ISL
 haukjo,Hauksson,Jón,1978-05-02,ISL, ,ISL
 helgau,Helgason,Auðun,1974-06-18,ISL, ,ISL
+helgho,Helgason,Hördur,1949-02-28,ISL, , 
+hilmho,Hilmarsson,Hörður,1952-11-21,ISL,Reykjavík,ISL
 hinrth,Hinriksson,Þór,1964-00-00,ISL, ,ISL
 hinsey,Héðinsson,Eyjólfur,1985-01-01,ISL,Reykjavik,ISL
 hipope,Hipólito,Pedro,1978-09-16,POR,São Cristóvão e São Lourenço,POR
@@ -59,6 +69,7 @@ hreigu,Hreiðarsson,Guðmundur,1960-10-05,ISL, ,ISL
 hreihe,Hreiðarsson,Hermann,1974-07-11,ISL,Reykjavík,ISL
 hreisi,Hreiðarsson,Sigurbjörn,1975-11-25,ISL, ,ISL
 hskusH,Höskuldsson,Sigurður Heiðar,1985-05-15,ISL, ,ISL
+ingios,Ingimundarson,Óskar Sigthór,1959-02-13,ISL, , 
 jankmi,Jankovic,Milan,1960-04-27,ISL,Zagreb,CRO
 jeffia,Jeffs,Ian,1982-10-12,ENG,Chester,ENG
 jnasha,Jónasson,Hallgrímur,1986-05-04,ISL,Húsavík,ISL
@@ -66,9 +77,12 @@ jnssjS,Jónsson,Jón Stefán,1982-08-25,ISL, ,ISL
 johaal,Jóhannsson,Alfreð,1976-08-12,ISL, ,ISL
 johabj,Jóhannsson,Bjarni,1958-01-15,ISL,Neskaupstaður,ISL
 johaol,Jóhannesson,Ólafur,1957-06-30,ISL,Reykjavík,ISL
+johaom,Jóhannsson,Ómar,1960-09-20,ISL, , 
 jonada,Jónasson,Davíð,1987-02-26,ISL, ,ISL
+jonama,Jónatansson,Magnús,1943-03-04,ISL, , 
 jonsgu,Jónsson,Gunnlaugur,1974-11-29,ISL,Akranes,ISL
 jonskr,Jónsson,Kristinn Rúnar,1964-06-23,ISL, , 
+jonsmm,Jónsson,Magnús Már,1959-01-10,ISL, , 
 jonssi,Jónsson,Siggi,1966-09-27,ISL,Akranes,ISL
 kazidr,Kažić,Dragan,1961-06-27,SRB, ,SRB
 kjereh,Kjerúlf,Eysteinn Hauksson,1974-08-12,ISL, ,ISL
@@ -82,6 +96,7 @@ lafssi,Ólafsson,Sigurvin,1976-07-18,ISL,Vestmannaeyjar,ISL
 lamudS,Lamude,Davíð Smári,1984-04-01,ISL, ,ISL
 larubj,Lárusson,Bjarnólfur,1976-03-11,ISL, ,ISL
 larukr,Lárusson,Kristinn,1973-12-19,ISL, ,ISL
+larusi,Lárusson,Sigurdur,1954-06-26,ISL, , 
 larutg,Lárusson,Thórdur Georg,1954-12-29,ISL, , 
 leosre,Leósson,Reynir,1979-08-20,ISL, ,ISL
 ljubzo,Ljubicic,Zoran,1967-01-08,BOS,Sarajevo,BOS
@@ -95,13 +110,18 @@ olafan,Ólafsson,Andri,1985-06-26,ISL, ,ISL
 olaflo,Ólafsson,Logi,1954-11-14,ISL,Reykjavík,ISL
 ormspe,Ormslev,Pétur,1958-07-18,ISL, , 
 ottesl,Ottesen,Sölvi,1984-02-18,ISL,Reykjavík,ISL
+palsma,Pálsson,Magnús,1964-05-17,ISL, , 
 petupe,Pétursson,Pétur,1959-06-27,ISL,Akranes,ISL
 plmapl,Pálmason,Pálmi,1984-11-09,ISL, ,ISL
 puriej,Purisevic,Ejub,1968-02-09,BOS, ,BOS
 rnasha,Árnason,Halldór,1984-05-16,ISL, ,ISL
+rossia,Ross,Ian,1947-11-26,SCO,Glasgow,SCO
+rutssn,Rútsson,Snorri,1953-02-10,ISL, , 
 rydego,Ryder,Gregg Oliver,1988-00-00,ENG, ,ENG
 sankzo,Sankovic,Zeljko Oskar,1954-09-29,SRB,Knin, 
+sigfth,Sigfússon,Thórir,1959-07-19,ISL, , 
 sigmru,Sigmundsson,Rúnar,1974-05-05,ISL, ,ISL
+siguas,Sigurvinsson,Ásgeir,1955-05-08,ISL,Vestmannaeyjar,ISL
 sigugv,Sigurdsson,Gudmundur Valur,1961-05-12,ISL, , 
 siguha,Sigurðsson,Haukur,1987-08-05,ISL, ,ISL
 siguhe,Sigurðsson,Helgi,1974-09-17,ISL,Reykjavík,ISL
@@ -111,6 +131,7 @@ siguol,Sigurgeirsson,Olgeir,1982-10-22,ISL, ,ISL
 sigura,Sigurðsson,Ragnar,1986-06-19,ISL,Reykjavík,ISL
 skulol,Skúlason,Ólafur,1983-04-01,ISL,Reykjavík,ISL
 snorol,Snorrason,Ólafur,1982-04-22,ISL,Reykjavík,ISL
+sochiv,Sochor,Ivan,1946-02-14,SVK, , 
 steisv,Steingrímsson,Sveinn,1984-12-01,ISL, ,ISL
 stigol,Stígsson,Ólafur,1975-12-16,ISL, ,ISL
 sveija,Sveinsson,Jörundur Áki,1971-06-01,ISL, , 
@@ -122,6 +143,7 @@ thorg1,Þórðarson,Guðjón,1955-09-14,ISL,Akranes,ISL
 thorgu,Þorvaldsson,Gunnar,1982-04-01,ISL,Vestmannaeyjar,ISL
 thoroh,Þorvaldsson,Óskar Hrafn,1973-10-25,ISL, ,ISL
 thorol,Þórðarson,Ólafur,1965-08-22,ISL,Akranes,ISL
+thorsi,Thorleifsson,Sigurlás,1957-07-15,ISL, , 
 thorte,Thórdarson,Teitur,1952-01-14,ISL,Akranes,ISL
 thorth,Þórðarson,Þórður,1972-04-10,ISL,Akranes,ISL
 thorwi,Þórsson,Willum,1963-03-17,ISL,Reykjavík,ISL
