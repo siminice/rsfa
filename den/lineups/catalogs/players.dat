@@ -1,8 +1,11 @@
-3785
+4451
+aabeha,Aabech,Hans,1948-11-01,DEN, ,DEN
 aabeki,Aabech,Kim,1983-05-31,DEN,København,DEN
 aagakr,Aagaard,Kristoffer,1978-01-30,DEN, ,DEN
 aaquma,Aaquist,Mads,1994-12-31,DEN,Herlev,DEN
 aasxal,Aas,Alexander,1978-09-14,NOR,Porsgrunn,NOR
+aasxj1,Aas,Jørgen,0000-00-00,DEN, ,DEN
+aasxjo,Aas,Jørn,0000-00-00,DEN, ,DEN
 abbejj,Jensen-Abbew,Jonas,2002-04-20,DEN, ,DEN
 abdamo,Abdalas,Mohammed,1986-10-26,MAR, ,MAR
 abelth,Abel,Thomas,1974-03-13,DEN,Frederikssund,DEN
@@ -38,6 +41,8 @@ agnama,Agnarsson,Martin,2003-12-07,FER,Tórshavn,FER
 agneya,Agnero,Yannick,2003-02-20,CIV, ,CIV
 agusag,Agus, ,1985-05-03,SPA,Bonete,SPA
 agyier,Agyiri,Ernest,1998-03-06,GHA,Accra,GHA
+ahlbal,Ahlberg,Allan,1965-06-02,DEN, ,DEN
+ahlbfl,Ahlberg,Flemming,1946-12-23,DEN,Jægersborg,DEN
 ahlmja,Ahlmann,Jakob,1991-01-18,DEN,Aalborg,DEN
 ahlmvi,Ahlmann,Viktor,1995-01-03,DEN, ,DEN
 ahmean,Ahmedhodžić,Anel,1999-03-26,SWE, ,SWE
@@ -61,6 +66,8 @@ albean,Albers,Andreas,1990-03-23,DEN,Skive,DEN
 albera,Albentosa,Raúl,1988-09-07,SPA,Alzira,SPA
 albomi,Albornoz,Miiko,1990-11-30,CHI,Stockholm,SWE
 albrja,Albrechtsen,Jacob,1990-03-10,DEN, ,DEN
+albrjo,Albrechtsen,Jørgen,1962-12-24,DEN, ,DEN
+albrla,Albrechtsen,Lars,1960-04-12,DEN, ,DEN
 albrma,Albrechtsen,Martin,1980-03-31,DEN,Herlev,DEN
 aldian,Alding,Anders,1983-01-15,DEN,Kopenhagen,DEN
 aleipe,Alei,Peyman,0000-00-00,DEN, ,DEN
@@ -80,6 +87,7 @@ amanda,Amankwaa,Danny,1994-01-30,DEN,Oagaer,DEN
 amanya,Amankwah,Yaw,1988-07-07,NOR,Bergen,NOR
 amarda,Amartey,Daniel,1994-12-21,GHA,Accra,GHA
 ambrja,Žambůrek,Jan,2001-02-13,CZE,Prague,CZE
+ambrle,Ambrose,Leroy,1960-06-22,SVN, ,SVN
 ambrth,Ambrosius,Thomas,1969-07-14,DEN,Viborg,DEN
 ambyol,Amby,Oliver,2004-12-09,DEN, ,DEN
 amdijo,Amdisen,John,1980-03-16,DEN, ,DEN
@@ -100,11 +108,14 @@ andebr,Andersen,Brian,0000-00-00,DEN, ,DEN
 andeca,Andersen,Casper,1982-08-04,DEN, ,DEN
 anded1,Andersen,Daniel,2001-05-31,DEN, ,DEN
 andeda,Andersen,Danny,1983-01-29,DEN, ,DEN
+andeeb,Andersen,Ebbe,1950-06-27,DEN, ,DEN
 andeem,Andersen,Emeka,1971-06-08,DEN,Glostrup,DEN
 andeer,Andersen,Erik,1970-11-14,DEN,Dronningborg,DEN
 andefE,Andersen,Frej Elkjær,2007-05-05,DEN, ,DEN
 andefr,Andersen,Frank,1961-11-19,DEN, ,DEN
+andehe,Andersen,Henrik,0000-00-00,DEN, ,DEN
 andehu,Andersson,Hugo,1999-01-01,SWE,Skurup,SWE
+andeib,Andersen,Ib L.,0000-00-00,DEN, ,DEN
 andej1,Andersen,Jonas,1999-08-29,DEN,Vejle,DEN
 andej2,Andersen,Jesper,1979-05-31,DEN, ,DEN
 andej3,Andersen,Jonas,1987-06-18,DEN, ,DEN
@@ -112,13 +123,17 @@ andej4,Andersen,John,1966-02-22,DEN, ,DEN
 andej5,Andersen,John,1961-11-18,DEN, ,DEN
 andej6,Andersen,Jacob,2004-01-26,DEN,Galten,DEN
 andej7,Andersen,Jan,0000-00-00,DEN, ,DEN
+andej8,Andersen,John,1953-03-12,DEN, ,DEN
+andej9,Andersen,Jan,1959-04-28,DEN, ,DEN
 andeja,Andersen,Jacob,1995-08-04,DEN,Randers,DEN
+andejb,Andersen,Jørgen Bach,1959-04-03,DEN, ,DEN
 andejd,Dal Andersen,Jonas,1976-07-07,DEN, ,DEN
 andeje,Andersen,Jeppe,1992-12-06,DEN, ,DEN
 andejo,Andersson,Joel,1996-11-11,SWE,Göteborg,SWE
 andek1,Andersen,Kenneth,1966-07-27,DEN, ,DEN
 andek2,Andersen,Kenni,1964-11-26,DEN, ,DEN
 andek3,Andersen,Kent,0000-00-00,DEN, ,DEN
+andek4,Andersen,Kenneth,1967-10-23,DEN,Stenstrup,DEN
 andeke,Andersen,Kenn,1974-08-01,DEN, ,DEN
 andekr,Andersen,Kristian,1994-09-01,DEN, ,DEN
 andela,Andersen,Lasse,1995-05-24,DEN, ,DEN
@@ -139,20 +154,29 @@ andemb,Andersen,Martin Beck,1984-05-19,DEN, ,DEN
 andemi,Andersen,Mikkel,1988-12-17,DEN,Herlev,DEN
 andemk,Andersen,Magnus Kofod,1999-05-10,DEN,Hundested,DEN
 andemo,Andersen,Morten,1994-05-14,DEN,Hjørring,DEN
+andeni,Andersen,Niels,0000-00-00,DEN, ,DEN
 andep1,Andersen,Per Beck,1958-07-13,DEN,Aarhus,DEN
 andepa,Andersen,Patrick,0000-00-00,DEN, ,DEN
 andepe,Andersson,Petter,1985-02-20,SWE,Ljusvattnet,SWE
 andepf,Andersen,Peter Frank,1970-05-26,DEN,Rødovre,DEN
 andeph,Andersen,Phillip,1986-08-20,DEN, ,DEN
+andepo,Andersen,Poul,1953-11-28,DEN, ,DEN
 andere,Andersen,René,1973-08-23,DEN, ,DEN
 andero,Andersen,Ronnie,1967-10-09,DEN, ,DEN
 andes1,Andersen,Søren,1966-02-13,DEN, ,DEN
+andes2,Andersen,Søren Nygaard,1966-08-01,DEN, ,DEN
+andes3,Andersen,Steen,1960-03-18,DEN, ,DEN
+andes4,Andersen,Stig,1960-02-16,DEN, ,DEN
+andes5,Andersen,Steffen,0000-00-00,DEN, ,DEN
+andes6,Andersen,Søren,0000-00-00,DEN, ,DEN
 andese,Andersen,Sebastian,1988-12-23,DEN, ,DEN
 andeso,Andersen,Søren,1970-01-31,DEN,Aarhus,DEN
 andest,Andersen,Stephan,1981-11-26,DEN,Kopenhagen,DEN
 andet1,Andersen,Thomas,1980-02-05,DEN, ,DEN
 andet2,Andersen,Thomas,1959-04-18,DEN, ,DEN
+andet3,Andersen,Tommy,1959-09-18,DEN, ,DEN
 andeth,Andersen,Thomas,1984-08-20,DEN, ,DEN
+andeto,Andersen,Tommy,1968-03-07,DEN, ,DEN
 andetr,Andersen,Trond,1975-01-06,NOR,Kristiansund,NOR
 andeve,Andersen,Vetle,1964-04-20,NOR,Kristiansand,NOR
 andith,Andie,Thomas,1972-04-17,DEN,København,DEN
@@ -165,7 +189,10 @@ andrfl,Andreasen,Flemming,1964-06-14,DEN, ,DEN
 andrgr,Andrijevski,Greger,1973-04-29,SWE, ,SWE
 andrh1,Andreasen,Hagbard,1965-09-02,DEN, ,DEN
 andrha,Andreasen,Hans,1979-01-10,DEN,Ringkøbing,DEN
+andrhe,Andresen,Henrik,1968-11-08,DEN, ,DEN
 andrja,Andreasen,Jakob,1994-02-25,DEN, ,DEN
+andrjo,Andreasen,Johnny,1962-04-09,DEN, ,DEN
+andrke,Andreasen,Kenneth,0000-00-00,DEN, ,DEN
 andrle,Andreasen,Leon,1983-04-23,DEN,Aidt Thorsø,DEN
 andrlp,Andreassen,Louka Prip,1997-06-29,DEN, ,DEN
 andrma,Andreasen,Mathias,2003-10-08,DEN, ,DEN
@@ -187,6 +214,7 @@ antiqu,Antipas,Quincy,1984-04-20,ZIM,Harare,ZIM
 antmol,Antman,Oliver,2001-08-15,FIN, ,FIN
 antoem,Antonsen,Emil,1986-09-22,DEN, ,DEN
 antoiv,Antolič,Ivica,1968-03-18,CRO, ,CRO
+antokl,Antonsen,Klavs,1962-12-13,DEN, ,DEN
 antomi,Antonsson,Mikael,1981-05-31,SWE,Karlskrona,SWE
 antoto,Antonelius,Tomas,1973-05-07,SWE,Stockholm,SWE
 antwcl,Antwi,Clinton,1999-11-06,GHA, ,GHA
@@ -194,6 +222,7 @@ anyeda,Anyembe,Daniel,1998-07-22,DEN,Esbjerg,DEN
 appeka,Appelt,Karl,1999-11-04,DEN, ,DEN
 arabro,Arabaci,Roni,2001-02-14,DEN,København,DEN
 arajpa,Arajuuri,Paulus,1988-06-15,FIN,Helsinki,FIN
+arbspe,Arbs,Peter,1956-05-26,DEN, ,DEN
 arcepp,Piñones-Arce,Pablo,1981-08-27,SWE,Tumba,SWE
 arloma,Arlofelt,Martin,1985-01-25,DEN, ,DEN
 arnaad,Arnarson,Adam,1995-08-27,ISL,Akureyri,ISL
@@ -229,6 +258,7 @@ avanse,Avanzini,Sebastian,1995-04-01,ITA,Verona,ITA
 avciya,Avci,Yasin,1984-08-03,DEN, ,DEN
 avdidi,Avdic,Dino,1991-02-05,BOS, ,SWE
 avnsmo,Avnskjold,Morten,1979-08-26,DEN, ,DEN
+axeliv,Axelsen,Ivan,0000-00-00,DEN, ,DEN
 ayenbo,Ayeni,Bosun,1978-11-08,NGR,Lagos,NGR
 aynaog,Aynaoğlu,Oğuzhan,1992-03-22,DEN,Farum,DEN
 azeral,Azeredo,Alex,1990-08-21,BRA,São Gonçalo,BRA
@@ -236,9 +266,14 @@ babaco,Babatunde,Collins,1988-12-02,NGR, ,NGR
 babaed,Babayan,Edgar,1995-10-28,DEN,Berlin,GER
 babaib,Babatunde,Ibrahim,1984-12-29,NGR,Lagos,NGR
 babakh,Babacar,Khouma,1993-03-17,SEN,Thiès,SEN
+bachfi,Bach,Finn,1958-05-09,DEN, ,DEN
+bachja,Bachmann,Jan,0000-00-00,DEN, ,DEN
+bachjo,Bach,Jørn,1957-07-27,DEN, ,DEN
+bachki,Bachmann,Kim,0000-00-00,DEN, ,DEN
 bachru,Bach,Rune,1974-12-08,DEN, ,DEN
 bachth,Bach,Thomas,1972-01-19,DEN, ,DEN
 bachto,Bach,Tobias,2003-06-04,DEN, ,DEN
+backja,Backmann,Jan,0000-00-00,DEN, ,DEN
 backma,Backmann,Marcus,1998-01-05,DEN, ,DEN
 backni,Backman,Niklas,1988-11-13,SWE,Västerås,SWE
 backsi,Backmann,Simon,1993-04-27,DEN, ,DEN
@@ -247,12 +282,16 @@ baelth,Bælum,Thomas,1978-06-05,DEN,Aalborg,DEN
 baeran,Bærtelsen,Anders,2000-05-09,DEN,Aalborg,DEN
 baerda,Baerenholt,Daniel,1977-11-13,DEN, ,DEN
 bagejo,Bager,Jonas,1996-07-18,DEN,Hadsten,DEN
+bagest,Bagerskov,Steffen,1962-02-05,DEN, ,DEN
+baggkl,Bagge,Klaus,1960-12-29,DEN, ,DEN
 baggro,Bagge,Ronni,1984-10-05,DEN, ,DEN
 baggru,Bagger,Ruben,1972-01-16,DEN,Svogerslev,DEN
+bahncl,Bahne,Claus,0000-00-00,DEN, ,DEN
 bahxal,Bah,Alexander,1997-12-09,DEN, ,DEN
 baidmi,Baidoo,Michael,1999-05-14,GHA, ,GHA
 bajzpa,Bajza,Pavol,1991-09-04,SVK,Žilina,SVK
 bakemu,Bakenga,Mushaga,1992-08-08,NOR,Trondheim,NOR
+bakhku,Bakholt,Kurt,1963-08-12,DEN,Odense,DEN
 bakiyo,Bakiz,Younes,1999-02-05,DEN,København,DEN
 bakxkb,Bak,Kristian Bach,1982-10-20,DEN,Aaskov,DEN
 bakxle,Bak,Lennart,1972-09-13,DEN,Frederikshavn,DEN
@@ -262,6 +301,7 @@ baldan,Baldursson,Andri,2002-01-10,ISL,Kópavogur,ISL
 baldgu,Baldvinsson,Guðjón,1986-02-15,ISL,Garðabær,ISL
 ballul,Balling,Ulrik,1975-06-11,DEN,Slagelse,DEN
 balozo,Balog,Zoltán,1978-02-22,HUN,Bekes,HUN
+bangje,Bangsbo,Jens,1957-10-02,DEN, ,DEN
 bangpa,Banggaard,Patrick,1994-04-04,DEN,Otterup,DEN
 bankch,Bank,Christian,1974-04-25,DEN, ,DEN
 bannch,Bannis,Christian,1992-01-04,DEN, ,DEN
@@ -271,9 +311,11 @@ bardr1,Bardghji,Roony,2005-11-15,SWE,Kuwait City,KUW
 bardro,Bardagji,Roony,2005-11-15,SWE,Kuwait City,KUW
 bareja,Baré, ,1982-01-18,BRA,Venancio Aires,BRA
 barkat,Barkarson,Atli,2001-03-19,ISL,Akureyri,ISL
+barnju,Barnett,Julian,1959-04-30,ENG, ,ENG
 barrha,Barry,Hamza,1994-10-15,GAM,Banjul,GAM
 barrou,Barro,Oumar,1974-06-03,BFS, ,BFS
 barrwa,Barrett,Wade,1976-06-23,USA,Virginia Beach,USA
+barsci,Barslev,Cimm,1960-07-08,DEN, ,DEN
 barska,Barslund,Kaare,2004-03-23,DEN,Helsinge,DEN
 barsso,Barslund,Søren,1977-12-24,DEN, ,DEN
 bartja,Bartram,Jan,1962-03-06,DEN,Frederiksberg,DEN
@@ -284,6 +326,8 @@ bartma,Barthel,Mathias,1993-05-30,DEN, ,DEN
 bashha,Bashir,Hassan,1987-01-07,PAK, ,DEN
 bassch,Bassogog,Christian,1995-10-18,CMR,Douala,CMR
 bassmi,Basse,Mikkel,1996-08-31,DEN, ,DEN
+bastjo,Bastrup,Johannes,0000-00-00,DEN, ,DEN
+bastla,Bastrup,Lars,1955-07-31,DEN,Levring,DEN
 batabr,Batata,Bruno,1984-09-26,BRA,Curitiba,BRA
 baunal,Baun,Alexander,1995-11-18,DEN, ,DEN
 baunge,Baunsgaard,Geert,1981-09-29,DEN, ,DEN
@@ -295,6 +339,7 @@ bechbe,Bechara, ,1976-02-25,BRA,Maranguape-CE,BRA
 bechje,Bech,Jesper,1982-05-25,DEN, ,DEN
 bechke,Bechmann,Kevin,1989-07-09,DEN, ,DEN
 bechma,Bech,Mads,1999-01-07,DEN,Horsens,DEN
+bechmo,Bech,Morten,0000-00-00,DEN, ,DEN
 becht1,Bech,Tobias,2002-02-19,DEN,Møldrup,DEN
 bechto,Bechmann,Tommy,1981-12-22,DEN,Aarhus,DEN
 bechtr,Bech,Troels,1966-07-29,DEN,Svendborg,DEN
@@ -321,6 +366,8 @@ bengpa,Bengtsson,Patrik,1971-03-09,SWE, ,SWE
 bengpi,Bengtsson,Pierre,1988-04-12,SWE,Kumla,SWE
 bength,Bengtsson,Thomas,1966-08-06,DEN, ,DEN
 benjpe,Benjaminsen,Peter,1982-12-03,DEN,Gladsaxe,DEN
+bentmo,Bentsen,Mogens,0000-00-00,DEN, ,DEN
+bentol,Bentsen,Ole,0000-00-00,DEN, ,DEN
 beqibe,Beqiri,Berat,1996-06-03,ALB,København,DEN
 bergan,Bergdølmo,André,1971-10-13,NOR,Oslo,NOR
 bergem,Berggreen,Emil,1993-05-10,DEN,Helsingør,DEN
@@ -329,19 +376,24 @@ bergfi,Bergman,Filip,1979-03-13,SWE,Stockholm,SWE
 bergfr,Berglund,Fredrik,1979-03-21,SWE,Borås,SWE
 bergfs,Berge,Fredrik Semb,1990-02-06,NOR,Skien,NOR
 bergja,Berger,Jakob,1972-03-25,DEN, ,DEN
+bergkl,Berggreen,Klaus,1958-02-03,DEN,Virum,DEN
 bergma,Bergvold,Martin,1984-02-20,DEN,Rødovre,DEN
 bergs1,Berger,Sofus,2003-06-02,DEN,Viborg,DEN
 bergso,Berg,Søren,1976-05-15,DEN,Odense,DEN
 beribe,Berisha,Besart,1985-07-29,KOS,Priština,KOS
+beripo,Bering,Poul,1960-11-29,DEN, ,DEN
 bernbi,Berntsson,Billy,1984-01-06,SWE,Karlshamn,SWE
 bernhc,Bernat,Hans Christian,2000-11-13,DEN, ,DEN
 bernma,Bernburg,Martin,1985-12-26,DEN, ,DEN
 bernpa,Bernier,Patrice,1979-09-23,CAN,Brossard,CAN
 bernro,Bernat,Robert,1965-05-13,POL, ,POL
 berntr,Bernth,Troels,1982-02-12,DEN, ,DEN
+bertbr,Bertelsen,Brian,1963-04-19,DEN, ,DEN
 bertja,Berthelsen,Jacob,1986-07-04,DEN, ,DEN
+bertjj,Bertelsen,Jens Jørn,1952-02-15,DEN, ,DEN
 bertmo,Bertolt,Morten,1984-02-12,DEN,Herlev,DEN
-bertpe,Bertelsen,Peter,0000-00-00,DEN, ,DEN
+bertp1,Bertelsen,Per,1960-07-02,DEN, ,DEN
+bertpe,Bertelsen,Peter,1966-08-17,DEN, ,DEN
 besedr,Besek,Dražen,1963-03-10,CRO,Varaždin,YUG
 bidsma,Bidstrup,Mads,2001-02-25,DEN,Køge,DEN
 bidsst,Bidstrup,Stefan,1975-02-24,DEN,Helsingør,DEN
@@ -350,6 +402,7 @@ bilgon,Bilgin,Onur,0000-00-00,DEN, ,DEN
 biliho,Bility,Hosine,2001-05-10,AUS, ,AUS
 birkca,Birkedal,Carsten,1970-04-21,DEN, ,DEN
 birkke,Birkedal,Kenneth,1965-11-19,DEN, ,DEN
+birkmi,Birkedal,Michael,1959-11-18,DEN,København,DEN
 birkva,Birksø,Valdemar,2001-03-17,DEN,Brande,DEN
 birnma,Birn,Martin,1968-08-19,DEN, ,DEN
 bisccl,Bischoff,Clement,2005-12-16,DEN, ,DEN
@@ -361,11 +414,13 @@ bizopa,Bizoza,Parfait,1999-03-03,BDI,Skodje,NOR
 bjarte,Bjarnason,Teddy,1987-03-04,ISL,Reykjavík,ISL
 bjelan,Bjelland,Andreas,1988-07-11,DEN,Fredensborg,DEN
 bjera1,Bjerre,Anders,1969-05-27,DEN, ,DEN
-bjera2,Bjerregaard,Anders,1974-07-09,DEN, ,DEN
-bjeran,Bjerregaard,André,1991-09-03,DEN, ,DEN
+bjera2,Bjerregård,Anders,1974-07-09,DEN, ,DEN
+bjera3,Bjerregård,Anders,0000-00-00,DEN, ,DEN
+bjeran,Bjerregård,André,1991-09-03,DEN, ,DEN
 bjercf,Flindt-Bjerg,Christian,1974-02-19,DEN,Innsbruck,AUT
 bjerke,Bjerre,Kenneth,1976-04-07,DEN, ,DEN
 bjerla,Bjerring,Lars,1981-11-30,DEN, ,DEN
+bjerov,Bjerg,Ove Flindt,1948-07-21,DEN, ,DEN
 bjoefr,Björck,Fredrik,1979-10-22,SWE,Kållered,SWE
 bjoejo,Bjørdal,Johan,1986-05-05,NOR,Egersund,NOR
 bjoepe,Bjørnsholm,Per,1988-03-18,DEN, ,DEN
@@ -397,6 +452,7 @@ boedh1,Bødker,Henrik,1981-06-23,DEN, ,DEN
 boedhe,Bødker,Henrik,1983-06-06,DEN, ,DEN
 boeghe,Bøgebjerg,Henrik,1981-06-02,DEN, ,DEN
 boegje,Bøge,Jesper,1990-02-22,DEN,Bogense,DEN
+boegjo,Bøgvad,Johnny,1954-06-26,DEN, ,DEN
 boegka,Bøgelund,Kasper,1980-10-08,DEN,Odense,DEN
 boegni,Bøgild,Nicolas,1988-02-23,DEN, ,DEN
 boejca,Bøje,Casper,1974-05-11,DEN, ,DEN
@@ -414,6 +470,8 @@ bomami,Boman,Mikael,1988-07-14,SWE,Kungsbacka,SWE
 bondj1,Bonde,Jakob,1993-12-29,DEN, ,DEN
 bondja,Bonde,Jacob,1993-12-29,DEN, ,DEN
 bondpe,Bonde,Peter,1958-02-14,DEN,Næstved,DEN
+bondth,Bonderup,Thomas,1965-06-06,DEN, ,DEN
+bonnjo,Bonnez,John,1968-12-13,DEN, ,DEN
 bonnto,Bonne,Tommy,1966-08-16,DEN, ,DEN
 bordke,Bordinggaard,Keld,1962-11-23,DEN,Holstebro,DEN
 borgal,Borgvardt,Allan,1980-06-05,DEN,Bramming,DEN
@@ -438,6 +496,7 @@ braada,Braaten,Daniel,1982-05-25,NOR,Oslo,NOR
 braesi,Bræmer,Simon,1984-03-19,DEN, ,DEN
 braima,Braithwaite,Martin,1991-06-05,DEN,Esbjerg,DEN
 brajmu,Brajanac,Muamer,2001-02-15,DEN,Kolding,DEN
+bramja,Bramsen,Jan,1961-01-20,DEN, ,DEN
 branfr,Brandhof,Frederik,1996-07-05,DEN,Skive,DEN
 branje,Brandrup,Jeppe,1985-06-03,DEN,København,DEN
 branwa,Brandão, ,1990-08-18,BRA, ,BRA
@@ -454,10 +513,15 @@ brinch,Bring,Christian,0000-00-00,DEN, ,DEN
 brinda,Brink,Daniel,0000-00-00,DEN, ,DEN
 brinje,Brinch,Jeppe,1995-05-08,DEN, ,DEN
 brinma,Brink,Mark,1998-03-15,DEN,Esbjerg,DEN
+brinpe,Brinch,Peer,0000-00-00,DEN, ,DEN
+britla,Britz,Lars,1960-08-28,DEN, ,DEN
+brixje,Brix,Jens,0000-00-00,DEN, ,DEN
 brocto,Brochmann,Tonny,1989-08-11,DEN,Horsens,DEN
 brodki,Brodersen,Kim,1963-02-03,DEN,Aabenraa,DEN
 broela,Brøgger,Lars,1970-03-22,DEN,København,DEN
+broghe,Brogård,Henrik,0000-00-00,DEN, ,DEN
 brolsa,Brolin,Samuel,2000-09-29,SWE,Lidköping,SWE
+bronfi,Bronee,Finn,1958-10-07,DEN, ,DEN
 brooga,Brooks,Garry,1982-08-09,DEN, ,DEN
 brorfr,Brorsson,Franz,1996-01-30,SWE,Trelleborg,SWE
 brormr,Brorsen,Martin Rauschenberg,1992-01-15,DEN,Ribe,DEN
@@ -473,11 +537,16 @@ brunbr,Bruninho, ,1989-09-29,BRA,Porto Alegre,BRA
 brunhe,Brund,Henrik,1971-05-08,DEN, ,DEN
 brunmi,Brund,Mikkel,0000-00-00,DEN, ,DEN
 bruuan,Bruus,Andreas,1999-01-16,DEN, ,DEN
+bruuja,Bruun Sørensen,Jan,0000-00-00,DEN, ,DEN
 bruumo,Bruun,Morten,1965-06-28,DEN,Nr. Søby,DEN
 brynol,Brynhildsen,Ola,1999-04-27,NOR,Bærum,NOR
+brynpe,Brynningsen,Peter,0000-00-00,DEN, ,DEN
+buchcl,Buchardt,Claus,0000-00-00,DEN, ,DEN
+buchfi,Buchardt,Finn,0000-00-00,DEN, ,DEN
+buchth,Buchardt,Thomas,0000-00-00,DEN, ,DEN
 budtja,Budtz,Jan,1979-04-20,DEN,Hillerød,DEN
 budtol,Budtz,Ole,1979-04-20,DEN,Hillerød,DEN
-buelpe,Bülow,Peter,0000-00-00,DEN, ,DEN
+buelpe,Bülow,Peter,1967-03-24,DEN, ,DEN
 buenri,Bueno,Ricardo,1987-08-15,BRA,São Paulo,BRA
 buhlpe,Buhl,Peter,1966-04-18,DEN, ,DEN
 buhrpl,Buhr,Peter Lund,1989-03-17,DEN, ,DEN
@@ -491,6 +560,7 @@ burety,Burey,Tyler,2001-01-09,ENG,Hillingdon,ENG
 burnmi,Burns,Mike,1970-09-14,USA,Marlborough,USA
 buscal,Busch,Alexander,2003-07-25,DEN,Resenbro,DEN
 buskja,Busk,Jakob,1993-09-12,DEN,København,DEN
+buskje,Busk,Jens,1960-11-07,DEN,Frederiksberg,DEN
 buskso,Busk,Søren,1953-04-10,DEN,Glostrup,DEN
 bustas,Bust,Asger,1996-09-24,DEN, ,DEN
 busuaz,Bušuladžić,Azer,1991-11-12,BOS,Kolding,DEN
@@ -531,7 +601,7 @@ carrol,Carrara,Oliver,1998-01-20,DEN, ,DEN
 carrro,Carroll,Roy,1977-09-30,NIR,Enniskillen,NIR
 carsfr,Carstensen,Frederik,2002-04-09,DEN,Virklund,DEN
 carsja,Carstensen,Jan,1975-08-05,DEN, ,DEN
-carsla,Carstensen,Lars Ole,0000-00-00,DEN, ,DEN
+carsla,Carstensen,Lars Ole,1960-04-05,DEN, ,DEN
 carsra,Carstensen,Rasmus,2000-10-11,DEN, ,DEN
 catode,Catovic,Denis,2002-02-03,DEN, ,DEN
 cavral,Čavrić,Aleksandar,1994-05-18,SRB,Vukovar,CRO
@@ -552,27 +622,35 @@ chriaN,Christophersen,Andreas Nonbo,2004-08-28,DEN, ,DEN
 chriam,Christensen,Anders Møller,1977-07-26,DEN, ,DEN
 chrian,Christiansen,Anders,1990-06-08,DEN,København,DEN
 chrib1,Christensen,Bent,1963-02-02,DEN,Vaerlöse,DEN
+chrib2,Christensen,Brian,1965-02-25,DEN, ,DEN
 chribe,Christensen,Bent Turbo,1967-01-04,DEN,København,DEN
 chribr,Christensen,Brian,1971-06-02,DEN, ,DEN
 chric1,Christiansen,Claus Friis,1972-03-27,DEN, ,DEN
 chric2,Christensen,Carl,2006-03-22,DEN, ,DEN
+chric3,Christensen,Claus,1961-06-14,DEN, ,DEN
 chrica,Christensen,Carsten,1986-08-28,DEN, ,DEN
 chrich,Christiansen,Christian,1982-01-29,DEN, ,DEN
 chricl,Christiansen,Claus,1967-10-19,DEN,Glostrup,DEN
 chrida,Christensen,Daniel,1988-09-19,DEN, ,DEN
 chriem,Christensen,Emil,1997-07-10,DEN, ,DEN
+chrier,Christensen,Erik,1957-10-11,DEN, ,DEN
 chrif1,Christensen,Frederik,1995-03-07,DEN, ,DEN
 chrif2,Christensen,Frederik,2002-06-07,DEN,Ikast,DEN
-chrifi,Christensen,Finn,1962-03-25,DEN,Hedensted,DEN
+chrif3,Christensen,Finn V.,0000-00-00,DEN, ,DEN
+chrifb,Christensen,Finn B.,0000-00-00,DEN, ,DEN
+chrifi,Christensen,Finn Vind,1962-03-25,DEN,Hedensted,DEN
 chrifl,Christensen,Flemming,1958-04-10,DEN,København,DEN
 chrifr,Christensen,Frederik,2000-01-19,DEN, ,DEN
 chrigu,Christensen,Gustav,2004-09-07,DEN,Ikast,DEN
 chriha,Christiaens,Hans,1964-01-12,BEL, ,BEL
+chrihe,Christensen,Henrik,1961-09-14,DEN, ,DEN
 chrij1,Christiansen,Jesper,1978-04-24,DEN, ,DEN
 chrij2,Christiansen,Jesper,1980-06-18,DEN,Odense,DEN
 chrij3,Christensen,Jacob,2001-06-25,DEN,København,DEN
+chrij4,Christensen,Jørgen,0000-00-00,DEN, ,DEN
 chrija,Christoffersen,Jan,1971-02-26,DEN, ,DEN
 chrije,Christjansen,Jesper,1987-12-20,DEN, ,DEN
+chrijo,Christiansen,Johnny,0000-00-00,DEN, ,DEN
 chrijs,Christensen,Jacob Steen,2001-06-25,DEN,København,DEN
 chrik1,Christensen,Kim,1980-05-08,DEN,Kopenhagen,DEN
 chrik2,Christensen,Kian,1986-08-12,DEN, ,DEN
@@ -586,11 +664,15 @@ chriki,Christensen,Kim,1979-07-16,DEN,Hvidovre,DEN
 chril1,Christoffersen,Lars,1971-02-26,DEN, ,DEN
 chril2,Christensen,Lars,1964-07-08,DEN, ,DEN
 chrila,Christensen,Lars,1989-02-01,DEN, ,DEN
+chrilb,Christensen,Lars Bagge,1960-02-20,DEN, ,DEN
 chrim1,Christensen,Martin,1987-12-23,DEN,Ishøj,DEN
 chrim2,Christoffersen,Mikkel,1983-08-10,DEN, ,DEN
 chrim3,Christiansen,Morten,1978-01-04,DEN,Arhus,DEN
 chrim4,Christensen,Michael,1978-11-18,DEN, ,DEN
 chrim5,Christensen,Magnus,1980-04-10,DEN, ,DEN
+chrim6,Christensen,Michael,1956-11-02,DEN, ,DEN
+chrim7,Christophersen,Michael,1959-01-22,DEN, ,DEN
+chrim8,Christiansen,Mogens,1953-01-13,DEN, ,DEN
 chrima,Christensen,Magnus,1997-08-20,DEN,Frederikshavn,DEN
 chrimi,Christensen,Michael,1983-02-06,DEN, ,DEN
 chrimo,Christensen,Morten,1979-05-11,DEN,Broby,DEN
@@ -599,10 +681,12 @@ chriol,Christensen,Oliver,1999-03-22,DEN,Kerteminde,DEN
 chrip1,Christiansen,Peter,1975-01-30,DEN,Hillerød,DEN
 chripe,Christiansen,Peter,1999-12-02,DEN, ,DEN
 chrir1,Christiansen,Rasmus,1989-10-06,DEN,Gribskov,DEN
+chrir2,Christensen,Rene,0000-00-00,DEN, ,DEN
 chrira,Christensen,Rasmus,1991-08-12,DEN, ,DEN
 chrire,Christensen,René,1988-01-21,DEN, ,DEN
 chris1,Christensen,Søren,1986-06-29,DEN,Døllefjelde,DEN
 chris2,Christensen,Søren,1967-02-07,DEN, ,DEN
+chris3,Christiansen,Stefan,0000-00-00,DEN, ,DEN
 chriso,Christensen,Søren,1996-05-01,DEN, ,DEN
 christ,Christensen,Sten,1965-12-18,DEN, ,DEN
 chrit1,Christensen,Tom,1982-01-31,DEN, ,DEN
@@ -611,8 +695,13 @@ chrit3,Christiansen,Torben,1966-04-20,DEN, ,DEN
 chrit4,Christiansen,Thomas,1973-03-11,SPA,Hadsund,DEN
 chrit5,Christensen,Thomas,1981-01-02,DEN, ,DEN
 chrit6,Christensen,Torben,1963-07-14,DEN,Tars,DEN
+chrit7,Christensen,Tommy,1961-07-20,DEN,Hillerød,DEN
+chrit8,Christensen,Tom,1962-11-17,DEN, ,DEN
+chrit9,Christensen,Torben,0000-00-00,DEN, ,DEN
 chrith,Christensen,Thomas,1984-01-20,DEN,Bagsværd,DEN
+chritj,Christensen,Thomas Juul,0000-00-00,DEN, ,DEN
 chrito,Christensen,Tobias,1995-01-04,DEN, ,DEN
+chrobr,Chrøis,Brian,1959-11-12,DEN,København,DEN
 chrych,Chrys, ,1986-12-06,BRA, ,BRA
 chukto,Chukwuani,Tochi,2003-03-24,DEN, ,DEN
 cieslu,Cieślewicz,Łukasz,1987-11-15,POL,Gniezno,POL
@@ -622,9 +711,12 @@ clarst,Clark,Steve,1986-04-14,USA,Mason,USA
 clauan,Clausen,Anders,1978-04-19,DEN, ,DEN
 clauc1,Clausen,Claus,1972-12-07,DEN, ,DEN
 claucl,Claudemir, ,1988-03-27,BRA,Bahia,BRA
+claufr,Clausen,Frank,1960-06-30,DEN,Odense,DEN
+clauke,Clausen,Kent,0000-00-00,DEN, ,DEN
 clauni,Clausen,Nicolai,1995-06-10,DEN, ,DEN
 clemch,Clem,Christian,1973-01-06,DEN,København,DEN
 clemkn,Clem,Knut,1968-02-18,DEN,København,DEN
+clemlb,Clemmensen,Lars Bo,0000-00-00,DEN, ,DEN
 clemwi,Clem,William,2004-06-20,DEN,Vedbæk,DEN
 clifcl,Cliford,Clement,1977-05-09,DEN,København,DEN
 clorke,Clorius,Ketil,1975-03-14,DEN, ,DEN
@@ -638,6 +730,8 @@ corlaz,Corlu,Azad,1991-01-12,DEN,København,DEN
 corlre,Corlu,Rezan,1997-08-07,DEN,Glostrup,DEN
 cornan,Cornelius,Andreas,1993-03-16,DEN,København,DEN
 corraz,Corr,Aziz,1965-12-12,GAM, ,GAM
+cortbo,Cortzen,Bo,0000-00-00,DEN, ,DEN
+cottru,Cotten,Russell,0000-00-00,DEN, ,DEN
 coulla,Coulibaly,Lasso,2002-10-19,CIV, ,CIV
 coulma,Coulibaly,Mamadou,1980-05-26,CIV,Costa Marfi,CIV
 courel,La Cour,Emil,1990-07-19,DEN, ,DEN
@@ -659,24 +753,33 @@ dahlgu,Dahl,Gustav,1996-01-21,DEN, ,DEN
 dahlhe,Dahl,Henrik,1975-05-01,SWE, ,SWE
 dahljo,Dahlin,Johan,1986-09-08,SWE,Trollhättan,SWE
 dahlla,Dahl,Lars,0000-00-00,DEN, ,DEN
+dahlmi,Dahl,Michael,1961-04-08,DEN, ,DEN
 dahlta,Dahlum,Tore André,1968-06-21,NOR,Kristiansand,NOR
 dakijo,Dakir,Jonas,1997-04-18,DEN, ,DEN
 dakiko,Dakinah,Kofi,1980-02-01,DEN, ,DEN
 dalban,D'Alberto,Anthony,1994-10-13,BEL,Lubumbashi,DRC
+dalgcl,Dalgård,Claus,0000-00-00,DEN, ,DEN
 dalgka,Dalgas,Kaspar,1976-05-11,DEN,Velje,DEN
 dalgth,Dalgaard,Thomas,1984-04-13,DEN,Nykøbing Mors,DEN
 dalgze,Dalügge,Zean,2003-07-11,DEN,Tønder,DEN
 dalles,Dall,Eskild,2003-01-08,DEN,Aalborg,DEN
+dallla,Dall-Hansen,Lars,1958-07-26,DEN, ,DEN
 dalshe,Dalsgaard,Henrik,1989-07-27,DEN,Roum,DEN
+dalsla,Dalsborg,Lars,1960-04-01,DEN, ,DEN
 dalsma,Dalsgaard,Magnus,2000-00-00,DEN, ,DEN
+dalspe,Dalsgaard,Peter,0000-00-00,DEN, ,DEN
 dambjb,Brix-Damborg,Jonas,1986-04-17,DEN, ,DEN
 damgem,Damgaard,Emil,1998-08-20,DEN, ,DEN
 damghe,Damgaard,Henrik,0000-00-00,DEN, ,DEN
 damkfr,Damkjer,Frederik,0000-00-00,DEN, ,DEN
+dammjo,Damm,Jørn,1949-03-17,DEN, ,DEN
+dammmi,Damm,Michael,0000-00-00,DEN, ,DEN
 dammwe,Dammers,Wessel,1995-03-01,NED,Ouderkerk aan den IJssel,NED
 damsjo,Damsted,John,1969-05-22,DEN, ,DEN
+damska,Damsgård,Karl Åge,1952-09-22,DEN,Ikast,DEN
 damsla,Damsbo,Lars,1974-04-12,DEN, ,DEN
 damsmi,Damsgaard,Mikkel,2000-07-03,DEN,Jyllinge,DEN
+damspe,Damsbo,Peter,0000-00-00,DEN, ,DEN
 damsto,Damsgaard,Tobias,1998-08-03,DEN, ,DEN
 danide,Danielsen,Dennis,1972-03-08,DEN, ,DEN
 dannni,Dannevang,Niklas,1990-09-11,DEN, ,DEN
@@ -693,8 +796,10 @@ davilo,Davids,Lorenzo,1986-09-04,SUR,Paramaribo,SUR
 davivi,Davidsen,Viljormur,1991-07-19,FER,Runavík,FER
 dayyna,Dayyani,Navid,1987-02-17,DEN, ,DEN
 deblse,Deblé,Serges,1989-10-01,CIV,Anyama,CIV
+debomi,Debois,Michael,1959-02-27,DEN, ,DEN
 dedode,Dedovic,Denis,1991-09-27,DEN, ,DEN
 deedld,Deedson,Louicius Don,2001-02-11,HAI, ,HAI
+degnfl,Degn,Flemming,1960-12-26,DEN, ,DEN
 degnpe,Degn,Peter,1977-04-06,DEN,Randers,DEN
 dehlmk,Krohn-Dehli,Michael,1983-06-06,DEN,København,DEN
 delaed,Delani,Eduardo,1981-11-03,BRA,Brasília,BRA
@@ -721,6 +826,7 @@ diopmp,Diop,Moustapha Papa,1987-05-01,SEN,Saint-Louis,SEN
 dioupa,Diouf,Pape,1986-04-04,SEN,Dakar,SEN
 dissso,Dissing,Søren,1960-10-09,DEN, ,DEN
 dithan,Dithmer,Andreas,2005-08-01,DEN, ,DEN
+ditlhh,Ditlevsen,Hans Henrik,1955-07-10,DEN, ,DEN
 divkma,Divković,Marko,1999-06-11,CRO,Vinkovci,CRO
 djabal,Djabi,Alamara,2006-09-28,POR, ,POR
 djamcn,Djam,Claude Ngon A,1980-01-24,CMR,Douala,CMR
@@ -736,6 +842,7 @@ doesmi,Døssing,Michael,1969-11-16,DEN, ,DEN
 dogane,Dogan,Newroz,1979-09-09,DEN, ,DEN
 dohnni,Dohn,Nikolai,1998-08-18,DEN, ,DEN
 dolbka,Dolberg,Kasper,1997-10-06,DEN,Silkeborg,DEN
+domahe,Domalski,Henrik,0000-00-00,DEN, ,DEN
 domowi,Domoraud,Wilfried,1988-08-18,FRA,Maisons-Alfort,FRA
 dongmi,Dongsted,Mikkel,1999-02-07,DEN, ,DEN
 dongth,Dongsted,Thomas,1977-01-11,DEN, ,DEN
@@ -762,9 +869,11 @@ drosul,Drost,Ulrik,1977-03-01,DEN,Kopenhagen,DEN
 drozde,Droze,Derk,1972-10-29,USA, ,USA
 dubrma,Dúbravka,Martin,1989-01-15,SVK,Žilina,SVK
 dududu,Dudu, ,1999-02-10,GER,Duisburg,GER
+duedbo,Duedahl,Boye,1960-06-26,DEN, ,DEN
 duelje,Duelund,Jesper,1982-07-14,DEN, ,DEN
 duelmi,Duelund,Mikkel,1997-06-29,DEN,Aarhus,DEN
 duexan,Due,Anders,1982-03-17,DEN,Nykøbing Falster,DEN
+duexbe,Due,Bent,1957-08-14,DEN, ,DEN
 duexfr,Due,Frederik,1992-07-18,DEN, ,DEN
 duexma,Due,Martin,1992-11-27,DEN, ,DEN
 duinje,Duin,Jelle,1999-01-27,NED,Heemstede,NED
@@ -774,6 +883,7 @@ duncmo,Duncan, ,1985-01-31,DEN,Kopenhagen,DEN
 duncz1,Duncan,Zachary,2000-05-31,AUS,Marayong,AUS
 duncza,Duncan,Zach,2000-05-31,AUS,Marayong,AUS
 dupoje,Dupont,Jesper,1972-04-05,DEN, ,DEN
+dupoki,Dupont,Kim,1962-11-12,DEN, ,DEN
 durmri,Durmisi,Riza,1994-01-08,DEN,København,DEN
 dursca,Dursun,Can,1992-10-03,DEN, ,DEN
 durspe,Dursun,Peter,1975-01-08,DEN,Aarhus,DEN
@@ -789,7 +899,9 @@ eckead,Eckersley,Adam,1985-09-07,ENG,Manchester,ENG
 edenda,Eden,Davidson,1988-03-26,GHA,Accra,GHA
 ederha,Eder,Hannes,1983-09-05,AUT,Innsbruck,AUT
 edmujo,Edmundsson,Jóan,1991-07-26,FER,Toftir,FER
+edvaso,Edvardsen,Søren,0000-00-00,DEN, ,DEN
 egbeed,Egbedi,Edafe,1993-08-05,NGR, ,NGR
+egebla,Egebjerg,Lars,0000-00-00,DEN, ,DEN
 egelma,Egelund,Martin,1999-04-22,DEN,Holsted,DEN
 egelpa,Egelund,Patrick,2000-08-02,DEN, ,DEN
 egelsi,Egeli,Sindre,2006-06-21,NOR,Larvik,NOR
@@ -798,6 +910,8 @@ eggeda,Eggen,Dan,1970-01-13,NOR,Oslo,NOR
 eggehe,Eggerts,Henrik,1976-11-14,DEN, ,DEN
 eghoan,Egholm,Anders,1983-05-15,DEN,Haslev,DEN
 eghoma,Egho,Marvin,1994-05-09,AUT,Wien,AUT
+egxxge,Eg,Gert,1954-02-26,DEN, ,DEN
+eigehe,Eigenbrod,Henrik,1956-05-19,DEN,Svendborg,DEN
 eiribj,Eiríksson,Bjarni,1982-03-28,ISL, ,ISL
 ejduma,Ejdum,Max,2004-10-15,DEN,Svendborg,DEN
 ekanvi,Ekani,Victor,1997-02-27,CMR, ,CMR
@@ -810,12 +924,14 @@ elanjo,Elanga,Joseph,1979-05-02,CMR, ,CMR
 elbami,Elbæk,Michael,1971-03-01,DEN, ,DEN
 elbasi,Elbæk,Simon,1982-03-08,DEN, ,DEN
 elezjo,Elez,Josip,1994-04-25,CRO,Split,CRO
+eliajo,Eliasen,Johnny,1956-08-10,DEN, ,DEN
 elkafr,Elkær,Frederik,0000-00-00,DEN, ,DEN
 elkjjo,Elkjær,Jonas,1997-06-05,DEN, ,DEN
 elkjpr,Elkjær,Preben,1957-09-11,DEN,København,DEN
 elleks,Stuhr-Ellegaard,Kevin,1983-05-23,DEN,København,DEN
 elmajo,Elmander,Johan,1981-05-27,SWE,Alingsås,SWE
 elstla,Elstrup,Lars,1963-03-24,DEN,Raaby,DEN
+elstpe,Elstrup,Peter,1961-10-11,DEN, ,DEN
 elvima,Elvius,Marius,2002-06-01,DEN,Taarnby,DEN
 elyomo,Elyounoussi,Mohamed,1994-08-04,NOR,Al Hoceima,MAR
 emenan,Ementa,Anosike,2002-05-03,DEN, ,DEN
@@ -824,7 +940,9 @@ emmevl,Emmersón, ,1995-10-07,CGO,Odessa,UKR
 enemch,Enemark,Christian,1999-01-20,DEN, ,DEN
 enevpe,Enevoldsen,Peter,1961-08-14,DEN, ,DEN
 enevth,Enevoldsen,Thomas,1987-07-27,DEN,Aalborg,DEN
-engdbe,Ben Engdahl, ,2003-09-17,SWE,Stockholm,SWE
+engbst,Engby,Steen,0000-00-00,DEN, ,DEN
+engdbe,Engdahl,Ben,2003-09-17,SWE,Stockholm,SWE
+engekn,Engedahl,Knud,1942-03-18,DEN, ,DEN
 engelu,Engel,Lukas,1998-12-14,DEN, ,DEN
 enggma,Enggård,Mads,2004-01-20,DEN, ,DEN
 enghka,Enghardt,Kasper,1992-05-27,DEN, ,DEN
@@ -836,10 +954,12 @@ erikan,Eriksen,Anders,1977-03-06,DEN, ,DEN
 erikca,Eriksson,Carl-Johan,1995-04-25,FIN,Helsinki,FIN
 erikja,Eriksen,Jacob,1993-11-17,DEN, ,DEN
 erikjo,Eriksen,Jonathan,1998-10-11,DEN, ,DEN
+erikk1,Eriksen,Kim,1957-02-19,DEN,Frederiksberg,DEN
 erikki,Eriksen,Kim,1963-04-09,DEN, ,DEN
 erikma,Eriksson,Magnus,1990-04-08,SWE,Solna,SWE
 erikmo,Eriksen,Morten,1966-07-18,DEN, ,DEN
 erikpe,Eriksen,Peter,1966-08-21,DEN, ,DEN
+erikve,Eriksen,Verner,1956-04-22,DEN, ,DEN
 erlyag,Erlykke,Albert Grønbæk,2001-05-23,DEN,Risskov,DEN
 ernest,Ernemann,Steffen,1982-04-26,DEN,Odder,DEN
 eskeju,Eskesen,Julius,1999-03-16,DEN,Odense,DEN
@@ -866,6 +986,7 @@ falcmo,Falch,Morten,1973-08-05,DEN,København,DEN
 falkke,Falkenberg,Kenneth,1984-05-15,DEN, ,DEN
 falkmi,Falkesgaard,Michael,1991-04-09,PHI,Kastrup,DEN
 falkra,Falk,Rasmus,1992-01-15,DEN,Middelfart,DEN
+falkst,Falkedal,Steen,0000-00-00,DEN, ,DEN
 fallcl,Fallentin,Claus,1970-06-27,DEN, ,DEN
 falldj,Fall,Djiby,1985-04-20,SEN,Thiès,SEN
 fallos,Fallenius,Oskar,2001-11-01,SWE,Nynäshamn,SWE
@@ -890,6 +1011,7 @@ ferrpe,Ferreira,Pedro,1998-01-05,POR,Marinha Grande,POR
 festra,Festersen,Rasmus,1986-08-26,DEN,Viborg,DEN
 fetaba,Fetai,Bajram,1985-09-07,MAC,Tetovo,MAC
 fevamo,Fevang,Morten,1975-03-06,NOR,Sandefjord,NOR
+fibath,Fibæk,Thomas,0000-00-00,DEN, ,DEN
 figuwi,Figueiredo,Wilton,1982-03-17,BRA,São Paulo,BRA
 figxhe,Fig,Henrik,1972-03-09,DEN, ,DEN
 figxth,Fig,Thomas,1977-03-30,DEN,Vejle,DEN
@@ -903,12 +1025,14 @@ fiscma,Fisch,Martin,1993-01-26,DEN, ,DEN
 fiscsa,Fischer,Sander,1988-09-03,NED,Rhoon,NED
 fiscvi,Fischer,Viktor,1994-06-09,DEN,Aarhus,DEN
 fiskka,Fisker,Kasper,1988-05-22,DEN,Randers,DEN
+fjorbr,Fjordvald,Brian,1961-09-04,DEN, ,DEN
 fjorso,Fjorting,Søren,1976-01-03,DEN, ,DEN
 flasan,Flaskager,Anders,1976-05-22,DEN, ,DEN
 flasfr,Flaskager,Frederik,2005-01-29,DEN, ,DEN
 fliebr,Flies,Brian,1969-08-29,DEN,Næstved,DEN
 flinde,Flinta,Dennis,1983-11-14,DEN, ,DEN
 floeni,Flø,Nicolai,1995-08-09,DEN, ,DEN
+florbo,Florin,Bo,0000-00-00,DEN, ,DEN
 flored,Flores,Édison,1994-05-14,PER,Lima,PER
 florge,Florescu,George,1984-05-21,ROM,Cluj-Napoca,ROM
 floxha,Flo,Håvard,1970-04-04,NOR,Stryn,NOR
@@ -919,10 +1043,13 @@ fochge,Fochive,George,1992-03-24,USA,Washington,USA
 fofaad,Fofana,Adama,2001-01-04,CIV, ,CIV
 fogeas,Foged,Andreas Skjøtt,2001-03-12,DEN, ,DEN
 fogela,Foged,Lars,1962-12-13,DEN, ,DEN
+fogest,Foged,Steen,0000-00-00,DEN, ,DEN
+foghki,Fogh,Kim,1959-04-12,DEN, ,DEN
 foghma,Fogh,Mads,1988-09-19,DEN, ,DEN
 foldpe,Foldgast,Peter,1979-12-03,DEN,Kopenhagen,DEN
 foleke,Foley,Kevin,1984-11-01,IRL,Luton,ENG
 folkso,Folkmann,Søren,1967-09-09,DEN,Rønne,DEN
+fosgbo,Fosgård,Bo,1955-08-02,DEN, ,DEN
 fosgla,Fosgaard,Lasse,1986-09-06,DEN,Rødovre,DEN
 fossiv,Fossum,Iver,1996-07-15,NOR,Drammen,NOR
 frahjo,Frahm,Johannes,0000-00-00,DEN, ,DEN
@@ -930,7 +1057,10 @@ fraima,Fraisl,Martin,1993-05-10,AUT,Wolfsbach,AUT
 franab,Francis,Abu,2001-04-27,GHA, ,GHA
 francl,Frandsen,Claus,1969-06-21,DEN, ,DEN
 franfl,Frandsen,Flemming,1967-06-23,DEN, ,DEN
+franj1,Frandsen,John,1948-09-19,DEN,Glostrup,DEN
 franjo,Frandsen,John,1970-05-12,DEN, ,DEN
+franla,Francker,Lars,1952-06-06,DEN,Lyngby,DEN
+franle,Franke,Lennart,1967-02-24,DEN, ,DEN
 franmi,Frankoch,Mikkel,1996-01-14,DEN, ,DEN
 franp1,Frandsen,Per,1970-02-06,DEN,København,DEN
 franpe,Frank,Peter,1970-05-26,DEN,Rødovre,DEN
@@ -939,6 +1069,7 @@ franso,Frandsen,Søren,1974-08-05,DEN,Kopenhagen,DEN
 franth,Frandsen,Thomas,1976-03-25,DEN, ,DEN
 franto,Frank,Torben,1968-06-16,DEN,København,DEN
 franty,Francois,Tyrese,2000-07-16,AUS,Campbell Town,AUS
+frasjo,Fraser,John,1952-06-07,SCO, ,SCO
 fraugu,Fraulo,Gustav,2005-05-23,DEN,Odense,DEN
 frauos,Fraulo,Oscar,2003-12-06,DEN,Odense,DEN
 fredca,Fredgaard,Carsten,1976-05-20,DEN, ,DEN
@@ -948,8 +1079,12 @@ fredm1,Fredslund,Magnus,1992-07-26,DEN, ,DEN
 fredma,Frederiksen,Mads,2002-03-07,DEN, ,DEN
 frednB,Frederiksen,Nikolai Baden,2000-05-18,DEN,Odense,DEN
 fredni,Frederiksen,Nikolai,2000-05-18,DEN, ,DEN
+fredpe,Frederiksen,Per,1960-08-14,DEN, ,DEN
+fredro,Frederiksen,Ronnie,1969-11-24,DEN, ,DEN
 freds1,Frederiksen,Søren,1972-01-27,DEN,Frederikshavn,DEN
 fredso,Frederiksen,Søren,1989-08-07,DEN,Sønderborg,DEN
+fredst,Frederiksen,Steen,1958-03-17,DEN, ,DEN
+fredto,Frederiksen,Torben,1967-02-23,DEN, ,DEN
 frenmo,Frendrup,Morten,2001-04-07,DEN,Holbæk,DEN
 fresma,Frese,Martin,1998-01-04,DEN, ,DEN
 friber,Friberg,Erik,1986-02-10,SWE,Lindome,SWE
@@ -958,10 +1093,14 @@ fridfo,Friðriksson,Felix Örn,1999-03-16,ISL,Vestmannaeyjar,ISL
 fridho,Friðjónsson,Hólmbert,1993-04-19,ISL,Keflavík,ISL
 friebr,Friedel,Brad,1971-05-18,USA,Lakewood,USA
 friech,Friedrich,Christian,2003-02-15,DEN, ,DEN
+friial,Friis,Allan,0000-00-00,DEN, ,DEN
+friica,Friis,Carsten,1959-05-01,DEN, ,DEN
+friija,Friis Hansen,Jacob,1967-03-06,DEN, ,DEN
 friipe,Friis,Peter,1988-05-02,DEN, ,DEN
 friiso,Friis,Søren,1976-12-13,DEN, ,DEN
 frimhe,Frimann,Henrik,1968-01-20,DEN, ,DEN
 frimjo,Frimann,Jonatan,1997-07-10,DEN, ,DEN
+frimpe,Frimann,Per,1962-06-04,DEN,Gladsaxe,DEN
 frisla,Frisch,Lars,1964-03-02,DEN, ,DEN
 fritku,Fritsen,Kurt,1969-08-20,DEN, ,DEN
 fritme,Frithzell,Melvin,1996-08-09,SWE, ,SWE
@@ -985,23 +1124,29 @@ gabrad,Gabriel,Adam,2001-05-28,CZE, ,CZE
 gabrru,Gabrielsen,Ruben,1992-03-10,NOR,Lena,NOR
 gadeda,Gadegaard,Daniel,2001-05-31,DEN, ,DEN
 gadepe,Gade,Per,1977-08-24,DEN, ,DEN
+gadgki,Gadgård,Kim,1965-08-25,DEN, ,DEN
 galebR,Galeano,Blás Riveros,1998-02-03,PAR,Itauguá,PAR
 gallbe,Gall,Benny,1971-03-14,DEN,København,DEN
 galljo,Gallegos,Jose,2001-09-22,USA,San Antonio,USA
 gallth,Gall,Thomas,1997-01-09,DEN, ,DEN
+gambal,Gamby,Allan,1961-05-08,DEN, ,DEN
+gambca,Gamby,Carsten,1961-05-08,DEN, ,DEN
 gambcr,Gamboa,Cristian,1989-10-24,CRC,Liberia,CRC
 gammch,Gammelgaard,Christian,2003-03-10,DEN,Vejle,DEN
 gammjM,Gammelby,Jens Martin,1995-02-05,DEN,Ikast,DEN
 gammje,Gammelby,Jens,1995-02-05,DEN,Ikast,DEN
 gammni,Gammelgaard,Niels,1968-02-02,DEN, ,DEN
+gammst,Gammelgård,Steen,1958-04-05,DEN, ,DEN
 gandca,Gandrup,Casper,1999-08-12,DEN,Viborg,DEN
 garbah,Garba,Ahmed,1980-05-24,NGR, ,NGR
 gardjo,Gårdsvoll,Johan,1994-02-01,DEN, ,DEN
+garlpe,Garly,Peter,1957-08-07,DEN,Glostrup,DEN
 garlra,Garly,Rasmus,1996-02-12,DEN, ,DEN
 gartst,Gartenmann,Stefan,1997-02-02,DEN,Roskilde,DEN
 gasbla,Gasberg,Lars,1967-03-11,DEN, ,DEN
 gbekch,Gbeke,Charles,1978-03-15,CAN,Abidjan,CIV
 gedsca,Gedsted,Casper,2002-02-04,DEN, ,DEN
+geelja,Geelmuyden,Jan,1960-10-31,DEN, ,DEN
 geerch,Geertsen,Christopher,1993-01-24,DEN, ,DEN
 geerkr,Geertsen,Kristian,1991-02-11,DEN,Hvidore,DEN
 geerni,Geertsen,Nicolai,1991-06-19,DEN, ,DEN
@@ -1011,6 +1156,7 @@ gemmjo,Gemmer,Jonas,1996-01-31,DEN, ,DEN
 georch,George,Christer,1979-08-11,NOR,Oslo,NOR
 georma,George,Mayron,1993-10-23,CRC,Puerto Limón,CRC
 gerbal,Gerba,Ali,1981-09-04,CAN,Yaoundé,CMR
+gerbst,Gerber,Stefan,0000-00-00,DEN, ,DEN
 gernmi,Gernsøe,Michael,1971-05-22,DEN,København,DEN
 geroal,Gero,Alhaji,1993-10-10,NGR,Kano State,NGR
 gersal,Gersbach,Alex,1997-05-08,AUS,Auburn,AUS
@@ -1053,6 +1199,7 @@ grahto,Grahn,Tobias,1980-03-05,SWE,Karlskrona,SWE
 granan,Granskov,Andreas,1989-03-05,DEN,Gladsaxe,DEN
 granda,Granli,Daniel,1994-05-01,NOR,Sandvika,NOR
 grangu,Granath,Gustav,1997-02-15,SWE,Timmersdala,SWE
+grankl,Granlund,Klaus,1957-08-21,DEN, ,DEN
 graupe,Graulund,Peter,1976-09-20,DEN, ,DEN
 grauru,Graugaard,Rune,1986-01-15,DEN, ,DEN
 gravla,Graversen,Lars,1976-09-28,DEN, ,DEN
@@ -1069,11 +1216,15 @@ gregpa,Gregor,Pascal,1994-02-18,DEN, ,DEN
 grelmi,Grella,Mike,1987-01-23,USA,Glen Cove,USA
 grevm1,Greve,Mads,1989-09-12,DEN,Middelfart,DEN
 grevma,Greve,Mathias,1995-02-11,DEN,Langeskov,DEN
+grevmi,Greve,Michael,0000-00-00,DEN, ,DEN
 gribka,Gribskjold,Kasper,1970-02-02,DEN, ,DEN
 gribni,Gribenco,Nimo,1997-01-23,DEN,Aarhus,DEN
 grinch,Grindheim,Christian,1983-07-17,NOR,Haugesund,NOR
+gritab,Gritter,Ab,1949-07-22,DEN, ,DEN
 grndch,Gröndal,Christian,2003-03-10,DEN,Vejle,DEN
 grnxjK,Grøn,Jeppe Kilden,2003-04-28,DEN, ,DEN
+groebe,Grønbeck,Bent,1960-02-12,DEN, ,DEN
+groeca,Grønning,Carsten,0000-00-00,DEN, ,DEN
 groej1,Grønkjær,Jesper,1977-08-12,DEN,Nuuk, 
 groej2,Grønborg,Jesper,1984-06-04,DEN,Esbjerg,DEN
 groeje,Grønning,Jeppe,1991-05-24,DEN, ,DEN
@@ -1082,6 +1233,7 @@ groeto,Grönlund,Tommi,1969-12-09,FIN,Helsinki,FIN
 grooin,Groothuizen,Indy,1996-07-22,NED,Alkmaar,NED
 grotja,Grot,Jay-Roy,1998-03-13,NED,Arnhem,NED
 grubgu,Grubbe,Gustav,2003-01-27,DEN,Odense,DEN
+grueki,Grue,Kim,1963-03-14,DEN, ,DEN
 grunji,Grundal,Jim,1965-05-25,DEN, ,DEN
 grynse,Gryn,Sergiy,1994-06-06,UKR,Volnovakha,UKR
 grytst,Grytebust,Sten,1989-10-25,NOR,Ålesund,NOR
@@ -1104,14 +1256,17 @@ haahja,Haahr,Jacob,2002-03-10,DEN, ,DEN
 haalst,Haaland,Stig,1975-02-23,NOR,Haugesund,NOR
 haarda,Haarbo,Daniel,2003-03-14,DEN,Gentofte,DEN
 haarma,Haarup,Mathias,1996-02-10,DEN,Havndal,DEN
+haarni,Haarbye,Niels,1953-05-04,DEN, ,DEN
 habebo,Habekost,Boye,1968-09-22,DEN, ,DEN
 haddri,Haddaoui,Riffi,1971-03-24,DEN, ,DEN
+haddta,Haddaoui,Tammy,1967-11-05,DEN,Sindal,DEN
 haembr,Hämäläinen,Brian,1989-05-29,DEN,Lillerød,DEN
 haesma,Hæsum,Martin,0000-00-00,DEN, ,DEN
 haeuma,Häuser,Magnus,1998-05-04,DEN, ,DEN
 hagea1,Hagen,Andreas,1986-02-16,NOR, ,NOR
 hagean,Hagelskjær,Anders,1997-02-16,DEN, ,DEN
 hagehe,Hagerup,Henrik,0000-00-00,DEN, ,DEN
+hagemi,Hagensen,Michael,0000-00-00,DEN, ,DEN
 hageni,Hagelskjær,Nikolaj,1990-05-06,DEN,Jelling,DEN
 hageru,Hagen,Rune,1975-07-20,NOR,Hønefoss,NOR
 hageth,Hagelskjær,Thomas,1995-02-04,DEN,København,DEN
@@ -1131,6 +1286,7 @@ hallme,Hallberg,Melker,1995-10-20,SWE,Ljungbyholm,SWE
 hallta,Hall,Tally,1985-05-12,USA,SeaTac,USA
 hallto,Hallum,Torben,1966-08-04,DEN, ,DEN
 halsak,Halsgaard,Aksel,2005-04-30,DEN, ,DEN
+halska,Halse,Karsten,1964-08-30,DEN, ,DEN
 halsma,Halsti,Markus,1984-03-19,FIN,Helsinki,FIN
 halsni,Halse,Nicklas,1997-05-03,DEN, ,DEN
 halvjh,Halvorsen,Jan-Halvor,1963-03-08,NOR,Bamble,NOR
@@ -1144,20 +1300,38 @@ hangke,Hangaard,Kent,1972-05-29,DEN, ,DEN
 hannma,Hannesbo,Marcus,2002-05-11,DEN, ,DEN
 hansa1,Hansen,Anders,1979-06-09,DEN, ,DEN
 hansa2,Hansen,Andreas,2003-05-31,DEN, ,DEN
+hansa3,Hansen,Allan,1956-04-21,DEN,Odense,DEN
+hansa4,Hansen,Alan,1960-11-07,DEN,Middelfart,DEN
+hansaa,Hansen,Åge,0000-00-00,DEN, ,DEN
+hansab,Hansan,Abraham,0000-00-00,DEN, ,DEN
 hansak,Kofod-Hansen,Andreas,1997-02-08,DEN, ,DEN
 hansal,Hansen,Alexander,1982-10-06,NOR,Åfjord,NOR
 hansan,Hansen,Andreas,1995-08-11,DEN, ,DEN
+hansb1,Hansen,Bent,1966-04-22,DEN, ,DEN
+hansb2,Hansen,Bo,0000-00-00,DEN, ,DEN
 hansbe,Hansen,Benjamin,1994-02-07,DEN,Bogense,DEN
+hansbj,Hansen,Bjarne,1957-08-23,DEN, ,DEN
 hansbo,Hansen,Bo,1972-06-16,DEN,Holstebro,DEN
+hansc1,Hansen,Chris,1964-10-16,DEN, ,DEN
+hansc2,Hansen,Christian,0000-00-00,DEN, ,DEN
+hansca,Hansen,Carsten,1968-00-00,DEN, ,DEN
 hansch,Hansen,Christian,1981-09-25,DEN, ,DEN
+hansda,Hansen,Dan,0000-00-00,DEN, ,DEN
 hansde,Hansen,Dennis,1970-11-10,DEN, ,DEN
+hansej,Hansen,Ejvind,0000-00-00,DEN, ,DEN
 hanses,Hansen,Esben,1981-08-10,DEN,Nykøbing Falster,DEN
+hansfl,Hansen,Flemming,0000-00-00,DEN, ,DEN
 hansfr,Hansen,Frank,1983-02-23,DEN, ,DEN
+hansfs,Hansen,Flemming Søborg,1959-02-27,DEN,Allerød,DEN
 hansh1,Hansen,Henrik Poul,1963-01-01,DEN,København,DEN
 hansh2,Hansen,Henrik Engelund,1966-08-28,DEN, ,DEN
 hansh3,Hansen,Henrik,1964-01-11,DEN, ,DEN
+hansh4,Hansen,Heino,1947-09-24,DEN, ,DEN
 hansha,Hansson,Hallur,1992-07-08,FER,Tórshavn,FER
+hanshc,Hansen,Hans Christian,0000-00-00,DEN, ,DEN
 hanshe,Hansen,Henrik,1979-07-28,DEN, ,DEN
+hanshj,Hansen,Hans Jørgen,0000-00-00,DEN, ,DEN
+hansig,Hansen,Ib Gregers,1958-11-13,DEN, ,DEN
 hansj1,Hansen,Jeppe,1989-02-10,DEN, ,DEN
 hansj2,Hansen,Johan,1975-09-18,FER, ,FER
 hansj3,Hanssen,Jonny,1972-12-13,NOR,Narvik,NOR
@@ -1168,17 +1342,33 @@ hansj7,Hansen,John,1949-05-26,DEN,Næstved,DEN
 hansj8,Hansen,Jan,1975-03-27,DEN, ,DEN
 hansj9,Hansen,Johnny,1964-03-25,DEN,Kopenhagen,DEN
 hansjA,Hansen,John,1956-11-16,DEN, ,DEN
+hansjB,Hansen,Jesper,1963-12-24,DEN, ,DEN
+hansjC,Hansen,Jan,1962-02-18,DEN, ,DEN
+hansjD,Hansen,Johnny,0000-00-00,DEN, ,DEN
+hansjE,Hansen,Jan,0000-00-00,DEN,Aarhus,DEN
+hansjF,Hansen,Jørgen,0000-00-00,DEN, ,DEN
+hansjG,Hansen,John Finn,1949-09-13,DEN, ,DEN
+hansjH,Hansen,Jan,1955-09-16,DEN,Esbjerg,DEN
+hansjI,Hansen,Jim Stjerne,1953-05-28,DEN, ,DEN
+hansjV,Hansen,Jan Vang,0000-00-00,DEN, ,DEN
 hansja,Hansen,Jannik,1993-01-05,DEN, ,DEN
 hansje,Hansen,Jesper,1985-03-31,DEN,Slangerup,DEN
+hansjf,Hansen,Jan Finn,1955-01-23,DEN, ,DEN
 hansjo,Hansen,Jonas,1995-08-07,DEN, ,DEN
+hansjs,Hansen,Jens Sass,1955-09-06,DEN,Frederiksberg,DEN
+hansjv,Hansen,Jan Verner,1961-02-04,DEN,Køge,DEN
 hansk1,Hansen,Kim,1968-04-03,DEN, ,DEN
 hansk2,Hansen,Kim,1959-11-13,DEN,Stevns,DEN
 hanska,Hansen,Kasper,1991-02-15,DEN, ,DEN
 hanske,Hansen,Kent,1964-02-11,DEN,Silkeborg,DEN
 hanski,Hansen,Kian,1989-03-03,DEN,Grindsted,DEN
 hanskr,Hansen,Kristoffer,2002-05-14,DEN, ,DEN
+hansl1,Hansen,Leif,1955-02-16,DEN, ,DEN
+hansl2,Hansen,Lars,1953-10-13,DEN, ,DEN
 hansla,Hansen,Lars,1969-01-03,DEN, ,DEN
+hanslb,Hansen,Lars Bo,0000-00-00,DEN, ,DEN
 hansle,Hansen,Leon,1959-08-08,DEN, ,DEN
+hanslv,Hansen,Lars Vang,1960-04-12,DEN, ,DEN
 hansm1,Hansen,Mads,2001-04-10,DEN, ,DEN
 hansm2,Hansen,Martin,1990-06-15,DEN,Brøndby,DEN
 hansm3,Hansen,Mathias,1984-06-22,DEN, ,DEN
@@ -1186,6 +1376,8 @@ hansm4,Hansen,Martin,1983-05-11,DEN, ,DEN
 hansm5,Hansen,Morten,1977-03-16,DEN, ,DEN
 hansm6,Hansen,Michael,1974-05-30,DEN, ,DEN
 hansm7,Hansen,Michael,1964-04-30,DEN, ,DEN
+hansm8,Hansen,Mogens René,1956-04-12,DEN, ,DEN
+hansm9,Hansen,Michael,0000-00-00,DEN, ,DEN
 hansm_,Hansen,M.,0000-00-00,DEN, ,DEN
 hansma,Hansen,Mads,2002-07-28,DEN, ,DEN
 hansmb,Hansen,Mads Bro,1976-01-25,DEN, ,DEN
@@ -1197,9 +1389,14 @@ hansn2,Hansen,Nikolaj,1987-04-07,DEN, ,DEN
 hansni,Hansen,Nikolaj,1993-03-15,DEN, ,DEN
 hansov,Hansen,Ove,1966-04-09,DEN,Herning,DEN
 hansp1,Hansen,Peter,1982-05-24,DEN, ,DEN
+hansp2,Hansen,Palle Bo,1964-03-10,DEN, ,DEN
+hansp3,Hansen,Per,1960-10-04,DEN, ,DEN
+hansp4,Hansen,Palle,1957-01-26,DEN, ,DEN
 hanspa,Hansen,Patrick,1991-04-15,DEN, ,DEN
 hanspb,Hansen,Peter Bo,0000-00-00,DEN, ,DEN
 hanspe,Hansen,Peter,2001-08-19,FER, ,FER
+hanspf,Hansen,Peter Fruergård,1957-03-14,DEN,Vejle,DEN
+hanspo,Hansen,Poul,1957-11-20,DEN,Bolbro,DEN
 hansr1,Hansen,Rasmus,1979-02-15,DEN,Grauballe,DEN
 hansra,Hansen,Rasmus,1986-04-12,DEN, ,DEN
 hansre,Hansen,René,1965-04-18,DEN,København,DEN
@@ -1213,9 +1410,12 @@ hanst1,Hansen,Thomas,1983-05-18,DEN, ,DEN
 hanst2,Hansen,Thomas,1971-08-11,DEN, ,DEN
 hanst3,Hansen,Thomas,1971-08-29,DEN, ,DEN
 hanst4,Hansen,Théo,2005-08-26,DEN, ,DEN
+hanst5,Hansen,Thomas,0000-00-00,DEN, ,DEN
 hanste,Hansen,Tem,1984-01-18,FER,Vallø,DEN
 hansth,Hansen,Thomas,1983-01-18,DEN,Avedøre,DEN
+hansto,Hansen,Tommy,1950-02-02,DEN,Vejle,DEN
 haraha,Haraldsson,Hákon,2003-04-10,ISL, ,ISL
+harahe,Haraldsson,Herman,1966-01-09,ISL, ,ISL
 harato,Haraldsen,Tom,1980-08-29,NOR, ,NOR
 harbjo,Harboe,Jonathan,2000-05-24,DEN,Sanderum,DEN
 hardbo,Harder,Bo,1968-03-05,DEN,Århus,DEN
@@ -1229,6 +1429,7 @@ hartst,Hartmann,Steffen,1982-05-12,DEN, ,DEN
 hasafe,Hasani,Ferhan,1990-06-18,MAC,Tetovo,MAC
 hashsu,Hashimoto,Suguru,1982-06-16,JAP, ,JAP
 haslmi,Hasling,Mikkel,1991-08-22,DEN,Rødovre,DEN
+hasmkl,Hasmark,Klaus,1965-08-20,DEN, ,DEN
 hassab,Hassan,Abbas,1985-05-10,LEB,Falkenberg,SWE
 hassmu,Hassan,Mustafa,1990-02-10,DEN,Najaf,IRQ
 hassri,Hassan,Rilwan,1991-02-09,NGR,Lagos,NGR
@@ -1236,14 +1437,17 @@ hastru,Hastrup,Rune,1991-10-16,DEN, ,DEN
 haucem,Haucke,Emil,1989-01-17,DEN,Skagen,DEN
 haueca,Hauervig,Casper,1999-04-03,DEN, ,DEN
 haugch,Hauge,Christian,2002-12-02,DEN, ,DEN
+haugfr,Haugård,Frank,0000-00-00,DEN, ,DEN
 haugja,Haugaard,Jakob,1992-05-01,DEN,Sundby,DEN
 haugsi,Haugen,Sigurd,1997-07-17,NOR,Haugesund,NOR
+haugto,Haugård,Torben,0000-00-00,DEN, ,DEN
 haurol,Haurits,Oliver,2000-12-12,DEN, ,DEN
 hausse,Hausner,Sebastian,2000-04-11,DEN,Horsens,DEN
 havlan,Havlykke,Andreas,1975-09-27,DEN, ,DEN
 haysha,Haysen,Hans,1976-01-14,DEN, ,DEN
 haysla,Haysen,Lasse,2002-02-22,DEN, ,DEN
 hazrch,Hazra,Christopher,1991-02-11,ENG, ,ENG
+hedefi,Hedegård,Finn,0000-00-00,DEN, ,DEN
 hedemi,Hedegaard,Mikkel,1996-07-03,DEN, ,DEN
 hediey,Héðinsson,Eyjólfur,1985-01-01,ISL,Reykjavik,ISL
 hedlsi,Hedlund,Simon,1993-03-11,SWE,Trollhättan,SWE
@@ -1254,9 +1458,11 @@ hegghe,Heggheim,Henrik,2001-04-22,NOR,Stavanger,NOR
 heilsu,Heilbo,Sune,1979-06-23,DEN,Odense,DEN
 heiman,Heimer,Andreas,1997-12-10,DEN,København,DEN
 heinde,Heine,Dennis,1966-10-04,DEN, ,DEN
+heinja,Heintze,Jan,1963-08-17,DEN,Tårnby,DEN
 heinla,Heinze,Lasse,1986-04-03,DEN,Ringkøbing,DEN
 heinma,Heinze,Martin,1983-02-28,DEN, ,DEN
 heisfr,Heiselberg,Frederik,2003-02-11,DEN,Lyne,DEN
+heitre,Heitmann,Rene,1966-02-19,DEN, ,DEN
 helafi,Helander,Filip,1993-04-22,SWE,Malmö,SWE
 helddV,Held,Daniel Veiby,2005-03-21,DEN,Vodskov,DEN
 heleni,Helenius,Nicklas,1991-05-08,DEN,Svenstrup,DEN
@@ -1266,9 +1472,12 @@ helljo,Helledie,Johnny,1976-02-22,DEN, ,DEN
 hellro,Helland,Roger,1973-09-26,NOR, ,NOR
 helsfr,Helstrup,Frederik,1993-03-16,DEN,København,DEN
 heltjo,Helt,John,1959-12-29,DEN,Virum,DEN
+heltre,Helt,Rene,0000-00-00,DEN, ,DEN
 helvth,Helveg,Thomas,1971-06-24,DEN,Odense,DEN
 hemmca,Hemmingsen,Carsten,1970-12-18,DEN,Korsløkke,DEN
 hemmmi,Hemmingsen,Michael,1967-10-02,DEN,Odense,DEN
+hempje,Hempler,Jesper,0000-00-00,DEN, ,DEN
+hencge,Henckel,Gert,1965-07-04,DEN, ,DEN
 hendan,Hendriksen,Anton,2000-03-31,DEN, ,DEN
 hendas,Hendriksen,Anton Skipper,2000-03-31,DEN, ,DEN
 hendmD,Dal Hende,Marc,1990-11-06,DEN,Dragør,DEN
@@ -1292,6 +1501,7 @@ hermma,Hermansen,Mads,2000-07-11,DEN, ,DEN
 hermso,Hermansen,Søren,1970-09-07,DEN, ,DEN
 herohe,Heron, ,2000-08-17,BRA,Rio de Janeiro,BRA
 herrdi,Herrington,Diesel,2004-08-04,AUS, ,AUS
+hertpe,Hertz,Peter,1954-12-18,DEN,Brønshøj,DEN
 hetelu,Hetemi,Lundrim,2000-02-18,DEN, ,DEN
 heydje,Heyde,Jesper,1973-10-31,DEN, ,DEN
 heyxlu,Hey,Lucas,2003-04-13,DEN, ,DEN
@@ -1299,6 +1509,7 @@ hgsblu,Høgsberg,Lucas,2006-06-23,DEN, ,DEN
 hiljos,Hiljemark,Oscar,1992-06-28,SWE,Gislaved,SWE
 hindni,Hindsberg,Nichlas,1975-05-07,DEN,København,DEN
 hingfh,Hing,Fabian Ho A,1977-10-07,NED, ,NED
+hingjo,Hinge,Jørgen,1959-01-29,DEN, ,DEN
 hjaeal,Hjælmhof,Alexander,2001-11-09,DEN, ,DEN
 hjerol,Højer,Oliver,2007-01-24,DEN, ,DEN
 hjerto,Hjermitslev,Torben,1971-04-24,DEN, ,DEN
@@ -1318,10 +1529,12 @@ hoegje,Høgh,Jes,1966-05-07,DEN,Aalborg,DEN
 hoegka,Høgh,Kasper,2000-12-06,DEN,Randers,DEN
 hoegla,Høgh,Lars,1959-01-14,DEN,Odense,DEN
 hoegni,Høgh,Nicolaj,1983-11-09,DEN,Næsbjerg,DEN
+hoegth,Høgsbro,Thomas,0000-00-00,DEN, ,DEN
 hoegto,Høgli,Tom,1984-02-24,NOR,Harstad,NOR
 hoehth,Høholt,Thor,2001-02-22,DEN, ,DEN
 hoejan,Højlund,Anders,1971-10-02,DEN, ,DEN
 hoejj1,Højen,Jes,1978-03-29,DEN,Århus,DEN
+hoejja,Højland,Jan,0000-00-00,DEN, ,DEN
 hoejje,Højbjerg,Jeppe,1995-04-30,DEN, ,DEN
 hoejma,Højholt,Malthe,2001-04-16,DEN, ,DEN
 hoejni,Højlund,Nicklas,1990-03-06,DEN,København,DEN
@@ -1344,24 +1557,28 @@ holmfl,Holm,Flemming,0000-00-00,DEN, ,DEN
 holmhe,Holm,Henrik,1971-01-12,DEN, ,DEN
 holmla,Holmgaard,Lasse,1981-04-10,DEN, ,DEN
 holmma,Holm,Martin,1998-05-27,DEN, ,DEN
+holmp1,Holm,Per,1964-06-05,DEN, ,DEN
 holmpe,Holm,Peter,1978-06-19,DEN, ,DEN
 holmsa,Holmén,Samuel,1984-06-28,SWE,Annelund,SWE
 holsan,Holst,Anders,1992-07-25,DEN, ,DEN
+holsc1,Holst,Christian,0000-00-00,DEN, ,DEN
 holsca,Holse,Carlo,1999-06-02,DEN,København,DEN
 holsch,Holst,Christian,1981-12-25,FER,Svendborg,DEN
 holsfr,Holst,Frederik,1994-09-24,DEN,København,DEN
+holtbo,Holtemann,Bo,0000-00-00,DEN, ,DEN
 holtem,Holten,Emil,1996-08-08,DEN, ,DEN
 holvan,Holvad,Anders,1990-06-24,DEN, ,DEN
 hooijo,Hooiveld,Jos,1983-04-22,NED,Zeijen,NED
 hornch,Horneman,Charly,2004-03-21,DEN,Odense,DEN
 hosema,Hoseth,Magne,1980-10-13,NOR,Averøy,NOR
 hostan,Hostrup,Anders,1990-04-13,DEN, ,DEN
-hougfr,Hougaard,Frank,1963-12-29,DEN, ,DEN
+hougfr,Hougård,Frank,1963-12-29,DEN, ,DEN
 howama,Howard,Mark,1986-01-29,ENG,Salford,ENG
 hradlu,Hrádecký,Lukáš,1989-11-24,FIN,Bratislava,SVK
 huebpo,Hübertz,Poul,1976-09-21,DEN,Roskilde,DEN
 huldma,Huldahl,Martin,2004-09-20,DEN, ,DEN
 hurwth,Hurwitz,Thomas,1973-03-28,DEN,Odense,DEN
+husboe,Husby,Øivind,1960-08-03,NOR,København,DEN
 husimi,Husic,Mirza,2001-02-11,DEN, ,DEN
 hussha,Hussein,Hamse,2000-01-07,DEN, ,DEN
 hustni,Hust,Nicolaj,1978-10-30,DEN,Ikast,DEN
@@ -1370,10 +1587,12 @@ hutcat,Hutchinson,Atiba,1983-02-08,CAN,Brampton,CAN
 huttjo,Hutters,Jonathan,2004-02-21,DEN, ,DEN
 hvidbe,Hvidt,Benjamin,2000-03-12,DEN,Kolind,DEN
 hvilma,Hvilsom,Mads,1992-08-23,DEN,Himmelev,DEN
-hyldmo,Hyldgaard,Morten,1978-01-26,DEN,Herning,DEN
+hyldmi,Hyldgård,Michael,0000-00-00,DEN, ,DEN
+hyldmo,Hyldgård,Morten,1978-01-26,DEN,Herning,DEN
 hyllmi,Hyllegaard,Mikkel,1999-04-03,DEN,Odense,DEN
 hyllmm,Hyllegaard,Mikkel Mikkel,0000-00-00,DEN, ,DEN
 hyryak,Hyryläinen,Aki,1968-04-17,FIN,Helsinki,FIN
+ibenhe,Ibenfeldt,Henrik,1960-04-05,DEN,Nykøbing Falster,DEN
 ibenma,Ibenfeldt,Mads,1985-01-26,DEN, ,DEN
 ibrasa,Ibrahim,Salou,1979-05-29,BEL,Kumasi,GHA
 ibrata,Ibrahimagic,Tarik,2001-01-23,DEN, ,DEN
@@ -1405,6 +1624,8 @@ ishami,Ishak,Mikael,1993-03-31,SWE,Stockholm,SWE
 issaka,Issah,Kamal,1992-08-30,GHA,Kumasi,GHA
 ivanmi,Ivančević,Mihajlo,1999-04-07,SRB,Bačka Topola,SRB
 ivanol,Ivanov,Oleg,1967-07-29,RUS,Skhodnya,RUS
+iverfl,Iversen,Flemming,1951-11-30,DEN, ,DEN
+iverjo,Iversen,John,0000-00-00,DEN, ,DEN
 iverm1,Iversen,Mads,1970-11-15,DEN, ,DEN
 iverma,Iversen,Markus,1999-01-31,DEN, ,DEN
 iverri,Iversen,Rick,0000-00-00,USA, ,USA
@@ -1419,25 +1640,40 @@ jacoch,Jacobsen,Christian,1980-05-12,FER,Runavík,FER
 jacohe,Jacobsen,Henrik,1972-02-11,DEN, ,DEN
 jacoj1,Jacobsen,Jón,1983-04-07,FER, ,FER
 jacoj2,Jacobs,Jamie,1997-12-03,NED,Purmerend,NED
+jacoj3,Jacobsen,Jørgen,1958-06-02,DEN, ,DEN
 jacoja,Jacobsen,Jacob,1997-03-07,DEN,Odense,DEN
 jacojb,Jacobsen,Jacob Buus,1997-03-07,DEN,Odense,DEN
 jacoje,Jacobsen,Jesper,1976-11-01,DEN, ,DEN
 jacojo,Jacobsen,Jógvan,1996-02-16,FER, ,FER
+jacojs,Jacobsen,Jan Steen,1965-10-10,DEN,København,DEN
+jacol1,Jacobsen,Lars,0000-00-00,DEN, ,DEN
 jacola,Jacobsen,Lars,1979-09-20,DEN,Odense,DEN
+jacole,Jacobsen,Leif,1966-02-23,DEN, ,DEN
+jacool,Jacobsen,Ole,0000-00-00,DEN, ,DEN
+jacopg,Jacobsen,Peer Goe,1959-09-04,DEN, ,DEN
 jacoro,Jacobsen,Rógvi,1979-03-05,FER,Klaksvík,FER
+jacoso,Jacobsen,Søren,1955-03-10,DEN, ,DEN
+jacost,Jacobsen,Steen,1961-01-28,DEN, ,DEN
 jacote,Jacobsen,Teit,1998-03-16,FER, ,FER
+jacoth,Jacobsen,Thomas,0000-00-00,DEN, ,DEN
+jacovi,Jacobsen,Viggo,1953-08-11,DEN, ,DEN
+jacqib,Jacquet,Ib,1956-04-12,DEN,Vejle,DEN
 jairja,Jairo, ,1976-11-01,BRA, ,BRA
 jaitti,Jaiteh,Tijan,1988-12-31,GAM,Bwiam,GAM
 jakoad,Jakobsen,Adam,1999-04-07,DEN, ,DEN
 jakoal,Jakobsen,Alexander,1994-03-18,EGY,Lyngby,DEN
 jakoan,Jakobsson,Andreas,1972-10-06,SWE,Lund,SWE
+jakob1,Jakobsen,Brian,1968-00-00,DEN, ,DEN
 jakobr,Jakobsen,Brian Skaarup,1963-03-28,DEN, ,DEN
 jakoch,Jakobsen,Christian,1993-03-27,DEN, ,DEN
 jakocz,Jakołcewicz,Czesław,1961-08-18,POL, ,POL
 jakoer,Jakobsen,Emil Riis,1998-06-24,DEN,Hobro,DEN
+jakohe,Jakobsen,Henrik,1967-00-00,DEN, ,DEN
+jakoja,Jakobsen,Jan,1954-10-26,DEN, ,DEN
 jakoka,Jakobsen,Kasper,1999-07-17,DEN, ,DEN
 jakol1,Jakobsen,Lars,1970-04-13,DEN,Nuuk, 
 jakol2,Jakobsen,Lars,1961-11-04,DEN,Grenaa,DEN
+jakol3,Jakobsen,Lasse,1959-04-30,DEN, ,DEN
 jakola,Jakobsen,Lars,1971-07-20,DEN,Bramming,DEN
 jakom1,Jakobsen,Michael,1986-01-02,DEN,Kopenhagen,DEN
 jakoma,Jakobsen,Mattias,2003-01-08,DEN, ,DEN
@@ -1445,6 +1681,8 @@ jakomi,Jakobsen,Michael,1985-11-28,DEN, ,DEN
 jakons,Jakobsen,Nicklas Strunck,1999-08-17,DEN,Ølstykke,DEN
 jakos1,Jakobsen,Simon,1998-07-06,DEN, ,DEN
 jakosi,Jakobsen,Simon,1990-11-17,DEN, ,DEN
+jakoso,Jakobsen,Søren,1969-08-27,DEN, ,DEN
+jakost,Jakobsen,Steen,1964-07-17,DEN, ,DEN
 jakoto,Jakobsen,Tobias,2003-07-03,DEN,Vejle,DEN
 jakouf,Jakobsen,Uffe,1967-07-11,DEN, ,DEN
 jallou,Jallow,Ousman,1988-10-21,GAM, ,GAM
@@ -1452,6 +1690,7 @@ jamema,James,Manjrekar,1993-08-05,CAN,Roseau,DCA
 jansti,Janssen,Tim,1986-03-06,NED,Eindhoven,NED
 jarose,Jarović,Senad,1998-01-20,GER,Langenfeld,GER
 jasamu,Jasar,Mukremin,1967-04-20,DEN, ,DEN
+jatcwl,Jatczak,Władisław,1962-10-23,POL, ,POL
 jattal,Jatta,Alassana,1999-01-12,GAM,Sukuta,GAM
 jattpa,Jatta,Paul,1991-02-21,GAM, ,GAM
 jawala,Jawara,Lamin,2002-02-12,GAM,Bakau,GAM
@@ -1460,6 +1699,7 @@ jebaom,Jebali,Omar,2000-02-19,TUN, ,TUN
 jeleel,Jelert,Elias,2003-06-12,DEN, ,DEN
 jensa1,Jensen,Alexander,2000-04-08,DEN, ,DEN
 jensa2,Jensen,Allan,1968-09-01,DEN, ,DEN
+jensa3,Jensen,Anders,0000-00-00,DEN, ,DEN
 jensab,Jensen,Alan Bak,1978-03-21,DEN,Tjørring,DEN
 jensal,Jensen,Alexander,2001-08-24,DEN, ,DEN
 jensan,Jensen,Anders,1974-01-06,DEN, ,DEN
@@ -1469,6 +1709,7 @@ jensbj,Jensen,Bjarne,1973-05-13,DEN, ,DEN
 jensbr,Jensen,Brian,1968-04-23,DEN,Glostrup,DEN
 jensc1,Jensen,Carsten Vagn,1963-02-28,DEN, ,DEN
 jensc2,Jensen,Claus,1971-10-28,DEN, ,DEN
+jensc3,Jensen,Claus,1959-07-19,DEN, ,DEN
 jensca,Jensen,Carsten,1967-09-22,DEN, ,DEN
 jensch,Jensen,Christian,1971-04-15,DEN, ,DEN
 jenscl,Jensen,Claus,1977-04-29,DEN,Nykobing,DEN
@@ -1477,17 +1718,28 @@ jensd1,Jensen,Daniel,1979-06-25,DEN,Kopenhagen,DEN
 jensd2,Jensen,Danni,1989-06-10,DEN, ,DEN
 jensd3,Jensen,Daniel,1985-05-08,DEN, ,DEN
 jensda,Jensen,David,1992-03-25,DEN,Hillerød,DEN
+jensej,Jensen,Ejvind,0000-00-00,DEN, ,DEN
 jenser,Jensen,Erik,1966-04-16,DEN, ,DEN
+jensf1,Jensen,Flemming,0000-00-00,DEN, ,DEN
+jensf2,Jensen,Finn M.,1952-11-15,DEN, ,DEN
 jensfa,Jensen,John Faxe,1965-05-03,DEN,København,DEN
 jensfi,Jensen,Finn,1964-03-29,DEN, ,DEN
 jensfl,Jensen,Flemming,1974-07-31,DEN, ,DEN
 jensh1,Jensen,Henrik,1959-10-25,DEN,København,DEN
 jensh2,Jensen,Henrik Imre,1966-01-28,DEN,Tårnby,DEN
+jensh3,Jensen,Helge,1952-11-05,DEN, ,DEN
+jensh4,Jensen,Henning,1949-08-17,DEN,Nørresundby,DEN
 jenshe,Jensen,Henrik,1975-01-10,DEN, ,DEN
+jenshr,Ravn Jensen,Henrik,1965-09-21,DEN,Horsens,DEN
+jensib,Jensen,Ib Lund,0000-00-00,DEN, ,DEN
 jensis,Jensen,Isak,2003-12-23,DEN, ,DEN
 jensj1,Jensen,Jeppe,1993-03-02,DEN, ,DEN
 jensj2,Jensen,Jesper,1988-04-22,DEN, ,DEN
 jensj3,Jensen,John,1977-01-04,DEN,Randers,DEN
+jensj4,Jensen,John Asnæs,1961-11-17,DEN, ,DEN
+jensj5,Jensen,Jørgen,0000-00-00,DEN, ,DEN
+jensj6,Jensen,John O.,0000-00-00,DEN, ,DEN
+jensj7,Jensen,Jean,1960-03-29,DEN, ,DEN
 jensja,Jensen,Jann,1969-02-22,DEN,Odense,DEN
 jensje,Jensen,Jeppe,2004-03-01,DEN, ,DEN
 jensjj,Jensen,Jørgen Juul,1965-11-17,DEN,Rødovre,DEN
@@ -1495,12 +1747,18 @@ jensjk,Jensen,Jeppe Kjær,2004-03-01,DEN,Horsens,DEN
 jensjo,Jensen,Jonas,1985-10-25,DEN, ,DEN
 jensk1,Jensen,Kasper,1982-10-07,DEN,Aalborg,DEN
 jensk2,Jensen,Karsten,1976-12-30,DEN, ,DEN
+jensk3,Jensen,Klaus,0000-00-00,DEN, ,DEN
 jenska,Jensen,Kåre,1996-02-04,DEN, ,DEN
 jenske,Jensen,Kenneth,1969-10-14,DEN, ,DEN
 jenski,Jensen,Kim,1978-08-22,DEN, ,DEN
+jenskl,Jensen,Klaus,1962-08-08,DEN,Hillerød,DEN
+jensl1,Jensen,Lars,1956-12-12,DEN,Grenaa,DEN
+jensl2,Jensen,Lars,0000-00-00,DEN, ,DEN
 jensla,Jensen,Lars,1975-07-04,DEN, ,DEN
 jenslb,Jensen,Lukas Bornhøft,1999-03-18,DEN, ,DEN
+jensle,Jensen,Lars E.,1964-10-03,DEN, ,DEN
 jenslu,Jensen,Lucas,1994-10-08,DEN,Holstebro,DEN
+jenslv,Jensen,Lars Vang,1960-04-12,DEN, ,DEN
 jensm1,Jensen,Mathias,1996-01-01,DEN,Jerslev,DEN
 jensm2,Jensen,Mads,2001-05-09,DEN, ,DEN
 jensm3,Jensen,Mike,1988-02-19,DEN,Herlev,DEN
@@ -1514,6 +1772,7 @@ jensmA,Jensen,Mads,1970-04-15,DEN, ,DEN
 jensmB,Jensen,Morten,1964-12-26,DEN, ,DEN
 jensmC,Jensen,Markus,2005-07-15,DEN, ,DEN
 jensmD,Jensen,Magnus,1996-10-27,DEN,Viborg,DEN
+jensmE,Jensen,Michael,1960-02-19,DEN,Nykøbing,DEN
 jensmR,Jensen,Mathias Ross,2001-01-15,DEN,Aalborg,DEN
 jensma,Jensen,Magnus,1996-10-27,DEN, ,DEN
 jensmb,Jensen,Mikkel Bo,1978-01-13,DEN,Herlev,DEN
@@ -1523,30 +1782,49 @@ jensmi,Jensen,Mikkel,1995-01-21,DEN, ,DEN
 jensmo,Jensen,Morten,1989-05-05,DEN, ,DEN
 jensmr,Jensen,Magnus Risgaard,1996-10-27,DEN, ,DEN
 jensni,Jensen,Niclas,1974-08-17,DEN,København,DEN
+jensnj,Jensen,Niels Jørgen,1960-04-30,DEN, ,DEN
+jenso1,Jensen,Ole,1964-01-30,DEN, ,DEN
 jensol,Jensen,Oliver,2002-04-30,DEN, ,DEN
 jensos,Jensen,Oliver Sørensen,2002-03-10,DEN, ,DEN
+jensp1,Jensen,Per,1962-01-18,DEN,Nakskov,DEN
+jenspa,Jensen,Palle,0000-00-00,DEN, ,DEN
 jenspe,Jensen,Peter,1972-02-18,DEN,Frederiksberg,DEN
+jenspo,Jensen,Poul,0000-00-00,DEN, ,DEN
 jensps,Skov-Jensen,Peter,1971-06-09,DEN,Esbjerg,DEN
 jenspv,Jensen,Peter Vindahl,1998-02-16,DEN,Helsingør,DEN
 jenss1,Jensen,Søren,1972-05-03,DEN, ,DEN
 jenss2,Jensen,Steen,1967-02-02,DEN, ,DEN
+jenss3,Jensen,Søren,0000-00-00,DEN, ,DEN
 jensso,Jensen,Søren,1984-03-01,DEN, ,DEN
 jensst,Jensen,Stig,1969-06-21,DEN, ,DEN
 jenst1,Jensen,Tom,1971-04-22,DEN, ,DEN
+jenst2,Jensen,Thomas,0000-00-00,DEN, ,DEN
+jenst3,Jensen,Tommy,0000-00-00,DEN, ,DEN
+jenst4,Jensen,Tom Erik,1956-11-22,DEN,Næstved,DEN
+jenst5,Jensen,Tom,0000-00-00,DEN, ,DEN
 jenstA,Jensen,Tobias Augustinus,2004-12-27,DEN, ,DEN
 jensth,Jensen,Thomas,1974-08-04,DEN, ,DEN
+jensti,Jensen,Tim,0000-00-00,DEN, ,DEN
 jensto,Jensen,Tom,1970-05-28,DEN, ,DEN
 jensul,Jenssen,Ulrik,1996-07-17,NOR,Tromsø,NOR
 jensuy,Jenssen,Ulrik Yttergård,1996-07-17,NOR,Tromsø,NOR
 jensvL,Jensen,Valdemar Lund,2003-05-28,DEN,Sundby,DEN
 jensvi,Jensen,Victor,2000-02-08,DEN,København,DEN
+jeppfi,Jeppesen,Finn,1953-02-20,DEN, ,DEN
+jeppka,Jeppesen,Karsten,0000-00-00,DEN, ,DEN
 jeppma,Jeppesen,Martin,1970-12-29,DEN, ,DEN
 jeppmo,Jeppesen,Mogens,0000-00-00,DEN, ,DEN
 jepsal,Jepsen,Allan,1977-07-04,DEN,Kolding,DEN
+jepsca,Jepsen,Carsten,0000-00-00,DEN, ,DEN
 jepsma,Jepsen,Marc,1993-04-02,DEN, ,DEN
 jepsso,Jepsen,Søren,2000-05-12,DEN, ,DEN
+jepsst,Jepsen,Sten,1956-07-27,DEN, ,DEN
+jepssv,Jepsen,Svend,0000-00-00,DEN, ,DEN
+jepsto,Jepsen,Torben,0000-00-00,DEN, ,DEN
 jespda,Jespersen,Daniel,1996-02-16,DEN, ,DEN
+jesper,Jespersen,Erik,1957-08-29,DEN,Jerne,DEN
 jesphe,Jespersen,Henrik,1967-11-07,DEN, ,DEN
+jespkl,Jespersen,Klaus,0000-00-00,DEN, ,DEN
 jespmi,Jespersen,Mikkel,1991-06-11,DEN, ,DEN
 jessje,Jessen,Jens,1967-10-20,DEN, ,DEN
 jessle,Jessen,Leon,1986-06-11,DEN,Brande,DEN
@@ -1565,39 +1843,56 @@ joenre,Joensen,René,1993-02-08,FER, ,FER
 joeran,Jørgensen,Anders,1977-06-11,DEN, ,DEN
 joerbe,Jørgensen,Bo Elvar,1963-02-20,DEN, ,DEN
 joerbr,Jørgensen,Brian,1967-09-15,DEN, ,DEN
+joerc1,Jørgensen,Carsten,1958-06-09,DEN, ,DEN
+joerc2,Jørgensen,Claus,1956-08-07,DEN, ,DEN
 joerca,Jørgensen,Carsten,1975-01-16,DEN, ,DEN
 joercl,Jørgensen,Claus,1972-03-19,DEN, ,DEN
 joerda,Jørgensen,Daniel,1991-02-04,DEN, ,DEN
 joerem,Jørgensen,Emil,1995-11-14,DEN, ,DEN
+joerer,Jørgensen,Erik,0000-00-00,DEN, ,DEN
+joerfi,Jørgensen,Finn,1959-09-22,DEN, ,DEN
+joerfl,Jørgensen,Flemming,1967-05-27,DEN, ,DEN
 joerfr,Jørgensen,Frederik,2001-04-24,DEN, ,DEN
+joerge,Jørgensen,Gert,1957-02-16,DEN,Nykøbing Falster,DEN
 joerh1,Jørgensen,Henrik,1973-03-04,DEN, ,DEN
 joerh2,Jørgensen,Henrik,1978-06-23,DEN, ,DEN
 joerh3,Jørgensen,Henrik,1965-02-18,DEN, ,DEN
 joerh4,Jørgensen,Henrik,1966-02-16,DEN, ,DEN
+joerh5,Jørgensen,Henrik,1964-04-03,DEN, ,DEN
 joerhe,Jørgensen,Henrik,1979-01-12,DEN, ,DEN
 joerj1,Jørgensen,Jesper,1984-03-10,DEN, ,DEN
+joerja,Jørgensen,Jan,1962-00-00,DEN, ,DEN
 joerje,Jørgensen,Jesper,1984-05-09,DEN,Varde,DEN
+joerjj,Juul Jørgensen,Jan,1960-02-12,DEN, ,DEN
 joerjs,Jørgensen,Jørgen Simon,1995-09-26,DEN, ,DEN
+joerk1,Jørgensen,Kevin,0000-00-00,DEN, ,DEN
 joerka,Jørgensen,Kasper,1999-11-07,DEN, ,DEN
 joerke,Jørgensen,Kenneth,1980-01-28,DEN, ,DEN
 joerki,Jørgensen,Kim,1971-10-06,DEN, ,DEN
+joerku,Jørgensen,Kurt,1959-10-01,DEN, ,DEN
 joerl1,Jørgensen,Lasse,1982-11-03,DEN, ,DEN
 joerl2,Jørgensen,Lars,1977-04-21,DEN, ,DEN
 joerla,Jørgensen,Lasse,1984-04-23,DEN, ,DEN
 joerm1,Jørgensen,Marco,1991-06-02,DEN, ,DEN
 joerm2,Jørgensen,Martin,1975-10-06,DEN,Ørsted,DEN
 joerm3,Jørgensen,Mads,1979-02-10,DEN,Ørsted,DEN
+joerm4,Jørgensen,Mogens,1956-10-09,DEN, ,DEN
 joerma,Jørgensen,Mathias,2000-09-20,DEN,Hundested,DEN
+joermi,Jørgensen,Michael,0000-00-00,DEN, ,DEN
 joermo,Jørgensen,Morten,1978-09-30,DEN, ,DEN
 joern1,Jørgensen,Nicolai,1991-01-15,DEN,Ballerup,DEN
 joern2,Jørgensen,Nicolai,1993-01-12,DEN, ,DEN
 joern3,Jørgensen,Nicolai,1980-01-15,DEN,Fredericia,DEN
 joern4,Jørgensen,Niels Christian,1971-01-24,DEN,Århus,DEN
 joerni,Jørgensen,Nicolaj,1998-01-30,DEN,Als,DEN
+joerpe,Jørgensen,Per,1956-05-18,DEN,Vejle,DEN
+joerpo,Jørgensen,Poul,1957-01-10,DEN, ,DEN
 joerra,Jørgensen,Rasmus,1980-01-23,DEN,Gentofte,DEN
 joerse,Jørgensen,Sebastian,2000-12-31,DEN, ,DEN
 joersi,Jørgensen,Simon,1983-06-03,DEN,Munkebo,DEN
-joert1,Jørgensen,Torben,1961-05-23,DEN, ,DEN
+joerso,Jørgensen,Søren,0000-00-00,DEN, ,DEN
+joerst,Jørgensen,Steen,1958-04-05,DEN, ,DEN
+joert1,Jørgensen,Torben Lind,1961-05-23,DEN, ,DEN
 joerth,Jørgensen,Thomas,1975-10-20,DEN, ,DEN
 joerto,Jørgensen,Tomas,1976-10-16,DEN, ,DEN
 johaan,Johansson,Andreas,1978-07-05,SWE,Vänersborg,SWE
@@ -1607,9 +1902,11 @@ johac1,Johansson,Carl,1994-05-23,SWE,Lund,SWE
 johaca,Johansen,Casper,1988-07-28,DEN, ,DEN
 johach,Johansen,Christian,1999-01-27,DEN, ,DEN
 johada,Johansen,Dan,1979-08-13,DEN,Brøndby,DEN
+johafi,Johansen,Finn,1960-12-21,DEN, ,DEN
 johafr,Johansen,Frank,1962-10-01,DEN,Fakse,DEN
 johain,Johansen,Ingvar,1962-04-17,DEN, ,DEN
 johaja,Johansson,Jakob,1998-08-06,DEN, ,DEN
+johajo,Johansen,Johnny,0000-00-00,DEN, ,DEN
 johaka,Johansen,Karsten,1981-04-11,DEN, ,DEN
 johake,Johansen,Kent,1969-05-10,DEN, ,DEN
 johakr,Johannsen,Kristoffer,1977-02-24,DEN,Roskilde,DEN
@@ -1617,8 +1914,10 @@ johalH,Johansson,Lucas Hägg,1994-07-11,SWE,Riseberga,SWE
 joham1,Johansen,Malthe,1996-02-01,DEN, ,DEN
 joham2,Johansen,Martin,1972-07-22,DEN,Glostrup,DEN
 joham3,Johansen,Michael,0000-00-00,DEN, ,DEN
+joham4,Johansen,Michael,1960-08-11,DEN, ,DEN
 johama,Johannsen,Mathias,1992-04-27,DEN, ,DEN
 johami,Johansen,Michael Bro,1972-07-22,DEN,Glostrup,DEN
+johamo,Johansen,Mogens,1955-06-21,DEN, ,DEN
 johani,Johannesen,Nicolai,1994-05-22,DEN,Kopenhagen,DEN
 johaol,Johannesen,Óli,1972-05-06,FER,Tvøroyri,FER
 johara,Johansen,Rasmus,1978-07-07,DEN, ,DEN
@@ -1648,8 +1947,10 @@ jrgeth,Jørgensen,Thomas,2005-09-30,DEN, ,DEN
 juelje,Juelsgård,Jesper,1989-01-26,DEN,Spjald,DEN
 juelol,Juel,Ole,1964-03-09,DEN, ,DEN
 juelso,Juel,Søren,1964-11-23,DEN,Næstved,DEN
+juhlfi,Juhl,Find,1952-03-06,DEN, ,DEN
 juhlja,Juhl,Jakob,1975-04-12,DEN,Lemvig,DEN
 juhlmi,Juhl,Mikkel,2000-01-20,DEN,Præstø,DEN
+juhlmo,Juhl,Morten,1969-12-10,DEN, ,DEN
 julikl,Juliussen,Klaus,1958-03-13,DEN,Nykøbing Falster,DEN
 jungan,Jung,Anthony,1991-11-03,GER,Villajoyosa,SPA
 jungda,Jung,Danny,1971-08-05,DEN,København,DEN
@@ -1658,6 +1959,7 @@ jungma,Jungbloot,Martin,1983-12-10,DEN, ,DEN
 jungni,Jungvig,Nicolaj,2003-12-02,DEN, ,DEN
 junijo,Júnior,José,1976-06-15,BRA,Fortaleza,BRA
 juniju,Juninho, ,1995-02-01,BRA,Londrina,BRA
+junkha,Junker,Hans,0000-00-00,DEN, ,DEN
 junkka,Junker,Kasper,1994-03-05,DEN,Vinding,DEN
 junkma,Junker,Mads,1981-04-21,DEN,Humlebæk,DEN
 justel,Just,Elijah,2000-05-01,NZL,Palmerston North,NZL
@@ -1670,6 +1972,7 @@ kaagkr,Kaagh,Kristian,1986-07-18,DEN,Grenå,DEN
 kaalma,Kaalund,Mads,1996-08-16,DEN,Kopenhagen,DEN
 kaapkv,Kaap,Kellian van der,1998-11-08,NED,Groningen,NED
 kaasma,Kaastrup,Magnus,2000-12-28,DEN,Virring,DEN
+kaasto,Kaas,Torben,1960-06-09,DEN, ,DEN
 kaaswi,Kaastrup,William,2004-03-21,DEN,Kokkedal,DEN
 kabaso,Kaba,Sory,1995-07-28,GUI,Conakry,GUI
 kaboab,Kabous,Abderrahman,1983-04-24,MAR,Meaux,FRA
@@ -1697,6 +2000,7 @@ kaltan,Kaltoft,Andreas,1998-05-22,DEN,Hellerup,DEN
 kamaal,Kamara,Alhaji,1994-04-16,SLE,Freetown,SLE
 kamith,Kaminski,Thomas,1992-10-23,BEL,Dendermonde,BEL
 kampjo,Kamper,Jonas,1983-05-03,DEN,Nørre Alslev,DEN
+kampst,Kampa,Stanislaw,0000-00-00,GER, ,GER
 kamwjo,Kamwendo,Joseph,1986-10-23,MLW,Mchinji,MLW
 kannda,Kannemeyer,David,1977-07-08,RSA,Cape Town,RSA
 kanspi,Kanstrup,Pierre,1989-02-21,DEN,Brøndby,DEN
@@ -1746,6 +2050,7 @@ killro,Killerich,Roald,1971-09-28,DEN, ,DEN
 kingjo,King,Joel,2000-10-30,AUS,Shell Cove,AUS
 kingse,King,Seejou,1992-04-19,DEN,Hvidovre,DEN
 kircol,Kirchhoff,Olav,1971-04-21,DEN,København,DEN
+kirkjo,Kirk,Jørgen,1954-07-18,DEN, ,DEN
 kirkk1,Kirkegaard,Kristian,1997-10-02,DEN,Vejle,DEN
 kirkkr,Kirk,Kristian,1986-07-30,DEN, ,DEN
 kirklu,Kirkegaard,Lukas,2005-05-19,DEN, ,DEN
@@ -1757,8 +2062,13 @@ kissc_,Kissaw,C.,0000-00-00,DEN, ,DEN
 kitcpe,Kitchen,Perry,1992-02-29,USA,Indianapolis,USA
 kiwoch,Kiwomya,Chris,1969-12-02,ENG,Huddersfield,ENG
 kiziha,Kizil,Hamza,1989-08-13,DEN, ,DEN
+kjaefl,Kjær,Flemming,0000-00-00,DEN, ,DEN
+kjaegl,Kjær,Glenn,1965-00-00,DEN, ,DEN
 kjaej1,Kjærulf,Jesper,1983-10-07,DEN, ,DEN
 kjaeje,Kjær,Jeppe,1985-11-06,DEN,Roskilde,DEN
+kjaejo,Kjær,Jørn,1961-05-16,DEN, ,DEN
+kjaeki,Kjærsgård,Kim,0000-00-00,DEN, ,DEN
+kjaeo1,Kjær,Ole,1954-08-16,DEN,Kolding,DEN
 kjaeol,Kjærgaard,Oliver,1998-07-11,DEN,Kokkedal,DEN
 kjaepe,Kjær,Peter,1965-11-05,DEN,Federica,DEN
 kjaere,Kjærsgaard,Rene,1976-02-07,DEN, ,DEN
@@ -1767,6 +2077,7 @@ kjaeth,Kjærbye,Thomas,1980-04-22,DEN, ,DEN
 kjelem,Kjeldsen,Emil,1996-07-04,DEN, ,DEN
 kjelja,Kjeldberg,Jakob,1969-10-21,DEN,Frederiks,DEN
 kjelmo,Kjeldsen,Mogens,1962-11-01,DEN,København,DEN
+kjerhe,Kjergård,Henning,0000-00-00,DEN, ,DEN
 kjerla,Kjer,Lars,1966-01-24,DEN, ,DEN
 kjerlu,Kjerrumgaard,Luca,2003-02-09,DEN,Odense,DEN
 klaise,Klaiber,Sean,1994-07-31,SUR,Nieuwegein,NED
@@ -1776,16 +2087,19 @@ klauja,Klausen,Jan,1983-02-02,DEN, ,DEN
 klauka,Klausen,Kasper,1982-12-20,DEN, ,DEN
 klaula,Klausen,Lars,1968-04-10,DEN, ,DEN
 klauto,Klausen,Tom,0000-00-00,DEN, ,DEN
+klepol,Klepp,Olav,1962-07-13,NOR, ,NOR
 klimja,Kliment,Jan,1993-09-01,CZE,Myjava,SVK
 klimma,Klimpl,Maroš,1980-07-04,SVK,Martina,SVK
 klitji,Klitland,Jimmi,1982-02-19,DEN, ,DEN
 klitlu,Klitten,Lukas,2000-05-01,DEN, ,DEN
 klitol,Klitten,Oliver,2000-05-01,DEN, ,DEN
+klitpe,Klitgård,Peter,0000-00-00,DEN, ,DEN
 kloetr,Kløve,Troels,1990-10-23,DEN, ,DEN
 klynan,Klynge,Anders,2000-10-14,DEN, ,DEN
 klysto,Klysner,Tobias,2001-07-03,DEN, ,DEN
 knoema,Knoester,Mats,1998-11-19,NED,Alphen aan den Rijn,NED
 knudhe,Knudsen,Henrik,1965-07-05,DEN, ,DEN
+knudj1,Knudsen,Jan,1955-01-12,DEN,Vejle,DEN
 knudja,Knudsen,Jan,1967-02-25,DEN, ,DEN
 knudjo,Knudsen,Jonas,1992-09-16,DEN,Esbjerg,DEN
 knudke,Knudsen,Kenneth,1981-02-03,DEN, ,DEN
@@ -1797,29 +2111,38 @@ knudmi,Knudsen,Mikael,1981-01-15,DEN, ,DEN
 knudmo,Knudsen,Morten,1995-04-28,DEN, ,DEN
 knudp1,Knudsen,Peter,1970-07-16,DEN, ,DEN
 knudp2,Knudsen,Petur,1998-04-21,FER,Saltangará,FER
+knudp3,Knudsen,Per,1963-02-18,DEN, ,DEN
+knudp4,Knudsen,Peter,0000-00-00,DEN, ,DEN
+knudpb,Knudsen,Preben B.,1953-08-16,DEN, ,DEN
 knudpe,Knudsen,Peter,1973-04-14,DEN,Glostrup,DEN
 knudt1,Knudsen,Thomas,1970-10-03,DEN, ,DEN
 knudth,Knudsen,Thomas,1972-08-11,DEN, ,SWE
 knudto,Knudsen,Tommy,1982-07-13,DEN,Frederica,DEN
 knudtr,Knudsen,Troels,0000-00-00,DEN, ,DEN
+kochjp,Koch,Jens P.,1961-11-04,DEN, ,DEN
 kochmo,Koch,Morten,1992-06-25,DEN, ,DEN
 kochse,Koch,Sebastian,1996-10-11,DEN, ,DEN
 kodrke,Kodro,Kenan,1993-08-19,BOS,San Sebastián,SPA
 koehch,Køhler,Christian,1996-04-10,DEN,København,DEN
 koehni,Køhlert,Nicolaj,1993-01-21,DEN, ,DEN
+koella,Kølbæk,Lars,1960-04-17,DEN, ,DEN
 koenda,König,Danni,1986-12-17,DEN,Tingbjerg,DEN
 koerru,Koertz,Rune,1983-03-21,DEN, ,DEN
 koetla,Köteles,László,1984-09-01,HUN,Szeged,HUN
+kofobe,Kofoed Hansen,Bent,1962-03-19,DEN, ,DEN
 kofomi,Kofoed,Mikkel,1974-11-23,DEN, ,DEN
 kofovi,Kofoed,Vitus,1982-07-15,DEN,Rønne,DEN
 kokogo,Kokoshvili,Gocha,1969-03-25,GEO, ,GEO
 kolbad,Kolberg,Adam,0000-00-00,DEN, ,DEN
 koldbe,Kold,Benjamin,2004-05-13,DEN, ,DEN
+koldje,Kolding,Jens,1952-07-12,DEN,Frederiksberg,DEN
 kolide,Kolinger,Denis,1994-01-14,CRO,Malsch,GER
+kolihe,Kolind,Henning,0000-00-00,DEN, ,DEN
 kolski,Kolstrup,Kim,1985-04-16,DEN, ,DEN
 konati,Konaté,Tiémoko,1990-03-03,CIV,Abidjan,CIV
 kongjo,Kongsbøg,Johnny,1966-12-01,DEN, ,DEN
 kongma,Kongstedt,Mark,1995-07-08,DEN, ,DEN
+konrto,Konradsen,Torben,1955-06-21,DEN, ,DEN
 koppbj,Kopplin,Björn,1989-01-07,GER,Berlin,GER
 korced,Korchagin,Edik,1979-01-16,RUS,Mozdok,RUS
 korcol,Korch,Oliver,1994-06-18,DEN, ,DEN
@@ -1839,20 +2162,26 @@ kragja,Kragh,Jakob,1979-01-03,DEN, ,DEN
 kramla,Kramer,Lars,1999-07-11,NED,Zaandam,NED
 krauja,Krause,Jan,1962-09-25,DEN, ,DEN
 krauth,Krause,Thomas,1981-04-23,DEN, ,DEN
+kreija,Kreibke,Jan,1961-02-26,DEN, ,DEN
+krinpe,Kringhøj,Per,0000-00-00,DEN, ,DEN
 krisbj,Kristensen,Bjørn,1963-10-10,DEN,Malling,DEN
 krisbr,Kristensen,Brian,1971-12-30,DEN, ,DEN
+krisca,Kristensen,Carsten,1956-10-30,DEN, ,DEN
 krisda,Kristjánsson,Daníel,2005-08-30,ISL, ,ISL
 krisfi,Kristensen,Filip,2004-07-03,DEN, ,DEN
 krisfr,Kristensen,Frank,1977-03-10,DEN,Agger,DEN
 krisge,Kristoffersen,Gert,1960-01-13,DEN, ,DEN
-krishe,Kristensen,Henrik,1964-07-24,DEN, ,DEN
+krishe,Kristensen,Henrik Vandet,1964-07-24,DEN, ,DEN
 krisj1,Kristensen,Jesper,1986-09-16,DEN, ,DEN
 krisj2,Kristensen,Jesper,1971-10-09,DEN,Esbjerg,DEN
+krisj3,Kristensen,Jarl,1968-08-14,DEN, ,DEN
 krisja,Kristiansen,Jan,1981-08-04,DEN,Ølgod,DEN
 krisje,Kristoffersen,Jesper,1984-02-02,DEN, ,DEN
+krisjo,Kristiansen,John Tune,1955-02-12,DEN, ,DEN
 krisju,Kristoffersen,Julian,1997-05-10,NOR,Horten,NOR
 krisk1,Kristensen,Kasper,1986-03-27,DEN,Gladsaxe,DEN
 krisk2,Kristensen,Kim Sand,1972-02-28,DEN, ,DEN
+krisk3,Kristensen,Keld,1952-01-06,DEN,Gladsaxe,DEN
 kriska,Kristensen,Kasper,1999-08-04,DEN,Aarhus,DEN
 kriske,Kristensen,Kenneth,1978-02-17,DEN, ,DEN
 kriski,Kristensen,Kim,1975-01-10,DEN, ,DEN
@@ -1861,24 +2190,30 @@ krisla,Kristensen,Lars,1968-03-31,DEN, ,DEN
 krism1,Kristensen,Matthias,1997-03-21,DEN, ,DEN
 krism2,Kristensen,Mathias,1993-06-24,DEN, ,DEN
 krism3,Kristensen,Marcus,2003-01-03,DEN, ,DEN
+krism4,Kristensen,Michael,1959-04-27,DEN, ,DEN
 krisma,Kristensen,Markus,2003-00-00,DEN, ,DEN
 krismi,Kristensen,Mikkel,2006-07-05,DEN, ,DEN
 krisml,Kristensen,Marc Larsen,1992-09-04,DEN, ,DEN
 krisn1,Kristensen,Niels,1988-04-24,DEN, ,DEN
 krisn2,Kristensen,Nicki,1980-09-08,DEN,Nørre-Snede,DEN
 krisni,Kristensen,Nicklas,1989-02-21,DEN, ,DEN
+kriso1,Kristensen,Ole,1961-03-07,DEN, ,DEN
 krisob,Kristensen,Oliver Bundgaard,2001-06-15,DEN, ,DEN
 krisoe,Kristinsson,Ögmundur,1989-06-19,ISL,Reykjavík,ISL
 krisol,Kristjánsson,Ólafur,1968-05-20,ISL,Reykjavík,ISL
+krisp1,Kristensen,Per,0000-00-00,DEN, ,DEN
 krispa,Kristensen,Patrick,1987-04-28,DEN,Silkeborg,DEN
 krispe,Kristensen,Peer,1970-01-17,DEN, ,DEN
 krisra,Kristensen,Rasmus,1997-07-11,DEN,Brande,DEN
+kriss1,Kristensen,Søren Elmenhoff,1957-06-06,DEN, ,DEN
 krissi,Kristensen,Sigurd,1963-03-28,DEN,Brande,DEN
 krisso,Kristensen,Søren Juul,1972-03-09,DEN, ,DEN
+krisst,Kristiansen,Stefan,0000-00-00,DEN, ,DEN
 krist1,Kristensen,Thomas,2002-01-17,DEN, ,DEN
 kristT,Kristensen,Thomas Thiesson,2002-01-17,DEN,Aarhus,DEN
 krist_,Kristensen,T.,0000-00-00,DEN, ,DEN
 kristh,Kristensen,Thomas,1983-04-17,DEN,Virum,DEN
+kristo,Kristiansen,Tommy,1953-10-18,DEN, ,DEN
 krisul,Kristensen,Ulrik,1972-03-29,DEN, ,DEN
 krisvi,Kristiansen,Victor,2002-12-16,DEN, ,DEN
 krogda,Krog,Daniel,1991-03-14,DEN, ,DEN
@@ -1921,8 +2256,10 @@ kwedpa,Kwedi,Patrice,1983-09-30,CMR,Yaounde,CMR
 ladeja,Ladefoged,Jan,1961-11-19,DEN, ,DEN
 ladeto,Ladefoged,Tommy,1991-01-31,DEN, ,DEN
 lafsel,Ólafsson,Elías,2000-03-11,ISL,Reykjavík,ISL
+lagski,Lagstrøm,Kim,1956-09-19,DEN, ,DEN
 laixva,Lai,Valentino,1982-02-03,ITA,Cagliari,ITA
 lambla,Lambæk,Lars,1967-12-17,DEN, ,DEN
+langeb,Lang,Ebbe,0000-00-00,DEN, ,DEN
 langfr,Langagergaard,Frode,1970-03-08,DEN, ,DEN
 langje,Lange,Jesper,1986-01-11,DEN, ,DEN
 langpe,Langhoff,Peter,2004-01-02,DEN, ,DEN
@@ -1932,24 +2269,34 @@ lantma,Lantz,Marcus,1975-10-23,SWE,Helsingborg,SWE
 larsa1,Larsen,Allan,1972-05-18,DEN, ,DEN
 larsal,Larsen,Allan,1985-06-05,DEN, ,DEN
 larsan,Larsen,Andreas,1990-05-22,DEN,København,DEN
+larsb1,Larsen,Boye,1960-07-16,DEN, ,DEN
+larsbe,Larsen,Benny,0000-00-00,DEN, ,DEN
 larsbo,Larsen,Bo,1971-01-28,DEN, ,DEN
+larsbu,Larsen,Busk,0000-00-00,DEN, ,DEN
+larsca,Larsen,Carsten,1966-02-21,DEN, ,DEN
+larscb,Larsen,Claus Bjørn,1954-05-20,DEN,Høje Tåstrup,DEN
+larsch,Larsen,Christian,1966-10-21,DEN, ,DEN
 larscl,Larsen,Gerner,1962-12-30,DEN, ,DEN
 larsda,Larsson,Daniel,1987-01-25,SWE,Göteborg,SWE
 larseb,Bodholdt-Larsen,Emil,1999-02-15,DEN, ,DEN
 larsem,Larsen,Emil,1991-06-22,DEN,København,DEN
 larser,Larsen,Erik,1964-03-26,DEN, ,DEN
+larsf1,Larsen,Flemming,1960-03-28,DEN, ,DEN
 larsfl,Larsen,Flemming,1964-08-20,DEN, ,DEN
 larsh1,Larsen,Henrik,1965-10-03,DEN, ,DEN
 larsh2,Larsen,Henrik,1967-06-09,DEN, ,DEN
 larsh3,Larsen,Henning,1961-12-22,DEN, ,DEN
-larshe,Larsen,Henrik Store,1966-05-17,DEN,Taarbaek,DEN
+larsha,Larsen,Harbo,1950-04-07,DEN, ,DEN
+larshb,Larsen,Henrik Bo,1958-12-15,DEN,Frederiksberg,DEN
+larshe,Larsen,Henrik Store,1966-05-17,DEN,Tårbæk,DEN
 larsj1,Larsen,Jan,1972-04-27,DEN, ,DEN
 larsj2,Larsen,Jacob,1980-03-27,DEN, ,DEN
 larsj3,Larsen,Jan,1976-05-03,DEN, ,DEN
 larsj4,Larsen,Jesper,1975-02-15,DEN, ,DEN
 larsj5,Larsen,John,1962-05-25,DEN,Helsingør,DEN
 larsj6,Larsson,Jordan,1997-06-20,SWE,Rotterdam,NED
-larsj7,Larsen,Jan,1966-10-23,DEN,Århus,DEN
+larsj7,Larsen,Jan Lemvig,1966-10-23,DEN,Århus,DEN
+larsj8,Larsen,Jan,0000-00-00,DEN, ,DEN
 larsja,Larsen,Jacob,1998-06-25,DEN, ,DEN
 larsje,Larsen,Jeppe,1977-01-02,DEN, ,DEN
 larsji,Larsen,Jim,1985-11-06,DEN,Korsør,DEN
@@ -1958,12 +2305,15 @@ larsjs,Larsen,Jens Stryger,1991-02-21,DEN,Sakskøbing,DEN
 larsk1,Larsen,Kristoffer,1992-01-19,NOR,Bergen,NOR
 larsk2,Larsen,Kai,1968-09-07,DEN, ,DEN
 larsk3,Larsen,Kenny,1967-07-12,DEN, ,DEN
+larsk4,Larsen,Kim,1955-09-15,DEN, ,DEN
 larska,Larsen,Kasper,1993-01-25,DEN,Odense,DEN
 larskb,Larsen,Kim Bo,0000-00-00,DEN, ,DEN
 larske,Larsen,Kenneth,1981-06-19,DEN, ,DEN
 larski,Larsen,Kim,1974-09-01,DEN, ,DEN
 larskr,Larsen,Kristoffer,0000-00-00,DEN, ,DEN
+larsku,Larsen,Kurt,0000-00-00,DEN, ,DEN
 larsl1,Larsen,Lars Dyne,1970-12-06,DEN,Bogense,DEN
+larsl2,Larsen,Lars,1951-12-08,DEN, ,DEN
 larsla,Larsen,Lars,1978-11-14,DEN, ,DEN
 larslb,Larsen,Lars Bo,1969-11-14,DEN, ,DEN
 larsll,Larsen,Lennart Lynge,1974-10-15,DEN,Frederiksberg,DEN
@@ -1974,6 +2324,7 @@ larsm4,Larsen,Martin,1977-04-24,DEN,Svendborg,DEN
 larsm5,Larsen,Michael,1979-02-27,DEN, ,DEN
 larsm6,Larsen,Michael,1961-04-08,DEN, ,DEN
 larsm7,Larsen,Marinus,2003-12-30,DEN, ,DEN
+larsm8,Larsen,Michael,0000-00-00,DEN, ,DEN
 larsma,Larsen,Mads,2001-09-20,DEN, ,DEN
 larsmi,Larsen,Michael,1983-02-06,DEN, ,DEN
 larsmo,Larsen,Morten,1979-01-21,DEN, ,DEN
@@ -1982,11 +2333,16 @@ larsni,Larsen,Nicolai,1991-03-09,DEN,Esbjerg,DEN
 larsol,Larsen,Oliver,1991-11-12,DEN, ,DEN
 larsp1,Larsen,Peter,1965-03-09,DEN, ,DEN
 larsp2,Larsen,Pierre,1959-01-22,DEN,København,DEN
+larsp3,Larsen,Per,0000-00-00,DEN, ,DEN
 larspe,Larsson,Peter,1984-04-30,SWE,Halmstad,SWE
 larspi,Larsen,Pierre,1994-07-16,DEN, ,DEN
 larss1,Larsen,Søren,1975-07-05,DEN, ,DEN
 larss2,Larsen,Søren,1962-12-01,DEN,Aalborg,DEN
+larsse,Larsen,Svend Erik,1957-06-03,DEN, ,DEN
+larssg,Grenå Larsen,Søren,0000-00-00,DEN, ,DEN
 larsso,Larsen,Søren,1981-09-06,DEN,Køge,DEN
+larst1,Larsen,Thomas,1954-02-11,DEN,Jægersborg,DEN
+larst2,Larsen,Tommy,1957-12-12,DEN, ,DEN
 larsth,Larsen,Thomas,1977-03-12,DEN,Aarhus,DEN
 larsto,Larsen,Torben,1966-12-06,DEN, ,DEN
 lassfr,Lassen,Frederik,1986-02-20,DEN, ,DEN
@@ -1998,16 +2354,22 @@ lastdi,Last,Dick,1969-02-03,SWE,Munkedal,SWE
 laudan,Laudrup,Andreas,1990-11-10,DEN,Barcelona,SPA
 laudbr,Laudrup,Brian,1969-02-22,DEN,Wien,AUT
 laudma,Laudrup,Mads,1989-02-09,DEN,Milano,ITA
+laudmi,Laudrup,Michael,1964-06-15,DEN,Frederiksberg,DEN
 lauefr,Lauenborg,Frederik,1997-05-18,DEN, ,DEN
+laugni,Lauge,Niels,0000-00-00,DEN, ,DEN
 laurga,Arndal-Lauritzen,Gregers,1998-05-03,DEN, ,DEN
 laurj1,Laursen,Jacob,1971-10-06,DEN,Velje,DEN
 laurj2,Laursen,Jonny,1975-03-25,DEN, ,DEN
 laurj3,Laursen,Jan,1971-01-26,DEN, ,DEN
 laurj4,Lauridsen,Jan,1963-01-18,DEN,Viby,DEN
+laurj5,Laursen,John,1959-02-16,DEN,Vejle,DEN
+laurj6,Laursen,Jean,0000-00-00,DEN, ,DEN
 laurj_,Lauritsen,J.,0000-00-00,DEN, ,DEN
 laurja,Laursen,Jacob,1994-11-17,DEN,Arden,DEN
 laurje,Lauridsen,Jesper,1991-03-27,DEN,Midtjylland,DEN
 laurjo,Laursen,Johnny,1981-10-28,DEN, ,DEN
+laurk1,Lauridsen,Kim,1959-08-12,DEN, ,DEN
+laurki,Laursen,Kim,0000-00-00,DEN, ,DEN
 laurm1,Laursen,Mogens,1980-08-02,DEN,Auning,DEN
 laurm2,Laursen,Martin,1977-07-26,DEN,Farvoug,DEN
 laurma,Lauritsen,Mads,1993-04-14,DEN, ,DEN
@@ -2020,6 +2382,7 @@ laurp1,Laursen,Per,1971-06-01,DEN,Glostrup,DEN
 laurpe,Lauridsen,Peter,1989-01-21,DEN, ,DEN
 laurra,Lauritsen,Rasmus,1996-02-27,DEN,Brande,DEN
 laurrj,Laursen,Ryan Johnson,1992-04-14,DEN,Los Angeles,USA
+laurso,Lauridsen,Søren,1966-01-13,DEN, ,DEN
 laurt1,Laursen,Theo,2005-07-11,DEN, ,DEN
 laurth,Lauridsen,Thomas,1972-08-19,DEN, ,DEN
 laurto,Lauritsen,Tobias,2004-06-18,DEN,Randers,DEN
@@ -2041,22 +2404,27 @@ lekvma,Lekven,Magnus,1988-01-13,NOR,Porsgrunn,NOR
 leliry,Leliūga,Rytis,1987-01-04,LIT,Mažeikiai,LIT
 lennj_,Lennart,J.,0000-00-00,DEN, ,DEN
 leonib,Leonard,Ibekwe,1991-05-19,CMR,Bamenda,CMR
-lerala,Lerager,Lars,0000-00-00,DEN, ,DEN
+lerala,Lerager,Lars,1965-03-12,DEN, ,DEN
 leralu,Lerager,Lukas,1993-07-12,DEN,Gladsaxe,DEN
 lesnfi,Lesniak,Filip,1996-05-14,SVK,Košice,SVK
 lethka,Leth,Karl,2002-08-22,DEN, ,DEN
 lethni,Leth,Nikolaj,2000-04-21,DEN, ,DEN
 letsti,Letschert,Timo,1993-05-25,NED,Purmerend,NED
+levian,Levinsen,Anders,0000-00-00,DEN, ,DEN
+lewaja,Lewandowski,Jan,1972-08-07,DEN, ,DEN
 libuja,Liburd,Jannick,2001-09-26,DEN,Houston,USA
 liedma,Lieder,Mart,1990-05-01,NED,Purmerend,NED
 lildkl,Lildholdt,Klaus,1976-05-14,DEN, ,DEN
+lilhhe,Lilholt,Henrik,1963-05-16,DEN, ,DEN
 lindal,Lind,Alexander,2002-00-00,DEN, ,DEN
 lindan,Lindegaard,Anders,1984-04-13,DEN,Dyrup,DEN
 linder,Lind,Eric,1974-01-12,DEN, ,DEN
+lindg1,Lindahl,Günther,1953-03-04,DEN, ,DEN
 lindgu,Lind,Gunner,1971-12-29,DEN,Århus,DEN
 lindj1,Lindegaard,Jesper,1986-01-19,DEN, ,DEN
 lindje,Lindstrøm,Jesper,2000-02-29,DEN, ,DEN
 lindjo,Lindekilde,Jonatan,2006-03-31,DEN, ,DEN
+lindki,Lindegård,Kim,1966-04-02,DEN, ,DEN
 lindkl,Lindholm,Klaus,1974-08-04,DEN, ,DEN
 lindkr,Lindberg,Kristian,1994-02-14,DEN, ,DEN
 lindla,Lindbjerg,Lasse,1992-04-15,DEN, ,DEN
@@ -2064,6 +2432,8 @@ lindm1,Lindberg,Marcus,2000-06-27,DEN, ,DEN
 lindma,Lindström,Mattias,1980-04-18,SWE,Helsingborg,SWE
 lindmi,Lindorff,Mikkel,1974-11-27,DEN, ,DEN
 lindrr,Lind,Rune Rasmussen,1985-04-03,DEN, ,DEN
+lindso,Lindsted,Søren,1957-02-02,DEN, ,DEN
+lindst,Lindberg,Steen,1963-11-25,DEN, ,DEN
 lindth,Lindrup,Thomas,1976-05-21,DEN,Glostrup,DEN
 lindto,Linderoth,Tobias,1979-04-21,SWE,Marseille,FRA
 lindu1,Lindström,Ulrik,1973-09-20,DEN, ,DEN
@@ -2075,7 +2445,7 @@ linnfl,Linnebjerg,Flemming,1968-05-11,DEN,Studsgaard,DEN
 linnja,Linnet,Jacob,1995-04-17,DEN, ,DEN
 linnos,Linnér,Oscar,1997-02-23,SWE,Danderyd,SWE
 linnse,Linnet,Sebastian,1996-03-26,DEN, ,DEN
-lisdpe,Lisdorf,Per,1967-03-31,DEN, ,GER
+lisdpe,Lisdorf,Peer,1967-03-31,DEN, ,GER
 lisslu,Lissens,Lucas,2001-07-25,BEL,Gent,BEL
 ljunfl,Ljungstrøm,Flemming,1972-08-28,DEN, ,DEN
 ljunje,Ljung,Jesper,1973-12-31,SWE, ,SWE
@@ -2085,13 +2455,16 @@ lodblu,Lodberg,Lucas,1999-11-06,DEN, ,DEN
 lodbni,Lodberg,Niels,1980-10-14,DEN,Ringkøbing,DEN
 loebca,Løber,Carsten,1964-04-19,DEN, ,DEN
 loefda,Löfqvist,David,1986-08-06,SWE,Sölvesborg,SWE
+loefhe,Løften,Henrik,1964-03-12,DEN, ,DEN
 loench,Lønstrup,Christian,1971-04-04,DEN,Gentofte,DEN
-loenfr,Løndal,Frank,1962-03-23,DEN, ,DEN
-loesjo,Lössl,Jonas,1989-02-01,DEN,Kolding,DEN
+loenfr,Løndal,Frank,1962-03-23,DEN,Køge,DEN
+loesjo,Løssl,Jonas,1989-02-01,DEN,Kolding,DEN
 loetmo,Løth,Morten,1971-06-19,DEN, ,DEN
 loevpe,Løvenkrands,Peter,1980-01-29,DEN,Hørsholm,DEN
 loevto,Løvenkrands,Tommy,1974-05-30,DEN,Hørsholm,DEN
 loewpe,Løwenstein,Peter,1979-06-25,DEN, ,DEN
+loewri,Løwe,Richard,1959-10-06,DEN, ,DEN
+lohsmi,Lohse,Michael,1961-12-25,DEN, ,DEN
 lonwju,Lonwijk,Justin,1999-12-21,NED,Tilburg,NED
 lorath,Loran,Thomas,1975-01-24,DEN, ,DEN
 loreka,Lorentzen,Kasper,1985-11-19,DEN,Hvidovre,DEN
@@ -2104,6 +2477,7 @@ luciiv,Lučić,Ivan,1995-03-23,AUT,Wien,AUT
 ludeki,Ludewig,Kilian,2000-03-05,GER,Hamburg,GER
 ludwal,Ludwig,Alexander,1993-06-30,DEN,København,DEN
 luebda,Lübbers,Dan,1972-02-04,DEN,København,DEN
+luebpe,Lübker,Peter,0000-00-00,DEN, ,DEN
 luefmi,Lüftner,Michael,1994-03-14,CZE,Chabařovice,CZE
 luetji,Lüthje,Jimmi,1968-01-18,DEN,København,DEN
 luijke,Luijckx,Kees,1986-02-11,NED,Castricum,NED
@@ -2111,30 +2485,41 @@ lumbmi,Lumb,Michael,1988-01-09,DEN,Aarhus,DEN
 lundbe,Lund,Benjamin,1997-03-12,DEN,Rønne,DEN
 lundch,Lundberg,Christian,1970-08-24,DEN,Skive,DEN
 lundda,Lundholm,Daniel,1995-06-11,DEN, ,DEN
+lundhe,Lund,Henrik,1965-01-19,DEN, ,DEN
 lundj_,Lund,J.,0000-00-00,DEN, ,DEN
 lundjo,Lundberg,Johnny,1982-04-15,SWE, ,SWE
+lundk1,Lund,Kaj Åge,1953-06-23,DEN, ,DEN
 lundka,Lunding,Kasper,1999-07-17,DEN, ,DEN
+lundl1,Lunde,Lars,1964-03-21,DEN,Nyborg,DEN
 lundla,Lundkvist,Lars,1957-06-14,DEN,Aarhus,DEN
 lundlu,Lund,Lucas,2000-03-19,DEN,Bruunshåb,DEN
 lundm1,Lund,Martin,1991-08-04,DEN, ,DEN
 lundma,Lund,Marco,1996-06-30,DEN,Ansager,DEN
 lundmo,Lund,Morten,1990-09-14,DEN, ,DEN
 lundol,Lund,Oliver,1990-08-21,DEN, ,DEN
+lundpe,Lundbak,Per,1958-11-16,DEN, ,DEN
 lundph,Lund,Philip,1989-09-05,DEN,Vejle,DEN
 lundsa,Lundholm,Sam,1994-07-01,SWE,Danderyd,SWE
 lundso,Lund,Søren,1972-04-16,DEN, ,DEN
 lundvi,Lundberg,Viktor,1991-03-04,SWE,Solna,SWE
 luquju,Luque, ,1992-03-27,SPA,Torrelavega,SPA
 lustst,Lustü,Steven,1971-04-13,DEN,Glostrup,DEN
+luxhje,Luxhøj,Jens,0000-00-00,DEN, ,DEN
+luxhto,Luxhøj,Torben,1953-01-21,DEN, ,DEN
+lydape,Lydall,Per,0000-00-00,DEN, ,DEN
 lyhnke,Lyhne,Kern,1975-01-31,DEN,Herning,DEN
+lyhnov,Lyhne,Ove,1950-03-19,DEN, ,DEN
 lykkca,Lykke,Caspar,0000-00-00,DEN, ,DEN
 lykkhe,Lykke,Henrik,1970-04-03,DEN,København,DEN
 lykkkl,Lykke,Klaus,1982-09-15,DEN, ,DEN
 lykklu,Lykkegaard,Lucas,2002-04-05,DEN, ,DEN
 lykkto,Lykkebak,Tobias,2006-07-15,DEN, ,DEN
 lykoma,Lykowski,Maciej,1978-01-28,POL,Słupsk,POL
+lyngal,Lyngby Sørensen,Allan,1961-04-04,DEN, ,DEN
 lyngem,Lyng,Emil,1989-08-03,DEN,Kolding,DEN
+lyngmi,Lyng,Michael,1960-06-09,DEN,København,DEN
 lyngni,Lyngø,Nikolaj,1998-02-03,DEN, ,DEN
+lyngs1,Lyngesen,Søren,1966-03-14,DEN, ,DEN
 lyngso,Lyng,Søren,1966-07-08,DEN,Gentofte,DEN
 lysdra,Lysdal,Rasmus,1997-00-00,DEN, ,DEN
 lysech,Lysemose,Christian,1977-08-24,DEN, ,DEN
@@ -2144,7 +2529,10 @@ maalth,Maale,Thomas,1974-10-22,DEN,Gentofte,DEN
 maazmo,Maâzou,Moussa,1988-08-25,NIG,Niamey,NIG
 mabiaw,Mabil,Awer,1995-09-15,AUS,Kakuma,KEN
 macegi,Macena,Gilberto,1984-04-01,BRA,Rio de Janeiro,BRA
+macnfr,MacNamara,Frank,1962-10-16,SCO, ,SCO
+madsbe,Madsen,Bent,1956-02-15,DEN, ,DEN
 madsbj,Madsen,Bjarne,1965-05-10,DEN, ,DEN
+madsc1,Madsen,Christian,0000-00-00,DEN, ,DEN
 madsch,Madsen,Christian,1991-01-29,DEN, ,DEN
 madscl,Madsen,Claus,1975-03-11,DEN,Odense,DEN
 madser,Madsen,Erik,1968-08-20,DEN, ,DEN
@@ -2153,26 +2541,37 @@ madsh1,Madsen,Henrik,1971-08-16,DEN, ,DEN
 madshe,Madsen,Henrik,1983-02-25,DEN, ,DEN
 madsj1,Madsen,Johannes,1993-04-07,DEN, ,DEN
 madsj2,Madsen,Jens,1970-04-20,DEN,Herning,DEN
+madsj3,Madsen,Johnny,1958-02-01,DEN, ,DEN
+madsj4,Madsen,John,0000-00-00,DEN, ,DEN
+madsja,Madsen,Jan,1950-12-31,DEN, ,DEN
 madsje,Madsen,Jens,1970-02-01,DEN,København,DEN
 madsjo,Madsen,Jonas,1999-07-25,DEN, ,DEN
+madske,Madsen,Kenn,0000-00-00,DEN, ,DEN
 madski,Madsen,Kim,1978-02-13,DEN,Svogerslev,DEN
 madsl1,Madsen,Lars,1964-04-19,DEN, ,DEN
 madsla,Madsen,Lars,1979-09-13,DEN, ,DEN
 madsm1,Madsen,Mads,1998-01-14,DEN, ,DEN
 madsm2,Madsen,Michael,1981-04-30,DEN, ,DEN
+madsm3,Madsen,Michael,1965-08-03,DEN, ,DEN
 madsma,Madsen,Mathias,2002-03-10,DEN, ,DEN
 madsmi,Madsen,Michael,1974-01-24,DEN,Fredriksberg,DEN
 madsn1,Madsen,Nicolaj,1988-07-16,DEN, ,DEN
 madsn2,Madsen,Nicolai,1993-08-14,DEN, ,DEN
 madsnb,Brock-Madsen,Nicolai,1993-01-09,DEN,Randers,DEN
 madsni,Madsen,Nicolas,2000-03-17,DEN, ,DEN
+madsol,Madsen,Ole,1958-11-14,DEN,Esbjerg,DEN
 madsp1,Madsen,Peter,1963-02-27,DEN, ,DEN
+madsp2,Madsen,Per,1958-11-23,DEN, ,DEN
 madspe,Madsen,Peter,1978-04-26,DEN,Roskilde,DEN
+madspr,Madsen,Preben,0000-00-00,DEN, ,DEN
+madsso,Madsen,Søren,0000-00-00,DEN, ,DEN
 madst1,Madsen,Thomas,1962-01-19,DEN, ,DEN
 madsta,Madsen,Thomas Axel,1978-01-05,DEN, ,DEN
 madsth,Madsen,Thomas,1971-03-17,DEN, ,DEN
 madstm,Madsen,Thomas M.,1984-02-29,DEN, ,DEN
+madsto,Madsen,Tony,1957-09-21,DEN, ,DEN
 maduki,Madu,Kingsley,1995-12-12,NGR,Kaduna,NGR
+maegge,Mægård,Gert,1957-04-09,DEN, ,DEN
 maehjo,Mæhle,Joakim,1997-05-20,DEN,Østervrå,DEN
 maglch,Magleby,Christian,1977-06-08,DEN,København,DEN
 magnsA,Magnússon,Sævar Atli,2000-06-16,ISL, ,ISL
@@ -2190,6 +2589,7 @@ mannfo,Manneh,Foday,2000-01-14,GAM, ,GAM
 mannmi,Manniche,Michael,1959-07-17,DEN,Frederiksberg,DEN
 mannvi,Mannone,Vito,1988-03-02,ITA,Desio,ITA
 mansad,Mansa,Adam,1997-01-30,DEN, ,DEN
+mantbj,Mantzius Hansen,Bjørn,1966-03-28,DEN, ,DEN
 mantni,Mantl,Nico,2000-02-06,GER,München,GER
 marcal,Marcina,Alen,1979-07-30,CAN,Surrey,CAN
 marcem,Marcondes,Emiliano,1995-03-09,DEN,Hvidovre,DEN
@@ -2197,8 +2597,10 @@ marcfi,Marčić,Filip,1985-02-22,CRO,Split,CRO
 marcgu,Marcussen,Gustav,1998-06-12,DEN, ,DEN
 marcm1,Marcello, ,1975-08-01,BRA, ,BRA
 marcma,Marcelinho, ,1984-01-10,BRA,Belo Horizonte,BRA
+marcst,Marcussen,Stig,1962-06-23,DEN, ,DEN
 marfni,Marfelt,Nicholas,1994-09-15,DEN,Brønshøj,DEN
-margch,Margaard,Chris,1971-09-16,DEN, ,DEN
+margca,Margård,Carsten,1963-08-02,DEN, ,DEN
+margch,Margård,Chris,1971-09-16,DEN, ,DEN
 margge,Margreitter,Georg,1988-11-07,AUT,Bludenz,AUT
 markee,Markkanen,Eero,1991-07-03,FIN,Jyväskylä,FIN
 markfr,Markussen,Frank,1975-02-25,DEN, ,DEN
@@ -2216,6 +2618,7 @@ marxer,Marxen,Erik,1990-12-02,DEN,Middelfart,DEN
 masama,Masango,Mandla,1989-07-18,RSA,Kwaggafontein,RSA
 masoer,Mašović,Erhan,1998-11-22,SRB,Novi Pazar,SRB
 massmi,Massop,Milan,1993-12-01,NED,Duiven,NED
+mathkl,Mathiesen,Klaus,1963-07-06,DEN, ,DEN
 mathm1,Mathiasen,Marcus,1995-02-17,DEN, ,DEN
 mathma,Mathisen,Marcus,1996-02-27,DEN, ,DEN
 mathth,Mathiesen,Thomas,1968-01-13,DEN, ,DEN
@@ -2243,6 +2646,7 @@ meedos,Meedom,Oscar,2005-08-16,DEN, ,DEN
 meedul,Meedom,Ulrich,1972-04-19,DEN, ,DEN
 mehaar,Mehakovic,Arman,1988-03-09,BOS, ,BOS
 mehlje,Mehl,Jeppe,1986-09-21,DEN, ,DEN
+meiban,Meibom,Anders,0000-00-00,DEN, ,DEN
 meibbe,Meibom,Benjamin,0000-00-00,DEN, ,DEN
 meilma,Meilinger,Marco,1991-08-03,AUT,Salzburg,AUT
 meinda,Meineke,Daniel,1993-02-05,DEN, ,DEN
@@ -2285,15 +2689,19 @@ mikkki,Mikkelsen,Kim,1965-11-24,DEN,Frederiksberg,DEN
 mikkla,Mikkelsen,Lasse,1998-01-18,DEN, ,DEN
 mikkm1,Mikkelsen,Martin,1986-04-29,DEN, ,DEN
 mikkma,Mikkelsen,Mads,1999-12-11,DEN, ,DEN
-mikkst,Mikkelsen,Steen,0000-00-00,DEN, ,DEN
+mikkmi,Mikkelsen,Michael,0000-00-00,DEN, ,DEN
+mikkst,Mikkelsen,Steen,1967-04-17,DEN, ,DEN
 mikkt1,Mikkelsen,Thomas,1990-01-19,DEN,Bredebro,DEN
 mikkt2,Mikkelsen,Torben,1967-08-18,DEN, ,DEN
+mikkt3,Mikkelsen,Torben,0000-00-00,DEN, ,DEN
 mikkth,Mikkelsen,Thomas,1983-08-27,DEN, ,DEN
 mikkto,Mikkelsen,Tobias,1986-09-18,DEN,Helsingør,DEN
 miklje,Mikla,Jesper,1976-07-21,DEN, ,DEN
+mikuki,Mikuta,Kim,1959-04-28,DEN, ,DEN
 mileni,Mileusnić,Nikola,1993-07-17,AUS,Adelaide,AUS
 millli,Miller,Liam,1981-02-13,IRL,Cork,IRL
 miloal,Milošević,Alexander,1992-01-30,SWE,Sundbyberg,SWE
+miltke,Miltoft,Kenneth,1966-07-12,DEN, ,DEN
 mintya,Minteh,Yankuba,2004-07-22,GAM, ,GAM
 mirkni,Mirković,Nikola,1991-07-26,SRB,Smederevo,SRB
 mistvh,Hammershøy-Mistrati,Vito,1992-06-15,DEN, ,DEN
@@ -2303,25 +2711,38 @@ mmaery,Mmaee,Ryan,1997-11-01,BEL,Geraardsbergen,BEL
 mobeer,Moberg,Erik,1986-07-05,SWE,Motala,SWE
 mobeve,Moberg,Vegard,1991-01-23,NOR,Åsane,NOR
 moelal,Møller,Alexander,1990-01-21,DEN,Højbjerg,DEN
+moelbr,Møller,Brian,1964-10-19,DEN, ,DEN
 moelch,Møllegaard,Christian,1991-03-27,DEN, ,DEN
+moelfi,Møller Nielsen,Finn,1963-11-13,DEN, ,DEN
 moelfl,Møldrup,Flemming,1968-09-29,DEN, ,DEN
 moelfr,Møller,Frederik,1993-07-08,DEN, ,DEN
+moelja,Mølby,Jan,1963-07-04,DEN, ,DEN
 moeljo,Mølby,Johnny,1969-02-04,DEN,Kolding,DEN
 moelkh,Heiner-Møller,Kenneth,1971-01-17,DEN,Gentofte,DEN
+moelki,Møller,Kim,0000-00-00,DEN, ,DEN
 moelkr,Møller,Kristian,1980-11-23,DEN, ,DEN
+moelku,Møller,Kurt,0000-00-00,DEN, ,DEN
 moella,Møller,Lars,1980-08-16,DEN, ,DEN
 moelm1,Møller,Marc,1986-06-07,DEN, ,DEN
 moelma,Mølvadgaard,Marcus,1999-08-03,DEN, ,DEN
+moelmo,Møller,Morten,1959-05-21,DEN, ,DEN
 moelmp,Møller,Michael Præst,1986-07-25,DEN,Give,DEN
+moelol,Møller-Nielsen,Ole,1965-11-26,DEN,Horsens,DEN
+moelp1,Møldrup,Per,0000-00-00,DEN, ,DEN
 moelpe,Møller,Peter,1972-03-23,DEN,Frederikshavn,DEN
+moels1,Møller,Steen,1965-08-09,DEN,Høng,DEN
 moelst,Mølbye,Steen,1967-05-06,DEN, ,DEN
 moelto,Mølgaard,Tobias,1996-07-22,DEN, ,DEN
 moelwi,Møller,William,1998-03-10,DEN, ,DEN
 moerji,Mørup,Jimmy,1965-07-14,DEN, ,DEN
 moerni,Mørk,Niels,1982-06-17,DEN, ,DEN
 moernp,Mørck,Niels-Peter,1990-04-28,DEN, ,DEN
+moescl,Møstrup,Claus,1957-05-05,DEN, ,DEN
 moeskl,Moesgaard,Klaus,1997-02-13,DEN, ,DEN
+mogefi,Mogensen,Finn,1953-01-20,DEN, ,DEN
+mogeha,Mogensen,Hans,0000-00-00,DEN, ,DEN
 mogeje,Mogensen,Jeppe,1996-02-04,DEN, ,DEN
+mogeke,Mogensen,Kent,0000-00-00,DEN, ,DEN
 mogeol,Mogensen,Ole,1981-07-04,DEN, ,DEN
 mohaad,Mohammad,Adnan,1996-07-02,PAK,København,DEN
 mohaar,Mohammed,Araphat,2005-11-06,GHA, ,GHA
@@ -2336,12 +2757,18 @@ morayu,Morales,Yuri,1981-09-30,USA, ,USA
 moreju,Moreno,Juan,2002-09-21,COL,Puerto,COL
 moremi,Morec,Mitja,1983-02-21,SLO,Murska Sobota, 
 morrst,Morrissey,Steven,1986-07-25,JAM,Portmore,JAM
+mortcl,Mortensen,Claus,1959-06-03,DEN, ,DEN
 mortdb,Mortensen,Dennis Bo,1981-05-19,DEN, ,DEN
 mortfr,Mortensen,Frederik,1998-10-30,DEN, ,DEN
 mortgu,Mortensen,Gustav,2004-03-19,DEN, ,DEN
 morthe,Mortensen,Henrik,1968-02-12,DEN,Odder,DEN
+mortj1,Mortensen,John,0000-00-00,DEN, ,DEN
+mortj2,Mortensen,Jørgen,0000-00-00,DEN, ,DEN
+mortj3,Mortensen,Johnny,0000-00-00,DEN, ,DEN
+mortj4,Mortensen,Jens Erik,0000-00-00,DEN, ,DEN
 mortje,Mortensen,Jesper,1973-10-20,DEN, ,DEN
 mortjo,Mortensen,Jonas,2001-01-16,DEN, ,DEN
+mortke,Mortensen,Kenneth,1964-03-17,DEN, ,DEN
 mortma,Mortensen,Mads,1974-09-23,DEN,København,DEN
 mortn1,Mortimer,Nils,2001-06-11,SPA,Málaga,SPA
 mortni,Mortensen,Nicolas,1994-04-26,DEN, ,DEN
@@ -2354,6 +2781,7 @@ mosxmu,Mos, ,1988-08-01,NOR,Oslo,NOR
 motajo,Mota,José,1979-05-10,BRA,Guarulhos,BRA
 moumfa,Moumbagna,Faris,2000-07-01,CMR,Yaoundé,CMR
 mourni,Mouritsen,Nicklas,1995-03-15,DEN, ,DEN
+mourpe,Mouritsen,Per,1966-11-16,DEN, ,DEN
 movsyu,Movsisyan,Yura,1987-08-02,ARM,Baku, 
 mpinvi,Mpindi,Victor,1997-02-27,CMR, ,CMR
 mrazsa,Mráz,Samuel,1997-05-13,SVK,Malacky,SVK
@@ -2369,7 +2797,9 @@ mumiab,Mumin,Abdel,1998-06-06,GHA, ,GHA
 muncma,Munck,Magnus,2005-01-05,DEN, ,DEN
 mundbe,Mundt,Benny,1969-11-01,DEN, ,DEN
 munimu,Muniesa, ,1992-03-27,SPA,Lloret de Mar,SPA
-munkal,Munksgaard,Alexander,1997-12-13,DEN, ,DEN
+munkal,Munksgård,Alexander,1997-12-13,DEN, ,DEN
+munkcl,Munkholm,Claus,1960-11-25,DEN, ,DEN
+munkhe,Munk,Henrik,0000-00-00,DEN, ,DEN
 munkkr,Munksgård,Kristoffer,1990-01-01,DEN, ,DEN
 munkto,Munkholm,Tobias,0000-00-00,DEN, ,DEN
 muomch,Muomaife,Christian,1987-12-20,NGR, ,NGR
@@ -2399,6 +2829,7 @@ nattso,Nattestad,Sonni,1994-08-05,FER,Miðvágur,FER
 ndiaib,N'Diaye,Ibrahima,1994-02-01,SEN,Dakar,SEN
 ndioma,Ndione,Marokhy,1999-11-04,SEN, ,SWE
 ndoyda,N'Doye,Dame,1985-02-21,SEN,Thiès,SEN
+nedeal,Nedergård,Allan,1960-04-12,DEN,Haslev,DEN
 nedema,Nedergaard,Mathias,2005-04-20,DEN, ,DEN
 nedest,Nedergaard,Steen,1970-02-25,DEN,Ålborg,DEN
 neesja,Neestrup,Jacob,1988-03-08,DEN,København,DEN
@@ -2413,8 +2844,14 @@ niela2,Nielsen,Allan,1971-03-13,DEN,Esbjerg,DEN
 niela3,Nielsen,Alex,1967-09-30,DEN,Næstved,DEN
 niela4,Nielsen,Anders,1970-12-06,DEN,Nakskov,DEN
 niela5,Nielsen,Anders,1972-11-23,DEN,Kalundborg,DEN
+niela6,Nielsen,Alex,1958-03-26,DEN,Frederiksberg,DEN
+niela7,Nielsen,Anders L.,0000-00-00,DEN, ,DEN
+niela8,Nielsen,Allan,1953-04-08,DEN, ,DEN
 nielal,Nielsen,Allan,1987-07-28,DEN, ,DEN
 nielan,Nielsen,Anders,1986-09-28,DEN, ,DEN
+nielb1,Nielsen,Bo,1967-06-14,DEN, ,DEN
+nielb2,Nielsen,Børge,1954-07-22,DEN, ,DEN
+nielb3,Nielsen,Brian,1961-09-04,DEN, ,DEN
 nielbe,Nielsen,Bent,1966-08-25,DEN, ,DEN
 nielbo,Nielsen,Bo,1963-08-02,DEN, ,DEN
 nielbr,Nielsen,Brian,1987-02-25,DEN, ,DEN
@@ -2429,18 +2866,29 @@ nielca,Nielsen,Casper,1994-04-29,DEN,Esbjerg,DEN
 nielch,Nielsen,Casper Højer,1994-11-20,DEN,København,DEN
 nielcl,Nielsen,Claus,1978-01-12,DEN,Greve,DEN
 nield1,Nielsen,Danny,1980-10-16,DEN, ,DEN
+nield2,Nielsen,Dan,1963-05-02,DEN, ,DEN
 nielda,Nielsen,David,1976-12-01,DEN,Sønderborg,DEN
 nieldf,Nielsen,Dennis Foss,1964-06-08,DEN,Ganløse,DEN
 niele1,Nielsen,Emil,1996-01-29,DEN, ,DEN
 niele2,Nielsen,Emil,1984-02-09,DEN, ,DEN
 niele3,Nielsen,Emil,2005-05-03,DEN, ,DEN
 nielem,Nielsen,Emil,1993-11-08,DEN, ,DEN
+nieler,Nielsen,Erik,1954-10-16,DEN, ,DEN
+nielf1,Nielsen,Frank,0000-00-00,DEN, ,DEN
+nielf2,Nielsen,Frank,0000-00-00,DEN, ,DEN
+nielf3,Nielsen,Flemming,1954-07-16,DEN, ,DEN
+nielfl,Nielsen,Flemming,1962-02-10,DEN, ,DEN
 nielfr,Nielsen,Frank,1989-01-16,DEN, ,DEN
 nielgu,Nielsen,Gunnar,1986-10-07,FER,Tórshavn,FER
 nielh1,Nielsen,Henrik,1965-03-29,DEN,Virum,DEN
 nielh2,Nielsen,Henrik,1958-10-10,DEN,Virum,DEN
 nielh3,Nielsen,Henrik,1957-05-11,DEN,Vedbæk,DEN
+nielh4,Nielsen,Henrik,1959-01-02,DEN, ,DEN
+nielh5,Nielsen,Henrik,0000-00-00,DEN, ,DEN
+nielh6,Nielsen,Henrik,0000-00-00,DEN, ,DEN
+nielh7,Nielsen,Henning,1949-11-02,DEN, ,DEN
 nielhe,Nielsen,Henrik,1971-11-15,DEN, ,DEN
+nielhj,Nielsen,Hans Jeppe,1964-11-25,DEN, ,DEN
 nieliv,Nielsen,Ivan,1956-10-09,DEN,Kopenhagen,DEN
 nielj1,Nielsen,Jacob,1994-08-17,DEN, ,DEN
 nielj2,Nielsen,Jørgen,1971-05-06,DEN,Nykøbing,DEN
@@ -2449,18 +2897,29 @@ nielj4,Nielsen,Jan,1966-01-03,DEN, ,DEN
 nielj5,Nielsen,Jesper,1976-05-15,DEN, ,DEN
 nielj6,Nielsen,John,1972-04-07,DEN,Aarhus,DEN
 nielj7,Nielsen,Jeppe,2004-01-06,DEN, ,DEN
+nielj8,Nielsen,John,1968-01-17,DEN, ,DEN
+nielj9,Nielsen,Jimmy,0000-00-00,DEN, ,DEN
+nieljA,Nielsen,John,1965-09-30,DEN, ,DEN
+nieljB,Nielsen,Jan,1954-12-25,DEN, ,DEN
+nieljC,Nielsen,Johnny,0000-00-00,DEN, ,DEN
+nieljD,Nielsen,Jan,0000-00-00,DEN, ,DEN
 nielja,Nielsen,Jakob,1991-01-18,DEN, ,DEN
+nieljd,Nielsen,Jørn D.,1967-00-00,DEN, ,DEN
 nielje,Nielsen,Jesper,1983-12-08,DEN, ,DEN
 nielji,Nielsen,Jimmy,1977-08-06,DEN,Aalborg,DEN
 nieljo,Nielsen,Jonas,1987-07-14,DEN, ,DEN
 nielju,Nielsen,Julius,2006-04-26,DEN, ,DEN
-nielk1,Nielsen,Kent,1961-12-28,DEN, ,DEN
+nielk1,Nielsen,Kent,1961-12-28,DEN,Frederiksberg,DEN
+nielk2,Nielsen,Kenneth,0000-00-00,DEN, ,DEN
+nielka,Nielsen,Karsten,0000-00-00,DEN, ,DEN
 nielke,Nielsen,Kent,1972-06-17,DEN, ,DEN
 nielki,Nielsen,Kim,1974-10-20,DEN, ,DEN
 nielkl,Nielsen,Kasper Lynge,1991-01-22,DEN, ,DEN
 nielks,Nielsen,Kenneth Stenild,1987-09-11,DEN, ,DEN
+nielku,Nielsen,Kurt,0000-00-00,DEN, ,DEN
 niell1,Nielsen,Lasse,1988-01-08,DEN,Ålborg,DEN
 niell2,Nielsen,Lars,1979-06-17,DEN, ,DEN
+niell3,Nielsen,Leif,0000-00-00,DEN, ,DEN
 niella,Nielsen,Lasse,1987-03-03,DEN, ,DEN
 nielld,Nielsen,Lars Daugaard,1976-07-10,DEN, ,DEN
 nielle,Nielsen,Leif,1966-07-12,DEN, ,DEN
@@ -2479,6 +2938,9 @@ nielmB,Nielsen,Michael,1969-01-11,DEN, ,DEN
 nielmC,Nielsen,Mogens,1967-07-16,DEN, ,DEN
 nielmD,Nielsen,Magnus,2004-08-04,DEN, ,DEN
 nielmE,Nielsen,Marc,2001-05-16,DEN, ,DEN
+nielmF,Nielsen,Michael,1961-03-21,DEN, ,DEN
+nielmG,Nielsen,Mogens,1950-03-25,DEN, ,DEN
+nielmH,Nielsen,Michael,0000-00-00,DEN, ,DEN
 nielma,Nielsen,Mathias,1991-03-02,DEN,Herfølge,DEN
 nielmi,Nielsen,Michael Mio,1965-02-11,DEN,Herstedvester,DEN
 nielml,Nielsen,Matti Lund,1988-05-08,DEN,Odense,DEN
@@ -2492,20 +2954,26 @@ nielom,Møller-Nielsen,Ole,1965-11-26,DEN,Horsens,DEN
 nielp1,Nielsen,Patrick,1987-11-14,DEN, ,DEN
 nielp2,Nielsen,Peter,1968-06-03,DEN,København,DEN
 nielp3,Nielsen,Peter,1967-03-26,DEN, ,DEN
+nielp4,Nielsen,Per,1961-03-08,DEN, ,DEN
+nielp5,Nielsen,Per,1953-01-19,DEN,Arden,DEN
 nielpa,Nielsen,Patrick,1988-10-10,DEN, ,DEN
 nielpe,Nielsen,Per,1973-10-15,DEN,Århus,DEN
 nielra,Nielsen,Rasmus,1987-07-14,DEN,København,DEN
+nielre,Nielsen,Reno,1963-03-30,DEN, ,DEN
 niels1,Nielsen,Søren,1968-01-13,DEN, ,DEN
 nielso,Nielsen,Søren,1982-08-14,DEN, ,DEN
 nielst,Nielsen,Steffen,1977-05-19,DEN, ,DEN
 nielt1,Nielsen,Thomas,1981-09-14,DEN, ,DEN
 nielt2,Nielsen,Thomas,1972-03-25,DEN,Aarhus,DEN
 nielt3,Nielsen,Thomas,1966-03-17,DEN, ,DEN
+nielt4,Nielsen,Tommy,1962-12-10,DEN, ,DEN
+nielt5,Nielsen,Torben,0000-00-00,DEN, ,DEN
 nielth,Nielsen,Thais,2000-03-23,DEN, ,DEN
 nieltj,Juel-Nielsen,Thomas,1990-06-18,DEN, ,DEN
+nieltm,Møller Nielsen,Tommy,1961-08-05,DEN,Odense,DEN
 nielto,Nielsen,Tommy,1972-06-11,DEN, ,DEN
 nieltr,Nielsen,Troels,1997-05-12,DEN, ,DEN
-nielvm,Nielsen,Vilhelm Munk,1955-12-30,DEN,Ullerslev,DEN
+nielvm,Munk Nielsen,Vilhelm,1955-12-30,DEN,Ullerslev,DEN
 nieman,Niemi,Antti,1972-05-31,FIN,Oulu,FIN
 nilsde,Nilsson,Dennis,1968-06-13,DEN, ,DEN
 nilsgu,Nilsson,Gustaf,1997-05-23,SWE, ,SWE
@@ -2527,10 +2995,16 @@ noehan,Nøhr,Anders,1981-09-03,DEN, ,DEN
 noeral,Nørlund,Alex,1975-01-28,DEN,Vejle,DEN
 noerch,Nørgaard,Christian,1994-03-10,DEN,København,DEN
 noerfr,Mendoza, , , , , 
+noerh1,Nørremølle,Henrik,1966-10-03,DEN, ,DEN
 noerhe,Nørregaard,Henrik,1963-10-11,DEN, ,DEN
 noerhj,Nørregaard,Hjalte,1981-04-08,DEN,Kopenhagen,DEN
+noerje,Nørager,Jens,1961-07-13,DEN,Copenhagen,DEN
 noerki,Nørholt,Kim,1972-04-30,DEN, ,DEN
+noerkl,Nørregård,Klaus,1952-10-14,DEN,Frederiksberg,DEN
+noerla,Nørgård,Lars,0000-00-00,DEN, ,DEN
 noermi,Nørgaard,Michael,1987-01-07,DEN, ,DEN
+noerol,Nørrevang,Ole,1961-01-08,DEN, ,DEN
+noerpe,Nørregård,Peter,1965-11-26,DEN, ,DEN
 noert1,Nørmark,Thomas,1985-08-19,DEN, ,DEN
 noerth,Nørgaard,Thomas,1987-01-07,DEN, ,DEN
 noerto,Noer,Tobias,1998-07-25,DEN, ,DEN
@@ -2544,8 +3018,9 @@ nordma,Nordam,Mads,1995-05-14,DEN, ,DEN
 nordmo,Nordstrand,Morten,1983-06-08,DEN,Hundested,DEN
 nordsi,Nordli,Simen,1999-12-25,NOR,Elverum,NOR
 norivi,Noring,Viktor,1991-02-03,SWE,Malmö,SWE
+normja,Normann,Jacob,0000-00-00,DEN, ,DEN
 noroda,Norouzi,Daniel,1992-01-03,DEN,København,DEN
-norsja,Nors,Jan,0000-00-00,DEN, ,DEN
+norsja,Nors,Jan,1962-00-00,DEN, ,DEN
 noshan,Noshe,Anders,2006-01-09,DEN, ,DEN
 novafi,Novák,Filip,1990-06-26,CZE,Přerov,CZE
 novane,Novaković,Nenad,1982-07-14,SRB,Uzice,YUG
@@ -2557,13 +3032,17 @@ nwakdi,Nwakaeme,Dickson,1986-04-21,NGR,Lagos,NGR
 nworju,Nworuh,Jude,1989-06-09,NGR, ,NGR
 nyboal,Nybo,Alexander,1995-04-12,DEN, ,DEN
 nyboma,Nybo,Mads,2005-03-21,DEN, ,DEN
+nybrth,Nybro,Thomas,0000-00-00,DEN, ,DEN
 nygama,Nygaard,Marc,1976-09-01,DEN,København,DEN
+nygamo,Nygård,Morten,1966-01-03,DEN, ,DEN
 nygaru,Nygaard,Ruben,1986-05-25,DEN, ,DEN
+nygaso,Nygaard-Andersen,Søren,1966-08-01,DEN,København,DEN
 nygrbe,Nygren,Benjamin,2001-07-08,SWE,Göteborg,SWE
 nykjma,Nykjær,Magnus,2005-02-27,DEN,Nyråd,DEN
 nymaem,Nymann,Emil,2004-03-12,DEN,Thisted,DEN
 nymape,Nymann,Peter,1982-08-22,DEN,København,DEN
 nyrend,Demba-Nyren,Njogu,1979-06-26,GAM,Bacau,GAM
+nyvaja,Nyvang,Jan,0000-00-00,DEN, ,DEN
 obbeda,Obbekjær,Daniel,2002-07-16,DEN, ,DEN
 obiepa,Obiefule,Paul,1986-05-15,NGR,Owerri,NGR
 obrico,O'Brien,Conor,1988-10-20,USA,Mount Sinai,USA
@@ -2576,15 +3055,22 @@ odhige,Odhiambo,George,1992-12-31,KEN,Thur Gem,KEN
 odurdo,Oduro,Dominic,1995-01-21,GHA, ,GHA
 oduwna,Oduwa,Nathan,1996-03-05,ENG,Bloomsbury,ENG
 oelama,Øland,Mads,1965-05-31,DEN,Farsø,DEN
+oergje,Ørgård,Jens,1965-08-11,DEN,Holstebro,DEN
 oernlu,Ørneborg,Lucas,2002-07-25,DEN, ,DEN
 oernma,Ørnskov,Martin,1985-10-10,DEN,Silkeborg,DEN
+oertka,Ørtoft,Kasper,1960-05-30,DEN, ,DEN
 oertsi,Ørtoft,Simon,1993-09-09,DEN, ,DEN
 oesta1,Østergard,Andreas,1978-03-02,DEN, ,DEN
 oestal,Östlund,Alexander,1978-11-02,SWE,Åkersberga,SWE
 oestan,Østli,Anders,1983-01-08,NOR,Fredrikstad,NOR
 oestch,Østergaard,Christoffer,1993-05-22,DEN, ,DEN
+oestjo,Østergård,Johnny,1955-02-06,DEN, ,DEN
+oestla,Østergård,Lars,0000-00-00,DEN, ,DEN
+oestol,Østergaard,Ole,1958-02-06,DEN,Copenhagen,DEN
 oestpe,Østergaard,Peter,1975-02-07,DEN, ,DEN
+oestpo,Østergård,Poul Erik,1955-03-13,DEN, ,DEN
 oestro,Østrøm,Robin,2002-08-09,NOR,København,DEN
+oestso,Østergaard,Søren,1963-09-08,DEN, ,DEN
 oezcba,Özcan,Baris,1981-07-09,FRA, ,FRA
 oezcog,Özcelik,Oguz,1994-04-26,DEN, ,DEN
 oezdsa,Özdogan,Saban,1990-03-14,DEN, ,DEN
@@ -2614,6 +3100,7 @@ okwiem,Okwi,Emmanuel,1992-12-25,UGA,Kampala,UGA
 olafio,Olafsson,Ísak Óli,2000-06-30,ISL, ,ISL
 olaflo,Ólafsson,Loftur,1963-07-04,ISL, ,ISL
 olczch,Olczyk,Christoffer,1991-03-03,DEN,København,DEN
+olczto,Olczyk,Tom,1959-08-19,NOR,Drammen,NOR
 olesa1,Olesen,Allan,1974-01-25,DEN,Taastrup,DEN
 olesal,Olesen,Allan,1982-05-20,DEN,København,DEN
 olesca,Olesen,Casper,1996-05-10,DEN, ,DEN
@@ -2621,7 +3108,9 @@ oleshe,Olesen,Henrik,1969-04-04,DEN, ,DEN
 olesj1,Olesen,Jan,1957-09-24,DEN,Copenhagen,DEN
 olesja,Olesen,Jacob,1981-02-01,DEN,Haderslev,DEN
 olesje,Olesen,Jesper,1980-10-13,DEN, ,DEN
+olesl1,Olesen,Lars,1961-06-18,DEN, ,DEN
 olesla,Olesen,Lars,1976-06-14,DEN, ,DEN
+olespo,Olesen,Poul,0000-00-00,DEN, ,DEN
 oless_,Olesen,S.,0000-00-00,DEN, ,DEN
 olesst,Olesen,Steen,1967-05-15,DEN, ,DEN
 olfest,Olfers,Steve,1982-02-25,NED,Haarlem,NED
@@ -2635,13 +3124,18 @@ olseas,Olsen,Andreas Skov,1999-12-29,DEN,Hillerød,DEN
 olsebr,Olsen,Brandur,1995-12-19,FER,Skálavík,FER
 olseca,Olsen,Carsten,1980-10-06,DEN, ,DEN
 olsech,Olsen,Christian,1983-11-09,DEN,Middelfart,DEN
+olsecl,Olsen,Claus,0000-00-00,DEN, ,DEN
 olseda,Olsen,Danny,1985-06-11,DEN,Hvidovre,DEN
+olsef1,Olsen,Frank,1952-01-20,DEN,Middelfart,DEN
 olsefe,Olsen,Fernando,1963-12-06,DEN, ,DEN
+olsefl,Olsen,Flemming,1958-02-03,DEN, ,DEN
+olsefr,Olsen,Freddy,0000-00-00,DEN, ,DEN
 olsej1,Olsen,Jan,1971-02-18,DEN,København,DEN
 olseja,Olsen,Jakob,1972-07-05,DEN, ,DEN
 olseke,Olsen,Kenni,1985-06-11,DEN, ,DEN
 olseki,Olsen,Kim,1979-02-11,DEN, ,DEN
 olsela,Olsen,Lars Christian,1961-02-02,DEN,Glostrup,DEN
+olsele,Olsen,Lennart,1963-08-07,DEN, ,DEN
 olsem1,Olsen,Mads,1978-01-06,DEN,Skovbo,DEN
 olsem2,Olsen,Matti,1995-06-07,DEN, ,DEN
 olsema,Olsen,Marc,1986-01-15,DEN, ,DEN
@@ -2651,8 +3145,10 @@ olseol,Olsen,Oliver,2000-08-13,DEN, ,DEN
 olsepa,Olsen,Patrick,1994-04-23,DEN,Tarnby,DEN
 olseri,Olsen,Ricki,1988-10-21,DEN, ,DEN
 olsero,Olsen,Robin,1990-01-08,SWE,Malmö,SWE
+olseso,Olsen,Søren,0000-00-00,DEN, ,DEN
 olsest,Olsen,Stig,1983-09-29,DEN, ,DEN
 olsesu,Olsen,Súni,1981-03-07,FER,Tórshavn,FER
+olset1,Olsen,Torben,1963-05-02,DEN, ,DEN
 olseta,Olsen,Thor André,1964-04-28,NOR,Mo i Rana,NOR
 olseth,Olsen,Thomas,1979-06-13,DEN,Silkeborg,DEN
 olseto,Olsen,Tommy,1973-03-08,DEN, ,DEN
@@ -2687,6 +3183,7 @@ oshada,O'Shaughnessy,Daniel,1994-09-14,FIN,Riihimäki,FIN
 osmaib,Osman,Ibrahim,2004-12-14,GHA, ,GHA
 osorda,Osorio,Dario,2004-01-24,CHI,Hijuelas,CHI
 otixem,Oti,Emmanuel,1996-09-24,GHA,Akim Oda,GHA
+otkjry,Otkjær,Ryan,0000-00-00,DEN, ,DEN
 otoase,Otoa,Sebastian,2004-05-13,DEN,Roskilde,DEN
 otooen,Otoo,Enock,2004-06-28,GHA, ,GHA
 ottela,Ottesen,Lasse,1973-01-19,DEN,Skagen,DEN
@@ -2697,14 +3194,18 @@ ousaem,Ousager,Emil,1987-07-19,DEN,Odense,DEN
 oustda,Ousted,David,1985-02-01,DEN,Greve,DEN
 overan,Overgaard,Andreas,1977-02-17,DEN, ,DEN
 overch,Overby,Christian,1985-08-23,DEN, ,DEN
+overhe,Overgård,Henrik,0000-00-00,DEN, ,DEN
 overje,Overgaard,Jens,1972-12-06,DEN, ,DEN
 overm1,Overgaard,Mads,1985-01-03,DEN, ,DEN
+overm2,Overgård,Morten,1963-02-01,DEN, ,DEN
 overma,Overgaard,Malthe,1996-02-28,DEN, ,DEN
 overmo,Overgaard,Morten,1976-09-12,DEN, ,DEN
+overto,Overgård,Torben,1965-07-27,DEN, ,DEN
 ovesfr,Ovesen,Friedl,1957-12-11,DEN, ,DEN
 oviebr,Oviedo,Bryan,1990-02-18,CRC,Alajuela,CRC
 owusak,Owusu,Akwasi,2005-00-00,DEN, ,DEN
 owusle,Owusu,Leeroy,1996-08-13,NED,Purmerend,NED
+packpe,Packness,Peter,1959-01-08,DEN, ,DEN
 pallan,Pallesen,Anders,0000-00-00,DEN, ,DEN
 pallkr,Pallesen,Kristoffer,1990-04-30,DEN, ,DEN
 pallso,Pallesen,Søren,1977-10-07,DEN,Esbjerg,DEN
@@ -2714,6 +3215,7 @@ pandmo,Panduro,Morten,1979-05-10,DEN, ,DEN
 panjfi,Panjesković,Filip,2003-01-16,DEN, ,DEN
 pantst,Pantelidis,Steven,1983-08-17,AUS,Melbourne,AUS
 papaso,Papagiannopoulos,Sotirios,1990-09-05,SWE,Stockholm,SWE
+papean,Pape,Andy,1962-03-22,ENG, ,ENG
 papuma,Papuga,Marius,2005-05-13,DEN, ,DEN
 parkjb,Park,Jung-bin,1994-02-22,KOR,Busan,KOR
 parkmi,Parkhurst,Michael,1984-01-24,USA,Providence,USA
@@ -2732,6 +3234,9 @@ pedeb1,Pedersen,Brian,1974-12-08,DEN, ,DEN
 pedeb2,Pedersen,Brian,1969-06-25,DEN, ,DEN
 pedeb3,Pedersen,Brian,1968-01-13,DEN, ,DEN
 pedebr,Pedersen,Brian,1988-01-31,DEN, ,DEN
+pedec1,Pedersen,Claes,1962-04-19,DEN, ,DEN
+pedec2,Pedersen,Claus,0000-00-00,DEN, ,DEN
+pedec3,Pedersen,Charlie,1954-12-26,DEN, ,DEN
 pedeca,Pedersen,Carsten,1966-03-31,DEN,Fredericia,DEN
 pedech,Pedersen,Christian,1989-05-29,DEN, ,DEN
 pedecl,Pedersen,Claus,1983-02-18,DEN, ,DEN
@@ -2742,12 +3247,16 @@ pedehe,Pedersen,Henrik,1975-06-10,DEN,Kopenhagen,DEN
 pedej1,Pedersen,Jan,1966-11-12,DEN, ,DEN
 pedej2,Pedersen,Jesper Bo,1963-09-04,DEN, ,DEN
 pedej3,Pedersen,Jakob,0000-00-00,DEN, ,DEN
+pedej4,Pedersen,Jesper,1961-01-23,DEN, ,DEN
+pedej5,Pedersen,Jens Kurt,1956-04-02,DEN, ,DEN
 pedeja,Pedersen,Jari,1976-09-02,DEN, ,DEN
 pedeje,Pedersen,Jeppe,2001-03-03,DEN, ,DEN
+pedejo,Pedersen,Jørgen,0000-00-00,DEN, ,DEN
 pedeka,Pedersen,Kasper,1991-01-13,DEN,Aabybro,DEN
 pedeke,Pedersen,Kenneth Møller,1973-04-18,DEN,Odense,DEN
 pedekj,Pedersen,Kjetil,1973-05-22,NOR,Kristiansand,NOR
-pedekl,Pedersen,Klaus,0000-00-00,DEN, ,DEN
+pedekl,Pedersen,Klaus,1963-10-22,DEN, ,DEN
+pedel1,Pedersen,Lars,1959-11-03,DEN, ,DEN
 pedela,Pedersen,Laurits,2006-01-25,DEN, ,DEN
 pedeld,Pedersen,Lars Døhr,1967-04-28,DEN, ,DEN
 pedelu,Pedersen,Lucas Lund,2000-03-19,DEN, ,DEN
@@ -2763,16 +3272,22 @@ pedem8,Pedersen,Martin,1981-06-11,DEN, ,DEN
 pedem9,Pedersen,Markus,1966-08-17,DEN, ,DEN
 pedemA,Pedersen,Morten,1972-04-12,NOR,Tromsø,NOR
 pedemB,Pedersen,Mikkel,1996-01-07,DEN,Hobro,DEN
+pedemC,Pedersen,Michael,1961-03-31,DEN, ,DEN
+pedemD,Pedersen,Michael,1962-05-12,DEN, ,DEN
+pedemE,Pedersen,Mogens,1958-07-02,DEN, ,DEN
 pedema,Pedersen,Marc,1989-07-31,DEN,Give,DEN
 pedemi,Pedersen,Michael,1963-06-11,DEN, ,DEN
 pedeml,Pedersen,Mark Leth,1989-08-17,DEN, ,DEN
 pedemm,Pedersen,Mikkel Mejlstrup,1996-01-07,DEN, ,DEN
 pedemo,Pedersen,Morten,1982-03-03,DEN,Næstved,DEN
 peden1,Pedersen,Nial,1971-12-30,DEN, ,DEN
+peden2,Pedersen,Niels,0000-00-00,DEN, ,DEN
 pedenH,Pedersen,Niclas Holm,2002-03-15,DEN,Engesvang,DEN
 pedeni,Pedersen,Nicklas,1987-10-10,DEN,Køge,DEN
 pedeol,Pedersen,Ole,1963-05-17,DEN, ,DEN
-pedepe,Pedersen,Per,1969-03-30,DEN,Odense,DEN
+pedeov,Pedersen,Ove,1954-08-30,DEN,Hammer,DEN
+pedepa,Pedersen,Palle,1959-02-20,DEN, ,DEN
+pedepe,Pedersen,Per Werner,1969-03-30,DEN,Odense,DEN
 peder1,Pedersen,Ralf,1973-09-20,DEN,Kjellerup,DEN
 peder2,Pedersen,Rasmus,1997-01-09,DEN,Sæby,DEN
 pedera,Pedersen,Rasmus,1997-01-09,DEN,Sæby,DEN
@@ -2782,6 +3297,8 @@ pedes1,Pedersen,Simon,1982-12-14,DEN, ,DEN
 pedes2,Pedersen,Søren Bo,1964-11-09,DEN, ,DEN
 pedesi,Pedersen,Simon,1999-04-10,DEN, ,DEN
 pedeso,Pedersen,Søren,1978-11-02,DEN, ,DEN
+pedest,Pedersen,Stig,0000-00-00,DEN, ,DEN
+pedeuf,Pedersen,Uffe,1954-03-21,DEN, ,DEN
 pedeul,Pedersen,Ulrik,1974-01-11,DEN,Odense,DEN
 pegujp,Peguero,Jean Philippe,1981-09-29,HAI,Port-de-Paix,HAI
 peipmg,Gerster-Peipinen,Morten,1993-01-15,DEN, ,DEN
@@ -2797,25 +3314,46 @@ peskmi,Peškovič,Michal,1982-02-08,SVK,Partizánske,SVK
 petebe,Petersen,Benno,1977-05-17,DEN, ,DEN
 petebr,Petersen,Brian,1958-02-25,DEN, ,DEN
 petech,Petersen,Christoffer,2001-01-13,DEN,Randers,DEN
+petecs,Petersen,Claus Skov,0000-00-00,DEN, ,DEN
 peteda,Petersen,Dan,1972-05-06,DEN, ,DEN
 petees,Petersen,Esben,1993-01-11,DEN, ,DEN
+petef1,Petersen,Frank,1958-07-21,DEN, ,DEN
+petefl,Petersen,Flemming,1953-12-12,DEN, ,DEN
+petefr,Petersen,Frank Fryd,1960-03-11,DEN, ,DEN
+petehe,Petersen,Henrik,1961-06-29,DEN, ,DEN
+petejb,Petersen,Jesper Bo,1963-09-04,DEN, ,DEN
+peteje,Petersen,Jesper,1957-09-24,DEN, ,DEN
+petejo,Petersen,John,1965-08-20,DEN, ,DEN
 peteke,Petersen,Kenneth,1985-01-15,DEN,København,DEN
 petem1,Petersen,Mads,1991-09-18,DEN, ,DEN
 petem2,Petersen,Max,1971-08-30,DEN, ,DEN
 petem3,Petersen,Morten,1973-08-15,DEN, ,DEN
+petem4,Petersen,Max,1958-05-02,DEN, ,DEN
+petem5,Petersen,Martin,0000-00-00,DEN, ,DEN
+petem6,Petersen,Michael,0000-00-00,DEN, ,DEN
+petem7,Petersen,Morten,0000-00-00,DEN, ,DEN
 petema,Petersen,Marco,1998-01-16,DEN, ,DEN
+petemd,Petersen,Michael D.,0000-00-00,DEN, ,DEN
 petemi,Petersen,Mikkel,1978-01-30,DEN, ,DEN
 petemo,Petersen,Morten,1978-05-27,DEN,Hillerød,DEN
 petene,Petersen,Neal,0000-00-00,DEN, ,DEN
+petenh,Petersen,Niels H.,0000-00-00,DEN, ,DEN
+peteni,Petersen,Niels,0000-00-00,DEN, ,DEN
+peteol,Petersen,Ole,1954-01-06,DEN,Frederiksberg,DEN
 petepa,Petersen,Palle,1959-06-01,DEN, ,DEN
 petere,Petersen,René,1973-08-22,DEN, ,DEN
 peterm,Petersen,Rasmus Minor,1988-09-13,DEN,Svendborg,DEN
 petero,Petersen,Ronny,1978-10-28,DEN,København,DEN
+petes1,Petersen,Søren,0000-00-00,DEN, ,DEN
+petes2,Petersen,Steffen,0000-00-00,DEN, ,DEN
+petesb,Petersen,Søren Bo,1964-11-09,DEN, ,DEN
+peteso,Petersen,Søren,1963-02-17,DEN, ,DEN
 petest,Petersen,Stephan,1985-11-15,DEN,Frederiksberg,DEN
 petrad,Petre,Adrian,1998-02-11,ROM,Arad,ROM
 petral,Petræus,Alexander,0000-00-00,DEN, ,DEN
 petrla,Petry,Lasse,1992-09-19,DEN,Smørumnedre,DEN
 petrsa,Petrovski,Sašo,1975-03-05,AUS,Bankstown,AUS
+pettbj,Pettersson,Bjarne,1952-02-16,DEN,Frederiksberg,DEN
 pettjo,Pettersson,Jörgen,1975-09-29,SWE,Lackalange,SWE
 pettkr,Pettersson,Kristian,1980-04-12,DEN, ,DEN
 pettst,Pettersson,Steen,1969-05-31,DEN, ,DEN
@@ -2837,12 +3375,14 @@ pivkfi,Pivkovski,Filip,1994-01-31,MAC,Malmö,SWE
 plauju,Plautz,Justin,1999-04-09,GER, ,GER
 pleila,Pleidrup,Lars,1981-08-13,DEN,Væggerløse,DEN
 podema,Pode,Marcus,1986-03-27,SWE,Malmö,SWE
+poercl,Pörösei,Claus,0000-00-00,DEN, ,DEN
 pohlja,Pohl,Jannik,1996-04-06,DEN,Hjørring,DEN
 pokukw,Poku,Kwadwo,1985-05-05,GHA,Kumasi,GHA
 poncan,Ponce,Andrés,1996-11-11,VEN,La Cañada de Urdaneta,VEN
 popkgi,Popkhadze,Giorgi,1986-09-25,GEO,Tbilisi,GEO
 popova,Popovich,Valeri,1970-05-18,RUS,Gorki, 
 porsmi,Porsager,Michael,1972-02-03,DEN, ,DEN
+portia,Porteous,Ian,1964-11-21,SCO,Glasgow,SCO
 posajo,Posavec,Josip,1996-03-10,CRO,Varaždin,CRO
 pospzd,Pospěch,Zdeněk,1978-12-14,CZE,Opava,CZE
 poulan,Poulsen,Andreas,1999-10-13,DEN,Ikast,DEN
@@ -2852,12 +3392,17 @@ poulch,Poulsen,Christopher,1981-09-11,DEN, ,DEN
 poulcl,Poulsen,Claus,1966-09-02,DEN, ,DEN
 poulda,Poulsen,David,1973-05-25,DEN, ,DEN
 poulja,Poulsen,Jakob,1983-07-07,DEN,Varde,DEN
+poulje,Poulsen,Jens Erik,1955-02-24,DEN, ,DEN
 pouljo,Poulsen,Jóhan,1986-05-08,FER, ,FER
 poulka,Poulsgaard,Kasper,2000-03-15,DEN, ,DEN
+poulkn,Poulsen,Knud,0000-00-00,DEN, ,DEN
 poulmi,Poulsen,Michael,1977-08-27,DEN, ,DEN
 poulmo,Poulsen,Morten,1971-03-09,DEN, ,DEN
+pouln1,Poulsen,Niels,1955-10-03,DEN, ,DEN
 poulni,Poulsen,Nikolai,1993-08-15,DEN,Randers,DEN
 poulp1,Poulsen,Per,1953-02-13,DEN,Skive,DEN
+poulp2,Poulsen,Per,0000-00-00,DEN, ,DEN
+poulp3,Poulsen,Peter,1951-03-15,DEN, ,DEN
 poulpe,Poulsen,Peter,1964-04-05,DEN, ,DEN
 poulre,Poulsen,René,1968-08-12,DEN, ,DEN
 poulsi,Poulsen,Simon,1984-10-07,DEN,Sønderborg,DEN
@@ -2866,7 +3411,9 @@ poulth,Poulsen,Thomas,1972-07-02,DEN, ,DEN
 poulyu,Poulsen,Yussuf,1994-06-15,DEN,København,DEN
 pouran,Pourkamali,Andreas,0000-00-00,DEN, ,DEN
 pourma,Pourie,Marvin,1991-01-08,GER,Werne,GER
+povlfl,Povlsen,Flemming,1966-12-03,DEN,Brabrand,DEN
 povlka,Povlsen,Kasper,1989-09-26,DEN,Randers,DEN
+povlmi,Povlsen,Mikael,0000-00-00,DEN, ,DEN
 praema,Præst,Matthias,2000-06-21,DEN, ,DEN
 preeda,Preece,David,1976-08-26,ENG,Sunderland,ENG
 presst,Pressley,Steven,1973-10-11,SCO,Elgin,SCO
@@ -2891,8 +3438,10 @@ qamili,Qamili,Lirim,1998-06-04,DEN,Glostrup,DEN
 qvisan,Qvist,Anders,1987-07-31,DEN, ,DEN
 qvisla,Qvist,Lasse,1987-01-17,DEN,Roskilde,DEN
 qvismi,Qvist,Mikkel,1993-04-22,DEN,Bogota,COL
+qvisol,Qvist,Ole,1950-02-25,DEN,København,DEN
 raahan,Raahauge,Andreas,1997-06-29,DEN, ,DEN
 raasth,Raaschou,Thomas,1971-06-18,DEN, ,DEN
+rabehe,Raben,Henrik,1966-04-18,DEN, ,DEN
 rabema,Raben,Mads,1996-02-08,DEN,Middelfart,DEN
 raboba,Rabóczki,Balázs,1978-01-09,HUN,Budapest,HUN
 racilu,Račić,Luka,1999-05-08,DEN,København,DEN
@@ -2902,7 +3451,7 @@ radosr,Radonjić,Srđan,1981-05-08,MNT, ,MNT
 radzca,Radza,Casper,1994-02-26,DEN, ,DEN
 rafana,Rafael,Nando,1984-01-10,ANG,Luanda,ANG
 raguni,Ragus,Nick,1987-02-19,DEN, ,DEN
-rahbej,Rahbek,Ejner,1957-10-21,DEN, ,DEN
+rahbej,Rahbek,Ejner,1957-10-21,DEN,Brande,DEN
 rahmma,Rahmberg,Marino,1974-08-07,SWE,Örebro,SWE
 raitju,Raitala,Jukka,1988-09-15,FIN,Kerava,FIN
 ramayl,Ramadani,Ylber,1996-04-12,ALB,Ferizaj,KOS
@@ -2914,6 +3463,7 @@ randmo,Randløv,Morten,1977-01-04,DEN, ,DEN
 randn1,Randrup,Nikolaj,1967-05-27,DEN, ,DEN
 randni,Randrup,Nick,1983-04-13,DEN, ,DEN
 rarssT,Þórðarson,Stefán Teitur,1998-10-16,ISL,Akranes,ISL
+rascku,Rasch,Kurt,1964-01-02,DEN, ,DEN
 rashel,Rashani,Elbasan,1993-05-09,KOS,Hillerstorp,SWE
 raskja,Rask,Jakob,2000-05-10,DEN, ,DEN
 raskje,Rask,Jesper,1988-07-18,DEN,Hørning,DEN
@@ -2924,6 +3474,8 @@ rasma2,Rasmussen,Alexander Lind,2002-06-26,DEN, ,DEN
 rasmal,Rasmussen,Alexander,2002-06-26,DEN, ,DEN
 rasman,Rasmussen,Anders,1976-06-01,DEN,Jylland,DEN
 rasmbr,Rasmussen,Brian,1967-01-05,DEN,Fredericia,DEN
+rasmc1,Rasmussen,Carsten,0000-00-00,DEN, ,DEN
+rasmc2,Rasmussen,Carsten,1964-04-24,DEN, ,DEN
 rasmca,Rasmussen,Casper,1974-04-26,DEN, ,DEN
 rasmch,Rasmussen,Christian,2003-01-19,DEN,Lyngby,DEN
 rasmcl,Rasmussen,Claus,1970-11-01,DEN, ,DEN
@@ -2935,16 +3487,22 @@ rasmj2,Rasmussen,Jacob,1972-01-10,DEN, ,DEN
 rasmj3,Rasmussen,Jan Topp,1968-04-07,DEN,Nyborg,DEN
 rasmj4,Rasmussen,Jacob,1997-05-28,DEN,Odense,DEN
 rasmj5,Rasmussen,Jens Henning,1965-04-26,DEN,Rødovre,DEN
+rasmj6,Rasmussen,Jesper,1956-09-29,DEN, ,DEN
+rasmj7,Rasmussen,Jan,0000-00-00,DEN, ,DEN
 rasmja,Rasmussen,Jakob,1993-08-30,DEN, ,DEN
 rasmje,Rasmussen,Jesper,1992-01-04,DEN,Esbjerg,DEN
 rasmjo,Rasmussen,John,1972-05-13,DEN, ,DEN
 rasmk1,Rasmussen,Kim,1961-12-15,DEN, ,DEN
+rasmk2,Rasmussen,Kim,1960-12-28,DEN, ,DEN
 rasmka,Rasmussen,Kasper,1977-04-12,DEN, ,DEN
 rasmke,Rasmussen,Kenneth,1973-09-11,DEN,Gentofte,DEN
 rasmki,Rasmussen,Kim,1967-05-17,DEN, ,DEN
 rasmm1,Rasmussen,Mark,2001-02-16,DEN, ,DEN
 rasmm2,Rasmussen,Mathias,1995-08-02,DEN,Hvidovre,DEN
 rasmm3,Rasmussen,Morten,1980-06-11,DEN, ,DEN
+rasmm4,Rasmussen,Mogens,0000-00-00,DEN, ,DEN
+rasmm5,Rasmussen,Micky,1961-07-21,DEN, ,DEN
+rasmm6,Rasmussen,Michael,0000-00-00,DEN, ,DEN
 rasmma,Rasmussen,Mathias,1997-11-25,NOR,Kristiansand,NOR
 rasmmh,Rasmussen,Mathias Hebo,1995-08-02,DEN,Hvidovre,DEN
 rasmmi,Rasmussen,Miki,1983-03-02,DEN, ,DEN
@@ -2952,18 +3510,25 @@ rasmmo,Rasmussen,Morten,1985-03-26,DEN, ,DEN
 rasmmr,Rasmussen,Mads Roerslev,1999-06-24,DEN,København,DEN
 rasmn1,Rasmussen,Nikolaj,1973-09-27,DEN, ,DEN
 rasmni,Rasmussen,Niels,1993-09-09,DEN, ,DEN
+rasmo1,Rasmussen,Ole,1952-03-19,DEN, ,DEN
+rasmol,Rasmussen,Ole,1960-09-03,DEN, ,DEN
 rasmp1,Rasmussen,Peter,1967-05-16,DEN,Hobro,DEN
+rasmp2,Rasmussen,Peter,0000-00-00,DEN, ,DEN
 rasmpe,Rasmussen,Peter,1969-03-02,DEN,Hillerød,DEN
 rasmph,Rasmussen,Philip,1989-01-12,DEN,København,DEN
+rasms1,Rasmussen,Steen,1956-11-11,DEN, ,DEN
 rasmst,Rasmussen,Steffen,1982-09-30,DEN,Stenvad,DEN
 rasmt1,Rasmussen,Thomas,1977-04-16,DEN,København,DEN
 rasmt2,Rasmussen,Theis,1984-07-12,DEN, ,DEN
 rasmth,Rasmussen,Thorbjørn,1987-03-21,DEN, ,DEN
+rasmto,Rasmussen,Torben,1966-01-02,DEN, ,DEN
 rasmtr,Rasmussen,Troels,1961-04-07,DEN,Ebeltoft,DEN
 rasmvi,Rasmussen,Villads,2001-11-27,DEN, ,DEN
 rasnkr,Rasnis,Kristian,1975-06-19,DEN, ,DEN
+rastar,Rastad,Arne,1952-08-02,DEN, ,DEN
 rathsi,Rath,Simon,1975-02-04,DEN, ,DEN
 rathth,Rathe,Thomas,1979-06-09,DEN,Holstebro,DEN
+raunpe,Raun,Poul Erik,0000-00-00,DEN, ,DEN
 raunth,Raun,Thomas,1984-06-29,DEN,Vordingborg,DEN
 ravnal,Ravn,Allan,1974-02-04,DEN,København,DEN
 ravnmi,Ravn,Michael,1995-03-31,DEN, ,DEN
@@ -2987,6 +3552,7 @@ rejnra,Rejnhold,Rasmus,2001-05-23,DEN, ,DEN
 remmch,Remmer,Christoffer,1993-01-16,DEN,Hvidovre,DEN
 repyiv,Repyakh,Ivan,2001-10-18,RUS,Krasnodar,RUS
 retoma,Retov,Martin,1980-05-05,DEN,Rødovre,DEN
+reutje,Reutemann,Jesper,0000-00-00,DEN, ,DEN
 ribeca,Riber,Carsten,1967-01-15,DEN, ,DEN
 ribemi,Ribers,Michael,1981-05-19,DEN,København,DEN
 richjo,Richter,Jonathan,1985-01-16,DEN, ,DEN
@@ -3019,6 +3585,7 @@ rnaral,Rúnarsson,Alex,1995-02-18,ISL,Reykjavík,ISL
 robima,Robins,Mark,1969-12-22,ENG,Ashton-under-Lyme,ENG
 rochol,Roche,Oliver,2004-01-17,DEN, ,DEN
 rodest,Rode,Steen,1969-06-04,DEN, ,DEN
+rodiol,Rodin,Ole,0000-00-00,DEN, ,DEN
 rodivl,Rodić,Vladimir,1993-09-07,MNT,Beograd,SRB
 rodrka,Rodrigues,Kayke,1988-04-01,BRA,Brasilia,BRA
 rodrlu,Rodriguez,Luis,1985-03-04,ARG,Necochea,ARG
@@ -3029,17 +3596,22 @@ roelth,Røll,Thomas,1977-03-12,DEN,Aarhus,DEN
 roeman,Rømer,André,1993-07-18,DEN, ,DEN
 roemma,Rømer,Marcel,1991-08-08,DEN, ,DEN
 roenfr,Rønnow,Frederik,1992-08-04,DEN,Horsens,DEN
+roenhe,Rønnebro,Henrik,1954-08-23,DEN, ,DEN
+roenpe,Røntved,Per,1949-01-27,DEN,Frederiksberg,DEN
 roense,Rønnow,Sebastian,1995-04-25,DEN, ,DEN
 roepfr,Roepstorff,Frederik,1998-06-09,DEN, ,DEN
 rohdni,Rohde,Nichlas,1992-01-01,DEN,Roskilde,DEN
 rohdth,Rohde,Thomas,1999-11-19,DEN, ,DEN
 rohomo,Roholte,Morten,1982-03-03,DEN, ,DEN
 rojama,Rojas,Marco,1991-11-05,NZL,Hamilton,NZL
+rojaol,Rojas,Ole,1956-10-31,DEN, ,DEN
 rokkmo,Rokkedal,Morten,1997-10-10,DEN, ,DEN
 rolagi,Rólantsson,Gilli,1992-08-11,FER,Tvøroyri,FER
+roldmi,Rold Andersen,Michael,1953-11-01,DEN, ,DEN
 rolfch,Rolfe,Chris,1983-01-17,USA,Kettering,USA
 roliya,Rolim,Yann,1995-03-15,BRA,Osório,BRA
 rollba,Rolland,Baptiste,2003-01-14,FRA,Seclin,FRA
+rommbo,Romme Nielsen,Bo,0000-00-00,DEN, ,DEN
 rommde,Rommedahl,Dennis,1978-07-22,DEN,Kopenhagen,DEN
 romora,Romo,Rafael,1990-02-25,VEN,Turén,VEN
 roobur,Rooba,Urmas,1978-07-08,EST,Roosna-Alliku,EST
@@ -3050,11 +3622,13 @@ rosera,Rosenkilde,Rasmus,1978-06-08,DEN, ,DEN
 roseth,Rosengreen,Thomas,1973-04-06,DEN, ,DEN
 roslfr,Roslyng,Frederik,2005-01-10,DEN, ,DEN
 rossei,Rossbach,Einar,1964-10-20,NOR,Porsgrunn,NOR
+rossja,Rossander,Jacob,1950-03-09,DEN, ,DEN
 rossma,Ross,Mathias,2001-01-15,DEN,Aalborg,DEN
 rossol,Ross,Oliver,2004-10-10,DEN, ,DEN
 rostla,Rostholm,Lasse,1984-05-16,DEN,Dalum,DEN
 rostsi,Rosted,Sigurd,1994-07-22,NOR,Oslo,NOR
 rothjo,Rothmann,Joachim,2000-06-29,DEN, ,DEN
+rothst,Rothe,Steen,1969-06-04,DEN, ,DEN
 royeda,Royer,Daniel,1990-05-22,AUT,Schladming,AUT
 rrusbl,Rrustemi,Blerim,1983-02-04,ALB,Vushtrri,KOS
 rudxla,Rud,Lars,1960-03-22,DEN, ,DEN
@@ -3078,6 +3652,7 @@ rutigl,Rutikanga,Gloire,1997-02-04,DRC, ,DRC
 rutkmo,Rutkjær,Morten,1974-03-17,DEN, ,DEN
 ruudes,Ruud,Espen,1984-02-26,NOR,Porsgrunn,NOR
 ryanma,Ryan,Mathew,1992-04-08,AUS,Plumpton,AUS
+rybofr,Ryborg Nielsen,Frank,1963-06-17,DEN, ,DEN
 ryexan,Rye,Andy,1978-02-17,DEN, ,DEN
 ryexch,Rye,Christian,1994-02-15,DEN, ,DEN
 rygami,Rygaard,Mikkel,1990-12-25,DEN,Nykøbing Falster,DEN
@@ -3119,6 +3694,8 @@ sanato,Sana,Tobias,1989-07-11,SWE,Göteborg,SWE
 sandbr,Sandholt,Brian,1965-07-02,DEN, ,DEN
 sandeb,Sand,Ebbe,1972-07-19,DEN,Hadsund,DEN
 sandjo,Sandberg,John,1977-01-04,DEN, ,DEN
+sandk1,Sand,Kim,1972-02-28,DEN, ,DEN
+sandki,Sander Hansen,Kim,1956-07-14,DEN,Jerne,DEN
 sandla,Sandgrav,Lauge,2004-09-16,DEN, ,DEN
 sandni,Sandberg,Nicolas,1991-12-24,SWE, ,SWE
 sandpe,Sand,Peter,1972-07-19,DEN,Aalborg,DEN
@@ -3147,14 +3724,17 @@ schami,Schäfer,Michael,1959-01-25,DEN,Rødovre,DEN
 scharv,van der Schaaf,Remco,1979-02-28,NED,Ten Boer,NED
 scheem,Scheel,Emil,1990-03-18,DEN,København,DEN
 schema,Scheepers,Marc,1970-04-13,NED, ,NED
+schewi,Scheepers,Willy,1961-04-09,NED, ,NED_willy-scheepers
 schimi,Schiørring,Mikkel,1980-01-26,DEN, ,DEN
 schjan,Schjelderup,Andreas,2004-06-01,NOR, ,NOR
+schjhe,Schjødt,Henrik,0000-00-00,DEN, ,DEN
 schjmi,Schjønberg,Michael,1967-01-19,DEN,Esbjerg,DEN
 schlma,Schlie,Mathias,1988-01-31,DEN, ,DEN
 schlmv,von Schlebrügge,Max,1977-02-01,SWE,Solna,SWE
 schmjo,Schmidt,Jonas,1982-06-16,DEN, ,DEN
 schmke,Schmidt,Kevin,1988-12-11,DEN, ,DEN
 schmmo,Schmidt,Morten,1973-02-25,DEN, ,DEN
+schmp1,Schmidt,Per,0000-00-00,DEN, ,DEN
 schmpa,Schmidt,Patrick,1985-01-30,DEN, ,DEN
 schmpe,Schmeichel,Peter,1963-11-18,DEN, ,DEN
 schmph,Schmiedl,Philipp,1997-07-23,AUT,Antau,AUT
@@ -3165,6 +3745,7 @@ schoem,Schouw,Emil,1985-07-04,DEN,Haslev,DEN
 schofr,Schoeman,Frank,1975-07-30,RSA,Cape Town,RSA
 schoja,Schoop,Jacob,1988-12-23,DEN, ,DEN
 schoke,Scholz,Kent,1968-10-16,GER, ,GER
+schola,Schøne,Lars,1963-09-17,DEN,København,DEN
 schoro,Schouten,Robin,1998-02-25,NED,Alkmaar,NED
 schoth,Schønnemann,Thomas,1970-04-16,DEN,Hvidovre,DEN
 schrfr,Schram,Frederik,1995-01-19,ISL,Dragør,DEN
@@ -3183,10 +3764,16 @@ schwni,Schwencke,Nikolaj,1996-05-29,DEN, ,DEN
 schwos,Schwartau,Oscar,2006-05-17,DEN,Sengeløse,DEN
 schwro,Schwartz,Ronnie,1989-08-29,DEN,Ulsted,DEN
 sebuse,Sebulonsen,Sebastian,2000-01-27,NOR,Stavanger,NOR
+sechfi,Secher,Finn,1959-01-22,DEN, ,DEN
 sechol,Secher,Ole,1974-06-19,DEN, ,DEN
+seebpe,Seeberg,Peter,0000-00-00,DEN, ,DEN
+seefpe,Seefort,Per,1966-03-21,DEN, ,DEN
+seehje,Seehausen,Jesper,0000-00-00,DEN, ,DEN
+segeke,Segerlund,Kent,1967-08-24,DEN, ,DEN
 segepo,Segerström,Pontus,1981-02-17,SWE,Stockholm,SWE
 seidth,Seidelin,Thomas,1987-04-01,DEN, ,DEN
 seiffl,Seiffert,Flemming,0000-00-00,DEN, ,DEN
+sejeto,Sejersen,Tommy,0000-00-00,DEN, ,DEN
 selami,Selak,Mirko,1978-01-30,CRO, ,CRO
 sellsc,Sellars,Scott,1965-11-27,ENG,Sheffield,ENG
 selmas,Selmani,Astrit,1997-05-13,KOS,Malmö,SWE
@@ -3203,6 +3790,7 @@ shaiju,Shaibu,Justin,1997-10-28,DEN,København,DEN
 shakar,Shakiri,Artim,1973-09-23,MAC,Skopje,MAC
 shalhe,Shala,Herolind,1992-02-01,KOS,Porsgrunn,NOR
 shamno,Shamoun,Noah,2002-12-08,SYR, ,SWE
+shawga,Shaw,Gary,1961-01-21,ENG,Brmingham,ENG
 shawra,Shawkat,Rang,1986-04-07,DEN, ,DEN
 shellu,Shelton,Luton,1985-11-11,JAM,Kingston,JAM
 shersc,Cansdell-Sherriff,Shane,1982-11-10,AUS,Sydney,AUS
@@ -3230,10 +3818,14 @@ silvri,Silva,Ricardo,1976-02-18,DEN, ,DEN
 silvvd,da Silva,Vragel,1974-03-29,BRA,Campo Grande,BRA
 simemi,Simeunović,Milan,1967-05-14,SRB, ,SRB
 simmal,Simmelhack,Alexander,2005-11-11,DEN, ,DEN
+simmjo,Simmenæs,Jørn,1961-02-01,DEN, ,DEN
+simoal,Simonsen,Allan,1952-12-15,DEN,Vejle,DEN
 simoan,Simonsen,Anders,1983-03-09,DEN, ,DEN
 simoem,Simonsen,Emilio,1999-10-31,DEN, ,DEN
 simoib,Simonsen,Ib,1964-04-03,DEN,Aalborg,DEN
 simoje,Simonsen,Jeppe,1995-11-21,DEN,Kolding,DEN
+simoke,Simonsen,Kenneth,1961-07-28,DEN, ,DEN
+simole,Simonsen,Lennart,1958-05-15,DEN, ,DEN
 simolu,Simonsen,Lucas,1997-01-23,DEN, ,DEN
 simoma,Simonsen,Mathias,2005-08-23,DEN, ,DEN
 simppa,Simpson,Pascal,1971-05-04,SWE,Lomé,TOG
@@ -3267,8 +3859,12 @@ skjema,Skjellerup,Mathies,1996-05-23,DEN, ,DEN
 skjojo,Skjødt,John,1975-04-24,DEN, ,DEN
 skjope,Skjøth,Peter,1977-04-12,DEN, ,DEN
 skogha,Skogseid,Håkon,1988-01-14,NOR,Oslo,NOR
+skouhe,Skouboe,Henrik,1955-06-24,DEN, ,DEN
 skoumo,Skoubo,Morten,1980-06-30,DEN,Holstebro,DEN
+skouol,Skouboe,Ole,1949-09-06,DEN, ,DEN
 skovan,Skovgaard,Andreas,1997-03-27,DEN,Hagendrup,DEN
+skovbj,Skov,Bjarne,1958-04-28,DEN, ,DEN
+skovbo,Skovbjerg,Bo,1954-03-15,DEN,Rougsø,DEN
 skovla,Skov,Lasse,1962-08-30,DEN, ,DEN
 skovmo,Skov,Morten,1984-03-28,DEN,Jylland,DEN
 skovol,Skov,Ole,1957-05-26,DEN, ,DEN
@@ -3310,8 +3906,9 @@ soegem,Søgård,Emil,1996-11-30,DEN, ,DEN
 soegje,Søgaard,Jesper,1976-02-22,DEN,Kolding,DEN
 soenhe,Sønderup,Henrik,1971-12-16,DEN, ,DEN
 soenja,Sønksen,Jan,1973-04-10,DEN,Odense,DEN
-soenma,Søndergaard,Martin,1984-07-27,DEN, ,DEN
-soenmo,Søndergaard,Morten,1985-03-07,DEN, ,DEN
+soenma,Søndergård,Martin,1984-07-27,DEN, ,DEN
+soenmo,Søndergård,Morten,1985-03-07,DEN, ,DEN
+soenne,Søndergård,Niels Erik,1964-01-30,DEN,Næsbjerg,DEN
 soera1,Sørensen,Anders,1984-06-30,DEN, ,DEN
 soera2,Sørensen,Anders,1979-11-16,DEN, ,DEN
 soera3,Sørensen,Anders,1971-09-26,DEN, ,DEN
@@ -3323,32 +3920,47 @@ soeray,Sørensen,Ayoub,1988-04-12,MAR,København,MAR
 soerc1,Sørensen,Chris,1977-07-27,DEN, ,DEN
 soerc2,Sørensen,Chris,1989-05-08,DEN, ,DEN
 soerch,Sørensen,Christian,1992-08-06,DEN, ,DEN
+soercl,Sørensen,Claus,0000-00-00,DEN, ,DEN
 soerda,Sørensen,Dan,1966-07-09,DEN,Lemvig,DEN
 soerde,Sørensen,Dennis,1981-05-24,DEN,Herlev,DEN
+soerfl,Sørensen,Flemming,0000-00-00,DEN, ,DEN
+soerfr,Sørensen,Fritz,1959-10-18,DEN, ,DEN
+soerhe,Sørensen,Henrik,1956-04-28,DEN, ,DEN
 soerj1,Sørensen,Jacob,1998-03-03,DEN, ,DEN
 soerj2,Sørensen,Jacob,1983-02-12,DEN,Aalborg,DEN
 soerj3,Sørensen,Jesper,1973-05-26,DEN, ,DEN
 soerj4,Sørensen,Jan,1968-04-08,DEN, ,DEN
+soerj5,Sørensen,John,1967-12-09,DEN, ,DEN
+soerj6,Sørensen,Jesper,1963-09-26,DEN, ,DEN
+soerj7,Sørensen,Jan,0000-00-00,DEN,Odennse,DEN
+soerj8,Sørensen,Jan,1954-08-24,DEN,Nykøbing,DEN
 soerja,Sørensen,Jacob,2001-01-22,DEN, ,DEN
 soerje,Sørensen,Jesper,1973-06-10,DEN,Aarhus,DEN
+soerji,Sørensen,Jimmy,0000-00-00,DEN, ,DEN
 soerjk,Sørensen,Jens-Kristian,1987-03-21,DEN,Aalborg,DEN
 soerjo,Sørensen,John,1971-01-07,FAE, ,FAE
 soerjw,Sørensen,Jens Waltorp,1984-05-17,DEN, ,DEN
 soerke,Sørensen,Kenneth,1982-03-14,DEN, ,DEN
+soerkh,Sørensen,Knud Herbert,1952-12-12,DEN,Middelfart,DEN
 soerkr,Sørensen,Kristoffer,1992-01-28,DEN, ,DEN
 soerl1,Sørensen,Lars,1969-05-04,DEN, ,DEN
+soerl2,Sørensen,Lars,1955-05-05,DEN, ,DEN
+soerl3,Sørensen,Leif,1956-11-27,DEN, ,DEN
 soerla,Sørensen,Lasse,1982-03-06,DEN, ,DEN
 soerle,Sørensen,Lee,1994-04-30,DEN, ,DEN
 soerm1,Sørensen,Mathias,1991-05-03,DEN, ,DEN
 soerma,Sørensen,Marcus,2001-08-05,DEN, ,DEN
 soermb,Sørensen,Mads Bech,1999-01-07,DEN,Horsens,DEN
 soermr,Sørensen,Marc Rochester,1992-12-13,DEN, ,DEN
+soerni,Sørensen,Niels,1951-11-12,DEN, ,DEN
 soerp1,Sørensen,Per,1968-10-30,DEN, ,DEN
-soerp2,Sørensen,Peter,0000-00-00,DEN, ,DEN
+soerp2,Sørensen,Peter,1963-01-09,DEN, ,DEN
 soerpa,Sørensen,Palle,1972-04-04,DEN,Odder,DEN
 soerpe,Sørensen,Peter,1973-03-24,DEN,Silkeborg,DEN
 soert1,Sørensen,Thomas,1976-06-12,DEN,Odense,DEN
+soert2,Sørensen,Thorbjørn,1956-01-28,DEN, ,DEN
 soerth,Sørensen,Thomas,1984-08-01,DEN, ,DEN
+soerto,Sørensen,Torben,1955-04-10,DEN, ,DEN
 soidda,Soidik,Daniel,2000-01-18,DEN, ,DEN
 soirpy,Soiri,Pyry,1994-09-22,FIN,Tammisaari,FIN
 solbma,Solberg,Marcus,1995-02-17,DEN,Aarhus,DEN
@@ -3369,9 +3981,12 @@ sousal,Sousa,Allan,1997-01-27,BRA, ,BRA
 sowale,Sowah,Lennard,1992-08-23,GER,Hamburg,GER
 soweer,Sowe,Erima,1984-11-27,GAM, ,GAM
 spallu,Spalvis,Lukas,1994-07-27,LIT,Vilnius,LIT
+spanmi,Spangsborg,Michael,1958-05-25,DEN, ,DEN
+sparmi,Sparring,Michael,1963-05-16,DEN, ,DEN
 sparti,Sparv,Tim,1987-02-20,FIN,Oravainen,FIN
 spelma,Spelmann,Martin,1987-03-21,DEN,Hvidovre,DEN
 spinja,Spindler,Jader,1982-01-18,BRA, ,BRA
+spotka,Spottag,Karl Johan,1955-12-12,DEN, ,DEN
 srenol,Sørensen,Oliver,2002-03-10,DEN, ,DEN
 srenph,Sørensen,Philip,2003-05-16,DEN, ,DEN
 stadkr,Stadsgaard,Kris,1985-08-01,DEN,København,DEN
@@ -3383,7 +3998,11 @@ stamma,Stamenić,Marko,2002-02-19,NZL,Wellington,NZL
 stana1,Stankovic,Aleksander,1995-05-25,DEN,Horsens,DEN
 stanal,Stankov,Aleksandar,1991-02-19,MAC,Stip,MAC
 starjo,Stark,Jonas,1972-04-27,SWE, ,SWE
+staule,Staun,Leif,0000-00-00,DEN, ,DEN
+steeso,Steensen,Søren,1952-09-19,DEN, ,DEN
 stefba,Stefanidis,Babis,1981-03-08,SWE,Skellefteå,SWE
+stefjc,Steffensen,Jens Christian,0000-00-00,DEN, ,DEN
+stefje,Steffensen,Jens,1950-08-04,DEN,Jetsmark,DEN
 stefka,Stefansen,Kaj,1968-04-24,DEN, ,DEN
 stefmi,Steffensen,Michael,1974-07-22,DEN, ,DEN
 stefpe,Steffensen,Per,1963-02-27,DEN,København,DEN
@@ -3408,11 +4027,13 @@ stokpi,Stokowiec,Piotr,1972-05-25,POL,Kielce,POL
 stolja,Stolberg,Jacob,1981-08-07,DEN, ,DEN
 stoofr,Stoor,Fredrik,1984-02-28,SWE,Stockholm,SWE
 storbo,Storm,Bo,1987-02-03,DEN,Nordberg,DEN
+storbr,Storvang,Brian,0000-00-00,DEN, ,DEN
 storj1,Storbæk,Jarl André,1978-09-21,NOR,Elverum,NOR
 storja,Storch,Jannich,1993-05-12,DEN,Helsinge,DEN
 storke,Storvik,Kenneth,1972-02-27,NOR,Bergen,NOR
 storto,Storm,Tobias,2004-07-04,DEN, ,DEN
 strafr,Strandli,Frank,1972-05-16,NOR,Kristiansand,NOR
+stroer,Strømfeldt,Erik,1963-07-13,DEN, ,DEN
 stroma,Strøm,Martin,1977-01-28,DEN, ,DEN
 strucl,Struck,Claus,1970-09-16,DEN,Thorning,DEN
 struma,Strudal,Mark,1968-04-29,DEN,Glostrup,DEN
@@ -3428,6 +4049,7 @@ suljde,Suljic,Denis,2000-05-03,DEN, ,DEN
 sumian,Sumiala,Antti,1974-02-20,FIN,Pori,FIN
 sundan,Sundstrup,Anders,1961-07-17,DEN,København,DEN
 suokja,Suokonautio,Janne,1968-05-20,FIN, ,FIN
+suppal,Supperi,Allan,1962-01-17,DEN, ,DEN
 suzuyu,Suzuki,Yuito,2001-10-25,JAP,Kanagawa,JAP
 svaese,Svärd,Sebastian,1983-01-15,DEN,Hvidovre,DEN
 sveiho,Sveinsson,Hörður,1983-03-24,ISL, ,ISL
@@ -3436,9 +4058,11 @@ svejja,Svejstrup,Jacob,0000-00-00,DEN, ,DEN
 svenbo,Svensson,Bo,1979-08-04,DEN,Skørping,DEN
 svenda,Svensson,Daniel,2002-02-12,SWE, ,SWE
 svenj1,Svenningsen,Jesper,1962-09-21,DEN, ,DEN
+svenj2,Svendsen,Jens Erik,1961-01-30,DEN, ,DEN
 svenje,Svenningsen,Jeppe,1994-10-14,DEN, ,DEN
 svenm1,Svensson,Magnus,1969-03-10,SWE,Falkenberg,SWE
 svenma,Svensson,Martin,1989-08-10,DEN, ,DEN
+svenn1,Svender,Nicolai,0000-00-00,DEN, ,DEN
 svenni,Svendsen,Nicklas,1986-12-11,DEN,Kopenhaven,DEN
 svenra,Svenningsen,Rasmus,1975-06-30,DEN,Silkeborg,DEN
 svenro,Svensson,Ronnie,1978-07-31,DEN, ,DEN
@@ -3447,7 +4071,7 @@ svensa,Svendsen,Sander,1997-08-06,NOR,Molde,NOR
 svenso,Svendsen,Søren,1971-07-06,DEN, ,DEN
 sverbj,Sverrisson,Björn,1990-05-29,ISL,Hafnarfjörður,ISL
 sviaer,Sviatchenko,Erik,1991-10-04,DEN,Viborg,DEN
-svinja,Svinggaard,Jacob,1967-09-27,DEN,Naestved,DEN
+svinja,Svinggård,Jacob,1967-09-27,DEN,Naestved,DEN
 swergi,Swerts,Gill,1982-09-23,BEL,Brasschaat,BEL
 sybean,Syberg,Anders,1988-05-10,DEN, ,DEN
 sylvja,Sylvestr,Jakub,1989-02-02,SVK,Banska Bystrica,SVK
@@ -3464,6 +4088,7 @@ tanlma,Tanlongo,Mateo,2003-08-12,ARG,Funes,ARG
 tanoco,Tanor,Collins,1998-01-04,GHA,Brong-Ahafo,GHA
 targti,Targino,Tiago,1986-06-06,POR,Beja,POR
 taubma,Tauber,Mathias,1984-08-24,DEN,København,DEN
+taudla,Taudahl,Lars,0000-00-00,DEN, ,DEN
 taylch,Taylor,Christian,1970-03-13,DEN, ,DEN
 tchaal,Tchami,Alphonse,1971-09-14,CMR,Bafang,CMR
 tchabe,Tchami,Bertrand,1977-02-14,CMR,Douala,CMR
@@ -3475,13 +4100,18 @@ tekser,Tekşen,Ertuğrul,2000-04-25,TUR,Ishøj,DEN
 temban,Tembo,Andrew,1971-08-19,ZAM,Lusaka,ZAM
 tengca,Tengstedt,Casper,2000-06-01,DEN, ,DEN
 tengje,Tengbjerg,Jeppe,1973-12-28,DEN,Holbæk,DEN
+tengki,Tengstedt,Kim,1968-02-21,DEN, ,DEN
 tengre,Tengstedt,René,1976-01-02,DEN,Aalborg,DEN
 tengso,Tengstedt,Søren,2000-06-30,DEN, ,DEN
 tength,Tengstedt,Thomas,1975-05-15,DEN,Aalborg,DEN
+terkhe,Terkelsen,Henrik,1965-04-21,DEN,Frederiksberg,DEN
+terkjo,Terkelsen,Jørn,1961-01-31,DEN, ,DEN
 texepo,Texel,Pontus,2004-02-27,DEN,København,DEN
 thelr1,Thellufsen,Rasmus,1997-01-09,DEN,Sæby,DEN
 thelra,Thelander,Rasmus,1991-07-09,DEN,København,DEN
 themmi,Themsen,Mike,2006-03-10,DEN, ,DEN
+therbe,Therkildsen,Bent,1957-00-00,DEN, ,DEN
+thernp,Therkelsen,Niels Peter,0000-00-00,DEN, ,DEN
 therpe,Therkildsen,Peter,1998-06-13,DEN, ,DEN
 thiat1,Thiago, ,1984-04-03,BRA, ,BRA
 thiath,Thiago, ,1988-10-22,BRA,São Paulo,BRA
@@ -3493,11 +4123,14 @@ thoman,Thomsen,Anders,1995-07-29,DEN, ,DEN
 thomcl,Thomsen,Claus,1970-05-31,DEN,Aarhus,DEN
 thomct,Thyboe-Thomsen,Christian,1987-07-07,DEN,Silkeborg,DEN
 thomda,Thomassen,Dan,1981-03-24,DEN,Aarhus,DEN
+thomhe,Thomsen,Henrik,1956-05-06,DEN, ,DEN
 thomj1,Thome,Jean,1995-10-10,CIV,Divo,CIV
 thomj2,Thomsen,Jonas,1991-02-05,DEN, ,DEN
 thomj3,Thomsen,Jonas,1983-03-21,DEN, ,DEN
 thomj4,Thomsen,Jakob,1978-07-16,DEN, ,DEN
 thomj5,Thompson,Jared,1999-02-23,NIR,Swindon,ENG
+thomj6,Thomassen,Jan,1959-09-30,DEN, ,DEN
+thomj7,Thomsen,Jan,1961-02-12,DEN, ,DEN
 thomja,Thomsen,Jákup,1997-11-23,FER,Tórshavn,FER
 thomje,Thomasen,Jens,1996-06-25,DEN, ,DEN
 thomjo,Thomsen,Johnny,1982-02-26,DEN,Fredericia,DEN
@@ -3509,18 +4142,23 @@ thomm1,Thomsen,Mark,0000-00-00,DEN, ,DEN
 thomm2,Thomsen,Martin,1994-10-26,DEN, ,DEN
 thomm3,Thomsen,Mads,1989-03-15,DEN, ,DEN
 thomm4,Thomsen,Martin,1980-10-31,DEN, ,DEN
+thomm5,Thomsen,Mogens,0000-00-00,DEN, ,DEN
 thomma,Thomsen,Martin,1982-08-06,DEN,Hobro,DEN
 thommi,Thomsen,Michael,1976-09-07,DEN, ,DEN
+thommo,Thomsen,Morten,1965-07-24,DEN, ,DEN
 thomn1,Thomas,Nigel,2001-02-01,CUR,Rotterdam,NED
 thomni,Thomsen,Nicolaj,1993-05-08,DEN,Skagen,DEN
+thompe,Thomsen,Per,0000-00-00,DEN, ,DEN
 thomth,Thomasberg,Thomas,1974-10-15,DEN, ,DEN
 thomto,Thomsen,Tobias,1992-10-19,DEN, ,DEN
 thomul,Thomsen,Ulrik,1981-10-03,DEN, ,DEN
+thorfr,Thorsgård,Frank,0000-00-00,DEN, ,DEN
 thorg1,Þorvaldsson,Gunnar,1982-04-01,ISL,Vestmannaeyjar,ISL
 thorgu,Þórarinsson,Guðmundur,1992-04-15,ISL,Selfoss,ISL
 thorjd,Þorsteinsson,Jón Dagur,1998-11-26,ISL,Reykjavík,ISL
 thorje,Thorup,Jess,1970-02-21,DEN,København,DEN
 thorjo,Thorsen,Jonas,1990-04-19,DEN,Viby,DEN
+thork1,Thorius,Ken,1963-01-30,DEN, ,DEN
 thorke,Thorup,Kenny,1977-12-07,DEN,København,DEN
 thorni,Thorsgaard,Nichlas,1984-12-03,DEN, ,DEN
 thorso,Thorst,Søren,1965-01-08,DEN, ,DEN
@@ -3535,6 +4173,7 @@ thycla,Thychosen,Lars Døhr,1967-04-28,DEN, ,DEN
 thycma,Thychosen,Mads,1997-06-27,DEN,Vejle,DEN
 thycol,Thychosen,Oliver,1993-01-17,DEN, ,DEN
 thycst,Thychosen,Steen,1958-09-22,DEN,Vejle,DEN
+thycul,Thycosen,Ulrik,1956-07-19,DEN, ,DEN
 thygje,Thygesen,Jesper,1969-09-20,DEN,Århus,DEN
 thygmi,Thygesen,Mikkel,1984-10-22,DEN,Greve,DEN
 thylma,Thylander,Mattias,1974-10-22,SWE, ,SWE
@@ -3553,7 +4192,7 @@ toboar,Toborek,Artur,1973-10-20,POL,Tychy,POL
 toefst,Tøfting,Stig,1969-08-14,DEN,Århus,DEN
 toenhe,Tønnesen,Henrik,1970-02-24,DEN, ,DEN
 toermi,Tørnes,Michael,1986-01-08,DEN,Herlev,DEN
-tofthe,Toft,Henrik,1981-04-15,DEN,Chritiansfeld,DEN
+tofthe,Toft,Henrik,1981-04-15,DEN,Christiansfeld,DEN
 tofthj,Toftegaard,Hjalte,2006-06-25,DEN, ,DEN
 toftro,Toft,Rolf,1992-08-04,DEN,Hjørring,DEN
 tokago,Tokay,Gökhan,1990-10-19,DEN, ,DEN
@@ -3562,6 +4201,7 @@ tomaan,Tomaselli,Andreas,2005-10-13,DEN, ,DEN
 tomati,Tómasson,Tómas Ingi,1969-06-07,ISL, ,ISL
 tongfr,Tongya,Franco,2002-03-13,ITA,Torino,ITA
 tontfe,Tontini, ,1996-07-16,BRA,Foz do Iguaçu,BRA
+toppcl,Toppel,Claus,1955-03-19,DEN, ,DEN
 toppma,Toppel,Mads,1982-01-30,DEN,Odense,DEN
 torpan,Torpegaard,Anders,1986-11-02,DEN, ,DEN
 torpvi,Torp,Victor,1999-07-30,DEN, ,DEN
@@ -3569,6 +4209,7 @@ torrma,Torry,Mads,1986-05-13,DEN, ,DEN
 toutyo,Toutouh,Youssef,1992-10-06,DEN,København,DEN
 toxvki,Toxværd,Kim,1973-01-10,DEN, ,DEN
 tracma,Tracy,Marcus,1986-10-02,USA,Philadelphia,USA
+tradjo,Trads,Jørgen,1958-05-06,DEN,Hobro,DEN
 traest,Träger,Steen,1978-01-27,DEN, ,DEN
 trajal,Trajkovski,Aleksandar,1992-09-05,MAC,Skopje,MAC
 tranma,Tranberg,Mads,0000-00-00,DEN, ,DEN
@@ -3608,6 +4249,7 @@ ulstbr,Ulstrup,Brian,1980-03-04,DEN, ,DEN
 urenma,Ureña,Marcos,1990-03-05,CRC,San José,CRC
 ustoke,Čustović,Kevin,2000-02-03,SWE, ,SWE
 utakpe,Utaka,Peter,1984-02-12,NGR,Enugu,NGR
+utofhp,Utoft,Hans Peter,1956-03-20,DEN, ,DEN
 uzoche,Uzochokwu,Henry,1999-01-22,NGR, ,NGR
 uzociz,Uzochukwu,Izunna,1990-04-11,NGR, ,NGR
 vaarrv,van der Vaart,Rafael,1983-02-11,NED,Heemskerk,NED
@@ -3616,8 +4258,10 @@ vadokr,Vadócz,Krisztián,1985-05-03,HUN,Budapest,HUN
 vadsja,Vadstrup,Jakob,0000-00-00,DEN, ,DEN
 valbsi,Valbak,Silas,0000-00-00,DEN, ,DEN
 valeal,Valencia,Alex,1979-09-22,NOR,Bergen,NOR
+valeki,Valentin,Kim,1963-03-19,DEN,Rødovre,DEN
 valema,Valentin,Mathias,1989-03-29,DEN, ,DEN
 vallni,Vallys,Nicolai,1996-09-04,DEN, ,DEN
+vangbr,Vang,Brian,1964-03-02,DEN, ,DEN
 vangje,Vangsø,Jesper,0000-00-00,DEN, ,DEN
 vanljo,Vanlerberghe,Jordi,1996-06-27,BEL,Duffel,BEL
 vantma,Vantruba,Martin,1998-02-07,SVK,Trnava,SVK
@@ -3647,6 +4291,7 @@ vestja,Vester,Jakob,2004-12-01,DEN,Viby,DEN
 vestje,Vestergaard,Jeppe,1976-09-22,DEN, ,DEN
 vestm1,Vester,Michael,1988-05-04,DEN, ,DEN
 vestmi,Vestergaard,Mikkel,1992-11-22,DEN, ,DEN
+vestpe,Vesterdal,Peter,1964-05-11,DEN, ,DEN
 vestso,Vestergaard,Søren,1987-05-04,DEN, ,DEN
 vestth,Vestmark,Thomas,1965-04-04,DEN, ,DEN
 vetoig,Vetokele,Igor,1992-03-23,ANG,Luanda,ANG
@@ -3669,10 +4314,16 @@ villol,Villadsen,Oliver,2001-11-16,DEN,Sønderborg,DEN
 villor,Rose-Villadsen,Oliver,2001-11-16,DEN,Sønderborg,DEN
 villsa,Villafañe,Santiago,1988-05-19,ARG,Mar del Plata,ARG
 villth,Villadsen,Thomas,1984-09-04,DEN,Kobenhavn,DEN
+villti,Villadsen,Tim,0000-00-00,DEN, ,DEN
+vilmto,Vilmar,Tom,1960-04-12,DEN, ,DEN
 vilsjo,Vilstrup,Johnny,1967-02-27,DEN,Valby,DEN
 vindra,Vinderslev,Rasmus,1997-08-12,DEN,Haderslev,DEN
+vingja,Vingård,Jan,1957-03-12,DEN, ,DEN
 vingma,Vingaard,Martin,1985-03-20,DEN,Odense,DEN
+vingpe,Vingård,Per,0000-00-00,DEN, ,DEN
 vinido,Vinicius,Dominic,1995-01-05,NGR,São Paulo,BRA
+vinsbj,Vinsløv,Bjarne,1960-01-27,DEN, ,DEN
+vintto,Vinther,Torben,0000-00-00,DEN, ,DEN
 vinzul,Vinzents,Ulrich,1976-11-04,DEN,Ringsted,DEN
 visnsa,Väisänen,Sauli,1994-06-05,FIN,Helsinki,FIN
 vistpe,Visti,Peter,1967-06-12,DEN, ,DEN
@@ -3682,6 +4333,7 @@ vondjp,Vonderburg,Jean-Paul,1964-07-31,SWE, ,SWE
 vossja,Voss,Jan,0000-00-00,GER, ,GER
 vraalu,Vraa-Jensen,Ludwig,2005-06-23,DEN, ,DEN
 vukcmi,Vukčević,Milenko,1966-09-14,MNT, ,MNT
+wachbe,Wachmann,Bent,1959-04-07,DEN,Højbjerg,DEN
 waehkj,Wæhler,Kjetil,1976-03-16,NOR,Oslo,NOR
 waehth,Wæhler,Thomas,1973-07-28,NOR,Oslo,NOR
 waelni,Wael,Nicolai,1972-05-10,DEN,Glostrup,DEN
@@ -3695,11 +4347,14 @@ wangzh,Wang,Zhen'ao,1999-08-10,CHN, ,CHN
 warmma,Warming,Magnus,2000-06-08,DEN,Nykøbing,DEN
 wassda,Wass,Daniel,1989-05-31,DEN,Gladsaxe,DEN
 wassem,Wass,Emil,1999-02-21,DEN, ,DEN
+wawrhe,Wawrowski,Henryk,1949-09-25,POL, ,POL
+webejo,Weber,Jørgen,1960-08-02,DEN, ,DEN
 webekr,Weber,Kristian,1997-01-03,DEN,Munkebo,DEN
 weertv,van Weert,Tom,1990-06-07,NED,Sint-Michielsgestel,NED
 wegnke,Wegner,Kenneth,1966-03-03,DEN,Gladsaxe,DEN
 wehnma,Wehner,Marc,1995-03-18,DEN, ,DEN
 weibso,Weibel,Søren,1983-01-03,DEN, ,DEN
+weigle,Weigelt,Leon,1964-01-21,DEN, ,DEN
 weinje,Weinkouff,Jesper,1988-09-06,DEN, ,DEN
 welbna,Welbeck,Nana,1994-11-24,GHA,Accra,GHA
 wellwe,Wellington, ,1982-06-09,BRA,Itabuna,BRA
@@ -3708,10 +4363,12 @@ wessst,Wessels,Stefan,1979-02-28,GER,Rahden,GER
 westjo,Westmark,Jonas,1988-09-15,DEN, ,DEN
 westm1,Westh,Mads,1981-09-18,DEN,Gentofte,DEN
 westma,Westergaard,Magnus,1998-05-27,DEN, ,DEN
+westto,Westmark,Torben,0000-00-00,DEN, ,DEN
 westvi,Westh,Villads,2004-04-25,DEN, ,DEN
 whalos,Whalley,Óscar,1994-03-29,SPA,Zaragoza,SPA
 whitje,White,Jeremiah,1982-04-03,USA,Lansdowne,USA
 wichma,Wichmann,Mathias,1991-08-06,DEN,Aalborg,DEN
+widejo,Widell,John,1960-11-04,DEN, ,DEN
 wiegmo,Wieghorst,Morten,1971-02-25,DEN,Glostrup,DEN
 wiezgr,Więzik,Grzegorz,1963-07-21,POL,Lodygowice,POL
 wikhgu,Wikheim,Gustav,1993-03-18,NOR,Drammen,NOR
@@ -3720,30 +4377,38 @@ wiksra,Wikström,Rasmus,2001-03-18,SWE,Göteborg,SWE
 wilajs,Sellberg-Wiland,Johan,1981-01-24,SWE,Rydboholm,SWE
 wilcjo,Wilcot,John,1976-07-25,DEN, ,DEN
 wilcka,Wilczek,Kamil,1988-01-14,POL,Wodzisław Śląski,POL
+wilhhe,Wilhelmsen,Henrik,0000-00-00,DEN, ,DEN
 willda,Williams,David,1988-02-26,AUS,Brisbane,AUS
 willdi,Williams,Dioh,1984-10-08,LBR,Monrovia,LBR
 willni,Willumsen,Nicolas,2001-01-01,DEN, ,DEN
 willta,Williams,Tamati,1984-01-19,NZL,Dunedin,NZL
 wilsja,Wilshere,Jack,1992-01-01,ENG,Stevenage,ENG
 windan,Winding,Anders,1991-02-16,DEN, ,DEN
+windcl,Windfeld,Claus,1959-05-23,DEN, ,DEN
 windjo,Wind,Jonas,1999-02-07,DEN,Hvidovre,DEN
 windl1,Windfeld,Lars,1962-10-03,DEN,Ribe,DEN
 windla,Winde,Lars,1975-12-03,DEN,Aalborg,DEN
 windpe,Wind,Per,1955-08-15,DEN,Kopenhagen,DEN
-windpr,Wind,Preben,0000-00-00,DEN, ,DEN
+windpr,Wind,Preben,1968-00-00,DEN, ,DEN
 winsfr,Winsnes,Fredrik,1975-12-28,NOR,Trondheim,NOR
 wintan,Winther,Anders,1973-02-17,DEN,Thisted,DEN
 wintca,Winther,Casper,2003-02-11,DEN, ,DEN
 wintfr,Winther,Frederik,2001-01-04,DEN, ,DEN
 wintma,Winther,Mads,2001-10-20,DEN, ,DEN
-withbo,With,Bo,0000-00-00,DEN, ,DEN
+withbo,With,Bo,1961-02-20,DEN, ,DEN
+wittca,Wittrup,Carsten,1964-06-18,DEN, ,DEN
+wodsni,Wodskou,Niels,1945-10-15,DEN, ,DEN
 woelmo,Wølke,Morten,1985-01-09,DEN, ,DEN
 woerma,Wørts,Magnus,1999-02-08,DEN, ,DEN
 wohlmi,Wohlgemuth,Mikkel,1995-06-04,DEN, ,DEN
 wolapa,Wolański,Patryk,1991-08-15,POL,Tuchow,POL
 wolema,Woledzi,Maxwell,2001-07-02,GHA, ,GHA
+wolfma,Wolfsberg,Mario,1962-02-13,DEN, ,DEN
+wollbe,Wollerup,Bent,1964-12-16,DEN, ,DEN
+wolski,Wolstrup,Kim,1959-06-06,DEN, ,DEN
 woodpe,Woodring,Peter,1968-05-02,USA,Kentfield,USA
 woolro,Woolsey,Rory,0000-00-00,DEN, ,DEN
+wriggl,Wright,Glenn,0000-00-00,ENG, ,ENG
 wrigha,Wright,Haji,1998-03-27,USA,Los Angeles,USA
 wuerra,Würtz,Rasmus,1983-09-18,DEN,Skive,DEN
 wuerso,Würtz,Søren,1967-08-26,DEN, ,DEN
@@ -3774,7 +4439,9 @@ zibeba,Ziberi,Bahkim,1984-08-17,DEN, ,DEN
 zidamo,Zidan,Mohamed,1981-12-11,EGY,Port Said,EGY
 ziegki,Ziegler,Kim,1958-12-29,DEN, ,DEN
 zieglu,Ziegler,Lucas,2003-09-28,DEN,Kalundborg,DEN
+ziegst,Ziegler,Sten,1950-05-30,DEN,København,DEN
 zimlni,Zimling,Niki,1985-04-19,DEN,Tårnby,DEN
+zimmma,Zimmermann,Martin,1963-03-02,DEN, ,DEN
 zincph,Zinckernagel,Philip,1994-12-16,DEN, ,DEN
 zivkbo,Živković,Bora,1974-09-04,DEN, ,DEN
 zivzbu,Zivzivadze,Budu,1994-03-10,GEO,Kutaisi,GEO

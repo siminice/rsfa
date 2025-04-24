@@ -1,7 +1,8 @@
-34
+39
 aalb00,Aalborg Portland Park,14135,0,Aalborg Stadion,2002
 aarh00,Ceres Park,19433,0,Aarhus Idrætspark,2015
 aarh01,Riisvangen Stadion
+bron00,Tingbjerg Idrætspark
 esbj00,Blue Water Arena
 faru00,Right to Dream Park
 fred00,Frederiksberg Idrætspark
@@ -15,14 +16,17 @@ hobr00,DS Arena
 hors00,Casa Arena
 hvid00,Kæmpernes Arena
 ikas00,Ikast Stadion
+kast00,Kastrup Idrætsanlæg
 kobe00,Brøndby Stadion
 kobe01,Telia Parken
 kobe02,Idrætspark
 kobe03,Østerbro Stadion
 kobe04,Valby Idrætspark
 koge00,Køge Stadion
+kold00,Kolding Stadion
 lyng00,Lyngby Stadion
 naes00,Næstved Stadion
+nyko00,Nykøbing Falster Idrætspark
 oden00,Nature Energy Park,15790,0,Odense Stadion,2018
 oden01,Gillested Park
 rand00,Cepheus Park
@@ -30,6 +34,7 @@ silk00,JYSK Park
 silk01,Mascot Park,10000,0,Silkeborg Stadion,2012
 slag00,Harboe Arena
 sobo00,Gladsaxe Stadion
+vanl00,Vanløse Idrætspark
 vejl00,Vejle Stadion
 vejl01,Jokri Park
 vibo00,Energi Viborg Arena

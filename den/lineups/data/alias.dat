@@ -1,7 +1,7 @@
 1800 Brøndby IF~Brøndby
 1800 B 1903 Copenhagen~B 1903*1993 FC Copenhagen~Copenhagen
-1800 OB Odense~OB Odense
-1800 AGF Aarhus~AGF Aarhus
+1800 Odense BK~Odense BK
+1800 Aarhus GF~AGF
 1800 AaB Aalborg~Aalborg
 1800 Lyngby BK~Lyngby
 1800 Vejle BK~Vejle*2012 Vejle Kolding BK~Vejle*2014 Vejle BK~Vejle
@@ -10,28 +10,28 @@
 1800 Esbjerg fB~Esbjerg
 1800 Herfølge BK~Herfølge*2010 HB Køge~Køge*2999 Herfølge BK~Herfølge
 1800 Viborg FF~Viborg
-1900 Ikast FS~Ikast*2000 FC Midtjylland~Midtjylland
+1900 Ikast fS~Ikast*2000 FC Midtjylland~Midtjylland
 1800 Næstved IF~Næstved
 1800 Hvidovre IF~Hvidovre
 1800 Randers Freja~Randers*2003 Randers FC~Randers
 1800 BK Fremad Amager~Fremad Amager
 1900 Aarhus Fremad~Aarhus Fremad*2000 Aarhus FC~Aarhus FC*2009 Aarhus Fremad~Aarhus Fremad
 1800 Akademisk BK Gladsaxe~AB
-1800 B 93 Copenhagen~B93
+1800 B 93 Copenhagen~B 93
 1800 Brønshøj BK~Brønshøj
 1800 Holbæk B&I~Holbæk*2010 Nordvest FC Holbæk~Nordvest*2017 Holbæk B&I~Holbæk
 1800 Køge BK~Køge*2010 HB Køge II~Køge II*2999 Køge BK~Køge
 1900 Farum BK~Farum*2004 FC Nordsjælland~Nordsjælland
-1800 Ølstykke FC~Ølstykke*2010 Egedal~Egedal
+1800 Ølstykke FC~Ølstykke*2010 FC Egedal~Egedal*2015 Ølstykke FC~Ølstykke
 1900 Haderslev FK~Haderslev*2001 HFK Sønderjylland~Sonderjylland*2007 SønderjyskE Haderslev~SonderjyskE
 1800 Dalum IF~Dalum*2007 FC Fyn Odense~Fyn*2010 Dalum IF~Dalum
-1800 Svendborg fB~Svendborg
+1800 Svendborg fB~Svendborg*2021 SfB-Oure FA~Svendborg
 1800 Fredericia BK~Fredericia*1987 Fredericia KFUM~Fredericia*1991 FC Fredericia~Fredericia
 1800 Holstebro BK~Holstebro
 1800 Horsens fS~Horsens*2000 AC Horsens~Horsens
-1800 HIK Hellerup~HIK
-1800 B 1909 Odense~B1909*2007 FC Fyn Odense~Fyn*2999 B 1909 Odense~B1909
-1800 B 1913 Odense~B1913*2007 FC Fyn Odense~Fyn*2999 B 1913 Odense~B1913
+1800 Hellerup IK~HIK
+1800 B 1909 Odense~B 1909*2007 FC Fyn Odense~Fyn*2999 B 1909 Odense~B 1909
+1800 B 1913 Odense~B 1913*2007 FC Fyn Odense~Fyn*2999 B 1913 Odense~B 1913
 1800 Nørre Aby IK~Nørre Aby
 1800 BK Avarta~Avarta
 1800 Glostrup IF~Glostrup IF*2003 Glostrup FK IF 32~Glostrup*2010 BK Glostrup Albertslund~Glostrup
@@ -44,7 +44,7 @@
 1800 Nørresundby BK~Nørresundby
 1800 Vejen SF~Vejen
 1800 Tærnby BK~Tærnby*2016 AB Tærnby~Tærnby
-1800 Herning Fremad~Herning*2000 Ikast FS~Ikast
+1800 BK Herning Fremad~Herning*2000 Ikast FC~Ikast*2999 BK Herning Fremad~Herning
 1800 Kolding IF~Kolding
 1800 Ballerup IF~Ballerup*2011 BSF Ballerup Skovlunde~BSF
 1800 Vanløse IF~Vanløse
@@ -56,10 +56,10 @@
 1800 Kalundborg GB~Kalundborg
 1800 Værløse IF~Værløse
 1800 Næsby BK Odense~Næsby
-1800 B 1908 Amager~B1908
+1800 B 1908 Amager~B 1908
 1800 BK Søllerød-Vedbæk~Søllerød
 1800 KB Copenhagen~KB*1993 Københavens BK II~KB II*2999 KB Copenhagen~KB
-1800 Stenløse BK~Stenløse*2012 SC Egedal~Egedal
+1800 Stenløse BK~Stenløse*2012 SC Egedal~Egedal*2015 Stenløse BK~Stenløse
 1800 Amager BK 1970 Copenhagen~AB70
 1800 BK Avarta~Avarta
 1800 Brøndbyernes IF II~Brøndby II
@@ -79,22 +79,22 @@
 1800 IK Skovbakken~Skovbakken*2017 VSK Aarhus~VSK Aarhus
 1800 Frederikshavn fI~Frederikshavn
 1800 Skovshoved IF~Skovshoved
-1800 AIA Aarhus~AIA*1976 AIA/Trandbjerg~AIA
+1800 AIA Aarhus~AIA*1976 AIA Tranbjerg~AIA
 1800 KFUM Copenhagen~KFUM
-1800 Boldklubben Velo~Velo
+1800 BK Velo Hellerup~Velo
 1800 Østerbro BK~Østerbro
 1800 Frederiksborg IF Hillerød~Frederiksborg
 1800 BK 1910 Rønne~Rønne
 1800 Korsør BK~Korsor
 1800 Frem Saxkøbing~Saxkobing
 1800 Haslev IF~Haslev
-1800 Handelstandens Boldklub~HB
+1800 Handelstandens BK~HB
 1800 Aalborg Freja~Aalborg Freja
 1800 BK Viktoria~Viktoria
 1800 Nakskov BK~Nakskov
 1800 BK Standard~Standard
-1800 Borup Copenhagen~Borup
-1800 B 1921 Nykøbing Falster~B1921*1994 Nykøbing Falster Alliancen~Nykøbing*2000 Lolland Falster Alliancen~LFA
+1800 Borup IF Copenhagen~Borup
+1800 B 1921 Nykøbing Falster~B 1921*1994 Nykøbing Falster Alliancen~Nykøbing*2000 Lolland Falster Alliancen~LFA
 1800 IK Viking Rønne~Viking
 1800 BK Marienlyst Odense~Marienlyst
 1800 Gentofte-Vangede IF~Gentofte
@@ -155,3 +155,8 @@
 1800 Hillerød FB~Hillerød
 1800 Lyseng IF Højbjerg~Lyseng
 1800 Tarup-Paarup IF~Tarup
+1800 KFUM Roskilde~KFUM Roskilde
+1800 Karlslunde IF~Karlslunde
+1800 Silkeborg KFUM~Silkeborg KFUM
+1800 Ishøj IF~Ishøj
+1800 Sundby BK København~Sundby
