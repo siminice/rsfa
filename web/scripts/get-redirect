@@ -1,5 +1,32 @@
 #!/bin/bash
 
-wget $1 2&> log
-rm -f index.html*
-grep following ./log | tail -n 1 | cut -d ' ' -f 2
+URL="$1"
+LINK=
+i=0
+
+while [[ -z "${LINK}" && "$i" -lt 5 ]]
+do
+ wget \
+  --header 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  --header 'accept-language: en-US,en;q=0.9' \
+  --header 'priority: u=0, i' \
+  --header 'referer: https://us.soccerway.com/' \
+  --header 'sec-ch-ua: "Chromium";v="134", "Not:A-Brand";v="24", "Google Chrome";v="134"' \
+  --header 'sec-ch-ua-mobile: ?0' \
+  --header 'sec-ch-ua-platform: "Linux"' \
+  --header 'sec-fetch-dest: document' \
+  --header 'sec-fetch-mode: navigate' \
+  --header 'sec-fetch-site: same-origin' \
+  --header 'sec-fetch-user: ?1' \
+  --header 'upgrade-insecure-requests: 1' \
+  --header 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36' \
+$1 2&> log
+
+  rm -f index.html*
+  LINK=$(grep following ./log | tail -n 1 | cut -d ' ' -f 2)
+  i=$(($i + 1))
+done
+
+echo "${LINK}"
+
+#  --load-cookies 'sw_l10m=us; sw_l10org=US; OptanonConsent=isGpcEnabled=0&datestamp=Fri+Apr+18+2025+20%3A28%3A00+GMT%2B0000+(Coordinated+Universal+Time)&version=202310.2.0&browserGpcFlag=0&isIABGlobal=false' \
