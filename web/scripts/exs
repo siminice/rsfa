@@ -9,7 +9,10 @@
 
 n=${2:-20}
 l=$((52 * $n))
-wget -q $1
+
+#wget -q $1
+
+/home/radu/rsssf/sat/web/scripts/excurl $1
 
 grep detailed-table index.html -A $l > table.html
 grep large-link table.html | cut -d '"' -f 6 | tee summary.txt

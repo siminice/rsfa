@@ -1,0 +1,36 @@
+#!/bin/bash
+
+URL=$1
+OUTF=$2
+PAUS=${3:-2}
+S=0
+i=1
+
+while [ "${S}" -lt 1000 ]
+do
+ curl -s "${URL}" \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -b 'sw_l10m=us; sw_l10org=US; OptanonConsent=isGpcEnabled=0&datestamp=Fri+Apr+18+2025+20%3A28%3A00+GMT%2B0000+(Coordinated+Universal+Time)&version=202310.2.0&browserGpcFlag=0&isIABGlobal=false' \
+  -H 'priority: u=0, i' \
+  -H 'referer: https://us.soccerway.com/' \
+  -H 'sec-ch-ua: "Chromium";v="134", "Not:A-Brand";v="24", "Google Chrome";v="134"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36' \
+  --compressed > "${OUTF}"
+
+ S=$(wc ${OUTF} -l | cut -d ' ' -f 1)
+ if [ "${S}" -lt 1000 ]
+ then
+   i=$(($i + 1))
+   sleep ${PAUS}
+   printf "."
+#   echo "     ... try #$i ..."
+ fi
+done
