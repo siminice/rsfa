@@ -1,7 +1,6 @@
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
-import org.jsoup.nodes.Node;
 import org.jsoup.select.Elements;
 
 import java.io.File;
@@ -25,6 +24,10 @@ public class WfPlayer {
   static SimpleDateFormat isof = new SimpleDateFormat("yyyy-MM-dd");
 
   public static void main(String args[]) {
+    // The sandbox this was built/tested in defaults to a non-UTF-8 locale,
+    // which garbles accented player names on stdout unless forced here.
+    // Doing this explicitly rather than relying on the server's locale.
+    try { System.setOut(new java.io.PrintStream(System.out, true, "UTF-8")); } catch (Exception e) { /* ignore */ }
     File input = new File(args[0]);
     mnem = args[1];
     Document doc = null;
@@ -38,135 +41,74 @@ public class WfPlayer {
     } catch (IOException e) {
       e.printStackTrace();
     }
-    Element sidebar = doc.selectFirst(".sidebar");
-    Element head = sidebar.selectFirst(".head");
-    Elements data = sidebar.select(".data");
-    extractBio(head, data);
+    extractBio(doc);
   }
 
-  private static void extractBio(Element head, Elements data) {
-    Element ename = head.selectFirst("h2");
-    String name = ename.childNode(0).toString();
-    Element tab = data.get(1);
-    Elements rows = tab.select("tr");
-    Element efull = rows.get(0);
-    String full = efull.selectFirst("td").childNode(0).toString();
-    if (full.toLowerCase().contains("born:")) full = name;
-    String nat = " ";
+  // Rewritten for the 2026 worldfootball.net redesign. The old sidebar
+  // (".sidebar"/".head"/".data") markup is gone. Name now lives in
+  // "h2.item-person" (split across ".person-firstname"/".person-lastname"),
+  // and the bio facts live in a <dl> inside ".hs-profile--person", one
+  // dt/dd pair per fact (dt class names: person-fullname, person-birthday,
+  // person_detail-birth_place-*, person_country-name-*, person-height,
+  // person-weight, person-position-*, person_detail-preferred_side-*).
+  private static void extractBio(Document doc) {
+    Element h2 = doc.selectFirst("h2.item-person");
+    String name = " ";
+    if (h2 != null) {
+      Element efn = h2.selectFirst(".person-firstname");
+      Element eln = h2.selectFirst(".person-lastname");
+      String fn = efn != null ? efn.text().trim() : "";
+      String ln = eln != null ? eln.text().trim() : "";
+      name = (fn + " " + ln).trim().replaceAll("\\s+", " ");
+    }
+    if (name.length() == 0) name = " ";
+
+    String full = name;
     String dob = " ";
     String pob = " ";
-    String cob = " ";
-    for (Element r : rows) {
-      Elements cols = r.select("td");
-      if (cols.size() < 2) continue;
-      String cat = cols.get(0).selectFirst("b").childNode(0).toString().toLowerCase();
-      String val = cols.get(1).childNode(0).toString();
-      if (cat.contains("born")) {
-        dob = val.trim();
-      }
-      else if (cat.contains("place of birth")) {
-        pob = val.trim().replaceAll(",$", "").replaceAll(",", " -");
-        Element eflag = cols.get(1).selectFirst("img");
-        if (eflag != null && eflag.hasAttr("title")) cob = eflag.attr("title");
-      } else if (cat.contains("nationality")) {
-        Element eflag = cols.get(1).selectFirst("img");
-        if (eflag != null && eflag.hasAttr("title")) nat = eflag.attr("title");
+    String cobRaw = " ";
+    String natRaw = " ";
+
+    Element profile = doc.selectFirst(".hs-profile--person");
+    Element dl = profile != null ? profile.selectFirst("dl") : null;
+    if (dl != null) {
+      Elements dts = dl.select("dt");
+      Elements dds = dl.select("dd");
+      for (int i = 0; i < dts.size() && i < dds.size(); i++) {
+        String cls = dts.get(i).className();
+        Element dd = dds.get(i);
+        if (cls.contains("person-fullname")) {
+          String v = dd.text().trim();
+          if (v.length() > 0) full = v;
+        } else if (cls.contains("person-birthday")) {
+          dob = dd.text().split("\\|")[0].trim();
+        } else if (cls.contains("birth_place")) {
+          String raw = dd.text().trim();
+          pob = raw.replaceAll(",$", "").replaceAll(",", " -");
+          int ci = raw.lastIndexOf(",");
+          cobRaw = ci >= 0 ? raw.substring(ci + 1).trim() : raw;
+        } else if (cls.contains("country-name")) {
+          Element img = dd.selectFirst("img");
+          natRaw = img != null && img.hasAttr("title") ? img.attr("title") : dd.text().trim();
+        }
       }
     }
+
     String isodob = toIso(dob);
-    String cnat = codes.getOrDefault(nat, nat);
-    String ccob = codes.getOrDefault(cob, cob);
-    System.out.println(String.format("%s,%s,%s,%s,%s,%s,%s", mnem, name, full, isodob, cnat, pob, ccob));
-  }
-
-  private static void extractBio(Document doc) {
-    Element emain = doc.selectFirst(".dataMain");
-    Element econt = doc.selectFirst(".dataContent");
-    Element edn = emain.selectFirst(".dataName");
-
-    Element esd = doc.selectFirst(".spielerdaten");
-    Element tab = esd.selectFirst("table");
-    Elements rows = tab.select("tr");
-    Element efull = findRow(rows);
-    String full = efull!=null ? efull.childNode(0).toString() : "";
-
-    Element h1 = edn.selectFirst("h1");
-    int nc = h1.childNodeSize();
-    String name  = " ";
-    if (nc > 1) {
-      Node efn = h1.childNode(0);
-      Node eln = h1.childNode(1);
-      String fn = efn.toString().replaceAll("\"", "").trim();
-      String ln = eln.childNode(0).toString().trim();
-      name = fn + " " + ln;
-    } else {
-      name = h1.childNode(0).childNode(0).toString().trim();
-    }
-    if (full.length()==0) full = name;
-
-    Element edb = econt.selectFirst(".dataBottom");
-    Element edd = edb.selectFirst(".dataDaten");
-    Elements props = edd.select("span[itemprop]");
-
-    Element edob = selectProp(props, "birthDate");
-    String dob = edob!=null ? edob.childNode(0).toString().split("\\(")[0].trim() : " ";
-    String isoDob = toIso(dob);
-
-    Element epob = selectProp(props, "birthPlace");
-    String pob = " ";
-    String lcob = " ";
-    if (epob!=null) {
-      Node npob = epob.childNode(0);
-      String spob = npob.toString();
-      if (npob.hasAttr("title")) spob = npob.attr("title");
-      pob = spob.replaceAll(",", " - ");
-      Element ep = epob.parent();
-      Element ecob = ep.selectFirst("img");
-      lcob = ecob!=null ? ecob.attr("title") : " ";
-    }
-
-    Element enat = selectProp(props, "nationality");
-    String lnat = enat!=null? enat.childNode(0).toString() : " ";
-
-    String nat = codes.values().contains(lnat) ? lnat : codes.getOrDefault(lnat, " ");
-    String cob = codes.values().contains(lcob) ? lcob : codes.getOrDefault(lcob, " ");
-
-    System.out.println(String.format("%s,%s,%s,%s,%s,%s,%s,%s",
-        mnem, name, full, isoDob, nat, pob, cob, index));
-  }
-
-  private static Element findRow(Elements rows) {
-    for (Element r : rows) {
-      Element th = r.selectFirst("th");
-      Element td = r.selectFirst("td");
-      if (th!=null && th.childNodeSize() > 0) {
-        String title = th.childNode(0).toString();
-        if (title.contains("Full name")) return td;
-        if (title.contains("Name in home country")) return td;
-      }
-    }
-    return null;
-  }
-
-  private static Element selectProp(Elements props, String t) {
-    for (Element e : props) {
-      if (e.attr("itemprop").equals(t)) return e;
-    }
-    return null;
+    String nat = codes.getOrDefault(natRaw, natRaw);
+    String cob = codes.getOrDefault(cobRaw, cobRaw);
+    System.out.println(String.format("%s,%s,%s,%s,%s,%s,%s", mnem, name, full, isodob, nat, pob, cob));
   }
 
   private static String toIso(String dob) {
-    if (dob==null) return "0000-00-00";
-
+    if (dob == null) return "0000-00-00";
     try {
       Date d = hudf.parse(dob);
       return isof.format(d);
-
     } catch (ParseException e) {
       return "0000-00-00";
     }
   }
-
 
   private static Map<String, String> loadCountryCodes(String filename) throws IOException {
     Charset charset = Charset.forName("UTF-8");

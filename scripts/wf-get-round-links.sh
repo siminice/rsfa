@@ -1,4 +1,10 @@
 #!/bin/bash
+# SUPERSEDED by wf-get-schedule.sh (which now does round discovery itself,
+# via wf-learn-seasons.sh/WfSeasons.java) as of the 2026 redesign. The old
+# "/schedule/.../-spieltag/<round>/" URL below is dead and this script is no
+# longer called from wfx-the-works.sh. Left in place in case another
+# country's pipeline still calls it, but it will not work against the new
+# site. See the write-up.
 
 LEAGUE=$1
 SEASON=$2

@@ -1,7 +1,6 @@
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
-import org.jsoup.nodes.Node;
 import org.jsoup.select.Elements;
 
 import java.io.File;
@@ -9,9 +8,26 @@ import java.io.IOException;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import static java.util.stream.Collectors.joining;
 
+/**
+ * Rewritten for the 2026 worldfootball.net redesign ("match-report"/"person"/
+ * "teams" URL scheme with te<id>/pe<id>/ve<id>/co<id> ids, and a completely
+ * different page markup). Output format (print()/serializeLineups()/
+ * serializeEvents()) and the minute bookkeeping (deductMin/getMin) are
+ * UNCHANGED from the old parser on purpose, so downstream tooling (wf-add-
+ * lineups etc.) does not need to change. Only the extraction side changed.
+ *
+ * NOTE ON MNEMONICS: team/person/venue mnemonics are now the site's stable
+ * numeric id (e.g. "te1776", "pe291835", "ve891") instead of the old name
+ * slug. The old site had no ids, only slugs, so every mnemonic produced by
+ * this version is new relative to the historical catalogs -- reconciling
+ * them is an Alias/HistoricalAlias job, not something this parser can do by
+ * itself. See the chat writeup for why this is the recommended direction.
+ */
 public class WfReport {
   static String home = " ";
   static String away = " ";
@@ -22,6 +38,7 @@ public class WfReport {
   static String round = " ";
   static String time = " ";
   static String venue = " ";
+  static String venueId = "";
   static String attend = " ";
   static List<String> evol = new ArrayList();
   static List<String> events = new ArrayList();
@@ -35,16 +52,18 @@ public class WfReport {
   static String hCoach = "      ";
   static String aCoach = "      ";
   static String referee = "      ";
+  static String refereeId = "";
   static Map<String, String> eSymbol = new HashMap();
 
-  private static SimpleDateFormat sdf = new SimpleDateFormat("EEEE, dd. MMM yyyy", Locale.US);
+  private static SimpleDateFormat sdf = new SimpleDateFormat("dd.MM.yyyy", Locale.US);
   private static SimpleDateFormat idf = new SimpleDateFormat("yyyy-MM-dd");
 
   public static void main(String args[]) {
+    try { System.setOut(new java.io.PrintStream(System.out, true, "UTF-8")); } catch (Exception e) { /* ignore */ }
     File input = new File(args[0]);
     Document doc = null;
     try {
-      doc = Jsoup.parse(input, "UTF-8", "http://worldfootball.net");
+      doc = Jsoup.parse(input, "UTF-8", "https://www.worldfootball.net");
     } catch (IOException e) {
       e.printStackTrace();
     }
@@ -52,22 +71,14 @@ public class WfReport {
   }
 
   private static void extractReport(Document doc) {
-    Element relevant = doc.selectFirst("#relevant-content");
-    Element enavi = relevant.selectFirst("#navi");
-    Element header = enavi.selectFirst(".breadcrumb");
-    Element content = relevant.selectFirst(".content");
-    Elements data = content.select(".data");
-    Elements tables = data.select("table");
-    Elements stables = data.select(".standard_tabelle");
-    extractHeader(header);
-    extractInfo(stables.get(0));
-    extractGoals(stables.get(1));
-    Element elineups = selectTable(tables,"", "", -1);
-    extractLineups(elineups);
-    Element emanagers = stables.get(stables.size()-2);
-    extractManagers(emanagers);
-    Element evenue = stables.get(stables.size()-1);
-    extractVenue(evenue);
+    Element scoreboard = doc.selectFirst(".hs-scoreboard");
+    extractHeader(scoreboard);
+    extractInfo(scoreboard);
+    extractVenueRefAttend(scoreboard);
+    Element lineupBlock = doc.selectFirst(".hs-block.hs-lineup");
+    extractSide(lineupBlock, "home", hRoster, hSubs);
+    extractSide(lineupBlock, "away", aRoster, aSubs);
+    extractManagers(lineupBlock);
     print();
   }
 
@@ -80,7 +91,7 @@ public class WfReport {
     System.out.println("Date: " + date);
     System.out.println("Round: " + round);
     System.out.println("Time: " + time);
-    System.out.println("Venue: " + venue);
+    System.out.println("Venue: " + venue + (venueId.isEmpty() ? "" : " " + venueId));
     System.out.println("Attendance: " + attend);
     System.out.println("Evolution: " + evol);
     System.out.println("Events: " + events);
@@ -91,7 +102,7 @@ public class WfReport {
     System.out.println("Guest Roster: " + aRoster);
     System.out.println("Guest Subs: " + aSubs);
     System.out.println("Guest Coach: " + aCoach);
-    System.out.println("Referee: " + referee);
+    System.out.println("Referee: " + referee + (refereeId.isEmpty() ? "" : " " + refereeId));
     System.out.println("Lineups: " + serializeLineups());
     System.out.println("Events: " + serializeEvents());
   }
@@ -145,229 +156,209 @@ public class WfReport {
     return events.stream().collect(joining(","));
   }
 
-  private static Element selectTable(Elements sections, String cl, String term, int x) {
-    List<Element> found = new ArrayList();
-    for (Element e : sections) {
-      String ec = e.className();
-      if (ec!=null && ec.equals(cl)) found.add(e);
+  // "Matchday 7 | Sat, 19.09.2026, 21:30"
+  private static void extractHeader(Element scoreboard) {
+    if (scoreboard == null) return;
+    Element eround = scoreboard.selectFirst(".hs-head--round");
+    if (eround == null) return;
+    String line = eround.text();
+    String parts[] = line.split("\\|");
+    String roundPart = parts.length > 0 ? parts[0].trim() : "";
+    Matcher rm = Pattern.compile("(\\d+)").matcher(roundPart);
+    round = rm.find() ? rm.group(1) : "-1";
+    if (parts.length > 1) {
+      String dtPart = parts[1].trim();
+      // "Sat, 19.09.2026, 21:30" -> drop the weekday, keep date + time
+      String dtParts[] = dtPart.split(",");
+      if (dtParts.length >= 3) {
+        date = toIso(dtParts[1].trim());
+        time = dtParts[2].trim();
+      } else if (dtParts.length == 2) {
+        date = toIso(dtParts[1].trim());
+      }
     }
-    if (x<0 && found.size()>0) return found.get(0);
-    if (x>=0 && found.size()>x) return found.get(x);
+  }
+
+  private static void extractInfo(Element scoreboard) {
+    if (scoreboard == null) return;
+    Element matchDiv = scoreboard.selectFirst("[data-match_id]");
+    if (matchDiv == null) return;
+    Element ehome = matchDiv.selectFirst(".team-shortname-home a[href]");
+    home = extractMnem(ehome, " ");
+    Element eaway = matchDiv.selectFirst(".team-shortname-away a[href]");
+    away = extractMnem(eaway, " ");
+    Element escore = matchDiv.selectFirst(".match-result-0");
+    if (escore != null) score = escore.text().trim();
+    Element ehalf = matchDiv.selectFirst(".match-result-intermediate .match-result-1");
+    if (ehalf != null) half = ehalf.text().trim();
+  }
+
+  private static void extractVenueRefAttend(Element scoreboard) {
+    if (scoreboard == null) return;
+    Elements entries = scoreboard.select(".hs-scoreboard-details > li");
+    for (Element li : entries) {
+      Elements spans = li.select("span");
+      if (spans.size() < 2) continue;
+      String label = spans.get(0).text().trim();
+      Element valueSpan = spans.get(1);
+      if (label.equalsIgnoreCase("Stadium")) {
+        Element a = valueSpan.selectFirst("a[href]");
+        venue = extractMnem(a, " ");
+        venueId = extractId(a, "");
+      } else if (label.equalsIgnoreCase("Attendance")) {
+        attend = valueSpan.text().trim().replaceAll(",", "").replaceAll("\\.", "");
+      } else if (label.equalsIgnoreCase("Referee")) {
+        Element a = valueSpan.selectFirst("a[href]");
+        referee = extractMnem(a, "      ");
+        refereeId = extractId(a, "");
+      }
+    }
+  }
+
+  // side is "home" or "away"
+  private static void extractSide(Element lineupBlock, String side, List<String> roster, List<String> subs) {
+    if (lineupBlock == null) return;
+    Element starter = selectBySideClass(lineupBlock, "hs-lineup--starter", side);
+    if (starter != null) {
+      for (Element row : starter.select(".event.playing.lineup")) {
+        String mnem = rowMnem(row);
+        if (mnem == null) continue;
+        roster.add(mnem);
+        applyRowEvents(row, mnem, false);
+      }
+    }
+    Element bench = selectBySideClass(lineupBlock, "hs-lineup--bench", side);
+    if (bench != null) {
+      for (Element row : bench.select(".event.playing.bench")) {
+        String mnem = rowMnem(row);
+        if (mnem == null) continue;
+        subs.add(mnem);
+        applyRowEvents(row, mnem, true);
+      }
+    }
+  }
+
+  private static Element selectBySideClass(Element root, String baseClass, String side) {
+    for (Element e : root.select("." + baseClass)) {
+      if (e.hasClass(side)) return e;
+    }
     return null;
   }
 
-  private static void extractHeader(Element header) {
-    Element eline = header.selectFirst("h1");
-    String line = eline.childNode(0).toString();
-    String parts[] = line.split("»");
-    int j = 2;
-    for (int i=0; i<parts.length; i++) if (parts[i].contains("Round")) j=i;
-    String pround = parts.length > j ? parts[j].trim() : "-1. Round";
-    round = pround.split("\\.")[0];
+  private static String rowMnem(Element row) {
+    Element a = row.selectFirst(".person-name a[href]");
+    return a != null ? extractMnem(a, null) : null;
   }
 
-  private static void extractInfo(Element e) {
-    if (e == null) return;
-    Elements rows = e.select("tr");
-    if (rows.size() < 2) return;
-    Elements hcols = rows.get(0).select("th");
-    Elements tcols = rows.get(1).select("td");
-    if (tcols.size() < 3 || hcols.size() < 3) return;
-    Element ehome = tcols.get(0).selectFirst("a[href]");
-    home = extractLink(ehome, " ", -1, 0);
-    Element eaway = tcols.get(2).selectFirst("a[href]");
-    away = extractLink(eaway, " ", -1, 0);
-    Element edate = hcols.get(1);
-    String fdate = edate.childNodeSize() > 0 ? edate.childNode(0).toString().trim() : "0000-00-00";
-    String ftime = edate.childNodeSize() > 2 ? edate.childNode(2).toString().trim() : "00:00";
-    time = ftime.split(" ")[0];
-    date = toIso(fdate);
-    Element escore = tcols.get(1).selectFirst(".resultat");
-    score = escore.childNode(0).toString().trim();
-  }
-
-  private static void extractLineups(Element elineups) {
-    if (elineups==null) return;
-    boolean ihs = false;
-    boolean ias = false;
-    Element b = elineups.selectFirst("tr");
-    Elements cols = b.select(".standard_tabelle");
-    if (cols.size() < 1) return;
-    Elements hrows = cols.get(0).select("tr");
-    for (Element e : hrows) {
-      Element hplink = e.selectFirst("a[href]");
-      if (hplink!=null) {
-        String hlink = extractLink(hplink, " ", -1, 0);
-        if (hlink.length() > 1) {
-          int m = extractMins(e);
-          if (ihs) {
-            hSubs.add(hlink);
-            if (m > 0) min.put(hlink, 91-m);
-          } else {
-            hRoster.add(hlink);
-            if (m > 0) deductMin(hlink, m);
-          }
+  // Looks at the (up to 3) ".match_event" slots on a lineup row and updates
+  // events/min bookkeeping exactly like the old addEvents()/extractMins() did.
+  private static void applyRowEvents(Element row, String mnem, boolean isBench) {
+    for (Element slot : row.select(".match_event")) {
+      Element inner = slot.children().isEmpty() ? null : slot.children().first();
+      if (inner == null) continue;
+      String cls = " " + inner.className() + " ";
+      int m = parseMinute(inner.text());
+      if (cls.contains(" goal ")) {
+        boolean isPen = cls.contains(" penalty ");
+        boolean isOwn = cls.contains(" own ") || cls.contains("own-goal");
+        if (isOwn) {
+          events.add(String.format("%s`%d", mnem, m));
+        } else if (isPen) {
+          events.add(String.format("%s\"%d", mnem, m));
+        } else {
+          events.add(String.format("%s'%d", mnem, m));
         }
-        addEvents(e, hlink);
-      } else ihs = true;
-    }
-    Elements arows = cols.size()>1 ? cols.get(1).select("tr") : new Elements();
-    for (Element e : arows) {
-      Element aplink = e.selectFirst("a[href]");
-      if (aplink!=null) {
-        String alink = extractLink(aplink, " ", -1, 0);
-        if (alink.length() > 1) {
-          int m = extractMins(e);
-          if (ias) {
-            aSubs.add(alink);
-            if (m > 0) min.put(alink, 91-m);
-          } else {
-            aRoster.add(alink);
-            if (m > 0) deductMin(alink, m);
-          }
+      } else if (cls.contains(" card ")) {
+        if (cls.contains(" red ") || cls.contains("second-yellow")) {
+          events.add(String.format("%s!%d", mnem, m));
+          deductMin(mnem, m);
+        } else {
+          events.add(String.format("%s#%d", mnem, m));
         }
-        addEvents(e, alink);
-      } else ias = true;
-    }
-  }
-
-  private static int extractMins(Element e) {
-    int m = 0;
-    int min = 0;
-    int mout = 91;
-    Elements cols = e.select("td");
-    Element emc = cols.size() > 2 ? cols.get(2).selectFirst(".kleine_schrift") : null;
-    if (emc != null && emc.childNodeSize() > 0) {
-      Element ein = emc.selectFirst(".gruentext");
-      Element eout = emc.selectFirst(".rottext");
-      if (ein!=null) {
-        String sm = ein.childNode(0).toString().replaceAll("'", "");
-        min = Integer.valueOf(sm);
-        m = min;
-      }
-      if (eout!=null) {
-        String sm = eout.childNode(0).toString().replaceAll("'", "");
-        mout = Integer.valueOf(sm);
-        m = min > 0 ? min + (91 - mout) : mout;
-      }
-    }
-    return m;
-  }
-
-  private static void addEvents(Element e, String plink) {
-    if (e==null) return;
-    Elements imgs = e.select("img");
-    for (Element i : imgs) {
-      String t = i.attr("title");
-      String a = i.attr("alt");
-      if (t.equals("Yellow card") || a.equals("yellow")) {
-        Element em = i.nextElementSibling();
-        String sm = em!=null && em.childNodeSize() > 0 ?
-            em.childNode(0).toString().replaceAll("'","") : "91";
-        events.add(String.format("%s#%s", plink, sm));
-      } else if (t.equals("Red card") || a.equals("red")
-              || t.equals("Second yellow card") || a.equals("Second yellow")) {
-        Element em = i.nextElementSibling();
-        String sm = em!=null && em.childNodeSize() > 0 ?
-            em.childNode(0).toString().replaceAll("'","") : "91";
-        events.add(String.format("%s!%s", plink, sm));
-        Integer m = Integer.valueOf(sm);
-        deductMin(plink, m);
+      } else if (cls.contains(" playing ")) {
+        if (cls.contains("substitute-out")) {
+          deductMin(mnem, m);
+        } else if (cls.contains("substitute-in")) {
+          min.put(mnem, 91 - m);
+        }
       }
     }
   }
 
-  private static void extractGoals(Element e) {
-    if (e==null) return;
-    Elements rows = e.select("tr");
-    for (Element r : rows) {
-      Elements cols = r.select("td");
-      if (cols.size() != 2) continue;
-      Element scorer = cols.get(1);
-      Element plink = scorer.selectFirst("a[href]");
-      String pl = extractLink(plink, " ", -1, 0);
-      String scm = scorer.childNodeSize() > 2 ?
-          scorer.childNode(2).toString().trim().replaceAll("\\.", "") : "0";
-      String parts[] = scm.split("/|\\(| ");
-      String sm = parts[0].replaceAll("\\.", "").trim();
-      boolean isOwn = false;
-      boolean isPen = false;
-      if (parts.length > 1) {
-        isPen = parts[1].toLowerCase().contains("penalty");
-        isOwn = parts[1].toLowerCase().contains("own");
+  // "54." -> 54 ; "90.+4" -> 94 ; "" -> 90 (fallback)
+  private static int parseMinute(String s) {
+    if (s == null) return 90;
+    String t = s.trim().replaceAll("\\.", "");
+    if (t.length() == 0) return 90;
+    try {
+      if (t.contains("+")) {
+        String parts[] = t.split("\\+");
+        int base = Integer.parseInt(parts[0].trim());
+        int extra = parts.length > 1 && parts[1].trim().length() > 0 ? Integer.parseInt(parts[1].trim()) : 0;
+        return base + extra;
       }
-      if (isOwn) {
-        events.add(String.format("%s`%s", pl, sm));
-      } else if (isPen) {
-        events.add(String.format("%s\"%s", pl, sm));
-      } else {
-        events.add(String.format("%s'%s", pl, sm));
-      }
+      return Integer.parseInt(t);
+    } catch (NumberFormatException e) {
+      return 90;
     }
   }
 
-  private static void extractManagers(Element e) {
-    if (e==null) return;
-    Elements rows = e.select("tr");
-    if (rows.size() < 1) return;
-    Elements cols = rows.get(0).select("td");
-    Element clink;
-    if (cols.size() < 2) cols = rows.get(0).select("th");
-    if (cols.size() > 0) {
-      Elements pars = cols.get(0).select("p");
-      if (pars.size()>0) {
-        clink = pars.get(0).selectFirst("a[href]");
-      } else {
-        clink = cols.get(0).selectFirst("a[href]");
-      }
-      hCoach = extractLink(clink, "      ", -1, 0);
-    }
-    if (cols.size() > 1) {
-      Elements pars = cols.get(1).select("p");
-      if (pars.size()>0) {
-        clink = pars.get(0).selectFirst("a[href]");
-      } else {
-        clink = cols.get(1).selectFirst("a[href]");
-      }
-      aCoach = extractLink(clink, "      ", -1, 0);
-    }
+  private static void extractManagers(Element lineupBlock) {
+    if (lineupBlock == null) return;
+    hCoach = extractManager(lineupBlock, "home");
+    aCoach = extractManager(lineupBlock, "away");
   }
 
-  private static void extractVenue(Element e) {
-    if (e==null) return;
-    Elements rows = e.select("tr");
-    for (Element r : rows) {
-      Elements cols = r.select("td");
-      if (cols.size() <3) continue;
-      Element mid = cols.get(1);
-      Element eimg = mid.selectFirst("img");
-      if (eimg == null) continue;
-      String png = eimg.attr("src");
-      String tit = eimg.absUrl("title");
-      if (png.contains("stadion.png") || tit.contains("tadium")) {
-        Element estad = cols.get(2).selectFirst("a[href]");
-        venue = extractLink(estad, " ", -1, 0);
-      } else if (png.contains("schiedsrichter.png") || tit.equals("Referee")) {
-        Element eref = cols.get(2).selectFirst("a[href]");
-        referee = extractLink(eref, "      ", -1, 0);
-      } else if (png.contains("zuschauer.png") || tit.contains("ttendance")) {
-        attend = cols.get(2).childNode(0).toString().trim()
-            .replaceAll(",", "").replaceAll("\\.", "");
+  private static String extractManager(Element lineupBlock, String side) {
+    Element coaches = selectBySideClass(lineupBlock, "hs-lineup--coaches", side);
+    if (coaches == null) return "      ";
+    Elements children = coaches.children();
+    for (int i = 0; i < children.size(); i++) {
+      Element c = children.get(i);
+      if (c.hasClass("role") && c.text().trim().equalsIgnoreCase("Manager")) {
+        if (i + 1 < children.size()) {
+          Element a = children.get(i + 1).selectFirst(".person-name a[href]");
+          return extractMnem(a, "      ");
+        }
       }
     }
+    return "      ";
   }
 
-  private static String extractLink(Element n, String def, int start, int end) {
-    if (n==null) return def;
-    String link = n.attr("href");
-    List<String> parts = Arrays.asList(link.split("/"));
-    int np = parts.size();
-    if (start < 0) {
-      return parts.subList(np + start, np + end).stream().collect(joining("/"));
-    }
-    else {
-      return parts.subList(start, end).stream().collect(joining("/"));
-    }
+  // The trailing path segment is still the name slug (e.g.
+  // "teams/te1776/sporting-cp/" -> "sporting-cp"), same as the old
+  // "/teams/sporting-cp/" scheme's last segment. Kept as the mnem on
+  // purpose: cplayers.dat/teams.dat and the lineups/src/*.cc catalog
+  // matchers are keyed off this slug, not the new numeric id, so matching
+  // this is what keeps this parser's output compatible with the existing
+  // catalogs without touching the C++ layer. The id segment (second-to-
+  // last) is available too if a future catalog column wants it.
+  private static String extractMnem(Element link, String def) {
+    if (link == null) return def;
+    String href = link.attr("href");
+    List<String> segs = new ArrayList<>();
+    for (String p : href.split("/")) if (p.length() > 0) segs.add(p);
+    if (segs.size() < 1) return def;
+    return segs.get(segs.size() - 1);
+  }
+
+  // The second-to-last path segment is the site's new stable numeric id
+  // (e.g. "/stadiums/ve891/estadio-jose-alvalade/" -> "ve891"). This is NOT
+  // used as a catalog mnemonic anywhere (that stays the slug, see
+  // extractMnem above) -- it exists purely so a bash step that finds a
+  // venue/referee slug not yet in the stadium/referee catalog can build the
+  // "/person/<id>/<slug>/" or "/stadiums/<id>/<slug>/" fetch URL for a brand
+  // new entry without having to re-derive the id some other way. Appended
+  // to the human-readable Venue:/Referee: print() lines only -- never to
+  // serializeLineups()'s CSV, so wfx-add-lineups.cc's line-position-based
+  // parsing of the "Lineups:"/"Events:" lines is untouched.
+  private static String extractId(Element link, String def) {
+    if (link == null) return def;
+    String href = link.attr("href");
+    List<String> segs = new ArrayList<>();
+    for (String p : href.split("/")) if (p.length() > 0) segs.add(p);
+    if (segs.size() < 2) return def;
+    return segs.get(segs.size() - 2);
   }
 
   private static void deductMin(String name, int minsub) {

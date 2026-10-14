@@ -1,8 +1,12 @@
 #!/bin/bash
+# Rewritten for the 2026 redesign: the old "venue" link grep against raw
+# match-report HTML is dead. The venue's slug is already sitting in the
+# "Venue: <slug> <id>" line every processed report prints (WfReport.java),
+# so this reads that instead.
 
 YEAR=$1
 
-grep venue tmp/${YEAR}/r/*.html | cut -d '"' -f 6 | grep venue | sort | uniq | cut -d '/' -f 3 | tee cps
+grep -h "^Venue: " tmp/${YEAR}/r/*.html.dat | sed 's/^Venue: //' | awk '{print $1}' | sort -u | tee cps
 
 while read s
 do
